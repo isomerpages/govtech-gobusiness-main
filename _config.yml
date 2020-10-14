@@ -1,0 +1,36 @@
+title: Title
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/favicon-isomer.ico
+
+collections:
+  left-nav-one:
+    output: true
+  left-nav-two:
+    output: true
+resources_name: resource-room
+
+##################################################################################################################
+# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
+##################################################################################################################
+permalink: none
+baseurl: ""
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+include: [_redirects]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+description: test test
+

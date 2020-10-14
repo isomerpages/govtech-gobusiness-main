@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Faq
+    url: /faq/
+  - title: Privacy Statement
+    url: /privacy-statement/
+  - title: Terms Of Use
+    url: /terms-of-use/
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Left Nav One
+    collection: left-nav-one
+  - title: Left Nav Two
+    collection: left-nav-two
+  - title: Resource Room
+    resource_room: true
