@@ -1,10 +1,38 @@
-contact_us: /contact-us/
-show_reach: true
-feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
 faq: /faq/
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+contact_us: /contact-us/
+copyright_agency: GoBusiness
+privacy_policy: /privacy/
+terms_of_use: /terms-of-use/
+
+navlinks:
+  - title: Our Services
+  #  url: /gov-assist/
+    sublinks:
+      - title: Gov Assist
+        url: https://govassist.gobusiness.gov.sg/gov-assist/
+      - title: Licensing
+        url: https://www.gobusiness.gov.sg/licences
+      - title: COVID-19
+        url: https://covid.gobusiness.gov.sg/
+  - title: Start A Business
+  #  url: /gov-assist/
+  - title: Run and Grow a Business
+  #  url: /gov-assist/
+    sublinks:
+      - title: Overview
+        url: /gov-assist/
+      - title: e-Adviser for Government Assistance
+        url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
+      - title: Types of Assistance
+        url: /gov-assist/#search-by-assistance-type
+      - title: COVID-19 Support
+        url: /supportschemes/general
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+  - title: Government E-Services
+  #  url: 
+    sublinks:
+      - title: Procurement Opportunities (GeBIZ Alerts)
+        url: /gebiz-alerts/
+  - title: About Us
+  #  url: /faq/

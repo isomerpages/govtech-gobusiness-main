@@ -7,20 +7,41 @@
 logo: /images/Gobiz_logo_SG.svg
 
 links:
+  - title: Our Services
+  #  url: /gov-assist/
+    sublinks:
+      - title: Gov Assist
+        url: https://govassist.gobusiness.gov.sg/gov-assist/
+      - title: Licensing
+        url: https://www.gobusiness.gov.sg/licences
+      - title: COVID-19
+        url: https://covid.gobusiness.gov.sg/
+  - title: Start A Business
+  #  url: /gov-assist/
+  - title: Run and Grow a Business
+  #  url: /gov-assist/
+    sublinks:
+      - title: Overview
+        url: /gov-assist/
+      - title: e-Adviser for Government Assistance
+        url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
+      - title: Types of Assistance
+        url: /gov-assist/#search-by-assistance-type
+      - title: COVID-19 Support
+        url: /supportschemes/general
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+  - title: Government E-Services
+  #  url: 
+    sublinks:
+      - title: Procurement Opportunities (GeBIZ Alerts)
+        url: /gebiz-alerts/
+  - title: About Us
+  #  url: /faq/
+  #  sublinks:
+  #    - title: FAQ
+  #      url: /faq/
+  #    - title: 经常问的问题
+  #      url: /faq/chinese/
   - title: Contact Us
     url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Privacy Statement
-    url: /privacy-statement/
-  - title: Terms Of Use
-    url: /terms-of-use/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
-  - title: Resource Room
-    resource_room: true
-
