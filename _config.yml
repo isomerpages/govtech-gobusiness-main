@@ -1,6 +1,6 @@
-title: GoBusiness Gov Assist
-url: "https://govassist.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /images/Gobiz_GA_logo.svg
+title: GoBusiness Singapore
+url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
 collections:
   gov-assist:

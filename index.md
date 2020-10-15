@@ -4,7 +4,7 @@ title: GoBusiness Singapore
 description: For Singapore Businesses
 image: /images/
 permalink: /
-# notification: <strong>COVID-19 Government Assistance for Businesses:</strong> Click <a href="/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
+notification: <strong>COVID-19 Government Assistance for Businesses:</strong> Click <a href="/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
 sections:
     - hero:
         title: Make business easier
@@ -22,7 +22,7 @@ sections:
         - title: Productivity Solutions Grant Listing
           url: 
           description: View the list of Supportable IT solutions and Equipment
-	- title: Licensing
+	      - title: Licensing
           url: 
           description: Get the licenses you need for your business activities
     - infobar:
