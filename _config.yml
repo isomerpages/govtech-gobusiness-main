@@ -11,6 +11,10 @@ collections:
     output: true
   other-resources:
     output: true
+  left-nav-one:
+    output: true
+  left-nav-two:
+    output: true
 resources_name: news
 
 
