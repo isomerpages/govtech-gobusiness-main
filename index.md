@@ -25,6 +25,12 @@ sections:
         - title: Licensing
           url: https://www.gobusiness.gov.sg/licences
           description: Get the licences you need for your business activities
+    - carousel:
+        - title: Initiative A
+          subtitle: services
+          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
+          image: /images/hero-banner.png
+          alt: Employees taking part in Initiative A
     - infobar:
         title: Infobar title
         subtitle: Subtitle
