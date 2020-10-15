@@ -25,7 +25,7 @@ sections:
 	      - title: Licensing
           url: https://www.gobusiness.gov.sg/licences
           description: Get the licenses you need for your business activities
-    - infobar:
+	  - infobar:
         title: List of Government Assistance
         subtitle: 
         description: The Singapore Government offers a range of assistance schemes to help businesses grow and succeed.<br/>Look for a tax incentive, loan, grant, or programme here.
