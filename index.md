@@ -4,12 +4,12 @@ title: GoBusiness Singapore
 description: For Singapore Businesses
 image: /images/Gobiz_logo_SG.svg
 permalink: /
-notification: GoBusiness Singapore is going live!
+notification: GoBusiness Singapore is going live soon!
 sections:
     - hero:
         title: Make business easier
         subtitle: Bringing government businesses services and information into one place.
-        background: /images/hero-banner.png
+        background: /images/govassist-hero-banner.jpg
         button: Login
         url: https://www.google.com
         key_highlights:
