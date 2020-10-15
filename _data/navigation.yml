@@ -4,22 +4,44 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/Gobiz_GA_logo.svg
+
 
 links:
+  - title: Our Services
+  #  url: /gov-assist/
+    sublinks:
+      - title: GoBusiness Licensing
+        url: https://www.gobusiness.gov.sg/licences
+      - title: GoBusiness COVID-19
+        url: https://covid.gobusiness.gov.sg/
+  - title: Government Assistance
+    url: /gov-assist/
+    sublinks:
+      - title: Overview
+        url: /gov-assist/
+      - title: e-Adviser for Government Assistance
+        url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
+      - title: Types of Assistance
+     #   url: /gov-assist/tax-incentives/
+        url: /gov-assist/#search-by-assistance-type
+      - title: COVID-19 Support
+        url: /supportschemes/general
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+     # - title: Procurement Opportunities (GeBIZ Alerts)
+     #   url: /gebiz-alerts/
+  - title: Other Resources
+  #  url: 
+    sublinks:
+      - title: Procurement Opportunities (GeBIZ Alerts)
+        url: /gebiz-alerts/
+  - title: FAQ
+    url: /faq/
+  #  sublinks:
+  #    - title: FAQ
+  #      url: /faq/
+  #    - title: 经常问的问题
+  #      url: /faq/chinese/
   - title: Contact Us
     url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Privacy Statement
-    url: /privacy-statement/
-  - title: Terms Of Use
-    url: /terms-of-use/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
-  - title: Resource Room
-    resource_room: true

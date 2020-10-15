@@ -1,35 +1,40 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: GoBusiness Singapore
+description: For Singapore Businesses
+image: /images/
 permalink: /
-notification: Here's a notification bar you can use!
+# notification: <strong>COVID-19 Government Assistance for Businesses:</strong> Click <a href="/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Make business easier
+        subtitle: Bringing government businesses services and information into one place.
+        background: /images/govassist-hero-banner.jpg/
+        button: Login
+        url: 
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+        - title: Start a Business
+          url: 
+          description: Get an overview of what you need to start a business in Singapore
+        - title: E-adviser
+          url: 
+          description: Find relevant Government assistance schemes for your business needs
+        - title: Productivity Solutions Grant Listing
+          url: 
+          description: View the list of Supportable IT solutions and Equipment
+	- title: Licensing
+          url: 
+          description: Get the licenses you need for your business activities
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: e-Adviser Feedback
+        subtitle: 
+        description: We welcome your views on the e-Adviser! Kindly fill up the feedback form to share your experience in using the e-Adviser.<br/>To help us improve, do furnish us with as much detail as possible. We appreciate your time and feedback!<br/><a href="https://go.gov.sg/8qhbco" rel="noreferrer" target="_blank" class="bp-sec-button margin--top padding--bottom"><u> Share Feedback on e-Adviser</u> <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></a><br/><p style="color:#037e8a;">Have not tried the e-Adviser? Get Started here.</p>The e-Adviser is a free online tool to help businesses in finding relevant assistance schemes via a series of questions.
+        button: Get Started with e-Adviser
+        url: 
+    - infobar:
+        title: List of Government Assistance
+        subtitle: 
+        description: The Singapore Government offers a range of assistance schemes to help businesses grow and succeed.<br/>Look for a tax incentive, loan, grant, or programme here.
+        button: View by Assistance Type
+        url: 
 ---

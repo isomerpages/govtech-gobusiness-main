@@ -1,13 +1,19 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
+title: GoBusiness Gov Assist
+url: "https://govassist.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/Gobiz_GA_logo.svg
+favicon: /images/Gobiz_favicon.ico
 collections:
-  left-nav-one:
+  gov-assist:
     output: true
-  left-nav-two:
+  productivity-solutions-grant:
     output: true
-resources_name: resource-room
+  supportschemes:
+    output: true
+  other-resources:
+    output: true
+# google_analytics:
+resources_name: news
+
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
