@@ -11,7 +11,6 @@ collections:
     output: true
   other-resources:
     output: true
-# google_analytics:
 resources_name: news
 
 
