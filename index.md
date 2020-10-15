@@ -8,7 +8,7 @@ notification: GoBusiness Singapore is going live soon!
 sections:
     - hero:
         title: Make business easier
-        subtitle: Bringing government businesses services and information into one place.
+        subtitle: Bringing government businesses services and information into one place, so it's easier to access a range of support options and understand the government requirements to start or grow a business in Singapore.
         background: /images/govassist-hero-banner.jpg
         button: Login
         url: https://www.google.com
@@ -22,6 +22,9 @@ sections:
         - title: Productivity Solutions Grant Listing
           url: https://govassist.gobusiness.gov.sg/productivity-solutions-grant/#supportable-solutions
           description: View the list of Supportable IT solutions and Equipment
+        - title: Licensing
+          url: https://www.gobusiness.gov.sg/licences
+          description: Get the licences you need for your business activities
     - infobar:
         title: Infobar title
         subtitle: Subtitle
