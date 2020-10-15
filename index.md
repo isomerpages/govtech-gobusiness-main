@@ -22,13 +22,14 @@ sections:
         - title: Productivity Solutions Grant Listing
           url: https://govassist.gobusiness.gov.sg/productivity-solutions-grant/#supportable-solutions
           description: View the list of Supportable IT solutions and Equipment
-	      - title: Licensing
-          url: https://www.gobusiness.gov.sg/licences
-          description: Get the licenses you need for your business activities
-	  - infobar:
-        title: List of Government Assistance
-        subtitle: 
-        description: The Singapore Government offers a range of assistance schemes to help businesses grow and succeed.<br/>Look for a tax incentive, loan, grant, or programme here.
-        button: View by Assistance Type
-        url: https://govassist.gobusiness.gov.sg/gov-assist/#search-by-assistance-type
+    - infobar:
+        title: Infobar title
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: Button text
+        url: /faq/
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
 ---
