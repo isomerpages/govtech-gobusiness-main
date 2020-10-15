@@ -4,17 +4,17 @@ title: GoBusiness Singapore
 description: For Singapore Businesses
 image: /images/Gobiz_logo_SG.svg
 permalink: /
-notification: <strong>COVID-19 Government Assistance for Businesses:</strong> Click <a href="/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
+notification: GoBusiness Singapore is going live!
 sections:
     - hero:
         title: Make business easier
         subtitle: Bringing government businesses services and information into one place.
         background: /images/hero-banner.png
         button: Login
-        url: https://www.google.com.sg/
+        url: https://www.google.com
         key_highlights:
         - title: Start a Business
-          url: https://www.google.com.sg/
+          url: https://www.google.com
           description: Get an overview of what you need to start a business in Singapore
         - title: E-adviser
           url: https://ea-staging.l1t.molb.gov.sg/
