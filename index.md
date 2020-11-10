@@ -10,8 +10,27 @@ sections:
         title: Make business easier
         subtitle: Bringing government businesses services and information into one place, so it's easier to access a range of support options and understand the government requirements to start or grow a business in Singapore.
         background: /images/gobiz_sample_image.jpg
-        button: Login
-        url: https://www.google.com
+        #button: Login
+        #url: https://www.google.com
+        dropdown:
+            title: I Want To...
+            options:
+              - title: Login with SingPass
+                url: https://www.google.com
+              - title: Login with CorpPass
+                url: https://www.google.com
+              - title: Start a business
+                url: /start-a-business/
+              - title: Run and Grow a business
+                url: https://www.google.com
+              #- title: Sell an HDB Flat
+              #  url: /government-services/sell-hdb/
+              #- title: Move Into An HDB Flat
+              #  url: /government-services/move-in/
+              #- title: Plan for Retirement
+              #  url: /government-services/retirement/
+              #- title: Plan my Legacy
+              #  url: /government-services/plan-legacy/overview/
         key_highlights:
         - title: Start a Business
           url: /start-a-business/
