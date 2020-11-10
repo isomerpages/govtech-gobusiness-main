@@ -14,7 +14,7 @@ sections:
         url: https://www.google.com
         key_highlights:
         - title: Start a Business
-          url: https://www.google.com
+          url: /start-a-business/
           description: Get an overview of what you need to start a business in Singapore
         - title: E-adviser
           url: https://ea-staging.l1t.molb.gov.sg/
