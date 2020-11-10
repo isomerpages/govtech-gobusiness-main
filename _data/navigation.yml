@@ -17,7 +17,7 @@ links:
       - title: COVID-19
         url: https://covid.gobusiness.gov.sg/
   - title: Start A Business
-  #  url: /gov-assist/
+    url: /start-a-business/
   - title: Run and Grow a Business
   #  url: /gov-assist/
     sublinks:
