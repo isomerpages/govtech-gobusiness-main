@@ -1,5 +1,5 @@
 ---
-title: Choose a business structure
+title: Step 2 - Choose a business structure
 permalink: /start-a-business/choose-a-business-structure/
 third_nav_title: Key steps to start
 ---

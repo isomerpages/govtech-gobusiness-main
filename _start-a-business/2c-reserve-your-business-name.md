@@ -1,5 +1,5 @@
 ---
-title: Reserve your business name
+title: Step 3 - Reserve your business name
 permalink: /start-a-business/reserve-your-business-name/
 third_nav_title: Key steps to start
 ---
