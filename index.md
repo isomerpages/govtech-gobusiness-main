@@ -15,9 +15,9 @@ sections:
         dropdown:
             title: I Want To...
             options:
-              - title: Login with SingPass
+              - title: Login with SingPass as an Individual
                 url: https://www.google.com
-              - title: Login with CorpPass
+              - title: Login with CorpPass as a Company
                 url: https://www.google.com
               - title: Start a business
                 url: /start-a-business/
