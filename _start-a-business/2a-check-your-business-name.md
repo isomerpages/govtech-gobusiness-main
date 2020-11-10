@@ -1,5 +1,5 @@
 ---
-title: Check your business name
+title: 1. Check your business name
 permalink: /start-a-business/check-your-business-name/
 third_nav_title: Key steps to start
 ---
