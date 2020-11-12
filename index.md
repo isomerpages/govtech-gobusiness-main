@@ -45,11 +45,16 @@ sections:
           url: https://www.gobusiness.gov.sg/licences
           description: Get the licences you need for your business activities
     - carousel:
-        - title: Initiative A
-          subtitle: services
-          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-          image: /images/hero-banner.png
-          alt: Employees taking part in Initiative A
+        - title: GoBusiness Licensing
+          subtitle: Run and Grow
+          description: Create your very own application journey for your business. It tells you which licences you’ll need and maps out the order in which to apply for them. No more confusion when you have a step-by-step plan — now, your business is off to a smooth start.
+          image: /images/GBL-FnB.png
+          alt: GoBusiness Licensing Guided Journey
+        - title: Business Grants Portal
+          subtitle: Run and Grow
+          description: Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency.
+          image: /images/BGP.png
+          alt: Business Grants Portal
         - title: GoBusiness Licensing
           subtitle: Guided Journey
           description: Create your very own application journey for your business. It tells you which licences you’ll need and maps out the order in which to apply for them. No more confusion when you have a step-by-step plan — now, your business is off to a smooth start.
