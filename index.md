@@ -68,6 +68,13 @@ sections:
           here.
         image: /images/covid-19.jpg
         alt: Covid-19 Support
+  - infopic:
+      title: Run and Grow
+      subtitle: List of Government Assistance
+      button: View by Assistance Type
+      url: /govassist/
+      image: /images/govassist-hero-banner.jpg
+      alt: Gov Assist
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -78,11 +85,4 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
-  - infopic:
-      title: Run and Grow
-      subtitle: List of Government Assistance
-      button: View by Assistance Type
-      url: /govassist/
-      image: /images/govassist-hero-banner.jpg
-      alt: Gov Assist
 ---
