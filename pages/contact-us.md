@@ -10,7 +10,7 @@ locations:
         - Big Bird Building
         - Singapore 123456
     operating_hours:
-      - days: Mon - Fri
+      - days: Mon - Fri - Sat
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
