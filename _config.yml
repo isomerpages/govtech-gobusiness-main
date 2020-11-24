@@ -7,6 +7,8 @@ collections:
     output: true
   start-a-business:
     output: true
+  supportschemes:
+    output: true  
   left-nav-two:
     output: true
 resources_name: resource-room
