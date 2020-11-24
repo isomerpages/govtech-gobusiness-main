@@ -54,19 +54,35 @@ sections:
         image: /images/covid-19.jpg
         alt: Covid-19 Support
   - infopic:
+      title: Starting a Business in Singapore
+      subtitle: Start a Business
+      description: If you are starting a business in Singapore, read on to find out what you can do to start off on the right footing, and also safeguard your investment in the future.
+      button: Find Out More
+      url: /start-a-business/
+      image: /images/hero-banner.jpg
+      alt: Start a Business
+  - infopic:
       title: List of Government Assistance
       subtitle: Run and Grow
       description: The Singapore Government offers a range of assistance schemes to help businesses grow and succeed. Look for a tax incentive, loan, grant, or programme here.
       button: View by Assistance Type
       url: /govassist/
       image: /images/govassist-hero-banner.jpg
-      alt: Gov Assist
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      alt: Gov Assist    
+  - infopic:
+      title: Support Schemes for Businesses
+      subtitle: Covid-19 Support
+      description: COVID-19 has accelerated into a global pandemic. The global economy has been hit and Singapore Businesses are affected. Look for government assistance your business can obtain during this pandemic here.
+      button: Find Out More
+      url: /supportschemes/general
+      image: /images/helpinghands.jpg
+      alt: Covid-19 Support
+  #- infobar:
+  #    title: Infobar title
+  #    subtitle: Subtitle
+  #    description: About a sentence worth of description here
+  #    button: Button text
+  #    url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
