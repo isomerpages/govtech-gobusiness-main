@@ -1,0 +1,56 @@
+<style>
+    .panels {
+        display: grid;
+        grid-gap: 26px;
+        grid-template-columns: 50% 50%;
+    }
+
+    .panel {
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        padding: 23px;
+    }
+
+    .panel-title {
+        font-family: "HK Nova", sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .panel-description {
+        font-family: "HK Nova", sans-serif;
+        font-size: 16px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 24px !important;
+    }
+
+    .panel-link {
+        font-family: "HK Nova", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: 20px;
+        color: #037e8a !important;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .panels {
+            grid-template-columns: 100%;
+        }
+    }
+
+</style>
+<div class="panels">
+
+    {% for panel in include.panels %}
+    <div class="panel">
+        <span class="panel-title">{{ panel.title }}</span>
+        <p class="panel-description">{{ panel.description }}</p>
+        <!-- description to change the style -->
+        <a class="panel-link" href="{{ panel.link }}">Find Out More</a>
+    </div>
+    {% endfor %}
+
+</div>
