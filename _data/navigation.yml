@@ -19,18 +19,18 @@ links:
   - title: Start A Business
     url: /start-a-business/
   - title: Run and Grow a Business
-  #  url: /gov-assist/
+    # url: /run-and-grow/
     sublinks:
       - title: Overview
-        url: /gov-assist/
-      - title: e-Adviser for Government Assistance
-        url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
-      - title: Types of Assistance
-        url: /gov-assist/#search-by-assistance-type
-      - title: COVID-19 Support
-        url: /supportschemes/general
-      - title: Business Grants Portal
-        url: /business-grants-portal/
+        url: /run-and-grow/
+    #  - title: e-Adviser for Government Assistance
+    #    url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
+    #  - title: Types of Assistance
+    #    url: /gov-assist/#search-by-assistance-type
+    #  - title: COVID-19 Support
+    #    url: /supportschemes/general
+    #  - title: Business Grants Portal
+    #    url: /business-grants-portal/
   - title: Government E-Services
   #  url: 
     sublinks:
