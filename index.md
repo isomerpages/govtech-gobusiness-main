@@ -22,7 +22,7 @@ sections:
           - title: Start a business
             url: /start-a-business/
           - title: Run and Grow a business
-            url: 'https://www.google.com'
+            url: /run-and-grow/
       key_highlights:
         - title: Start a Business
           url: /start-a-business/
