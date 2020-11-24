@@ -3,14 +3,14 @@ url: "https://gobusiness.gov.sg" # the base hostname & protocol for your site, e
 logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
 collections:
+  govt-e-services:
+    output: true
   run-and-grow:
     output: true
   start-a-business:
     output: true
   supportschemes:
     output: true  
-  left-nav-two:
-    output: true
 resources_name: resource-room
 
 
