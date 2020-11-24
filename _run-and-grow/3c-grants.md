@@ -1,6 +1,6 @@
 ---
 title: Grants
-permalink: /gov-assist/grants/
+permalink: /run-and-grow/grants/
 third_nav_title: Types of Assistance
 ---
 

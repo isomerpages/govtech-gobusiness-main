@@ -1,6 +1,6 @@
 ---
 title: Loans
-permalink: /gov-assist/loans/
+permalink: /run-and-grow/loans/
 third_nav_title: Types of Assistance
 ---
 

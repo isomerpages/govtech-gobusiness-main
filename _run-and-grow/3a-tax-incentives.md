@@ -1,6 +1,6 @@
 ---
 title: Tax Incentives
-permalink: /gov-assist/tax-incentives/
+permalink: /run-and-grow/tax-incentives/
 third_nav_title: Types of Assistance
 ---
 

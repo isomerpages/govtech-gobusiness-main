@@ -29,8 +29,8 @@ links:
     #    url: /gov-assist/#search-by-assistance-type
       - title: COVID-19 Support
         url: /supportschemes/general
-    #  - title: Business Grants Portal
-    #    url: /business-grants-portal/
+      - title: Business Grants Portal
+        url: /business-grants-portal/
   - title: Government E-Services
   #  url: 
     sublinks:

@@ -1,6 +1,6 @@
 ---
 title: Toolkits / Programmes 
-permalink: /gov-assist/toolkits-programmes/
+permalink: /run-and-grow/toolkits-programmes/
 third_nav_title: Types of Assistance
 ---
 
