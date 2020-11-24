@@ -59,13 +59,13 @@ sections:
       description: If you are starting a business in Singapore, read on to find out what you can do to start off on the right footing, and also safeguard your investment in the future.
       button: Find Out More
       url: /start-a-business/
-      image: /images/hero-banner.jpg
+      image: /images/start.jpg
       alt: Start a Business
   - infopic:
       title: List of Government Assistance
       subtitle: Run and Grow
       description: The Singapore Government offers a range of assistance schemes to help businesses grow and succeed. Look for a tax incentive, loan, grant, or programme here.
-      button: View by Assistance Type
+      button: Find Out More
       url: /govassist/
       image: /images/govassist-hero-banner.jpg
       alt: Gov Assist    

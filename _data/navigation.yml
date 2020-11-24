@@ -7,15 +7,17 @@
 logo: /images/Gobiz_logo_SG.svg
 
 links:
-  - title: Our Services
+  - title: About Us
+    url: /about-us/
+  #- title: Our Services
   #  url: /gov-assist/
-    sublinks:
-      - title: Gov Assist
-        url: https://govassist.gobusiness.gov.sg/gov-assist/
-      - title: Licensing
-        url: https://www.gobusiness.gov.sg/licences
-      - title: COVID-19
-        url: https://covid.gobusiness.gov.sg/
+    #sublinks:
+    #  - title: Gov Assist
+    #    url: https://govassist.gobusiness.gov.sg/gov-assist/
+    #  - title: Licensing
+    #    url: https://www.gobusiness.gov.sg/licences
+    #  - title: COVID-19
+    #    url: https://covid.gobusiness.gov.sg/
   - title: Start A Business
     # url: /start-a-business/
     sublinks:
@@ -45,7 +47,6 @@ links:
         url: /gebiz-alerts/
       - title: Productivity Solutions Grant (PSG)
         url: /productivity-solutions-grant/
-  - title: About Us
   #  url: /faq/
   #  sublinks:
   #    - title: FAQ
