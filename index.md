@@ -15,9 +15,10 @@ sections:
       dropdown:
         title: I want to...
         options:
-          - title: Login with SingPass as an Individual
-            url: 'https://www.google.com'
-          - title: Login with CorpPass as a Company
+          - title: login with SingPass
+            url: >-
+              https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
+          - title: login with CorpPass
             url: 'https://www.google.com'
           - title: Start a business
             url: /start-a-business/
