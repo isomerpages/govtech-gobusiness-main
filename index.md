@@ -6,7 +6,7 @@ image: /images/Gobiz_logo_SG.svg
 permalink: /
 sections:
   - hero:
-      title: Business made easier
+      title: Business Made Easier
       subtitle: >-
         Bringing government businesses services and information into one place,
         so it's easier to access a range of support options and understand the
