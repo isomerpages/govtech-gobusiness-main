@@ -19,7 +19,7 @@ sections:
             url: >-
               https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
           - title: login with CorpPass
-            url: 'https://www.google.com'
+            url: 'https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login'
           - title: start a new business
             url: /start-a-business/
           - title: run and grow my business
@@ -75,5 +75,5 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
-notification: Test test test
+notification: ''
 ---
