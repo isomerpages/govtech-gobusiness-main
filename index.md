@@ -20,9 +20,9 @@ sections:
               https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
           - title: login with CorpPass
             url: 'https://www.google.com'
-          - title: Start a business
+          - title: start a new business
             url: /start-a-business/
-          - title: Run and Grow a business
+          - title: run and grow my business
             url: /run-and-grow/
       key_highlights:
         - title: Start a Business
