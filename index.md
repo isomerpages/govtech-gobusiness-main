@@ -13,7 +13,7 @@ sections:
         government requirements to start or grow a business in Singapore.
       background: /images/gobiz_sample_image.jpg
       dropdown:
-        title: I want to...
+        title: I want to
         options:
           - title: login with SingPass
             url: >-
