@@ -9,6 +9,8 @@ Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer
  
 The Singapore Government has launched the following digital services on the GoBusiness Platform.
 
+[![about us image](/images/gardensbythebay.png)]
+
 #### GoBusiness Licensing
 GoBusiness Licensing enables businesses to easily and efficiently apply for the variety of licences they need at one place. A key feature of the portal is the Guided Journey for new food services business owners, which is a step-by-step guide that helps them navigate the licensing landscape to determine the licences required, and the order to apply for them. <a href="https://www.gobusiness.gov.sg/licences" target="_blank" style="color:#037e8a">Find out more</a>
  
