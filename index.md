@@ -15,7 +15,7 @@ sections:
       dropdown:
         title: I want to
         options:
-          - title: login with SingPass
+          - title: login with singPass
             url: >-
               https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
           - title: login with CorpPass
