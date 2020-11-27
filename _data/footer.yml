@@ -5,8 +5,6 @@ privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
 
 navlinks:
-  - title: About Us
-    url: /about-us/
   #- title: Our Services
   #  url: /gov-assist/
   #  sublinks:
@@ -17,14 +15,14 @@ navlinks:
   #    - title: COVID-19
   #      url: https://covid.gobusiness.gov.sg/
   - title: Start A Business
-  #  url: /gov-assist/
+    url: /gov-assist/
     sublinks:
       - title: Overview
         url: /start-a-business/
       - title: Key Steps to Start a Business
         url: /start-a-business/check-your-business-name/
   - title: Run and Grow a Business
-  #  url: /gov-assist/
+    url: /gov-assist/
     sublinks:
       - title: Overview
         url: /run-and-grow/
@@ -43,5 +41,5 @@ navlinks:
         url: /gebiz-alerts/
       - title: Productivity Solutions Grant (PSG)
         url: /productivity-solutions-grant/  
-  #- title: About Us
-  #  url: /faq/
+  - title: About Us
+    url: /about-us/
