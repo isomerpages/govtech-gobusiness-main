@@ -11,7 +11,7 @@ sections:
         Bringing government businesses services and information into one place,
         so it's easier to access a range of support options and understand the
         government requirements to start or grow a business in Singapore.
-      background: /images/gobiz_sample_image.jpg
+      background: /images/gobiz_herobanner.jpg
       dropdown:
         title: I want to
         options:
