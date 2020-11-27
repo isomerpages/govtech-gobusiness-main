@@ -7,8 +7,6 @@
 logo: /images/Gobiz_logo_SG.svg
 
 links:
-  - title: About Us
-    url: /about-us/
   #- title: Our Services
   #  url: /gov-assist/
     #sublinks:
@@ -19,7 +17,7 @@ links:
     #  - title: COVID-19
     #    url: https://covid.gobusiness.gov.sg/
   - title: Start A Business
-    # url: /start-a-business/
+    url: /start-a-business/
     sublinks:
       - title: Overview
         url: /start-a-business/
@@ -28,7 +26,7 @@ links:
     #  - title: Types of Assistance
     #    url: /gov-assist/#search-by-assistance-type
   - title: Run and Grow a Business
-    # url: /run-and-grow/
+    url: /run-and-grow/
     sublinks:
       - title: Overview
         url: /run-and-grow/
@@ -47,11 +45,7 @@ links:
         url: /gebiz-alerts/
       - title: Productivity Solutions Grant (PSG)
         url: /productivity-solutions-grant/
-  #  url: /faq/
-  #  sublinks:
-  #    - title: FAQ
-  #      url: /faq/
-  #    - title: 经常问的问题
-  #      url: /faq/chinese/
+  - title: About Us
+    url: /about-us/
   - title: Contact Us
     url: /contact-us/
