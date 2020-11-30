@@ -361,13 +361,14 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .hero-dropdown {
+	display: flex;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
 	width: 50%;
 }
 
 .is-centered {
-	width: 100%;
+  margin: auto;
 }
 
 .is-three-fifths-mobile {
