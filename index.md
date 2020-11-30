@@ -13,14 +13,14 @@ sections:
         government requirements to start or grow a business in Singapore.
       background: /images/gobiz_herobanner.jpg
       dropdown:
-        title: I want to
+        title: I want to...
         options:
-          - title: login with singPass
+          - title: login with SingPass as an individual
             url: >-
               https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
-          - title: login with CorpPass
+          - title: login with CorpPass to manage your corporate transactions
             url: 'https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login'
-          - title: start a new business
+          - title: start a new business in Singapore
             url: /start-a-business/
           - title: run and grow my business
             url: /run-and-grow/
@@ -42,7 +42,7 @@ sections:
       - title: GoBusiness Licensing
         subtitle: Run and Grow
         description: Create your very own application journey for your business. It tells you which licences you’ll need and maps out the order in which to apply for them. No more confusion when you have a step-by-step plan now, your business is off to a smooth start.
-        image: /images/GBL-FnB.png
+        image: /images/singpass_sample.png
         alt: GoBusiness Licensing Guided Journey
       - title: Business Grants Portal
         subtitle: Run and Grow
