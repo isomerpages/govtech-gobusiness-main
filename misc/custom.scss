@@ -364,6 +364,8 @@ $desktop: 960px + (2 * $gap) !default;
   display: flex;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
+	color:#037e8a;
+	width: 50%;
 }
 
 .is-centered {
@@ -389,13 +391,13 @@ $bgfontcolor: #717787;
 
 .gobizTable{
   margin: 40px auto;
-  
+
   &-firstTable{
     list-style: none;
     //padding-left: 2em;
     //padding-right: 2em;
     text-align: center;
-    
+
     &_table{
       vertical-align: top;
       width: $widthoftable;
@@ -406,7 +408,7 @@ $bgfontcolor: #717787;
       max-width: 48%;
       transition: all 0.3s ease;
       border-radius: 5px;
-      
+
       @media screen and (max-width: 767px){
         display: block;
         width: 90%;
@@ -416,19 +418,19 @@ $bgfontcolor: #717787;
         padding: 10px;
         padding-left: 20px;
       }
-      
+
       & > * {
          @media screen and (max-width: 767px){
            display: inline-block;
            vertical-align: middle;
         }
-        
+
          @media screen and (max-width: 480px){
           display: block;
            float: none;
         }
       }
-      
+
       &:after {
          @media screen and (max-width: 767px){
            display: table;
@@ -436,27 +438,27 @@ $bgfontcolor: #717787;
            clear: both;
         }
       }
-      
+
       &:hover{
         transform: scale(1.08);
         @media screen and (max-width: 767px){
           transform: none;
         }
       }
-      
+
       &:not(:last-of-type){
         margin-right: (100%-$widthoftable*3)/2;
          @media screen and (max-width: 767px){
            margin-right: auto;
          }
       }
-      
+
       &__header{
         font-size: 1.6em;
         padding: 40px 0px;
         border-bottom: 2px solid #ebedec;
         letter-spacing: 0.03em;
-        
+
         @media screen and (max-width: 1068px){
            font-size: 1em;
         }
@@ -468,49 +470,49 @@ $bgfontcolor: #717787;
            padding-top: 3%;
            padding-bottom: 2%;
         }
-        
+
         @media screen and (max-width: 610px){
           font-size: 1em;
         }
-        
+
         @media screen and (max-width: 480px){
            float: none;
            width: 100%;
           font-size: 1em;
           margin-bottom: 5px;
         }
-        
+
       }
-      
+
       &__gobiz{
         font-size: 1em;
         padding: 30px 0px;
         border-bottom: 2px solid #ebedec;
         line-height: 0.7;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 1em;
         }
-        
+
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           float: left;
           clear: left;
-          width: 33%; 
+          width: 33%;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 1em;
         }
-        
+
          @media screen and (max-width: 480px){
            float: none;
            width: 100%;
            font-size: 1em;
            margin-bottom: 10px;
         }
-        
+
         span:first-of-type{
           font-size: 0.35em;
           vertical-align: top;
@@ -529,51 +531,51 @@ $bgfontcolor: #717787;
           }
         }
       }
-      
+
       &__options{
         list-style: none;
         padding: 15px;
         font-size: 0.9em;
         border-bottom: 2px solid #ebedec;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 0.85em;
         }
-        
+
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           margin-right: 10%;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 0.7em;
            margin-right: 8%;
         }
-        
+
         @media screen and (max-width: 480px){
           font-size: 1.3em;
            margin-right: none;
           margin-bottom: 10px;
         }
-        
-        
-        
+
+
+
         &>li{
-          padding: 8px 0px;       
-          
+          padding: 8px 0px;
+
            @media screen and (max-width: 767px){
-               text-align: left;    
+               text-align: left;
             }
-          
+
            @media screen and (max-width: 610px){
             padding: 5px 0;
           }
-          
+
            @media screen and (max-width: 480px){
              text-align: center;
           }
-          
+
           &:before{
             content: '✓';
             display: inline-block;
@@ -586,22 +588,22 @@ $bgfontcolor: #717787;
             font-size: 0.8em;
             padding: 2px;
             text-align: center;
-            
+
              @media screen and (max-width: 1068px){
                width: 14px;
                height: 14px;
                padding: 1.5px;
             }
-            
+
             @media screen and (max-width: 767px){
                width: 12px;
                height: 12px;
             }
-            
+
           }
         }
       }
-      
+
       &__getstart{
         color: white;
         background-color: #037e8a;
@@ -612,26 +614,26 @@ $bgfontcolor: #717787;
         box-shadow: 0px 3px 0px 0px rgba(0, 187, 204, 1);
         letter-spacing: 0.07em;
         transition: all 0.4s ease;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 0.95em;
         }
-        
+
         @media screen and (max-width: 767px){
           margin-top: 0;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 0.9em;
            padding: 10px;
         }
-        
+
         @media screen and (max-width: 480px){
           font-size: 1em;
            width: 50%;
           margin: 10px auto;
         }
-        
+
         &:hover{
           transform: translateY(-10px);
           box-shadow: 0px 40px 29px -19px rgba(0, 187, 204, 0.9);
@@ -640,7 +642,7 @@ $bgfontcolor: #717787;
             box-shadow: none;
           }
         }
-        
+
         &:active{
           box-shadow: inset 0 0 10px 1px rgba(0, 187, 204, 1), 0px 40px 29px -19px rgba(0, 187, 204, 0.95);
           transform: scale(0.95) translateY(-9px);
@@ -651,8 +653,8 @@ $bgfontcolor: #717787;
         }
       }
     }
-    
-   
+
+
   }
 }
 
@@ -668,13 +670,13 @@ $bgfontcolor: #717787;
 
 .gobizfinsup1Table{
   margin: 40px auto;
-  
+
   &-firstTable{
     list-style: none;
     //padding-left: 2em;
     //padding-right: 2em;
     text-align: center;
-    
+
     &_table{
       vertical-align: top;
       width: $widthoftable;
@@ -685,7 +687,7 @@ $bgfontcolor: #717787;
       max-width: 100%;
       transition: all 0.3s ease;
       border-radius: 5px;
-      
+
       @media screen and (max-width: 767px){
         display: block;
         width: 90%;
@@ -695,19 +697,19 @@ $bgfontcolor: #717787;
         padding: 10px;
         padding-left: 20px;
       }
-      
+
       & > * {
          @media screen and (max-width: 767px){
            display: inline-block;
            vertical-align: middle;
         }
-        
+
          @media screen and (max-width: 480px){
           display: block;
            float: none;
         }
       }
-      
+
       &:after {
          @media screen and (max-width: 767px){
            display: table;
@@ -715,14 +717,14 @@ $bgfontcolor: #717787;
            clear: both;
         }
       }
-      
+
       &:hover{
         transform: scale(1.08);
         @media screen and (max-width: 767px){
           transform: none;
         }
       }
-      
+
       &:not(:last-of-type){
         margin-right: (100%-$widthoftable*3)/2;
          @media screen and (max-width: 767px){
@@ -732,13 +734,13 @@ $bgfontcolor: #717787;
 
       &:nth-of-type(1){
         position: relative;
-        
+
         & h1{
           @media screen and (max-width: 767px){
             padding-top: 8%;
           }
         }
-        
+
         &:before{
           position: absolute;
           color: white;
@@ -756,12 +758,12 @@ $bgfontcolor: #717787;
           text-transform: uppercase;
           letter-spacing: 0.13em;
           transition: all 0.5s ease;
-          
+
           @media screen and (max-width: 988px){
              content: 'Auto';
              font-size: 0.5em;
           }
-          
+
           @media screen and (max-width: 767px){
             content: 'Auto';
             left: 10px;
@@ -771,24 +773,24 @@ $bgfontcolor: #717787;
             padding-top: 13px;
             font-size: 0.5em;
           }
-          
+
           @media screen and (max-width: 480px){
             content: 'Auto';
             font-size: 0.5em;
           }
-          
+
         }
         &:hover:before{
            transform: rotate(360deg);
         }
       }
-      
+
       &__header{
         font-size: 1.6em;
         padding: 40px 0px;
         border-bottom: 2px solid #ebedec;
         letter-spacing: 0.03em;
-        
+
         @media screen and (max-width: 1068px){
            font-size: 1em;
         }
@@ -800,49 +802,49 @@ $bgfontcolor: #717787;
            padding-top: 3%;
            padding-bottom: 2%;
         }
-        
+
         @media screen and (max-width: 610px){
           font-size: 1em;
         }
-        
+
         @media screen and (max-width: 480px){
            float: none;
            width: 100%;
           font-size: 1em;
           margin-bottom: 5px;
         }
-        
+
       }
-      
+
       &__gobizfinsup1{
         font-size: 1em;
         padding: 30px 0px;
         border-bottom: 2px solid #ebedec;
         line-height: 0.7;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 1em;
         }
-        
+
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           float: left;
           clear: left;
-          width: 33%; 
+          width: 33%;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 1em;
         }
-        
+
          @media screen and (max-width: 480px){
            float: none;
            width: 100%;
            font-size: 1em;
            margin-bottom: 10px;
         }
-        
+
         span:first-of-type{
           font-size: 0.35em;
           vertical-align: top;
@@ -861,52 +863,52 @@ $bgfontcolor: #717787;
           }
         }
       }
-      
+
       &__options{
         list-style: none;
         //padding: 15px;
         font-size: 0.9em;
         border-bottom: 2px solid #ebedec;
         text-align: left;
-        
+
         @media screen and (max-width: 1068px){
            font-size: 0.85em;
            text-align: left;
           }
-        
+
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           margin-right: 10%;
           text-align: left;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 0.7em;
            margin-right: 8%;
            text-align: left;
           }
-        
+
         @media screen and (max-width: 480px){
           font-size: 1.3em;
            margin-right: none;
           margin-bottom: 10px;
           text-align: left;
         }
-        
+
         &>li{
-          padding: 8px 0px;       
+          padding: 8px 0px;
           marker: none;
-          
+
            @media screen and (max-width: 767px){
-               text-align: left;    
+               text-align: left;
             }
-          
+
            @media screen and (max-width: 610px){
             padding: 5px 0;
             text-align: left;
           }
-          
+
            @media screen and (max-width: 480px){
              text-align: left;
           }
@@ -923,22 +925,22 @@ $bgfontcolor: #717787;
             font-size: 0.8em;
             padding: 2px;
             text-align: center;
-            
+
              @media screen and (max-width: 1068px){
                width: 14px;
                height: 14px;
                padding: 1.5px;
             }
-            
+
             @media screen and (max-width: 767px){
                width: 12px;
                height: 12px;
             }
-            
+
           }
         }
       }
-      
+
       &__getstart{
         color: white;
         background-color: #037e8a;
@@ -950,26 +952,26 @@ $bgfontcolor: #717787;
         letter-spacing: 0.07em;
         transition: all 0.4s ease;
         text-align: center;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 0.95em;
         }
-        
+
         @media screen and (max-width: 767px){
           margin-top: 0;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 0.9em;
            padding: 10px;
         }
-        
+
         @media screen and (max-width: 480px){
           font-size: 1em;
            width: 50%;
           margin: 10px auto;
         }
-        
+
         &:hover{
           transform: translateY(-10px);
           box-shadow: 0px 40px 29px -19px rgba(0, 187, 204, 0.9);
@@ -978,7 +980,7 @@ $bgfontcolor: #717787;
             box-shadow: none;
           }
         }
-        
+
         &:active{
           box-shadow: inset 0 0 10px 1px rgba(0, 187, 204, 1), 0px 40px 29px -19px rgba(0, 187, 204, 0.95);
           transform: scale(0.95) translateY(-9px);
@@ -989,8 +991,8 @@ $bgfontcolor: #717787;
         }
       }
     }
-    
-   
+
+
   }
 }
 
@@ -1006,13 +1008,13 @@ $bgfontcolor: #717787;
 
 .gobizfinapplyTable{
   margin: 40px auto;
-  
+
   &-firstTable{
     list-style: none;
     //padding-left: 2em;
     //padding-right: 2em;
     text-align: center;
-    
+
     &_table{
       vertical-align: top;
       width: $widthoftable;
@@ -1023,7 +1025,7 @@ $bgfontcolor: #717787;
       max-width: 100%;
       transition: all 0.3s ease;
       border-radius: 5px;
-      
+
       @media screen and (max-width: 767px){
         display: block;
         width: 90%;
@@ -1033,19 +1035,19 @@ $bgfontcolor: #717787;
         padding: 10px;
         padding-left: 20px;
       }
-      
+
       & > * {
          @media screen and (max-width: 767px){
            display: inline-block;
            vertical-align: middle;
         }
-        
+
          @media screen and (max-width: 480px){
           display: block;
            float: none;
         }
       }
-      
+
       &:after {
          @media screen and (max-width: 767px){
            display: table;
@@ -1053,14 +1055,14 @@ $bgfontcolor: #717787;
            clear: both;
         }
       }
-      
+
       &:hover{
         transform: scale(1.08);
         @media screen and (max-width: 767px){
           transform: none;
         }
       }
-      
+
       &:not(:last-of-type){
         margin-right: (100%-$widthoftable*3)/2;
          @media screen and (max-width: 767px){
@@ -1070,13 +1072,13 @@ $bgfontcolor: #717787;
 
       &:nth-of-type(1){
         position: relative;
-        
+
         & h1{
           @media screen and (max-width: 767px){
             padding-top: 8%;
           }
         }
-        
+
         &:before{
           content: 'Require Application';
           position: absolute;
@@ -1095,12 +1097,12 @@ $bgfontcolor: #717787;
           text-transform: uppercase;
           letter-spacing: 0.13em;
           transition: all 0.5s ease;
-          
+
           @media screen and (max-width: 988px){
              content: 'Apply';
              font-size: 0.5em;
           }
-          
+
           @media screen and (max-width: 767px){
             content: 'Apply';
             left: 10px;
@@ -1110,24 +1112,24 @@ $bgfontcolor: #717787;
             padding-top: 13px;
             font-size: 0.5em;
           }
-          
+
           @media screen and (max-width: 480px){
             content: 'Apply';
             font-size: 0.5em;
           }
-          
+
         }
         &:hover:before{
            transform: rotate(360deg);
         }
       }
-      
+
       &__header{
         font-size: 1.6em;
         padding: 40px 0px;
         border-bottom: 2px solid #ebedec;
         letter-spacing: 0.03em;
-        
+
         @media screen and (max-width: 1068px){
            font-size: 1em;
         }
@@ -1139,49 +1141,49 @@ $bgfontcolor: #717787;
            padding-top: 3%;
            padding-bottom: 2%;
         }
-        
+
         @media screen and (max-width: 610px){
           font-size: 1em;
         }
-        
+
         @media screen and (max-width: 480px){
            float: none;
            width: 100%;
           font-size: 1em;
           margin-bottom: 5px;
         }
-        
+
       }
-      
+
       &__gobizfinapply{
         font-size: 1em;
         padding: 30px 0px;
         border-bottom: 2px solid #ebedec;
         line-height: 0.7;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 1em;
         }
-        
+
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           float: left;
           clear: left;
-          width: 33%; 
+          width: 33%;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 1em;
         }
-        
+
          @media screen and (max-width: 480px){
            float: none;
            width: 100%;
            font-size: 1em;
            margin-bottom: 10px;
         }
-        
+
         span:first-of-type{
           font-size: 0.35em;
           vertical-align: top;
@@ -1200,52 +1202,52 @@ $bgfontcolor: #717787;
           }
         }
       }
-      
+
       &__options{
         list-style: none;
         //padding: 15px;
         font-size: 0.9em;
         border-bottom: 2px solid #ebedec;
         text-align: left;
-        
+
         @media screen and (max-width: 1068px){
            font-size: 0.85em;
            text-align: left;
           }
-        
+
         @media screen and (max-width: 767px){
           border-bottom: none;
           padding: 0;
           margin-right: 10%;
           text-align: left;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 0.7em;
            margin-right: 8%;
            text-align: left;
           }
-        
+
         @media screen and (max-width: 480px){
           font-size: 1.3em;
            margin-right: none;
           margin-bottom: 10px;
           text-align: left;
         }
-        
+
         &>li{
-          padding: 8px 0px;       
+          padding: 8px 0px;
           marker: none;
-          
+
            @media screen and (max-width: 767px){
-               text-align: left;    
+               text-align: left;
             }
-          
+
            @media screen and (max-width: 610px){
             padding: 5px 0;
             text-align: left;
           }
-          
+
            @media screen and (max-width: 480px){
              text-align: left;
           }
@@ -1262,22 +1264,22 @@ $bgfontcolor: #717787;
             font-size: 0.8em;
             padding: 2px;
             text-align: center;
-            
+
              @media screen and (max-width: 1068px){
                width: 14px;
                height: 14px;
                padding: 1.5px;
             }
-            
+
             @media screen and (max-width: 767px){
                width: 12px;
                height: 12px;
             }
-            
+
           }
         }
       }
-      
+
       &__getstart{
         color: white;
         background-color: #037e8a;
@@ -1289,26 +1291,26 @@ $bgfontcolor: #717787;
         letter-spacing: 0.07em;
         transition: all 0.4s ease;
         text-align: center;
-        
+
          @media screen and (max-width: 1068px){
            font-size: 0.95em;
         }
-        
+
         @media screen and (max-width: 767px){
           margin-top: 0;
         }
-        
+
          @media screen and (max-width: 610px){
           font-size: 0.9em;
            padding: 10px;
         }
-        
+
         @media screen and (max-width: 480px){
           font-size: 1em;
            width: 50%;
           margin: 10px auto;
         }
-        
+
         &:hover{
           transform: translateY(-10px);
           box-shadow: 0px 40px 29px -19px rgba(0, 187, 204, 0.9);
@@ -1317,7 +1319,7 @@ $bgfontcolor: #717787;
             box-shadow: none;
           }
         }
-        
+
         &:active{
           box-shadow: inset 0 0 10px 1px rgba(0, 187, 204, 1), 0px 40px 29px -19px rgba(0, 187, 204, 0.95);
           transform: scale(0.95) translateY(-9px);
@@ -1328,7 +1330,7 @@ $bgfontcolor: #717787;
         }
       }
     }
-    
-   
+
+
   }
 }
