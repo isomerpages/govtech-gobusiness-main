@@ -363,11 +363,11 @@ $desktop: 960px + (2 * $gap) !default;
 .hero-dropdown {
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
-	width: 100%;
+	width: 50%;
 }
 
 .is-centered {
-  margin: auto;
+	width: 50%;
 }
 
 .is-three-fifths-mobile {
