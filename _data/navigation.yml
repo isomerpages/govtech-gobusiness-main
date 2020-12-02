@@ -41,10 +41,10 @@ links:
   - title: Government E-Services
   #  url: 
     sublinks:
-      - title: Procurement Opportunities (GeBIZ Alerts)
-        url: /gebiz-alerts/
-      - title: Productivity Solutions Grant (PSG)
-        url: /productivity-solutions-grant/
+      - title: Finance related
+        url: /finance-related/
+      - title: Manpower related
+        url: /manpower-related/
   - title: About Us
     url: /about-us/
   - title: Contact Us
