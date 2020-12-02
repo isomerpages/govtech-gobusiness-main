@@ -4,7 +4,7 @@ permalink: /start-a-business/check-your-business-name/
 third_nav_title: Key steps to start
 ---
 
-## Check your business name
+## Key steps to start
 
 #### 1. Pick and check your business name
 

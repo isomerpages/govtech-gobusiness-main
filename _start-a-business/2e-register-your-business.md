@@ -4,7 +4,7 @@ permalink: /start-a-business/register-your-business/
 third_nav_title: Key steps to start
 ---
 
-## Register your business
+## Key steps to start
 
 #### 5. Register your business
 

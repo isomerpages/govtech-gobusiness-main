@@ -4,7 +4,7 @@ permalink: /start-a-business/choose-a-business-structure/
 third_nav_title: Key steps to start
 ---
 
-## Choose a business structure
+## Key steps to start
 
 #### 2. Pick a business structure
 

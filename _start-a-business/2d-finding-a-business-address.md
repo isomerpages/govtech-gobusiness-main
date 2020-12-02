@@ -4,7 +4,7 @@ permalink: /start-a-business/finding-a-business-address/
 third_nav_title: Key steps to start
 ---
 
-## Finding a business address
+## Key steps to start
 
 #### 4. Finding a business address
 
