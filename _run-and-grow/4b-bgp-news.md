@@ -1,5 +1,5 @@
 ---
-title: BGP News
+title: News
 permalink: /business-grants-portal/News
 third_nav_title: Business Grants Portal
 ---
