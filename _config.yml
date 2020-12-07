@@ -5,6 +5,8 @@ favicon: /images/Gobiz_favicon.ico
 collections:
   govt-e-services:
     output: true
+  contact-us:
+    output: true
   run-and-grow:
     output: true
   start-a-business:

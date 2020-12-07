@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: /contact-us/
+permalink: /contact/
 agency_name: Agency Name
 locations:
   - title: Main Office
