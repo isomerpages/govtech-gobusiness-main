@@ -9,3 +9,4 @@ Make an appointment with Business Advisors from any of the SME Centres for assis
 
 **Operating Hours:** Monday - Friday 9am to 5.30pm
 
+{% include panels.html panels=site.data.sme_centres %}
