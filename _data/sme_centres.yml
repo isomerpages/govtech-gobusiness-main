@@ -1,9 +1,11 @@
 - title: SME Centre@ASME
-  description: '167, Jalan Bukit Merah<br>#03-13, Tower 4, Singapore 150167<br><br>+65 6513 0388' 
-  link: enquiries@smecentre-asme.sg
+  description: '167, Jalan Bukit Merah<br>#03-13, Tower 4, Singapore 150167' 
+  link: +65 6513 0388
+  link1: enquiries@smecentre-asme.sg
   link2: https://www.smecentre-asme.sg
  
 - title: SME Centre@SCCCI
-  description: Trade Association Hub<br>9 Jurong Town Hall Road,<br>Jurong Town Hall<br>#03-18, Singapore 609431<br><br>+65 6337 8381
-  link: enquiry@smecentre-sccci.sg
+  description: Trade Association Hub<br>9 Jurong Town Hall Road,<br>Jurong Town Hall<br>#03-18, Singapore 609431
+  link: +65 6337 8381
+  link1: enquiry@smecentre-sccci.sg
   link2: https://www.smecentre-sccci.sg/ 
