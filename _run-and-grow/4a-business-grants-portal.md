@@ -12,6 +12,8 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 {% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/" type="primary" %}
 </p>
 
+[![BGP](/images/grow/PSG JR.jpg "BGP")](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html)
+
 #### How to apply for a grant on BGP?
 
 #### 1.	Discover the most suitable grant for your business need
