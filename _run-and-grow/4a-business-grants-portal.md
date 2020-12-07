@@ -1,5 +1,5 @@
 ---
-title: What is Business Grants Portal?
+title: Apply Now
 permalink: /business-grants-portal/
 third_nav_title: Business Grants Portal
 ---
