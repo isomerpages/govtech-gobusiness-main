@@ -49,8 +49,8 @@
         <span class="panel-title">{{ panel.title }}</span>
         <p class="panel-description">{{ panel.description }}</p>
         <!-- description to change the style -->
-        <p class="panel-link">mailto:{{ panel.link }}</p>
-        <p class="panel-link">{{ panel.link }}</p>
+        <p class="panel-link">mailto:"{{ panel.link }}"</p>
+        <a class="panel-link" href="{{ panel.link }}"></a>
     </div>
     {% endfor %}
 
