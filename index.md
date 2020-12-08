@@ -44,7 +44,7 @@ sections:
         alt: GoBusiness Licensing Guided Journey
       - title: Business Grants Portal
         subtitle: Run and Grow
-        description: Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency. <a href="https://www.gobusiness.gov.sg/business-grants-portal/" target="_blank" style="color:#037e8a">Find Out More</a>
+        description: Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency. <a href="/business-grants-portal/" target="_blank" style="color:#037e8a">Find Out More</a>
         image: /images/caro_parking.jpg
         alt: Business Grants Portal
       - title: Covid-19 Support
