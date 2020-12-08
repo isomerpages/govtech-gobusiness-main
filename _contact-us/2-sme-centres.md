@@ -7,6 +7,8 @@ permalink: /contact-us/sme-centres/
 
 Make an appointment with Business Advisors from any of the SME Centres for assistance.
 
-**Operating Hours:** Monday - Friday 9am to 5.30pm
+**Operating Hours:**
+
+Monday - Friday, 9am to 5.30pm
 
 {% include panels-smecentres.html panels=site.data.sme_centres %}
