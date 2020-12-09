@@ -14,12 +14,11 @@ https://partnersengage.enterprisesg.gov.sg/book-appointment
 </p>
 
 **Operating Hours:**
-
-Monday - Friday, 9am to 5.30pm
+<br>Monday - Friday, 9am to 5.30pm
 
 {% include panels-smecentres.html panels=site.data.sme_centres %}
 
-## GlobalConnect@SBF
+#### GlobalConnect@SBF
 
 Need help to kick-start you internationalisation journey? Speak to the advisors at <a href="https://globalconnect.sbf.org.sg/" target="_blank" style="color:#037e8a">GlobalConnect@SBF</a> to gain access to market knowledge, FTA advisory and an extensive network of partners for your first overseas venture.
 
