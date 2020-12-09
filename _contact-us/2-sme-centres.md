@@ -7,8 +7,20 @@ permalink: /contact-us/sme-centres/
 
 Make an appointment with Business Advisors from any of the SME Centres for assistance.
 
+<p>
+{% include button.html text="Make an appointment" src="
+https://partnersengage.enterprisesg.gov.sg/book-appointment
+" type="primary" %}
+</p>
+
 **Operating Hours:**
 
 Monday - Friday, 9am to 5.30pm
 
 {% include panels-smecentres.html panels=site.data.sme_centres %}
+
+## GlobalConnect@SBF
+
+Need help to kick-start you internationalisation journey? Speak to the advisors at <a href="https://globalconnect.sbf.org.sg/" target="_blank" style="color:#037e8a">GlobalConnect@SBF</a> to gain access to market knowledge, FTA advisory and an extensive network of partners for your first overseas venture.
+
+{% include panels-globalconnect.html panels=site.data.global_connect %}
