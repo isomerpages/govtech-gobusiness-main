@@ -49,6 +49,9 @@ links:
         url: /manpower-related/
   - title: About Us
     url: /about-us/
+    sublinks:
+      - title: Media
+        url: /resource-room/
   - title: Contact Us
     url: /contact-us/
     sublinks:
