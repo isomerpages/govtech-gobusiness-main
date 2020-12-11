@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /faq/
+permalink: /faqs/
 ---
 
 ### **FAQ**
