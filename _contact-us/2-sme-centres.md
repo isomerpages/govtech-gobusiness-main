@@ -1,5 +1,5 @@
 ---
-title: SME Centres
+title: Contact SME Centres
 permalink: /contact-us/sme-centres/
 ---
 
