@@ -11,7 +11,7 @@ third_nav_title: Business Grants Portal
 The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies. BGP aims to bring government grants for businesses into one place, so it is easier for businesses to apply for grants according to their needs and sector. It would also allow businesses to better manage and track their grant applications. 
 
 <p>
-{% include button.html text="Login to Business Grants Portal" src="https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2FFIM%2Fsps%2FCorpIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fwww.businessgrants.gov.sg%252Fsaml%252Fmetadata%26Target%3Dhttps%253A%252F%252Fwww.businessgrants.gov.sg%26NameIdFormat%3DEmail%26esrvcID%3DMTI-BGP&TAM_OP=login" type="primary" %}
+{% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/" type="primary" %}
 </p>
 
 #### How to apply for a grant on BGP?
@@ -36,7 +36,7 @@ Alternatively, businesses simply need to select their sector and business needs 
 Register an account with CorpPass in order to log into BGP. Approach your CorpPass Admin to assign an appropriate BGP role to you.
 
 <p>
-{% include button.html text="Login to Business Grants Portal" src="https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2FFIM%2Fsps%2FCorpIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fwww.businessgrants.gov.sg%252Fsaml%252Fmetadata%26Target%3Dhttps%253A%252F%252Fwww.businessgrants.gov.sg%26NameIdFormat%3DEmail%26esrvcID%3DMTI-BGP&TAM_OP=login" type="primary" %}
+{% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/" type="primary" %}
 </p>
 
 #### 3. Fill in Company Profile
