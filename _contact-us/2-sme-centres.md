@@ -7,11 +7,9 @@ permalink: /contact-us/sme-centres/
 
 Make an appointment with Business Advisors from any of the SME Centres for assistance.
 
-<p>
 {% include button.html text="Make an Appointment" src="
 https://partnersengage.enterprisesg.gov.sg/book-appointment
 " type="primary" %}
-</p>
 
 **Operating Hours:**
 Monday - Friday, 9am to 5.30pm
