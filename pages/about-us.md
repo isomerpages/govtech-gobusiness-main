@@ -2,10 +2,9 @@
 title: About Us
 permalink: /about-us/
 ---
+### Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-services.
 
 ![about us image](/images/abtus.png)
-
-## Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-services.
 
 The Singapore Government has launched the following digital services on the GoBusiness Platform.
 
