@@ -35,13 +35,13 @@ navlinks:
       - title: Business Grants Portal
         url: /business-grants-portal/
       - title: Licensing
-        url: /run-and-grow/licensing-overview/
+        url: /run-and-grow/licensing-overview/  
   - title: Government E-Services
-        url: /finance-related/
+  #  url: 
     sublinks:
       - title: Finance related
         url: /finance-related/
       - title: Manpower related
-        url: /manpower-related/
+        url: /manpower-related/ 
   - title: About Us
     url: /about-us/
