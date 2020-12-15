@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-## Get in Touch with GoBusiness Helpdesk
+# Get in Touch with GoBusiness Helpdesk
 
 **Tel:** +65 6123 4567
 
@@ -12,4 +12,4 @@ permalink: /contact-us/
 **Operating Hours:**
 
 Monday - Friday, 8.30am to 5.30pm
-<br>**Closed on public holidays*
+**Closed on public holidays*
