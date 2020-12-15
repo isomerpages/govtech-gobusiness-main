@@ -1,4 +1,0 @@
----
-layout: resources-alt
-title: Events
----
