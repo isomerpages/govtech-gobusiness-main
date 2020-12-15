@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-# Get in Touch with GoBusiness Helpdesk
+## Get in Touch with GoBusiness Helpdesk
 
 **Tel:** +65 6123 4567
 
