@@ -69,8 +69,8 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% for item in page.accordion %}
-        <li><input id="accordion1{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.accordion1 %}
+        <li><input id="accordion1{{ forloop.index }}" type="checkbox" /><label for="accordion1{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
 
