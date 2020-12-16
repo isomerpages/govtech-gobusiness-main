@@ -26,10 +26,6 @@ navlinks:
     sublinks:
       - title: Overview
         url: /run-and-grow/
-  #    - title: e-Adviser for Government Assistance
-  #      url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
-  #    - title: Types of Assistance
-  #      url: /gov-assist/#search-by-assistance-type
       - title: COVID-19 Support
         url: /supportschemes/general
       - title: Business Grants
@@ -46,5 +42,7 @@ navlinks:
   - title: About Us
     url: /about-us/
     sublinks:
+      - title: Overview
+        url: /about-us/
       - title: News and Media
         url: /news-and-media/
