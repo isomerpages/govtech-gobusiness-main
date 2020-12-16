@@ -13,7 +13,7 @@ collections:
     output: true
   supportschemes:
     output: true  
-resources_name: resource-room
+resources_name: news-and-media
 
 
 ##################################################################################################################

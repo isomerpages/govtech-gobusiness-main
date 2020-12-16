@@ -46,5 +46,5 @@ navlinks:
   - title: About Us
     url: /about-us/
     sublinks:
-      - title: Media
-        url: /resource-room/
+      - title: News and Media
+        url: /news-and-media/
