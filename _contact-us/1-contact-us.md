@@ -10,6 +10,8 @@ permalink: /contact-us/
 **Email:**
 <br><a href="mailto:enquiry@gobusiness.gov.sg" style="color:#037e8a">enquiry@gobusiness.gov.sg</a>
 
+[enquiry@gobusiness.gov.sg](mailto:enquiry@gobusiness.gov.sg)    
+
 **Operating Hours:**
 <br>Monday - Friday, 8.30am to 5.30pm
 <br>** Closed on public holidays*
