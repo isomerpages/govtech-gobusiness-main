@@ -12,7 +12,9 @@ collections:
   start-a-business:
     output: true
   supportschemes:
-    output: true  
+    output: true
+  licensing-faqs:
+    output: true
 resources_name: news-and-media
 
 
