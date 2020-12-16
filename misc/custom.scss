@@ -364,8 +364,12 @@ $desktop: 960px + (2 * $gap) !default;
 	display: flex;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
-	width: 50%;
+  width: 50%;
+  
 }
+
+.link { color: #FF0000; } /* CSS link color (red) */
+.link:hover { color: #00FF00; } /* CSS link hover (green) */
 
 .is-centered {
   margin: auto;
