@@ -32,8 +32,8 @@ navlinks:
   #      url: /gov-assist/#search-by-assistance-type
       - title: COVID-19 Support
         url: /supportschemes/general
-      - title: Business Grants Portal
-        url: /business-grants-portal/
+      - title: Business Grants
+        url: /business-grants/
       - title: Licensing
         url: /run-and-grow/licensing-overview/  
   - title: Government E-Services

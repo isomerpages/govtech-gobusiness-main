@@ -21,7 +21,7 @@ Business entities can apply for PSG if they meet the following criteria:
 1.	Access the list of supportable solutions and identify relevant solutions that best suit your business needs. 
 2.	For **IT solutions:** Get a quotation from the pre-approved vendor
 <br>For **Equipment:** Source for the equipment and get a quotation from the vendor
-3.	Submit an application on the <a target="_blank" style="color:#037e8a" href="https://www.businessgrants.gov.sg/" >Business Grants Portal (BGP)</a>.
+3.	Submit an application on the <a target="_blank" style="color:#037e8a" href="https://www.businessgrants.gov.sg/" >Business Grants (BGP)</a>.
 <br>You will need to register for a CorpPass account to transact on the portal.
 
 <h4 id="supportable-solutions">Supportable solutions</h4>

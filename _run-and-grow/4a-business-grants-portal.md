@@ -1,17 +1,17 @@
 ---
 title: Apply Now
-permalink: /business-grants-portal/
-third_nav_title: Business Grants Portal
+permalink: /business-grants/
+third_nav_title: Business Grants
 ---
 
-## Business Grants Portal
+## Business Grants
 
 [![BGP](/images/grow/PSG JR.jpg "BGP")](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html)
 
-The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies. BGP aims to bring government grants for businesses into one place, so it is easier for businesses to apply for grants according to their needs and sector. It would also allow businesses to better manage and track their grant applications. 
+The Business Grants (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies. BGP aims to bring government grants for businesses into one place, so it is easier for businesses to apply for grants according to their needs and sector. It would also allow businesses to better manage and track their grant applications. 
 
 <p>
-{% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/" type="primary" %}
+{% include button.html text="Login to Business Grants" src="https://www.businessgrants.gov.sg/" type="primary" %}
 </p>
 
 #### How to apply for a grant on BGP?
@@ -36,7 +36,7 @@ Alternatively, businesses simply need to select their sector and business needs 
 Register an account with CorpPass in order to log into BGP. Approach your CorpPass Admin to assign an appropriate BGP role to you.
 
 <p>
-{% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/" type="primary" %}
+{% include button.html text="Login to Business Grants" src="https://www.businessgrants.gov.sg/" type="primary" %}
 </p>
 
 #### 3. Fill in Company Profile

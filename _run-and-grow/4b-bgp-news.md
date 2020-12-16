@@ -1,14 +1,14 @@
 ---
 title: News
-permalink: /business-grants-portal/News
-third_nav_title: Business Grants Portal
+permalink: /business-grants/News
+third_nav_title: Business Grants
 ---
 
 ## 1 December 2020  
 
 #### SUPPORT FOR JOB REDESIGN UNDER PRODUCTIVITY SOLUTIONS GRANT (PSG-JR)
 
-Developed by Workforce Singapore (WSG), the Support for Job Redesign under Productivity Solutions Grant (PSG-JR) aims to make redesigning jobs easier by providing enterprises with JR consultancy support to complement and drive both their business and workforce transformation. PSG-JR will be open for applications from 1 December 2020 and companies can submit their application through the Business Grants Portal (BGP).
+Developed by Workforce Singapore (WSG), the Support for Job Redesign under Productivity Solutions Grant (PSG-JR) aims to make redesigning jobs easier by providing enterprises with JR consultancy support to complement and drive both their business and workforce transformation. PSG-JR will be open for applications from 1 December 2020 and companies can submit their application through the Business Grants (BGP).
 
 Participating companies will receive up to 70% funding, capped at $30,000 per company.
 
