@@ -86,8 +86,8 @@ sections:
       image: /images/helpinghands.jpg
       alt: Covid-19 Support
   - resources:
-      title: News and Media
-      subtitle: Media Releases
+      title: Be in the know
+      subtitle: News and Media
       button: View More
 notification: ''
 ---
