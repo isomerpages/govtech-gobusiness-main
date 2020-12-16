@@ -1,41 +1,15 @@
 ---
 title: About
-permalink: /faq/about
+permalink: /faq/about/
 third_nav_title: General FAQs
+accordion:
+  - title: I am not sure how to choose between the options on the GoBusiness homepage. Where can I get help?
+    content: <strong>Login with SingPass as an Individual</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Login with CorpPass to Manage Corporate Transactions</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Start a New Business in Singapore</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Run and Grow My Business</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
+  - title: I was trying to access LicenceOne and got redirected here. Why?
+    content: LicenceOne has been rebranded and is now known as GoBusiness Licensing. The Self-Service feature has all the same functions as LicenceOne and we have also added the new Guided Journey feature to walk beginners through the licensing process.<br><br>This feature is currently only available for food & beverage businesses, and we are working on expanding this to other industries. In our mission to make the licensing process simpler, better and faster, we will be rolling out further enhancements to the Self-Service feature in phases.
+  - title: What should I do if I have not received an exemption? Am I allowed to continue operations?
+    content: Please suspend your business operations until you have received the official email notification of approval.<br><br>If there are conditions imposed on the approval of your general exemption, these conditions will be indicated in your official email notification of approval. Alternatively, you may login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank" style="color:#037e8a">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval.<br><br>You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.<br><br>If you are still not sure which option to select, please contact us <a href="/contact-us/" style="color:#037e8a">here</a>.
 ---
 
-### About GoBusiness Dashboard
-
-#### 1. I am not sure how to choose between the options on the GoBusiness homepage. Where can I get help?
-
-**Login with SingPass as an Individual**
-
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
-
-**Login with CorpPass to Manage Corporate Transactions**
-
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
-
-**Start a New Business in Singapore**
-
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
-
-**Run and Grow My Business**
-
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
-
-#### 2. I was trying to access LicenceOne and got redirected here. Why?
-
-LicenceOne has been rebranded and is now known as GoBusiness Licensing. The Self-Service feature has all the same functions as LicenceOne and we have also added the new Guided Journey feature to walk beginners through the licensing process.
-
-This feature is currently only available for food & beverage businesses, and we are working on expanding this to other industries. In our mission to make the licensing process simpler, better and faster, we will be rolling out further enhancements to the Self-Service feature in phases.
-
-#### 3. What should I do if I have not received an exemption? Am I allowed to continue operations?
-
-Please suspend your business operations until you have received the official email notification of approval.
-
-If there are conditions imposed on the approval of your general exemption, these conditions will be indicated in your official email notification of approval. Alternatively, you may login to https://www.gobusiness.gov.sg/exemptions to check your exemption application for any conditions to your approval.
-
-You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.
-
-If you are still not sure which option to select, please **contact us** here.
+#### About GoBusiness Dashboard
+{% include accordion.html %}

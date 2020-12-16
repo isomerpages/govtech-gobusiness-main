@@ -41,7 +41,7 @@ links:
       - title: Licensing
         url: /run-and-grow/licensing-overview/
   - title: Government E-Services
-  #  url:
+    url: /finance-related/
     sublinks:
       - title: Finance related
         url: /finance-related/
@@ -60,4 +60,4 @@ links:
       - title: SME Centres
         url: /contact-us/sme-centres/
       - title: General FAQs
-        url: /faq/
+        url: /faq/about/
