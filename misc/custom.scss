@@ -23,11 +23,6 @@ $media-color-five: #037e8a;
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
-//For hyperlink color
-a {
-  color:#037e8a
-}
-
 // Mixins
 
 @mixin touch() {
