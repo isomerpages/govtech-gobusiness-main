@@ -1,10 +1,10 @@
 ---
-title: About
+title: About GoBusiness Dashboard
 permalink: /faq/about
 third_nav_title: General FAQs
 ---
 
-#### About GoBusiness Dashboard
+### About GoBusiness Dashboard
 
 #### 1. I am not sure how to choose between the options on the GoBusiness homepage. Where can I get help?
 
