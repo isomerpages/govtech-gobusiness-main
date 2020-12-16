@@ -6,7 +6,7 @@ third_nav_title: General
 accordion1:
   - title: I am not sure how to choose between the two options on the GoBusiness Licensing homepage. Where can I get help?
     content: |
-      **For all business owners except new business owners in the food services industry**
+      For all business owners except new business owners in the food services industry
       
       The right option, Self-Service feature (previously called LicenceOne) is for you, if you:
       - Have previously applied for licences or created application drafts on LicenceOne
