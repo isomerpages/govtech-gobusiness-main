@@ -1,5 +1,5 @@
 ---
-title: About GoBusiness Dashboard
+title: About
 permalink: /faq/about
 third_nav_title: General FAQs
 ---
