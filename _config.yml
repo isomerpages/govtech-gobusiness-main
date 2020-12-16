@@ -15,6 +15,8 @@ collections:
     output: true
   licensing-faqs:
     output: true
+  bgp-faqs:
+    output: true
 resources_name: news-and-media
 
 
