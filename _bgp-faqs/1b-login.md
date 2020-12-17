@@ -8,7 +8,7 @@ accordion1:
     content: |
       **For all business owners except new business owners in the food services industry**
     
-      The right option, Self-Service feature (previously called LicenceOne) is for you, if you:
+      The right option, Self-Service feature (previously called LicenceOne) is for you, if you
       *Have previously applied for licences or created application drafts on LicenceOne
       *Are a new business owner from any industry except food services
 ---
