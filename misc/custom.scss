@@ -310,7 +310,13 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote > ul {
 		color: $secondary;
-	}
+  }
+  a {
+    color:#037e8a;
+  }
+  a:hover {
+    color :#4471eb;
+  }  
 }
 
 // Media category buttons - not used now but will be used in the future
