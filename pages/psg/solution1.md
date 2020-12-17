@@ -9,11 +9,11 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 
 #### Packages Available
 
-[ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf)
-[ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf)
-[ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf)
-[ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf)
-[ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf)
+[ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf){:target="_blank"}
+[ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf){:target="_blank"}
+[ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf){:target="_blank"}
+[ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf){:target="_blank"}
+[ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)](/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf){:target="_blank"}
 
 #### Eligibility Criteria
 
