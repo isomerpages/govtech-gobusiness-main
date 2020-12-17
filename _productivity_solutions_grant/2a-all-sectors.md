@@ -5,6 +5,9 @@ third_nav_title: Sectors
 accordion-test:
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
+      **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+      **Support level: Up to 80% for SMEs
+      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
       
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
