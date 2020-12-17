@@ -17,6 +17,8 @@ collections:
     output: true
   bgp-faqs:
     output: true
+  productivity_solutions_grant:
+    output: true
 resources_name: news-and-media
 
 
