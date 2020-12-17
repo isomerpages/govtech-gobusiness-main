@@ -10,4 +10,4 @@ accordion1:
 
 #### Login via CorpPass
 
-{% include accordion1.html %}
+{% include accordion.html %}
