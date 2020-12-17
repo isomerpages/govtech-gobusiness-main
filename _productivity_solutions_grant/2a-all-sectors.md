@@ -6,9 +6,13 @@ accordion-test:
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
+      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
+      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
+      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
+      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
 ---
 
