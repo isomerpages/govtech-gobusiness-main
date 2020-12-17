@@ -44,14 +44,14 @@ The support for COVID-19 continuity measures will cease on 31 Dec 2020. Companie
 
 #### Generic Solutions for all Sectors
 
-[Pre-scoped IT Solutions](/productivity-solutions-grant/ITSolution/retail/)
+[Pre-scoped IT Solutions](/productivity-solutions-grant/sectors/all-sectors/)
 
-[Pre-scoped Consultancy Service](/productivity-solutions-grant/ITSolution/retail/)
+[Pre-scoped Consultancy Service](/productivity-solutions-grant/sectors/all-sectors/)
 
 #### Advanced Manufacturing
 
-[Pre-scoped Equipment](/productivity-solutions-grant/ITSolution/retail/)
+[Pre-scoped Equipment](/productivity-solutions-grant/sectors/all-sectors/)
 
 #### Agriculture (Non-Food)
 
-[Pre-scoped Equipment](/productivity-solutions-grant/ITSolution/retail/)
+[Pre-scoped Equipment](/productivity-solutions-grant/sectors/all-sectors/)
