@@ -38,12 +38,6 @@ accordion-new:
       **Application for Changes (HDB Commercial Properties)**
       HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer, assignment or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters. [Click here](https://www.google.com.sg/){:target="_blank"}
       
-      **Change of Company's Name for HDB Commercial Tenants**
-      Applicable to tenants who change their company's name without change of:
-      a. business registration number ; and
-      b. business setup (i.e. no change in partners or shareholders or their respective shareholdings) 
-      [Click here](https://www.google.com.sg/){:target="_blank"}
-
       **Home Office Scheme (HDB)**
       Applicants need not register with the Accounting & Corporate Regulatory Authority (ACRA) first to apply for the Home Office Scheme (HOS). HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. [Click here](https://www.google.com.sg/){:target="_blank"}
 
