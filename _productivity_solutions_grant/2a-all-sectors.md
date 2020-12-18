@@ -2,7 +2,7 @@
 title: Generic Solutions for all Sectors
 permalink: /productivity-solutions-grant/sectors/all-sectors/
 third_nav_title: Sectors
-accordion-new:
+accordion-psg:
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
@@ -29,7 +29,7 @@ accordion-new:
 
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion-psg.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

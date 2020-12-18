@@ -8,8 +8,8 @@ third_nav_title: Licensing
 Answer a few questions about your business needs and be guided to the relevant application of licenses relevant for your business needs.  
 
 <p>
-{% include button.html text="Get Started with Licensing e-Adviser" src="
-https://www.google.com.sg/
+{% include button.html text="Get Started with e-Adviser" src="
+https://gaeadviser.gobusiness.gov.sg/?src=govassist_overview
 " type="primary" %}
 </p>
 
