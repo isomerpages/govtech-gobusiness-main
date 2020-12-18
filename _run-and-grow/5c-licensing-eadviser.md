@@ -3,20 +3,11 @@ title: Licensing e-Adviser
 permalink: /run-and-grow/licensing-eadviser/
 third_nav_title: Licensing
 accordion-new:
-  - title: Accounting and Corporate Regulatory Authority (ACRA)
+  - title: Accounting and Corporate Regulatory Authority
     content: |
       **Business Registration**
       Registering a business firm. [Click here](https://www.google.com.sg/){:target="_blank"}
-      
-      **Company Incorporation**
-      Incorporating a company. [Click here](https://www.google.com.sg/){:target="_blank"}
-
-      **Foreign Company Registration**
-      Registering a branch of a foreign company. [Click here](https://www.google.com.sg/){:target="_blank"}
-
-      **Limited Partnership (LP) Registration**
-      Registering a limited partnership. [Click here](https://www.google.com.sg/){:target="_blank"}
-  - title: Animal & Veterinary Service (AVS)
+  - title: Animal & Veterinary Service
     content: |
       **Certificate of Freedom From Disease Within Singapore**
       A Certificate of Freedom from Disease within Singapore from Animal & Veterinary Service will be required if the country to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export. [Click here](https://www.google.com.sg/){:target="_blank"}
@@ -29,11 +20,11 @@ accordion-new:
 
       **Licence for Animal Exhibition**
       The Licence for Animal Exhibition is issued by Animal & Veterinary Service to use a premise for animal display, exhibition, performance or distribution. [Click here](https://www.google.com.sg/){:target="_blank"}
-  - title: Board of Architects (BOA)
+  - title: Board of Architects
     content: |
       **Licence to Supply Architectural Services**
       For providing architectural services that require submission of plans and certificates to authorities regulating buildings. [Click here](https://www.google.com.sg/){:target="_blank"}
-  - title: Housing & Development Board (HDB)
+  - title: Housing & Development Board
     content: |
       **Application for Changes (HDB Commercial Properties)**
       HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer, assignment or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters. [Click here](https://www.google.com.sg/){:target="_blank"}
