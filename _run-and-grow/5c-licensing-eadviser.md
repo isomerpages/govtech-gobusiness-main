@@ -2,7 +2,6 @@
 title: Licensing e-Adviser
 permalink: /run-and-grow/licensing-eadviser/
 third_nav_title: Licensing
-
 accordion-new:
   - title: Accounting and Corporate Regulatory Authority (ACRA)
     content: |
@@ -41,31 +40,6 @@ accordion-new:
       
       **Home Office Scheme (HDB)**
       Applicants need not register with the Accounting & Corporate Regulatory Authority (ACRA) first to apply for the Home Office Scheme (HOS). HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. [Click here](https://www.google.com.sg/){:target="_blank"}
-
-business-intent:
-  - title: Accountancy
-    content: |
-      [Application for Registering Property](https://www.google.com.sg/){:target="_blank"}
-  - title: Aerspace
-    content: |
-      [Application for Hazardous Substances Licence](https://www.google.com.sg/){:target="_blank"}
-
-      [Application for Hazardous Substances Permit](https://www.google.com.sg/){:target="_blank"}
-
-      [Conduct an aerial activity](https://www.google.com.sg/){:target="_blank"}
-
-      [Conduct an aerial photography or videography](https://www.google.com.sg/){:target="_blank"}
-
-      [Import petroleum and flammable materials](https://www.google.com.sg/){:target="_blank"}
-  - title: Agriculture
-    content: |
-      [Setup pet cafe](https://www.google.com.sg/){:target="_blank"}
-
-      [Setup pet shop](https://www.google.com.sg/){:target="_blank"}
-
-      [To operate a veterinary centre](https://www.google.com.sg/){:target="_blank"}
-
-      [To practise veterinary medicine in Singapore](https://www.google.com.sg/){:target="_blank"}
 ---
 
 ## Get started with our Licensing e-Adviser
@@ -73,17 +47,14 @@ Answer a few questions about your business needs and be guided to the relevant a
 
 <p>
 {% include button.html text="Get Started with Licensing e-Adviser" src="
-https://www.google.com.sg/" type="primary" %}
+https://www.google.com.sg/
+" type="primary" %}
 </p>
 
 #### Find out more about the list of Licences that can apply
 
 #### By Government Agencies
 {% include accordion-new.html %}
-
-#### By Sectors
-{% include business-intent.html %}
-
 
 
 
