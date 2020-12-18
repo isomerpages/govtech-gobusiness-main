@@ -66,14 +66,13 @@
         list-style-type: decimal; 
         border-top: 0; 
     }
-    </style>
+</style>
     
-    <ul class="jekyllcodex_accordion">
-        {% for item in page.business-intent %}
-            <li><input id="business-intent{{ forloop.index }}" type="checkbox" /><label for="business-intent{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
-        {% endfor %}
-    </ul>
+<ul class="jekyllcodex_accordion">
+    {% for item in page.business-intent %}
+        <li><input id="business-intent{{ forloop.index }}" type="checkbox" /><label for="business-intent{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% endfor %}
+</ul>
     
-    <script src="/jquery/jquery.min.js"></script>
-    <script src="/jquery/scroll-top.js"></script>
-    
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/scroll-top.js"></script>
