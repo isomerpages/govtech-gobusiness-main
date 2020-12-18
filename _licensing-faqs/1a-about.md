@@ -9,3 +9,5 @@ accordion:
 
 #### About Licensing FAQs
 {% include accordion.html %}
+
+[Back to Licensing](/run-and-grow/licensing-overview/)
