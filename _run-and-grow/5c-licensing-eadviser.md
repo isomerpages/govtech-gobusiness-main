@@ -2,6 +2,7 @@
 title: Licensing e-Adviser
 permalink: /run-and-grow/licensing-eadviser/
 third_nav_title: Licensing
+
 accordion-new:
   - title: Accounting and Corporate Regulatory Authority (ACRA)
     content: |
@@ -71,6 +72,7 @@ business-intent:
       [To operate a veterinary centre](https://www.google.com.sg/){:target="_blank"}
 
       [To practise veterinary medicine in Singapore](https://www.google.com.sg/){:target="_blank"}
+
 ---
 
 ## Get started with our Licensing e-Adviser
