@@ -2,7 +2,7 @@
 title: Advance Manufacturing
 permalink: /productivity-solutions-grant/sectors/all-sectors/
 third_nav_title: Sectors
-accordion-test:
+accordion-new:
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
@@ -29,7 +29,7 @@ accordion-test:
 
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-test.html %}
+{% include accordion-new.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 
