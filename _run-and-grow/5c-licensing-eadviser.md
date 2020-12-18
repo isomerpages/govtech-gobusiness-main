@@ -73,8 +73,7 @@ Answer a few questions about your business needs and be guided to the relevant a
 
 <p>
 {% include button.html text="Get Started with Licensing e-Adviser" src="
-https://www.google.com.sg/
-" type="primary" %}
+https://www.google.com.sg/" type="primary" %}
 </p>
 
 #### Find out more about the list of Licences that can apply
