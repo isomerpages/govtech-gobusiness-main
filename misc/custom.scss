@@ -203,6 +203,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
+  a {
+    color:#037e8a;
+  }
+  a:hover {
+    color :#4471eb;
+  }  
 }
 
 // Pagination
