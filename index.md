@@ -31,10 +31,10 @@ sections:
           url: 'https://ea-staging.l1t.molb.gov.sg/'
           description: Find relevant Government assistance schemes for your business needs
         - title: Productivity Solutions Grant Listing
-          url: /productivity-solutions-grant/#supportable-solutions/
+          url: /productivity-solutions-grant/
           description: View the list of Supportable IT solutions and Equipment
         - title: Licensing
-          url: /licences/
+          url: /run-and-grow/licensing-overview/
           description: Get the licences you need for your business activities
   - carousel:
       - title: GoBusiness Licensing
