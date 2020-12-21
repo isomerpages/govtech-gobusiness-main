@@ -8,6 +8,6 @@ accordion:
 ---
 
 #### About Business Grants FAQs
-{% include accordion.html %}
+{% include accordion-new.html %}
 
-[Back to Business Grants](/business-grants/)
+[Back to Business Grants Overview](/business-grants/)
