@@ -3,7 +3,7 @@ title: About
 permalink: /licensing-faqs/
 third_nav_title: General
 accordion-new:
-  - title: I am not sure how to choose between the two options on the GoBusiness Licensing homepage. Where can I get help?
+- title: I am not sure how to choose between the two options on the GoBusiness Licensing homepage. Where can I get help?
   content: |
     <u>For all business owners except new business owners in the food services industry</u>  
     The right option, Self-Service feature (previously called LicenceOne) is for you, if you:
