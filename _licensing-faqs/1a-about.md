@@ -13,7 +13,7 @@ accordion-new:
       <u>For new food services business owners</u>  
       The left option, Guided Journey feature, is for business owners in the food services industry, especially new ones who have not applied for any licences before. Guided Journey will walk you through the step-by-step process of applying for the licences your business needs. It is currently for food services businesses only (except standalone food stalls), and will be made available to other industries in future.
 
-      If you are still not sure which option to select, please contact us <a href="/contact-us">here</a>.
+      If you are still not sure which option to select, please contact us .
 
   - title: I was trying to access LicenceOne and got redirected here. Why?
   content: LicenceOne has been rebranded and is now known as GoBusiness Licensing. The Self-Service feature has all the same functions as LicenceOne and we have also added the new Guided Journey feature to walk beginners through the licensing process.
