@@ -2,7 +2,7 @@
 title: About
 permalink: /faq/about/
 third_nav_title: General FAQs
-accordion:
+accordion-new:
   - title: I am not sure how to choose between the options on the GoBusiness homepage. Where can I get help?
     content: <strong>Login with SingPass as an Individual</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Login with CorpPass to Manage Corporate Transactions</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Start a New Business in Singapore</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Run and Grow My Business</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
   - title: I was trying to access LicenceOne and got redirected here. Why?
@@ -12,4 +12,4 @@ accordion:
 ---
 
 #### About GoBusiness Dashboard
-{% include accordion.html %}
+{% include accordion-new.html %}
