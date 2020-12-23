@@ -10,7 +10,7 @@ $primary: #037e8a;
 $secondary: #037e8a;
 //$secondary: #037E8A;
 //$secondary: #313840;
-$secondary-hover: lighten($secondary, 30%);
+$secondary-hover: lighten($secondary, 20%);
 
 //$media-color-one: #49759a;
 //$media-color-two: #744d9f;
@@ -372,8 +372,7 @@ $desktop: 960px + (2 * $gap) !default;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
   width: 50%;
-  color: #037e8a;
-  
+    
 }
 
 .is-centered {
