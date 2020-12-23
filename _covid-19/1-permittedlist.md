@@ -5,7 +5,7 @@ permalink: /permittedlist/
 
 The Government will allow the gradual resumption of businesses, in phases. Phase 1 commenced on 2 June 2020, and Phase 2 commenced on 19 June 2020. The Multi-Ministry Taskforce (MTF) announced on 14 December 2020 that Singapore will commence Phase 3 on 28 December 2020.
 
-All firms, bodies or self-employed persons who are in operation are to comply with the (1) safe management requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a> and (2) sector specific requirements listed <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">here</a>.
+All firms, bodies or self-employed persons who are in operation are to comply with the (1) safe management requirements listed [here](/safemanagement/general/) <a href="https://covid.gobusiness.gov.sg/safemanagement/general/">here</a> and (2) sector specific requirements listed [here](/safemanagement/sector/) <a href="https://covid.gobusiness.gov.sg/safemanagement/sector/">here</a>.
 
 With effect from 19 June 2020, the list of permitted services and the corresponding SSIC codes that will be allowed to operate can be found <a href="https://covid.gobusiness.gov.sg/guides/Permittedserviceslist2.pdf" target="_blank">here</a>. 
 
