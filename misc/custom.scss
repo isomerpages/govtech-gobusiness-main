@@ -309,7 +309,8 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $secondary;
 	}
 	blockquote > ul {
-		color: $secondary;
+    color: $secondary;
+  // Custom for hyperlink font colors 
   }
   a {
     color:#037e8a;
@@ -371,6 +372,7 @@ $desktop: 960px + (2 * $gap) !default;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
   width: 50%;
+  color: #037e8a;
   
 }
 
