@@ -39,4 +39,6 @@ Before choosing your business structure, consider these factors
 * What are the requirements you need
 * Is the business vehicle easy to close
 
+[Compare the Different Types of Business Entities in Singapore](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}
+
 <a href="/images/start/Types of Business Entities in Singapore.pdf" target="_blank" style="color:#037e8a">Compare the Different Types of Business Entities in Singapore</a>
