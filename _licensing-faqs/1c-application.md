@@ -1,19 +1,27 @@
 ---
-title: Getting Started
-permalink: /licensing-faqs/getting-started/
+title: Application
+permalink: /licensing-faqs/application/
 third_nav_title: General
 accordion-new:
-  - title: How do I log in?
+  - title: Which licences and permits can I apply for here?
     content: |
-      You will need to log in to GoBusiness Licensing with CorpPass. You can register for a CorpPass ID <a href="https://www.corppass.gov.sg/" target="_blank">here</a>.
+      With GoBusiness Licensing, you can apply for the following licences from these government agencies:
 
-      In order to use GoBusiness Licensing, your company's CorpPass Administrator or Sub-Administrator will need to assign digital service access to GoBusiness Portal. You can find out how to do so <a href="https://www.corppass.gov.sg/corppass/common/downloadtemplate?file=CP_User%20Guide%2004_Set%20Up%20and%20Assign%20Digital%20Service%20Access.pdf" target="_blank">here</a>.    
+      1. Change of Use / Lodgement - URA
+      2. Change of Trade - HDB
+      3. Food Shop Licence, Food Stall Licence - SFA
+      4. Petroleum & Flammable Material Storage Licence - SCDF
+      5. Liquor Licence and Public Entertainment Licence - SPF
+      6. Tobacco Retail Licence - HSA
+      7. Halal Certification - MUIS
 
-  - title: What is CorpPass? Must I log in with it?
+      If the licences you need are not on this list, please apply for your licences using our Self-Service feature <a href="#">here<a>.
+
+  - title: How do I know which Food Shop type my business falls under?
     content: |
-      CorpPass is the only login method for online corporate transactions with more than 140 government digital services, including GoBusiness Licensing. If you are using the Guided Journey feature, you need to log in with CorpPass.
+      Here is a list of all Food Shop types and their descriptions.
 
-      You can find out more about CorpPass <a href="https://www.corppass.gov.sg/" target="_blank">here</a>.
+      If you are not sure, simply use our Guided Journey feature and answer a series of questions about your business to find out which Food Shop type it falls under.
 
   - title: Which browser should I use to view GoBusiness Licensing?
     content: |
