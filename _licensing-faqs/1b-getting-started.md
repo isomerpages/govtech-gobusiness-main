@@ -25,12 +25,6 @@ accordion-new:
 
       This feature is currently only available for food & beverage businesses, and we are working on expanding this to other industries.
 
-  - title: I'm not sure which licences my business needs. How do I get started?
-    content: |
-      If your business is in the food & beverage industry, click here to use our Guided Journey feature for step-by-step guidance to find out the licences you need, and apply for them.
-
-      This feature is currently only available for food & beverage businesses, and we are working on expanding this to other industries.
-
   - title: I'm not sure how to use the Guided Journey feature. How do I begin?
     content: |
       You can use our easy step-by-step guide here. If you have further questions, you may contact our helpdesk for assistance here.
