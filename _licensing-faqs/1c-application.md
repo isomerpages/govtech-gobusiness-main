@@ -19,34 +19,89 @@ accordion-new:
 
   - title: How do I know which Food Shop type my business falls under?
     content: |
-      Here is a list of all Food Shop types and their descriptions.
+      <a href="/images/grow/Food%Shop%Type%Mapping.pdf">Here</a> is a list of all Food Shop types and their descriptions.
 
       If you are not sure, simply use our Guided Journey feature and answer a series of questions about your business to find out which Food Shop type it falls under.
 
-  - title: Which browser should I use to view GoBusiness Licensing?
+  - title: Why are some licences incompatible?
     content: |
-      GoBusiness Licensing is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or contact us for help.
+      Some licences are mutually exclusive and cannot be applied for together. Here is a list of incompatible licences:
 
-  - title: I'm not sure which licences my business needs. How do I get started?
+      1. Halal Certification is mutually exclusive to Liquor Licence and Tobacco Licence.
+      2. The Liquor Licence and Public Entertainment Licence may not be compatible with certain food shop types (e.g. Canteen)
+
+  - title: Do I enter the name of my shop or the name of my registered business under 'Premises Name'?
     content: |
-      If your business is in the food & beverage industry, click <a href="#">here</a> to use our Guided Journey feature for step-by-step guidance to find out the licences you need, and apply for them.
+      You will need to enter the name of your shop under 'Premises Name'. A good rule of thumb is to enter the intended display name on your shopfront.
 
-      This feature is currently only available for food & beverage businesses, and we are working on expanding this to other industries.
-
-  - title: I'm not sure how to use the Guided Journey feature. How do I begin?
+  - title: I cannot proceed as my premises address does not have a level and/or unit number. What should I do?
     content: |
-      You can use our easy step-by-step guide <a href="#">here</a>. If you have further questions, you may contact our helpdesk for assistance <a href="/contact-us">here</a>.
+      If your premises address does not have a level and/or unit number, please enter '00' under 'Level' and 'Unit Number' to proceed.
 
-  - title: I’m familiar with the licensing process. Is there an option to do it on my own, without going through the step-by-step guide?
+  - title: What is a Food Shop type?
     content: |
-      Yes, you can freely select and apply for the licences you want with our Self-Service feature <a href="#">here</a>.
+      The Singapore Food Agency (SFA) classifies food & beverage businesses according to their business concept.
 
-  - title: How do I log out?
+      Here is a <a href="https://go.gov.sg/food-shop-types" target="_blank">list</a> of all Food Shop types.
+
+  - title: How do I check on the status of my application?
     content: |
-      Click on the icon at the top right corner of your screen and select "Log Out". Do note that you will be automatically logged out after 20 minutes of inactivity.
+      All application status updates will be sent to the e-mail address provided in the application form.
+
+      You can also check on each licence's current status on your Application Journey.
+
+  - title: Why are some supporting documents under 'Submit Now' and others are under 'Submit For Later'?
+    content: |
+      Documents under 'Submit Now' will need to be uploaded once you submit your application, as they are required to start processing it.
+
+      Documents under 'Submit For Later' will only be needed at a later stage, and can be submitted in future via e-mail. However, you can choose to upload them together with your application, if you'd prefer.
+
+  - title: What is an Application Journey?
+      content: |
+        An Application Journey shows the correct order to apply for your licences in order to start running your business. It is customized based on your business concept.      
+
+  - title: Why can't I apply for some of the licences in my Application Journey?
+    content: |
+      Some licences are required before you can apply for others. Based on this, the Application Journey shows you the correct order to apply for them and tells you which licences you will need before applying for the next one.
+
+      Licences indicated in grey require you to obtain another licence first before you can proceed.
+
+  - title: What falls under 'Others' in Food Shop Type?
+    content: |
+      Out of the Food Shop types recommended for you, you are advised to select the option that best describes your business concept. If none of the options apply, you may select 'Others'.
+
+  - title: Why can't I select more than one Food Shop type?
+    content: |
+      Each premises is only allowed to have one Food Shop type.
+
+  - title: How and when do I submit the supporting documents under 'Submit For Later'?
+    content: |
+      An officer from the respective government agency will be in touch to request for the documents, which you can submit via e-mail.
+
+  - title: How do I find out the supporting documents I need for each licence?
+    content: |
+      Clicking on each licence in your Application Journey will show a list of supporting documents required. You can also refer to a full list of supporting documents on the 'Required Documents for your Licences' sidebar, located on the right side of your Application Journey.
+
+  - title: What does 'licence dependency' mean?
+    content: |
+      Some licences are required before you can apply for others. Based on this, the Guided Journey feature maps out the correct order to apply for them and shows you which licences you will need before applying for the next one.
+
+      <u>Here are the licence dependencies you may see</u>
+
+      1. SFA's Food Shop Licence and SPF's Public Entertainment Licence and Liquor Licence are dependent on landowner's permission (i.e. URA, HDB, Private, SLA, JTC etc)
+
+      2. Halal Certification is dependent on Food Shop Licence approval.
+
+  - title: What does 'Premises' mean?
+    content: |
+      'Premises' refers to the food shop you would like to obtain licences for.
+
+  - title: What does 'adjacent unit' mean?
+    content: |
+      Adjacent units are multiple units next to each other. This applies to businesses occupying multiple units. If your business occupies multiple levels without a connecting staircase within your premises, you will need to apply for individual licences for each level.       
 ---
 
-#### Getting Started
+#### Application
 {% include accordion-new.html %}
 
 [Back to Licensing Overview](/run-and-grow/licensing-overview/)
