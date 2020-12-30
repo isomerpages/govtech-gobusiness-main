@@ -19,7 +19,7 @@ accordion-new:
 
   - title: How do I know which Food Shop type my business falls under?
     content: |
-      <a href="/images/grow/Food%Shop%Type%Mapping.pdf">Here</a> is a list of all Food Shop types and their descriptions.
+      Here is a list of all Food Shop types and their descriptions.
 
       If you are not sure, simply use our Guided Journey feature and answer a series of questions about your business to find out which Food Shop type it falls under.
 
@@ -72,33 +72,33 @@ accordion-new:
 
   - title: Why can't I select more than one Food Shop type?
     content: |
-           Each premises is only allowed to have one Food Shop type.
+      Each premises is only allowed to have one Food Shop type.
 
   - title: How and when do I submit the supporting documents under 'Submit For Later'?
     content: |
       An officer from the respective government agency will be in touch to request for the documents, which you can submit via e-mail.
 
-   - title: How do I find out the supporting documents I need for each licence?
+  - title: How do I find out the supporting documents I need for each licence?
     content: |
       Clicking on each licence in your Application Journey will show a list of supporting documents required. You can also refer to a full list of supporting documents on the 'Required Documents for your Licences' sidebar, located on the right side of your Application Journey.
 
-    - title: What does 'licence dependency' mean?
-      content: |
-        Some licences are required before you can apply for others. Based on this, the Guided Journey feature maps out the correct order to apply for them and shows you which licences you will need before applying for the next one.
+  - title: What does 'licence dependency' mean?
+    content: |
+      Some licences are required before you can apply for others. Based on this, the Guided Journey feature maps out the correct order to apply for them and shows you which licences you will need before applying for the next one.
 
-        <u>Here are the licence dependencies you may see</u>
+      <u>Here are the licence dependencies you may see</u>
 
-        1. SFA's Food Shop Licence and SPF's Public Entertainment Licence and Liquor Licence are dependent on landowner's permission (i.e. URA, HDB, Private, SLA, JTC etc)
+      1. SFA's Food Shop Licence and SPF's Public Entertainment Licence and Liquor Licence are dependent on landowner's permission (i.e. URA, HDB, Private, SLA, JTC etc)
 
-        2. Halal Certification is dependent on Food Shop Licence approval.
+      2. Halal Certification is dependent on Food Shop Licence approval.
 
-    - title: What does 'Premises' mean?
-      content: |
-        'Premises' refers to the food shop you would like to obtain licences for.
+  - title: What does 'Premises' mean?
+    content: |
+      'Premises' refers to the food shop you would like to obtain licences for.
 
-    - title: What does 'adjacent unit' mean?
-      content: |
-        Adjacent units are multiple units next to each other. This applies to businesses occupying multiple units. If your business occupies multiple levels without a connecting staircase within your premises, you will need to apply for individual licences for each level.             
+  - title: What does 'adjacent unit' mean?
+    content: |
+      Adjacent units are multiple units next to each other. This applies to businesses occupying multiple units. If your business occupies multiple levels without a connecting staircase within your premises, you will need to apply for individual licences for each level.             
 ---
 
 #### Application
