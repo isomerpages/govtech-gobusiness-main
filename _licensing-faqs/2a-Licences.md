@@ -39,9 +39,9 @@ accordion-new:
 
   - title: Do I need to submit this application?
     content: |
-    You need to apply for Change of Trade if you are a HDB Commercial Tenant and you wish to change your existing trade or include a new trade relating to sale of food & beverage.
+      You need to apply for Change of Trade if you are a HDB Commercial Tenant and you wish to change your existing trade or include a new trade relating to sale of food & beverage.
 
-    For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.     
+      For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.     
 
   - title: I am wondering if my proposal qualifies under the Change of Use Lodgment scheme, where i can lodge my application for instant approval at a reduced cost compared to a Change of Use Application. Where can i find out more about Change of Use Lodgment?
     content: |
