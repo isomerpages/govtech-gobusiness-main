@@ -19,7 +19,7 @@ accordion-new:
 
   - title: How do I know which Food Shop type my business falls under?
     content: |
-      Here is a list of all Food Shop types and their descriptions.
+      <a href="/images/FoodShopTypeMapping.pdf" target="blank">Here</a> is a list of all Food Shop types and their descriptions.
 
       If you are not sure, simply use our Guided Journey feature and answer a series of questions about your business to find out which Food Shop type it falls under.
 
