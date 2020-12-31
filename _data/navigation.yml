@@ -34,8 +34,8 @@ links:
     #    url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
     #  - title: Types of Assistance
     #    url: /gov-assist/#search-by-assistance-type
-      - title: COVID-19 Support
-        url: /supportschemes/general
+    #  - title: COVID-19 Support
+    #    url: /supportschemes/general
       - title: Business Grants
         url: /business-grants/
       - title: Licensing
@@ -47,6 +47,8 @@ links:
         url: /permittedlist/
       - title: Safe Management Requirements
         url: /safemanagement/general/
+      - title: Supporting Our Businesses
+        url: /supportschemes/general
       - title: FAQs
         url: /faq/general
   - title: Government E-Services
