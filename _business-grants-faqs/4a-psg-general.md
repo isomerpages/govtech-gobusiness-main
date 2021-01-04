@@ -9,35 +9,23 @@ accordion-new:
       
   - title: How do I apply for the Productivity Solutions Grant (PSG)?
     content: |
-      For the Productivity Solutions Grant (PSG), you can submit a one-time claim extension before your claim is due:
+      1. Find a supported solution from the list of pre-scoped solutions.
 
-      1. Login to the Business Grants Portal.
-      2. Navigate to 'My Applications' to view all your applications.
-      3. Select the 'Completed' tab.
-      4. Click on your project title.
-      5. Click on the 'Extend Due Date' button.
+      2. For IT Solutions, you can contact the pre-approved vendor and request a quotation. For equipment, you can engage any vendor and request a quotation as long as the equipment is supported under PSG. You may wish to clarify with your processing agency on any technical specifications required.
 
-      For the Business Improvement Fund (BIF), Enterprise Development Grant (EDG) and Market Readiness Assistance (MRA), you will need to submit a Change Request to extend a claim due date.
+      3. Log in to the Business Grants Portal and submit and application.
 
-  - title: What happens if I miss the claim due date?
+  - title: What are the equipment and IT solutions supported under PSG?
     content: |
-      If you miss the claim due date, your claims will lapse. Note that reminder emails will be sent to the main contact person before the claim due date.
+      Please refer to the [full list](/productivity-solutions-grant/){:target="_blank"} of supportable equipment and IT solutions under PSG.
 
-  - title: How long does it take for me to receive my claim?
+  - title: Is there an expiry date for equipment and IT solutions?
     content: |
-      Claim disbursements take up to 4-6 weeks to process.
+      Equipment and IT solutions are refreshed regularly, depending on vendors' contracts with PSG participating agencies.
 
-  - title: How can I get the Giro form to set up my account and receive my claims?
+  - title: Can I apply for PSG if my business is registered overseas but I would like to expand to Singapore?
     content: |
-      If you don't have a GIRO account, you will need to print and complete the GIRO form relevant to your processing agency. You will need to get your bank to verify the completed form. Once verified, mail the original verified form to the agency's finance department.
-
-      Here are the links to the processing agencies' GIRO forms:
-      - [Enterprise Singapore](/images/grow/ESG_GIRO_FORM.pdf){:target="_blank"}
-      - [National Environmental Agency](/images/grow/NEA_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
-      - [National Parks Board](/images/grow/NPARKS_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
-      - [Building and Construction Authority](/images/grow/BCA_GIRO_FORM_2017_v1.0.pdf){:target="_blank"}
-      - [Singapore Tourism Board](/images/grow/BCA_GIRO_FORM_2017_v1.0.pdf){:target="_blank"}
-      - [Monetary Authority of Singapore](/images/grow/MAS_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
+      No, applicants must be registered as a business entity in Singapore to apply for PSG.
 ---
 
 #### General
