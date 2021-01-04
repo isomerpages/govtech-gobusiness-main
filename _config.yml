@@ -11,11 +11,9 @@ collections:
     output: true
   start-a-business:
     output: true
-  supportschemes:
-    output: true
   licensing-faqs:
     output: true
-  bgp-faqs:
+  business-grants-faqs:
     output: true
   productivity_solutions_grant:
     output: true
