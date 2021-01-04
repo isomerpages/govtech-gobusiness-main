@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /business-grants-faqs/application-status-and-processes/
+permalink: /business-grants-faqs/general/
 third_nav_title: Post-Application
 accordion-new:
   - title: Can I submit an appeal if my application is rejected?
