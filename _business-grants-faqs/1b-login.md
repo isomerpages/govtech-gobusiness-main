@@ -12,7 +12,15 @@ accordion-new:
     content: |
       Access to the Business Grants Portal is split into different roles.
 
-      ![bgp roles](/images/grow/bgp-roles.png) 
+      ![bgp roles](/images/grow/bgp-roles.png)
+  - title: What's the difference between CorpPass roles and Business Grants Portal roles?
+    content: |
+      The relation between CorpPass and BGP roles are as follows:
+
+      ![corppass bgp roles](/images/grow/corppass-bgp-roles.png)
+  - title: Where can I find CorpPass FAQs?
+    content: |
+      Please refer to the CorpPass FAQs [here](https://www.ifaq.gov.sg/CorpPass/apps/fcd_faqmain.aspx){:target="_blank"}.    
 ---
 
 #### Login via CorpPass
