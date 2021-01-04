@@ -1,0 +1,39 @@
+---
+title: Letter Of Offer
+permalink: /business-grants-faqs/letter-of-offer/
+third_nav_title: Post-Application
+accordion-new:
+  - title: My grant application has been approved. How do I accept my Letter of Offer?
+    content: |
+      Only your company's Acceptor in CorpPass can accept the Letter Of Offer (LOF). Viewers and Preparers are not authorised to accept the LOF.
+
+      To find out what your CorpPass role is, look for the role label next to your login account name, in the masthead.
+
+      ![lof](/images/grow/lof.jpg) 
+
+      If you are the Acceptor for your company, click to the approved grant from the ' Updates Required' tab on the 'My Grants' page.
+
+      Click on the 'Letters And Documents' section to get to your Letter Of Offer.
+
+      Download and read the LOF, then click 'Accept' to accept the terms and award of the grant.
+      
+  - title: How do I change my role from Preparer to Acceptor to accept the Letter of Offer?
+    content: |
+      If you are the company's Managing Director, Chief Executive Officer or equivalent and would like to change your role from Preparer to Acceptor, [find out how](https://www.corppass.gov.sg/corppass/common/userguides){:target="_blank"} your CorpPass admin can assign the appropriate e-service role for you.
+
+  - title: My CEO/MD, who is authorised to accept the Letter Of Offer, has left the company. How do I update Business Grants Portal and CorpPass with the new CEO/MD's details? 
+    content: |
+      Your company's CorpPass administrator just needs to assign your new CEO/MD the Business Grants Portal acceptor role, so that they can accept the Letter Of Offer.
+
+      If you haven't submitted your grant application, update your Letter Of Offer addressee. 
+
+      If you have submitted your application and it hasn't been approved, contact the processing agency. They will return your application, so you can update it. 
+
+      If you have already received a Letter Of Offer, your new CEO/MD will be able to accept it when your CorpPass administrator assigns them the rights. Do remember to update the grant processing agency and ACRA of the change in management. 
+---
+
+#### Letter Of Offer
+
+{% include accordion-new.html %}
+
+[Back to Business Grants Overview](/business-grants/)
