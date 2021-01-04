@@ -14,6 +14,9 @@ accordion-new:
       - Business Improvement Fund (Singapore Tourism Board)
       - Aviation Development Fund (Civil Aviation Authority of Singapore)
       - Productivity Solutions Grant
+  - title: Where can I find guidance on which government grants are suitable for my business?
+    content:  |
+      You can make an appointment with a Business Advisor from the [SME Centre](/contact-us/sme-centres/){:target="_blank"}.
 ---
 
 #### About Business Grants FAQs
