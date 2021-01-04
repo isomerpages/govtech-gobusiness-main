@@ -1,6 +1,6 @@
 ---
 title: Login via CorpPass
-permalink: /business-grants-faqs/login
+permalink: /business-grants-faqs/login/
 third_nav_title: General
 accordion-new:
   - title: How do I log in to the Business Grants Portal?
