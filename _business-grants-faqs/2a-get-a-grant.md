@@ -22,7 +22,7 @@ accordion-new:
       Please contact the processing agency to get in touch with the officer. You may retrieve agency contact details, such as email and phone number, by clicking on the application you want to enquire on.
 ---
 
-#### Login via CorpPass
+#### Get a Grant
 
 {% include accordion-new.html %}
 

@@ -23,7 +23,7 @@ accordion-new:
       - Security Agency Licence
 ---
 
-#### Login via CorpPass
+#### Company Profile
 
 {% include accordion-new.html %}
 

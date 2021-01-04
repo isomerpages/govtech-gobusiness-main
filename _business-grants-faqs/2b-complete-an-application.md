@@ -22,7 +22,7 @@ accordion-new:
       Any CorpPass administrator or user, who has been assigned a Business Grants Portal preparer or acceptor role, can edit and submit the grant application. Remember to update the contact details of the main contact person before you submit the application.
 ---
 
-#### Login via CorpPass
+#### Complete an Application
 
 {% include accordion-new.html %}
 
