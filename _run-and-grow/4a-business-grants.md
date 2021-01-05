@@ -1,5 +1,5 @@
 ---
-title: Apply Now
+title: How to Apply
 permalink: /business-grants/
 third_nav_title: Business Grants
 ---

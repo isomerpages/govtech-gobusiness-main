@@ -1,7 +1,14 @@
 ---
 
 ---
-
+@font-face {
+  src: url(/fonts/HKNova-Regular.otf);
+  font-family: hknova-regular;
+}
+@font-face {
+  src: url(/fonts/HKNova-Bold.otf);
+  font-family: hknova-bold;
+}
 @charset "utf-8";
 
 // GoBusiness brand colors
@@ -297,11 +304,16 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1, h2, h3, h4, h5 {
-		color: $secondary;
+    color: $secondary;
+    font-family: hknova-regular;
 		strong {
 			color: $secondary;
 		}
-	}
+  }
+  // Custom for font types 
+  a, p, li, em {
+    font-family: hknova-regular;
+  }
 	blockquote {
 		border-left-color: $secondary;
 	}

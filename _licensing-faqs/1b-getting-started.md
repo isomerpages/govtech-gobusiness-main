@@ -5,9 +5,9 @@ third_nav_title: General
 accordion-new:
   - title: How do I log in?
     content: |
-      You will need to log in to GoBusiness Licensing with CorpPass. You can register for a CorpPass ID <a href="https://www.corppass.gov.sg/" target="_blank">here</a>.
+      You will need to log in to GoBusiness Licensing with CorpPass. You can register for a CorpPass ID [here](https://www.corppass.gov.sg/){:target="_blank"}.
 
-      In order to use GoBusiness Licensing, your company's CorpPass Administrator or Sub-Administrator will need to assign digital service access to GoBusiness Portal. You can find out how to do so <a href="https://www.corppass.gov.sg/corppass/common/downloadtemplate?file=CP_User%20Guide%2004_Set%20Up%20and%20Assign%20Digital%20Service%20Access.pdf" target="_blank">here</a>.    
+      In order to use GoBusiness Licensing, your company's CorpPass Administrator or Sub-Administrator will need to assign digital service access to GoBusiness Portal. You can find out how to do so [here](https://www.corppass.gov.sg/corppass/common/downloadtemplate?file=CP_User%20Guide%2004_Set%20Up%20and%20Assign%20Digital%20Service%20Access.pdf){:target="_blank"}.    
 
   - title: What is CorpPass? Must I log in with it?
     content: |
