@@ -1,6 +1,6 @@
 ---
 title: Food Shop Licence
-permalink: /licensing-faqs/licences/
+permalink: /licensing-faqs/food-shop-licence/
 third_nav_title: Licences
 accordion-new:   
   - title: I am a foreigner with a valid employment pass issued by Ministry of Manpower. Can I apply for the licence in my name?
