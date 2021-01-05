@@ -160,17 +160,14 @@ $desktop: 960px + (2 * $gap) !default;
 // Menu/Left-nav
 .bp-menu-list a.is-active {
   color: $secondary !important;
-  font-family: hknova-regular;
   border-bottom: 2px solid $secondary !important;
 	&:hover {
     border-bottom: 2px solid $secondary !important;
-    font-family: hknova-regular;
-	}
+  }
 }
 .bp-menu-list a:hover {
   color: $secondary !important;
-  font-family: hknova-regular;
-	border-bottom: 1px solid $secondary !important;
+  border-bottom: 1px solid $secondary !important;
 }
 
 // Button
@@ -182,6 +179,16 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .bp-button:hover {
   color: $secondary;
+}
+.bp-button.bp-dropdown-button.is-fullwidth {
+  p {
+    font-family: hknova-regular;
+  }
+}
+.bp-dropdown-content {
+  p, h5 {
+    font-family: hknova-regular;
+  }
 }
 
 // Secondary button
@@ -205,17 +212,14 @@ $desktop: 960px + (2 * $gap) !default;
 .bottom-navigation {
 	a {
     background-color: $secondary;
-    font-family: hknova-regular;
-	    &:hover{
+      &:hover{
         background-color: darken($secondary,10%) !important;
-        font-family: hknova-regular;
-	    }
+      }
 	}
 }
 
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
-  font-family: hknova-regular;
 }
 
 // Pagination
@@ -241,7 +245,6 @@ $desktop: 960px + (2 * $gap) !default;
 #key-highlights{
 	//background-color: $primary;
   background-color: #084e8a;
-  font-family: hknova-regular;
 	.col {
 		//border-left:1px solid darken($primary,10%);
 		border-left:1px solid darken(#084e8a,10%);
@@ -265,7 +268,6 @@ $desktop: 960px + (2 * $gap) !default;
           @include touch(){
             //border-bottom:2px solid $secondary;
             border-bottom:2px solid #037e8a;
-            font-family: hknova-regular;
           }
         }
       }
@@ -276,28 +278,24 @@ $desktop: 960px + (2 * $gap) !default;
     //border-left: 1px solid $secondary;
 		border-bottom: 1px solid #037e8a;
     border-left: 1px solid #037e8a;
-    font-family: hknova-regular;
   }
 
   .navbar-item{
     .sub-link.is-active{
       //color:$secondary;
       color:#037e8a;
-      font-family: hknova-regular;
     }
 
     .selector{
       &.active{
         //background-color:$secondary;
         background-color:#037e8a;
-        font-family: hknova-regular;
       }
     }
     &.active{
       @include desktop(){
         //border-bottom:1px solid $secondary;
         border-bottom:1px solid #037e8a;
-        font-family: hknova-regular;
       }
     }
   }
@@ -305,14 +303,17 @@ $desktop: 960px + (2 * $gap) !default;
   a {
     //color:$secondary;
     color:#037e8a;
-    font-family: hknova-regular;
   }
   .selector {
       //background-color:$secondary;
       background-color:#037e8a;
-      font-family: hknova-regular;
     }
   }
+}
+.bp-container {
+  a, b, p, small {
+    font-family: hknova-regular;
+  } 
 }
 
 // Post-content
@@ -350,7 +351,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 .media-category-button {
   text-decoration: none !important;
-  font-family: hknova-regular;
   color: #323232;
   margin-right: 2.5rem;
   letter-spacing: 0.5px;
