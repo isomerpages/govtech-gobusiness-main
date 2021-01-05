@@ -159,14 +159,16 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-	color: $secondary !important;
+  color: $secondary !important;
+  font-family: hknova-regular;
 	border-bottom: 2px solid $secondary !important;
 	&:hover {
 		border-bottom: 2px solid $secondary !important;
 	}
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
+  color: $secondary !important;
+  font-family: hknova-regular;
 	border-bottom: 1px solid $secondary !important;
 }
 
