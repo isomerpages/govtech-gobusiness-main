@@ -309,7 +309,12 @@ $desktop: 960px + (2 * $gap) !default;
 		strong {
 			color: $secondary;
 		}
-	}
+  }
+  // Custom for font types 
+  a, p, li, em {
+    color: $secondary;
+    font-family: hknova-regular;
+  }
 	blockquote {
 		border-left-color: $secondary;
 	}
