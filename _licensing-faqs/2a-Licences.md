@@ -1,6 +1,6 @@
 ---
 title: Application for Change of Trade (HDB Commercial Properties)
-permalink: /licensing-faqs/Licences/
+permalink: /licensing-faqs/licences/
 third_nav_title: Licences
 accordion-new:
   - title: What is the Application for Change of Trade (HDB Commercial Properties) for?
@@ -41,15 +41,7 @@ accordion-new:
     content: |
       You need to apply for Change of Trade if you are a HDB Commercial Tenant and you wish to change your existing trade or include a new trade relating to sale of food & beverage.
 
-      For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.     
-
-  - title: I am wondering if my proposal qualifies under the Change of Use Lodgment scheme, where i can lodge my application for instant approval at a reduced cost compared to a Change of Use Application. Where can i find out more about Change of Use Lodgment?
-    content: |
-      You can get more information at Urban Redevelopment Authority's website <a href="https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-Lodgment/Change-Use-Lodgment" target="blank">here</a>.
-
-  - title: Where can I find out more about Change of Use for my property?
-    content: |
-      You can get more information at Urban Redevelopment Authority's website <a href="https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business" target="blank">here</a>.      
+      For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.                         
 ---
 
 #### Licences
