@@ -71,7 +71,7 @@ sections:
         businesses grow and succeed. Look for a tax incentive, loan, grant, or
         programme here.
       button: Find Out More
-      url: /govassist/
+      url: /run-and-grow/
       image: /images/govassist-hero-banner.jpg
       alt: Gov Assist
   - infopic:
