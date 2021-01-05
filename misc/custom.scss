@@ -159,11 +159,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-  font-family: hknova-regular;
   color: $secondary !important;
+  font-family: hknova-regular;
   border-bottom: 2px solid $secondary !important;
 	&:hover {
-		border-bottom: 2px solid $secondary !important;
+    border-bottom: 2px solid $secondary !important;
+    font-family: hknova-regular;
 	}
 }
 .bp-menu-list a:hover {
@@ -203,15 +204,18 @@ $desktop: 960px + (2 * $gap) !default;
 // Bottom navigation bar
 .bottom-navigation {
 	a {
-		background-color: $secondary;
+    background-color: $secondary;
+    font-family: hknova-regular;
 	    &:hover{
-	      background-color: darken($secondary,10%) !important;
+        background-color: darken($secondary,10%) !important;
+        font-family: hknova-regular;
 	    }
 	}
 }
 
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
+  font-family: hknova-regular;
 }
 
 // Pagination
@@ -236,7 +240,8 @@ $desktop: 960px + (2 * $gap) !default;
 // Homepage
 #key-highlights{
 	//background-color: $primary;
-	background-color: #084e8a;
+  background-color: #084e8a;
+  font-family: hknova-regular;
 	.col {
 		//border-left:1px solid darken($primary,10%);
 		border-left:1px solid darken(#084e8a,10%);
@@ -259,7 +264,8 @@ $desktop: 960px + (2 * $gap) !default;
         &.active{
           @include touch(){
             //border-bottom:2px solid $secondary;
-						border-bottom:2px solid #037e8a;
+            border-bottom:2px solid #037e8a;
+            font-family: hknova-regular;
           }
         }
       }
@@ -270,35 +276,41 @@ $desktop: 960px + (2 * $gap) !default;
     //border-left: 1px solid $secondary;
 		border-bottom: 1px solid #037e8a;
     border-left: 1px solid #037e8a;
+    font-family: hknova-regular;
   }
 
   .navbar-item{
     .sub-link.is-active{
       //color:$secondary;
-			color:#037e8a;
+      color:#037e8a;
+      font-family: hknova-regular;
     }
 
     .selector{
       &.active{
         //background-color:$secondary;
-				background-color:#037e8a;
+        background-color:#037e8a;
+        font-family: hknova-regular;
       }
     }
     &.active{
       @include desktop(){
         //border-bottom:1px solid $secondary;
-				border-bottom:1px solid #037e8a;
+        border-bottom:1px solid #037e8a;
+        font-family: hknova-regular;
       }
     }
   }
 .navbar-item:hover {
   a {
     //color:$secondary;
-		color:#037e8a;
+    color:#037e8a;
+    font-family: hknova-regular;
   }
   .selector {
       //background-color:$secondary;
-			background-color:#037e8a;
+      background-color:#037e8a;
+      font-family: hknova-regular;
     }
   }
 }
@@ -338,6 +350,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .media-category-button {
   text-decoration: none !important;
+  font-family: hknova-regular;
   color: #323232;
   margin-right: 2.5rem;
   letter-spacing: 0.5px;
@@ -345,6 +358,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .media-category-button:hover, .media-category-button.selected {
   color: $secondary;
+  font-family: hknova-regular;
   border-bottom: 2px solid $secondary;
 }
 
@@ -357,6 +371,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .news-content {
   position: relative;
+  font-family: hknova-regular;
   margin-left: 1rem;
   margin-right: 1rem;
   padding: 2rem;
