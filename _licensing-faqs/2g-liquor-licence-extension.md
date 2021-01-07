@@ -8,30 +8,36 @@ accordion-new:
       If you have just updated ACRA for any changes related to your company's name or staff listing, please allow for at least a day before you submit any application on GoBusiness Licensing with relation to these changes. This waiting time is required to get the updates synced for GoBusiness system verification.
 
       <b>Entity Type: Limited Liability Partnership</b>
+
       Eligibility Criteria:
+
       Applicant must be having position:
-      - <sup>*</sup> PARTNER
+      - PARTNER
 
       <b>Entity Type: Company</b>
+
       Eligibility Criteria:
+
       Applicant must be having one of the following position:
-      - <sup>*</sup> MANAGING DIRECTOR
-      - <sup>*</sup> SECRETARY
-      - <sup>*</sup> DIRECTOR
-      - <sup>*</sup> CHIEF EXECUTIVE OFFICER
+      - MANAGING DIRECTOR
+      - SECRETARY
+      - DIRECTOR
+      - CHIEF EXECUTIVE OFFICER
 
 
       <b>Entity Type: Business (Sole Proprietor/Partnership)</b>
+
       Eligibility Criteria:
+
       Applicant must be having one of the following position:
-      - <sup>*</sup> OWNER
-      - <sup>*</sup> AUTHORIZED REPRESENTATIVE
+      - <OWNER
+      - AUTHORIZED REPRESENTATIVE
 
       <b>Entity Type: LP</b>
       Eligibility Criteria:
       Applicant must be having one of the following position:
-      - <sup>*</sup> GENERAL PARTNER
-      - <sup>*</sup> LIMITED PARTNER
+      - GENERAL PARTNER
+      - LIMITED PARTNER
 
   - title: Where can I get more information for Liquor Licence (Extension of Operating Hours)?
     content: |
