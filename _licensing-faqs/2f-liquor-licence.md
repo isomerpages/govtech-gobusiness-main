@@ -1,6 +1,6 @@
 ---
 title: Liquor Licence
-permalink: /licensing-faqs/Liquor-licence/
+permalink: /licensing-faqs/liquor-licence/
 third_nav_title: Licences
 accordion-new:   
   - title: Which Liquor Licence class types can I apply for in GoBusiness Licensing Guided Journey?
@@ -24,7 +24,6 @@ accordion-new:
       <sup>*</sup> DIRECTOR
       <sup>*</sup> CHIEF EXECUTIVE OFFICER
 
-
       <b>Entity Type: Business (Sole Proprietor/Partnership)</b>
       Eligibility Criteria:
       Applicant must be having one of the following position:
@@ -39,8 +38,7 @@ accordion-new:
 
   - title:  Where can I get more information for Liquor Licence?
     content: |
-      	You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence){:target="_blank"}..      
-
+      You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence){:target="_blank"}.      
 ---
 
 #### Liquor Licence

@@ -1,6 +1,6 @@
 ---
 title: Liquor Licence (Extension of Operating Hours)
-permalink: /licensing-faqs/Liquor-licence-extension/
+permalink: /licensing-faqs/liquor-licence-extension/
 third_nav_title: Licences
 accordion-new:   
   - title: Who can be an applicant?
