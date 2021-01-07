@@ -10,30 +10,30 @@ accordion-new:
       <b>Entity Type: Limited Liability Partnership</b>
       Eligibility Criteria:
       Applicant must be having position:
-      <sup>*</sup> PARTNER
+      - <sup>*</sup> PARTNER
 
       <b>Entity Type: Company</b>
       Eligibility Criteria:
       Applicant must be having one of the following position:
-      <sup>*</sup> MANAGING DIRECTOR
-      <sup>*</sup> SECRETARY
-      <sup>*</sup> DIRECTOR
-      <sup>*</sup> CHIEF EXECUTIVE OFFICER
+      - <sup>*</sup> MANAGING DIRECTOR
+      - <sup>*</sup> SECRETARY
+      - <sup>*</sup> DIRECTOR
+      - <sup>*</sup> CHIEF EXECUTIVE OFFICER
 
 
       <b>Entity Type: Business (Sole Proprietor/Partnership)</b>
       Eligibility Criteria:
       Applicant must be having one of the following position:
-      <sup>*</sup> OWNER
-      <sup>*</sup> AUTHORIZED REPRESENTATIVE
+      - <sup>*</sup> OWNER
+      - <sup>*</sup> AUTHORIZED REPRESENTATIVE
 
       <b>Entity Type: LP</b>
       Eligibility Criteria:
       Applicant must be having one of the following position:
-      <sup>*</sup> GENERAL PARTNER
-      <sup>*</sup> LIMITED PARTNER
+      - <sup>*</sup> GENERAL PARTNER
+      - <sup>*</sup> LIMITED PARTNER
 
-  - title:  Where can I get more information for Liquor Licence (Extension of Operating Hours)?
+  - title: Where can I get more information for Liquor Licence (Extension of Operating Hours)?
     content: |
       You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-services/apply/licenses-and-permits/copy%20of%20liquor-licence){:target="_blank"}.  
 
