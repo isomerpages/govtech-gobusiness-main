@@ -27,6 +27,85 @@ accordion-new:
 
       For information on the GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at 68481623 / 6848161
 
+  - title:  What supporting documents do I need to submit?
+    content: |
+      For application of P&FM Storage Licence, you will need to submit the following supporting documents:
+
+      1. Approved Plans for LPG Installation.
+
+      2. Fire Safety Certificate.
+
+      3. Emergency Response Plan(ERP).
+
+      4. LPG Fire Safety Checklist.
+
+      5. Pressure Test Report endorsed by a Professional Engineer(PE).
+
+      6. Supervision of LPG Piped installation endorsed by a Professional Engineer(PE).
+
+      7. List of installed LPG system equipment endorsed by a Professional Engineer(PE).
+
+      8. Letter of Undertaking on Safe Handling of LPG Installation.
+
+      9. Approval letter from authorities such as URA, SLA and LTA for the proposed storage area of the LPG manifold system located on a back lane.
+
+  - title:  What supporting documents do I need to submit?
+    content: |
+      For further assistance, you may contact:
+
+      [Azmi_Md_Hashim@scdf.gov.sg](mailto:Azmi_Md_Hashim@scdf.gov.sg)
+      Azmi B Md Hashim
+      Storage Licensing Specialist
+      Central Enforcement Department
+
+      [Johnson_Wong@scdf.gov.sg](mailto:Johnson_Wong@scdf.gov.sg)
+      Johnson Wong
+      Storage Licensing Specialist
+      Central Enforcement Department
+
+      [Md_Rafeei_Misnawi@scdf.gov.sg](mailto:Md_Rafeei_Misnawi@scdf.gov.sg)
+      Md Rafeei Misnawi
+      Storage Licensing Specialist
+      Central Enforcement Department
+
+      [Md_Zali_Ahmad@scdf.gov.sg](mailto:Md_Zali_Ahmad@scdf.gov.sg)
+      Md Zali Ahmad
+      Storage Licensing Specialist
+      Central Enforcement Department
+
+      [K_Mahaintharan@scdf.gov.sg](mailto:Md_Zali_Ahmad@scdf.gov.sg)
+      Mr K Mahaintharan
+      Team Leader Import and Transport
+      Central Enforcement Department
+
+      [Muhathir_Mohamad@scdf.gov.sg](mailto:Md_Zali_Ahmad@scdf.gov.sg)
+      Muhathir Mohamad
+      Senior Licensing Officer
+      Central Enforcement Department
+
+      [Md_Faizal_MAZLAN@scdf.gov.sg](mailto:Md_Zali_Ahmad@scdf.gov.sg)
+      Md Faizal Mazlan
+      Senior Team Leader Storage
+      Central Enforcement Department
+
+      [Alice_Seto@scdf.gov.sg](mailto:Md_Zali_Ahmad@scdf.gov.sg)
+      Alice Seto
+      Senior Team Leader Import and Transport
+      Central Enforcement Department
+
+      Central Tel Line: 68481472
+
+  - title:  What is the application process like?
+    content: |
+      You can submit the application form and the supporting documents if required, on our website. As the applicant, you can either file personally or authorise a representative to apply on your behalf using Corp Pass id. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.      
+
+  - title:  How long is the licence valid for?
+    content: |
+      The licence is valid for one year.
+
+  - title:  How soon can my application be processed?
+    content: |
+      Your application will be respond within seven working days and SCDF officers will contact you to arrange for an inspection. If documents submitted are in order and the inspection is satisfactory, approval will be granted and the Petroleum & Flammable Materials Storage Licence will be issued upon payment.             
 ---
 
 #### Petroleum / Flammable Materials Storage Licence

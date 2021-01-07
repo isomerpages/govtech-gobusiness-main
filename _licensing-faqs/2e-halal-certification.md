@@ -30,8 +30,8 @@ accordion-new:
     content: |
       For further assistance, please contact:
       Tel: (65) 6812 6060
-      Email: mes_3.0@muis.gov.sg        
-          
+      Email: [mes_3.0@muis.gov.sg](mailto:mes_3.0@muis.gov.sg)        
+
 ---
 
 #### Halal Certfication
