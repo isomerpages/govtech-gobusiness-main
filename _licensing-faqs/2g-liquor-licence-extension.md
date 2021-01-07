@@ -7,17 +7,16 @@ accordion-new:
     content: |
       If you have just updated ACRA for any changes related to your company's name or staff listing, please allow for at least a day before you submit any application on GoBusiness Licensing with relation to these changes. This waiting time is required to get the updates synced for GoBusiness system verification.
 
-      <b>Entity Type: Limited Liability Partnership</b>
+      <b>1. Entity Type: Limited Liability Partnership</b>
 
       Eligibility Criteria:
-
       Applicant must be having position:
       - PARTNER
 
-      <b>Entity Type: Company</b>
+
+      <b>2. Entity Type: Company</b>
 
       Eligibility Criteria:
-
       Applicant must be having one of the following position:
       - MANAGING DIRECTOR
       - SECRETARY
@@ -25,15 +24,16 @@ accordion-new:
       - CHIEF EXECUTIVE OFFICER
 
 
-      <b>Entity Type: Business (Sole Proprietor/Partnership)</b>
+      <b>3. Entity Type: Business (Sole Proprietor/Partnership)</b>
 
       Eligibility Criteria:
-
       Applicant must be having one of the following position:
-      - <OWNER
+      - OWNER
       - AUTHORIZED REPRESENTATIVE
 
-      <b>Entity Type: LP</b>
+
+      <b>4. Entity Type: LP</b>
+
       Eligibility Criteria:
       Applicant must be having one of the following position:
       - GENERAL PARTNER
