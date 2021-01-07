@@ -159,15 +159,15 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 2px solid $secondary !important;
+  color: $secondary !important;
+  border-bottom: 2px solid $secondary !important;
 	&:hover {
-		border-bottom: 2px solid $secondary !important;
-	}
+    border-bottom: 2px solid $secondary !important;
+  }
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+  color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
 }
 
 // Button
@@ -179,6 +179,16 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .bp-button:hover {
   color: $secondary;
+}
+.bp-button.bp-dropdown-button.is-fullwidth {
+  p {
+    font-family: hknova-regular;
+  }
+}
+.bp-dropdown-content {
+  p, h5 {
+    font-family: hknova-regular;
+  }
 }
 
 // Secondary button
@@ -201,10 +211,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Bottom navigation bar
 .bottom-navigation {
 	a {
-		background-color: $secondary;
-	    &:hover{
-	      background-color: darken($secondary,10%) !important;
-	    }
+    background-color: $secondary;
+      &:hover{
+        background-color: darken($secondary,10%) !important;
+      }
 	}
 }
 
@@ -234,7 +244,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Homepage
 #key-highlights{
 	//background-color: $primary;
-	background-color: #084e8a;
+  background-color: #084e8a;
 	.col {
 		//border-left:1px solid darken($primary,10%);
 		border-left:1px solid darken(#084e8a,10%);
@@ -257,7 +267,7 @@ $desktop: 960px + (2 * $gap) !default;
         &.active{
           @include touch(){
             //border-bottom:2px solid $secondary;
-						border-bottom:2px solid #037e8a;
+            border-bottom:2px solid #037e8a;
           }
         }
       }
@@ -273,32 +283,37 @@ $desktop: 960px + (2 * $gap) !default;
   .navbar-item{
     .sub-link.is-active{
       //color:$secondary;
-			color:#037e8a;
+      color:#037e8a;
     }
 
     .selector{
       &.active{
         //background-color:$secondary;
-				background-color:#037e8a;
+        background-color:#037e8a;
       }
     }
     &.active{
       @include desktop(){
         //border-bottom:1px solid $secondary;
-				border-bottom:1px solid #037e8a;
+        border-bottom:1px solid #037e8a;
       }
     }
   }
 .navbar-item:hover {
   a {
     //color:$secondary;
-		color:#037e8a;
+    color:#037e8a;
   }
   .selector {
       //background-color:$secondary;
-			background-color:#037e8a;
+      background-color:#037e8a;
     }
   }
+}
+.bp-container {
+  a, b, p, small {
+    font-family: hknova-regular;
+  } 
 }
 
 // Post-content
@@ -343,6 +358,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .media-category-button:hover, .media-category-button.selected {
   color: $secondary;
+  font-family: hknova-regular;
   border-bottom: 2px solid $secondary;
 }
 
@@ -355,6 +371,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .news-content {
   position: relative;
+  font-family: hknova-regular;
   margin-left: 1rem;
   margin-right: 1rem;
   padding: 2rem;

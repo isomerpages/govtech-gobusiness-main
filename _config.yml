@@ -19,6 +19,7 @@ collections:
     output: true
   covid-19:
     output: true
+google_analytics: G-F9333C77LK
 resources_name: news-and-media
 
 
