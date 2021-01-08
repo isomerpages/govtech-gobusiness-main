@@ -12,7 +12,7 @@ To hire a local employee, you need to:
 
 - Identify suitable applicants via a [job bank](https://employer.mycareersfuture.sg/){:target="_blank"}
 - Write a [contract](https://www.mom.gov.sg/employment-practices/contract-of-service#key-employment-terms){:target="_blank"} which complies with the [Employment Act]()
-- Apply for a [CPF Submission Number]() to make CPF contributions as an employer
+- Apply for a [CPF Submission Number](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/setting-up-a-company/registering-as-an-employer-and-knowing-your-responsibilities){:target="_blank"} to make CPF contributions as an employer
 - Get insurance for employees doing manual work and earning $2,100 or less per month)
 
 Every month, you will need to issue itemised payslips along with the payroll, pay levy and make CPF contributions. You will also need to file for taxes for your employees every year.
