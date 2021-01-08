@@ -1,7 +1,7 @@
 ---
 title: Tax Incentives
 permalink: /run-and-grow/tax-incentives/
-third_nav_title: Types of Assistance
+third_nav_title: Government Assistance
 ---
 
 ## List of Tax Incentives

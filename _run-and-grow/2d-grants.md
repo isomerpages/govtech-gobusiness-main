@@ -1,7 +1,7 @@
 ---
 title: Grants
 permalink: /run-and-grow/grants/
-third_nav_title: Types of Assistance
+third_nav_title: Government Assistance
 ---
 
 ## List of Grants
