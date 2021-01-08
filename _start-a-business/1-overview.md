@@ -5,7 +5,9 @@ permalink: /start-a-business/
 
 ## Overview
 
-If you're starting a business in Singapore, here are 7 key steps to guide you:
+Starting a business in Singapore is made easier with GoBusiness, your go-to platform for all the government services you need. 
+
+Here are 7 key steps to guide you:
 
 [1. Choose a business structure](/start-a-business/choose-a-business-structure/)<br>
 [2. Find a business address](/start-a-business/find-a-business-address/)<br>
