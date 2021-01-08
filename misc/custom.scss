@@ -326,7 +326,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   // Custom for font types 
-  a, p, li, em {
+  a, p, li, h3 center, em {
     font-family: hknova-regular;
   }
 	blockquote {
