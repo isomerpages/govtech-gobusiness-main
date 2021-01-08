@@ -35,13 +35,7 @@ If you're not sure which to choose, you can use our e-Adviser to help select the
 Alternatively, simply select your sector and business needs to get suggestions for relevant grants.
 
 **Step 2: Register with CorpPass**
-<br>Log in with CorpPass here and ask your CorpPass Admin to assign an appropriate BGP role to you.
-
-<p>
-{% include button.html text="Business Grants Portal" src="<p>
-{% include button.html text="Login to Business Grants" src="https://www.businessgrants.gov.sg/" type="primary" %}
-</p>" type="primary" %}
-</p>
+<br>Log in with CorpPass [here](https://www.businessgrants.gov.sg/){:target="_blank"} and ask your CorpPass Admin to assign an appropriate BGP role to you.
 
 **Step 3: Fill in company profile**
 <br>Fill in your company profile. Please take note that your ACRA profile will be populated automatically.
