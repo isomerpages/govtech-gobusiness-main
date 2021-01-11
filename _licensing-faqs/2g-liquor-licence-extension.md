@@ -48,4 +48,4 @@ accordion-new:
 #### Liquor Licence (Extension of Operating Hours)
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/run-and-grow/licensing-overview/)
+[Back to Licensing Overview](/licensing/)

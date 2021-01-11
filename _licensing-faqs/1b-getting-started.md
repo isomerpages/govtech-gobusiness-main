@@ -41,4 +41,4 @@ accordion-new:
 #### Getting Started
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/run-and-grow/licensing-overview/)
+[Back to Licensing Overview](/licensing/)

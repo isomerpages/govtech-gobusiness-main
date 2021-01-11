@@ -15,4 +15,4 @@ accordion-new:
 #### Change of Use Approval
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/run-and-grow/licensing-overview/)
+[Back to Licensing Overview](/licensing/)

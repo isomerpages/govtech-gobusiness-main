@@ -15,4 +15,4 @@ accordion-new:
 #### Payment
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/run-and-grow/licensing-overview/)
+[Back to Licensing Overview](/licensing/)
