@@ -51,4 +51,4 @@ accordion-new:
 #### Liquor Licence
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/licensing/)
+[Back to Licensing Overview](/licences/)

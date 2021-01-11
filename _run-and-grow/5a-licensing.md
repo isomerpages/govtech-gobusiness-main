@@ -1,10 +1,10 @@
 ---
 title: Overview
-permalink: /licensing/
+permalink: /licences/
 third_nav_title: Licensing
 ---
 
-## Licensing Overview
+## Overview
 
 #### For new food services business owners
 Get step-by-step help to apply for the licences you need, with our Guided Journey feature. Select this if you are a new business owner in the food services industry.

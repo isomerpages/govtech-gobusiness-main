@@ -37,4 +37,4 @@ accordion-new:
 #### Halal Certfication
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/licensing/)
+[Back to Licensing Overview](/licences/)

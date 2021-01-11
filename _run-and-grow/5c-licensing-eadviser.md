@@ -1,6 +1,6 @@
 ---
 title: Licensing e-Adviser
-permalink: /licensing/licensing-eadviser/
+permalink: /licences/licensing-eadviser/
 third_nav_title: Licensing
 
 accordion-new:

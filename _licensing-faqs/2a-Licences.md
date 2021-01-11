@@ -47,4 +47,4 @@ accordion-new:
 #### Licences
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/licensing/)
+[Back to Licensing Overview](/licences/)

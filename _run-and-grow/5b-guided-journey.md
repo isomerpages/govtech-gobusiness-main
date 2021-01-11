@@ -1,6 +1,6 @@
 ---
 title: Guided Journey
-permalink: /licensing/guided-journey/
+permalink: /licences/guided-journey/
 third_nav_title: Licensing
 ---
 
