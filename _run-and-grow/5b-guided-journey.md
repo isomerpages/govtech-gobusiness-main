@@ -1,6 +1,6 @@
 ---
 title: Guided Journey
-permalink: /run-and-grow/guided-journey/
+permalink: /licensing/guided-journey/
 third_nav_title: Licensing
 ---
 

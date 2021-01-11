@@ -37,7 +37,7 @@ sections:
           url: /productivity-solutions-grant/
           description: View the list of Supportable IT solutions and Equipment
         - title: Licensing
-          url: /run-and-grow/licensing-overview/
+          url: /licensing/
           description: Get the licences you need for your business activities
   - carousel:
       - title: GoBusiness Licensing
