@@ -8,6 +8,6 @@ third_nav_title: All Businesses
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
-|1.|ACRA| [Apply for CPF Submission Number](https://www.bizfile.gov.sg){:target="_blank"}|
-|2.|CPF| [Submission of CPF Contributions (via E-Submission and hardcopy form)](https://www.cpf.gov.sg){:target="_blank"}|
+|1.|ACRA| [Apply for CPF Submission Number](https://www.bizfile.gov.sg) |
+|2.|CPF| [Submission of CPF Contributions (via E-Submission and hardcopy form)](https://www.cpf.gov.sg) |
 

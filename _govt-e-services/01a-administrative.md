@@ -8,6 +8,6 @@ third_nav_title: All Businesses
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
-|1.|ACRA| [Manage a Business (Local Company, Foreign Company, Limited Partnership, Limited Liability Partnership, Public Accounting Firm)](https://www.bizfile.gov.sg){:target="_blank"}|
-|2.|ACRA| [Apply for Domain Name](https://www.bizfile.gov.sg){:target="_blank"}|
-|3.|ACRA|[Application for New Company Name](https://www.bizfile.gov.sg){:target="_blank"}|
+|1.|ACRA| [Manage a Business (Local Company, Foreign Company, Limited Partnership, Limited Liability Partnership, Public Accounting Firm)](https://www.bizfile.gov.sg) |
+|2.|ACRA| [Apply for Domain Name](https://www.bizfile.gov.sg) |
+|3.|ACRA|[Application for New Company Name](https://www.bizfile.gov.sg) |
