@@ -35,10 +35,10 @@ navlinks:
       - title: FAQs
         url: /faq/general      
   - title: Government E-Services
-    url: /finance-related/
+    url: /govt-e-services/administrative/
     sublinks:
-      - title: Finance related
-        url: /finance-related/
+      - title: All Businesses
+        url: /govt-e-services/administrative/
       - title: Manpower related
         url: /manpower-related/ 
   - title: About Us
