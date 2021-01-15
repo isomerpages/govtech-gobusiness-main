@@ -39,8 +39,8 @@ navlinks:
     sublinks:
       - title: All Businesses
         url: /govt-e-services/administrative/
-      - title: Manpower related
-        url: /manpower-related/ 
+      - title: Arts & Media
+        url: /govt-e-services/arts-and-media/ 
   - title: About Us
     url: /about-us/
     sublinks:

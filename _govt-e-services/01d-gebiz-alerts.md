@@ -1,6 +1,7 @@
 ---
 title: GeBIZ Alerts
 permalink: /gebiz-alerts/
+third_nav_title: All Businesses
 ---
 
 ## GeBIZ Alerts
