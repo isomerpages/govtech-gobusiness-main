@@ -40,7 +40,9 @@ navlinks:
       - title: All Businesses
         url: /govt-e-services/administrative/
       - title: Arts & Media
-        url: /govt-e-services/arts-and-media/ 
+        url: /govt-e-services/arts-and-media/
+      - title: Casinos
+        url: /govt-e-services/casinos/  
   - title: About Us
     url: /about-us/
     sublinks:
