@@ -32,7 +32,7 @@ sections:
       #    description: Find relevant Government assistance schemes for your business needs
         - title: Permissions and Manpower Declaration
           url: https://go.gov.sg/timelimitedexemption
-          description: Click here to check your exemption application/business resumption status and to submit your manpower details.
+          description: Check your exemption application/business resumption status and submit manpower details.
         - title: Productivity Solutions Grant Listing
           url: /productivity-solutions-grant/
           description: View the list of Supportable IT solutions and Equipment
