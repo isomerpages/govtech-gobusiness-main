@@ -36,7 +36,7 @@ sections:
         - title: Productivity Solutions Grant Listing
           url: /productivity-solutions-grant/
           description: View the list of Supportable IT solutions and Equipment
-        - title: Licensing
+        - title: Licences and Permits
           url: /licences/
           description: Get the licences you need for your business activities
   - carousel:
