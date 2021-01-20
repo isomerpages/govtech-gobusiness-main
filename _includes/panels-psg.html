@@ -33,16 +33,32 @@
         margin-top: 20px;
     }
 
+    .panel-description1 {
+        font-family: "HK Nova", sans-serif;
+        font-size: 20px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 35.2px !important;
+    }
+
     .panel-link1 {
         font-family: "HK Nova", sans-serif;
         font-size: 20px;
         margin-top: -20px;
     }
 
+    .panel-description2 {
+        font-family: "HK Nova", sans-serif;
+        font-size: 20px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 35.2px !important;
+    }
+
     .panel-link2 {
         font-family: "HK Nova", sans-serif;
         font-size: 20px;
-        margin-top: 10px;
+        margin-top: -20px;
     }
 
     @media only screen and (max-width: 600px) {
@@ -59,8 +75,8 @@
         <span class="panel-title">{{ panel.title }}</span>
         <!-- description to change the style -->
         <a class="panel-link" href="{{ panel.link }}">{{ panel.description }}</a>
-        <a class="panel-link1" href="{{ panel.link1 }}">{{ panel.link1 }}</a>
-        <a class="panel-link2" href="{{ panel.link2 }}">{{ panel.link2 }}</a>
+        <a class="panel-link1" href="{{ panel.link1 }}">{{ panel.description1 }}</a>
+        <a class="panel-link2" href="{{ panel.link2 }}">{{ panel.description2 }}</a>
     </div>
     {% endfor %}
 
