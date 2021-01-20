@@ -1,6 +1,6 @@
 ---
-title: Constuction
-permalink: /govt-e-services/constuction/
+title: Construction
+permalink: /govt-e-services/construction/
 ---
 
 #### List of Constuction related e-Services
