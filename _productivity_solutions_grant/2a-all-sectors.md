@@ -1,5 +1,5 @@
 ---
-title: Generic Solutions for all Sectors
+title: Generic Solutions for All Sectors
 permalink: /productivity-solutions-grant/sectors/all-sectors/
 third_nav_title: Sectors
 accordion-new:
@@ -25,7 +25,7 @@ accordion-new:
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}    
 ---
 
-## Pre-scoped IT Solutions for All Sectors
+## Generic Solutions for All Sectors
 
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
