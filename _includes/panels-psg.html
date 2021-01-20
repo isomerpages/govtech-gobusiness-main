@@ -57,9 +57,8 @@
     {% for panel in include.panels %}
     <div class="panel">
         <span class="panel-title">{{ panel.title }}</span>
-        <p class="panel-description">{{ panel.description }}</p>
         <!-- description to change the style -->
-        <a class="panel-link" href="{{ panel.link }}">{{ panel.link }}</a>
+        <a class="panel-link" href="{{ panel.link }}">{{ panel.description }}</a>
         <a class="panel-link1" href="{{ panel.link1 }}">{{ panel.link1 }}</a>
         <a class="panel-link2" href="{{ panel.link2 }}">{{ panel.link2 }}</a>
     </div>
