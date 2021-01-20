@@ -7,8 +7,8 @@ accordion-new:
     content: |
       | Vendor | Solution |
       |-- |-- |
-      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}|
-      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}|
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
