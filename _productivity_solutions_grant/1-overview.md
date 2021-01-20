@@ -42,18 +42,4 @@ The support for COVID-19 continuity measures will cease on 31 Dec 2020. Companie
 
 ***
 
-<sup>1</sup> As announced under the Resilience Budget, PSG’s maximum support level has been enhanced until 30th September 2021. 
-
-#### Generic Solutions for all Sectors
-
-[Pre-scoped IT Solutions](/productivity-solutions-grant/sectors/all-sectors/)
-
-[Pre-scoped Consultancy Service](/productivity-solutions-grant/sectors/all-sectors/)
-
-#### Advanced Manufacturing
-
-[Pre-scoped Equipment](/productivity-solutions-grant/sectors/all-sectors/)
-
-#### Agriculture (Non-Food)
-
-[Pre-scoped Equipment](/productivity-solutions-grant/sectors/all-sectors/)
+<sup>1</sup> As announced under the Resilience Budget, PSG’s maximum support level has been enhanced until 30th September 2021.
