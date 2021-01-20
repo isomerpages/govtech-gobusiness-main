@@ -3,6 +3,12 @@ title: Generic Solutions for All Sectors
 permalink: /productivity-solutions-grant/sectors/all-sectors/
 third_nav_title: Sectors
 accordion-new:
+  - title: Accounting Management and Human Resource Management System (HRMS)
+    content: |
+      | Vendor | Solution |
+      |-- |-- |
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}|
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}|
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
