@@ -7,7 +7,7 @@ third_nav_title: Government Assistance
 ## List of Grants
 
 
-{% include-module.html image_path="/images/budget2021/budget2021.jpg" title="Some title text" description="#### 2-Stage Innovation Grant (iGrant)" %}
+{% include-module.html image_path="/images/budget2021/budget2021.jpg" title="Some title text" description="2-Stage Innovation Grant (iGrant)" %}
 
 #### 2-Stage Innovation Grant (iGrant)
 
