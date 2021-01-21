@@ -6,11 +6,12 @@ third_nav_title: Government Assistance
 
 ## List of Grants
 
-![budget2021](/images/budget2021/budget2021.jpg){: .img-right} <h4>2-Stage Innovation Grant (iGrant)</h4>
+![budget2021](/images/budget2021/budget2021.jpg){: style="float: right; display: inline; margin: auto; width: 10%;"} 
+<h4>2-Stage Innovation Grant (iGrant)</h4>
 
 #### 2-Stage Innovation Grant (iGrant)
 
-<img src:'/images/budget2021/budget2021.jpg' style="display:inline; margin:auto; width:10%;" />
+<img src:'/images/budget2021/budget2021.jpg' style="display: inline; margin: auto; width: 10%;" />
 
 Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
 
