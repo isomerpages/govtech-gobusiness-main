@@ -369,6 +369,13 @@ $desktop: 960px + (2 * $gap) !default;
   margin-left: 0;
 }
 
+// Text inline image - Kevin
+.content img {
+  display: inline;
+  margin: auto;
+  width: 10%;
+}
+
 .news-content {
   position: relative;
   font-family: hknova-regular;
