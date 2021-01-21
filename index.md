@@ -12,7 +12,6 @@ sections:
         so it's easier to access a range of support options and understand the
         government requirements to start or grow a business in Singapore.
       background: /images/gobiz_herobanner.jpg
-      button: Login
       dropdown:
         title: I Want To...
         options:
