@@ -42,7 +42,7 @@ navlinks:
         url: /supportschemes/general
       - title: FAQs
         url: /faq/general      
-  - title: Government E-Services
+  - title: E-Services
     url: /govt-e-services/administrative/
     sublinks:
       - title: All Businesses
