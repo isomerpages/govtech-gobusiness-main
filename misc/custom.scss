@@ -369,11 +369,6 @@ $desktop: 960px + (2 * $gap) !default;
   margin-left: 0;
 }
 
-// CSS for image inline with text - Kevin
-.content img, .content p {
-  float: right
-}
-
 .news-content {
   position: relative;
   font-family: hknova-regular;
