@@ -8,8 +8,6 @@ third_nav_title: Government Assistance
 
 #### 2-Stage Innovation Grant (iGrant)![b2021](/images/budget2021/budget2021.jpg "Budget 2021")
 
-#### 2-Stage Innovation Grant (iGrant)<sup>![b2021](/images/budget2021/budget2021.jpg "Budget 2021")</sup>
-
 Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
 
 <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank" style="color:#037e8a">Find out more</a>
