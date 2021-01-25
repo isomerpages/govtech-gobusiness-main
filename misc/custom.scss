@@ -369,6 +369,13 @@ $desktop: 960px + (2 * $gap) !default;
   margin-left: 0;
 }
 
+// specific image inline with text - Kevin
+img[src*="/images/budget2021/budget2021.jpg"] {
+  display: inline;
+  margin: auto;
+  width: 10%;
+}
+
 .news-content {
   position: relative;
   font-family: hknova-regular;
