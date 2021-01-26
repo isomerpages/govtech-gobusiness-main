@@ -73,5 +73,5 @@ links:
   #      url: /contact-us/sme-centres/
   #    - title: General FAQs
   #      url: /faq/about/
-  - title: <b>Login</b>
+  - title: Login
     url: https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=loginwha
