@@ -7,14 +7,14 @@
 logo: /images/Gobiz_logo_SG.svg
 
 links:
-  - title: Start A Business
+  - title: Start Business
     url: /start-a-business/
     sublinks:
       - title: Overview
         url: /start-a-business/
       - title: Key Steps to Start a Business
         url: /start-a-business/choose-a-business-structure/
-  - title: Run and Grow a Business
+  - title: Run and Grow Business
     url: /run-and-grow/
     sublinks:
       - title: Overview
@@ -32,7 +32,7 @@ links:
       - title: Register for GST
         url: /run-and-grow/gst-registered/
       - title: GeBIZ Alerts
-        url: /gebiz-alerts/ 
+        url: /gebiz-alerts/
   - title: Covid-19
     url: /permittedlist/
     sublinks:
@@ -74,9 +74,9 @@ links:
   #    - title: General FAQs
   #      url: /faq/about/
   - title: Login
-  #  url: 
+  #  url:
     sublinks:
-      - title: SingPass
+      - title: Login as Individuals
         url: https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
-      - title: CorpPass
-        url: https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=loginwha    
+      - title: Login for Businesses
+        url: https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=loginwha
