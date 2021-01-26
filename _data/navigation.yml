@@ -76,7 +76,7 @@ links:
   - title: Login
   #  url:
     sublinks:
-      - title: Individuals
+      - title: Login as Individuals
         url: https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login
-      - title: Businesses
+      - title: Login for Businesses
         url: https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=loginwha
