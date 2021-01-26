@@ -286,6 +286,12 @@ $desktop: 960px + (2 * $gap) !default;
       color:#037e8a;
     }
 
+    //update LOGIN to another color
+    #menu-item-login>a{
+      color: #ff000c!important;
+      font-weight:bold!important;
+      }
+
     .selector{
       &.active{
         //background-color:$secondary;
