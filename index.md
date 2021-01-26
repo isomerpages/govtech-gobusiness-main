@@ -39,7 +39,7 @@ sections:
         - title: Licences and Permits
           url: /licences/
           description: Get the licences you need for your business activities
-  - carousel:
+#  - carousel:
       - title: GoBusiness Licensing
         subtitle: Run and Grow
         description: Create your very own application journey for your business. It tells you which licences you’ll need and maps out the order in which to apply for them. No more confusion when you have a step-by-step plan now, your business is off to a smooth start. <a href="https://www.gobusiness.gov.sg/licences/" target="_blank" style="color:#037e8a">Find Out More</a>
