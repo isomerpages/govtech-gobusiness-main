@@ -1,7 +1,7 @@
 ---
 title: Guided Journey
 permalink: /licences/guided-journey/
-third_nav_title: Licensing
+third_nav_title: Licences
 ---
 
 ## Guided Journey

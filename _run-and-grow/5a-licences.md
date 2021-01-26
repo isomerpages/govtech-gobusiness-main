@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /licences/
-third_nav_title: Licensing
+third_nav_title: Licences
 ---
 
 ## Overview

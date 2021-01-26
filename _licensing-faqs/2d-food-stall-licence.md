@@ -70,4 +70,4 @@ accordion-new:
 #### Public Entertainment Licence
 {% include accordion-new.html %}
 
-[Back to Licensing Overview](/licences/)
+[Back to Licences Overview](/licences/)
