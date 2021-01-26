@@ -40,21 +40,21 @@ sections:
           url: /licences/
           description: Get the licences you need for your business activities
 #  - carousel:
-      - title: GoBusiness Licensing
-        subtitle: Run and Grow
-        description: Create your very own application journey for your business. It tells you which licences you’ll need and maps out the order in which to apply for them. No more confusion when you have a step-by-step plan now, your business is off to a smooth start. <a href="https://www.gobusiness.gov.sg/licences/" target="_blank" style="color:#037e8a">Find Out More</a>
-        image: /images/caro_licensing.png
-        alt: GoBusiness Licensing Guided Journey
-      - title: Business Grants
-        subtitle: Run and Grow
-        description: Business Grants brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency. <a href="/business-grants/" target="_blank" style="color:#037e8a">Find Out More</a>
-        image: /images/caro_parking.jpg
-        alt: Business Grants
-      - title: Covid-19 Support
-        subtitle: Business Support
-        description: COVID-19 has accelerated into a global pandemic. The global economy has been hit and Singapore Businesses are affected. Look for government assistance your business can obtain during this pandemic here. <a href="https://www.gobusiness.gov.sg/supportschemes/general" target="_blank" style="color:#037e8a">Find Out More</a>
-        image: /images/caro_lifesg.jpg
-        alt: Covid-19 Support
+#      - title: GoBusiness Licensing
+#        subtitle: Run and Grow
+#        description: Create your very own application journey for your business. It tells you which licences you’ll need and maps out the order in which to apply for them. No more confusion when you have a step-by-step plan now, your business is off to a smooth start. <a href="https://www.gobusiness.gov.sg/licences/" target="_blank" style="color:#037e8a">Find Out More</a>
+#        image: /images/caro_licensing.png
+#        alt: GoBusiness Licensing Guided Journey
+#      - title: Business Grants
+#        subtitle: Run and Grow
+#        description: Business Grants brings government grants for businesses into one place, so it's easier to find and apply for the grants you need. The Portal is brought to you by Ministry Of Finance, Ministry Of Trade And Industry and Government Technology Agency. <a href="/business-grants/" target="_blank" style="color:#037e8a">Find Out More</a>
+#        image: /images/caro_parking.jpg
+#        alt: Business Grants
+#      - title: Covid-19 Support
+#        subtitle: Business Support
+#        description: COVID-19 has accelerated into a global pandemic. The global economy has been hit and Singapore Businesses are affected. Look for government assistance your business can obtain during this pandemic here. <a href="https://www.gobusiness.gov.sg/supportschemes/general" target="_blank" style="color:#037e8a">Find Out More</a>
+#        image: /images/caro_lifesg.jpg
+#        alt: Covid-19 Support
   - infopic:
       title: Starting a Business in Singapore
       subtitle: Start a Business
