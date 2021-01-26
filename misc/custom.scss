@@ -21,9 +21,9 @@ $secondary-hover: lighten($secondary, 20%);
 
 //$media-color-one: #49759a;
 //$media-color-two: #744d9f;
-$media-color-one: #037e8a;
-$media-color-two: #037e8a;
-$media-color-three: #037e8a;
+$media-color-one: #033b8a;
+$media-color-two: #038a52;
+$media-color-three: #137996;
 $media-color-four: #037e8a;
 $media-color-five: #037e8a;
 
@@ -286,7 +286,7 @@ $desktop: 960px + (2 * $gap) !default;
       color:#037e8a;
     }
 
-    
+
     .selector{
       &.active{
         //background-color:$secondary;
@@ -314,7 +314,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-container {
   a, b, p, u, small {
     font-family: hknova-regular;
-  } 
+  }
 }
 
 // Post-content
@@ -326,7 +326,7 @@ $desktop: 960px + (2 * $gap) !default;
 			color: $secondary;
 		}
   }
-  // Custom for font types 
+  // Custom for font types
   a, p, li, em {
     font-family: hknova-regular;
   }
@@ -338,14 +338,14 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote > ul {
     color: $secondary;
-  // Custom for hyperlink font colors 
+  // Custom for hyperlink font colors
   }
   a {
     color:#037e8a;
   }
   a:hover {
     color :#4471eb;
-  }  
+  }
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -409,7 +409,7 @@ img[src*="/images/budget2021/budget2021.jpg"] {
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
   width: 50%;
-    
+
 }
 
 .is-centered {
