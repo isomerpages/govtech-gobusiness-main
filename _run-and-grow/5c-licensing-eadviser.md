@@ -33,7 +33,7 @@ accordion-new:
   - title: Board of Architects (BOA)
     content: |
       **Licence to Supply Architectural Services**
-      - For providing architectural services that require submission of plans and certificates to authorities regulating buildings. [Click here](http://www.boa.gov.sg/rule_law/apart6.html#sec20){:target="_blank"}
+      - For providing architectural services that require submission of plans and certificates to authorities regulating buildings. [Click here](https://www.boa.gov.sg/register/application-forms/){:target="_blank"}
   - title: Housing & Development Board (HDB)
     content: |
       **Application for Changes (HDB Commercial Properties)**
