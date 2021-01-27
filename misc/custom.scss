@@ -313,8 +313,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 //specific header text color change - Kevin
-.header-nav-item a[href="navbar-item is-uppercase"], .header-menu-nav-item a[href="navbar-item is-uppercase"]
- {
+.nav-item a[href="navbar-item is-uppercase"] {
     color: #cb2d3e !important; 
 }
 
