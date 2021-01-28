@@ -87,19 +87,19 @@ sections:
 #      image: /images/helpinghands.jpg
 #      alt: Covid-19 Support
   - infopic:
-      title: Government e-Services
+      title: Access Government e-Services
       subtitle:
       description: >-
-        Search for government agencies and eServices for Businesses easily.
+        Search for administrative, training, development and financial e-Services for your business easily.
       button: View Full Directory
       url: /govt-e-services/administrative/
       image: /images/govt_eservices.jpg
       alt: Government e-Services
   - infopic:
-      title: Our Story
+      title: Who We Are
       subtitle:
       description: >-
-          GoBusiness Singapore is now the new home for GoBusiness Licensing, GoBusiness Covid-19, GoBusiness Gov Assist and Business Grants Portal. Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-services.
+          GoBusiness Singapore is now the new home for GoBusiness Licensing, GoBusiness Covid-19, GoBusiness Gov Assist and Business Grants Portal. Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-Services.
       button: Read Our Brand Story
       url: /about-us
       image: /images/abtus_thumbnail.jpg
