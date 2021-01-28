@@ -90,7 +90,7 @@ sections:
       title: Access Government e-Services
       subtitle:
       description: >-
-        Search for administrative, training, development and financial e-Services for your business easily.
+        Find administrative, training, development and financial e-Services for your business easily.
       button: View Full Directory
       url: /govt-e-services/administrative/
       image: /images/govt_eservices.jpg
