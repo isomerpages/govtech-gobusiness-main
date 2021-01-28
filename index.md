@@ -6,11 +6,9 @@ image: /images/Gobiz_logo_SG.svg
 permalink: /
 sections:
   - hero:
-      title: Business Made Easier
+      title: Government Services for Businesses
       subtitle: >-
-        Bringing government businesses services and information into one place,
-        so it's easier to access a range of support options and understand the
-        government requirements to start or grow a business in Singapore.
+        GoBusiness is the one-stop platform for businesses to transact with the government, discover opportunities, and connect with the right resources
       background: /images/test_bg.jpg
       dropdown:
         title: I Want To...
