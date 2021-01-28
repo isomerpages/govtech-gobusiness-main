@@ -6,19 +6,21 @@ terms_of_use: /terms-of-use/
 
 navlinks:
   - title: Start Business
-    url: /gov-assist/
+    url: /start-a-business/
     sublinks:
       - title: Overview
         url: /start-a-business/
       - title: Key Steps to Start a Business
         url: /start-a-business/choose-a-business-structure/
+      - title: Next Steps to Consider
+        url: /start-a-business/hire-employees/  
   - title: Run and Grow Business
-    url: /gov-assist/
+    url: /run-and-grow/
     sublinks:
       - title: Overview
         url: /run-and-grow/
       - title: Government Assistance
-        url: /run-and-grow/govassist-overview/  
+        url: /gov-assist/ 
       - title: Business Grants
         url: /business-grants/
       - title: Licences and Permits

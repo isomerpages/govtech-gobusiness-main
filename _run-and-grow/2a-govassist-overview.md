@@ -1,10 +1,10 @@
 ---
-title: Overview
-permalink: /run-and-grow/govassist-overview/
+title: Gov Assist
+permalink: /gov-assist/
 third_nav_title: Government Assistance
 ---
 
-## Overview
+## Gov Assist
 
 There are over 100 government schemes to assist and support your business, now all in one place on GoBusiness.
 
