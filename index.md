@@ -93,7 +93,7 @@ sections:
         Search for government agencies and eServices for Businesses easily.
       button: View Full Directory
       url: /govt-e-services/administrative/
-      image: /images/hero-banner.jpg
+      image: /images/govt_eservices.jpg
       alt: Government e-Services      
   - resources:
       title: Be in the know
