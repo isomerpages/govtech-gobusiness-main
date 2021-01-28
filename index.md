@@ -19,7 +19,7 @@ sections:
             url: /start-a-business/
           - title: Run and Grow My Business in Singapore
             url: /run-and-grow/
-          - title: Search for Government e-Services for Businesses
+          - title: Search Government e-Services for Businesses
             url: /govt-e-services/administrative/
       key_highlights:
         - title: Start a Business
@@ -86,6 +86,15 @@ sections:
       url: /supportschemes/general
       image: /images/helpinghands.jpg
       alt: Covid-19 Support
+  - infopic:
+      title: Government e-Services
+      subtitle: Covid-19 Support
+      description: >-
+        Search for government agencies and eServices for Businesses easily.
+      button: View Full Directory
+      url: /govt-e-services/administrative/
+      image: /images/hero-banner.jpg
+      alt: Government e-Services      
   - resources:
       title: Be in the know
       subtitle: News and Media
