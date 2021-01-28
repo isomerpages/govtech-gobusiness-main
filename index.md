@@ -8,7 +8,7 @@ sections:
   - hero:
       title: Government Services for Businesses
       subtitle: >-
-        GoBusiness is the one-stop platform for businesses to transact with the government, discover opportunities, and connect with the right resources
+        GoBusiness is a one-stop platform for businesses to access government services, discover opportunities and connect with the right resources
       background: /images/test_bg.jpg
       dropdown:
         title: I Want To...
