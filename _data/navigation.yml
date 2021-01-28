@@ -59,23 +59,22 @@ links:
         url: /govt-e-services/casinos/
       - title: Construction
         url: /govt-e-services/construction/
-  - title: News
-    url: /news-and-media/
-  #- title: About Us
-  #  url: /about-us/
-  #  sublinks:
-  #    - title: Overview
-  #      url: /about-us/
-  #    - title: News and Media
-  #      url: /news-and-media/
-  #- title: Contact Us
-  #  url: /contact-us/
-  #  sublinks:
+  #- title: News
+  #  url: /news-and-media/
+  - title: Who We Are
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: News and Media
+        url: /news-and-media/
+      - title: Contact Us
+         url: /contact-us/
   #    - title: Helpdesk
   #      url: /contact-us/
   #    - title: SME Centres
   #      url: /contact-us/sme-centres/
-  #    - title: General FAQs
-  #      url: /faq/about/
+      - title: General FAQs
+        url: /faq/about/
   - title: Login
     url:

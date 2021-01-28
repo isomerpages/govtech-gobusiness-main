@@ -5,14 +5,14 @@ privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
 
 navlinks:
-  - title: Start A Business
+  - title: Start Business
     url: /gov-assist/
     sublinks:
       - title: Overview
         url: /start-a-business/
       - title: Key Steps to Start a Business
         url: /start-a-business/choose-a-business-structure/
-  - title: Run and Grow a Business
+  - title: Run and Grow Business
     url: /gov-assist/
     sublinks:
       - title: Overview
@@ -32,8 +32,10 @@ navlinks:
       - title: GeBIZ Alerts
         url: /gebiz-alerts/  
   - title: Covid-19
-    url: /permittedlist/
+    url: /covid/
     sublinks:
+      - title: Overview
+        url: /covid/
       - title: Permitted Services
         url: /permittedlist/
       - title: Safe Management Requirements
@@ -53,10 +55,10 @@ navlinks:
         url: /govt-e-services/casinos/
       - title: Construction
         url: /govt-e-services/construction/  
-  - title: About Us
+  - title: Who We Are
     url: /about-us/
     sublinks:
-      - title: Overview
+      - title: About Us
         url: /about-us/
       - title: News and Media
         url: /news-and-media/
