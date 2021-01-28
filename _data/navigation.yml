@@ -36,8 +36,10 @@ links:
       - title: GeBIZ Alerts
         url: /gebiz-alerts/
   - title: Covid-19
-    url: /permittedlist/
+    url: /covid/
     sublinks:
+      - title: Overview
+        url: /covid/
       - title: Permitted Services
         url: /permittedlist/
       - title: Safe Management Requirements
