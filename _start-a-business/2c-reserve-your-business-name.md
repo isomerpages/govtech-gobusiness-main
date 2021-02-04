@@ -2,6 +2,104 @@
 title: Reserve your business name
 permalink: /start-a-business/reserve-your-business-name/
 third_nav_title: Key Steps to Start
+accordion-new:
+  - title: Apply for Business Name - Sole Proprietorship/Partnership
+    content: |
+      Here's what you need to know to apply for a business name for a Sole Proprietorship or Partnership.
+
+      **Application Fee**
+      - $15
+      - Additional $40 for provision of each alternate address (optional)
+
+      **Average Processing Time**
+      - Approved immediately if the name is available
+      - 14 - 60 days if the application needs to be reviewed by another agency
+      - Approved name will be reserved for 120 days
+
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - All owners are required to clear outstanding Medisave liabilities with CPF Board
+      - The owner(s) must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Proposed business name
+      - Description of main business activities
+      - Particulars of business owners and representatives (if applicable)
+  - title: Apply for Business Name - Limited Partnership
+    content: |
+      Here's what you need to know to apply for a business name for a Limited Partnership.
+
+      **Application Fee**
+      - $15
+      - Additional $40 for provision of each Alternate Address (optional)
+
+      **Average Processing Time**
+      - Approved immediately if the name is available
+      - 14 - 60 days if the application needs to be reviewed by another agency
+      - Approved name will be reserved for 120 days
+
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - All owners are required to clear outstanding Medisave liabilities with CPF Board
+      - The owners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
+      - Must have at least one General Partner and one Limited Partner
+      - A local manager must be appointed if all the General Partners are not residing in Singapore 
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Proposed business name
+      - Description of main business activities
+      - Particulars of business owners and representatives (if applicable)
+  - title: Apply for Business Name - Limited Liability Partnership
+    content: |
+      Here's what you need to know in order to apply for a business name for a Limited Liability Partnership (LLP).
+
+      **Application Fee**
+      - $15
+      - Additional $40 for provision of each Alternate Address (optional)
+
+      **Average Processing Time**
+      - Approved immediately if the name is available
+      - 14 - 60 days if the application needs to be reviewed by another agency
+      - Approved name will be reserved for 120 days
+
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
+      - Must have at least two partners
+      - A local manager who is residing in Singapore must be appointed
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Proposed business name
+      - Description of main business activities
+      - Particulars of business partners and representatives (if applicable)
+      - Local office address (where all communications to the LLP are sent)
+  - title: Apply for Business Name - Company
+    content: |
+      Here's what you need to know in order to apply for a business name for a Company.
+
+      **Application Fee**
+      - $15
+      - Additional $40 for provision of each Alternate Address (optional)
+
+      **Average Processing Time**
+      - Approved immediately if the name is available
+      - 14 - 60 days if the application needs to be reviewed by another agency
+      - Approved name will be reserved for 120 days
+
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - Must comprise of one local director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder, and residing in Singapore
+      - Must comprise of at least one director, one company secretary and one shareholder
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Proposed business name
+      - Description of main business activities
+      - Particulars of directors, company officers and shareholders
+      - Local office address (where all communications to the company are sent)   
 ---
 
 ## Step 3: Reserve your business name
@@ -26,6 +124,8 @@ There are two ways to reserve your business name:
 1) [Log in to GoBusiness](https://www.google.com.sg/){:target="_blank"} with your Singpass or Corppass to submit the application online, or
 
 2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+
+{% include accordion-new.html %}
 
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
