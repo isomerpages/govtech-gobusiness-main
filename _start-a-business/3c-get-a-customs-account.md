@@ -1,7 +1,7 @@
 ---
 title: Get a Customs Account
 permalink: /start-a-business/get-a-customs-account/
-third_nav_title: Next steps to consider
+third_nav_title: Next Steps to Consider
 ---
 
 #### Get a Customs Account

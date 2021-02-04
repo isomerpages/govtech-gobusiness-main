@@ -1,7 +1,7 @@
 ---
 title: Name your business
 permalink: /start-a-business/name-your-business/
-third_nav_title: Key steps to start
+third_nav_title: Key Steps to Start
 ---
 
 #### Step 3: Name your business

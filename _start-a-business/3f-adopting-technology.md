@@ -1,7 +1,7 @@
 ---
 title: Adopt digital solutions
 permalink: /start-a-business/adopt-digital-solutions/
-third_nav_title: Next steps to consider
+third_nav_title: Next Steps to Consider
 ---
 
 #### Adopt digital solutions

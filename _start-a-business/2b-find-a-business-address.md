@@ -1,7 +1,7 @@
 ---
 title: Find a business address
 permalink: /start-a-business/find-a-business-address/
-third_nav_title: Key steps to start
+third_nav_title: Key Steps to Start
 ---
 
 #### Step 2: Find a business address

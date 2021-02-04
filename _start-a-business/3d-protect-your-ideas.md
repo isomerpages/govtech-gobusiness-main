@@ -1,7 +1,7 @@
 ---
 title: Protect your ideas
 permalink: /start-a-business/protect-your-ideas/
-third_nav_title: Next steps to consider
+third_nav_title: Next Steps to Consider
 ---
 
 #### Protect your ideas

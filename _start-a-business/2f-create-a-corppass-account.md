@@ -1,7 +1,7 @@
 ---
 title: Create a CorpPass account
 permalink: /start-a-business/create-a-corppass-account/
-third_nav_title: Key steps to start
+third_nav_title: Key Steps to Start
 ---
 
 #### 6: Create a CorpPass account

@@ -1,7 +1,7 @@
 ---
 title: Open a corporate bank account
 permalink: /start-a-business/open-a-corporate-bank-account/
-third_nav_title: Key steps to start
+third_nav_title: Key Steps to Start
 ---
 
 #### Step 7: Open a corporate bank account

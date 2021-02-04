@@ -1,7 +1,7 @@
 ---
 title: Hire employees
 permalink: /start-a-business/hire-employees/
-third_nav_title: Next steps to consider
+third_nav_title: Next Steps to Consider
 ---
 
 #### Hire employees

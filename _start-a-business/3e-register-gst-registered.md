@@ -1,7 +1,7 @@
 ---
 title: Register for GST
 permalink: /start-a-business/register-for-gst/
-third_nav_title: Next steps to consider
+third_nav_title: Next Steps to Consider
 ---
 
 #### Register for GST

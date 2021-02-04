@@ -1,7 +1,7 @@
 ---
 title: Get licences or permits
 permalink: /start-a-business/get-licences-permits/
-third_nav_title: Next steps to consider
+third_nav_title: Next Steps to Consider
 ---
 
 #### Get licences or permits
