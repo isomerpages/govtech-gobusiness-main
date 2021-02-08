@@ -327,15 +327,7 @@ $desktop: 960px + (2 * $gap) !default;
 			color: $secondary;
 		}
   }
-  // Table of Contents
-  .content table td, .content table th {
-    border: 1px solid #d6d6d6;
-    border-width: 0 0 1px;
-    padding: .5em .75em;
-    vertical-align: top;
-    font-family: 'hknova-regular';
-    font-size: 20px;
-  }
+  
   // Custom for font types
   a, p, li, em {
     font-family: hknova-regular;
@@ -356,6 +348,11 @@ $desktop: 960px + (2 * $gap) !default;
   a:hover {
     color :#4471eb;
   }
+}
+
+// Table of Contents
+.content table td, .content table th {
+  font-family: hknova-regular;
 }
 
 // Media category buttons - not used now but will be used in the future
