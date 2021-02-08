@@ -59,44 +59,44 @@ accordion-new:
       - Additional $40.00 for provision every Alternate Address (optional)
 
       **Average Processing Time**
-      - All partners or authorised representatives must endorse the application before payment can be made
       - Usually approved within 15 minutes after registration fee is paid
-      - 14-60 days if the application needs to be reviewed by another agency
+      - 14-60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
       - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
       - Must have at least two partners
       - A local manager who is residing in Singapore must be appointed
+      - All partners or authorised representatives must endorse the application before payment can be made
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
  
       **Information/documents required**
       - Commencement date
-      - Local office address (where all communications and notices to the LLP are sent)
-      - Particulars of business partners and representatives (if applicable)
+      - Business address
+      - Particulars of business owners and representatives (if applicable)
   - title: Incorporate a Local Company
     content: |
       Here's what you need to know in order to incorporate a Local Company.
 
       **Application Fee**
-      - $300.00 for one-time registration fee
-      - Additional $40 for provision of each Alternate Address (optional)
+      - $300 one-time registration fee
+      - Additional $40 for every Alternate Address (optional)
 
       **Average Processing Time**
-      - All partners or authorised representatives must endorse the application before payment can be made
       - Usually approved within 15 minutes after registration fee is paid
-      - 14-60 days if the application needs to be reviewed by another agency
+      - 14-60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
       - Must comprise of one local director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder, and residing in Singapore
       - Must comprise of at least one director, one company secretary and one shareholder
+      - All partners or authorised representatives must endorse the application before payment can be made
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
  
       **Information/documents required**
       - Commencement date
-      - Local office address (where all communications and notices to the company are sent)
-      - Particulars of directors, company officers and shareholders
+      - Business address
+      - Particulars of business owners and representatives (if applicable)
 ---
 
 ## Step 4: Register your business
