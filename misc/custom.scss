@@ -353,6 +353,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Table of Contents
 .content table td, .content table th {
   font-family: hknova-regular;
+  font-size: 20px;
 }
 
 // Media category buttons - not used now but will be used in the future
