@@ -2,22 +2,121 @@
 title: Register your business
 permalink: /start-a-business/register-your-business/
 third_nav_title: Key Steps to Start
+accordion-new:
+  - title: Register a Sole Proprietorship/Partnership
+    content: |
+      Here's what you need to know in order to register a Sole Proprietorship/Partnership
+
+      **Application Fee**
+      - $100.00 for one year or $160 for three years (inclusive of registration and renewal fee)
+      - Additional $40.00 for every Alternate Address (optional)
+
+      **Average Processing Time**
+      - Usually approved within 15 minutes after registration fee is paid
+      - 14-60 days if the application needs to be reviewed by Referral Authorities
+      
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - All owners are required to clear outstanding Medisave liabilities with CPF Board
+      - All partners or authorised representatives must endorse the application before payment can be made
+      - The owner(s) must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Commencement date
+      - Business address
+      - Particulars of business owners and representatives (if applicable)
+  - title: Register a Limited Partnership
+    content: |
+      Here's what you need to know in order to register a Limited Partnership.
+
+      **Application Fee**
+      - $100.00 for one year or $160 for three years (inclusive of registration and renewal fee)
+      - Additional $40.00 for provision every Alternate Address (optional)
+
+      **Average Processing Time**
+      - Usually approved within 15 minutes after registration fee is paid.
+      - 14-60 days if the application needs to be reviewed by Referral Authorities
+      
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - All partners are required to clear outstanding Medisave liabilities with CPF Board
+      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
+      - Must have at least one General Partner and one Limited Partner
+      - A local manager must be appointed if all the General Partners are not residing in Singapore
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Commencement date
+      - Business address
+      - Particulars of business owners and representatives (if applicable)
+  - title: Register a Limited Liability Partnership
+    content: |
+      Here's what you need to know in order to register a  Limited Liability Partnership (LLP).
+
+      **Application Fee**
+      - $100.00 for one-time registration fee
+      - Additional $40.00 for provision every Alternate Address (optional)
+
+      **Average Processing Time**
+      - All partners or authorised representatives must endorse the application before payment can be made
+      - Usually approved within 15 minutes after registration fee is paid
+      - 14-60 days if the application needs to be reviewed by another agency
+
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
+      - Must have at least two partners
+      - A local manager who is residing in Singapore must be appointed
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Commencement date
+      - Local office address (where all communications and notices to the LLP are sent)
+      - Particulars of business partners and representatives (if applicable)
+  - title: Incorporate a Local Company
+    content: |
+      Here's what you need to know in order to incorporate a Local Company.
+
+      **Application Fee**
+      - $300.00 for one-time registration fee
+      - Additional $40 for provision of each Alternate Address (optional)
+
+      **Average Processing Time**
+      - All partners or authorised representatives must endorse the application before payment can be made
+      - Usually approved within 15 minutes after registration fee is paid
+      - 14-60 days if the application needs to be reviewed by another agency
+
+      **Pre-requisites**
+      - All position holders must be at least 18 years old
+      - Must comprise of one local director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder, and residing in Singapore
+      - Must comprise of at least one director, one company secretary and one shareholder
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+ 
+      **Information/documents required**
+      - Commencement date
+      - Local office address (where all communications and notices to the company are sent)
+      - Particulars of directors, company officers and shareholders
 ---
 
-#### Step 5: Register your business
+## Step 4: Register your business
 
 There are two ways to register your business:
 
-1) Log in with your SingPass or CorpPass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
+1) [Log in to GoBusiness](https://www.google.com.sg/){:target="_blank"} with your SingPass or CorpPass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
 
 2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
-<u>Register a domain name</u>
-<br>After you have registered your business with ACRA, you can [register a domain name](https://www.sgnic.sg/){:target="_blank"} (ending with ".com.sg" or ".sg") with any of the authorised registrars accredited by the Singapore Network Information Centre (SGNIC).
+The pre-requisites, information and supporting documents needed for the application to register the business will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
-With the [ACRA SME Programme](https://www.sgnic.sg/smepromotion-2.html){:target="_blank"} you will save at least S$30 for the first year of registration for one domain name ending with ".com.sg" or ".sg".
+{% include accordion-new.html %}
 
-<u>Unique Entity Number (UEN) and Business Profile</u>
-<br>Upon successful registration of your new business, your business will be issued a Unique Entity Number (UEN). The UEN is your business' unique identification number that will be used in all transactions with government agencies.
+#### Unique Entity Number (UEN) and Business Profile
+
+Upon successful registration of your new business, your business will be issued a Unique Entity Number (UEN). The UEN is your business' unique identification number that will be used in all transactions with government agencies.
 
 A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"} for your business will be emailed to the person filing the application upon successful registration of your business.
+
+#### Filing Obligations
+
+There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA]() and [Tax Returns with IRAS](/run-and-grow/tax-filing/). 
