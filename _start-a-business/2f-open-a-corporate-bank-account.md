@@ -21,16 +21,12 @@ Note: Some banks may accept the signing of documents at one of their overseas br
 2) Supporting documents needed:
 
 |-- |--|
-|**Completed Corporate Account Opening Forms** | Signed by authorised signatories as per the board resolution|
+|**Completed Corporate Account Opening Forms** |Signed by authorised signatories as per the board resolution|
 |**Board of Directors Resolution** |Sanctioning the opening of the account and the signatories to the account (to be prepared by your company secretary)|
-
-- Completed Corporate Account Opening Forms
--(signed by authorised signatories as per the board resolution)
-- Board of Directors Resolution sanctioning the opening of the account and the signatories to the account (to be prepared by your company secretary)
-- Certified True Copy of Resolution sanctioning the opening of the account and the signatories to the account (most of the banks have their own format and you just need to sign it)
-- Certified True Copy of Certificate of Incorporation (must be certified by the company secretary or one of the directors)
-- Certified True Copy of Company’s Business Profile from Company Registrar (must be certified by the company secretary or one of the directors)
-- Certified True Copy of Company’s Memorandum and Articles of Association (MAA) (must be certified by the company secretary or one of the directors)
-- Certified True Copies of Passport (or Singapore IC) and Residential Address Proof of the Directors, Signatories, and Ultimate Beneficiary Owners. If you are in Singapore, just bring the originals and the bank will make a copy.
+|**Certified True Copy of Resolution**|Sanctioning the opening of the account and the signatories to the account (most of the banks have their own format and you just need to sign it)|
+|**Certified True Copy of Certificate of Incorporation**|Must be certified by the company secretary or one of the directors|
+|**Certified True Copy of Company’s Business Profile from Company Registrar**|Must be certified by the company secretary or one of the directors|
+|**Certified True Copy of Company’s Memorandum and Articles of Association (MAA)**|Must be certified by the company secretary or one of the directors|
+|**Certified True Copies of Passport (or Singapore IC) and Residential Address Proof of the Directors, Signatories, and Ultimate Beneficiary Owners**|If you are in Singapore, just bring the originals and the bank will make a copy|
 
 Note: Some banks may require additional documents on a case-by-case basis.
