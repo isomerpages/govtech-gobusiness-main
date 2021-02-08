@@ -10,4 +10,4 @@ Your inventions, designs and representations of your brand are Intellectual Prop
 
 Common forms of IP are trade marks (representation of your brands), patents (your inventions) and designs. Click [here](/images/start/protect_your_ideas.jpg){:target="_blank"} to find out more. 
 
-Protect your IP before launching your product or service, so that no one can take advantage of your IP without your permission. You can [book a complimentary consultation on IP strategies](www.ipos.gov.sg/e-services/e-appointment/make-an-appointment){:target="_blank"} with Intellectual Property Office of Singapore (IPOS).
+Protect your IP before launching your product or service, so that no one can take advantage of your IP without your permission. You can [book a complimentary consultation on IP strategies](https://www.ipos.gov.sg/e-services/e-appointment/make-an-appointment){:target="_blank"} with Intellectual Property Office of Singapore (IPOS).
