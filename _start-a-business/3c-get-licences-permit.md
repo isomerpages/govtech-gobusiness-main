@@ -1,9 +1,11 @@
 ---
-title: Get licences or permits
+title: Get licences and permits
 permalink: /start-a-business/get-licences-permits/
 third_nav_title: Next Steps to Consider
 ---
 
-#### Get licences or permits
+## Get licences and permits
 
-Apply for the licences and permits your business activities require. Not sure which ones you need? Find out [here](/licences/).
+Different [licences and permits](/licences/){:target="_blank"} are needed for different business activities. Apply for the ones your business requires easily with GoBusiness. You can also update, renew or terminate them.
+
+Not sure which licences and permits you need? Simply answer a few questions about your business to find out with [Licensing e-Adviser](https://www.google.com.sg/){:target="_blank"}.

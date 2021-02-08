@@ -12,4 +12,4 @@ Here are 3 criteria to qualify for funding:
 - Company is based in Singapore
 - Company has a minimum of 30% local shareholding
 
-For the full list of grants available for new businesses, click here.
+For the full list of grants available for new businesses, click [here](/run-and-grow/grants/){:target="_blank"}.
