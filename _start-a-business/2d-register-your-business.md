@@ -55,7 +55,7 @@ accordion-new:
       Here's what you need to know in order to register a  Limited Liability Partnership (LLP).
 
       **Application Fee**
-      - $100.00 for one-time registration fee
+      - $100 one-time registration fee
       - Additional $40.00 for provision every Alternate Address (optional)
 
       **Average Processing Time**
