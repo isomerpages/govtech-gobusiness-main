@@ -25,9 +25,6 @@ sections:
         - title: Start a Business
           url: /start-a-business/
           description: Get an overview of what you need to start a business in Singapore
-      #  - title: E-adviser
-      #    url: 'https://ea-staging.l1t.molb.gov.sg/'
-      #    description: Find relevant Government assistance schemes for your business needs
         - title: Permissions and Manpower Declaration
           url: https://go.gov.sg/timelimitedexemption
           description: Check your exemption application/business resumption status and submit manpower details.
@@ -37,6 +34,24 @@ sections:
         - title: Licences and Permits
           url: /licences/
           description: Get the licences you need for your business activities
+  - infopic:
+      title: Access Government e-Services
+      subtitle:
+      description: >-
+      Find administrative, training, development and financial e-Services for your business easily.
+      button: View Full Directory
+      url: /govt-e-services/administrative/
+      image: /images/govt_eservices.jpg
+      alt: Government e-Services
+  - infopic:
+      title: Who We Are
+      subtitle:
+      description: >-
+      GoBusiness Singapore is now the new home for GoBusiness Licensing, GoBusiness Covid-19, GoBusiness Gov Assist and Business Grants Portal. Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-Services.
+      button: Read Our Brand Story
+      url: /about-us
+      image: /images/abtus_thumbnail.jpg
+      alt: GoBusiness Singapore            
   - carousel:
       - title: How to Start a Business
         subtitle: Start Business
@@ -52,58 +67,7 @@ sections:
         subtitle: Guides
         description: From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness will help you find the government assistance you need.  <br><a href="/run-and-grow/govassist-overview/" target="_blank" style="color:#037e8a">Find Out More</a>
         image: /images/caro_guides.jpg
-        alt: Government Assistance
-#  - infopic:
-#      title: Starting a Business in Singapore
-#      subtitle: Start a Business
-#      description: >-
-#        If you are starting a business in Singapore, read on to find out what
-#        you can do to start off on the right footing, and also safeguard your
-#        investment in the future.
-#      button: Find Out More
-#      url: /start-a-business/
-#      image: /images/start.jpg
-#      alt: Start a Business
-#  - infopic:
-#      title: List of Government Assistance
-#      subtitle: Run and Grow
-#      description: >-
-#        The Singapore Government offers a range of assistance schemes to help
-#        businesses grow and succeed. Look for a tax incentive, loan, grant, or
-#        programme here.
-#      button: Find Out More
-#      url: /run-and-grow/
-#      image: /images/govassist-hero-banner.jpg
-#      alt: Gov Assist
-#  - infopic:
-#      title: Support Schemes for Businesses
-#      subtitle: Covid-19 Support
-#      description: >-
-#        COVID-19 has accelerated into a global pandemic. The global economy has
-#        been hit and Singapore Businesses are affected. Look for government
-#        assistance your business can obtain during this pandemic here.
-#      button: Find Out More
-#      url: /supportschemes/general
-#      image: /images/helpinghands.jpg
-#      alt: Covid-19 Support
-  - infopic:
-      title: Access Government e-Services
-      subtitle:
-      description: >-
-        Find administrative, training, development and financial e-Services for your business easily.
-      button: View Full Directory
-      url: /govt-e-services/administrative/
-      image: /images/govt_eservices.jpg
-      alt: Government e-Services
-  - infopic:
-      title: Who We Are
-      subtitle:
-      description: >-
-          GoBusiness Singapore is now the new home for GoBusiness Licensing, GoBusiness Covid-19, GoBusiness Gov Assist and Business Grants Portal. Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-Services.
-      button: Read Our Brand Story
-      url: /about-us
-      image: /images/abtus_thumbnail.jpg
-      alt: GoBusiness Singapore             
+        alt: Government Assistance           
   - resources:
       title: Be in the know
       subtitle: News and Media
