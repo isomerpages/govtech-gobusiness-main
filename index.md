@@ -33,25 +33,7 @@ sections:
           description: View the list of Supportable IT solutions and Equipment
         - title: Licences and Permits
           url: /licences/
-          description: Get the licences you need for your business activities
-  - infopic:
-        title: Access Government e-Services
-        subtitle:
-        description: >-
-        Find administrative, training, development and financial e-Services for your business easily.
-        button: View Full Directory
-        url: /govt-e-services/administrative/
-        image: /images/govt_eservices.jpg
-        alt: Government e-Services
-  - infopic:
-        title: Who We Are
-        subtitle:
-        description: >-
-        GoBusiness Singapore is now the new home for GoBusiness Licensing, GoBusiness Covid-19, GoBusiness Gov Assist and Business Grants Portal. Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-Services.
-        button: Read Our Brand Story
-        url: /about-us
-        image: /images/abtus_thumbnail.jpg
-        alt: GoBusiness Singapore            
+          description: Get the licences you need for your business activities    
   - carousel:
       - title: How to Start a Business
         subtitle: Start Business
