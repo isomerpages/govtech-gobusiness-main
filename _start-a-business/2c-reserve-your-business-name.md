@@ -21,7 +21,7 @@ accordion-new:
       - All owners are required to clear outstanding Medisave liabilities with CPF Board
       - The owner(s) must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
- 
+
       **Information/documents required**
       - Proposed business name
       - Description of main business activities
@@ -44,9 +44,9 @@ accordion-new:
       - All owners are required to clear outstanding Medisave liabilities with CPF Board
       - The owners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
       - Must have at least one General Partner and one Limited Partner
-      - A local manager must be appointed if all the General Partners are not residing in Singapore 
+      - A local manager must be appointed if all the General Partners are not residing in Singapore
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
- 
+
       **Information/documents required**
       - Proposed business name
       - Description of main business activities
@@ -70,7 +70,7 @@ accordion-new:
       - Must have at least two partners
       - A local manager who is residing in Singapore must be appointed
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
- 
+
       **Information/documents required**
       - Proposed business name
       - Description of main business activities
@@ -94,7 +94,7 @@ accordion-new:
       - Must comprise of one local director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder, and residing in Singapore
       - Must comprise of at least one director, one company secretary and one shareholder
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
- 
+
       **Information/documents required**
       - Proposed business name
       - Description of main business activities
@@ -104,7 +104,7 @@ accordion-new:
 
 ## Step 3: Reserve your business name
 
-Decide on a name for your business and use our [Start a Business e-Adviser](https://www.google.com.sg/){:target="_blank"} to check if it's available as a business name, trade mark, web domain and social media username. 
+Decide on a name for your business and use our [Start a Business e-Adviser](https://www.google.com.sg/){:target="_blank"} to check if it's available as a business name, trade mark, web domain and social media username.
 
 Avoid names which are:
 - identical to another business' name
@@ -125,13 +125,13 @@ There are two ways to reserve your business name:
 
 2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
-{% include accordion-new.html %}
-
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
-#### Review of applications by Referral Authorities
+{% include accordion-new.html %}
 
-Certain names require approval from Referral Authorities. For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days. 
+#### Review of applications by referral authorities
+
+Certain names require approval from Referral Authorities. For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
 
 You can find the list of Referral Authorities [here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="_blank"}.
 
