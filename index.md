@@ -48,7 +48,7 @@ sections:
       subtitle:
       description: >-
         GoBusiness Singapore is now the new home for GoBusiness Licensing, GoBusiness Covid-19, GoBusiness Gov Assist and Business Grants Portal. Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-Services.
-        button: Read Our Brand Story
+      button: Read Our Brand Story
       url: /about-us
       image: /images/abtus_thumbnail.jpg
       alt: GoBusiness Singapore            
