@@ -6,10 +6,10 @@ third_nav_title: Next Steps to Consider
 
 ## Apply for grants
 
-Here are 3 criteria to qualify for funding:
+**Here are 3 criteria to qualify for funding:**
 
 - Business owner is Singaporean/PR
 - Company is based in Singapore
 - Company has a minimum of 30% local shareholding
 
-For the full list of grants available for new businesses, click [here](/run-and-grow/grants/){:target="_blank"}.
+For the full list of grants available for new businesses, click [here](/run-and-grow/grants/).

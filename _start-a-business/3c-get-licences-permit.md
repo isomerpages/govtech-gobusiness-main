@@ -6,6 +6,6 @@ third_nav_title: Next Steps to Consider
 
 ## Get licences and permits
 
-Different [licences and permits](/licences/){:target="_blank"} are needed for different business activities. Apply for the ones your business requires easily with GoBusiness. You can also update, renew or terminate them.
+Different [licences and permits](/licences/) are needed for different business activities. Apply for the ones your business requires easily with GoBusiness. You can also update, renew or terminate them.
 
 Not sure which licences and permits you need? Simply answer a few questions about your business to find out with [Licensing e-Adviser](https://www.google.com.sg/){:target="_blank"}.
