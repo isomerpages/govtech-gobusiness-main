@@ -8,7 +8,7 @@ third_nav_title: Key Steps to Start
 
 Corppass is a single corporate digital identity for businesses and other entities (e.g: non-profit organisations and associations) to transact with the Singapore government agencies.
 
-With Corppass, you can:
+**With Corppass, you can:**
 - Manage users' access to digital services
 - Customise digital service access of individual users within the entity
 - Authorise third party service providers to transact on your behalf for selected digital services
