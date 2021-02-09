@@ -19,6 +19,8 @@ collections:
     output: true
   covid-19:
     output: true
+  faqs:
+    output: true  
 google_analytics: UA-186826212-1
 facebook-pixel: 688926055194344
 linkedin-insights: 918155
