@@ -10,11 +10,11 @@ third_nav_title: Next Steps to Consider
 
 If you have just started your business or are new to digital technology, you can now take up a [Start Digital Package](https://www.imda.gov.sg/programme-listing/smes-go-digital/start-digital-pack){:target="_blank"} to give you a head start with some helpful basic digital tools. Choose any two solutions, at no cost for at least six months with a minimum 18-month contract period, from these categories:
 
-1. Accounting*
-2. HR management system & payroll
-3. Digital marketing
-4. Digital transactions
-5. Cybersecurity
+- Accounting*
+- HR management system & payroll
+- Digital marketing
+- Digital transactions
+- Cybersecurity
 
 *[Selected accounting software](https://www.iras.gov.sg/irashome/Businesses/Companies/Filing-Taxes--Form-C-S-Form-C-/Using-Accounting-Software-to-Prepare-and-File-Form-C-S-Seamlessly/){:target="_blank"} are now able to file statutory returns and financial statements directly to ACRA and IRAS.
 
