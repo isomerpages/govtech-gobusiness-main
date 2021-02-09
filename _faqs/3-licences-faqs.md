@@ -1,4 +1,4 @@
 ---
 title: Licences and Premits FAQs
-permalink: /licensing-faqs/
+permalink: /faqs/licensing-faqs/
 ---

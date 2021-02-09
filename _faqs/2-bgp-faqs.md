@@ -1,4 +1,4 @@
 ---
 title: Business Grants FAQs
-permalink: /business-grants-faqs/
+permalink: /faqs/business-grants-faqs/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Covid-19 FAQs
-permalink: /faq/general
+permalink: /faqs/faq/general
 ---
