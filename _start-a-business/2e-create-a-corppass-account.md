@@ -1,6 +1,6 @@
 ---
 title: Create a Corppass account
-permalink: /start-a-business/create-a-corppass-account/
+permalink: /start-a-business/create-a-Corppass-account/
 third_nav_title: Key Steps to Start
 ---
 
@@ -13,4 +13,4 @@ With Corppass, you can:
 - Customise digital service access of individual users within the entity
 - Authorise third party service providers to transact on your behalf for selected digital services
 
-[Set up your Corppass account here](https://www.corppass.gov.sg/corppass/common/findoutmore){:target="_blank"}.
+[Set up your Corppass account here](https://www.Corppass.gov.sg/Corppass/common/findoutmore){:target="_blank"}.

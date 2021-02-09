@@ -19,7 +19,7 @@ accordion-new:
 
   - title: My colleague who has been handling my company's grant application has left the company. Can someone else submit the application?
     content: |
-      Any CorpPass administrator or user, who has been assigned a Business Grants Portal preparer or acceptor role, can edit and submit the grant application. Remember to update the contact details of the main contact person before you submit the application.
+      Any Corppass administrator or user, who has been assigned a Business Grants Portal preparer or acceptor role, can edit and submit the grant application. Remember to update the contact details of the main contact person before you submit the application.
 ---
 
 #### Complete an Application

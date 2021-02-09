@@ -24,11 +24,11 @@ accordion-new:
     content: |
       Do I need to apply for this licence? You will need to apply for a Tobacco Retail Licence if you intend to sell tobacco products by retail at a physical outlet. The Tobacco Retail Licence issued is specific to only one physical outlet. If you are operating more than one outlet, you will need to submit a separate application for each one.
 
-      For a registered company, the company will need to authorise a person in managerial position to apply for the licence on its behalf via CorpPass.
+      For a registered company, the company will need to authorise a person in managerial position to apply for the licence on its behalf via Corppass.
 
-      For sole proprietorship or partnership, the person whose name is registered with Accounting & Corporate Regulatory Authority (ACRA), will need to apply for the Tobacco Retail Licence under his/her name via CorpPass.
+      For sole proprietorship or partnership, the person whose name is registered with Accounting & Corporate Regulatory Authority (ACRA), will need to apply for the Tobacco Retail Licence under his/her name via Corppass.
 
-      If you hold an SFA Hawker licence, please apply for the Tobacco Retail Licence via our Self-Service feature under your name with [SingPass](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}.
+      If you hold an SFA Hawker licence, please apply for the Tobacco Retail Licence via our Self-Service feature under your name with [Singpass](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}.
 
   - title: I have been issued with a provisional unit number in my tenancy agreement and the number can only be confirmed at a later date. Can I submit my new licence application based on the provisional unit number?
     content: |
@@ -78,7 +78,7 @@ accordion-new:
 
   - title: What conditions do I need to fulfil?
     content: |
-      You will need 20 minutes and your company's CorpPass to complete the online licence application.
+      You will need 20 minutes and your company's Corppass to complete the online licence application.
 
       After you have submitted the licence application with the initial application fee payment, HSA will process the licence application upon receipt of a complete application with all the relevant supporting documents submitted. Do take note that HSA may request for additional documents to review the licence application.
 

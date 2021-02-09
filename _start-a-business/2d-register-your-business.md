@@ -103,7 +103,7 @@ accordion-new:
 
 There are two ways to register your business:
 
-1) [Log in to GoBusiness](https://www.google.com.sg/){:target="_blank"} with your SingPass or CorpPass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
+1) [Log in to GoBusiness](https://www.google.com.sg/){:target="_blank"} with your Singpass or Corppass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
 
 2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 

@@ -5,7 +5,7 @@ permalink: /gebiz-alerts/
 
 ## GeBIZ Alerts
 
-Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ). It’s easy, fast and FREE.
+Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness with your Corppass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ). It’s easy, fast and FREE.
 
 <p>
 {% include button.html text="Login to Subscribe for GeBIZ Alerts Now!" src="https://www.gobusiness.gov.sg/gebiz-alerts/sso-login" type="primary" %}

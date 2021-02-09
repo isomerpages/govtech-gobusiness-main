@@ -115,7 +115,7 @@ $desktop: 960px + (2 * $gap) !default;
     background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
   }
-  &-singpass{
+  &-Singpass{
     background: #be2e7d; /* Old browsers */
     background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */

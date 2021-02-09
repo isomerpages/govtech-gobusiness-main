@@ -13,4 +13,4 @@ Please note that firms, bodies or self-employed persons that have been permitted
 
 Please note that your SSIC code should correspond with the “primary business activity” in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code. 
 
-If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/" target="_blank">BizFile+</a> using your CorpPass credentials.
+If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/" target="_blank">BizFile+</a> using your Corppass credentials.

@@ -25,7 +25,7 @@ The PSG will be expanded beyond the adoption of IT solutions and equipment, to i
  
 As part of the enhancement to the existing PSG, job redesign under PSG (PSG-JR) aims to make redesigning jobs easier by providing enterprises with JR consultancy support to complement and drive both their business and workforce transformation.
  
-PSG-JR will be open for application in the second half of 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on the Business Grants Portal (BGP) when applications are open. Companies will need to register for a CorpPass account to transact on the portal.
+PSG-JR will be open for application in the second half of 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on the Business Grants Portal (BGP) when applications are open. Companies will need to register for a Corppass account to transact on the portal.
  
 More details will be made available by WSG in due course.
 

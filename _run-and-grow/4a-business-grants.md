@@ -34,8 +34,8 @@ If you're not sure which to choose, you can use our e-Adviser to help select the
 
 Alternatively, simply select your sector and business needs to get suggestions for relevant grants.
 
-**Step 2: Register with CorpPass**
-<br>Log in with CorpPass [here](https://www.businessgrants.gov.sg/){:target="_blank"} and ask your CorpPass Admin to assign an appropriate BGP role to you.
+**Step 2: Register with Corppass**
+<br>Log in with Corppass [here](https://www.businessgrants.gov.sg/){:target="_blank"} and ask your Corppass Admin to assign an appropriate BGP role to you.
 
 **Step 3: Fill in company profile**
 <br>Fill in your company profile. Please take note that your ACRA profile will be populated automatically.
@@ -46,7 +46,7 @@ Alternatively, simply select your sector and business needs to get suggestions f
 <br>Your application status will be updated on the “My Grants” page. An email will be sent to you if the agency requires further information.
 
 **Step 6: Accept Letter of Offer**
-<br>You will be notified of your application results via email. Log in with your CorpPass [here](https://www.businessgrants.gov.sg/){:target="_blank"} to accept your Letter of Offer.
+<br>You will be notified of your application results via email. Log in with your Corppass [here](https://www.businessgrants.gov.sg/){:target="_blank"} to accept your Letter of Offer.
 
 #### Related content
 
