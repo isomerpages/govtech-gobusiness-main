@@ -8,8 +8,8 @@ accordion-new:
       Here's what you need to know in order to register a Sole Proprietorship/Partnership
 
       **Application Fee**
-      - $100.00 for one year or $160 for three years (inclusive of registration and renewal fee)
-      - Additional $40.00 for every Alternate Address (optional)
+      - $100 for one year or $160 for three years (inclusive of registration and renewal fee)
+      - Additional $40 for every Alternate Address (optional)
 
       **Average Processing Time**
       - Usually approved within 15 minutes after registration fee is paid
