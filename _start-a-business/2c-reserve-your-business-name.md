@@ -3,7 +3,7 @@ title: Reserve your business name
 permalink: /start-a-business/reserve-your-business-name/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Apply for Business Name - Sole Proprietorship/Partnership
+  - title: Apply for Business Name (Sole Proprietorship/Partnership)
     content: |
       Here's what you need to know to apply for a business name for a Sole Proprietorship or Partnership.
 
@@ -26,9 +26,9 @@ accordion-new:
       - Proposed business name
       - Description of main business activities
       - Particulars of business owners and representatives (if applicable)
-  - title: Apply for Business Name - Limited Partnership
+  - title: Apply for Limited Partnership Name
     content: |
-      Here's what you need to know to apply for a business name for a Limited Partnership.
+      Here's what you need to know to apply for a Limited Partnership name.
 
       **Application Fee**
       - $15
@@ -51,9 +51,9 @@ accordion-new:
       - Proposed business name
       - Description of main business activities
       - Particulars of business owners and representatives (if applicable)
-  - title: Apply for Business Name - Limited Liability Partnership
+  - title: Apply for Limited Liability Partnership Name
     content: |
-      Here's what you need to know in order to apply for a business name for a Limited Liability Partnership (LLP).
+      Here's what you need to know in order to apply for a Limited Liability Partnership (LLP) name.
 
       **Application Fee**
       - $15
@@ -76,9 +76,9 @@ accordion-new:
       - Description of main business activities
       - Particulars of business partners and representatives (if applicable)
       - Local office address (where all communications to the LLP are sent)
-  - title: Apply for Business Name - Company
+  - title: Apply for Company Name
     content: |
-      Here's what you need to know in order to apply for a business name for a Company.
+      Here's what you need to know in order to apply for a Company name.
 
       **Application Fee**
       - $15
@@ -111,7 +111,7 @@ Avoid names which are:
 - vulgar, obscene or offensive
 - prohibited (e.g: Temasek)
 
-If your preferred business name is not available, you may submit an appeal. You will need to upload the necessary documents to support your appeal.
+If your preferred business name is not available, you may submit an appeal. You will need to upload the necessary documents to support your appeal when reserving your business name.
 
 To improve your chances of a successful application, read our [business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"} for more details.
 

@@ -8,7 +8,7 @@ third_nav_title: Next Steps to Consider
 
 #### Start Digital Package
 
-If you have just started your business or are new to digital technology, you can now take up a [Start Digital Package](https://www.imda.gov.sg/programme-listing/smes-go-digital/start-digital-pack){:target="_blank"} to give you a head start with some helpful basic digital tools. Choose any two solutions, at no cost for at least six months with a minimum 18-month contract period, from these categories:
+If you have just started your business or are new to digital technology, you can now take up a [Start Digital Package](https://www.imda.gov.sg/programme-listing/smes-go-digital/start-digital-pack){:target="_blank"} to give you a head start in going digital. You can benefit from starting with the right foundational digital tools by taking up any two solutions, at no cost for at least six months with a minimum 18-month contract period, from these categories:
 
 - Accounting*
 - HR management system & payroll

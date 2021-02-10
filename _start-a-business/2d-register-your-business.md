@@ -3,7 +3,7 @@ title: Register your business
 permalink: /start-a-business/register-your-business/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Register a Sole Proprietorship/Partnership
+  - title: Register a Business (Sole Proprietorship/Partnership)
     content: |
       Here's what you need to know in order to register a Sole Proprietorship/Partnership
 

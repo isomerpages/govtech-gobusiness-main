@@ -10,7 +10,7 @@ For companies, you will need to hire an auditor within three months and a compan
 
 **To hire a local employee, you need to:**
 
-- [Use MyCareersFuture](https://employer.mycareersfuture.sg/){:target="_blank"} to identify suitable applicants 
+- Use a [job bank](https://employer.mycareersfuture.sg/){:target="_blank"} to identify suitable applicants 
 - [Write a contract](https://www.mom.gov.sg/employment-practices/contract-of-service#key-employment-terms){:target="_blank"} which complies with the [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}
 - [Apply for a CPF Submission Number](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/setting-up-a-company/registering-as-an-employer-and-knowing-your-responsibilities){:target="_blank"} to make CPF contributions as an employer
 - [Get Work Injury Compensation Insurance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance){:target="_blank"} for employees doing manual work and earning $2,100 or less per month
