@@ -35,7 +35,7 @@ If you're starting a business in Singapore, here are 6 key steps to guide you:
 5. **[Create a Corppass account](/start-a-business/create-a-Corppass-account/)**<br>
 6. **[Open a corporate bank account](/start-a-business/open-a-corporate-bank-account/)**
 
-
+<br>
 {% include accordion-new.html %}
 
 #### Setup Cost Calculator
