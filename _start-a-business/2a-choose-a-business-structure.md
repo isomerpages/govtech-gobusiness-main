@@ -10,9 +10,9 @@ Whether you're running the business on your own or with partners, choose the str
 
 Not sure which to choose? Find out with our [Business Structure E-Adviser](https://www.google.com.sg/){:target="_blank"}.
 
-Here are the five different types of business structures:
+#### Here are the five different types of business structures
 
-**1. Sole Proprietors** 
+**1. Sole Proprietors**
 <br>A sole proprietorship is run by only one business owner and it is the simplest type of business structure. While a sole proprietor has complete control over the business and its operations, he is also personally responsible for all debts and legal actions against the business.
 
 **2. Partnerships**
@@ -40,9 +40,9 @@ Here are some questions to help you decide:
 - What are my business needs?
 - Is the business structure easy to close?
 
-Compare the different types of business entities [here](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.
+**Compare the different types of business entities [here](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.**
 
-Watch this video to learn more about the different business structures.
+**Watch this video to learn more about the different business structures**
 
 <div class="bp-youtube">
   <iframe src="https://www.youtube.com/embed/AUDy57BK-rU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
