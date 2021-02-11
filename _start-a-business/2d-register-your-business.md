@@ -101,16 +101,7 @@ accordion-new:
 
 ## Step 4: Register your business
 
-**Who should register a business with ACRA?**
-
-Anybody looking to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
-
- - You use your full name, as per your NRIC, as your business name.
- - You and your partner(s) use your full names, as per your NRIC, as your business name
-
-Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found here.
-
-**Benefits of registering a business**
+#### Benefits of registering a business
 
 There are several benefits of registering a business with ACRA. Here are some of them:
 
@@ -121,7 +112,7 @@ There are several benefits of registering a business with ACRA. Here are some of
   
 In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
 
-**How to register a business**
+#### How to register a business
 
 There are two ways to register your business:
 

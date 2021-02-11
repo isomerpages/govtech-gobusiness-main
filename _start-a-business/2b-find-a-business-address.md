@@ -6,12 +6,12 @@ third_nav_title: Key Steps to Start
 
 ## Step 2: Find a business address
 
-#### Running a business from home
+A business address is the place where you carry out your business. A P.O. Box address cannot be used as a business address.
 
-If you're running your business from home, you may apply for the Home Office Scheme with [HDB](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-business/home-office-scheme){:target="_blank"} for HDB properties or [URA](https://www.ura.gov.sg/Corporate/Guidelines/Home-Business/Home-Office-Scheme){:target="_blank"} for private residential properties. Once approved, you may register your residential address as the business address. 
+All business owners and company officers must provide their residential address at the point of registration. These addresses are made publicly available when the public purchases information about the business entity. If you are starting a home-based business and you intend to register it, your home address can also be used as the business address under the Home Office Scheme.
 
-Alternatively, you can register an Alternate Address (at a fee of $40) to maintain your privacy. The Alternate Address will be shown on public records instead of your personal residential address.
+If you wish to protect your privacy, you can submit an Alternate Address for a fee of $40. The Alternate Address will be shown on public records instead of your personal residential address. However, please ensure you can be contacted at your Alternate Address. You are still required to submit your residential address for ACRA's records. 
 
 #### Using commercial space
 
-If you're running your business from a commercial space, you will need to check the allowable uses of your desired location on [URA Space](https://www.ura.gov.sg/maps/){:target="_blank"}. If your business activities are not allowed there, you may apply for planning permission to approve your intended use.
+If you're running your business from a commercial space, you will need to check the [allowable uses](https://www.ura.gov.sg/maps/){:target="_blank"} of your desired location. If your business activities are not allowed there, you may apply for planning permission to change the approved use of that premises for your intended use.

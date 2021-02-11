@@ -2,9 +2,6 @@
 title: Overview
 permalink: /start-a-business/
 accordion-new:
-  - title: Running a business from home
-    content: |
-      There are 2 schemes you can consider if you intend to operate your business from home. The Home-Based Small Scale Business Scheme is for non-registered businesses while the Home Office scheme is for ACRA-registered businesses.
   - title: Home-Based Small Scale Business Scheme
     content: |
       This scheme is for non-registered businesses conducting home-based business activities such as sewing work and baking at home. You should wholly own and operate this business without any employees. The activities should not materially affect the use of the premises as a residential unit and shall not cause disturbance to other residents in the neighbourhood.
@@ -26,7 +23,18 @@ accordion-new:
 
 ## Overview
 
-If you're starting a business in Singapore, here are 6 key steps to guide you:
+If you're starting a business in Singapore, the first question to consider is whether you need to register it.
+
+Anybody looking to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
+
+ - You use your full name, as per your NRIC, as your business name.
+ - You and your partner(s) use your full names, as per your NRIC, as your business name
+
+Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](Full list of exemptions https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.
+
+#### Key steps to start
+
+Now that you know whether to register the business, here are 6 key steps to guide you:
 
 1. [Choose a business structure](/start-a-business/choose-a-business-structure/)
 2. [Find a business address](/start-a-business/find-a-business-address/)
@@ -35,10 +43,12 @@ If you're starting a business in Singapore, here are 6 key steps to guide you:
 5. [Create a Corppass account](/start-a-business/create-a-Corppass-account/)
 6. [Open a corporate bank account](/start-a-business/open-a-corporate-bank-account/)
 
-<br>
-Home-based businesses:
+#### Running a business from home
+
+There are 2 schemes you can consider if you intend to operate your business from home. The Home-Based Small Scale Business Scheme is for non-registered businesses while the Home Office scheme is for ACRA-registered businesses.
 
 {% include accordion-new.html %}
 
 #### Setup Cost Calculator
+
 Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.
