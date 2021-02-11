@@ -36,7 +36,7 @@ If you're starting a business in Singapore, here are 6 key steps to guide you:
 6. [Open a corporate bank account](/start-a-business/open-a-corporate-bank-account/)
 
 <br>
-If you're starting a home-based business in Singapore:
+Home-based businesses:
 
 {% include accordion-new.html %}
 
