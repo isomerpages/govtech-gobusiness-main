@@ -43,9 +43,14 @@ Now that you know whether to register the business, here are 6 key steps to guid
 5. [Create a Corppass account](/start-a-business/create-a-Corppass-account/)
 6. [Open a corporate bank account](/start-a-business/open-a-corporate-bank-account/)
 
+<<<<<<< HEAD
 #### Running a business from home
 
 There are 2 schemes you can consider if you intend to operate your business from home. The Home-Based Small Scale Business Scheme is for non-registered businesses while the Home Office scheme is for ACRA-registered businesses.
+=======
+<br>
+#### Home-based businesses
+>>>>>>> 4df3d7d3e8be81c772bea9f4b9250eccf25146ec
 
 {% include accordion-new.html %}
 

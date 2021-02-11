@@ -12,16 +12,16 @@ All businesses are to comply with the following requirements:
 - Employers must ensure that employees who have been working from home continue to do so. Working from home should continue to be the default mode of working, to reduce physical interactions in the workplace and minimise the spread of COVID-19.
 - Employees should only return to the workplace where it is demonstrably necessary, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines, or to complete a contract or transaction that is legally required to be completed in person and on-site).
 
-#### Overview of the safe management measures.
+#### Overview of safe management measures
 
 **Be Ready, Stay Safe** <br>
 **7 Key Requirements for Safe Management at Workplaces**
 
+**<ins>Infographic</ins>**
 ![Safe Management Practices!](/images/covid/infog.jpg "7 Key Requirements for Safe Management at Workplaces")
 
-**Video**
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**<ins>Video</ins>**
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **<ins>Resources for download</ins>**
 
