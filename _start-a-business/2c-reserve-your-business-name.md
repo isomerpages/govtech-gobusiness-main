@@ -129,7 +129,7 @@ The pre-requisites, information and supporting documents needed for the applicat
 
 {% include accordion-new.html %}
 
-#### Review of applications by referral authorities
+#### Review of applications by Referral Authorities
 
 Certain names require approval from Referral Authorities. For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
 
