@@ -58,14 +58,14 @@ Estate agents and real estate salespersons are to comply to measures stipulated 
 
 Enterprises in the finance sector are to comply to measures stipulated in this <a href="https://go.gov.sg/massmrrequirements2" target="_blank">document</a> [last updated on 15 Jun 20]. You can also refer to the Monetary Authority of Singapore <a href = "https://www.mas.gov.sg/news" target="_blank">website</a>.
 
-#### F&B & Retail
+#### F&B & retail
 
 - F&B establishments are to comply to measures stipulated in this (document) <a href="https://covid.gobusiness.gov.sg/guides/FBestablishments17Nov.pdf" target="_blank">document</a> [last updated on 17 Nov 20].<br>
 - Infographic on Safe Management Measures at F&B Establishments [last updated on 27 Jul 20]<br>
-![F&B](/images/smrfnb.jpg "F&B establishments")
+![F&B](/images/covid/smrfnb.jpg "F&B establishments")
 - Retail establishments and lifestyle-related services are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/retailsmrrequirements17Nov.pdf" target="_blank">document</a> [last updated on 17 Nov 20].<br>
 - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 16 Jun 20]<br>
-![Retail](/images/smrretail.jpg "Retail")
+![Retail](/images/covid/smrretail.jpg "Retail")
 
 #### Health and social services
 
@@ -107,7 +107,7 @@ You can also refer to the Singapore Police Force <a href = "https://www.police.g
 
 Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this <a href="https://go.gov.sg/privatemjadvisory" target="_blank">document</a> [last updated on 25 Jun 20].
 
-#### Private tuition and rnrichment
+#### Private tuition and enrichment
 
 Private tuition and enrichment providers are to comply to measures stipulated in this <a href="https://covid.gobusiness.gov.sg/guides/PrivateTuitionEnrichment.pdf" target="_blank">document</a> [last updated on 2 Dec 20].
 
