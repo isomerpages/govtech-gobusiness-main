@@ -42,7 +42,7 @@ Here are some questions to help you decide:
 
 Compare the different types of business entities [here](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.
 
-#### Learn more about the different business structures
+#### Watch this video to learn more about the different business entities
 
 <div class="bp-youtube">
   <iframe src="https://www.youtube.com/embed/AUDy57BK-rU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
