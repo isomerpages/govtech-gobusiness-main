@@ -14,8 +14,8 @@ All businesses are to comply with the following requirements:
 
 #### Overview of safe management measures
 
-**Be Ready, Stay Safe** <br>
-**7 Key Requirements for Safe Management at Workplaces**
+***Be Ready, Stay Safe*** <br>
+***7 Key Requirements for Safe Management at Workplaces***
 
 **<ins>Infographic</ins>**
 ![Safe Management Practices!](/images/covid/infog.jpg "7 Key Requirements for Safe Management at Workplaces")
@@ -29,5 +29,5 @@ All businesses are to comply with the following requirements:
 
 |         7 Key Requirements for Safe Management at Workplaces          |                                                                                                                                                                           Download                                                                                                                                                                            |
 | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         Full Infographic         |                                                                                                               <a href="/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a>                                                                                                                |
-| Individual Infographic frames | <a href="/images/img-01.jpg" target="_blank">JPG</a> <br>  <a href="/images/img-02.jpg" target="_blank">JPG</a>  <br>  <a href="/images/img-03.jpg" target="_blank">JPG</a> <br> <a href="/images/img-04.jpg" target="_blank">JPG</a> <br> <a href="/images/img-05.jpg" target="_blank">JPG</a> <br> <a href="/images/img-06.jpg" target="_blank">JPG</a> |
+|         Full infographic         |                                                                                                               <a href="/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a>                                                                                                                |
+| Individual infographic frames | <a href="/images/img-01.jpg" target="_blank">Frame 1</a> <br>  <a href="/images/img-02.jpg" target="_blank">Frame 2</a>  <br>  <a href="/images/img-03.jpg" target="_blank">Frame 3</a> <br> <a href="/images/img-04.jpg" target="_blank">Frame 4</a> <br> <a href="/images/img-05.jpg" target="_blank">Frame 5</a> <br> <a href="/images/img-06.jpg" target="_blank">Frame 6</a> |
