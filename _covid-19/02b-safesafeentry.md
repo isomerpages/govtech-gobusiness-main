@@ -1,25 +1,25 @@
 ---
-title: Contact Tracing Support
+title: Contact tracing support
 permalink: /safemanagement/safeentry/
 third_nav_title: Safe Management Requirements
 ---
 
 #### **1. SafeEntry**
 
-![SafeEntry](/images/safeentrypic.png "SafeEntry")
+![SafeEntry](/images/covid/SafeEntry_logo_inline.png "SafeEntry")
 
-SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their Singpass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise. 
+SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their Singpass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
 
 Businesses and building owners who wish to find out more can click <a target="_blank" href="https://go.gov.sg/travelhealthdeclare">here</a>.
 
 All businesses and services that are in operation must institute SafeEntry for their employees, associates and vendors. Of the businesses/services that are allowed to be in operation, the following list of facilities/places must also deploy the SafeEntry system to log the check-in of customers, clients, students, visitors entering their premises.
-- Workplaces e.g. offices, factories 
+- Workplaces e.g. offices, factories
 - Schools and educational institute
 - Preschools and student care centres
-- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities 
+- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
 - Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities    
-- Places of worship 
-- Funeral parlours 
+- Places of worship
+- Funeral parlours
 - Hotels
 - Banks and financial institutions
 - Retail, personal and food & beverage (F&B) services<br>
@@ -30,7 +30,7 @@ All businesses and services that are in operation must institute SafeEntry for t
     e.	Large retail outlets (> 930 sqm or 10,000 sqft)<br>
     f.	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<br>
     g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
-- Tuition and enrichment, training centres, and other training/ class venues 
+- Tuition and enrichment, training centres, and other training/ class venues
 - Sports and recreation<br>
     a.	Sports and fitness centres, including gyms, studios<br>
     b.	Country and recreation clubs, and registered premises of other member clubs/ societies<br>
@@ -43,11 +43,11 @@ All businesses and services that are in operation must institute SafeEntry for t
 
 SafeEntry has been progressively rolled out to taxis since 12 May 2020 to better support contact tracing efforts for street-hail trips. All commuters who get onto the taxi should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
 
-Retail outlets where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops, are encouraged, but not required, to implement SafeEntry for customers. 
+Retail outlets where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops, are encouraged, but not required, to implement SafeEntry for customers.
 
 For avoidance of doubt, all premises, including small retail outlets, must still implement SafeEntry for employees, associates and vendors as per all workplaces, and adhere strictly to the other safe management measures, e.g. safe distancing.
 
-*This list will be updated as more activities and services are resumed. 
+*This list will be updated as more activities and services are resumed.
 
 
 #### **2. TraceTogether**
