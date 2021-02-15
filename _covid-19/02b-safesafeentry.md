@@ -6,7 +6,7 @@ third_nav_title: Safe Management Requirements
 
 #### **1. SafeEntry**
 
-<img src="/images/covid/SafeEntry_logo_inline.png" width="100" height="">
+<img src="/images/covid/SafeEntry_logo_inline.png" width="100" height="100">
 
 SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their Singpass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
 
@@ -23,21 +23,21 @@ All businesses and services that are in operation must institute SafeEntry for t
 - Hotels
 - Banks and financial institutions
 - Retail, personal and food & beverage (F&B) services<br>
-    a.	Malls<br>
-    b.	Supermarkets<br>
-    c.	Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)<br>
-    d.	F&B outlets for dine-in customers<br>
-    e.	Large retail outlets (> 930 sqm or 10,000 sqft)<br>
-    f.	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<br>
-    g.	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
+    -	Malls
+    -	Supermarkets
+    -	Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
+    -	F&B outlets for dine-in customers
+    -	Large retail outlets (> 930 sqm or 10,000 sqft)
+    -	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres
+    -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
 - Tuition and enrichment, training centres, and other training/ class venues
-- Sports and recreation<br>
-    a.	Sports and fitness centres, including gyms, studios<br>
-    b.	Country and recreation clubs, and registered premises of other member clubs/ societies<br>
+- Sports and recreation
+    -	Sports and fitness centres, including gyms, studios<br>
+    -	Country and recreation clubs, and registered premises of other member clubs/ societies<br>
 - Cultural and entertainment venues<br>
-    a.	Libraries<br>
-    b.	Museums, exhibitions, and showrooms<br>
-    c.	Cinemas, attractions, and other entertainment venues<br>
+    -	Libraries
+    -	Museums, exhibitions, and showrooms
+    -	Cinemas, attractions, and other entertainment venues
 - Home-based businesses that involve customers entering one’s home for a prolonged period, e.g. private dining, hairdressing services
 - Event venues e.g. function halls/ rooms, event lawns  
 
@@ -52,7 +52,7 @@ For avoidance of doubt, all premises, including small retail outlets, must still
 
 #### **2. TraceTogether**
 
-<img src="/images/covid/tracetogether_logo.png" width="100" height="">
+<img src="/images/covid/tracetogether_logo.png" width="100" height="100">
 
 TraceTogether is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
 
