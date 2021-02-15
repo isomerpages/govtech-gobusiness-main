@@ -22,7 +22,7 @@ All businesses are to comply with the following requirements:
 
 **<ins>Video</ins>**
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe height="348" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 **<ins>Resources for download</ins>**
