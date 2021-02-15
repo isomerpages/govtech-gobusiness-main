@@ -6,7 +6,7 @@ third_nav_title: Safe Management Requirements
 
 #### **1. SafeEntry**
 
-<img src="/images/covid/SafeEntry_logo_inline.png" width="50%" height="100%">
+<img src="/images/covid/SafeEntry_logo_inline.png" width="100" height="">
 
 SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their Singpass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
 
@@ -52,7 +52,7 @@ For avoidance of doubt, all premises, including small retail outlets, must still
 
 #### **2. TraceTogether**
 
-<img src="/images/covid/tracetogether_logo.png" width="100%" height="50%">
+<img src="/images/covid/tracetogether_logo.png" width="100" height="">
 
 TraceTogether is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
 
