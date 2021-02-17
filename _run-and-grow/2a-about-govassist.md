@@ -16,7 +16,7 @@ Here are the types of assistance you can find on GoBusiness. Click on the catego
 
 {% include panels.html panels=site.data.search_by_assistance_type %}
 
-Not sure which schemes to apply for?
+#### Not sure which schemes to apply for?
 
 Find out with e-Adviser, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
