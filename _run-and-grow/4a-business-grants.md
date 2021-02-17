@@ -10,7 +10,7 @@ third_nav_title: Business Grants
 
 [![BGP](/images/grow/PSG JR.jpg "BGP")](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html)
 
-Applying for grants is easy with GoBsusiness, a one-stop portal that allows you to apply for all the grants you need without having to deal with multiple government agencies. Here, you can also manage and track all your grant applications at a glance.
+Applying for grants is easy with GoBsusiness, where you can apply for all the grants you need without having to deal with multiple government agencies. Here, you can also manage and track all your grant applications at a glance.
 
 <p>
 {% include button.html text="Get Started" src="https://www.businessgrants.gov.sg/" type="primary" %}
@@ -32,10 +32,8 @@ If you're not sure which to choose, you can use our e-Adviser to help select the
 {% include button.html text="Go to e-Adviser" src="https://gaeadviser.gobusiness.gov.sg/?src=govassist_overview_bgp" type="primary" %}
 </p>
 
-Alternatively, simply select your sector and business needs to get suggestions for relevant grants.
-
 **Step 2: Register with Corppass**
-<br>Log in with Corppass [here](https://www.businessgrants.gov.sg/){:target="_blank"} and ask your Corppass Admin to assign an appropriate BGP role to you.
+<br>Log in with Corppass [here](https://www.businessgrants.gov.sg/){:target="_blank"} and ask your Corppass Admin to assign an appropriate role to you.
 
 **Step 3: Fill in company profile**
 <br>Fill in your company profile. Please take note that your ACRA profile will be populated automatically.
