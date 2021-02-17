@@ -386,15 +386,13 @@ img[src*="/images/budget2021/budget2021.jpg"] {
 }
 
 img[src*="/images/covid/tracetogether_logo.png"] {
-  display: block;
+  display: inline;
   width: 240px;
-  position: static;
 }
 
 img[src*="/images/covid/safeentry_logo_inline.png"] {
-  display: block;
+  display: inline;
   width: 240px;
-  position: static;
 }
 
 .news-content {
