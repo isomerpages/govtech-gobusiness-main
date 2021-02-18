@@ -379,7 +379,25 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // specific image inline with text - Kevin
-img[src*="/images/budget2021/budget2021.jpg"] {
+img[src*="/images/budget2021/budget2021.png"] {
+  display: inline;
+  margin: auto;
+  width: 10%;
+}
+
+img[src*="/images/budget2021/budget_enhanced.png"] {
+  display: inline;
+  margin: auto;
+  width: 10%;
+}
+
+img[src*="/images/budget2021/budget_extended.png"] {
+  display: inline;
+  margin: auto;
+  width: 10%;
+}
+
+img[src*="/images/budget2021/budget_new.png"] {
   display: inline;
   margin: auto;
   width: 10%;
