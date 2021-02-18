@@ -6,25 +6,25 @@ third_nav_title: Government Assistance
 
 ## List of Grants
 
-#### 2-Stage Innovation Grant (iGrant)![b2021](/images/budget2021/budget2021.png "Budget 2021")
+#### 2-Stage Innovation Grant (iGrant)![b2021](/images/budget2021/budget2021.png)
 
 Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
 
 <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Accessibility Fund![b2021](/images/budget2021/budget_enhanced.png "Budget 2021")
+#### Accessibility Fund![b2021](/images/budget2021/budget_enhanced.png)
 
 Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
 
 <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Agriculture Productivity Fund (APF)![b2021](/images/budget2021/budget_extended.png "Budget 2021")
+#### Agriculture Productivity Fund (APF)![b2021](/images/budget2021/budget_extended.png)
 
 The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
 
 <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Artificial Intelligence and Data Analytics (AIDA) Grant![b2021](/images/budget2021/budget_new.png "Budget 2021")
+#### Artificial Intelligence and Data Analytics (AIDA) Grant![b2021](/images/budget2021/budget_new.png)
 
 The AIDA grant supports projects that demonstrate adoption of AI & DA techniques that achieve business objectives of strategy & decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
 
