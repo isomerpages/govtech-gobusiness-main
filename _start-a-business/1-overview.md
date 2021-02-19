@@ -12,7 +12,7 @@ accordion-new:
       3. No extraneous traffic is introduced to the site.
       4. No noise, smoke, smell, effluent or dust nuisances or danger should be posed to the surrounding residents.
       5. No loading and unloading of goods by vans and trucks.
-      6.The activities must comply with the rules and regulations of other authorities.
+      6. The activities must comply with the rules and regulations of other authorities.
       7. HDB flats cannot be used for business registration. The use of a private residential premises address for business registration does not require planning permission, provided there is no material change of use of the residential premises.
 
       As long as the criteria are fulfilled, you do not need to seek any approval from HDB or URA to run your business from home for your non-registered business. You can find the full criteria and guidelines from [HDB](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/home-business/homebased-small-scale-business-scheme){:target="_blank"} or [URA](https://www.ura.gov.sg/Corporate/Guidelines/Home-Business/Home-Based-Businesses){:target="_blank"}.
