@@ -5,9 +5,6 @@ third_nav_title: Sectors
 accordion-psg:
   - title: Accounting Management and Human Resource Management System (HRMS)
     content: |
-      **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
-      **Support level:** Up to 80% for SMEs
-      
       | **Vendor** | **Solution** |
       | --- | --- |
       |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
