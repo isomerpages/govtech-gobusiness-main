@@ -9,7 +9,7 @@ accordion-new:
       **Support level:** Up to 80% for SMEs
       
       | **Vendor** | **Solution** |
-      | -- | -- |
+      | --- | --- |
       |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
       |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
   - title: Accounting Management and Sales Management System (Part 1)
