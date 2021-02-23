@@ -378,6 +378,11 @@ $desktop: 960px + (2 * $gap) !default;
   margin-left: 0;
 }
 
+// accordion to show table - Kevin
+.horizontal-scroll {
+  display: contents;
+}
+
 // specific image inline with text - Kevin
 img[src*="/images/budget2021/budget2021.png"] {
   display: inline;
