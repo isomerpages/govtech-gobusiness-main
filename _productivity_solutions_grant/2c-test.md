@@ -3,12 +3,6 @@ title: Test Solutions
 permalink: /productivity-solutions-grant/sectors/test/
 third_nav_title: Sectors
 accordion-psg:
-  - title: Accounting Management and Human Resource Management System (HRMS)
-    content: |
-      | **Vendor** | **Solution** |
-      | --- | --- |
-      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
-      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
   - title: Accounting Management and Sales Management System (Part 1)
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
@@ -28,7 +22,13 @@ accordion-psg:
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
-      [ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}    
+      [ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}
+  - title: Accounting Management and Human Resource Management System (HRMS)
+    content: |
+      | **Vendor** | **Solution** |
+      | --- | --- |
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1)|    
 ---
 
 ## Generic Solutions for All Sectors
