@@ -1,7 +1,7 @@
 ---
 title: Imports & Exports
 permalink: /run-and-grow/imports-and-exports/
-third_nav_title: Taxes,GST & Customs
+third_nav_title: Taxes, GST & Customs
 ---
 
 ## Imports & Exports

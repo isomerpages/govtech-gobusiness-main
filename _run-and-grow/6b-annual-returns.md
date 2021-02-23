@@ -1,7 +1,7 @@
 ---
 title: Annual Returns
 permalink: /run-and-grow/annual-returns/
-third_nav_title: Taxes,GST & Customs
+third_nav_title: Taxes, GST & Customs
 accordion-new:
   - title: For Businesses (Sole Proprietorships and Partnerships) and Limited Partnerships
     content: |
@@ -14,16 +14,16 @@ accordion-new:
       Annual returns must be filed as it helps the company’s stakeholders make informed decisions. Here is a list of information that you are required to provide when filing annual returns.
       
       **1. Company details** 
-      Confirm that the company type, registered office address, particulars of the company officers, and details of registered charges are up to date.  
+      <br>Confirm that the company type, registered office address, particulars of the company officers, and details of registered charges are up to date.  
  
       **2. Shares**
-      Verify your company’s shares details, such as the number of shares held, issued share capital, and amount of paid up share capital. 
+      <br>Verify your company’s shares details, such as the number of shares held, issued share capital, and amount of paid up share capital. 
  
       **3. Financial Statements** 
-      Check whether your company is required to file financial statements with the annual return on ACRA's website here. Companies that are not required to file financial statements must instead submit an online declaration, when filing their annual return. 
+      <br>Check whether your company is required to file financial statements with the annual return on ACRA's website here. Companies that are not required to file financial statements must instead submit an online declaration, when filing their annual return. 
  
       **4. Date of Annual General Meeting (if applicable)** 
-      Indicate the date of your company’s annual general meeting (AGM), if it was held. This is not applicable if your company is exempted from holding AGMs or have dispensed with AGMs.
+      <br>Indicate the date of your company’s annual general meeting (AGM), if it was held. This is not applicable if your company is exempted from holding AGMs or have dispensed with AGMs.
 ---
 
 ## Annual Returns
