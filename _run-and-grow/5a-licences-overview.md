@@ -8,7 +8,7 @@ accordion-new:
       ![Food Services](/images/grow/foodservices.png)
       **Guided Journey**
       <br>If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
-      [Login here](https://www.gobusiness.gov.sg/licences/foodservices){:target="_blank"}
+      <br>[Login here](https://www.gobusiness.gov.sg/licences/foodservices){:target="_blank"}
       
   - title: For all other business owners
     content: |
@@ -18,6 +18,7 @@ accordion-new:
 
       **Manage Licences from:**
       <br>Singapore Food Agency (SFA), NParks and Animal Veterinary Service (AVS): [Login here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}
+      
       Other agencies: [Login here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}
 ---
 
@@ -31,8 +32,8 @@ Most businesses need licences and permits for different business activities. Wit
 
 ## Find licences
 
-[Licence guides by sector](/licences/find-licence-by-sector/)
-Select your business sector, then find out which licences you need by answering a few questions.
+**[Licence guides by sector](/licences/find-licence-by-sector/)**
+<br>Select your business sector, then find out which licences you need by answering a few questions.
 
-[Find licences by agency](/licences/find-licence-by-agency/)
-Browse the list of licences, grouped according to government agency.
+**[Find licences by agency](/licences/find-licence-by-agency/)**
+<br>Browse the list of licences, grouped according to government agency.
