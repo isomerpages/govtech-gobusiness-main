@@ -1,4 +1,5 @@
 ---
 title: Start Business FAQs
-permalink: /start-a-business/faqs/
+permalink: /faqs/start-a-business/
 ---
+<meta http-equiv="REFRESH" content="0;url=/start-a-business/faqs/" target="_blank">
