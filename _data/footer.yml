@@ -25,12 +25,12 @@ navlinks:
         url: /business-grants/
       - title: Licences and Permits
         url: /licences/
-      - title: Tax filing
-        url: /run-and-grow/tax-filing/
-      - title: Get a Customs Account
-        url: /run-and-grow/customs-account/
-      - title: Register for GST
-        url: /run-and-grow/gst-registered/
+      - title: Taxes, GST & Customs
+        url: /run-and-grow/taxes-and-gst/
+      #- title: Get a Customs Account
+      #  url: /run-and-grow/customs-account/
+      #- title: Register for GST
+      #  url: /run-and-grow/gst-registered/
       - title: GeBIZ Alerts
         url: /gebiz-alerts/  
   - title: Covid-19

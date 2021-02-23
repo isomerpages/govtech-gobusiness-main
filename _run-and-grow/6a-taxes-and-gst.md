@@ -1,6 +1,7 @@
 ---
 title: Taxes & GST
-permalink: /run-and-grow/tax-filing/
+permalink: /run-and-grow/taxes-and-gst/
+third_nav_title: Taxes,GST & Customs
 ---
 
 ## Taxes & GST
