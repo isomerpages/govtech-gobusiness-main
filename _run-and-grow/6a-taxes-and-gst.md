@@ -10,18 +10,22 @@ third_nav_title: Taxes, GST & Customs
 
 Unsure how to file taxes for your business?
 
-Check out the following guides to learn more:
+**Tax Filing for Sole Proprietorship/Partnership/Limited Partnership/Limited Liability Partnership**
+
+If your business has not been registered yet, check out the following guides to learn more.
 - [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="_blank"}
-- [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"}
-- [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"}
+- [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"} 
 
-Upon successful registration of your business, you may use the Start-Up Kit to guide you in your first Income Tax Return filing with IRAS. 
+After your business has been registered, access the Start-Up Kit to obtain customised information to guide you in your first Income Tax Return filing with IRAS. 
 - [New Sole-Proprietorship and Partnership Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/New-Sole-Proprietorship-and-Partnership-Start-Up-Kit/){:target="_blank"}
-- [New Company Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="_blank"} 
 
-After that, you will need to file Annual Return with ACRA and file Income Tax Return* with IRAS every year.
+**Tax Filing for New Companies**
 
-*including Corporate Income Tax for companies.
+If your company has not been registered yet, check out the following guide to learn more.
+- [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"} 
+
+After your business has been registered, access the Start-Up Kit to obtain customised information to guide you in your Annual filing with ACRA and Income Tax Returns with IRAS. 
+- [New Company Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="_blank"}
 
 #### Register for GST
 
