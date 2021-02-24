@@ -6,14 +6,14 @@ accordion-new:
   - title: For new food service business owners
     content: |
       ![Food Services](/images/grow/foodservices.png)
-      [**Guided Journey**](#new-fs)
+      **Guided Journey**
       <br>If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
       <br>[Login here](https://www.gobusiness.gov.sg/licences/foodservices){:target="_blank"}
       
   - title: For all other business owners
     content: |
       ![Other Business Owners](/images/grow/allotherbizowners.png)
-      [**Self-Service**](#all-biz)
+      **Self-Service**
       <br>Apply for, renew and manage all your licences and permits with Self-Service, previously known as LicenceOne.
 
       **Manage Licences from:**
