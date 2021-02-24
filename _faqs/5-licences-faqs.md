@@ -1,5 +1,5 @@
 ---
-title: Licences and Premits FAQs
+title: Licences and Permits FAQs
 permalink: /faqs/licensing-faqs/
 ---
 <meta http-equiv="REFRESH" content="0;url=/licensing-faqs/" target="_blank">
