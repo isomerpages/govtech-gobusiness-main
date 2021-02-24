@@ -1,31 +1,21 @@
 - title: Licences and Permits
-  description: Pre-scoped IT Solutions
-  link: /productivity-solutions-grant/sectors/all-sectors/
-  description1: Pre-scoped Consultancy
-  link1: /productivity-solutions-grant/sectors/all-sectors/
+  description: For new food service business owners
+  link: /licences/
+  description1: For all other business owners
+  link1: /licences/
   description2: 
   link2: 
 
 - title: Gov Assist & Business Grants
-  description: Pre-scoped Equipment
-  link: /productivity-solutions-grant/sectors/advancedmanufacturing/
-  description1: 
-  link1: 
+  description: Government Assistance
+  link: /gov-assist/
+  description1: Productivity Solutions Grant
+  link1: /productivity-solutions-grant/
   
 - title: Guides for Businesses
-  description: Pre-scoped Equipment
-  link: /productivity-solutions-grant/sectors/all-sectors/
-
-- title: 
-  description: 
-  link: 
-
-- title:
-  description: 
-  link: 
-
-- title: 
-  description: 
-  link: 
-  description1: 
-  link1: 
+  description: Start a Business e-Adviser
+  link: https://www.google.com.sg/
+  description1: Food Services Guided Journey
+  link1: /licences/guided-journey/
+  description2: Gov Assist e-Adviser
+  link2: https://gaeadviser.gobusiness.gov.sg/
