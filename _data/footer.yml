@@ -47,16 +47,16 @@ navlinks:
       - title: FAQs
         url: /faq/general      
   - title: E-Services
-    url: /govt-e-services/administrative/
-    sublinks:
-      - title: All Businesses
-        url: /govt-e-services/administrative/
-      - title: Arts & Media
-        url: /govt-e-services/arts-and-media/
-      - title: Casinos
-        url: /govt-e-services/casinos/
-      - title: Construction
-        url: /govt-e-services/construction/  
+    url: /e-services/
+    #sublinks:
+      #- title: All Businesses
+      #  url: /govt-e-services/administrative/
+      #- title: Arts & Media
+      #  url: /govt-e-services/arts-and-media/
+      #- title: Casinos
+      #  url: /govt-e-services/casinos/
+      #- title: Construction
+      #  url: /govt-e-services/construction/  
   - title: Who We Are
     url: /about-us/
     sublinks:
