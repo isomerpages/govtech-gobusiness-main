@@ -27,6 +27,8 @@ If your company has not been registered yet, check out the following guide to le
 After your business has been registered, access the Start-Up Kit to obtain customised information to guide you in your Annual filing with ACRA and Income Tax Returns with IRAS. 
 - [New Company Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="_blank"}
 
+#### [Register for GST](#register-for-gst)
+
 #### Register for GST
 
 You will need to register for GST when:
