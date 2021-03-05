@@ -10,7 +10,7 @@ sections:
       title: Government Services for Businesses
       subtitle: >-
         GoBusiness is a one-stop platform for businesses to access government services, discover opportunities and connect with the right resources
-      background: /images/test_bg.jpg
+      background: /images/homepage/home banner placeholder.jpg
       dropdown:
         title: I Want To...
         options:
