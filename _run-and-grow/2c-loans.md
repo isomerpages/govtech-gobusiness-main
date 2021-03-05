@@ -29,4 +29,3 @@ The LIS help enterprises secure short-term trade financing loans by supporting 5
 The TBLP provides access to working capital for business needs, at a maximum supported loan of S$5 Million with 90% Government risk-share on loans for new applications initiated from 8 April-31 March 2021.
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank" style="color:#037e8a">Find out more</a>
-

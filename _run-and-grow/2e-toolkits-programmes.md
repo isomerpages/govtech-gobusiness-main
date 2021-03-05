@@ -42,17 +42,35 @@ bizSAFE is a 5-step risk management capability building programme for workplace 
 
 <a href="https://www.wshc.sg/bizsafe" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)![b2021](/images/budget2021/budget_new.png)
+
+CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Construction and Facilities Management Industry Digital Plan
 
 A step-by-step guide for local SMEs in the Construction and Facilities Management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
 <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Corporate Venture Launchpad (VCL)![b2021](/images/budget2021/budget_new.png)
+
+CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### CultureSAFE
 
 CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture. 
 
 <a href="https://www.wshc.sg/culturesafe" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Digital Leaders Programme![b2021](/images/budget2021/budget_new.png)
+
+The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Digital Services Lab
 
@@ -64,7 +82,13 @@ Through working with multiple industry stakeholders, DSL co-develops solutions u
 
 This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
 
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening " target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Emerging Technology Programme![b2021](/images/budget2021/budget_new.png)
+
+The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Environmental Services Industry Digital Plan
 
@@ -124,13 +148,13 @@ The IHRP Corporate Partner Programme supports employers in equipping their HR te
 
 iWorkHealth 1.0 is an online, self-administered psychosocial health assessment tool for companies and their employees to identify common workplace stressors.
 
-<a href="https://www.iworkhealth.sg" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.iworkhealth.gov.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Job Redesign for the Cleaning Sector
 
 Cleaning service providers and buyers can access a list of easy-to-adopt solutions to be improve productivity, attract and retain workers and improve service outcomes.
 
-<a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/cleaning/job-redesign-programme-for-environmental-services-cleaning-sector.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/environmental-services-cleaning-job-redesign-initiative.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Job Redesign for the Food Services Sector
 
@@ -244,13 +268,13 @@ Register as a host company to gain access to a qualified pool of fresh talent. T
 
 The Skills Frameworks provide useful information on job roles, key tasks expected to be performed by each job role, as well as the skills that an individual should possess for each job role. 
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skills-framework/index.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skills-framework/index.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SkillsFuture for Digital Workplace
 
 Equip your staff the right mindset and skills to welcome emerging technologies and technological changes to the workplace, and to take advantage of new opportunities in the future economy. 
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skillsfuture-for-digital-workplace.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-for-digital-workplace.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SkillsFuture Series "Tech-enabled Services"
 

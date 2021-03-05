@@ -6,25 +6,25 @@ third_nav_title: Government Assistance
 
 ## List of Grants
 
-#### 2-Stage Innovation Grant (iGrant)![b2021](/images/budget2021/budget2021.png)
+#### 3R Fund
 
-Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
+The 3R Fund supports companies and organisations registered in Singapore to implement programmes and initiatives to minimise solid waste.
 
-<a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Accessibility Fund![b2021](/images/budget2021/budget_enhanced.png)
+#### Accessibility Fund
 
 Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
 
 <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Agriculture Productivity Fund (APF)![b2021](/images/budget2021/budget_extended.png)
+#### Agriculture Productivity Fund (APF)
 
 The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
 
 <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Artificial Intelligence and Data Analytics (AIDA) Grant![b2021](/images/budget2021/budget_new.png)
+#### Artificial Intelligence and Data Analytics (AIDA) Grant
 
 The AIDA grant supports projects that demonstrate adoption of AI & DA techniques that achieve business objectives of strategy & decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
 
@@ -54,17 +54,11 @@ The BIF aims to encourage technology innovation and adoption, redesign of busine
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Capability Transfer Programme
+#### Capability Transfer Programme (CTP)![b2021](/images/budget2021/budget_extended.png)
 
 Get funding support for developing and acquiring new capabilities from foreign specialists.
 
-<a href="https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### Career Support Programme (CSP)
-
-Defrays cost of hiring by providing employers with up to $42,000 of salary support when they hire eligible unemployed Singapore Citizens in Professionals, Managers, Executives and Technicians (PMET) jobs.
-
-<a href="https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme-employers.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://go.gov.sg/wsg-ctp-enquiry-1" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Career Trial
 
@@ -90,6 +84,12 @@ CLT accelerates professional development through on-the-job training programme f
 
 <a href="https://www.imda.gov.sg/programme-listing/TechSkills-Accelerator-TeSA/Company-Led-Training-Programme-CLT" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Construction Support Package - Support for SMOs' salaries
+
+This grant co-funds the salaries of Safe Management Officers (SMOs) who need to be deployed to ensure that safe management measures are implemented at construction worksites.
+
+<a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/circulars/support-for-smos.pdf" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Cruise Development Fund (CDF)
 
 The CDF supports cruise industry players such as cruise lines, travel agents, charterers and trainers in activities that will build strong consumer demand for cruises from Singapore. 
@@ -114,29 +114,11 @@ DAG scheme supports Singapore-based FIs and Fintech firms adopt digital solution
 
 <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Digital Project Management Services
-
-SMEs can tap on a ready pool of skilled digital project manager at a subsidised rate, to help with implementing digital solutions correctly and timely.
-
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Project-Management-Services" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Digital Resilience Bonus
 
 The Digital Resilience Bonus aims to uplift the digital capabilities of a broad-base of enterprises. Eligible Food Services and Retail enterprises can receive up to $10,000 one-time cash payouts when they adopt pre-defined categories of solutions.
 
 <a href="https://www.imda.gov.sg/DRBonus " target="_blank" style="color:#037e8a">Find out more</a>
-
-#### E-Commerce Booster Package for Retailers
-
-To help retail businesses diversify and find ways to reach customers, the E-Commerce Booster package supports retailers bring their business online. Funding support of up to 90% for 3 months. 
-
-<a href="https://www.enterprisesg.gov.sg/industries/type/retail/e-commerce-booster-package?utm_source=imda&utm_medium=referral&utm_campaign=ecommercebooster" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### E-invoicing Registration Grant
-
-This grant provides businesses with a one-time grant of $200 per UEN, upon registration on the Nationwide E-Invoicing Network on or before 31 December 2020.
-
-<a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework/E-Invoicing-Registration-Grant" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Employment Support for Ex-Offenders
 
@@ -156,17 +138,11 @@ E2F supports companies in the industry sector in becoming more energy efficient.
 
 <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Enhanced Hiring Incentives
-
-Employers that hire local workers who had gone through eligible reskilling or training programme can receive salary support of up to 40% for 6 months, capped at $12,000 in total. 
-
-<a href="https://www.wsg.gov.sg/hiring-incentive.html" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Enhanced Training Support for SMEs (ETSS)
 
 The ETSS offers higher course fee grant of up to 90% of the course fees and absentee payroll funding of 80% of basic hourly salary at a higher cap of $7.50 per hour for SMEs signing up for SSG-supported courses. 
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/enhanced-training-support-for-SME.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/enhanced-training-support-for-SME.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Enhanced Training Support Package (ETSP)
 
@@ -174,9 +150,9 @@ The ETSP is a time-limited scheme to cover up to 90% course fee funding (for sel
 
 <a href="https://www.ssg.gov.sg/ETSP_EnhancedAP.html" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Enterprise Development Grant (EDG)
+#### Enterprise Development Grant (EDG)![b2021](/images/budget2021/budget_enhanced.png)
 
-The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 Dec 2020)
+The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 March 2022)
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -185,6 +161,12 @@ The EDG helps Singapore companies grow and transform. This grant supports projec
 The ELT is a one-year programme that supports business leaders of promising SMEs to develop business growth capabilities. Successful applications will qualify for up to 90% co-funding of programme fees.
 
 <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/growth-partnership-programme/enterprise-leadership-for-transformation" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### E-Waste Fund
+
+The National Voluntary Partnership (NVP) for E-waste Recycling Funding Scheme is designed to encourage companies to design, implement and/or expand voluntary programmes to increase e-waste recycling awareness and provide convenient recycling services for the public.
+
+<a href="https://www.nea.gov.sg/programmes-grants/schemes/national-voluntary-partnership-for-e-waste-recycling" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Experience Step-Up Fund (ESF)
 
@@ -222,12 +204,6 @@ The FTS provides funding for financial sector-specific training programmes which
 
 <a href="https://www.ibf.org.sg/programmes/Pages/IBF-FTS.aspx" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Food Delivery Booster Package
-
-The Food Delivery Booster Package supports F&B businesses to make the transition from offline to online sales through food delivery.
-
-<a href="https://www.enterprisesg.gov.sg/industries/type/food-services/food-delivery-booster-package" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### GoCloud
 
 Supports local ICT SMEs to transform traditional software architecture and development practices to Cloud-Native applications, so that they can be more agile, flexible and scalable
@@ -257,6 +233,12 @@ The Research Initiative Grant is earmarked to fund crowd-sourced initiatives tha
 GEMS (research) encourage FIs based in Sg to hire equity research professionals by co-funding hiring costs of equity research analysts. 
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Grant for Low-GWP Refrigerant Chillers
+
+This grant encourages companies to make an early switch to water-cooled chillers using lower global warming potential (GWP) refrigerants
+
+<a href="https://www1.bca.gov.sg/buildsg/sustainability/green-mark-incentive-schemes/grant-for-low-gwp-refrigerant-chillers-logr" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Grow Digital
 
@@ -342,6 +324,12 @@ With up to 90% funding support, the IHCI Enabler is an 8-week programme that foc
 
 <a href="https://ihci.sbf.org.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Innovative Smart Estate Trial Solutions
+
+This grant is for solution providers to develop new technologies or use cases in areas of enhancing smart environment, experiences and living.  IMDA will co-fund up to 50% of project costs for Singapore technology providers that leverage on digital solutions such as AI and data analytics to generate insights, formulate strategies and make decisions. Technologies could include machine learning, crowd or tenant analysis, unmanned stores, predictive maintenance and operations. IMDA and the industry (challenge statement owners) will evaluate the proposals submitted from the tech solution providers, and the POCs will be tested at live trial sites provided by the industry.
+
+<a href="https://www.imda.gov.sg/callforinnovativesolutionsforsmartestates" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Institute of Banking and Finance Standards Training Scheme (IBF-STS)
 
 The IBF-STS provides funding for programmes accredited under the IBF standards, with a grant cap of $7,000 per participant per programme. 
@@ -358,7 +346,21 @@ The iPOST initiative helps FIs defray part of the costs incurred in sending Sing
 
 (iSkills) Talent Development Programme is customised for both junior and senior internationalisers. Participating businesses can expect overseas immersion and a final project. 
 
-<a href="https://www.enterprisejobskills.sg/content/recruit-talent/internationalisation-skills-talent-development-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/internationalisation-skills-talent-development-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Jobs Growth Incentive (JGI)![b2021](/images/budget2021/budget_enhanced.png)
+
+The Jobs Growth Incentive (JGI) was announced on 17 Aug 2020 to encourage employers to accelerate their hiring of local workforce from September 2020 to February 2021 (inclusive), so as to create good and long-term jobs for locals. The JGI will provide one year of salary support from the point of hire for each new local hire by employers that managed to increase their local workforce from September 2020 to February 2021 (inclusive). It was enhanced in 5 Oct and 15 Oct to provide higher tier of support to persons-with-disabilities and ex-offenders, respectively.
+
+To be eligible for the JGI, firms must have increased their local workforce, as compared to Aug 2020.  This must be accompanied by an increase in local workforce earning at least $1,400 a month, as compared to Aug 2020.
+
+<a href="https://www.go.gov.sg/jgi" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Job Support Scheme (JSS) Extension for employers in Tier 1 and 2 sectors![b2021](/images/budget2021/budget_extended.png)
+
+No application is required. Receive 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee. The cash grant will be automatically computed based on mandatory CPF contribution data.
+
+<a href="https://go.gov.sg/jss" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Kickstart Fund (KF)
 
@@ -378,9 +380,9 @@ TACs keen to drive capability development and internationalisation projects can 
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-partners/local-enterprise-and-association-development-programme" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Market Readiness Assistance (MRA) Grant
+#### Market Readiness Assistance (MRA) Grant![b2021](/images/budget2021/budget_enhanced.png)
 
-SMEs looking to take their business overseas can receive up to 70% support for eligible costs with the MRA grant from 1 April 2020 - 31 March 2023.
+SMEs looking to take their business overseas can receive up to 70% support for eligible costs with the MRA grant from 1 April 2020 - 31 March 2023. (up to 80% from 1 April - 31 March 2022).
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -396,6 +398,12 @@ The NTFG helps first and second-time directors to launch their careers by provid
 
 <a href="https://www.imda.gov.sg/programme-listing/new-talent-feature-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
+
+The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
+
+<a href="https://www.openinnovation.sg/about" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Operation & Technology Roadmap (OTR)
 
 Development of technology roadmaps to map out priorities that are aligned to businesses' strategies and developmental plans. Eligible SMEs may receive up to 70% funding support.
@@ -406,13 +414,13 @@ Development of technology roadmaps to map out priorities that are aligned to bus
 
 OMNI is a joint initiative between SIMTech and SSG to train in-house champions to systematically integrate business, operation management and productivity improvement through the OMNI methodology.
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/operations-management-innovation-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/operations-management-innovation-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Part-Time Re-employment Grant (PTRG)
+#### Part-Time Re-employment Grant (PTRG)![b2021](/images/budget2021/budget2021.png)
 
 Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it. 
 
-<a href="https://www.mom.gov.sg/about-us/budget-highlights-2020" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### P-Max
 
@@ -432,6 +440,14 @@ Funding support for SMEs to learn and improve their HR practices within the orga
 
 <a href="https://www.wsg.gov.sg/programmes-and-initiatives/p-max-employer.html" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Power Systems Competitive Research and Test-bedding (CRT) Funding Initiatives
+
+EMA rolls out competitive grant calls to catalyse applied research and development (R&D) of innovative technologies and solutions. This aims to address industry-relevant challenges and opportunities in the energy sector that lead to long-term solutions for Singapore's energy challenges.
+
+The Power Systems CRT Funding Initiatives support competitive R&D grant call projects and test-beds in the three areas of power utilities, energy storage and smart grids that will meet Singapore’s energy needs.
+
+<a href="https://www.ema.gov.sg/Industry_Energy_Research_and_Development.aspx" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Production Assistance
 
 Provides funding for productions with original IPs that highlight Singapore talents in credited roles, infuse data or digital technologies into content for distribution on new or digital platforms.
@@ -444,9 +460,9 @@ Construction related companies can defray the cost of technology adoption aimed 
 
 <a href="https://www.bca.gov.sg/PIP/pip.html" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Productivity Solutions Grant (PSG)
+#### Productivity Solutions Grant (PSG)![b2021](/images/budget2021/budget_enhanced.png)
 
-The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April - 31 Dec 2020.
+The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April 2020 - 31 March 2022.
 
 <a href="https://govassist.gobusiness.gov.sg/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -462,11 +478,11 @@ The QCIF aims to promote adoption of quieter construction equipment and innovate
 
 <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/quieter-construction-innovation-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Research & Product Development courses
+#### Resource Efficiency Grant for Energy
 
-This is a catalogue of SSG-supported courses on Research & Product Development.
+REG(E) encourages companies in the Industry sector to implement projects that lead to meaningful carbon abatement outcomes.
 
-<a href="https://www.myskillsfuture.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1%3A%5B2020-05-04T00%3A00%3A00Z%20TO%20*%5D&fq=IsValid%3Atrue&q=*%3A*&cat=fq%3DArea_of_Training_text_exact%3A(%22Research%20%26%20Product%20Development%22)&cattext=Research%20%26%20Product%20Development&cattype=undefined" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html#:~:text=The%20Resource%20Efficiency%20Grant%20for,energy%20efficient%20and%20improve%20competitiveness.&text=Grant%20support%20for%20REG(E,of%2050%25%20of%20qualifying%20costs" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Research Innovation, Enterprise and Development
 
@@ -474,17 +490,17 @@ EMA rolls out competitive grant calls which aims to address industry-relevant ch
 
 <a href="https://www.ema.gov.sg/Industry_Energy_Research_and_Development.aspx" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Return to Work
+#### Senior Employment Credit
 
-Return to Work (RTW) is an initiative that pairs injured employees with dedicated RTW coordinators from public hospitals. This voluntary programme enables timely return of injured employees to work safely. 
+The Senior Employment Credit provides a wage offset to employers who employ older Singaporean workers. 
 
-<a href="https://www.wshc.sg/returntowork" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.mom.gov.sg/about-us/budget-highlights-2020" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Senior Worker Early Adopter Grant (SWEAG)
+#### Senior Worker Early Adopter Grant (SWEAG)![b2021](/images/budget2021/budget2021.png)
 
 Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes. 
 
-<a href="https://www.mom.gov.sg/about-us/budget-highlights-2020" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Service Industry Transformation Programme (SITP)
 
@@ -497,6 +513,12 @@ This programme aims to support lifestyle sector enterprises in their transformat
 The SFEC aims to encourage employers to invest in both enterprise and workforce transformation. Eligible employers will receive $10,000 credit to cover up to 90% out-of-pocket expenses on qualifying costs. 
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/skillsfuture-enterprise-credit" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Smart Facilities Management Proof-of-Concept Grant (Smart FM POC Grant)
+
+The Smart FM POC Grant is aims to showcase the potential benefits and establish a business case for the next phase of industry transformation towards integrated and aggregated smart FM.
+
+<a href="https://www1.bca.gov.sg/buildsg/facilities-management-fm/smart-facilities-management-fm" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Southeast Asia Co-Production Grant (SCPG)
 
@@ -558,6 +580,12 @@ TIP-iT supports tourism companies in employee upgrading and talent and leadershi
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/training-industry-professionals-in-tourism-tip-it.html" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Wage Credit Scheme![b2021](/images/budget2021/budget_extended.png)
+
+No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
+
+<a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Water Efficiency Fund (WEF)
 
 WEF provides funding to local non-domestic water users to enable them to improve water efficiency through water efficiency assessment, pilot study, recycling, adoption of water efficient equipment & industrial water solution demonstration projects.
@@ -574,4 +602,4 @@ BCA co-funds up to 90% of selected training courses and skills assessments for f
 
 The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school. 
 
-<a href="https://www.enterprisejobskills.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
