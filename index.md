@@ -39,7 +39,7 @@ sections:
       title: Guidance for local businesses
       subtitle:
       description: >-
-        Official information for [starting a business](/start-a-business/), growing its presence and navigating through crisis like Covid-19.
+        Official information for <a href="/start-a-business/" style="color:#037e8a">starting a business</a>, growing its presence and navigating through crisis like Covid-19.
       button: 
       url: 
       image: /images/homepage/home_localbusinessguidance.png
