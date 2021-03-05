@@ -39,7 +39,7 @@ sections:
       title: Guidance for local businesses
       subtitle:
       description: >-
-        Official information for <a href="/start-a-business/" style="color:#037e8a">starting a business</a>, growing its presence and navigating through crisis like Covid-19.
+        Official information for <a href="/start-a-business/" style="color:#037e8a">starting a business</a>, <a href="/run-and-grow/" style="color:#037e8a">growing its presence</a> and navigating through crisis like <a href="/covid/" style="color:#037e8a">Covid-19</a>.
       button: 
       url: 
       image: /images/homepage/home_localbusinessguidance.png
@@ -58,7 +58,16 @@ sections:
       subtitle: 
       description: A growing directory of business e-services offered across the Singapore Government.
       button: Go to Full e-Services Directory
-      url: /e-services/    
+      url: /e-services/
+  - infopic:
+      title: GoBusiness is the new home for
+      subtitle:
+      description: >-
+        - Business Grants Portal<br>- GoBusiness Licensing, Food Services Licensing<br>- Gov Assist Portal<br>- Covid-19 Portal
+      button: Learn About The Move
+      url: /about-us/
+      image: //images/homepage/home_gobizmove.jpg
+      alt: GoBusiness new home     
   #- infopic:
   #    title: Access Government e-Services
   #    subtitle:
@@ -97,4 +106,10 @@ sections:
       title: Be in the know
       subtitle: News and Media
       button: View More
+  - infobar:
+      title: Need business help?
+      subtitle: Contact Us
+      description: 
+      button: Contact Helpdesk
+      url: /contact-us/    
 ---
