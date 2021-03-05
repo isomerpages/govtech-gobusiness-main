@@ -66,7 +66,7 @@ sections:
         - Business Grants Portal<br>- GoBusiness Licensing, Food Services Licensing<br>- Gov Assist Portal<br>- Covid-19 Portal
       button: Learn About The Move
       url: /about-us/
-      image: /images/homepage/home_gobizmove.jpg
+      image: /images/homepage/home_gobizmovesmall.png
       alt: GoBusiness new home     
   #- infopic:
   #    title: Access Government e-Services
