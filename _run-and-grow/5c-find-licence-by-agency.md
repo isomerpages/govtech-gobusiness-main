@@ -7,8 +7,8 @@ accordion-a:
     content: |
       | **Licence Name** | **Apply on** |
       | --- | --- |
-      |Business Registration|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/)|
-      |Company Incorporation|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/)|
+      |Business Registration|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/){:target="_blank"}|
+      |Company Incorporation|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/){:target="_blank"}|
       |Foreign Company Registration|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/)|
       |Limited Liability Partnership (LLP) Registration|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/)|
       |Limited Partnership (LP) Registration|[http://www.bizfile.gov.sg/](http://www.bizfile.gov.sg/)|
