@@ -35,9 +35,9 @@ sections:
         - title: Find Licences
           url: /licences/
           description:
-        - title: GeBIZ Alerts
-          url: /gebiz-alerts/
-          description:  
+        #- title: GeBIZ Alerts
+        #  url: /gebiz-alerts/
+        #  description:  
         - title: Productivity Solutions Grant Listing
           url: /productivity-solutions-grant/
           description: 
