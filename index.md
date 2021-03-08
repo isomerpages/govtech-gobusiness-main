@@ -11,30 +11,42 @@ sections:
       #subtitle: >-
       #  GoBusiness is a one-stop platform for businesses to access government services, discover opportunities and connect with the right resources
       background: /images/homepage/home banner placeholder.jpg
-      dropdown:
-        title: I Want To...
-        options:
-          - title: Login with Corppass to Manage Corporate Transactions
-            url: 'https://www.Corppass.gov.sg/cpauth/login/homepage?TAM_OP=login'
-          - title: Start a New Business in Singapore
-            url: /start-a-business/
-          - title: Run and Grow My Business in Singapore
-            url: /run-and-grow/
-          - title: Search Government e-Services for Businesses
-            url: /govt-e-services/administrative/
+      #dropdown:
+      #  title: I Want To...
+      #  options:
+      #    - title: Login with Corppass to Manage Corporate Transactions
+      #      url: 'https://www.Corppass.gov.sg/cpauth/login/homepage?TAM_OP=login'
+      #    - title: Start a New Business in Singapore
+      #      url: /start-a-business/
+      #    - title: Run and Grow My Business in Singapore
+      #      url: /run-and-grow/
+      #    - title: Search Government e-Services for Businesses
+      #      url: /govt-e-services/administrative/
       key_highlights:
         - title: Start a Business
           url: /start-a-business/
-          description: Get an overview of what you need to start a business in Singapore
-        - title: Permissions and Manpower Declaration
-          url: https://go.gov.sg/timelimitedexemption
-          description: Check your exemption application/business resumption status and submit manpower details.
+          #description: Get an overview of what you need to start a business in Singapore
+        #- title: Permissions and Manpower Declaration
+        #  url: https://go.gov.sg/timelimitedexemption
+        #  description: Check your exemption application/business resumption status and submit manpower details.
+        - title: Find Government Assistance
+          url: /gov-assist/
+          description:
+        - title: Find Licences
+          url: /licences/
+          description:
+        - title: GeBIZ Alerts
+          url: /gebiz-alerts/
+          description:  
         - title: Productivity Solutions Grant Listing
           url: /productivity-solutions-grant/
-          description: View the list of Supportable IT solutions and Equipment
-        - title: Licences and Permits
-          url: /licences/
-          description: Get the licences you need for your business activities
+          #description: View the list of Supportable IT solutions and Equipment
+        - title: All E-Services
+          url: /e-services/
+          description:  
+        #- title: Licences and Permits
+        #  url: /licences/
+        #  description: Get the licences you need for your business activities
   - infopic:
       title: Guidance for local businesses
       subtitle:
