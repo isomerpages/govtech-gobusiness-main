@@ -23,8 +23,7 @@ sections:
           - title: Search Government e-Services for Businesses
             url: /govt-e-services/administrative/
       key_highlights:
-        - image: /images/homepage/NewLicence.png
-          title: Start a Business
+        - title: Start a Business
           url: /start-a-business/
           description: Get an overview of what you need to start a business in Singapore
         - title: Permissions and Manpower Declaration
