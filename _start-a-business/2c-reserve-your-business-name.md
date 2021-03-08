@@ -104,7 +104,7 @@ accordion-new:
 
 ## Step 3: Reserve your business name
 
-Decide on a name for your business and use our [Start a Business e-Adviser](https://www.google.com.sg/){:target="_blank"} to check if it's available as a business name, trade mark, web domain and social media username.
+Decide on a name for your business and use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness/forms){:target="_blank"} to check if it's available as a business name, trade mark, web domain and social media username.
 
 Avoid names which are:
 - identical to another business' name
@@ -140,4 +140,4 @@ You can find the list of Referral Authorities [here](https://www.acra.gov.sg/how
 **What is SSIC and why do i need it for my business?**
 <br>The SSIC is a code assigned to classify your business activities carried out in Singapore. These codes are used by various government agencies for statistics and reporting purposes.
 
-To reserve your business name, you will need to provide the SSIC code for your business activities. Different business activities each have a different 5-digit SSIC code. To find out your SSIC code, use our [Start a Business e-Adviser](https://www.google.com.sg/){:target="_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="_blank"}.
+To reserve your business name, you will need to provide the SSIC code for your business activities. Different business activities each have a different 5-digit SSIC code. To find out your SSIC code, use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness/forms){:target="_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="_blank"}.

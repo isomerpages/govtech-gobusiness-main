@@ -30,7 +30,7 @@ Anybody looking to carry out any activity for profit on an ongoing basis must re
  - You use your full name, as per your NRIC, as your business name.
  - You and your partner(s) use your full names, as per your NRIC, as your business name
 
-Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](Full list of exemptions https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.
+Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.
 
 #### Key steps to start
 

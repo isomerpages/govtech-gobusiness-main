@@ -8,7 +8,7 @@ third_nav_title: Key Steps to Start
 
 Whether you're running the business on your own or with partners, choose the structure that best suits you. The most common are sole proprietorship, partnership and company. Each structure has its own benefits and considerations.
 
-Not sure which to choose? Find out with our [Business Structure E-Adviser](https://www.google.com.sg/){:target="_blank"}.
+Not sure which to choose? Find out with our [Business Structure E-Adviser](https://eadviser.g2b.sg/businessstructure/forms){:target="_blank"}.
 
 #### Here are the five different types of business structures
 
