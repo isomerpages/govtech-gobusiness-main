@@ -40,7 +40,7 @@ sections:
           description:  
         - title: Productivity Solutions Grant Listing
           url: /productivity-solutions-grant/
-          #description: View the list of Supportable IT solutions and Equipment
+          description: 
         - title: All E-Services
           url: /e-services/
           description:  
