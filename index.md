@@ -63,7 +63,7 @@ sections:
       title: GoBusiness is the new home for
       subtitle:
       description: >-
-        - Business Grants Portal<br>- GoBusiness Licensing, Food Services Licensing<br>- Gov Assist Portal<br>- Covid-19 Portal
+        <li>Business Grants Portal</li><br><li>GoBusiness Licensing, Food Services Licensing</li><br><li>Gov Assist Portal</li><br><li>Covid-19 Portal</li>
       button: Learn About The Move
       url: /about-us/
       image: /images/homepage/home_gobizmovesmall.png
