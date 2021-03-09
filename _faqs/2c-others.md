@@ -1,6 +1,6 @@
 ---
 title: Others
-permalink: /faq/others/
+permalink: /faqs/others/
 third_nav_title: General
 accordion-new:
   - title: I was trying to access LicenceOne and got redirected here. Why?

@@ -1,6 +1,6 @@
 ---
 title: Getting started
-permalink: /faq/getting-started/
+permalink: /faqs/getting-started/
 third_nav_title: General
 accordion-new:
   - title: How do I get started in GoBusiness Dashboard?
