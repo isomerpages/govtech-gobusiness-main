@@ -29,9 +29,9 @@ sections:
         #- title: Permissions and Manpower Declaration
         #  url: https://go.gov.sg/timelimitedexemption
         #  description: Check your exemption application/business resumption status and submit manpower details.
-        - title: Find Government Assistance
+        - title: <img src="/images/homepage/NewLicence.png"><br>Find Government Assistance
           url: /gov-assist/
-          description: <img src="/images/homepage/NewLicence.png">
+          description: 
         - title: Find Licences
           url: /licences/
           description:
