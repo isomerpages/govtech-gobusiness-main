@@ -23,7 +23,7 @@ sections:
       #    - title: Search Government e-Services for Businesses
       #      url: /govt-e-services/administrative/
       key_highlights:
-        - title: Start a Business
+        - title: <img src="/images/homepage/NewLicence.png"><br>Start a Business
           url: /start-a-business/
           #description: Get an overview of what you need to start a business in Singapore
         #- title: Permissions and Manpower Declaration
@@ -32,16 +32,16 @@ sections:
         - title: <img src="/images/homepage/NewLicence.png"><br>Find Government Assistance
           url: /gov-assist/
           description: 
-        - title: Find Licences
-          url: /licences/
-          description:
+        #- title: Find Licences
+        #  url: /licences/
+        #  description:
         #- title: GeBIZ Alerts
         #  url: /gebiz-alerts/
         #  description:  
-        - title: Productivity Solutions Grant Listing
+        - title: <img src="/images/homepage/NewLicence.png"><br>Productivity Solutions Grant Listing
           url: /productivity-solutions-grant/
           description: 
-        - title: All E-Services
+        - title: <img src="/images/homepage/search_icon.png"><br>All E-Services
           url: /e-services/
           description:  
         #- title: Licences and Permits
