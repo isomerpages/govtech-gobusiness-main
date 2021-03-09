@@ -19,19 +19,17 @@ third_nav_title: Financial Support
   * 10% for the few sectors that are managing well, such as biomedical sciences, financial services, and ICT sectors for the subsequent 4 months up to December 2020
   * 10% for all other firms
 
-<p>
-{% include button.html text="Check your eligibility" src="https://go.gov.sg/jsseligibility" type="primary" %}
-</p>
+<a href="https://go.gov.sg/jsseligibility" target="_blank" style="color:#037e8a">Check for your Eligibility</a>
 
 #### Enhanced Wage Credit Scheme (WCS)
 
-* Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
+Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
-Click <a href="https://go.gov.sg/wcseligibility" target="_blank" style="color:#037e8a">here</a> to check for eligibility.
+Click <a href="https://go.gov.sg/wcseligibility" target="_blank" style="color:#037e8a">Check for your Eligibility</a> to check for eligibility.
 
 #### Deferment of Income Tax Payments
 
-* Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
+Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
 Click <a href="https://go.gov.sg/defercal" target="_blank" style="color:#037e8a">here</a> to check your deferment date.
