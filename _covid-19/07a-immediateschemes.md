@@ -81,6 +81,6 @@ Increase in CPF contribution rates for senior workers deferred by 1 year, from 1
 * On 26 March 2020, the government announced the Private Bus Support Package (PBSP). As part of the PBSP, private bus (including coach) season parking pass holders at all Government-owned car parks received a 6-month waiver of season parking fees from 1 May to 31 October 2020.
 * With effect from 31 October 2020, this season parking waiver will be extended till 31 March 2021.
 
-<a href="/images/govassist/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Find Out More</a>
+<a href="/images/govassist/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Download PDF for Season Parking Waiver Extension</a>
 
-<a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">View more FAQs</a>
+<a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Download PDF for Season Parking Waiver Extension FAQs</a>
