@@ -1,6 +1,6 @@
 ---
 title: About GoBusiness dashboard
-permalink: /faq/about/
+permalink: /faq/general/
 third_nav_title: General
 accordion-new:
   - title: I am not sure how to choose between the options on the GoBusiness homepage. Where can I get help?
