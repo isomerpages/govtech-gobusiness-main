@@ -327,7 +327,7 @@ $desktop: 960px + (2 * $gap) !default;
 			color: $secondary;
 		}
   }
-  
+
   // Custom for font types
   a, p, li, em {
     font-family: hknova-regular;
@@ -343,10 +343,10 @@ $desktop: 960px + (2 * $gap) !default;
   // Custom for hyperlink font colors
   }
   a {
-    color:#037e8a;
+    color:#4372d6;
   }
   a:hover {
-    color :#4471eb;
+    color :#3a79ff;
   }
 }
 
