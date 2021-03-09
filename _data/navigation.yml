@@ -47,7 +47,7 @@ links:
       - title: Supporting Our Businesses
         url: /supportschemes/general
       - title: FAQs
-        url: /faqs/popular/
+        url: /faq/general
   - title: E-Services
     url: /e-services/
     #sublinks:
@@ -75,6 +75,6 @@ links:
   #    - title: SME Centres
   #      url: /contact-us/sme-centres/
       - title: FAQs
-        url: /faq/about/
+        url: /faqs/popular/
   - title: Login
     url: https://dashboard-staging.l1t.molb.gov.sg/login
