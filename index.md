@@ -11,8 +11,8 @@ sections:
       #subtitle: >-
       #  GoBusiness is a one-stop platform for businesses to access government services, discover opportunities and connect with the right resources
       background: /images/homepage/home banner placeholder.jpg
-      button: Log in to GoBusiness
-      url: https://www.google.com.sg/
+      button: Login to GoBusiness
+      url: https://dashboard-staging.l1t.molb.gov.sg/login
       #dropdown:
       #  title: I Want To...
       #  options:
