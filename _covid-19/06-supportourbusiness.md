@@ -3,7 +3,7 @@ title: Supporting Our Businesses
 permalink: /supportschemes/general
 ---
 
-## COVID-19 Support
+## Supporting Our Businesses
 
 COVID-19 has accelerated into a global pandemic. The global economy has been hit and Singapore Businesses are affected. Look for government assistance your business can obtain during this pandemic here.
 
