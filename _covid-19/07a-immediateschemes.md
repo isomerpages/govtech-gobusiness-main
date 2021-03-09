@@ -19,20 +19,28 @@ third_nav_title: Financial Support
   * 10% for the few sectors that are managing well, such as biomedical sciences, financial services, and ICT sectors for the subsequent 4 months up to December 2020
   * 10% for all other firms
 
+<p>
+{% include button.html text="View More Support" src="/supportschemes/immediateschemes" type="primary" %}
+</p>
+
 <a href="https://go.gov.sg/jsseligibility" target="_blank" style="color:#037e8a">Check for your Eligibility</a>
 
 #### Enhanced Wage Credit Scheme (WCS)
 
 Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
-Click <a href="https://go.gov.sg/wcseligibility" target="_blank" style="color:#037e8a">Check for your Eligibility</a> to check for eligibility.
+<p>
+{% include button.html text="View More Support" src="/supportschemes/immediateschemes" type="primary" %}
+</p>
+
+<a href="https://go.gov.sg/wcseligibility" target="_blank" style="color:#037e8a">Check for your Eligibility</a>
 
 #### Deferment of Income Tax Payments
 
 Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
-Click <a href="https://go.gov.sg/defercal" target="_blank" style="color:#037e8a">here</a> to check your deferment date.
+<a href="https://go.gov.sg/defercal" target="_blank" style="color:#037e8a">Check your Deferment Date</a>
 
 #### Property Tax Rebate for 2020
 
@@ -41,7 +49,7 @@ Click <a href="https://go.gov.sg/defercal" target="_blank" style="color:#037e8a"
 * 30% rebate for other non-residential properties
 * Laws to ensure property owners pass on Property Tax rebate to tenants
 
-Click <a href="https://go.gov.sg/newbill" target="_blank" style="color:#037e8a">here</a> for New Bill.
+<a href="https://go.gov.sg/newbill" target="_blank" style="color:#037e8a">Find Out New Bill</a>
 
 #### Rental Waivers
 
