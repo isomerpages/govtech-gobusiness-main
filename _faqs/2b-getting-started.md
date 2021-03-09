@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting started
 permalink: /faq/getting-started/
 third_nav_title: General
 accordion-new:

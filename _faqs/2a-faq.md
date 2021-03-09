@@ -1,5 +1,5 @@
 ---
-title: About GoBusiness
+title: About GoBusiness dashboard
 permalink: /faq/about/
 third_nav_title: General
 accordion-new:
