@@ -18,7 +18,7 @@ All businesses are to comply with the following requirements:
 ***7 Key Requirements for Safe Management at Workplaces***
 
 **<ins>Infographic</ins>**
-![Safe Management Practices!](/images/covid/infog.jpg" 7 Key Requirements for Safe Management at Workplaces")
+![Safe Management Practices!](/images/covid/infog.jpg "7 Key Requirements for Safe Management at Workplaces")
 
 **<ins>Video</ins>**
 <figure class="video_container">
