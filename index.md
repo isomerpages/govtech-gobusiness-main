@@ -11,8 +11,8 @@ sections:
       #subtitle: >-
       #  GoBusiness is a one-stop platform for businesses to access government services, discover opportunities and connect with the right resources
       background: /images/homepage/home banner placeholder.jpg
-      button: Login
-      url: <a href="https://www.google.com.sg/" target="_blank"></a>
+      button: Log in to GoBusiness
+      url: https://www.google.com.sg/
       #dropdown:
       #  title: I Want To...
       #  options:
