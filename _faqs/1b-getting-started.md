@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 permalink: /faq/getting-started/
-third_nav_title: General FAQs
+third_nav_title: General
 accordion-new:
   - title: How do I get started in GoBusiness Dashboard?
     content: If your business is in the food & beverage industry, click here to use our Guided Journey feature for step-by-step guidance to find out the licences you need, and apply for them.
