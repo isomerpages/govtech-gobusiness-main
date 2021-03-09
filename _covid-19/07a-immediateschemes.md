@@ -6,7 +6,7 @@ third_nav_title: Financial Support
 
 ## Immediate Schemes
 
-#### Jobs Support Scheme (JSS)
+#### Jobs support scheme (JSS)
 
 * To help employers retain workers, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to August 2020).
 * As announced on 17 August 2020 Ministerial Statement, JSS will be extended by up to 7 months, covering wages paid up to March 2021.
@@ -19,28 +19,22 @@ third_nav_title: Financial Support
   * 10% for the few sectors that are managing well, such as biomedical sciences, financial services, and ICT sectors for the subsequent 4 months up to December 2020
   * 10% for all other firms
 
-<p>
-{% include button.html text="Check for your Eligibility" href="https://go.gov.sg/jsseligibility" type="primary" %}
-</p>
+<a href="https://go.gov.sg/jsseligibility" target="_blank">Check for your Eligibility</a>
 
-#### Enhanced Wage Credit Scheme (WCS)
+#### Enhanced wage credit scheme (WCS)
 
 Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
-<p>
-{% include button.html text="Check for your Eligibility" href="https://go.gov.sg/wcseligibility" type="primary" %}
-</p>
+<a href="https://go.gov.sg/wcseligibility" target="_blank">Check for your Eligibility</a>
 
-#### Deferment of Income Tax Payments
+#### Deferment of income tax payments
 
 Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
-<p>
-{% include button.html text="Check your Deferment Date" href="https://go.gov.sg/defercal" type="primary" %}
-</p>
+<a href="https://go.gov.sg/defercal" target="_blank">Check for your Deferment Date</a>
 
-#### Property Tax Rebate for 2020
+#### Property tax rebate for 2020
 
 * 100% rebate for qualifying commercial properties
 * 60% rebate for the Integrated Resorts
@@ -49,18 +43,21 @@ Automatically defer income tax payments for 3 months, for companies and self-emp
 
 <a href="https://go.gov.sg/newbill" target="_blank">Find Out New Bill</a>
 
-#### Rental Waivers
+#### Rental waivers
 
 * 5 months’ rental waiver for stallholders in hawker centres and markets, with a minimum waiver of $200 per month
 * 4 months’ rental waiver for commercial tenants in government-owned/managed residential premises
 * 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
 
 <a href="https://go.gov.sg/nearebate" target="_blank">Find Out NEA Rebate Details</a>
+
 <a href="https://go.gov.sg/hdbrebate" target="_blank">Find Out HDB Rebate Details</a>
+
 <a href="https://go.gov.sg/slarebate" target="_blank">Find Out SLA Rebate Details</a>
+
 <a href="https://go.gov.sg/nacadvisory" target="_blank">Find Out MCCY Rebate Details</a>
 
-#### Government Cash Grant for SME Tenants in Private Properties
+#### Government cash grant for SME tenants in private properties
 
 Automatically disbursed to qualifying property owners from end-July 2020
   * Cash grant of ~0.8 month's of rent for qualifying commercial property owners
@@ -68,22 +65,22 @@ Automatically disbursed to qualifying property owners from end-July 2020
 
 <a href="https://go.gov.sg/smecashgrant" target="_blank">Find Out More</a>
 
-#### Corporate Income Tax Rebate
+#### Corporate income tax rebate
 
 Corporate Income Tax Rebate for YA2020
   * 25% of tax payable, capped at $15,000 per company
 
 <a href="https://go.gov.sg/corporateincometax" target="_blank">Find Out More</a>
 
-#### Deferment of Higher CPF Contribution Rates
+#### Deferment of higher CPF contribution rates
 
 Increase in CPF contribution rates for senior workers deferred by 1 year, from 1 January 2021 to 1 January 2022
 
-#### Season Parking Waiver for Private Bus Season Parking Holders
+#### Season parking waiver for private bus season parking holders
 
 * On 26 March 2020, the government announced the Private Bus Support Package (PBSP). As part of the PBSP, private bus (including coach) season parking pass holders at all Government-owned car parks received a 6-month waiver of season parking fees from 1 May to 31 October 2020.
 * With effect from 31 October 2020, this season parking waiver will be extended till 31 March 2021.
 
 <a href="/images/govassist/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Find Out More</a>
 
-<a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">View FAQs</a>
+<a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">View more FAQs</a>
