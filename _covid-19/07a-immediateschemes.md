@@ -19,11 +19,9 @@ third_nav_title: Financial Support
   * 10% for the few sectors that are managing well, such as biomedical sciences, financial services, and ICT sectors for the subsequent 4 months up to December 2020
   * 10% for all other firms
 
-  <p>
-  {% include button.html text="Check your eligibility" src="https://go.gov.sg/jsseligibility" type="primary" %}
-  </p>
-
-Click <a href="https://go.gov.sg/jsseligibility" target="_blank" style="color:#037e8a">here</a> to check for eligibility.
+<p>
+{% include button.html text="Check your eligibility" src="https://go.gov.sg/jsseligibility" type="primary" %}
+</p>
 
 #### Enhanced Wage Credit Scheme (WCS)
 
