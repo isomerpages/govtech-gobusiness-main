@@ -20,13 +20,13 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 * Season Parking Waiver for Private Bus Season Parking Holders
 
 <p>
-{% include button.html text="View More" src="/supportschemes/immediateschemes" type="primary" %}
+{% include button.html text="View More Support" src="/supportschemes/immediateschemes" type="primary" %}
 </p>
 
 #### For other government support
 
 {% include panels.html panels=site.data.other_gov_support %}
 
-#### For sector-specific Support
+#### For sector-specific support
 
 {% include panels.html panels=site.data.sector_specific_support %}
