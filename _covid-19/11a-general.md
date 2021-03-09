@@ -1,6 +1,6 @@
 ---
 title: General Exemption
-permalink: /faq/general
+permalink: /faqs/general
 third_nav_title: FAQs
 accordion-new:
   - title: What should I do if I have not received an exemption? Am I allowed to continue operations?

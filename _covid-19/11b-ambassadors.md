@@ -1,6 +1,6 @@
 ---
 title: Safe Distancing Ambassadors
-permalink: /faq/general
+permalink: /faqs/ambassadors
 third_nav_title: FAQs
 accordion-new:
   - title: How do we identify Safe Distancing Ambassadors from ESG and STB?
@@ -20,7 +20,6 @@ accordion-new:
   - title: I am issued a fine. How do I make payment?
     content:  |
       You can refer to the Notice of Offence issued to you for information on the payment mode. Enforcement officers will not collect fines on the spot, from individuals and businesses who have contravened these rules. The penalties for breaches will be issued to individuals or businesses in the form of composition letters, which will state the relevant follow up actions required.
-
 ---
 
 #### Safe Distancing Ambassadors
