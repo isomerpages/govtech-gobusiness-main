@@ -23,7 +23,7 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 {% include button.html text="View More" src="/supportschemes/immediateschemes" type="primary" %}
 </p>
 
-#### For other Government support
+#### For other government support
 
 {% include panels.html panels=site.data.other_gov_support %}
 
