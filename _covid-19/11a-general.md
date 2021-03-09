@@ -1,5 +1,5 @@
 ---
-title: General Exemption
+title: General exemption
 permalink: /faqs/general
 third_nav_title: FAQs
 accordion-new:

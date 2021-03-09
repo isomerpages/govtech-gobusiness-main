@@ -1,5 +1,5 @@
 ---
-title: Safe Distancing Ambassadors
+title: Safe distancing ambassadors
 permalink: /faqs/ambassadors
 third_nav_title: FAQs
 accordion-new:

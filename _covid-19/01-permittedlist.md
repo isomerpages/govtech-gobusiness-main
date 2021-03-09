@@ -1,8 +1,8 @@
 ---
-title: List of Permitted Services
+title: Permitted Services
 permalink: /permittedlist/
 ---
-## List of Permitted Services
+## Permitted Services
 
 The Government will allow the gradual resumption of businesses, in phases. Phase 1 commenced on 2 June 2020, and Phase 2 commenced on 19 June 2020. The Multi-Ministry Taskforce (MTF) announced on 14 December 2020 that Singapore will commence Phase 3 on 28 December 2020.
 

@@ -1,5 +1,5 @@
 ---
-title: Immediate Schemes
+title: Immediate schemes
 permalink: /supportschemes/immediateschemes
 third_nav_title: Financial Support
 ---

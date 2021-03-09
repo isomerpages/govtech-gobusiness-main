@@ -1,5 +1,5 @@
 ---
-title: Financial Schemes
+title: Financial schemes
 permalink: /supportschemes/financialschemes
 third_nav_title: Financial Support
 ---
