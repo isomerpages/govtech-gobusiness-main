@@ -1,5 +1,5 @@
 ---
-title: All Topics
+title: Most Popular FAQs
 permalink: /faq/about/
 accordion-new:
   - title: Question 1
