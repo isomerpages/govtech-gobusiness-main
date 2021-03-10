@@ -7,11 +7,11 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      title: Government Services for Businesses
-      #subtitle: >-
-      #  GoBusiness is a one-stop platform for businesses to access government services, discover opportunities and connect with the right resources
+      title: Government e-services for your business
+      subtitle: >-
+        Licences, permits, grants and other e-services, now all in one place on GoBusiness
       background: /images/homepage/home banner placeholder.jpg
-      button: Login to GoBusiness
+      button: Log In to GoBusiness
       url: https://dashboard-staging.l1t.molb.gov.sg/login
       #dropdown:
       #  title: I Want To...
