@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Government e-services for your business
       subtitle: >-
-        Licences, permits, grants and other e-services, now all in one place on GoBusiness
+        Licences, permits, grants and other e-services,<br>now all in one place on GoBusiness
       background: /images/homepage/home banner placeholder.jpg
       button: Log In to GoBusiness
       url: https://dashboard-staging.l1t.molb.gov.sg/login
