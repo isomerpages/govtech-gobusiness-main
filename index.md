@@ -70,7 +70,7 @@ sections:
   - infobar:
       title: Government e-Services
       subtitle: 
-      description: A growing directory of business e-services offered across the Singapore Government.<br>{% include panels-eservices.html panels=site.data.eservice_quicklinks %}
+      description: A growing directory of business e-services offered across the Singapore Government.
       button: Go to Full e-Services Directory
       url: /e-services/
   - infopic:
