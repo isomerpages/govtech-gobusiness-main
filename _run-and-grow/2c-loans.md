@@ -1,6 +1,6 @@
 ---
 title: Loans
-permalink: /run-and-grow/loans/
+permalink: /gov-assist/loans/
 third_nav_title: Government Assistance
 ---
 

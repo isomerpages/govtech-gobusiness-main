@@ -1,6 +1,6 @@
 ---
 title: Toolkits / Programmes 
-permalink: /run-and-grow/toolkits-programmes/
+permalink: /gov-assist/toolkits-programmes/
 third_nav_title: Government Assistance
 ---
 

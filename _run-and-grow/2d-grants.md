@@ -1,6 +1,6 @@
 ---
 title: Grants
-permalink: /run-and-grow/grants/
+permalink: /gov-assist/grants/
 third_nav_title: Government Assistance
 ---
 
