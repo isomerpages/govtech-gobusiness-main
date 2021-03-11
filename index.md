@@ -53,7 +53,7 @@ sections:
       title: Guidance for local businesses
       subtitle:
       description: >-
-        Official information for <a href="/start-a-business/" style="color:#037e8a">starting a business</a>, <a href="/run-and-grow/" style="color:#037e8a">growing its presence</a> and navigating through crisis like <a href="/covid/" style="color:#037e8a">Covid-19</a>.
+        Official information for <a href="/start-a-business/">starting a business</a>, <a href="/run-and-grow/">growing its presence</a> and navigating through crisis like <a href="/covid/">Covid-19</a>.
       button: 
       url: 
       image: /images/homepage/home_localbusinessguidance.png
@@ -103,17 +103,17 @@ sections:
   #- carousel:
   #    - title: How to Start a Business
   #      subtitle: Start Business
-  #      description: If you are starting a business in Singapore, read on to find out what you can do to start off on the right footing, and also safeguard your investment in the future. <br><a href="/start-a-business/" target="_blank" style="color:#037e8a">Find Out More</a>
+  #      description: If you are starting a business in Singapore, read on to find out what you can do to start off on the right footing, and also safeguard your investment in the future. <br><a href="/start-a-business/" target="_blank">Find Out More</a>
   #      image: /images/caro_startbiz.jpg
   #      alt: Start a Business
   #    - title: Managing Applications
   #      subtitle: Dashboard
-  #      description: GoBusiness Dashboard allows you to manage your applications and transactions all in one place. <br><a href="#" target="_blank" style="color:#037e8a">Log In Now</a>
+  #      description: GoBusiness Dashboard allows you to manage your applications and transactions all in one place. <br><a href="#" target="_blank">Log In Now</a>
   #      image: /images/caro_dashboard.jpg
   #      alt: GoBusiness Dashboard
   #    - title: Government Assistance
   #      subtitle: Guides
-  #      description: From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness will help you find the government assistance you need.  <br><a href="/run-and-grow/govassist-overview/" target="_blank" style="color:#037e8a">Find Out More</a>
+  #      description: From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness will help you find the government assistance you need.  <br><a href="/run-and-grow/govassist-overview/" target="_blank">Find Out More</a>
   #      image: /images/caro_guides.jpg
   #      alt: Government Assistance           
   - resources:

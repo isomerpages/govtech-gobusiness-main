@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/faq/
 PSG aims to facilitate quick adoption of proven productivity solutions recommended by sector-lead agencies. New productivity solutions are constantly being reviewed and included into the list. 
  
 #### 2. Where can I apply for Productivity Solutions Grant?
-After you have obtained a quotation from your preferred vendor for the supportable solution(s), please log into <a href="https://www.businessgrants.gov.sg/" target="_blank" style="color:#037e8a">Business Grants Portal</a> to submit your application for PSG.
+After you have obtained a quotation from your preferred vendor for the supportable solution(s), please log into <a href="https://www.businessgrants.gov.sg/" target="_blank">Business Grants Portal</a> to submit your application for PSG.
 
 #### 3.	What industries can apply for PSG?
 
@@ -17,7 +17,7 @@ PSG covers sector-specific solutions including the retail, food, logistics, prec
  
 #### 4.	How do I become a IT solution provider for PSG?
  
-If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please visit <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions" target="_blank" style="color:#037e8a">IMDA’s website</a>. 
+If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please visit <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions" target="_blank">IMDA’s website</a>. 
 
 #### 5.	It was announced in Budget 2020 on PSG expansion to include job redesign consultancy services. Where can I find out more information on this?
  
