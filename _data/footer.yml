@@ -1,4 +1,4 @@
-faq: /faq/about/
+faq: /faqs/popular/
 contact_us: /contact-us/
 copyright_agency: GoBusiness
 privacy_policy: /privacy/
@@ -13,7 +13,9 @@ navlinks:
       - title: Key Steps to Start a Business
         url: /start-a-business/choose-a-business-structure/
       - title: Next Steps to Consider
-        url: /start-a-business/hire-employees/  
+        url: /start-a-business/hire-employees/
+      - title: FAQs
+        url: /start-a-business/faqs/   
   - title: Run and Grow Business
     url: /run-and-grow/
     sublinks:
@@ -42,10 +44,24 @@ navlinks:
         url: /permittedlist/
       - title: Safe Management Requirements
         url: /safemanagement/general/
+      - title: Sector Specific Requirements
+        url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Guides
+        url: /guides/
       - title: Supporting Our Businesses
         url: /supportschemes/general
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Digital Support
+        url: /supportschemes/digitalsupport/
+      - title: Sector-Specific Support
+        url: /supportschemes/fnbsupport/
       - title: FAQs
-        url: /faq/general      
+        url: /faqs/general    
   - title: E-Services
     url: /e-services/
     #sublinks:
