@@ -13,20 +13,20 @@ third_nav_title: Financial Support
 * In Budget 2021, JSS was extended by up to 6 months from Apr 2021 to Sep 2021 for firms in Tiers 1 and 2 sectors, with a co-funding at 10% to 30%.
 * Employers will receive up to 7 main JSS payouts in April, July, October 2020, and in March, June, September, and December 2021 (with an additional special payout in May 2020).
 
-Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for your eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
+Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
 
 #### Enhanced wage credit scheme (WCS)
 
 Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
-<a href="https://go.gov.sg/wcseligibility" target="_blank">Check for Eligibility</a>
+Check for eligibility <a href="https://go.gov.sg/wcseligibility" target="_blank">here</a>.
 
 #### Deferment of income tax payments
 
 Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
-<a href="https://go.gov.sg/defercal" target="_blank">Check for Deferment Date</a>
+Download <a href="https://go.gov.sg/defercal" target="_blank">Corporate Tax Payment Deferment Calculator</a> to check for deferment date.
 
 #### Property tax rebate for 2020
 
@@ -35,7 +35,7 @@ Automatically defer income tax payments for 3 months, for companies and self-emp
 * 30% rebate for other non-residential properties
 * Laws to ensure property owners pass on Property Tax rebate to tenants
 
-<a href="https://go.gov.sg/newbill" target="_blank">Find Out New Bill</a>
+Find out more on the new bill in <a href="https://go.gov.sg/newbill" target="_blank">Ministry of Law (MinLaw)</a>.
 
 #### Rental waivers
 
@@ -43,7 +43,7 @@ Automatically defer income tax payments for 3 months, for companies and self-emp
 * 4 months’ rental waiver for commercial tenants in government-owned/managed residential premises
 * 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
 
-Find Out rebate details from <a href="https://go.gov.sg/nearebate" target="_blank">NEA</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">HDB</a>, <a href="https://go.gov.sg/slarebate" target="_blank">SLA</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">MCCY</a>.
+Find out more rebate details in <a href="https://go.gov.sg/nearebate" target="_blank">National Environment Agency (NEA)</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">Housing & Development Board (HDB)</a>, <a href="https://go.gov.sg/slarebate" target="_blank">Singapore Land Authority (SLA)</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">Ministry of Culture, Community & Youth (MCCY)</a>.
 
 #### Government cash grant for SME tenants in private properties
 
