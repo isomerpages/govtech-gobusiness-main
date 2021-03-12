@@ -7,7 +7,7 @@ permalink: /supportschemes/general
 
 COVID-19 has accelerated into a global pandemic. The global economy has been hit and Singapore Businesses are affected. Look for government assistance your business can obtain during this pandemic here.
 
-#### Immediate support
+#### Immediate schemes
 
 * Jobs Support Scheme (JSS)
 * Enhanced Wage Credit Scheme (WCS)
@@ -19,14 +19,12 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 * Deferment of Higher CPF Contribution Rates
 * Season Parking Waiver for Private Bus Season Parking Holders
 
-<p>
-{% include button.html text="View More Support" src="/supportschemes/immediateschemes" type="primary" %}
-</p>
+<a href="/supportschemes/immediateschemes" target="_blank">Find Out More</a>
 
-#### For other government support
+#### Other government support
 
 {% include panels.html panels=site.data.other_gov_support %}
 
-#### For sector-specific support
+#### Sector-specific support
 
 {% include panels.html panels=site.data.sector_specific_support %}

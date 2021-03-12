@@ -6,33 +6,28 @@ third_nav_title: Financial Support
 
 ## Immediate Schemes
 
-#### Jobs support scheme (JSS)
+#### Jobs Support Scheme (JSS)(Extension for employers in Tier 1 and 2 sectors)
 
 * To help employers retain workers, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to August 2020).
-* As announced on 17 August 2020 Ministerial Statement, JSS will be extended by up to 7 months, covering wages paid up to March 2021.
 * The Government will co-fund between 10% to 50% of the first $4,600 of gross monthly wages paid to each local employee in the subsequent 7-month period (Sep 2020 to Mar 2021).
-* Employers will receive 5 main JSS payouts in April, July, October 2020, and in March, and June 2021 (with an additional special payout in May 2020).
-* For extended qualifying months, Government will pay:
-  * 50% for firms in the aerospace, aviation, and tourism sectors
-  * 50% for the built environment sector for the subsequent 2 months, followed by 30% for remaining 5 months
-  * 30% for the arts and entertainment, food services, land transport, marine and offshore, and retail sectors
-  * 10% for the few sectors that are managing well, such as biomedical sciences, financial services, and ICT sectors for the subsequent 4 months up to December 2020
-  * 10% for all other firms
+* In Budget 2021, JSS was extended by up to 6 months from Apr 2021 to Sep 2021 for firms in Tiers 1 and 2 sectors, with a co-funding at 10% to 30%.
+* Employers will receive up to 7 main JSS payouts in April, July, October 2020, and in March, June, September, and December 2021 (with an additional special payout in May 2020).
 
-<a href="https://go.gov.sg/jsseligibility" target="_blank">Check for your Eligibility</a>
+<a href="https://go.gov.sg/jsseligibility" target="_blank">Check for Eligibility</a>
+<a href="https://go.gov.sg/jss" target="_blank">Find Out More</a>
 
 #### Enhanced wage credit scheme (WCS)
 
 Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
-<a href="https://go.gov.sg/wcseligibility" target="_blank">Check for your Eligibility</a>
+<a href="https://go.gov.sg/wcseligibility" target="_blank">Check for Eligibility</a>
 
 #### Deferment of income tax payments
 
 Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
-<a href="https://go.gov.sg/defercal" target="_blank">Check for your Deferment Date</a>
+<a href="https://go.gov.sg/defercal" target="_blank">Check for Deferment Date</a>
 
 #### Property tax rebate for 2020
 
@@ -50,11 +45,8 @@ Automatically defer income tax payments for 3 months, for companies and self-emp
 * 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
 
 <a href="https://go.gov.sg/nearebate" target="_blank">Find Out NEA Rebate Details</a>
-
 <a href="https://go.gov.sg/hdbrebate" target="_blank">Find Out HDB Rebate Details</a>
-
 <a href="https://go.gov.sg/slarebate" target="_blank">Find Out SLA Rebate Details</a>
-
 <a href="https://go.gov.sg/nacadvisory" target="_blank">Find Out MCCY Rebate Details</a>
 
 #### Government cash grant for SME tenants in private properties
