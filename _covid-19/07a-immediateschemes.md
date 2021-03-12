@@ -13,8 +13,7 @@ third_nav_title: Financial Support
 * In Budget 2021, JSS was extended by up to 6 months from Apr 2021 to Sep 2021 for firms in Tiers 1 and 2 sectors, with a co-funding at 10% to 30%.
 * Employers will receive up to 7 main JSS payouts in April, July, October 2020, and in March, June, September, and December 2021 (with an additional special payout in May 2020).
 
-<a href="https://go.gov.sg/jsseligibility" target="_blank">Check for Eligibility</a>
-<a href="https://go.gov.sg/jss" target="_blank">Find Out More</a>
+Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for your eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
 
 #### Enhanced wage credit scheme (WCS)
 
@@ -44,10 +43,7 @@ Automatically defer income tax payments for 3 months, for companies and self-emp
 * 4 months’ rental waiver for commercial tenants in government-owned/managed residential premises
 * 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
 
-<a href="https://go.gov.sg/nearebate" target="_blank">Find Out NEA Rebate Details</a>
-<a href="https://go.gov.sg/hdbrebate" target="_blank">Find Out HDB Rebate Details</a>
-<a href="https://go.gov.sg/slarebate" target="_blank">Find Out SLA Rebate Details</a>
-<a href="https://go.gov.sg/nacadvisory" target="_blank">Find Out MCCY Rebate Details</a>
+Find Out rebate details from <a href="https://go.gov.sg/nearebate" target="_blank">NEA</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">HDB</a>, <a href="https://go.gov.sg/slarebate" target="_blank">SLA</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">MCCY</a>.
 
 #### Government cash grant for SME tenants in private properties
 
