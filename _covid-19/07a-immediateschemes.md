@@ -26,7 +26,7 @@ Check for eligibility <a href="https://go.gov.sg/wcseligibility" target="_blank"
 Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
-Download <a href="https://go.gov.sg/defercal" target="_blank">Corporate Tax Payment Deferment Calculator</a> to check for deferment date.
+Download <a href="https://go.gov.sg/defercal" target="_blank">corporate tax payment deferment calculator</a> to check for deferment date.
 
 #### Property tax rebate for 2020
 
