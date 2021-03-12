@@ -19,7 +19,7 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 * Deferment of Higher CPF Contribution Rates
 * Season Parking Waiver for Private Bus Season Parking Holders
 
-<a href="/supportschemes/immediateschemes" target="_blank">Find Out More</a>
+<a href="/supportschemes/immediateschemes">Read More</a>
 
 #### Other government support
 
