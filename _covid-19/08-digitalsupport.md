@@ -5,35 +5,34 @@ permalink: /supportschemes/digitalsupport/
 
 ## Digital Support
 
-#### Digital resilience bonus
+Running a business in the face of a pandemic has its own unique challenges, and highlight the importance of adapting fast and staying up to date. Here are some resources and schemes to support your business in going digital.
 
-* Pilot starting with Food Services and Retail sectors
-* Payout of up to $5,000 to help businesses digitalise with PayNow Corporate, e-invoicing, business process or e-commerce solutions
-* Additional payout of $5,000 for businesses that use advance solutions
+#### Digital Resilience Bonus (DRB)
 
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Resilience-Bonus" target="_blank">Find Out More</a>
+Payouts of up to $10,000 to help businesses digitalise with PayNow Corporate, e-invoicing, e-commerce solutions and more. DRB is currently only available for the Food Services and Retail sectors.
 
-#### Remote working
+Find out more about DRB at <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Resilience-Bonus" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
-* Remote working solutions enable businesses to operate with off-site teams. This often involves the use of digital hardware and software to facilitate online collaboration, virtual meetings and e-signatures.
+#### Digital Solutions for Safe Reopening
 
-<a href="https://go.gov.sg/remoteworking" target="_blank">Find Out More</a>
+A range of digital solutions to help businesses comply with Safe Management Measures. This includes Safe Entry and remote working solutions.
 
-#### Workforce management
+Find out more about solutions at <a href="https://go.gov.sg/remoteworking" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
-* Workforce Management solutions enable businesses to manage a distributed workforce. This often involves the use of digital hardware and software to facilitate staff scheduling, manpower resource allocation to different work sites, staggered working hours, work shifts and tracking workers on the move.
+#### Workforce Management Solutions
 
-<a href="https://go.gov.sg/workfacemanagement" target="_blank">Find Out More</a>
+A range of digital solutions to help businesses manage a workforce by facilitating staff schedules, manpower resource allocation to different work sites, staggered working hours, work shifts and tracking workers on the move.
 
-#### Bill and pay online
+Find out more about solutions at <a href="https://go.gov.sg/workfacemanagement" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
-* Bill and Pay Online solutions enable electronic invoicing and digital payments, doing away with the need to handle paper invoices, cheques and cash. They enable businesses to execute transactions remotely.
+#### Bill and Pay Online Solutions
 
-<a href="https://go.gov.sg/payandbillonline" target="_blank">Find Out More</a>
+A range of digital solutions to help businesses use electronic invoicing and digital payments.
+
+Find out more about solutions at <a href="https://go.gov.sg/payandbillonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
 #### Sell online
 
-* Sell Online solutions enable businesses to move from offline to online sales, complementing or replacing physical shopfronts. With e-commerce and digital marketing solutions, businesses can reach out to a wider network of buyers.
-More info
+A range of digital solutions to help businesses move from offline to online sales and reach a wider network of customers.
 
-<a href="https://go.gov.sg/sellonline" target="_blank">Find Out More</a>
+Find out more at<a href="https://go.gov.sg/sellonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.

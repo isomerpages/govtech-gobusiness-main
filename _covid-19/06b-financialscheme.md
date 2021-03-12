@@ -4,7 +4,7 @@ permalink: /supportschemes/financialschemes
 third_nav_title: Financial Support
 ---
 
-## Financial Schemes
+## Financial schemes
 
 Here are the schemes currently available to help businesses get funding and financial assistance.
 
