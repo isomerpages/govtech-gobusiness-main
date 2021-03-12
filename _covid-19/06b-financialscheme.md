@@ -6,6 +6,8 @@ third_nav_title: Financial Support
 
 ## Financial Schemes
 
+Here are the schemes currently available to help businesses get funding and financial assistance.
+
 #### Special Situation Fund for Startups (SSFS)
 
 * EDBI, the corporate investment arm of Economic Development Board (EDB), and SEEDS Capital, the investment arm of Enterprise Singapore, will administer the $285 million SSFS to provide financing support for promising startups based in Singapore.
@@ -13,25 +15,25 @@ third_nav_title: Financial Support
   * Early-stage startups can apply for the funding via <a href="mailto:ssfs@enterprisesg.gov.sg">ssfs@enterprisesg.gov.sg</a>
   * Late-stage startups can apply via <a href="mailto:ssfs@edbi.com">ssfs@edbi.com</a>
 
-Click <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">here</a> for more information.
+Read about the media release <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">here</a>.
 
 #### Enterprise Financing Scheme (EFS)
 
-* EFS enables Singapore enterprises to access financing more readily throughout their various stages of growth.
+* Enterprise Financing Scheme (EFS) enables Singapore enterprises to access financing more readily throughout their various stages of growth.
 * This includes financing the enterprises’ daily operational cashflow needs, investment of domestic and overseas fixed assets, trade needs, fulfilment of secured overseas projects, acquisition of target enterprises with the intent of internationalisation and growth of innovative enterprises using Venture Debt and Warrants.
 
-Click <a href="https://go.gov.sg/efs" target="_blank">here</a> for more information.
+Find out more about EFS at <a href="https://go.gov.sg/efs" target="_blank">Enterprise Singapore (ESG)</a>.
 
 #### Loan Insurance Scheme (LIS)
 
 * Enterprises can secure short-term trade financing loans via the LIS from Participating Financial Institutions (PFI).
 * Support for the LIS insurance premium will be increased to 80% (from 50%) until 31 March 2021.
 
-Click <a href="https://go.gov.sg/lis" target="_blank">here</a> to apply.
+Find out more about LIS at <a href="https://go.gov.sg/lis" target="_blank">Enterprise Singapore (ESG)</a>.
 
 #### Temporary Bridging Loan Programme (TBLP)
 
 * The TBLP provides access to working capital for business needs.
 * Eligible enterprises may borrow up to $5 million under the TBLP, with the interest rate capped at 5% p.a., from Participating Financial Institutions (PFI). The Government will provide 90% risk-share on these loans for new applications submitted from 8 April 2020 to 31 March 2021.
 
-Click <a href="https://go.gov.sg/tblp" target="_blank">here</a> to apply.
+Find out more about TBLP and apply at <a href="https://go.gov.sg/tblp" target="_blank">Enterprise Singapore (ESG)</a>.

@@ -1,10 +1,12 @@
 ---
-title: Immediate schemes
+title: Immediate support
 permalink: /supportschemes/immediateschemes
 third_nav_title: Financial Support
 ---
 
-## Immediate Schemes
+## Immediate support
+
+In the wake of COVID-19, here are the available schemes to give your businesses immediate support and relief.
 
 #### Jobs Support Scheme (JSS)(Extension for employers in Tier 1 and 2 sectors)
 
@@ -17,16 +19,16 @@ Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or che
 
 #### Enhanced wage credit scheme (WCS)
 
-Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
+Wage increases are co-funded by the Government under WCS. An additional $500 million has been disbursed, on top of $600m disbursed in March 2020.
 
 Check for eligibility <a href="https://go.gov.sg/wcseligibility" target="_blank">here</a>.
 
 #### Deferment of income tax payments
 
-Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
+This automatically defers income tax payments for 3 months, for companies and self-employed persons (SEPs).
   * Companies: tax due from April to June 2020 payable only from July to September 2020
 
-Download <a href="https://go.gov.sg/defercal" target="_blank">corporate tax payment deferment calculator</a> to check for deferment date.
+Click <a href="https://go.gov.sg/defercal" target="_blank">here</a> to find out your deferment date with our Deferment Calculator.
 
 #### Property tax rebate for 2020
 
@@ -35,7 +37,7 @@ Download <a href="https://go.gov.sg/defercal" target="_blank">corporate tax paym
 * 30% rebate for other non-residential properties
 * Laws to ensure property owners pass on Property Tax rebate to tenants
 
-Find out more on the new bill in <a href="https://go.gov.sg/newbill" target="_blank">Ministry of Law (MinLaw)</a>.
+Find out more about the new Bill at <a href="https://go.gov.sg/newbill" target="_blank">Ministry of Law (MinLaw)</a>.
 
 #### Rental waivers
 
@@ -43,7 +45,7 @@ Find out more on the new bill in <a href="https://go.gov.sg/newbill" target="_bl
 * 4 months’ rental waiver for commercial tenants in government-owned/managed residential premises
 * 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
 
-Find out more rebate details in <a href="https://go.gov.sg/nearebate" target="_blank">National Environment Agency (NEA)</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">Housing & Development Board (HDB)</a>, <a href="https://go.gov.sg/slarebate" target="_blank">Singapore Land Authority (SLA)</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">Ministry of Culture, Community & Youth (MCCY)</a>.
+Find out more rebate details for <a href="https://go.gov.sg/nearebate" target="_blank">National Environment Agency (NEA)</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">Housing & Development Board (HDB)</a>, <a href="https://go.gov.sg/slarebate" target="_blank">Singapore Land Authority (SLA)</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">Ministry of Culture, Community & Youth (MCCY)</a>.
 
 #### Government cash grant for SME tenants in private properties
 
@@ -51,14 +53,14 @@ Automatically disbursed to qualifying property owners from end-July 2020
   * Cash grant of ~0.8 month's of rent for qualifying commercial property owners
   * Cash grant of ~0.64 month's of rent for qualifying non-residential property owners, e.g. industrial and office properties
 
-<a href="https://go.gov.sg/smecashgrant" target="_blank">Find Out More</a>
+Click <a href="https://go.gov.sg/smecashgrant" target="_blank">here</a>for full details from Ministry of Finance (MOF).
 
 #### Corporate income tax rebate
 
 Corporate Income Tax Rebate for YA2020
   * 25% of tax payable, capped at $15,000 per company
 
-<a href="https://go.gov.sg/corporateincometax" target="_blank">Find Out More</a>
+Find out more at <a href="https://go.gov.sg/corporateincometax" target="_blank">Inland Revenue Authority of Singapore (IRAS)</a>
 
 #### Deferment of higher CPF contribution rates
 
@@ -69,6 +71,6 @@ Increase in CPF contribution rates for senior workers deferred by 1 year, from 1
 * On 26 March 2020, the government announced the Private Bus Support Package (PBSP). As part of the PBSP, private bus (including coach) season parking pass holders at all Government-owned car parks received a 6-month waiver of season parking fees from 1 May to 31 October 2020.
 * With effect from 31 October 2020, this season parking waiver will be extended till 31 March 2021.
 
-<a href="/images/govassist/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Download PDF for Season Parking Waiver Extension</a>
+Download PDF for Season Parking Waiver Extension <a href="/images/govassist/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Details</a>.
 
-<a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Download PDF for Season Parking Waiver Extension FAQs</a>
+Download PDF for Season Parking Waiver Extension <a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">FAQ</a>.
