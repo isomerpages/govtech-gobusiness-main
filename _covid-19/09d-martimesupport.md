@@ -6,8 +6,8 @@ third_nav_title: Sector-Specific Support
 
 ## Maritime
 
-#### Maritime support
+#### MaritimeSG Together Package
 
-* The MaritimeSG Together Package includes financial support to the maritime industry such as port dues concessions, waiver of public licence fees for passenger terminal operators and rental waiver for MPA tenants. This is on top of the other relief measures introduced under Budget 2020 and the supplementary Budgets.
+This includes financial support for the maritime industry such as port dues concessions, waiver of public licence fees for passenger terminal operators and rental waiver for Maritime and Port Authority of Singapore (MPA) tenants. This is on top of the other relief measures introduced under Budget 2020 and the supplementary Budgets.
 
-<a href="https://go.gov.sg/martimesupport" target="_blank">Find Out More</a>
+Find out more about the package at<a href="https://go.gov.sg/martimesupport" target="_blank">Maritime and Port Authority of Singapore (MPA)</a>

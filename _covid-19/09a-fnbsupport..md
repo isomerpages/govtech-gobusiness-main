@@ -1,25 +1,27 @@
 ---
-title: Food & Beverage
+title: Food & beverage
 permalink: /supportschemes/fnbsupport/
 third_nav_title: Sector-Specific Support
 ---
 
 ## Food & Beverage
 
+Here are the initiatives and schemes currently available to support food & beverage (F&B) businesses.
+
 #### Adopting e-payments
 
-* Bonus of $300 per month over 5 months to encourage adoption of e-payments by stallholders in hawker centres, wet markets, coffee shops and industrial canteens.
+Bonus of $300 per month over 5 months for stallholders in hawker centres, wet markets, coffee shops and industrial canteens who adopt e-payment.
 
-<a href="https://www.imda.gov.sg/hawkersgodigital" target="_blank">Find Out More</a>
+Find out more about the scheme at <a href="https://www.imda.gov.sg/hawkersgodigital" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
-#### Food delivery booster package
+#### Food Delivery Booster Package
 
-* Given stricter safe distancing measures due to the evolving COVID-19 situation, demand for food delivery is expected to hike. As such, we have launched the Food Delivery Booster Package to support F&B businesses make the transition from offline to online sales.
+This helps businesses reduce their costs from selling on three key food delivery platforms — Deliveroo, Foodpanda and GrabFood.
 
-<a href="https://go.gov.sg/fdbp" target="_blank">Find Out More</a>
+Find out more about the package at <a href="https://go.gov.sg/fdbp" target="_blank">Enterprise Singapore (ESG)</a>.
 
-#### E-Commerce booster package for retailers
+#### E-Commerce Booster Package for Retailers
 
-* Enterprise Singapore rolls out E-Commerce Booster Package to drive business transformation and diversification of revenue streams among retailers.
+This helps retail businesses with 90% of the cost of using e-commerce platforms for local and/or overseas markets. Additional manpower support will also be provided to help with the transition to online sales.
 
-<a href="https://go.gov.sg/ebp" target="_blank">Find Out More</a>
+Find out more about the package at <a href="https://go.gov.sg/ebp" target="_blank">Enterprise Singapore (ESG)</a>.

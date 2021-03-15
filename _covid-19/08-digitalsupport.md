@@ -29,10 +29,10 @@ Find out more about solutions at <a href="https://go.gov.sg/workfacemanagement" 
 
 A range of digital solutions to help businesses use electronic invoicing and digital payments.
 
-Find out more about solutions at <a href="https://go.gov.sg/payandbillonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
+Find out more about the solutions at <a href="https://go.gov.sg/payandbillonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
 #### Sell online
 
 A range of digital solutions to help businesses move from offline to online sales and reach a wider network of customers.
 
-Find out more at<a href="https://go.gov.sg/sellonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
+Find out more at <a href="https://go.gov.sg/sellonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.

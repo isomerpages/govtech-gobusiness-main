@@ -5,22 +5,21 @@ third_nav_title: Safe Management Requirements
 ---
 ## General requirements
 
-To provide a safe working environment and to prevent virus transmission at the workplace, businesses are required to abide by the <a href="https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures" target="_blank">nation-wide general requirements for workplaces issued on 9 May 2020</a>. Businesses should also adhere to the [sector-specific requirements](/safemanagement/sector/).
-
 All businesses are to comply with the following requirements:
 
-- Employers must ensure that employees who have been working from home continue to do so. Working from home should continue to be the default mode of working, to reduce physical interactions in the workplace and minimise the spread of COVID-19.
-- Employees should only return to the workplace where it is demonstrably necessary, for purposes that cannot be carried out via telecommuting (e.g. to access specialised terminals or dedicated machines, or to complete a contract or transaction that is legally required to be completed in person and on-site).
+- Working from home should continue to be the default mode of working, to reduce physical interactions in the workplace and minimise the spread of COVID-19.
+- Employees should only return to the workplace where it is demonstrably necessary, for purposes that cannot be carried out via telecommuting (eg: to access specialised terminals or dedicated machines, or to complete a contract or transaction that is legally required to be completed in person and on-site).
 
 #### Overview of safe management measures
 
 ***Be Ready, Stay Safe*** <br>
-***7 Key Requirements for Safe Management at Workplaces***
 
-**<ins>Infographic</ins>**
+**<ins>Here's an overview of the Safe Management Measures.</ins>**
 ![Safe Management Practices!](/images/covid/infog.jpg "7 Key Requirements for Safe Management at Workplaces")
 
-**<ins>Video</ins>**
+***7 Key Requirements for Safe Management at Workplaces***
+
+**<ins>Watch this video to find out the key requirements for safety management</ins>**
 <figure class="video_container">
   <iframe width="100%" height="348" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>

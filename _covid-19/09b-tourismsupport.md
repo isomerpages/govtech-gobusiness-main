@@ -1,5 +1,5 @@
 ---
-title: Hospitality & Tourism
+title: Hospitality & tourism
 permalink: /supportschemes/tourismsupport/
 third_nav_title: Sector-Specific Support
 ---
@@ -8,18 +8,18 @@ third_nav_title: Sector-Specific Support
 
 #### Tourism Development Fund
 
-* STB has unveiled a new five-year Tourism Development Fund, designed to catalyse the creation of innovative and quality tourism products and experiences, and capability and talent enhancement efforts among tourism-related enterprises.
+The Tourism Development Fund provides funding support and grants for the creation of innovative and quality tourism products and experiences, as well as capability and talent enhancement efforts among tourism-related establishments.
 
-<a href="https://go.gov.sg/tourism2" target="_blank">Find Out More</a>
+Find out more about the fund at <a href="https://go.gov.sg/tourism2" target="_blank">Singapore Tourism Board (STB)</a>.
 
-#### COVID-19 cleaning support for tourism-related establishments
+#### COVID-19 Cleaning Support for Tourism-related Establishments
 
-* This scheme supports third-party cost of professional cleaning services incurred by tourism-related establishments impacted by COVID-19.
+This scheme helps with the third-party costs of professional cleaning services incurred by tourism-related establishments impacted by COVID-19.
 
-<a href="https://go.gov.sg/tourism5" target="_blank">Find Out More</a>
+Find out more about the scheme at <a href="https://go.gov.sg/tourism5" target="_blank">Singapore Tourism Board (STB)</a>.
 
 #### COVID-19 (Temporary Measures) Act
 
-* The Act aims to provide temporary and targeted protection for businesses and individuals who are unable to fulfil certain contractual obligations because of COVID-19. It seeks to provide temporary cash-flow relief for these businesses and individuals, who may otherwise have to pay damages or risk having their deposits or assets forfeited.
+The Act aims to provide temporary cash relief for businesses and individuals who are unable to fulfil certain contractual obligations because of COVID-19.
 
-<a href="https://go.gov.sg/tourism3" target="_blank">Find Out More</a>
+Find out more about the Act at <a href="https://go.gov.sg/tourism3" target="_blank">Singapore Tourism Board (STB)</a>.
