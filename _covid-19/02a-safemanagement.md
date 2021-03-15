@@ -12,19 +12,17 @@ All businesses are to comply with the following requirements:
 
 #### Overview of safe management measures
 
-***Be Ready, Stay Safe*** <br>
+***Be Ready, Stay Safe***
 
-**<ins>Here's an overview of the Safe Management Measures.</ins>**
+- Here's an overview for Safe Management Measures.
 ![Safe Management Practices!](/images/covid/infog.jpg "7 Key Requirements for Safe Management at Workplaces")
 
-***7 Key Requirements for Safe Management at Workplaces***
-
-**<ins>Watch this video to find out the key requirements for safety management</ins>**
+- Watch this video to find out the key requirements for safety management
 <figure class="video_container">
   <iframe width="100%" height="348" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-**<ins>Resources</ins>**
+- Resources
 
 |         7 Key Requirements for Safe Management at Workplaces          |                                                                                                                                                                           Download                                                                                                                                                                            |
 | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
