@@ -28,8 +28,6 @@ When TraceTogether-only SafeEntry is rolled out nationwide, supermarkets and ret
 
 #### **2. TraceTogether-only SafeEntry**
 
-![TraceTogether](/images/covid/tracetogether_logo.png "TraceTogether")
-
 With TraceTogether-only SafeEntry, visitors where visitors scan a QR code with their TraceTogether app or present their TraceTogether Token for scanning to register a SafeEntry check-in. When TraceTogether-only SafeEntry is in effect, check-in using SingPass Mobile and QR code reader mobile applications will no longer be accepted.
 
 For individuals entering premises where TraceTogether-only SafeEntry is implemented as a safe management measure, they have to use either their TraceTogether app or TraceTogether Token, and not any other method, to check in to the venue’s SafeEntry system.
@@ -43,7 +41,7 @@ Permitted businesses are advised to make the necessary preparations to accept Tr
 TraceTogether is a programme to help mitigate the spread of COVID-19 through community-driven contact tracing. the venue’s SafeEntry system.
 
 ##### How it works
-Both the TraceTogether app and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. These devices estimate the distance between users, and the duration of the such enounters. These records are stored locally and encrypted for 25 days, to cover the incubation period of the viarus as well as the time taken for individuals to seek treatment and get tested for COVID-19. After the 25-day period, the data is automatically deleted.
+Both the TraceTogether app and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. These devices estimate the distance between users, and the duration of the such encounters. These records are stored locally and encrypted for 25 days, to cover the incubation period of the virus as well as the time taken for individuals to seek treatment and get tested for COVID-19. After the 25-day period, the data is automatically deleted.
 
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more quickly.
 
