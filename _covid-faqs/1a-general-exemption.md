@@ -37,4 +37,4 @@ accordion-new:
 #### General Exemption
 {% include accordion-new.html %}
 
-[Back to Covid-19 Overview](/covid-19/)
+[Back to Covid-19 Overview](/covid/)
