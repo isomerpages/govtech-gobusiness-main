@@ -1,7 +1,6 @@
 ---
 title: Resumption of Business Activities
-permalink: /covid-faqs/
-third_nav_title: General
+permalink: /covid-faqs/resumption-of-biz-activities
 accordion-new:
   - title: How do I know if my company is allowed to resume operations?
     content:  |
@@ -49,7 +48,24 @@ accordion-new:
     content:  |
       Freelancers have to be registered with ACRA, unless the business is carried out under your full name as reflected in your NRIC.
 
-      If the business is carried out under your full name as reflected in your NRIC, you can include a description of your business and search for the corresponding SSIC code on BizFile+ <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx" target="_blank">here</a>. Once you have retrieved your SSIC code, please check if it's on the list of permitted services that can resume operations <a href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2" target="_blank">here</a>.         
+      If the business is carried out under your full name as reflected in your NRIC, you can include a description of your business and search for the corresponding SSIC code on BizFile+ <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx" target="_blank">here</a>. Once you have retrieved your SSIC code, please check if it's on the list of permitted services that can resume operations <a href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2" target="_blank">here</a>.
+  - title: I am running a society/organisation which does not need to be registered with ACRA. Can we resume our activities?
+    content:  |
+      All membership organisations which are registered with the Registry of Societies are allowed to resume their onsite activities, provided they follow safe management measures and any sector-specific requirements relevant to their activities. Please read about these requirements <a href="/safemanagement/general/" target="_blank">here</a>.
+  - title: What is the penalty if my company is found operating when we are not allowed to do so?
+    content:  |
+      Under the COVID-19 (Temporary Measures) Act, first-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
+  - title: My primary SSIC code is on the list of permitted services. Why is my business resumption status not reflected as “Permitted”?
+    content:  |
+      You may not have updated your primary SSIC code recently. Please write in to <a href = "mailto: Covid_GoBusiness@mti.gov.sg">Covid_GoBusiness@mti.gov.sg</a> for assistance.
+  - title: What if my business activities do not fall under what is stated as permitted services for the SSIC code of my company’s primary business activity?
+    content:  |
+      Your company may resume the business activities that are on the list of permitted services.
+
+      If your company’s business activities do not fall under the permitted services for the SSIC code of your company’s primary business activity, you will need to apply for a General Exemption and these activities must remain suspended until further notice.
+  - title: I checked my exemption/resumption status and there is now a "Period" specified next to my "Permitted" status. What does this mean?
+    content:  |     
+      If your exemption/resumption status is “Permitted from (date)”, you will only be allowed to resume operations from the specified date. If your exemption/resumption status is “Permitted”, you are allowed to continue your operations immediately.
 ---
 
 #### Resumption of Business Activities
