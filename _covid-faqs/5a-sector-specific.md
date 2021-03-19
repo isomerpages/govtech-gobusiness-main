@@ -2,7 +2,7 @@
 title: Sector-Specific Queries
 permalink: /covid-faqs/sector-specific
 accordion-new:
-    - title: Are non-corporate entities (eg: clubs, societies, charities, Social Service Agencies, co-operative societies) also allowed to resume work-related events?
+    - title: Are non-corporate entities (eg. clubs, societies, charities, Social Service Agencies, co-operative societies) also allowed to resume work-related events?
       content:  |        
         Yes, all permitted enterprises are allowed to resume work-related events of up to 50 persons at their own workplaces or premises, and at third-party venues. Respective sectoral advisories and safe management measures continue to apply. For more information, please refer <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/safe-management-measures" target="_blank">here</a>.
     - title: Are fundraising events allowed to take place?
@@ -49,7 +49,7 @@ accordion-new:
       content:  |     
         Yes, home-based services are allowed. Like any other homes, homes offering services may receive up to 8 visitors per day. Service providers and visitors should wear masks and maintain a 1-metre distance.
 
-        Home-based services that involve customers entering the home for a prolonged period (eg: private dining and hairdressing services) must use SafeEntry.
+        Home-based services that involve customers entering the home for a prolonged period (eg. private dining and hairdressing services) must use SafeEntry.
     - title: Can I allow people offering home-based services into my home? (eg. Repairman to fix water pipes/electricity/cable/air-conditioning issues/ part-time cleaner / gardener / tuition teacher/ day-time nanny caring for my child)? Can they visit more than 2 households per day?
       content:  |  
         Yes, these are home-based services that are allowed. They will count as part of the 8-person cap on visitors per day. Service providers are required to wear masks and maintain a 1-metre distance.
