@@ -53,14 +53,6 @@ accordion-new:
     - title: My company is unable to adhere to the 1-metre safe distancing requirement. Can I adopt other protective measures instead (eg: installing acrylic dividers), instead of the 1-metre safe distancing requirement?
       content:  |  
         No. The default is to ensure at least 1-metre safe distancing between persons at all times. While acrylic dividers or other physical barriers can be adopted alongside the safe distancing requirement, they are not meant to be used as a substitute for the safe distancing requirement. Where physical barriers (eg: acrylic dividers) are used, additional safeguards must be taken to minimise the risk of cross infection (eg: frequent cleaning and disinfection of dividers).
-    - title: In an office setting, would leaving an empty desk marked (eg: with a cross) suffice for safe distancing?
-      content:  |   
-        Employers must ensure clear physical spacing of at least 1 metre between persons at all times and demarcate safe physical distances (at least 1 metre apart) with visual indicators or physical means such as barriers between work stations.
-
-        If leaving an empty desk and demarcating clearly with visual indicators allows for at least 1-metre distancing between employees, this will suffice for safe distancing.    
-    - title: For barriers between workstations, are there guidelines for how high they need to be?
-      content:  |  
-        For barriers between workstations, while there are no specific height guidelines, the barriers should also facilitate the required safe physical distance of one metre apart.
 ---
 
 #### Implementing Safe Management Measures
