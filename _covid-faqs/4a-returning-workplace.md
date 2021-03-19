@@ -1,5 +1,5 @@
 ---
-title: Returning to Workplace
+title: Returning to Workplaces
 permalink: /covid-faqs/returning-workplace
 accordion-new:
     - title: Will all my staff be allowed to return to office once I resume operations? Do we still need to have split teams?
@@ -93,7 +93,7 @@ accordion-new:
     content:  |  
       Access to standalone recreational facilities which are located away from employees’ workplaces will depend on the re-opening plans for relevant permitted enterprises.
 
-      These facilities will also be subject to stricter safe management measures (eg: maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise).
+      These facilities will also be subject to stricter safe management measures (eg. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise).
 
       When visiting such facilities, employees will still have to comply with the relevant Safe Management Measures put in place for that location.
   - title: Can employees use employer-provided recreational facilities which are not located at the workplace?
