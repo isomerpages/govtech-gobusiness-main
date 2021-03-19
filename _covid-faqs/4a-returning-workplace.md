@@ -1,5 +1,5 @@
 ---
-title: Returning to the workplace
+title: Returning to Workplace
 permalink: /covid-faqs/returning-workplace
 accordion-new:
     - title: Will all my staff be allowed to return to office once I resume operations? Do we still need to have split teams?
@@ -76,7 +76,7 @@ accordion-new:
 
 ---
 
-#### Returning to the workplaces
+#### Returning to Workplaces
 {% include accordion-new.html %}
 
 [Back to Covid-19 Overview](/covid/)
