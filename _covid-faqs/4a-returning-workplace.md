@@ -96,7 +96,7 @@ accordion-new:
         These facilities will also be subject to stricter safe management measures (eg. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise).
 
         When visiting such facilities, employees will still have to comply with the relevant Safe Management Measures put in place for that location.
-    - title: Can employees use employer-provided recreational facilities which are not located at the workplace?
+    - title: Can I hold work-related events outside of my workplace premises?
       content:  |  
         Yes, work-related events will be allowed to resume at third-party venues, subject to any additional premises owners’ safe management policies.
 ---
