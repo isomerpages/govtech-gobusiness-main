@@ -65,7 +65,40 @@ accordion-new:
         Supplementary personal protective equipment is encouraged, whenever relevant (more guidelines can be found in sector-specific guidelines here). This is in addition to other Safe Management Measures (eg. safe distancing) that must be in place at the workplace.
 
         Where possible, employers should consider improving the working environment for employees to enable them to wear their masks.   
+    - title: What should I do if my employees are unwilling to work from home because their home is not conducive for work?
+      content:  |  
+        The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers are required to provide the facilities necessary and direct every worker to work-from-home for at least half their working time, as far as reasonably practicable, and ensure that no more than half of employees who are able to work-from-home are at the workplace at any point in time.
 
+        For employees whose jobs can be performed from home, employers must ensure that they continue to do so for at least half their working time, measured over a reasonable period of time. In addition, employers must ensure that no more than half of employees who are able to work-from-home are at the workplace at any point in time. Employers must demonstrate the business or operational reasons why the workers are unable to work-from-home for the required duration despite review and redesign of work processes and arrangements. For more information, please refer here.
+    - title: What should I do if my employees are unwilling to work from home because their home is not conducive for work?
+      content:  |  
+        The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers are required to provide the facilities necessary and direct every worker to work-from-home for at least half their working time, as far as reasonably practicable, and ensure that no more than half of employees who are able to work-from-home are at the workplace at any point in time.
+
+        For employees whose jobs can be performed from home, employers must ensure that they continue to do so for at least half their working time, measured over a reasonable period of time. In addition, employers must ensure that no more than half of employees who are able to work-from-home are at the workplace at any point in time. Employers must demonstrate the business or operational reasons why the workers are unable to work-from-home for the required duration despite review and redesign of work processes and arrangements. For more information, please refer here.
+    - title: What should I take note of if I am really unable to telecommute and need to be in the office?
+      content:  |        
+        You will need to adhere to Safe Management Measures while working in the office. These include undergoing temperature screenings and declarations, wearing masks at all times, practising good personal hygiene and keeping at least a 1-metre distance from others. If you feel unwell, you must not go to work.
+
+        Functions that can be done through email, telephone or videoconferencing should be conducted remotely. Employers should review work processes, provide the necessary IT equipment to employees and adopt solutions that enable remote working and online collaboration.
+    - title: Is there a limit on the number of attendees in a physical meeting?
+      content:  |  
+        Physical meetings are regarded as work-related events and are allowed to proceed with a cap of 50 physical attendees. They will also be subject to other Safe Management Measures being put in place, depending on the specific premises where the event is being held.
+    - title: Can I have a meal with my colleagues at F&B outlets?
+      content:  |  
+        You may socialise with colleagues in the same shift, team or worksite, in groups within and outside of the workplace, subject to prevailing community social gathering rules and group size limits. Safe distancing of at least 1 metre should be maintained between groups at all times.
+    - title: Can employees use the recreational facilities (e.g. gyms, lounges) at the workplace in Phase 2?
+      content:  |  
+        Recreational facilities at workplaces should follow the re-opening plans for relevant permitted enterprises and adhere to the required Safe Management Measures (e.g. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise). When visiting such facilities, employees will still have to comply with the relevant Safe Management Measures put in place for that setting.
+    - title: Can employees use employer-provided recreational facilities which are not located at the workplace?
+      content:  |  
+        Access to standalone recreational facilities which are located away from employees’ workplaces will depend on the re-opening plans for relevant permitted enterprises.
+
+        These facilities will also be subject to stricter safe management measures (eg. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise).
+
+        When visiting such facilities, employees will still have to comply with the relevant Safe Management Measures put in place for that location.
+    - title: Can employees use employer-provided recreational facilities which are not located at the workplace?
+      content:  |  
+        Yes, work-related events will be allowed to resume at third-party venues, subject to any additional premises owners’ safe management policies.
 ---
 
 #### Returning to Workplaces
