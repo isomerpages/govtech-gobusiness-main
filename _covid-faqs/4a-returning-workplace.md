@@ -6,7 +6,7 @@ accordion-new:
       content:  |        
         Employers must put in place Safe Management Measures before resuming workplace activities, in order to provide a safe working environment and prevent transmission at the workplace.
 
-        Employers should ensure that employees whose functions can be done remotely (eg: by telecommuting) continue to do so. All employers and employees must also adhere to the Safe Management Measures at all times.
+        Employers should ensure that employees whose functions can be done remotely (eg. by telecommuting) continue to do so. All employers and employees must also adhere to the Safe Management Measures at all times.
 
         If telecommuting is not possible, employers should split their employees into teams. There should be no cross-deployment/interaction between employees in different teams or worksites, even outside of work.
     - title: Would having split team arrangements with employees working from two or more different workplaces or worksites count as fulfilling the requirements to work from home for at least half of employees’ working time?
@@ -16,7 +16,7 @@ accordion-new:
       content:  |
         Working from home should still be the default mode of working, and all employers should provide the facilities necessary and direct every worker to work from home, as far as reasonably possible.
 
-        Where needed, work-from-home employees may return to the workplace to better support business operations. For employees whose jobs can be performed from home, employers must ensure that they continue to do so for at least half their working time, measured over a reasonable period of time. This is to limit employees’ exposure at the workplace. Return to the workplace can either be initiated by the employee and agreed upon with the employer, or directed by the employer. In addition, employers must ensure that no more than half of employees who are able to work from home are at the workplace at any point in time. This will help to limit the number of workers exposed at the workplace at any point in time, and reduce crowding in common areas (eg: pantries, toilets, lifts). For more information on Ministry of Manpower (MOM)'s Safe Management Measures requirements at the workplace, please refer here.
+        Where needed, work-from-home employees may return to the workplace to better support business operations. For employees whose jobs can be performed from home, employers must ensure that they continue to do so for at least half their working time, measured over a reasonable period of time. This is to limit employees’ exposure at the workplace. Return to the workplace can either be initiated by the employee and agreed upon with the employer, or directed by the employer. In addition, employers must ensure that no more than half of employees who are able to work from home are at the workplace at any point in time. This will help to limit the number of workers exposed at the workplace at any point in time, and reduce crowding in common areas (eg. pantries, toilets, lifts). For more information on Ministry of Manpower (MOM)'s Safe Management Measures requirements at the workplace, please refer here.
 
         Enforcement checks will be conducted and actions will be taken against business for non-compliances, including failure to ensure employees work from home for at least half their working time, where possible.   
     - title: Is there a minimum % percentage or number of workers that employers must place on work-from-home arrangements?
