@@ -106,6 +106,8 @@ accordion-new:
 
 Decide on a name for your business and use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness){:target="_blank"} to check if it's available as a business name, trade mark, web domain and social media username.
 
+{% include button.html text="Get Started with Start a Business e-Adviser" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
+
 Avoid names which are:
 - identical to another business' name
 - vulgar, obscene or offensive
@@ -114,10 +116,6 @@ Avoid names which are:
 You may submit an appeal if you have the necessary approval for names that are identical or prohibited. You will need to upload the supporting documents to support your appeal.
 
 To improve your chances of a successful application, read our [business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"} for more details.
-
-<p>
-{% include button.html text="Get Started with Start a Business e-Adviser" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
-</p>
 
 #### How to reserve your business name
 

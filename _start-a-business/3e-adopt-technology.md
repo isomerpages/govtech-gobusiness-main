@@ -16,14 +16,14 @@ If you have just started your business or are new to digital technology, you can
 - Digital transactions
 - Cybersecurity
 
-*[Selected accounting software](https://www.iras.gov.sg/irashome/Businesses/Companies/Filing-Taxes--Form-C-S-Form-C-/Using-Accounting-Software-to-Prepare-and-File-Form-C-S-Seamlessly/){:target="_blank"} are now able to file statutory returns and financial statements directly to ACRA and IRAS.
+*[Selected accounting software](https://www.iras.gov.sg/irashome/Businesses/Companies/Filing-Taxes--Form-C-S-Form-C-/Using-Accounting-Software-to-Prepare-and-File-Form-C-S-Seamlessly/){:target="_blank"} can automatically prepare and file statutory returns (Income Tax Returns and Annual Returns) and XBRL financial statements (simplified XBRL) directly to IRAS and ACRA. This means that you can file independently to both agencies simply by using the software.
 
 #### Productivity Solutions Grants
 
 The [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/) supports companies keen on using IT solutions and equipment to enhance business processes by providing up to 80% funding support. PSG covers sector-specific solutions and solutions across industries, such as customer management, data analytics, financial management and inventory tracking.
 
-A full [list of digital solutions](https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory){:target="_blank"} (includes PSG-supported solutions) can be found here under the SME Go Digital Programme. Some examples include [E-invoicing](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework){:target="_blank"} (billing solution) and [PayNow Corporate](https://abs.org.sg/consumer-banking/pay-now){:target="_blank"} (digital payment).
+A full list of digital solutions (includes PSG-supported solutions) can be found [here](https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory){:target="_blank"} under the SME Go Digital Programme. Some examples include [E-invoicing](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework){:target="_blank"} (billing solution) and [PayNow Corporate](https://abs.org.sg/consumer-banking/pay-now){:target="_blank"} (digital payment).
 
 #### Register a domain name
 
-You can register a domain name (ending with ".com.sg" or ".sg") with any of the authorised registrars accredited by the [Singapore Network Information Centre (SGNIC)](https://www.sgnic.sg/){:target="_blank"} after registering your business. With the ACRA SME Programme, you will save at least S$30 for the first year of registration for one domain name.
+You can register a domain name (ending with ".com.sg" or ".sg") with any of the authorised registrars accredited by the [Singapore Network Information Centre (SGNIC)](https://www.sgnic.sg/){:target="_blank"} after registering your business. With the ACRA SME Programme, you will save at least $30 for the first year of registration for one domain name.

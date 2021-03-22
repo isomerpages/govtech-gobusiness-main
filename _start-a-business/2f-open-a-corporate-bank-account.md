@@ -10,7 +10,7 @@ For Companies and Limited Liability Partnerships, opening a corporate bank accou
 
 It is optional for Sole Proprietorships, Partnerships and Limited Partnerships. However, a corporate bank account allows you to keep your business expenses separate from your personal savings and also helps you track your business cash flows, which will come in handy when filing taxes.
 
-#### Requirements
+**Requirements**
 
 In general, most banks have the following requirements.
 
