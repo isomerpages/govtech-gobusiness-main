@@ -23,7 +23,7 @@ accordion-new:
 
 ## Overview
 
-If you're starting a business in Singapore, the first question to consider is whether you need to register it. 
+If you're starting a business in Singapore, the first question to consider is whether you need to register it.
 
 Anybody looking to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
 
@@ -49,15 +49,11 @@ Now that you know whether to register the business, here are 6 key steps to guid
 
 {% include panels-startbiz.html panels=site.data.startbiz_links %}
 
-----
-
 #### Running a business from home
 
 There are 2 schemes you can consider if you intend to operate your business from home. The Home-Based Small Scale Business Scheme is for non-registered businesses while the Home Office scheme is for ACRA-registered businesses.
 
 {% include accordion-new.html %}
-
-----
 
 #### Setup Cost Calculator
 
