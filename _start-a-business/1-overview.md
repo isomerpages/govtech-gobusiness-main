@@ -23,25 +23,31 @@ accordion-new:
 
 ## Overview
 
-If you're starting a business in Singapore, the first question to consider is whether you need to register it.
+If you're starting a business in Singapore, the first question to consider is whether you need to register it. 
 
 Anybody looking to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
 
  - You use your full name, as per your NRIC, as your business name.
  - You and your partner(s) use your full names, as per your NRIC, as your business name
 
-Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.
+Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found at [Singapore Statutes Online](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"} website.
+
+#### Benefits of registering a business
+
+There are several benefits of registering a business with ACRA. Here are some of them:
+
+- The public can easily verify information about your business and its owners
+- The public can easily identify, find and transact with your business
+- You get to participate in government tenders and secure intellectual property or patents for new products and technology
+- Your business gets access to Government funding, such as Enterprise Singapore grants
+
+In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
 
 #### Key steps to start
 
 Now that you know whether to register the business, here are 6 key steps to guide you:
 
-1. [Choose a business structure](/start-a-business/choose-a-business-structure/)
-2. [Find a business address](/start-a-business/find-a-business-address/)
-3. [Reserve your business name](/start-a-business/reserve-your-business-name/)
-4. [Register your business](/start-a-business/register-your-business/)
-5. [Create a Corppass account](/start-a-business/create-a-Corppass-account/)
-6. [Open a corporate bank account](/start-a-business/open-a-corporate-bank-account/)
+{% include panels-startbiz.html panels=site.data.startbiz_links %}
 
 #### Running a business from home
 
@@ -49,6 +55,6 @@ There are 2 schemes you can consider if you intend to operate your business from
 
 {% include accordion-new.html %}
 
-#### Setup Cost Calculator
+#### Setup cost calculator
 
-Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.
+Get an estimate of how much it costs to start and run a business in Singapore at [Economic Development Board (EDB)](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"} website.
