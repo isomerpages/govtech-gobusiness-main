@@ -115,6 +115,10 @@ You may submit an appeal if you have the necessary approval for names that are i
 
 To improve your chances of a successful application, read our [business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"} for more details.
 
+<p>
+{% include button.html text="Get Started with Start a Business e-Adviser" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
+</p>
+
 #### How to reserve your business name
 
 After checking your desired name with the e-Adviser, you can reserve it for up to 120 days before registering your business. The name will be released after the reservation period.
@@ -138,6 +142,6 @@ You can find the list of Referral Authorities [here](https://www.acra.gov.sg/how
 #### Singapore Standard Industrial Classification (SSIC)
 
 **What is SSIC and why do i need it for my business?**
-<br>The SSIC is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity. 
+<br>The SSIC is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity.
 
 To reserve your business name, you will need to provide the SSIC code(s) for your business activities. To find out your SSIC code, use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness){:target="_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="_blank"}.
