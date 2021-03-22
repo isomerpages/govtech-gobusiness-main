@@ -3,7 +3,7 @@ title: Register your business
 permalink: /start-a-business/register-your-business/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Register a sole proprietorship/partnership
+  - title: Register a Sole proprietorship/Partnership
     content: |
       Here's what you need to know in order to register a Sole Proprietorship or Partnership)
 
@@ -26,7 +26,7 @@ accordion-new:
       - Commencement date
       - Business address
       - Particulars of business owners and representatives (if applicable)
-  - title: Register a limited partnership
+  - title: Register a Limited Partnership
     content: |
       Here's what you need to know in order to register a Limited Partnership.
 
@@ -50,7 +50,7 @@ accordion-new:
       - Commencement date
       - Business address
       - Particulars of business owners and representatives (if applicable)
-  - title: Register a limited liability partnership
+  - title: Register a Limited Liability Partnership
     content: |
       Here's what you need to know in order to register a  Limited Liability Partnership (LLP).
 
@@ -74,7 +74,7 @@ accordion-new:
       - Commencement date
       - Business address
       - Particulars of business owners and representatives (if applicable)
-  - title: Incorporate a local company
+  - title: Incorporate a Local Company
     content: |
       Here's what you need to know in order to incorporate a Local Company.
 
