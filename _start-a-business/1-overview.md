@@ -32,6 +32,17 @@ Anybody looking to carry out any activity for profit on an ongoing basis must re
 
 Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.
 
+#### Benefits of registering a business
+
+There are several benefits of registering a business with ACRA. Here are some of them:
+
+- The public can easily verify information about your business and its owners
+- The public can easily identify, find and transact with your business
+- You get to participiate in government tenders and secure intellectual property or patents for new products and technology
+- Your business gets access to Government funding, such as Enterprise Singapore grants
+
+In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
+
 #### Key steps to start
 
 Now that you know whether to register the business, here are 6 key steps to guide you:
@@ -49,6 +60,6 @@ There are 2 schemes you can consider if you intend to operate your business from
 
 {% include accordion-new.html %}
 
-#### Setup Cost Calculator
+#### Setup cost calculator
 
-Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.
+Get an estimate of how much it costs to start and run a business in Singapore [here](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.
