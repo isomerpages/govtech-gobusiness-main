@@ -15,14 +15,14 @@ navlinks:
       - title: Next Steps to Consider
         url: /start-a-business/hire-employees/
       - title: FAQs
-        url: /start-a-business/faqs/   
+        url: /start-a-business/faqs/
   - title: Run and Grow Business
     url: /run-and-grow/
     sublinks:
       - title: Overview
         url: /run-and-grow/
       - title: Government Assistance
-        url: /gov-assist/ 
+        url: /gov-assist/
       - title: Business Grants
         url: /business-grants/
       - title: Licences and Permits
@@ -34,7 +34,7 @@ navlinks:
       #- title: Register for GST
       #  url: /run-and-grow/gst-registered/
       - title: GeBIZ Alerts
-        url: /gebiz-alerts/  
+        url: /gebiz-alerts/
   - title: Covid-19
     url: /covid/
     sublinks:
@@ -61,7 +61,7 @@ navlinks:
       - title: Sector-Specific Support
         url: /supportschemes/fnbsupport/
       - title: FAQs
-        url: /faqs/general    
+        url: /faqs/general
   - title: E-Services
     url: /e-services/
     #sublinks:
@@ -72,7 +72,7 @@ navlinks:
       #- title: Casinos
       #  url: /govt-e-services/casinos/
       #- title: Construction
-      #  url: /govt-e-services/construction/  
+      #  url: /govt-e-services/construction/
   - title: Who We Are
     url: /about-us/
     sublinks:
@@ -80,3 +80,7 @@ navlinks:
         url: /about-us/
       - title: News and Media
         url: /news-and-media/
+      - title: Contact Us
+        url: /contact-us/
+      - title: FAQs
+        url: /faqs/popular/
