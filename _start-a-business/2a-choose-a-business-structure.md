@@ -40,7 +40,7 @@ Here are some questions to help you decide:
 - What are my business needs?
 - Is the business structure easy to close?
 
-Download a summary of the different types of business entities [here](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.
+[Download](/images/start/Types of Business Entities in Singapore.pdf) comparison table of the different types of business entities.
 
 ***
 
