@@ -47,6 +47,8 @@ In addition, if you incorporate a company or set up a limited liability partners
 
 Now that you know whether to register the business, here are 6 key steps to guide you:
 
+{% include panels-startbiz.html panels=site.data.startbiz_links %}
+
 1. [Choose a business structure](/start-a-business/choose-a-business-structure/)
 2. [Find a business address](/start-a-business/find-a-business-address/)
 3. [Reserve your business name](/start-a-business/reserve-your-business-name/)
