@@ -23,7 +23,7 @@ accordion-new:
 
 ## Overview
 
-If you're starting a business in Singapore, the first question to consider is whether you need to register it. 
+If you're starting a business in Singapore, the first question to consider is whether you need to register it.
 
 Anybody looking to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
 
