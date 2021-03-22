@@ -14,7 +14,7 @@ For companies, you will need to hire an auditor within three months and a compan
 - [Write a contract](https://www.mom.gov.sg/employment-practices/contract-of-service#key-employment-terms){:target="_blank"} which complies with the [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}
 - [Get Work Injury Compensation Insurance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance){:target="_blank"} for certain groups of employees
 
-<sup>*</sup>You can consider using Workforce Singapore (WSG)’s [MyCareerFuture portal](https://employer.mycareersfuture.sg/){:target="_blank"} to source for local employees
+*You can consider using Workforce Singapore (WSG)’s [MyCareerFuture portal](https://employer.mycareersfuture.sg/){:target="_blank"} to source for local employees
 
 **Every month, you will need to:**
 
