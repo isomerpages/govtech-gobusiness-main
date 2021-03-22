@@ -49,16 +49,12 @@ Now that you know whether to register the business, here are 6 key steps to guid
 
 {% include panels-startbiz.html panels=site.data.startbiz_links %}
 
-----
-
 #### Running a business from home
 
 There are 2 schemes you can consider if you intend to operate your business from home. The Home-Based Small Scale Business Scheme is for non-registered businesses while the Home Office scheme is for ACRA-registered businesses.
 
 {% include accordion-new.html %}
 
-----
+#### Setup cost calculator
 
-#### Setup Cost Calculator
-
-Get an estimate of how much it costs to start and run a business in Singapore [here](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.
+Get an estimate of how much it costs to start and run a business in Singapore at [Economic Development Board (EDB)](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"} website.
