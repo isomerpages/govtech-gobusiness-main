@@ -70,7 +70,17 @@ accordion-new:
       content:  |   
         The employment records are accurate as at Feb 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
 
-        However, should the numbers vary substantially, you should submit a copy of your manpower records with the Ministry of Manpower (MOM) and/or the Central Provident Fund (CPF) to MTI at covid_gobusiness@mti.gov.sg.       
+        However, should the numbers vary substantially, you should submit a copy of your manpower records with the Ministry of Manpower (MOM) and/or the Central Provident Fund (CPF) to MTI at <a href = "mailto: covid_gobusiness@mti.gov.sg.">covid_gobusiness@mti.gov.sg</a> .
+    - title: I need to update the Ministry of Manpower of changes in my foreign workers’ particulars (e.g. residential address) during their employment. Where can I find more information about this?
+      content:  |   
+        You can find more information <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/notify-mom-of-changes" target="_blank">here</a>.
+    - title: I have problems adding in more manpower details to my application. Why is it so?
+      content:  |  
+        Depending on the status & conditions tagged to your exemption, each application is allotted a specific manpower quota. You will not be able to add more employees to your application once you have reached the allotted quota. The cap on the number of employees that you are allowed to have on-site is necessary to minimise the movement of workers to and from work. We are aware that this will be disruptive for businesses, but it is also essential in the fight against COVID-19.
+        worker/notify-mom-of-changes" target="_blank">here</a>.
+    - title: I need more manpower on site to ensure the continuation of my business activities. What should I do?
+      content:  |                         
+        The cap on the number of manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work. Should you require additional manpower, please submit an application for Additional Manpower <a href="https://form.gov.sg/#!/5ec36d8b153ba4001171e326" target="_blank">here</a>. Do note that the application will be subject to assessment by the respective agencies.
 ---
 
 #### Manpower Declaration/Submission
