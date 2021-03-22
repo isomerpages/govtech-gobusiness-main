@@ -1,23 +1,27 @@
-- title: Step 1: Choose a business structure
+- title: Choose a business structure
   description: Whether you're running the business on your own or with partners, choose the structure that best suits you. Each structure has its own benefits and considerations.
   link: /start-a-business/choose-a-business-structure/
 
+<<<<<<< HEAD
 - title: Step 2: Submit a business address
+=======
+- title: Find a business address
+>>>>>>> parent of bd95992 (start a biz)
   description: All business owners and company officers must provide their residential address at the point of registration. These addresses are made publicly available when the public purchases information about the business entity.
   link: /start-a-business/submit-a-business-address/
 
-- title: Step 3: Reserve your business name
+- title: Reserve your business name
   description: Decide on a name for your business and use our Start a Business E-Adviser to check if it's available as a business name, trade mark, web domain and social media username.
   link: /start-a-business/reserve-your-business-name/
 
-- title: Step 4: Register your business
+- title: Register your business
   description: The pre-requisites, information and supporting documents needed for the application to register the business will vary, depending on the business structure type.
   link: /start-a-business/register-your-business/
 
-- title: Step 5: Create a Corppass account
+- title: Create a Corppass account
   description: CorpPass is a single corporate digital identity that you require to transact with Singapore Government agencies, on behalf of for businesses and other entities
   link: /start-a-business/create-a-Corppass-account/
 
-- title: Step 6: Open a corporate bank account
+- title: Open a corporate bank account
   description: Allows you to keep your business expenses separate from your personal savings and also helps you track your business cash flows, which will come in handy when filing taxes.
-  link: /start-a-business/open-a-corporate-bank-account/
+  link: /start-a-business/open-a-corporate-bank-account/    
