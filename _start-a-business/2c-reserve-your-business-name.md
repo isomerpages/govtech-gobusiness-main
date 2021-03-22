@@ -3,7 +3,7 @@ title: Reserve your business name
 permalink: /start-a-business/reserve-your-business-name/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Apply for Business Name (Sole Proprietorship/Partnership)
+  - title: Apply for Business Name - Sole Proprietorship/Partnership
     content: |
       Here's what you need to know to apply for a business name for a Sole Proprietorship or Partnership.
 
@@ -13,7 +13,7 @@ accordion-new:
 
       **Average Processing Time**
       - Approved immediately if the name is available
-      - 14 - 60 days if the application needs to be reviewed by another agency
+      - 14 - 60 days if the application needs to be reviewed by Referral Authorities
       - Approved name will be reserved for 120 days
 
       **Pre-requisites**
@@ -26,7 +26,7 @@ accordion-new:
       - Proposed business name
       - Description of main business activities
       - Particulars of business owners and representatives (if applicable)
-  - title: Apply for Limited Partnership Name
+  - title: Apply for Business Name - Limited Partnership
     content: |
       Here's what you need to know to apply for a Limited Partnership name.
 
@@ -36,7 +36,7 @@ accordion-new:
 
       **Average Processing Time**
       - Approved immediately if the name is available
-      - 14 - 60 days if the application needs to be reviewed by another agency
+      - 14 - 60 days if the application needs to be reviewed by Referral Authorities
       - Approved name will be reserved for 120 days
 
       **Pre-requisites**
@@ -51,7 +51,7 @@ accordion-new:
       - Proposed business name
       - Description of main business activities
       - Particulars of business owners and representatives (if applicable)
-  - title: Apply for Limited Liability Partnership Name
+  - title: Apply for Business Name - Limited Liability Partnership
     content: |
       Here's what you need to know in order to apply for a Limited Liability Partnership (LLP) name.
 
@@ -61,7 +61,7 @@ accordion-new:
 
       **Average Processing Time**
       - Approved immediately if the name is available
-      - 14 - 60 days if the application needs to be reviewed by another agency
+      - 14 - 60 days if the application needs to be reviewed by Referral Authorities
       - Approved name will be reserved for 120 days
 
       **Pre-requisites**
@@ -76,7 +76,7 @@ accordion-new:
       - Description of main business activities
       - Particulars of business partners and representatives (if applicable)
       - Local office address (where all communications to the LLP are sent)
-  - title: Apply for Company Name
+  - title: Apply for Business Name - Company
     content: |
       Here's what you need to know in order to apply for a Company name.
 
@@ -86,7 +86,7 @@ accordion-new:
 
       **Average Processing Time**
       - Approved immediately if the name is available
-      - 14 - 60 days if the application needs to be reviewed by another agency
+      - 14 - 60 days if the application needs to be reviewed by Referral Authorities
       - Approved name will be reserved for 120 days
 
       **Pre-requisites**
@@ -111,17 +111,17 @@ Avoid names which are:
 - vulgar, obscene or offensive
 - prohibited (e.g: Temasek)
 
-If your preferred business name is not available, you may submit an appeal. You will need to upload the necessary documents to support your appeal when reserving your business name.
+You may submit an appeal if you have the necessary approval for names that are identical or prohibited. You will need to upload the supporting documents to support your appeal.
 
 To improve your chances of a successful application, read our [business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"} for more details.
 
 #### How to reserve your business name
 
-After checking your desired name with the E-Adviser, you can reserve it for up to 120 days before registering your business. The name will be released after the reservation period.
+After checking your desired name with the e-Adviser, you can reserve it for up to 120 days before registering your business. The name will be released after the reservation period.
 
 There are two ways to reserve your business name:
 
-1) [Log in to GoBusiness](https://www.google.com.sg/){:target="_blank"} with your Singpass or Corppass to submit the application online, or
+1) Log in to BizFile+ [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your SingPass or CorpPass to submit the application online, or
 
 2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
@@ -138,6 +138,6 @@ You can find the list of Referral Authorities [here](https://www.acra.gov.sg/how
 #### Singapore Standard Industrial Classification (SSIC)
 
 **What is SSIC and why do i need it for my business?**
-<br>The SSIC is a code assigned to classify your business activities carried out in Singapore. These codes are used by various government agencies for statistics and reporting purposes.
+<br>The SSIC is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity. 
 
-To reserve your business name, you will need to provide the SSIC code for your business activities. Different business activities each have a different 5-digit SSIC code. To find out your SSIC code, use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness){:target="_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="_blank"}.
+To reserve your business name, you will need to provide the SSIC code(s) for your business activities. To find out your SSIC code, use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness){:target="_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="_blank"}.
