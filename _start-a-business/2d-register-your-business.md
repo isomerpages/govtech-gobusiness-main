@@ -54,11 +54,11 @@ accordion-new:
     content: |
       Here's what you need to know in order to register a  Limited Liability Partnership (LLP).
 
-      **Application Fee**
+      **Application fee**
       - One-time registration fee of $100
       - Additional $40 for provision of each Alternate Address (optional)
 
-      **Average Processing Time**
+      **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid
       - 14-60 days if the application needs to be reviewed by Referral Authorities
 
@@ -79,8 +79,8 @@ accordion-new:
       Here's what you need to know in order to incorporate a Local Company.
 
       **Application Fee**
-      - $300 one-time registration fee
-      - Additional $40 for every Alternate Address (optional)
+      - One-time registration fee of $300
+      - Additional $40 for provision of each Alternate Address (optional)
 
       **Average Processing Time**
       - Usually approved within 15 minutes after registration fee is paid
@@ -126,7 +126,7 @@ The pre-requisites, information and supporting documents needed for the applicat
 
 #### Unique Entity Number (UEN) and Business Profile
 
-Upon successful registration of your new business, your business will be issued a Unique Entity Number (UEN). The UEN is your business' unique identification number that will be used in all transactions with government agencies.
+Upon successful registration of your new business, your business will be issued a [Unique Entity Number (UEN)](https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx){:target="_blank"}. The UEN is your business' unique identification number that will be used in all transactions with government agencies.
 
 A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"} for your business will be emailed to the person filing the application upon successful registration of your business.
 
