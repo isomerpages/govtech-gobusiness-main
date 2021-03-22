@@ -10,4 +10,4 @@ The list of services allowed to operate as of 19 June 2020, and their correspond
 
 Please note that your SSIC code should correspond with the Primary Business Activity in your business registration records with the Accounting and Corporate Regulatory Authority (ACRA). You should ensure that your business activity is in line with your selected SSIC code.
 
-If you do not know your SSIC code, you can login to <a href="https://www.bizfile.gov.sg/" target="_blank">BizFile+</a> using your CorpPass credentials.
+If you do not know your SSIC code, you can login to [BizFile+](https://www.bizfile.gov.sg/){:target="_blank"} using your CorpPass credentials.
