@@ -19,7 +19,7 @@ accordion-new:
 
   - title: Approved Third Party Logistics (3PL) Company Scheme
     content:  |
-      Approved logistics companies that provide logistics management services to overseas clients do not need to pay import GST or charge GST on the supplies of their overseas clients' goods under certain circumstances.
+      Under this scheme, approved logistics companies that provide logistics management services to overseas clients do not need to pay import GST or charge GST on the supplies of their overseas clients' goods under certain circumstances.
 
       <a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Approved-Third-Party-Logistics--3PL--Company-Scheme/" target="_blank">Find Out More</a>
       <br><br>

@@ -2,30 +2,42 @@
 title: Loans
 permalink: /gov-assist/loans/
 third_nav_title: Government Assistance
+accordion-new:
+  - title: Enterprise Financing Scheme (EFS)
+    content:  |
+      EFS helps Singapore enterprises to access financing more readily. Enterprise Singapore (ESG) will share the loan default risk in the event of enterprise insolvency with the Participating Financial Institutions (PFIs).
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/overview" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Internationalisation Finance Scheme (IFS) - Non-Recourse
+    content:  |
+      IFS gives mid-sized companies access to up to S$50 million in project financing for local and overseas development projects. Enterprise Singapore co-shares default risks with Participating Financial Institutes (PFIs).
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank">Find out more</a>
+      <br><br>
+
+  - title: Loan Insurance Scheme (LIS)
+    content:  |
+      LIS helps enterprises get short-term trade financing loans by supporting 50% of the LIS insurance premium. (up to 80% until March 2021).
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/loan-insurance-scheme" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Loan Insurance Scheme (LIS)
+    content:  |    
+      LIS helps enterprises get short-term trade financing loans by supporting 50% of the LIS insurance premium. (up to 80% until March 2021)
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/loan-insurance-scheme" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Temporary Bridging Loan Programme (TBLP)
+    content:  |    
+      TBLP provides access to working capital for business needs, at a maximum supported loan of S$5 million with 90% Government risk-share on loans for new applications submitted from 8 April - 31 March 2021.
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank">Find Out More</a>            
 ---
 
-## List of Loans
+#### Here are the tax incentives currently available:
 
-#### Enterprise Financing Scheme (EFS)
-
-The EFS helps Singapore enterprises to access financing more readily. ESG will share the loan default risk in the event of enterprise insolvency with the Participating Financial Institutions.
-
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/overview" target="_blank">Find out more</a>
-
-#### Internationalisation Finance Scheme (IFS) - Non-Recourse
-
-Mid-sized companies can access up to S$50 million in project financing for local and overseas development projects. ESG co-shares default risks with Participating FIs. 
-
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank">Find out more</a>
-
-#### Loan Insurance Scheme (LIS)
-
-The LIS help enterprises secure short-term trade financing loans by supporting 50% of LIS insurance premium. (up to 80% until March 2021)
-
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/loan-insurance-scheme" target="_blank">Find out more</a>
-
-#### Temporary Bridging Loan Programme (TBLP)
-
-The TBLP provides access to working capital for business needs, at a maximum supported loan of S$5 Million with 90% Government risk-share on loans for new applications initiated from 8 April-31 March 2021.
-
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank">Find out more</a>
+{% include accordion-new.html %}
