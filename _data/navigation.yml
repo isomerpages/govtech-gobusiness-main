@@ -91,4 +91,4 @@ links:
       - title: FAQs
         url: /faqs/popular/
   - title: Login
-    url: https://dashboard-staging.l1t.molb.gov.sg/login
+    url: /login/

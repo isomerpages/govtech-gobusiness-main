@@ -12,7 +12,7 @@ sections:
         Licences, permits, grants and other e-services,<br>now all in one place on GoBusiness
       background: /images/homepage/home banner placeholder.jpg
       button: Log In to GoBusiness
-      url: https://dashboard-staging.l1t.molb.gov.sg/login
+      url: /login/
       #dropdown:
       #  title: I Want To...
       #  options:
