@@ -8,7 +8,8 @@ third_nav_title: Key Steps to Start
 
 Whether you're running the business on your own or with partners, choose the structure that best suits you. The most common are sole proprietorship, partnership and company. Each structure has its own benefits and considerations.
 
-Not sure which to choose? {% include button.html text="Get Started with Business Structure E-Adviser" src="https://eadviser.g2b.sg/businessstructure/forms" type="primary" %}
+Not sure which to choose?
+<br>{% include button.html text="Get Started with Business Structure E-Adviser" src="https://eadviser.g2b.sg/businessstructure/forms" type="primary" %}
 
 #### Here are the five different types of business structures:
 
@@ -19,13 +20,13 @@ Not sure which to choose? {% include button.html text="Get Started with Business
 <br>A Partnership is similar to a sole proprietorship, except it is formed by two or more partners (capped at 20).
 
 **3. Limited Partnership (LP)**
-An LP is a partnership between a minimum of two partners, with at least one general partner and one limited partner and does not have a separate legal entity from the partners. A general partner is responsible for the actions of the LP and is liable for all its debts and obligations. A limited partner is not liable for the LP's debts and obligations beyond his agreed contribution, provided he does not take part in the management of the business.
+<br>An LP is a partnership between a minimum of two partners, with at least one general partner and one limited partner and does not have a separate legal entity from the partners. A general partner is responsible for the actions of the LP and is liable for all its debts and obligations. A limited partner is not liable for the LP's debts and obligations beyond his agreed contribution, provided he does not take part in the management of the business.
 
 **4. Limited Liability Partnership (LLP)**
-An LLP is a type of business structure in which two or more partners incorporate an entity separate from themselves. A partner of the LLP cannot be held personally liable for the actions of any other partners. Thus, every partner is personally responsible for any liabilities that arise from their own actions.
+<br>An LLP is a type of business structure in which two or more partners incorporate an entity separate from themselves. A partner of the LLP cannot be held personally liable for the actions of any other partners. Thus, every partner is personally responsible for any liabilities that arise from their own actions.
 
 **5. Local Company**
-A local company is a business entity incorporated in Singapore. A company has the right to own property, has perpetual succession and can sue or be sued in its own name. There are different types of companies. E.g: private company limited by shares, exempt private company, public company limited by shares and public company limited by guarantee. The most commonly chosen type in Singapore is the Private Limited Company.
+<br>A local company is a business entity incorporated in Singapore. A company has the right to own property, has perpetual succession and can sue or be sued in its own name. There are different types of companies. E.g: private company limited by shares, exempt private company, public company limited by shares and public company limited by guarantee. The most commonly chosen type in Singapore is the Private Limited Company.
 
 #### How to choose your business structure
 
