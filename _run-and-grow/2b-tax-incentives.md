@@ -54,4 +54,5 @@ accordion-new:
 ---
 
 ### Here are the tax incentives currently available:
+
 {% include accordion-new.html %}
