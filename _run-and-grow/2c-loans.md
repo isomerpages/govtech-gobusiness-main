@@ -28,7 +28,8 @@ accordion-new:
     content:  |    
       TBLP provides access to working capital for business needs, at a maximum supported loan of S$5 million with 90% Government risk-share on loans for new applications submitted from 8 April - 31 March 2021.
 
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank">Find Out More</a>            
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank">Find Out More</a>
+      <br><br>            
 ---
 
 #### Here are the loans currently available:
