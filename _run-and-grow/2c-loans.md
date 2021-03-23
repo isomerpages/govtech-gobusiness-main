@@ -24,13 +24,6 @@ accordion-new:
       <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/loan-insurance-scheme" target="_blank">Find Out More</a>
       <br><br>
 
-  - title: Loan Insurance Scheme (LIS)
-    content:  |    
-      LIS helps enterprises get short-term trade financing loans by supporting 50% of the LIS insurance premium. (up to 80% until March 2021)
-
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/loan-insurance-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
   - title: Temporary Bridging Loan Programme (TBLP)
     content:  |    
       TBLP provides access to working capital for business needs, at a maximum supported loan of S$5 million with 90% Government risk-share on loans for new applications submitted from 8 April - 31 March 2021.
