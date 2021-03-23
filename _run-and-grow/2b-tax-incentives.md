@@ -6,8 +6,8 @@ accordion-new:
   - title: Approved Contract Manufacturer and Trade Scheme (ACMT)
     content:  |
       With ACMT, contract manufacturers and traders do not need to account for GST on value-added activities supplied to non-GST registered overseas customers or overseas persons registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
-    url: [Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/){:target="_blank"}
 
+      [Find Out More] (https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/){:target="_blank"}
 
 ---
 
