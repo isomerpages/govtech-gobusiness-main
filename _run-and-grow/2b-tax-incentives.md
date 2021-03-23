@@ -4,19 +4,21 @@ permalink: /gov-assist/tax-incentives/
 third_nav_title: Government Assistance
 ---
 
-## List of Tax Incentives
+## Tax Incentives
 
-#### Approved Contract Manufacturer and Trade Scheme
+Here are the tax incentives currently available:
 
-Contract manufacturers and traders need not account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons registered under the OVR regime as a pay-only person.
+#### Approved Contract Manufacturer and Trade Scheme (ACMT)
 
-<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank">Find out more</a>
+With ACMT, contract manufacturers and traders do not need to account for GST on value-added activities supplied to non-GST registered overseas customers or overseas persons registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
 
-#### Approved Import GST Suspension Scheme
+[Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/){:target="_blank"}
+
+#### Approved Import GST Suspension Scheme (AISS)
 
 Under AISS, GST-registered businesses in the aerospace industry enjoy added import GST suspension benefits for qualifying aircraft parts.
 
-<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Import-GST-Suspension-Scheme--AISS-/" target="_blank">Find out more</a>
+[Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Import-GST-Suspension-Scheme--AISS-/){:target="_blank"}
 
 #### Approved Third Party Logistics (3PL) Company Scheme
 
