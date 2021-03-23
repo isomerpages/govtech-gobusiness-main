@@ -4,8 +4,6 @@ permalink: /gov-assist/tax-incentives/
 third_nav_title: Government Assistance
 ---
 
-## Tax Incentives
-
 Here are the tax incentives currently available:
 
 #### Approved Contract Manufacturer and Trade Scheme (ACMT)
@@ -24,28 +22,28 @@ Under AISS, GST-registered businesses in the aerospace industry enjoy added impo
 
 Approved logistics companies that provide logistics management services to overseas clients do not need to pay import GST or charge GST on the supplies of their overseas clients' goods under certain circumstances.
 
-<a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Approved-Third-Party-Logistics--3PL--Company-Scheme/" target="_blank">Find out more</a>
+[Find Out More](https://www.iras.gov.sg/IRASHome/Schemes/GST/Approved-Third-Party-Logistics--3PL--Company-Scheme/){:target="_blank"}
 
-#### Automated Double Tax Deduction for Internationalisation Scheme
+#### Automated Double Tax Deduction for Internationalisation Scheme (DTDi)
 
 Companies planning to expand overseas can benefit from automatic DTDi, with a 200% tax deduction on eligible expenses of up to S$150,000, for international market expansion and investment development activities.
 
-<a href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Double-Tax-Deduction-for-Internationalisation-Scheme/" target="_blank">Find out more</a>
+[Find Out More](https://www.iras.gov.sg/irashome/Schemes/Businesses/Double-Tax-Deduction-for-Internationalisation-Scheme/){:target="_blank"}
 
 #### Double Tax Deduction for Internationalisation (DTDi)
 
-Companies planning to expand overseas can benefit from the DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
+Companies planning to expand overseas can benefit from DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
 
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationalisation" target="_blank">Find out more</a>
+[Find Out More](https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationalisation){:target="_blank"}
 
 #### Hand-Carried Exports Scheme (HCES)
 
-HCES is applicable if you wish to zero-rate your supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport.
+Under HCES, you may zero-rate your supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport.
 
-<a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/" target="_blank">Find out more</a>
+[Find Out More](https://www.iras.gov.sg/IRASHome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/){:target="_blank"}
 
 #### Major Exporters' Scheme (MES)
 
-Under MES, GST on non-dutiable goods is suspended at the point of import and also when the goods are removed from Zero GST warehouses.
+Under MES, GST on non-dutiable goods is suspended at the point of import and when the goods are removed from Zero GST warehouses.
 
-<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/" target="_blank">Find out more</a>
+[Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}
