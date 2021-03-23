@@ -57,4 +57,4 @@ Under MES, GST on non-dutiable goods is suspended at the point of import and whe
 
 [Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}
 
-{% include panels.html panels=site.data.related_content_overview %}
+{% include accordion-new.html %}
