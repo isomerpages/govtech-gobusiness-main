@@ -38,6 +38,6 @@ accordion-new:
       <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank">Find Out More</a>            
 ---
 
-#### Here are the tax incentives currently available:
+#### Here are the loans currently available:
 
 {% include accordion-new.html %}
