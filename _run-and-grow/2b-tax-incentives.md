@@ -4,9 +4,7 @@ permalink: /gov-assist/tax-incentives/
 third_nav_title: Government Assistance
 ---
 
-### Tax Incentives
-
-Here are the tax incentives currently available:
+## Here are the tax incentives currently available:
 
 #### Approved Contract Manufacturer and Trade Scheme (ACMT)
 
