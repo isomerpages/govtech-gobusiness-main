@@ -24,10 +24,11 @@ Here are the types of assistance schemes you can find on GoBusiness. Click on th
 
 Find out with [GovAssist e-Adviser](https://gaeadviser.gobusiness.gov.sg/?src=govassist_overview){:target="_blank"}, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
+<p>
 <div class="bp-youtube">
   <iframe src="https://www.youtube.com/embed/9-U_83QxBBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
-
+</p>
 ----
 
 #### Related content
