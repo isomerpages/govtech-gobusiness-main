@@ -2,9 +2,18 @@
 title: Tax Incentives
 permalink: /gov-assist/tax-incentives/
 third_nav_title: Government Assistance
+accordion-new:
+  - title: Approved Contract Manufacturer and Trade Scheme (ACMT)
+    content:  |
+      With ACMT, contract manufacturers and traders do not need to account for GST on value-added activities supplied to non-GST registered overseas customers or overseas persons registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
+    url: [Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/){:target="_blank"}
+
+
 ---
 
-## Here are the tax incentives currently available:
+## Tax Incentives
+
+Here are the tax incentives currently available:
 
 #### Approved Contract Manufacturer and Trade Scheme (ACMT)
 
@@ -47,3 +56,5 @@ Under HCES, you may zero-rate your supplies to overseas customers for goods hand
 Under MES, GST on non-dutiable goods is suspended at the point of import and when the goods are removed from Zero GST warehouses.
 
 [Find Out More](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}
+
+{% include panels.html panels=site.data.related_content_overview %}
