@@ -2,24 +2,32 @@
 title: About Us
 permalink: /about-us/
 ---
-### Jointly developed by MTI, SNDGO & GovTech, the GoBusiness platform aims to offer streamlined, intuitive, personalised Government-to-Business (G2B) e-services.
+### GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 
 ![about us image](/images/abtus.png)
 
-The Singapore Government has launched the following digital services on the GoBusiness Platform.
+Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our [e-Advisers](/e-services/).
 
-#### GoBusiness Licensing
-GoBusiness Licensing enables businesses to easily and efficiently apply for the variety of licences they need at one place. A key feature of the portal is the Guided Journey for new food services business owners, which is a step-by-step guide that helps them navigate the licensing landscape to determine the licences required, and the order to apply for them.
-<p><a href="https://www.gobusiness.gov.sg/licences" target="_blank">Find Out More</a></p>
+Here’s what you can do with GoBusiness:
 
-#### GoBusiness COVID-19
-GoBusiness COVID enables businesses to stay up-to-date on COVID-19 related regulations and apply for exemptions.
-<p><a href="https://covid.gobusiness.gov.sg/" target="_blank">Find Out More</a>
-</p>
+#### Apply for licences
+Apply for the licences and permits you need from multiple government agencies, with just one application. For new business owners, the Guided Journey feature takes you through a step-by-step process to find out the licences you need, and apply for them. This feature is currently for food services only.
 
-#### GoBusiness Gov Assist
-GoBusiness Govt Asst guides small and medium-sized enterprises (SMEs) to better identify relevant government support schemes based on their companies’ needs through the use of an e-Adviser. In addition, SMEs will be able to subscribe to government procurement notifications on the website, so they can stay abreast of the latest opportunities in this space.
-<p><a href="https://govassist.gobusiness.gov.sg/gov-assist/" target="_blank">Find Out More</a>
-</p>
+[Find Out More](/licences/)
 
-Moving forward, GoBusiness will continue to expand to include more services, enabling the Government to better support businesses.
+#### Get Support During COVID-19
+Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
+
+[Find Out More](/covid/)
+
+#### Get Loans and other assistance
+Tap on a wide range of Government assistance schemes to support your business. From loans and tax incentives to grants and toolkits, identify what you need with an e-Adviser.
+
+[Find Out More](/gov-assist/)
+
+#### Get GeBIZ Alerts
+Stay competitive and subscribe for daily email notifications on government procurement opportunities posted on Government Electronic Business (GeBIZ).
+
+[Subscribe Here](/gebiz-alerts/)
+
+We are continuing to upgrade GoBusiness with more services to better support your business.
