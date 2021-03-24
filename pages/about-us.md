@@ -15,17 +15,17 @@ Apply for the licences and permits you need from multiple government agencies, w
 
 [Find Out More](/licences/)
 
-#### Get Support During COVID-19
+#### Get support during COVID-19
 Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
 
 [Find Out More](/covid/)
 
-#### Get Loans and other assistance
+#### Get loans and other assistance
 Tap on a wide range of Government assistance schemes to support your business. From loans and tax incentives to grants and toolkits, identify what you need with an e-Adviser.
 
 [Find Out More](/gov-assist/)
 
-#### Get GeBIZ Alerts
+#### Get GeBIZ alerts
 Stay competitive and subscribe for daily email notifications on government procurement opportunities posted on Government Electronic Business (GeBIZ).
 
 [Subscribe Here](/gebiz-alerts/)
