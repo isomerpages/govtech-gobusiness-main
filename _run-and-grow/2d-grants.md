@@ -2,55 +2,73 @@
 title: Grants
 permalink: /gov-assist/grants/
 third_nav_title: Government Assistance
+third_nav_title: Government Assistance
+accordion-new:
+  - title: 2-Stage Innovation Grant (iGrant)
+    content:  |
+      Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
+
+      <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Accessibility Fund
+    content:  |
+      Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
+
+      <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find Out More</a>
+      <br><br>  
+
+  - title: Agriculture Productivity Fund (APF)
+    content:  |
+      The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
+
+      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Artificial Intelligence and Data Analytics (AIDA) Grant
+    content:  |
+      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+
+      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Asian Financial Leaders Scheme (AFLS)
+    content:  |
+      AFLS helps financial institutes defray part of the costs of sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes.
+
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Aviation Development Fund (ADF)
+    content:  |
+      The ADF supports the development and growth of the aviation industry in Singapore, with a focus on raising airport productivity, building capabilities, and developing manpower.
+
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Business Events in Singapore (BEiS)
+    content:  |
+      BEiS seeks to encourage the business events industry to anchor and grow quality events as well as catalyse the innovation of new content.  
+
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
+      <br><br>
+
+  - title: Business Improvement Fund (BIF)
+    content:  |
+      BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness.  
+
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
+      <br><br>
 ---
 
-## List of Grants
+#### Here are the grants currently available:
 
-#### 3R Fund
+{% include accordion-new.html %}
 
-The 3R Fund supports companies and organisations registered in Singapore to implement programmes and initiatives to minimise solid waste.
-
-<a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund" target="_blank">Find out more</a>
-
-#### Accessibility Fund
-
-Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
-
-<a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find out more</a>
-
-#### Agriculture Productivity Fund (APF)
-
-The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
-
-<a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find out more</a>
-
-#### Artificial Intelligence and Data Analytics (AIDA) Grant
-
-The AIDA grant supports projects that demonstrate adoption of AI & DA techniques that achieve business objectives of strategy & decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-<a href="https://www.mas.gov.sg/schemes-and-initiatives/Artificial-Intelligence-and-Data-Analytics-AIDA-Grant" target="_blank">Find out more</a>
-
-#### Asian Financial Leaders Scheme (AFLS)
-
-The AFLS initiative helps FIs defray part of the costs incurred in sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes. 
-
-<a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find out more</a>
-
-#### Aviation Development Fund (ADF)
-
-The Aviation Development Fund (ADF) supports the development and growth of the aviation industry in Singapore, with focus on raising airport productivity, building capabilities, and developing manpower. 
-
-<a href="https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund" target="_blank">Find out more</a>
-
-#### Business Events in Singapore (BEiS)
-
-The BEiS scheme seeks to encourage the business events industry to anchor and grow quality events as well as catalyse the innovation of new content. 
-
-<a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find out more</a>
 
 #### Business Improvement Fund (BIF)
 
-The BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. 
+The BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness.
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html" target="_blank">Find out more</a>
 
@@ -92,25 +110,25 @@ This grant co-funds the salaries of Safe Management Officers (SMOs) who need to 
 
 #### Cruise Development Fund (CDF)
 
-The CDF supports cruise industry players such as cruise lines, travel agents, charterers and trainers in activities that will build strong consumer demand for cruises from Singapore. 
+The CDF supports cruise industry players such as cruise lines, travel agents, charterers and trainers in activities that will build strong consumer demand for cruises from Singapore.
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/cruise-development-fund-cdf.html" target="_blank">Find out more</a>
 
 #### Design Thinking Business Transformation Programme
 
-The programme aims to support companies in their business transformation and innovation capabilities. Companies will be trained in the design thinking process with mentoring sessions over the six-month programme. 
+The programme aims to support companies in their business transformation and innovation capabilities. Companies will be trained in the design thinking process with mentoring sessions over the six-month programme.
 
 <a href="https://www.wsg.gov.sg/programmes-and-initiatives/design-thinking-manpower-lean-programme.html" target="_blank">Find out more</a>
 
 #### Digital Acceleration Grant (DAG) - Industry Pilot
 
-DAG scheme supports joint projects by multiple Singapore-based FIs to customise an existing solution with a solution provider, to improve productivity, strengthen operational resilience, manage risks better, and serve customers better. 
+DAG scheme supports joint projects by multiple Singapore-based FIs to customise an existing solution with a solution provider, to improve productivity, strengthen operational resilience, manage risks better, and serve customers better.
 
 <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank">Find out more</a>
 
 #### Digital Acceleration Grant (DAG) - Institution Project
 
-DAG scheme supports Singapore-based FIs and Fintech firms adopt digital solutions to improve productivity, strengthen operational resilience, manage risks better, and serve customers better. 
+DAG scheme supports Singapore-based FIs and Fintech firms adopt digital solutions to improve productivity, strengthen operational resilience, manage risks better, and serve customers better.
 
 <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank">Find out more</a>
 
@@ -140,13 +158,13 @@ E2F supports companies in the industry sector in becoming more energy efficient.
 
 #### Enhanced Training Support for SMEs (ETSS)
 
-The ETSS offers higher course fee grant of up to 90% of the course fees and absentee payroll funding of 80% of basic hourly salary at a higher cap of $7.50 per hour for SMEs signing up for SSG-supported courses. 
+The ETSS offers higher course fee grant of up to 90% of the course fees and absentee payroll funding of 80% of basic hourly salary at a higher cap of $7.50 per hour for SMEs signing up for SSG-supported courses.
 
 <a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/enhanced-training-support-for-SME.html" target="_blank">Find out more</a>
 
 #### Enhanced Training Support Package (ETSP)
 
-The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $10/hr absentee payroll funding for all SSG-supported certifiable courses completed before 31 December 2020. 
+The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $10/hr absentee payroll funding for all SSG-supported certifiable courses completed before 31 December 2020.
 
 <a href="https://www.ssg.gov.sg/ETSP_EnhancedAP.html" target="_blank">Find out more</a>
 
@@ -170,7 +188,7 @@ The National Voluntary Partnership (NVP) for E-waste Recycling Funding Scheme is
 
 #### Experience Step-Up Fund (ESF)
 
-The ESF supports development and enhancement of tourism experiences that increase the attractiveness of Singapore to visitors, improving overall visitor experience and satisfaction in Singapore. 
+The ESF supports development and enhancement of tourism experiences that increase the attractiveness of Singapore to visitors, improving overall visitor experience and satisfaction in Singapore.
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html" target="_blank">Find out more</a>
 
@@ -182,7 +200,7 @@ The FAMS helps FIs defray part of the costs incurred in the hiring of Singapore 
 
 #### Financial Sector Technology and Innovation (FSTI) Scheme - FI project track
 
-The FSTI scheme supports Singapore-based FIs to catalyse innovative ideas and market solutions to advance the competitiveness of the financial institution and the sector. 
+The FSTI scheme supports Singapore-based FIs to catalyse innovative ideas and market solutions to advance the competitiveness of the financial institution and the sector.
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/fsti-scheme" target="_blank">Find out more</a>
 
@@ -200,7 +218,7 @@ The FSS will co-fund with FIs to send their promising Singaporean professionals 
 
 #### Financial Training Scheme (FTS)
 
-The FTS provides funding for financial sector-specific training programmes which are recognized under FTS, with a grant cap of $2,000 per participant per programme. 
+The FTS provides funding for financial sector-specific training programmes which are recognized under FTS, with a grant cap of $2,000 per participant per programme.
 
 <a href="https://www.ibf.org.sg/programmes/Pages/IBF-FTS.aspx" target="_blank">Find out more</a>
 
@@ -224,13 +242,13 @@ GEMS (listing) helps to encourage potential issuers to list on the Singapore Exc
 
 #### Grant for Equity Market Singapore (GEMS) - Research Initiative
 
-The Research Initiative Grant is earmarked to fund crowd-sourced initiatives that will propel the development of Singapore's equity research ecosystem. 
+The Research Initiative Grant is earmarked to fund crowd-sourced initiatives that will propel the development of Singapore's equity research ecosystem.
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank">Find out more</a>
 
 #### Grant for Equity Market Singapore (GEMS) - Research Talent Development
 
-GEMS (research) encourage FIs based in Sg to hire equity research professionals by co-funding hiring costs of equity research analysts. 
+GEMS (research) encourage FIs based in Sg to hire equity research professionals by co-funding hiring costs of equity research analysts.
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank">Find out more</a>
 
@@ -332,7 +350,7 @@ This grant is for solution providers to develop new technologies or use cases in
 
 #### Institute of Banking and Finance Standards Training Scheme (IBF-STS)
 
-The IBF-STS provides funding for programmes accredited under the IBF standards, with a grant cap of $7,000 per participant per programme. 
+The IBF-STS provides funding for programmes accredited under the IBF standards, with a grant cap of $7,000 per participant per programme.
 
 <a href="https://www.ibf.org.sg/programmes/Pages/IBF-STS.aspx" target="_blank">Find out more</a>
 
@@ -344,7 +362,7 @@ The iPOST initiative helps FIs defray part of the costs incurred in sending Sing
 
 #### Internationalisation Skills (iSkills) Talent Development Programme
 
-(iSkills) Talent Development Programme is customised for both junior and senior internationalisers. Participating businesses can expect overseas immersion and a final project. 
+(iSkills) Talent Development Programme is customised for both junior and senior internationalisers. Participating businesses can expect overseas immersion and a final project.
 
 <a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/internationalisation-skills-talent-development-programme.html" target="_blank">Find out more</a>
 
@@ -364,19 +382,19 @@ No application is required. Receive 25% to 75% of the first $4,600 of gross mont
 
 #### Kickstart Fund (KF)
 
-The KF supports the creation and test-bedding of innovative lifestyle concepts and events with strong tourism potential and scalability, adding to existing tourism software and enhancing the vibrancy in Singapore. 
+The KF supports the creation and test-bedding of innovative lifestyle concepts and events with strong tourism potential and scalability, adding to existing tourism software and enhancing the vibrancy in Singapore.
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/kickstart-fund-kf.html" target="_blank">Find out more</a>
 
 #### Leisure Events Fund (LEF)
 
-The LEF supports the development of world-class, differentiated, celebrated leisure event experiences in Singapore, to delivery key tourism outcomes and establish Singapore as one of the world's most vibrant cities. 
+The LEF supports the development of world-class, differentiated, celebrated leisure event experiences in Singapore, to delivery key tourism outcomes and establish Singapore as one of the world's most vibrant cities.
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/leisure-events-fund-lef.html" target="_blank">Find out more</a>
 
 #### Local Enterprise and Association Development (LEAD) Programme
 
-TACs keen to drive capability development and internationalisation projects can tap on LEAD programme. LEAD supports up to 70% of eligible costs for qualifying projects. 
+TACs keen to drive capability development and internationalisation projects can tap on LEAD programme. LEAD supports up to 70% of eligible costs for qualifying projects.
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-partners/local-enterprise-and-association-development-programme" target="_blank">Find out more</a>
 
@@ -418,7 +436,7 @@ OMNI is a joint initiative between SIMTech and SSG to train in-house champions t
 
 #### Part-Time Re-employment Grant (PTRG)![b2021](/images/budget2021/budget2021.png)
 
-Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it. 
+Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it.
 
 <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
 
@@ -492,13 +510,13 @@ EMA rolls out competitive grant calls which aims to address industry-relevant ch
 
 #### Senior Employment Credit
 
-The Senior Employment Credit provides a wage offset to employers who employ older Singaporean workers. 
+The Senior Employment Credit provides a wage offset to employers who employ older Singaporean workers.
 
 <a href="https://www.mom.gov.sg/about-us/budget-highlights-2020" target="_blank">Find out more</a>
 
 #### Senior Worker Early Adopter Grant (SWEAG)![b2021](/images/budget2021/budget2021.png)
 
-Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes. 
+Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes.
 
 <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
 
@@ -510,7 +528,7 @@ This programme aims to support lifestyle sector enterprises in their transformat
 
 #### SkillsFuture Enterprise Credit (SFEC)
 
-The SFEC aims to encourage employers to invest in both enterprise and workforce transformation. Eligible employers will receive $10,000 credit to cover up to 90% out-of-pocket expenses on qualifying costs. 
+The SFEC aims to encourage employers to invest in both enterprise and workforce transformation. Eligible employers will receive $10,000 credit to cover up to 90% out-of-pocket expenses on qualifying costs.
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/skillsfuture-enterprise-credit" target="_blank">Find out more</a>
 
@@ -528,7 +546,7 @@ The SCPG encourages film talent in Singapore and SEA region to jointly produce q
 
 #### Special Situation Fund for Startups (SSFS)
 
-Provide financing support for promising startups based in Singapore, by investing private sector co-investors on a 1:1 basis. 
+Provide financing support for promising startups based in Singapore, by investing private sector co-investors on a 1:1 basis.
 
 <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">Find out more</a>
 
@@ -600,6 +618,6 @@ BCA co-funds up to 90% of selected training courses and skills assessments for f
 
 #### Work-Study Programme (WSP)
 
-The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school. 
+The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school.
 
 <a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank">Find out more</a>
