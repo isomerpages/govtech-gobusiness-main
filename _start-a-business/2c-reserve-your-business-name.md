@@ -104,7 +104,7 @@ accordion-new:
 
 ## Step 3: Reserve your business name
 
-Decide on a name for your business and use our [Start a Business e-Adviser](https://eadviser.g2b.sg/startabusiness){:target="_blank"} to check if it's available as a business name, trade mark, web domain and social media username.
+Decide on a name for your business and use our Start a Business e-Adviser to check if it's available as a business name, trade mark, web domain and social media username.
 
 {% include button.html text="Get Started with e-Adviser" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
 
