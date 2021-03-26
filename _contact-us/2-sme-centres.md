@@ -5,19 +5,22 @@ permalink: /contact-us/sme-centres/
 
 ## Contact our SME Centres
 
-Make an appointment with Business Advisors from any of the SME Centres for assistance.
+Our Business Advisors at the SME Centres are here to support you every step of the way. Make an appointment with them to identify solutions to overcome challenges and ways to grow your business.
 
 <p>
-{% include button.html text="Make an Appointment" src="
+{% include button.html text="Make an Appointment with the SME Centre" src="
 https://partnersengage.enterprisesg.gov.sg/book-appointment
 " type="primary" %}
-</p>
+
+----
 
 **Operating Hours:**
-<br>Monday - Friday, 9am to 5.30pm
-<br>** Closed on public holidays*
+<br>Monday - Friday, 9am to 5.30pm (closed on public holidays)
+<br>
 
 {% include panels-smecentres.html panels=site.data.sme_centres %}
+
+----
 
 #### GlobalConnect@SBF
 
