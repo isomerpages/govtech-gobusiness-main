@@ -14,7 +14,7 @@ https://partnersengage.enterprisesg.gov.sg/book-appointment
 ----
 
 **Operating Hours**
-<br>Monday - Friday, 9am to 5.30pm (closed on public holidays)
+<br>Mondays to Fridays, 9am to 5.30pm (closed on public holidays)
 <br>
 
 {% include panels-smecentres.html panels=site.data.sme_centres %}
