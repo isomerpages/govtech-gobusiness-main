@@ -34,22 +34,56 @@
   link1: indriyanti_ismail@enterprisesg.gov.sg<br>vivian_sia@enterprisesg.gov.sg
 
 - title: Housing & Development Board (HDB)
-  description: HDB Hub<br>480 Lorong 6 Toa Payoh<br>Singapore 310480<br><br><b>For Commercial Properties Inquiry</b>
+  description: HDB Hub<br>480 Lorong 6 Toa Payoh<br>Singapore 310480<br><br><b>Commercial Properties Inquiry</b>
   link: 1800 866 3073
   link1: www.hdb.gov.sg/efeedback
 
 - title: Housing & Development Board (HDB)
-  description: HDB Hub<br>480 Lorong 6 Toa Payoh<br>Singapore 310480<br><br><b>For HDB Flats Inquiry</b>
+  description: HDB Hub<br>480 Lorong 6 Toa Payoh<br>Singapore 310480<br><br><b>HDB Flats Inquiry</b>
   link: 1800 225 5432
   link1: www.hdb.gov.sg/efeedback
 
 - title: Hotels Licensing Board (HLB)
-  description: Tourism Court<br>1 Orchard Spring Lane<br>Singapore 247729<br><br><b>For Hotel Licence Inquiry</b>
+  description: Tourism Court<br>1 Orchard Spring Lane<br>Singapore 247729<br><br><b>Hotel Licence Inquiry</b>
   link: +65 6736 6622
   link1: hlb_info@hlb.gov.sg
 
-- title: SME Centre@SouthWest
-  description: Located at South West Community<br>Development Council<br>The JTC Summit<br>8, Jurong Town Hall Road<br>#26-06, Singapore 609434
-  link: +65 6316 1616
-  link1: southwest@smecentre-smf.sg
-  link2: www.smecentre-smf.sg
+- title: Health Sciences Authority (HSA)
+  description: Health Sciences Authority<br>11 Outram Road<br>Singapore 169078<br><br><b>Tobacco Retail Licence Inquiry</b>
+  link: +65 6684 2031 / 2032
+  link1: hsa_trb@hsa.gov.sg
+
+- title: Infocomm and Media Development Authority Singapore (IMDA)
+  description: 10 Pasir Panjang Road<br>#03-01<br>Mapletree Business City<br>Singapore 117438
+  link: 1800 478 5478
+  link1: www.imda.gov.sg/feedback
+
+- title: Intellectual Property Office of Singapore (IPOS)
+  description: 1 Paya Lebar Link<br>#11-03<br>PLQ 1, Paya Lebar Quarter<br>Singapore 408533
+  link: +65 6339 8616
+  link1: ipos_pau@ipos.gov.sg
+
+- title: Inland Revenue Authority of Singapore (IRAS)
+  description: 55 Newton Road<br>Revenue House<br>Singapore 307987<br><br><b>The Comptroller of Property Tax - Appraiser Licensing</b>
+  link: +65 6351 2442 / 2413
+  link1: iras_pvs_tl2@iras.gov.sg
+
+- title: Land Transport Authority (LTA)
+  description: 1 Paya Lebar Link<br>#11-03<br>PLQ 1, Paya Lebar Quarter<br>Singapore 408533
+  link: 1800 - CALL LTA (1800 - 2255582)
+  link1: LTA_L1@lta.gov.sg<br>lta_bus_licence@lta.gov.sg
+
+- title: Ministry of Culture, Community and Youth (MCCY)
+  description: Old Hill Street Police Station<br>140 Hill Street<br>#01-01A, Singapore 179369
+  link: +65 6337 6597
+  link1: mccy_charities@mccy.gov.sg
+
+- title: Ministry of Home Affairs (MHA)
+  description: New Phoenix Park <br>28 Irrawaddy Road<br>Singapore 329560
+  link: +65 6478 1010
+  link1: MHA_FM_Permit@mha.gov.sg
+
+- title: Ministry of Law (MINLAW)
+  description: 45 Maxwell Road<br>#07-11 The URA Centre (East Wing)<br>Singapore 069118
+  link: 1800-CALL-LAW (1800 2255 529)
+  link1: www.mlaw.gov.sg/eservices/enquiry
