@@ -24,12 +24,12 @@
   link1: ema_erl@ema.gov.sg
 
 - title: Enterprise Singapore
-  description: Call Centre - Rice<br>230 Victoria Street<br>Level 9, Bugis Junction Office Tower<br>Singapore 188024
+  description: 230 Victoria Street<br>Level 9, Bugis Junction Office Tower<br>Singapore 188024<br><br><b>Call Centre - Rice</b>
   link: +65 6898 1800
   link1: angela_liew@enterprisesg.gov.sg<br>hayati_taib@enterprisesg.gov.sg<br>safinah_samah@enterprisesg.gov.sg
 
 - title: Enterprise Singapore
-  description: Call Centre - Rubber<br>230 Victoria Street<br>Level 9, Bugis Junction Office Tower<br>Singapore 188024
+  description: 230 Victoria Street<br>Level 9, Bugis Junction Office Tower<br>Singapore 188024<br><br><b>Call Centre - Rubber</b>
   link: +65 6898 1800
   link1: indriyanti_ismail@enterprisesg.gov.sg<br>vivian_sia@enterprisesg.gov.sg
 
@@ -43,11 +43,10 @@
   link: 1800 225 5432
   link1: www.hdb.gov.sg/efeedback
 
-- title: SME Centre@SouthEast
-  description: Located at South East Community<br>Development Council<br>1, Engku Aman Turn<br>#03-02, Wisma Geylang Serai<br>Singapore 408528
-  link: +65 6513 0388
-  link1: enquiries@smecentre-asme.sg
-  link2: www.smecentre-asme.sg
+- title: Hotels Licensing Board (HLB)
+  description: Tourism Court<br>1 Orchard Spring Lane<br>Singapore 247729<br><br><b>For Hotel Licence Inquiry</b>
+  link: +65 6736 6622
+  link1: hlb_info@hlb.gov.sg
 
 - title: SME Centre@SouthWest
   description: Located at South West Community<br>Development Council<br>The JTC Summit<br>8, Jurong Town Hall Road<br>#26-06, Singapore 609434
