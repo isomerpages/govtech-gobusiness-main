@@ -3,7 +3,7 @@ title: Agencies
 permalink: /contact-us/agencies/
 ---
 
-## Agency Contact
+##  Contact agencies
 
 If you have specific queries such as licensing policies, status of the licence approval and clarifications on the licence submission, you can contact the respective Government agencies directly.
 
