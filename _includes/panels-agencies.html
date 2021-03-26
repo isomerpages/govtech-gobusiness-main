@@ -39,12 +39,6 @@
         margin-top: -20px;
     }
 
-    .panel-link2 {
-        font-family: "HK Nova", sans-serif;
-        font-size: 18px;
-        margin-top: 10px;
-    }
-
     @media only screen and (max-width: 600px) {
         .panels {
             grid-template-columns: 100%;
@@ -61,7 +55,6 @@
         <!-- description to change the style -->
         <a class="panel-link" href="tel:{{ panel.link }}">{{ panel.link }}</a>
         <a class="panel-link1" href="mailto:{{ panel.link1 }}">{{ panel.link1 }}</a>
-        <a class="panel-link2" href="https://{{ panel.link2 }}" target="_blank">{{ panel.link2 }}</a>
     </div>
     {% endfor %}
 
