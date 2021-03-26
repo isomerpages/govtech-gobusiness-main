@@ -1,26 +1,25 @@
-- title: AVS
-  description: Animal & Veterinary Service,<br>a cluster of National Parks Board<br>Contact Centre
+- title: Animal & Veterinary Service (AVS)
+  description: 1 Cluny Road<br>Singapore Botanic Gardens<br>Singapore 259569
   link1: www.nparks.gov.sg/avs/feedback
-  link2:
+  link2: www.nparks.gov.sg/avs
 
-- title: CAAS
-  description: Civil Aviation Authority of Singapore
-  link1: caas_ansp_ols@caas.gov.sg
-  link2:
+- title: Civil Aviation Authority of Singapore (CAAS)
+  description: 60 Airport Boulevard<br>4th Storey, Terminal 2<br>Singapore Changi Airport<br>Singapore 819643
+  link1: +65 6542 1122
+  link2: caas_ansp_ols@caas.gov.sg
 
-- title: CNB
-  description: Central Narcotics Bureau
+- title: Central Narcotics Bureau (CNB)
+  description: Blk B, Police Cantonment Complex<br>393 New Bridge Road<br>Singapore 088763
   link1: +65 6557 3229
-  link2:
+  link2: www.cnb.gov.sg/contact-us
 
-- title: SME Centre@SMCCI
-  description: 15, Jalan Pinang<br>Singapore 199147
-  link: +65 6293 3822
-  link1: gadvisory@smecentre-smcci.sg
-  link2: www.smecentre-smcci.sg
+- title: Early Childhood Development Agency (ECDA)
+  description: 51 Cuppage Road<br>#08-01<br>Singapore 229469
+  link1: +65 6735 9213
+  link2: contact@ecda.gov.sg
 
-- title: SME Centre@SMF
-  description: SMF Building<br>2985, Jalan Bukit Merah<br>Singapore 159457
+- title: EMA
+  description: Energy Market Authority
   link: +65 6826 3020
   link1: query@smecentre-smf.sg
   link2: www.smecentre-smcci.sg
