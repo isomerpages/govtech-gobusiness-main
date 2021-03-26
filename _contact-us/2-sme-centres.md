@@ -7,9 +7,10 @@ permalink: /contact-us/sme-centres/
 
 Our Business Advisors at the SME Centres are here to support you every step of the way. Make an appointment with them to identify solutions to overcome challenges and ways to grow your business.
 
-{% include button.html text="Make an Appointment with the SME Centre" src="
+{% include button.html text="Make an appointment with the SME Centre" src="
 https://partnersengage.enterprisesg.gov.sg/book-appointment
 " type="primary" %}
+
 ----
 
 **Operating Hours:**
