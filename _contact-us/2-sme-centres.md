@@ -10,7 +10,6 @@ Our Business Advisors at the SME Centres are here to support you every step of t
 {% include button.html text="Make an Appointment with the SME Centre" src="
 https://partnersengage.enterprisesg.gov.sg/book-appointment
 " type="primary" %}
-
 ----
 
 **Operating Hours:**
