@@ -5,15 +5,15 @@ permalink: /contact-us/
 
 ## Get in touch with GoBusiness helpdesk
 
-**Tel:**
+**Tel**
 [6123 4567](tel:+6561234567)
 
-**Email:**
+**Email**
 [Enquiry@gobusiness.gov.sg](mailto:enquiry@gobusiness.gov.sg)    
 
-**Feedback:**
+**Feedback**
 [Submit now](https://go.gov.sg/tfei8m){:target="_blank"}    
 
-**Operating Hours:**
+**Helpdesk Operating Hours**
 <br>Mondays to Fridays, 8.30am to 5.30pm
 <br>(closed on public holidays)
