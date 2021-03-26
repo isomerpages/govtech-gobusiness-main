@@ -1,22 +1,22 @@
 - title: Animal & Veterinary Service (AVS)
   description: 1 Cluny Road<br>Singapore Botanic Gardens<br>Singapore 259569
-  link1: www.nparks.gov.sg/avs/feedback
-  link2: www.nparks.gov.sg/avs
+  link: www.nparks.gov.sg/avs/feedback
+  link1: www.nparks.gov.sg/avs
 
 - title: Civil Aviation Authority of Singapore (CAAS)
   description: 60 Airport Boulevard<br>4th Storey, Terminal 2<br>Singapore Changi Airport<br>Singapore 819643
-  link1: +65 6542 1122
-  link2: caas_ansp_ols@caas.gov.sg
+  link: +65 6542 1122
+  link1: caas_ansp_ols@caas.gov.sg
 
 - title: Central Narcotics Bureau (CNB)
   description: Blk B, Police Cantonment Complex<br>393 New Bridge Road<br>Singapore 088763
-  link1: +65 6557 3229
-  link2: www.cnb.gov.sg/contact-us
+  link: +65 6557 3229
+  link1: www.cnb.gov.sg/contact-us
 
 - title: Early Childhood Development Agency (ECDA)
   description: 51 Cuppage Road<br>#08-01<br>Singapore 229469
-  link1: +65 6735 9213
-  link2: contact@ecda.gov.sg
+  link: +65 6735 9213
+  link1: contact@ecda.gov.sg
 
 - title: EMA
   description: Energy Market Authority
