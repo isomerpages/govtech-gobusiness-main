@@ -83,7 +83,17 @@
   link: +65 6478 1010
   link1: MHA_FM_Permit@mha.gov.sg
 
-- title: Ministry of Law (MINLAW)
-  description: 45 Maxwell Road<br>#07-11 The URA Centre (East Wing)<br>Singapore 069118
-  link: 1800-CALL-LAW (1800 2255 529)
-  link1: www.mlaw.gov.sg/eservices/enquiry
+- title: Ministry of Education (MOE)
+  description: 1 North Buona Vista Drive<br>MOE Building, Podium Block<br>Singapore 138675
+  link: +65 6872 2220
+  link1: moe_pss@moe.gov.sg
+
+- title: Ministry of Manpower (MOM)
+  description: 1500 Bendemeer Road<br>Singapore 339946
+  link: +65 6438 5122
+  link1: services.mom.gov.sg/efeedback
+
+- title: Ministry of Manpower (MOM)
+  description: 1500 Bendemeer Road<br>Singapore 339946<br><br><b>Referral and placement returns from employment agencies</b>
+  link: +65 6438 5122
+  link1: mom_ea_data@mom.gov.sg
