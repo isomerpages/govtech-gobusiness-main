@@ -16,4 +16,4 @@ permalink: /contact-us/
 
 **Operating Hours:**
 <br>Mondays to Fridays, 8.30am to 5.30pm
-<br>Closed on public holidays
+<br>(closed on public holidays)
