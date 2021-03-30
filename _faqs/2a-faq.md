@@ -11,23 +11,24 @@ accordion-new:
     content:  |
       With GoBusiness, you can connect with various Government e-services and resources
       with the help of these features:
-      <br><br>
-      <b>e-Advisers</b>
-      <br>
+
+      **e-Advisers**
+
       Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over 4 e-Advisers <a href="/e-services" target="_blank">here</a> to help you use GoBusiness effectively.
-      <br><br>
-      <b>e-Service Navigator</b>
-      <br>
+
+      **e-Service Navigator**
+
       Over 300 Government e-services are at your fingertips with the e-Service Navigator. An online directory of e-services and resources, it's a fast and easy way to locate what your business needs at a glance.
-      <br><br>
-      <b>Guided Journey</b>
-      <br>
+
+      **Guided Journey**
+
       Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the food services industry. We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
 
   - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
     content:  |
-      All information and resources under GoBusiness Covid and Gov Assist are now
-      available on GoBusiness, and can be found here and here respectively.<br><br>At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass or CorpPass here.
+      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, and can be found here and here respectively.
+
+      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass or CorpPass here.
 
   - title: Is GoBusiness an official Singapore Government website?
     content:  |
