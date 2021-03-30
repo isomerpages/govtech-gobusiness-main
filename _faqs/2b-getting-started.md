@@ -17,7 +17,6 @@ accordion-new:
     content:  |
       GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or <a href="/contact-us/" target="_blank">contact us</a> for help.
 
-accordion-new2:
   - title: What is the change in the Corppass login process?
     content:  |     
       From 11 April 2021, the login process for Corppass will be changed to verify the user’s identity via Singpass first, before the user can proceed to access and transact with government digital services.
@@ -57,8 +56,5 @@ accordion-new2:
       After you have successfully logged in with Singpass, you will be presented with a list of the entities that you are authorised to transact on behalf of. You may select the entity you wish to transact for on this page.            
 ---
 
-#### Getting Started
+#### Getting started
 {% include accordion-new.html %}
-
-#### Use of Singpass for login
-{% include accordion-new2.html %}
