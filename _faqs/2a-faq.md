@@ -9,7 +9,7 @@ accordion-new:
     content: With GoBusiness, you can connect with various Government e-services and resources with the help of these features:
 
     **e-Advisers**
-    Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over 4 e-Advisers [here](/e-services/){:target="_blank"}  to help you use GoBusiness effectively.
+    Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over 4 e-Advisers <a href="/e-services" target="_blank">here</a> to help you use GoBusiness effectively.
 
     **e-Service Navigator**
     Over 300 Government e-services are at your fingertips with the e-Service Navigator. An online directory of e-services and resources, it's a fast and easy way to locate what your business needs at a glance.
