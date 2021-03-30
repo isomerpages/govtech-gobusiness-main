@@ -5,27 +5,23 @@ third_nav_title: General
 accordion-new:
   - title: What is GoBusiness?
     content: GoBusiness is an online platform to connect business owners to various Government e-services and resources. This includes applying for registering a business, applying for licences and grants, and more. Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
-
   - title: What are the features of GoBusiness?
     content: With GoBusiness, you can connect with various Government e-services and resources with the help of these features:
-
+    <br>
     <b>e-Advisers</b>
     Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over 4 e-Advisers <a href="/e-services" target="_blank">here</a> to help you use GoBusiness effectively.
-
+    <br>
     <b>e-Service Navigator</b>
     Over 300 Government e-services are at your fingertips with the e-Service Navigator. An online directory of e-services and resources, it's a fast and easy way to locate what your business needs at a glance.
-
+    <br>
     <b>Guided Journey</b>
     Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the food services industry. We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
-
   - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
     content: All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, and can be found here and here respectively.
-
+    <br>
     At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass or CorpPass here.
-
   - title: Is GoBusiness an official Singapore Government website?
-    content: Yes, GoBusiness is jointly developed by Ministry of Trade and Industry (MTI), Smart Nation and Digital Government Group (SNDGO), and GovTech. All Government agencies managing the e-services offered on GoBusiness were also involved in its development.
-    
+    content: Yes, GoBusiness is jointly developed by Ministry of Trade and Industry (MTI), Smart Nation and Digital Government Group (SNDGO), and GovTech. All Government agencies managing the e-services offered on GoBusiness were also involved in its development.  
   - title: Is GoBusiness an app I have to download?
     content: No, GoBusiness is currently an online portal that you can access with your web browser only.
 ---
