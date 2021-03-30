@@ -1,15 +1,35 @@
 ---
-title: About GoBusiness dashboard
+title: About
 permalink: /faqs/dashboard/
 third_nav_title: General
 accordion-new:
-  - title: I am not sure how to choose between the options on the GoBusiness homepage. Where can I get help?
-    content: <strong>Login with Singpass as an Individual</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Login with Corppass to Manage Corporate Transactions</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Start a New Business in Singapore</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.<br><br><strong>Run and Grow My Business</strong><br><br>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens.
-  - title: I was trying to access LicenceOne and got redirected here. Why?
-    content: LicenceOne has been rebranded and is now known as GoBusiness Licensing. The Self-Service feature has all the same functions as LicenceOne and we have also added the new Guided Journey feature to walk beginners through the licensing process.<br><br>This feature is currently only available for food & beverage businesses, and we are working on expanding this to other industries. In our mission to make the licensing process simpler, better and faster, we will be rolling out further enhancements to the Self-Service feature in phases.
-  - title: What should I do if I have not received an exemption? Am I allowed to continue operations?
-    content: Please suspend your business operations until you have received the official email notification of approval.<br><br>If there are conditions imposed on the approval of your general exemption, these conditions will be indicated in your official email notification of approval. Alternatively, you may login to <a href="https://www.gobusiness.gov.sg/exemptions" target="_blank">https://www.gobusiness.gov.sg/exemptions</a> to check your exemption application for any conditions to your approval.<br><br>You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.<br><br>If you are still not sure which option to select, please contact us <a href="/contact-us/">here</a>.
+  - title: What is GoBusiness?
+    content: GoBusiness is an online platform to connect business owners to various Government e-services and resources. This includes applying for registering a business, applying for licences and grants, and more. Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
+
+  - title: What are the features of GoBusiness?
+    content: With GoBusiness, you can connect with various Government e-services and resources with the help of these features:
+
+    **e-Advisers**
+    Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over 4 e-Advisers [here](/e-services/){:target="_blank"}  to help you use GoBusiness effectively.
+
+    **e-Service Navigator**
+    Over 300 Government e-services are at your fingertips with the e-Service Navigator. An online directory of e-services and resources, it's a fast and easy way to locate what your business needs at a glance.
+
+    **Guided Journey**
+    Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the food services industry. We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
+
+  - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
+    content: All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, and can be found here and here respectively.
+
+    At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass or CorpPass here.
+
+  - title: Is GoBusiness an official Singapore Government website?
+    content: Yes, GoBusiness is jointly developed by Ministry of Trade and Industry (MTI), Smart Nation and Digital Government Group (SNDGO), and GovTech. All Government agencies managing the e-services offered on GoBusiness were also involved in its development.
+
+
+  - title: Is GoBusiness an app I have to download?
+    content: No, GoBusiness is currently an online portal that you can access with your web browser only.
 ---
 
-#### About GoBusiness Dashboard
+#### About
 {% include accordion-new.html %}
