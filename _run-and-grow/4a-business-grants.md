@@ -1,7 +1,7 @@
 ---
 title: How to Apply
 permalink: /business-grants/
-third_nav_title: Business Grants
+third_nav_title: Business Grants Portal
 ---
 
 ## Business Grants
