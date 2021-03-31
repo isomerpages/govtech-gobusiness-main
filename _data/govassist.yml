@@ -1,19 +1,19 @@
-- title: <img src="/images/grow/Loans-Icon.png" width="60">
+- image: <img src="/images/grow/Loans-Icon.png">
   description: Loans
   link: /gov-assist/loans/
   description1: View all Loans
 
-- title: <img src="/images/grow/Grants-Icon.png" width="60">
+- image: <img src="/images/grow/Grants-Icon.png">
   description: Grants
   link: /gov-assist/grants/
   description1: View all Grants
 
-- title: <img src="/images/grow/Tax-Incentives-Icon.png" width="60">
+- image: <img src="/images/grow/Tax-Incentives-Icon.png">
   description: Tax Incentives
   link: /gov-assist/tax-incentives/
   description1: View all Tax Incentives
 
-- title: <img src="/images/grow/Toolkit-Programmes-Icon.png" width="60">
+- image: <img src="/images/grow/Toolkit-Programmes-Icon.png">
   description: Toolkits/Programmes
   link: /gov-assist/toolkits-programmes/
   description1: View all Toolkits/Programmes
