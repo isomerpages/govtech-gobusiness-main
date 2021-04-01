@@ -26,13 +26,14 @@ accordion-new:
       - Commencement date
       - Business address
       - Particulars of business owners and representatives (if applicable)
+
   - title: Register a Limited Partnership
     content: |
       Here's what you need to know in order to register a Limited Partnership.
 
       **Application fee**
       - $100.00 for one year or $160 for three years (inclusive of registration and renewal fee)
-      - Additional $40.00 for provision every Alternate Address (optional)
+      - Additional $40.00 for provision of each Alternate Address (optional)
 
       **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid.
@@ -50,6 +51,7 @@ accordion-new:
       - Commencement date
       - Business address
       - Particulars of business owners and representatives (if applicable)
+
   - title: Register a Limited Liability Partnership
     content: |
       Here's what you need to know in order to register a  Limited Liability Partnership (LLP).
@@ -74,6 +76,7 @@ accordion-new:
       - Commencement date
       - Business address
       - Particulars of business owners and representatives (if applicable)
+
   - title: Incorporate a Local Company
     content: |
       Here's what you need to know in order to incorporate a Local Company.
@@ -89,7 +92,7 @@ accordion-new:
       **Pre-requisites**
       - All position holders must be at least 18 years old
       - Must comprise of one local director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder, and residing in Singapore
-      - Must comprise of at least one director, one company secretary and one shareholder
+      - Must comprise of at least 1 director, 1 company secretary and 1 shareholder
       - All partners or authorised representatives must endorse the application before payment can be made
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
 
@@ -100,17 +103,6 @@ accordion-new:
 ---
 
 ## Step 4: Register your business
-
-#### Benefits of registering a business
-
-There are several benefits of registering a business with ACRA. Here are some of them:
-
-- The public can easily verify information about your business and its owners
-- The public can easily identify, find and transact with your business
-- You get to participiate in government tenders and secure intellectual property or patents for new products and technology
-- Your business gets access to Government funding, such as Enterprise Singapore grants
-
-In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
 
 #### How to register a business
 
@@ -132,4 +124,4 @@ A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-
 
 #### Filing Obligations
 
-There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA](/run-and-grow/annual-returns/) and [Tax Returns with IRAS](/run-and-grow/taxes-and-gst/).
+There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA](/run-and-grow/annual-returns/) and [Tax Returns Filing with IRAS](/run-and-grow/taxes-and-gst/).
