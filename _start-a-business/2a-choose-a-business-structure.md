@@ -10,15 +10,15 @@ accordion-new:
   - title: Partnerships
     content: |
       A Partnership is similar to a sole proprietorship, except it is formed by two or more partners (capped at 20).
-      <br>
+      
   - title: Limited Partnership (LP)
     content: |
       An LP is a partnership between a minimum of two partners, with at least one general partner and one limited partner and does not have a separate legal entity from the partners. A general partner is responsible for the actions of the LP and is liable for all its debts and obligations. A limited partner is not liable for the LP's debts and obligations beyond his agreed contribution, provided he does not take part in the management of the business.    
-      <br>
+
   - title: Limited Liability Partnership (LLP)
     content: |
       An LLP is a type of business structure in which two or more partners incorporate an entity separate from themselves. A partner of the LLP cannot be held personally liable for the actions of any other partners. Thus, every partner is personally responsible for any liabilities that arise from their own actions.
-      <br>
+
   - title: Local Company
     content: |
       A local company is a business entity incorporated in Singapore. A company has the right to own property, has perpetual succession and can sue or be sued in its own name. There are different types of companies. E.g: private company limited by shares, exempt private company, public company limited by shares and public company limited by guarantee. The most commonly chosen type in Singapore is the Private Limited Company.              
