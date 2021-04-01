@@ -2,15 +2,73 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
 
-#### **General Legal Information**
+## Terms of Use
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### 1 Introduction
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+1.1 These Terms of Use, as may be amended by us from time to time (these “**Terms**”), govern your access to and use of: 
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.---
-title: Terms Of Use
-permalink: /terms-of-use/
----
+(a)	GoBusiness Portal (“**GBP**”) website (accessible at https://www.gobusiness.gov.sg   or such other URL as may be specified by us from time to time) (the “**Website**”); 
+
+(b)	the services made available on or provided through the Website by us;
+
+(c)	the transactions carried out on or through the Website; and 
+
+(d)	any Content (as defined in Clause 2.1) made available on or accessible through the abovementioned Website, services and/or transactions, 
+
+(collectively, the “**Services**”). 
+
+Where an Account (as defined in Clause 2.1) is required for the access or use of any Services, these Terms also govern the creation, management and use of the Account and any reference to “Services” in these Terms will include the “Account”. For the avoidance of doubt, if you do not have access to or use an Account, references to Account in these Terms shall not be applicable to you.
+
+1.2 By accessing or using the Services, you acknowledge that you have read and understood these Terms and agreed to comply with and be legally bound by these Terms.  You must not access or use the Services if you do not accept any of these Terms.
+
+1.3 In these Terms, the words "**we**", "**our**" and "**us**" refer to the Government of Singapore.
+
+1.4 We may change, modify or supplement these Terms, at our sole discretion, from time to time by posting the changed, modified or supplemented Terms on or through the Website or through such other means as we may deem appropriate. Your continued access to or use of the Services after such changes, modifications, supplements or amendments have been made to these Terms will constitute your agreement to the changed, modified or supplemented version of these Terms.
+
+1.5 If you are accessing and using the Services or an Account on behalf of an Organisation (as defined in Clause 2.1), you represent and warrant that you have been validly authorised to (a) access and use the Services or that Account on behalf of the Organisation; and (b) agree to and bind the Organisation to these Terms. In such circumstances, any reference to “**you**” or “**your**” as used in these Terms shall include your Organisation.
+
+1.6 These Terms only govern the relationship between us and you. The dealings between you and any other third party are not governed by these Terms. The extent to which the Services or Account is used by you may be subject to Third Party Terms as described in clause 6.
+
+#### 2 Definitions and Interpretation
+
+2.1 In these Terms, unless the context otherwise requires:
+
+“Account” means a GBP account or a GBP subscription.
+
+“Content” means data, text, images, documents, sounds, codes, computer programs, software and databases that may be uploaded to, generated by, transmitted through or stored on the Services. 
+
+“Device” means a computer, laptop, mobile phone, smartphone, tablet, phablet or other device from which the Services or your Account may be accessed and used. 
+
+“GBP” has the meaning set out in Clause 1.1.
+
+“Guidelines” means any additional terms, notices, instructions, guidelines, operating rules, directions or policies with respect to the Services or an Account, as may be issued or amended by us from time to time. Any amended version of any Guidelines shall apply to you and you are deemed to have read, understood and accepted the same, from the date such Guidelines are published on the Website or notified to you, whichever is earlier. 
+
+“Intellectual Property Rights” means patents, registered and unregistered design rights, industrial design rights, copyright, trademarks, service marks, trade names, domain names, logos, database rights and all other intellectual property rights, whether existing now or in the future, which are capable of protection in any relevant country in the world. 
+
+“Losses” means all liabilities, losses, damages, expenses and costs, including any loss of profit, direct, indirect or consequential losses.   
+
+“Organisation” means a company, limited liability partnership, partnership, association or other entity or body corporate.
+
+“Personal data” has the meaning set out in the Personal Data Protection Act 2012 (No. 26 of 2012) and any subsidiary legislation made under it, as amended or revised from time to time.
+
+“Privacy Statement” has the meaning set out in Clause 12.1.
+
+“Remedy” has the meaning set out in Clause 19.2.
+
+“Statutory Board” means a body corporate established by or under written law to perform or discharge any public function under the supervisory charge of a Government ministry or organ of state. 
+
+“Services” has the meaning set out in Clause 1.1.
+
+“Terms” has the meaning set out in Clause 1.1.
+
+“Third Party” has the meaning set out in Clause 6.1.
+
+“Third Party Services” has the meaning set out in Clause 6.1.
+
+“Third Party Terms” has the meaning set out in Clause 6.1. 
+
+“Website” has the meaning set out in Clause 1.1. 
+
+“Your Content” has the meaning set out in Clause 7.1. 
