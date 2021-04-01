@@ -1,10 +1,10 @@
 ---
-title: Submit a business address
+title: Choose a business address
 permalink: /start-a-business/submit-a-business-address/
 third_nav_title: Key Steps to Start
 ---
 
-## Step 2: Submit a business address
+## Step 2: Choose a business address
 
 A business address is the place where you carry out your business. A P.O. Box address cannot be used as a business address.
 

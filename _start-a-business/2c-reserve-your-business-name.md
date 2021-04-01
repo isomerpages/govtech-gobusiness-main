@@ -109,7 +109,7 @@ accordion-new:
 
 Decide on a name for your business and use our e-Adviser for Starting a Business to check if there are similar business names or trade marks, and if it's available as a web domain name and social media username.
 
-{% include button.html text="Find out with our e-Adviser for Starting a Business" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
+{% include button.html text="Go to e-Adviser" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
 
 Avoid names which are:
 - identical to another business' name
