@@ -10,6 +10,9 @@ Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Go
 
 Here’s what you can do with GoBusiness:
 
+#### Find Government e-Services
+Find what you need fast and easily. Over 300 Government e-services are at your fingertips with our [e-Service Navigator](/e-services/), a directory to help make your search quick and simple. 
+
 #### Apply for licences
 Apply for the licences and permits you need from multiple government agencies, with just one application. For new business owners, the Guided Journey feature takes you through a step-by-step process to find out the licences you need, and apply for them. This feature is currently for food services only.
 
