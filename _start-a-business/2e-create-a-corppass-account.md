@@ -1,14 +1,14 @@
 ---
-title: Create a CorpPass account
+title: Create a Corppass account
 permalink: /start-a-business/create-a-corppass-account/
 third_nav_title: Key Steps to Start
 ---
 
-## Step 5: Create a CorpPass account
+## Step 5: Create a Corppass account
 
-CorpPass is a single corporate digital identity that you require to transact with Singapore Government agencies, on behalf for businesses and other entities (eg: non-profit organisations and associations).
+Now that you've registered your business, the next thing you must have to transact with Singapore Government agencies is a Corppass account. This is a single corporate digital identity for your business.
 
-**With CorpPass, you can:**
+**With Corppass, you can:**
 - Manage users' access to digital services
 - Customise digital service access of individual users within the entity
 - Authorise third party service providers to transact on your behalf for selected digital services
