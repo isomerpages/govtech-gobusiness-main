@@ -1,34 +1,80 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en" class="has-navbar-fixed-top-widescreen">
 
 <head>
-    <meta charset="utf8">
-    <meta name="viewport"
-        content="width=device-width, user-scalable=yes, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="utf8" />
+    <meta
+        name="viewport"
+        content="width=device-width, user-scalable=yes, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="canonical" href="https://gobusiness.gov.sg/e-services/" />
-    <link rel="shortcut icon" href="/images/Gobiz_favicon.ico" type="image/x-icon">
-    <link rel='stylesheet'
-        href='https://d33wubrfki0l68.cloudfront.net/bundles/4ddb14de7d4c8ac2234ce8e29b63e37fb97b4f67.css' />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,600" crossorigin="anonymous">
-    <link type="application/atom+xml" rel="alternate" href="https://gobusiness.gov.sg/feed.xml"
+    <link
+        rel="shortcut icon"
+        href="/images/Gobiz_favicon.ico"
+        type="image/x-icon" />
+    <link
+        rel="stylesheet"
+        href="https://d33wubrfki0l68.cloudfront.net/bundles/4ddb14de7d4c8ac2234ce8e29b63e37fb97b4f67.css" />
+    <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Lato:400,600"
+        crossorigin="anonymous" />
+    <link
+        type="application/atom+xml"
+        rel="alternate"
+        href="https://gobusiness.gov.sg/feed.xml"
         title="GoBusiness Singapore" />
-    <script src="https://assets.dcube.cloud/scripts/wogaa.js" crossorigin="anonymous"></script>
-    <script crossorigin='anonymous'
-        src='https://d33wubrfki0l68.cloudfront.net/js/ec6ebfc3c6ea59a9286f810448ab3ac7fb791557/assets/js/facebook-pixel.js'></script>
-    <noscript><img height="1" width="1" style="display:none"
+    <script
+        src="https://assets.dcube.cloud/scripts/wogaa.js"
+        crossorigin="anonymous"></script>
+    <script
+        crossorigin="anonymous"
+        src="https://d33wubrfki0l68.cloudfront.net/js/ec6ebfc3c6ea59a9286f810448ab3ac7fb791557/assets/js/facebook-pixel.js"></script>
+    <noscript><img
+            height="1"
+            width="1"
+            style="display: none"
             src="https://www.facebook.com/tr?id=688926055194344&ev=PageView&noscript=1" /></noscript>
-    <script crossorigin='anonymous'
-        src='https://d33wubrfki0l68.cloudfront.net/js/486e7bceaa02d2b37262e20a33271c051f622988/assets/js/linkedin-insights.js'></script>
-    <noscript><img height="1" width="1" style="display:none"
+    <script
+        crossorigin="anonymous"
+        src="https://d33wubrfki0l68.cloudfront.net/js/486e7bceaa02d2b37262e20a33271c051f622988/assets/js/linkedin-insights.js"></script>
+    <noscript><img
+            height="1"
+            width="1"
+            style="display: none"
             src="https://px.ads.linkedin.com/collect/?pid=918155&fmt=gif" /></noscript>
     <title>e-Services</title>
 </head>
 
 <body>
     <style>
+        .primary-btn {
+            font-family: hknova-regular;
+            font-weight: bold;
+            padding: 12px 24px;
+            background-color: #037e8a;
+            border-radius: 3px;
+            color: #ffffff;
+            border: 1px solid #037e8a;
+            font-size: 16px;
+            line-height: 24px;
+            cursor: pointer;
+        }
+
+        .primary-btn:hover {
+            background-color: #026770;
+        }
+
+        .primary-btn:active {
+            background-color: #025B63;
+        }
+
+        .primary-btn:focus {
+            outline: 2px solid #1C8B95;
+        }
+
         #main-content {
-            background-color: #F9FAFA;
+            background-color: #f9fafa;
         }
 
         .panels-title-container {
@@ -41,15 +87,17 @@
             font-family: "hknova-regular", sans-serif;
             font-style: normal;
             font-weight: 600;
-            font-size: 54px;
-            line-height: 60px;
-            letter-spacing: -1.5px;
+            font-size: 48px;
+            line-height: 52px;
+            letter-spacing: -1px;
         }
 
         .panels {
             display: grid;
             grid-gap: 20px;
             grid-template-columns: repeat(3, 1fr);
+            max-width: fit-content;
+            margin: 0 auto;
         }
 
         .panel {
@@ -59,8 +107,8 @@
                 0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
                 0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
             border-radius: 5px;
-            width: auto;
-            min-height: 306px;
+            width: 366px;
+            height: 360px;
             padding: 20px;
         }
 
@@ -70,12 +118,12 @@
             display: grid;
             grid-template-columns: 1fr;
             justify-items: center;
-            row-gap: 13px;
+            row-gap: 8px;
         }
 
         .panel-header-icon {
-            height: 40px;
-            width: 40px;
+            height: 80px;
+            width: 80px;
         }
 
         .panel-header-text {
@@ -86,14 +134,15 @@
             line-height: 28px;
             color: #313840 !important;
             margin-top: 0 !important;
+            margin-bottom: 20px !important;
         }
 
         /* Panel content */
 
         .panel-content {
             display: flex;
-            margin: 18px 0;
-            align-items: center;
+            margin-bottom: 10px;
+            align-items: baseline;
         }
 
         .panel-content-info-container {
@@ -112,13 +161,37 @@
         }
 
         .right-arrow {
-            height: 16px;
-            width: 16px !important;
+            height: 13.64px;
+            width: 7.53px !important;
+            margin: unset !important;
+        }
+
+        .login {
+            height: 14px;
+            width: 13.48px !important;
             margin: unset !important;
         }
 
         .panel-content-links {
             margin: 0 0 0 12.24px !important;
+            color: #2A6EBB !important;
+            text-decoration: none !important;
+            font-size: 16px;
+            line-height: 24px !important;
+        }
+
+        .panel-content-links:hover {
+            text-decoration-line: underline !important;
+            color: #084E8A !important;
+        }
+
+        .panel-content-links:visited {
+            color: #89579B !important;
+        }
+
+        .panel-content-links:visited:hover {
+            text-decoration-line: underline;
+            color: #521B88 !important;
         }
 
         /* Tags */
@@ -143,40 +216,38 @@
             margin-bottom: 0 !important;
         }
 
-        /* Call to action */
-
-        .cta-container {
-            margin-top: 76px;
-            display: grid;
-            grid-template-columns: 1fr;
-            justify-items: center;
+        .bp-footer {
+            background-color: #313840 !important;
         }
 
-        .cta-text {
-            font-family: "hknova-regular", sans-serif;
-            font-style: normal;
-            font-weight: 700;
-            font-size: 18px;
-            line-height: 28px;
-            text-align: center;
-            color: #313840;
-            max-width: 517px;
+        .underline {
+            margin-left: 0 !important;
+            text-decoration: underline !important;
         }
 
-        .cta-btn {
-            background: #037e8a;
-            border-radius: 3px;
-            padding: 12px 24px;
-            font-family: "hknova-regular", sans-serif;
-            font-style: normal;
-            font-weight: 600;
-            font-size: 16px;
-            line-height: 24px;
-            color: white;
-            border: 0;
+        .break-mobile {
+            display: none;
+            z-index: 2;
+            position: relative;
         }
 
-        @media only screen and (max-width: 600px) {
+
+        @media only screen and (max-width: 1279px) {
+            .panels {
+                grid-template-columns: 1fr 1fr;
+                justify-items: center;
+            }
+
+            .panel {
+                width: 366px;
+            }
+
+            .break-mobile {
+                display: block;
+            }
+        }
+
+        @media only screen and (max-width: 799px) {
             .panels {
                 grid-template-columns: 1fr;
                 justify-items: center;
@@ -190,13 +261,21 @@
 
     <div class="masthead-container" id="navbar" onclick>
         <section class="bp-section bp-masthead">
-            <div class="bp-container ">
+            <div class="bp-container">
                 <div class="row is-multiline is-vcentered">
                     <div class="col is-9-desktop is-12-touch has-text-centered-touch">
-                        <a href="https://www.gov.sg" alt="Singapore Government" target="_blank" rel="noreferrer">
-                            <span class="sgds-icon sgds-icon-sg-crest is-size-5" style="color:red"></span>
+                        <a
+                            href="https://www.gov.sg"
+                            alt="Singapore Government"
+                            target="_blank"
+                            rel="noreferrer">
+                            <span
+                                class="sgds-icon sgds-icon-sg-crest is-size-5"
+                                style="color: red"></span>
                             <span class="is-text">
-                                A Singapore Government Agency Website<b> [NOTE: THIS IS A STAGING WEBSITE] </b></span>
+                                A Singapore Government Agency Website<b>
+                                    [NOTE: THIS IS A STAGING WEBSITE]
+                                </b></span>
                         </a>
                     </div>
                 </div>
@@ -204,45 +283,63 @@
         </section>
         <nav class="navbar is-transparent">
             <div class="bp-container">
-
                 <div class="navbar-brand">
                     <a class="navbar-item" href="/">
-                        <img src="https://d33wubrfki0l68.cloudfront.net/8527e249225f90f6b92db72f17f30b1ac72d03cc/b8be7/images/gobiz_logo_sg.svg"
-                            alt="Homepage" style="max-height:75px;max-width:200px;height:auto;width:auto;">
+                        <img
+                            src="https://d33wubrfki0l68.cloudfront.net/8527e249225f90f6b92db72f17f30b1ac72d03cc/b8be7/images/gobiz_logo_sg.svg"
+                            alt="Homepage"
+                            style="
+                      max-height: 75px;
+                      max-width: 200px;
+                      height: auto;
+                      width: auto;
+                    " />
                     </a>
-                    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+                    <div
+                        class="navbar-burger burger"
+                        data-target="navbarExampleTransparentExample">
                         <span></span>
                         <span></span>
                         <span></span>
                     </div>
                 </div>
-                <div id="navbarExampleTransparentExample" class="bp-container is-fluid margin--none navbar-menu">
+                <div
+                    id="navbarExampleTransparentExample"
+                    class="bp-container is-fluid margin--none navbar-menu">
                     <div class="navbar-start">
                         <div class="navbar-item is-hidden-widescreen is-search-bar">
                             <form action="/search/" method="get">
                                 <div class="field has-addons">
                                     <div class="control has-icons-left is-expanded">
-                                        <input class="input is-fullwidth" id="search-box-mobile" type="text"
-                                            placeholder="What are you looking for?" name="query">
+                                        <input
+                                            class="input is-fullwidth"
+                                            id="search-box-mobile"
+                                            type="text"
+                                            placeholder="What are you looking for?"
+                                            name="query" />
                                         <span class="is-large is-left">
                                             <i class="sgds-icon sgds-icon-search search-bar"></i>
                                         </span>
-
                                     </div>
                                 </div>
                             </form>
                         </div>
                         <div class="navbar-item has-dropdown is-hoverable">
-                            <a href="/start-a-business/"
-                                class="navbar-link is-uppercase">Start Business</a>
+                            <a href="/start-a-business/" class="navbar-link is-uppercase">Start Business</a>
                             <div class="navbar-dropdown">
                                 <a href="/start-a-business/" class="navbar-item sub-link">Overview</a>
-                                <a href="/start-a-business/choose-a-business-structure/"
+                                <a
+                                    href="/start-a-business/choose-a-business-structure/"
                                     class="navbar-item sub-link">Key Steps to Start a Business</a>
-                                <a href="/start-a-business/hire-employees/" class="navbar-item sub-link">Next Steps to
-                                    Consider</a>
+                                <a
+                                    href="/start-a-business/hire-employees/"
+                                    class="navbar-item sub-link">Next Steps to Consider</a>
+                                <a
+                                    href="/start-a-business/faqs/"
+                                    class="navbar-item sub-link">FAQs</a>
                             </div>
-                            <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
+                            <div
+                                class="selector is-hidden-touch is-hidden-desktop-only"></div>
                         </div>
                         <div class="navbar-item has-dropdown is-hoverable">
                             <a href="/run-and-grow/" class="navbar-link is-uppercase">Run and Grow Business</a>
@@ -251,53 +348,76 @@
                                 <a href="/gov-assist/" class="navbar-item sub-link">Government Assistance</a>
                                 <a href="/business-grants/" class="navbar-item sub-link">Business Grants</a>
                                 <a href="/licences/" class="navbar-item sub-link">Licences and Permits</a>
-                                <a href="/run-and-grow/taxes-and-gst/" class="navbar-item sub-link">Taxes, GST &
-                                    Customs</a>
+                                <a
+                                    href="/run-and-grow/taxes-and-gst/"
+                                    class="navbar-item sub-link">Taxes, GST & Customs</a>
                                 <a href="/gebiz-alerts/" class="navbar-item sub-link">GeBIZ Alerts</a>
                             </div>
-                            <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
+                            <div
+                                class="selector is-hidden-touch is-hidden-desktop-only"></div>
                         </div>
                         <div class="navbar-item has-dropdown is-hoverable">
                             <a href="/covid/" class="navbar-link is-uppercase">Covid-19</a>
                             <div class="navbar-dropdown">
                                 <a href="/covid/" class="navbar-item sub-link">Overview</a>
                                 <a href="/permittedlist/" class="navbar-item sub-link">Permitted Services</a>
-                                <a href="/safemanagement/general/" class="navbar-item sub-link">Safe Management
-                                    Requirements</a>
-                                <a href="/supportschemes/general"
-                                    class="navbar-item sub-link">Supporting Our Businesses</a>
-                                <a href="/faq/general"
-                                    class="navbar-item sub-link">FAQs</a>
+                                <a
+                                    href="/safemanagement/general/"
+                                    class="navbar-item sub-link">Safe Management Requirements</a>
+                                <a
+                                    href="/safemanagement/sector/"
+                                    class="navbar-item sub-link">Sector Specific Requirements</a>
+                                <a
+                                    href="/safemanagement/safedigital/"
+                                    class="navbar-item sub-link">Digital Solutions for Safe Management</a>
+                                <a href="/guides/" class="navbar-item sub-link">Guides</a>
+                                <a href="/supportschemes/immediateschemes/" class="navbar-item sub-link">Financial
+                                    Support</a>
+                                <a href="/supportschemes/manpowersupport/" class="navbar-item sub-link">Manpower
+                                    Support</a>
+                                <a href="/supportschemes/digitalsupport/" class="navbar-item sub-link">Digital
+                                    Support</a>
+                                <a href="/supportschemes/fnbsupport/" class="navbar-item sub-link">Sector-Specific
+                                    Support</a>
+                                <a href="/faq/general" class="navbar-item sub-link">FAQs</a>
                             </div>
-                            <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
+                            <div
+                                class="selector is-hidden-touch is-hidden-desktop-only"></div>
                         </div>
                         <div class="navbar-item">
-                            <a href="/e-services/" class="navbar-item is-uppercase"
-                                style="height:100%;width:100%;">E-Services</a>
-                            <div class="selector is-hidden-touch is-hidden-desktop-only active"></div>
+                            <a
+                                href="/e-services/"
+                                class="navbar-item is-uppercase"
+                                style="height: 100%; width: 100%">E-Services</a>
+                            <div
+                                class="selector is-hidden-touch is-hidden-desktop-only"></div>
                         </div>
                         <div class="navbar-item has-dropdown is-hoverable">
-                            <a href="/about-us/"
-                                class="navbar-link is-uppercase">Who We Are</a>
+                            <a href="/about-us/" class="navbar-link is-uppercase">Who We Are</a>
                             <div class="navbar-dropdown">
-                                <a href="/about-us/" class="navbar-item sub-link">About
-                                    Us</a>
+                                <a href="/about-us/" class="navbar-item sub-link">About Us</a>
                                 <a href="/news-and-media/" class="navbar-item sub-link">News and Media</a>
                                 <a href="/contact-us/" class="navbar-item sub-link">Contact Us</a>
-                                <a href="/faq/about/"
-                                    class="navbar-item sub-link">FAQs</a>
+                                <a href="/faq/about/" class="navbar-item sub-link">FAQs</a>
                             </div>
-                            <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
+                            <div
+                                class="selector is-hidden-touch is-hidden-desktop-only"></div>
                         </div>
                         <div class="navbar-item">
-                            <a href="" class="navbar-item is-uppercase" style="height:100%;width:100%;">Login</a>
+                            <a href="#" class="navbar-item is-uppercase break-mobile"
+                                style="height:100%;width:100%;">Login</a>
                             <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
                         </div>
                     </div>
 
                     <div class="navbar-end is-hidden-touch is-hidden-desktop-only">
                         <div class="navbar-item">
-                            <a class="bp-button is-text is-large" style="text-decoration: none"
+                            <a href="#"><button class="primary-btn">Log In</button></a>
+                        </div>
+                        <div class="navbar-item">
+                            <a
+                                class="bp-button is-text is-large"
+                                style="text-decoration: none"
                                 id="search-activate">
                                 <span class="sgds-icon sgds-icon-search is-size-4"></span>
                             </a>
@@ -307,21 +427,32 @@
             </div>
         </nav>
 
-        <div class="bp-container hide is-hidden-touch is-hidden-desktop-only search-bar" id="search-bar">
+        <div
+            class="bp-container hide is-hidden-touch is-hidden-desktop-only search-bar"
+            id="search-bar">
             <div class="row margin--top--sm margin--bottom--sm is-gapless">
                 <div class="col">
                     <form action="/search/" method="get">
                         <div class="field has-addons">
                             <div class="control has-icons-left is-expanded">
-                                <input class="input is-fullwidth is-large" id="search-box" type="text"
-                                    placeholder="What are you looking for?" name="query" autocomplete="off">
+                                <input
+                                    class="input is-fullwidth is-large"
+                                    id="search-box"
+                                    type="text"
+                                    placeholder="What are you looking for?"
+                                    name="query"
+                                    autocomplete="off" />
                                 <span class="is-large is-left">
-                                    <i class="sgds-icon sgds-icon-search is-size-4 search-bar"></i>
+                                    <i
+                                        class="sgds-icon sgds-icon-search is-size-4 search-bar"></i>
                                 </span>
                             </div>
                             <div class="control">
-                                <button type="submit"
-                                    class="bp-button is-secondary is-medium has-text-white search-button">SEARCH</button>
+                                <button
+                                    type="submit"
+                                    class="bp-button is-secondary is-medium has-text-white search-button">
+                                    SEARCH
+                                </button>
                             </div>
                         </div>
                     </form>
@@ -334,203 +465,323 @@
             <div class="bp-container content padding--top--lg padding--bottom--xl">
                 <div class="row">
                     <div class="col print-content">
-                        <div class="panels-title-container" style="margin-top: 32px;">
+                        <div class="panels-title-container" style="margin-top: 32px">
                             <h2 class="panels-title">Quick Links</h2>
                         </div>
                         <div class="panels">
-
                             <div class="panel">
-                                <h3 class="panel-header-text">Guides for Businesses</h3>
+                                <div class="panel-header-container">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/signpost.svg"
+                                        alt="" />
+                                    <h3 class="panel-header-text">Guides for Businesses</h3>
+                                </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
+                                    <a class="panel-content-links" href="#">Business Structure e-Adviser</a>
+                                </div>
+                                <div class="panel-content">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Start A Business e-Adviser</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
-                                    <a class="panel-content-links" href="#">Licensing e-Adviser</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Food Services Licence Guided Journey</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">GovAssist e-Adviser</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
-                                    <a class="panel-content-links" href="#">Large Events e-Adviser</a>
-                                    <div class="tag">
-                                        <h4 class="tag-text">New!</h4>
-                                    </div>
                                 </div>
                             </div>
 
                             <div class="panel">
-                                <h3 class="panel-header-text">Popular Resources</h3>
-                                <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
-                                    <a class="panel-content-links" href="#">Manpower Exemption Form</a>
+                                <div class="panel-header-container">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/popular.svg"
+                                        alt="" />
+                                    <h3 class="panel-header-text">Popular Resources</h3>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
+                                    <a class="panel-content-links" href="#">General Exemptions Form (Covid-19)</a>
+                                </div>
+                                <div class="panel-content">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
+                                    <a class="panel-content-links" href="#">Permissions and Manpower Exemption Form
+                                        (Covid-19)</a>
+                                </div>
+                                <div class="panel-content">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Productivity Solutions Grant Listing</a>
                                 </div>
                             </div>
 
                             <div class="panel">
-                                <h3 class="panel-header-text">Licences and Permits</h3>
+                                <div class="panel-header-container">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/licences.svg"
+                                        alt="" />
+                                    <h3 class="panel-header-text">Licences and Permits</h3>
+                                </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="login"
+                                        src="/images/login.svg"
+                                        alt="login" />
+                                    <a class="panel-content-links" href="#">Apply for Licences</a>
+                                </div>
+                                <div class="panel-content">
+                                    <img
+                                        class="login"
+                                        src="/images/login.svg"
+                                        alt="login" />
                                     <a class="panel-content-links" href="#">Cancel or Renew Licences</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Browse All Licences</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
-                                    <a class="panel-content-links" href="#">Find Licence by Sector</a>
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
+                                    <a class="panel-content-links" href="#">Browse By Sector</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">For New Food Service Business Owners</a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="panels-title-container">
-                            <h2 class="panels-title">All e-Services for Businesses</h2>
+                            <h2 class="panels-title">e-Services for Businesses</h2>
                         </div>
 
                         <div class="panels">
                             <div class="panel">
                                 <div class="panel-header-container">
-                                    <img class="panel-header-icon" src="/images/business-icon.svg" alt="">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/new business.svg"
+                                        alt="" />
                                     <h3 class="panel-header-text">New Business Owners</h3>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
-                                    <a class="panel-content-links" href="#">Business Registration Matters</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Essential Business Regulations</a>
                                 </div>
+                                <div class="panel-content">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
+                                    <a class="panel-content-links" href="#">Registering a Business</a>
+                                </div>
                                 <div class="panel-content-info-container">
-                                    <p class="panel-content-info-text">View our <a style="margin-left: 0 !important;"
-                                            class="panel-content-links"
-                                            href="#">Start
-                                            Guide</a> for step by step guidance on
-                                        starting a business</p>
+                                    <p class="panel-content-info-text">
+                                        View our
+                                        <a
+                                            class="panel-content-links underline"
+                                            href="#">Start Guide</a>
+                                        for step by step guidance on starting a business
+                                    </p>
                                 </div>
                             </div>
 
                             <div class="panel">
                                 <div class="panel-header-container">
-                                    <img class="panel-header-icon" src="/images/business-icon.svg" alt="">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/accounting.svg"
+                                        alt="" />
                                     <h3 class="panel-header-text">Accounting and Finance</h3>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Government Assistance for Businesses</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Taxes and GST</a>
                                 </div>
                             </div>
 
                             <div class="panel">
                                 <div class="panel-header-container">
-                                    <img class="panel-header-icon" src="/images/business-icon.svg" alt="">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/business admin.svg"
+                                        alt="" />
                                     <h3 class="panel-header-text">Business Administration</h3>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Change in Owner or Director</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Closing Down a Business</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Filing Annual Returns</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Managing your CorpPass Profile</a>
                                 </div>
                             </div>
 
                             <div class="panel">
                                 <div class="panel-header-container">
-                                    <img class="panel-header-icon" src="/images/business-icon.svg" alt="">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/employment.svg"
+                                        alt="" />
                                     <h3 class="panel-header-text">Employment Matters</h3>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">About Central Provident Fund (CPF)</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Employer Duties and Obligations</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Hiring an Employee</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Training Your Employees</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Workplace Safety</a>
                                 </div>
                             </div>
 
                             <div class="panel">
                                 <div class="panel-header-container">
-                                    <img class="panel-header-icon" src="/images/business-icon.svg" alt="">
+                                    <img
+                                        class="panel-header-icon"
+                                        src="/images/growth.svg"
+                                        alt="" />
                                     <h3 class="panel-header-text">Growth and Expansion</h3>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Business Opportunities</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Corporate Social Responsibility</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Getting Business Premises</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Trademarks and IP</a>
                                 </div>
                                 <div class="panel-content">
-                                    <img class="right-arrow" src="/images/right-arrow.svg" alt="right-arrow">
+                                    <img
+                                        class="right-arrow"
+                                        src="/images/right-arrow.svg"
+                                        alt="right-arrow" />
                                     <a class="panel-content-links" href="#">Training and Accreditation</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="cta-container">
-                    <p class="cta-text">
-                        Looking for a specific Government Agency or Ministry that offers business e-services?
-                    </p>
-                    <button class="cta-btn">Browse List of Government Agencies</button>
-                </div>
+            </div>
         </section>
     </div>
     <footer class="bp-footer top-section" onclick>
-        <div class="bp-container ">
+        <div class="bp-container">
             <div class="row">
                 <div class="col header padding--top--lg padding--bottom--lg">
                     <h5 class="sub-header has-text-white">
@@ -539,8 +790,9 @@
                 </div>
             </div>
             <div class="row is-top">
-                <div class="row col is-multiline is-hidden-mobile ">
-                    <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
+                <div class="row col is-multiline is-hidden-mobile">
+                    <div
+                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
                         <p class="sub-header">
                             <b>
                                 <a href="/start-a-business/" class="has-text-white">Start Business</a></b>
@@ -554,8 +806,13 @@
                         <p class="is-hidden-mobile">
                             <a href="/start-a-business/hire-employees/">Next Steps to Consider</a>
                         </p>
+                        <p class="is-hidden-mobile">
+                            <a
+                                href="/start-a-business/faqs/">FAQs</a>
+                        </p>
                     </div>
-                    <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
+                    <div
+                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
                         <p class="sub-header">
                             <b>
                                 <a href="/run-and-grow/" class="has-text-white">Run and Grow Business</a></b>
@@ -579,10 +836,10 @@
                             <a href="/gebiz-alerts/">GeBIZ Alerts</a>
                         </p>
                     </div>
-                    <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
+                    <div
+                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
                         <p class="sub-header">
-                            <b>
-                                <a href="/covid/" class="has-text-white">Covid-19</a></b>
+                            <b> <a href="/covid/" class="has-text-white">Covid-19</a></b>
                         </p>
                         <p class="is-hidden-mobile">
                             <a href="/covid/">Overview</a>
@@ -591,22 +848,45 @@
                             <a href="/permittedlist/">Permitted Services</a>
                         </p>
                         <p class="is-hidden-mobile">
-                            <a href="/safemanagement/general/">Safe Management Requirements</a>
+                            <a
+                                href="/safemanagement/general/">Safe Management Requirements</a>
                         </p>
                         <p class="is-hidden-mobile">
-                            <a href="/supportschemes/general">Supporting Our Businesses</a>
+                            <a
+                                href="/safemanagement/sector/">Sector Specific Requirements</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a
+                                href="/safemanagement/safedigital/">Digital Solutions for Safe Management</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/guides/">Guides</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/supportschemes/immediateschemes/">Financial Support</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/supportschemes/manpowersupport/">Manpower Support</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/supportschemes/digitalsupport/">Digital Support</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/supportschemes/fnbsupport/">Sector-Specific Support</a>
                         </p>
                         <p class="is-hidden-mobile">
                             <a href="/faq/general">FAQs</a>
                         </p>
                     </div>
-                    <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
+                    <div
+                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
                         <p class="sub-header">
                             <b>
                                 <a href="/e-services/" class="has-text-white">E-Services</a></b>
                         </p>
                     </div>
-                    <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
+                    <div
+                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
                         <p class="sub-header">
                             <b>
                                 <a href="/about-us/" class="has-text-white">Who We Are</a></b>
@@ -616,6 +896,12 @@
                         </p>
                         <p class="is-hidden-mobile">
                             <a href="/news-and-media/">News and Media</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/contact-us/">Contact Us</a>
+                        </p>
+                        <p class="is-hidden-mobile">
+                            <a href="/faq/about/">FAQs</a>
                         </p>
                     </div>
                 </div>
@@ -638,7 +924,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
+                <div
+                    class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
                     <ul>
                         <li class="is-inline-block-desktop-only">
                             <p>
@@ -652,15 +939,17 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none"></div>
+                <div
+                    class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none"></div>
             </div>
         </div>
     </footer>
     <footer class="bp-footer bottom-section" onclick>
-        <div class="bp-container ">
+        <div class="bp-container">
             <div class="row is-vcentered">
                 <div class="col padding--top--none padding--bottom--none">
-                    <div class="col divider padding--top--none padding--bottom--none"></div>
+                    <div
+                        class="col divider padding--top--none padding--bottom--none"></div>
                 </div>
             </div>
             <div class="row is-vcentered padding--top--sm">
@@ -676,35 +965,45 @@
                             <a href="/terms-of-use/">Terms of Use</a>
                         </li>
                         <li>
-                            <a href="https://www.isomer.gov.sg" target="_blank" rel="noreferrer">Built with Isomer</a>
+                            <a
+                                href="https://www.isomer.gov.sg"
+                                target="_blank"
+                                rel="noreferrer">Built with Isomer</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-                    <p>
-                        &copy; 2021
-                        GoBusiness</p>
+                <div
+                    class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">
+                    <p>&copy; 2021 GoBusiness</p>
                     <p class="last-updated">Last Updated 02 Mar 2021</p>
                 </div>
             </div>
         </div>
     </footer>
-    <script src=https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
-        integrity="sha256-0rguYS0qgS6L4qVzANq4kjxPLtvnp5nn2nB5G1lWRv4=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+        integrity="sha256-0rguYS0qgS6L4qVzANq4kjxPLtvnp5nn2nB5G1lWRv4="
+        crossorigin="anonymous"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"
         integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl"
         crossorigin="anonymous"></script>
-    <script crossorigin='anonymous'
-        src='https://d33wubrfki0l68.cloudfront.net/bundles/3ba9d1e792196ca70fed6857579125f9ee599d45.js'></script>
-    <script src="https://printjs-4de6.kxcdn.com/print.min.js" crossorigin="anonymous"></script>
-    <script crossorigin='anonymous'
-        src='https://d33wubrfki0l68.cloudfront.net/bundles/120e43f2e3e4ceed831618f4a926e573de0d6f0e.js'></script>
     <script
-        src='https://d33wubrfki0l68.cloudfront.net/js/a4d6e2f4c3f35b5d9024470834b472fab726fd4d/assets/js/google_analytics.js'></script>
+        crossorigin="anonymous"
+        src="https://d33wubrfki0l68.cloudfront.net/bundles/3ba9d1e792196ca70fed6857579125f9ee599d45.js"></script>
+    <script
+        src="https://printjs-4de6.kxcdn.com/print.min.js"
+        crossorigin="anonymous"></script>
+    <script
+        crossorigin="anonymous"
+        src="https://d33wubrfki0l68.cloudfront.net/bundles/120e43f2e3e4ceed831618f4a926e573de0d6f0e.js"></script>
+    <script
+        src="https://d33wubrfki0l68.cloudfront.net/js/a4d6e2f4c3f35b5d9024470834b472fab726fd4d/assets/js/google_analytics.js"></script>
     <script async src="https://www.google-analytics.com/analytics.js"></script>
-    <script async
-        src='https://d33wubrfki0l68.cloudfront.net/js/2b9481e08db4e419412d58e57ab251876949aaa8/assets/js/autotrack.js'></script>
+    <script
+        async
+        src="https://d33wubrfki0l68.cloudfront.net/js/2b9481e08db4e419412d58e57ab251876949aaa8/assets/js/autotrack.js"></script>
 </body>
 
 </html>

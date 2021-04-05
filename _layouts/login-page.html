@@ -1,32 +1,57 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en" class="has-navbar-fixed-top-widescreen">
 
 <head>
-  <meta charset="utf8">
-  <meta name="viewport"
-    content="width=device-width, user-scalable=yes, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=yes, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <link rel="canonical" href="https://gobusiness.gov.sg/e-services/" />
-  <link rel="shortcut icon" href="/images/Gobiz_favicon.ico" type="image/x-icon">
-  <link rel='stylesheet'
-    href='https://d33wubrfki0l68.cloudfront.net/bundles/4ddb14de7d4c8ac2234ce8e29b63e37fb97b4f67.css' />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,600" crossorigin="anonymous">
-  <link type="application/atom+xml" rel="alternate" href="https://gobusiness.gov.sg/feed.xml"
+  <link
+    rel="shortcut icon"
+    href="/images/Gobiz_favicon.ico"
+    type="image/x-icon" />
+  <link
+    rel="stylesheet"
+    href="https://d33wubrfki0l68.cloudfront.net/bundles/4ddb14de7d4c8ac2234ce8e29b63e37fb97b4f67.css" />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Lato:400,600"
+    crossorigin="anonymous" />
+  <link
+    type="application/atom+xml"
+    rel="alternate"
+    href="https://gobusiness.gov.sg/feed.xml"
     title="GoBusiness Singapore" />
-  <script src="https://assets.dcube.cloud/scripts/wogaa.js" crossorigin="anonymous"></script>
-  <script crossorigin='anonymous'
-    src='https://d33wubrfki0l68.cloudfront.net/js/ec6ebfc3c6ea59a9286f810448ab3ac7fb791557/assets/js/facebook-pixel.js'></script>
-  <noscript><img height="1" width="1" style="display:none"
+  <script
+    src="https://assets.dcube.cloud/scripts/wogaa.js"
+    crossorigin="anonymous"></script>
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/js/ec6ebfc3c6ea59a9286f810448ab3ac7fb791557/assets/js/facebook-pixel.js"></script>
+  <noscript><img
+      height="1"
+      width="1"
+      style="display: none"
       src="https://www.facebook.com/tr?id=688926055194344&ev=PageView&noscript=1" /></noscript>
-  <script crossorigin='anonymous'
-    src='https://d33wubrfki0l68.cloudfront.net/js/486e7bceaa02d2b37262e20a33271c051f622988/assets/js/linkedin-insights.js'></script>
-  <noscript><img height="1" width="1" style="display:none"
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/js/486e7bceaa02d2b37262e20a33271c051f622988/assets/js/linkedin-insights.js"></script>
+  <noscript><img
+      height="1"
+      width="1"
+      style="display: none"
       src="https://px.ads.linkedin.com/collect/?pid=918155&fmt=gif" /></noscript>
-  <title>e-Services</title>
+  <title>Login</title>
 </head>
 
 <body>
   <style>
+    #main-content {
+      background-color: #f9fafa;
+    }
+
     .page-title-container {
       margin-top: 0;
       text-align: center;
@@ -78,12 +103,12 @@
 
     #grants {
       grid-area: grants;
-      background-color: #096ee3;
+      background-color: #037e8a;
     }
 
     #gebiz {
       grid-area: gebiz;
-      background-color: #037e8a;
+      background-color: #096ee3;
     }
 
     #licence {
@@ -93,12 +118,13 @@
 
     .panel {
       display: grid;
-      grid-template-rows: 135px 1fr auto;
+      grid-template-rows: 90px 1fr auto;
       margin: 12px 0;
-      padding: 15px 15px 32px 15px;
+      padding: 32px 15px 32px 15px;
       background: #ffffff !important;
       box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
-        0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        0px 7px 25px rgba(22, 26, 29, 0.03),
+        0px 4px 12px rgba(22, 26, 29, 0.03);
       text-align: center;
     }
 
@@ -108,7 +134,8 @@
       line-height: 30px;
       text-align: center;
       color: #037e8a !important;
-      margin-top: 35px !important;
+      align-self: center;
+      margin-bottom: 0 !important;
     }
 
     .panel>p {
@@ -120,12 +147,16 @@
       margin-bottom: 27px !important;
     }
 
-    .panel>a>button {
+    a {
+      margin: 0 !important;
+    }
+
+    .secondary-btn {
       font-family: hknova-regular;
-      border: 1px solid #037e8a;
+      border: 1px solid #b3d8dc;
       box-sizing: border-box;
       border-radius: 3px;
-      background-color: #ffffff;
+      background-color: #fafdfd;
       font-weight: 600;
       font-size: 14px;
       line-height: 21px;
@@ -135,6 +166,20 @@
       width: 176px;
       margin: 0 auto;
       cursor: pointer;
+    }
+
+    .secondary-btn:hover {
+      border: 1px solid #026770;
+      color: #026770;
+    }
+
+    .secondary-btn:active {
+      border: 1px solid #025b63;
+      color: #025b63;
+    }
+
+    .secondary-btn:focus {
+      outline: 2px solid #1c8b95;
     }
 
     #biz {
@@ -155,6 +200,85 @@
 
     #others {
       grid-area: others;
+    }
+
+    footer {
+      padding: 0 !important;
+    }
+
+    .footer-t1-container,
+    .footer-t2-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 40px;
+      max-width: 1073px;
+      margin: 0 auto;
+    }
+
+    .footer-t1-container>div,
+    .footer-t2-container>div {
+      display: grid;
+      grid-template-columns: auto auto;
+      column-gap: 40px;
+    }
+
+    .footer-t1-container>div>p,
+    .footer-t2-container>div>p {
+      margin: 0 !important;
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #ffffff;
+    }
+
+    .footer-t2-container>div>p {
+      line-height: 15px !important;
+      color: #9da9b7;
+    }
+
+    .footer-t1-container>div>p>a,
+    .footer-t2-container>div>p>a {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #ffffff;
+    }
+
+    hr {
+      margin: 0 !important;
+      height: 1px;
+      background-color: #dbdfe4 !important;
+    }
+
+    .bp-footer {
+      background-color: #313840 !important;
+    }
+
+    .gobiz-sg {
+      font-family: hknova-regular;
+      font-weight: bold;
+      font-size: 32px;
+      line-height: 40px;
+      color: #ffffff !important;
+    }
+
+    .bp-footer>.footer-t1-container a {
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #ffffff;
+    }
+
+    .bp-footer>.footer-t2-container a {
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #9da9b7;
     }
 
     @media (max-width: 1290px) {
@@ -184,18 +308,42 @@
           "nparks"
           "others";
       }
+
+      .footer-t1-container {
+        flex-direction: column;
+        align-items: start;
+      }
+
+      .footer-t1-container>div {
+        margin-top: 30px;
+      }
+
+      .footer-t1-container>div,
+      .footer-t2-container>div {
+        display: grid;
+        grid-template-columns: auto;
+        row-gap: 20px;
+      }
     }
   </style>
 
   <div class="masthead-container" id="navbar" onclick>
     <section class="bp-section bp-masthead">
-      <div class="bp-container ">
+      <div class="bp-container">
         <div class="row is-multiline is-vcentered">
           <div class="col is-9-desktop is-12-touch has-text-centered-touch">
-            <a href="https://www.gov.sg" alt="Singapore Government" target="_blank" rel="noreferrer">
-              <span class="sgds-icon sgds-icon-sg-crest is-size-5" style="color:red"></span>
+            <a
+              href="https://www.gov.sg"
+              alt="Singapore Government"
+              target="_blank"
+              rel="noreferrer">
+              <span
+                class="sgds-icon sgds-icon-sg-crest is-size-5"
+                style="color: red"></span>
               <span class="is-text">
-                A Singapore Government Agency Website<b> [NOTE: THIS IS A STAGING WEBSITE] </b></span>
+                A Singapore Government Agency Website<b>
+                  [NOTE: THIS IS A STAGING WEBSITE]
+                </b></span>
             </a>
           </div>
         </div>
@@ -203,125 +351,48 @@
     </section>
     <nav class="navbar is-transparent">
       <div class="bp-container">
-
         <div class="navbar-brand">
           <a class="navbar-item" href="/">
             <img
               src="https://d33wubrfki0l68.cloudfront.net/8527e249225f90f6b92db72f17f30b1ac72d03cc/b8be7/images/gobiz_logo_sg.svg"
-              alt="Homepage" style="max-height:75px;max-width:200px;height:auto;width:auto;">
+              alt="Homepage"
+              style="
+                  max-height: 75px;
+                  max-width: 200px;
+                  height: auto;
+                  width: auto;
+                " />
           </a>
-          <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        </div>
-        <div id="navbarExampleTransparentExample" class="bp-container is-fluid margin--none navbar-menu">
-          <div class="navbar-start">
-            <div class="navbar-item is-hidden-widescreen is-search-bar">
-              <form action="/search/" method="get">
-                <div class="field has-addons">
-                  <div class="control has-icons-left is-expanded">
-                    <input class="input is-fullwidth" id="search-box-mobile" type="text"
-                      placeholder="What are you looking for?" name="query">
-                    <span class="is-large is-left">
-                      <i class="sgds-icon sgds-icon-search search-bar"></i>
-                    </span>
-
-                  </div>
-                </div>
-              </form>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a href="/start-a-business/"
-                class="navbar-link is-uppercase">Start Business</a>
-              <div class="navbar-dropdown">
-                <a href="/start-a-business/" class="navbar-item sub-link">Overview</a>
-                <a href="/start-a-business/choose-a-business-structure/"
-                  class="navbar-item sub-link">Key Steps to Start a Business</a>
-                <a href="/start-a-business/hire-employees/" class="navbar-item sub-link">Next Steps to
-                  Consider</a>
-              </div>
-              <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a href="/run-and-grow/" class="navbar-link is-uppercase">Run and Grow Business</a>
-              <div class="navbar-dropdown">
-                <a href="/run-and-grow/" class="navbar-item sub-link">Overview</a>
-                <a href="/gov-assist/" class="navbar-item sub-link">Government Assistance</a>
-                <a href="/business-grants/" class="navbar-item sub-link">Business Grants</a>
-                <a href="/licences/" class="navbar-item sub-link">Licences and Permits</a>
-                <a href="/run-and-grow/taxes-and-gst/" class="navbar-item sub-link">Taxes, GST &
-                  Customs</a>
-                <a href="/gebiz-alerts/" class="navbar-item sub-link">GeBIZ Alerts</a>
-              </div>
-              <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a href="/covid/" class="navbar-link is-uppercase">Covid-19</a>
-              <div class="navbar-dropdown">
-                <a href="/covid/" class="navbar-item sub-link">Overview</a>
-                <a href="/permittedlist/" class="navbar-item sub-link">Permitted Services</a>
-                <a href="/safemanagement/general/" class="navbar-item sub-link">Safe Management
-                  Requirements</a>
-                <a href="/supportschemes/general"
-                  class="navbar-item sub-link">Supporting Our Businesses</a>
-                <a href="/faq/general"
-                  class="navbar-item sub-link">FAQs</a>
-              </div>
-              <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
-            </div>
-            <div class="navbar-item">
-              <a href="/e-services/" class="navbar-item is-uppercase"
-                style="height:100%;width:100%;">E-Services</a>
-              <div class="selector is-hidden-touch is-hidden-desktop-only active"></div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a href="/about-us/"
-                class="navbar-link is-uppercase">Who We Are</a>
-              <div class="navbar-dropdown">
-                <a href="/about-us/" class="navbar-item sub-link">About
-                  Us</a>
-                <a href="/news-and-media/" class="navbar-item sub-link">News and Media</a>
-                <a href="/contact-us/" class="navbar-item sub-link">Contact Us</a>
-                <a href="/faq/about/"
-                  class="navbar-item sub-link">FAQs</a>
-              </div>
-              <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
-            </div>
-            <div class="navbar-item">
-              <a href="" class="navbar-item is-uppercase" style="height:100%;width:100%;">Login</a>
-              <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
-            </div>
-          </div>
-
-          <div class="navbar-end is-hidden-touch is-hidden-desktop-only">
-            <div class="navbar-item">
-              <a class="bp-button is-text is-large" style="text-decoration: none"
-                id="search-activate">
-                <span class="sgds-icon sgds-icon-search is-size-4"></span>
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </nav>
 
-    <div class="bp-container hide is-hidden-touch is-hidden-desktop-only search-bar" id="search-bar">
+    <div
+      class="bp-container hide is-hidden-touch is-hidden-desktop-only search-bar"
+      id="search-bar">
       <div class="row margin--top--sm margin--bottom--sm is-gapless">
         <div class="col">
           <form action="/search/" method="get">
             <div class="field has-addons">
               <div class="control has-icons-left is-expanded">
-                <input class="input is-fullwidth is-large" id="search-box" type="text"
-                  placeholder="What are you looking for?" name="query" autocomplete="off">
+                <input
+                  class="input is-fullwidth is-large"
+                  id="search-box"
+                  type="text"
+                  placeholder="What are you looking for?"
+                  name="query"
+                  autocomplete="off" />
                 <span class="is-large is-left">
-                  <i class="sgds-icon sgds-icon-search is-size-4 search-bar"></i>
+                  <i
+                    class="sgds-icon sgds-icon-search is-size-4 search-bar"></i>
                 </span>
               </div>
               <div class="control">
-                <button type="submit"
-                  class="bp-button is-secondary is-medium has-text-white search-button">SEARCH</button>
+                <button
+                  type="submit"
+                  class="bp-button is-secondary is-medium has-text-white search-button">
+                  SEARCH
+                </button>
               </div>
             </div>
           </form>
@@ -334,7 +405,7 @@
       <div class="bp-container content padding--top--lg padding--bottom--xl">
         <div class="row">
           <div class="col print-content">
-            <div class="page-title-container" style="margin-top: 32px;">
+            <div class="page-title-container" style="margin-top: 32px">
               <h2 class="page-title">Welcome to GoBusiness</h2>
               <h3 class="page-subtitle">What would you like to do today?</h3>
             </div>
@@ -347,215 +418,96 @@
                   <h4 class="panel-header">Gebiz Alerts</h4>
                 </div>
                 <div id="licence" class="panel-header-container">
-                  <h4 class="panel-header">Licences & Permits</h4>
+                  <h4 class="panel-header">Licences</h4>
                 </div>
                 <div id="biz" class="panel">
                   <h5>Get Business Grants</h5>
-                  <p>Apply for and manage grants, previously found on Business Grants Portal.</p>
-                  <a href="#"><button>Login</button></a>
+                  <p>
+                    Apply for and manage grants, previously found on Business
+                    Grants Portal.
+                  </p>
+                  <a href="#"><button class="secondary-btn">Log In</button></a>
                 </div>
                 <div id="subscribe" class="panel">
                   <h5>Subscribe to GeBIZ Alerts</h5>
                   <p>Subscribe to GeBIZ alerts via email or RSS feed.</p>
-                  <a href="#"><button>Login</button></a>
+                  <a href="#"><button class="secondary-btn">Log In</button></a>
                 </div>
                 <div id="food" class="panel">
                   <h5>Licences with Food Service Guided Journey</h5>
-                  <p>Apply for and manage licences for food service businesses.</p>
-                  <a href="#"><button>Login</button></a>
+                  <p>
+                    Apply for and manage licences for food service businesses.
+                  </p>
+                  <a href="#"><button class="secondary-btn">Log In</button></a>
                 </div>
                 <div id="nparks" class="panel">
-                  <h5>Licences from SFA/AVS/<br>NParks</h5>
-                  <p>Apply for and manage licences from Singapore Food Agency, Animal & Veterinary Service and NParks.
+                  <h5>Licences<br />from SFA/AVS/<br />NParks</h5>
+                  <p>
+                    Apply for and manage licences from Singapore Food Agency,
+                    Animal & Veterinary Service and NParks.
                   </p>
-                  <a href="#"><button>Login</button></a>
+                  <a href="#"><button class="secondary-btn">Log In</button></a>
                 </div>
                 <div id="others" class="panel">
                   <h5>Licences for Other Agencies</h5>
-                  <p>Apply for and manage licences from other government agencies</p>
-                  <a href="#"><button>Login</button></a>
+                  <p>
+                    Apply for and manage licences from other government
+                    agencies
+                  </p>
+                  <a href="#"><button class="secondary-btn">Log In</button></a>
                 </div>
               </div>
             </div>
-
+          </div>
+        </div>
+      </div>
     </section>
   </div>
-  <footer class="bp-footer top-section" onclick>
-    <div class="bp-container ">
-      <div class="row">
-        <div class="col header padding--top--lg padding--bottom--lg">
-          <h5 class="sub-header has-text-white">
-            <b>GoBusiness Singapore</b>
-          </h5>
-        </div>
+
+  <footer class="bp-footer top-section">
+    <div class="footer-t1-container">
+      <p class="gobiz-sg">GoBusiness Singapore</p>
+      <div>
+        <p><a href="#">FAQ</a></p>
+        <p><a href="#">Contact Us</a></p>
       </div>
-      <div class="row is-top">
-        <div class="row col is-multiline is-hidden-mobile ">
-          <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-            <p class="sub-header">
-              <b>
-                <a href="/start-a-business/" class="has-text-white">Start Business</a></b>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/start-a-business/">Overview</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/start-a-business/choose-a-business-structure/">Key Steps to Start a Business</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/start-a-business/hire-employees/">Next Steps to Consider</a>
-            </p>
-          </div>
-          <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-            <p class="sub-header">
-              <b>
-                <a href="/run-and-grow/" class="has-text-white">Run and Grow Business</a></b>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/run-and-grow/">Overview</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/gov-assist/">Government Assistance</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/business-grants/">Business Grants</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/licences/">Licences and Permits</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/run-and-grow/taxes-and-gst/">Taxes, GST & Customs</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/gebiz-alerts/">GeBIZ Alerts</a>
-            </p>
-          </div>
-          <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-            <p class="sub-header">
-              <b>
-                <a href="/covid/" class="has-text-white">Covid-19</a></b>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/covid/">Overview</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/permittedlist/">Permitted Services</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/safemanagement/general/">Safe Management Requirements</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/supportschemes/general">Supporting Our Businesses</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/faq/general">FAQs</a>
-            </p>
-          </div>
-          <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-            <p class="sub-header">
-              <b>
-                <a href="/e-services/" class="has-text-white">E-Services</a></b>
-            </p>
-          </div>
-          <div class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-            <p class="sub-header">
-              <b>
-                <a href="/about-us/" class="has-text-white">Who We Are</a></b>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/about-us/">About Us</a>
-            </p>
-            <p class="is-hidden-mobile">
-              <a href="/news-and-media/">News and Media</a>
-            </p>
-          </div>
-        </div>
-        <div class="col is-hidden-tablet is-hidden-desktop">
-          <p>
-            <a href="/start-a-business/">Start Business</a>
-          </p>
-          <p>
-            <a href="/run-and-grow/">Run and Grow Business</a>
-          </p>
-          <p>
-            <a href="/covid/">Covid-19</a>
-          </p>
-          <p>
-            <a href="/e-services/">E-Services</a>
-          </p>
-          <p>
-            <a href="/about-us/">Who We Are</a>
-          </p>
-        </div>
+    </div>
+    <hr />
+    <div class="footer-t2-container">
+      <div>
+        <p><a href="#">Privacy Statement</a></p>
+        <p><a href="#">Terms of Use</a></p>
       </div>
-      <div class="row">
-        <div class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
-          <ul>
-            <li class="is-inline-block-desktop-only">
-              <p>
-                <a href="/faq/about/">FAQ</a>
-              </p>
-            </li>
-            <li class="is-inline-block-desktop-only">
-              <p>
-                <a href="/contact-us/">Contact Us</a>
-              </p>
-            </li>
-          </ul>
-        </div>
-        <div class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none"></div>
+      <div>
+        <p class="last-updated">Last Updated 02 Mar 2021</p>
+        <p>&copy; 2021 Government of Singapore</p>
       </div>
     </div>
   </footer>
-  <footer class="bp-footer bottom-section" onclick>
-    <div class="bp-container ">
-      <div class="row is-vcentered">
-        <div class="col padding--top--none padding--bottom--none">
-          <div class="col divider padding--top--none padding--bottom--none"></div>
-        </div>
-      </div>
-      <div class="row is-vcentered padding--top--sm">
-        <div class="col is-two-thirds">
-          <ul>
-            <li>
-              <a href="https://www.tech.gov.sg/report_vulnerability/">Report Vulnerability</a>
-            </li>
-            <li>
-              <a href="/privacy/">Privacy Statement</a>
-            </li>
-            <li>
-              <a href="/terms-of-use/">Terms of Use</a>
-            </li>
-            <li>
-              <a href="https://www.isomer.gov.sg" target="_blank" rel="noreferrer">Built with Isomer</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-          <p>
-            &copy; 2021
-            GoBusiness</p>
-          <p class="last-updated">Last Updated 02 Mar 2021</p>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <script src=https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
-    integrity="sha256-0rguYS0qgS6L4qVzANq4kjxPLtvnp5nn2nB5G1lWRv4=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+    integrity="sha256-0rguYS0qgS6L4qVzANq4kjxPLtvnp5nn2nB5G1lWRv4="
+    crossorigin="anonymous"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"
     integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl"
     crossorigin="anonymous"></script>
-  <script crossorigin='anonymous'
-    src='https://d33wubrfki0l68.cloudfront.net/bundles/3ba9d1e792196ca70fed6857579125f9ee599d45.js'></script>
-  <script src="https://printjs-4de6.kxcdn.com/print.min.js" crossorigin="anonymous"></script>
-  <script crossorigin='anonymous'
-    src='https://d33wubrfki0l68.cloudfront.net/bundles/120e43f2e3e4ceed831618f4a926e573de0d6f0e.js'></script>
   <script
-    src='https://d33wubrfki0l68.cloudfront.net/js/a4d6e2f4c3f35b5d9024470834b472fab726fd4d/assets/js/google_analytics.js'></script>
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/bundles/3ba9d1e792196ca70fed6857579125f9ee599d45.js"></script>
+  <script
+    src="https://printjs-4de6.kxcdn.com/print.min.js"
+    crossorigin="anonymous"></script>
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/bundles/120e43f2e3e4ceed831618f4a926e573de0d6f0e.js"></script>
+  <script
+    src="https://d33wubrfki0l68.cloudfront.net/js/a4d6e2f4c3f35b5d9024470834b472fab726fd4d/assets/js/google_analytics.js"></script>
   <script async src="https://www.google-analytics.com/analytics.js"></script>
-  <script async
-    src='https://d33wubrfki0l68.cloudfront.net/js/2b9481e08db4e419412d58e57ab251876949aaa8/assets/js/autotrack.js'></script>
+  <script
+    async
+    src="https://d33wubrfki0l68.cloudfront.net/js/2b9481e08db4e419412d58e57ab251876949aaa8/assets/js/autotrack.js"></script>
 </body>
 
 </html>
