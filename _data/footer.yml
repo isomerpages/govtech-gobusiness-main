@@ -60,25 +60,25 @@ navlinks:
         url: /covid-faqs/
   - title: E-Services
     url: /e-services/
-    sublinks:
-      - title: Overview
-        url: /e-services/
-      - title: Guides for Businesses
-        url: /govt-e-services/guides-for-biz
-      - title: Popular Resources
-        url: /govt-e-services/popular-resources/
-      - title: Licences and Permits
-        url: /govt-e-services/licences-and-permits/
-      - title: New Business Owners
-        url: /govt-e-services/essential-biz-regulations/
-      - title: Accounting and Finance
-        url: /govt-e-services/gov-assist-biz/
-     - title: Business Administration
-        url: /govt-e-services/change-in-Owner-or-director/
-      - title: Employment Matters
-        url: /govt-e-services/about-cpf
-      - title: Growth and Expansion
-        url: /govt-e-services/business-opportunities
+  #  sublinks:
+  #    - title: Overview
+  #      url: /e-services/
+  #    - title: Guides for Businesses
+  #      url: /govt-e-services/guides-for-biz
+  #    - title: Popular Resources
+  #      url: /govt-e-services/popular-resources/
+  #    - title: Licences and Permits
+  #      url: /govt-e-services/licences-and-permits/
+  #    - title: New Business Owners
+  #      url: /govt-e-services/essential-biz-regulations/
+  #    - title: Accounting and Finance
+  #      url: /govt-e-services/gov-assist-biz/
+  #   - title: Business Administration
+  #      url: /govt-e-services/change-in-Owner-or-director/
+  #    - title: Employment Matters
+  #      url: /govt-e-services/about-cpf
+  #    - title: Growth and Expansion
+  #      url: /govt-e-services/business-opportunities
   - title: Who We Are
     url: /about-us/
     sublinks:
