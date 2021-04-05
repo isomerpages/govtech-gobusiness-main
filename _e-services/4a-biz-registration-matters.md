@@ -43,7 +43,7 @@ Registration makes it easier for the public to find your business and transact w
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
 
-- [ACRA Academy e-Learning](https://biztrg.sg/acra/aaenrolment/publiccoursewarelistings.aspx){:target="_blank"}
+- [ACRA Academy e-Learning](https://elearn.acra.gov.sg/acra/AAEnrolment/PublicCoursewareListings.aspx){:target="_blank"}
 <br>Online training courses for company directors and aspiring business owners.
 
 ----
