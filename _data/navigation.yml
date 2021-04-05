@@ -16,7 +16,7 @@ links:
         url: /start-a-business/choose-a-business-structure/
       - title: Next Steps to Consider
         url: /start-a-business/hire-employees/
-      - title: FAQs
+      - title: FAQ
         url: /start-a-business/faqs/
   - title: Run and Grow Business
     url: /run-and-grow/
@@ -60,21 +60,27 @@ links:
         url: /supportschemes/digitalsupport/
       - title: Sector-Specific Support
         url: /supportschemes/fnbsupport/
-      - title: FAQs
-        url: /faqs/general
+      - title: FAQ
+        url: /covid-faqs/
   - title: E-Services
     url: /e-services/
-    #sublinks:
-      #- title: All Businesses
-      #  url: /govt-e-services/administrative/
-      #- title: Arts & Media
-      #  url: /govt-e-services/arts-and-media/
-      #- title: Casinos
-      #  url: /govt-e-services/casinos/
-      #- title: Construction
-      #  url: /govt-e-services/construction/
-  #- title: News
-  #  url: /news-and-media/
+    sublinks:
+      - title: Guides for Businesses
+        url: /e-services/
+      - title: Popular Resources
+        url: /e-services/
+      - title: Licences and Permits
+        url: /e-services/
+      - title: New Business Owners
+        url: /e-services/
+      - title: Accounting and Finance
+        url: /e-services/
+      - title: Business Administration
+        url: /e-services/
+      - title: Employment Matters
+        url: /e-services/
+      - title: Growth and Expansion
+        url: /e-services/
   - title: Who We Are
     url: /about-us/
     sublinks:
@@ -84,11 +90,7 @@ links:
         url: /news-and-media/
       - title: Contact Us
         url: /contact-us/
-  #    - title: Helpdesk
-  #      url: /contact-us/
-  #    - title: SME Centres
-  #      url: /contact-us/sme-centres/
-      - title: FAQs
+      - title: FAQ
         url: /faqs/popular/
   - title: Login
     url: /login/
