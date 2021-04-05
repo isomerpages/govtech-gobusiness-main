@@ -64,15 +64,23 @@ navlinks:
         url: /faqs/general
   - title: E-Services
     url: /e-services/
-    #sublinks:
-      #- title: All Businesses
-      #  url: /govt-e-services/administrative/
-      #- title: Arts & Media
-      #  url: /govt-e-services/arts-and-media/
-      #- title: Casinos
-      #  url: /govt-e-services/casinos/
-      #- title: Construction
-      #  url: /govt-e-services/construction/
+    sublinks:
+      title: Guides for Businesses
+      url: #
+      title: Popular Resources
+      url: #
+      title: Licences and Permits
+      url: #
+      title: New Business Owners
+      url: #
+      title: Accounting and Finance
+      url: #
+      title: Business Administration
+      url: #
+      title: Employment Matters
+      url: #
+      title: Growth and Expansion
+      url: #
   - title: Who We Are
     url: /about-us/
     sublinks:
