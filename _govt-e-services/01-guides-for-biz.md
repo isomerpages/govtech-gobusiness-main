@@ -1,7 +1,7 @@
 ---
 title: Guides for Businesses
 permalink: /govt-e-services/guides-for-biz/
-third_nav_title: All Businesses
+third_nav_title: Guides for Businesses
 ---
 
 #### Guides for Businesses
