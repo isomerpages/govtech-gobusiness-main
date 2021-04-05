@@ -1,10 +1,10 @@
 ---
-title: Registering a Business
-permalink: /e-services/registering-a-biz/
-third_nav_title: New Business Owners
+title: Winding down a business
+permalink: /e-services/winding-down-a-biz/
+third_nav_title: Business Administration
 ---
 
-## Registering a Business
+## Closing down a business
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
