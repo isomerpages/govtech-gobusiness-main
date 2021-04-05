@@ -1,5 +1,5 @@
 ---
-title: Sector Specific Requirements
+title: Sector-specific Requirements
 permalink: /safemanagement/sector/
 accordion-new:
   - title: Accounting practices
@@ -141,7 +141,7 @@ accordion-new:
 
       b.	NEA’s <a href="https://go.gov.sg/CircularonMeasuresSwimmingPoolsAndWaterFountains" target="_blank">circular</a> on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 Jun 20]                                
 ---
-## Sector Specific Requirements
+## Sector-specific Requirements
 
 In addition to the <a href="https://covid.gobusiness.gov.sg/safemanagement/general/" target="_blank">general requirements</a>, businesses must comply with the relevant sector-specific requirements here.
 

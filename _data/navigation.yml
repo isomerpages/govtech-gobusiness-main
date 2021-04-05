@@ -31,10 +31,6 @@ links:
         url: /licences/
       - title: Taxes, GST & Customs
         url: /run-and-grow/taxes-and-gst/
-      #- title: Get a Customs Account
-      #  url: /run-and-grow/customs-account/
-      #- title: Register for GST
-      #  url: /run-and-grow/gst-registered/
       - title: GeBIZ Alerts
         url: /gebiz-alerts/
   - title: Covid-19
@@ -46,7 +42,7 @@ links:
         url: /permittedlist/
       - title: Safe Management Requirements
         url: /safemanagement/general/
-      - title: Sector Specific Requirements
+      - title: Sector-specific Requirements
         url: /safemanagement/sector/
       - title: Digital Solutions for Safe Management
         url: /safemanagement/safedigital/
@@ -58,7 +54,7 @@ links:
         url: /supportschemes/manpowersupport/
       - title: Digital Support
         url: /supportschemes/digitalsupport/
-      - title: Sector-Specific Support
+      - title: Sector-specific Support
         url: /supportschemes/fnbsupport/
       - title: FAQ
         url: /covid-faqs/
