@@ -88,5 +88,5 @@ links:
         url: /contact-us/
       - title: FAQ
         url: /faqs/popular/
-  - title: Login
+  - title: <img src="/images/login.svg">
     url: /login/
