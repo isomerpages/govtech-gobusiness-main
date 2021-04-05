@@ -1,6 +1,7 @@
 ---
 title: Licences and Permits
-permalink: /govt-e-services/licences-and-permits/
+permalink: /e-services/licences-and-permits/
+third_nav_title: Quick Links
 ---
 
 ## Licences and Permits

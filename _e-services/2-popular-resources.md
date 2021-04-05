@@ -1,6 +1,7 @@
 ---
 title: Popular Resources
-permalink: /govt-e-services/popular-resources/
+permalink: /e-services/popular-resources/
+third_nav_title: Quick Links
 ---
 
 #### Popular Resources

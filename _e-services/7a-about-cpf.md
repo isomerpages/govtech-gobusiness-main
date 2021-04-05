@@ -1,10 +1,10 @@
 ---
-title: Workplace safety
-permalink: /e-servicesnav/workplace-safety
+title: About Central Provident Fund (CPF)
+permalink: /e-services/about-cpf/
 third_nav_title: Employment Matters
 ---
 
-## Workplace safety
+## About Central Provident Fund (CPF)
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

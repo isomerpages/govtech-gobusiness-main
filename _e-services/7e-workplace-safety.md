@@ -1,10 +1,10 @@
 ---
-title: Training and accreditation
-permalink: /govt-e-services/training-and-accreditation
-third_nav_title: Growth and Expansion
+title: Workplace safety
+permalink: /e-services/workplace-safety/
+third_nav_title: Employment Matters
 ---
 
-## Training and accreditation
+## Workplace safety
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

@@ -1,6 +1,7 @@
 ---
 title: Guides for Businesses
-permalink: /govt-e-services/guides-for-biz
+permalink: /e-services/guides-for-biz/
+third_nav_title: Quick Links
 ---
 
 #### Guides for Businesses

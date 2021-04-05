@@ -1,10 +1,10 @@
 ---
-title: Government assistance for businesses
-permalink: /govt-e-services/gov-assist-biz/
-third_nav_title: Accounting and Finance
+title: Business opportunities
+permalink: /e-services/business-opportunities/
+third_nav_title: Growth and Expansion
 ---
 
-## Government assistance for businesses
+## Business opportunities
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

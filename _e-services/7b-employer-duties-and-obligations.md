@@ -1,10 +1,10 @@
 ---
-title: Registering a Business
-permalink: /govt-e-services/registering-a-biz/
-third_nav_title: New Business Owners
+title: Employer duties and obligations
+permalink: /e-services/employer-duties-and-obligations/
+third_nav_title: Employment Matters
 ---
 
-## Registering a Business
+## Employer duties and obligations
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

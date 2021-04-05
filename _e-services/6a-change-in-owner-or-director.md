@@ -1,10 +1,10 @@
 ---
-title: Trade marks and IP
-permalink: /govt-e-services/trade-marks-and-ip
-third_nav_title: Growth and Expansion
+title: Change in owner or director
+permalink: /e-services/change-in-owner-or-director/
+third_nav_title: Business Administration
 ---
 
-## Trade marks and IP
+## Change in owner or director
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
