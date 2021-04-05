@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: FAQ
 permalink: /start-a-business/faqs/
 accordion-new:
   - title: Why is Singapore an ideal place to start a business?
