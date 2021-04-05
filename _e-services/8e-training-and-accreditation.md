@@ -1,10 +1,10 @@
 ---
-title: Corporate social responsibility
-permalink: /e-services/corporate-social-responsibility
+title: Training and accreditation
+permalink: /e-services/training-and-accreditation
 third_nav_title: Growth and Expansion
 ---
 
-#### Corporate social responsibility
+## Training and accreditation
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

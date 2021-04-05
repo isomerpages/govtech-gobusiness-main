@@ -1,10 +1,10 @@
 ---
-title: Employer duties and obligations
-permalink: /e-services/about-cpf
-third_nav_title: Employment Matters
+title: Registering a Business
+permalink: /e-services/registering-a-biz/
+third_nav_title: New Business Owners
 ---
 
-#### Employer duties and obligations
+## Registering a Business
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

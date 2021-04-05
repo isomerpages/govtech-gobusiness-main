@@ -1,10 +1,10 @@
 ---
-title: Training and accreditation
-permalink: /e-services/training-and-accreditation
-third_nav_title: Growth and Expansion
+title: Employer duties and obligations
+permalink: /e-services/about-cpf
+third_nav_title: Employment Matters
 ---
 
-#### Training and accreditation
+## Employer duties and obligations
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

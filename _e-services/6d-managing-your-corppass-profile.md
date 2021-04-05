@@ -1,10 +1,10 @@
 ---
-title: Workplace safety
-permalink: /e-services/workplace-safety
-third_nav_title: Employment Matters
+title: Managing your Corppass profile
+permalink: /e-services/managing-your-corppass-profile/
+third_nav_title: Business Administration
 ---
 
-#### Workplace safety
+## Managing your Corppass profile
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

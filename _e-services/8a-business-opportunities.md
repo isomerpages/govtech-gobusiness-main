@@ -1,10 +1,10 @@
 ---
-title: Change in owner or director
-permalink: /e-services/change-in-Owner-or-director/
-third_nav_title: Business Administration
+title: Business opportunities
+permalink: /e-services/business-opportunities
+third_nav_title: Growth and Expansion
 ---
 
-#### Change in owner or director
+## Business opportunities
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

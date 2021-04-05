@@ -1,10 +1,10 @@
 ---
-title: Essential business regulations
-permalink: /e-services/essential-biz-regulations/
-third_nav_title: New Business Owners
+title: Taxes and GST
+permalink: /e-services/taxes-and-GST/
+third_nav_title: Accounting and Finance
 ---
 
-#### Essential business regulations
+## Taxes and GST
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
