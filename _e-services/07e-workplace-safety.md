@@ -1,10 +1,10 @@
 ---
-title: Taxes and GST
-permalink: /govt-e-services/taxes-and-GST/
-third_nav_title: Accounting and Finance
+title: Workplace safety
+permalink: /e-services/workplace-safety
+third_nav_title: Employment Matters
 ---
 
-#### Taxes and GST
+#### Workplace safety
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

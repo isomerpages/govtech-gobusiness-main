@@ -1,10 +1,10 @@
 ---
-title: Managing your Corppass profile
-permalink: /govt-e-services/managing-your-corppass-profile/
-third_nav_title: Business Administration
+title: Trade marks and IP
+permalink: /e-services/trade-marks-and-ip
+third_nav_title: Growth and Expansion
 ---
 
-#### Managing your Corppass profile
+#### Trade marks and IP
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

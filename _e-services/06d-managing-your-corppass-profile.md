@@ -1,10 +1,10 @@
 ---
-title: Employer duties and obligations
-permalink: /govt-e-services/about-cpf
-third_nav_title: Employment Matters
+title: Managing your Corppass profile
+permalink: /e-services/managing-your-corppass-profile/
+third_nav_title: Business Administration
 ---
 
-#### Employer duties and obligations
+#### Managing your Corppass profile
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

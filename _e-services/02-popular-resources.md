@@ -1,6 +1,6 @@
 ---
 title: Popular Resources
-permalink: /govt-e-services/popular-resources/
+permalink: /e-services/popular-resources/
 ---
 
 #### Popular Resources

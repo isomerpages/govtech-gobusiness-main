@@ -1,10 +1,10 @@
 ---
-title: Essential business regulations
-permalink: /govt-e-services/essential-biz-regulations/
-third_nav_title: New Business Owners
+title: Hiring an employee
+permalink: /e-services/hiring-an-employee
+third_nav_title: Employment Matters
 ---
 
-#### Essential business regulations
+#### Hiring an employee
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

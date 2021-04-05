@@ -1,10 +1,10 @@
 ---
-title: Trade marks and IP
-permalink: /govt-e-services/trade-marks-and-ip
+title: Training and accreditation
+permalink: /e-services/training-and-accreditation
 third_nav_title: Growth and Expansion
 ---
 
-#### Trade marks and IP
+#### Training and accreditation
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

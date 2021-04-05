@@ -1,10 +1,10 @@
 ---
-title: Training and accreditation
-permalink: /govt-e-services/training-and-accreditation
+title: Business opportunities
+permalink: /e-services/business-opportunities
 third_nav_title: Growth and Expansion
 ---
 
-#### Training and accreditation
+#### Business opportunities
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

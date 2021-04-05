@@ -1,10 +1,10 @@
 ---
-title: Training your employees
-permalink: /govt-e-services/training-your-employees
-third_nav_title: Employment Matters
+title: Change in owner or director
+permalink: /e-services/change-in-Owner-or-director/
+third_nav_title: Business Administration
 ---
 
-#### Training your employees
+#### Change in owner or director
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

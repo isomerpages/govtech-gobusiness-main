@@ -1,10 +1,10 @@
 ---
-title: Registering a Business
-permalink: /govt-e-services/registering-a-biz/
-third_nav_title: New Business Owners
+title: Getting business premises
+permalink: /e-services/getting-business-premises
+third_nav_title: Growth and Expansion
 ---
 
-#### Registering a Business
+#### Getting business premises
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
