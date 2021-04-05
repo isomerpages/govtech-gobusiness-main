@@ -62,21 +62,21 @@ navlinks:
     url: /e-services/
     sublinks:
       - title: Guides for Businesses
-        url: /guides-for-biz/
+        url: /e-services/guides-for-biz/
       - title: Popular Resources
-        url: /popular-resources/
+        url: /e-services/popular-resources/
       - title: Licences and Permits
-        url: /licences-and-permits/
+        url: /e-services/licences-and-permits/
       - title: New Business Owners
-        url: /essential-biz-regulations/
+        url: /e-services/essential-biz-regulations/
       - title: Accounting and Finance
-        url: /gov-assist-biz/
+        url: /e-services/gov-assist-biz/
      - title: Business Administration
-        url: /change-in-Owner-or-director/
+        url: /e-services/change-in-Owner-or-director/
       - title: Employment Matters
-        url: /about-cpf
+        url: /e-services/about-cpf
       - title: Growth and Expansion
-        url: /business-opportunities
+        url: /e-services/business-opportunities
   - title: Who We Are
     url: /about-us/
     sublinks:
