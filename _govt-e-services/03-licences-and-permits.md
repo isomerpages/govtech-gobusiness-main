@@ -1,9 +1,9 @@
 ---
-title: Casinos
-permalink: /govt-e-services/casinos/
+title: Licences and Permits
+permalink: /govt-e-services/licences-and-permits/
 ---
 
-#### List of Casinos related e-Services
+#### Licences and Permits
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

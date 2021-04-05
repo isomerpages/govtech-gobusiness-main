@@ -1,9 +1,9 @@
 ---
-title: Arts & Media
-permalink: /govt-e-services/arts-and-media/
+title: Popular Resources
+permalink: /govt-e-services/popular-resources/
 ---
 
-#### List of Arts & Media related e-Services
+#### Popular Resources
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

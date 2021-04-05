@@ -1,10 +1,10 @@
 ---
-title: Administrative
-permalink: /govt-e-services/administrative/
+title: Guides for Businesses
+permalink: /govt-e-services/guides-for-biz/
 third_nav_title: All Businesses
 ---
 
-#### List of Administrative related e-Services
+#### Guides for Businesses
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
