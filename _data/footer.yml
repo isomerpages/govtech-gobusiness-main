@@ -14,7 +14,7 @@ navlinks:
         url: /start-a-business/choose-a-business-structure/
       - title: Next Steps to Consider
         url: /start-a-business/hire-employees/
-      - title: FAQs
+      - title: FAQ
         url: /start-a-business/faqs/
   - title: Run and Grow Business
     url: /run-and-grow/
@@ -60,7 +60,7 @@ navlinks:
         url: /supportschemes/digitalsupport/
       - title: Sector-Specific Support
         url: /supportschemes/fnbsupport/
-      - title: FAQs
+      - title: FAQ
         url: /faqs/general
   - title: E-Services
     url: /e-services/
@@ -82,5 +82,5 @@ navlinks:
         url: /news-and-media/
       - title: Contact Us
         url: /contact-us/
-      - title: FAQs
+      - title: FAQ
         url: /faqs/popular/
