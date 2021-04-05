@@ -1,10 +1,10 @@
 ---
-title: Training and accreditation
-permalink: /growth-and-expansion/training-and-accreditation
-third_nav_title: Growth and Expansion
+title: Managing your Corppass profile
+permalink: /e-servicesnav/managing-your-corppass-profile/
+third_nav_title: Business Administration
 ---
 
-## Training and accreditation
+## Managing your Corppass profile
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

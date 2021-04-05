@@ -1,10 +1,10 @@
 ---
-title: Essential business regulations
-permalink: /new-biz-owners/essential-biz-regulations/
-third_nav_title: New Business Owners
+title: Training your employees
+permalink: /e-servicesnav/training-your-employees
+third_nav_title: Employment Matters
 ---
 
-## Essential business regulations
+## Training your employees
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

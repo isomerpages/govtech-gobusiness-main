@@ -1,10 +1,10 @@
 ---
-title: Registering a Business
-permalink: /new-biz-owners/registering-a-biz/
-third_nav_title: New Business Owners
+title: Trade marks and IP
+permalink: /e-servicesnav/trade-marks-and-ip
+third_nav_title: Growth and Expansion
 ---
 
-## Registering a Business
+## Trade marks and IP
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

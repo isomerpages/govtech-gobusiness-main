@@ -1,10 +1,10 @@
 ---
-title: Employer duties and obligations
-permalink: /employment-matters/about-cpf
+title: Workplace safety
+permalink: /e-servicesnav/workplace-safety
 third_nav_title: Employment Matters
 ---
 
-## Employer duties and obligations
+## Workplace safety
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

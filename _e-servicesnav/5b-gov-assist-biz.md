@@ -1,10 +1,10 @@
 ---
-title: Trade marks and IP
-permalink: /growth-and-expansion/trade-marks-and-ip
-third_nav_title: Growth and Expansion
+title: Taxes and GST
+permalink: /e-servicesnav/taxes-and-GST/
+third_nav_title: Accounting and Finance
 ---
 
-## Trade marks and IP
+## Taxes and GST
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

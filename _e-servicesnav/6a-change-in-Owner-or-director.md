@@ -1,10 +1,10 @@
 ---
-title: Managing your Corppass profile
-permalink: /business-administration/managing-your-corppass-profile/
+title: Change in owner or director
+permalink: /e-servicesnav/change-in-owner-or-director/
 third_nav_title: Business Administration
 ---
 
-## Managing your Corppass profile
+## Change in owner or director
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

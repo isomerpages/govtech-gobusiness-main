@@ -1,10 +1,10 @@
 ---
-title: Closing down a business
-permalink: /business-administration/closing-down-a-biz/
-third_nav_title: Business Administration
+title: Essential business regulations
+permalink: /e-servicesnav/essential-biz-regulations/
+third_nav_title: New Business Owners
 ---
 
-## Closing down a business
+## Essential business regulations
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
