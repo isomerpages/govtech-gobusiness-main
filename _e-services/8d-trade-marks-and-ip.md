@@ -1,6 +1,6 @@
 ---
 title: Trade marks and IP
-permalink: /e-services/trade-marks-and-ip
+permalink: /growth-and-expansion/trade-marks-and-ip
 third_nav_title: Growth and Expansion
 ---
 

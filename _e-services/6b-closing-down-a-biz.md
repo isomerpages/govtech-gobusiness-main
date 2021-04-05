@@ -1,6 +1,6 @@
 ---
 title: Closing down a business
-permalink: /e-services/closing-down-a-biz/
+permalink: /business-administration/closing-down-a-biz/
 third_nav_title: Business Administration
 ---
 

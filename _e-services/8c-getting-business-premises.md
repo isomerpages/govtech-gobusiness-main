@@ -1,6 +1,6 @@
 ---
 title: Getting business premises
-permalink: /e-services/getting-business-premises
+permalink: /growth-and-expansion/getting-business-premises
 third_nav_title: Growth and Expansion
 ---
 

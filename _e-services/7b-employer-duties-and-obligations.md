@@ -1,6 +1,6 @@
 ---
 title: Employer duties and obligations
-permalink: /e-services/about-cpf
+permalink: /employment-matters/about-cpf
 third_nav_title: Employment Matters
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Registering a Business
-permalink: /e-services/registering-a-biz/
+permalink: /new-biz-owners/registering-a-biz/
 third_nav_title: New Business Owners
 ---
 

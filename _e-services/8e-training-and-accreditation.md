@@ -1,6 +1,6 @@
 ---
 title: Training and accreditation
-permalink: /e-services/training-and-accreditation
+permalink: /growth-and-expansion/training-and-accreditation
 third_nav_title: Growth and Expansion
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Licences and Permits
-permalink: /e-services/licences-and-permits/
+permalink: /licences-and-permits/
 ---
 
 ## Licences and Permits

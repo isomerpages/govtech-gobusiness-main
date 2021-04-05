@@ -1,6 +1,6 @@
 ---
 title: Guides for Businesses
-permalink: /e-services/guides-for-biz/
+permalink: /guides-for-biz/
 ---
 
 ## Guides for Businesses

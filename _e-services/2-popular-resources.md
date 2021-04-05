@@ -1,6 +1,6 @@
 ---
 title: Popular Resources
-permalink: /e-services/popular-resources/
+permalink: /popular-resources/
 ---
 
 ## Popular Resources

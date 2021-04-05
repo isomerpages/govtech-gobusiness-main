@@ -1,6 +1,6 @@
 ---
 title: Managing your Corppass profile
-permalink: /e-services/managing-your-corppass-profile/
+permalink: /business-administration/managing-your-corppass-profile/
 third_nav_title: Business Administration
 ---
 

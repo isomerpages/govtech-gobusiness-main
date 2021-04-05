@@ -1,6 +1,6 @@
 ---
 title: Corporate social responsibility
-permalink: /e-services/corporate-social-responsibility
+permalink: /growth-and-expansion/corporate-social-responsibility
 third_nav_title: Growth and Expansion
 ---
 

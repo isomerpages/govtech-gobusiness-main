@@ -1,6 +1,6 @@
 ---
 title: Training your employees
-permalink: /e-services/training-your-employees
+permalink: /employment-matters/training-your-employees
 third_nav_title: Employment Matters
 ---
 
