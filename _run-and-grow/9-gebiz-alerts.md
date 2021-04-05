@@ -10,5 +10,5 @@ Be the first to know about government procurement opportunities for your busines
 Simply log in to GoBusiness with your Corppass and subscribe to GeBIZ Alerts.
 
 <p>
-{% include button.html text="Subscribe" src="https://www.gobusiness.gov.sg/gebiz-alerts/sso-login" type="primary" %}
+{% include button.html text="Subscribe" src="https://foodservices.gobusiness.gov.sg/gebiz-alerts/ssologin" type="primary" %}
 </p>
