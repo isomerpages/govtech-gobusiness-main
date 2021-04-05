@@ -1,10 +1,10 @@
 ---
-title: Change in owner or director
-permalink: /e-servicesnav/change-in-owner-or-director/
-third_nav_title: Business Administration
+title: Employer duties and obligations
+permalink: /govt-e-services/about-cpf
+third_nav_title: Employment Matters
 ---
 
-## Change in owner or director
+## Employer duties and obligations
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

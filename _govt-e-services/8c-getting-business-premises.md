@@ -1,10 +1,10 @@
 ---
-title: Corporate social responsibility
-permalink: /e-servicesnav/corporate-social-responsibility
+title: Getting business premises
+permalink: /govt-e-services/getting-business-premises
 third_nav_title: Growth and Expansion
 ---
 
-## Corporate social responsibility
+## Getting business premises
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

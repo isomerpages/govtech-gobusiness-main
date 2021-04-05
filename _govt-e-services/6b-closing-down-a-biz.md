@@ -1,10 +1,10 @@
 ---
-title: Taxes and GST
-permalink: /e-servicesnav/taxes-and-GST/
-third_nav_title: Accounting and Finance
+title: Closing down a business
+permalink: /govt-e-services/closing-down-a-biz/
+third_nav_title: Business Administration
 ---
 
-## Taxes and GST
+## Closing down a business
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

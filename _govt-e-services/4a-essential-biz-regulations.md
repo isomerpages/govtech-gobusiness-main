@@ -1,10 +1,10 @@
 ---
-title: Training and accreditation
-permalink: /e-servicesnav/training-and-accreditation
-third_nav_title: Growth and Expansion
+title: Essential business regulations
+permalink: /govt-e-services/essential-biz-regulations/
+third_nav_title: New Business Owners
 ---
 
-## Training and accreditation
+## Essential business regulations
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

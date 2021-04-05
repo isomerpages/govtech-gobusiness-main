@@ -21,7 +21,7 @@ collections:
     output: true
   covid-faqs:
     output: true
-  e-servicesnav:
+  govt-e-services:
     output: true
 google_analytics: UA-186826212-1
 facebook-pixel: 688926055194344

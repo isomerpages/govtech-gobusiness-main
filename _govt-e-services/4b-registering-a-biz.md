@@ -1,10 +1,10 @@
 ---
-title: Essential business regulations
-permalink: /e-servicesnav/essential-biz-regulations/
+title: Registering a Business
+permalink: /govt-e-services/registering-a-biz/
 third_nav_title: New Business Owners
 ---
 
-## Essential business regulations
+## Registering a Business
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

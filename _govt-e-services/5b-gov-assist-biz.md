@@ -1,10 +1,10 @@
 ---
-title: About Central Provident Fund (CPF)
-permalink: /e-servicesnav/about-cpf
-third_nav_title: Employment Matters
+title: Taxes and GST
+permalink: /govt-e-services/taxes-and-GST/
+third_nav_title: Accounting and Finance
 ---
 
-## About Central Provident Fund (CPF)
+## Taxes and GST
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

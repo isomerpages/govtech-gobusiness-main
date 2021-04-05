@@ -1,10 +1,10 @@
 ---
-title: Training your employees
-permalink: /e-servicesnav/training-your-employees
-third_nav_title: Employment Matters
+title: Business opportunities
+permalink: /govt-e-services/business-opportunities
+third_nav_title: Growth and Expansion
 ---
 
-## Training your employees
+## Business opportunities
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

@@ -1,10 +1,10 @@
 ---
-title: Trade marks and IP
-permalink: /e-servicesnav/trade-marks-and-ip
+title: Corporate social responsibility
+permalink: /govt-e-services/corporate-social-responsibility
 third_nav_title: Growth and Expansion
 ---
 
-## Trade marks and IP
+## Corporate social responsibility
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
