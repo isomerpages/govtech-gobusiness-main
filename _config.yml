@@ -3,7 +3,7 @@ url: "https://gobusiness.gov.sg" # the base hostname & protocol for your site, e
 logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
 collections:
-  govt-e-services:
+  e-services:
     output: true
   contact-us:
     output: true
@@ -22,7 +22,7 @@ collections:
   faqs:
     output: true
   covid-faqs:
-    output: true  
+    output: true
 google_analytics: UA-186826212-1
 facebook-pixel: 688926055194344
 linkedin-insights: 918155
@@ -53,4 +53,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
