@@ -9,7 +9,7 @@ accordion-new:
   - title: What grants are available on the Business Grants Portal?
     content:  |
       You can apply for:
-      - Market Readiness Assistance (Enterprise Singapore) 
+      - Market Readiness Assistance (Enterprise Singapore)
       - Enterprise Development Grant (Enterprise Singapore)
       - Business Improvement Fund (Singapore Tourism Board)
       - Aviation Development Fund (Civil Aviation Authority of Singapore)
@@ -19,7 +19,7 @@ accordion-new:
       You can make an appointment with a Business Advisor from the [SME Centre](/contact-us/sme-centres/){:target="_blank"}.
 ---
 
-#### About Business Grants FAQs
+#### About Business Grants FAQ
 {% include accordion-new.html %}
 
 [Back to Business Grants Overview](/business-grants/)
