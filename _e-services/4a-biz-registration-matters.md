@@ -50,4 +50,5 @@ Registration makes it easier for the public to find your business and transact w
 
 #### Related content
 
+{% include panels-startbiz.html panels=site.data.startbiz_links %}
 {% include panels-eservices.html panels=site.data.biz_reg_matters_links %}
