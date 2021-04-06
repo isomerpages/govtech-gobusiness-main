@@ -6,9 +6,18 @@ third_nav_title: Business Administration
 
 ## Change in owner or director
 
-| **No** | **Agency** | **e-Service Name** |
-| -- | -- | -- |
-|1.|BUILDING AND CONSTRUCTION AUTHORITY (BCA)| <a href="https://www.bca.gov.sg" target="_blank">Apply for Green Mark certification</a> |
-|2.|NATIONAL ENVIRONMENT AGENCY (NEA)| <a href="https://www.eportal.nea.gov.sg/" target="_blank">Application for Workers' Dormitory</a>  |
-|3.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Building Works & Restricted Activities in Railway Protection Zone</a> |
-|4.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Permit to Work on Public Streets </a> |
+If there are changes in business owners or authorised representatives, you will need to update Accounting and Corporate Regulatory Authority (ACRA) within 14 days of the change. The endorsement of the other business owners (if any) is also required.
+
+Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships/changes-in-business-information-and-appointments-of-business-owners-and-authorised-representatives){:target="_blank"}.
+
+#### e-Services for updating business ownership
+
+**Accounting and Corporate Regulatory Authority (ACRA)**
+
+[Log into BizFile portal](https://www.bizfile.gov.sg){:target="_blank"} to access the following e-Services:
+
+- [File Notification of Cessation (Resignation)](https://www.bizfile.gov.sg/){:target="_blank"}
+<br>Inform ACRA about a business owner or director's resignation. This is for Local Company, Limited Liability Partnership and Limited Partnership.   
+
+- [File Notification of Cessation (Disqualification)](https://oursggrants.gov.sg/){:target="_blank"}
+<br>Inform ACRA about a business owner or director's disqualification. This is for Local Company and Limited Liability Partnership.
