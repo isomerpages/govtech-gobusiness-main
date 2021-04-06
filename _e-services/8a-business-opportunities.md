@@ -15,7 +15,7 @@ Tap on government initiatives and resources to find new growth opportunities for
 - [Singapore Visitor Centre (SVC) Network Partnership](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/singapore-visitor-centre-SVC-network-partnership.html){:target="_blank"}
 <br>Join the SVC network to access STB's resources and support for innovative tourism experiences.        
 
-**GeBIZ Portal**
+**GeBIZ portal**
 
-- [GeBIZ Alerts](/gebiz-alerts/)
+- [GeBIZ alerts](/gebiz-alerts/)
 <br>Subscribe to daily email alerts of government procurement opportunities posted on Government Electronic Business (GeBIZ).

@@ -16,8 +16,8 @@ Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides/up
 
 [Log into BizFile portal](https://www.bizfile.gov.sg){:target="_blank"} to access the following e-Services:
 
-- [File Notification of Cessation (Resignation)](https://www.bizfile.gov.sg/){:target="_blank"}
+- [File notification of cessation (resignation)](https://www.bizfile.gov.sg/){:target="_blank"}
 <br>Inform ACRA about a business owner or director's resignation. This is for Local Company, Limited Liability Partnership and Limited Partnership.   
 
-- [File Notification of Cessation (Disqualification)](https://oursggrants.gov.sg/){:target="_blank"}
+- [File Notification of cessation (disqualification)](https://oursggrants.gov.sg/){:target="_blank"}
 <br>Inform ACRA about a business owner or director's disqualification. This is for Local Company and Limited Liability Partnership.

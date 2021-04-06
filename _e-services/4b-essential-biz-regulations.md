@@ -12,22 +12,22 @@ Depending on your sector and business activity, there may be mandatory business 
 
 **Infocomm Media Development Authority (IMDA)**
 
-- [Register Data Protection Officer](https://www.pdpc.gov.sg/overview-of-pdpa/data-protection/business-owner/data-protection-officers/dpo-registration){:target="_blank"}
+- [Register data protection officer](https://www.pdpc.gov.sg/overview-of-pdpa/data-protection/business-owner/data-protection-officers/dpo-registration){:target="_blank"}
 <br>Register at least one individual as your organisation's Data Protection Officer (DPO) to oversee compliance with the Personal Data Protection Act (PDPA).
 
 #### e-Services for sector-specific regulations
 
 **Ministry of the Environment and Water Resources (MEWR)**
 
-- [Emissions Data Monitoring and Analysis System](#){:target="_blank"}
+- [Emissions data monitoring and analysis system](#){:target="_blank"}
 <br>Emissions Data Monitoring and Analysis System
 
 **Singapore Customs**
 
-- [Letter of Undertaking for Manufacturing Cost Statement](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}
+- [Letter of undertaking for manufacturing cost statement](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}
 <br>Submit a letter of undertaking to support your last approved manufacturing cost statement.
 
-- [Update Contact Information for National Authority (Chemical Weapons Convention) Licensee](https://form.gov.sg/#!/5f042661fefd4e0011922a7d){:target="_blank"}
+- [Update contact information for National Authority (Chemical Weapons Convention) Licensee](https://form.gov.sg/#!/5f042661fefd4e0011922a7d){:target="_blank"}
 <br>Inform the National Authority (Chemical Weapons Convention) [NA(CWC)] of any changes to the existing main / alternate NA(CWC) licence contact applicants.
 
 ----
