@@ -1,281 +1,533 @@
----
-layout: skeleton
----
+<!DOCTYPE html>
+<html lang="en" class="has-navbar-fixed-top-widescreen">
 
-<style>
-  .bg-hero {
-      background: url('{{site.baseurl}}/images/Hack2021Banner-FINAL.png') no-repeat top center;
-      -webkit-background-size: cover;
-      background-size: cover;
-  }
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=yes, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="canonical" href="https://gobusiness.gov.sg/e-services/" />
+  <link
+    rel="shortcut icon"
+    href="/images/Gobiz_favicon.ico"
+    type="image/x-icon" />
+  <link
+    rel="stylesheet"
+    href="https://d33wubrfki0l68.cloudfront.net/bundles/4ddb14de7d4c8ac2234ce8e29b63e37fb97b4f67.css" />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Lato:400,600"
+    crossorigin="anonymous" />
+  <link
+    type="application/atom+xml"
+    rel="alternate"
+    href="https://gobusiness.gov.sg/feed.xml"
+    title="GoBusiness Singapore" />
+  <script
+    src="https://assets.dcube.cloud/scripts/wogaa.js"
+    crossorigin="anonymous"></script>
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/js/ec6ebfc3c6ea59a9286f810448ab3ac7fb791557/assets/js/facebook-pixel.js"></script>
+  <noscript><img
+      height="1"
+      width="1"
+      style="display: none"
+      src="https://www.facebook.com/tr?id=688926055194344&ev=PageView&noscript=1" /></noscript>
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/js/486e7bceaa02d2b37262e20a33271c051f622988/assets/js/linkedin-insights.js"></script>
+  <noscript><img
+      height="1"
+      width="1"
+      style="display: none"
+      src="https://px.ads.linkedin.com/collect/?pid=918155&fmt=gif" /></noscript>
+  <title>Login</title>
+</head>
 
-  .bg-hero-bottom {
-      background: url('{{site.baseurl}}/images/peoplepattern.png') no-repeat top left;
-      -webkit-background-size: cover;
-      background-size: cover;
-  }
-</style>
+<body>
+  <style>
+    #main-content {
+      background-color: #f9fafa;
+    }
 
-<section class="bp-hero bg-hero">
-  <div class="bp-hero-body">
-      <div class="bp-container margin--top--lg margin--bottom--lg">
-          <div class="row is-vcentered is-centered ma">
-              <div class="col has-text-white is-hidden-touch has-text-centered">
-<!--                     <h1 class="display padding--bottom--lg margin--none"><b>Build Technology for<br>the Public Good</b></h1>
-                  <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> -->
-                  <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a>
-              </div>
-              <div class="has-text-white has-text-centered is-hidden-desktop">
-<!--                     <h1 class="display padding--bottom--lg margin--none" style="font-size: 3.3rem; line-height: 4.25rem;"><b>Build Technology for the Public Good</b></h1>
-                  <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> -->
-                  <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a>
-              </div>
+    .page-title-container {
+      margin-top: 0;
+      text-align: center;
+    }
+
+    .page-title {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 28px;
+      line-height: 35px;
+      color: #161a1d !important;
+    }
+
+    .page-subtitle {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;
+      color: #4a5561 !important;
+      margin-top: 15.5px !important;
+    }
+
+    .panels {
+      display: grid;
+      grid-template-areas:
+        "grants gebiz licence licence licence"
+        "biz subscribe food nparks others";
+      margin-top: 28px;
+      column-gap: 20px;
+    }
+
+    .panel-header-container {
+      padding: 8px 0;
+    }
+
+    .panel-header {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 12px;
+      line-height: 15px;
+      text-align: center;
+      text-transform: uppercase;
+      color: #ffffff !important;
+      margin: 0 !important;
+    }
+
+    #grants {
+      grid-area: grants;
+      background-color: #037e8a;
+    }
+
+    #gebiz {
+      grid-area: gebiz;
+      background-color: #096ee3;
+    }
+
+    #licence {
+      grid-area: licence;
+      background-color: #440088;
+    }
+
+    .panel {
+      display: grid;
+      grid-template-rows: 90px 1fr auto;
+      margin: 12px 0;
+      padding: 32px 15px 32px 15px;
+      background: #ffffff !important;
+      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+        0px 7px 25px rgba(22, 26, 29, 0.03),
+        0px 4px 12px rgba(22, 26, 29, 0.03);
+      text-align: center;
+    }
+
+    .panel>h5 {
+      font-weight: 600;
+      font-size: 24px;
+      line-height: 30px;
+      text-align: center;
+      color: #037e8a !important;
+      align-self: center;
+      margin-bottom: 0 !important;
+    }
+
+    .panel>p {
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 21px !important;
+      color: #4a5561 !important;
+      margin-top: 10px !important;
+      margin-bottom: 27px !important;
+    }
+
+    a {
+      margin: 0 !important;
+    }
+
+    .primary-btn {
+      font-family: hknova-regular;
+      font-weight: bold;
+      padding: 8px 20px;
+      background-color: #037e8a;
+      border-radius: 3px;
+      color: #ffffff;
+      border: 1px solid #037e8a;
+      font-size: 14px;
+      line-height: 24px;
+      cursor: pointer;
+      height: 40px;
+      width: 176px;
+    }
+
+    .primary-btn:hover {
+      background-color: #026770;
+    }
+
+    .primary-btn:active {
+      background-color: #025B63;
+    }
+
+    .primary-btn:focus {
+      outline: 2px solid #1C8B95;
+    }
+
+    .secondary-btn {
+      font-family: hknova-regular;
+      border: 1px solid #b3d8dc;
+      box-sizing: border-box;
+      border-radius: 3px;
+      background-color: #fafdfd;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 21px;
+      color: #037e8a;
+      padding: 9.5px 45.13px;
+      height: 40px;
+      width: 176px;
+      margin: 0 auto;
+      cursor: pointer;
+    }
+
+    .secondary-btn:hover {
+      border: 1px solid #026770;
+      color: #026770;
+    }
+
+    .secondary-btn:active {
+      border: 1px solid #025b63;
+      color: #025b63;
+    }
+
+    .secondary-btn:focus {
+      outline: 2px solid #1c8b95;
+    }
+
+    #biz {
+      grid-area: biz;
+    }
+
+    #subscribe {
+      grid-area: subscribe;
+    }
+
+    #food {
+      grid-area: food;
+    }
+
+    #nparks {
+      grid-area: nparks;
+    }
+
+    #others {
+      grid-area: others;
+    }
+
+    footer {
+      padding: 0 !important;
+    }
+
+    .footer-t1-container,
+    .footer-t2-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 40px;
+      max-width: 1073px;
+      margin: 0 auto;
+    }
+
+    .footer-t1-container>div,
+    .footer-t2-container>div {
+      display: grid;
+      grid-template-columns: auto auto;
+      column-gap: 40px;
+    }
+
+    .footer-t1-container>div>p,
+    .footer-t2-container>div>p {
+      margin: 0 !important;
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #ffffff;
+    }
+
+    .footer-t2-container>div>p {
+      line-height: 15px !important;
+      color: #9da9b7;
+    }
+
+    .footer-t1-container>div>p>a,
+    .footer-t2-container>div>p>a {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #ffffff;
+    }
+
+    hr {
+      margin: 0 !important;
+      height: 1px;
+      background-color: #dbdfe4 !important;
+    }
+
+    .bp-footer {
+      background-color: #313840 !important;
+    }
+
+    .gobiz-sg {
+      font-family: hknova-regular;
+      font-weight: bold;
+      font-size: 32px;
+      line-height: 40px;
+      color: #ffffff !important;
+    }
+
+    .bp-footer>.footer-t1-container a {
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #ffffff;
+    }
+
+    .bp-footer>.footer-t2-container a {
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 18px;
+      color: #9da9b7;
+    }
+
+    @media (max-width: 1290px) {
+      .panel {
+        grid-template-rows: auto auto 1fr;
+        align-items: end;
+      }
+
+      .panels {
+        grid-template-areas:
+          "grants grants grants gebiz gebiz gebiz"
+          "biz biz biz subscribe subscribe subscribe"
+          "licence licence licence licence licence licence"
+          "food food nparks nparks others others";
+      }
+    }
+
+    @media (max-width: 750px) {
+      .panels {
+        grid-template-areas:
+          "grants"
+          "biz"
+          "gebiz"
+          "subscribe"
+          "licence"
+          "food"
+          "nparks"
+          "others";
+      }
+
+      .footer-t1-container {
+        flex-direction: column;
+        align-items: start;
+      }
+
+      .footer-t1-container>div {
+        margin-top: 30px;
+      }
+
+      .footer-t1-container>div,
+      .footer-t2-container>div {
+        display: grid;
+        grid-template-columns: auto;
+        row-gap: 20px;
+      }
+    }
+  </style>
+
+  <div class="masthead-container" id="navbar" onclick>
+    <section class="bp-section bp-masthead">
+      <div class="bp-container">
+        <div class="row is-multiline is-vcentered">
+          <div class="col is-9-desktop is-12-touch has-text-centered-touch">
+            <a
+              href="https://www.gov.sg"
+              alt="Singapore Government"
+              target="_blank"
+              rel="noreferrer">
+              <span
+                class="sgds-icon sgds-icon-sg-crest is-size-5"
+                style="color: red"></span>
+              <span class="is-text">
+                A Singapore Government Agency Website<b>
+                  [NOTE: THIS IS A STAGING WEBSITE]
+                </b></span>
+            </a>
           </div>
+        </div>
       </div>
+    </section>
+    <nav class="navbar is-transparent">
+      <div class="bp-container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="/">
+            <img
+              src="https://d33wubrfki0l68.cloudfront.net/8527e249225f90f6b92db72f17f30b1ac72d03cc/b8be7/images/gobiz_logo_sg.svg"
+              alt="Homepage"
+              style="
+                  max-height: 75px;
+                  max-width: 200px;
+                  height: auto;
+                  width: auto;
+                " />
+          </a>
+        </div>
+      </div>
+    </nav>
+
+    <div
+      class="bp-container hide is-hidden-touch is-hidden-desktop-only search-bar"
+      id="search-bar">
+      <div class="row margin--top--sm margin--bottom--sm is-gapless">
+        <div class="col">
+          <form action="/search/" method="get">
+            <div class="field has-addons">
+              <div class="control has-icons-left is-expanded">
+                <input
+                  class="input is-fullwidth is-large"
+                  id="search-box"
+                  type="text"
+                  placeholder="What are you looking for?"
+                  name="query"
+                  autocomplete="off" />
+                <span class="is-large is-left">
+                  <i
+                    class="sgds-icon sgds-icon-search is-size-4 search-bar"></i>
+                </span>
+              </div>
+              <div class="control">
+                <button
+                  type="submit"
+                  class="bp-button is-secondary is-medium has-text-white search-button">
+                  SEARCH
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
   </div>
-</section>
-
-<section class="bp-section">
-  <div class="bp-container padding--bottom--lg">
-  <div class="row">
-          <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-              <p class="padding--bottom eyebrow is-uppercase">
-                  About Us
-              </p>
-              <h1 class="padding--bottom has-text-secondary"><b>Our philosophy</b></h1>
+  <div id="main-content" role="main" onclick>
+    <section class="bp-section">
+      <div class="bp-container content padding--top--lg padding--bottom--xl">
+        <div class="row">
+          <div class="col print-content">
+            <div class="page-title-container" style="margin-top: 32px">
+              <h2 class="page-title">Welcome to GoBusiness</h2>
+              <h3 class="page-subtitle">What would you like to do today?</h3>
+            </div>
+            <div class="page-body-container">
+              <div class="panels">
+                <div id="grants" class="panel-header-container">
+                  <h4 class="panel-header">Grants</h4>
+                </div>
+                <div id="gebiz" class="panel-header-container">
+                  <h4 class="panel-header">Gebiz Alerts</h4>
+                </div>
+                <div id="licence" class="panel-header-container">
+                  <h4 class="panel-header">Licences</h4>
+                </div>
+                <div id="biz" class="panel">
+                  <h5>Business<br />
+                    Grants Portal</h5>
+                  <p>Apply for and manage grants, previously found on Business Grants Portal.</p>
+                  <a href="#"><button class="primary-btn">Log In</button></a>
+                </div>
+                <div id="subscribe" class="panel">
+                  <h5>GeBIZ
+                    Alerts</h5>
+                  <p>Subscribe to GeBIZ alerts via email or RSS feed.</p>
+                  <a href="#"><button class="primary-btn">Log In</button></a>
+                </div>
+                <div id="food" class="panel">
+                  <h5>Licences for
+                    Food Services</h5>
+                  <p>Apply for and manage licences for food service businesses.</p>
+                  <a href="#"><button class="primary-btn">Log In</button></a>
+                </div>
+                <div id="nparks" class="panel">
+                  <h5>Licences<br />from SFA/AVS/<br />NParks</h5>
+                  <p>Apply for and manage licences from Singapore Food Agency, Animal & Veterinary Service and NParks.
+                  </p>
+                  <a href="#"><button class="primary-btn">Log In</button></a>
+                </div>
+                <div id="others" class="panel">
+                  <h5>Licences for Other Sectors</h5>
+                  <p>Apply for and manage licences for all sectors except food services.</p>
+                  <a href="#"><button class="primary-btn">Log In</button></a>
+                </div>
+              </div>
+            </div>
           </div>
+        </div>
+      </div>
+    </section>
   </div>
 
-      <div class="row margin--top padding--bottom">
-          <div class="col is-one-third">
-              <div class="text-card is-white">
-                  <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/solve.svg" />
-                  <h4 class="padding--top has-text-secondary padding--bottom"><b>Solve Real Problems</b></h4>
-                  <p>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems faced in the community, not just to optimise profit.</p>
-              </div>
+  <footer class="bp-footer top-section">
+    <div class="footer-t1-container">
+      <p class="gobiz-sg">GoBusiness Singapore</p>
+      <div>
+        <p><a href="#">FAQ</a></p>
+        <p><a href="#">Contact Us</a></p>
+      </div>
+    </div>
+    <hr />
+    <div class="footer-t2-container">
+      <div>
+        <p><a href="#">Privacy Statement</a></p>
+        <p><a href="#">Terms of Use</a></p>
+      </div>
+      <div>
+        <p class="last-updated">Last Updated 02 Mar 2021</p>
+        <p>&copy; 2021 Government of Singapore</p>
+      </div>
+    </div>
+  </footer>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+    integrity="sha256-0rguYS0qgS6L4qVzANq4kjxPLtvnp5nn2nB5G1lWRv4="
+    crossorigin="anonymous"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"
+    integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl"
+    crossorigin="anonymous"></script>
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/bundles/3ba9d1e792196ca70fed6857579125f9ee599d45.js"></script>
+  <script
+    src="https://printjs-4de6.kxcdn.com/print.min.js"
+    crossorigin="anonymous"></script>
+  <script
+    crossorigin="anonymous"
+    src="https://d33wubrfki0l68.cloudfront.net/bundles/120e43f2e3e4ceed831618f4a926e573de0d6f0e.js"></script>
+  <script
+    src="https://d33wubrfki0l68.cloudfront.net/js/a4d6e2f4c3f35b5d9024470834b472fab726fd4d/assets/js/google_analytics.js"></script>
+  <script async src="https://www.google-analytics.com/analytics.js"></script>
+  <script
+    async
+    src="https://d33wubrfki0l68.cloudfront.net/js/2b9481e08db4e419412d58e57ab251876949aaa8/assets/js/autotrack.js"></script>
+</body>
 
-          </div>
-          <div class="col is-one-third">
-              <div class="text-card is-white">
-                  <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/build.svg" />
-                  <h4 class="padding--top has-text-secondary padding--bottom"><b>Build for the User</b></h4>
-                  <p>Design and build products based on what real people actually need, whether they are members of the public or civil servants.</p>
-              </div>
-
-          </div>
-          <div class="col is-one-third">
-              <div class="text-card is-white">
-                  <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/push.svg" />
-                  <h4 class="padding--top has-text-secondary padding--bottom"><b>Push For Change</b></h4>
-                  <p>Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</p>
-              </div>
-          </div>
-      </div>
-  </div>
-</section>
-
-<section class="bp-section padding--left--none padding--right--none" style="background-color:#276ef1">
-  <div class="bp-container product-container">
-      <div class="row">
-          <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-              <p class="padding--bottom eyebrow is-uppercase has-text-white">
-                  PRODUCTS
-              </p>
-              <h1 class="padding--bottom has-text-white padding--left--xl padding--right--xl"><b>Things we've made</b></h1>
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-      <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/data-mockup.png')">
-          </div>
-          <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom"><b>Data.gov.sg</b></h4>
-              <p class="has-text-white">A open repository of all the Singapore Government's public data. It helps people understand the data using visualizations and articles, and provides realtime APIs for developers to use.</p>
-              <a href="https://www.data.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-          <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom "><b>Beeline</b></h4>
-              <p class="has-text-white">Beeline is a data-driven shuttle bus platform. Bus routes are created from user suggestions and public transport usage data. Users can book, pay for, and track rides using a mobile app.</p>
-              <a href="https://www.beeline.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-      </div>
-      <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/beeline-mockup.png')">
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-          <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/form-mockup.png')">
-          </div>
-      <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom "><b>Form.gov.sg</b></h4>
-              <p class="has-text-white">Form.gov.sg is a form builder tool for agencies to self-service and create online forms that capture classified data, with the goal of replacing paper forms.</p>
-              <a href="https://form.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-          <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom "><b>Parking.sg</b></h4>
-              <p class="has-text-white">Parking.sg is a mobile app alternative to parking coupons. It lets users pay, extend, and refund their parking sessions just using their phones.</p>
-              <a href="https://parking.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-          </div>
-          <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/parking-mockup.png')">
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-          <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/isomer-mockup.png')">
-          </div>
-          <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom "><b>Isomer</b></h4>
-              <p class="has-text-white">Isomer is a static website building and hosting service that helps government agencies create usable informational websites quickly and at no cost.</p>
-              <a href="https://www.isomer.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-          <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom "><b>OpenDoc</b></h4>
-              <p class="has-text-white">OpenDoc is a simple and easy way to make documents easily searchable and available to the public. Public servants can modify, track changes and submit edit requests easily on the platform.</p>
-              <a href="https://opendoc.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-          </div>
-          <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/opendoc-mockup.png')">
-          </div>
-      </div>
-      <div class="row product-row padding--top--xl padding--bottom--xl">
-          <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/gosg-mockup.png')">
-          </div>
-          <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-              <h4 class="has-text-white padding--bottom "><b>Go.gov.sg</b></h4>
-              <p class="has-text-white">Go.gov.sg is a government link shortener. Stop using bit.ly or tinyurl, and shorten your links with a trustworthy .gov.sg domain so your users know it's not phishing.</p>
-              <a href="https://go.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button">
-                      Visit Website
-                  </div>
-              </a>
-          </div>
-      </div>
-  </div>
-</section>
-
-<section class="bp-section padding--top--none padding--bottom--none padding--left--none padding--right--none" style="background-color: black">
-  <div class="bp-container is-fluid margin--left--none">
-      <div class="row">
-          <div class="col is-half padding--top--none padding--bottom--none" style="overflow: hidden; background-size: cover; background-position: top; background-image: url('{{site.baseurl}}/images/bg_how_we_do_it.png')">
-          </div>
-          <div class="col is-half padding--top--xl padding--bottom--xl padding--left--xl padding--right--xl has-text-white">
-              <h1><b>How we work</b></h1>
-              <h5 class="padding--top--xl padding--bottom"><b>Product Development</b></h5>
-              <p>We work in small, competent product teams that prototype quickly and release frequently. We develop products from the ground up through our annual hackathon.</p>
-              <h5 class="padding--top--xl padding--bottom"><b>People</b></h5>
-              <p>Our career schemas reward technical expertise and leadership and we encourage continuous learning for all team members.</p>
-              <h5 class="padding--top--xl padding--bottom"><b>Open Culture</b></h5>
-              <p>We believe in open communication within the team, openly sharing our work and approaches with the community, and open sourcing products for the embetterment of public service everywhere.</p>
-          </div>
-      </div>
-  </div>
-</section>
-
-<section class="bp-section" id="careers">
-  <div class="bp-container padding--bottom--lg">
-      <div class="row">
-          <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-              <p class="padding--bottom eyebrow is-uppercase">
-                  CAREERS
-              </p>
-              <h1 class="padding--bottom has-text-secondary"><b>Join us</b></h1>
-          </div>
-      </div>
-      <div class="row margin--top padding--bottom">
-          <div class="col is-one-third">
-              <div>
-                  <img src="{{site.baseurl}}/images/product-manager.svg" />
-              </div>
-              <h4 class="padding--top--lg has-text-secondary"><b>Product Manager</b></h4>
-              <p class="padding--top--sm">You chart the product goals. You plug gaps and gel everything together. You wear many hats to drive the project forward.</p>
-              <a href="{{site.baseurl}}/careers/product-manager/" class="bp-sec-button margin--top padding--bottom">
-                  <div>
-                      <span>Read More</span>
-                      <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-                  </div>
-              </a>
-          </div>
-          <div class="col is-one-third">
-              <div>
-                  <img src="{{site.baseurl}}/images/software-engineer.svg" />
-              </div>
-              <h4 class="padding--top--lg has-text-secondary"><b>Software Engineer</b></h4>
-              <p class="padding--top--sm">You solve problems. You design and build systems and make sure they work.</p>
-              <a href="{{site.baseurl}}/careers/software-engineer/" class="bp-sec-button margin--top padding--bottom">
-                  <div>
-                      <span>Read More</span>
-                      <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-                  </div>
-              </a>
-          </div>
-          <div class="col is-one-third">
-              <div>
-                  <img src="{{site.baseurl}}/images/product-designer.svg" />
-              </div>
-              <h4 class="padding--top--lg has-text-secondary"><b>Product Designer</b></h5>
-              <p class="padding--top--sm">You bridge user needs and business goals. You make the product work well and look good.</p>
-              <a href="{{site.baseurl}}/careers/product-designer/" class="bp-sec-button margin--top padding--bottom">
-                  <div>
-                      <span>Read More</span>
-                      <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-                  </div>
-              </a>
-          </div>
-      </div>
-  </div>
-</section>
-
-<section class="bp-section" style="background: #F7F7F7;">
-  <div class="bp-container">
-          <div class="internship-row has-text-centered">
-              <img src="{{site.baseurl}}/images/interns.svg" alt="Interns"/>
-              <span style="color:#000000; font-size: 30px !important;">are welcome all year round</span>
-              <a href="{{site.baseurl}}/careers/internships/" class="padding--top padding--bottom is-block">
-                  <div class="bp-button is-uppercase cta-button">
-                      Learn More
-                  </div>
-              </a>
-          </div>
-      </div>
-  <div>
-</section>
-
-<section class="bp-section bg-hero-bottom">
-  <div class="bp-container">
-      <div class="row">
-          <div class="col is-8 is-offset-2 has-text-centered padding--top--xl padding--bottom--xl has-text-white">
-              <h2 class="padding--bottom" style="font-weight: bold">We are growing and looking for talented individuals to help us on our mission – build systems and improve public good.</h2>
-              <a href="https://go.gov.sg/join-ogp">
-                  <div class="bp-button is-white is-outlined is-uppercase search-button" target="_blank">
-                      Be Part of the Team
-                  </div>
-              </a>
-          </div>
-      </div>
-  </div>
-</section>
+</html>
