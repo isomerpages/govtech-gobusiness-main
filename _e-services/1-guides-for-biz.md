@@ -1,10 +1,10 @@
 ---
-title: Guides for Businesses
+title: Guides for businesses
 permalink: /e-services/guides-for-biz/
 third_nav_title: Quick Links
 ---
 
-#### Guides for Businesses
+#### Guides for businesses
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

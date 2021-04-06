@@ -1,10 +1,10 @@
 ---
-title: Licences and Permits
+title: Licences and permits
 permalink: /e-services/licences-and-permits/
 third_nav_title: Quick Links
 ---
 
-## Licences and Permits
+## Licences and permits
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
