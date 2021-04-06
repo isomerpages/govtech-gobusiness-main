@@ -6,7 +6,7 @@ third_nav_title: New Business Owners
 
 ## Business registration matters
 
-Registration makes it easier for the public to find your business and transact with it. There are different requirements and supporting documents you will need, depending on your business structure. Learn more about them in our [Step 4 of our Start Guide](/start-a-business/register-your-business/).
+Registration makes it easier for the public to find your business and transact with it. There are different requirements and supporting documents you will need, depending on your business structure. Learn more about them in [Step 4 of our Start Guide](/start-a-business/register-your-business/).
 
 #### e-Services for local business registration
 
@@ -39,7 +39,7 @@ Registration makes it easier for the public to find your business and transact w
 - [Register for Representative Office](https://www.enterprisesg.gov.sg){:target="_blank"}
 <br>Register for a Representative Office to assess the viability of doing business in Singapore.
 
-#### Resources for New Business Owners and Directors
+#### Resources for new business owners and directors
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
 
