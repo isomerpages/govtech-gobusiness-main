@@ -4,15 +4,34 @@ permalink: /e-services/essential-biz-regulations/
 third_nav_title: New Business Owners
 ---
 
-<<<<<<< HEAD
-## Essential business regulations 123
-=======
 ## Essential business regulations
->>>>>>> parent of eac61b4 (Essential business regulations)
 
-| **No** | **Agency** | **e-Service Name** |
-| -- | -- | -- |
-|1.|BUILDING AND CONSTRUCTION AUTHORITY (BCA)| <a href="https://www.bca.gov.sg" target="_blank">Apply for Green Mark certification</a> |
-|2.|NATIONAL ENVIRONMENT AGENCY (NEA)| <a href="https://www.eportal.nea.gov.sg/" target="_blank">Application for Workers' Dormitory</a>  |
-|3.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Building Works & Restricted Activities in Railway Protection Zone</a> |
-|4.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Permit to Work on Public Streets </a> |
+Depending on your sector and business activity, there may be mandatory business regulations you will need to comply with when you start your business. Learn more about your duties and obligations as an employer, as stipulated by the Employment Act [here](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}. Here is a list of relevant e-Services.
+
+#### e-Services for essential business regulations
+
+**Infocomm Media Development Authority (IMDA)**
+
+- [Register Data Protection Officer](https://www.pdpc.gov.sg/overview-of-pdpa/data-protection/business-owner/data-protection-officers/dpo-registration){:target="_blank"}
+<br>Register at least one individual as your organisation's Data Protection Officer (DPO) to oversee compliance with the Personal Data Protection Act (PDPA).
+
+#### e-Services for sector-specific regulations
+
+**Ministry of the Environment and Water Resources (MEWR)**
+
+- [Emissions Data Monitoring and Analysis System](#){:target="_blank"}
+<br>Emissions Data Monitoring and Analysis System
+
+**Singapore Customs**
+
+- [Letter of Undertaking for Manufacturing Cost Statement](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}
+<br>Submit a letter of undertaking to support your last approved manufacturing cost statement.
+
+- [Update Contact Information for National Authority (Chemical Weapons Convention) Licensee](https://form.gov.sg/#!/5f042661fefd4e0011922a7d){:target="_blank"}
+<br>Inform the National Authority (Chemical Weapons Convention) [NA(CWC)] of any changes to the existing main / alternate NA(CWC) licence contact applicants.
+
+----
+
+#### Related content
+
+{% include panels-eservices.html panels=site.data.biz_reg_matters_links %}
