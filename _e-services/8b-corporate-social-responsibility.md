@@ -6,9 +6,19 @@ third_nav_title: Growth and Expansion
 
 ## Corporate social responsibility
 
-| **No** | **Agency** | **e-Service Name** |
-| -- | -- | -- |
-|1.|BUILDING AND CONSTRUCTION AUTHORITY (BCA)| <a href="https://www.bca.gov.sg" target="_blank">Apply for Green Mark certification</a> |
-|2.|NATIONAL ENVIRONMENT AGENCY (NEA)| <a href="https://www.eportal.nea.gov.sg/" target="_blank">Application for Workers' Dormitory</a>  |
-|3.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Building Works & Restricted Activities in Railway Protection Zone</a> |
-|4.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Permit to Work on Public Streets </a> |
+In support of corporate activities to promote inclusivity and community, there are a few government initiatives you can apply for or be part of. Here is a list of relevant e-Services.
+
+#### e-Services for corporate social responsibility
+
+**National Integration Council**
+
+- [Apply for Community Integration Fund (CIF)](https://oursggrants.gov.sg/){:target="_blank"}
+<br>Apply for CIF to get funding for ground-up integration initiatives. Project budget form and supporting documents must be included with your application.     
+
+- [Apply for CIF Workplace Integration Resource (WIRe)](https://oursggrants.gov.sg/){:target="_blank"}
+<br>Apply for CIF WIRe to get funding for workplace integration efforts. Submit your application on OurSG Grants and indicate "WIRe Type #" in the project title.
+
+**National Council of Social Service (NCSS)**
+
+- [Enabling Employment Pledge](https://form.gov.sg/#!/5e4a00425cb1370011a1d85c){:target="_blank"}
+<br>Sign the pledge to commit to creating an inclusive work environment and culture for persons with disabilities. Pledge signatories will benefit from SG Enable's consultancy on inclusive hiring.
