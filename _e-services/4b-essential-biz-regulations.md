@@ -4,7 +4,11 @@ permalink: /e-services/essential-biz-regulations/
 third_nav_title: New Business Owners
 ---
 
+<<<<<<< HEAD
 ## Essential business regulations 123
+=======
+## Essential business regulations
+>>>>>>> parent of eac61b4 (Essential business regulations)
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |
