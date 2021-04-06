@@ -1,14 +1,24 @@
 ---
-title: About Central Provident Fund (CPF)
+title: Central Provident Fund (CPF) matters
 permalink: /e-services/about-cpf/
 third_nav_title: Employment Matters
 ---
 
-## About Central Provident Fund (CPF)
+## Central Provident Fund (CPF) matters
 
-| **No** | **Agency** | **e-Service Name** |
-| -- | -- | -- |
-|1.|BUILDING AND CONSTRUCTION AUTHORITY (BCA)| <a href="https://www.bca.gov.sg" target="_blank">Apply for Green Mark certification</a> |
-|2.|NATIONAL ENVIRONMENT AGENCY (NEA)| <a href="https://www.eportal.nea.gov.sg/" target="_blank">Application for Workers' Dormitory</a>  |
-|3.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Building Works & Restricted Activities in Railway Protection Zone</a> |
-|4.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Permit to Work on Public Streets </a> |
+As an employer, you are required to make CPF contributions for your employees. How much you need to contribute depends on the types of wage payments your employees receive.
+
+Learn more about it on [CPF's website](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/cpf-contributions-for-your-employees){:target="_blank"}.
+
+#### e-Services for CPF matters
+
+**Central Provident Fund Board**
+
+- [Apply for CPF Submission Number](https://www.cpf.gov.sg/eSvc/Web/AuthenticationProviderSelection/SelectSPCPProvider?returnAction=%2feSvc%2fWeb%2fSchemes%2fApplyforCPFSubmissionNumber%2fIndex&theme=Employer){:target="_blank"}
+<br>Apply for a CPF Submission Number on BizFile+ to start making CPF contributions.
+
+- [CPF EZpay](https://www2.cpf.gov.sg/ert/publicMenu.action){:target="_blank"}
+<br>Submit employees' CPF contribution details and make payment online.
+
+- [Submission of CPF Contributions (via E-Submission and hardcopy form)](#){:target="_blank"}
+<br>Submit employees' CPF contribution details, either online or in hardcopy, and make payment online.
