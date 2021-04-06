@@ -4,6 +4,11 @@ permalink: /e-services/essential-biz-regulations/
 third_nav_title: New Business Owners
 ---
 
-## Essential business regulations
+## Essential business regulations 123
 
-Depending on your sector and business activity, there may be mandatory business regulations you will need to comply with when you start your business. Learn more about your duties and obligations as an employer, as stipulated by the Employment Act [here](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}. Here is a list of relevant e-Services.
+| **No** | **Agency** | **e-Service Name** |
+| -- | -- | -- |
+|1.|BUILDING AND CONSTRUCTION AUTHORITY (BCA)| <a href="https://www.bca.gov.sg" target="_blank">Apply for Green Mark certification</a> |
+|2.|NATIONAL ENVIRONMENT AGENCY (NEA)| <a href="https://www.eportal.nea.gov.sg/" target="_blank">Application for Workers' Dormitory</a>  |
+|3.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Building Works & Restricted Activities in Railway Protection Zone</a> |
+|4.|LAND TRANSPORT AUTHORITY (LTA)| <a href="https://www.lta.gov.sg" target="_blank">Permit to Work on Public Streets </a> |
