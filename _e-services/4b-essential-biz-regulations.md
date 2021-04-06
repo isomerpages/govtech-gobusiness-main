@@ -30,9 +30,8 @@ Depending on your sector and business activity, there may be mandatory business 
 - [Update Contact Information for National Authority (Chemical Weapons Convention) Licensee](https://form.gov.sg/#!/5f042661fefd4e0011922a7d){:target="_blank"}
 <br>Inform the National Authority (Chemical Weapons Convention) [NA(CWC)] of any changes to the existing main / alternate NA(CWC) licence contact applicants.
 
-
 ----
 
 #### Related content
 
-{% include panels-eservices.html panels=site.data.biz_reg_matters_links %}
+{% include panels-eservices.html panels=site.data.essential_biz_reg_links %}
