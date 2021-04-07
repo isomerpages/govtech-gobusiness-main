@@ -3,17 +3,18 @@ title: Helpdesk
 permalink: /contact-us/
 ---
 
-## Get in touch with GoBusiness helpdesk
+## Get in touch with **GoBusiness**
 
 **Telephone**
-<br>[6123 4567](tel:+6561234567)
+<br>[+65 6774 1430](tel:+6567741430)
 
 **Email**
-<br>[Enquiry@gobusiness.gov.sg](mailto:enquiry@gobusiness.gov.sg)    
+<br>[Click here](mailto:licences-helpdesk@crimsonlogic.com.sg)    
 
 **Feedback**
 <br>[Submit Form](https://go.gov.sg/tfei8m){:target="_blank"}    
 
 **Helpdesk Operating Hours**
-<br>Mondays to Fridays, 8.30am to 5.30pm
+<br>Monday to Friday: 8.00am to 8.00pm
+<br>Saturdays: 8.00am to 2:00pm
 <br>(closed on public holidays)
