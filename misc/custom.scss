@@ -1,6 +1,6 @@
 ---
-
 ---
+
 @font-face {
   src: url(/fonts/HKNova-Regular.otf);
   font-family: hknova-regular;
@@ -21,11 +21,11 @@ $secondary-hover: lighten($secondary, 20%);
 
 //$media-color-one: #49759a;
 //$media-color-two: #744d9f;
-$media-color-one: #3366CC;
-$media-color-two: #CC9933;
+$media-color-one: #3366cc;
+$media-color-two: #cc9933;
 $media-color-three: #009980;
 $media-color-four: #006699;
-$media-color-five: #CC9900;
+$media-color-five: #cc9900;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -33,135 +33,184 @@ $desktop: 960px + (2 * $gap) !default;
 // Mixins
 
 @mixin touch() {
-	@media screen and (max-width: $desktop - 1px){
-    	@content
-	}
+  @media screen and (max-width: $desktop - 1px) {
+    @content;
+  }
 }
 
 @mixin desktop() {
-	@media screen and (min-width: $desktop){
-    	@content
-	}
+  @media screen and (min-width: $desktop) {
+    @content;
+  }
 }
 
 // Background
-.bg{
-  &-primary{
+.bg {
+  &-primary {
     background-color: $primary !important;
   }
   &-secondary {
     background-color: $secondary !important;
   }
   &-media-color {
-  	&-1 {
-  		background-color: $media-color-one;
-  		&:hover {
-  			background-color: darken($media-color-one, 10%);
-		}
-  	}
-  	&-2 {
-  		background-color: $media-color-two;
-  		&:hover {
-  			background-color: darken($media-color-two, 10%);
-		}
-  	}
-  	&-3 {
-  		background-color: $media-color-three;
-  		&:hover {
-  			background-color: darken($media-color-three, 10%);
-		}
-  	}
-  	&-4 {
-  		background-color: $media-color-four;
-  		&:hover {
-  			background-color: darken($media-color-four, 10%);
-		}
-  	}
-  	&-5 {
-  		background-color: $media-color-five;
-  		&:hover {
-  			background-color: darken($media-color-five, 10%);
-		}
-  	}
+    &-1 {
+      background-color: $media-color-one;
+      &:hover {
+        background-color: darken($media-color-one, 10%);
+      }
+    }
+    &-2 {
+      background-color: $media-color-two;
+      &:hover {
+        background-color: darken($media-color-two, 10%);
+      }
+    }
+    &-3 {
+      background-color: $media-color-three;
+      &:hover {
+        background-color: darken($media-color-three, 10%);
+      }
+    }
+    &-4 {
+      background-color: $media-color-four;
+      &:hover {
+        background-color: darken($media-color-four, 10%);
+      }
+    }
+    &-5 {
+      background-color: $media-color-five;
+      &:hover {
+        background-color: darken($media-color-five, 10%);
+      }
+    }
   }
-  &-1{
+  &-1 {
     //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat
+      left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-2{
+  &-2 {
     //background-color: $info;
-    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat
+      left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-3{
+  &-3 {
     //background-color: $warning;
-    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat
+      left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-4{
+  &-4 {
     //background-color: $danger;
-    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left
+      50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-gradient{
+  &-gradient {
     background: #b41e8e;
-    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+    background: -moz-linear-gradient(
+      45deg,
+      #b41e8e 0%,
+      #5c3f9e 50%,
+      #0061af 100%
+    );
+    background: -webkit-linear-gradient(
+      45deg,
+      #b41e8e 0%,
+      #5c3f9e 50%,
+      #0061af 100%
+    );
+    background: linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
   }
-  &-Singpass{
+  &-Singpass {
     background: #be2e7d; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(
+      45deg,
+      #be2e7d 0%,
+      #d64e54 100%
+    ); /* FF3.6-15 */
+    background: -webkit-linear-gradient(
+      45deg,
+      #be2e7d 0%,
+      #d64e54 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(
+      45deg,
+      #be2e7d 0%,
+      #d64e54 100%
+    ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
   }
-  &-beeline{
+  &-beeline {
     background: #009d62; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(
+      45deg,
+      #009d62 0%,
+      #0094d3 100%
+    ); /* FF3.6-15 */
+    background: -webkit-linear-gradient(
+      45deg,
+      #009d62 0%,
+      #0094d3 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(
+      45deg,
+      #009d62 0%,
+      #0094d3 100%
+    ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
   }
-  &-parkingsg{
+  &-parkingsg {
     background: #0164b6; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(
+      45deg,
+      #0164b6 0%,
+      #04a4e3 100%
+    ); /* FF3.6-15 */
+    background: -webkit-linear-gradient(
+      45deg,
+      #0164b6 0%,
+      #04a4e3 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(
+      45deg,
+      #0164b6 0%,
+      #04a4e3 100%
+    ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   }
 }
 
 // Color definitions
 .is {
-	&-primary {
-		background-color: $primary !important;
-	}
-	&-secondary {
-		background-color: $secondary !important;
-	}
+  &-primary {
+    background-color: $primary !important;
+  }
+  &-secondary {
+    background-color: $secondary !important;
+  }
 }
 
 // Text color
 .has-text-primary {
-	color: $primary !important;
+  color: $primary !important;
 }
 .has-text-secondary {
-	color: $secondary !important;
+  color: $secondary !important;
 }
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
   color: $secondary !important;
   border-bottom: 2px solid $secondary !important;
-	&:hover {
+  &:hover {
     border-bottom: 2px solid $secondary !important;
   }
 }
@@ -170,10 +219,31 @@ $desktop: 960px + (2 * $gap) !default;
   border-bottom: 1px solid $secondary !important;
 }
 
+.masthead-container {
+  box-shadow: none !important;
+
+  .bp-masthead {
+    height: 40px !important;
+
+    @media screen and (max-width: 1023px) {
+      a {
+        margin: 0px auto;
+      }
+    }
+  }
+}
+
+// Footer
+
+.bp-footer {
+  background-color: #313840 !important;
+}
+
 // Button
 
 .bp-button.is-text span {
-  &:hover, &:focus {
+  &:hover,
+  &:focus {
     color: $secondary;
   }
 }
@@ -186,36 +256,37 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .bp-dropdown-content {
-  p, h5 {
+  p,
+  h5 {
     font-family: hknova-regular;
   }
 }
 
 // Secondary button
 .bp-sec-button {
-	color: $secondary;
-	& span {
-		border-bottom: 2px solid $secondary !important;
-	}
-	&:hover {
-		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
-	  	}
-	  	& i {
-	    	color: $secondary-hover !important;
-	  	}
-	}
+  color: $secondary;
+  & span {
+    border-bottom: 2px solid $secondary !important;
+  }
+  &:hover {
+    & span {
+      border-bottom: 2px solid $secondary-hover !important;
+      color: $secondary-hover !important;
+    }
+    & i {
+      color: $secondary-hover !important;
+    }
+  }
 }
 
 // Bottom navigation bar
 .bottom-navigation {
-	a {
+  a {
     background-color: $secondary;
-      &:hover{
-        background-color: darken($secondary,10%) !important;
-      }
-	}
+    &:hover {
+      background-color: darken($secondary, 10%) !important;
+    }
+  }
 }
 
 .bp-section.bp-section-pagetitle {
@@ -224,50 +295,49 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Pagination
 .pagination {
-	span {
-		&:hover {
-            border-color: $secondary;
-            color: $secondary;
-		}
-        &.selected-page:hover {
-            background-color: $secondary;
-            border-color: $secondary;
-        }
-	}
-    .selected-page {
-        background-color: $secondary;
-        border-color: $secondary;
+  span {
+    &:hover {
+      border-color: $secondary;
+      color: $secondary;
     }
+    &.selected-page:hover {
+      background-color: $secondary;
+      border-color: $secondary;
+    }
+  }
+  .selected-page {
+    background-color: $secondary;
+    border-color: $secondary;
+  }
 }
 
-
 // Homepage
-#key-highlights{
-	//background-color: $primary;
+#key-highlights {
+  //background-color: $primary;
   background-color: #084e8a;
-	.col {
-		//border-left:1px solid darken($primary,10%);
-		border-left:1px solid darken(#084e8a,10%);
-		@include touch(){
-			//border-top:1px solid darken($primary,10%);
-			border-left:1px solid darken(#084e8a,10%);
-		}
-		&:hover{
-			//background-color: darken($primary,10%);
-			background-color: darken(#084e8a,10%);
-		}
-	}
+  .col {
+    //border-left:1px solid darken($primary,10%);
+    border-left: 1px solid darken(#084e8a, 10%);
+    @include touch() {
+      //border-top:1px solid darken($primary,10%);
+      border-left: 1px solid darken(#084e8a, 10%);
+    }
+    &:hover {
+      //background-color: darken($primary,10%);
+      background-color: darken(#084e8a, 10%);
+    }
+  }
 }
 
 // Navbar
-.navbar{
-  &-start{
-    .navbar-item{
-      a{
-        &.active{
-          @include touch(){
+.navbar {
+  &-start {
+    .navbar-item {
+      a {
+        &.active {
+          @include touch() {
             //border-bottom:2px solid $secondary;
-            border-bottom:2px solid #037e8a;
+            border-bottom: 2px solid #037e8a;
           }
         }
       }
@@ -276,82 +346,93 @@ $desktop: 960px + (2 * $gap) !default;
   .navbar-link:hover:after {
     //border-bottom: 1px solid $secondary;
     //border-left: 1px solid $secondary;
-		border-bottom: 1px solid #037e8a;
+    border-bottom: 1px solid #037e8a;
     border-left: 1px solid #037e8a;
   }
 
-  .navbar-item{
-    .sub-link.is-active{
+  .navbar-item {
+    .sub-link.is-active {
       //color:$secondary;
-      color:#037e8a;
+      color: #037e8a;
     }
 
-
-    .selector{
-      &.active{
+    .selector {
+      &.active {
         //background-color:$secondary;
-        background-color:#037e8a;
+        background-color: #037e8a;
       }
     }
-    &.active{
-      @include desktop(){
+    &.active {
+      @include desktop() {
         //border-bottom:1px solid $secondary;
-        border-bottom:1px solid #037e8a;
+        border-bottom: 1px solid #037e8a;
       }
     }
   }
-.navbar-item:hover {
-  a {
-    //color:$secondary;
-    color:#037e8a;
-  }
-  .selector {
+  .navbar-item:hover {
+    a {
+      //color:$secondary;
+      color: #037e8a;
+    }
+    .selector {
       //background-color:$secondary;
-      background-color:#037e8a;
+      background-color: #037e8a;
     }
   }
 }
 
 .bp-container {
-  a, b, p, u, small {
+  a,
+  b,
+  p,
+  u,
+  small {
     font-family: hknova-regular;
   }
 }
 
 // Post-content
 .content {
-	h1, h2, h3, h4, h5 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
     color: $secondary;
     font-family: hknova-regular;
-		strong {
-			color: $secondary;
-		}
+    strong {
+      color: $secondary;
+    }
   }
 
   // Custom for font types
-  a, p, li, em {
+  a,
+  p,
+  li,
+  em {
     font-family: hknova-regular;
   }
-	blockquote {
-		border-left-color: $secondary;
-	}
-	blockquote > p {
-		color: $secondary;
-	}
-	blockquote > ul {
+  blockquote {
+    border-left-color: $secondary;
+  }
+  blockquote > p {
     color: $secondary;
-  // Custom for hyperlink font colors
+  }
+  blockquote > ul {
+    color: $secondary;
+    // Custom for hyperlink font colors
   }
   a {
-    color:#4372d6;
+    color: #4372d6;
   }
   a:hover {
-    color :#3a79ff;
+    color: #3a79ff;
   }
 }
 
 // Table of Contents
-.content table td, .content table th {
+.content table td,
+.content table th {
   font-family: hknova-regular;
   font-size: 20px;
 }
@@ -365,7 +446,8 @@ $desktop: 960px + (2 * $gap) !default;
   letter-spacing: 0.5px;
 }
 
-.media-category-button:hover, .media-category-button.selected {
+.media-category-button:hover,
+.media-category-button.selected {
   color: $secondary;
   font-family: hknova-regular;
   border-bottom: 2px solid $secondary;
@@ -450,11 +532,10 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
 }
 
 .hero-dropdown {
-	display: flex;
+  display: flex;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
   width: 50%;
-
 }
 
 .is-centered {
@@ -466,4 +547,20 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   @include touch() {
     width: 100%;
   }
+}
+
+.notification-container {
+  display: flex;
+  padding: 8px 20px 8px 60px;
+  background-color: #037e8a;
+  justify-content: space-between;
+}
+
+.notification-container.hide {
+  display: none;
+}
+
+.x {
+  color: white;
+  line-height: revert;
 }
