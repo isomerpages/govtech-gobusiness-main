@@ -2,6 +2,8 @@ title: GoBusiness Singapore
 url: "https://gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
+notification: <b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit [go.gov.sg/corporate-login](go.gov.sg/corporate-login)
+
 collections:
   contact-us:
     output: true

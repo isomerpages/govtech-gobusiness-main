@@ -881,15 +881,32 @@ layout: skeleton
     }
   </style>
 
-  {% include notifications.html %}
+  {%- assign notification = site.notification | strip -%}
+  {%- if notification != "" -%}
+  <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
+    <div class="bp-container">
+      <div class="row">
+        <div class="col">
+          <div class="field has-addons bp-notification-flex">
+            <div class="control has-text-white">{{notification}}</div>
+            <div class="control">
+              <a id="cancel-notification" class="button has-text-white"><span
+                  class="delete sgds-icon sgds-icon-cross is-size-4"></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {%- endif -%}
   <div id="main-content" role="main" onclick>
     <div class="section-1">
       <div class="hero-container"></div>
       <div class="cta-container">
-        <h1>Government <br class="break-mobile" />e-Services<br class="break-desktop" /> for<br
+        <h1>Government <br class="break-mobile" />e-services<br class="break-desktop" /> for<br
             class="break-mobile" /> your business</h1>
         <p>
-          Licences, permits, grants and other e-Services, now all in one place
+          Licences, permits, grants and other e-services, now all in one place
           on GoBusiness.
         </p>
         <a href="#"><button class="primary-btn" tabindex="1">Log In to GoBusiness</button></a>

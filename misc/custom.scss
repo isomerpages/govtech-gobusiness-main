@@ -563,11 +563,10 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   justify-content: space-between;
 }
 
-.notification-container.hide {
-  display: none;
-}
+// Prevent notification banner from blocking hero banner
 
-.x {
-  color: white;
-  line-height: revert;
+#main-content {
+  .bp-notification {
+    position: relative;
+  }
 }

@@ -4,8 +4,6 @@ permalink: /business-grants/
 third_nav_title: Business Grants Portal
 ---
 
-{% include notifications.html %}
-
 ## Business Grants
 
 **Notifications:** Business Grants Portal is having maintenance and will not be available on 10th January 2021 from 12am to 7am. We apologise for any inconvenience.
