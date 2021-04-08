@@ -1,883 +1,561 @@
-<!DOCTYPE html>
-<html lang="en" class="has-navbar-fixed-top-widescreen">
-
-<head>
-    <meta charset="utf8" />
-    <meta
-        name="viewport"
-        content="width=device-width, user-scalable=yes, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="canonical" href="https://gobusiness.gov.sg/e-services/" />
-    <link
-        rel="shortcut icon"
-        href="/images/Gobiz_favicon.ico"
-        type="image/x-icon" />
-    <link
-        rel="stylesheet"
-        href="https://d33wubrfki0l68.cloudfront.net/bundles/4ddb14de7d4c8ac2234ce8e29b63e37fb97b4f67.css" />
-    <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css?family=Lato:400,600"
-        crossorigin="anonymous" />
-    <link
-        type="application/atom+xml"
-        rel="alternate"
-        href="https://gobusiness.gov.sg/feed.xml"
-        title="GoBusiness Singapore" />
-    <script
-        src="https://assets.dcube.cloud/scripts/wogaa.js"
-        crossorigin="anonymous"></script>
-    <script
-        crossorigin="anonymous"
-        src="https://d33wubrfki0l68.cloudfront.net/js/ec6ebfc3c6ea59a9286f810448ab3ac7fb791557/assets/js/facebook-pixel.js"></script>
-    <noscript><img
-            height="1"
-            width="1"
-            style="display: none"
-            src="https://www.facebook.com/tr?id=688926055194344&ev=PageView&noscript=1" /></noscript>
-    <script
-        crossorigin="anonymous"
-        src="https://d33wubrfki0l68.cloudfront.net/js/486e7bceaa02d2b37262e20a33271c051f622988/assets/js/linkedin-insights.js"></script>
-    <noscript><img
-            height="1"
-            width="1"
-            style="display: none"
-            src="https://px.ads.linkedin.com/collect/?pid=918155&fmt=gif" /></noscript>
-    <title>e-Services</title>
-</head>
+---
+layout: skeleton
+---
 
 <body>
-    <style>
-        .primary-btn {
-            font-family: hknova-regular;
-            font-weight: bold;
-            padding: 8px 20px;
-            background-color: #037e8a;
-            border-radius: 3px;
-            color: #ffffff;
-            border: 1px solid #037e8a;
-            font-size: 14px;
-            line-height: 24px;
-            cursor: pointer;
-        }
+  <style>
+    .primary-btn {
+      font-family: hknova-regular;
+      font-weight: bold;
+      padding: 8px 20px;
+      background-color: #037e8a;
+      border-radius: 3px;
+      color: #ffffff;
+      border: 1px solid #037e8a;
+      font-size: 14px;
+      line-height: 24px;
+      cursor: pointer;
+    }
 
-        .primary-btn:hover {
-            background-color: #026770;
-        }
+    .primary-btn:hover {
+      background-color: #026770;
+    }
 
-        .primary-btn:active {
-            background-color: #025B63;
-        }
+    .primary-btn:active {
+      background-color: #025B63;
+    }
 
-        .primary-btn:focus {
-            outline: 2px solid #1C8B95;
-        }
+    .primary-btn:focus {
+      outline: 2px solid #1C8B95;
+    }
 
-        #main-content {
-            background-color: #f9fafa;
-        }
+    #main-content {
+      background-color: #f9fafa;
+    }
 
-        .panels-title-container {
-            margin-top: 60px;
-            margin-bottom: 60px;
-            text-align: -webkit-center;
-        }
+    .panels-title-container {
+      margin-top: 60px;
+      margin-bottom: 60px;
+      text-align: -webkit-center;
+    }
 
-        .panels-title {
-            font-family: "hknova-regular", sans-serif;
-            font-style: normal;
-            font-weight: 600;
-            font-size: 48px;
-            line-height: 52px;
-            letter-spacing: -1px;
-        }
+    .panels-title {
+      font-family: "hknova-regular", sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 48px;
+      line-height: 52px;
+      letter-spacing: -1px;
+    }
 
-        .panels {
-            display: grid;
-            grid-gap: 20px;
-            grid-template-columns: repeat(3, 1fr);
-            max-width: fit-content;
-            margin: 0 auto;
-        }
+    .panels {
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: repeat(3, 1fr);
+      max-width: fit-content;
+      margin: 0 auto;
+    }
 
-        .panel {
-            background: #ffffff;
-            border: 1px solid #dbdfe4;
-            box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
-                0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
-                0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
-            border-radius: 5px;
-            width: 366px;
-            height: 360px;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-        }
+    .panel {
+      background: #ffffff;
+      border: 1px solid #dbdfe4;
+      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+        0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
+        0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
+      border-radius: 5px;
+      width: 366px;
+      height: 360px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+    }
 
-        /* Panel header */
+    /* Panel header */
 
-        .panel-header-container {
-            display: grid;
-            grid-template-columns: 1fr;
-            justify-items: center;
-            row-gap: 8px;
-        }
+    .panel-header-container {
+      display: grid;
+      grid-template-columns: 1fr;
+      justify-items: center;
+      row-gap: 8px;
+    }
 
-        .panel-header-icon {
-            height: 80px;
-            width: 80px;
-        }
+    .panel-header-icon {
+      height: 80px;
+      width: 80px;
+    }
 
-        .panel-header-text {
-            font-family: "hknova-regular", sans-serif;
-            font-style: normal;
-            font-weight: 600;
-            font-size: 18px;
-            line-height: 28px;
-            color: #313840 !important;
-            margin-top: 0 !important;
-            margin-bottom: 20px !important;
-        }
+    .panel-header-text {
+      font-family: "hknova-regular", sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 28px;
+      color: #313840 !important;
+      margin-top: 0 !important;
+      margin-bottom: 20px !important;
+    }
 
-        /* Panel content */
+    /* Panel content */
 
-        .panel-content {
-            display: flex;
-            margin-bottom: 10px;
-            align-items: baseline;
-        }
+    .panel-content {
+      display: flex;
+      margin-bottom: 10px;
+      align-items: baseline;
+    }
 
-        .panel-content-info-container {
-            background: #eef0f2;
-            border-radius: 5px;
-            padding: 12px 20px;
-            margin-top: auto;
-        }
+    .panel-content-info-container {
+      background: #eef0f2;
+      border-radius: 5px;
+      padding: 12px 20px;
+      margin-top: auto;
+    }
 
-        .panel-content-info-text {
-            font-family: "hknova-regular", sans-serif;
-            font-style: normal;
-            font-weight: normal;
-            font-size: 14px;
-            line-height: 22px !important;
-            color: #4a5561;
-        }
+    .panel-content-info-text {
+      font-family: "hknova-regular", sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 22px !important;
+      color: #4a5561;
+    }
 
-        .right-arrow {
-            height: 13.64px;
-            width: 7.53px !important;
-            margin: unset !important;
-        }
+    .right-arrow {
+      height: 13.64px;
+      width: 7.53px !important;
+      margin: unset !important;
+    }
 
-        .login {
-            height: 14px;
-            width: 13.48px !important;
-            margin: unset !important;
-        }
+    .login {
+      height: 14px;
+      width: 13.48px !important;
+      margin: unset !important;
+    }
 
-        .panel-content-links {
-            margin: 0 0 0 12.24px !important;
-            color: #2A6EBB !important;
-            text-decoration: none !important;
-            font-size: 14px;
-            line-height: 24px !important;
-        }
+    .panel-content-links {
+      margin: 0 0 0 12.24px !important;
+      color: #2A6EBB !important;
+      text-decoration: none !important;
+      font-size: 16px;
+      line-height: 24px !important;
+    }
 
-        .panel-content-links:hover {
-            text-decoration-line: underline !important;
-            color: #084E8A !important;
-        }
+    .panel-content-links:hover {
+      text-decoration-line: underline !important;
+      color: #084E8A !important;
+    }
 
-        .panel-content-links:visited {
-            color: #89579B !important;
-        }
+    .panel-content-links:visited {
+      color: #89579B !important;
+    }
 
-        .panel-content-links:visited:hover {
-            text-decoration-line: underline;
-            color: #521B88 !important;
-        }
+    .panel-content-links:visited:hover {
+      text-decoration-line: underline;
+      color: #521B88 !important;
+    }
 
-        /* Tags */
+    /* Tags */
 
-        .tag {
-            background: #e6f0fc;
-            border-radius: 3px;
-            display: flex;
-            flex-direction: row;
-            align-items: center;
-            padding: 2px 8px;
-            margin: 0 8px;
-        }
+    .tag {
+      background: #e6f0fc;
+      border-radius: 3px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 2px 8px;
+      margin: 0 8px;
+    }
 
-        .tag-text {
-            color: #0862cb !important;
-            font-family: "hknova-regular", sans-serif;
-            font-style: normal;
-            font-weight: normal;
-            font-size: 12px;
-            line-height: 18px;
-            margin-bottom: 0 !important;
-        }
+    .tag-text {
+      color: #0862cb !important;
+      font-family: "hknova-regular", sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 18px;
+      margin-bottom: 0 !important;
+    }
 
-        .bp-footer {
-            background-color: #313840 !important;
-        }
+    .bp-footer {
+      background-color: #313840 !important;
+    }
 
-        .underline {
-            margin-left: 0 !important;
-            text-decoration: underline !important;
-        }
+    .underline {
+      margin-left: 0 !important;
+      text-decoration: underline !important;
+      font-size: 14px !important;
+    }
 
-        .break-mobile {
-            display: none;
-            z-index: 2;
-            position: relative;
-        }
+    .break-mobile {
+      display: none;
+      z-index: 2;
+      position: relative;
+    }
 
 
-        @media only screen and (max-width: 1279px) {
-            .panels {
-                grid-template-columns: 1fr 1fr;
-                justify-items: center;
-            }
+    @media only screen and (max-width: 1279px) {
+      .panels {
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+      }
 
-            .panel {
-                width: 366px;
-            }
+      .panel {
+        width: 366px;
+      }
 
-            .break-mobile {
-                display: block;
-            }
-        }
+      .break-mobile {
+        display: block;
+      }
+    }
 
-        @media only screen and (max-width: 799px) {
-            .panels {
-                grid-template-columns: 1fr;
-                justify-items: center;
-            }
+    @media only screen and (max-width: 799px) {
+      .panels {
+        grid-template-columns: 1fr;
+        justify-items: center;
+      }
 
-            .panel {
-                width: 366px;
-            }
-        }
-    </style>
+      .panel {
+        width: 366px;
+      }
+    }
+  </style>
 
-    <div class="masthead-container" id="navbar" onclick>
-        <section class="bp-section bp-masthead">
-            <div class="bp-container">
-                <div class="row is-multiline is-vcentered">
-                    <div class="col is-9-desktop is-12-touch has-text-centered-touch">
-                        <a
-                            href="https://www.gov.sg"
-                            alt="Singapore Government"
-                            target="_blank"
-                            rel="noreferrer">
-                            <span
-                                class="sgds-icon sgds-icon-sg-crest is-size-5"
-                                style="color: red"></span>
-                            <span class="is-text">
-                                A Singapore Government Agency Website<b>
-                                    [NOTE: THIS IS A STAGING WEBSITE]
-                                </b></span>
-                        </a>
-                    </div>
-                </div>
+  {% include notifications.html %}
+  <div id="main-content" role="main" onclick>
+    <section class="bp-section">
+      <div class="bp-container content padding--top--lg padding--bottom--xl">
+        <div class="row">
+          <div class="col print-content">
+            <div class="panels-title-container" style="margin-top: 32px">
+              <h2 class="panels-title">Quick Links</h2>
             </div>
-        </section>
-        {% include navigation.html %}
-
-        <div
-            class="bp-container hide is-hidden-touch is-hidden-desktop-only search-bar"
-            id="search-bar">
-            <div class="row margin--top--sm margin--bottom--sm is-gapless">
-                <div class="col">
-                    <form action="/search/" method="get">
-                        <div class="field has-addons">
-                            <div class="control has-icons-left is-expanded">
-                                <input
-                                    class="input is-fullwidth is-large"
-                                    id="search-box"
-                                    type="text"
-                                    placeholder="What are you looking for?"
-                                    name="query"
-                                    autocomplete="off" />
-                                <span class="is-large is-left">
-                                    <i
-                                        class="sgds-icon sgds-icon-search is-size-4 search-bar"></i>
-                                </span>
-                            </div>
-                            <div class="control">
-                                <button
-                                    type="submit"
-                                    class="bp-button is-secondary is-medium has-text-white search-button">
-                                    SEARCH
-                                </button>
-                            </div>
-                        </div>
-                    </form>
+            <div class="panels">
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/signpost.svg"
+                    alt="signpost" />
+                  <h3 class="panel-header-text">Guides for Businesses</h3>
                 </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Business Structure e-Adviser</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Start a Business e-Adviser</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Food Services Licence Guided Journey</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Gov Assist e-Adviser</a>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/popular.svg"
+                    alt="popular" />
+                  <h3 class="panel-header-text">Popular Resources</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Budget 2021</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">General Exemptions Form (Covid-19)</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Permissions and Manpower Exemption Form
+                    (Covid-19)</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Productivity Solutions Grant Listing</a>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/licences-80.svg"
+                    alt="licences" />
+                  <h3 class="panel-header-text">Licences and Permits</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="login"
+                    src="/images/login.svg"
+                    alt="login" />
+                  <a class="panel-content-links" href="#">Apply for licences</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="login"
+                    src="/images/login.svg"
+                    alt="login" />
+                  <a class="panel-content-links" href="#">Cancel or renew licence</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Browse all licences</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Browse by sector</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">For new food service business owners</a>
+                </div>
+              </div>
             </div>
+
+            <div class="panels-title-container">
+              <h2 class="panels-title">e-Services for Businesses</h2>
+            </div>
+
+            <div class="panels">
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/new business.svg"
+                    alt="new_business" />
+                  <h3 class="panel-header-text">New Business Owners</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Business registration matters</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Essential business regulations</a>
+                </div>
+                <div class="panel-content-info-container">
+                  <p class="panel-content-info-text">
+                    View our
+                    <a
+                      class="panel-content-links underline"
+                      href="#">Start Guide</a>
+                    for step by step guidance on starting a business
+                  </p>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/accounting.svg"
+                    alt="accounting" />
+                  <h3 class="panel-header-text">Accounting and Finance</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Government assistance for businesses</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Taxes and GST</a>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/business admin.svg"
+                    alt="business_admin" />
+                  <h3 class="panel-header-text">Business Administration</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Change in owner or director</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Closing Down a Business</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Filing annual returns</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Managing your Corppass Profile</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Winding down a business</a>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/employment.svg"
+                    alt="employment" />
+                  <h3 class="panel-header-text">Employment Matters</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Central Provident Fund (CPF) matters</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Employer duties and obligations</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Hiring employees</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Training employees</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Workplace safety and health</a>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="panel-header-container">
+                  <img
+                    class="panel-header-icon"
+                    src="/images/growth.svg"
+                    alt="growth" />
+                  <h3 class="panel-header-text">Growth and Expansion</h3>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Business opportunities</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Corporate Social Responsibility (CSR)</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Getting business premises</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Trade marks and Intellectual Property
+                    (IP)</a>
+                </div>
+                <div class="panel-content">
+                  <img
+                    class="right-arrow"
+                    src="/images/right-arrow.svg"
+                    alt="right-arrow" />
+                  <a class="panel-content-links" href="#">Training and accreditation</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-    </div>
-    <div id="main-content" role="main" onclick>
-        <section class="bp-section">
-            <div class="bp-container content padding--top--lg padding--bottom--xl">
-                <div class="row">
-                    <div class="col print-content">
-                        <div class="panels-title-container" style="margin-top: 32px">
-                            <h2 class="panels-title">Quick Links</h2>
-                        </div>
-                        <div class="panels">
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/signpost.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Guides for Businesses</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Business Structure e-Adviser</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Start a Business e-Adviser</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Food Services Licence Guided Journey</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Gov Assist e-Adviser</a>
-                                </div>
-                            </div>
+      </div>
+    </section>
+  </div>
 
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/popular.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Popular Resources</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Budget 2021</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">General Exemptions Form (Covid-19)</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Permissions and Manpower Exemption Form
-                                        (Covid-19)</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Productivity Solutions Grant Listing</a>
-                                </div>
-                            </div>
-
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/licences-80.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Licences and Permits</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="login"
-                                        src="/images/login.svg"
-                                        alt="login" />
-                                    <a class="panel-content-links" href="#">Apply for licences</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="login"
-                                        src="/images/login.svg"
-                                        alt="login" />
-                                    <a class="panel-content-links" href="#">Cancel or renew licence</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Browse all licences</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Browse by sector</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">For new food service business owners</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="panels-title-container">
-                            <h2 class="panels-title">e-Services for Businesses</h2>
-                        </div>
-
-                        <div class="panels">
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/new business.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">New Business Owners</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Business registration matters</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Essential business regulations</a>
-                                </div>
-                                <div class="panel-content-info-container">
-                                    <p class="panel-content-info-text">
-                                        View our
-                                        <a
-                                            class="panel-content-links underline"
-                                            href="#">Start Guide</a>
-                                        for step by step guidance on starting a business
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/accounting.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Accounting and Finance</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Government assistance for businesses</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Taxes and GST</a>
-                                </div>
-                            </div>
-
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/business admin.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Business Administration</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Change in owner or director</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Closing Down a Business</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Filing annual returns</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Managing your Corppass Profile</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Winding down a business</a>
-                                </div>
-                            </div>
-
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/employment.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Employment Matters</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Central Provident Fund (CPF) matters</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Employer duties and obligations</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Hiring employees</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Training employees</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Workplace safety and health</a>
-                                </div>
-                            </div>
-
-                            <div class="panel">
-                                <div class="panel-header-container">
-                                    <img
-                                        class="panel-header-icon"
-                                        src="/images/growth.svg"
-                                        alt="" />
-                                    <h3 class="panel-header-text">Growth and Expansion</h3>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Business opportunities</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Corporate Social Responsibility (CSR)</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Getting business premises</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Trade marks and Intellectual Property
-                                        (IP)</a>
-                                </div>
-                                <div class="panel-content">
-                                    <img
-                                        class="right-arrow"
-                                        src="/images/right-arrow.svg"
-                                        alt="right-arrow" />
-                                    <a class="panel-content-links" href="#">Training and accreditation</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-    <footer class="bp-footer top-section" onclick>
-        <div class="bp-container">
-            <div class="row">
-                <div class="col header padding--top--lg padding--bottom--lg">
-                    <h5 class="sub-header has-text-white">
-                        <b>GoBusiness Singapore</b>
-                    </h5>
-                </div>
-            </div>
-            <div class="row is-top">
-                <div class="row col is-multiline is-hidden-mobile">
-                    <div
-                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-                        <p class="sub-header">
-                            <b>
-                                <a href="/start-a-business/" class="has-text-white">Start a Business</a></b>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/start-a-business/">Overview</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/start-a-business/choose-a-business-structure/">Key Steps to Start a Business</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/start-a-business/hire-employees/">Next Steps to Consider</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a
-                                href="/start-a-business/faqs/">FAQ</a>
-                        </p>
-                    </div>
-                    <div
-                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-                        <p class="sub-header">
-                            <b>
-                                <a href="/run-and-grow/" class="has-text-white">Run and Grow a Business</a></b>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/run-and-grow/">Overview</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/gov-assist/">Government Assistance</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/business-grants/">Business Grants</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/licences/">Licences and Permits</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/run-and-grow/taxes-and-gst/">Taxes, GST & Customs</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/gebiz-alerts/">GeBIZ Alerts</a>
-                        </p>
-                    </div>
-                    <div
-                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-                        <p class="sub-header">
-                            <b> <a href="/covid/" class="has-text-white">Covid-19</a></b>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/covid/">Overview</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/permittedlist/">Permitted Services</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a
-                                href="/safemanagement/general/">Safe Management Requirements</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a
-                                href="/safemanagement/sector/">Sector Specific Requirements</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a
-                                href="/safemanagement/safedigital/">Digital Solutions for Safe Management</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/guides/">Guides</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/supportschemes/immediateschemes/">Financial Support</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/supportschemes/manpowersupport/">Manpower Support</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/supportschemes/digitalsupport/">Digital Support</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/supportschemes/fnbsupport/">Sector-Specific Support</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/faq/general">FAQ</a>
-                        </p>
-                    </div>
-                    <div
-                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-                        <p class="sub-header">
-                            <b>
-                                <a href="/e-services/" class="has-text-white">E-Services</a></b>
-                        </p>
-                    </div>
-                    <div
-                        class="col is-one-quarter is-hidden-mobile padding--bottom--lg is-left">
-                        <p class="sub-header">
-                            <b>
-                                <a href="/about-us/" class="has-text-white">Who We Are</a></b>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/about-us/">About Us</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/news-and-media/">News and Media</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/contact-us/">Contact Us</a>
-                        </p>
-                        <p class="is-hidden-mobile">
-                            <a href="/faq/about/">FAQ</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="col is-hidden-tablet is-hidden-desktop">
-                    <p>
-                        <a href="/start-a-business/">Start a Business</a>
-                    </p>
-                    <p>
-                        <a href="/run-and-grow/">Run and Grow a Business</a>
-                    </p>
-                    <p>
-                        <a href="/covid/">Covid-19</a>
-                    </p>
-                    <p>
-                        <a href="/e-services/">E-Services</a>
-                    </p>
-                    <p>
-                        <a href="/about-us/">Who We Are</a>
-                    </p>
-                </div>
-            </div>
-            <div class="row">
-                <div
-                    class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
-                    <ul>
-                        <li class="is-inline-block-desktop-only">
-                            <p>
-                                <a href="/faq/about/">FAQ</a>
-                            </p>
-                        </li>
-                        <li class="is-inline-block-desktop-only">
-                            <p>
-                                <a href="/contact-us/">Contact Us</a>
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-                <div
-                    class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none"></div>
-            </div>
-        </div>
-    </footer>
-    <footer class="bp-footer bottom-section" onclick>
-        <div class="bp-container">
-            <div class="row is-vcentered">
-                <div class="col padding--top--none padding--bottom--none">
-                    <div
-                        class="col divider padding--top--none padding--bottom--none"></div>
-                </div>
-            </div>
-            <div class="row is-vcentered padding--top--sm">
-                <div class="col is-two-thirds">
-                    <ul>
-                        <li>
-                            <a href="https://www.tech.gov.sg/report_vulnerability/">Report Vulnerability</a>
-                        </li>
-                        <li>
-                            <a href="/privacy/">Privacy Statement</a>
-                        </li>
-                        <li>
-                            <a href="/terms-of-use/">Terms of Use</a>
-                        </li>
-                        <li>
-                            <a
-                                href="https://www.isomer.gov.sg"
-                                target="_blank"
-                                rel="noreferrer">Built with Isomer</a>
-                        </li>
-                    </ul>
-                </div>
-                <div
-                    class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-                    <p>&copy; 2021 GoBusiness</p>
-                    <p class="last-updated">Last Updated 02 Mar 2021</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js"></script>
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
-        integrity="sha256-0rguYS0qgS6L4qVzANq4kjxPLtvnp5nn2nB5G1lWRv4="
-        crossorigin="anonymous"></script>
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"
-        integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl"
-        crossorigin="anonymous"></script>
-    <script
-        crossorigin="anonymous"
-        src="https://d33wubrfki0l68.cloudfront.net/bundles/3ba9d1e792196ca70fed6857579125f9ee599d45.js"></script>
-    <script
-        src="https://printjs-4de6.kxcdn.com/print.min.js"
-        crossorigin="anonymous"></script>
-    <script
-        crossorigin="anonymous"
-        src="https://d33wubrfki0l68.cloudfront.net/bundles/120e43f2e3e4ceed831618f4a926e573de0d6f0e.js"></script>
-    <script
-        src="https://d33wubrfki0l68.cloudfront.net/js/a4d6e2f4c3f35b5d9024470834b472fab726fd4d/assets/js/google_analytics.js"></script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    <script
-        async
-        src="https://d33wubrfki0l68.cloudfront.net/js/2b9481e08db4e419412d58e57ab251876949aaa8/assets/js/autotrack.js"></script>
+  <script src="/jquery/jquery.min.js"></script>
+  <script src="/jquery/scroll-top.js"></script>
 </body>
-
-</html>
