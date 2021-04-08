@@ -420,13 +420,20 @@ $desktop: 960px + (2 * $gap) !default;
   }
   blockquote > ul {
     color: $secondary;
-    // Custom for hyperlink font colors
+
+  // Custom for hyperlink font colors
   }
   a {
-    color: #4372d6;
+    color: #2A6EBB;
   }
   a:hover {
-    color: #3a79ff;
+    color: #084E8A;
+  }
+  a:visited {
+    color: #89579B;
+  }
+  a:visited:hover {
+    color: #521B88;
   }
 }
 
