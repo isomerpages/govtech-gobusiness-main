@@ -404,7 +404,7 @@ layout: skeleton
       z-index: 0;
       overflow: hidden;
       background-image: url("/images/home_gobizmove.svg");
-      background-size: contain;
+      background-size: cover;
       background-position: right;
       background-repeat: no-repeat;
     }
@@ -591,6 +591,12 @@ layout: skeleton
       background-color: #313840 !important;
     }
 
+    @media (max-width: 1600px) {
+      .gobizmove-container {
+        background-size: contain;
+      }
+    }
+
     /* iPad */
 
     @media (max-width: 1279px) {
@@ -599,7 +605,7 @@ layout: skeleton
       }
 
       .section-4 {
-        height: 900px;
+        height: auto;
         background-color: #E8F1F9;
         padding-bottom: 80px;
       }
