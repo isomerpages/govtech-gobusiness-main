@@ -881,24 +881,6 @@ layout: skeleton
     }
   </style>
 
-  {%- assign notification = site.notification | strip -%}
-  {%- if notification != "" -%}
-  <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
-    <div class="bp-container">
-      <div class="row">
-        <div class="col">
-          <div class="field has-addons bp-notification-flex">
-            <div class="control has-text-white">{{notification}}</div>
-            <div class="control">
-              <a id="cancel-notification" class="button has-text-white"><span
-                  class="delete sgds-icon sgds-icon-cross is-size-4"></span></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  {%- endif -%}
   <div id="main-content" role="main" onclick>
     <div class="section-1">
       <div class="hero-container"></div>
@@ -934,8 +916,8 @@ layout: skeleton
       </a>
       <a href="#">
         <div class="service">
-          <img src="/images/psg.svg" alt="productivity-solutions-grant-listing" />
-          <p>Productivity Solutions Grant Listing</p>
+          <img src="/images/psg.svg" alt="covid-19" />
+          <p>Productivity Solutions Grant</p>
         </div>
       </a>
       <a href="#">
@@ -1194,4 +1176,5 @@ layout: skeleton
 
   <script src="/jquery/jquery.min.js"></script>
   <script src="/jquery/scroll-top.js"></script>
+  <script src="/jquery/notifications.js"></script>
 </body>

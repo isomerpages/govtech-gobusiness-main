@@ -420,20 +420,13 @@ $desktop: 960px + (2 * $gap) !default;
   }
   blockquote > ul {
     color: $secondary;
-
-  // Custom for hyperlink font colors
+    // Custom for hyperlink font colors
   }
   a {
-    color: #2A6EBB;
+    color: #4372d6;
   }
   a:hover {
-    color: #084E8A;
-  }
-  a:visited {
-    color: #89579B;
-  }
-  a:visited:hover {
-    color: #521B88;
+    color: #3a79ff;
   }
 }
 
@@ -563,14 +556,12 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   justify-content: space-between;
 }
 
-// Prevent notification banner from blocking hero banner
+.notification-container.hide {
+  display: none;
+}
 
-#main-content {
-  .bp-notification {
-    position: relative;
-  }
-
-  .control {
-    font-family: hknova-regular;
-  }
+.x {
+  color: white;
+  line-height: revert;
+  font-family: hknova-regular;
 }
