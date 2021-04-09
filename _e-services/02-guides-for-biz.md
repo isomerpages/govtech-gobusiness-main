@@ -21,7 +21,7 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 
 ----
 
-#### For New Food Service Business Owners
+#### For new food service business owners
 
 Get step-by-step help to apply for the licences you need, with our Guided Journey feature. This is for new business owners in the food services industry.
 
