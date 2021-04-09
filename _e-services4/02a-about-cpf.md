@@ -1,6 +1,6 @@
 ---
 title: Central Provident Fund (CPF) matters
-permalink: /e-services/about-cpf/
+permalink: /e-services4/about-cpf/
 third_nav_title: Employment Matters
 ---
 

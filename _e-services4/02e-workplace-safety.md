@@ -1,10 +1,10 @@
 ---
-title: Employer duties and obligations
-permalink: /e-services/employer-duties-and-obligations/
+title: Workplace safety
+permalink: /e-services4/workplace-safety/
 third_nav_title: Employment Matters
 ---
 
-## Employer duties and obligations
+## Workplace safety
 
 | **No** | **Agency** | **e-Service Name** |
 | -- | -- | -- |

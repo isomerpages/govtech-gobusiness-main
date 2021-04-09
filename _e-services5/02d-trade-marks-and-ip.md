@@ -1,6 +1,6 @@
 ---
 title: Trade marks & Intellectual Property (IP)
-permalink: /e-services/trade-marks-and-ip/
+permalink: /e-services5/trade-marks-and-ip/
 third_nav_title: Growth and Expansion
 ---
 
