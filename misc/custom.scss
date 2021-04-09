@@ -423,17 +423,22 @@ $desktop: 960px + (2 * $gap) !default;
     // Custom for hyperlink font colors
   }
   a {
-    color: #2A6EBB;
+    color: #2a6ebb;
   }
   a:hover {
-    color: #084E8A;
+    color: #084e8a;
   }
   a:visited {
-    color: #89579B;
+    color: #89579b;
   }
   a:visited:hover {
-    color: #521B88;
-  }  
+    color: #521b88;
+  }
+
+  a.jekyllcodex_button:visited,
+  a.jekyllcodex_button:visited:hover {
+    color: white !important;
+  }
 }
 
 // Table of Contents
@@ -570,4 +575,8 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   color: white;
   line-height: revert;
   font-family: hknova-regular;
+
+  a {
+    color: white;
+  }
 }

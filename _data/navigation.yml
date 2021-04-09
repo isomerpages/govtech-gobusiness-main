@@ -60,21 +60,6 @@ links:
         url: /covid-faqs/
   - title: E-Services
     url: /e-services/
-  #  sublinks:
-  #    - title: Overview
-  #      url: /e-services/
-  #    - title: Quick Links
-  #      url: /e-services/guides-for-biz/
-  #    - title: New Business Owners
-  #      url: /e-services/biz-registration-matters/
-  #    - title: Accounting and Finance
-  #      url: /e-services/gov-assist-biz/
-  #    - title: Business Administration
-  #      url: /e-services/change-in-owner-or-director/
-  #    - title: Employment Matters
-  #      url: /e-services/about-cpf/
-  #    - title: Growth and Expansion
-  #      url: /e-services/business-opportunities/
   - title: Who We Are
     url: /about-us/
     sublinks:
