@@ -1,7 +1,6 @@
 ---
 title: Guides for businesses
 permalink: /e-services/guides-for-biz/
-third_nav_title: Quick Links
 ---
 
 #### Guides for businesses
