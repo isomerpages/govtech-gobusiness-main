@@ -12,7 +12,7 @@ A wide range of government assistance schemes are available in the form of grant
 
 ![Test](/images/grow/GovAssist-banner.png)
 
-Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/){:target="_blank"}.
+Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/).
 
 **Ministry of Trade and Industry (MTI)**
 
