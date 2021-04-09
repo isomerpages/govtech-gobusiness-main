@@ -1,6 +1,6 @@
 ---
 title: Change in owner or director
-permalink: /e-services3/change-in-owner-or-director/
+permalink: /e-services/change-in-owner-or-director/
 third_nav_title: Business Administration
 ---
 

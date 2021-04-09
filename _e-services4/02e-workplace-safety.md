@@ -1,6 +1,6 @@
 ---
 title: Workplace safety
-permalink: /e-services4/workplace-safety/
+permalink: /e-services/workplace-safety/
 third_nav_title: Employment Matters
 ---
 

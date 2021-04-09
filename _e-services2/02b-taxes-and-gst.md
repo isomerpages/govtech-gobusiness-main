@@ -1,6 +1,6 @@
 ---
 title: Taxes and GST
-permalink: /e-services2/taxes-and-GST/
+permalink: /e-services/taxes-and-GST/
 third_nav_title: Accounting and Finance
 ---
 

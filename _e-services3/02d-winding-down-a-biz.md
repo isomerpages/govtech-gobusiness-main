@@ -1,6 +1,6 @@
 ---
 title: Winding down a business
-permalink: /e-services3/winding-down-a-biz/
+permalink: /e-services/winding-down-a-biz/
 third_nav_title: Business Administration
 ---
 

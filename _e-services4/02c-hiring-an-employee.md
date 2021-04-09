@@ -1,6 +1,6 @@
 ---
 title: Hiring an employee
-permalink: /e-services4/hiring-an-employee/
+permalink: /e-services/hiring-an-employee/
 third_nav_title: Employment Matters
 ---
 

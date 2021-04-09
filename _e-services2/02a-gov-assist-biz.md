@@ -1,6 +1,6 @@
 ---
 title: Government assistance for businesses
-permalink: /e-services2/gov-assist-biz/
+permalink: /e-services/gov-assist-biz/
 third_nav_title: Accounting and Finance
 ---
 

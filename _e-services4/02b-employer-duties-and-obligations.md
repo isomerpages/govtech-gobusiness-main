@@ -1,6 +1,6 @@
 ---
 title: Employer duties and obligations
-permalink: /e-services4/employer-duties-and-obligations/
+permalink: /e-services/employer-duties-and-obligations/
 third_nav_title: Employment Matters
 ---
 
