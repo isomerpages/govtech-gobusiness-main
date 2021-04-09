@@ -1,6 +1,6 @@
 ---
 title: Essential business regulations
-permalink: /e-services/essential-biz-regulations/
+permalink: /e-services1/essential-biz-regulations/
 third_nav_title: New Business Owners
 ---
 
