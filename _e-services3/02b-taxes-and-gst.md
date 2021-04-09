@@ -108,3 +108,9 @@ Learn more about taxes and GST in our [Run and Grow guide](/run-and-grow/).
 
 - [Assisted Self-Help Kit (ASK)](https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Getting-it-right/Voluntary-Compliance-Initiatives/Assisted-Self-help-Kit--ASK-/){:target="_blank"}
 <br>Review past GST submissions and discover errors with this self-assessment package from IRAS.
+
+----
+
+#### Related content
+
+{% include panels-eservices.html panels=site.data.taxes_and_gst_links %}
