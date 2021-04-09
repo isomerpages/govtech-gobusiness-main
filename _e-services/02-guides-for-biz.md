@@ -37,6 +37,6 @@ There are over 100 government schemes to assist and support your business, now a
 
 From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness will make your search for government assistance easier.
 
-{% include button.html text="Get Started with Gov Assist e-Adviser" src="
+{% include button.html text="Get Started with e-Adviser For Gov Assist" src="
 https://gaeadviser.gobusiness.gov.sg/?src=govassist_overview
 " type="primary" %}
