@@ -23,17 +23,17 @@ collections:
     output: true
   covid-faqs:
     output: true
-  e-services:
-    output: true
   e-services1:
     output: true
   e-services2:
-    output: true  
-  e-services3:
     output: true
+  e-services3:
+    output: true  
   e-services4:
     output: true
   e-services5:
+    output: true
+  e-services6:
     output: true   
 google_analytics: UA-186826212-1
 facebook-pixel: 688926055194344
