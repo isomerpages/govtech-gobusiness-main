@@ -34,3 +34,4 @@ A simple guide to a businesses’ responsibilities to operating in Singapore.
 
 #### Related Links
 
+{% include panels.html panels=site.data.rg_overview_related_links %}
