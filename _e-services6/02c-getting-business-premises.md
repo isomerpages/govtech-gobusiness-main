@@ -30,4 +30,10 @@ Learn more about it in Step 2 of our [Start guide](/start-a-business/submit-a-bu
 <br>Find out the allowed uses for all types of premises, except private shophouses.
 
 - [Officers-in-charge of conserved buildings](https://www.ura.gov.sg/maps/?service=eAdvisor){:target="_blank"}
-<br>Use the URA SPACE map to find out the officer-in-charge or planner of a conserved building.  
+<br>Use the URA SPACE map to find out the officer-in-charge or planner of a conserved building.
+
+----
+
+#### Related content
+
+{% include panels-eservices.html panels=site.data.getting_biz_premises_links %} 
