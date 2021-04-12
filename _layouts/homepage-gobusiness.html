@@ -176,11 +176,11 @@ layout: skeleton
       color: #484848;
     }
 
-    .popular-group>a>div {
+    .popular-group>div {
       margin: 5px 10px;
     }
 
-    .popular-group>a>div>p {
+    .popular-group>div>a>p {
       font-style: normal;
       font-weight: normal;
       font-size: 14px;
@@ -191,7 +191,6 @@ layout: skeleton
     .popular-tag {
       background-color: #cde5e8;
       border-radius: 5px;
-      padding: 9px 10px;
       cursor: pointer;
     }
 
@@ -205,6 +204,13 @@ layout: skeleton
 
     .popular-tag:focus {
       outline: 2px solid #1C8B95;
+    }
+
+    .popular-tag>a {
+      display: flex;
+      height: 100%;
+      width: 100%;
+      padding: 9px 10px;
     }
 
     .business-container {
@@ -917,7 +923,7 @@ layout: skeleton
       <a href="/productivity-solutions-grant/">
         <div class="service">
           <img src="/images/psg.svg" alt="productivity-solutions-grant-listing" />
-          <p>Productivity Solutions Grant listing</p>
+          <p>Productivity Solutions Grant Listing</p>
         </div>
       </a>
       <a href="/gebiz-alerts/">
@@ -937,21 +943,21 @@ layout: skeleton
     <div class="section-2">
       <div class="popular-group">
         <p>Popular:</p>
-        <a href="#">
-          <div class="popular-tag">
+        <div class="popular-tag">
+          <a href="#">
             <p>Budget 2021</p>
-          </div>
-        </a>
-        <a href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2/?src=homepage" target="_blank">
-          <div class="popular-tag">
+          </a>
+        </div>
+        <div class="popular-tag">
+          <a href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2/?src=homepage" target="_blank">
             <p>Permissions and Manpower Declaration</p>
-          </div>
-        </a>
-        <a href="https://foodservices.gobusiness.gov.sg/exemptions/login/?src=homepage" target="_blank">
-          <div class="popular-tag">
+          </a>
+        </div>
+        <div class="popular-tag">
+          <a href="https://foodservices.gobusiness.gov.sg/exemptions/login/?src=homepage" target="_blank">
             <p>General Exemptions</p>
-          </div>
-        </a>
+          </a>
+        </div>
       </div>
       <div class="business-container">
         <div>
@@ -960,7 +966,8 @@ layout: skeleton
             alt="local-business-guidance" />
           <h2>Guidance for local businesses</h2>
           <p>
-            Official information for <a class="panel-content-links underline" href="/start-a-business/">starting a business</a>, <a
+            Official information for <a class="panel-content-links underline" href="/start-a-business/">starting a
+              business</a>, <a
               class="panel-content-links underline" href="/run-and-grow/">
               growing its presence</a>, and navigating through <a class="panel-content-links underline"
               href="/covid/">Covid-19</a>
@@ -972,8 +979,10 @@ layout: skeleton
             alt="business-transactions" />
           <h2>Find the right resources with e-Adviser</h2>
           <p>
-            Use our e-Advisers to <a class="panel-content-links underline" href="https://gaeadviser.gobusiness.gov.sg/?src=homepage">identify suitable government assistance</a>,
-            <a class="panel-content-links underline" href="/e-services/guides-for-biz/">and more</a>, tailored to your business needs
+            Use our e-Advisers to <a class="panel-content-links underline"
+              href="https://gaeadviser.gobusiness.gov.sg/?src=homepage">identify suitable government assistance</a>,
+            <a class="panel-content-links underline" href="/e-services/guides-for-biz/">and more</a>, tailored to your
+            business needs
           </p>
         </div>
       </div>
@@ -1002,14 +1011,16 @@ layout: skeleton
               class="right-arrow"
               src="/images/right-arrow.svg"
               alt="right-arrow" />
-            <a class="panel-content-links" href="https://eadviser.g2b.sg/businessstructure/?src=eservices" target="_blank">Business Structure e-Adviser</a>
+            <a class="panel-content-links" href="https://eadviser.g2b.sg/businessstructure/?src=eservices"
+              target="_blank">Business Structure e-Adviser</a>
           </div>
           <div class="panel-content">
             <img
               class="right-arrow"
               src="/images/right-arrow.svg"
               alt="right-arrow" />
-            <a class="panel-content-links" href="https://eadviser.g2b.sg/startabusiness/?src=homepage" target="_blank">Start a Business e-Adviser</a>
+            <a class="panel-content-links" href="https://eadviser.g2b.sg/startabusiness/?src=homepage"
+              target="_blank">Start a Business e-Adviser</a>
           </div>
           <div class="panel-content">
             <img
@@ -1023,7 +1034,8 @@ layout: skeleton
               class="right-arrow"
               src="/images/right-arrow.svg"
               alt="right-arrow" />
-            <a class="panel-content-links" href="https://gaeadviser.gobusiness.gov.sg/?src=homepage" target="_blank">Gov Assist e-Adviser</a>
+            <a class="panel-content-links" href="https://gaeadviser.gobusiness.gov.sg/?src=homepage" target="_blank">Gov
+              Assist e-Adviser</a>
           </div>
           <div class="panel-content-info-container">
             <p class="panel-content-info-text">
@@ -1054,7 +1066,8 @@ layout: skeleton
               class="right-arrow"
               src="/images/right-arrow.svg"
               alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/employer-duties-and-obligations/">Employer duties and obligations</a>
+            <a class="panel-content-links" href="/e-services/employer-duties-and-obligations/">Employer duties and
+              obligations</a>
           </div>
           <div class="panel-content">
             <img
@@ -1099,7 +1112,8 @@ layout: skeleton
               class="right-arrow"
               src="/images/right-arrow.svg"
               alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/corporate-social-responsibility/">Corporate Social Responsibility (CSR)</a>
+            <a class="panel-content-links" href="/e-services/corporate-social-responsibility/">Corporate Social
+              Responsibility (CSR)</a>
           </div>
           <div class="panel-content">
             <img
@@ -1113,7 +1127,8 @@ layout: skeleton
               class="right-arrow"
               src="/images/right-arrow.svg"
               alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/trade-marks-and-ip/">Trade marks and Intellectual Property (IP)</a>
+            <a class="panel-content-links" href="/e-services/trade-marks-and-ip/">Trade marks and Intellectual Property
+              (IP)</a>
           </div>
           <div class="panel-content">
             <img
