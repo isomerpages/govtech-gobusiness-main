@@ -21,6 +21,7 @@ To help businesses expand and transform, the government provides support in the 
 
 Find licences issued by all the government agencies on GoBusiness.
 
+{% include panels-linksdescription.html panels=site.data.rg_overview_licences_permit %}
 
 #### Taxes, GST and Customs
 
@@ -28,7 +29,7 @@ Find licences issued by all the government agencies on GoBusiness.
 
 A simple guide to a businesses’ responsibilities to operating in Singapore.
 
-
+{% include panels.html panels=site.data.rg_overview_taxesgstcustoms %}
 
 ----
 
