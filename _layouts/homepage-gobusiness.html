@@ -455,6 +455,10 @@ layout: skeleton
       padding: 50px 0;
     }
 
+    .section-5 .view-more {
+      text-align: center;
+      padding: 28px 0 10px;
+    }
 
     .section-5>h4,
     .section-6>h4 {
@@ -530,10 +534,6 @@ layout: skeleton
       border: 1px solid #b3d8dc;
       box-sizing: border-box;
       border-radius: 3px;
-    }
-
-    .resources {
-      width: 336px;
     }
 
     .news-media-container {
@@ -867,6 +867,10 @@ layout: skeleton
         width: 100vw;
       }
 
+      .news-media-container>.col {
+        margin: 0 !important;
+      }
+
       .section-5>h1 {
         font-size: 40px;
         line-height: 44px;
@@ -1170,14 +1174,10 @@ layout: skeleton
       <h4 class="uppercase-text">News And Media</h4>
       <h1>Be in the know</h1>
       {% include news-and-media.html %}
-      <div class="row has-text-centered margin--top padding--bottom--lg">
-        <div class="col is-offset-one-third is-one-third">
-          <div>
-            <a href="/news-and-media/">
-              <button class="primary-btn">View More News</button>
-            </a>
-          </div>
-        </div>
+      <div class="view-more break-desktop">
+        <a href="/news-and-media/">
+          <button class="primary-btn">View More News</button>
+        </a>
       </div>
     </div>
 
