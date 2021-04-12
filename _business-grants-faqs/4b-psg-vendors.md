@@ -12,4 +12,4 @@ accordion-new:
 
 {% include accordion-new.html %}
 
-[Back to Business Grants Overview](/business-grants/)
+[Back to Business Grants Overview](/business-grants-portal/)

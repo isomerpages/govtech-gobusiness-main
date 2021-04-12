@@ -22,4 +22,4 @@ accordion-new:
 #### About Business Grants FAQ
 {% include accordion-new.html %}
 
-[Back to Business Grants Overview](/business-grants/)
+[Back to Business Grants Overview](/business-grants-portal/)
