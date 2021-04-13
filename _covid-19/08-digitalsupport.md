@@ -1,38 +1,40 @@
 ---
 title: Digital Support
 permalink: /supportschemes/digitalsupport/
+accordion-new:
+  - title: Digital Resilience Bonus (DRB)
+    content:  |
+      Payouts of up to $10,000 to help businesses digitalise with PayNow Corporate, e-invoicing, e-commerce solutions and more. DRB is currently only available for the Food Services and Retail sectors.
+
+      Find out more about DRB at <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Resilience-Bonus" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
+
+  - title: Digital Solutions for Safe Reopening
+    content:  |           
+      A range of digital solutions to help businesses comply with Safe Management Measures. This includes Safe Entry and remote working solutions.
+
+      Find out more about solutions at <a href="https://go.gov.sg/remoteworking" target="_blank">Infocomm Media Development Authority (IMDA)</a>.   
+
+  - title: Workforce Management Solutions
+    content:  |
+      A range of digital solutions to help businesses manage a workforce by facilitating staff schedules, manpower resource allocation to different work sites, staggered working hours, work shifts and tracking workers on the move.
+
+      Find out more about solutions at <a href="https://go.gov.sg/workfacemanagement" target="_blank">Infocomm Media Development Authority (IMDA)</a>.  
+
+  - title: Bill and Pay Online Solutions
+    content:  |      
+      A range of digital solutions to help businesses use electronic invoicing and digital payments.
+
+      Find out more about the solutions at <a href="https://go.gov.sg/payandbillonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.  
+
+  - title: Sell online
+    content:  |  
+      A range of digital solutions to help businesses move from offline to online sales and reach a wider network of customers.
+
+      Find out more at <a href="https://go.gov.sg/sellonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.                  
 ---
 
 ## Digital Support
 
 Running a business in the face of a pandemic has its own unique challenges, and highlight the importance of adapting fast and staying up to date. Here are some resources and schemes to support your business in going digital.
 
-#### Digital Resilience Bonus (DRB)
-
-Payouts of up to $10,000 to help businesses digitalise with PayNow Corporate, e-invoicing, e-commerce solutions and more. DRB is currently only available for the Food Services and Retail sectors.
-
-Find out more about DRB at <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Resilience-Bonus" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
-
-#### Digital Solutions for Safe Reopening
-
-A range of digital solutions to help businesses comply with Safe Management Measures. This includes Safe Entry and remote working solutions.
-
-Find out more about solutions at <a href="https://go.gov.sg/remoteworking" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
-
-#### Workforce Management Solutions
-
-A range of digital solutions to help businesses manage a workforce by facilitating staff schedules, manpower resource allocation to different work sites, staggered working hours, work shifts and tracking workers on the move.
-
-Find out more about solutions at <a href="https://go.gov.sg/workfacemanagement" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
-
-#### Bill and Pay Online Solutions
-
-A range of digital solutions to help businesses use electronic invoicing and digital payments.
-
-Find out more about the solutions at <a href="https://go.gov.sg/payandbillonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
-
-#### Sell online
-
-A range of digital solutions to help businesses move from offline to online sales and reach a wider network of customers.
-
-Find out more at <a href="https://go.gov.sg/sellonline" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
+{% include accordion-new.html %}
