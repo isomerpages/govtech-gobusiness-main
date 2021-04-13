@@ -84,7 +84,6 @@ Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Busi
 ![TraceTogether](/images/covid/tracetogether_logo.png "TraceTogether")
 
 TraceTogether is a mobile app that supports Singapore's efforts to help mitigate the spread of COVID-19 through community-driven contact tracing.
-
 ##### How it works
 Both the TraceTogether app and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. These devices estimate the distance between users, and the duration of the such encounters. These records are stored locally and encrypted for 25 days, to cover the incubation period of the virus as well as the time taken for individuals to seek treatment and get tested for COVID-19. After the 25-day period, the data is automatically deleted.
 
