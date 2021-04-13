@@ -2,6 +2,7 @@
 title: Guides
 permalink: /guides/
 ---
+## Guides
 
 |               User Guides              | Download |
 |:---------------------------------:|----------|
