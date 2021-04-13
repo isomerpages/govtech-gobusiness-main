@@ -21,7 +21,7 @@
         width: 60px;
     }
 
-    .panel-description {
+    .panel-text {
         font-family: "HK Nova", sans-serif;
         font-size: 18px;
         font-weight: 600;
@@ -57,7 +57,7 @@
     {% for panel in include.panels %}
     <div class="panel">
         <span class="panel-image">{{ panel.image }}</span>
-        <p class="panel-description">{{ panel.description }}</p>
+        <p class="panel-text">{{ panel.text }}</p>
         <!-- description to change the style -->
         <a class="panel-link" href="{{ panel.link }}">{{ panel.description1 }}</a>
     </div>

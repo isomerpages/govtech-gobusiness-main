@@ -1,19 +1,19 @@
 - image: <img src="/images/grow/Loans-Icon.png">
-  description: Loans
+  text: Loans
   link: /gov-assist/loans/
   description1: View all Loans
 
 - image: <img src="/images/grow/Grants-Icon.png">
-  description: Grants
+  text: Grants
   link: /gov-assist/grants/
   description1: View all Grants
 
 - image: <img src="/images/grow/Tax-Incentives-Icon.png">
-  description: Tax Incentives
+  text: Tax Incentives
   link: /gov-assist/tax-incentives/
   description1: View all Tax Incentives
 
 - image: <img src="/images/grow/Toolkit-Programmes-Icon.png">
-  description: Toolkits/Programmes
+  text: Toolkits/Programmes
   link: /gov-assist/toolkits-programmes/
   description1: View all Toolkits/Programmes
