@@ -9,7 +9,7 @@ accordion-new:
 
       Find out more about the fund at <a href="https://go.gov.sg/tourism2" target="_blank">Singapore Tourism Board (STB)</a>.
 
-  - title: COVID-19 Cleaning Support for Tourism-related Establishments
+  - title: COVID-19 Cleaning Support for tourism-related establishments
     content:  |
       This scheme helps with the third-party costs of professional cleaning services incurred by tourism-related establishments impacted by COVID-19.
 

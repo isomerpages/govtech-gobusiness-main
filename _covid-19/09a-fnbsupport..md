@@ -15,7 +15,7 @@ accordion-new:
 
       Find out more about the package at <a href="https://go.gov.sg/fdbp" target="_blank">Enterprise Singapore (ESG)</a>.  
 
-  - title: E-Commerce Booster Package for Retailers
+  - title: E-Commerce Booster Package for retailers
     content:  |   
       This helps retail businesses with 90% of the cost of using e-commerce platforms for local and/or overseas markets. Additional manpower support will also be provided to help with the transition to online sales.
 
