@@ -25,11 +25,11 @@ Most businesses need licences and permits for different business activities. Wit
 
 ![Other Business Owners](/images/grow/allotherbizowners.png)
 
-<h2 id="amend-renew-liences">Amend/Renew licences</h2>
+<h2 id="amend-renew-licences">Amend/Renew licences</h2>
 
 ## Amend/Renew licences
 
-If your licence is from](#amend-renew-liences)
+If your licence is from
 
 | --- | --- |
 |**SFA, NParks and AVS**|[Log In here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}|
