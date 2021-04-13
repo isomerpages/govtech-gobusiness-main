@@ -50,6 +50,8 @@ For avoidance of doubt, all premises, including small retail outlets, must still
 
 *This list will be updated as more activities and services are resumed.
 
+----
+
 #### 2. SafeEntry Gateway
 
 SafeEntry Gateway will be progressively introduced as an additional mode of SafeEntry check-in. This follows a 5-month trial at selected locations, including Downtown East.
@@ -79,12 +81,16 @@ Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Busi
 
 **Selected public museums, heritage institutions, and galleries will be informed by National Heritage Board.
 
+----
+
 #### 3. TraceTogether
 
 ![TraceTogether](/images/covid/tracetogether_logo.png "TraceTogether")
 
 TraceTogether is a mobile app that supports Singapore's efforts to help mitigate the spread of COVID-19 through community-driven contact tracing.
-##### How it works
+
+**How it works**
+
 Both the TraceTogether app and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. These devices estimate the distance between users, and the duration of the such encounters. These records are stored locally and encrypted for 25 days, to cover the incubation period of the virus as well as the time taken for individuals to seek treatment and get tested for COVID-19. After the 25-day period, the data is automatically deleted.
 
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more quickly.
