@@ -15,8 +15,8 @@ All businesses should take note of the following:
 
 ----
 
-***Be Ready, Stay Safe***
-#### Overview of safe management measures
+#### Be Ready, Stay Safe
+**Overview of safe management measures**
 
 - Here's an overview for Safe Management Measures.
 <br><br>
@@ -28,6 +28,7 @@ All businesses should take note of the following:
 </figure>
 
 - Resources
+
 |         7 Key Requirements for Safe Management at Workplaces          |                                                                                                                                                                           Download                                                                                                                                                                            |
 | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |         Full infographic         |                                                                                                               <a href="/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a>                                                                                                                |
