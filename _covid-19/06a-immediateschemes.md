@@ -2,7 +2,6 @@
 title: Immediate support
 permalink: /supportschemes/immediateschemes
 third_nav_title: Financial Support
----
 accordion-new:
   - title: Jobs Support Scheme (JSS)(Extension for employers in Tier 1 and 2 sectors)
     content:  |  
@@ -13,7 +12,7 @@ accordion-new:
 
       Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
 
----    
+---
 ## Immediate support
 
 In the wake of COVID-19, here are the available schemes to give your businesses immediate support and relief.
