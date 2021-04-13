@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: About
 permalink: /licences/
 third_nav_title: Licences
 ---
@@ -29,9 +29,6 @@ Most businesses need licences and permits for different business activities. Wit
 
 If your licence is from
 
-----
 | --- | --- |
 |**SFA, NParks and AVS**|[Log In here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}|
 |**All other agencies**|[Log In here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}|
-
-----
