@@ -27,8 +27,6 @@ Most businesses need licences and permits for different business activities. Wit
 
 <h2 id="amend-renew-licences">Amend/Renew licences</h2>
 
-## Amend/Renew licences
-
 If your licence is from
 
 | --- | --- |
