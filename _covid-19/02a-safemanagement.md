@@ -16,7 +16,6 @@ All businesses should take note of the following:
 ----
 
 #### Be Ready, Stay Safe
-**Overview of safe management measures:**
 
 - Here's an overview for Safe Management Measures.
 <br><br>
