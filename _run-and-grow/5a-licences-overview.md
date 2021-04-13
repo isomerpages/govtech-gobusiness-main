@@ -25,7 +25,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ![Other Business Owners](/images/grow/allotherbizowners.png)
 
-## Amend/Renew licences
+## [Amend/Renew licences](#amend-renew-liences)
 
 If your licence is from
 
