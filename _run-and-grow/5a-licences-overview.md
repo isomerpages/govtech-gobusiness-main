@@ -22,10 +22,10 @@ Most businesses need licences and permits for different business activities. Wit
 <p>
 {% include button.html text="Log in to Guided Journey" src="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs" type="primary" %}
 </p>
-<id="amend-renew-licences">
+
 ![Other Business Owners](/images/grow/allotherbizowners.png)
 
-## Amend/Renew licences
+<h2 id="amend-renew-licences">Amend/Renew licences</h2>
 
 If your licence is from
 
