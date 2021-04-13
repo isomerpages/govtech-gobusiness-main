@@ -12,67 +12,66 @@ accordion-new:
 
       Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
 
+  - title: Enhanced Wage Credit Scheme (WCS)
+    content:  |  
+      Wage increases are co-funded by the Government under WCS. An additional $500 million has been disbursed, on top of $600m disbursed in March 2020. WCS has been extended by one year to 2021 with the government co-funding 15% and the qualifying gross wage ceiling set at $5,000.
+
+      Check for eligibility <a href="https://go.gov.sg/wcseligibility" target="_blank">here</a>.
+
+  - title: Deferment of income tax payments
+    content:  |    
+      This automatically defers income tax payments for 3 months, for companies and self-employed persons (SEPs).
+      * Companies: tax due from April to June 2020 payable only from July to September 2020
+
+      Click <a href="https://go.gov.sg/defercal" target="_blank">here</a> to find out your deferment date with our Deferment Calculator.    
+
+  - title: Property tax rebate for 2020
+    content:  |      
+      * 100% rebate for qualifying commercial properties
+      * 60% rebate for the Integrated Resorts
+      * 30% rebate for other non-residential properties
+      * Laws to ensure property owners pass on Property Tax rebate to tenants
+
+      Find out more about the new Bill at <a href="https://go.gov.sg/newbill" target="_blank">Ministry of Law (MinLaw)</a>.
+
+  - title: Rental waivers
+    content:  |    
+      * 5 months’ rental waiver for stallholders in hawker centres and markets, with a minimum waiver of $200 per month
+      * 4 months’ rental waiver for commercial tenants in government-owned/managed residential premises
+      * 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
+
+      Find out more rebate details for <a href="https://go.gov.sg/nearebate" target="_blank">National Environment Agency (NEA)</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">Housing & Development Board (HDB)</a>, <a href="https://go.gov.sg/slarebate" target="_blank">Singapore Land Authority (SLA)</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">Ministry of Culture, Community & Youth (MCCY)</a>.
+
+  - title: Government cash grant for SME tenants in private properties
+    content:  |        
+      Automatically disbursed to qualifying property owners from end-July 2020
+      * Cash grant of ~0.8 month's of rent for qualifying commercial property owners
+      * Cash grant of ~0.64 month's of rent for qualifying non-residential property owners, e.g. industrial and office properties
+
+      Click <a href="https://go.gov.sg/smecashgrant" target="_blank">here</a>for full details from Ministry of Finance (MOF).
+
+  - title: Corporate income tax rebate
+    content:  |          
+      Corporate Income Tax Rebate for YA2020
+      * 25% of tax payable, capped at $15,000 per company
+
+      Find out more at <a href="https://go.gov.sg/corporateincometax" target="_blank">Inland Revenue Authority of Singapore (IRAS)</a>
+
+  - title: Deferment of higher CPF contribution rates
+    content:  |     
+      Increase in CPF contribution rates for senior workers deferred by 1 year, from 1 January 2021 to 1 January 2022.    
+
+  - title: Season parking waiver for private bus season parking holders
+    content:  |       
+      * On 26 March 2020, the government announced the Private Bus Support Package (PBSP). As part of the PBSP, private bus (including coach) season parking pass holders at all Government-owned car parks received a 6-month waiver of season parking fees from 1 May to 31 October 2020.
+      * With effect from 31 October 2020, this season parking waiver will be extended till 31 March 2021.
+
+      Download PDF for Season Parking Waiver Extension <a href="/images/covid/MR08420_Extension of Season Parking   Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Details</a>.
+
+      Download PDF for Season Parking Waiver Extension <a href="/images/covid/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">FAQ</a>.
 ---
 ## Immediate support
 
 In the wake of COVID-19, here are the available schemes to give your businesses immediate support and relief.
 
 {% include accordion-new.html %}
-
-#### Enhanced Wage Credit Scheme (WCS)
-
-Wage increases are co-funded by the Government under WCS. An additional $500 million has been disbursed, on top of $600m disbursed in March 2020. WCS has been extended by one year to 2021 with the government co-funding 15% and the qualifying gross wage ceiling set at $5,000.
-
-Check for eligibility <a href="https://go.gov.sg/wcseligibility" target="_blank">here</a>.
-
-#### Deferment of income tax payments
-
-This automatically defers income tax payments for 3 months, for companies and self-employed persons (SEPs).
-  * Companies: tax due from April to June 2020 payable only from July to September 2020
-
-Click <a href="https://go.gov.sg/defercal" target="_blank">here</a> to find out your deferment date with our Deferment Calculator.
-
-#### Property tax rebate for 2020
-
-* 100% rebate for qualifying commercial properties
-* 60% rebate for the Integrated Resorts
-* 30% rebate for other non-residential properties
-* Laws to ensure property owners pass on Property Tax rebate to tenants
-
-Find out more about the new Bill at <a href="https://go.gov.sg/newbill" target="_blank">Ministry of Law (MinLaw)</a>.
-
-#### Rental waivers
-
-* 5 months’ rental waiver for stallholders in hawker centres and markets, with a minimum waiver of $200 per month
-* 4 months’ rental waiver for commercial tenants in government-owned/managed residential premises
-* 2 months' rental waiver for non-resident tenants in government-owned/managed residential premises
-
-Find out more rebate details for <a href="https://go.gov.sg/nearebate" target="_blank">National Environment Agency (NEA)</a>, <a href="https://go.gov.sg/hdbrebate" target="_blank">Housing & Development Board (HDB)</a>, <a href="https://go.gov.sg/slarebate" target="_blank">Singapore Land Authority (SLA)</a> and <a href="https://go.gov.sg/nacadvisory" target="_blank">Ministry of Culture, Community & Youth (MCCY)</a>.
-
-#### Government cash grant for SME tenants in private properties
-
-Automatically disbursed to qualifying property owners from end-July 2020
-  * Cash grant of ~0.8 month's of rent for qualifying commercial property owners
-  * Cash grant of ~0.64 month's of rent for qualifying non-residential property owners, e.g. industrial and office properties
-
-Click <a href="https://go.gov.sg/smecashgrant" target="_blank">here</a>for full details from Ministry of Finance (MOF).
-
-#### Corporate income tax rebate
-
-Corporate Income Tax Rebate for YA2020
-  * 25% of tax payable, capped at $15,000 per company
-
-Find out more at <a href="https://go.gov.sg/corporateincometax" target="_blank">Inland Revenue Authority of Singapore (IRAS)</a>
-
-#### Deferment of higher CPF contribution rates
-
-Increase in CPF contribution rates for senior workers deferred by 1 year, from 1 January 2021 to 1 January 2022
-
-#### Season parking waiver for private bus season parking holders
-
-* On 26 March 2020, the government announced the Private Bus Support Package (PBSP). As part of the PBSP, private bus (including coach) season parking pass holders at all Government-owned car parks received a 6-month waiver of season parking fees from 1 May to 31 October 2020.
-* With effect from 31 October 2020, this season parking waiver will be extended till 31 March 2021.
-
-Download PDF for Season Parking Waiver Extension <a href="/images/covid/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">Details</a>.
-
-Download PDF for Season Parking Waiver Extension <a href="/images/covid/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank">FAQ</a>.
