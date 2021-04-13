@@ -3,23 +3,26 @@ title: Immediate support
 permalink: /supportschemes/immediateschemes
 third_nav_title: Financial Support
 ---
+accordion-new:
+  - title: Jobs Support Scheme (JSS)(Extension for employers in Tier 1 and 2 sectors)
+    content:  |  
+      * To help employers retain workers, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to August 2020).
+      * The Government will co-fund between 10% to 50% of the first $4,600 of gross monthly wages paid to each local employee in the subsequent 7-month period (Sep 2020 to Mar 2021).
+      * In Budget 2021, JSS was extended by up to 6 months from Apr 2021 to Sep 2021 for firms in Tiers 1 and 2 sectors, with a co-funding at 10% to 30%.
+      * Employers will receive up to 7 main JSS payouts in April, July, October 2020, and in March, June, September, and December 2021 (with an additional special payout in May 2020).
 
+      Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
+
+---    
 ## Immediate support
 
 In the wake of COVID-19, here are the available schemes to give your businesses immediate support and relief.
 
-#### Jobs Support Scheme (JSS)(Extension for employers in Tier 1 and 2 sectors)
+{% include accordion-new.html %}
 
-* To help employers retain workers, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to August 2020).
-* The Government will co-fund between 10% to 50% of the first $4,600 of gross monthly wages paid to each local employee in the subsequent 7-month period (Sep 2020 to Mar 2021).
-* In Budget 2021, JSS was extended by up to 6 months from Apr 2021 to Sep 2021 for firms in Tiers 1 and 2 sectors, with a co-funding at 10% to 30%.
-* Employers will receive up to 7 main JSS payouts in April, July, October 2020, and in March, June, September, and December 2021 (with an additional special payout in May 2020).
+#### Enhanced Wage Credit Scheme (WCS)
 
-Find out more at <a href="https://go.gov.sg/jss" target="_blank">IRAS</a> or check for eligibility <a href="https://go.gov.sg/jsseligibility" target="_blank">here</a>.
-
-#### Enhanced wage credit scheme (WCS)
-
-Wage increases are co-funded by the Government under WCS. An additional $500 million has been disbursed, on top of $600m disbursed in March 2020.
+Wage increases are co-funded by the Government under WCS. An additional $500 million has been disbursed, on top of $600m disbursed in March 2020. WCS has been extended by one year to 2021 with the government co-funding 15% and the qualifying gross wage ceiling set at $5,000.
 
 Check for eligibility <a href="https://go.gov.sg/wcseligibility" target="_blank">here</a>.
 
