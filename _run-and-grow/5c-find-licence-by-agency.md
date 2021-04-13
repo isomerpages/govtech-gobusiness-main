@@ -518,7 +518,7 @@ accordion-u:
       |Apply for Planning Permission|[Corenet-Ess](https://www.corenet-ess.gov.sg/ess/){:target="_blank"}|
 ---
 
-## Find Licence by Agency
+## Find licences by agency
 
 Select a government agency to see its licences and apply for them.
 
