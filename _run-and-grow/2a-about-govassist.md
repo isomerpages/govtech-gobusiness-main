@@ -12,7 +12,7 @@ From funding support to references and programs for building capabilities, skill
 
 #### Not sure which schemes to apply for?
 
-Find out with e-Adviser for Government Assistance. Simply answer a few questions about your business needs to get our recommendations. Here's how it works.
+Find out with e-Adviser for Government Assistance, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
 <p>
 <div class="bp-youtube">
