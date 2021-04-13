@@ -27,7 +27,7 @@ Find licences issued by all the government agencies on GoBusiness.
 
 ![Taxes GST and Customs](/images/grow/RG-Overview-Taxes-Banner.png)
 
-A simple guide to a businesses’ responsibilities to operating in Singapore.
+A simple guide to a business' responsibilities while operating in Singapore.
 
 {% include panels.html panels=site.data.rg_overview_taxesgstcustoms %}
 
