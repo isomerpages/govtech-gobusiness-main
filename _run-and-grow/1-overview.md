@@ -11,7 +11,7 @@ With GoBusiness, you get easy and efficient access to over 100 government assist
 
 ![Gov Assist](/images/grow/RG-Overview-GovAssist-Banner.png)
 
-To help businesses expand and transform, the government provides support in the form of [Toolkits / Programmes](/gov-assist/toolkits-programmes/), [Loans](/gov-assist/loans/), [Grants](/gov-assist/grants/) and [Tax Incentives](/gov-assist/tax-incentives/)
+To help businesses expand and transform, the government provides support in the form of [Toolkits / Programmes](/gov-assist/toolkits-programmes/), [Loans](/gov-assist/loans/), [Grants](/gov-assist/grants/) and [Tax Incentives](/gov-assist/tax-incentives/).
 
 {% include panels-linksdescription.html panels=site.data.rg_overview_ga %}
 

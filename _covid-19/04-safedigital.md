@@ -1,7 +1,6 @@
 ---
-title: Digital Solutions for Safe Management
+title: Digital Solutions for Safe Reopening
 permalink: /safemanagement/safedigital/
 ---
-## Digital Solutions for Safe Management
 
-For support on relevant digital solutions, find out more at <a href="https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
+<meta http-equiv=refresh content="0;url=https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening">
