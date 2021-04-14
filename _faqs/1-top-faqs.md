@@ -12,3 +12,5 @@ accordion-new:
 
 #### Most Popular FAQ
 {% include accordion-new.html %}
+
+<script src="/jquery/bp-menu-new-tab.js"></script>
