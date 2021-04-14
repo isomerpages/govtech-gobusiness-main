@@ -2,6 +2,6 @@
 title: Covid-19
 permalink: /faqs/covid-faqs
 ---
-<meta http-equiv="REFRESH" content="0;url=/covid-faqs/" target="_blank">
+<meta http-equiv="REFRESH" content="0;url=/covid-faqs/">
 
-[Covid-19 FAQs](/covid-faqs/){:target="_blank"}
+
