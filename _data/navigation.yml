@@ -71,5 +71,5 @@ links:
         url: /contact-us/
       - title: FAQ
         url: /faqs/popular/
-  - title: <img src="/images/login-btn.svg" alt="login-btn">
+  - title: <div class="login-btn"></div>
     url: /login/?src=top_nav

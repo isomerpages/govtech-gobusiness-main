@@ -18,9 +18,22 @@
         font-family: "HK Nova", sans-serif;
         font-size: 24px;
         font-weight: 600;
-        width: 60px;
+        width: auto;
+        height: 60px;
     }
-    
+
+    .panel-image>img {
+        width: auto;
+        height: 100%;
+        margin: 0;
+    }
+
+    .panel-image>img[src*="budget2021_govassist.png"] {
+        width: 150px;
+        object-fit: cover;
+        object-position: 90% 10%;
+    }
+
     .panel-text {
         font-family: "HK Nova", sans-serif;
         font-size: 18px;
@@ -50,13 +63,12 @@
             grid-template-columns: 100%;
         }
     }
-
 </style>
 <div class="panels">
 
     {% for panel in include.panels %}
     <div class="panel">
-        <span class="panel-image">{{ panel.image }}</span>
+        <div class="panel-image">{{ panel.image }}</div>
         <p class="panel-text">{{ panel.text }}</p>
         <!-- description to change the style -->
         <a class="panel-link" href="{{ panel.link }}">{{ panel.description1 }}</a>

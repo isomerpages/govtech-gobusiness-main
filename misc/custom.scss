@@ -580,3 +580,49 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
     color: white;
   }
 }
+
+.login-btn {
+  background-color: #037e8a;
+  height: 40px;
+  width: 83px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #037e8a;
+
+  &::after {
+    content: "Log In";
+    color: white;
+    text-transform: capitalize;
+    position: absolute;
+    left: 25%;
+    top: 22%;
+    font-family: hknova-regular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+  }
+  &:hover {
+    background-color: #026770;
+  }
+  &:active {
+    background-color: #025b63;
+  }
+  &:focus {
+    outline: 2px solid #1c8b95;
+  }
+}
+
+table {
+  & > thead > tr:nth-child(1),
+  & > tbody > tr > td:nth-child(1) {
+    max-width: 200px;
+  }
+  & > thead > tr:nth-child(2),
+  & > tbody > tr > td:nth-child(2) {
+    width: 200px;
+  }
+}
+
+.navbar-start > div:last-child > div {
+  display: none;
+}
