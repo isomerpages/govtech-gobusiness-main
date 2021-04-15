@@ -6,7 +6,7 @@ accordion-new:
   - title: What is the Productivity Solutions Grant (PSG)?
     content: |
       The Productivity Solutions Grant supports businesses in the adoption of solutions and/or equipment that improve productivity. Businesses can choose from a list of pre-scoped solutions.
-      
+
   - title: How do I apply for the Productivity Solutions Grant (PSG)?
     content: |
       1. Find a supported solution from the list of pre-scoped solutions.
@@ -28,7 +28,7 @@ accordion-new:
       No, applicants must be registered as a business entity in Singapore to apply for PSG.
 ---
 
-#### General
+### General
 
 {% include accordion-new.html %}
 

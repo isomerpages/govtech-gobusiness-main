@@ -6,13 +6,13 @@ accordion-new:
   - title: Why can't I submit an application until I update my company profile?
     content: |
       Agencies require companies to provide their latest company profile (based on ACRA information) in order to process the application. ACRA provides agencies the company details, business activity, shareholding details and company financial information for assessment of eligibility. Companies will be prompted to refresh their ACRA records every 3 months.
-      
-  - title: Why don't I see a 'submit' button in my application?  
+
+  - title: Why don't I see a 'submit' button in my application?
     content: |
       The 'submit' button is located at the bottom of the page where you can review the summary of your application. Here are some common reasons why you may not see the 'submit' button: 
       - Resolve any outstanding errors in the application first
       - On the 'Review your application' page, acknowledge the Consent & Acknowledge section at the bottom of the page to enable the 'submit' button.
-      
+
   - title: How can I edit an application that is already submitted or processing with the agency?
     content: |
       You can write to your processing agency and request for edit. The agency's contact details can be found in your application form.
@@ -22,7 +22,7 @@ accordion-new:
       Any Corppass administrator or user, who has been assigned a Business Grants Portal preparer or acceptor role, can edit and submit the grant application. Remember to update the contact details of the main contact person before you submit the application.
 ---
 
-#### Complete an Application
+### Complete an Application
 
 {% include accordion-new.html %}
 

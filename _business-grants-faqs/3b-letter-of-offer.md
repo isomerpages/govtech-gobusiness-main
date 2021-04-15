@@ -16,12 +16,12 @@ accordion-new:
       Click on the 'Letters And Documents' section to get to your Letter Of Offer.
 
       Download and read the LOF, then click 'Accept' to accept the terms and award of the grant.
-      
+
   - title: How do I change my role from Preparer to Acceptor to accept the Letter of Offer?
     content: |
       If you are the company's Managing Director, Chief Executive Officer or equivalent and would like to change your role from Preparer to Acceptor, [find out how](https://www.Corppass.gov.sg/Corppass/common/userguides){:target="_blank"} your Corppass admin can assign the appropriate e-service role for you.
 
-  - title: My CEO/MD, who is authorised to accept the Letter Of Offer, has left the company. How do I update Business Grants Portal and Corppass with the new CEO/MD's details? 
+  - title: My CEO/MD, who is authorised to accept the Letter Of Offer, has left the company. How do I update Business Grants Portal and Corppass with the new CEO/MD's details?
     content: |
       Your company's Corppass administrator just needs to assign your new CEO/MD the Business Grants Portal acceptor role, so that they can accept the Letter Of Offer.
 
@@ -29,10 +29,10 @@ accordion-new:
 
       If you have submitted your application and it hasn't been approved, contact the processing agency. They will return your application, so you can update it. 
 
-      If you have already received a Letter Of Offer, your new CEO/MD will be able to accept it when your Corppass administrator assigns them the rights. Do remember to update the grant processing agency and ACRA of the change in management. 
+      If you have already received a Letter Of Offer, your new CEO/MD will be able to accept it when your Corppass administrator assigns them the rights. Do remember to update the grant processing agency and ACRA of the change in management.
 ---
 
-#### Letter Of Offer
+### Letter Of Offer
 
 {% include accordion-new.html %}
 

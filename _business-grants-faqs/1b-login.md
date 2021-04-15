@@ -20,10 +20,10 @@ accordion-new:
       ![Corppass bgp roles](/images/grow/Corppass-bgp-roles.png)
   - title: Where can I find Corppass FAQs?
     content: |
-      Please refer to the Corppass FAQs [here](https://www.ifaq.gov.sg/Corppass/apps/fcd_faqmain.aspx){:target="_blank"}.    
+      Please refer to the Corppass FAQs [here](https://www.ifaq.gov.sg/Corppass/apps/fcd_faqmain.aspx){:target="_blank"}.
 ---
 
-#### Login via Corppass
+### Login via Corppass
 
 {% include accordion-new.html %}
 

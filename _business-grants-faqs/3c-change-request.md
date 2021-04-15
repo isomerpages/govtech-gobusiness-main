@@ -6,7 +6,7 @@ accordion-new:
   - title: What is a change request?
     content: |
       You can submit a change request after you have accepted the Letter Of Offer for a grant and before you have made a claim.Change requests include changes to the project duration, change in project scope and an increase in the funding amount.
-      
+
   - title: Can I submit a change request through the Business Grants Portal?
     content: |
       You can submit a change request for the Market Readiness Assistance (MRA) and Business Improvement Fund (STB). If you need to make changes to your approved Productivity Solutions Grant (PSG) application, you can do so when you submit your claims.
@@ -18,7 +18,7 @@ accordion-new:
       Change requests take up to 4-6 weeks to process.
 ---
 
-#### Change Request
+### Change Request
 
 {% include accordion-new.html %}
 

@@ -23,7 +23,7 @@ accordion-new:
       - Security Agency Licence
 ---
 
-#### Company Profile
+### Company Profile
 
 {% include accordion-new.html %}
 
