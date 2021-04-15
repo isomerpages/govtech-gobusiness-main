@@ -9,9 +9,8 @@ published: false
 
 Select your relevant industry and find out which licences you need by answering a few questions.
 
+### Explore licences you may require:
 
-
-#### Explore licences you may require:
 - Run a food stall in a private establishment
 - Run a hawker stall
 - Run a food & beverage (F&B) outlet

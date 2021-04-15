@@ -21,7 +21,7 @@ accordion-new:
     content: |
       **Certificate of Freedom From Disease Within Singapore**
       - A Certificate of Freedom from Disease within Singapore from Animal & Veterinary Service will be required if the country to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export. [Click here](https://licence1.business.gov.sg/licence1/neweadvisor/licenceApplication.action){:target="_blank"}
-      
+
       **Free Sale Certificate (Vaccine)**
       - The Free Sale Certificate for Vaccine allows exporters to get Animal & Veterinary Service endorsement for their vaccine intended for export. [Click here](https://licence1.business.gov.sg/licence1/neweadvisor/licenceApplication.action){:target="_blank"}
 
@@ -44,7 +44,7 @@ accordion-new:
         a.business registration number; and
         b. business setup (i.e. no change in partners or shareholders or their respective shareholdings)
         [Click here](https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPPostalCheck){:target="_blank"}
-      
+
       **Home Office Scheme (HDB)**
       - Applicants need not register with the Accounting & Corporate RegulApplicants need not register with the Accounting & Corporate Regulatory Authority (ACRA) first to apply for the Home Office Scheme (HOS). HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. [Click here](https://licence1.business.gov.sg/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_eAdvisor_WAR_foblsportlet_action=showAgencyLicences&_eAdvisor_WAR_foblsportlet_agencyCD=HDB&_eAdvisor_WAR_foblsportlet_selectionFrom=GovernmentAgency&_eAdvisor_WAR_foblsportlet_stepTO=GAChooseLicence){:target="_blank"}
 
@@ -72,11 +72,11 @@ business-intent:
       [To operate a veterinary centre](https://www.google.com.sg/){:target="_blank"}
 
       [To practise veterinary medicine in Singapore](https://www.google.com.sg/){:target="_blank"}
-
 ---
 
 ## Get started with our Licensing e-Adviser
-Answer a few questions about your business needs and be guided to the relevant application of licenses relevant for your business needs.  
+
+Answer a few questions about your business needs and be guided to the relevant application of licenses relevant for your business needs.
 
 <p>
 {% include button.html text="Get Started with Licensing e-Adviser" src="
@@ -84,14 +84,12 @@ https://www.google.com.sg/
 " type="primary" %}
 </p>
 
-#### Find out more about the list of Licences that can apply
+### Find out more about the list of Licences that can apply
 
-#### By Government Agencies
+### By Government Agencies
+
 {% include accordion-new.html %}
 
-#### By Sectors
+### By Sectors
+
 {% include business-intent.html %}
-
-
-
-

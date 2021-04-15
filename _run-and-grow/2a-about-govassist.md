@@ -10,7 +10,7 @@ There are over 100 government schemes to assist and support your business, now a
 
 From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness will help you find the government assistance you need.
 
-#### Not sure which schemes to apply for?
+### Not sure which schemes to apply for?
 
 Find out with e-Adviser for Government Assistance, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
@@ -24,16 +24,16 @@ Find out with e-Adviser for Government Assistance, a free online tool to help yo
 https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
 " type="primary" %}
 
-#### Types of Assistance Schemes
+### Types of Assistance Schemes
 
 {% include panels-govassist.html panels=site.data.govassist_assistancetypes %}
 
-#### Additional Support Programmes
+### Additional Support Programmes
 
 {% include panels-govassist.html panels=site.data.govassist_addsupportprogram %}
 
-----
+---
 
-#### Related Links
+### Related Links
 
 {% include panels.html panels=site.data.govassist_related_links %}

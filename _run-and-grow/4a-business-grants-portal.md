@@ -9,16 +9,17 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 
 ## How to apply for a grant on BGP?
 
-#### 1. Discover the most suitable grant for your business need
+### 1. Discover the most suitable grant for your business need
 
 Currently on BGP, you can apply for:
-- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="_blank"}
-- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"}
-- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
-- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
-- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
 
-You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
+- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="\_blank"}
+- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="\_blank"}
+- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="\_blank"}
+- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="\_blank"}
+- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="\_blank"}
+
+You may use the e-Adviser for government assistance to view suitable grants for your business needs.
 
 <p>
 {% include button.html text="Get Started with e-Adviser" src="https://gaeadviser.gobusiness.gov.sg/?src=run&grow_bgp" type="primary" %}
@@ -26,32 +27,32 @@ You may use the e-Adviser for Government Assistance to view suitable grants for 
 
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for.
 
-#### 2. Register with Corppass
+### 2. Register with Corppass
 
-Approach your Corppass Admin to assign an appropriate BGP role to you and create your Corppass account. Then, log in to BGP via your Singpass.
+Register an account with Corppass in order to log into BGP. Approach your Corppass Admin to assign an appropriate BGP role to you.
 
 <p>
-{% include button.html text="Log in to BGP" src="https://www.businessgrants.gov.sg/?src=run&grow_bgp" type="primary" %}
+{% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/?src=run&grow_bgp" type="primary" %}
 </p>
 
-#### 3. Fill in company profile
+### 3. Fill in Company Profile
 
-Fill in your company profile. Please take note that your ACRA profile will be populated automatically. 
+Fill in your company profile. Please take note that your ACRA profile will be populated automatically.
 
-#### 4. Fill in your application
+### 4. Fill in your application
 
 Once submitted, your application will be sent to the relevant agency for processing. The agency’s contact details will be shown on the “Grant Actions” page.
 
-#### 5. Monitoring your application
+### 5. Monitoring your application
 
-Monitor your application on the “My Grants” page. An email will be sent to you if the agency requires clarification. 
+Monitor your application on the “My Grants” page. An email will be sent to you if the agency requires clarification.
 
-#### 6. Accept your Letter of Offer
+### 6. Accept your Letter of Offer
 
 You will be notified of your application results via email. Log into BGP to accept your Letter of Offer.
 
-----
+---
 
-#### Related Links
+### Related Links
 
 {% include panels.html panels=site.data.related_content_bgp %}

@@ -7,7 +7,7 @@ accordion-psg:
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
       **Support level:** Up to 80% for SMEs
-      
+
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
@@ -17,7 +17,7 @@ accordion-psg:
     content: |
       **Things to note:** Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR<br>
       **Support level:** Up to 80% for SMEs
-      
+
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
       [ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)](/productivity-solutions-grant/solutionrepo/solution1){:target="_blank"}<br>      
@@ -28,13 +28,13 @@ accordion-psg:
       | **Vendor** | **Solution** |
       | --- | --- |
       |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
-      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1)|    
+      |Net Solutions Pte Ltd|[Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/productivity-solutions-grant/solutionrepo/solution1)|
 ---
 
 ## Generic Solutions for All Sectors
 
-#### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
 {% include accordion-psg.html %}
 
-*If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
+_If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
