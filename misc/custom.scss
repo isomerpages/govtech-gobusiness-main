@@ -1,13 +1,37 @@
 ---
 ---
 
+// Font weights
+$extra-bold: 800;
+$bold: 700;
+$semi-bold: 600;
+$regular: 400;
+$light: 300;
+
+@font-face {
+  src: url(/fonts/HKNova-Light.otf);
+  font-family: hknova-light;
+  font-weight: $light;
+}
 @font-face {
   src: url(/fonts/HKNova-Regular.otf);
   font-family: hknova-regular;
+  font-weight: $regular;
+}
+@font-face {
+  src: url(/fonts/HKNova-SemiBold.otf);
+  font-family: hknova-semibold;
+  font-weight: $semi-bold;
 }
 @font-face {
   src: url(/fonts/HKNova-Bold.otf);
   font-family: hknova-bold;
+  font-weight: $bold;
+}
+@font-face {
+  src: url(/fonts/HKNova-ExtraBold.otf);
+  font-family: hknova-extrabold;
+  font-weight: $extra-bold;
 }
 @charset "utf-8";
 
@@ -393,16 +417,34 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5 {
+  h1 {
+    font-family: hknova-bold;
     color: $secondary;
-    font-family: hknova-regular;
+  }
+  h2,
+  h3 {
+    font-family: hknova-semibold;
+    color: $secondary;
     strong {
       color: $secondary;
     }
+  }
+
+  h4 {
+    font-family: hknova-semibold;
+    color: #313840;
+  }
+
+  h5 {
+    font-family: hknova-semibold;
+  }
+
+  strong {
+    font-family: hknova-bold;
+    font-weight: $bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
   }
 
   // Custom for font types
@@ -439,13 +481,96 @@ $desktop: 960px + (2 * $gap) !default;
   a.jekyllcodex_button:visited:hover {
     color: white !important;
   }
+
+  li,
+  p {
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
+  }
+
+  li {
+    margin: 24px 0 !important;
+  }
+}
+
+// Type scale iterations
+h1 {
+  font-family: hknova-bold;
+  font-size: 48px;
+  font-weight: $bold;
+  line-height: 52px;
+  letter-spacing: -1.5px;
+  color: $secondary;
+}
+
+h2 {
+  font-family: hknova-semibold;
+  font-size: 36px;
+  font-weight: $semi-bold;
+  line-height: 45px;
+  color: $secondary;
+}
+
+h3 {
+  font-family: hknova-semibold;
+  font-size: 28px;
+  font-weight: $semi-bold;
+  line-height: 35px;
+  color: $secondary;
+}
+
+h4 {
+  font-family: hknova-semibold;
+  font-size: 24px;
+  font-weight: $semi-bold;
+  line-height: 30px;
+  color: #313840;
+}
+
+p {
+  font-family: hknova-regular;
+  font-size: 18px;
+  font-weight: $regular;
+}
+
+.p1 {
+  font-family: hknova-semibold;
+  font-size: 18px;
+  font-weight: $semi-bold;
+  line-height: 27px;
+  color: #313840;
+}
+
+.p2 {
+  font-family: hknova-regular;
+  font-size: 16px;
+  font-weight: $regular;
+  line-height: 24px;
+  color: #313840;
+}
+
+.p3 {
+  font-family: hknova-regular;
+  font-size: 14px;
+  font-weight: $regular;
+  line-height: 21px;
+  color: #313840;
+}
+
+a,
+p,
+li,
+em {
+  font-family: hknova-regular;
 }
 
 // Table of Contents
 .content table td,
 .content table th {
   font-family: hknova-regular;
-  font-size: 20px;
+  font-size: 18px;
+  padding: 24px 20px;
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -615,7 +740,7 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
 table {
   & > thead > tr:nth-child(1),
   & > tbody > tr > td:nth-child(1) {
-    max-width: 200px;
+    width: auto;
   }
   & > thead > tr:nth-child(2),
   & > tbody > tr > td:nth-child(2) {
