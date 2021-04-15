@@ -4,7 +4,7 @@ permalink: /faqs/getting-started/
 third_nav_title: General
 accordion-new:
   - title: How do I log in to GoBusiness?
-    content:  |
+    content: |
       Step 1: Visit the GoBusiness homepage here.
 
       Step 2: Click on <a href="/login/" target="_blank">Log In</a>, found in the top right hand corner.
@@ -14,17 +14,17 @@ accordion-new:
       Note: From 11 April 2021, you will be required to login to government digital services for businesses (G2B) using SingPass instead of CorpPass. For more information, visit <a href="/contact-us/" target="_blank">go.gov.sg/corporate-login</a>.
 
   - title: I'm having trouble logging in. What should I do?
-    content:  |
+    content: |
       GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or <a href="/contact-us/" target="_blank">contact us</a> for help.
 
   - title: What is the change in the Corppass login process?
-    content:  |     
+    content: |
       From 11 April 2021, the login process for Corppass will be changed to verify the user’s identity via Singpass first, before the user can proceed to access and transact with government digital services.
 
-      Note: Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners’ app will no longer be used.  
+      Note: Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners’ app will no longer be used.
 
   - title: Why is there a change in the Corppass login process?
-    content:  |  
+    content: |
       Singpass is re-introduced as the login mechanism for businesses to access digital services to simplify the user experience of managing multiple sets of login credentials of corporate transactions.
 
       While Singpass is used for logins, Corppass will continue to be the authorisation system for corporate transactions. The Corppass portal enables company administrators to specify the digital services that each employee can transact on the company’s behalf.
@@ -32,15 +32,15 @@ accordion-new:
       Having a single Singpass login system, instead of maintaining two separate modes of identity authentication, not only improves convenience for users but also streamlines system operations.
 
   - title: What does this change mean for the Corppass platform?
-    content:  |
+    content: |
       Corppass will continue to be the one-stop authorisation system for entities to authorise or remove their employees’ access to government digital services on their behalf.
 
   - title: I am an existing Singpass (NRIC/FIN) user, what will happen to my Corppass account(s)?
-    content:  |    
+    content: |
       All Corppass accounts will be automatically linked to your Singpass ID, no action is required from you.
 
   - title: I am an existing Foreign ID user on Corppass, what should I do?
-    content:  |
+    content: |
       You would have received an email from Singpass with the subject ‘Registration of Singpass account (Foreign User)’ which contains your Singpass ID and instructions to set up your Singpass app.
 
       Follow the instructions in the email to <a href="https://www.ifaq.gov.sg/CorpPass/apps/Fcd_faqmain.aspx#FAQ_2110970" target="_blank">activate your Singpass Foreign user Account</a>.
@@ -48,13 +48,16 @@ accordion-new:
       Note: Please activate your Singpass account immediately if you have not activated it yet.
 
   - title: I have activated my Singpass Foreign user Account. What should I do now?
-    content:  |
+    content: |
       For now, you may continue to use your Corppass ID, Password and the ‘Corppass 2FA for Foreigners’ app for Two-Factor Authentication to access and transact with government digital services.
 
   - title: I have multiple Corppass accounts. How can I select which account to transact for when I log in with Singpass?
-    content:  |
-      After you have successfully logged in with Singpass, you will be presented with a list of the entities that you are authorised to transact on behalf of. You may select the entity you wish to transact for on this page.            
+    content: |
+      After you have successfully logged in with Singpass, you will be presented with a list of the entities that you are authorised to transact on behalf of. You may select the entity you wish to transact for on this page.
 ---
 
-#### Getting started
+### Getting started
+
 {% include accordion-new.html %}
+
+<script src="/jquery/bp-menu-new-tab.js"></script>
