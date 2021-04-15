@@ -10,18 +10,18 @@ All Singapore-incorporated companies are required to file annual returns with Ac
 
 Learn more about it in our [Run and Grow guide](/run-and-grow/annual-returns/).
 
-#### e-Services for filing annual returns
+### e-Services for filing annual returns
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
 
-- [File annual returns](https://www.bizfile.gov.sg/){:target="_blank"}
-<br>File your business' annual returns on BizFile+. This is for Local Company, Foreign Company and Limited Liability Partnership.
+- [File annual returns](https://www.bizfile.gov.sg/){:target="\_blank"}
+  <br>File your business' annual returns on BizFile+. This is for Local Company, Foreign Company and Limited Liability Partnership.
 
-- [Prepare financial statements](#){:target="_blank"}
-<br>Download the BizFinx tool at this link to prepare your business' financial statements in XBRL format.   
+- [Prepare financial statements](#){:target="\_blank"}
+  <br>Download the BizFinx tool at this link to prepare your business' financial statements in XBRL format.
 
-----
+---
 
-#### Related content
+### Related content
 
 {% include panels-eservices.html panels=site.data.filing_annual_returns_links %}

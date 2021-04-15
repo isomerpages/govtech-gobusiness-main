@@ -8,16 +8,16 @@ third_nav_title: Business Administration
 
 If there are changes in business owners or authorised representatives, you will need to update Accounting and Corporate Regulatory Authority (ACRA) within 14 days of the change. The endorsement of the other business owners (if any) is also required.
 
-Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships/changes-in-business-information-and-appointments-of-business-owners-and-authorised-representatives){:target="_blank"}.
+Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships/changes-in-business-information-and-appointments-of-business-owners-and-authorised-representatives){:target="\_blank"}.
 
-#### e-Services for updating business ownership
+### e-Services for updating business ownership
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
 
-[Log into BizFile portal](https://www.bizfile.gov.sg){:target="_blank"} to access the following e-Services:
+[Log into BizFile portal](https://www.bizfile.gov.sg){:target="\_blank"} to access the following e-Services:
 
-- [File notification of cessation (resignation)](https://www.bizfile.gov.sg/){:target="_blank"}
-<br>Inform ACRA about a business owner or director's resignation. This is for Local Company, Limited Liability Partnership and Limited Partnership.   
+- [File notification of cessation (resignation)](https://www.bizfile.gov.sg/){:target="\_blank"}
+  <br>Inform ACRA about a business owner or director's resignation. This is for Local Company, Limited Liability Partnership and Limited Partnership.
 
-- [File Notification of cessation (disqualification)](https://oursggrants.gov.sg/){:target="_blank"}
-<br>Inform ACRA about a business owner or director's disqualification. This is for Local Company and Limited Liability Partnership.
+- [File Notification of cessation (disqualification)](https://oursggrants.gov.sg/){:target="\_blank"}
+  <br>Inform ACRA about a business owner or director's disqualification. This is for Local Company and Limited Liability Partnership.

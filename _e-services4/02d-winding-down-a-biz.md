@@ -17,8 +17,8 @@ There are different ways to close a business, depending on its business structur
 **Limited Liability Partnership or Company**
 <br>Apply for Accounting and Corporate Regulatory Authority (ACRA) to strike off your LLP or Company's name from its Register. However, under certain circumstances (eg: shareholder dispute, corporate restructuring), you can choose to liquidate the business instead.
 
-Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides){:target="_blank"}.
+Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides){:target="\_blank"}.
 
-#### e-Services for winding down a business
+### e-Services for winding down a business
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
