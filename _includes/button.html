@@ -1,8 +1,45 @@
 <style>
-  a.jekyllcodex_button { text-decoration: none; font-weight: 400; padding-left: 1.0625rem; padding-right: 1.0625rem; border-radius: 4px; letter-spacing: 1px; max-width: 100%; white-space: normal; font-family: "HK Nova", sans-serif; font-size: 1.125rem;}
-  a.jekyllcodex_button:hover { text-decoration: none; }
+  .content-btn {
+    font-family: hknova-regular;
+    padding: 8px 20px;
+    background-color: #037e8a;
+    border-radius: 3px;
+    color: #ffffff;
+    border: 1px solid #037e8a;
+    cursor: pointer;
+    width: fit-content;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .content-btn:hover {
+    background-color: #026770;
+  }
+
+  .content-btn:active {
+    background-color: #025B63;
+  }
+
+  .content-btn:focus {
+    outline: 2px solid #1C8B95;
+  }
+
+  .content-btn>a {
+    padding: 12.5px 24px;
+    margin-bottom: 0;
+    text-decoration: none;
+    color: white;
+  }
+
+  .content-btn>a:hover {
+    text-decoration: none;
+    color: white;
+  }
 </style>
 
-<a href="{{ include.src }}" target="_blank" class="jekyllcodex_button bp-button is-{{ include.type }}">
-  {{ include.text }}
-</a>
+<div class="content-btn">
+  <a href="{{ include.src }}" target="_blank">
+    {{ include.text }}
+  </a>
+</div>
