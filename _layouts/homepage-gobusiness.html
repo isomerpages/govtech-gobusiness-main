@@ -62,22 +62,7 @@ layout: skeleton
       text-align: center;
     }
 
-    h1,
-    h4,
-    p,
-    a,
-    li,
-    small {
-      position: relative;
-      z-index: 1;
-      font-family: hknova-regular;
-      font-style: normal;
-    }
-
     .cta-container>h1 {
-      font-family: hknova-bold;
-      font-size: 48px;
-      line-height: 52px;
       text-align: center;
       letter-spacing: -1px;
       color: #ffffff;
@@ -317,7 +302,7 @@ layout: skeleton
     }
 
     .panel-header-text {
-      font-family: "hknova-regular", sans-serif;
+      font-family: hknova-regular;
       font-style: normal;
       font-weight: 600;
       font-size: 18px;
@@ -341,7 +326,7 @@ layout: skeleton
     }
 
     .panel-content-info-text {
-      font-family: "hknova-regular", sans-serif;
+      font-family: hknova-regular;
       font-style: normal;
       font-weight: normal;
       font-size: 14px;
@@ -389,7 +374,7 @@ layout: skeleton
 
     .tag-text {
       color: #0862cb !important;
-      font-family: "hknova-regular", sans-serif;
+      font-family: hknova-regular;
       font-style: normal;
       font-weight: normal;
       font-size: 12px;
@@ -418,7 +403,7 @@ layout: skeleton
     .gobizmove-content {
       position: relative;
       z-index: 1;
-      left: 100px;
+      left: 15%;
       top: 160px;
     }
 
@@ -497,10 +482,11 @@ layout: skeleton
     .uppercase-text {
       text-transform: uppercase;
       font-size: 16px;
-      line-height: 22px;
+      line-height: 24px;
       text-align: center;
       letter-spacing: 1.5px;
       color: #484848;
+      margin: 30px 0 16px;
     }
 
     .section-6 {
@@ -1171,7 +1157,7 @@ layout: skeleton
     </div>
 
     <div class="section-5">
-      <h4 class="uppercase-text">News And Media</h4>
+      <p class="uppercase-text">News And Media</p>
       <h1>Be in the know</h1>
       {% include news-and-media.html %}
       <div class="view-more break-desktop">
@@ -1182,7 +1168,7 @@ layout: skeleton
     </div>
 
     <div class="section-6">
-      <h4 class="uppercase-text">Contact Us</h4>
+      <p class="uppercase-text">Contact Us</p>
       <h1>Need business help?</h1>
       <div class="help-buttons-container">
         <a href="/faqs/popular/">

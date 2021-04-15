@@ -49,8 +49,8 @@ layout: skeleton
       font-family: hknova-regular;
       font-style: normal;
       font-weight: bold;
-      font-size: 12px;
-      line-height: 15px;
+      font-size: 12px !important;
+      line-height: 15px !important;
       text-align: center;
       text-transform: uppercase;
       color: #ffffff !important;
@@ -107,33 +107,6 @@ layout: skeleton
       margin: 0 !important;
     }
 
-    .primary-btn {
-      font-family: hknova-regular;
-      font-weight: bold;
-      padding: 8px 20px;
-      background-color: #037e8a;
-      border-radius: 3px;
-      color: #ffffff;
-      border: 1px solid #037e8a;
-      font-size: 14px;
-      line-height: 24px;
-      cursor: pointer;
-      height: 40px;
-      width: 176px;
-    }
-
-    .primary-btn:hover {
-      background-color: #026770;
-    }
-
-    .primary-btn:active {
-      background-color: #025B63;
-    }
-
-    .primary-btn:focus {
-      outline: 2px solid #1C8B95;
-    }
-
     .secondary-btn {
       font-family: hknova-regular;
       border: 1px solid #b3d8dc;
@@ -144,7 +117,6 @@ layout: skeleton
       font-size: 14px;
       line-height: 21px;
       color: #037e8a;
-      padding: 9.5px 45.13px;
       height: 40px;
       width: 176px;
       margin: 0 auto;
@@ -163,6 +135,20 @@ layout: skeleton
 
     .secondary-btn:focus {
       outline: 2px solid #1c8b95;
+    }
+
+    .secondary-btn>a,
+    .secondary-btn>a:hover,
+    .secondary-btn>a:visited,
+    .secondary-btn>a:visited:hover {
+      padding: 9.5px 45.13px;
+      height: 100%;
+      width: 100%;
+      text-decoration: none;
+      color: #037E8A;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
 
     #biz {
@@ -229,8 +215,8 @@ layout: skeleton
         <div class="row">
           <div class="col print-content">
             <div class="page-title-container" style="margin-top: 32px">
-              <h2 class="page-title">Welcome to GoBusiness</h2>
-              <h3 class="page-subtitle">What would you like to do today?</h3>
+              <h4 class="page-title">Welcome to GoBusiness</h4>
+              <p class="p2 page-subtitle">What would you like to do today?</p>
             </div>
             <div class="page-body-container">
               <div class="panels">
@@ -247,30 +233,42 @@ layout: skeleton
                   <h5>Business<br />
                     Grants Portal</h5>
                   <p>Apply for and manage grants on Business Grants Portal.</p>
-                  <a href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank"><button class="secondary-btn">Log In</button></a>
+                  <div class="secondary-btn">
+                    <a href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank">Log
+                      In</a>
+                  </div>
                 </div>
                 <div id="subscribe" class="panel">
                   <h5>GeBIZ
                     Alerts</h5>
                   <p>Subscribe to GeBIZ alerts via email or RSS feed.</p>
-                  <a href="/gebiz-alerts/"><button class="secondary-btn">Log In</button></a>
+                  <div class="secondary-btn"><a href="/gebiz-alerts/">Log In</a></div>
                 </div>
                 <div id="food" class="panel">
                   <h5>Licences for
                     Food Services</h5>
                   <p>Apply for and manage licences for food service businesses.</p>
-                  <a href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs" target="_blank"><button class="secondary-btn">Log In</button></a>
+                  <div class="secondary-btn">
+                    <a href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs"
+                      target="_blank">Log In</a>
+                  </div>
                 </div>
                 <div id="nparks" class="panel">
                   <h5>Licences<br />from SFA/AVS/<br />NParks</h5>
                   <p>Apply for and manage licences from Singapore Food Agency (SFA), Animal & Veterinary Service (AVS),
                     and NParks.</p>
-                  <a href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=login_sfavsnparks" target="_blank"><button class="secondary-btn">Log In</button></a>
+                  <div class="secondary-btn">
+                    <a href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=login_sfavsnparks"
+                      target="_blank">Log In</a>
+                  </div>
                 </div>
                 <div id="others" class="panel">
                   <h5>Licences for Other Sectors</h5>
                   <p>Apply for and manage licences for all sectors except food services.</p>
-                  <a href="https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=login_allothers" target="_blank"><button class="secondary-btn">Log In</button></a>
+                  <div class="secondary-btn">
+                    <a href="https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=login_allothers"
+                      target="_blank">Log In</a>
+                  </div>
                 </div>
               </div>
             </div>
