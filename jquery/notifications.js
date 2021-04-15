@@ -36,4 +36,5 @@ $(document).ready(function () {
       $(this).parent().remove();
     });
   });
+  $(".x>a").attr("target", "_blank");
 });
