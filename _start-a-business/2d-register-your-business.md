@@ -104,24 +104,24 @@ accordion-new:
 
 ## Step 4: Register your business
 
-#### How to register a business
+### How to register a business
 
 There are two ways to register your business:
 
-1) Log in to BizFile+ [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your Singpass or Corppass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
+1. Log in to BizFile+ [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="\_blank"} with your Singpass or Corppass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
 
-2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
 The pre-requisites, information and supporting documents needed for the application to register the business will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
 {% include accordion-new.html %}
 
-#### Unique Entity Number (UEN) and Business Profile
+### Unique Entity Number (UEN) and Business Profile
 
-Upon successful registration of your new business, your business will be issued a [Unique Entity Number (UEN)](https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx){:target="_blank"}. The UEN is your business' unique identification number that will be used in all transactions with government agencies.
+Upon successful registration of your new business, your business will be issued a [Unique Entity Number (UEN)](https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx){:target="\_blank"}. The UEN is your business' unique identification number that will be used in all transactions with government agencies.
 
-A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"} for your business will be emailed to the person filing the application upon successful registration of your business.
+A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="\_blank"} for your business will be emailed to the person filing the application upon successful registration of your business.
 
-#### Filing Obligations
+### Filing Obligations
 
 There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA](/run-and-grow/annual-returns/) and [Tax Returns Filing with IRAS](/run-and-grow/taxes-and-gst/).

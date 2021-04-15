@@ -102,7 +102,7 @@ accordion-new:
       - Proposed business name
       - Description of main business activities
       - Particulars of directors, company officers and shareholders
-      - Local office address (where all communications to the company are sent)   
+      - Local office address (where all communications to the company are sent)
 ---
 
 ## Step 3: Reserve your business name
@@ -112,36 +112,37 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 {% include button.html text="Go to e-Adviser" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
 
 Avoid names which are:
+
 - identical to another business' name
 - vulgar, obscene or offensive
 - prohibited (e.g: Temasek)
 
 You may submit an appeal if you have the necessary approval for names that are identical or prohibited. You will need to upload the supporting documents to support your appeal.
 
-To improve your chances of a successful application, read our [business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"} for more details.
+To improve your chances of a successful application, read our [business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="\_blank"} for more details.
 
-#### Review of applications by Referral Authorities
+### Review of applications by Referral Authorities
 
 Certain names require approval from the relevant government agencies (Referral Authorities). For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
 
-You can find the list of Referral Authorities [here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="_blank"}.
+You can find the list of Referral Authorities [here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="\_blank"}.
 
-#### Singapore Standard Industrial Classification (SSIC)
+### Singapore Standard Industrial Classification (SSIC)
 
 **What is SSIC and why do i need it for my business?**
 <br>The Singapore Standard Industrial Classification (SSIC) is the national standard to classify the business activities of firms. It is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity.
 
-To reserve your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.g2b.sg/startabusiness){:target="_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="_blank"}.
+To reserve your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.g2b.sg/startabusiness){:target="\_blank"}. A complete list of the SSIC codes can be found [here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020-alphabetical-index.xlsx){:target="\_blank"}.
 
-#### How to reserve your business name
+### How to reserve your business name
 
 You can reserve it your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
 
 There are two ways to reserve your business name:
 
-1) Log in to BizFile+ [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your Singpass or Corppass to submit the application online, or
+1. Log in to BizFile+ [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="\_blank"} with your Singpass or Corppass to submit the application online, or
 
-2) Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
