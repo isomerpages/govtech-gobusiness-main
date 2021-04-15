@@ -19,7 +19,7 @@ Currently on BGP, you can apply for:
 - [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="\_blank"}
 - [Productivity Solutions Grant](/productivity-solutions-grant/){:target="\_blank"}
 
-You may use the e-Adviser for government assistance to view suitable grants for your business needs.
+You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
 <p>
 {% include button.html text="Get Started with e-Adviser" src="https://gaeadviser.gobusiness.gov.sg/?src=run&grow_bgp" type="primary" %}
@@ -27,15 +27,15 @@ You may use the e-Adviser for government assistance to view suitable grants for 
 
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for.
 
-### 2. Register with Corppass
+### 2. Register your Corppass account
 
-Register an account with Corppass in order to log into BGP. Approach your Corppass Admin to assign an appropriate BGP role to you.
+Approach your Corppass Admin to assign an appropriate BGP role to you and create your Corppass account. Then, log in to BGP via your Singpass.
 
 <p>
-{% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/?src=run&grow_bgp" type="primary" %}
+{% include button.html text="Login to BGP" src="https://www.businessgrants.gov.sg/?src=run&grow_bgp" type="primary" %}
 </p>
 
-### 3. Fill in Company Profile
+### 3. Fill in company profile
 
 Fill in your company profile. Please take note that your ACRA profile will be populated automatically.
 
