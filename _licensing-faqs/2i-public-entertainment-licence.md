@@ -2,7 +2,7 @@
 title: Public Entertainment Licence
 permalink: /licensing-faqs/public-entertainment-licence/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: Who can be an applicant?
     content: |
       You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-services/apply/licenses-and-permits/public-entertainment/important-notice){:target="_blank"}.
@@ -41,10 +41,11 @@ accordion-new:
       Eligibility Criteria:
       Applicant must be having one of the following position:
       - GENERAL PARTNER
-      - LIMITED PARTNER           
+      - LIMITED PARTNER
 ---
 
-#### Public Entertainment Licence
+### Public Entertainment Licence
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

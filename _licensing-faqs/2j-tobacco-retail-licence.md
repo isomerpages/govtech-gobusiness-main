@@ -2,7 +2,7 @@
 title: Tobacco Retail Licence
 permalink: /licensing-faqs/tobacco-retail-licence/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: Who can I contact for further details?
     content: |
       For further assistance, please contact us at:
@@ -66,11 +66,11 @@ accordion-new:
 
       i. The Tobacco Licence is non-transferable.
 
-      You must inform HSA on any changes in the particulars pertaining to the licence/application not later than three days after the changes have been effected.         
+      You must inform HSA on any changes in the particulars pertaining to the licence/application not later than three days after the changes have been effected.
 
   - title: My premises was bought over from a previous tenant who has a valid Tobacco Retail Licence. Can I use the licence while waiting for approval of my new licence application?
     content: |
-      No, you are not allowed to use the previous tenant's licence to sell tobacco products. Licences are not transferable between two companies.  
+      No, you are not allowed to use the previous tenant's licence to sell tobacco products. Licences are not transferable between two companies.
 
   - title: How can I download the approved Tobacco Retail Licence?
     content: |
@@ -94,7 +94,7 @@ accordion-new:
 
       Please take note that it is an offence to commence the sale of tobacco products while the application is being processed by HSA. You are only allowed to engage in the retail sales of the tobacco products after the Tobacco Retail licence number is issued.
 
-      After you have made the second stage payment, the application will be approved and the electronic copy of the licence can be downloaded from our website. There will be no issue of a hardcopy licence.   
+      After you have made the second stage payment, the application will be approved and the electronic copy of the licence can be downloaded from our website. There will be no issue of a hardcopy licence.
 
   - title: How soon can my application be processed?
     content: |
@@ -102,11 +102,11 @@ accordion-new:
 
       The application will not be processed if there are any missing or incomplete documents or lack of payment. Do take note that HSA may request for additional documents to review the licence application.
 
-      If you need more information on the supporting documents needed, please refer to the [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}.  
+      If you need more information on the supporting documents needed, please refer to the [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}.
 
   - title: My licence is currently suspended and will expire by the end of the suspension period. When can I apply for a new licence?
     content: |
-      You can submit a new licence application on our website after the suspension period has ended.    
+      You can submit a new licence application on our website after the suspension period has ended.
 
   - title: How much does this licence cost?
     content: |
@@ -118,10 +118,11 @@ accordion-new:
 
   - title: How long is the licence valid for?
     content: |
-      The licence is valid for one year.                                        
+      The licence is valid for one year.
 ---
 
-#### Petroleum / Flammable Materials Storage Licence
+### Petroleum / Flammable Materials Storage Licence
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

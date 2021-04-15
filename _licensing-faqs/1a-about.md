@@ -34,7 +34,8 @@ accordion-new:
       Yes, GoBusiness Licensing’s Self-Service feature has all the same functions as LicenceOne. With Self-Service, you can apply and pay for the licences you need, as well as update, renew or terminate them.
 ---
 
-#### About
+### About
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

@@ -2,7 +2,7 @@
 title: Halal Certfication
 permalink: /licensing-faqs/halal-certfication/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: What supporting documents do I need to submit?
     content: |
       <b>Eating Establishment (EE) Scheme</b>
@@ -22,19 +22,19 @@ accordion-new:
     content: |
       Fees can be found on the Muis [website](https://www.muis.gov.sg/-/media/Files/Halal/Documents/Fees-Revision---WEF-1-Feb-2018.pdf){:target="_blank"}.
 
-  - title:  Halal Certification	How soon can my application be processed?
+  - title: Halal Certification	How soon can my application be processed?
     content: |
-      The average processing time for Eating Establishment Scheme and/or Food Preparation Area Scheme will take around 8 - 10 weeks, subject to the applicant's prompt responses / action to further requests for information.  
+      The average processing time for Eating Establishment Scheme and/or Food Preparation Area Scheme will take around 8 - 10 weeks, subject to the applicant's prompt responses / action to further requests for information.
 
-  - title:  Who can I contact for further details?
+  - title: Who can I contact for further details?
     content: |
       For further assistance, please contact:
       Tel: (65) 6812 6060
-      Email: [mes_3.0@muis.gov.sg](mailto:mes_3.0@muis.gov.sg)        
-
+      Email: [mes_3.0@muis.gov.sg](mailto:mes_3.0@muis.gov.sg)
 ---
 
-#### Halal Certfication
+### Halal Certfication
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

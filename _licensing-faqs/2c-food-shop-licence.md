@@ -2,7 +2,7 @@
 title: Food Shop Licence
 permalink: /licensing-faqs/food-shop-licence/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: I am a foreigner with a valid employment pass issued by Ministry of Manpower. Can I apply for the licence in my name?
     content: |
       No. You will need to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) and apply for the licence in the company's name.
@@ -45,7 +45,7 @@ accordion-new:
 
   - title: What happens if I am unable to comply with some of the hygiene requirements?
     content: |
-      If you are unable to comply with SFA's hygiene requirements, you will not be issued a Food Shop Licence.    
+      If you are unable to comply with SFA's hygiene requirements, you will not be issued a Food Shop Licence.
 
   - title: What supporting documents do I need to submit?
     content: |
@@ -71,7 +71,7 @@ accordion-new:
 
   - title: Can I update, renew or terminate my Food Shop Licence through the Guided Journey feature?
     content: |
-        No. You may update, renew and terminate your Food Shop Licence through the Self-Service feature.  
+      No. You may update, renew and terminate your Food Shop Licence through the Self-Service feature.
 
   - title: How soon can my application be processed?
     content: |
@@ -91,15 +91,15 @@ accordion-new:
 
       - SFA will issue an approval letter to you within five working days after the pre-licensing inspection if everything is in order. This letter will also serve as notification to you to collect the licence.
 
-      - The licence will be issued to you upon payment of the licence fee.   
+      - The licence will be issued to you upon payment of the licence fee.
 
   - title: How much does this licence cost?
     content: |
-      The Food Shop Licence costs $195. Please note no refunds will be allowed once payment has been made.   
+      The Food Shop Licence costs $195. Please note no refunds will be allowed once payment has been made.
 
   - title: Do I need to apply for a Food Shop Licence if I were to prepare and cook food from my home for sale to the public?
     content: |
-      Please take note that under the current regulations, it is an offence to sell home cooked food to the public.   
+      Please take note that under the current regulations, it is an offence to sell home cooked food to the public.
 
   - title: What conditions do I need to fulfil?
     content: |
@@ -121,7 +121,7 @@ accordion-new:
 
       4. Compliance of the list of hygiene requirements issued by SFA's Food Service Department. (note: You may refer to the Licensing Conditions here for more information on the general design of a food retail outlet)
 
-      Please note that SFA will take past enforcement record(s) into consideration for new licence applications and/or renewal.          
+      Please note that SFA will take past enforcement record(s) into consideration for new licence applications and/or renewal.
 
   - title: Do I need to apply for this licence?
     content: |
@@ -133,10 +133,11 @@ accordion-new:
 
   - title: What happens if I provide false information in my application?
     content: |
-      Providing false information in your application is a serious offence. Your licence can be suspended, cancelled or revoked. Enforcement action can also be taken against you.                              
+      Providing false information in your application is a serious offence. Your licence can be suspended, cancelled or revoked. Enforcement action can also be taken against you.
 ---
 
-#### Food Shop Licence
+### Food Shop Licence
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

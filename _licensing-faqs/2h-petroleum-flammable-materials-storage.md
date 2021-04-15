@@ -2,7 +2,7 @@
 title: Petroleum / Flammable Materials Storage Licence
 permalink: /licensing-faqs/petroleum-flammable-materials-storage/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: Do I need to apply for this licence?
     content: |
       You will need to apply for Petroleum and Flammable Materials (P&FM) storage licence for the LPG installation at eating establishments from the Singapore Civil Defence Force (SCDF). Please note that if you are storing 200 kg LPG and below at eating establishment, you are not required to apply for P&FM storage licence.
@@ -11,7 +11,7 @@ accordion-new:
 
       For more information on the Petroleum and Flammable Materials (P&FM) storage licence, you can visit the [SCDF website](https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-storage-licence){:target="_blank"}.
 
-  - title:  How much is the application fee?
+  - title: How much is the application fee?
     content: |
       The application fee is based on quantity of storage:
 
@@ -27,7 +27,7 @@ accordion-new:
 
       For information on the GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at 68481623 / 6848161
 
-  - title:  What supporting documents do I need to submit?
+  - title: What supporting documents do I need to submit?
     content: |
       For application of P&FM Storage Licence, you will need to submit the following supporting documents:
 
@@ -49,7 +49,7 @@ accordion-new:
 
       9. Approval letter from authorities such as URA, SLA and LTA for the proposed storage area of the LPG manifold system located on a back lane.
 
-  - title:  What supporting documents do I need to submit?
+  - title: What supporting documents do I need to submit?
     content: |
       For further assistance, you may contact:
 
@@ -95,20 +95,21 @@ accordion-new:
 
       Central Tel Line: 68481472
 
-  - title:  What is the application process like?
+  - title: What is the application process like?
     content: |
-      You can submit the application form and the supporting documents if required, on our website. As the applicant, you can either file personally or authorise a representative to apply on your behalf using Corp Pass id. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.      
+      You can submit the application form and the supporting documents if required, on our website. As the applicant, you can either file personally or authorise a representative to apply on your behalf using Corp Pass id. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.
 
-  - title:  How long is the licence valid for?
+  - title: How long is the licence valid for?
     content: |
       The licence is valid for one year.
 
-  - title:  How soon can my application be processed?
+  - title: How soon can my application be processed?
     content: |
-      Your application will be respond within seven working days and SCDF officers will contact you to arrange for an inspection. If documents submitted are in order and the inspection is satisfactory, approval will be granted and the Petroleum & Flammable Materials Storage Licence will be issued upon payment.             
+      Your application will be respond within seven working days and SCDF officers will contact you to arrange for an inspection. If documents submitted are in order and the inspection is satisfactory, approval will be granted and the Petroleum & Flammable Materials Storage Licence will be issued upon payment.
 ---
 
-#### Petroleum / Flammable Materials Storage Licence
+### Petroleum / Flammable Materials Storage Licence
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

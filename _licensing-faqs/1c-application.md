@@ -58,7 +58,7 @@ accordion-new:
 
   - title: What is an Application Journey?
     content: |
-      An Application Journey shows the correct order to apply for your licences in order to start running your business. It is customized based on your business concept.      
+      An Application Journey shows the correct order to apply for your licences in order to start running your business. It is customized based on your business concept.
 
   - title: Why can't I apply for some of the licences in my Application Journey?
     content: |
@@ -98,10 +98,11 @@ accordion-new:
 
   - title: What does 'adjacent unit' mean?
     content: |
-      Adjacent units are multiple units next to each other. This applies to businesses occupying multiple units. If your business occupies multiple levels without a connecting staircase within your premises, you will need to apply for individual licences for each level.             
+      Adjacent units are multiple units next to each other. This applies to businesses occupying multiple units. If your business occupies multiple levels without a connecting staircase within your premises, you will need to apply for individual licences for each level.
 ---
 
-#### Application
+### Application
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

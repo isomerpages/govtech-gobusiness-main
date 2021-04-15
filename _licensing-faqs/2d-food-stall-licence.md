@@ -2,7 +2,7 @@
 title: Public Entertainment Licence
 permalink: /licensing-faqs/food-stall-licence/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: Who can be an applicant?
     content: |
       The licence is valid for one year. However, licensees are given the option to pay $64 for a Food Stall Licence that is valid for two years.
@@ -46,7 +46,7 @@ accordion-new:
 
   - title: How soon can my application be processed?
     content: |
-      SFA will send a letter reply to you within three working days of receipt of the application. If the application is incomplete, you will be informed to furnish the pending documents/information within two weeks. If the application is complete, SFA will issue the approval letter to you within five working days. Upon payment of the licence fee, the licence will be issued to you.       
+      SFA will send a letter reply to you within three working days of receipt of the application. If the application is incomplete, you will be informed to furnish the pending documents/information within two weeks. If the application is complete, SFA will issue the approval letter to you within five working days. Upon payment of the licence fee, the licence will be issued to you.
 
   - title: Who can I contact for further details?
     content: |
@@ -58,16 +58,17 @@ accordion-new:
     content: |
       1. Basic Food Hygiene Certificate / Refresher Food Hygiene Certificate of food handlers
       2. Layout plan of premises (in scaled metric units)
-      3. Tenancy agreement   
+      3. Tenancy agreement
 
   - title: How much does this licence cost and how long is it valid for?
     content: |
       The Food Stall Licence costs $32 and is valid for one year except for food stalls in primary, secondary and junior college school canteens. Licensees are given the option to pay $64 for a Food Stall Licence that is valid for two years.
 
-      Please note that no refunds will be allowed once payment has been made.                                   
+      Please note that no refunds will be allowed once payment has been made.
 ---
 
-#### Public Entertainment Licence
+### Public Entertainment Licence
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

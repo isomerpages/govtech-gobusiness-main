@@ -9,10 +9,11 @@ accordion-new:
 
   - title: What is the difference between Stage 1 and Stage 2 payment?
     content: |
-      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application while Stage 2 payment is required upon approval of your licence.                
+      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application while Stage 2 payment is required upon approval of your licence.
 ---
 
-#### Payment
+### Payment
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

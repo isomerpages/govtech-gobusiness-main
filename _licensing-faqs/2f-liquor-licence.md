@@ -2,7 +2,7 @@
 title: Liquor Licence
 permalink: /licensing-faqs/liquor-licence/
 third_nav_title: Licences
-accordion-new:   
+accordion-new:
   - title: Which Liquor Licence class types can I apply for in GoBusiness Licensing Guided Journey?
     content: |
       You can apply for Liquor Licence Class 1A, 1B, 2A, 2B, 3A and 3B. Liqour Licence Class 4 and Temporary Liquor Licence (Class 5) can be applied in the Self-Service Journey feature [here](https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence){:target="_blank"}.
@@ -43,12 +43,13 @@ accordion-new:
       - GENERAL PARTNER
       - LIMITED PARTNER
 
-  - title:  Where can I get more information for Liquor Licence?
+  - title: Where can I get more information for Liquor Licence?
     content: |
-      You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence){:target="_blank"}.      
+      You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence){:target="_blank"}.
 ---
 
-#### Liquor Licence
+### Liquor Licence
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)

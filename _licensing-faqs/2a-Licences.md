@@ -17,7 +17,7 @@ accordion-new:
       Housing & Development Board
       480 Lor 6 Toa Payoh
       Atrium 3rd Storey HDB Hub
-      Singapore 310480   
+      Singapore 310480
 
   - title: What supporting documents do I need to submit?
     content: |
@@ -27,7 +27,7 @@ accordion-new:
 
   - title: How much is the application fee?
     content: |
-      A non-refundable administrative fee of $107 or $214 (inclusive of GST) shall be payable depending on the type of application.  
+      A non-refundable administrative fee of $107 or $214 (inclusive of GST) shall be payable depending on the type of application.
 
   - title: What conditions do I need to fulfill?
     content: |
@@ -35,16 +35,17 @@ accordion-new:
 
   - title: How soon can my application be processed?
     content: |
-      Processing takes 1 to 14 days upon HDB's verification of the information as declared in the online application and receipt of all supporting documents/information.   
+      Processing takes 1 to 14 days upon HDB's verification of the information as declared in the online application and receipt of all supporting documents/information.
 
   - title: Do I need to submit this application?
     content: |
       You need to apply for Change of Trade if you are a HDB Commercial Tenant and you wish to change your existing trade or include a new trade relating to sale of food & beverage.
 
-      For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.                         
+      For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.
 ---
 
-#### Licences
+### Licences
+
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)
