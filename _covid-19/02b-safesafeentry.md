@@ -4,13 +4,13 @@ permalink: /safemanagement/safeentry/
 third_nav_title: Safe Management Requirements
 ---
 
-#### 1. SafeEntry
+### 1. SafeEntry
 
 ![SafeEntry](/images/covid/SafeEntry_logo_inline.png "SafeEntry")
 
 SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their SingPass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
 
-Business and building owners can find out more [here](https://go.gov.sg/travelhealthdeclare){:target="_blank"}.
+Business and building owners can find out more [here](https://go.gov.sg/travelhealthdeclare){:target="\_blank"}.
 
 All businesses and services that are in operation must institute SafeEntry for their employees, associates and vendors. Of the businesses/services that are allowed to be in operation, the following list of facilities/places must also deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises.
 
@@ -18,7 +18,7 @@ All businesses and services that are in operation must institute SafeEntry for t
 - Schools and educational institute
 - Preschools and student care centres
 - Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
-- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities    
+- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities
 - Places of worship
 - Funeral parlours
 - Hotels
@@ -28,7 +28,7 @@ All businesses and services that are in operation must institute SafeEntry for t
   - Supermarkets
   - Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
   - F&B outlets for dine-in customers
-  - Large retail outlets (> 930 sqm or 10,000 sqft)   
+  - Large retail outlets (> 930 sqm or 10,000 sqft)
   - Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres
   - Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
 - Tuition and enrichment, training centres, and other training/ class venues
@@ -38,9 +38,9 @@ All businesses and services that are in operation must institute SafeEntry for t
 - Cultural and entertainment venues
   - Libraries
   - Museums, exhibitions, and showrooms
-  - Cinemas, attractions, and other entertainment venues  
+  - Cinemas, attractions, and other entertainment venues
 - Home-based businesses that involve customers entering one’s home for a prolonged period, e.g. private dining, hairdressing services
-- Event venues e.g. function halls/ rooms, event lawns  
+- Event venues e.g. function halls/ rooms, event lawns
 
 SafeEntry has been progressively rolled out to taxis since 12 May 2020 to better support contact tracing efforts for street-hail trips. All commuters who get onto the taxi should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
 
@@ -48,11 +48,11 @@ Retail outlets where customers are unlikely to be in close proximity for a prolo
 
 For avoidance of doubt, all premises, including small retail outlets, must still implement SafeEntry for employees, associates and vendors as per all workplaces, and adhere strictly to the other safe management measures (eg: safe distancing).
 
-*This list will be updated as more activities and services are resumed.
+\*This list will be updated as more activities and services are resumed.
 
-----
+---
 
-#### 2. SafeEntry Gateway
+### 2. SafeEntry Gateway
 
 SafeEntry Gateway will be progressively introduced as an additional mode of SafeEntry check-in. This follows a 5-month trial at selected locations, including Downtown East.
 
@@ -65,9 +65,9 @@ From 19 April 2021, the following public-facing venues are required to deploy Sa
 - Malls
 - Large retail outlets (> 930 sqm or 10,000 sqft)
 - Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
-- Supermarkets*
+- Supermarkets\*
 - Public libraries
-- Selected museums, heritage institutions, and galleries**
+- Selected museums, heritage institutions, and galleries\*\*
 - Cinemas (Golden Village, Cathay Cineplexes, Shaw Theatres, Filmgarde, WE Cinemas, The Projector, Eaglewing Cinematics, Carnival Cinemas and Salt Media@Capital Tower)
 - Gated tourist attractions
 - MICE event venues (hotels/convention centres with events for >100pax)
@@ -77,13 +77,13 @@ From 19 April 2021, the following public-facing venues are required to deploy Sa
 
 Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Business) App based on their business needs.
 
-*Supermarkets and large retail outlets located inside buildings already covered by SafeEntry Gateway (e.g. malls or commercial buildings), with the same operating hours, will not be required to deploy SafeEntry Gateways. Please note that all supermarkets and large retail outlets must continue to implement SafeEntry, regardless of whether they are located inside buildings covered by SafeEntry Gateways
+\*Supermarkets and large retail outlets located inside buildings already covered by SafeEntry Gateway (e.g. malls or commercial buildings), with the same operating hours, will not be required to deploy SafeEntry Gateways. Please note that all supermarkets and large retail outlets must continue to implement SafeEntry, regardless of whether they are located inside buildings covered by SafeEntry Gateways
 
-**Selected public museums, heritage institutions, and galleries will be informed by National Heritage Board.
+\*\*Selected public museums, heritage institutions, and galleries will be informed by National Heritage Board.
 
-----
+---
 
-#### 3. TraceTogether
+### 3. TraceTogether
 
 ![TraceTogether](/images/covid/tracetogether_logo.png "TraceTogether")
 
