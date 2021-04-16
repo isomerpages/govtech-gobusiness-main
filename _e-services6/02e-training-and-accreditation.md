@@ -12,28 +12,28 @@ Depending on your business sector and activities, there are various accreditatio
 
 **Building and Construction Authority (BCA)**
 
-- [Apply for Green Mark Certification](https://www.bca.gov.sg/GreenMarkOnline/){:target="\_blank"}
+- [Apply for Green Mark Certification](https://www.bca.gov.sg/GreenMarkOnline/){:target="_blank"}
   <br>Apply to have your building's environmental impact and performance evaluated.
 
 **National Environment Agency (NEA)**
 
-- [Application for accreditation to conduct verification](https://form.gov.sg/#!/5be3fcda9f12c6000fa3cb72){:target="\_blank"}
+- [Application for accreditation to conduct verification](https://form.gov.sg/#!/5be3fcda9f12c6000fa3cb72){:target="_blank"}
   <br>Apply to be accredited to conduct third-party greenhouse gas verification under the Carbon Pricing Act.
 
-- [Enhanced Clean Mark Accreditation Scheme](https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation){:target="\_blank"}
+- [Enhanced Clean Mark Accreditation Scheme](https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation){:target="_blank"}
   <br>Apply to have your business recognised for high cleaning standards through the training of workers, use of equipment to improve work processes, and fair employment practices.
 
 **Maritime and Port Authority of Singapore (MPA Singapore)**
 
-- [Accreditation Scheme for Bunker Suppliers](https://digitalport.mpa.gov.sg/){:target="\_blank"}
+- [Accreditation Scheme for Bunker Suppliers](https://digitalport.mpa.gov.sg/){:target="_blank"}
   <br>Apply to be accredited as a reliable bunker supplier, based on 3 main criteria.
 
 **Ministry of Social and Family Development (MSF)**
 
-- [Apply for SDNTrust Accreditation](https://www.sdn.sg/fordatingindustry/Pages/ApplicationforAccreditation.aspx){:target="\_blank"}
+- [Apply for SDNTrust Accreditation](https://www.sdn.sg/fordatingindustry/Pages/ApplicationforAccreditation.aspx){:target="_blank"}
   <br>Apply to be accredited as a dating agency or practitioner with high standards of professionalism and service delivery.
 
 **Singapore Accreditation Council (SAC)**
 
-- [Apply for Accreditation Services](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="\_blank"}
+- [Apply for Accreditation Services](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}
   <br>Apply for SAC accreditation as a conformity assessment body (CAB).

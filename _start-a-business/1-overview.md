@@ -30,7 +30,7 @@ Anybody looking to carry out any activity for profit on an ongoing basis must re
 - You use your full name, as per your NRIC, as your business name.
 - You and your partner(s) use your full names, as per your NRIC, as your business name
 
-Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="\_blank"}.
+Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions and the full list can be found [here](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.
 
 ### Benefits of registering a business
 
@@ -57,4 +57,4 @@ There are 2 schemes you can consider if you intend to operate your business from
 
 ### Setup cost calculator
 
-Get an estimate of how much it costs to start and run a business in Singapore [here](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="\_blank"}.
+Get an estimate of how much it costs to start and run a business in Singapore [here](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.

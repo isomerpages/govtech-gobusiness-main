@@ -10,7 +10,7 @@ third_nav_title: Safe Management Requirements
 
 SafeEntry is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their SingPass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
 
-Business and building owners can find out more [here](https://go.gov.sg/travelhealthdeclare){:target="\_blank"}.
+Business and building owners can find out more [here](https://go.gov.sg/travelhealthdeclare){:target="_blank"}.
 
 All businesses and services that are in operation must institute SafeEntry for their employees, associates and vendors. Of the businesses/services that are allowed to be in operation, the following list of facilities/places must also deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises.
 

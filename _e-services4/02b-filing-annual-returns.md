@@ -14,10 +14,10 @@ Learn more about it in our [Run and Grow guide](/run-and-grow/annual-returns/).
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
 
-- [File annual returns](https://www.bizfile.gov.sg/){:target="\_blank"}
+- [File annual returns](https://www.bizfile.gov.sg/){:target="_blank"}
   <br>File your business' annual returns on BizFile+. This is for Local Company, Foreign Company and Limited Liability Partnership.
 
-- [Prepare financial statements](#){:target="\_blank"}
+- [Prepare financial statements](#){:target="_blank"}
   <br>Download the BizFinx tool at this link to prepare your business' financial statements in XBRL format.
 
 ---

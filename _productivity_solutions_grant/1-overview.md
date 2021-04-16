@@ -24,7 +24,7 @@ Business entities can apply for PSG if they meet the following criteria:
 2. For **IT solutions:** Get a quotation from the pre-approved vendor
    <br>For **Equipment:** Source for the equipment and get a quotation from the vendor
    <br> For **Consultancy Service:** Get a quotation from the pre-approved consultant
-3. Submit an application on the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="\_blank"}.
+3. Submit an application on the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="_blank"}.
    <br>You will need to register for a Corppass account to transact on the portal.
 
 ### Supportable solutions
@@ -39,7 +39,7 @@ Solutions supported under the Productivity Solutions Grant are regularly reviewe
 
 The support for COVID-19 continuity measures will cease on 31 Dec 2020. Companies interested to apply for COVID-19 support solutions should submit their applications **before** 31 Dec 2020.
 
-_If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="\_blank"} to find out more._
+_If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"} to find out more._
 
 ---
 

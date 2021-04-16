@@ -13,11 +13,11 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 
 Currently on BGP, you can apply for:
 
-- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="\_blank"}
-- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="\_blank"}
-- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="\_blank"}
-- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="\_blank"}
-- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="\_blank"}
+- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="_blank"}
+- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"}
+- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
+- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
+- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
 
 You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
