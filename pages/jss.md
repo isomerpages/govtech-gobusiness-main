@@ -1,5 +1,5 @@
 ---
-layout: maintenance-page
-title: maintenance
+layout: jss-page
+title: JSS Page
 permalink: /jssreopeningdate/
 ---
