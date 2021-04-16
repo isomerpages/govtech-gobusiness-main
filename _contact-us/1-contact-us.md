@@ -18,7 +18,7 @@ permalink: /contact-us/
 
 **Helpdesk Operating Hours**
 <br>Monday to Friday: 8.00am to 8.00pm
-<br>Saturdays: 8.00am to 2:00pm
+<br>Saturdays: 8:00am to 2:00pm
 <br>Closed on Sundays and public holidays
 
 ### For enquiries on Government Assistance or COVID-related matters for businesses
@@ -30,5 +30,5 @@ permalink: /contact-us/
 <br>[enquiry@enterprisesg.gov.sg](mailto:enquiry@enterprisesg.gov.sg)
 
 **Helpdesk Operating Hours**
-<br>Monday - Friday: 8.30am - 5.30pm
+<br>Monday - Friday: 8:30am - 5:30pm
 <br>Closed on weekends and public holidays
