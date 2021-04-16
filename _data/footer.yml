@@ -80,7 +80,7 @@ navlinks:
         url: /about-us/
       - title: News and Media
         url: /news-and-media/
-      - title: Contact Us
-        url: /contact-us/
-      - title: FAQ
-        url: /faqs/popular/
+    #  - title: Contact Us
+    #    url: /contact-us/
+    #  - title: FAQ
+    #    url: /faqs/popular/
