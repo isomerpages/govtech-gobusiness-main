@@ -2,6 +2,7 @@
 title: Complete an Application
 permalink: /business-grants-faqs/complete-an-application/
 third_nav_title: Application
+published: false
 accordion-new:
   - title: Why can't I submit an application until I update my company profile?
     content: |

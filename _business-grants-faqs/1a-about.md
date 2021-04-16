@@ -2,6 +2,7 @@
 title: About
 permalink: /business-grants-faqs/
 third_nav_title: General
+published: false
 accordion-new:
   - title: What is the Business Grants Portal (BGP)?
     content: |

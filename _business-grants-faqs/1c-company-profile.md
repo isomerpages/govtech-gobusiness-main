@@ -2,6 +2,7 @@
 title: Company Profile
 permalink: /business-grants-faqs/company-profile/
 third_nav_title: General
+published: false
 accordion-new:
   - title: How can I update my Company Profile in the Business Grants Portal?
     content: |

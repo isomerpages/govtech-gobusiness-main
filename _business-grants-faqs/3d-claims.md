@@ -2,6 +2,7 @@
 title: Claims
 permalink: /business-grants-faqs/claims/
 third_nav_title: Post-Application
+published: false
 accordion-new:
   - title: Can I submit my grant claim through the Business Grants Portal?
     content: |

@@ -2,6 +2,7 @@
 title: Letter Of Offer
 permalink: /business-grants-faqs/letter-of-offer/
 third_nav_title: Post-Application
+published: false
 accordion-new:
   - title: My grant application has been approved. How do I accept my Letter of Offer?
     content: |

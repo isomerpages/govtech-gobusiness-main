@@ -2,6 +2,7 @@
 title: Vendors
 permalink: /business-grants-faqs/psg-vendors/
 third_nav_title: Productivity Solutions Grant (PSG)
+published: false
 accordion-new:
   - title: How can I be an approved vendor for PSG (only applicable to IT/digital solutions)?
     content: |
