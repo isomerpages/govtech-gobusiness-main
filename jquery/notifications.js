@@ -1,7 +1,6 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
-  "<b>[System Maintenance]</b> CorpPass will be unavailable for GoBusiness guided journey due to scheduled maintenance from Friday, 09 April 2021 11:50PM to Sunday, 11 April 2021 08:00AM. We apologise for the inconvenience caused.",
   "<b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href='https://go.gov.sg/corporate-login'>go.gov.sg/corporate-login</a>",
 ];
 
