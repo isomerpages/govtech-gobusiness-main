@@ -23,7 +23,7 @@ accordion-new:
 
   - title: Who can I contact for further details?
     content: |
-      For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA's [online feedback form] (https://www.sfa.gov.sg/feedback){:target="_blank"}.
+      For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA's [online feedback form](https://www.sfa.gov.sg/feedback){:target="_blank"}.
 
       If you have not submitted your application, you may do so online on our website.
 
