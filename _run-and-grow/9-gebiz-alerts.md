@@ -12,3 +12,6 @@ Simply log in to GoBusiness with your Corppass and subscribe to GeBIZ Alerts.
 <p>
 {% include button.html text="Subscribe" src="https://foodservices.gobusiness.gov.sg/gebiz-alerts/ssologin" type="primary" %}
 </p>
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

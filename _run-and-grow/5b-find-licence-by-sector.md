@@ -20,3 +20,6 @@ Select your relevant industry and find out which licences you need by answering 
 - Run a cyber/internet cafe
 - Dealings with rice
 - Operate slaughter-house
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

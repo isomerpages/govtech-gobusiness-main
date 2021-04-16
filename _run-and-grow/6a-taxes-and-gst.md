@@ -77,3 +77,6 @@ Click [here](https://www.iras.gov.sg/IRASHome/GST/Non-GST-registered-businesses/
 - you have to file GST returns for each prescribed accounting period. If Output Tax is more than Input Tax, you have to pay the difference to IRAS. If Input Tax is more than Output Tax, you will be refunded by IRAS.
 
 Learn all about GST with these short introductory [videos](https://elearn.iras.gov.sg/EdulearnNetUpload/CourseWare/IrasLearning/overviewOfGST/desktop/index.html){:target="\_blank"}.
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

@@ -56,3 +56,6 @@ You will be notified of your application results via email. Log into BGP to acce
 ### Related Links
 
 {% include panels.html panels=site.data.related_content_bgp %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

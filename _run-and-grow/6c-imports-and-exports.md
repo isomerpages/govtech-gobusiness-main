@@ -14,3 +14,6 @@ Imported goods are subject to GST and/or duty payment. A customs permit is requi
 - Tobacco products
 - Motor vehicles
 - Petroleum products
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

@@ -620,3 +620,6 @@ BCA co-funds up to 90% of selected training courses and skills assessments for f
 The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school.
 
 <a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank">Find out more</a>
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

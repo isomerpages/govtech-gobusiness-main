@@ -93,3 +93,6 @@ https://www.google.com.sg/
 ### By Sectors
 
 {% include business-intent.html %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

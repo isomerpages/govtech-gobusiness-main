@@ -35,3 +35,6 @@ accordion-new:
 ### Here are the loans currently available:
 
 {% include accordion-new.html %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

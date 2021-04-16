@@ -37,3 +37,6 @@ https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
 ### Related Links
 
 {% include panels.html panels=site.data.govassist_related_links %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

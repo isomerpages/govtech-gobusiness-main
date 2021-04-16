@@ -569,3 +569,6 @@ Select a government agency to see its licences and apply for them.
 ## U
 
 {% include accordion-u.html %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

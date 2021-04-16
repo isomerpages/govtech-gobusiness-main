@@ -107,3 +107,6 @@ The Digital Leaders Programme enables promising, high-potential local companies 
 The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
 <a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
