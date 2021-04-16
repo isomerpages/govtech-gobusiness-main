@@ -44,12 +44,13 @@ $secondary: #037e8a;
 $secondary-hover: lighten($secondary, 20%);
 
 //$media-color-one: #49759a;
-//$media-color-two: #744d9f;
-$media-color-one: #3366cc;
-$media-color-two: #cc9933;
+// $media-color-two: #744d9f;
+$media-color-one: #89579b;
+$media-color-two: #006699;
 $media-color-three: #009980;
-$media-color-four: #006699;
-$media-color-five: #cc9900;
+$media-color-four: #cc9a05;
+$media-color-five: #647283;
+$media-color-six: #d45b53;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -105,6 +106,12 @@ $desktop: 960px + (2 * $gap) !default;
       background-color: $media-color-five;
       &:hover {
         background-color: darken($media-color-five, 10%);
+      }
+    }
+    &-6 {
+      background-color: $media-color-six;
+      &:hover {
+        background-color: darken($media-color-six, 10%);
       }
     }
   }
