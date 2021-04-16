@@ -16,9 +16,9 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 Visit the [MOF Website](https://www.mof.gov.sg/){:target="\_blank"} for more information on Budget 2021.
 
-### **List of Government Assistance related schemes:**
+### List of Government Assistance related schemes:
 
-### **Grants**
+### Grants
 
 ### Capability Transfer Programme (CTP)![b2021](/images/budget2021/budget_extended.png)
 
