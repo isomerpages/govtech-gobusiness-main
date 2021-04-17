@@ -10,7 +10,7 @@ Upskilling your employees and equipping them with relevant skills and knowledge 
 
 Find them in our list of [grants](/gov-assist/grants/).
 
-####e-Services for training employees
+### e-Services for training employees
 
 **Ministry of Manpower (MOM)**
 
@@ -39,7 +39,7 @@ Find them in our list of [grants](/gov-assist/grants/).
 - [Access Singapore Workforce Skills Qualifications (WSQ) Professional Documents](https://www.skillsconnect.gov.sg/sop/portal/Help&Resources/WSQ%20Resource%20Library/WSQ%20Professional%20Documents/cs.jsp){:target="_blank"}
   <br>View and download the latest WSQ Competency Standard documents.
 
-####e-Services for sector-specific training
+### e-Services for sector-specific training
 
 **Council of Estate Agencies (CEA)**
 
@@ -60,4 +60,4 @@ Find them in our list of [grants](/gov-assist/grants/).
 
 ### Related content
 
-{% include panels-eservices.html panels=site.data.training_employees_biz_links %}
+{% include panels-eservices.html panels=site.data.training_employees_links %}

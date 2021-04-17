@@ -1,7 +1,9 @@
-- title: Employer Duties and Obligations
+- label: <img src="/images/e-services/e-services.svg">
+  title: Employer Duties and Obligations
   description: View e-Services for employment practices and employee management.
   link: /e-services/employer-duties-and-obligations/
 
-- title: Licences and Permits
+- label: <img src="/images/e-services/run-and-grow.svg">
+  title: Licences and Permits
   description: Find and apply for licences required to operate your business.
   link: /licences/

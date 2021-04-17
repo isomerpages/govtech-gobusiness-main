@@ -10,7 +10,7 @@ Workplace Safety and Health (WSH) obligations are to improve safety at the workp
 
 Learn more about them at [Ministry of Manpower's website](https://www.mom.gov.sg/workplace-safety-and-health){:target="_blank"}.
 
-####e-Services for workplace safety and health
+### e-Services for workplace safety and health
 
 **Ministry of Manpower (MOM)**
 

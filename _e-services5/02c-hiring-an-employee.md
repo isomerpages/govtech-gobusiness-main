@@ -10,7 +10,7 @@ There are job portals available to help with your search for suitable employees.
 
 Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 
-####Job Portals
+### Job Portals
 
 - [National Council of Social Service](#){:target="_blank"}
   <br>Post job listings in the social service sector.
@@ -24,7 +24,7 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 - [Manage SkillsFutureSG Applications](#){:target="_blank"}
   <br>PReview applications, and edit or extend your job listings.
 
-####e-Services for extending deadlines
+### e-Services for extending deadlines
 
 - [Extend notification letter validity / card registration period or change collection date for employment pass holders](https://form.gov.sg/#!/5b6d4563ca1efb000f3b03a4){:target="_blank"}
   <br>Request form for extension of notification letter validity or card registration period, or to change the card collection date for Employment Pass holders.
@@ -32,7 +32,7 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 - [Request for extension to get work pass issued / renewed or send pass holder home](https://form.gov.sg/#!/5f1803c2adf7da00122fc34e){:target="_blank"}
   <br>Request form if the work pass holder needs more time to leave Singapore or get the pass issued/renewed.
 
-####e-Services for hiring local employees
+### e-Services for hiring local employees
 
 **Ministry of Manpower (MOM)**
 
@@ -92,7 +92,7 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 - [Cancel Employment Pass (Sponsorship Cases)](https://form.gov.sg/#!/5a681dc0c2c5676e005c35d8){:target="_blank"}
   <br>Fill in this form to cancel an Employment Pass (EP) for a sponsorship case. If the pass holder is still in Singapore, make an appointment with our Employment Pass Services Centre (EPSC) to cancel the EP.
 
-####e-Services for updating particulars
+### e-Services for updating particulars
 
 **Ministry of Manpower (MOM)**
 
@@ -106,4 +106,4 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 
 ### Related content
 
-{% include panels-eservices.html panels=site.data.govt_assistance_for_biz_links %}
+{% include panels-eservices.html panels=site.data.hiring_employees_links %}
