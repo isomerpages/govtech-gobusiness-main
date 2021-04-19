@@ -1,5 +1,5 @@
 ---
-title: Tax incentives                                                                           
+title: Tax incentives
 permalink: /gov-assist/tax-incentives/
 third_nav_title: Government Assistance
 accordion-new:
@@ -53,7 +53,17 @@ accordion-new:
       <br>
 ---
 
-### Here are the tax incentives currently available:
+## Find relevant tax incentives
+
+Answer a few questions about your business and our e-Adviser for Government Assistance will recommend tax incentives you can apply for.
+
+{% include button.html text="Go to e-Adviser" src="
+https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
+" type="primary" %}
+
+## Browse all tax incentives
+
+### For all Sectors
 
 {% include accordion-new.html %}
 

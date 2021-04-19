@@ -32,7 +32,17 @@ accordion-new:
       <br>
 ---
 
-### Here are the loans currently available:
+## Find relevant loans
+
+Answer a few questions about your business and our e-Adviser for Government Assistance will recommend loans you can apply for.
+
+{% include button.html text="Go to e-Adviser" src="
+https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
+" type="primary" %}
+
+## Browse all loans
+
+### For all Sectors
 
 {% include accordion-new.html %}
 
