@@ -1,5 +1,5 @@
 ---
-title: Public Entertainment Licence
+title: Food Stall Licence
 permalink: /licensing-faqs/food-stall-licence/
 third_nav_title: Licences
 accordion-new:
