@@ -2,7 +2,7 @@
 layout: post
 title: Change in login process for businesses
 permalink: /news-and-media/news/change-in-login
-published: false
+published: true
 ---
 
 ## Change in login process for businesses
