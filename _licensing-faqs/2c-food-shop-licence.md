@@ -75,7 +75,7 @@ accordion-new:
 
   - title: How soon can my application be processed?
     content: |
-      | STEP | DESCRIPTION | SERVICE STANDARD |
+      | STEPS | DESCRIPTION | SERVICE STANDARD |
       | :---: | :---- | :---- |
       | Step 1 | **Submit complete application in GoBusiness**<br><br> - For complete application with layout plan, SFA will issue the In-Principle Approval (IPA) via email and [GoBusiness Portal](https://www.gobusiness.gov.sg/licences) under “submitted documents” tab of your application. With the IPA, applicants may proceed with the renovation.<br><br> - To avoid delays, please prepare the documents stated in the IPA and upload them in [GoBusiness Portal](https://www.gobusiness.gov.sg/licences) under “submitted documents” tab of your application.<br><br> - Incomplete application will be rejected.| 5 working days if application is complete<br> and in order |
       | Step 2 | **Book pre-licensing inspection upon completion of renovation**<br><br> - Make an appointment for inspection 7 days in advance via [SFA online feedback form](https://csp.sfa.gov.sg/feedback){:target="_blank"}<br><br> - To avoid delays, applicants should ensure that all the items listed in the IPA have been complied with | 2 working days to confirm inspection date              |
