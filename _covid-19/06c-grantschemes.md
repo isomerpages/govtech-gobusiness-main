@@ -25,7 +25,7 @@ accordion-new:
         * Overseas market set-up (capped at S$30,000)
         * Each application is limited to one activity in a single overseas market (e.g. market entry, or participation in a trade fair)
 
-      Find out more about PSG at <a href="https://go.gov.sg/mra" target="_blank">Enterprise Singapore (ESG)</a>and apply for it on GoBusiness <a href="https://dashboard-staging.l1t.molb.gov.sg/login">here</a>.
+      Find out more about MRA at <a href="https://go.gov.sg/mra" target="_blank">Enterprise Singapore (ESG)</a>and apply for it on GoBusiness <a href="https://dashboard-staging.l1t.molb.gov.sg/login">here</a>.
 
   - title: Enterprise Leadership for Transformation (ELT)
     content:  |    
