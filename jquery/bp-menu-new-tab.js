@@ -6,7 +6,7 @@ const listOfLinks = [
   "Business Grants",
   "Covid-19",
   "Licences and Permits",
-  "For New Food Service Business Owners",
+  "For new food service business owners",
 ];
 
 const main = ".bp-menu-list>li>a";
