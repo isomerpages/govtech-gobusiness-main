@@ -50,7 +50,6 @@ $media-color-two: #006699;
 $media-color-three: #009980;
 $media-color-four: #cc9a05;
 $media-color-five: #647283;
-$media-color-six: #d45b53;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -79,39 +78,33 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-media-color {
     &-1 {
-      background-color: $media-color-one !important;
+      background-color: $media-color-one;
       &:hover {
-        background-color: darken($media-color-one, 10%) !important;
+        background-color: darken($media-color-one, 10%);
       }
     }
     &-2 {
-      background-color: $media-color-two !important; 
+      background-color: $media-color-two; 
       &:hover {
-        background-color: darken($media-color-two, 10%) !important;
+        background-color: darken($media-color-two, 10%);
       }
     }
     &-3 {
-      background-color: $media-color-three !important;
+      background-color: $media-color-three;
       &:hover {
-        background-color: darken($media-color-three, 10%) !important;
+        background-color: darken($media-color-three, 10%);
       }
     }
     &-4 {
-      background-color: $media-color-four !important;
+      background-color: $media-color-four;
       &:hover {
-        background-color: darken($media-color-four, 10%) !important;
+        background-color: darken($media-color-four, 10%);
       }
     }
     &-5 {
-      background-color: $media-color-five !important;
+      background-color: $media-color-five;
       &:hover {
-        background-color: darken($media-color-five, 10%) !important;
-      }
-    }
-    &-6 {
-      background-color: $media-color-six !important;
-      &:hover {
-        background-color: darken($media-color-six, 10%) !important;
+        background-color: darken($media-color-five, 10%);
       }
     }
   }
