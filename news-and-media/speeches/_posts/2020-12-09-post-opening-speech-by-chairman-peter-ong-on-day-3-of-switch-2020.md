@@ -2,7 +2,6 @@
 layout: post
 title:  Opening speech by Chairman Peter Ong on Day 3 of SWITCH 2020
 permalink: /news-and-media/speeches/sample1
-published: true
 ---
 
 ![about us image](/images/sff-x-switch-640x450.jpg)
