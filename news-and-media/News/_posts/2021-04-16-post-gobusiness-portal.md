@@ -2,6 +2,7 @@
 layout: post
 title: GoBusiness Portal
 permalink: /news-and-media/news/gobusiness-portal
+published: false
 ---
 
 ## GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
