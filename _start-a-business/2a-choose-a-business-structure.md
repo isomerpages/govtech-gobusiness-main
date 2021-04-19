@@ -3,11 +3,11 @@ title: Choose a business structure
 permalink: /start-a-business/choose-a-business-structure/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Sole Proprietors
+  - title: Sole Proprietorship
     content: |
       A sole proprietorship is run by only one business owner and it is the simplest type of business structure. While a sole proprietor has complete control over the business and its operations, he is also personally responsible for all debts and legal actions against the business.
 
-  - title: Partnerships
+  - title: Partnership
     content: |
       A Partnership is similar to a sole proprietorship, except it is formed by two or more partners (capped at 20).
 
@@ -26,9 +26,11 @@ accordion-new:
 
 ## Step 1: Choose a business structure
 
+![Start Biz Structure](/images/start/StartSJ_BusinessStructure.jpg)
+
 Whether you're running the business on your own or with partners, choose the structure that best suits you. The most common are sole proprietorship, partnership and company. Each structure has its own benefits and considerations. Not sure which to choose?
 
-{% include button.html text="Find out with our e-Adviser for Business Structure" src="https://eadviser.g2b.sg/businessstructure" type="primary" %}
+{% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.g2b.sg/businessstructure" type="primary" %}
 
 ### Here are the five different types of business structures:
 
@@ -47,7 +49,7 @@ Here are some questions to help you decide:
 - What are my business needs?
 - Is the business structure easy to close?
 
-Download a summary of the different types of business entities [here](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.
+[Download a PDF summary of the different types of business entities](/images/start/Types_of_Business_Entities_Apr21.pdf){:target="_blank"}.
 
 ---
 

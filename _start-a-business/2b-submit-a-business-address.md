@@ -6,6 +6,8 @@ third_nav_title: Key Steps to Start
 
 ## Step 2: Choose a business address
 
+![Choose Biz Address](/images/start/StartSJ_BusinessAddress.jpg)
+
 A business address is the place where you carry out your business. A P.O. Box address cannot be used as a business address.
 
 All business owners and company officers must provide their residential address at the point of registration. These addresses are made publicly available when the public purchases information about the business entity.

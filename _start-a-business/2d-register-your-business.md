@@ -3,7 +3,7 @@ title: Register your business
 permalink: /start-a-business/register-your-business/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Register a Sole proprietorship/Partnership
+  - title: Register a Sole Proprietorship/Partnership
     content: |
       Here's what you need to know in order to register a Sole Proprietorship or Partnership)
 
@@ -104,11 +104,13 @@ accordion-new:
 
 ## Step 4: Register your business
 
+![Register Biz](/images/start/StartSJ_RegisterBusiness.jpg)
+
 ### How to register a business
 
 There are two ways to register your business:
 
-1. Log in to BizFile+ [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your Singpass or Corppass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
+1. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your Singpass or Corppass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
 
 2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
