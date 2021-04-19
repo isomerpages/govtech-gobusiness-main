@@ -2,7 +2,7 @@
 layout: post
 title:  Updated Advisory
 permalink: /news-and-media/media-releases/sample1
-published: false
+published: true
 ---
 ![about us image](/images/ST_20200809_TFNIGHTLIFE_5875148.jpg)
 
