@@ -79,39 +79,39 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-media-color {
     &-1 {
-      background-color: $media-color-one;
+      background-color: $media-color-one !important;
       &:hover {
-        background-color: darken($media-color-one, 10%);
+        background-color: darken($media-color-one, 10%) !important;
       }
     }
     &-2 {
-      background-color: $media-color-two;
+      background-color: $media-color-two !important; 
       &:hover {
-        background-color: darken($media-color-two, 10%);
+        background-color: darken($media-color-two, 10%) !important;
       }
     }
     &-3 {
-      background-color: $media-color-three;
+      background-color: $media-color-three !important;
       &:hover {
-        background-color: darken($media-color-three, 10%);
+        background-color: darken($media-color-three, 10%) !important;
       }
     }
     &-4 {
-      background-color: $media-color-four;
+      background-color: $media-color-four !important;
       &:hover {
-        background-color: darken($media-color-four, 10%);
+        background-color: darken($media-color-four, 10%) !important;
       }
     }
     &-5 {
-      background-color: $media-color-five;
+      background-color: $media-color-five !important;
       &:hover {
-        background-color: darken($media-color-five, 10%);
+        background-color: darken($media-color-five, 10%) !important;
       }
     }
     &-6 {
-      background-color: $media-color-six;
+      background-color: $media-color-six !important;
       &:hover {
-        background-color: darken($media-color-six, 10%);
+        background-color: darken($media-color-six, 10%) !important;
       }
     }
   }
