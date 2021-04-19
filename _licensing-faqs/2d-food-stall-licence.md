@@ -46,7 +46,26 @@ accordion-new:
 
   - title: How soon can my application be processed?
     content: |
-      SFA will send a letter reply to you within three working days of receipt of the application. If the application is incomplete, you will be informed to furnish the pending documents/information within two weeks. If the application is complete, SFA will issue the approval letter to you within five working days. Upon payment of the licence fee, the licence will be issued to you.
+      | STEPS | DESCRIPTION | SERVICE STANDARD |
+      | :---: | :---- | :---- |
+      | Step 1 | **Submit complete application in GoBusiness**<br><br> - For complete application with layout plan and tenancy agreement attached, SFA will process the application within 5 working days.<br><br> - For incomplete application and without layout plan or tenancy agreement, SFA will reject the application.<br><br> **Existing Licensed Premises**<br>If you are taking over a food stall, you should engage the main operator to ensure the previous licensee has cancelled the licence to avoid delays. Otherwise, SFA will require 2 weeks to engage the food stall licensee for cancellation of the licence. | 5 working days if application is complete and in order |
+      | Step 2 | **Make payment after licence approval**<br><br>Upon full compliance to licensing requirements and submission of required documents, SFA will approve the application. You will receive a notification via email and GoBusiness within 5 working days.<br><br> - MFor applicants with existing GIRO arrangement with SFA, you may start business after receiving SFA's email approval}<br><br> - For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.<br><br>SFA will post out the hardcopy licences within 7 working days upon successful payment.<br>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to [SFA](https://www.sfa.gov.sg/feedback){:target="_blank"} to request for a replacement copy. | 5 working days if application is complete and in order <br><br>7 working days to post out hardcopy licenses |
+
+      **1) How soon can I hear from SFA after I submit my application?**
+
+      Refer to Step 1. When you submit an application for a food stall licence, SFA will respond to you within 5 working days.
+
+      If you are taking over a food stall where the current licence is valid, you should engage the main operator to ensure the previous licensee has cancelled the licence so as not to delay your application. Otherwise, SFA will require 2 weeks to engage the food stall licensee for cancellation of licence.
+
+      **2) How soon will my application be approved?**
+
+      Refer to Step 2. SFA will approve the application within 5 working days upon applicant’s full compliance to licensing requirements and submission of required documents.
+
+      **3) When can I commence business? Do I need to wait for the hardcopy licence before I start operations? What do I do if I do not receive the hardcopy licence?**
+
+      Refer to Step 2 on when you may commence business,
+
+      SFA will post out the hardcopy licences within 7 working days upon successful payment. You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to [SFA](https://www.sfa.gov.sg/feedback){:target="_blank"} to request for a replacement copy.
 
   - title: Who can I contact for further details?
     content: |
