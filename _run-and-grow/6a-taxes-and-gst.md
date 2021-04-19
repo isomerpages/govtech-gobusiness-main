@@ -6,26 +6,26 @@ third_nav_title: Taxes, GST & Customs
 
 ## Taxes & GST
 
-### File Income Tax Return with IRAS
+### File income tax return with IRAS
 
 Unsure how to file taxes for your business?
 
-**Tax Filing for Sole Proprietorship/Partnership/Limited Partnership/Limited Liability Partnership**
+**Tax filing for Sole Proprietorship / Partnership / Limited Partnership / Limited Liability Partnership**
 
 If your business has not been registered yet, check out the following guides to learn more.
 
-- [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="_blank"}
-- [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"}
+- [Basic guide for self-employed persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="_blank"}
+- [Basic guide for partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"}
 
 After your business has been registered, access the Start-Up Kit to obtain customised information to guide you in your first Income Tax Return filing with IRAS.
 
-- [New Sole-Proprietorship and Partnership Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/New-Sole-Proprietorship-and-Partnership-Start-Up-Kit/){:target="_blank"}
+- [New sole-Proprietorship and Partnership Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/New-Sole-Proprietorship-and-Partnership-Start-Up-Kit/){:target="_blank"}
 
-**Tax Filing for New Companies**
+**Tax filing for new companies**
 
 If your company has not been registered yet, check out the following guide to learn more.
 
-- [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"}
+- [Basic guide for new companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"}
 
 After your business has been registered, access the Start-Up Kit to obtain customised information to guide you in your Annual filing with ACRA and Income Tax Returns with IRAS.
 

@@ -1,5 +1,5 @@
 ---
-title: About Gov Assist
+title: About Government Assistance
 permalink: /gov-assist/
 third_nav_title: Government Assistance
 ---
@@ -24,17 +24,17 @@ Find out with e-Adviser for Government Assistance, a free online tool to help yo
 https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
 " type="primary" %}
 
-### Types of Assistance Schemes
+### Types of assistance schemes
 
 {% include panels-govassist.html panels=site.data.govassist_assistancetypes %}
 
-### Additional Support Programmes
+### Additional support programmes
 
 {% include panels-govassist.html panels=site.data.govassist_addsupportprogram %}
 
 ---
 
-### Related Links
+### Related links
 
 {% include panels.html panels=site.data.govassist_related_links %}
 

@@ -1,7 +1,7 @@
 ---
 title: Licensing e-Adviser
 permalink: /licences/licensing-eadviser/
-third_nav_title: Licences
+third_nav_title: Licences and Permits
 published: false
 accordion-new:
   - title: Accounting and Corporate Regulatory Authority (ACRA)

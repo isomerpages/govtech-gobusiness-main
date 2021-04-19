@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: /licensing-faqs/
-third_nav_title: Licences
+third_nav_title: Licences and Permits
 ---
 
 <script src="/jquery/jquery.min.js"></script>

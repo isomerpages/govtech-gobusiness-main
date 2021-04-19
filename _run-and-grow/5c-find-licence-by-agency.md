@@ -1,7 +1,7 @@
 ---
-title: Browse All Licences
+title: Browse all licences
 permalink: /licences/find-licence-by-agency/
-third_nav_title: Licences
+third_nav_title: Licences and Permits
 
 accordion-a:
   - title: Accounting & Corporate Regulatory Authority (ACRA)

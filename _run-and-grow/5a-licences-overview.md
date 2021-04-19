@@ -1,14 +1,14 @@
 ---
 title: About
 permalink: /licences/
-third_nav_title: Licences
+third_nav_title: Licences and Permits
 ---
 
 ## About
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
 
-## Find & Apply licences
+## Find & apply licences
 
 {% include panels-linksdescription.html panels=site.data.rg_licences %}
 
@@ -17,6 +17,7 @@ Most businesses need licences and permits for different business activities. Wit
 ## For new food service business owners
 
 **Guided Journey**
+
 <br>If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
 
 <p>
@@ -25,7 +26,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 <img id="amend-renew-licences" src="/images/grow/allotherbizowners.png"/>
 
-## Amend/Renew licences
+## Amend / renew licences
 
 If your licence is from
 
