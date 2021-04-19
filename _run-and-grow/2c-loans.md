@@ -37,7 +37,7 @@ accordion-new:
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend loans you can apply for.
 
 {% include button.html text="Go to e-Adviser" src="
-https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
+https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
 " type="primary" %}
 
 ## Browse all loans
