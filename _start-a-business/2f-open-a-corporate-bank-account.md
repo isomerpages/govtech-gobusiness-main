@@ -6,6 +6,8 @@ third_nav_title: Key Steps to Start
 
 ## Step 6: Open a corporate bank account
 
+![Bank Account](/images/start/StartSJ_CorporateBankAccount.jpg)
+
 For Companies and Limited Liability Partnerships, opening a corporate bank account is a must.
 
 It is optional for Sole Proprietorships, Partnerships and Limited Partnerships. However, a corporate bank account allows you to keep your business expenses separate from your personal savings and also helps you track your business cash flows, which will come in handy when filing taxes.
@@ -14,11 +16,11 @@ It is optional for Sole Proprietorships, Partnerships and Limited Partnerships. 
 
 In general, most banks have the following requirements.
 
-1. Account signatories and majority directors be physically present in Singapore for paperwork signing at the time of opening the company bank account.
+1) Account signatories and majority directors be physically present in Singapore for paperwork signing at the time of opening the company bank account.
 
 Note: Some banks may accept the signing of documents at one of their overseas branches or in front of a Notary Public.
 
-2. Supporting documents needed:
+2) Supporting documents needed:
 
 |-- |--|
 |**Completed Corporate Account Opening Forms** |Signed by authorised signatories as per the board resolution|
