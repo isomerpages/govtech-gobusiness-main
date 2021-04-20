@@ -3,7 +3,7 @@ title: Helpdesk
 permalink: /contact-us/
 ---
 
-## Get in touch with GoBusiness
+## Get in touch with GoBusiness Helpdesk
 
 ### For general enquiries
 
