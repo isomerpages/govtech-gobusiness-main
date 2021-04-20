@@ -1,4 +1,4 @@
 ---
-title: FAQs
-permalink: /covid-faqs/
+title: FAQ
+permalink: /covid-faqs/general-exemption
 ---
