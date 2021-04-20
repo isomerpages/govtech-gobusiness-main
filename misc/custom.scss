@@ -36,20 +36,12 @@ $light: 300;
 @charset "utf-8";
 
 // GoBusiness brand colors
-//$primary: #6031b6;
-$primary: #037e8a;
-$secondary: #037e8a;
-//$secondary: #037E8A;
-//$secondary: #313840;
-$secondary-hover: lighten($secondary, 20%);
-
-//$media-color-one: #49759a;
-// $media-color-two: #744d9f;
-$media-color-one: #89579b;
-$media-color-two: #006699;
-$media-color-three: #009980;
-$media-color-four: #647283;
-$media-color-five: #cc9a05;
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%);
+{%- for media-color in site.colors.media-colors -%}
+    ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;

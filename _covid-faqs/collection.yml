@@ -1,0 +1,12 @@
+collections:
+  covid-faqs:
+    output: true
+    order:
+      - general/.keep
+      - general/general-exemption.md
+      - general/safe-distancing-ambassadors.md
+      - resumption-of-business-activities.md
+      - implementing-safe-management-measures.md
+      - returning-to-workplaces.md
+      - sector-specific-queries.md
+      - manpower-declaration-submission.md

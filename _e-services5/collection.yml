@@ -1,0 +1,11 @@
+collections:
+  e-services5:
+    output: true
+    order:
+      - back-to-e-services-overview.md
+      - employment-matters/.keep
+      - employment-matters/central-provident-fund-cpf-matters.md
+      - employment-matters/employer-duties-and-obligations.md
+      - employment-matters/hiring-employees.md
+      - employment-matters/training-your-employees.md
+      - employment-matters/workplace-safety-and-health.md

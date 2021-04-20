@@ -2,37 +2,6 @@ title: GoBusiness Singapore
 url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
-collections:
-  contact-us:
-    output: true
-  run-and-grow:
-    output: true
-  start-a-business:
-    output: true
-  licensing-faqs:
-    output: true
-  business-grants-faqs:
-    output: true
-  productivity_solutions_grant:
-    output: true
-  covid-19:
-    output: true
-  faqs:
-    output: true
-  covid-faqs:
-    output: true
-  e-services1:
-    output: true
-  e-services2:
-    output: true
-  e-services3:
-    output: true  
-  e-services4:
-    output: true
-  e-services5:
-    output: true
-  e-services6:
-    output: true   
 google_analytics: UA-186826212-1
 facebook-pixel: 688926055194344
 linkedin-insights: 918155
@@ -57,9 +26,27 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+staging: https://govtech-gobusiness-main-staging.netlify.app/
+prod: https://govtech-gobusiness-main-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+  - jekyll-remote-theme
+
+colors:
+  primary-color: '#037e8a'
+  secondary-color: '#037e8a'
+  media-colors:
+    - title: media-color-one
+      color: '#89579b'
+    - title: media-color-two
+      color: '#006699'
+    - title: media-color-three
+      color: '#009980'
+    - title: media-color-four
+      color: '#647283'
+    - title: media-color-five
+      color: '#cc9a05'

@@ -1,0 +1,21 @@
+collections:
+  licensing-faqs:
+    output: true
+    order:
+      - general/.keep
+      - general/about.md
+      - general/getting-started.md
+      - general/application.md
+      - licences/.keep
+      - licences/application-for-change-of-trade-hdb-commercial-properties.md
+      - licences/change-of-use-approval.md
+      - licences/food-shop-licence.md
+      - licences/food-stall-licence.md
+      - licences/halal-certfication.md
+      - licences/liquor-licence.md
+      - licences/liquor-licence-extension-of-operating-hours.md
+      - licences/petroleum-flammable-materials-storage-licence.md
+      - licences/public-entertainment-licence.md
+      - licences/tobacco-retail-licence.md
+      - post-application/.keep
+      - post-application/payment.md
