@@ -1,6 +1,6 @@
 ---
 title: General exemption
-permalink: /covid-faqs/general-exemption
+permalink: /covid-faqs/
 third_nav_title: General
 accordion-new:
   - title: What should I do if I have not received an exemption? Am I allowed to continue running my business?
