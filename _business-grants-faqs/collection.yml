@@ -1,0 +1,20 @@
+collections:
+  business-grants-faqs:
+    output: true
+    order:
+      - general/.keep
+      - general/about.md
+      - general/login-via-corppass.md
+      - general/company-profile.md
+      - application/.keep
+      - application/get-a-grant.md
+      - application/complete-an-application.md
+      - application/application-status-and-processes.md
+      - post-application/.keep
+      - post-application/general.md
+      - post-application/letter-of-offer.md
+      - post-application/change-request.md
+      - post-application/claims.md
+      - productivity-solutions-grant-psg/.keep
+      - productivity-solutions-grant-psg/general.md
+      - productivity-solutions-grant-psg/vendors.md

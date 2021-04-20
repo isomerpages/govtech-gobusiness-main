@@ -1,0 +1,11 @@
+collections:
+  e-services6:
+    output: true
+    order:
+      - back-to-e-services-overview.md
+      - growth-and-expansion/.keep
+      - growth-and-expansion/business-opportunities.md
+      - growth-and-expansion/corporate-social-responsibility-csr.md
+      - growth-and-expansion/getting-business-premises.md
+      - growth-and-expansion/trade-marks-intellectual-property-ip.md
+      - growth-and-expansion/training-and-accreditation.md
