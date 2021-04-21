@@ -32,3 +32,6 @@ Note: Some banks may accept the signing of documents at one of their overseas br
 |**Certified True Copies of Passport (or Singapore IC) and Residential Address Proof of the Directors, Signatories, and Ultimate Beneficiary Owners**|If you are in Singapore, just bring the originals and the bank will make a copy|
 
 Note: Some banks may require additional documents on a case-by-case basis.
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/resize-tables.js"></script>

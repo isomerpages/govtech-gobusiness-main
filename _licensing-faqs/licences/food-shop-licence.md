@@ -171,3 +171,7 @@ accordion-new:
 {% include accordion-new.html %}
 
 [Back to Licences Overview](/licences/)
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/resize-tables.js"></script>
+

@@ -19,5 +19,7 @@ const makeNewTab = sel =>
       : null
   );
 
-makeNewTab(main);
-makeNewTab(sub);
+$(document).ready(function () {
+  makeNewTab(main);
+  makeNewTab(sub);
+});
