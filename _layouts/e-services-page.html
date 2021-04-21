@@ -4,31 +4,6 @@ layout: skeleton
 
 <body>
   <style>
-    .primary-btn {
-      font-family: hknova-regular;
-      font-weight: bold;
-      padding: 8px 20px;
-      background-color: #037e8a;
-      border-radius: 3px;
-      color: #ffffff;
-      border: 1px solid #037e8a;
-      font-size: 14px;
-      line-height: 24px;
-      cursor: pointer;
-    }
-
-    .primary-btn:hover {
-      background-color: #026770;
-    }
-
-    .primary-btn:active {
-      background-color: #025B63;
-    }
-
-    .primary-btn:focus {
-      outline: 2px solid #1C8B95;
-    }
-
     #main-content {
       background-color: #f9fafa;
     }
@@ -37,6 +12,10 @@ layout: skeleton
       margin-top: 60px;
       margin-bottom: 60px;
       text-align: -webkit-center;
+    }
+
+    .panels-title-container:nth-child(1) {
+      margin-top: 32px;
     }
 
     .panels-title {
@@ -53,130 +32,6 @@ layout: skeleton
       margin: 0 auto;
     }
 
-    .panel {
-      background: #ffffff;
-      border: 1px solid #dbdfe4;
-      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
-        0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
-        0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
-      border-radius: 5px;
-      width: 366px;
-      height: auto;
-      padding: 20px;
-      display: flex;
-      flex-direction: column;
-    }
-
-    /* Panel header */
-
-    .panel-header-container {
-      display: grid;
-      grid-template-columns: 1fr;
-      justify-items: center;
-      row-gap: 8px;
-    }
-
-    .panel-header-icon {
-      height: 80px;
-      width: 80px;
-    }
-
-    .panel-header-text {
-      margin-top: 0 !important;
-      margin-bottom: 20px !important;
-      color: #313840 !important;
-    }
-
-    /* Panel content */
-
-    .panel-content {
-      display: flex;
-      margin-bottom: 10px;
-      align-items: baseline;
-    }
-
-    .panel-content-info-container {
-      background: #eef0f2;
-      border-radius: 5px;
-      padding: 12px 20px;
-      margin-top: auto;
-    }
-
-    .panel-content-info-text {
-      font-family: hknova-regular;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 14px !important;
-      line-height: 22px !important;
-      color: #4a5561;
-    }
-
-    .right-arrow {
-      height: 13.64px;
-      width: 7.53px !important;
-      margin: unset !important;
-    }
-
-    .login {
-      height: 14px;
-      width: 13.48px !important;
-      margin: unset !important;
-    }
-
-    .panel-content-links {
-      margin: 0 0 0 12.24px !important;
-      color: #2A6EBB !important;
-      text-decoration: none !important;
-      font-size: 16px;
-      line-height: 24px !important;
-    }
-
-    .panel-content-links:hover {
-      text-decoration-line: underline !important;
-      color: #084E8A !important;
-    }
-
-    .panel-content-links:visited {
-      color: #89579B !important;
-    }
-
-    .panel-content-links:visited:hover {
-      text-decoration-line: underline;
-      color: #521B88 !important;
-    }
-
-    /* Tags */
-
-    .tag {
-      background: #e6f0fc;
-      border-radius: 3px;
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      padding: 2px 8px;
-      margin: 0 8px;
-    }
-
-    .tag-text {
-      color: #0862cb !important;
-      font-family: hknova-regular;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 12px;
-      line-height: 18px;
-      margin-bottom: 0 !important;
-    }
-
-    .bp-footer {
-      background-color: #313840 !important;
-    }
-
-    .underline {
-      margin-left: 0 !important;
-      text-decoration: underline !important;
-      font-size: 14px !important;
-    }
-
     .break-mobile {
       display: none;
       z-index: 2;
@@ -190,10 +45,6 @@ layout: skeleton
         justify-items: center;
       }
 
-      .panel {
-        width: 366px;
-      }
-
       .break-mobile {
         display: block;
       }
@@ -204,10 +55,6 @@ layout: skeleton
         grid-template-columns: 1fr;
         justify-items: center;
       }
-
-      .panel {
-        width: 366px;
-      }
     }
   </style>
 
@@ -216,349 +63,18 @@ layout: skeleton
       <div class="bp-container content padding--top--lg padding--bottom--xl">
         <div class="row">
           <div class="col print-content">
-            <div class="panels-title-container" style="margin-top: 32px">
+            <div class="panels-title-container">
               <h1 class="panels-title">Quick Links</h1>
             </div>
             <div class="panels">
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/signpost.svg"
-                    alt="signpost" />
-                  <h3 class="p1 panel-header-text">Guides for Businesses</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="https://eadviser.g2b.sg/businessstructure/?src=eservices"
-                    target="_blank">e-Adviser for Business Structure</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="https://eadviser.g2b.sg/startabusiness/?src=eservices"
-                    target="_blank">e-Adviser for Start a Business</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_guides" target="_blank">Food Services Licence Guided
-                    Journey</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="https://gaeadviser.gobusiness.gov.sg/?src=eservices"
-                    target="_blank">e-Adviser for Government Assistance</a>
-                </div>
-                <div class="panel-content-info-container">
-                  <p class="panel-content-info-text">
-                    <a
-                      class="panel-content-links underline"
-                      href="/e-services/guides-for-biz/">View all guides for businesses</a>
-                  </p>
-                </div>
-              </div>
-
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/popular.svg"
-                    alt="popular" />
-                  <h3 class="p1 panel-header-text">Popular Resources</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/gov-assist/budget-2021/">Budget 2021</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2/?src=eservices"
-                    target="_blank">General Exemptions Form (Covid-19)</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links"
-                    href="https://foodservices.gobusiness.gov.sg/exemptions/login/?src=eservices"
-                    target="_blank">Permissions and Manpower Exemption Form
-                    (Covid-19)</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/productivity-solutions-grant/">Productivity Solutions Grant
-                    listing</a>
-                </div>
-              </div>
-
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/licences-80.svg"
-                    alt="licences" />
-                  <h3 class="p1 panel-header-text">Licences and Permits</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="login"
-                    src="/images/login.svg"
-                    alt="login" />
-                  <a class="panel-content-links" href="/licences/">Apply for licences</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="login"
-                    src="/images/login.svg"
-                    alt="login" />
-                  <a class="panel-content-links" href="/licences/#amend-renew-licences">Cancel or renew licence</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/licences/find-licence-by-agency/">Browse all licences</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/licences/find-licence-by-sector/">Browse by sector</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_licence&permits" target="_blank">For new food service business
-                    owners</a>
-                </div>
-              </div>
+              {% include hyp-panels.html panels=site.data.hyp-panels-quicklinks.panels %}
             </div>
 
             <div class="panels-title-container">
               <h1 class="panels-title">e-Services for Businesses</h1>
             </div>
-
             <div class="panels">
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/new business.svg"
-                    alt="new_business" />
-                  <h3 class="p1 panel-header-text">New Business Owners</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/biz-registration-matters/">Business registration
-                    matters</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/essential-biz-regulations/">Essential business
-                    regulations</a>
-                </div>
-                <div class="panel-content-info-container">
-                  <p class="panel-content-info-text">
-                    View our
-                    <a
-                      class="panel-content-links underline"
-                      href="/start-a-business/choose-a-business-structure/">Start Guide</a>
-                    for step by step guidance on starting a business
-                  </p>
-                </div>
-              </div>
-
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/accounting.svg"
-                    alt="accounting" />
-                  <h3 class="p1 panel-header-text">Accounting and Finance</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/gov-assist-biz/">Government assistance for
-                    businesses</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/taxes-and-gst/">Taxes and GST</a>
-                </div>
-              </div>
-
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/business admin.svg"
-                    alt="business_admin" />
-                  <h3 class="p1 panel-header-text">Business Administration</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/change-in-owner-or-director/">Change in owner or
-                    director</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/filing-annual-returns/">Filing annual returns</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/managing-your-corppass-profile/">Managing your
-                    Corppass Profile</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/winding-down-a-biz/">Winding down a business</a>
-                </div>
-              </div>
-
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/employment.svg"
-                    alt="employment" />
-                  <h3 class="p1 panel-header-text">Employment Matters</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/about-cpf/">Central Provident Fund (CPF) matters</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/employer-duties-and-obligations/">Employer duties and
-                    obligations</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/hiring-an-employee/">Hiring employees</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/hiring-an-employee/">Training employees</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/workplace-safety/">Workplace safety and health</a>
-                </div>
-              </div>
-
-              <div class="panel">
-                <div class="panel-header-container">
-                  <img
-                    class="panel-header-icon"
-                    src="/images/growth.svg"
-                    alt="growth" />
-                  <h3 class="p1 panel-header-text">Growth and Expansion</h3>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/business-opportunities/">Business opportunities</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/corporate-social-responsibility/">Corporate Social
-                    Responsibility (CSR)</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/getting-business-premises/">Getting business
-                    premises</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/trade-marks-and-ip/">Trade marks and Intellectual
-                    Property
-                    (IP)</a>
-                </div>
-                <div class="panel-content">
-                  <img
-                    class="right-arrow"
-                    src="/images/right-arrow.svg"
-                    alt="right-arrow" />
-                  <a class="panel-content-links" href="/e-services/training-and-accreditation/">Training and
-                    accreditation</a>
-                </div>
-              </div>
+              {% include hyp-panels.html panels=site.data.hyp-panels-eservices.panels %}
             </div>
           </div>
         </div>

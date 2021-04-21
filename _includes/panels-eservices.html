@@ -14,16 +14,11 @@
         padding: 23px;
     }
 
-    .panel-label {
-        width: 50%;
-        height: 1px;
-        margin: 0;
-    }
-    
     .panel-title {
         font-family: hknova-regular;
         font-size: 24px;
         font-weight: 600;
+        margin-top: 16px !important;
     }
 
     .panel-description {
@@ -49,10 +44,9 @@
     }
 </style>
 <div class="panels">
-
     {% for panel in include.panels %}
     <div class="panel">
-        <div class="panel-label">{{ panel.label }}</div>
+        {% if {{panel.label}} %}{% include label.html label=panel.label %}{% endif %}
         <h4 class="panel-title">{{ panel.title }}</h4>
         <p class="panel-description">{{ panel.description }}</p>
         <!-- description to change the style -->

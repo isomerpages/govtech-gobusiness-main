@@ -1,0 +1,58 @@
+panels:
+  - title: New Business Owners
+    image: /images/new business.svg
+    alt: new_business
+    links:
+      - text: Business registration matters
+        href: /e-services/biz-registration-matters/
+      - text: Essential business regulations
+        href: /e-services/essential-biz-regulations/
+    info-text: View our <a class="panel-content-links underline" href="/start-a-business/choose-a-business-structure/">Start Guide</a> for step by step guidance on starting a business
+  - title: Accounting and Finance
+    image: /images/accounting.svg
+    alt: accounting
+    links:
+      - text: Government assistance for businesses
+        href: /e-services/gov-assist-biz/
+      - text: Taxes and GST
+        href: /e-services/taxes-and-gst/
+  - title: Business Administration
+    image: /images/business admin.svg
+    alt: business_admin
+    links:
+      - text: Change in owner or director
+        href: /e-services/change-in-owner-or-director/
+      - text: Filing annual returns
+        href: /e-services/filing-annual-returns/
+      - text: Managing your Corppass Profile
+        href: /e-services/managing-your-corppass-profile/
+      - text: Winding down a business
+        href: /e-services/winding-down-a-biz/
+  - title: Employment Matters
+    image: /images/employment.svg
+    alt: employment
+    links:
+      - text: Central Provident Fund (CPF) matters
+        href: /e-services/about-cpf/
+      - text: Employer duties and obligations
+        href: /e-services/employer-duties-and-obligations/
+      - text: Hiring employees
+        href: /e-services/hiring-an-employee/
+      - text: Training employees
+        href: /e-services/hiring-an-employee/
+      - text: Workplace safety and health
+        href: /e-services/workplace-safety/
+  - title: Growth and Expansion
+    image: /images/growth.svg
+    alt: growth
+    links:
+      - text: Business opportunities
+        href: /e-services/business-opportunities/
+      - text: Corporate Social Responsibility (CSR)
+        href: /e-services/corporate-social-responsibility/
+      - text: Getting business premises
+        href: /e-services/getting-business-premises/
+      - text: Trade marks and Intellectual Property (IP)
+        href: /e-services/trade-marks-and-ip/
+      - text: Training and accreditation
+        href: /e-services/training-and-accreditation/

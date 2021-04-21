@@ -107,50 +107,6 @@ layout: skeleton
       margin: 0 !important;
     }
 
-    .secondary-btn {
-      font-family: hknova-regular;
-      border: 1px solid #b3d8dc;
-      box-sizing: border-box;
-      border-radius: 3px;
-      background-color: #fafdfd;
-      font-weight: 600;
-      font-size: 14px;
-      line-height: 21px;
-      color: #037e8a;
-      height: 40px;
-      width: 176px;
-      margin: 0 auto;
-      cursor: pointer;
-    }
-
-    .secondary-btn:hover {
-      border: 1px solid #026770;
-      color: #026770;
-    }
-
-    .secondary-btn:active {
-      border: 1px solid #025b63;
-      color: #025b63;
-    }
-
-    .secondary-btn:focus {
-      outline: 2px solid #1c8b95;
-    }
-
-    .secondary-btn>a,
-    .secondary-btn>a:hover,
-    .secondary-btn>a:visited,
-    .secondary-btn>a:visited:hover {
-      padding: 9.5px 45.13px;
-      height: 100%;
-      width: 100%;
-      text-decoration: none;
-      color: #037E8A;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
     #biz {
       grid-area: biz;
     }
@@ -177,6 +133,13 @@ layout: skeleton
       font-size: 32px;
       line-height: 40px;
       color: #ffffff !important;
+    }
+
+    .secondary-btn {
+      font-size: 14px !important;
+      line-height: 21px !important;
+      height: 40px !important;
+      width: 176px !important;
     }
 
     @media (max-width: 1290px) {
@@ -233,42 +196,40 @@ layout: skeleton
                   <h5>Business<br />
                     Grants Portal</h5>
                   <p>Apply for and manage grants on Business Grants Portal.</p>
-                  <div class="secondary-btn">
-                    <a href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank">Log
-                      In</a>
-                  </div>
+                  {% include secondary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank"
+                  text="Log In" %}
                 </div>
                 <div id="subscribe" class="panel">
                   <h5>GeBIZ
                     Alerts</h5>
                   <p>Subscribe to GeBIZ alerts via email.</p>
-                  <div class="secondary-btn"><a href="/gebiz-alerts/?src=login_gebizalerts">Log In</a></div>
+                  {% include secondary-btn.html href="/gebiz-alerts/?src=login_gebizalerts"
+                  text="Log In" %}
                 </div>
                 <div id="food" class="panel">
                   <h5>Licences for
                     Food Services</h5>
                   <p>Apply for and manage licences for food service businesses.</p>
-                  <div class="secondary-btn">
-                    <a href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs"
-                      target="_blank">Log In</a>
-                  </div>
+                  {% include secondary-btn.html
+                  href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs" target="_blank"
+                  text="Log In" %}
                 </div>
                 <div id="nparks" class="panel">
                   <h5>Licences<br />from SFA/AVS/<br />NParks</h5>
                   <p>Apply for and manage licences from Singapore Food Agency (SFA), Animal & Veterinary Service (AVS),
                     and NParks.</p>
-                  <div class="secondary-btn">
-                    <a href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=login_sfavsnparks"
-                      target="_blank">Log In</a>
-                  </div>
+                  {% include secondary-btn.html
+                  href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=login_sfavsnparks"
+                  target="_blank"
+                  text="Log In" %}
                 </div>
                 <div id="others" class="panel">
                   <h5>Licences for Other Sectors</h5>
                   <p>Apply for and manage licences for all sectors except food services.</p>
-                  <div class="secondary-btn">
-                    <a href="https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=login_allothers"
-                      target="_blank">Log In</a>
-                  </div>
+                  {% include secondary-btn.html
+                  href="https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=login_allothers"
+                  target="_blank"
+                  text="Log In" %}
                 </div>
               </div>
             </div>

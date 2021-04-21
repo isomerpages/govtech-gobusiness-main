@@ -1,0 +1,46 @@
+panels:
+  - title: Guides for Businesses
+    image: /images/signpost.svg
+    alt: signpost
+    links:
+      - text: e-Adviser for Business Structure
+        href: https://eadviser.g2b.sg/businessstructure/?src=homepage
+        target: _blank
+      - text: e-Adviser for Start a Business
+        href: https://eadviser.g2b.sg/startabusiness/?src=homepage
+        target: _blank
+      - text: Food Services Licence Guided Journey
+        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=homepage
+        target: _blank
+      - text: e-Adviser for Government Assistance
+        href: https://gaeadviser.gobusiness.gov.sg/?src=homepage
+        target: _blank
+    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
+  - title: Employment Matters
+    image: /images/employment.svg
+    alt: employment
+    links:
+      - text: Central Provident Fund (CPF) matters
+        href: /e-services/about-cpf/
+      - text: Employer duties and obligations
+        href: /e-services/employer-duties-and-obligations/
+      - text: Hiring employees
+        href: /e-services/hiring-an-employee/
+      - text: Training employees
+        href: /e-services/hiring-an-employee/
+      - text: Workplace safety and health
+        href: /e-services/workplace-safety/
+  - title: Growth and Expansion
+    image: /images/growth.svg
+    alt: growth
+    links:
+      - text: Business opportunities
+        href: /e-services/business-opportunities/
+      - text: Corporate Social Responsibility (CSR)
+        href: /e-services/corporate-social-responsibility/
+      - text: Getting business premises
+        href: /e-services/getting-business-premises/
+      - text: Trade marks and Intellectual Property (IP)
+        href: /e-services/trade-marks-and-ip/
+      - text: Training and accreditation
+        href: /e-services/training-and-accreditation/

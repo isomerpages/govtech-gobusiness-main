@@ -5,32 +5,6 @@ layout: skeleton
 <body>
   <style>
     /* Desktop */
-
-    .primary-btn {
-      font-family: hknova-regular;
-      font-weight: bold;
-      padding: 8px 20px;
-      background-color: #037e8a;
-      border-radius: 3px;
-      color: #ffffff;
-      border: 1px solid #037e8a;
-      font-size: 14px;
-      line-height: 24px;
-      cursor: pointer;
-    }
-
-    .primary-btn:hover {
-      background-color: #026770;
-    }
-
-    .primary-btn:active {
-      background-color: #025B63;
-    }
-
-    .primary-btn:focus {
-      outline: 2px solid #1C8B95;
-    }
-
     .button-container {
       width: fit-content;
       margin: 40px auto 60px auto;
@@ -173,31 +147,6 @@ layout: skeleton
       color: #484848;
     }
 
-    .popular-tag {
-      background-color: #cde5e8;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    .popular-tag:hover {
-      background-color: #B3D8DC;
-    }
-
-    .popular-tag:active {
-      background-color: #9accd0;
-    }
-
-    .popular-tag:focus {
-      outline: 2px solid #1C8B95;
-    }
-
-    .popular-tag>a {
-      display: flex;
-      height: 100%;
-      width: 100%;
-      padding: 9px 10px;
-    }
-
     .business-container {
       display: grid;
       grid-template-columns: 580px 580px;
@@ -273,113 +222,6 @@ layout: skeleton
       justify-content: center;
       overflow: visible;
       margin: 0 16px;
-    }
-
-    .panel {
-      background: #ffffff;
-      border: 1px solid #dbdfe4;
-      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
-        0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
-        0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
-      border-radius: 5px;
-      width: auto;
-      min-height: 306px;
-      padding: 20px;
-    }
-
-    /* Panel header */
-
-    .panel-header-container {
-      display: grid;
-      grid-template-columns: 1fr;
-      justify-items: center;
-      row-gap: 13px;
-    }
-
-    .panel-header-icon {
-      height: 80px;
-      width: auto;
-    }
-
-    .panel-header-text {
-      font-family: hknova-regular;
-      font-style: normal;
-      font-weight: 600;
-      font-size: 18px;
-      line-height: 28px;
-      color: #313840 !important;
-      margin-top: 0 !important;
-    }
-
-    /* Panel content */
-
-    .panel-content {
-      display: flex;
-      margin: 10px 0;
-      align-items: center;
-    }
-
-    .panel-content-info-container {
-      background: #eef0f2;
-      border-radius: 5px;
-      padding: 12px 20px;
-    }
-
-    .panel-content-info-text {
-      font-family: hknova-regular;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 14px;
-      line-height: 22px !important;
-      color: #4a5561;
-    }
-
-    .right-arrow {
-      height: 16px;
-      width: 16px !important;
-      margin: unset !important;
-    }
-
-    .panel-content-links {
-      margin: 0 0 0 12.24px !important;
-      color: #2A6EBB !important;
-      text-decoration: none !important;
-      font-size: 16px;
-      line-height: 24px !important;
-    }
-
-    .panel-content-links:hover {
-      text-decoration-line: underline !important;
-      color: #084E8A !important;
-    }
-
-    .panel-content-links:visited {
-      color: #89579B !important;
-    }
-
-    .panel-content-links:visited:hover {
-      text-decoration-line: underline;
-      color: #521B88 !important;
-    }
-
-    .tag {
-      background: #e6f0fc;
-      border-radius: 3px;
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      padding: 2px 8px;
-      margin: 0 8px;
-    }
-
-    .tag-text {
-      color: #0862cb !important;
-      font-family: hknova-regular;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 12px;
-      line-height: 18px;
-      margin-bottom: 0 !important;
     }
 
     .section-4 {
@@ -510,7 +352,7 @@ layout: skeleton
       margin: 40px auto;
     }
 
-    .help-buttons-container>a {
+    .help-buttons-container>button {
       margin: 0 10px;
     }
 
@@ -535,40 +377,6 @@ layout: skeleton
       cursor: pointer;
     }
 
-    .secondary-btn {
-      font-family: hknova-regular;
-      border: 1px solid #b3d8dc;
-      box-sizing: border-box;
-      border-radius: 3px;
-      background-color: #fafdfd;
-      font-weight: 600;
-      font-size: 14px;
-      line-height: 24px;
-      color: #037e8a;
-      padding: 8px 20px;
-      margin: 0 auto;
-      cursor: pointer;
-    }
-
-    .secondary-btn:hover {
-      border: 1px solid #026770;
-      color: #026770;
-    }
-
-    .secondary-btn:active {
-      border: 1px solid #025b63;
-      color: #025b63;
-    }
-
-    .secondary-btn:focus {
-      outline: 2px solid #1c8b95;
-    }
-
-    .underline {
-      margin-left: 0 !important;
-      text-decoration: underline !important;
-    }
-
     .break-desktop {
       display: block;
     }
@@ -577,10 +385,6 @@ layout: skeleton
       display: none;
       z-index: 2;
       position: relative;
-    }
-
-    .bp-footer {
-      background-color: #313840 !important;
     }
 
     @media (max-width: 1600px) {
@@ -774,8 +578,8 @@ layout: skeleton
       }
 
       .panel {
-        width: 339px;
-        height: 394px;
+        width: 339px !important;
+        height: 394px !important;
       }
 
       .gobizmove-content {
@@ -887,7 +691,7 @@ layout: skeleton
           Licences, permits, grants and other e-Services, now all in one place
           on GoBusiness.
         </p>
-        <a href="/login/?src=hero_banner"><button class="primary-btn" tabindex="1">Log In to GoBusiness</button></a>
+        {% include primary-btn.html href="/login/?src=hero_banner" text="Log In to GoBusiness" %}
       </div>
     </div>
 
@@ -933,21 +737,11 @@ layout: skeleton
     <div class="section-2">
       <div class="popular-group">
         <p>Popular:</p>
-        <div class="popular-tag">
-          <a href="/gov-assist/budget-2021/">
-            <p>Budget 2021</p>
-          </a>
-        </div>
-        <div class="popular-tag">
-          <a href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2/?src=homepage" target="_blank">
-            <p>Permissions and Manpower Declaration</p>
-          </a>
-        </div>
-        <div class="popular-tag">
-          <a href="https://foodservices.gobusiness.gov.sg/exemptions/login/?src=homepage" target="_blank">
-            <p>General Exemptions</p>
-          </a>
-        </div>
+        {% include popular-tag.html href="/gov-assist/budget-2021/" text="Budget 2021" %}
+        {% include popular-tag.html href="https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2/?src=homepage" target="_blank"
+        text="Permissions and Manpower Declaration" %}
+        {% include popular-tag.html href="https://foodservices.gobusiness.gov.sg/exemptions/login/?src=homepage"
+        target="_blank" text="General Exemptions" %}
       </div>
       <div class="business-container">
         <div>
@@ -970,7 +764,8 @@ layout: skeleton
           <h2>Find the right resources with e-Adviser</h2>
           <p>
             Use our e-Advisers to <a class="panel-content-links underline"
-              href="https://gaeadviser.gobusiness.gov.sg/?src=homepage" target="_blank">identify suitable government assistance</a>,
+              href="https://gaeadviser.gobusiness.gov.sg/?src=homepage" target="_blank">identify suitable government
+              assistance</a>,
             <a class="panel-content-links underline" href="/e-services/guides-for-biz/">and more</a>, tailored to your
             business needs
           </p>
@@ -987,151 +782,11 @@ layout: skeleton
       </div>
 
       <div class="panels">
-        <div class="panel">
-          <div class="panel-header-container">
-            <img
-              class="panel-header-icon"
-              src="/images/signpost.svg"
-              alt="signpost" />
-            <h3 class="panel-header-text">Guides for Businesses</h3>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="https://eadviser.g2b.sg/businessstructure/?src=homepage"
-              target="_blank">e-Adviser for Business Structure</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="https://eadviser.g2b.sg/startabusiness/?src=homepage"
-              target="_blank">e-Adviser for Start a Business</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=homepage" target="_blank">Food Services Licence Guided Journey</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="https://gaeadviser.gobusiness.gov.sg/?src=homepage" target="_blank">e-Adviser for Government
-              Assistance </a>
-          </div>
-          <div class="panel-content-info-container">
-            <p class="panel-content-info-text">
-              <a
-                class="panel-content-links underline"
-                href="/e-services/guides-for-biz/">View all guides for businesses</a>
-            </p>
-          </div>
-        </div>
-
-        <div class="panel">
-          <div class="panel-header-container">
-            <img
-              class="panel-header-icon"
-              src="/images/employment.svg"
-              alt="employment" />
-            <h3 class="panel-header-text">Employment Matters</h3>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/about-cpf/">Central Provident Fund (CPF) matters</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/employer-duties-and-obligations/">Employer duties and
-              obligations</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/hiring-an-employee/">Hiring employees</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/hiring-an-employee/">Training employees</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/workplace-safety/">Workplace safety and health</a>
-          </div>
-        </div>
-
-        <div class="panel">
-          <div class="panel-header-container">
-            <img
-              class="panel-header-icon"
-              src="/images/growth.svg"
-              alt="growth" />
-            <h3 class="panel-header-text">Growth and Expansion</h3>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/business-opportunities/">Business opportunities</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/corporate-social-responsibility/">Corporate Social
-              Responsibility (CSR)</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/getting-business-premises/">Getting business premises</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/trade-marks-and-ip/">Trade marks and Intellectual Property
-              (IP)</a>
-          </div>
-          <div class="panel-content">
-            <img
-              class="right-arrow"
-              src="/images/right-arrow.svg"
-              alt="right-arrow" />
-            <a class="panel-content-links" href="/e-services/training-and-accreditation/">Training and accreditation</a>
-          </div>
-        </div>
+        {% include hyp-panels.html panels=site.data.hyp-panels-home.panels %}
       </div>
+
       <div class="button-container">
-        <a href="/e-services/">
-          <button class="primary-btn">View All e-Services</button>
-        </a>
+        {% include primary-btn.html href="/e-services/" text="View All e-Services" %}
       </div>
     </div>
 
@@ -1145,9 +800,7 @@ layout: skeleton
           <li>Covid-19 Portal</li>
         </ul>
         <div class="gobizmove-button-container">
-          <a href="/about-us/">
-            <button class="primary-btn">Learn More</button>
-          </a>
+          {% include primary-btn.html href="/about-us/" text="Learn More" %}
         </div>
       </div>
       <div class="break-mobile break-ipad">
@@ -1160,9 +813,7 @@ layout: skeleton
       <h1>Be in the know</h1>
       {% include news-and-media.html %}
       <div class="view-more break-desktop">
-        <a href="/news-and-media/">
-          <button class="primary-btn">View More News</button>
-        </a>
+        {% include primary-btn.html href="/news-and-media/" text="View More News" %}
       </div>
     </div>
 
@@ -1170,12 +821,8 @@ layout: skeleton
       <p class="uppercase-text">Contact Us</p>
       <h1>Need business help?</h1>
       <div class="help-buttons-container">
-        <a href="/faqs/popular/">
-          <button class="primary-btn">View Our FAQ</button>
-        </a>
-        <a href="/contact-us/">
-          <button class="secondary-btn">Contact Helpdesk</button>
-        </a>
+        {% include primary-btn.html href="/faqs/popular/" text="View Our FAQ" %}
+        {% include secondary-btn.html href="/contact-us/" text="Contact Helpdesk" %}
       </div>
     </div>
   </div>
