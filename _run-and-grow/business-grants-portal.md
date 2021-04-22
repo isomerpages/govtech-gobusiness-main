@@ -5,6 +5,8 @@ permalink: /business-grants-portal/
 
 ## Business Grants Portal
 
+![BGP](/images/grow/RunandGrow_BGP.jpg)
+
 The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies. BGP aims to bring government grants for businesses into one place, so it is easier for businesses to apply for grants according to their needs and sector. It would also allow businesses to better manage and track their grant applications.
 
 ## How to apply for a grant on BGP?

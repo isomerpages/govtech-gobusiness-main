@@ -2,7 +2,6 @@
 title: Grants
 permalink: /gov-assist/grants/
 third_nav_title: Government Assistance
-third_nav_title: Government Assistance
 accordion-new:
   - title: 2-Stage Innovation Grant (iGrant)
     content:  |
@@ -61,8 +60,17 @@ accordion-new:
       <br><br>
 ---
 
-### Here are the grants currently available:
+## See what grants can help your business
 
+![Grants](/images/grow/RunandGrow_Grants.jpg)
+
+Answer a few questions about your business and our e-Adviser for Government Assistance will recommend grants you can apply for.
+
+{% include button.html text="Go to e-Adviser" src="
+https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
+" type="primary" %}
+
+### For Startups
 {% include accordion-new.html %}
 
 ### Business Improvement Fund (BIF)

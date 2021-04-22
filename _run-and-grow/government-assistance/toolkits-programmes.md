@@ -4,7 +4,15 @@ permalink: /gov-assist/toolkits-programmes/
 third_nav_title: Government Assistance
 ---
 
-## List of Toolkits / programmes
+## Find relevant toolkits and programmes
+
+![Toolkits](/images/grow/RunandGrow_Toolkits.jpg)
+
+Answer a few questions about your business and our e-Adviser for Government Assistance will recommend toolkits and programmes you can use.
+
+{% include button.html text="Go to e-Adviser" src="
+https://gaeadviser.gobusiness.gov.sg/?src=govassist_toolkits
+" type="primary" %}
 
 ### A\*STAR Collaborative Commercialization Marketplace (ACCM)
 
