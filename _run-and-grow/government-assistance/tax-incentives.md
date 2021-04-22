@@ -59,7 +59,7 @@ accordion-new:
 
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend tax incentives you can apply for.
 
-{% include button.html text="Go to e-Adviser" src="
+{% include button.html text="Go to e-Adviser for Government Assistance" src="
 https://gaeadviser.gobusiness.gov.sg/?src=govassist_taxincentives
 " type="primary" %}
 
