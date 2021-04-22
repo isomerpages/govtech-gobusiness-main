@@ -4,9 +4,9 @@ permalink: /run-and-grow/taxes-and-gst/
 third_nav_title: Taxes, GST & Customs
 ---
 
-## Taxes & GST
+## File income tax return with IRAS
 
-### File income tax return with IRAS
+![Taxes GST](/images/grow/RunandGrow_TaxesGST.jpg)
 
 Unsure how to file taxes for your business?
 
