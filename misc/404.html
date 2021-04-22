@@ -6,21 +6,34 @@ permalink: /404.html
 
 <style type="text/css" media="screen">
   .container {
-    margin: 10px auto;
+    margin: 40px auto 60px;
     max-width: 600px;
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
+
+  h4 {
+    color: #037E8A !important;
+    margin: 60px auto 16px;
+  }
+
+  p {
+    margin-bottom: 24px;
+    line-height: 27px !important;
+  }
+
+  .primary-btn {
+    height: 48px !important;
+  }
+
+  .primary-btn>a {
+    font-size: 16px !important;
+    line-height: 24px !important;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
+  <img src="/images/404.svg" />
+  <h4>Page not found :(</h4>
   <p>The requested page could not be found.</p>
+  {% include primary-btn.html href="/" text="Go to Home Page" %}
 </div>
