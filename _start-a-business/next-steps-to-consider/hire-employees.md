@@ -6,6 +6,8 @@ third_nav_title: Next Steps to Consider
 
 ## Hire employees
 
+![Hire employees](/images/start/StartSJ_StartSJ_HireEmployees.jpg)
+
 For companies, you will need to hire an auditor within three months and a company secretary within six months from the date of incorporation of your company.
 
 **To hire a local employee, you need to:**

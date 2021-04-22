@@ -6,6 +6,8 @@ third_nav_title: Next Steps to Consider
 
 ## Apply for grants
 
+![Apply for grants](/images/start/StartSJ_StartSJ_ApplyGrants.jpg)
+
 **Here are 3 criteria to qualify for funding:**
 
 - Business owner is Singaporean/PR

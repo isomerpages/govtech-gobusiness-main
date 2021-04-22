@@ -6,10 +6,8 @@ third_nav_title: Next Steps to Consider
 
 ## Get licences and permits
 
-Different [licences and permits](/licences/) are needed for different business activities. Apply for the ones your business requires easily with GoBusiness. You can also update, renew or terminate them.
+![licences and permits](/images/start/StartSJ_StartSJ_Licences.jpg)
 
-Not sure which licences and permits you need? Simply answer a few questions about your business to find out with our e-Adviser for Licensing.
+Different [licences and permits](/licences/) are needed for different business activities. 
 
-<p>
-{% include button.html text="Go to e-Adviser" src="https://eadviser.g2b.sg/setupimportexportbusiness" type="primary" %}
-</p>
+Apply for the ones your business requires easily with GoBusiness. You can also update, renew or terminate them.
