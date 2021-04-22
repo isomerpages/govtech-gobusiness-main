@@ -5,6 +5,8 @@ permalink: /contact-us/
 
 ## Get in touch with GoBusiness
 
+![Helpdesk](/images/Helpdesk.jpg)
+
 ### For general enquiries
 
 **Telephone**
