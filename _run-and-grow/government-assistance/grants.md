@@ -2,7 +2,32 @@
 title: Grants
 permalink: /gov-assist/grants/
 third_nav_title: Government Assistance
-accordion-new:
+accordion-a:
+  - title: Special Situation Fund for Startups (SSFS)
+    content:  |
+      Provide financing support for promising startups based in Singapore, by investing private sector co-investors on a 1:1 basis.
+
+      <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">Find out more</a>
+
+  - title: Start up SG Equity
+    content:  |
+      The government will co-invest with qualified 3rd party investors into eligible Singapore-based technology startups with IP and global market potential.
+
+      <a href="https://www.startupsg.net/programmes/4895/startup-sg-equity" target="_blank">Find Out More</a>
+  
+  - title: Startup SG Founder
+    content:  |
+      Startup SG Founder provides mentorship and startup capital grant of S$30,000 to first-time entrepreneurs with innovative business ideas. Startups are required to commit S$10,000 as co-matching fund to the grant.
+
+      <a href="https://www.startupsg.net/programmes/4894/startup-sg-founder" target="_blank">Find Out More</a>
+      
+  - title: Startup SG Tech
+    content:  |
+      Startup SG Tech supports Proof-of-Concept (POC) and Proof-of-Value (POV) for commercialisation of innovative technologies.
+
+      <a href="https://www.startupsg.net/programmes/4897/startup-sg-tech" target="_blank">Find Out More</a>
+
+accordion-b:
   - title: 2-Stage Innovation Grant (iGrant)<img src="/images/budget2021/budget_extended.png">
     content:  |
       Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
@@ -58,6 +83,32 @@ accordion-new:
 
       <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
       <br><br>
+
+accordion-c:
+  - title: 2-Stage Innovation Grant (iGrant)<img src="/images/budget2021/budget_extended.png">
+    content:  |
+      Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
+
+      <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">Find Out More</a>
+      
+  - title: Accessibility Fund
+    content:  |
+      Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
+
+      <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find Out More</a>
+      
+  - title: Agriculture Productivity Fund (APF)
+    content:  |
+      The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
+
+      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      
+  - title: Artificial Intelligence and Data Analytics (AIDA) Grant
+    content:  |
+      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+
+      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      
 ---
 
 ## See what grants can help your business
@@ -71,7 +122,17 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
 " type="primary" %}
 
 ### For Startups
-{% include accordion-new.html %}
+{% include accordion-a.html %}
+
+### For all Sectors
+{% include accordion-b.html %}
+
+### For Specific Sectors
+{% include accordion-c.html %}
+
+
+
+
 
 ### Business Improvement Fund (BIF)
 
@@ -551,11 +612,7 @@ The SCPG encourages film talent in Singapore and SEA region to jointly produce q
 
 <a href="https://www.imda.gov.sg/programme-listing/Southeast-Asia-Co-Production-Grant" target="_blank">Find out more</a>
 
-### Special Situation Fund for Startups (SSFS)
 
-Provide financing support for promising startups based in Singapore, by investing private sector co-investors on a 1:1 basis.
-
-<a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">Find out more</a>
 
 ### Start Digital
 
