@@ -123,7 +123,3 @@ The pre-requisites, information and supporting documents needed for the applicat
 Upon successful registration of your new business, your business will be issued a [Unique Entity Number (UEN)](https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx){:target="_blank"}. The UEN is your business' unique identification number that will be used in all transactions with government agencies.
 
 A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"} for your business will be emailed to the person filing the application upon successful registration of your business.
-
-### Filing Obligations
-
-There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA](/run-and-grow/annual-returns/) and [Tax Returns Filing with IRAS](/run-and-grow/taxes-and-gst/).

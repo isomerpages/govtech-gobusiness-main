@@ -21,16 +21,21 @@ accordion-new:
 
   - title: Local Company
     content: |
-      A local company is a business entity incorporated in Singapore. A company has the right to own property, has perpetual succession and can sue or be sued in its own name. There are different types of companies. E.g: private company limited by shares, exempt private company, public company limited by shares and public company limited by guarantee. The most commonly chosen type in Singapore is the Private Limited Company.
+      A local company is a business entity incorporated in Singapore. A company has the right to own property, has perpetual succession and can sue or be sued in its own name. There are 4 different types of companies:
+
+      - Private company limited by shares
+      - Exempt private company
+      - Public company limited by shares
+      - Public company limited by guarantee
+
+      The most commonly chosen type in Singapore is the Private Limited Company. Click [here](https://www.acra.gov.sg/how-to-guides/setting-up-a-local-company/determining-the-company-type){:target="_blank"} to understand more about the different types of companies.
 ---
 
 ## Step 1: Choose a business structure
 
 ![Start Biz Structure](/images/start/StartSJ_BusinessStructure.jpg)
 
-Whether you're running the business on your own or with partners, choose the structure that best suits you. The most common are sole proprietorship, partnership and company. Each structure has its own benefits and considerations. Not sure which to choose?
-
-{% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.g2b.sg/businessstructure" type="primary" %}
+Whether you're running the business on your own or with partners, choose the structure that best suits you. The most common are sole proprietorship, partnership and company. Each structure has its own benefits and considerations.
 
 ### Here are the five different types of business structures:
 
@@ -43,11 +48,21 @@ Here are some questions to help you decide:
 - What is the nature of my business?
 - How many owners will there be?
 - How much capital will I invest?
-- What risks am I able to take?
+- What risks am I prepared to take?
 - What is my long-term plan for the business?
 - What are the pros and cons of the different structures?
 - What are my business needs?
-- Is the business structure easy to close?
+- Is the business structure easy to set up, manage and close?
+
+### Filing Obligations
+
+There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA](/run-and-grow/annual-returns/) and [Tax Returns Filing with IRAS](/run-and-grow/taxes-and-gst/).
+
+### Not sure which business structure to choose?
+
+Get recommendations on the suitable business structure based on your business preferences with our e-Adviser for Business Structure.
+
+{% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.g2b.sg/businessstructure" type="primary" %}
 
 [Download a PDF summary of the different types of business entities](/images/start/Types_of_Business_Entities_Apr21.pdf){:target="_blank"}.
 
