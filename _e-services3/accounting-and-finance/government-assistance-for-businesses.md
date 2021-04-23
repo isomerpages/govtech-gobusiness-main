@@ -8,9 +8,9 @@ third_nav_title: Accounting and Finance
 
 A wide range of government assistance schemes are available in the form of grants, subsidies and loans. Learn more about them here, and use the e-services on this page to submit and manage your applications.
 
-### e-Services for essential business regulations
+### e-Services for government assistance
 
-![Test](/images/grow/GovAssist-banner.png)
+![Run and Grow](/images/grow/rg-overview-govassist-banner.png)
 
 Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/).
 
