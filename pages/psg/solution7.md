@@ -9,7 +9,7 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 
 ### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

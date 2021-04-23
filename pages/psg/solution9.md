@@ -9,7 +9,7 @@ Xero is a comprehensive accounting software that provides accounting features li
 
 ### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
