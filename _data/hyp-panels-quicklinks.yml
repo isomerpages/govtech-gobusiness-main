@@ -28,7 +28,7 @@ panels:
       - text: Permissions and Manpower Exemption Form (Covid-19)
         href: https://foodservices.gobusiness.gov.sg/exemptions/login/?src=eservices
         target: _blank
-      - text: Productivity Solutions Grant listing
+      - text: Productivity Solutions Grant Listing
         href: /productivity-solutions-grant/
   - title: Licences and Permits
     image: /images/licences-80.svg

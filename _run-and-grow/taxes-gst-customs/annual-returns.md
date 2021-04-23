@@ -26,7 +26,7 @@ accordion-new:
       <br>Indicate the date of your company’s annual general meeting (AGM), if it was held. This is not applicable if your company is exempted from holding AGMs or have dispensed with AGMs.
 ---
 
-## Annual Filing with ACRA
+## Annual filing with ACRA
 
 ![Annual Returns](/images/grow/RunandGrow_AnnualReturns.jpg)
 

@@ -42,7 +42,7 @@ Answer a few questions about your business and our e-Adviser for Government Assi
 https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
 " type="primary" %}
 
-### For all Sectors
+### For all sectors
 
 {% include accordion-new.html %}
 

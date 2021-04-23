@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting started
 permalink: /licensing-faqs/getting-started/
 third_nav_title: General
 accordion-new:
@@ -38,7 +38,7 @@ accordion-new:
       Click on the icon at the top right corner of your screen and select "Log Out". Do note that you will be automatically logged out after 20 minutes of inactivity.
 ---
 
-### Getting Started
+### Getting started
 
 {% include accordion-new.html %}
 
