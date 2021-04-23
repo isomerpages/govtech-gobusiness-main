@@ -35,6 +35,8 @@ Now that you know whether to register the business, here are 6 key steps to guid
 
 {% include panels-startbiz.html panels=site.data.startbiz_links %}
 
+After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/).
+
 ### Setup cost calculator
 
 Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}.
