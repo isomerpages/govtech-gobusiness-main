@@ -13,19 +13,19 @@ accordion-new:
 
       **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid
-      - 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14-60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
-      - All owners are required to clear outstanding Medisave liabilities with CPF Board
-      - All partners or authorised representatives must endorse the application before payment can be made
-      - The owner(s) must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
-      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+      - All owners are required to clear their outstanding Medisave liabilities with CPF Board
+      - The owner(s) must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass or Employment Pass (EP) Holder
+      - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
 
       **Information/documents required**
       - Commencement date
       - Business address
-      - Particulars of business owners and representatives (if applicable)
+      - Particulars of business owners and authorised representatives (if applicable)
 
   - title: Register a Limited Partnership
     content: |
@@ -37,20 +37,21 @@ accordion-new:
 
       **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid.
-      - 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14-60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
-      - All partners are required to clear outstanding Medisave liabilities with CPF Board
-      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
-      - Must have at least one General Partner and one Limited Partner
-      - A local manager must be appointed if all the General Partners are not residing in Singapore
-      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+      - There must be at least one General Partner and one Limited Partner
+      - All partners are required to clear their outstanding Medisave liabilities with CPF Board
+      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass or Employment Pass (EP) Holder
+      - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
+      - Alternatively, if all the General Partners are not residing in Singapore, a local manager must be appointed 
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
 
       **Information/documents required**
       - Commencement date
       - Business address
-      - Particulars of business owners and representatives (if applicable)
+      - Particulars of partners and local manager (if applicable)
 
   - title: Register a Limited Liability Partnership
     content: |
@@ -62,20 +63,21 @@ accordion-new:
 
       **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid
-      - 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14 to 60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
-      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder
-      - Must have at least 2 partners
+      - There must be a minimum of two partners
+      - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder or Employment Pass (EP) Holder
+      - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
       - A local manager who is residing in Singapore must be appointed
-      - All partners or authorised representatives must endorse the application before payment can be made
-      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+      - All partners and the local manager must endorse the application before payment can be made
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
 
       **Information/documents required**
       - Commencement date
-      - Business address
-      - Particulars of business owners and representatives (if applicable)
+      - Registered office address
+      - Particulars of partners and local manager
 
   - title: Incorporate a Local Company
     content: |
@@ -87,19 +89,22 @@ accordion-new:
 
       **Average Processing Time**
       - Usually approved within 15 minutes after registration fee is paid
-      - 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14-60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
-      - Must comprise of one local director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass Holder, and residing in Singapore
-      - Must comprise of at least 1 director, 1 company secretary and 1 shareholder
-      - All partners or authorised representatives must endorse the application before payment can be made
-      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on your behalf.
+      - There must be at least one director who is either a Singapore Citizen, Singapore Permanent Resident or an EntrePass or Employment Pass (EP) Holder
+      - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
+      - There must be at least one director and one shareholder
+      - All the position holders must endorse the application before payment can be made
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
 
       **Information/documents required**
       - Commencement date
-      - Business address
-      - Particulars of business owners and representatives (if applicable)
+      - Registered office address
+      - Share capital, share and shareholder information
+      - Particulars of directors and/or company secretary
+      - Constitution
 ---
 
 ## Step 4: Register your business
@@ -110,7 +115,7 @@ accordion-new:
 
 There are two ways to register your business:
 
-1. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your Singpass or Corppass to submit the application online. All proposed partners/managers will need to endorse their consent online via BizFile+ first before the application can be processed by ACRA, or
+1. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"} with your Singpass to submit the application online. All proposed persons associated with the business will need to endorse their consent online via BizFile+ first before the business can be registered, or
 
 2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
@@ -122,4 +127,4 @@ The pre-requisites, information and supporting documents needed for the applicat
 
 Upon successful registration of your new business, your business will be issued a [Unique Entity Number (UEN)](https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx){:target="_blank"}. The UEN is your business' unique identification number that will be used in all transactions with government agencies.
 
-A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"} for your business will be emailed to the person filing the application upon successful registration of your business.
+A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"} for your business will be emailed to the person filing the application.
