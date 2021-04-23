@@ -64,7 +64,7 @@ Get recommendations on the suitable business structure based on your business pr
 
 {% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.g2b.sg/businessstructure" type="primary" %}
 
-Download a [Business Structure comparison table](/images/start/Types_of_Business_Entities_Apr21.pdf){:target="_blank"} to find out the differences amongst the different business structures.
+Download a [Business Structure Comparison Table](/images/start/Types_of_Business_Entities_Apr21.pdf){:target="_blank"} to find out the differences amongst the different business structures.
 
 ---
 
