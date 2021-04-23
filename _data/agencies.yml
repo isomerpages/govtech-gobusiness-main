@@ -1,7 +1,12 @@
 - title: Animal & Veterinary Service (AVS)
   description: 1 Cluny Road<br>Singapore Botanic Gardens<br>Singapore 259569
-  link: www.nparks.gov.sg/avs/feedback
-  link1: www.nparks.gov.sg/avs
+  link2: www.nparks.gov.sg/avs/feedback
+  link2: www.nparks.gov.sg/avs
+
+- title: Accounting and Corporate Regulatory Authority (ACRA)
+  description: Business registration
+  link: +65 6248 6028
+  link2: www.acra.gov.sg/feedback 
 
 - title: Civil Aviation Authority of Singapore (CAAS)
   description: 60 Airport Boulevard<br>4th Storey, Terminal 2<br>Singapore Changi Airport<br>Singapore 819643
@@ -12,6 +17,11 @@
   description: Blk B, Police Cantonment Complex<br>393 New Bridge Road<br>Singapore 088763
   link: +65 6557 3229
   link1: www.cnb.gov.sg/contact-us
+
+- title: Central Provident Fund Board (CPFB)
+  description: CPF contributions
+  link: +65 6220 2340
+  link2: www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index  
 
 - title: Early Childhood Development Agency (ECDA)
   description: 51 Cuppage Road<br>#08-01<br>Singapore 229469
