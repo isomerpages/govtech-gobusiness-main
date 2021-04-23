@@ -21,7 +21,7 @@ $(document).ready(function () {
   const path = $(location).attr("pathname");
   const { columns } = customTables.find(ct => ct.path === path);
   columns.forEach((c, i) => {
-    $("table>thead>tr:nth-child(" + (i + 1)).css("width", c);
+    $("table>thead>tr>th:nth-child(" + (i + 1)).css("width", c);
     $("table>tbody>tr>td:nth-child(" + (i + 1)).css("width", c);
   });
 });
