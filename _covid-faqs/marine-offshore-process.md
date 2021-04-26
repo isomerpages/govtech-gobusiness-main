@@ -1,6 +1,6 @@
 ---
-title: Manpower declaration / submission
-permalink: /covid-faqs/manpower-declaration-submission
+title: For Marine & offshore and process sectors only
+permalink: /covid-faqs/marine-offshore-process
 accordion-new:
   - title: Is there a guide on how to declare / submit my manpower details?
     content: |
@@ -71,7 +71,7 @@ accordion-new:
       The cap on the number of manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work.  Should you require additional manpower, please submit an application for Additional Manpower [here](https://form.gov.sg/#!/5ec36d8b153ba4001171e326){:target="_blank"}. Do note that the application will be subject to assessment by the respective agencies.
 ---
 
-### Manpower declaration / submission
+### For Marine & offshore and process sectors only
 
 {% include accordion-new.html %}
 
