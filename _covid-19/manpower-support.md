@@ -86,4 +86,3 @@ accordion-new:
 ## Manpower Support
 
 {% include accordion-new.html %}
-{% include panels-external.html panels=site.data.transform_and_grow %}
