@@ -3,86 +3,92 @@ title: Toolkits / programmes
 permalink: /gov-assist/toolkits-programmes/
 third_nav_title: Government Assistance
 accordion-a:
-  - title: Special Situation Fund for Startups (SSFS)
+  - title: A*STAR Collaborative Commercialization Marketplace (ACCM)
     content:  |
-      Provide financing support for promising startups based in Singapore, by investing private sector co-investors on a 1:1 basis.
+      With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
 
-      <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">Find out more</a>
+      <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find Out More</a>
 
-  - title: Start up SG Equity
+  - title: APEC Cross Border Privacy Rules (CBPR) System
     content:  |
-      The government will co-invest with qualified 3rd party investors into eligible Singapore-based technology startups with IP and global market potential.
+      Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade.
 
-      <a href="https://www.startupsg.net/programmes/4895/startup-sg-equity" target="_blank">Find Out More</a>
+      <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find Out More</a>
 
-  - title: Startup SG Founder
+  - title: Jobs Growth Incentive (JGI)<img src="/images/budget2021/budget_enhanced.png">
     content:  |
-      Startup SG Founder provides mentorship and startup capital grant of S$30,000 to first-time entrepreneurs with innovative business ideas. Startups are required to commit S$10,000 as co-matching fund to the grant.
+      The Jobs Growth Incentive (JGI) was announced on 17 Aug 2020 to encourage employers to accelerate their hiring of local workforce from September 2020 to February 2021 (inclusive), so as to create good and long-term jobs for locals. The JGI will provide one year of salary support from the point of hire for each new local hire by employers that managed to increase their local workforce from September 2020 to February 2021 (inclusive). It was enhanced in 5 Oct and 15 Oct to provide higher tier of support to persons-with-disabilities and ex-offenders, respectively.
+      
+      To be eligible for the JGI, firms must have increased their local workforce, as compared to Aug 2020. This must be accompanied by an increase in local workforce earning at least $1,400 a month, as compared to Aug 2020.
+      
+      <a href="https://www.go.gov.sg/jgi" target="_blank">Find out more</a>
 
-      <a href="https://www.startupsg.net/programmes/4894/startup-sg-founder" target="_blank">Find Out More</a>
-
-  - title: Startup SG Tech
+  - title: Job Support Scheme (JSS) Extension for employers in Tier 1 and 2 sectors<img src="/images/budget2021/budget_extended.png">
     content:  |
-      Startup SG Tech supports Proof-of-Concept (POC) and Proof-of-Value (POV) for commercialisation of innovative technologies.
+      No application is required. Receive 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee. The cash grant will be automatically computed based on mandatory CPF contribution data.
 
-      <a href="https://www.startupsg.net/programmes/4897/startup-sg-tech" target="_blank">Find Out More</a>
+      <a href="https://go.gov.sg/jss" target="_blank">Find out more</a>
+
+  - title: Market Readiness Assistance (MRA) Grant<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      SMEs looking to take their business overseas can receive up to 70% support for eligible costs with the MRA grant from 1 April 2020 - 31 March 2023. (up to 80% from 1 April - 31 March 2022).
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank">Find out more</a>
+
+  - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
+
+      <a href="https://www.openinnovation.sg/about" target="_blank">Find out more</a>
+      
+  - title: Part-Time Re-employment Grant (PTRG)<img src="/images/budget2021/budget2021.png">
+    content:  |
+      Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it.
+
+      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+
+  - title: Productivity Solutions Grant (PSG)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April 2020 - 31 March 2022.
+
+      <a href="/productivity-solutions-grant/" target="_blank">Find out more</a>    
+
+  - title: Senior Worker Early Adopter Grant (SWEAG)<img src="/images/budget2021/budget2021.png">
+    content:  |
+      Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes.
+
+      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+      
+  - title: Wage Credit Scheme<img src="/images/budget2021/budget_extended.png">
+    content:  |
+      No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
+
+      <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank">Find out more</a>    
 
 accordion-b:
-  - title: 2-Stage Innovation Grant (iGrant)<img src="/images/budget2021/budget_extended.png">
+  - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
     content:  |
-      Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
+      CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
 
-      <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">Find Out More</a>
-      <br><br>
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank">Find out more</a>
 
-  - title: Accessibility Fund
+  - title: Corporate Venture Launchpad (VCL)<img src="/images/budget2021/budget_new.png">
     content:  |
-      Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
+      CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
 
-      <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find Out More</a>
-      <br><br>  
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>  
 
-  - title: Agriculture Productivity Fund (APF)
+  - title: Digital Leaders Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
+      The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
 
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
-      <br><br>
+      <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find out more</a>
 
-  - title: Artificial Intelligence and Data Analytics (AIDA) Grant
+  - title: Emerging Technology Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+      The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Asian Financial Leaders Scheme (AFLS)
-    content:  |
-      AFLS helps financial institutes defray part of the costs of sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes.
-
-      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Aviation Development Fund (ADF)
-    content:  |
-      The ADF supports the development and growth of the aviation industry in Singapore, with a focus on raising airport productivity, building capabilities, and developing manpower.
-
-      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Business Events in Singapore (BEiS)
-    content:  |
-      BEiS seeks to encourage the business events industry to anchor and grow quality events as well as catalyse the innovation of new content.  
-
-      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Business Improvement Fund (BIF)
-    content:  |
-      BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness.  
-
-      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
-      <br><br>
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
 ---
 
 ## Find relevant toolkits and programmes
