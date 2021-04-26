@@ -7,7 +7,7 @@ accordion-new:
     content: |
       Please suspend your business operations until you have received official approval of your exemption application via email.
 
-      If there are conditions you need to follow upon approval of your general exemption, they will be stated in the email. Alternatively, you may login to GoBusiness <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">here</a> to check your exemption application and find out if there are conditions to follow.
+      If there are conditions you need to follow upon approval of your general exemption, they will be stated in the email. Alternatively, you may login to GoBusiness [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"} to check your exemption application and find out if there are conditions to follow.
 
       You will be allowed to continue operations if the status of your general exemption is reflected as either “approved” or “permitted”.
 
