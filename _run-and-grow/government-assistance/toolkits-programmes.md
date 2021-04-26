@@ -179,71 +179,78 @@ accordion-a:
       <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
   - title: Conduct R&D or to Develop/Test New Products and Services
     content:  |
-      **A*STAR Collaborative Commercialization Marketplace (ACCM)**
-      <br>With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
+      **Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">**
+      <br>The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
+      
+      <a href="https://www.openinnovation.sg" target="_blank">Find out more</a>
+      
+      **Corporate Venture Launchpad (VCL)<img src="/images/budget2021/budget_new.png">**
+      <br>CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
+      
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
 
 accordion-b:
-  - title: A*STAR Tech Access
+  - title: Maritime
     content:  |
       Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
 
       <a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank">Find out more</a>
-  - title: Accountancy Industry Digital Plan
+  - title: Manufacturing & Engineering
     content:  |
       A step-by-step guide for local Small and Medium Practices (SMPs) in the Accountancy industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Accountancy-IDP" target="_blank">Find out more</a>  
-  - title: Accreditation@SGD
+  - title: Professional Services
     content:  |
       Get accredited to establish credentials and position them as qualified contenders to government and large enterprise buyers
 
       <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd" target="_blank">Find out more</a>
-  - title: Construction and Facilities Management Industry Digital Plan
+  - title: Building & Construction
     content:  |
       A step-by-step guide for local SMEs in the Construction and Facilities Management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank">Find out more</a>
-  - title: Digital Services Lab
+  - title: Food & Beverage
     content:  |
       Through working with multiple industry stakeholders, DSL co-develops solutions using emerging technologies, with tech providers deploying them as market-ready solutions.
 
       <a href="https://www.imda.gov.sg/programme-listing/digital-services-lab" target="_blank">Find out more</a>
-  - title: Environmental Services Industry Digital Plan
+  - title: Healthcare
     content:  |
       A step-by-step guide for local SMEs in the Environmental Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/environmental-services-idp" target="_blank">Find out more</a>
-  - title: Food Services Industry Digital Plan
+  - title: IT
     content:  |
       A step-by-step guide for local SMEs in the Food Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/food-services-idp" target="_blank">Find out more</a>
-  - title: Hotel Industry Digital Plan
+  - title: Tourism
     content:  |
       A guide for local SMEs in the Hotel industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Hotel-IDP" target="_blank">Find out more</a>
-  - title: Job Redesign for the Cleaning Sector
+  - title: Retail
     content:  |
       Cleaning service providers and buyers can access a list of easy-to-adopt solutions to be improve productivity, attract and retain workers and improve service outcomes.
 
       <a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/cleaning/job-redesign-programme-for-environmental-services-cleaning-sector.html" target="_blank">Find out more</a>
-  - title: Job Redesign for the Food Services Sector
+  - title: Logistics
     content:  |
       A guide for Food Services companies in implementing Job Redesign through 5 simple steps.
 
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-food-services-sector.html" target="_blank">Find out more</a>
-  - title: Job Redesign for the Hotel Sector
+  - title: Media
     content:  |
       This toolkit provides resources and templates to guide hotels in implementing Job Redesign.
 
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/hotel-job-redesign-initiative.html" target="_blank">Find out more</a>
-  - title: Job Redesign for the Retail Sector
+  - title: Security
     content:  |
       A guide for Retail companies to incorporate Job Redesign through simple steps when undergoing business transformation.
 
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-retail-sector.html" target="_blank">Find out more</a>
-  - title: Logistics Industry Digital Plan
+  - title: Wholesale Trade
     content:  |
       A guide for local SMEs in the Logistics industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
 
