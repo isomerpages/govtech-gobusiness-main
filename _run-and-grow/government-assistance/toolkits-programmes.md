@@ -46,11 +46,11 @@ accordion-a:
       
       <a href="https://www.wshc.sg/totalwsh" target="_blank">Find out more</a>
       
-      **Portable Medical Benefits Scheme**
+      **Portable Medical Benefits Scheme**<img src="/images/budget2021/budget_new.png">
       <br>Portable medical benefits are medical benefits that employees can bring with them if they change employers. This page describes how the PMBS works.
       
       <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/portable-medical-benefits" target="_blank">Find out more</a>
-  - title: bizSAFE
+  - title: Human Resources and Training
     content:  |
       bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security.
       
