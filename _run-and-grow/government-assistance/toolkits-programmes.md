@@ -49,7 +49,7 @@ accordion-a:
     content:  |
       This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
 
-      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find out more</a>    
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find out more</a>
 
   - title: Emerging Technology Programme<img src="/images/budget2021/budget_new.png">
     content:  |
