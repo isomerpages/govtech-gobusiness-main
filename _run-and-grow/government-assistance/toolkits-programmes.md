@@ -3,55 +3,53 @@ title: Toolkits / programmes
 permalink: /gov-assist/toolkits-programmes/
 third_nav_title: Government Assistance
 accordion-a:
-  - title: A*STAR Collaborative Commercialization Marketplace (ACCM)
+  - title: A*STAR Collaborative Commercialization Marketplace (ACCM)
     content:  |
-      With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
+      With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
+
+      <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find out more</a>
+
+  - title: APEC Cross Border Privacy Rules (CBPR) System
+    content:  |
+      Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade.
+
+      <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find out more</a>
+
+  - title: bizSAFE
+    content:  |
+      bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security.
       
-      <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find Out More</a>
+      <a href="https://www.wshc.sg/bizsafe" target="_blank">Find out more</a>
 
-  - title: APEC Cross Border Privacy Rules (CBPR) System
+  - title: Chief Technology Officer-as-a-Service (CTOaaS)<img src="/images/budget2021/budget_new.png">
     content:  |
-      Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade. p
+      CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
 
-      <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find Out More</a>
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank">Find out more</a>
 
-  - title: Jobs Growth Incentive (JGI)<img src="/images/budget2021/budget_enhanced.png">
+  - title: Corporate Venture Launchpad (VCL)<img src="/images/budget2021/budget_new.png">
     content:  |
-      The Jobs Growth Incentive (JGI) was announced on 17 Aug 2020 to encourage employers to accelerate their hiring of local workforce from September 2020 to February 2021 (inclusive), so as to create good and long-term jobs for locals. The JGI will provide one year of salary support from the point of hire for each new local hire by employers that managed to increase their local workforce from September 2020 to February 2021 (inclusive). It was enhanced in 5 Oct and 15 Oct to provide higher tier of support to persons-with-disabilities and ex-offenders, respectively.
+      CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
+
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
+
+  - title: CultureSAFE
+    content:  |
+      CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture.
+
+      <a href="https://www.wshc.sg/culturesafe" target="_blank">Find out more</a>
       
-      To be eligible for the JGI, firms must have increased their local workforce, as compared to Aug 2020. This must be accompanied by an increase in local workforce earning at least $1,400 a month, as compared to Aug 2020.
-      
-      <a href="https://www.go.gov.sg/jgi" target="_blank">Find out more</a>
-
-  - title: Job Support Scheme (JSS) Extension for employers in Tier 1 and 2 sectors<img src="/images/budget2021/budget_extended.png">
+  - title: Digital Leaders Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      No application is required. Receive 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee. The cash grant will be automatically computed based on mandatory CPF contribution data.
+      The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
 
-      <a href="https://go.gov.sg/jss" target="_blank">Find out more</a>
+      <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find out more</a>
 
-  - title: Market Readiness Assistance (MRA) Grant<img src="/images/budget2021/budget_enhanced.png">
+  - title: Directory of Digital Solutions for Safe Reopening
     content:  |
-      SMEs looking to take their business overseas can receive up to 70% support for eligible costs with the MRA grant from 1 April 2020 - 31 March 2023. (up to 80% from 1 April - 31 March 2022).
+      This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
 
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank">Find out more</a>
-
-  - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
-    content:  |
-      The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
-
-      <a href="https://www.openinnovation.sg/about" target="_blank">Find out more</a>
-      
-  - title: Part-Time Re-employment Grant (PTRG)<img src="/images/budget2021/budget2021.png">
-    content:  |
-      Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it.
-
-      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
-
-  - title: Productivity Solutions Grant (PSG)<img src="/images/budget2021/budget_enhanced.png">
-    content:  |
-      The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April 2020 - 31 March 2022.
-
-      <a href="/productivity-solutions-grant/" target="_blank">Find out more</a>    
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find out more</a>    
 
   - title: Senior Worker Early Adopter Grant (SWEAG)<img src="/images/budget2021/budget2021.png">
     content:  |
