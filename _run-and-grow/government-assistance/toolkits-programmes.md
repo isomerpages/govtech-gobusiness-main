@@ -6,48 +6,48 @@ accordion-a:
   - title: Help My Business through COVID-19
     content:  |
       **Directory of Digital Solutions for Safe Reopening**
-      This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
+      <br>This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find out more</a>
   - title: Improve Working Arrangements
     content:  |
       **bizSAFE**
-      bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security.
+      <br>bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security.
       
       <a href="https://www.wshc.sg/bizsafe" target="_blank">Find out more</a>
       
       **CultureSAFE**
-      CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture.
+      <br>CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture.
       
       <a href="https://www.wshc.sg/culturesafe" target="_blank">Find out more</a>
       
       **iWorkHealth**
-      iWorkHealth 1.0 is an online, self-administered psychosocial health assessment tool for companies and their employees to identify common workplace stressors.
+      <br>iWorkHealth 1.0 is an online, self-administered psychosocial health assessment tool for companies and their employees to identify common workplace stressors.
       
       <a href="www.iworkhealth.gov.sg" target="_blank">Find out more</a>
       
       **SnapSAFE**
-      SnapSAFE is a mobile application to report WSH issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports.
+      <br>SnapSAFE is a mobile application to report WSH issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports.
       
       <a href="https://www.wshc.sg/snapsafe" target="_blank">Find out more</a>
       
       **StartSAFE**
-      StartSAFE helps SMEs identify WSH risks onsite and recommends good WSH practices. It is a gateway to bizSAFE.
+      <br>StartSAFE helps SMEs identify WSH risks onsite and recommends good WSH practices. It is a gateway to bizSAFE.
       
       <a href="https://www.wshc.sg/startsafe" target="_blank">Find out more</a>
       
       **WSH Advocate**
-      The WSH Advocate Programme helps companies to create inhouse supporting network for WSH across all levels.
+      <br>The WSH Advocate Programme helps companies to create inhouse supporting network for WSH across all levels.
       
       <a href="https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=CL2014081201195&tabId=C-2014090901062" target="_blank">Find out more</a>
       
       **Total WSH A-I-ME Programme**
-      Total WSH is a holistic and integrated approach to manage the interactions between work, safety and health, so as to promote the wellbeing of workers and employers.
+      <br>Total WSH is a holistic and integrated approach to manage the interactions between work, safety and health, so as to promote the wellbeing of workers and employers.
       
       <a href="https://www.wshc.sg/totalwsh" target="_blank">Find out more</a>
       
       **Portable Medical Benefits Scheme**
-      Portable medical benefits are medical benefits that employees can bring with them if they change employers. This page describes how the PMBS works.
+      <br>Portable medical benefits are medical benefits that employees can bring with them if they change employers. This page describes how the PMBS works.
       
       <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/portable-medical-benefits" target="_blank">Find out more</a>
   - title: bizSAFE
