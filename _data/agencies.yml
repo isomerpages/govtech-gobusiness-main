@@ -38,136 +38,157 @@
   link1: angela_liew@enterprisesg.gov.sg<br>hayati_taib@enterprisesg.gov.sg<br>safinah_samah@enterprisesg.gov.sg
 
 - title: Enterprise Singapore
-  description: 230 Victoria Street<br>Level 9, Bugis Junction Office Tower<br>Singapore 188024<br><br><b>Call Centre - Rubber</b>
+  description: Call Centre - Rubber
   link: +65 6898 1800
   link1: indriyanti_ismail@enterprisesg.gov.sg<br>vivian_sia@enterprisesg.gov.sg
 
 - title: Housing & Development Board (HDB)
-  description: HDB Hub<br>480 Lorong 6 Toa Payoh<br>Singapore 310480<br><br><b>Commercial Properties Inquiry</b>
+  description: For Commercial Properties Inquiry
   link: 1800 866 3073
-  link1: www.hdb.gov.sg/efeedback
+  link2: www.hdb.gov.sg/efeedback
 
 - title: Housing & Development Board (HDB)
-  description: HDB Hub<br>480 Lorong 6 Toa Payoh<br>Singapore 310480<br><br><b>HDB Flats Inquiry</b>
+  description: For HDB Flats Inquiry
   link: 1800 225 5432
-  link1: www.hdb.gov.sg/efeedback
+  link2: www.hdb.gov.sg/efeedback
 
 - title: Hotels Licensing Board (HLB)
-  description: Tourism Court<br>1 Orchard Spring Lane<br>Singapore 247729<br><br><b>Hotel Licence Inquiry</b>
+  description: For Hotel Licence Inquiry
   link: +65 6736 6622
   link1: hlb_info@hlb.gov.sg
 
 - title: Health Sciences Authority (HSA)
-  description: Health Sciences Authority<br>11 Outram Road<br>Singapore 169078<br><br><b>Tobacco Retail Licence Inquiry</b>
+  description: For Tobacco Retail Licence Inquiry
   link: +65 6684 2031 / 2032
   link1: hsa_trb@hsa.gov.sg
 
 - title: Infocomm and Media Development Authority Singapore (IMDA)
-  description: 10 Pasir Panjang Road<br>#03-01<br>Mapletree Business City<br>Singapore 117438
+  description: Customer Service Hotline
   link: 1800 478 5478
-  link1: www.imda.gov.sg/feedback
+  link2: www.imda.gov.sg/feedback
+
+- title: Infocomm and Media Development Authority Singapore (IMDA)
+  description: Digital Solutions
+  link: +65 6377 3800
+  link1: info@imda.gov.sg 
 
 - title: Intellectual Property Office of Singapore (IPOS)
-  description: 1 Paya Lebar Link<br>#11-03<br>PLQ 1, Paya Lebar Quarter<br>Singapore 408533
+  description: Intellectual properties (patents, trade marks, copyright, design)
   link: +65 6339 8616
-  link1: ipos_pau@ipos.gov.sg
+  link1: ipos_pau@ipos.gov.sg<br>ipos_enquiry@ipos.gov.sg
 
 - title: Inland Revenue Authority of Singapore (IRAS)
-  description: 55 Newton Road<br>Revenue House<br>Singapore 307987<br><br><b>The Comptroller of Property Tax - Appraiser Licensing</b>
+  description: The Comptroller of Property Tax - Appraiser Licensing
   link: +65 6351 2442 / 2413
   link1: iras_pvs_tl2@iras.gov.sg
 
+- title: Inland Revenue Authority of Singapore (IRAS)
+  description: Taxation and GST
+  link2: www.iras.gov.sg/irashome/Contact-us/ 
+
 - title: Land Transport Authority (LTA)
-  description: 1 Paya Lebar Link<br>#11-03<br>PLQ 1, Paya Lebar Quarter<br>Singapore 408533
-  link: 1800 - CALL LTA (1800 - 2255582)
+  description: Customer Service
+  link: 1800 - CALL LTA (1800 2255 582)
   link1: LTA_L1@lta.gov.sg<br>lta_bus_licence@lta.gov.sg
 
 - title: Ministry of Culture, Community and Youth (MCCY)
-  description: Old Hill Street Police Station<br>140 Hill Street<br>#01-01A, Singapore 179369
+  description: Customer Service
   link: +65 6337 6597
   link1: mccy_charities@mccy.gov.sg
 
 - title: Ministry of Home Affairs (MHA)
-  description: New Phoenix Park <br>28 Irrawaddy Road<br>Singapore 329560
+  description: MHA Contact
   link: +65 6478 1010
   link1: MHA_FM_Permit@mha.gov.sg
 
+ - title: Ministry of Law (MINLAW)
+  description: MINLAW Customer Service Team
+  link: 1800-CALL-LAW (1800 2255 529)
+  link2: eservices.mlaw.gov.sg/enquiry/
+
 - title: Ministry of Education (MOE)
-  description: 1 North Buona Vista Drive<br>MOE Building, Podium Block<br>Singapore 138675
+  description: Customer Service
   link: +65 6872 2220
   link1: moe_pss@moe.gov.sg
 
 - title: Ministry of Manpower (MOM)
-  description: 1500 Bendemeer Road<br>Singapore 339946
+  description: Contact Centre
   link: +65 6438 5122
-  link1: services.mom.gov.sg/efeedback
+  link2: service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx
 
 - title: Ministry of Manpower (MOM)
-  description: 1500 Bendemeer Road<br>Singapore 339946<br><br><b>Referral and placement returns from employment agencies</b>
+  description: Referral and placement returns from employment agencies
   link: +65 6438 5122
   link1: mom_ea_data@mom.gov.sg
 
+- title: Ministry of Manpower (MOM)
+  description: Hiring
+  link: +65 6438 5122
+  link2: www.mom.gov.sg/eservices
+
 - title: Ministry of Social and Family Development (MSF)
-  description: 512 Thomson Road<br>#8-00 MSF Building<br>Singapore 298136
-  link: +65 6354 8582
+  description: MSF Contact
   link1: MSF_RCRB@msf.gov.sg
 
 - title: Majlis Ugama Islam Singapura (MUIS)
-  description: Singapore Islamic Hub<br>273 Braddell Road<br>Singapore 579702
+  description: MUIS Contact
   link: +65 6359 1199
-  link1: eservices.muis.gov.sg/ifaq/apps/feedback.aspx
+  link1: info@muis.gov.sg
+  link2: eservices.muis.gov.sg/ifaq/apps/feedback.aspx
 
 - title: National Environment Agency (NEA)
-  description: 40 Scotts Road<br>Environment Building<br>Singapore 228231
+  description: Call Centre
   link: +65 6225 5632
-  link1: www.nea.gov.sg/corporate-functions/feedback
+  link2: www.nea.gov.sg/corporate-functions/feedback
 
 - title: National Parks Board (NParks)
-  description: 1 Cluny Road<br>Singapore Botanic Gardens<br>Singapore 259569
-  link: www.nparks.gov.sg/feedback
-  link1: va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.asp
+  description: Contact Centre
+  link2: www.nparks.gov.sg/feedback
 
 - title: Public Transport Council (PTC)
-  description: mTower<br>460 Alexandra Road<br>#05-01A<br>Singapore 119963
+  description: PTC Contact
   link: +65 6354 9020
   link1: ptc_office@ptc.gov.sg
 
 - title: Public Utilities Board (PUB)
-  description: mTower<br>460 Alexandra Road<br>#05-01A<br>Singapore 119963<br><br><b>Written Approval for the Discharge of Trade Effluent Into the Public Sewer</b>
+  description: Written Approval for the Discharge of Trade Effluent Into the Public Sewer
   link: +65 6517 2223 / 2201
   link1: ahmad_al_rifaee_abdul_halim@pub.gov.sg<br>muhd_ammarsyakir_seno@pub.gov.sg<br>damien_zhao@pub.gov.sg
 
 - title: Public Utilities Board (PUB)
-  description: mTower<br>460 Alexandra Road<br>#05-01A<br>Singapore 119963<br><br><b>Plumber Licence</b>
+  description: Plumber Licence
   link: +65 6731 3357
   link1: david_yew@pub.gov.sg
 
 - title: Singapore Civil Defence Force (SCDF)
-  description: 91 Ubi Avenue 4<br>Singapore 408827<br><br><b>Application for Temporary Change of Use Permit</b>
+  description: Application for Temporary Change of Use Permit
   link: +65 6848 1439
-  link1: SCDF_CSC@scdf.gov.sg
-
+  
 - title: Singapore Food Agency (SFA)
-  description: 52 Jurong Gateway Road<br>JEM Office Tower<br>#14-01<br>Singapore 608550
+  description: Contact Centre
   link: +65 6805 2871
-  link1: www.sfa.gov.sg/feedback
+  link2: csp.sfa.gov.sg/feedback
 
 - title: Singapore Police Force (SPF)
-  description: New Phoenix Park<br>28 Irrawaddy Road<br>Singapore 329560<br><br><b>Business Contact</b>
+  description: Business Contact
   link: +65 6835 0000
   link1: SPF_Licensing_Feedback@spf.gov.sg
 
 - title: Singapore Police Force (SPF)
-  description: New Phoenix Park<br>28 Irrawaddy Road<br>Singapore 329560<br><br><b>Road Closure Permit for Events</b>
+  description: Road Closure Permit for Events
   link: +65 6547 0000
   link1: tp_roadclosurepermit@spf.gov.sg
 
 - title: SkillsFuture Singapore Agency (SSG)
-  description: 1 Paya Lebar Link<br>#08-08 Paya Lebar Quarter 2<br>Singapore 408533
+  description: SSG Contact
   link: +65 6785 5785
-  link1: https://portal.ssg-wsg.gov.sg/
+  link2: portal.ssg-wsg.gov.sg/
+
+- title: Tripartite Alliance for Fair & Progressive Employment (TAFEP)
+  description: Employment practices, tripartite guidelines and standards
+  link2: www.tal.sg/tafep/contact-us 
 
 - title: Urban Redevelopment Authority (URA)
-  description: 45 Maxwell Road<br>The URA Centre<br>Singapore 069118
+  description: Customer Service Hotline
   link: +65 6223 4811
   link1: ura_dcd@ura.gov.sg
