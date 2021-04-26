@@ -80,6 +80,37 @@ accordion-a:
       HR Portal provides a wide range of HR resources to support HR operations. Resources provided are free and assessable via a one-time registration.
 
       <a href="https://www.hrportal.sg" target="_blank">Find out more</a>
+  
+  - title: Human Capital Partnership
+    content:  |
+      Join the community of exemplary employers committed to developing HR capabilities, to enjoy fast lane access to manpower development opportunities and schemes.
+
+      <a href="https://www.tal.sg/tafep/Getting-Started/Exemplary/HCP-Programme" target="_blank">Find out more</a>
+  
+  - title: IHRP Corporate Partner Programme
+    content:  |
+      The IHRP Corporate Partner Programme supports employers in equipping their HR teams with the capabilities to drive workforce and business transformation.
+
+      <a href="https://www.ihrp.sg/ihrp-corporate-partner-programme-2/" target="_blank">Find out more</a>
+  
+  - title: iWorkHealth
+    content:  |
+      iWorkHealth 1.0 is an online, self-administered psychosocial health assessment tool for companies and their employees to identify common workplace stressors.
+
+      <a href="https://www.iworkhealth.gov.sg" target="_blank">Find out more</a>
+
+  - title: Marketing Toolkit
+    content:  |
+      Self-help tool to improve your company's value proposition and learn how you can develop marketing strategies to drive competitiveness and sales.
+
+      <a href="https://web.smu.edu.sg/spring/" target="_blank">Find out more</a>
+  
+  - title: National Centre of Excellence for Workplace Learning (NACE)
+    content:  |
+      The NACE equips companies with the capability to develop best-in-class training practices to enhance learning at the workplace.
+
+      <a href="https://www.enterprisejobskills.sg/content/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning.html" target="_blank">Find out more</a>
+
 
 accordion-b:
   - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
