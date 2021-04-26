@@ -29,6 +29,42 @@ accordion-a:
 
       <a href="https://go.gov.sg/jss" target="_blank">Find out more</a>
 
+  - title: Market Readiness Assistance (MRA) Grant<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      SMEs looking to take their business overseas can receive up to 70% support for eligible costs with the MRA grant from 1 April 2020 - 31 March 2023. (up to 80% from 1 April - 31 March 2022).
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank">Find out more</a>
+
+  - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
+
+      <a href="https://www.openinnovation.sg/about" target="_blank">Find out more</a>
+      
+  - title: Part-Time Re-employment Grant (PTRG)<img src="/images/budget2021/budget2021.png">
+    content:  |
+      Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it.
+
+      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+
+  - title: Productivity Solutions Grant (PSG)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April 2020 - 31 March 2022.
+
+      <a href="/productivity-solutions-grant/" target="_blank">Find out more</a>    
+
+  - title: Senior Worker Early Adopter Grant (SWEAG)<img src="/images/budget2021/budget2021.png">
+    content:  |
+      Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes.
+
+      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+      
+  - title: Wage Credit Scheme<img src="/images/budget2021/budget_extended.png">
+    content:  |
+      No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
+
+      <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank">Find out more</a>    
+
 accordion-b:
   - title: 2-Stage Innovation Grant (iGrant)<img src="/images/budget2021/budget_extended.png">
     content:  |
