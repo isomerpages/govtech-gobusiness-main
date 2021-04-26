@@ -79,7 +79,7 @@ accordion-new:
       **Information/documents required**
       - Proposed business name
       - Description of main business activities
-      - Particulars of partners and local manager (if applicable)
+      - Particulars of partners and local manager
      
   - title: Apply for Company Name
     content: |
