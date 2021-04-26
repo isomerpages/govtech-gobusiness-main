@@ -129,7 +129,96 @@ accordion-a:
 
       <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/talent-attraction-and-development/leadership-development/overseas-market-workshops" target="_blank">Find out more</a>
       
+   - title: Peppol-Ready Accounting/ERP Solution Providers
+    content:  |
+      Peppol Ready Solutions are solutions such as Accounting (AR and/or AP), ERP and SCM which are connected to the Peppol network where business users can send and receive e-invoices through the Peppol network.  
+
+      <a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework/Peppol-Ready-Accounting-ERP-Solution-Providers" target="_blank">Find out more</a>
       
+  - title: Portable Medical Benefits Scheme
+    content:  |
+      Portable medical benefits are medical benefits that employees can bring with them if they change employers. This page describes how the PMBS works.
+
+      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/portable-medical-benefits" target="_blank">Find out more</a>
+      
+  - title: Professional Conversion Programme (PCP)
+    content:  |
+      Receive training and salary support to hire and reskill job seekers, including mid-career switchers. Receive up to 90% salary support capped at $6,000/month for every eligible new hire.
+
+      <a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramListing.aspx?source=PCP&utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank">Find out more</a>
+      
+  - title: SGUnited Jobs Initiative
+    content:  |
+      Participate in the SGUnited Jobs Initiative by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg
+
+      <a href="https://www.mycareersfuture.gov.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank">Find out more</a>
+  
+  - title: SGUnited Traineeships Programme
+    content:  |
+      Register as a host company to gain access to a qualified pool of fresh talent. The Government will co-fund 80% of the training allowance.
+
+      <a href="https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html" target="_blank">Find out more</a>
+
+  - title: Skills Framework
+    content:  |
+      The Skills Frameworks provide useful information on job roles, key tasks expected to be performed by each job role, as well as the skills that an individual should possess for each job role.
+
+      <a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skills-framework/index.html" target="_blank">Find out more</a>
+      
+  - title: SkillsFuture for Digital Workplace
+    content:  |
+      Equip your staff the right mindset and skills to welcome emerging technologies and technological changes to the workplace, and to take advantage of new opportunities in the future economy.
+
+      <a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skillsfuture-for-digital-workplace.html" target="_blank">Find out more</a>
+  
+  - title: SkillsFuture Series "Tech-enabled Services"
+    content:  |
+      This is a catalogue of SSG-supported courses on Tech-Enabled Services.
+
+      <a href="https://www.myskillsfuture.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1%3A%5B2020-05-04T00%3A00%3A00Z%20TO%20*%5D&fq=IsValid%3Atrue&q=*%3A*&cat=fq%3DTags_text_exact%3A(%22SF%20Series_Tech-Enabled%20Services%22)&cattext=Tech-Enabled%20Services&cattype=undefined" target="_blank">Find out more</a>
+
+  - title: Smart Industry Readiness Index (SIRI)
+    content:  |
+      SIRI comprises a suite of frameworks and tools to help manufacturers - regardless of their size and industry - start, scale and sustain their manufacturing transformation journeys.
+
+      <a href="https://www.siri.gov.sg" target="_blank">Find out more</a>
+      
+  - title: SME Digital Tech Hub
+    content:  |
+      The SME Digital Tech Hub is a dedicated hub that provides specialist digital technology advisory to SMEs with more advanced digital needs, such as data analytics and cybersecurity.
+
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/sme-digital-tech-hub" target="_blank">Find out more</a>
+
+  - title: SnapSAFE
+    content:  |
+      SnapSAFE is a mobile application to report WSH issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports.
+
+      <a href="https://www.wshc.sg/snapsafe" target="_blank">Find out more</a>
+      
+  - title: StartSAFE
+    content:  |
+      StartSAFE helps SMEs identify WSH risks onsite and recommends good WSH practices. It is a gateway to bizSAFE.
+
+      <a href="https://www.wshc.sg/startsafe" target="_blank">Find out more</a>
+      
+  - title: Total WSH A-I-ME Programme
+    content:  |
+      Total WSH is a holistic and integrated approach to manage the interactions between work, safety and health, so as to promote the wellbeing of workers and employers.
+
+      <a href="https://www.wshc.sg/totalwsh" target="_blank">Find out more</a>
+      
+  - title: Wireless@Sg (Wireless@Sg for Business)
+    content:  |
+      Businesses and venue owners who want to provide free Wi-Fi to their patrons are encouraged to partner operators to extend Wireless@SG service within their premises on commercial arrangements.
+
+      <a href="https://www.imda.gov.sg/programme-listing/Wireless-At-SG/Wireless-at-SG-for-Business" target="_blank">Find out more</a>
+      
+  - title: WSH Advocate
+    content:  |
+      The WSH Advocate Programme helps companies to create inhouse supporting network for WSH across all levels.
+
+      <a href="https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=CL2014081201195&tabId=C-2014090901062" target="_blank">Find out more</a>
+
 accordion-b:
   - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
     content:  |
