@@ -232,69 +232,314 @@ accordion-b:
 accordion-c:
   - title: Agriculture
     content:  |
-      Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
-
-      <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">Find Out More</a>
+      **Agriculture Productivity Fund (APF)**
+      <br>The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
+      
+      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find out more</a>
   - title: Aerospace
     content:  |
-      Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
-
-      <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find Out More</a>
+      **Aviation Development Fund (ADF)**
+      <br>The Aviation Development Fund (ADF) supports the development and growth of the aviation industry in Singapore, with focus on raising airport productivity, building capabilities, and developing manpower.
+      
+      <a href="https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund" target="_blank">Find out more</a>
   - title: Building & Construction
     content:  |
-      The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Productivity Innovation Project (PIP)**
+      <br>Construction related companies can defray the cost of technology adoption aimed to help reduce site workers or improve site productivity.
+      
+      <a href="https://www.bca.gov.sg/PIP/pip.html" target="_blank">Find out more</a>
+      
+      **Workforce Training and Upgrading**
+      <br>BCA co-funds up to 90% of selected training courses and skills assessments for firms in the built environment sector, with the aim of improving the capability of the workforce.
+      
+      <a href="https://www1.bca.gov.sg/public/students/workforce-training-and-upgrading-scheme" target="_blank">Find out more</a>
+      
+      **Construction Support Package - Support for SMOs' salaries**
+      <br>This grant co-funds the salaries of Safe Management Officers (SMOs) who need to be deployed to ensure that safe management measures are implemented at construction worksites.
+      
+      <a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/circulars/support-for-smos.pdf" target="_blank">Find out more</a>
+      
+      **Innovative Smart Estate Trial Solutions**
+      <br>This grant is for solution providers to develop new technologies or use cases in areas of enhancing smart environment, experiences and living.  IMDA will co-fund up to 50% of project costs for Singapore technology providers that leverage on digital solutions such as AI and data analytics to generate insights, formulate strategies and make decisions. Technologies could include machine learning, crowd or tenant analysis, unmanned stores, predictive maintenance and operations. IMDA and the industry (challenge statement owners) will evaluate the proposals submitted from the tech solution providers, and the POCs will be tested at live trial sites provided by the industry.
+      
+      <a href="https://www.imda.gov.sg/callforinnovativesolutionsforsmartestates" target="_blank">Find out more</a>
+      
+      **iBuildSG Building Specialist Sponsorship (BSS)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the training.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/building-specialist" target="_blank">Find out more</a>
+      
+      **iBuildSG Building Specialist Sponsorship (Crane & Operations)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firm through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the course fee.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/building-specialist" target="_blank">Find out more</a>
+      
+      **iBuildSG Diploma Scholarship/Sponsorship (Full-Time)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 70% of the award.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/diploma" target="_blank">Find out more</a>
+      
+      **iBuildSG Diploma Sponsorship (Part-Time)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor up to 70% of the award.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/Part-Time-Sponsorships" target="_blank">Find out more</a>
+      
+      **iBuildSG ITE Scholarship (Full-Time)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the award.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/ite" target="_blank">Find out more</a>
+      
+      **iBuildSG Postgraduate Sponsorship (for part-time degree)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor up to 70% of the award.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/Part-Time-Sponsorships" target="_blank">Find out more</a>
+      
+      **iBuildSG Undergraduate Sponsorship Programme (Part-Time)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor up to 70% of the award.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/Part-Time-Sponsorships" target="_blank">Find out more</a>
+      
+      **iBuildSG Undergraduate Scholarship/Sponsorship (Full-Time)**
+      <br>Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 70% of the award.
+      
+      <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/undergraduate" target="_blank">Find out more</a>
   - title: Energy
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+      **Research Innovation, Enterprise and Development**
+      <br>EMA rolls out competitive grant calls which aims to address industry-relevant challenges and opportunities in the energy sector.
+      
+      <a href="https://www.ema.gov.sg/Industry_Energy_Research_and_Development.aspx" target="_blank">Find out more</a>
+      
+      **Power Systems Competitive Research and Test-bedding (CRT) Funding Initiatives**
+      <br>EMA rolls out competitive grant calls to catalyse applied research and development (R&D) of innovative technologies and solutions. This aims to address industry-relevant challenges and opportunities in the energy sector that lead to long-term solutions for Singapore's energy challenges.
 
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      The Power Systems CRT Funding Initiatives support competitive R&D grant call projects and test-beds in the three areas of power utilities, energy storage and smart grids that will meet Singapore’s energy needs.
+      
+      <a href="https://www.ema.gov.sg/Industry_Energy_Research_and_Development.aspx" target="_blank">Find out more</a>
   - title: Financial Services
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Asian Financial Leaders Scheme (AFLS)**
+      <br>The AFLS initiative helps FIs defray part of the costs incurred in sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find out more</a>
+      
+      **Finance Associate Management Scheme (FAMS)**
+      <br>The FAMS helps FIs defray part of the costs incurred in the hiring of Singapore citizen staff who would be trained under their structured management/functional programmes.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/finance-associate-management-scheme-fams" target="_blank">Find out more</a>
+      
+      **Financial Sector Technology and Innovation (FSTI) Scheme - FI project track**
+      <br>The FSTI scheme supports Singapore-based FIs to catalyse innovative ideas and market solutions to advance the competitiveness of the financial institution and the sector.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/fsti-scheme" target="_blank">Find out more</a>
+      
+      **Financial Sector Technology and Innovation (FSTI) Scheme - Industry-wide Technological Infrastructure or Utility**
+      <br>The Industry-wide Projects track seeks to build industry-wide technological/utility infrastructure and/or improve efficiency and boost productivity in the financial services sector.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/fsti-scheme" target="_blank">Find out more</a>
+      
+      **Financial Specialist Scholarship (FSS)**
+      <br>The FSS will co-fund with FIs to send their promising Singaporean professionals for postgraduate study in: Specialised Finance, Finance, applied finance or financial economics, Risk Management, Actuarial Science, Technology and Data Science.
+      
+      <a href="https://www.ibf.org.sg/programmes/Pages/FSS_IBF.aspx" target="_blank">Find out more</a>
+      
+      **Financial Training Scheme (FTS)**
+      <br>The FTS provides funding for financial sector-specific training programmes which are recognized under FTS, with a grant cap of $2,000 per participant per programme.
+      
+      <a href="https://www.ibf.org.sg/programmes/Pages/IBF-FTS.aspx" target="_blank">Find out more</a>
+      
+      **Grant for Equity Market Singapore (GEMS) - Listing**
+      <br>GEMS (listing) helps to encourage potential issuers to list on the Singapore Exchange (SGX) by co-funding part of the eligible listing expenses.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank">Find out more</a>
+      
+      **Grant for Equity Market Singapore (GEMS) - Research Initiative**
+      <br>The Research Initiative Grant is earmarked to fund crowd-sourced initiatives that will propel the development of Singapore's equity research ecosystem.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank">Find out more</a>
+      
+      **Grant for Equity Market Singapore (GEMS) - Research Talent Development**
+      <br>GEMS (research) encourage FIs based in Sg to hire equity research professionals by co-funding hiring costs of equity research analysts.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank">Find out more</a>
+      
+      **Digital Acceleration Grant (DAG) - Industry Pilot**
+      <br>DAG scheme supports joint projects by multiple Singapore-based FIs to customise an existing solution with a solution provider, to improve productivity, strengthen operational resilience, manage risks better, and serve customers better.
+      
+      <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank">Find out more</a>
+      
+      **Digital Acceleration Grant (DAG) - Institution Project**
+      <br>DAG scheme supports Singapore-based FIs and Fintech firms adopt digital solutions to improve productivity, strengthen operational resilience, manage risks better, and serve customers better.
+      
+      <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank">Find out more</a>
+      
+      **Institute of Banking and Finance Standards Training Scheme (IBF-STS)**
+      <br>The IBF-STS provides funding for programmes accredited under the IBF standards, with a grant cap of $7,000 per participant per programme.
+      
+      <a href="https://www.ibf.org.sg/programmes/Pages/IBF-STS.aspx" target="_blank">Find out more</a>
+      
+      **International Postings Programme (iPOST)**
+      <br>The iPOST initiative helps FIs defray part of the costs incurred in sending Singapore citizen staff on global and regional attachments or postings.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/international-postings-programme-ipost" target="_blank">Find out more</a>
+      
+      **Artificial Intelligence and Data Analytics (AIDA) Grant**
+      <br>The AIDA grant supports projects that demonstrate adoption of AI & DA techniques that achieve business objectives of strategy & decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+      
+      <a href="https://www.mas.gov.sg/schemes-and-initiatives/Artificial-Intelligence-and-Data-Analytics-AIDA-Grant" target="_blank">Find out more</a>
+      
+      **Proof-of-Concept (POC) Grant**
+      <br>The POC grant supports up to 50% of qualifying costs for projects which aim to develop a novel concept of resolving industry-wide problems, using technology or business processes. Maximum support of up to $200,000.
+      
+      <a href="https://www.mas.gov.sg/development/fintech/mas-fsti-proof-of-concept-grant" target="_blank">Find out more</a>
   - title: Food & Beverages
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Healthier Dining Grant**
+      <br>The Healthier Dining Grant is a funding scheme which empowers Healthier Dining Programme Partners to promote healthier menu options.
+      
+      <a href="https://www.hpb.gov.sg/healthy-living/food-beverage/healthier-dining-grant-schemes/about-the-healthier-dining-grant" target="_blank">Find out more</a>
+      
+      **Healthier Dining Innovation Grant (HDI)**
+      <br>HDI is a funding scheme of up to $5,000 for F&B operators to take their first step towards capability upgrading in 4 areas: R&D, Purchase of Healthier Ingredients, Culinary Training, and Recipe Reformulation.
+      
+      <a href="https://www.hpb.gov.sg/healthy-living/food-beverage/healthier-dining-grant-schemes/about-the-healthier-dining-innovation" target="_blank">Find out more</a>
+      
+      **Healthier Ingredient Development Scheme (HIDS)**
+      <br>HIDS incentivises food ingredient manufacturers/suppliers to develop greater varieties of healthier ingredients, and to promote their adoption among F&B businesses and consumers. The scheme funds up to 80% qualifying project costs, cap at $500,000.
+      
+      <a href="https://www.hpb.gov.sg/healthy-living/food-beverage/healthier-ingredient-schemes/about-the-healthier-ingredient-development-scheme" target="_blank">Find out more</a>
+      
+      **Healthier Ingredient Promotion Scheme (HIPS)**
+      <br>HIPS incentivises food ingredient manufacturers/suppliers to promote the adoption of healthier ingredients, among F&B businesses and consumers. The scheme funds up to 80% qualifying project costs, cap at $300,000.
+      
+      <a href="https://www.hpb.gov.sg/healthy-living/food-beverage/healthier-ingredient-schemes/about-the-healthier-ingredient-promotion-scheme" target="_blank">Find out more</a>
+      
+      **Digital Resilience Bonus**
+      <br>The Digital Resilience Bonus aims to uplift the digital capabilities of a broad-base of enterprises. Eligible Food Services and Retail enterprises can receive up to $10,000 one-time cash payouts when they adopt pre-defined categories of solutions.
+      
+      <a href="https://www.imda.gov.sg/DRBonus" target="_blank">Find out more</a>
   - title: IT
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **GoCloud**
+      <br>Supports local ICT SMEs to transform traditional software architecture and development practices to Cloud-Native applications, so that they can be more agile, flexible and scalable
+      
+      <a href="https://www.imda.gov.sg/programme-listing/gocloud" target="_blank">Find out more</a>
+      
+      **GoSecure**
+      <br>GoSecure is designed to increase the cybersecurity capabilities of our local ICT companies and improve their product security posture.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/gosecure" target="_blank">Find out more</a>
+      
+      **Co-Creation Grant**
+      <br>With up to $30,000 funding support, this grant supports software developers to develop innovative solutions that integrates tax seamlessly into digital solutions used by taxpayers and/or harnesses IRAS' APIs.
+      
+      <a href="https://www.iras.gov.sg/irashome/About-Us/Public-Engagement/IRAS-Co-Creation-Grant/" target="_blank">Find out more</a>
   - title: Manufacturing & Engineering
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Energy Efficiency Fund (E2F)**
+      <br>E2F supports companies in the industry sector in becoming more energy efficient. NEA provides funding support of up to 50% of qualifying costs.
+      
+      <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund" target="_blank">Find out more</a>
+      
+      **Industry 4.0 Human Capital Initiative (IHCI) Enabler Programme**
+      <br>With up to 90% funding support, the IHCI Enabler is an 8-week programme that focuses on helping companies get started on Industry 4.0 transformation and optimise returns with effective human capital management.
+      
+      <a href="https://ihci.sbf.org.sg/" target="_blank">Find out more</a>
+      
+      **Resource Efficiency Grant for Energy**
+      <br>REG(E) encourages companies in the Industry sector to implement projects that lead to meaningful carbon abatement outcomes.
+      
+      <a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html#:~:text=The%20Resource%20Efficiency%20Grant%20for,energy%20efficient%20and%20improve%20competitiveness.&text=Grant%20support%20for%20REG(E,of%2050%25%20of%20qualifying%20costs" target="_blank">Find out more</a>
   - title: Media
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Southeast Asia Co-Production Grant (SCPG)**
+      <br>The SCPG encourages film talent in Singapore and SEA region to jointly produce quality feature files by providing support of up to $250,000 or 50% of qualifying costs. Feature files should be 70 minutes or longer.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/Southeast-Asia-Co-Production-Grant" target="_blank">Find out more</a>
+      
+      **New Talent Feature Grant (NTFG)**
+      <br>The NTFG helps first and second-time directors to launch their careers by providing support of up to $250,000 or 100% for their feature film's qualifying costs. Feature files should be 70 minutes or longer.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/new-talent-feature-grant" target="_blank">Find out more</a>
+      
+      **Production Assistance**
+      <br>Provides funding for productions with original IPs that highlight Singapore talents in credited roles, infuse data or digital technologies into content for distribution on new or digital platforms.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/production-assistance" target="_blank">Find out more</a>
   - title: Real Estate
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Accessibility Fund**
+      <br>Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
+      
+      <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find out more</a>
+      
+      **Grant for Low-GWP Refrigerant Chillers**
+      <br>This grant encourages companies to make an early switch to water-cooled chillers using lower global warming potential (GWP ) refrigerants
+      
+      <a href="https://www1.bca.gov.sg/buildsg/sustainability/green-mark-incentive-schemes/grant-for-low-gwp-refrigerant-chillers-logr" target="_blank">Find out more</a>
+      
+      **Innovative Smart Estate Trial Solutions**
+      <br>This grant is for solution providers to develop new technologies or use cases in areas of enhancing smart environment, experiences and living.  IMDA will co-fund up to 50% of project costs for Singapore technology providers that leverage on digital solutions such as AI and data analytics to generate insights, formulate strategies and make decisions. Technologies could include machine learning, crowd or tenant analysis, unmanned stores, predictive maintenance and operations. IMDA and the industry (challenge statement owners) will evaluate the proposals submitted from the tech solution providers, and the POCs will be tested at live trial sites provided by the industry.
+      
+      <a href="https://www.imda.gov.sg/callforinnovativesolutionsforsmartestates" target="_blank">Find out more</a>
+      
+      **Smart Facilities Management Proof-of-Concept Grant (Smart FM POC Grant)**
+      <br>The Smart FM POC Grant is aims to showcase the potential benefits and establish a business case for the next phase of industry transformation towards integrated and aggregated smart FM.
+      
+      <a href="https://www1.bca.gov.sg/buildsg/facilities-management-fm/smart-facilities-management-fm" target="_blank">Find out more</a>
   - title: Retail
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Digital Resilience Bonus**
+      <br>The Digital Resilience Bonus aims to uplift the digital capabilities of a broad-base of enterprises. Eligible Food Services and Retail enterprises can receive up to $10,000 one-time cash payouts when they adopt pre-defined categories of solutions.
+      
+      <a href="https://www.imda.gov.sg/DRBonus" target="_blank">Find out more</a>
   - title: Services
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
+      **Service Industry Transformation Programme (SITP)**
+      <br>This programme aims to support lifestyle sector enterprises in their transformation efforts and to uplift organisational capabilities in innovation, job redesign and manpower planning.
+      
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/service-industry-transformation-programme.html" target="_blank">Find out more</a>
   - title: Tourism
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
-
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>                        
+      **Business Events in Singapore (BEiS)**
+      <br>The BEiS scheme seeks to encourage the business events industry to anchor and grow quality events as well as catalyse the innovation of new content.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find out more</a>
+      
+      **Cruise Development Fund (CDF)**
+      <br>The CDF supports cruise industry players such as cruise lines, travel agents, charterers and trainers in activities that will build strong consumer demand for cruises from Singapore.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/cruise-development-fund-cdf.html" target="_blank">Find out more</a>
+      
+      **Experience Step-Up Fund (ESF)**
+      <br>The ESF supports development and enhancement of tourism experiences that increase the attractiveness of Singapore to visitors, improving overall visitor experience and satisfaction in Singapore.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html" target="_blank">Find out more</a>
+      
+      **Kickstart Fund (KF)**
+      <br>The KF supports the creation and test-bedding of innovative lifestyle concepts and events with strong tourism potential and scalability, adding to existing tourism software and enhancing the vibrancy in Singapore.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/kickstart-fund-kf.html" target="_blank">Find out more</a>
+      
+      **Tourism Product Development Fund (TPDF)**
+      <br>The TPDF supports the creation, development of new tourism products and/or major rejuvenation of existing tourism products to increase Singapore destination attractiveness to visitors.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/tourism-product-development-fund-tpdf.html" target="_blank">Find out more</a>
+      
+      **Training Industry Professionals in Tourism (TIP-iT)**
+      <br>TIP-iT supports tourism companies in employee upgrading and talent and leadership development.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/training-industry-professionals-in-tourism-tip-it.html" target="_blank">Find out more</a>
+      
+      **Leisure Events Fund (LEF)**
+      <br>The LEF supports the development of world-class, differentiated, celebrated leisure event experiences in Singapore, to delivery key tourism outcomes and establish Singapore as one of the world's most vibrant cities.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/leisure-events-fund-lef.html" target="_blank">Find out more</a>
+      
+      **Business Improvement Fund (BIF)**
+      <br>The BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness.
+      
+      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html" target="_blank">Find out more</a>
 ---
 
 ## See what grants can help your business
