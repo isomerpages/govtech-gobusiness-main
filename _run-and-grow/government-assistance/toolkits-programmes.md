@@ -24,7 +24,7 @@ accordion-a:
       **iWorkHealth**
       <br>iWorkHealth 1.0 is an online, self-administered psychosocial health assessment tool for companies and their employees to identify common workplace stressors.
       
-      <a href="www.iworkhealth.gov.sg" target="_blank">Find out more</a>
+      <a href="https://www.iworkhealth.gov.sg" target="_blank">Find out more</a>
       
       **SnapSAFE**
       <br>SnapSAFE is a mobile application to report WSH issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports.
