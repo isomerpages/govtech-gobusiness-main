@@ -28,60 +28,58 @@ accordion-a:
       <a href="https://www.startupsg.net/programmes/4897/startup-sg-tech" target="_blank">Find Out More</a>
 
 accordion-b:
-  - title: 2-Stage Innovation Grant (iGrant)<img src="/images/budget2021/budget_extended.png">
+  - title: Adopt Technology to Digitise My Business
     content:  |
-      Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
-
-      <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Accessibility Fund
+      **Enterprise Development Grant (EDG)<img src="/images/budget2021/budget_enhanced.png">**
+      <br>The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 March 2022)
+      
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview" target="_blank">Find out more</a>
+      
+      **Operation & Technology Roadmap (OTR)**
+      <br>Development of technology roadmaps to map out priorities that are aligned to businesses’ strategies and developmental plans. Eligible SMEs may receive up to 70% funding support.
+      
+      <a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/Operation-Technology-Roadmap" target="_blank">Find out more</a>
+      
+      **Productivity Solutions Grant (PSG)<img src="/images/budget2021/budget_enhanced.png">**
+      <br>The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April 2020 - 31 March 2022.
+      
+      <a href="/productivity-solutions-grant/" target="_blank">Find out more</a>
+      
+      **Start Digital**
+      <br>SMEs that are new to using digital technology can take up any 2 digital solutions, at no cost for at least 6 months within a minimum 18-month contract period, from supportable categories.
+      
+      <a href="https://www.imda.gov.sg/StartDigital" target="_blank">Find out more</a>
+      
+      **Water Efficiency Fund (WEF)**
+      <br>WEF provides funding to local non-domestic water users to enable them to improve water efficiency through water efficiency assessment, pilot study, recycling, adoption of water efficient equipment & industrial water solution demonstration projects.
+      
+      <a href="https://www.pub.gov.sg/savewater/atwork/efficiencymeasures" target="_blank">Find out more</a>
+  - title: Bring My Business Overseas
     content:  |
       Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
 
       <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find Out More</a>
       <br><br>  
 
-  - title: Agriculture Productivity Fund (APF)
+  - title: Conduct R&D or to Develop/Test New Products and Services
     content:  |
       The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
 
       <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
       <br><br>
 
-  - title: Artificial Intelligence and Data Analytics (AIDA) Grant
+  - title: Hire, Train and Upskill Employees
     content:  |
       AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
 
       <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
       <br><br>
 
-  - title: Asian Financial Leaders Scheme (AFLS)
+  - title: Others
     content:  |
       AFLS helps financial institutes defray part of the costs of sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes.
 
       <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Aviation Development Fund (ADF)
-    content:  |
-      The ADF supports the development and growth of the aviation industry in Singapore, with a focus on raising airport productivity, building capabilities, and developing manpower.
-
-      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Business Events in Singapore (BEiS)
-    content:  |
-      BEiS seeks to encourage the business events industry to anchor and grow quality events as well as catalyse the innovation of new content.  
-
-      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Business Improvement Fund (BIF)
-    content:  |
-      BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness.  
-
-      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
       <br><br>
 
 accordion-c:
