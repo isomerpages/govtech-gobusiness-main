@@ -1,9 +1,10 @@
 - title: Browse All Licences
   description: Browse the list of licences you can apply for from each government agency.
-  link: /licences/find-licence-by-agency/
-  description1: Browse All Government Agencies
+  url: /licences/find-licence-by-agency/
+  text: Browse All Government Agencies
 
 - title: Need Licences for a New Food Service Business?
   description: If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
-  link: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_overview
-  description1: Food Service Guided Journey
+  url: foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_overview
+  protocol: https
+  text: Food Service Guided Journey

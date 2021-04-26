@@ -10,7 +10,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ## Find & apply licences
 
-{% include panels-linksdescription.html panels=site.data.rg_licences %}
+{% include panels.html panels=site.data.rg_licences %}
 
 ![Food Services](/images/grow/foodservices.png)
 

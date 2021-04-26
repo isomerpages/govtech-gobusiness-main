@@ -17,7 +17,7 @@ https://partnersengage.enterprisesg.gov.sg/book-appointment
 <br>Mondays to Fridays, 9am to 5.30pm (closed on public holidays)
 <br>
 
-{% include panels-smecentres.html panels=site.data.sme_centres %}
+{% include panels.html panels=site.data.sme_centres %}
 
 ---
 
@@ -25,4 +25,4 @@ https://partnersengage.enterprisesg.gov.sg/book-appointment
 
 Need help to kick-start you internationalisation journey? Speak to the advisors at [GlobalConnect@SBF](https://globalconnect.sbf.org.sg/){:target="_blank"} to gain access to market knowledge, FTA advisory and an extensive network of partners for your first overseas venture.
 
-{% include panels-globalconnect.html panels=site.data.global_connect %}
+{% include panels.html panels=site.data.global_connect %}

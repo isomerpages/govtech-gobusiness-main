@@ -1,4 +1,5 @@
-- title: See What Support Schemes Your Company Is Eligible for 
+- title: See What Support Schemes Your Company Is Eligible for
   description: e-Adviser for Government Assistance
-  link: https://gaeadviser.gobusiness.gov.sg/?src=run&grow_overview
-  description1: Get Recommendations
+  url: gaeadviser.gobusiness.gov.sg/?src=run&grow_overview
+  protocol: https
+  text: Get Recommendations
