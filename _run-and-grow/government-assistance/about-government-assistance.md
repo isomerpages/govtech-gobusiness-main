@@ -26,11 +26,11 @@ https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
 
 ### Types of assistance schemes
 
-{% include panels-govassist.html panels=site.data.govassist_assistancetypes %}
+{% include panels.html panels=site.data.govassist_assistancetypes %}
 
 ### Additional support programmes
 
-{% include panels-govassist.html panels=site.data.govassist_addsupportprogram %}
+{% include panels.html panels=site.data.govassist_addsupportprogram %}
 
 ---
 

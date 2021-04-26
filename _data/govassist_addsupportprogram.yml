@@ -1,9 +1,9 @@
 - image: <img src="/images/grow/Covid-19 Support.svg">
-  text: Covid-19 Support
-  link: /supportschemes/immediateschemes
-  description1: Find Out More
+  title: Covid-19 Support
+  url: /supportschemes/immediateschemes
+  text: Find Out More
 
 - image: <img src="/images/budget2021/budget2021_govassist.png">
-  text: Budget 2021
-  link: /gov-assist/budget-2021/
-  description1: Find Out More
+  title: Budget 2021
+  url: /gov-assist/budget-2021/
+  text: Find Out More

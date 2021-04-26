@@ -106,4 +106,4 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 
 ### Related content
 
-{% include panels-eservices.html panels=site.data.hiring_employees_links %}
+{% include panels.html panels=site.data.hiring_employees_links %}

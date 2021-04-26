@@ -8,4 +8,4 @@ COVID-19 has caused severe economic disruptions and impacted business activity a
 
 Since exiting the Circuit Breaker, businesses have been allowed to resume activities in a phased manner. Here are some helpful resources for business owners to find the assistance you need and to ensure that business activities resume safely:
 
-{% include panels-covid.html panels=site.data.covid_links %}
+{% include panels.html panels=site.data.covid_links %}

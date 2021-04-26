@@ -34,4 +34,4 @@ Depending on your sector and business activity, there may be mandatory business 
 
 ### Related content
 
-{% include panels-eservices.html panels=site.data.essential_biz_reg_links %}
+{% include panels.html panels=site.data.essential_biz_reg_links %}

@@ -51,4 +51,4 @@ Learn more about them in our [Start guide](/start-a-business/protect-your-ideas/
 
 ### Related content
 
-{% include panels-eservices.html panels=site.data.protect_your_ideas_links %}
+{% include panels.html panels=site.data.protect_your_ideas_links %}

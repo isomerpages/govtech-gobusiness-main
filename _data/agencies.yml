@@ -1,194 +1,228 @@
 - title: Animal & Veterinary Service (AVS)
   description: Animal & Veterinary Service, a cluster of National Parks Board
-  link2: www.avs.gov.sg/feedback
+  url: www.avs.gov.sg/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Accounting and Corporate Regulatory Authority (ACRA)
   description: Business registration
-  link: +65 6248 6028
-  link2: www.acra.gov.sg/feedback
+  tel: +65 6248 6028
+  url: www.acra.gov.sg/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Civil Aviation Authority of Singapore (CAAS)
-  description: 
-  link: +65 6542 1122
-  link1: caas_ansp_ols@caas.gov.sg
+  description:
+  tel: +65 6542 1122
+  email: caas_ansp_ols@caas.gov.sg
 
 - title: Central Narcotics Bureau (CNB)
-  description: 
-  link: +65 6557 3229
-  link2: www.cnb.gov.sg/contact-us
+  description:
+  tel: +65 6557 3229
+  url: www.cnb.gov.sg/contact-us
+  url-new-tab: true
+  protocol: https
 
 - title: Central Provident Fund Board (CPFB)
   description: CPF contributions
-  link: +65 6220 2340
-  link2: www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index  
+  tel: +65 6220 2340
+  url: www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index
+  url-new-tab: true
+  protocol: https
 
 - title: Early Childhood Development Agency (ECDA)
   description: General Enquiries
-  link: +65 6735 9213
-  link1: contact@ecda.gov.sg
+  tel: +65 6735 9213
+  email: contact@ecda.gov.sg
 
 - title: Energy Market Authority (EMA)
   description: EMA Contact
-  link: +65 6835 8000
-  link1: ema_erl@ema.gov.sg
+  tel: +65 6835 8000
+  email: ema_erl@ema.gov.sg
 
 - title: Enterprise Singapore
   description: Call Centre - Rice
-  link: +65 6898 1800
-  link1: angela_liew@enterprisesg.gov.sg<br>hayati_taib@enterprisesg.gov.sg<br>safinah_samah@enterprisesg.gov.sg
+  tel: +65 6898 1800
+  email: angela_liew@enterprisesg.gov.sg, hayati_taib@enterprisesg.gov.sg, safinah_samah@enterprisesg.gov.sg
 
 - title: Enterprise Singapore
   description: Call Centre - Rubber
-  link: +65 6898 1800
-  link1: indriyanti_ismail@enterprisesg.gov.sg<br>vivian_sia@enterprisesg.gov.sg
+  tel: +65 6898 1800
+  email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
 
 - title: Housing & Development Board (HDB)
   description: For Commercial Properties Inquiry
-  link: 1800 866 3073
-  link2: www.hdb.gov.sg/efeedback
+  tel: 1800 866 3073
+  url: www.hdb.gov.sg/efeedback
+  url-new-tab: true
+  protocol: https
 
 - title: Housing & Development Board (HDB)
   description: For HDB Flats Inquiry
-  link: 1800 225 5432
-  link2: www.hdb.gov.sg/efeedback
+  tel: 1800 225 5432
+  url: www.hdb.gov.sg/efeedback
+  url-new-tab: true
+  protocol: https
 
 - title: Hotels Licensing Board (HLB)
   description: For Hotel Licence Inquiry
-  link: +65 6736 6622
-  link1: hlb_info@hlb.gov.sg
+  tel: +65 6736 6622
+  email: hlb_info@hlb.gov.sg
 
 - title: Health Sciences Authority (HSA)
   description: For Tobacco Retail Licence Inquiry
-  link: +65 6684 2031 / 2032
-  link1: hsa_trb@hsa.gov.sg
+  tel: +65 6684 2031 / 2032
+  email: hsa_trb@hsa.gov.sg
 
 - title: Infocomm and Media Development Authority Singapore (IMDA)
   description: Customer Service Hotline
-  link: 1800 478 5478
-  link2: www.imda.gov.sg/feedback
+  tel: 1800 478 5478
+  url: www.imda.gov.sg/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Infocomm and Media Development Authority Singapore (IMDA)
   description: Digital Solutions
-  link: +65 6377 3800
-  link1: info@imda.gov.sg 
+  tel: +65 6377 3800
+  email: info@imda.gov.sg
 
 - title: Intellectual Property Office of Singapore (IPOS)
   description: Intellectual properties (patents, trade marks, copyright, design)
-  link: +65 6339 8616
-  link1: ipos_pau@ipos.gov.sg<br>ipos_enquiry@ipos.gov.sg
+  tel: +65 6339 8616
+  email: ipos_pau@ipos.gov.sg, ipos_enquiry@ipos.gov.sg
 
 - title: Inland Revenue Authority of Singapore (IRAS)
   description: The Comptroller of Property Tax - Appraiser Licensing
-  link: +65 6351 2442 / 2413
-  link1: iras_pvs_tl2@iras.gov.sg
+  tel: +65 6351 2442 / 2413
+  email: iras_pvs_tl2@iras.gov.sg
 
 - title: Inland Revenue Authority of Singapore (IRAS)
   description: Taxation and GST
-  link2: www.iras.gov.sg/irashome/Contact-us/ 
+  url: www.iras.gov.sg/irashome/Contact-us/
+  url-new-tab: true
+  protocol: https
 
 - title: Land Transport Authority (LTA)
   description: Customer Service
-  link: 1800 - CALL LTA (1800 2255 582)
-  link1: LTA_L1@lta.gov.sg<br>lta_bus_licence@lta.gov.sg
+  tel: 1800 - CALL LTA (1800 2255 582)
+  email: LTA_L1@lta.gov.sg, lta_bus_licence@lta.gov.sg
 
 - title: Ministry of Culture, Community and Youth (MCCY)
   description: Customer Service
-  link: +65 6337 6597
-  link1: mccy_charities@mccy.gov.sg
+  tel: +65 6337 6597
+  email: mccy_charities@mccy.gov.sg
 
 - title: Ministry of Home Affairs (MHA)
   description: MHA Contact
-  link: +65 6478 1010
-  link1: MHA_FM_Permit@mha.gov.sg
+  tel: +65 6478 1010
+  email: MHA_FM_Permit@mha.gov.sg
 
 - title: Ministry of Law (MINLAW)
   description: MINLAW Customer Service Team
-  link: 1800-CALL-LAW (1800 2255 529)
-  link2: eservices.mlaw.gov.sg/enquiry/
+  tel: 1800-CALL-LAW (1800 2255 529)
+  url: eservices.mlaw.gov.sg/enquiry/
+  url-new-tab: true
+  protocol: https
 
 - title: Ministry of Education (MOE)
   description: Customer Service
-  link: +65 6872 2220
-  link1: moe_pss@moe.gov.sg
+  tel: +65 6872 2220
+  email: moe_pss@moe.gov.sg
 
 - title: Ministry of Manpower (MOM)
   description: Contact Centre
-  link: +65 6438 5122
-  link2: service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx
+  tel: +65 6438 5122
+  url: service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx
+  url-new-tab: true
+  protocol: https
 
 - title: Ministry of Manpower (MOM)
   description: Referral and placement returns from employment agencies
-  link: +65 6438 5122
-  link1: mom_ea_data@mom.gov.sg
+  tel: +65 6438 5122
+  email: mom_ea_data@mom.gov.sg
 
 - title: Ministry of Manpower (MOM)
   description: Hiring
-  link: +65 6438 5122
-  link2: www.mom.gov.sg/eservices
+  tel: +65 6438 5122
+  url: www.mom.gov.sg/eservices
+  url-new-tab: true
+  protocol: https
 
 - title: Ministry of Social and Family Development (MSF)
   description: MSF Contact
-  link1: MSF_RCRB@msf.gov.sg
+  email: MSF_RCRB@msf.gov.sg
 
 - title: Majlis Ugama Islam Singapura (MUIS)
   description: MUIS Contact
-  link: +65 6359 1199
-  link1: info@muis.gov.sg
-  link2: eservices.muis.gov.sg/ifaq/apps/feedback.aspx
+  tel: +65 6359 1199
+  email: info@muis.gov.sg
+  url: eservices.muis.gov.sg/ifaq/apps/feedback.aspx
+  url-new-tab: true
+  protocol: https
 
 - title: National Environment Agency (NEA)
   description: Call Centre
-  link: +65 6225 5632
-  link2: www.nea.gov.sg/corporate-functions/feedback
+  tel: +65 6225 5632
+  url: www.nea.gov.sg/corporate-functions/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: National Parks Board (NParks)
   description: Contact Centre
-  link2: www.nparks.gov.sg/feedback
+  url: www.nparks.gov.sg/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Public Transport Council (PTC)
   description: PTC Contact
-  link: +65 6354 9020
-  link1: ptc_office@ptc.gov.sg
+  tel: +65 6354 9020
+  email: ptc_office@ptc.gov.sg
 
 - title: Public Utilities Board (PUB)
   description: Written Approval for the Discharge of Trade Effluent Into the Public Sewer
-  link: +65 6517 2223 / 2201
-  link1: ahmad_al_rifaee_abdul_halim@pub.gov.sg<br>muhd_ammarsyakir_seno@pub.gov.sg<br>damien_zhao@pub.gov.sg
+  tel: +65 6517 2223 / 2201
+  email: ahmad_al_rifaee_abdul_halim@pub.gov.sg, muhd_ammarsyakir_seno@pub.gov.sg, damien_zhao@pub.gov.sg
 
 - title: Public Utilities Board (PUB)
   description: Plumber Licence
-  link: +65 6731 3357
-  link1: david_yew@pub.gov.sg
+  tel: +65 6731 3357
+  email: david_yew@pub.gov.sg
 
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
-  link: +65 6848 1439
-  
+  tel: +65 6848 1439
+
 - title: Singapore Food Agency (SFA)
   description: Contact Centre
-  link: +65 6805 2871
-  link2: csp.sfa.gov.sg/feedback
+  tel: +65 6805 2871
+  url: csp.sfa.gov.sg/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Police Force (SPF)
   description: Business Contact
-  link: +65 6835 0000
-  link1: SPF_Licensing_Feedback@spf.gov.sg
+  tel: +65 6835 0000
+  email: SPF_Licensing_Feedback@spf.gov.sg
 
 - title: Singapore Police Force (SPF)
   description: Road Closure Permit for Events
-  link: +65 6547 0000
-  link1: tp_roadclosurepermit@spf.gov.sg
+  tel: +65 6547 0000
+  email: tp_roadclosurepermit@spf.gov.sg
 
 - title: SkillsFuture Singapore Agency (SSG)
   description: SSG Contact
-  link: +65 6785 5785
-  link2: portal.ssg-wsg.gov.sg/
+  tel: +65 6785 5785
+  url: portal.ssg-wsg.gov.sg/
+  url-new-tab: true
+  protocol: https
 
 - title: Tripartite Alliance for Fair & Progressive Employment (TAFEP)
   description: Employment practices, tripartite guidelines and standards
-  link2: www.tal.sg/tafep/contact-us
+  url: www.tal.sg/tafep/contact-us
+  url-new-tab: true
+  protocol: https
 
 - title: Urban Redevelopment Authority (URA)
   description: Customer Service Hotline
-  link: +65 6223 4811
-  link1: ura_dcd@ura.gov.sg
+  tel: +65 6223 4811
+  email: ura_dcd@ura.gov.sg

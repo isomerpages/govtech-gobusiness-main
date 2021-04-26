@@ -1,15 +1,23 @@
 - title: Permissions and Manpower Declaration
   description: For businesses operating or resuming in Phase 3. Check your exemption application/business resumption status, and submit your manpower details here.
-  link: https://go.gov.sg/timelimitedexemption
+  url: go.gov.sg/timelimitedexemption
+  url-new-tab: true
+  protocol: https
+  text: Find Out More
 
 - title: Exemption Application
   description: Apply for your business to resume operating in Phase 3.
-  link: https://go.gov.sg/generalexemption
+  url: go.gov.sg/generalexemption
+  url-new-tab: true
+  protocol: https
+  text: Find Out More
 
 - title: Permitted Services
   description: List of permitted services allowed to resume operations in Phase 3.
-  link: /permittedlist/
+  url: /permittedlist/
+  text: Find Out More
 
 - title: Safe Management Requirements
   description: List of measures to ensure safety at the workplace.
-  link: /safemanagement/general/
+  url: /safemanagement/general/
+  text: Find Out More

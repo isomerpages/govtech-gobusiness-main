@@ -1,14 +1,18 @@
 - label: Run and Grow a Business
   title: About Gov Assist
   description: Learn about various government assistance schemes such as tax incentives, grants, loans and more.
-  link: /gov-assist/
+  url: /gov-assist/
+  text: Find Out More
 
 - label: e-Adviser
   title: e-Adviser for Government Assistance
   description: Get personalised recommendations for government assistance schemes you can apply for.
-  link: https://gaeadviser.gobusiness.gov.sg/?src=eservices_govassist_related
+  url: https://gaeadviser.gobusiness.gov.sg/?src=eservices_govassist_related
+  url-new-tab: true
+  text: Find Out More
 
 - label: Run and Grow a Business
   title: Productivity Solution Grant (PSG)
   description: Tax deductions and exemptions for businesses.
-  link: /productivity-solutions-grant/
+  url: /productivity-solutions-grant/
+  text: Find Out More

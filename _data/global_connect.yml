@@ -1,5 +1,7 @@
 - title: GlobalConnect@SBF
   description: 160 Robinson Road<br>#06-01 SBF Center, Singapore 068914
-  link: +65 6701 1133
-  link1: globalconnect@sbf.org.sg
-  link2: globalconnect.sbf.org.sg
+  tel: +65 6701 1133
+  email: globalconnect@sbf.org.sg
+  url: globalconnect.sbf.org.sg
+  url-new-tab: true
+  protocol: https
