@@ -3,86 +3,90 @@ title: Toolkits / programmes
 permalink: /gov-assist/toolkits-programmes/
 third_nav_title: Government Assistance
 accordion-a:
-  - title: Special Situation Fund for Startups (SSFS)
+  - title: A*STAR Collaborative Commercialization Marketplace (ACCM)
     content:  |
-      Provide financing support for promising startups based in Singapore, by investing private sector co-investors on a 1:1 basis.
+      With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
 
-      <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">Find out more</a>
+      <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find out more</a>
 
-  - title: Start up SG Equity
+  - title: APEC Cross Border Privacy Rules (CBPR) System
     content:  |
-      The government will co-invest with qualified 3rd party investors into eligible Singapore-based technology startups with IP and global market potential.
+      Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade.
 
-      <a href="https://www.startupsg.net/programmes/4895/startup-sg-equity" target="_blank">Find Out More</a>
+      <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find out more</a>
 
-  - title: Startup SG Founder
+  - title: bizSAFE
     content:  |
-      Startup SG Founder provides mentorship and startup capital grant of S$30,000 to first-time entrepreneurs with innovative business ideas. Startups are required to commit S$10,000 as co-matching fund to the grant.
+      bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security.
+      
+      <a href="https://www.wshc.sg/bizsafe" target="_blank">Find out more</a>
 
-      <a href="https://www.startupsg.net/programmes/4894/startup-sg-founder" target="_blank">Find Out More</a>
-
-  - title: Startup SG Tech
+  - title: Chief Technology Officer-as-a-Service (CTOaaS)<img src="/images/budget2021/budget_new.png">
     content:  |
-      Startup SG Tech supports Proof-of-Concept (POC) and Proof-of-Value (POV) for commercialisation of innovative technologies.
+      CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
 
-      <a href="https://www.startupsg.net/programmes/4897/startup-sg-tech" target="_blank">Find Out More</a>
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank">Find out more</a>
+
+  - title: Corporate Venture Launchpad (VCL)<img src="/images/budget2021/budget_new.png">
+    content:  |
+      CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
+
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
+
+  - title: CultureSAFE
+    content:  |
+      CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture.
+
+      <a href="https://www.wshc.sg/culturesafe" target="_blank">Find out more</a>
+      
+  - title: Digital Leaders Programme<img src="/images/budget2021/budget_new.png">
+    content:  |
+      The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
+
+      <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find out more</a>
+
+  - title: Directory of Digital Solutions for Safe Reopening
+    content:  |
+      This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
+
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find out more</a>    
+
+  - title: Senior Worker Early Adopter Grant (SWEAG)<img src="/images/budget2021/budget2021.png">
+    content:  |
+      Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes.
+
+      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+      
+  - title: Wage Credit Scheme<img src="/images/budget2021/budget_extended.png">
+    content:  |
+      No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
+
+      <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank">Find out more</a>    
 
 accordion-b:
-  - title: 2-Stage Innovation Grant (iGrant)<img src="/images/budget2021/budget_extended.png">
+  - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
     content:  |
-      Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
+      CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
 
-      <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank">Find Out More</a>
-      <br><br>
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank">Find out more</a>
 
-  - title: Accessibility Fund
+  - title: Corporate Venture Launchpad (VCL)<img src="/images/budget2021/budget_new.png">
     content:  |
-      Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
+      CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
 
-      <a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank">Find Out More</a>
-      <br><br>  
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>  
 
-  - title: Agriculture Productivity Fund (APF)
+  - title: Digital Leaders Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
+      The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
 
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
-      <br><br>
+      <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find out more</a>
 
-  - title: Artificial Intelligence and Data Analytics (AIDA) Grant
+  - title: Emerging Technology Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      AIDA supports projects that demonstrate adoption of artificial intelligence (AI) and data analytics (DA) techniques that achieve business objectives of strategy and decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+      The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Asian Financial Leaders Scheme (AFLS)
-    content:  |
-      AFLS helps financial institutes defray part of the costs of sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes.
-
-      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Aviation Development Fund (ADF)
-    content:  |
-      The ADF supports the development and growth of the aviation industry in Singapore, with a focus on raising airport productivity, building capabilities, and developing manpower.
-
-      <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Business Events in Singapore (BEiS)
-    content:  |
-      BEiS seeks to encourage the business events industry to anchor and grow quality events as well as catalyse the innovation of new content.  
-
-      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
-      <br><br>
-
-  - title: Business Improvement Fund (BIF)
-    content:  |
-      BIF aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness.  
-
-      <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-events-in-singapore-beis.html" target="_blank">Find Out More</a>
-      <br><br>
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
 ---
 
 ## Find relevant toolkits and programmes

@@ -5,6 +5,8 @@ permalink: /contact-us/agencies/
 
 ##  Agencies
 
-If you have specific queries such as licensing policies, status of the licence approval and clarifications on the licence submission, you can contact the respective Government agencies directly.
+For enquiries on specific matters related to starting a business, licences and permits, you may contact the relevant government agencies directly.
+
+Here is a list of their contact information and the types of enquiries each agency handles:
 
 {% include panels-agencies.html panels=site.data.agencies %}

@@ -5,7 +5,7 @@ third_nav_title: Key Steps to Start
 accordion-new:
   - title: Register a Sole Proprietorship/Partnership
     content: |
-      Here's what you need to know in order to register a Business (Sole Proprietorship/Partnership)
+      Here's what you need to know in order to register a Business (Sole Proprietorship/Partnership).
 
       **Application fee**
       - $100 for one year or $160 for three years (inclusive of registration and renewal fee)
