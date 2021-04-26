@@ -118,9 +118,69 @@ accordion-a:
       <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find out more</a>
   - title: Adopt Technology to Digitise My Business
     content:  |
-      CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
-
+      **A*STAR Collaborative Commercialization Marketplace (ACCM)**
+      <br>With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
+      
+      <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find out more</a>
+      
+      **APEC Cross Border Privacy Rules (CBPR) System**
+      <br>Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find out more</a>
+      
+      **Financial Management Toolkit**
+      <br>Self-help financial management tool to analyse your own financial management capabilities.
+      
+      <a href="https://smetoolkit.abs.org.sg" target="_blank">Find out more</a>
+      
+      **Marketing Toolkit**
+      <br>Self-help tool to improve your company's value proposition and learn how you can develop marketing strategies to drive competitiveness and sales.
+      
+      <a href="https://web.smu.edu.sg/spring/" target="_blank">Find out more</a>
+      
+      **Nationwide E-invoicing Initiative**
+      <br>The nationwide E-invoicing network helps businesses improve efficiency, reduce cost, enjoy faster payment and stay green at the same time.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework" target="_blank">Find out more</a>
+      
+      **Overseas Market Workshops**
+      <br>Provides a deeper understanding of country-specific laws/regulations in areas such as financing and manpower. Firm can nominate employees interested in training for opportunities in international job roles.
+      
+      <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/talent-attraction-and-development/leadership-development/overseas-market-workshops" target="_blank">Find out more</a>
+      
+      **Peppol-Ready Accounting/ERP Solution Providers**
+      <br>Peppol Ready Solutions are solutions such as Accounting (AR and/or AP), ERP and SCM which are connected to the Peppol network where business users can send and receive e-invoices through the Peppol network.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework/Peppol-Ready-Accounting-ERP-Solution-Providers" target="_blank">Find out more</a>
+      
+      **Smart Industry Readiness Index (SIRI)**
+      <br>SIRI comprises a suite of frameworks and tools to help manufacturers - regardless of their size and industry - start, scale and sustain their manufacturing transformation journeys.
+      
+      <a href="https://www.siri.gov.sg" target="_blank">Find out more</a>
+      
+      **SME Digital Tech Hub**
+      <br>The SME Digital Tech Hub is a dedicated hub that provides specialist digital technology advisory to SMEs with more advanced digital needs, such as data analytics and cybersecurity.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/sme-digital-tech-hub" target="_blank">Find out more</a>
+      
+      **Wireless@Sg (Wireless@Sg for Business)**
+      <br>Businesses and venue owners who want to provide free Wi-Fi to their patrons are encouraged to partner operators to extend Wireless@SG service within their premises on commercial arrangements.
+      
+      <a href="https://www.imda.gov.sg/programme-listing/Wireless-At-SG/Wireless-at-SG-for-Business" target="_blank">Find out more</a>
+      
+      **Chief Technology Officer-as-a-Service (CTOaaS)<img src="/images/budget2021/budget_new.png">**
+      <br>CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
+      
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank">Find out more</a>
+      
+      **Emerging Technology Programme<img src="/images/budget2021/budget_new.png">**
+      <br>The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
+      
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
+  - title: Conduct R&D or to Develop/Test New Products and Services
+    content:  |
+      **A*STAR Collaborative Commercialization Marketplace (ACCM)**
+      <br>With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
 
 accordion-b:
   - title: A*STAR Tech Access
