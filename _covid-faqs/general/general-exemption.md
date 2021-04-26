@@ -40,7 +40,7 @@ accordion-new:
       You can contact the Corppass helpdesk at 6643 0577 or email <a href = "mailto: support@Corppass.gov.sg">support@Corppass.gov.sg</a>.
 ---
 
-### General Exemption
+### General exemption
 
 {% include accordion-new.html %}
 
