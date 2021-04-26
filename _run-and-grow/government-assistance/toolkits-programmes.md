@@ -6,12 +6,12 @@ accordion-a:
   - title: A*STAR Collaborative Commercialization Marketplace (ACCM)
     content:  |
       With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
-
+      
       <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find Out More</a>
 
   - title: APEC Cross Border Privacy Rules (CBPR) System
     content:  |
-      Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade.
+      Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade. p
 
       <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find Out More</a>
 
