@@ -113,7 +113,7 @@ accordion-new:
 
 Decide on a name for your business and use our e-Adviser for Starting a Business to:
 
-- check if there are similar business names or trade marks, and if it's available as a web domain name and social media username on Facebook/Instagram/YouTube/Twitter.
+- check if there are similar business names or trade marks, and if it's available as a username on Facebook/Instagram/YouTube/Twitter.
 - receive a guide and find out what additional approvals are required to get your business started.
 
 {% include button.html text="Go to e-Adviser for Starting a Business" src="https://eadviser.g2b.sg/startabusiness" type="primary" %}
