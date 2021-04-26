@@ -4,8 +4,8 @@ permalink: /covid/
 ---
 ## Overview
 
-The global COVID-19 pandemic has affected the economy and many businesses in Singapore. The Government is currently allowing businesses to resume gradually in phases. As of 28 December 2020, we are currently in Phase 3.
+COVID-19 has caused severe economic disruptions and impacted business activity across various sectors. The Government will continue to work closely with our businesses, workers and industry partners to bolster our economic resilience and seek new opportunities amid the adversity. Together, we will overcome this crisis and emerge stronger.
 
-Find the government assistance you need to get through these trying times with GoBusiness. Here are some helpful resources for business owners:
+Since exiting the Circuit Breaker, businesses have been allowed to resume activities in a phased manner. Here are some helpful resources for business owners to find the assistance you need and to ensure that business activities resume safely:
 
 {% include panels-covid.html panels=site.data.covid_links %}

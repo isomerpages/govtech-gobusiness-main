@@ -4,7 +4,7 @@ permalink: /e-services/business-opportunities/
 third_nav_title: Growth and Expansion
 ---
 
-## Business opportunities test
+## Business opportunities
 
 Tap on government initiatives and resources to find new growth opportunities for your business. Here is a list of relevant e-Services.
 
@@ -25,5 +25,3 @@ Tap on government initiatives and resources to find new growth opportunities for
 ### Related content
 
 {% include panels-eservices.html panels=site.data.gebiz_alerts_links %}  
-
-
