@@ -51,17 +51,35 @@ accordion-a:
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find out more</a>    
 
-  - title: Senior Worker Early Adopter Grant (SWEAG)<img src="/images/budget2021/budget2021.png">
+  - title: Emerging Technology Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes.
+      The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
-      <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
       
-  - title: Wage Credit Scheme<img src="/images/budget2021/budget_extended.png">
+  - title: Financial Management Toolkit
     content:  |
-      No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
+      Self-help financial management tool to analyse your own financial management capabilities.
 
-      <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank">Find out more</a>    
+      <a href="https://smetoolkit.abs.org.sg" target="_blank">Find out more</a>
+  
+  - title: Global Ready Talent Programme (For Companies)
+    content:  |
+      GRT aims to build a pipeline of global-ready talent for Singapore enterprises through exposing more Singaporeans to overseas work/internships opportunities. Receive up to 70% funding support on qualifying costs.
+
+      <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/talent-attraction-and-development/internships/global-ready-talent-programme-for-companies/overview" target="_blank">Find out more</a>
+
+  - title: HR Diagnostic Tool
+    content:  |
+      Upon completion of the diagnosis, you will receive an analysis of your company's current HR Maturity level and identify the areas for improvement.
+
+      <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/core-capabilities/human-capital-development/hr-diagnostic-tool" target="_blank">Find out more</a>
+
+  - title: HR Portal
+    content:  |
+      HR Portal provides a wide range of HR resources to support HR operations. Resources provided are free and assessable via a one-time registration.
+
+      <a href="https://www.hrportal.sg" target="_blank">Find out more</a>
 
 accordion-b:
   - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
