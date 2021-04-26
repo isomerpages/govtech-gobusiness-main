@@ -59,7 +59,7 @@ accordion-new:
 
       Home-based services that involve customers entering one’s home for a prolonged period e.g. private dining and hairdressing services must deploy SafeEntry.
 
-  - title: Can I allow people offering home-based services into my home? For e.g. repairman to fix water pipes / electricity / cable / air-conditioning issues / part-time cleaner / gardener / tuition teacher/ day-time nanny caring for my child? Can they visit more than 2 households per day?
+  - title: Can I allow people offering home-based services into my home? For example, repairman to fix water pipes / electricity / cable / air-conditioning issues / part-time cleaner / gardener / tuition teacher/ day-time nanny caring for my child? Can they visit more than 2 households per day?
     content: |
       Yes, these are home-based services that are allowed. They will count as part of the eight persons cap on visitors per day. Service providers are required to wear masks and maintain a one metre distancing.
 
