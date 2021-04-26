@@ -1,6 +1,7 @@
 ---
 title: For Marine & offshore and process sectors only
 permalink: /covid-faqs/marine-offshore-process
+third_nav_title: Manpower Declaration
 accordion-new:
   - title: Is there a guide on how to declare / submit my manpower details?
     content: |

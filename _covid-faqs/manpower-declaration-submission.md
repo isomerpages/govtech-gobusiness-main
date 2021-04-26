@@ -1,6 +1,7 @@
 ---
 title: Manpower declaration / submission
 permalink: /covid-faqs/manpower-declaration-submission
+third_nav_title: Manpower Declaration
 accordion-new:
   - title: Is there a guide on how to declare / submit my manpower details?
     content: |
