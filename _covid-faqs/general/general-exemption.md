@@ -25,7 +25,7 @@ accordion-new:
     content: |
       Please allow at least 2-3 days for your application to be processed.
 
-      If you are still unable to view your application status after 3 days, please write to <Covid_GoBusiness@mti.gov.sg> with your company name, UEN and the reference number for your application.
+      If you are still unable to view your application status after 3 days, please write to <covid_gobusiness@mti.gov.sg> with your company name, UEN and the reference number for your application.
 
   - title: I am self-employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?
     content: |
@@ -33,11 +33,11 @@ accordion-new:
 
   - title: I have an approved General Exemption application. Is there any change to the approval granted to operate my business?
     content: |
-      There may be conditions imposed on your approval. You may login to GoBusiness <a href="https://www.gobusiness.gov.sg/exemptions/login" target="_blank">here</a> to check your exemption application for any conditions to your approval.
+      There may be conditions imposed on your approval. You may login to GoBusiness [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"} to check your exemption application for any conditions to your approval.
 
   - title: I am having problems logging into Corppass. What should I do?
     content: |
-      You can contact the Corppass helpdesk at 6643 0577 or email <a href = "mailto: support@Corppass.gov.sg">support@Corppass.gov.sg</a>.
+      You can contact the Corppass helpdesk at 6643 0577 or email <support@corppass.gov.sg>.
 ---
 
 ### General exemption
