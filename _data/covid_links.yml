@@ -1,12 +1,14 @@
 - title: Permissions and Manpower Declaration
   description: For businesses operating or resuming in Phase 3. Check your exemption application/business resumption status, and submit your manpower details here.
   url: go.gov.sg/timelimitedexemption
+  url-new-tab: true
   protocol: https
   text: Find Out More
 
 - title: Exemption Application
   description: Apply for your business to resume operating in Phase 3.
   url: go.gov.sg/generalexemption
+  url-new-tab: true
   protocol: https
   text: Find Out More
 
