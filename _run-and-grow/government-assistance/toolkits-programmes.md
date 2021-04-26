@@ -111,7 +111,25 @@ accordion-a:
 
       <a href="https://www.enterprisejobskills.sg/content/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning.html" target="_blank">Find out more</a>
 
+  - title: Nationwide E-invoicing Initiative
+    content:  |
+      The nationwide E-invoicing network helps businesses improve efficiency, reduce cost, enjoy faster payment and stay green at the same time.
 
+      <a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework" target="_blank">Find out more</a>
+
+  - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
+
+      <a href="https://www.openinnovation.sg" target="_blank">Find out more</a>
+      
+  - title: Overseas Market Workshops
+    content:  |
+      Provides a deeper understanding of country-specific laws/regulations in areas such as financing and manpower. Firm can nominate employees interested in training for opportunities in international job roles.
+
+      <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/talent-attraction-and-development/leadership-development/overseas-market-workshops" target="_blank">Find out more</a>
+      
+      
 accordion-b:
   - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
     content:  |
