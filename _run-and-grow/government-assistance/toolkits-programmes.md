@@ -185,29 +185,71 @@ accordion-a:
       <a href="https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=CL2014081201195&tabId=C-2014090901062" target="_blank">Find out more</a>
       
 accordion-b:
-  - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
+  - title: A*STAR Tech Access
     content:  |
-      CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
+      Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
 
-      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank">Find out more</a>
-
-  - title: Corporate Venture Launchpad (VCL)<img src="/images/budget2021/budget_new.png">
+      <a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank">Find out more</a>
+  - title: Accountancy Industry Digital Plan
     content:  |
-      CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
+      A step-by-step guide for local Small and Medium Practices (SMPs) in the Accountancy industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
-      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>  
-
-  - title: Digital Leaders Programme<img src="/images/budget2021/budget_new.png">
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Accountancy-IDP" target="_blank">Find out more</a>  
+  - title: Accreditation@SGD
     content:  |
-      The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
+      Get accredited to establish credentials and position them as qualified contenders to government and large enterprise buyers
 
-      <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find out more</a>
-
-  - title: Emerging Technology Programme<img src="/images/budget2021/budget_new.png">
+      <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd" target="_blank">Find out more</a>
+  - title: Construction and Facilities Management Industry Digital Plan
     content:  |
-      The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
+      A step-by-step guide for local SMEs in the Construction and Facilities Management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
-      <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank">Find out more</a>
+  - title: Digital Services Lab
+    content:  |
+      Through working with multiple industry stakeholders, DSL co-develops solutions using emerging technologies, with tech providers deploying them as market-ready solutions.
+
+      <a href="https://www.imda.gov.sg/programme-listing/digital-services-lab" target="_blank">Find out more</a>
+  - title: Environmental Services Industry Digital Plan
+    content:  |
+      A step-by-step guide for local SMEs in the Environmental Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
+
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/environmental-services-idp" target="_blank">Find out more</a>
+  - title: Food Services Industry Digital Plan
+    content:  |
+      A step-by-step guide for local SMEs in the Food Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
+
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/food-services-idp" target="_blank">Find out more</a>
+  - title: Hotel Industry Digital Plan
+    content:  |
+      A guide for local SMEs in the Hotel industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Hotel-IDP" target="_blank">Find out more</a>
+  - title: Job Redesign for the Cleaning Sector
+    content:  |
+      Cleaning service providers and buyers can access a list of easy-to-adopt solutions to be improve productivity, attract and retain workers and improve service outcomes.
+
+      <a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/cleaning/job-redesign-programme-for-environmental-services-cleaning-sector.html" target="_blank">Find out more</a>
+  - title: Job Redesign for the Food Services Sector
+    content:  |
+      A guide for Food Services companies in implementing Job Redesign through 5 simple steps.
+
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-food-services-sector.html" target="_blank">Find out more</a>
+  - title: Job Redesign for the Hotel Sector
+    content:  |
+      This toolkit provides resources and templates to guide hotels in implementing Job Redesign.
+
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/hotel-job-redesign-initiative.html" target="_blank">Find out more</a>
+  - title: Job Redesign for the Retail Sector
+    content:  |
+      A guide for Retail companies to incorporate Job Redesign through simple steps when undergoing business transformation.
+
+      <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-retail-sector.html" target="_blank">Find out more</a>
+  - title: Logistics Industry Digital Plan
+    content:  |
+      A guide for local SMEs in the Logistics industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+
+      <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/logistics-idp" target="_blank">Find out more</a>
 ---
 
 ## Find relevant toolkits and programmes
