@@ -5,7 +5,7 @@ third_nav_title: Key Steps to Start
 accordion-new:
   - title: Apply for Business Name - Sole Proprietorship/Partnership
     content: |
-      Here's what you need to know to apply for a business name for a Sole Proprietorship or Partnership.
+      Here's what you need to know to apply for a business (Sole Proprietorship/Partnership) name.
 
       **Application Fee**
       - $15

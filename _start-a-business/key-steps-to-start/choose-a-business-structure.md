@@ -66,6 +66,7 @@ There are 2 ways to find out which business structure suits you best:
 
 {% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.g2b.sg/businessstructure" type="primary" %}
 
+
 2. Download a [Business Structure Comparison Table](/images/start/Types_of_Business_Entities_Apr21.pdf){:target="_blank"} to find out the differences amongst the different business structures.
 
 ---
