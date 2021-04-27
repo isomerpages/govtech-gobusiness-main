@@ -1,6 +1,6 @@
 ---
 title: For marine & offshore and process sectors only
-permalink: /covid-faqs/marine-offshore-process
+permalink: /covid-faqs/manpower-declaration/marine-offshore-process
 third_nav_title: Manpower Declaration
 accordion-new:
   - title: Why is the manpower submission requirement for Marine & Offshore and Process sectors different?

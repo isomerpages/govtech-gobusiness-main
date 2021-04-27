@@ -1,6 +1,6 @@
 ---
-title: Sector-Specific Queries
-permalink: /covid-faqs/sector-specific
+title: Sector specific
+permalink: /covid-faqs/resumption-biz-activities-phase12/sector-specific
 accordion-new:
   - title: Are non-corporate entities (e.g. clubs, societies, charities, Social Service Agencies, co-operative societies) also allowed to resume work-related events from 28 Sep?
     content: |
@@ -66,7 +66,7 @@ accordion-new:
       Limiting visits to two other households per day applies to social visits, and does not apply to those who need to visit multiple households in the course of business or employment.
 ---
 
-### Sector-Specific Queries
+### Sector specific
 
 {% include accordion-new.html %}
 

@@ -1,6 +1,6 @@
 ---
 title: General information on Safe Management Measures
-permalink: /covid-faqs/safe-management-measures
+permalink: /covid-faqs/resumption-biz-activities-phase12/safe-management-measures
 accordion-new:
   - title: What are the key changes for Safe Management Measures at the workplace that will take effect from 5 April 2021?
     content: |

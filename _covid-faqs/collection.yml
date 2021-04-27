@@ -5,9 +5,9 @@ collections:
       - general/.keep
       - general/general-exemption.md
       - general/safe-distancing-ambassadors.md
-      - resumption-of-business-activities.md
-      - implementing-safe-management-measures.md
-      - returning-to-workplaces.md
-      - sector-specific-queries.md
+      - resumption-biz-activities-phase123/resumption-of-operations.md
+      - resumption-biz-activities-phase12/implementing-safe-management-measures.md
+      - resumption-biz-activities-phase12/returning-to-workplaces.md
+      - resumption-biz-activities-phase12/sector-specific.md
       - manpower-declaration/manpower-declaration-submission.md
-      - manpower-declaration/marine-offshore-process.md  
+      - manpower-declaration/marine-offshore-process.md

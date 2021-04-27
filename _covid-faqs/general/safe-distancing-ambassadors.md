@@ -1,6 +1,6 @@
 ---
 title: Safe Distancing Ambassadors
-permalink: /covid-faqs/ambassadors
+permalink: /covid-faqs/general/ambassadors
 third_nav_title: General
 accordion-new:
   - title: How do we identify Safe Distancing Ambassadors from ESG and STB?

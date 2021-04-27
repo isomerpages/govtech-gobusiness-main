@@ -1,6 +1,6 @@
 ---
 title: Take Care of Your Workers
-permalink: /covid-faqs/returning-workplace
+permalink: /covid-faqs/resumption-biz-activities-phase12/returning-workplace
 accordion-new:
   - title: Are companies that have resumed operations required to ensure that their employees work from home?
     content: |
