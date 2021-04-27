@@ -1,6 +1,7 @@
 ---
 title: Take Care of Your Workers
 permalink: /covid-faqs/resumption-biz-activities-phase12/returning-workplace
+third_nav_title: Resumption of Business Activities (Phases One and Two)
 accordion-new:
   - title: Are companies that have resumed operations required to ensure that their employees work from home?
     content: |

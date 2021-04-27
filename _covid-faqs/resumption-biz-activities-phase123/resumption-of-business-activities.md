@@ -1,6 +1,7 @@
 ---
 title: Resumption of Business Activities (Phases One, Two and Three)
 permalink: /covid-faqs/resumption-biz-activities-phase123/resumption-of-operations
+third_nav_title: Resumption of Business Activities (Phases One, Two and Three)
 accordion-new:
   - title: How do I know if my company is allowed to resume operations?
     content: |

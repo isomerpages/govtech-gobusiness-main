@@ -1,6 +1,7 @@
 ---
 title: Sector specific
 permalink: /covid-faqs/resumption-biz-activities-phase12/sector-specific
+third_nav_title: Resumption of Business Activities (Phases One and Two)
 accordion-new:
   - title: Are non-corporate entities (e.g. clubs, societies, charities, Social Service Agencies, co-operative societies) also allowed to resume work-related events from 28 Sep?
     content: |
