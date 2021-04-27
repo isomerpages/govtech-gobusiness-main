@@ -1,6 +1,6 @@
 ---
 title: Food and retail
-permalink: /covid-faqs/for-sector-specific-queries/healthcare-and-social-services
+permalink: /covid-faqs/for-sector-specific-queries/food-and-retail
 third_nav_title: For Sector-Specific Queries
 accordion-new:
   - title: When will TraceTogether-only SafeEntry (ToS) be implemented?

@@ -41,7 +41,7 @@ accordion-new:
 
   - title: Can TeamSG athletes return to training?     
     content: |        
-      Yes. All organised trainings and exercise are permitted in Phase Three, but groups must be kept to no more than eight persons. An additional coach is allowed and will not be part of the group size of eight. Safe management measures must be adhered to at all times and there must be no socialising before or after the training session. Masks must be worn when not engaged in strenuous activities.   
+      Yes. All organised trainings and exercise are permitted in Phase Three, but groups must be kept to no more than eight persons. An additional coach is allowed and will not be part of the group size of eight. Safe management measures must be adhered to at all times and there must be no socialising before or after the training session. Masks must be worn when not engaged in strenuous activities.
 ---
 
 ### Sport & recreational facility operators & sport, physical exercise & activity administrators
