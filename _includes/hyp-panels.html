@@ -98,6 +98,13 @@
     width: 16px !important;
     margin: unset !important;
   }
+
+    @media (max-width: 760px) {
+        .panel {
+        width: 339px;
+        height: auto;
+      }
+    }
 </style>
 
 {% for panel in {{include.panels}} %}

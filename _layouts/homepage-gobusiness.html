@@ -215,7 +215,7 @@ layout: skeleton
       margin-bottom: 40px;
     }
 
-    .panels {
+    .panels-container {
       display: grid;
       grid-gap: 20px;
       grid-template-columns: repeat(3, 366px);
@@ -418,7 +418,7 @@ layout: skeleton
         background-image: none;
       }
 
-      .panels {
+      .panels-container {
         justify-content: start;
         overflow: scroll;
         margin: 0 40px;
@@ -426,7 +426,7 @@ layout: skeleton
         scrollbar-width: none;
       }
 
-      .panels::-webkit-scrollbar {
+      .panels-container::-webkit-scrollbar {
         display: none;
       }
     }
@@ -521,15 +521,10 @@ layout: skeleton
         margin: 20px 16px 40px 16px;
       }
 
-      .panels {
+      .panels-container {
         grid-template-columns: 1fr;
         justify-items: center;
         margin: 0 auto;
-      }
-
-      .panel {
-        width: 339px !important;
-        height: 394px !important;
       }
 
       .gobizmove-content {
@@ -719,7 +714,7 @@ layout: skeleton
         </p>
       </div>
 
-      <div class="panels">
+      <div class="panels-container">
         {% include hyp-panels.html panels=site.data.hyp-panels-home.panels %}
       </div>
 
