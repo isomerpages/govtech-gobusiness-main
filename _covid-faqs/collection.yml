@@ -19,7 +19,8 @@ collections:
       - support-and-relief-measures/foreign-worker-levy.md
       - time-limited-exemption.md
       - for-non-permitted-services.md
-      - support-and-relief-measures/.keep
-      - support-and-relief-measures/education.md
-      - support-and-relief-measures/food-and-retail.md
-      - support-and-relief-measures/healthcare-and-social-services.md        
+      - for-sector-specific-queries/.keep
+      - for-sector-specific-queries/education.md
+      - for-sector-specific-queries/food-and-retail.md
+      - for-sector-specific-queries/healthcare-and-social-services.md
+      - for-sector-specific-queries/infocomm-and-media
