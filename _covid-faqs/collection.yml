@@ -14,3 +14,6 @@ collections:
       - manpower-declaration/.keep
       - manpower-declaration/manpower-declaration-submission.md
       - manpower-declaration/marine-offshore-process.md
+      - support-and-relief-measures/.keep
+      - support-and-relief-measures/jobs-support-scheme.md
+      - support-and-relief-measures/foreign-worker-levy.md  
