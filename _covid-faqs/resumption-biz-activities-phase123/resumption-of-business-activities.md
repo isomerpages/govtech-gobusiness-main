@@ -1,5 +1,5 @@
 ---
-title: Resumption of Business Activities (Phases One, Two and Three)
+title: Resumption of operations
 permalink: /covid-faqs/resumption-biz-activities-phase123/resumption-of-operations
 third_nav_title: Resumption of Business Activities (Phases One, Two and Three)
 accordion-new:
