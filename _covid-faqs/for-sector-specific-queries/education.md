@@ -96,7 +96,7 @@ accordion-new:
 
       -	Enhanced rental waivers to support tenants – under the COVID-19 (Temporary Measures) Act, tenants who are unable to pay rent and serve a notice for relief will have their rental payments suspended for up to 6 months, and leases cannot be terminated by landlords for non-payment of rent.
 
-      For more information, please refer to <http://www.singaporebudget.gov.sg> and the [Ministry of Law website](http://www.mlaw.gov.sg){:target="_blank"}.
+      For more information, please refer to <http://www.singaporebudget.gov.sg>{:target="_blank"} and the [Ministry of Law website](http://www.mlaw.gov.sg){:target="_blank"}.
 
 ---
 

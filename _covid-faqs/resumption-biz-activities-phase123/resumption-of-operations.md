@@ -13,7 +13,7 @@ accordion-new:
     content: |
       The Multi-Ministry Taskforce (MTF) announced on 19 May that we will exit the Circuit Breaker and resume activities in a phased manner from 2 June to minimise the risk of a resurgence in COVID-19 community transmission. In Phase One starting from 2 June, the MTF gradually allowed more workers to return to work, starting with businesses that operate in settings with lower transmission risks, or that do not require interactions with large groups of people. In Phase Two starting from 19 June, we allowed the resumption of a broad range of activities, including the reopening of physical outlets of retail businesses, as well as the resumption of food and beverage dine-in, personal health and wellness, and home-based services.
 
-      Before resuming activities, businesses must comply with the requirements for [Safe Management Measures](/safemanagement/general/){:target="_blank"} and any sector-specific requirements which apply to them.
+      Before resuming activities, businesses must comply with the requirements for [Safe Management Measures](/safemanagement/general/) and any sector-specific requirements which apply to them.
 
   - title: If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?
     content: |
