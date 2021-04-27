@@ -3,7 +3,7 @@ title: Register your business
 permalink: /start-a-business/register-your-business/
 third_nav_title: Key Steps to Start
 accordion-new:
-  - title: Register a Sole Proprietorship/Partnership
+  - title: Register a Business (Sole Proprietorship/Partnership)
     content: |
       Here's what you need to know in order to register a Business (Sole Proprietorship/Partnership).
 
@@ -13,13 +13,14 @@ accordion-new:
 
       **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid
-      - May take 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14 to 60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
       - All owners are required to clear their outstanding Medisave liabilities with CPF Board
       - The owner(s) must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass or Employment Pass (EP) Holder
       - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
+      - All owner(s) or authorised representatives must endorse the application before payment can be made
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
 
       **Information/documents required**
@@ -32,12 +33,12 @@ accordion-new:
       Here's what you need to know in order to register a Limited Partnership.
 
       **Application fee**
-      - $100.00 for one year or $160 for three years (inclusive of registration and renewal fee)
-      - Additional $40.00 for provision of each Alternate Address (optional)
+      - $100 for one year or $160 for three years (inclusive of registration and renewal fee)
+      - Additional $40 for provision of each Alternate Address (optional)
 
       **Average processing time**
       - Usually approved within 15 minutes after registration fee is paid.
-      - May take 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14 to 60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
@@ -45,7 +46,8 @@ accordion-new:
       - All partners are required to clear their outstanding Medisave liabilities with CPF Board
       - The partners must be either a Singapore Citizen, Singapore Permanent Resident or an EntrePass or Employment Pass (EP) Holder
       - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
-      - Alternatively, if all the General Partners are not residing in Singapore, a local manager must be appointed 
+      - Alternatively, if all the General Partners are not residing in Singapore, a local manager must be appointed
+      - All partners and the local manager (if applicable) must endorse the application before payment can be made
       - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
 
       **Information/documents required**
@@ -89,7 +91,7 @@ accordion-new:
 
       **Average Processing Time**
       - Usually approved within 15 minutes after registration fee is paid
-      - May take 14-60 days if the application needs to be reviewed by Referral Authorities
+      - May take 14 to 60 days if the application needs to be reviewed by Referral Authorities
 
       **Pre-requisites**
       - All position holders must be at least 18 years old
