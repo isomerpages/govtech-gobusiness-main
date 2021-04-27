@@ -64,7 +64,7 @@ accordion-a:
     content: |
       Because public heath remains our priority, we will limit the number of Business Travel Passes in the pilot phase and carefully monitor the public health outcomes in this phase.
 
-accordion-a:
+accordion-b:
   - title: What are the health protocols and safeguards for this travel pass?
     content: |    
       -	Travellers on the pilot will be required to submit a controlled itinerary of their meetings and activities while abroad, including the contacts they meet and venues they go to, and must adhere strictly to this controlled itinerary. Travellers who leave Singapore without an approved controlled itinerary, will be required to serve a 14-day SHN or SHN+ upon arrival into Singapore.
