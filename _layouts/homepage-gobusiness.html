@@ -5,18 +5,18 @@ layout: skeleton
 <body>
   <style>
     /* Desktop */
-    .button-container {
+    .home-content .button-container {
       width: fit-content;
       margin: 40px auto 60px auto;
     }
 
-    .section-1 {
+    .home-content .section-1 {
       position: relative;
       width: 100vw;
       height: 350px;
     }
 
-    .hero-container {
+    .home-content .hero-container {
       width: 100%;
       height: 100%;
       position: absolute;
@@ -28,7 +28,7 @@ layout: skeleton
       background-repeat: no-repeat;
     }
 
-    .cta-container {
+    .home-content .cta-container {
       position: relative;
       top: 62px;
       display: flex;
@@ -36,14 +36,14 @@ layout: skeleton
       text-align: center;
     }
 
-    .cta-container>h1 {
+    .home-content .cta-container>h1 {
       text-align: center;
       letter-spacing: -1px;
       color: #ffffff;
       text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
     }
 
-    .cta-container>p {
+    .home-content .cta-container>p {
       font-size: 18px;
       line-height: 28px;
       text-align: center;
@@ -52,12 +52,12 @@ layout: skeleton
       margin-bottom: 23px;
     }
 
-    .cta-container>a {
+    .home-content .cta-container>a {
       display: block;
       margin: 0 auto;
     }
 
-    .cta-container>a>button {
+    .home-content .cta-container>a>button {
       padding: 12px 24px;
       background: #037e8a;
       border-radius: 3px;
@@ -67,7 +67,7 @@ layout: skeleton
       cursor: pointer;
     }
 
-    .services-container {
+    .home-content .services-container {
       z-index: 1;
       bottom: 0;
       background-color: #ffffff;
@@ -83,7 +83,7 @@ layout: skeleton
       padding: 0 30px;
     }
 
-    .service {
+    .home-content .service {
       display: grid;
       justify-items: center;
       text-align: center;
@@ -92,103 +92,134 @@ layout: skeleton
       grid-template-rows: 40px 44px;
     }
 
-    .service:hover {
+    .home-content .service:hover {
       background-color: #EEF0F2;
     }
 
-    .service:active {
+    .home-content .service:active {
       background-color: #DBDFE4;
     }
 
-    .service:focus {
+    .home-content .service:focus {
       outline: 2px solid #1C8B95;
       background-color: #DBDFE4;
     }
 
-    .service>p {
+    .home-content .service>p {
       font-weight: 600;
-      font-size: 14px;
-      line-height: 22px;
+      font-size: 16px;
+      line-height: 24px;
+      letter-spacing: 0;
+      font-family: hknova-semibold;
       text-align: center;
       color: #161a1d;
       margin-top: 11.75px;
     }
 
-    .section-2 {
+    .home-content .section-2 {
       background-color: #f0f4f6;
       width: 100vw;
       height: auto;
       padding-bottom: 60px;
     }
 
-    .popular-group {
+    .home-content .popular-group {
       display: flex;
       justify-content: center;
       align-items: center;
       padding-top: 20px;
     }
 
-    .popular-group>p:first-of-type {
+    .home-content .popular-group>p:first-of-type {
       font-weight: bold;
-      font-size: 14px;
-      line-height: 22px;
+      font-size: 16px;
+      line-height: 24px;
       color: #484848;
     }
 
-    .popular-group>div {
+    .home-content .popular-group>div {
       margin: 5px 10px;
     }
 
-    .popular-group>div>a>p {
+    .home-content .popular-group>div>a>p {
       font-style: normal;
       font-weight: normal;
-      font-size: 14px;
-      line-height: 22px;
+      font-size: 16px;
+      line-height: 24px;
       color: #484848;
     }
 
-    .business-container {
+    .home-content .popular-group>div>a::after {
+      color: #484848;
+    }
+
+    .home-content .business-container {
       display: grid;
       grid-template-columns: 580px 580px;
-      column-gap: 50px;
+      column-gap: 5vw;
       justify-content: center;
       justify-items: center;
       margin-top: 64px;
     }
 
-    .business-container>div {
+    .home-content .business-container>div {
       display: flex;
       flex-direction: column;
     }
 
-    .business-container>div>h2 {
+    .home-content .business-container>div>h3 {
       font-family: hknova-regular;
       font-style: normal;
-      font-weight: bold;
-      font-size: 32px;
-      line-height: 36px;
+      font-weight: 600;
+      font-size: 28px;
+      line-height: 35px;
+      letter-spacing: 0;
       text-align: center;
-      letter-spacing: -1px;
       color: #037e8a;
-      margin-top: 34.65px;
-      margin-bottom: 10px;
+      margin-top: 35.65px;
+      margin-bottom: 16px;
     }
 
-    .business-container>div>p {
+    .home-content .business-container>div>p {
       font-style: normal;
-      font-weight: normal;
-      font-size: 16px;
-      line-height: 24px;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
       text-align: center;
       color: #484848;
     }
 
-    .section-3 {
+    .home-content .business-container>div>p>a {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      text-align: center;
+      margin: 0;
+      color: #2A6EBB;
+      text-decoration: underline;
+    }
+
+    .home-content .business-container>div>p>a:hover {
+      text-decoration-line: underline;
+      color: #084E8A;
+    }
+
+    .home-content .business-container>div>p>a:visited {
+      color: #89579B;
+    }
+
+    .home-content .business-container>div>p>a:visited:hover {
+      text-decoration-line: underline;
+      color: #521B88;
+    }
+
+    .home-content .section-3 {
       width: 100vw;
       height: auto;
     }
 
-    .e-service-header-container {
+    .home-content .e-service-header-container {
       display: flex;
       flex-direction: column;
       width: fit-content;
@@ -196,7 +227,7 @@ layout: skeleton
       text-align: center;
     }
 
-    .e-service-header-container>h1 {
+    .home-content .e-service-header-container>h1 {
       font-size: 48px;
       line-height: 52px;
       text-align: center;
@@ -206,7 +237,7 @@ layout: skeleton
       font-weight: bold;
     }
 
-    .e-service-header-container>p {
+    .home-content .e-service-header-container>p {
       font-size: 18px;
       line-height: 24px;
       text-align: center;
@@ -215,7 +246,7 @@ layout: skeleton
       margin-bottom: 40px;
     }
 
-    .panels-container {
+    .home-content .panels-container {
       display: grid;
       grid-gap: 20px;
       grid-template-columns: repeat(3, 366px);
@@ -224,13 +255,13 @@ layout: skeleton
       margin: 0 16px;
     }
 
-    .section-4 {
+    .home-content .section-4 {
       width: 100vw;
       height: 698px;
       padding-bottom: 40px;
     }
 
-    .gobizmove-container {
+    .home-content .gobizmove-container {
       width: 100%;
       height: 700px;
       position: absolute;
@@ -242,14 +273,14 @@ layout: skeleton
       background-repeat: no-repeat;
     }
 
-    .gobizmove-content {
+    .home-content .gobizmove-content {
       position: relative;
       z-index: 1;
       left: 15%;
       top: 160px;
     }
 
-    .gobizmove-content>h1 {
+    .home-content .gobizmove-content>h1 {
       font-weight: bold;
       font-size: 48px;
       line-height: 52px;
@@ -258,7 +289,7 @@ layout: skeleton
       position: relative;
     }
 
-    .gobizmove-content>ul {
+    .home-content .gobizmove-content>ul {
       font-family: hknova-regular;
       margin-top: 20px;
       position: relative;
@@ -266,33 +297,35 @@ layout: skeleton
       list-style-type: disc;
     }
 
-    .gobizmove-content>ul>li {
-      font-size: 16px;
-      line-height: 35px;
+    .home-content .gobizmove-content>ul>li {
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 27px;
       color: #484848;
+      margin: 8px 0;
     }
 
-    .gobizmove-button-container {
+    .home-content .gobizmove-button-container {
       margin-top: 30px;
     }
 
-    .section-5 {
+    .home-content .section-5 {
       width: 100vw;
       height: auto;
       padding: 50px 0;
     }
 
-    .section-5 .view-more {
+    .home-content .section-5 .view-more {
       text-align: center;
       padding: 28px 0 10px;
     }
 
-    .section-5>h4,
-    .section-6>h4 {
+    .home-content .section-5>h4,
+    .home-content .section-6>h4 {
       margin-bottom: 16px;
     }
 
-    .uppercase-text {
+    .home-content .uppercase-text {
       text-transform: uppercase;
       font-size: 16px;
       line-height: 24px;
@@ -302,13 +335,13 @@ layout: skeleton
       margin: 30px 0 16px;
     }
 
-    .section-6 {
+    .home-content .section-6 {
       padding: 100px 0;
       background-color: #F1F4F6;
     }
 
-    .section-5>h1,
-    .section-6>h1 {
+    .home-content .section-5>h1,
+    .home-content .section-6>h1 {
       font-weight: bold;
       font-size: 48px;
       line-height: 52px;
@@ -317,17 +350,17 @@ layout: skeleton
       color: #037e8a;
     }
 
-    .help-buttons-container {
+    .home-content .help-buttons-container {
       display: flex;
       width: fit-content;
       margin: 40px auto;
     }
 
-    .help-buttons-container>button {
+    .home-content .help-buttons-container>button {
       margin: 10px;
     }
 
-    #contact-helpdesk>button {
+    .home-content #contact-helpdesk>button {
       color: #037e8a;
       background-color: #fafdfd;
       border: 1px solid #b3d8dc;
@@ -335,22 +368,22 @@ layout: skeleton
       border-radius: 3px;
     }
 
-    .col {
+    .home-content .col {
       cursor: pointer;
     }
 
-    .break-desktop {
+    .home-content .break-desktop {
       display: block;
     }
 
-    .break-mobile {
+    .home-content .break-mobile {
       display: none;
       z-index: 2;
       position: relative;
     }
 
     @media (max-width: 1600px) {
-      .gobizmove-container {
+      .home-content .gobizmove-container {
         background-size: contain;
       }
     }
@@ -358,42 +391,42 @@ layout: skeleton
     /* iPad */
 
     @media (max-width: 1279px) {
-      .break-ipad {
+      .home-content .break-ipad {
         display: block;
       }
 
-      .section-4 {
+      .home-content .section-4 {
         height: auto;
         background-color: #E8F1F9;
         padding-bottom: 80px;
       }
 
-      .gobizmove-content {
+      .home-content .gobizmove-content {
         top: 60px;
       }
 
-      .section-4>.break-ipad {
+      .home-content .section-4>.break-ipad {
         margin-top: 110px;
         text-align: center;
       }
 
-      .section-4>.break-ipad>img {
+      .home-content .section-4>.break-ipad>img {
         width: 70vw;
       }
 
-      .service {
+      .home-content .service {
         grid-template-rows: 40px 44px;
       }
 
-      .service>p {
+      .home-content .service>p {
         line-height: 18px;
       }
 
-      .services-container {
+      .home-content .services-container {
         grid-template-columns: repeat(6, 125px);
       }
 
-      .popular-group {
+      .home-content .popular-group {
         width: 90vw;
         margin: 0 auto;
         flex-wrap: wrap;
@@ -401,24 +434,24 @@ layout: skeleton
         justify-content: start;
       }
 
-      .business-container {
+      .home-content .business-container {
         margin-top: 64px;
         padding: 0 30px;
         grid-template-columns: 1fr;
         row-gap: 60px;
       }
 
-      .e-service-header-container {
+      .home-content .e-service-header-container {
         text-align: center;
         width: 80vw;
       }
 
-      .gobizmove-container {
+      .home-content .gobizmove-container {
         background-color: #E8F1F9;
         background-image: none;
       }
 
-      .panels-container {
+      .home-content .panels-container {
         justify-content: start;
         overflow: scroll;
         margin: 0 40px;
@@ -426,7 +459,7 @@ layout: skeleton
         scrollbar-width: none;
       }
 
-      .panels-container::-webkit-scrollbar {
+      .home-content .panels-container::-webkit-scrollbar {
         display: none;
       }
     }
@@ -434,130 +467,130 @@ layout: skeleton
     /* Mobile */
 
     @media (max-width: 760px) {
-      .break-mobile {
+      .home-content .break-mobile {
         display: block;
       }
 
-      .break-desktop {
+      .home-content .break-desktop {
         display: none;
       }
 
-      .cta-container {
+      .home-content .cta-container {
         top: 40px;
       }
 
-      .cta-container>h1 {
+      .home-content .cta-container>h1 {
         font-size: 40px;
         line-height: 44px;
       }
 
-      .cta-container>p {
+      .home-content .cta-container>p {
         font-size: 18px;
         line-height: 28px;
         max-width: 370px;
         margin: 25px auto 23px;
       }
 
-      .section-1 {
+      .home-content .section-1 {
         height: 384px;
       }
 
-      .services-container {
+      .home-content .services-container {
         grid-template-columns: 1fr 1fr;
       }
 
-      .services-container>a {
+      .home-content .services-container>a {
         box-sizing: border-box;
         border: 0.5px solid #DBDFE4;
       }
 
-      .services-container>a:nth-child(2n+1) {
+      .home-content .services-container>a:nth-child(2n+1) {
         border-left: none;
       }
 
-      .services-container>a:nth-child(2n) {
+      .home-content .services-container>a:nth-child(2n) {
         border-right: none;
         margin-left: -1px;
       }
 
-      .services-container>a:nth-child(1),
-      .services-container>a:nth-child(2) {
+      .home-content .services-container>a:nth-child(1),
+      .home-content .services-container>a:nth-child(2) {
         border-top: none;
         border-bottom: none;
       }
 
-      .services-container>a:nth-child(5),
-      .services-container>a:nth-child(6) {
+      .home-content .services-container>a:nth-child(5),
+      .home-content .services-container>a:nth-child(6) {
         border-top: none;
         border-bottom: none;
       }
 
-      .popular-group {
+      .home-content .popular-group {
         flex-direction: column;
         padding: 20px 0 0 0;
       }
 
-      .popular-group>* {
+      .home-content .popular-group>* {
         margin-bottom: 8px;
       }
 
-      .business-container {
+      .home-content .business-container {
         grid-template-columns: 1fr;
         padding: 0 16px;
         margin-top: 40px;
         row-gap: 60px;
       }
 
-      .e-service-header-container>h1 {
+      .home-content .e-service-header-container>h1 {
         font-size: 40px;
         line-height: 44px;
         padding-right: 16px;
         padding-left: 16px;
       }
 
-      .e-service-header-container>p {
+      .home-content .e-service-header-container>p {
         font-size: 18px;
         line-height: 24px;
         margin: 20px 16px 40px 16px;
       }
 
-      .panels-container {
+      .home-content .panels-container {
         grid-template-columns: 1fr;
         justify-items: center;
         margin: 0 auto;
       }
 
-      .gobizmove-content {
+      .home-content .gobizmove-content {
         position: static;
       }
 
-      .gobizmove-content {
+      .home-content .gobizmove-content {
         font-size: 40px;
         line-height: 44px;
         text-align: center;
         letter-spacing: -1px;
       }
 
-      .gobizmove-content>h1 {
+      .home-content .gobizmove-content>h1 {
         padding-top: 60px;
         font-size: 40px;
         line-height: 44px;
       }
 
-      .gobizmove-content>div {
+      .home-content .gobizmove-content>div {
         text-align: center;
         background-color: #E8F1F9;
       }
 
-      .gobizmove-content>div>img {
+      .home-content .gobizmove-content>div>img {
         margin: 16px;
       }
 
-      .gobizmove-button-container {
+      .home-content .gobizmove-button-container {
         margin-bottom: 60px;
       }
 
-      .gobizmove-content>ul {
+      .home-content .gobizmove-content>ul {
         text-align: left;
         max-width: 70vw;
         position: relative;
@@ -565,56 +598,56 @@ layout: skeleton
         list-style-position: outside;
       }
 
-      .gobizmove-content>ul>li {
+      .home-content .gobizmove-content>ul>li {
         font-family: hknova-regular;
         font-size: 16px;
       }
 
-      .col {
+      .home-content .col {
         margin: 0 auto;
         padding: 0.75em 0;
       }
 
-      .help-buttons-container {
+      .home-content .help-buttons-container {
         flex-direction: column;
         align-items: center;
       }
 
-      .section-4 {
+      .home-content .section-4 {
         width: 100vw;
         height: auto;
         padding-bottom: 60px;
       }
 
-      .section-4>.break-mobile {
+      .home-content .section-4>.break-mobile {
         margin-top: 0;
       }
 
-      .section-4>.break-mobile>img {
+      .home-content .section-4>.break-mobile>img {
         width: 100vw;
       }
 
-      .section-5>h1 {
+      .home-content .section-5>h1 {
         font-size: 40px;
         line-height: 44px;
         text-align: center;
       }
 
-      .section-6>h1 {
+      .home-content .section-6>h1 {
         font-size: 40px;
         line-height: 44px;
         width: 80%;
         margin: 0 auto;
       }
 
-      .services-container {
+      .home-content .services-container {
         column-gap: 0;
         padding: 0;
       }
     }
   </style>
 
-  <div id="main-content" role="main" onclick>
+  <div class="home-content">
     <div class="section-1">
       <div class="hero-container"></div>
       <div class="cta-container">
@@ -671,9 +704,9 @@ layout: skeleton
       <div class="popular-group">
         <p>Popular:</p>
         {% include popular-tag.html href="/gov-assist/budget-2021/" text="Budget 2021" %}
-        {% include popular-tag.html href="https://go.gov.sg/timelimitedexemption" target="_blank"
+        {% include popular-tag.html href="go.gov.sg/timelimitedexemption" target="_blank"
         text="Permissions and Manpower Declaration" %}
-        {% include popular-tag.html href="https://go.gov.sg/generalexemption"
+        {% include popular-tag.html href="go.gov.sg/generalexemption"
         target="_blank" text="General Exemptions" %}
       </div>
       <div class="business-container">
@@ -681,12 +714,12 @@ layout: skeleton
           <img
             src="/images/business-guidance.svg"
             alt="local-business-guidance" />
-          <h2>Guidance for local businesses</h2>
+          <h3>Guidance for local businesses</h3>
           <p>
-            Official information for <a class="panel-content-links underline" href="/start-a-business/">starting a
+            Official information for <a href="/start-a-business/">starting a
               business</a>, <a
-              class="panel-content-links underline" href="/run-and-grow/">
-              growing its presence</a>, and navigating through <a class="panel-content-links underline"
+              href="/run-and-grow/">
+              growing its presence</a>, and navigating through <a
               href="/covid/">Covid-19</a>
           </p>
         </div>
@@ -694,12 +727,12 @@ layout: skeleton
           <img
             src="/images/business-transactions.svg"
             alt="business-transactions" />
-          <h2>Find the right resources with e-Adviser</h2>
+          <h3>Find the right resources with e-Adviser</h3>
           <p>
-            Use our e-Advisers to <a class="panel-content-links underline"
+            Use our e-Advisers to <a
               href="https://gaeadviser.gobusiness.gov.sg/?src=homepage" target="_blank">identify suitable government
               assistance</a>,
-            <a class="panel-content-links underline" href="/e-services/guides-for-biz/">and more</a>, tailored to your
+            <a href="/e-services/guides-for-biz/">and more</a>, tailored to your
             business needs
           </p>
         </div>
