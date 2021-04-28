@@ -9,6 +9,12 @@ accordion-a:
 
       <a href="https://go.gov.sg/wsg-ctp-enquiry-1" target="_blank">Find out more</a>
 
+  - title: Enhanced Training Support Package (ETSP)<img src="/images/budget2021/budget_extended.png">
+    content:  |
+      The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $7.50/hr absentee payroll funding for selected sector-specific traning programmes by SSG-appointed training partners for courses starting before 1 Jan 2022.
+
+      <a href="https://www.ssg.gov.sg/ETSP_EnhancedAP.html" target="_blank">Find out more</a>   
+
   - title: Enterprise Development Grant (EDG)<img src="/images/budget2021/budget_enhanced.png">
     content:  |
       The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 March 2022)
@@ -37,7 +43,7 @@ accordion-a:
 
   - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
     content:  |
-      The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
+      The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
 
       <a href="https://www.openinnovation.sg/about" target="_blank">Find out more</a>
       
@@ -58,12 +64,18 @@ accordion-a:
       Provides funding support to companies that increase their own retirement and re-employment ages ahead of the legislated changes.
 
       <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank">Find out more</a>
+
+  - title: SkillsFuture Work-Study Programmes (WSPs)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      Businesses can groom and hire fresh talent through Work-Study Programmes across Certificate, Diploma, Post-Diploma, and Degree levels. Businesses will jointly design and deliver with Institutes of Higher Learning (IHLs) and appointed private providers.
+
+      <a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank">Find out more</a>
       
   - title: Wage Credit Scheme<img src="/images/budget2021/budget_extended.png">
     content:  |
       No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
 
-      <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank">Find out more</a>    
+      <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank">Find out more</a>
 
 accordion-b:
   - title: Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)<img src="/images/budget2021/budget_new.png">
