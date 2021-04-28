@@ -6,7 +6,7 @@ third_nav_title: Safe Management Requirements
 
 ## General requirements
 
-To ensure a safe working environment, businesses are required to abide by the nation-wide general requirements for workplaces . Businesses are also required to adhere to the sector-specific requirements, and comply with measures to facilitate contact tracing.
+To provide a safe working environment and to prevent virus transmission at the workplace, businesses are required to abide by the [nation-wide general guidelines for workplaces issued on 9 May 2020](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. Businesses should also adhere to the [sector-specific requirements](/safemanagement/sector/).
 
 All businesses should take note of the following:
 
@@ -16,7 +16,7 @@ All businesses should take note of the following:
 
 ---
 
-### Be Ready, Stay Safe
+### Be ready, stay safe
 
 - Here's an overview for Safe Management Measures.
   <br><br>
@@ -31,5 +31,5 @@ All businesses should take note of the following:
 
 | 7 Key Requirements for Safe Management at Workplaces |                                                                                                                                                                                    Download                                                                                                                                                                                    |
 | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                   Full infographic                   |                                                                                                                          <a href="/images/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a>                                                                                                                          |
-|            Individual infographic frames             | <a href="/images/img-01.jpg" target="_blank">Frame 1</a> <br> <a href="/images/img-02.jpg" target="_blank">Frame 2</a> <br> <a href="/images/img-03.jpg" target="_blank">Frame 3</a> <br> <a href="/images/img-04.jpg" target="_blank">Frame 4</a> <br> <a href="/images/img-05.jpg" target="_blank">Frame 5</a> <br> <a href="/images/img-06.jpg" target="_blank">Frame 6</a> |
+|                   Full infographic                   |                                                                                                                          <a href="/images/covid/Resumption_of_Biz_Activities_-_Safe_Management_Measures_Infographic_Revised_FA.pdf" target="_blank">PDF</a>                                                                                                                          |
+|            Individual infographic frames             | <a href="/images/covid/info-img-01.jpg" target="_blank">Frame 1</a> <br> <a href="/images/covid/info-img-02.jpg" target="_blank">Frame 2</a> <br> <a href="/images/covid/info-img-03.jpg" target="_blank">Frame 3</a> <br> <a href="/images/covid/info-img-04.jpg" target="_blank">Frame 4</a> <br> <a href="/images/covid/info-img-05.jpg" target="_blank">Frame 5</a> <br> <a href="/images/covid/info-img-06.jpg" target="_blank">Frame 6</a> |
