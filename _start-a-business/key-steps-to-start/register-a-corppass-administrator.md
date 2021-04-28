@@ -8,7 +8,7 @@ third_nav_title: Key Steps to Start
 
 ![Corppass](/images/start/StartSJ_Corppass account.jpg)
 
-Now that you've registered your business, the next thing you must have to transact with Singapore Government agencies is a Corppass Administrator (Admin) account. Corppass is a single corporate digital identity for your busines, accessed via your personal Singpass. Each business entity can have up to 2 Corppass Admins.
+Now that you've registered your business, the next thing you must have to transact with Singapore Government agencies is a Corppass Administrator (Admin) account. Corppass is a single corporate digital identity for your business, accessed via your personal Singpass. Each business entity can have up to 2 Corppass Admins.
 
 **Corppass Admins can do the following:**
 - Manage users' access to digital services
