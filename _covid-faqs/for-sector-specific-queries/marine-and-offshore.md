@@ -246,9 +246,18 @@ accordion-e:
   content: |        
     Workers staying in dormitories are required to undergo RRT every 14 days. They are allowed to leave their dormitories for RRT, regardless of their AccessCode status, for medical examinations as required by the Government (e.g. COVID-19 testing), which would include the RRT Scheme. The workers should show the dorm operator proof of their RRT appointment to exit the dorm.
 
-  
+  - title: If a Public Holiday falls on an employee’s new rest day on a weekday, is the employee entitled to another day off the following day, and if they are required to work, then do we need to pay overtime?
+    content: |    
+      Yes, if the holiday falls on a rest day, the next working day is a paid holiday. If the employee is required to work, he/she shall be remunderated in accordance to the Employment Act for working on a Public Holiday.
 
-accordion-g:
+  - title: My employee’s rest day is Sunday, and his employment contract stipulates a higher rate of pay for working on Sunday.  If his new assigned rest day is a weekday, will I still have to pay the higher rate for him to work on Sunday?
+    content: |     
+      Employers may re-negotiate employment contracts to adjust the rate of pay for working on Sunday, if it becomes a non-rest day.
+
+  - title: I am experiencing issues with updating Rest Day in Safe@Work. What should I do?
+    content: |     
+      Please refer to the answers for frequently asked questions [here](https://www.mom.gov.sg/eservices/services/safe-work){:target="_blank"}. If you are still experiencing issues, please contact [MOM](https://www.mom.gov.sg/contact-us){:target="_blank"} for assistance.
+
   - title: Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?
     content: |   
       Resident Contractors are supported by a specific Sponsoring Shipyard. As Sponsoring Shipyards work very closely with their Resident Contractors, they are provided with the flexibility to coordinate the staggered rest day arrangements according to operational needs. Sponsoring Shipyards are to ensure that between the shipyard and Resident Contractors there is an even spread of Marine Shipyard account workers resting each day across Monday to Saturday.
@@ -286,7 +295,5 @@ accordion-g:
 #### Staggered rest day
 {% include accordion-e.html %}
 
-#### Assignment of staggered rest day
-{% include accordion-g.html %}
 
 [Back to Covid-19 Overview](/covid/)
