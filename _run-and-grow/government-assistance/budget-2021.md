@@ -41,12 +41,6 @@ accordion-a:
 
       <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank">Find out more</a>
 
-  - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
-    content:  |
-      The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
-
-      <a href="https://www.openinnovation.sg/about" target="_blank">Find out more</a>
-      
   - title: Part-Time Re-employment Grant (PTRG)<img src="/images/budget2021/budget2021.png">
     content:  |
       Provides funding support to companies that voluntarily commit to providing part-time re-employment to all eligible seniors who request for it.
@@ -101,6 +95,12 @@ accordion-b:
       The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
       <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find out more</a>
+
+  - title: Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">
+    content:  |
+      The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
+
+      <a href="https://www.openinnovation.sg/about" target="_blank">Find out more</a>
 ---
 
 ## Budget 2021
