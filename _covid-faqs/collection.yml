@@ -37,7 +37,7 @@ collections:
       - for-sector-specific-queries/professional-services.md
       - for-sector-specific-queries/employees-manpower-queries.md
       - for-sector-specific-queries/safeentry.md
-      - for-sector-specific-queries/nightlife-establishments/.keep
-      - for-sector-specific-queries/nightlife-establishments/closure.md
-      - for-sector-specific-queries/nightlife-establishments/application-and-licensing.md
-      - for-sector-specific-queries/nightlife-establishments/exit-support-package.md
+      - nightlife-establishments/.keep
+      - nightlife-establishments/closure.md
+      - nightlife-establishments/application-and-licensing.md
+      - nightlife-establishments/exit-support-package.md
