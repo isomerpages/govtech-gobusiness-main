@@ -230,7 +230,23 @@ accordion-e:
     content: |
       Employers will be responsible to implement and communicate the staggered rest day arrangement to their employees. Thereafter, employees are responsible to adhere to their arrangements. MOM will take action against employers that do not comply.
 
+  - title: My Marine account workers are residing in non-dormitory residences. Are they allowed to go out every day after work and even on Sunday? E.g. for dinner in the evening after work, to the supermarket, take annual leave, visit friends and relatives.
+    content: |  
+      Yes. The Exit Pass requirement applies only to dormitory (e.g. PBD, FCD, CTQ, TOLQ, TLQ or government-arranged housing) residents.
 
+  - title: What are the type of dormitories that are subjected to entry and exit regulations? What will I need to exit the dormitory for leisure during my staggered rest day?
+    content: |  
+      If you stay in a dormitory (e.g. PBD, FCD, CTQ, TOLQ, TLQ or government-arranged housing), you must have an Exit Pass to go out for leisure.  If you stay in other housing types (e.g. HDB flat, Private Residential Property), you do not need an Exit Pass.
+
+  - title: Do we need to submit essential errands request to MOM when workers run errands on their rest day?
+    content: |  
+      Yes, workers whose dormitory is declared COVID-cleared and are not serving a Quarantine Order or Stay-Home Notice can leave the dormitory to run essential errands. For essential errands, workers’ employer or dormitory operator are required to notify MOM at <www.mom.gov.sg/essential-errands-request>{:target="_blank"}, and they can then leave for their specified errand.  This is regardless of AccessCode status, and no Exit Pass is needed. Essential errands include medical appointments, court appointments, MOM-approved training and Work Pass related errands.
+
+  - title: When can workers holding work permits and S passes, and staying in dormitories, leave their dormitories for medical examinations, including Rostered Routine Testing (“RRT”)?
+  content: |        
+    Workers staying in dormitories are required to undergo RRT every 14 days. They are allowed to leave their dormitories for RRT, regardless of their AccessCode status, for medical examinations as required by the Government (e.g. COVID-19 testing), which would include the RRT Scheme. The workers should show the dorm operator proof of their RRT appointment to exit the dorm.
+
+  
 ---
 
 ### Marine & offshore
