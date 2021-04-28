@@ -198,7 +198,7 @@ accordion-b:
       <a href="https://www.wshc.sg/wps/portal/!ut/p/a1/jY89D4IwEIZ_iwMrd3yIxq1xkCjGAVToYsBgwSBt2kr_vsjkIOht7-V5cvcChRRom3c1y3XN27x5ZxpcooPvuyTG3SZMHCTuHsNk4Tlx4PdANg6sT95_Po4MwV_-GegUMnwwABMntkBZw4uhbkbawlsyoLK8lbKU9lP260proVYWWmiMsY2qrrZifRDKQsGl_q5WXGlIPwwQj2OK93nTRWT2AgTnMHU!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?action=cmsPublicView&categoryId=CL2014081200099" target="_blank">Find out more</a>
   - title: Manufacturing & Engineering
     content:  |
-      **/A*STAR Tech Access**
+      <bold>A*STAR Tech Access</bold>
       <br>Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
       
       <a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank">Find out more</a>
