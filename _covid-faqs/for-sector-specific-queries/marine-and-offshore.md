@@ -295,7 +295,5 @@ accordion-e:
 #### Staggered rest day
 {% include accordion-e.html %}
 
-#### Assignment of staggered rest day
-{% include accordion-f.html %}
 
 [Back to Covid-19 Overview](/covid/)
