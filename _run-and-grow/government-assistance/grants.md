@@ -112,7 +112,7 @@ accordion-b:
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/employment-support-for-persons-with-disabilities.html" target="_blank">Find out more</a>
       
       **Internationalisation Skills (iSkills) Talent Development Programme**
-      <br>(iSkills) Talent Development Programme is customised for both junior and senior internationalisers. Participating businesses can expect overseas immersion and a final project.
+      <br>iSkills Talent Development Programme is customised for both junior and senior internationalisers. Participating businesses can expect overseas immersion and a final project.
       
       <a href="https://ihci.sbf.org.sg" target="_blank">Find out more</a>
       

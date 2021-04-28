@@ -12,7 +12,7 @@ accordion-new:
 
   - title: Internationalisation Finance Scheme (IFS) - Non-Recourse
     content: |
-      IFS gives mid-sized companies access to up to S$50 million in project financing for local and overseas development projects. Enterprise Singapore co-shares default risks with Participating Financial Institutes (PFIs).
+      IFS gives mid-sized companies access to up to S$50 million in project financing for local and overseas development projects. Enterprise Singapore (ESG) co-shares default risks with Participating Financial Institutes (PFIs).
 
       <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank">Find out more</a>
       <br><br>
