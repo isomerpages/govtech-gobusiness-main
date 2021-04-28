@@ -246,7 +246,15 @@ accordion-e:
   content: |        
     Workers staying in dormitories are required to undergo RRT every 14 days. They are allowed to leave their dormitories for RRT, regardless of their AccessCode status, for medical examinations as required by the Government (e.g. COVID-19 testing), which would include the RRT Scheme. The workers should show the dorm operator proof of their RRT appointment to exit the dorm.
 
-  
+  - title: If a Public Holiday falls on an employee’s new rest day on a weekday, is the employee entitled to another day off the following day, and if they are required to work, then do we need to pay overtime?
+    content: |    
+      Yes, if the holiday falls on a rest day, the next working day is a paid holiday. If the employee is required to work, he/she shall be remunderated in accordance to the Employment Act for working on a Public Holiday.
+
+  - title: My employee’s rest day is Sunday, and his employment contract stipulates a higher rate of pay for working on Sunday.  If his new assigned rest day is a weekday, will I still have to pay the higher rate for him to work on Sunday?
+    content: |     
+      Employers may re-negotiate employment contracts to adjust the rate of pay for working on Sunday, if it becomes a non-rest day.
+
+
 ---
 
 ### Marine & offshore
