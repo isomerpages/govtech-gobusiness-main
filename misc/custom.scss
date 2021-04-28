@@ -422,6 +422,11 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 
+  // For /start-a-business/choose-a-business-structure/ page
+  h3+div>iframe {
+    margin-top: 20px;
+  }
+
   h4 {
     font-family: hknova-semibold;
     color: #313840;

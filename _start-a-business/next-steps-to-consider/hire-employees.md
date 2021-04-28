@@ -12,7 +12,7 @@ For companies, you will need to hire an auditor within three months and a compan
 
 **To hire a local employee, you need to:**
 
-- Apply for a [CPF Submission Number](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/setting-up-a-company/registering-as-an-employer-and-knowing-your-responsibilities){:target="_blank"}  to make CPF contributions as an employer
+- Apply for a [CPF Submission Number](https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number){:target="_blank"}  to make CPF contributions as an employer
 - [Write a contract](https://www.mom.gov.sg/employment-practices/contract-of-service#key-employment-terms){:target="_blank"} which complies with the [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}
 - [Get Work Injury Compensation Insurance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance){:target="_blank"} for certain groups of employees
 
@@ -22,7 +22,7 @@ For companies, you will need to hire an auditor within three months and a compan
 
 - [Itemised payslips](https://www.mom.gov.sg/employment-practices/salary/itemised-payslips){:target="_blank"} along with the payroll
 - [Pay Skills Development Levy](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/skills-development-levy-(sdl)){:target="_blank"}
-- [Make CPF contributions](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/cpf-contributions-for-your-employees){:target="_blank"}
+- [Make CPF contributions](https://www.cpf.gov.sg/employer/making-cpf-contributions){:target="_blank"}
 
 **Every month, you will need to:**
 
