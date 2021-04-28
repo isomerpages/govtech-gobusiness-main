@@ -258,7 +258,7 @@ accordion-e:
     content: |     
       Please refer to the answers for frequently asked questions [here](https://www.mom.gov.sg/eservices/services/safe-work){:target="_blank"}. If you are still experiencing issues, please contact [MOM](https://www.mom.gov.sg/contact-us){:target="_blank"} for assistance.
 
-accordion-e:
+accordion-f:
   - title: Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?
     content: |   
       Resident Contractors are supported by a specific Sponsoring Shipyard. As Sponsoring Shipyards work very closely with their Resident Contractors, they are provided with the flexibility to coordinate the staggered rest day arrangements according to operational needs. Sponsoring Shipyards are to ensure that between the shipyard and Resident Contractors there is an even spread of Marine Shipyard account workers resting each day across Monday to Saturday.
@@ -296,5 +296,7 @@ accordion-e:
 #### Staggered rest day
 {% include accordion-e.html %}
 
+#### Assignment of staggered rest day
+{% include accordion-f.html %}
 
 [Back to Covid-19 Overview](/covid/)
