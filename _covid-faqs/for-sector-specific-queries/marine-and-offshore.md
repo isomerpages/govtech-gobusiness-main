@@ -250,14 +250,24 @@ accordion-e:
     content: |    
       Yes, if the holiday falls on a rest day, the next working day is a paid holiday. If the employee is required to work, he/she shall be remunderated in accordance to the Employment Act for working on a Public Holiday.
 
-  - title: My employee’s rest day is Sunday, and his employment contract stipulates a higher rate of pay for working on Sunday.  If his new assigned rest day is a weekday, will I still have to pay the higher rate for him to work on Sunday?
-    content: |     
-      Employers may re-negotiate employment contracts to adjust the rate of pay for working on Sunday, if it becomes a non-rest day.
 
-  - title: I am experiencing issues with updating Rest Day in Safe@Work. What should I do?
-    content: |     
-      Please refer to the answers for frequently asked questions [here](https://www.mom.gov.sg/eservices/services/safe-work){:target="_blank"}. If you are still experiencing issues, please contact [MOM](https://www.mom.gov.sg/contact-us){:target="_blank"} for assistance.
 
+accordion-g:
+  - title: Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?
+    content: |   
+      Resident Contractors are supported by a specific Sponsoring Shipyard. As Sponsoring Shipyards work very closely with their Resident Contractors, they are provided with the flexibility to coordinate the staggered rest day arrangements according to operational needs. Sponsoring Shipyards are to ensure that between the shipyard and Resident Contractors there is an even spread of Marine Shipyard account workers resting each day across Monday to Saturday.
+
+      **For example**
+
+      A Sponsoring Shipyard has 100 marine pass holders. Their Resident Contractor A and B has 30 and 50 Marine marine pass holders respectively. Together, they have a total of 180 marine workers. Sponsoring Shipyard will work together with Resident Contractor A and B, and coordinate such that 30 marine workers (180 ÷ 6 = 30) between them are resting each day from Monday to Saturday.
+
+  - title: My company wishes to adopt the randomly assigned rest day option. Can we choose our preferred rest day between Monday to Saturday?
+    content: |
+      No. The rest day will be randomly assigned for all companies that have chosen this option. This is to ensure even distribution of workers resting across the 6 days.  
+
+  - title: If I am adopting the equal spread of Marine Shipyard account workers resting between Monday to Saturday, am I allowed to swap the workers’ rest days in the Safe@Work system while keeping to the numbers resting each day?
+    content: |
+      Yes, companies are allowed to change the workers’ rest day in the Safe@Work system while adhering to the numbers resting each day. However, employers are to ensure fair treatment to workers and timely communication to allow workers to make the necessary adjustment, and should not prevent their workers from applying for an Exit Pass, or force them to work on their rest day against their will.
 ---
 
 ### Marine & offshore
