@@ -17,7 +17,7 @@ accordion-new:
       <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank">Find out more</a>
       <br><br>
 
-    - title: Temporary Bridging Loan Programme (TBLP)
+  - title: Temporary Bridging Loan Programme (TBLP)
     content: |
       The TBLP provides access to working capital for business needs, at a maximum supported loan of S$3 Million with 70% Government risk-share on loans for new applications initiated from 1 April-30 September 2021.
 
