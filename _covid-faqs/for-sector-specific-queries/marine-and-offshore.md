@@ -214,6 +214,22 @@ accordion-e:
     content: |
       No, if the company is not operating on Sunday, these workers need not report to the worksite, but they will not be able to leave their dormitory for leisure or personal errands that day.  The workers can leave the dormitories for leisure or personal reasons only on their assigned rest day each week.
 
+  - title: If my Marine Shipyard account foreign workers usually have two rest days per week, can they be given two rest days?
+    content: |
+      Yes, companies can allow workers to have more than one rest day. Nonetheless, companies need to update only one of the rest days in the Safe@Work system.  This will be the day where the workers will be able to leave their dormitory for leisure and personal reasons.  On other rest days, the worker need not work, but will need to rest in their dormitory during this stage of the pandemic.
+
+  - title: Will this staggered rest day arrangement apply to my Marine Shipyard account foreign workers who are not living in dormitories?
+    content: |
+      Yes, companies are required to implement the staggered rest day arrangement for their Marine Shipyard account workers regardless of their place of residence. Staggered rest day is needed to prevent the risk of large numbers of people congregating on their rest days, which will heighten the risk of COVID-19 transmission. This arrangement will reduce the pool of people interacting with others outside of work on any given day, and mitigate the public health risk to themselves, and others. However, workers not living in dormitories will not be required to apply for Exit Pass to leave their residence.
+
+  - title: Is there an end date for this staggered rest day arrangement?
+    content: |
+      The arrangement is needed to minimise the risk of large numbers of people congregating, and thereby reduce the risk of COVID-19 transmission. Staggered rest days will be reviewed when the COVID-19 pandemic has abated.
+
+  - title: Will there be enforcement? What will be the penalties for employers and employees who do not comply with the staggered rest day arrangement?
+    content: |
+      Employers will be responsible to implement and communicate the staggered rest day arrangement to their employees. Thereafter, employees are responsible to adhere to their arrangements. MOM will take action against employers that do not comply.
+
 
 ---
 
