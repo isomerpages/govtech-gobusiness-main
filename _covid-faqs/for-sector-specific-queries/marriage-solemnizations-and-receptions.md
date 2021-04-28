@@ -363,7 +363,7 @@ accordion-f:
 
       The organiser is liable for ensuring that all attendees observe the necessary safe management measures. Please refer [here](/safemanagement/general/) for the full set of safe management measures. If your venue operator has further questions regarding receptions, they can contact the relevant agency overseeing their operations (e.g. Enterprise Singapore for F&B establishments<sup>10</sup>, Singapore Tourism Board for hotels).
 
-      <sup>10</sup> Please refer to the Safe Management Measures for F&B Establishments at https://www.enterprisesg.gov.sg/covid-19/safe-distance#FB
+      <sup>10</sup> Please refer to the Safe Management Measures for F&B Establishments at <https://www.enterprisesg.gov.sg/covid-19/safe-distance#FB>{:target="_blank"}.
 
   - title: Can I perform other cultural rites such as the tea ceremony during the reception?
     content: |        
