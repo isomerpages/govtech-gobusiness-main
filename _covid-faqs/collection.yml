@@ -37,6 +37,9 @@ collections:
       - for-sector-specific-queries/professional-services.md
       - for-sector-specific-queries/employees-manpower-queries.md
       - for-sector-specific-queries/safeentry.md
+      - safeentry.md
+      - swab-testing-ops/.keep
+      - swab-testing-ops/food-delivery.md
       - nightlife-establishments/.keep
       - nightlife-establishments/closure.md
       - nightlife-establishments/application-and-licensing.md
