@@ -1,6 +1,6 @@
 ---
-title: Closure of nightlife establishments and government support
-permalink: /covid-faqs/nightlife-establishments/closure
+title: Application and licensing procedure for pivoting to permissible activities
+permalink: /covid-faqs/nightlife-establishments/application-and-licensing
 third_nav_title: Nightlife Establishments
 accordion-new:
   - title: How can I change my nightlife operations to activities that are permitted today? What kind of licences are required?
@@ -123,7 +123,7 @@ accordion-new:
 
 ---
 
-### Closure of nightlife establishments and government support
+### Application and licensing procedure for pivoting to permissible activities
 
 {% include accordion-new.html %}
 

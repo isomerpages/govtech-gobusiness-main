@@ -1,5 +1,5 @@
 ---
-title: Application and licensing procedure for pivoting to permissible activities
+title: Closure of nightlife establishments and government support
 permalink: /covid-faqs/nightlife-establishments/closure
 third_nav_title: Nightlife Establishments
 accordion-new:
@@ -53,7 +53,7 @@ accordion-new:
 
 ---
 
-### Application and licensing procedure for pivoting to permissible activities
+### Closure of nightlife establishments and government support
 
 {% include accordion-new.html %}
 
