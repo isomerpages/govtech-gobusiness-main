@@ -88,7 +88,7 @@ accordion-new:
 
       More details on implementing safe management measures for workers on employer-provided transportation can be found [here](https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation){:target="_blank"}.
 
-  - title: an my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?
+  - title: Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?
     content: |
       As an employer, you must provide transport for your workers to and from their worksites.
 
