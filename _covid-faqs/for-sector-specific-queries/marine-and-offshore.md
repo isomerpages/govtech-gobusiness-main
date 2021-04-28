@@ -238,7 +238,25 @@ accordion-e:
     content: |  
       If you stay in a dormitory (e.g. PBD, FCD, CTQ, TOLQ, TLQ or government-arranged housing), you must have an Exit Pass to go out for leisure.  If you stay in other housing types (e.g. HDB flat, Private Residential Property), you do not need an Exit Pass.
 
+  - title: Do we need to submit essential errands request to MOM when workers run errands on their rest day?
+    content: |  
+      Yes, workers whose dormitory is declared COVID-cleared and are not serving a Quarantine Order or Stay-Home Notice can leave the dormitory to run essential errands. For essential errands, workers’ employer or dormitory operator are required to notify [MOM] (https://form.gov.sg/#!/5f2d020a56f4f20011a34a0f){:target="_blank"}, and they can then leave for their specified errand.  This is regardless of AccessCode status, and no Exit Pass is needed. Essential errands include medical appointments, court appointments, MOM-approved training and Work Pass related errands.
 
+  - title: When can workers holding work permits and S passes, and staying in dormitories, leave their dormitories for medical examinations, including Rostered Routine Testing “RRT”?
+    content: |        
+      Workers staying in dormitories are required to undergo RRT every 14 days. They are allowed to leave their dormitories for RRT, regardless of their AccessCode status, for medical examinations as required by the Government (e.g. COVID-19 testing), which would include the RRT Scheme. The workers should show the dorm operator proof of their RRT appointment to exit the dorm.
+
+  - title: If a Public Holiday falls on an employee’s new rest day on a weekday, is the employee entitled to another day off the following day, and if they are required to work, then do we need to pay overtime?
+    content: |    
+      Yes, if the holiday falls on a rest day, the next working day is a paid holiday. If the employee is required to work, he/she shall be remunderated in accordance to the Employment Act for working on a Public Holiday.
+
+  - title: My employee’s rest day is Sunday, and his employment contract stipulates a higher rate of pay for working on Sunday.  If his new assigned rest day is a weekday, will I still have to pay the higher rate for him to work on Sunday?
+    content: |     
+      Employers may re-negotiate employment contracts to adjust the rate of pay for working on Sunday, if it becomes a non-rest day.
+
+  - title: I am experiencing issues with updating Rest Day in Safe@Work. What should I do?
+    content: |     
+      Please refer to the answers for frequently asked questions [here](https://www.mom.gov.sg/eservices/services/safe-work){:target="_blank"}. If you are still experiencing issues, please contact [MOM](https://www.mom.gov.sg/contact-us){:target="_blank"} for assistance.
 
 accordion-f:
   - title: Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?
