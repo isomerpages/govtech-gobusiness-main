@@ -6,8 +6,6 @@ third_nav_title: Sector-Specific Support
 
 ## Food and beverage
 
-Here are the initiatives and schemes currently available to support food & beverage (F&B) businesses.
-
 ### Adopting e-payments
 
 Bonus of $300 per month over 5 months for stallholders in hawker centres, wet markets, coffee shops and industrial canteens who adopt e-payment.
