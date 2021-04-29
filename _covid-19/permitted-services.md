@@ -2,7 +2,7 @@
 title: Permitted Services
 permalink: /permittedlist/
 ---
-## Permitted Services
+## Permitted services
 
 The Government is currently allowing businesses to resume gradually in phases. As of 28 December 2020, we are currently in Phase 3. All firms, bodies and self-employed persons in operation must comply with the safe management requirements [here](/safemanagement/general/) and sector-specific requirements [here](/safemanagement/sector/).
 
