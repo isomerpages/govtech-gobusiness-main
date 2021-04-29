@@ -23,9 +23,9 @@ accordion-a:
 
   - title: Jobs Growth Incentive (JGI)<img src="/images/budget2021/budget_enhanced.png">
     content:  |
-      The Jobs Growth Incentive (JGI) was announced on 17 Aug 2020 to encourage employers to accelerate their hiring of local workforce from September 2020 to February 2021 (inclusive), so as to create good and long-term jobs for locals. The JGI will provide one year of salary support from the point of hire for each new local hire by employers that managed to increase their local workforce from September 2020 to February 2021 (inclusive). It was enhanced in 5 Oct and 15 Oct to provide higher tier of support to persons-with-disabilities and ex-offenders, respectively.
+      The JGI was announced on 17 August 2020 to encourage employers to accelerate their hiring of local workforce from September 2020 to February 2021 (inclusive), so as to create good and long-term jobs for locals. The JGI will provide one year of salary support from the point of hire for each new local hire by employers that managed to increase their local workforce from September 2020 to February 2021 (inclusive). It was enhanced on 5 and 15 October to provide higher tiers of support to persons-with-disabilities and ex-offenders, respectively.
       
-      To be eligible for the JGI, firms must have increased their local workforce, as compared to Aug 2020. This must be accompanied by an increase in local workforce earning at least $1,400 a month, as compared to Aug 2020.
+      To be eligible for the JGI, firms must have increased their local workforce, as compared to August 2020. This must be accompanied by an increase in local workforce earning at least $1,400 a month, as compared to August 2020.
       
       <a href="https://www.go.gov.sg/jgi" target="_blank">Find Out More</a>
 
@@ -92,7 +92,7 @@ accordion-b:
 
   - title: Emerging Technology Programme<img src="/images/budget2021/budget_new.png">
     content:  |
-      The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
+      The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, artificial intelligence, and trust technologies. More details in due course.
 
       <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find Out More</a>
 
@@ -113,7 +113,7 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 - Download the Budget 2021 - Budget Navigator (for Businesses) [here](/images/budget2021/Budget 2021 Navigator (businesses).pdf){:target="_blank"}.
 
-Visit the [MOF Website](https://www.mof.gov.sg/){:target="_blank"} for more information on Budget 2021.
+Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"} for more information on Budget 2021.
 
 ### List of Government Assistance related schemes:
 
