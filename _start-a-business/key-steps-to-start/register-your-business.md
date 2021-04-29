@@ -74,7 +74,7 @@ accordion-new:
       - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
       - A local manager who is residing in Singapore must be appointed
       - All partners and the local manager must endorse the application before payment can be made
-      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf
 
       **Information/documents required**
       - Commencement date
@@ -99,7 +99,7 @@ accordion-new:
       - EP Holders should first get a [Letter of Consent (LOC)](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship){:target="_blank"} from the Ministry of Manpower
       - There must be at least one director and one shareholder
       - All the position holders must endorse the application before payment can be made
-      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf.
+      - Foreigners will need to engage the services of a registered filing agent (e.g. a law firm, accounting firm or corporate secretarial firm) to submit the online application on their behalf
 
       **Information/documents required**
       - Commencement date

@@ -6,7 +6,7 @@ accordion-new:
     content: |
       Strong trade and investment makes Singapore the most competitive Asian country and the world’s easiest place to do business. Singapore is famed for a smooth-running bureaucracy, which sees various government agencies working together seamlessly to help businesses grow.
 
-      You can refer to our [start-up guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
+      You can refer to our [Start-up Guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: What is ACRA?
     content: |
       The Accounting and Corporate Regulatory Authority (ACRA) is the regulator of business registration, financial reporting, public accountants and corporate service providers; it also facilitates enterprise.
@@ -17,13 +17,13 @@ accordion-new:
       Currently, you can only register your business with BizFile+. We are working towards adding this feature to GoBusiness in future.
   - title: I am keen to start a business but I’m not sure what I should look out for. How do I get started?
     content: |
-      You can refer to our [start-up guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
+      You can refer to our [Start-up Guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: Can I register a business if I am a foreigner?
     content: |
       If you are a foreigner looking to register a business in Singapore, you can either engage the services of a registered filing agent to submit the online application on your behalf or employ a director who resides in Singapore (if applicable).
   - title: How do I register a business?
     content: |
-      You can refer to our [start-up guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
+      You can refer to our [Start-up Guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: I am not sure which business structure to choose. How do I get started?
     content: |
       The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_faq){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 30Apr2021.pdf){:target="_blank"}.
