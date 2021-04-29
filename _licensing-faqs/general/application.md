@@ -15,11 +15,11 @@ accordion-new:
       - Tobacco Retail Licence - HSA
       - Halal Certification - MUIS
 
-      If the licences you need are not on this list, please apply for your licences using our Self-Service feature <a href="https://licence1.business.gov.sg/" target="blank">here</a>.
+      If the licences you need are not on this list, please apply for your licences using our [Self-Service feature](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}.
 
   - title: How do I know which Food Shop type my business falls under?
     content: |
-      <a href="/images/grow/FoodShopTypeMapping.pdf" target="blank">Here</a> is a list of all Food Shop types and their descriptions.
+      Here is a [list of all Food Shop types](/images/grow/FoodShopTypeMapping.pdf){:target="_blank"} and their descriptions.
 
       If you are not sure, simply use our Guided Journey feature and answer a series of questions about your business to find out which Food Shop type it falls under.
 
@@ -42,7 +42,7 @@ accordion-new:
     content: |
       The Singapore Food Agency (SFA) classifies food & beverage businesses according to their business concept.
 
-      Here is a <a href="https://go.gov.sg/food-shop-types" target="_blank">list</a> of all Food Shop types.
+      Here is a [list of all Food Shop types](https://go.gov.sg/food-shop-types){:target="_blank"}.
 
   - title: How do I check on the status of my application?
     content: |
