@@ -27,9 +27,11 @@ If you have incorporated a new company or intend to incorporate one, check out t
 
 - [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"}
 
-After incorporating your company, access the Start-Up Kit for customised information to guide you in your Annual filing with ACRA and Income Tax Returns with IRAS.
+After incorporating your company, access the Start-Up Kit for customised information to guide you in your first filing of the Annual Return with ACRA and Corporate Income Tax Returns with IRAS.
 
 - [New Company Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="_blank"}
+
+Learn more about your company’s Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="_blank"}.
 
 ### Register for GST
 
@@ -38,7 +40,7 @@ You will need to register for GST if:
 - your taxable turnover for the past 12 months has exceeded $1 million or
 - you can reasonably expect your taxable turnover in the next 12 months to exceed $1 million
 
-If your yearly turnover does not exceed $1 million, you may still choose to [voluntarily register for GST](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="_blank"} after carefully considering the obligations and responsibilities of being GST-registered. 
+If your yearly taxable turnover does not exceed $1 million, you may still choose to [voluntarily register for GST](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="_blank"} after carefully considering the obligations and responsibilities of being GST-registered. 
 
 ### How to calculate my taxable turnover?
 
