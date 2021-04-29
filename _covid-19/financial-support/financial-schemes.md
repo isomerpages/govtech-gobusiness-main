@@ -10,7 +10,7 @@ accordion-new:
       * Early-stage startups can apply for the funding via <a href="mailto:ssfs@enterprisesg.gov.sg">ssfs@enterprisesg.gov.sg</a>
       * Late-stage startups can apply via <a href="mailto:ssfs@edbi.com">ssfs@edbi.com</a>
 
-      Read about the media release <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">here</a>.
+      Read the media release <a href="https://www.enterprisesg.gov.sg/media-centre/media-releases/2020/june/edbi-and-seeds-capital-to-provide-s$285-million-in-financing-to-promising-startups-to-tide-through-covid-19-period" target="_blank">here</a>.
 
   - title: Enterprise Financing Scheme (EFS)
     content:  |      
