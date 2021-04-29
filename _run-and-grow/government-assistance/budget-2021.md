@@ -105,13 +105,13 @@ accordion-b:
 
 ## Budget 2021
 
-Deputy Prime Minister, Coordinating Minister for Economic Policies and Minister for Finance, Mr Heng Swee Keat, delivered the Budget Statement on Tuesday, 16 February 2021 in Parliament.
+Deputy Prime Minister, Coordinating Minister for Economic Policies and Minister for Finance (MOF), Mr Heng Swee Keat, delivered the Budget Statement on Tuesday, 16 February 2021 in Parliament.
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the Budget 2021 Business Booklet [here](/images/budget2021/Budget 2021 Business Booklet (Updated 9 Mar).pdf){:target="_blank"}.
+- Download the [Budget 2021 Business Booklet](/images/budget2021/Budget 2021 Business Booklet (Updated 9 Mar).pdf){:target="_blank"}.
 
-- Download the Budget 2021 - Budget Navigator (for Businesses) [here](/images/budget2021/Budget 2021 Navigator (businesses).pdf){:target="_blank"}.
+- Download the [Budget 2021 - Budget Navigator (for Businesses)](/images/budget2021/Budget 2021 Navigator (businesses).pdf){:target="_blank"}.
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"} for more information on Budget 2021.
 
