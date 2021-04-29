@@ -8,7 +8,7 @@ third_nav_title: Employment Matters
 
 There are job portals available to help with your search for suitable employees. In order to properly hire, several filing obligations need to be met first. Do take note of the specific requirements for hiring foreign employees as well.
 
-Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
+Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/).
 
 ### Job Portals
 
@@ -39,7 +39,7 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 - [Notify for employment of young persons](https://www.mom.gov.sg/eservices/services/notify-for-employment-of-young-persons){:target="_blank"}
   <br>Notify MOM if you have employees between the ages of 15 to below 16 in an industrial setting (eg: construction, transportation and manufacturing).
 
-####e-Services for hiring local employees
+### e-Services for hiring local employees
 
 **Ministry of Manpower (MOM)**
 
@@ -82,7 +82,7 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 - [Work Permit for Domestic Helpers and Confinement Nannies](https://www.mom.gov.sg/eservices/services/work-permit-transactions-for-domestic-helpers-and-confinement-nannies){:target="_blank"}
   <br>Apply for a Work Permit online, for domestic helpers and confinement nannies. You can also issue, renew, reinstate, replace or cancel Work Permits here. This service can be used by employers, employment agencies and sponsors.
 
-####e-Services for sponsorship cases
+### e-Services for sponsorship cases
 
 **Ministry of Manpower (MOM)**
 
@@ -104,6 +104,6 @@ Learn more about them in our [Start Guide](/start-a-business/hire-employees/).
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.hiring_employees_links %}

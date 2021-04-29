@@ -58,6 +58,6 @@ Find them in our list of [grants](/gov-assist/grants/).
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.training_employees_links %}
