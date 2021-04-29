@@ -12,7 +12,7 @@ Unsure about the tax filing obligations for your business/company?
 
 **Income tax filing for sole proprietorship/partnership/limited partnership/limited liability partnership**
 
-If you have newly registered your business or intend to register for one check out the following guides to learn more. 
+If you have newly registered your business or intend to register for one, check out the following guides to learn more. 
 
 - [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="_blank"}
 - [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"}

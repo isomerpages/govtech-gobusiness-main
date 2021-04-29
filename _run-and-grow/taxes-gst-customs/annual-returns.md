@@ -3,13 +3,13 @@ title: Annual returns
 permalink: /run-and-grow/annual-returns/
 third_nav_title: Taxes, GST and Customs
 accordion-new:
-  - title: For businesses (sole proprietorships and partnerships) and limited partnerships
+  - title: For Businesses (Sole Proprietorships and Partnerships) and Limited Partnerships
     content: |
       You must renew the registration before it expires in order to carry on with your business. Your business registration can be renewed 60 days before the expiry date. The renewal fee is $30 for one year or $90 for three years. Please ensure you do not have any outstanding liabilities with CPF Board before renewal.
-  - title: For limited liability partnerships (LLP)
+  - title: For Limited Liability Partnerships (LLP)
     content: |
       There must be annual declaration of solvency or insolvency and the first annual declaration must be lodged within 15 months from the date of registration of the LLP. Subsequent declarations must be lodged once every calendar year and not more than 15 months after the last lodgement.
-  - title: For companies
+  - title: For Companies
     content: |
       Annual returns must be filed as it helps the company’s stakeholders make informed decisions. Here is a list of information that you are required to provide when filing annual returns.
 
