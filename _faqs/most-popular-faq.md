@@ -41,11 +41,7 @@ accordion-new:
 
   - title: I am not sure which business structure to choose. How do I get started?
     content: |
-      The [E-Adviser for Business Structure](https://eadviser.g2b.sg/businessstructure){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.
-
-  - title: I am not sure how to use the E-Adviser for Starting a Business. How do I begin?
-    content: |
-      You can use our easy [step-by-step guide](https://eadviser.g2b.sg/startabusiness){:target="_blank"}. If you have further questions, you may contact our helpdesk for assistance [here](/contact-us/).    
+      The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=most_pop_faq){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 30Apr2021.pdf){:target="_blank"}.
 
   - title: Not sure which government schemes to apply for?
     content: |
