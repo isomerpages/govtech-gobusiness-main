@@ -26,11 +26,11 @@ accordion-new:
       <br>Indicate the date of your company’s Annual General Meeting (AGM), if it was held. This is not applicable if your company is exempted from holding AGMs or have dispensed with AGMs.
 ---
 
-## Annual filing with ACRA
+## Annual filing with Accounting and Corporate Regulatory Authority (ACRA)
 
 ![Annual Returns](/images/grow/RunandGrow_AnnualReturns.jpg)
 
-All Singapore-incorporated companies are required to file annual returns with the Accounting and Corporate Regulatory Authority (ACRA) to keep the company's information in ACRA's database up to date.
+All Singapore-incorporated companies are required to file annual returns with ACRA to keep the company's information in ACRA's database up to date.
 
 {% include accordion-new.html %}
 
