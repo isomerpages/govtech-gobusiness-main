@@ -16,7 +16,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ## For new food service business owners
 
-**Guided Journey**
+### Guided Journey
 
 <br>If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
 
