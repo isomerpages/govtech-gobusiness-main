@@ -9,7 +9,7 @@ accordion-new:
 
       Hotels must submit their application to STB for assessment. Hotels may resume the provision of accommodation to guests for the purposes of leisure and related marketing efforts only after receiving approval from MTI.
 
-      The list of approved hotels can be found at [here](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}.
+      The list of approved hotels can be found [here](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}.
 
   - title: Can Hotels resume operations for event venues?
     content: |
@@ -22,6 +22,10 @@ accordion-new:
       With effect from 22 October 2020, work-related events are permitted to be held outside of workplaces/own premises, with up to 50 persons at any time or the maximum number of individuals which the room or venue may accommodate if there is a distance of  at least 1 metre between any 2 individuals, whichever is lower; and at least 1 metre spacing between individuals at all times. Work-related events include consumer-facing events (such as product launches / branding events) and work meetings (among colleagues or with external parties, training, board meetings, HR talks, townhalls, seminars, corporate retreats, conferences on business strategies, Annual/Extraordinary General Meetings, tender briefings to vendors and award ceremonies). F&B must not be the main feature of the event.
 
       Live performances with up to 250 audience members in zones of up to 50 persons each. Please refer to [NAC’s website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html){:target="_blank"} for more information.
+
+  - title: Are hotels required to submit an application for General Exemption (GE) of activities for F&B establishments, spas, pools and gyms?  
+    content: |
+      Hotels that have been closed and are not seeking approval from MTI for staycations for the time being will need to apply to MTI for general exemption before the resumption of these other businesses.
 
   - title: Once a hotel has received approval to re-open for staycations, does it have to submit a separate application to re-open other businesses (e.g. F&B, spas, pools, gyms) within its premises?
     content: |

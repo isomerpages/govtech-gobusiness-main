@@ -98,7 +98,7 @@ accordion-a:
 
   - title: What would exempt me/my guests from PET?
     content: |
-      Please refer to MOH’s guidelines at go.gov.sg/pet on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry.
+      Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry.
 
   - title: What is considered an acceptable proof of test result for the bride and groom and wedding reception attendees?
     content: |
@@ -114,7 +114,7 @@ accordion-a:
 
   - title: If I was recently tested and already have a negative PCR test result, can the same COVID-19 Test Result Notice be used to attend a marriage solemnization and wedding reception with PET requirements on the same day?
     content: |  
-      Yes, as long as you have a negative result and the event is within the 24-hour validity window. Please refer to MOH’s guidelines at go.gov.sg/pet for more information.
+      Yes, as long as you have a negative result and the event is within the 24-hour validity window. Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} for more information.
 
   - title: Can the same COVID-19 Test Result Notice be used to attend more than one wedding reception a day?
     content: |  
