@@ -4,10 +4,10 @@ panels:
     alt: signpost
     links:
       - text: e-Adviser for Business Structure
-        href: https://eadviser.g2b.sg/businessstructure/?src=homepage
+        href: https://eadviser.gobusiness.gov.sg/businessstructure?src=homepage
         target: _blank
       - text: e-Adviser for Starting a Business
-        href: https://eadviser.g2b.sg/startabusiness/?src=homepage
+        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=homepage
         target: _blank
       - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=homepage
