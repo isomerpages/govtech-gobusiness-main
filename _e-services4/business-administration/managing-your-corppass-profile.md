@@ -38,3 +38,9 @@ Learn more about it in Step 5 of our [Start-up Guide](/start-a-business/create-a
 
 - [Change of Company Name](https://www.cea.gov.sg/professionals/e-services-for-estate-agents){:target="_blank"}
   <br>Submit an application to change your company name. 
+
+---
+
+### Related links
+
+{% include panels.html panels=site.data.manage_your_corppass_links %}
