@@ -22,13 +22,13 @@ accordion-new:
 
       **Guided Journey**
 
-      Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the [food services industry](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=faq_about). We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
+      Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the [food services industry](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=faq_about){:target="_blank"}. We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
 
   - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
     content: |
-      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, and can be found <a href="/covid/">here</a> and <a href="/run-and-grow/">here</a> respectively.
+      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, under [Covid-19](/covid/) and [Government Assistance](/gov-assist/).
 
-      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass <a href="/login/" target="_blank">here</a>.
+      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply [log in to them via GoBusiness](/login/), with your SingPass.
 
   - title: Is GoBusiness an official Singapore Government website?
     content: |
