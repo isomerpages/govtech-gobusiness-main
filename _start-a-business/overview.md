@@ -3,7 +3,7 @@ title: Overview
 permalink: /start-a-business/
 ---
 
-## Overview
+## Start-up Guide
 
 ![Start Overview](/images/start/StartSJ_Overview_Main.jpg)
 
