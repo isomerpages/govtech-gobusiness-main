@@ -1,10 +1,10 @@
 ---
-title: Income Taxes & GST
+title: Income Taxes and GST
 permalink: /run-and-grow/taxes-and-gst/
-third_nav_title: Taxes, GST & Customs
+third_nav_title: Taxes, GST and Customs
 ---
 
-## File income tax return with IRAS
+## File income tax return with Inland Revenue Authority of Singapore (IRAS)
 
 ![Taxes GST](/images/grow/RunandGrow_TaxesGST.jpg)
 
@@ -12,7 +12,7 @@ Unsure about the tax filing obligations for your business/company?
 
 **Income tax filing for sole proprietorship/partnership/limited partnership/limited liability partnership**
 
-If your business has not been registered yet, check out the following guides to learn more.
+If you have newly registered your business or intend to register for one check out the following guides to learn more. 
 
 - [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="_blank"}
 - [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"}
@@ -23,7 +23,7 @@ After registering for your business, access the Start-Up Kit for customised info
 
 **Corporate income tax filing for new companies**
 
-If you have incorporated a new company or intend to incorporate one, check out the following guide to learn more.
+If you have newly incorporated a company or intend to incorporate one, check out the following guide to learn more.
 
 - [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"}
 

@@ -1,7 +1,7 @@
 ---
 title: Annual returns
 permalink: /run-and-grow/annual-returns/
-third_nav_title: Taxes, GST & Customs
+third_nav_title: Taxes, GST and Customs
 accordion-new:
   - title: For businesses (sole proprietorships and partnerships) and limited partnerships
     content: |
