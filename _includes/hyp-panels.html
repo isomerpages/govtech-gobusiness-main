@@ -26,7 +26,7 @@
   }
 
   .panel-header-text {
-    font-family: hknova-regular;
+    font-family: hknova-semibold;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -52,7 +52,7 @@
   .panel-content-info-text {
     font-family: hknova-regular !important;
     font-style: normal !important;
-    font-weight: normal !important;
+    font-weight: 400 !important;
     font-size: 14px !important;
     line-height: 22px !important;
     color: #4a5561 !important;
@@ -99,12 +99,12 @@
     margin: unset !important;
   }
 
-    @media (max-width: 760px) {
-        .panel {
-        width: 339px;
-        height: auto;
-      }
+  @media (max-width: 760px) {
+    .panel {
+      width: 339px;
+      height: auto;
     }
+  }
 </style>
 
 {% for panel in {{include.panels}} %}

@@ -5,6 +5,7 @@
 $extra-bold: 800;
 $bold: 700;
 $semi-bold: 600;
+$medium: 500;
 $regular: 400;
 $light: 300;
 
@@ -24,6 +25,11 @@ $light: 300;
   font-weight: $semi-bold;
 }
 @font-face {
+  src: url(/fonts/HKNova-Medium.otf);
+  font-family: hknova-medium;
+  font-weight: $medium;
+}
+@font-face {
   src: url(/fonts/HKNova-Bold.otf);
   font-family: hknova-bold;
   font-weight: $bold;
@@ -33,7 +39,6 @@ $light: 300;
   font-family: hknova-extrabold;
   font-weight: $extra-bold;
 }
-@charset "utf-8";
 
 // GoBusiness brand colors
 $primary: {{- site.colors.primary-color -}};
@@ -223,6 +228,20 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Menu/Left-nav
+.sidenav {
+  .bp-menu-list {
+    li a {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    li a[class~="is-active"],
+    li a[class~="has-text-weight-bold"] {
+      font-family: hknova-semibold;
+      font-weight: 600;
+    }
+  }
+}
+
 .bp-menu-list a.is-active {
   color: $secondary !important;
   border-bottom: 2px solid $secondary !important;
@@ -253,6 +272,13 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-footer {
   background-color: #313840 !important;
+
+  .sub-header {
+    .has-text-white {
+      font-family: hknova-semibold;
+      font-weight: 600;
+    }
+  }
 }
 
 // Button
@@ -367,6 +393,14 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   .navbar-item {
+    a {
+      font-family: hknova-semibold;
+      font-weight: 600;
+    }
+    .sub-link {
+      font-family: hknova-regular;
+      font-weight: 400;
+    }
     .sub-link.is-active {
       //color:$secondary;
       color: #037e8a;
@@ -404,6 +438,10 @@ $desktop: 960px + (2 * $gap) !default;
   u,
   small {
     font-family: hknova-regular;
+  }
+  h1[class~="has-text-white"]>b {
+    font-family: hknova-semibold;
+    font-weight: 600;
   }
 }
 
@@ -637,6 +675,10 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   width: 240px;
 }
 
+p > img[src*="/images/"] {
+  margin: 32px 0;
+}
+
 .news-content {
   position: relative;
   font-family: hknova-regular;
@@ -698,6 +740,10 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   line-height: revert;
   font-family: hknova-regular;
 
+  b {
+    font-family: hknova-semibold;
+  }
+
   a {
     color: white;
   }
@@ -718,7 +764,7 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
     position: absolute;
     left: 25%;
     top: 22%;
-    font-family: hknova-regular;
+    font-family: hknova-semibold;
     font-size: 14px;
     font-weight: 600;
     line-height: 21px;

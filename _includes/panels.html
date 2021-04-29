@@ -19,6 +19,7 @@ YML Data Example
         display: grid;
         grid-gap: 20px;
         grid-template-columns: 1fr 1fr;
+        margin: 24px 0;
     }
 
     .content .panel {
@@ -29,11 +30,11 @@ YML Data Example
         border-radius: 5px;
         padding: 24px;
         word-break: break-word;
-        grid-auto-rows: auto 1fr auto;
+        grid-auto-rows: auto;
     }
 
     .content .panel .panel-image {
-        font-family: hknova-regular;
+        font-family: hknova-semibold;
         font-size: 24px;
         font-weight: 600;
         width: auto;
@@ -58,7 +59,7 @@ YML Data Example
     }
 
     .content .panel .panel-description,
-    .content .panel>div {
+    .content [class*="panel-"]>div {
         font-family: hknova-regular;
         margin: 0;
     }
@@ -119,9 +120,9 @@ YML Data Example
             <div class="panel-links-group">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
-                <a class="panel-link" 
-                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}" 
-                target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
+                <a class="panel-link"
+                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
                     {% if panel.text %}{{panel.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
