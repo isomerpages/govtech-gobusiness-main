@@ -14,15 +14,15 @@ accordion-new:
 
       **e-Advisers**
 
-      Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over 4 e-Advisers <a href="/e-services">here</a> to help you use GoBusiness effectively.
+      Not sure what your business needs? Find out easily with our e-Advisers. Simply answer a few questions about your business and get helpful recommendations on grants you can apply for, next steps to start a business, and more. We have over [4 e-Advisers here](/e-services/guides-for-biz/) to help you use GoBusiness effectively.
 
       **e-Service Navigator**
 
-      Over 300 Government e-services are at your fingertips with the <a href="/e-services">e-Service Navigator</a>. An online directory of e-services and resources, it's a fast and easy way to locate what your business needs at a glance.
+      Over 300 Government e-services are at your fingertips with the [e-Service Navigator](/e-services/). An online directory of e-services and resources, it's a fast and easy way to locate what your business needs at a glance.
 
       **Guided Journey**
 
-      Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the <a href="/licences/guided-journey/">food services industry</a>. We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
+      Designed to help new business owners, Guided Journey is a step-by-step walkthrough to apply for the licences you need. This feature is currently only available for businesses in the [food services industry](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=faq_about). We are also working on expanding the Guided Journey feature to help with other tasks such as applying for grants.
 
   - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
     content: |
