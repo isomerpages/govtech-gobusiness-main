@@ -26,9 +26,9 @@ accordion-new:
 
   - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
     content: |
-      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, and can be found <a href="/covid/">here</a> and <a href="/run-and-grow/">here</a> respectively.
+      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, under [Covid-19](/covid/) and [Government Assistance](/gov-assist/).
 
-      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass <a href="/login/" target="_blank">here</a>.
+      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply [log in to them via GoBusiness](/login/), with your SingPass.
 
   - title: Is GoBusiness an official Singapore Government website?
     content: |

@@ -29,13 +29,13 @@ accordion-new:
       The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_faq){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 30Apr2021.pdf){:target="_blank"}.
   - title: Where can I access the legislations for the registration of businesses?
     content: |
-      You can find the information [here](https://www.acra.gov.sg/legislation/legislation-under-acra-purview){:target="_blank"}.
+      You can find the information [ACRA's website](https://www.acra.gov.sg/legislation/legislation-under-acra-purview){:target="_blank"}.
   - title: Where can I find the list of Corporate Service Providers?
     content: |
       You may refer to the [Chartered Secretaries Institute of Singapore (CSIS)](https://csis.org.sg/){:target="_blank"} website for more information.
   - title: Who can I call if I still have further questions?
     content: |
-      You may contact our helpdesk for assistance [here](/contact-us/).
+      You may contact our [helpdesk](/contact-us/) for assistance.
 ---
 
 ### About starting a business

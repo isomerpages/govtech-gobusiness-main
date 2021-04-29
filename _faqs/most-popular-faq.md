@@ -25,9 +25,9 @@ accordion-new:
 
   - title: I've been using LicenceOne/Business Grants Portal/GoBusiness Covid/Gov Assist. Can I continue using them?
     content: |
-      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, and can be found <a href="/covid/">here</a> and <a href="/run-and-grow/">here</a> respectively.
+      All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, under [Covid-19](/covid/) and [Government Assistance](/gov-assist/).
 
-      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply log in to them via GoBusiness, with your SingPass <a href="/login/" target="_blank">here</a>.      
+      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply [log in to them via GoBusiness](/login/), with your SingPass. 
 
   - title: What is the change in the Corppass login process?
     content: |
@@ -43,9 +43,9 @@ accordion-new:
     content: |
       The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=most_pop_faq){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 30Apr2021.pdf){:target="_blank"}.
 
-  - title: Not sure which government schemes to apply for?
+  - title: I am not sure which government schemes to apply for. What should I do?
     content: |
-      Find out with [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=about_govassist){:target="_blank"}, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
+      Find out with [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=most_popular_faq){:target="_blank"}, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
   - title: I'm not sure which licences my business needs. How do I get started?
     content: |  
