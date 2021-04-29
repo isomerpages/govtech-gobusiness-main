@@ -111,6 +111,6 @@ Learn more about taxes and GST in our [Run and Grow guide](/run-and-grow/).
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.taxes_and_gst_links %}

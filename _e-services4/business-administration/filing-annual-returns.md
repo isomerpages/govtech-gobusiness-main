@@ -22,6 +22,6 @@ Learn more about it in our [Run and Grow guide](/run-and-grow/annual-returns/).
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.filing_annual_returns_links %}

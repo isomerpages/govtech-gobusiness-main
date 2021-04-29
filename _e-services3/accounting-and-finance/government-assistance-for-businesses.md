@@ -77,6 +77,6 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.govt_assistance_for_biz_links %}

@@ -32,6 +32,6 @@ Depending on your sector and business activity, there may be mandatory business 
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.essential_biz_reg_links %}
