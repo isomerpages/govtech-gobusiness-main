@@ -2,7 +2,7 @@
 title: Employees / Manpower Queries
 permalink: /covid-faqs/support-and-relief-measures/employees-manpower-queries
 accordion-new:
-  - title: Is there a guide on how to apply for a Time-Limited Exemption?
+  - title: How do I know if my foreign workers can leave their residence for work?
     content: |
       You can now use the AccessCode on the SGWorkPass app to check if your foreign employees can leave their residence (dormitory or non-dormitory housing) for work. The status of your employees' AccessCode takes into account 3 broad parameters:
 

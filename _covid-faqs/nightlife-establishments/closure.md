@@ -33,6 +33,10 @@ accordion-new:
 
   - title: Can companies which have taken up the pivot support package but later decide to cease business still qualify for the exit support package?
     content: |
+      Companies which have received the pivot support package will not be eligible for the exit support package. We strongly advise companies to consider the available options and make their own business assessment on the next steps prior to any application for support.
+
+  - title: Can companies which have pivoted to permitted activities or exited the industry prior to the effective date of the support packages qualify for the pivot or exit support package respectively on a retrospective basis?
+    content: |
       For nightlife operators who had taken the initiative to change their business activity earlier, ESG will be prepared to extend the pivot support package on a case-by-case basis. Operators may write to SNBA at <helpdesk@snba.org.sg>{:target="_blank"} to appeal for the pivot support package. Such appeals will be assessed by ESG subsequently on a case-by-case basis.
 
       Nightlife operators who had exited the industry or are in the process of doing so may qualify for the exit support package if they are still registered with Accounting and Corporate Regulatory Authority (“ACRA”) at the point of application. The retrenchment benefit support will be tied to the number of local employees at the point of application. Employers who have retrenched their employees and provided the retrenchment benefit prior to the effective date of the exit support package may write to SNBA at <helpdesk@snba.org.sg>{:target="_blank"}. Such appeals will be assessed by ESG on a case-by-case basis.
@@ -49,7 +53,7 @@ accordion-new:
     content: |
       The Government recognises that COVID-19 is an unforeseen event and some businesses may be faced with substantial obligations from contracts entered into before the pandemic.
 
-      The Ministry of Law has introduced a legislative Re-Align Framework under the COVID-19 (Temporary Measures) Act to allow businesses which have experienced a substantial change in circumstances due to COVID-19, to renegotiate certain prescribed contracts with their counterparties, failing which they may be able to terminate the contract. For more details, please visit <go.gov.sg/re-align>{:target="_blank"}.
+      The Ministry of Law has introduced a legislative Re-Align Framework under the COVID-19 (Temporary Measures) Act to allow businesses which have experienced a substantial change in circumstances due to COVID-19, to renegotiate certain prescribed contracts with their counterparties, failing which they may be able to terminate the contract. For more details, please visit [here](https://www.mlaw.gov.sg/realign/re-align-framework){:target="_blank"}.
 
 ---
 
