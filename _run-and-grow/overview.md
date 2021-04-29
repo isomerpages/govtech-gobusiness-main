@@ -15,7 +15,7 @@ To help businesses expand and transform, the government provides support in the 
 
 {% include panels.html panels=site.data.rg_overview_ga %}
 
-### Licences and Permits
+### Licences and permits
 
 ![Licences and Permits](/images/grow/RG-Overview-Licensing-Banner.png)
 
@@ -33,7 +33,7 @@ A simple guide to a business' responsibilities while operating in Singapore.
 
 ---
 
-### Related Links
+### Related links
 
 {% include panels.html panels=site.data.rg_overview_related_links %}
 
