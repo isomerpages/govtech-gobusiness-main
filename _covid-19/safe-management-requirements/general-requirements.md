@@ -10,24 +10,29 @@ To provide a safe working environment and to prevent virus transmission at the w
 
 All businesses should take note of the following:
 
-- Employers must ensure that no more than 75% of employees who are able to work from home are at the workplace at any point in time. Employers are encouraged to support as many employees in working from home as possible, to reduce physical interactions in the workplace and minimise the spread of COVID-19.
+- Employers must ensure that no more than 75% of employees who are able to work from home are at the workplace at any point in time. Employers are encouraged to support as many employees in working from home as possible, to reduce physical interactions in the workplace and minimise the spread of COVID-19
+
 - With more employees back in office, employers are also encouraged to stagger the start time for all employees and allow for flexible workplace hours. This will spread out staff across time and place and reduce possible congregation of employees at common spaces at or near the workplace as well as in public places, including public transport.
+
 - Any applicable sector-specific requirements
+
+Please view the infographic below for an overview of the safe management measures.
 
 ---
 
 ### Be ready, stay safe
+#### 7 Key Requirements for Safe Management at Workplaces**
 
-- Here's an overview for Safe Management Measures.
+- **Infographic**
   <br><br>
   ![Safe Management Practices!](/images/covid/infog.jpg "7 Key Requirements for Safe Management at Workplaces")
   <br>
-- Watch this video to find out the key requirements for safety management.
+- **Video**
 <figure class="video_container">
   <iframe width="100%" height="348" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-- Resources
+- **Resources for download**
 
 | 7 Key Requirements for Safe Management at Workplaces |                                                                                                                                                                                    Download                                                                                                                                                                                    |
 | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
