@@ -27,7 +27,7 @@ accordion-new:
 
   - title: What manpower details must companies declare / submit? How do I declare / submit my manpower details?
     content: |
-      For applicants with a Singpass account, please login [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Thereafter, please click on the button “submit manpower” to submit your manpower details.
+      For applicants with a Singpass account, please login [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Thereafter, please click on the button “Submit Manpower” to submit your manpower details.
 
       Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
@@ -35,7 +35,23 @@ accordion-new:
 
   - title: My company has a General Exemption approval but my staff will be continuing to work from home. How should I submit my manpower declaration?
     content: |
-      If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Singpass account, kindly login [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"} to verify that your email address is accurately reflected.
+      Companies that have a General Exemption approval to resume operations, even if employees are working from home, must submit their manpower declaration within 2 days of resuming operations.
+
+      If your company has not submitted on-site manpower details before and is not operating on-site, please click on the “declare 0 button” to declare “0” manpower working on-site.
+
+      If you had already submitted on-site manpower details previously but are now ceasing on-site operations, click on the “reset to 0” button under the field “total number of manpower working on-site” to declare “0” manpower working on-site.
+
+      Companies can check your status by logging in to the GoBusiness portal.
+
+  - title: Can I proceed to resume operations after declaring/submitting my manpower details? Will I receive any notification of approval?
+    content: |
+      You will receive an email acknowledgment of your manpower declaration. You can only resume operations from the specified date indicated against your business resumption status, when you login to <https://www.gobusiness.gov.sg/exemptions>{:target="_blank"}.
+
+      There may be conditions imposed on your approved/permitted general exemption/business resumption. These conditions will also be indicated in the email acknowledgement of your manpower declaration. Alternatively, you may login to <https://www.gobusiness.gov.sg/exemptions>{:target="_blank"} to check your general exemption/business resumption status for any conditions to your approval.
+
+  - title: What happens if I do not receive an acknowledgement email after I have declared my manpower details?
+    content: |
+      If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Singpass account, kindly login to <https://www.gobusiness.gov.sg/exemptions>{:target="_blank"} to verify that your email address is accurately reflected. 
 
       You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.  
 

@@ -54,10 +54,6 @@ accordion-new:
     content: |  
       Physical meetings are regarded as work-related events and are allowed to proceed with a cap of 50 physical attendees.  They will also be subject to other Safe Management Measures being put in place, depending on the specific premises where the event is being held. Nonetheless, companies should continue to conduct virtual meetings as much as possible.
 
-  - title: Is there a limit on the number of attendees in a physical meeting?
-    content: |  
-      Physical meetings are regarded as work-related events and are allowed to proceed with a cap of 50 physical attendees.  They will also be subject to other Safe Management Measures being put in place, depending on the specific premises where the event is being held. Nonetheless, companies should continue to conduct virtual meetings as much as possible.
-
   - title: Can employees use the recreational facilities (e.g. gyms, lounges) at the workplace in Phase 2?
     content: |
       Recreational facilities at workplaces will be able to reopen in permitted enterprises, subject to the required Safe Management Measures (e.g. maintaining a distance of at least 2-3 metres from each other when engaging in any sporting activity or physical exercise). When visiting such facilities, employees will still have to comply with the relevant Safe Management Measures put in place for that setting.

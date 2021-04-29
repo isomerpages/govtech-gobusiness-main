@@ -114,8 +114,7 @@ accordion-a:
     content: |       
       Buffet lines, where customers queue up to collect the food, are currently not allowed, even if the food at the line is served by staff.
 
-
-accordion-c:
+accordion-b:
   - title: The Chinese New Year period is coming up. Can retailers hold pop-ups to sell their products, outside of their premises or at mall atriums?
     content: |
       Temporary pop-ups/pushcarts and fairs selling Chinese New Year goods at mall atriums and common spaces are disallowed. However, existing designated retail stores in the mall may be used to conduct sales of Chinese New Year goods.
