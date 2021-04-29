@@ -1,6 +1,6 @@
 ---
 title: Foreign Worker Levy
-permalink: /covid-faqs/support-and-relief-measures/jobs-support-scheme
+permalink: /covid-faqs/support-and-relief-measures/foreign-worker-levy
 third_nav_title: Support and Relief Measures
 accordion-new:
   - title: Companies in the Construction, Marine Shipyard and Process Sectors are facing high costs implementing stringent Safe Management Measures as a result of COVID-19. What relief measures are being rolled out to help them?

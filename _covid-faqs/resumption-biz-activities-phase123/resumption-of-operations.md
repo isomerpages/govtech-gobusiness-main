@@ -54,7 +54,7 @@ accordion-new:
 
   - title: I have more than one Singapore Standard Industrial Classification (SSIC) code tagged to my business. If my primary activity does not fall under the list of permitted services, but my secondary activity falls under the list of permitted services, will I still be allowed to resume operations?
     content: |  
-      No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption here.
+      No. You may resume operations only if the SSIC code for your primary business activity falls within the list of permitted services that can resume operations. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption [here](https://form.gov.sg/#!/5ed05c2cde28b7001163f2f2){:target="_blank"}.
 
   - title: My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to resume operations?
     content: |  
@@ -64,7 +64,7 @@ accordion-new:
     content: |  
       Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC.
 
-      If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016&_afrLoop=36125310646351426&_afrWindowMode=0&_afrWindowId=165ndkuclg&_adf.ctrl-state=ycaqxy2ru_34#!%40%40%3F_afrWindowId%3D165ndkuclg%26selectedETransId%3DG016%26_afrLoop%3D36125310646351426%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dycaqxy2ru_38){:target="_blank"} to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations here.
+      If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016&_afrLoop=36125310646351426&_afrWindowMode=0&_afrWindowId=165ndkuclg&_adf.ctrl-state=ycaqxy2ru_34#!%40%40%3F_afrWindowId%3D165ndkuclg%26selectedETransId%3DG016%26_afrLoop%3D36125310646351426%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dycaqxy2ru_38){:target="_blank"} to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations [here](/permittedlist/).
 
   - title: I am running a society/organisation which does not require me to be registered with ACRA. How can I check whether I can resume activities?
     content: |  
