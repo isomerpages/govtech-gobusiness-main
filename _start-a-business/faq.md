@@ -26,7 +26,7 @@ accordion-new:
       You can refer to our [start-up guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: I am not sure which business structure to choose. How do I get started?
     content: |
-      The [e-Adviser for Business Structure](https://eadviser.g2b.sg/businessstructure){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Entities in Singapore.pdf){:target="_blank"}.
+      The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_faq){:target="_blank"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 30Apr2021.pdf){:target="_blank"}.
   - title: Where can I access the legislations for the registration of businesses?
     content: |
       You can find the information [here](https://www.acra.gov.sg/legislation/legislation-under-acra-purview){:target="_blank"}.

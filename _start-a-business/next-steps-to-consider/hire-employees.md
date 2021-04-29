@@ -24,7 +24,7 @@ For companies, you will need to hire an auditor within three months and a compan
 - [Pay Skills Development Levy](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/skills-development-levy-(sdl)){:target="_blank"}
 - [Make CPF contributions](https://www.cpf.gov.sg/employer/making-cpf-contributions){:target="_blank"}
 
-**Every month, you will need to:**
+**To hire a foreign employee, you need to:**
 
 - [Set up a work pass account](https://www.mom.gov.sg/eservices/services/work-pass-account-registration-wpar){:target="_blank"}
 - Familiarise with all the [rules on hiring of foreign employees](https://www.mom.gov.sg/passes-and-permits){:target="_blank"} including dependency ceiling ratio and foreign worker levy for work permit and S pass, and fair consideration framework for S pass and Employment Passes.
