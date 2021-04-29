@@ -201,7 +201,7 @@ accordion-b:
       <br>A guide for local SMEs in the sea transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://go.gov.sg/mpa-idp" target="_blank">Find Out More</a>
-  - title: Manufacturing & engineering
+  - title: Manufacturing & Engineering
     content:  |
       **A\*STAR Tech Access**
       <br>Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
@@ -217,19 +217,19 @@ accordion-b:
       <br>SIRI comprises a suite of frameworks and tools to help manufacturers - regardless of their size and industry - start, scale and sustain their manufacturing transformation journeys.
       
       <a href="https://www.siri.gov.sg" target="_blank">Find Out More</a>
-  - title: Professional services
+  - title: Professional Services
     content:  |
       **Accountancy Industry Digital Plan**
       <br>A step-by-step guide for local Small and Medium Practices (SMPs) in the accountancy industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Accountancy-IDP" target="_blank">Find Out More</a>
-  - title: Building & construction
+  - title: Building & Construction
     content:  |
       **Construction and Facilities Management Industry Digital Plan**
       <br>A step-by-step guide for local SMEs in the construction and facilities management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank">Find Out More</a>
-  - title: Environmental services
+  - title: Environmental Services
     content:  |
       **Environmental Services Industry Digital Plan**
       <br>A step-by-step guide for local SMEs in the environmental services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
@@ -240,7 +240,7 @@ accordion-b:
       <br>Cleaning service providers and buyers can access a list of easy-to-adopt solutions to improve productivity, attract and retain workers and improve service outcomes.
       
       <a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/cleaning/job-redesign-programme-for-environmental-services-cleaning-sector.html" target="_blank">Find Out More</a>
-  - title: Food & beverage
+  - title: Food & Beverage (F&B)
     content:  |
       **Food Services Industry Digital Plan**
       <br>A step-by-step guide for local SMEs in the Food Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
@@ -332,7 +332,7 @@ accordion-b:
 
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend toolkits and programmes you can use.
 
-{% include button.html text="Get Started with e-Adviser" src="
+{% include button.html text="Go to e-Adviser for Government Assistance" src="
 https://gaeadviser.gobusiness.gov.sg/?src=govassist_toolkits
 " type="primary" %}
 

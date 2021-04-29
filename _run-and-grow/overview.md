@@ -15,7 +15,7 @@ To help businesses expand and transform, the government provides support in the 
 
 {% include panels.html panels=site.data.rg_overview_ga %}
 
-### Licences and permits
+### Licences and Permits
 
 ![Licences and Permits](/images/grow/RG-Overview-Licensing-Banner.png)
 

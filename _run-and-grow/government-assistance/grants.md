@@ -26,7 +26,7 @@ accordion-a:
       <a href="https://www.startupsg.net/programmes/4897/startup-sg-tech" target="_blank">Find Out More</a>
 
 accordion-b:
-  - title: Adopt technology and digital solutions
+  - title: Adopt Technology and Digital Solutions
     content:  |
       **Enterprise Development Grant (EDG)<img src="/images/budget2021/budget_enhanced.png">**
       <br>The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 March 2022)
@@ -236,7 +236,7 @@ accordion-c:
       <br>The Aviation Development Fund (ADF) supports the development and growth of the aviation industry in Singapore, with focus on raising airport productivity, building capabilities, and developing manpower.
       
       <a href="https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund" target="_blank">Find Out More</a>
-  - title: Building & construction
+  - title: Building & Construction
     content:  |
       **Productivity Innovation Project (PIP)**
       <br>Construction-related companies can defray the cost of technology adoption aimed to help reduce site workers or improve site productivity.
@@ -310,7 +310,7 @@ accordion-c:
       The Power Systems CRT Funding Initiatives support competitive R&D grant call projects and test-beds in the three areas of power utilities, energy storage and smart grids that will meet Singapore’s energy needs.
       
       <a href="https://www.ema.gov.sg/Industry_Energy_Research_and_Development.aspx" target="_blank">Find Out More</a>
-  - title: Financial services
+  - title: Financial Services
     content:  |
       **Asian Financial Leaders Scheme (AFLS)**
       <br>The AFLS initiative helps Financial Institutions (FIs) defray part of the costs incurred in sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes.
@@ -386,7 +386,7 @@ accordion-c:
       <br>The POC grant supports up to 50% of qualifying costs for projects which aim to develop a novel concept of resolving industry-wide problems, using technology or business processes. Maximum support of up to $200,000.
       
       <a href="https://www.mas.gov.sg/development/fintech/mas-fsti-proof-of-concept-grant" target="_blank">Find Out More</a>
-  - title: Food & beverages (F&B)
+  - title: Food & Beverage (F&B)
     content:  |
       **Healthier Dining Grant**
       <br>The Healthier Dining Grant is a funding scheme which empowers Healthier Dining Programme Partners to promote healthier menu options.
@@ -412,7 +412,7 @@ accordion-c:
       <br>The Digital Resilience Bonus aims to uplift the digital capabilities of a broad-base of enterprises. Eligible Food Services and Retail enterprises can receive up to $10,000 one-time cash payouts when they adopt pre-defined categories of solutions.
       
       <a href="https://www.imda.gov.sg/DRBonus" target="_blank">Find Out More</a>
-  - title: Information technology (IT)
+  - title: Information Technology (IT)
     content:  |
       **GoCloud**
       <br>Supports local information and communications technology (ICT) SMEs to transform traditional software architecture and development practices to Cloud-Native applications, so that they can be more agile, flexible and scalable
@@ -428,7 +428,7 @@ accordion-c:
       <br>With up to $30,000 funding support, this grant supports software developers to develop innovative solutions that integrates tax seamlessly into digital solutions used by taxpayers and/or harnesses IRAS' APIs.
       
       <a href="https://www.iras.gov.sg/irashome/About-Us/Public-Engagement/IRAS-Co-Creation-Grant/" target="_blank">Find Out More</a>
-  - title: Manufacturing & engineering
+  - title: Manufacturing & Engineering
     content:  |
       **Energy Efficiency Fund (E2F)**
       <br>E2F supports companies in the industry sector in becoming more energy efficient. NEA provides funding support of up to 50% of qualifying costs.
@@ -542,7 +542,7 @@ accordion-c:
 
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend grants you can apply for.
 
-{% include button.html text="Get Started with e-Adviser" src="
+{% include button.html text="Go to e-Adviser for Government Assistance" src="
 https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
 " type="primary" %}
 
