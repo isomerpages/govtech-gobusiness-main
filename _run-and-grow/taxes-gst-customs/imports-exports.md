@@ -4,7 +4,7 @@ permalink: /run-and-grow/imports-and-exports/
 third_nav_title: Taxes, GST and Customs
 ---
 
-## Imports & exports
+## Imports and exports
 
 ![Import Exports](/images/grow/RunandGrow_ImportExport.jpg)
 

@@ -37,8 +37,8 @@ Learn more about your company’s Corporate Income Tax filing obligations from t
 
 You will need to register for GST if:
 
-- your taxable turnover for the past 12 months has exceeded $1 million or
-- you can reasonably expect your taxable turnover in the next 12 months to exceed $1 million
+- Your taxable turnover for the past 12 months has exceeded $1 million or
+- You can reasonably expect your taxable turnover in the next 12 months to exceed $1 million
 
 If your yearly taxable turnover does not exceed $1 million, you may still choose to [voluntarily register for GST](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="_blank"} after carefully considering the obligations and responsibilities of being GST-registered. 
 
@@ -48,33 +48,33 @@ If your yearly taxable turnover does not exceed $1 million, you may still choose
 
 Total Taxable Turnover = combined revenue, fees and income from:
 
-- all business activities
-- sole proprietorship businesses owned by the company
-- rental of commercial properties
-- rental of furniture & fittings for residential properties
+- All business activities
+- Sole proprietorship businesses owned by the company
+- Rental of commercial properties
+- Rental of furniture & fittings for residential properties
 
 **Partnership**
 
 Total Taxable Turnover = combined revenue, fees and income from:
 
-- all partnership businesses with same composition of partners
-- rental of commercial properties
-- rental of furniture & fittings for residential properties
+- All partnership businesses with same composition of partners
+- Rental of commercial properties
+- Rental of furniture & fittings for residential properties
 
 **Sole Proprietorship**
 
 Total Taxable Turnover = combined revenue, fees and income from:
 
-- all business activities
-- self-employed profession or vocation
-- rental of commercial properties
-- rental of furniture & fittings for residential properties
+- All business activities
+- Self-employed profession or vocation
+- Rental of commercial properties
+- Rental of furniture & fittings for residential properties
 
 ### Being GST-registered means:
 
-- you have to charge customers GST for the goods and services you sell locally. The GST collected is called Output Tax.
-- you can claim back GST paid on your business purchases (eg: ingredients and materials). This is called Input Tax.
-- you have to file GST returns for each prescribed accounting period. If Output Tax is more than Input Tax, you have to pay the difference to IRAS. If Input Tax is more than Output Tax, you will be refunded by IRAS.
+- You have to charge customers GST for the goods and services you sell locally. The GST collected is called Output Tax.
+- You can claim back GST paid on your business purchases (eg: ingredients and materials). This is called Input Tax.
+- You have to file GST returns for each prescribed accounting period. If Output Tax is more than Input Tax, you have to pay the difference to IRAS. If Input Tax is more than Output Tax, you will be refunded by IRAS.
 
 Check out the following webpages and video to learn more.
 
