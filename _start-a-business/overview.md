@@ -10,8 +10,8 @@ permalink: /start-a-business/
 If you're starting a business in Singapore, the first question to consider is whether you need to register it.
 
 Anybody who intends to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
-.
-- You use your full name, as per your NRIC, as your business name.
+
+- You use your full name, as per your NRIC, as your business name
 - You and your partner(s) use your full names, as per your NRIC, as your business name
 
 Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions from registration and the full list can be found in the [Business Names Registration Act](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}.

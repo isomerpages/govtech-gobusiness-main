@@ -14,4 +14,4 @@ third_nav_title: Next Steps to Consider
 - Company is based in Singapore
 - Company has a minimum of 30% local shareholding
 
-For the full list of grants available for new businesses, click [here](/gov-assist/grants/).
+View the [full list of grants available for new businesses](/gov-assist/grants/).

@@ -24,7 +24,7 @@ If you have just started your business or are new to digital technology, you can
 
 The [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/) supports companies keen on using IT solutions and equipment to enhance business processes by providing up to 80% funding support. PSG covers sector-specific solutions and solutions across industries, such as customer management, data analytics, financial management and inventory tracking.
 
-A full list of digital solutions (includes PSG-supported solutions) can be found [here](https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory){:target="_blank"} under the SME Go Digital Programme. Some examples include [E-invoicing](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework){:target="_blank"} (billing solution) and [PayNow Corporate](https://abs.org.sg/consumer-banking/pay-now){:target="_blank"} (digital payment).
+A full [list of digital solutions](https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory){:target="_blank"} (includes PSG-supported solutions) can be found here under the SME Go Digital Programme. Some examples include [E-invoicing](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework){:target="_blank"} (billing solution) and [PayNow Corporate](https://abs.org.sg/consumer-banking/pay-now){:target="_blank"} (digital payment).
 
 ### Register a domain name
 
