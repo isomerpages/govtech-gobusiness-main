@@ -140,7 +140,7 @@ You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how
 
 The Singapore Standard Industrial Classification (SSIC) is the national standard to classify the business activities of firms. It is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity.
 
-When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.g2b.sg/startabusiness){:target="_blank"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2015report-v2018a.pdf){:target="_blank"}.
+When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="_blank"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2015report-v2018a.pdf){:target="_blank"}.
 
 ### How to reserve your business name
 
