@@ -1,6 +1,6 @@
 ---
-title: ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)
-permalink: /productivity-solutions-grant/solutionrepo/solution3
+title: ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)
+permalink: /productivity-solutions-grant/solutionrepo/solution7
 ---
 
 ### Description
@@ -9,7 +9,7 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 
 ### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

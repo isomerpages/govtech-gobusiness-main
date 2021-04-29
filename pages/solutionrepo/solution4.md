@@ -1,15 +1,16 @@
 ---
-title: Xero Cloud Accounting Software - Package C (Xero Premier with Training)
-permalink: /productivity-solutions-grant/solutionrepo/solution9
+title: ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)
+permalink: /productivity-solutions-grant/solutionrepo/solution4
 ---
 
 ### Description
 
-Xero is a comprehensive accounting software that provides accounting features like invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
+ABSS Premier is an integrated accounting, sales, inventory and multiple-currency management solution which integrate with  PEPPOL e-invoicing network. Listed in the IRAS Accounting Software Register, ABSS Premier is GST-compliant and a business management software that helps businesses to streamline their accounting procedures, simplify complex inventory issues, has full multi-currency capability, supports multi-users, and increases productivity.
+
 
 ### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
+01 BUSINESS SOLUTIONS PTE LTD<br>https://www.01businesssolutions.com/psg-grant/<br>Email: sales@01businesssolutions.com<br>Tel: +65 6220 3306
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
