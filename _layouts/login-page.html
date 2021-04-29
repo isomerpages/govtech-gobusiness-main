@@ -1,0 +1,245 @@
+---
+layout: skeleton
+---
+
+<body>
+  <style>
+    #main-content {
+      background-color: #f9fafa;
+    }
+
+    .page-title-container {
+      margin-top: 0;
+      text-align: center;
+    }
+
+    .page-title {
+      font-family: hknova-semibold;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 28px;
+      line-height: 35px;
+      color: #161a1d !important;
+    }
+
+    .page-subtitle {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #4a5561 !important;
+      margin-top: 15.5px !important;
+    }
+
+    .panels {
+      display: grid;
+      grid-template-areas:
+        "grants gebiz licence licence licence"
+        "biz subscribe food nparks others";
+      margin-top: 28px;
+      column-gap: 20px;
+    }
+
+    .panel-header-container {
+      padding: 8px 0;
+    }
+
+    .panel-header {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px !important;
+      line-height: 15px !important;
+      text-align: center;
+      text-transform: uppercase;
+      color: #ffffff !important;
+      margin: 0 !important;
+    }
+
+    #grants {
+      grid-area: grants;
+      background-color: #037e8a;
+    }
+
+    #gebiz {
+      grid-area: gebiz;
+      background-color: #096ee3;
+    }
+
+    #licence {
+      grid-area: licence;
+      background-color: #440088;
+    }
+
+    .panel {
+      display: grid;
+      grid-template-rows: 90px 1fr auto;
+      margin: 12px 0;
+      padding: 32px 15px 32px 15px;
+      background: #ffffff !important;
+      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+        0px 7px 25px rgba(22, 26, 29, 0.03),
+        0px 4px 12px rgba(22, 26, 29, 0.03);
+      text-align: center;
+    }
+
+    .panel>h5 {
+      font-family: hknova-semibold;
+      font-weight: 600;
+      font-size: 24px;
+      line-height: 30px;
+      text-align: center;
+      color: #037e8a !important;
+      align-self: center;
+      margin-bottom: 0 !important;
+    }
+
+    .panel>p {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px !important;
+      color: #4a5561 !important;
+      margin-top: 10px !important;
+      margin-bottom: 27px !important;
+    }
+
+    .panel a {
+      margin: 0 !important;
+    }
+
+    #biz {
+      grid-area: biz;
+    }
+
+    #subscribe {
+      grid-area: subscribe;
+    }
+
+    #food {
+      grid-area: food;
+    }
+
+    #nparks {
+      grid-area: nparks;
+    }
+
+    #others {
+      grid-area: others;
+    }
+
+    .gobiz-sg {
+      font-family: hknova-regular;
+      font-weight: 600;
+      font-size: 32px;
+      line-height: 40px;
+      color: #ffffff !important;
+    }
+
+    .secondary-btn {
+      font-size: 14px !important;
+      line-height: 21px !important;
+      height: 40px !important;
+      width: 176px !important;
+    }
+
+    @media (max-width: 1290px) {
+      .panel {
+        grid-template-rows: auto auto 1fr;
+        align-items: end;
+      }
+
+      .panels {
+        grid-template-areas:
+          "grants grants grants gebiz gebiz gebiz"
+          "biz biz biz subscribe subscribe subscribe"
+          "licence licence licence licence licence licence"
+          "food food nparks nparks others others";
+      }
+    }
+
+    @media (max-width: 750px) {
+      .panels {
+        grid-template-areas:
+          "grants"
+          "biz"
+          "gebiz"
+          "subscribe"
+          "licence"
+          "food"
+          "nparks"
+          "others";
+      }
+    }
+  </style>
+
+  <div id="main-content" role="main" onclick>
+    <section class="bp-section">
+      <div class="bp-container content padding--top--lg padding--bottom--xl">
+        <div class="row">
+          <div class="col print-content">
+            <div class="page-title-container">
+              <h4 class="page-title">Welcome to GoBusiness</h4>
+              <p class="p2 page-subtitle">What would you like to do today?</p>
+            </div>
+            <div class="page-body-container">
+              <div class="panels">
+                <div id="grants" class="panel-header-container">
+                  <h4 class="panel-header">Grants</h4>
+                </div>
+                <div id="gebiz" class="panel-header-container">
+                  <h4 class="panel-header">Gebiz Alerts</h4>
+                </div>
+                <div id="licence" class="panel-header-container">
+                  <h4 class="panel-header">Licences</h4>
+                </div>
+                <div id="biz" class="panel">
+                  <h5>Business<br />
+                    Grants Portal</h5>
+                  <p>Apply for and manage grants on Business Grants Portal.</p>
+                  {% include secondary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank"
+                  text="Log In" %}
+                </div>
+                <div id="subscribe" class="panel">
+                  <h5>GeBIZ
+                    Alerts</h5>
+                  <p>Subscribe to GeBIZ alerts via email.</p>
+                  {% include secondary-btn.html href="/gebiz-alerts/?src=login_gebizalerts"
+                  text="Log In" %}
+                </div>
+                <div id="food" class="panel">
+                  <h5>Licences for
+                    Food Services</h5>
+                  <p>Apply for and manage licences for food service businesses.</p>
+                  {% include secondary-btn.html
+                  href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs" target="_blank"
+                  text="Log In" %}
+                </div>
+                <div id="nparks" class="panel">
+                  <h5>Licences<br />from SFA/AVS/<br />NParks</h5>
+                  <p>Apply for and manage licences from Singapore Food Agency (SFA), Animal & Veterinary Service (AVS),
+                    and NParks.</p>
+                  {% include secondary-btn.html
+                  href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=login_sfavsnparks"
+                  target="_blank"
+                  text="Log In" %}
+                </div>
+                <div id="others" class="panel">
+                  <h5>Licences for Other Sectors</h5>
+                  <p>Apply for and manage licences for all sectors except food services.</p>
+                  {% include secondary-btn.html
+                  href="https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=login_allothers"
+                  target="_blank"
+                  text="Log In" %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="/jquery/jquery.min.js"></script>
+  <script src="/jquery/scroll-top.js"></script>
+</body>

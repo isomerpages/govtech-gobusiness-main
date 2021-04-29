@@ -1,0 +1,32 @@
+<style>
+  .popular-tag {
+    background-color: #cde5e8;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .popular-tag:hover {
+    background-color: #B3D8DC;
+  }
+
+  .popular-tag:active {
+    background-color: #9accd0;
+  }
+
+  .popular-tag:focus {
+    outline: 2px solid #1C8B95;
+  }
+
+  .popular-tag>a {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 9px 10px;
+  }
+</style>
+
+<div class="popular-tag">
+  <a href="{{include.href}}" target="{{include.target}}">
+    <p>{{include.text}}</p>
+  </a>
+</div>

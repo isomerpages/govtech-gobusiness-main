@@ -1,10 +1,86 @@
+faq: /faqs/popular/
 contact_us: /contact-us/
-show_reach: true
-feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
-faq: /faq/
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+copyright_agency: GoBusiness
+privacy_policy: /privacy/
+terms_of_use: /terms-of-use/
+
+navlinks:
+  - title: Start Business
+    url: /start-a-business/
+    sublinks:
+      - title: Overview
+        url: /start-a-business/
+      - title: Key Steps to Start a Business
+        url: /start-a-business/choose-a-business-structure/
+      - title: Next Steps to Consider
+        url: /start-a-business/hire-employees/
+      - title: FAQ
+        url: /start-a-business/faqs/
+  - title: Run and Grow Business
+    url: /run-and-grow/
+    sublinks:
+      - title: Overview
+        url: /run-and-grow/
+      - title: Government Assistance
+        url: /gov-assist/
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+      - title: Licences and Permits
+        url: /licences/
+      - title: Taxes, GST and Customs
+        url: /run-and-grow/taxes-and-gst/
+      - title: GeBIZ Alerts
+        url: /gebiz-alerts/
+  - title: Covid-19
+    url: /covid/
+    sublinks:
+      - title: Overview
+        url: /covid/
+      - title: Permitted Services
+        url: /permittedlist/
+      - title: Safe Management Requirements
+        url: /safemanagement/general/
+      - title: Sector-specific Requirements
+        url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Guides
+        url: /guides/
+      - title: Supporting Our Businesses
+        url: /supportschemes/general
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Digital Support
+        url: /supportschemes/digitalsupport/
+      - title: Sector-specific Support
+        url: /supportschemes/fnbsupport/
+      - title: FAQ
+        url: /covid-faqs/
+  - title: E-Services
+    url: /e-services/
+    sublinks:
+      - title: Guides for Businesses
+        url: /e-services/guides-for-biz/
+      - title: New Business Owners
+        url: /e-services/biz-registration-matters/
+      - title: Accounting and Finance
+        url: /e-services/gov-assist-biz/
+      - title: Business Administration
+        url: /e-services/change-in-owner-or-director/
+      - title: Employment Matters
+        url: /e-services/about-cpf/
+      - title: Growth and Expansion
+        url: /e-services/business-opportunities/
+  - title: Who We Are
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: News and Media
+        url: /news-and-media/
+    #  - title: Contact Us
+    #    url: /contact-us/
+    #  - title: FAQ
+    #    url: /faqs/popular/

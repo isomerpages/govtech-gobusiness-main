@@ -1,0 +1,177 @@
+---
+title: Food Shop Licence
+permalink: /licensing-faqs/food-shop-licence/
+third_nav_title: Licences
+accordion-new:
+  - title: I am a foreigner with a valid employment pass issued by Ministry of Manpower. Can I apply for the licence in my name?
+    content: |
+      No. You will need to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) and apply for the licence in the company's name.
+
+  - title: Whose name should the Food Shop Licence be in if I plan to hire foreign workers?
+    content: |
+      To employ foreign workers, you must apply for work passes from the Ministry of Manpower. Please request for the Food Shop Licence to be issued in the name of the body corporate. Food Shop Licences issued in the name of an individual (e.g.: a Director) will not be acceptable for the purpose of work pass applications.
+
+      For more information on work pass-related matters, please refer to MOM's [website](https://www.mom.gov.sg/){:target="_blank"} or call MOM Contact Centre at 64385122.
+
+  - title: I have taken over an existing food shop but I am unable to contact the previous licensee to surrender/cancel his Food Shop Licence for the premises. How do I apply for the Food Shop Licence?
+    content: |
+      You can still submit your application together with all supporting documents. However, for such cases, SFA will need to write to the previous licensee to confirm whether he is still operating the business at the said premises. If the previous licensee indicates that he is no longer operating the said premises or does not respond, SFA will proceed to process your application. The processing time for such cases is about two weeks.
+
+  - title: Can I submit my application while I'm still looking for a location to operate my business?
+    content: |
+      No. You can only submit your application once you have secured a location to operate your business.
+
+  - title: Who can I contact for further details?
+    content: |
+      For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA's [online feedback form](https://www.sfa.gov.sg/feedback){:target="_blank"}.
+
+      If you have not submitted your application, you may do so online on our website.
+
+  - title: Can I start operating my business when SFA has informed me of in-principle approval of my Food Shop Licence application?
+    content: |
+      No. You can only start operating your business after SFA has approved the Food Shop Licence application and you have made payment. Please keep the receipt of payment, and the licence will be mailed to you within seven working days from payment date.
+
+  - title: How long is the licence valid for?
+    content: |
+      The licence is valid for one year.
+
+  - title: I intend to set up a business that produces food items for supply to other food shops and food stalls. Do I need to apply for a Food Shop Licence?
+    content: |
+      No, you do not need to apply for a Food Shop Licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production & Processing Department (FPPD) at SFA for your proposed business.
+
+  - title: I operate a pub/discotheque and intend to have a drinks counter selling alcoholic drinks. Do I need to apply for a Food Shop Licence?
+    content: |
+      Yes. You will need to apply for a Food Shop Licence if you intend to operate a drinks or snack counter at your premises.
+
+  - title: What happens if I am unable to comply with some of the hygiene requirements?
+    content: |
+      If you are unable to comply with SFA's hygiene requirements, you will not be issued a Food Shop Licence.
+
+  - title: What supporting documents do I need to submit?
+    content: |
+      1. Approval from the land agency e.g.: URA and HDB (referred to as planning permission from land agencies)*
+
+      2. Tenancy agreement<sup>#</sup>
+
+      3. Basic Food Hygiene Certificate / Refresher Food Hygiene Certificate of food handlers
+
+      4. Food Hygiene Officer Certificate (for Food Caterers, Restaurants, Food Courts and Canteens only)
+
+      5. Cleaning program
+
+      6. Layout plan of premises (in scaled metric units)
+
+      a) Pest control contract covering the control of rodents, cockroaches and flies during the year-long licensing period. The inspection frequency of the food shop premises covered in the contract shall be at least once a month to detect any sign of pest infestation.
+
+      b) Pest control contract covering the control of rodents, cockroaches and flies during the year-long licensing period. The inspection frequency of the food shop premises covered in the contract shall be at least once a month to detect any sign of pest infestation.
+
+      <sup>*</sup> Applicant should ensure the relevant planning permission is obtained, prior to signing any tenancy agreement and investing in renovations/equipment for the premises.
+
+      <sup>#</sup> Please note that the submission of a tenancy agreement is not required during the initial stage of application for a licence. The tenancy agreement will only be required at the final stage, before SFA approves and issues the licence. You are advised not to sign any tenancy agreement, until the land agency concerned has approved the relevant use for the premises, and you are reasonably confident you can meet with the COPEH requirements by also verifying with the owner/landlord on the necessary renovations like installation of exhaust system, pipings for sinks etc.
+
+  - title: Can I update, renew or terminate my Food Shop Licence through the Guided Journey feature?
+    content: |
+      No. You may update, renew and terminate your Food Shop Licence through the Self-Service feature.
+
+  - title: How soon can my application be processed?
+    content: |
+      | STEPS | DESCRIPTION | SERVICE STANDARD |
+      | :---: | :---- | :---- |
+      | Step 1 | **Submit complete application in GoBusiness**<br><br> - For complete application with layout plan, SFA will issue the In-Principle Approval (IPA) via email and [GoBusiness Portal](https://www.gobusiness.gov.sg/licences) under “submitted documents” tab of your application. With the IPA, applicants may proceed with the renovation.<br><br> - To avoid delays, please prepare the documents stated in the IPA and upload them in [GoBusiness Portal](https://www.gobusiness.gov.sg/licences) under “submitted documents” tab of your application.<br><br> - Incomplete application will be rejected.| 5 working days if application is complete<br> and in order |
+      | Step 2 | **Book pre-licensing inspection upon completion of renovation**<br><br> - Make an appointment for inspection 7 days in advance via [SFA online feedback form](https://csp.sfa.gov.sg/feedback){:target="_blank"}<br><br> - To avoid delays, applicants should ensure that all the items listed in the IPA have been complied with | 2 working days to confirm inspection date              |
+      | Step 3 | **Make payment after licence approval**<br><br>Upon full compliance to licensing requirements and submission of required documents, SFA will approve the application. You will receive a notification via email and GoBusiness within 3 working days.<br><br> - For applicants with existing GIRO arrangement with SFA, you may start business after receiving SFA's email approval.<br><br> - For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.<br><br>SFA will post out the hardcopy licences within 7 working days upon successful payment.<br><br>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to [SFA](https://csp.sfa.gov.sg/feedbackto){:target="_blank"} request for a replacement copy. | 3 working days upon full compliance                    |
+
+      **1) How soon can I hear from SFA after I submit my application?**
+
+      Refer to Step 1. If you have submitted your complete application with all required supporting documents in GoBusiness, SFA will respond to you within 5 working days. Any incomplete or incorrect submission will be rejected.
+
+      **2) When can I start my renovation?**
+
+      Refer to Step 1. Upon receipt of a complete application (see Step 1), SFA will process and issue an IPA via email within 5 working days. You can also download the IPA at [GoBusiness Portal](https://www.gobusiness.gov.sg/licences) “Submitted documents” tab of your application.
+
+      Upon receipt of the IPA, you may proceed with the renovation. Please refer to the IPA for the licensing requirements that you will need to comply with. You may also refer to Licensing Requirements on SFA website.
+
+      To avoid delays, you must prepare the documents stated in the IPA and upload them in GoBusiness. The documents include URA’s Change of Use or HDB’s approval, tenancy agreement, cleaning program and pest control contract. It is also important that you plan the renovation and equipment set up schedule ahead of time so as to minimise the time taken for renovation.
+
+      **3) When is the earliest I can book a pre-licensing inspection for my food shop? How can I book an inspection?**
+
+      Refer to Step 2. Please book the pre-licensing inspection at least 7 days in advance. You can log a [request](www.sfa.gov.sg/feedback){:target="_blank"} for the pre-licensing inspection. Please provide the relevant information (premises address, application number/licence number, name and contact number) in your request. SFA will confirm your pre-licensing inspection date within 2 working days.
+
+      4) What will be inspected during the pre-licensing inspection?
+
+      During the inspection, SFA will verify if the setup of the premises is in accordance to the layout plan submitted and whether all the items listed in the IPA have been complied with. For example, SFA will check if exhaust is fitted with an air-cleaner, floor trap for the discharge of wastewater to sewer, adequate washing facilities, storage facilities and etc. At the end of the pre-licensing inspection, the officer will issue you with an inspection report.
+
+      If there are no outstanding issues, the officer will recommend the application for approval.
+
+      However, if there are outstanding items that required to be rectified/complied at the end of the pre-licensing inspection, the officer will indicate in the inspection report. Please comply with these outstanding items and inform the inspection officer.
+
+      When you have complied with the outstanding items, the officer will recommend the application for approval as per Step 3.
+
+      **5) When do I submit the documents to SFA?**
+
+      You should prepare the documents stated in the IPA as soon as possible and upload the documents in GoBusiness portal. The documents include URA’s Change of Use or HDB approval, tenancy agreement, cleaning program and pest control contract.
+
+      **6) How soon will my application be approved after inspection?**
+
+      Refer to Step 3. SFA will approve the application within 3 working days upon applicant’s full compliance to licensing requirements and submission of required documents.
+
+      **7) When can I commence business? Do I need to wait for the hardcopy licence before I start operations? What do I do if I do not receive the hardcopy licence?**
+
+      Refer to Step 3 on when you may commence business.
+
+      SFA will post out the hardcopy licences within 7 working days upon successful payment.
+
+      You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to [SFA](https://csp.sfa.gov.sg/feedback){:target="_blank"} to request for a replacement copy.
+
+  - title: How much does this licence cost?
+    content: |
+      The Food Shop Licence costs $195. Please note no refunds will be allowed once payment has been made.
+
+  - title: Do I need to apply for a Food Shop Licence if I were to prepare and cook food from my home for sale to the public?
+    content: |
+      Please take note that under the current regulations, it is an offence to sell home cooked food to the public.
+
+  - title: What conditions do I need to fulfil?
+    content: |
+      If you are taking over an existing food outlet, please ensure that the previous licensee had surrendered/cancelled his licence before you submit an application for the licence. Otherwise, there will be a delay in processing your application.
+
+      <b>The criteria for approval are as follows:</b>
+
+      1. Eligibility of Applicant.
+      Only the following can apply for a licence:
+      (a) Singaporean or Permanent Resident for an individual
+      (b) Company registered with the Accounting & Corporate Regulatory Authority (ACRA)
+      (c) Association/ Society registered with Registrar of Societies
+
+      Application by a firm registered as a business with ACRA (formerly RCB) cannot be accepted. The sole proprietor or active partner must apply for a licence in his name.
+
+      2. For self-employed persons, please ensure that your Medisave contributions are paid before applying for a licence.
+
+      3. Submission of relevant supporting documents
+
+      4. Compliance of the list of hygiene requirements issued by SFA's Food Service Department. (note: You may refer to the Licensing Conditions here for more information on the general design of a food retail outlet)
+
+      Please note that SFA will take past enforcement record(s) into consideration for new licence applications and/or renewal.
+
+  - title: Do I need to apply for this licence?
+    content: |
+      You will need to apply for a Food Shop Licence if you intend to operate a retail food outlet where food and/or drink are sold wholly by retail. This is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in food retail outlets and to prevent food-borne diseases.
+
+      Examples of businesses that require a Food Shop Licence are: restaurants, cake shops, eating houses, coffeeshops, food courts, snack and drink counters, market produce shops, private markets, food caterers, food shops (pets allowed) and mobile food wagon.
+
+      Please note that all new applicants for food catering licences are required to submit an FSMS plan within the first three months of the licence issuance date. For more details, please refer to Singapore Food Authority's website [here](http://www.sfa.gov.sg/){:target="_blank"}.
+
+  - title: What happens if I provide false information in my application?
+    content: |
+      Providing false information in your application is a serious offence. Your licence can be suspended, cancelled or revoked. Enforcement action can also be taken against you.
+---
+
+### Food Shop Licence
+
+{% include accordion-new.html %}
+
+[Back to Licences Overview](/licences/)
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/resize-tables.js"></script>
+

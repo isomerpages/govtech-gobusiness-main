@@ -1,0 +1,24 @@
+collections:
+  covid-19:
+    output: true
+    order:
+      - overview.md
+      - permitted-services.md
+      - safe-management-requirements/.keep
+      - safe-management-requirements/general-requirements.md
+      - safe-management-requirements/contact-tracing.md
+      - sector-specific-requirements.md
+      - digital-solutions-for-safe-reopening.md
+      - guides.md
+      - financial-support/.keep
+      - financial-support/immediate-support.md
+      - financial-support/financial-schemes.md
+      - financial-support/grants.md
+      - manpower-support.md
+      - digital-support.md
+      - sector-specific-support/.keep
+      - sector-specific-support/food-beverage.md
+      - sector-specific-support/hospitality-tourism.md
+      - sector-specific-support/marine-process.md
+      - sector-specific-support/maritime.md
+      - faqs.md

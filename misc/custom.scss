@@ -1,19 +1,52 @@
 ---
-
 ---
 
-@charset "utf-8";
+// Font weights
+$extra-bold: 800;
+$bold: 700;
+$semi-bold: 600;
+$medium: 500;
+$regular: 400;
+$light: 300;
 
-// HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+@font-face {
+  src: url(/fonts/HKNova-Light.otf);
+  font-family: hknova-light;
+  font-weight: $light;
+}
+@font-face {
+  src: url(/fonts/HKNova-Regular.otf);
+  font-family: hknova-regular;
+  font-weight: $regular;
+}
+@font-face {
+  src: url(/fonts/HKNova-SemiBold.otf);
+  font-family: hknova-semibold;
+  font-weight: $semi-bold;
+}
+@font-face {
+  src: url(/fonts/HKNova-Medium.otf);
+  font-family: hknova-medium;
+  font-weight: $medium;
+}
+@font-face {
+  src: url(/fonts/HKNova-Bold.otf);
+  font-family: hknova-bold;
+  font-weight: $bold;
+}
+@font-face {
+  src: url(/fonts/HKNova-ExtraBold.otf);
+  font-family: hknova-extrabold;
+  font-weight: $extra-bold;
+}
+
+// GoBusiness brand colors
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
-
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+{%- for media-color in site.colors.media-colors -%}
+    ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -21,179 +54,281 @@ $desktop: 960px + (2 * $gap) !default;
 // Mixins
 
 @mixin touch() {
-	@media screen and (max-width: $desktop - 1px){
-    	@content
-	}
+  @media screen and (max-width: $desktop - 1px) {
+    @content;
+  }
 }
 
 @mixin desktop() {
-	@media screen and (min-width: $desktop){
-    	@content
-	}
+  @media screen and (min-width: $desktop) {
+    @content;
+  }
 }
 
 // Background
-.bg{
-  &-primary{
+.bg {
+  &-primary {
     background-color: $primary !important;
   }
   &-secondary {
     background-color: $secondary !important;
   }
   &-media-color {
-  	&-1 {
-  		background-color: $media-color-one;
-  		&:hover {
-  			background-color: darken($media-color-one, 10%);
-		}
-  	}
-  	&-2 {
-  		background-color: $media-color-two;
-  		&:hover {
-  			background-color: darken($media-color-two, 10%);
-		}
-  	}
-  	&-3 {
-  		background-color: $media-color-three;
-  		&:hover {
-  			background-color: darken($media-color-three, 10%);
-		}
-  	}
-  	&-4 {
-  		background-color: $media-color-four;
-  		&:hover {
-  			background-color: darken($media-color-four, 10%);
-		}
-  	}
-  	&-5 {
-  		background-color: $media-color-five;
-  		&:hover {
-  			background-color: darken($media-color-five, 10%);
-		}
-  	}
+    &-1 {
+      background-color: $media-color-one;
+      &:hover {
+        background-color: darken($media-color-one, 10%);
+      }
+    }
+    &-2 {
+      background-color: $media-color-two; 
+      &:hover {
+        background-color: darken($media-color-two, 10%);
+      }
+    }
+    &-3 {
+      background-color: $media-color-three;
+      &:hover {
+        background-color: darken($media-color-three, 10%);
+      }
+    }
+    &-4 {
+      background-color: $media-color-four;
+      &:hover {
+        background-color: darken($media-color-four, 10%);
+      }
+    }
+    &-5 {
+      background-color: $media-color-five;
+      &:hover {
+        background-color: darken($media-color-five, 10%);
+      }
+    }
   }
-  &-1{
+  &-1 {
     //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/YY3500/z0/1205314.jpg") no-repeat
+      left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-2{
+  &-2 {
     //background-color: $info;
-    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/FY3500/z0/1205295.jpg") no-repeat
+      left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-3{
+  &-3 {
     //background-color: $warning;
-    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/L1o500/z0/1383923.jpg") no-repeat
+      left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-4{
+  &-4 {
     //background-color: $danger;
-    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+    background: url("https://c.stocksy.com/a/Z22000/z0/7847.jpg") no-repeat left
+      50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
-  &-gradient{
+  &-gradient {
     background: #b41e8e;
-    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+    background: -moz-linear-gradient(
+      45deg,
+      #b41e8e 0%,
+      #5c3f9e 50%,
+      #0061af 100%
+    );
+    background: -webkit-linear-gradient(
+      45deg,
+      #b41e8e 0%,
+      #5c3f9e 50%,
+      #0061af 100%
+    );
+    background: linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
   }
-  &-singpass{
+  &-Singpass {
     background: #be2e7d; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(
+      45deg,
+      #be2e7d 0%,
+      #d64e54 100%
+    ); /* FF3.6-15 */
+    background: -webkit-linear-gradient(
+      45deg,
+      #be2e7d 0%,
+      #d64e54 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(
+      45deg,
+      #be2e7d 0%,
+      #d64e54 100%
+    ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
   }
-  &-beeline{
+  &-beeline {
     background: #009d62; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(
+      45deg,
+      #009d62 0%,
+      #0094d3 100%
+    ); /* FF3.6-15 */
+    background: -webkit-linear-gradient(
+      45deg,
+      #009d62 0%,
+      #0094d3 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(
+      45deg,
+      #009d62 0%,
+      #0094d3 100%
+    ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
   }
-  &-parkingsg{
+  &-parkingsg {
     background: #0164b6; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(
+      45deg,
+      #0164b6 0%,
+      #04a4e3 100%
+    ); /* FF3.6-15 */
+    background: -webkit-linear-gradient(
+      45deg,
+      #0164b6 0%,
+      #04a4e3 100%
+    ); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(
+      45deg,
+      #0164b6 0%,
+      #04a4e3 100%
+    ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   }
 }
 
 // Color definitions
 .is {
-	&-primary {
-		background-color: $primary !important;
-	}
-	&-secondary {
-		background-color: $secondary !important;
-	}
+  &-primary {
+    background-color: $primary !important;
+  }
+  &-secondary {
+    background-color: $secondary !important;
+  }
 }
 
 // Text color
 .has-text-primary {
-	color: $primary !important;
+  color: $primary !important;
 }
 .has-text-secondary {
-	color: $secondary !important;
+  color: $secondary !important;
 }
 
 // Menu/Left-nav
+.sidenav {
+  .bp-menu-list {
+    li a {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    li a[class~="is-active"],
+    li a[class~="has-text-weight-bold"] {
+      font-family: hknova-semibold;
+      font-weight: 600;
+    }
+  }
+}
+
 .bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 2px solid $secondary !important;
-	&:hover {
-		border-bottom: 2px solid $secondary !important;
-	}
+  color: $secondary !important;
+  border-bottom: 2px solid $secondary !important;
+  &:hover {
+    border-bottom: 2px solid $secondary !important;
+  }
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+  color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
+}
+
+.masthead-container {
+  box-shadow: none !important;
+
+  .bp-masthead {
+    height: 40px !important;
+
+    @media screen and (max-width: 1023px) {
+      a {
+        margin: 0px auto;
+      }
+    }
+  }
+}
+
+// Footer
+
+.bp-footer {
+  background-color: #313840 !important;
+
+  .sub-header {
+    .has-text-white {
+      font-family: hknova-semibold;
+      font-weight: 600;
+    }
+  }
 }
 
 // Button
 
 .bp-button.is-text span {
-  &:hover, &:focus {
+  &:hover,
+  &:focus {
     color: $secondary;
   }
 }
 .bp-button:hover {
   color: $secondary;
 }
+.bp-button.bp-dropdown-button.is-fullwidth {
+  p {
+    font-family: hknova-regular;
+  }
+}
+.bp-dropdown-content {
+  p,
+  h5 {
+    font-family: hknova-regular;
+  }
+}
 
 // Secondary button
 .bp-sec-button {
-	color: $secondary;
-	& span {
-		border-bottom: 2px solid $secondary !important;
-	}
-	&:hover {
-		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
-	  	}
-	  	& i {
-	    	color: $secondary-hover !important;
-	  	}
-	}
+  color: $secondary;
+  & span {
+    border-bottom: 2px solid $secondary !important;
+  }
+  &:hover {
+    & span {
+      border-bottom: 2px solid $secondary-hover !important;
+      color: $secondary-hover !important;
+    }
+    & i {
+      color: $secondary-hover !important;
+    }
+  }
 }
 
 // Bottom navigation bar
 .bottom-navigation {
-	a {
-		background-color: $secondary;
-	    &:hover{
-	      background-color: darken($secondary,10%) !important;
-	    }
-	}
+  a {
+    background-color: $secondary;
+    &:hover {
+      background-color: darken($secondary, 10%) !important;
+    }
+  }
 }
 
 .bp-section.bp-section-pagetitle {
@@ -202,98 +337,275 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Pagination
 .pagination {
-	span {
-		&:hover {
-            border-color: $secondary;
-            color: $secondary;
-		}
-        &.selected-page:hover {
-            background-color: $secondary;
-            border-color: $secondary;
-        }
-	}
-    .selected-page {
-        background-color: $secondary;
-        border-color: $secondary;
+  span {
+    &:hover {
+      border-color: $secondary;
+      color: $secondary;
     }
+    &.selected-page:hover {
+      background-color: $secondary;
+      border-color: $secondary;
+    }
+  }
+  .selected-page {
+    background-color: $secondary;
+    border-color: $secondary;
+  }
 }
 
-
 // Homepage
-#key-highlights{
-	background-color: $primary;
-	.col {
-		border-left:1px solid darken($primary,10%);
-		@include touch(){
-			border-top:1px solid darken($primary,10%);
-		}
-		&:hover{
-			background-color: darken($primary,10%);
-		}
-	}
+#key-highlights {
+  //background-color: $primary;
+  background-color: #084e8a;
+  .col {
+    //border-left:1px solid darken($primary,10%);
+    border-left: 1px solid darken(#084e8a, 10%);
+    @include touch() {
+      //border-top:1px solid darken($primary,10%);
+      border-left: 1px solid darken(#084e8a, 10%);
+    }
+    &:hover {
+      //background-color: darken($primary,10%);
+      background-color: darken(#084e8a, 10%);
+    }
+  }
 }
 
 // Navbar
-.navbar{
-  &-start{
-    .navbar-item{
-      a{
-        &.active{
-          @include touch(){
-            border-bottom:2px solid $secondary;
+.navbar {
+  &-start {
+    .navbar-item {
+      a {
+        &.active {
+          @include touch() {
+            //border-bottom:2px solid $secondary;
+            border-bottom: 2px solid #037e8a;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    //border-bottom: 1px solid $secondary;
+    //border-left: 1px solid $secondary;
+    border-bottom: 1px solid #037e8a;
+    border-left: 1px solid #037e8a;
   }
 
-  .navbar-item{
-    .sub-link.is-active{
-      color:$secondary;
+  .navbar-item {
+    a {
+      font-family: hknova-semibold;
+      font-weight: 600;
+    }
+    .sub-link {
+      font-family: hknova-regular;
+      font-weight: 400;
+    }
+    .sub-link.is-active {
+      //color:$secondary;
+      color: #037e8a;
     }
 
-    .selector{
-      &.active{
-        background-color:$secondary;
+    .selector {
+      &.active {
+        //background-color:$secondary;
+        background-color: #037e8a;
       }
     }
-    &.active{
-      @include desktop(){
-        border-bottom:1px solid $secondary;
+    &.active {
+      @include desktop() {
+        //border-bottom:1px solid $secondary;
+        border-bottom: 1px solid #037e8a;
       }
     }
   }
-.navbar-item:hover {
-  a {
-    color:$secondary;
-  }
-  .selector {
-      background-color:$secondary;
+  .navbar-item:hover {
+    a {
+      //color:$secondary;
+      color: #037e8a;
     }
+    .selector {
+      //background-color:$secondary;
+      background-color: #037e8a;
+    }
+  }
+}
+
+.bp-container {
+  a,
+  b,
+  p,
+  u,
+  small {
+    font-family: hknova-regular;
+  }
+  h1[class~="has-text-white"]>b {
+    font-family: hknova-semibold;
+    font-weight: 600;
   }
 }
 
 // Post-content
 .content {
-	h1, h2, h3, h4, h5 {
-		color: $secondary;
-		strong {
-			color: $secondary;
-		}
-	}
-	blockquote {
-		border-left-color: $secondary;
-	}
-	blockquote > p {
-		color: $secondary;
-	}
-	blockquote > ul {
-		color: $secondary;
-	}
+  h1 {
+    font-family: hknova-bold;
+    color: $secondary;
+  }
+  h2,
+  h3 {
+    font-family: hknova-semibold;
+    color: $secondary;
+    strong {
+      color: $secondary;
+    }
+  }
+
+  // For /start-a-business/choose-a-business-structure/ page
+  h3+div>iframe {
+    margin-top: 20px;
+  }
+
+  h4 {
+    font-family: hknova-semibold;
+    color: #313840;
+  }
+
+  h5 {
+    font-family: hknova-semibold;
+  }
+
+  strong {
+    font-family: hknova-bold;
+    font-weight: $bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
+  }
+
+  // Custom for font types
+  a,
+  p,
+  li,
+  em {
+    font-family: hknova-regular;
+  }
+  blockquote {
+    border-left-color: $secondary;
+  }
+  blockquote > p {
+    color: $secondary;
+  }
+  blockquote > ul {
+    color: $secondary;
+    // Custom for hyperlink font colors
+  }
+  a {
+    color: #2a6ebb;
+  }
+  a:hover {
+    color: #084e8a;
+  }
+  a:visited {
+    color: #89579b;
+  }
+  a:visited:hover {
+    color: #521b88;
+  }
+
+  a.jekyllcodex_button:visited,
+  a.jekyllcodex_button:visited:hover {
+    color: white !important;
+  }
+
+  li,
+  p {
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
+  }
+
+  li {
+    margin: 24px 0 !important;
+  }
+}
+
+// Type scale iterations
+h1 {
+  font-family: hknova-bold;
+  font-size: 48px;
+  font-weight: $bold;
+  line-height: 52px;
+  letter-spacing: -1.5px;
+  color: $secondary;
+}
+
+h2 {
+  font-family: hknova-semibold;
+  font-size: 36px;
+  font-weight: $semi-bold;
+  line-height: 45px;
+  color: $secondary;
+}
+
+h3 {
+  font-family: hknova-semibold;
+  font-size: 28px;
+  font-weight: $semi-bold;
+  line-height: 35px;
+  color: $secondary;
+}
+
+h4 {
+  font-family: hknova-semibold;
+  font-size: 24px;
+  font-weight: $semi-bold;
+  line-height: 30px;
+  color: #313840;
+}
+
+p {
+  font-family: hknova-regular;
+  font-size: 18px;
+  font-weight: $regular;
+}
+
+.p1 {
+  font-family: hknova-semibold;
+  font-size: 18px;
+  font-weight: $semi-bold;
+  line-height: 27px;
+  color: #313840;
+}
+
+.p2 {
+  font-family: hknova-regular;
+  font-size: 16px;
+  font-weight: $regular;
+  line-height: 24px;
+  color: #313840;
+}
+
+.p3 {
+  font-family: hknova-regular;
+  font-size: 14px;
+  font-weight: $regular;
+  line-height: 21px;
+  color: #313840;
+}
+
+a,
+p,
+li,
+em {
+  font-family: hknova-regular;
+}
+
+// Table of Contents
+.content table td,
+.content table th {
+  font-family: hknova-regular;
+  font-size: 18px;
+  padding: 24px 20px;
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -305,8 +617,10 @@ $desktop: 960px + (2 * $gap) !default;
   letter-spacing: 0.5px;
 }
 
-.media-category-button:hover, .media-category-button.selected {
+.media-category-button:hover,
+.media-category-button.selected {
   color: $secondary;
+  font-family: hknova-regular;
   border-bottom: 2px solid $secondary;
 }
 
@@ -317,8 +631,57 @@ $desktop: 960px + (2 * $gap) !default;
   margin-left: 0;
 }
 
+// accordion to show table - Kevin
+.horizontal-scroll {
+  display: contents;
+}
+
+// specific image inline with text - Kevin
+img[src*="/images/budget2021/budget2021.png"] {
+  display: inline;
+  margin: auto;
+  width: 100px;
+  height: auto;
+}
+
+img[src*="/images/budget2021/budget_enhanced.png"] {
+  display: inline;
+  margin: auto;
+  width: 180px;
+  height: auto;
+}
+
+img[src*="/images/budget2021/budget_extended.png"] {
+  display: inline;
+  margin: auto;
+  width: 180px;
+  height: auto;
+}
+
+img[src*="/images/budget2021/budget_new.png"] {
+  display: inline;
+  margin: auto;
+  width: 150px;
+  height: auto;
+}
+
+img[src*="/images/covid/tracetogether_logo.png"] {
+  display: inline;
+  width: 240px;
+}
+
+img[src*="/images/covid/safeentry_logo_inline.png"] {
+  display: inline;
+  width: 240px;
+}
+
+p > img[src*="/images/"] {
+  margin: 32px 0;
+}
+
 .news-content {
   position: relative;
+  font-family: hknova-regular;
   margin-left: 1rem;
   margin-right: 1rem;
   padding: 2rem;
@@ -347,6 +710,7 @@ $desktop: 960px + (2 * $gap) !default;
   display: flex;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
+  width: 50%;
 }
 
 .is-centered {
@@ -358,4 +722,75 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+
+.notification-container {
+  display: flex;
+  padding: 8px 20px 8px 20px;
+  background-color: #037e8a;
+  justify-content: space-between;
+}
+
+.notification-container.hide {
+  display: none;
+}
+
+.x {
+  color: white;
+  line-height: revert;
+  font-family: hknova-regular;
+
+  b {
+    font-family: hknova-semibold;
+  }
+
+  a {
+    color: white;
+  }
+}
+
+.login-btn {
+  background-color: #037e8a;
+  height: 40px;
+  width: 83px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #037e8a;
+
+  &::after {
+    content: "Log In";
+    color: white;
+    text-transform: capitalize;
+    position: absolute;
+    left: 25%;
+    top: 22%;
+    font-family: hknova-semibold;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+  }
+  &:hover {
+    background-color: #026770;
+  }
+  &:active {
+    background-color: #025b63;
+  }
+  &:focus {
+    outline: 2px solid #1c8b95;
+  }
+}
+
+table {
+  & > thead > tr:nth-child(1),
+  & > tbody > tr > td:nth-child(1) {
+    width: auto;
+  }
+  & > thead > tr:nth-child(2),
+  & > tbody > tr > td:nth-child(2) {
+    width: 200px;
+  }
+}
+
+.navbar-start > div:last-child > div {
+  display: none;
 }

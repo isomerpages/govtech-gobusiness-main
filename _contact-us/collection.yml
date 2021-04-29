@@ -1,0 +1,7 @@
+collections:
+  contact-us:
+    output: true
+    order:
+      - helpdesk.md
+      - sme-centres.md
+      - agencies.md

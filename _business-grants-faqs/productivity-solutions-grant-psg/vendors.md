@@ -1,0 +1,16 @@
+---
+title: Vendors
+permalink: /business-grants-faqs/psg-vendors/
+third_nav_title: Productivity Solutions Grant (PSG)
+published: false
+accordion-new:
+  - title: How can I be an approved vendor for PSG (only applicable to IT/digital solutions)?
+    content: |
+      If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please click [here](https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions){:target="_blank"}.
+---
+
+### Vendors
+
+{% include accordion-new.html %}
+
+[Back to Business Grants Overview](/business-grants-portal/)

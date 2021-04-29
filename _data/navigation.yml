@@ -4,22 +4,72 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/Gobiz_logo_SG.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Privacy Statement
-    url: /privacy-statement/
-  - title: Terms Of Use
-    url: /terms-of-use/
+  - title: Start Business
+    url: /start-a-business/
+    sublinks:
+      - title: Overview
+        url: /start-a-business/
+      - title: Key Steps to Start a Business
+        url: /start-a-business/choose-a-business-structure/
+      - title: Next Steps to Consider
+        url: /start-a-business/hire-employees/
+      - title: FAQ
+        url: /start-a-business/faqs/
+  - title: Run and Grow Business
+    url: /run-and-grow/
+    sublinks:
+      - title: Overview
+        url: /run-and-grow/
+      - title: Government Assistance
+        url: /gov-assist/
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+      - title: Licences and Permits
+        url: /licences/
+      - title: Taxes, GST and Customs
+        url: /run-and-grow/taxes-and-gst/
+      - title: GeBIZ Alerts
+        url: /gebiz-alerts/
+  - title: Covid-19
+    url: /covid/
+    sublinks:
+      - title: Overview
+        url: /covid/
+      - title: Permitted Services
+        url: /permittedlist/
+      - title: Safe Management Requirements
+        url: /safemanagement/general/
+      - title: Sector-specific Requirements
+        url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Guides
+        url: /guides/
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Digital Support
+        url: /supportschemes/digitalsupport/
+      - title: Sector-specific Support
+        url: /supportschemes/fnbsupport/
+      - title: FAQ
+        url: /covid-faqs/
+  - title: E-Services
+    url: /e-services/
   - title: Who We Are
-    url: /who-we-are/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
-  - title: Resource Room
-    resource_room: true
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: News and Media
+        url: /news-and-media/
+      - title: Contact Us
+        url: /contact-us/
+      - title: FAQ
+        url: /faqs/popular/
+  - title: <div class="login-btn"></div>
+    url: /login/?src=top_nav

@@ -1,0 +1,87 @@
+- title: SME Centre@ASME
+  description: 167, Jalan Bukit Merah<br>#03-13, Tower 4, Singapore 150167
+  tel: +65 6513 0388
+  email: enquiries@smecentre-asme.sg
+  url: www.smecentre-asme.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@SCCCI
+  description: Trade Association Hub<br>9 Jurong Town Hall Road,<br>Jurong Town Hall<br>#03-18, Singapore 609431
+  tel: +65 6337 8381
+  email: enquiry@smecentre-sccci.sg
+  url: www.smecentre-sccci.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@SICCI
+  description: SICCI Building<br>31, Stanley Street<br>Singapore 068740
+  tel: +65 6508 0147
+  email: sme@smecentre-sicci.sg
+  url: www.smecentre-sicci.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@SMCCI
+  description: 15, Jalan Pinang<br>Singapore 199147
+  tel: +65 6293 3822
+  email: gadvisory@smecentre-smcci.sg
+  url: www.smecentre-smcci.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@SMF
+  description: SMF Building<br>2985, Jalan Bukit Merah<br>Singapore 159457
+  tel: +65 6826 3020
+  email: query@smecentre-smf.sg
+  url: www.smecentre-smcci.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@Central
+  description: HDB Hub BizThree<br>490, Lorong 6 Toa Payoh<br>#07-11, Singapore 310490
+  tel: +65 6715 7580 / +65 9457 2265
+  email: central@smecentre-sccci.sg
+  url: www.smecentre-sccci.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@Little India
+  description: "Little India Arcade<br>48 Serangoon Road, #01-22<br>Singapore 217959"
+  tel: +65 6508 0149
+  email: littleindia@smecentre-sicci.sg
+  url: www.smecentre-sicci.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@NorthEast
+  description: Located at North East Community<br>Development Council<br>Our Tampines Hub<br>51 Tampines Avenue 4<br>#04-31, Singapore 529684
+  tel: +65 6513 0388
+  email: enquiries@smecentre-asme.sg
+  url: www.smecentre-asme.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@NorthWest
+  description: Located at North West Community<br>Development Council<br>Woodlands Civic Centre<br>900, South Woodlands Drive<br>#06-01, Singapore 730900
+  tel: +65 6826 3020
+  email: northwest@smecentre-smf.sg
+  url: www.smecentre-smf.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@SouthEast
+  description: Located at South East Community<br>Development Council<br>1, Engku Aman Turn<br>#03-02, Wisma Geylang Serai<br>Singapore 408528
+  tel: +65 6513 0388
+  email: enquiries@smecentre-asme.sg
+  url: www.smecentre-asme.sg
+  url-new-tab: true
+  protocol: https
+
+- title: SME Centre@SouthWest
+  description: Located at South West Community<br>Development Council<br>The JTC Summit<br>8, Jurong Town Hall Road<br>#26-06, Singapore 609434
+  tel: +65 6316 1616
+  email: southwest@smecentre-smf.sg
+  url: www.smecentre-smf.sg
+  url-new-tab: true
+  protocol: https

@@ -1,0 +1,128 @@
+---
+title: Tobacco Retail Licence
+permalink: /licensing-faqs/tobacco-retail-licence/
+third_nav_title: Licences
+accordion-new:
+  - title: Who can I contact for further details?
+    content: |
+      For further assistance, please contact us at:
+
+      Tobacco Regulation Branch
+      Vigilance, Compliance & Enforcement Cluster
+      Health Products Regulation Group
+      Health Sciences Authority
+      3 Biopolis Drive, #03-16
+      Synapse Building
+      Singapore 138623
+
+      Tel: 6684 2031 / 2032
+      Fax: 6684 1502
+      Email: [hsa_trb@hsa.gov.sg](mailto:hsa_trb@hsa.gov.sg)
+      Website: Click [here](https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Tobacco_Control/Overview/Tobacco_Licences_Eligibility_Criteria/Tobacco_Retail_Licences.html){:target="_blank"}.
+
+  - title: Do I need to apply for this licence?
+    content: |
+      Do I need to apply for this licence? You will need to apply for a Tobacco Retail Licence if you intend to sell tobacco products by retail at a physical outlet. The Tobacco Retail Licence issued is specific to only one physical outlet. If you are operating more than one outlet, you will need to submit a separate application for each one.
+
+      For a registered company, the company will need to authorise a person in managerial position to apply for the licence on its behalf via Corppass.
+
+      For sole proprietorship or partnership, the person whose name is registered with Accounting & Corporate Regulatory Authority (ACRA), will need to apply for the Tobacco Retail Licence under his/her name via Corppass.
+
+      If you hold an SFA Hawker licence, please apply for the Tobacco Retail Licence via our Self-Service feature under your name with [Singpass](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}.
+
+  - title: I have been issued with a provisional unit number in my tenancy agreement and the number can only be confirmed at a later date. Can I submit my new licence application based on the provisional unit number?
+    content: |
+      Yes, you can submit the new licence application based on the provisional unit number. Upon confirmation of the updated unit number, you will need to contact us via email and we will advise you accordingly.
+
+  - title: What regulations must I comply with for the licence?
+    content: |
+      You are reminded to comply with the following obligations, in addition to the specified licence conditions. Upon conviction for non-compliance, offenders can be punished with imprisonment and/or fine. Offenders may also have their licenses suspended or revoked.
+
+      <b>THE TOBACCO (CONTROL OF ADVERTISEMENTS AND SALE) ACT</b>
+
+      a. Smoking/Tobacco-related Advertisements
+      You must not put up advertisements relating to tobacco as they are prohibited.
+
+      b. Tobacco products as free gift
+      You must not give tobacco products away as free gifts, free samples or as prizes. Also, the tobacco products cannot be sold with other products as free gifts, or in conjunction with any other goods or services.The Shopper loyalty programmes that involves tobacco products are also prohibited.
+
+      c. Prohibition of sale of tobacco products to persons below the MLA
+      You must not sell, directly or indirectly, tobacco products to persons below the MLA. You are responsible for your employees and must ensure that they comply with this prohibition.
+
+      d. No sale of cigarettes in package of less than 20 sticks
+      You must not sell cigarettes pack that contain less than 20 sticks in Singapore.
+
+      e. Prohibition Notice
+      You must ensure that there are sufficient notices prominently displayed.in the outlet to inform the public that the sale of tobacco products to persons below the MLA is prohibited.
+
+      f. Prohibition on sale of Harmful and imitation tobacco products
+      You must not sell any harmful tobacco products like smokeless tobacco, or any tobacco products that contain nicotine and tar above the yield limit of 1.0mg and 10.0mg respectively and imitation tobacco products like [electronic vaporisers] (https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Tobacco_Control/Overview/Tobacco_Legislation/Prohibition_on_Certain_Products.html){:target="_blank"} at the outlet.
+
+      g. Health Warnings on tobacco products
+      You must ensure that all tobacco products carry the mandatory health-warning labels.
+
+      h. Tobacco products for sale
+      You must ensure that only one packet of each pack size of each cigarette brand is allowed to be displayed in the tobacco storage unit whenever it is exposed to customers or members of the public during re-stocking or tobacco sales transactions(with exception of duty-free and specialist tobacconist businesses)
+
+      i. The Tobacco Licence is non-transferable.
+
+      You must inform HSA on any changes in the particulars pertaining to the licence/application not later than three days after the changes have been effected.
+
+  - title: My premises was bought over from a previous tenant who has a valid Tobacco Retail Licence. Can I use the licence while waiting for approval of my new licence application?
+    content: |
+      No, you are not allowed to use the previous tenant's licence to sell tobacco products. Licences are not transferable between two companies.
+
+  - title: How can I download the approved Tobacco Retail Licence?
+    content: |
+      Go to 'My Licences' on your dashboard to view and download all approved licences.You can obtain the licence number from our [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}.
+
+  - title: What conditions do I need to fulfil?
+    content: |
+      You will need 20 minutes and your company's Corppass to complete the online licence application.
+
+      After you have submitted the licence application with the initial application fee payment, HSA will process the licence application upon receipt of a complete application with all the relevant supporting documents submitted. Do take note that HSA may request for additional documents to review the licence application.
+
+      The application will not be processed if there are any missing or incomplete documents or lack of payment.
+
+      The payment for the application is split into two payment stages:
+
+      a)You will need to make an initial payment of a non-refundable application fee of $60 during the submission of the licence application on our website.
+
+      b)Upon approval of the licence application by HSA, you will be notified via email to make the second stage payment of $340 licence fee within a one-month period from the notification date or else the application will lapse.
+
+      If the application is rejected by HSA or withdrawn by the applicant, there will be no refund for the collected application fee.
+
+      Please take note that it is an offence to commence the sale of tobacco products while the application is being processed by HSA. You are only allowed to engage in the retail sales of the tobacco products after the Tobacco Retail licence number is issued.
+
+      After you have made the second stage payment, the application will be approved and the electronic copy of the licence can be downloaded from our website. There will be no issue of a hardcopy licence.
+
+  - title: How soon can my application be processed?
+    content: |
+      Your application will be processed upon receipt of a complete application with all the relevant supporting documents submitted to HSA, including payment of the $60 non-refundable application fees.
+
+      The application will not be processed if there are any missing or incomplete documents or lack of payment. Do take note that HSA may request for additional documents to review the licence application.
+
+      If you need more information on the supporting documents needed, please refer to the [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}.
+
+  - title: My licence is currently suspended and will expire by the end of the suspension period. When can I apply for a new licence?
+    content: |
+      You can submit a new licence application on our website after the suspension period has ended.
+
+  - title: How much does this licence cost?
+    content: |
+      The new licence application fee costs $400 ($60 non-refundable application fee and $340 licence fee).
+
+      You are strongly encouraged to apply for an Inter-bank GIRO account for subsequent renewal payments.
+
+      The GIRO form can be downloaded from the HSA website [here](https://www.hsa.gov.sg/content/dam/HSA/e-Services/Form%20for%20Inter-bank%20GIRO%20Application.pdf){:target="_blank"}. Do take note that GoBusiness Licensing only accepts credit card payment.
+
+  - title: How long is the licence valid for?
+    content: |
+      The licence is valid for one year.
+---
+
+### Petroleum / Flammable Materials Storage Licence
+
+{% include accordion-new.html %}
+
+[Back to Licences Overview](/licences/)
