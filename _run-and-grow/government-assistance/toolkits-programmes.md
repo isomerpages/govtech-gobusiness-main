@@ -3,13 +3,13 @@ title: Toolkits / programmes
 permalink: /gov-assist/toolkits-programmes/
 third_nav_title: Government Assistance
 accordion-a:
-  - title: Help My Business through COVID-19
+  - title: Help my business through COVID-19
     content:  |
       **Directory of Digital Solutions for Safe Reopening**
-      <br>This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
+      <br>This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or supported by Productivity Solutions Grant (PSG).
 
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank">Find Out More</a>
-  - title: Improve Working Arrangements
+  - title: Improve working arrangements
     content:  |
       **bizSAFE**
       <br>bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security.
@@ -17,7 +17,7 @@ accordion-a:
       <a href="https://www.wshc.sg/bizsafe" target="_blank">Find Out More</a>
       
       **CultureSAFE**
-      <br>CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture.
+      <br>CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive workplace safety and health (WSH) culture.
       
       <a href="https://www.wshc.sg/culturesafe" target="_blank">Find Out More</a>
       
@@ -27,30 +27,30 @@ accordion-a:
       <a href="https://www.iworkhealth.gov.sg" target="_blank">Find Out More</a>
       
       **SnapSAFE**
-      <br>SnapSAFE is a mobile application to report WSH issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports.
+      <br>SnapSAFE is a mobile application to report workplace safety and health (WSH) issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports.
       
       <a href="https://www.wshc.sg/snapsafe" target="_blank">Find Out More</a>
       
       **StartSAFE**
-      <br>StartSAFE helps SMEs identify WSH risks onsite and recommends good WSH practices. It is a gateway to bizSAFE.
+      <br>StartSAFE helps SMEs identify workplace safety and health (WSH) risks onsite and recommends good WSH practices. It is a gateway to bizSAFE.
       
       <a href="https://www.wshc.sg/startsafe" target="_blank">Find Out More</a>
       
-      **WSH Advocate**
+      **Workplace Safety and Health (WSH) Advocate**
       <br>The WSH Advocate Programme helps companies to create inhouse supporting network for WSH across all levels.
       
       <a href="https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=CL2014081201195&tabId=C-2014090901062" target="_blank">Find Out More</a>
       
-      **Total WSH A-I-ME Programme**
+      **Total Workplace Safety and Health (WSH) A-I-ME Programme**
       <br>Total WSH is a holistic and integrated approach to manage the interactions between work, safety and health, so as to promote the wellbeing of workers and employers.
       
       <a href="https://www.wshc.sg/totalwsh" target="_blank">Find Out More</a>
       
       **Portable Medical Benefits Scheme**
-      <br>Portable medical benefits are medical benefits that employees can bring with them if they change employers. This page describes how the PMBS works.
+      <br>This scheme offers medical benefits that employees can bring with them if they change employers.
       
       <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/portable-medical-benefits" target="_blank">Find Out More</a>
-  - title: Human Resources and Training
+  - title: Human resources and training
     content:  |
       **Global Ready Talent Programme (For Companies)**
       <br>GRT aims to build a pipeline of global-ready talent for Singapore enterprises through exposing more Singaporeans to overseas work/internships opportunities. Receive up to 70% funding support on qualifying costs.
@@ -58,7 +58,7 @@ accordion-a:
       <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/talent-attraction-and-development/internships/global-ready-talent-programme-for-companies/overview" target="_blank">Find Out More</a>
       
       **HR Diagnostic Tool**
-      <br>Upon completion of the diagnosis, you will receive an analysis of your company's current HR Maturity level and identify the areas for improvement.
+      <br>Upon completion of the diagnosis, you will receive an analysis of your company's current HR maturity level and identify areas for improvement.
       
       <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/core-capabilities/human-capital-development/hr-diagnostic-tool" target="_blank">Find Out More</a>
       
@@ -108,7 +108,7 @@ accordion-a:
       <a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skillsfuture-for-digital-workplace.html" target="_blank">Find Out More</a>
       
       **SkillsFuture Series "Tech-enabled Services"**
-      <br>This is a catalogue of SSG-supported courses on Tech-Enabled Services.
+      <br>This is a catalogue of SkillsFuture Singapore-supported courses on tech-enabled services.
       
       <a href="https://www.myskillsfuture.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1%3A%5B2020-05-04T00%3A00%3A00Z%20TO%20*%5D&fq=IsValid%3Atrue&q=*%3A*&cat=fq%3DTags_text_exact%3A(%22SF%20Series_Tech-Enabled%20Services%22)&cattext=Tech-Enabled%20Services&cattype=undefined" target="_blank">Find Out More</a>
       
@@ -116,15 +116,15 @@ accordion-a:
       <br>The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
       
       <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank">Find Out More</a>
-  - title: Adopt Technology to Digitise My Business
+  - title: Adopt technology and digital solutions
     content:  |
       **A*STAR Collaborative Commercialization Marketplace (ACCM)**
-      <br>With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
+      <br>With more than 1,000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
       
       <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find Out More</a>
       
       **APEC Cross Border Privacy Rules (CBPR) System**
-      <br>Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region, reducing barriers to information flow for global trade.
+      <br>Businesses are to implement data privacy policies consistent with the APEC Privacy Framework, bridging different national privacy laws within the APEC region and reducing barriers to information flow for global trade.
       
       <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank">Find Out More</a>
       
@@ -139,7 +139,7 @@ accordion-a:
       <a href="https://web.smu.edu.sg/spring/" target="_blank">Find Out More</a>
       
       **Nationwide E-invoicing Initiative**
-      <br>The nationwide E-invoicing network helps businesses improve efficiency, reduce cost, enjoy faster payment and stay green at the same time.
+      <br>The nationwide e-invoicing network helps businesses improve efficiency, reduce cost, enjoy faster payment and stay green at the same time.
       
       <a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework" target="_blank">Find Out More</a>
       
@@ -177,7 +177,7 @@ accordion-a:
       <br>The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
       
       <a href="/images/budget2021/Budget 2021 Navigator (businesses).pdf" target="_blank">Find Out More</a>
-  - title: Conduct R&D or to Develop/Test New Products and Services
+  - title: Conduct R&D or develop/test new products and services
     content:  |
       **Open Innovation Platform (OIP)<img src="/images/budget2021/budget_enhanced.png">**
       <br>The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
@@ -198,10 +198,10 @@ accordion-b:
       <a href="https://www.wshc.sg/wps/portal/!ut/p/a1/jY89D4IwEIZ_iwMrd3yIxq1xkCjGAVToYsBgwSBt2kr_vsjkIOht7-V5cvcChRRom3c1y3XN27x5ZxpcooPvuyTG3SZMHCTuHsNk4Tlx4PdANg6sT95_Po4MwV_-GegUMnwwABMntkBZw4uhbkbawlsyoLK8lbKU9lP260proVYWWmiMsY2qrrZifRDKQsGl_q5WXGlIPwwQj2OK93nTRWT2AgTnMHU!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?action=cmsPublicView&categoryId=CL2014081200099" target="_blank">Find Out More</a>
 
       **Sea Transport Industry Digital Plan**
-      <br>A guide for local SMEs in the Sea Transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+      <br>A guide for local SMEs in the sea transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://go.gov.sg/mpa-idp" target="_blank">Find Out More</a>
-  - title: Manufacturing & Engineering
+  - title: Manufacturing & engineering
     content:  |
       **A\*STAR Tech Access**
       <br>Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
@@ -217,30 +217,30 @@ accordion-b:
       <br>SIRI comprises a suite of frameworks and tools to help manufacturers - regardless of their size and industry - start, scale and sustain their manufacturing transformation journeys.
       
       <a href="https://www.siri.gov.sg" target="_blank">Find Out More</a>
-  - title: Professional Services
+  - title: Professional services
     content:  |
       **Accountancy Industry Digital Plan**
-      <br>A step-by-step guide for local Small and Medium Practices (SMPs) in the Accountancy industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
+      <br>A step-by-step guide for local Small and Medium Practices (SMPs) in the accountancy industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Accountancy-IDP" target="_blank">Find Out More</a>
-  - title: Building & Construction
+  - title: Building & construction
     content:  |
       **Construction and Facilities Management Industry Digital Plan**
-      <br>A step-by-step guide for local SMEs in the Construction and Facilities Management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
+      <br>A step-by-step guide for local SMEs in the construction and facilities management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank">Find Out More</a>
-  - title: Environmental Services
+  - title: Environmental services
     content:  |
       **Environmental Services Industry Digital Plan**
-      <br>A step-by-step guide for local SMEs in the Environmental Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
+      <br>A step-by-step guide for local SMEs in the environmental services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/environmental-services-idp" target="_blank">Find Out More</a>
       
       **Job Redesign for the Cleaning Sector**
-      <br>Cleaning service providers and buyers can access a list of easy-to-adopt solutions to be improve productivity, attract and retain workers and improve service outcomes.
+      <br>Cleaning service providers and buyers can access a list of easy-to-adopt solutions to improve productivity, attract and retain workers and improve service outcomes.
       
       <a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/cleaning/job-redesign-programme-for-environmental-services-cleaning-sector.html" target="_blank">Find Out More</a>
-  - title: Food & Beverage
+  - title: Food & beverage
     content:  |
       **Food Services Industry Digital Plan**
       <br>A step-by-step guide for local SMEs in the Food Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
@@ -248,7 +248,7 @@ accordion-b:
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/food-services-idp" target="_blank">Find Out More</a>
       
       **Job Redesign for the Food Services Sector**
-      <br>A guide for Food Services companies in implementing Job Redesign through 5 simple steps.
+      <br>A guide for food services companies in implementing job redesign through five simple steps.
       
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-food-services-sector.html" target="_blank">Find Out More</a>
   - title: Healthcare
@@ -257,10 +257,10 @@ accordion-b:
       <br>The MHCP provides guidance to prevent and control chemical hazards at workplaces, and safeguard the health and safety of persons against such hazards within the plant.
       
       <a href="https://www.wshc.sg/wps/portal/!ut/p/a1/jY89D4IwEIZ_iwMrd3yIxq1xkCjGAVToYsBgwSBt2kr_vsjkIOht7-V5cvcChRRom3c1y3XN27x5ZxpcooPvuyTG3SZMHCTuHsNk4Tlx4PdANg6sT95_Po4MwV_-GegUMnwwABMntkBZw4uhbkbawlsyoLK8lbKU9lP260proVYWWmiMsY2qrrZifRDKQsGl_q5WXGlIPwwQj2OK93nTRWT2AgTnMHU!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?action=cmsPublicView&categoryId=CL2014081200099" target="_blank">Find Out More</a>
-  - title: IT
+  - title: Information technology (IT)
     content:  |
       **Tech Immersion and Placement Programme (TIPP)**
-      <br>The TIPP aims to convert non-ICT professionals into industry-ready ICT professionals. They will be required to find replacement in tech job roles after undergoing a short intensive and immersive training programme.
+      <br>The TIPP aims to convert non-ICT professionals into industry-ready ICT professionals. They will be required to find placements in tech job roles after undergoing a short intensive and immersive training programme.
       
       <a href="https://www.imda.gov.sg/programme-listing/TechSkills-Accelerator-TeSA/Tech-Immersion-and-Placement-Programme-TIPP" target="_blank">Find Out More</a>
       
@@ -269,25 +269,25 @@ accordion-b:
       
       <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd" target="_blank">Find Out More</a>
       
-      **Digital Services Lab**
+      **Digital Services Lab (DSL)**
       <br>Through working with multiple industry stakeholders, DSL co-develops solutions using emerging technologies, with tech providers deploying them as market-ready solutions.
       
       <a href="https://www.imda.gov.sg/programme-listing/digital-services-lab" target="_blank">Find Out More</a>
   - title: Tourism
     content:  |
       **Hotel Industry Digital Plan**
-      <br>A guide for local SMEs in the Hotel industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+      <br>A guide for local SMEs in the hotel industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Hotel-IDP" target="_blank">Find Out More</a>
       
       **Job Redesign for the Hotel Sector**
-      <br>This toolkit provides resources and templates to guide hotels in implementing Job Redesign.
+      <br>This toolkit provides resources and templates to guide hotels in implementing job redesign.
       
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/hotel-job-redesign-initiative.html" target="_blank">Find Out More</a>
   - title: Retail
     content:  |
       **Job Redesign for the Retail Sector**
-      <br>A guide for Retail companies to incorporate Job Redesign through simple steps when undergoing business transformation.
+      <br>A guide for retail companies to incorporate Job Redesign through simple steps when undergoing business transformation.
       
       <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-retail-sector.html" target="_blank">Find Out More</a>
       
@@ -298,13 +298,13 @@ accordion-b:
   - title: Logistics
     content:  |
       **Logistics Industry Digital Plan**
-      <br>A guide for local SMEs in the Logistics industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+      <br>A guide for local SMEs in the logistics industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/logistics-idp" target="_blank">Find Out More</a>
   - title: Media
     content:  |
       **Media Industry Digital Plan**
-      <br>A guide for local SMEs in the Media industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+      <br>A guide for local SMEs in the media industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/media-idp" target="_blank">Find Out More</a>
       
@@ -321,7 +321,7 @@ accordion-b:
   - title: Wholesale Trade
     content:  |
       **Wholesale Trade Industry Digital Plan**
-      <br>A guide for local SMEs in the Wholesale Trade industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+      <br>A guide for local SMEs in the wholesale trade industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/wholesale-trade-idp" target="_blank">Find Out More</a>
 ---
@@ -332,7 +332,7 @@ accordion-b:
 
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend toolkits and programmes you can use.
 
-{% include button.html text="Go to e-Adviser for Government Assistance" src="
+{% include button.html text="Get Started with e-Adviser" src="
 https://gaeadviser.gobusiness.gov.sg/?src=govassist_toolkits
 " type="primary" %}
 
