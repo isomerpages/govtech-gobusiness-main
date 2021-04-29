@@ -8,9 +8,9 @@ accordion-new:
 
       Find out more about DRB at <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Resilience-Bonus" target="_blank">Infocomm Media Development Authority (IMDA)</a>.
 
-  - title: Digital solutions for safe reopening
+  - title: Digital solutions for safe management
     content:  |           
-      A range of digital solutions to help businesses comply with Safe Management Measures. This includes Safe Entry and remote working solutions.
+      A range of digital solutions to help businesses comply with Safe Management Measures. This includes SafeEntry and remote working solutions.
 
       Find out more about solutions at <a href="https://go.gov.sg/remoteworking" target="_blank">Infocomm Media Development Authority (IMDA)</a>.   
 

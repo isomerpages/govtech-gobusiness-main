@@ -1,5 +1,5 @@
 ---
-title: Food & beverage
+title: Food and beverage
 permalink: /supportschemes/fnbsupport/
 third_nav_title: Sector-Specific Support
 accordion-new:
@@ -23,7 +23,7 @@ accordion-new:
 
 ---
 
-## Food & Beverage
+## Food and beverage
 
 Here are the initiatives and schemes currently available to support food & beverage (F&B) businesses.
 

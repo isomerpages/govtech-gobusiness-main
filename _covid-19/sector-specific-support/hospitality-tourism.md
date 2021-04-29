@@ -1,5 +1,5 @@
 ---
-title: Hospitality & tourism
+title: Hospitality and tourism
 permalink: /supportschemes/tourismsupport/
 third_nav_title: Sector-Specific Support
 accordion-new:
@@ -22,6 +22,6 @@ accordion-new:
       Find out more about the Act at <a href="https://go.gov.sg/tourism3" target="_blank">Singapore Tourism Board (STB)</a>.
 ---
 
-## Hospitality & Tourism
+## Hospitality and tourism
 
 {% include accordion-new.html %}
