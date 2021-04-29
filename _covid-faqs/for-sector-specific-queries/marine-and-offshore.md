@@ -96,7 +96,7 @@ accordion-c:
 
       Please ensure that details are valid and kept up to date.
 
-  - title: How can companies register for swab testing for eligible employees?
+  - title: I am unable to key in the specific work premises of my employees in the GoBusiness portal. Who should I approach?
     content: |
       Please contact <covid_gobusiness@mti.gov.sg>{:target="_blank"}.
 
@@ -106,7 +106,7 @@ accordion-c:
 
   - title: What should companies from supporting sectors do after they have completed their jobs and are no longer working at the shipyard’s production site?
     content: |
-      Companies are required to update their employees’ work premises to “Other sites” via the Manpower Declaration in GoBusiness](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
+      Companies are required to update their employees’ work premises to “Other sites” via the Manpower Declaration in [GoBusiness](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Companies need not register them for subsequent swab appointments in SRS if they are no longer required to work at shipyard’s production site.
 
   - title: Are ship crew required to undergo RRT? They are based onboard the vessel which is berthed / docked at our shipyard for repair works.
     content: |
@@ -130,23 +130,23 @@ accordion-c:
 
       Email to MOH Licensing Division to include the following information which is not exhaustive:
 
-            1.	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
+      1.	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
 
-            2.	HCI Name;
+      2.	HCI Name;
 
-            3.	HCI Swabbers’ name;
+      3.	HCI Swabbers’ name;
 
-            4.	Ship agent/Ship owner/Shipyard name that appoint HCI;
+      4.	Ship agent/Ship owner/Shipyard name that appoint HCI;
 
-            5.	Date and planned time of Swab to be done;
+      5.	Date and planned time of Swab to be done;
 
-            6.	Location of Swab to be done;
+      6.	Location of Swab to be done;
 
-            7.	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
+      7.	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
 
-            8.	Laboratory Name where collected swabs will be tested.
+      8.	Laboratory Name where collected swabs will be tested.
 
-            For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division <eLIS@moh.gov.s>{:target="_blank"} and copy to <cco@edb.gov.sg>{:target="_blank"} to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
+      For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division <eLIS@moh.gov.s>{:target="_blank"} and copy to <cco@edb.gov.sg>{:target="_blank"} to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
 
   - title: What is the objective of the Updated Mandatory Precautionary Measures (MPM)?
     content: |
@@ -194,7 +194,7 @@ accordion-d:
 accordion-e:
   - title: Which companies will be affected by this requirement and will this be imposed on all employees within the company?
     content: |    
-      Only companies who employ foreign workers in the Marine Shipyard sector will be affected. Staggered rest days will apply to all Work Permit and S Pass holders hired under the Marine Shipyard account. Companies can check the category of their foreign workers via [Ministry of Manpower’s (MOM’s) Work Permit Online](https://www.mom.gov.sg/eservices/services/wp-online-for-businesses-and-employment-agencies){:target="_blank"} or [Employment Pass Online](https://www.mom.gov.sg/eservices/services/ep-online{:target="_blank"}. Companies are required to adopt and implement the staggered rest day arrangement for these employees.
+      Only companies who employ foreign workers in the Marine Shipyard sector will be affected. Staggered rest days will apply to all Work Permit and S Pass holders hired under the Marine Shipyard account. Companies can check the category of their foreign workers via [Ministry of Manpower’s (MOM’s) Work Permit Online](https://www.mom.gov.sg/eservices/services/wp-online-for-businesses-and-employment-agencies){:target="_blank"} or [Employment Pass Online](https://www.mom.gov.sg/eservices/services/ep-online){:target="_blank"}. Companies are required to adopt and implement the staggered rest day arrangement for these employees.
 
   - title: My Marine Shipyard account foreign workers are working in the office and not on the production site, are they required to follow the staggered rest day arrangement?
     content: |
@@ -240,7 +240,7 @@ accordion-e:
 
   - title: Do we need to submit essential errands request to MOM when workers run errands on their rest day?
     content: |  
-      Yes, workers whose dormitory is declared COVID-cleared and are not serving a Quarantine Order or Stay-Home Notice can leave the dormitory to run essential errands. For essential errands, workers’ employer or dormitory operator are required to notify [MOM] (https://form.gov.sg/#!/5f2d020a56f4f20011a34a0f){:target="_blank"}, and they can then leave for their specified errand.  This is regardless of AccessCode status, and no Exit Pass is needed. Essential errands include medical appointments, court appointments, MOM-approved training and Work Pass related errands.
+      Yes, workers whose dormitory is declared COVID-cleared and are not serving a Quarantine Order or Stay-Home Notice can leave the dormitory to run essential errands. For essential errands, workers’ employer or dormitory operator are required to notify [MOM](https://form.gov.sg/#!/5f2d020a56f4f20011a34a0f){:target="_blank"}, and they can then leave for their specified errand.  This is regardless of AccessCode status, and no Exit Pass is needed. Essential errands include medical appointments, court appointments, MOM-approved training and Work Pass related errands.
 
   - title: When can workers holding work permits and S passes, and staying in dormitories, leave their dormitories for medical examinations, including Rostered Routine Testing “RRT”?
     content: |        
@@ -248,7 +248,7 @@ accordion-e:
 
   - title: If a Public Holiday falls on an employee’s new rest day on a weekday, is the employee entitled to another day off the following day, and if they are required to work, then do we need to pay overtime?
     content: |    
-      Yes, if the holiday falls on a rest day, the next working day is a paid holiday. If the employee is required to work, he/she shall be remunderated in accordance to the Employment Act for working on a Public Holiday.
+      Yes, if the holiday falls on a rest day, the next working day is a paid holiday. If the employee is required to work, he/she shall be remunerated in accordance to the Employment Act for working on a Public Holiday.
 
   - title: My employee’s rest day is Sunday, and his employment contract stipulates a higher rate of pay for working on Sunday.  If his new assigned rest day is a weekday, will I still have to pay the higher rate for him to work on Sunday?
     content: |     
@@ -258,6 +258,7 @@ accordion-e:
     content: |     
       Please refer to the answers for frequently asked questions [here](https://www.mom.gov.sg/eservices/services/safe-work){:target="_blank"}. If you are still experiencing issues, please contact [MOM](https://www.mom.gov.sg/contact-us){:target="_blank"} for assistance.
 
+accordion-g:
   - title: Why are Sponsoring Shipyards and their Resident Contractors grouped together for the staggered rest day arrangement?
     content: |   
       Resident Contractors are supported by a specific Sponsoring Shipyard. As Sponsoring Shipyards work very closely with their Resident Contractors, they are provided with the flexibility to coordinate the staggered rest day arrangements according to operational needs. Sponsoring Shipyards are to ensure that between the shipyard and Resident Contractors there is an even spread of Marine Shipyard account workers resting each day across Monday to Saturday.
@@ -294,6 +295,9 @@ accordion-e:
 
 #### Staggered rest day
 {% include accordion-e.html %}
+
+#### Assignment of Staggered rest day
+{% include accordion-g.html %}
 
 
 [Back to Covid-19 Overview](/covid/)
