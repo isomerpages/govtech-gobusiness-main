@@ -34,6 +34,6 @@ Learn more about it in Step 2 of our [Start guide](/start-a-business/submit-a-bu
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.getting_biz_premises_links %}

@@ -22,6 +22,6 @@ Tap on government initiatives and resources to find new growth opportunities for
 
 ---
 
-### Related content
+### Related links
 
 {% include panels.html panels=site.data.gebiz_alerts_links %}  
