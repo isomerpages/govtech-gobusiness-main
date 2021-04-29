@@ -22,3 +22,27 @@ Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides){:
 ### e-Services for winding down a business
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
+
+- [Apply for Striking-Off](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=C068){:target="_blank"}
+  <br>Submit an application to strike off your company's name from ACRA's register.
+
+- [Declaration of Solvency](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=C057){:target="_blank"}
+  <br>Declare your company's ability to pay its debts, in full, within 12 months after winding up commences.
+
+- [Notice of Winding Up Order and Particulars of the Liquidators](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=C052){:target="_blank"}
+  <br>Inform ACRA about your company's intention to wind up and provide details of the appointed liquidator.
+
+- [Notice of an Appointment of a Receiver or Receiver and Manager](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=C050){:target="_blank"}
+  <br>Inform ACRA about the appointment of an Official Receiver and/or Judicial Manager.
+
+- [Notice of Application for Judicial Management Order](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=C061){:target="_blank"}
+  <br>Inform ACRA about your company's application for a judicial management order.
+
+- [File Cessation of Business](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=B024){:target="_blank"}
+  <br>Inform ACRA that your business operations have ceased. This service is for sole proprietorships and partnerships.
+
+- [File Cessation Notice for Limited Partnership](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=K016){:target="_blank"}
+  <br>Inform ACRA that your business operations have ceased. This service is for limited partnerships.
+
+- [Dissolution of Limited Partnership](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/AcraToBizfilePlusPage.jspx?transactionId=K026){:target="_blank"}
+  <br>Lodge a dissolution of your limited partnership.
