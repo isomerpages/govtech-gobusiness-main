@@ -130,21 +130,21 @@ accordion-c:
 
       Email to MOH Licensing Division to include the following information which is not exhaustive:
 
-      1.	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
+      -	Email header: Mandatory Precautionary Measure on Arrival Onboard PCR Swab Tests for inbound vessels’ crew calling into shipyards for repairs / Pre-Departure Tests for Sign offs only in shipyards or berthed next to shore
 
-      2.	HCI Name;
+      -	HCI Name;
 
-      3.	HCI Swabbers’ name;
+      -	HCI Swabbers’ name;
 
-      4.	Ship agent/Ship owner/Shipyard name that appoint HCI;
+      -	Ship agent/Ship owner/Shipyard name that appoint HCI;
 
-      5.	Date and planned time of Swab to be done;
+      -	Date and planned time of Swab to be done;
 
-      6.	Location of Swab to be done;
+      -	Location of Swab to be done;
 
-      7.	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
+      -	Application date to MOH eLIS for approval to perform offsite swab / show screenshot of approval to MOH eLIS submitted; and
 
-      8.	Laboratory Name where collected swabs will be tested.
+      -	Laboratory Name where collected swabs will be tested.
 
       For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division <eLIS@moh.gov.s>{:target="_blank"} and copy to <cco@edb.gov.sg>{:target="_blank"} to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
 
