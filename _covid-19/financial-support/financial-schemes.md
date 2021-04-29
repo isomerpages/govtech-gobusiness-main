@@ -19,13 +19,6 @@ accordion-new:
 
       Find out more about EFS at <a href="https://go.gov.sg/efs" target="_blank">Enterprise Singapore (ESG)</a>.    
 
-  - title: Loan Insurance Scheme (LIS)
-    content:  |     
-      * Enterprises can secure short-term trade financing loans via the LIS from Participating Financial Institutions (PFI).
-      * Support for the LIS insurance premium will be increased to 80% (from 50%) until 31 March 2021.
-
-      Find out more about LIS at <a href="https://go.gov.sg/lis" target="_blank">Enterprise Singapore (ESG)</a>.   
-
   - title: Temporary Bridging Loan Programme (TBLP)
     content:  |      
       * The TBLP provides access to working capital for business needs.
