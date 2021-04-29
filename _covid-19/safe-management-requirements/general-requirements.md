@@ -20,7 +20,7 @@ Please view the infographic below for an overview of the safe management measure
 
 ---
 
-**Be ready, stay safe**<br> 
+**Be ready, stay safe**<br>
 **7 Key Requirements for Safe Management at Workplaces**
 
 - **Infographic**
@@ -31,7 +31,7 @@ Please view the infographic below for an overview of the safe management measure
 <figure class="video_container">
   <iframe width="100%" height="348" src="https://www.youtube.com/embed/lzCc0TOA7F4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+<br><br>
 - **Resources for download**
 
 | 7 Key Requirements for Safe Management at Workplaces |                                                                                                                                                                                    Download                                                                                                                                                                                    |
