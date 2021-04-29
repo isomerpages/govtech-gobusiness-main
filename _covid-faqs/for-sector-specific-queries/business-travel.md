@@ -11,7 +11,9 @@ accordion-new:
 
       -	Hence we are piloting a  business travel pass for senior executives in Singapore with regional or international roles who need to travel regularly for business. We are doing this in a gradual and calibrated manner to manage our public health situation carefully.
 
-            - Travellers on this pass will be required to abide by a strict controlled itinerary when they travel overseas for work.o	Upon return, travellers will undergo an on-arrival COVID-19 PCR test in lieu of the Stay-Home Notice (SHN) and are required to be isolated in a single location until they obtain a negative result for their on-arrival test.
+            - Travellers on this pass will be required to abide by a strict controlled itinerary when they travel overseas for work.
+
+            Upon return, travellers will undergo an on-arrival COVID-19 PCR test in lieu of the Stay-Home Notice (SHN) and are required to be isolated in a single location until they obtain a negative result for their on-arrival test.
 
             - As an added precautionary measure, travellers on this scheme are required to undergo COVID-19 PCR tests on Day, Day 7 and Day 14 of their return. An additional Serology test will also be required on Day 3.
 

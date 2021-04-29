@@ -17,7 +17,7 @@ accordion-new:
 
       -	Implement telecommuting as far as possible in adherence to MOM’s SMM.
 
-      For PCM activities not regulated under the Building Control Act, E&C plant owners and their PCM contractors must ensure compliance to the COVID-Safe Restart Criteria for E&C plant owners and PCM companies published on MTI’s GoBusiness portal here.
+      For PCM activities not regulated under the Building Control Act, E&C plant owners and their PCM contractors must ensure compliance to the COVID-Safe Restart Criteria for E&C plant owners and PCM companies published on MTI’s GoBusiness portal [here](/safemanagement/sector/).
 
   - title: What kind of projects or activities will require approval from the relevant authorities before they can start/resume from 2 June 2020 onwards? Is there any difference in the resumption of work after Circuit Breaker between the PCM and Construction Sector?
     content: |
@@ -35,7 +35,7 @@ accordion-new:
 
   - title: For process construction projects that require BCA’s approval for resumption of works but are unable to meet certain BCA safe restart criteria, where can I lodge an appeal?
     content: |
-      For companies which are unable to meet certain safe restart criteria from BCA and have legitimate justifications as to why these restart criteria would not be feasible for the process construction project, you can write in to bca_appeals@bca.gov.sg to appeal with the following information:
+      For companies which are unable to meet certain safe restart criteria from BCA and have legitimate justifications as to why these restart criteria would not be feasible for the process construction project, you can write in to <bca_appeals@bca.gov.sg>{:target="_blank"} to appeal with the following information:
 
       -	Reference number of your original submission
       -	Type of works to be carried out
@@ -118,7 +118,7 @@ accordion-b:
 
   - title: Can employers make their own private arrangements for their employees to be tested?
     content: |
-      Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Companies may create accounts to register for swabs by emailing swab@edb.gov.sg and schedule for workers to be swabbed via <https://swab.hpb.gov.sg/ext/login.aspx>{:target="_blank"}.
+      Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Companies may create accounts to register for swabs by emailing <swab@edb.gov.sg>{:target="_blank"} and schedule for workers to be swabbed via <https://swab.hpb.gov.sg/ext/login.aspx>{:target="_blank"}.
 
   - title: What is the situation around foreign workers dormitories? When can my workers leave the dormitory for work?
     content: |
@@ -128,7 +128,7 @@ accordion-b:
     content: |
       Please refer to MOM’s guidance on the matter.
 
-      An alternative to repatriation is to consider releasing the foreign worker to other companies that are short in manpower. If it is assessed that the foreign workers are not needed, an alternative is that employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach Singapore Business Federation (SBF) at <manpowerconnect@sbf.org.sg>{:target="_blank"} or visit SBF’s website [here]<https://www.sbf.org.sg/media-centre/manpowerconnect>{:target="_blank"}.
+      An alternative to repatriation is to consider releasing the foreign worker to other companies that are short in manpower. If it is assessed that the foreign workers are not needed, an alternative is that employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach Singapore Business Federation (SBF) at <manpowerconnect@sbf.org.sg>{:target="_blank"} or visit SBF’s website [here](https://www.sbf.org.sg/media-centre/manpowerconnect){:target="_blank"}.
 
   - title: For foreign workers who have gone on home leave, when can they return?
     content: |
