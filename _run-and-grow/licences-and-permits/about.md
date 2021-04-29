@@ -8,25 +8,25 @@ third_nav_title: Licences and Permits
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
 
-## Find and apply for licences
+### Find and apply for licences
 
 {% include panels.html panels=site.data.rg_licences %}
 
 ![Food Services](/images/grow/foodservices.png)
 
-## For new food service business owners
+### For new food service business owners
 
-### Guided Journey
+#### Guided Journey
 
 If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
 
 <p>
-{% include button.html text="Log in to Guided Journey" src="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs" type="primary" %}
+{% include button.html text="Log In to Guided Journey" src="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs" type="primary" %}
 </p>
 
 <img id="amend-renew-licences" src="/images/grow/allotherbizowners.png"/>
 
-## Amend/renew licences
+### Amend/renew licences
 
 If your licence is from
 
