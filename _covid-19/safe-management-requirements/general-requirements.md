@@ -6,7 +6,7 @@ third_nav_title: Safe Management Requirements
 
 ## General requirements
 
-To provide a safe working environment and to prevent virus transmission at the workplace, businesses are required to abide by the [nation-wide general guidelines for workplaces issued on 9 May 2020](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. Businesses should also adhere to the [sector-specific requirements](/safemanagement/sector/).
+To ensure a safe working environment,  businesses are required to abide by the nation-wide general requirements for workplaces . Businesses are also required to adhere to the sector-specific requirements, and comply with measures to facilitate contact tracing.
 
 All businesses should take note of the following:
 
