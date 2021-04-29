@@ -230,12 +230,6 @@ accordion-b:
       <a href="https://www.nea.gov.sg/programmes-grants/schemes/national-voluntary-partnership-for-e-waste-recycling" target="_blank">Find out more</a>
 
 accordion-c:
-  - title: Agriculture
-    content:  |
-      **Agriculture Productivity Fund (APF)**
-      <br>The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The APF is available for food farms with valid SFA farm licence.
-      
-      <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank">Find out more</a>
   - title: Aerospace
     content:  |
       **Aviation Development Fund (ADF)**

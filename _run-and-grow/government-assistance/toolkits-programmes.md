@@ -196,6 +196,11 @@ accordion-b:
       <br>The MHCP provides guidance to prevent and control chemical hazards at workplaces, and safeguard the health and safety of persons against such hazards within the plant.
       
       <a href="https://www.wshc.sg/wps/portal/!ut/p/a1/jY89D4IwEIZ_iwMrd3yIxq1xkCjGAVToYsBgwSBt2kr_vsjkIOht7-V5cvcChRRom3c1y3XN27x5ZxpcooPvuyTG3SZMHCTuHsNk4Tlx4PdANg6sT95_Po4MwV_-GegUMnwwABMntkBZw4uhbkbawlsyoLK8lbKU9lP260proVYWWmiMsY2qrrZifRDKQsGl_q5WXGlIPwwQj2OK93nTRWT2AgTnMHU!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?action=cmsPublicView&categoryId=CL2014081200099" target="_blank">Find out more</a>
+
+      **Sea Transport Industry Digital Plan**
+      <br>A guide for local SMEs in the Sea Transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
+      
+      <a href="https://go.gov.sg/mpa-idp" target="_blank">Find out more</a>
   - title: Manufacturing & Engineering
     content:  |
       **A\*STAR Tech Access**
@@ -296,11 +301,6 @@ accordion-b:
       <br>A guide for local SMEs in the Logistics industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
       
       <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/logistics-idp" target="_blank">Find out more</a>
-      
-      **Sea Transport Industry Digital Plan**
-      <br>A guide for local SMEs in the Sea Transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
-      
-      <a href="https://go.gov.sg/mpa-idp" target="_blank">Find out more</a>
   - title: Media
     content:  |
       **Media Industry Digital Plan**
