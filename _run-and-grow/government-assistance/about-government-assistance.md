@@ -4,7 +4,7 @@ permalink: /gov-assist/
 third_nav_title: Government Assistance
 ---
 
-## Get recommendations on over 100 government schemes.
+## Get recommendations on over 100 government schemes
 
 There are over 100 government schemes to assist and support your business, now all in one place on GoBusiness.
 
@@ -20,7 +20,7 @@ Find out with e-Adviser for Government Assistance, a free online tool to help yo
 </div>
 </p>
 
-{% include button.html text="Go to e-Adviser for Government Assistance" src="
+{% include button.html text="Get Started with e-Adviser" src="
 https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
 " type="primary" %}
 
