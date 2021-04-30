@@ -113,16 +113,16 @@ accordion-new:
 
 Decide on a name for your business and use our e-Adviser for Starting a Business to:
 
-- check if there are similar business names or trade marks, and if it's available as a username on Facebook/Instagram/YouTube/Twitter.
-- receive a guide and find out what additional approvals are required to get your business started.
+- Check if there are similar business names or trade marks, and if it's available as a username on Facebook/Instagram/YouTube/Twitter.
+- Receive a guide and find out what additional approvals are required to get your business started.
 
 {% include button.html text="Go to e-Adviser for Starting a Business" src="https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname" type="primary" %}
 
 Avoid names which are:
 
-- identical to another business' name
-- undesirable (eg: vulgar, obscene or offensive)
-- prohibited (e.g: Temasek)
+- Identical to another business' name
+- Undesirable (eg: vulgar, obscene or offensive)
+- Prohibited (e.g: Temasek)
 
 You may submit an appeal if your name application has been rejected and/or you have a valid reason to use the name which is you have the necessary approval for names that are identical or prohibited. You will need to upload the supporting documents to support your name appeal.
 
