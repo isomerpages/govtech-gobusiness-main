@@ -34,7 +34,7 @@ accordion-new:
 
   - title: Country and recreation clubs
     content:  |
-      Country and recreation clubs are to comply to measures stipulated in this [document](/images/guides/countryclubadvisory.pdf){:target="_blank"} [last updated on 13 January 2021].
+      Country and recreation clubs are to comply to measures stipulated in this [document](/images/guides/countryclubadvisory.pdf){:target="_blank"} [last updated on 30 April 2021].
 
   - title: Dental sector
     content:  |
@@ -109,6 +109,8 @@ accordion-new:
   - title: MICE events
     content:  |      
       Event Organisers and Event Venues (collectively “EOs”) are to comply to measures stipulated in this [document](/images/guides/MICEPilotEventAdvisory.pdf){:target="_blank"} [last updated on 23 April 2021] for piloting MICE events of up to 750 participants. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE){:target="_blank"} for more information on the application process and FAQs.
+
+      ![MICE Events!](/images/covid/miceevents.jpg "MICE Events")
 
   - title: Private mahjong (or gambling) rooms operators
     content:  |  
