@@ -110,6 +110,8 @@ accordion-new:
     content:  |      
       Event Organisers and Event Venues (collectively “EOs”) are to comply to measures stipulated in this [document](/images/guides/MICEPilotEventAdvisory.pdf){:target="_blank"} [last updated on 23 April 2021] for piloting MICE events of up to 750 participants. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE){:target="_blank"} for more information on the application process and FAQs.
 
+      ![MICE Events!](/images/covid/miceevents.jpg "MICE Events")
+
   - title: Private mahjong (or gambling) rooms operators
     content:  |  
       Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this [document](/images/guides/privatemjadvisory.pdf){:target="_blank"} [last updated on 25 June 2020].
