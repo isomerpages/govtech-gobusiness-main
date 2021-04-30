@@ -7,7 +7,7 @@
 logo: /images/Gobiz_logo_SG.svg
 
 links:
-  - title: Start Business
+  - title: Start a Business
     url: /start-a-business/
     sublinks:
       - title: Overview
@@ -18,7 +18,7 @@ links:
         url: /start-a-business/hire-employees/
       - title: FAQ
         url: /start-a-business/faqs/
-  - title: Run and Grow Business
+  - title: Run and Grow a Business
     url: /run-and-grow/
     sublinks:
       - title: Overview

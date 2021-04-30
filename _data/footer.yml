@@ -5,7 +5,7 @@ privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
 
 navlinks:
-  - title: Start Business
+  - title: Start a Business
     url: /start-a-business/
     sublinks:
       - title: Overview
@@ -16,7 +16,7 @@ navlinks:
         url: /start-a-business/hire-employees/
       - title: FAQ
         url: /start-a-business/faqs/
-  - title: Run and Grow Business
+  - title: Run and Grow a Business
     url: /run-and-grow/
     sublinks:
       - title: Overview
