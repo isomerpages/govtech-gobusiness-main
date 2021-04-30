@@ -74,7 +74,7 @@ accordion-new:
     content:  |
       Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 27 April 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
-      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 7 January 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
+      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 7 January 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
   - title: Hostels
     content:  |
@@ -94,7 +94,7 @@ accordion-new:
 
   - title: Marine & offshore (M&O) sector
     content:  |
-      Enterprises in the M&O sector are to comply to measures for stipulated in this [document](/images/guides/AdvisoryMOSector_19Feb.pdf){:target="_blank"} [last updated on 19 Feb 21] and updated measures in this [document](images/guides/AdvisoryMOSector_30Mar.pdf){:target="_blank"} [last updated on 30 March 2021].
+      Enterprises in the M&O sector are to comply to measures for stipulated in this [document](/images/guides/AdvisoryMOSector_19Feb.pdf){:target="_blank"} [last updated on 19 Feb 21] and updated measures in this [document](/images/guides/AdvisoryMOSector_30Mar.pdf){:target="_blank"} [last updated on 30 March 2021].
 
       You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) [here](/images/guides/MORestartCriteria.pdf){:target="_blank"} [last updated on 30 March 2021]. For FAQ regarding COVID-Safe restart criteria, please refer to this [document](/images/guides/FAQsforMOSector.pdf){:target="_blank"} [last updated on 30 March 2021].
 
@@ -122,7 +122,7 @@ accordion-new:
     content:  |
       PCM companies are to comply to measures stipulated in this [document](/images/guides/PCMAdvisory26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
-      PCM companies should also comply to the COVID-Safe restart criteria stipulated [here](images/guides/CriteriaPCMCompanies26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
+      PCM companies should also comply to the COVID-Safe restart criteria stipulated [here](/images/guides/CriteriaPCMCompanies26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
       Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this [document](/images/guides/CriteriaECPlantOwners26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
@@ -138,7 +138,7 @@ accordion-new:
 
   - title: Public entertainment
     content:  |    
-      Public Entertainment (PE) venue operators are to comply to measures stipulated in this [document](/images/guides/peadvisory.pdf){:target="_blank"} [last updated on 27 December 2020]. PE operators are also encouraged to refer to the [annex](images/guides/peannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 27 December 2020].
+      Public Entertainment (PE) venue operators are to comply to measures stipulated in this [document](/images/guides/peadvisory.pdf){:target="_blank"} [last updated on 27 December 2020]. PE operators are also encouraged to refer to the [annex](/images/guides/peannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 27 December 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence){:target="_blank"}.
 
@@ -152,7 +152,7 @@ accordion-new:
     content:  |   
       Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/sportsadvisory.pdf){:target="_blank"} [last updated 7 January 2021].
 
-      Lion Dance Performing Troupes are to comply to measures stipulated in this [document](images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 21].
+      Lion Dance Performing Troupes are to comply to measures stipulated in this [document](/images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 21].
 
   - title: Student care centres   
     content:  |
