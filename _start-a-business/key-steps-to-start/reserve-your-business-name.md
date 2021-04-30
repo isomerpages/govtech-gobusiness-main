@@ -80,7 +80,7 @@ accordion-new:
       - Proposed business name
       - Description of main business activities
       - Particulars of partners and local manager
-     
+
   - title: Apply for Company Name
     content: |
       Here's what you need to know in order to apply for a Company name.
@@ -124,7 +124,7 @@ Avoid names which are:
 - Undesirable (eg: vulgar, obscene or offensive)
 - Prohibited (e.g: Temasek)
 
-You may submit an appeal if your name application has been rejected and/or you have a valid reason to use the name which is you have the necessary approval for names that are identical or prohibited. You will need to upload the supporting documents to support your name appeal.
+You may submit an appeal if your name application has been rejected and/or you have a valid reason to use the name which is identical or prohibited. You will need to upload the supporting documents to support your name appeal.
 
 To improve your chances of a successful application, read the [ACRA business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"} for more details.
 

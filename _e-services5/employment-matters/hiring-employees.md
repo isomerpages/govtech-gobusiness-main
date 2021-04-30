@@ -32,14 +32,14 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 - [Request for extension to get work pass issued / renewed or send pass holder home](https://form.gov.sg/#!/5f1803c2adf7da00122fc34e){:target="_blank"}
   <br>Request form if the work pass holder needs more time to leave Singapore or get the pass issued/renewed.
 
-### e-Services for hiring local employees
+### e-Services for hiring foreign employees
 
 **Ministry of Manpower (MOM)**
 
 - [Notify for employment of young persons](https://www.mom.gov.sg/eservices/services/notify-for-employment-of-young-persons){:target="_blank"}
   <br>Notify MOM if you have employees between the ages of 15 to below 16 in an industrial setting (eg: construction, transportation and manufacturing).
 
-### e-Services for hiring local employees
+### e-Services for hiring foreign employees
 
 **Ministry of Manpower (MOM)**
 

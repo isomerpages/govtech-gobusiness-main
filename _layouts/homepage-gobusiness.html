@@ -12,7 +12,7 @@ layout: skeleton
 
     .home-content .section-1 {
       position: relative;
-      width: 100vw;
+      width: 100%;
       height: 350px;
     }
 
@@ -81,6 +81,11 @@ layout: skeleton
         0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
         0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
       padding: 0 30px;
+      align-items: center;
+    }
+
+    .home-content .services-container>a {
+      height: 100%;
     }
 
     .home-content .service {
@@ -89,7 +94,13 @@ layout: skeleton
       text-align: center;
       padding: 20px 10px;
       cursor: pointer;
-      grid-template-rows: 40px 44px;
+      grid-template-rows: auto auto;
+      height: 100%;
+      align-items: start;
+    }
+
+    .home-content .service > img {
+      align-self: center;
     }
 
     .home-content .service:hover {
@@ -118,7 +129,7 @@ layout: skeleton
 
     .home-content .section-2 {
       background-color: #f0f4f6;
-      width: 100vw;
+      width: 100%;
       height: auto;
       padding-bottom: 60px;
     }
@@ -157,7 +168,7 @@ layout: skeleton
     .home-content .business-container {
       display: grid;
       grid-template-columns: 580px 580px;
-      column-gap: 5vw;
+      column-gap: 5%;
       justify-content: center;
       justify-items: center;
       margin-top: 64px;
@@ -216,7 +227,7 @@ layout: skeleton
     }
 
     .home-content .section-3 {
-      width: 100vw;
+      width: 100%;
       height: auto;
     }
 
@@ -257,9 +268,9 @@ layout: skeleton
     }
 
     .home-content .section-4 {
-      width: 100vw;
-      height: 698px;
-      padding-bottom: 40px;
+      position: relative;
+      width: 100%;
+      height: 600px;
     }
 
     .home-content .gobizmove-container {
@@ -275,7 +286,7 @@ layout: skeleton
     }
 
     .home-content .gobizmove-content {
-      position: relative;
+      position: absolute;
       z-index: 1;
       left: 15%;
       top: 160px;
@@ -311,9 +322,12 @@ layout: skeleton
     }
 
     .home-content .section-5 {
-      width: 100vw;
+      width: 100%;
       height: auto;
       padding: 50px 0;
+      position: relative;
+      z-index: 1;
+      background-color: white;
     }
 
     .home-content .section-5 .view-more {
@@ -386,6 +400,7 @@ layout: skeleton
     @media (max-width: 1600px) {
       .home-content .gobizmove-container {
         background-size: contain;
+        background-position: top;
       }
     }
 
@@ -407,7 +422,6 @@ layout: skeleton
       }
 
       .home-content .section-4>.break-ipad {
-        margin-top: 110px;
         text-align: center;
       }
 
@@ -416,7 +430,7 @@ layout: skeleton
       }
 
       .home-content .service {
-        grid-template-rows: 40px 44px;
+        grid-template-rows: auto auto;
       }
 
       .home-content .service>p {
@@ -425,14 +439,16 @@ layout: skeleton
 
       .home-content .services-container {
         grid-template-columns: repeat(6, 125px);
+        justify-content: space-around;
+        align-items: center;
       }
 
       .home-content .popular-group {
-        width: 90vw;
+        width: 90%;
         margin: 0 auto;
         flex-wrap: wrap;
         padding: 20px 60px 0 60px;
-        justify-content: start;
+        justify-content: center;
       }
 
       .home-content .business-container {
@@ -444,12 +460,14 @@ layout: skeleton
 
       .home-content .e-service-header-container {
         text-align: center;
-        width: 80vw;
+        width: 80%;
       }
 
       .home-content .gobizmove-container {
         background-color: #E8F1F9;
         background-image: none;
+        position: relative;
+        height: 450px;
       }
 
       .home-content .panels-container {
@@ -496,11 +514,17 @@ layout: skeleton
         height: 384px;
       }
 
+      .home-content .service {
+        grid-template-rows: 40px 44px;
+      }
+
+
       .home-content .services-container {
         grid-template-columns: 1fr 1fr;
       }
 
       .home-content .services-container>a {
+        height: 100%;
         box-sizing: border-box;
         border: 0.5px solid #DBDFE4;
       }
@@ -561,6 +585,10 @@ layout: skeleton
         margin: 0 auto;
       }
 
+      .home-content .gobizmove-container {
+        position: absolute;
+      }
+
       .home-content .gobizmove-content {
         position: static;
       }
@@ -593,7 +621,7 @@ layout: skeleton
 
       .home-content .gobizmove-content>ul {
         text-align: left;
-        max-width: 70vw;
+        max-width: 70%;
         position: relative;
         left: 52px;
         list-style-position: outside;
@@ -602,6 +630,7 @@ layout: skeleton
       .home-content .gobizmove-content>ul>li {
         font-family: hknova-regular;
         font-size: 16px;
+        letter-spacing: 0px;
       }
 
       .home-content .col {
@@ -615,7 +644,7 @@ layout: skeleton
       }
 
       .home-content .section-4 {
-        width: 100vw;
+        width: 100%;
         height: auto;
         padding-bottom: 60px;
       }
@@ -625,7 +654,7 @@ layout: skeleton
       }
 
       .home-content .section-4>.break-mobile>img {
-        width: 100vw;
+        width: 100%;
       }
 
       .home-content .section-5>h1 {
