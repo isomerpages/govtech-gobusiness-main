@@ -22,9 +22,6 @@ Find them in our list of [grants](/gov-assist/grants/).
 - [Apply for Earn and Learn Programme](#){:target="_blank"}
   <br>Recruit fresh graduates from polytechnics and the Institute of Technical Education (ITE) and register them for this work-study programme to prepare them for suitable job roles within your business.
 
-- [Apply for in-Learn 2020](#){:target="_blank"}
-  <br>
-
 **SkillsFuture Singapore-Workforce Singapore (SSG-WSG)**
 
 - [Apply for training grants](https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do){:target="_blank"}
