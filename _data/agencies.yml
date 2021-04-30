@@ -71,7 +71,7 @@
 
 - title: Health Sciences Authority (HSA)
   description: For Tobacco Retail Licence Inquiry
-  tel: +65 6684 2031 / 2032
+  tel: +65 6684 2031, +65 6684 2032
   email: hsa_trb@hsa.gov.sg
 
 - title: Infocomm and Media Development Authority Singapore (IMDA)
@@ -93,7 +93,7 @@
 
 - title: Inland Revenue Authority of Singapore (IRAS)
   description: The Comptroller of Property Tax - Appraiser Licensing
-  tel: +65 6351 2442 / 2413
+  tel: +65 6351 2442, +65 6351 2413
   email: iras_pvs_tl2@iras.gov.sg
 
 - title: Inland Revenue Authority of Singapore (IRAS)
@@ -104,7 +104,7 @@
 
 - title: Land Transport Authority (LTA)
   description: Customer Service
-  tel: 1800 - CALL LTA (1800 2255 582)
+  tel: 1800 2255 582
   email: LTA_L1@lta.gov.sg, lta_bus_licence@lta.gov.sg
 
 - title: Ministry of Culture, Community and Youth (MCCY)
@@ -119,7 +119,7 @@
 
 - title: Ministry of Law (MINLAW)
   description: MINLAW Customer Service Team
-  tel: 1800-CALL-LAW (1800 2255 529)
+  tel: 1800 2255 529
   url: eservices.mlaw.gov.sg/enquiry/
   url-new-tab: true
   protocol: https
@@ -180,7 +180,7 @@
 
 - title: Public Utilities Board (PUB)
   description: Written Approval for the Discharge of Trade Effluent Into the Public Sewer
-  tel: +65 6517 2223 / 2201
+  tel: +65 6517 2223, +65 6517 2201
   email: ahmad_al_rifaee_abdul_halim@pub.gov.sg, muhd_ammarsyakir_seno@pub.gov.sg, damien_zhao@pub.gov.sg
 
 - title: Public Utilities Board (PUB)
