@@ -34,7 +34,7 @@ accordion-new:
 
   - title: Can a company that had been granted General Exemption appeal to cancel their General Exemption to qualify for the Circuit Breaker tier JSS of 75%?
     content: |
-      You may write to <covid_gobusiness@mti.gov.sg> to submit a request.
+      You may write to <covid_gobusiness@mti.gov.sg>{:target="_blank"} to submit a request.
 
   - title: I run a multi-outlet company. Only certain outlets of my company are allowed to resume operations. Would I still be eligible for the Circuit Breaker tier JSS of 75%?
     content: |
