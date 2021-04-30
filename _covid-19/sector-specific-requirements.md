@@ -14,11 +14,11 @@ accordion-new:
 
   - title: Attractions
     content:  |
-      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STBAdvisoryforattractions.pdf){:target="_blank"}[last updated on 30 December 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
+      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STBAdvisoryforattractions.pdf){:target="_blank"} [last updated on 30 December 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
 
   - title: Built environment
     content:  |
-      Enterprises in the construction sector are to comply to measures stipulated in this [document](/images/guides/Construction.pdf){:target="_blank"} [last updated on 25 May 2020] and this [document](/images/guides/Construction2.pdf) [last updated on 26 Jun 20].
+      Enterprises in the construction sector are to comply to measures stipulated in this [document](/images/guides/Construction.pdf){:target="_blank"} [last updated on 25 May 2020] and this [document](/images/guides/Construction2.pdf){:target="_blank"} [last updated on 26 Jun 20].
 
       Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this [document](/images/guides/Reno.pdf){:target="_blank"} [last updated on 13 June 20].
 
