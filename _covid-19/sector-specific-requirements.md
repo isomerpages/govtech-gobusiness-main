@@ -34,7 +34,7 @@ accordion-new:
 
   - title: Country and recreation clubs
     content:  |
-      Country and recreation clubs are to comply to measures stipulated in this [document](/images/guides/countryclubadvisory.pdf){:target="_blank"} [last updated on 13 January 2021].
+      Country and recreation clubs are to comply to measures stipulated in this [document](/images/guides/countryclubadvisory.pdf){:target="_blank"} [last updated on 30 April 2021].
 
   - title: Dental sector
     content:  |
