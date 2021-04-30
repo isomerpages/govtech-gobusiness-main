@@ -4,15 +4,6 @@ permalink: /licences/find-licence-by-agency/
 third_nav_title: Licences and Permits
 
 accordion-a:
-  - title: Accounting & Corporate Regulatory Authority (ACRA)
-    content: |
-      | **Licence Name** | **Apply on** |
-      | --- | --- |
-      |Business Registration|[BizFile+](http://www.bizfile.gov.sg/){:target="_blank"}|
-      |Company Incorporation|[BizFile+](http://www.bizfile.gov.sg/){:target="_blank"}|
-      |Foreign Company Registration|[BizFile+](http://www.bizfile.gov.sg/){:target="_blank"}|
-      |Limited Liability Partnership (LLP) Registration|[BizFile+](http://www.bizfile.gov.sg/){:target="_blank"}|
-      |Limited Partnership (LP) Registration|[BizFile+](http://www.bizfile.gov.sg/){:target="_blank"}|
   - title: Animal & Veterinary Service (AVS)
     content: |
       | **Licence Name** | **Apply on** |
@@ -58,7 +49,6 @@ accordion-c:
       |Clearance for Ship Crossing|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=286){:target="_blank"}|
       |Flight Crew Licence|[CAAS](https://www.caas.gov.sg/personnel-licences-training/flight-crew){:target="_blank"}|
       |Glare and/or Height Control Requirements for Rooftop Solar PV Installation|[CAAS](https://licence1.business.gov.sg/documents/13101/3730559/Potential+Hazards+of+Solar+Photovoltaic+Feb+2020/293e8fe0-ceed-4826-9cab-985370eeddd7){:target="_blank"}|
-      |Munitions of War (MOW) Permit|[CAAS](https://www.caas.gov.sg/docs/default-source/pdf/ac_dgr_1_1_munitions_of_war_permitsce9de0bb3903666590f0ff000087c682.pdf){:target="_blank"}|
       |Permit for Aerial Activities|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=287){:target="_blank"}|
       |Permit to fly|[CAAS](https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly){:target="_blank"}|
       |Permits for Carriage of Dangerous Goods|[CAAS](https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/air-operators/dangerous-goods-permit){:target="_blank"}|
@@ -348,6 +338,7 @@ accordion-n:
       |Vector Control Technician Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162){:target="_blank"}|
       |Vector Control Worker Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164){:target="_blank"}|
       |Written Permission to Discharge Trade Effluent into a Watercourse|[NEA](https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse){:target="_blank"}|
+      |Hawker Stall Licence|[NEA](https://www.nea.gov.sg/our-services/hawker-management/overview){:target="_blank"}|
   - title: National Parks Board (NPARK)
     content: |
       | **Licence Name** | **Apply on** |
@@ -400,7 +391,6 @@ accordion-s:
       |Food Stall Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440){:target="_blank"}|
       |Free Sale Certificate (Animal Feed)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327){:target="_blank"}|
       |Free Sale Certificate (Food)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166){:target="_blank"}|
-      |Hawker Stall Licence|[NEA](https://www.nea.gov.sg/our-services/hawker-management/overview){:target="_blank"}|
       |Health Certificate for Export of Live Foodfish for Breeding|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000110){:target="_blank"}|
       |Licence for Import/Export/Transhipment of Meat and Fish Products|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176){:target="_blank"}|
       |Licence for Import/Transhipment of Fresh Fruits and Vegetables|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175){:target="_blank"}|
