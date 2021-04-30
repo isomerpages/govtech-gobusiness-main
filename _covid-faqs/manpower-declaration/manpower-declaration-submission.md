@@ -17,7 +17,7 @@ accordion-new:
     content: |
       If your business has a ‘Permitted’ status, you are no longer required to submit manpower details and hence will not be able to see the “Submit Manpower” button on the portal. If you are operating on a General Exemption approval but are facing issues with manpower submission, please write to MTI at <covid_gobusiness@mti.gov.sg>.
 
-      Please also note that there may be conditions imposed on the approval of your general exemption. These conditions will be indicated in your official email notification of approval. Alternatively, you may also login [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"} to check your exemption application for any conditions to your approval.
+      Please also note that there may be conditions imposed on the approval of your general exemption. These conditions will be indicated in your official email notification of approval. Alternatively, you may also login [here](https://go.gov.sg/timelimitedexemption){:target="_blank"} to check your exemption application for any conditions to your approval.
 
   - title: How long do I need to keep declaring/submitting my manpower details? Do I need to update this information on a daily basis whenever there are changes to my manpower count?
     content: |
@@ -27,7 +27,7 @@ accordion-new:
 
   - title: What manpower details must companies declare / submit? How do I declare / submit my manpower details?
     content: |
-      For applicants with a Singpass account, please login [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Thereafter, please click on the button “Submit Manpower” to submit your manpower details.
+      For applicants with a Singpass account, please login [here](https://go.gov.sg/timelimitedexemption){:target="_blank"}. Thereafter, please click on the button “Submit Manpower” to submit your manpower details.
 
       Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
@@ -45,13 +45,13 @@ accordion-new:
 
   - title: Can I proceed to resume operations after declaring/submitting my manpower details? Will I receive any notification of approval?
     content: |
-      You will receive an email acknowledgment of your manpower declaration. You can only resume operations from the specified date indicated against your business resumption status, when you login to <https://www.gobusiness.gov.sg/exemptions>{:target="_blank"}.
+      You will receive an email acknowledgment of your manpower declaration. You can only resume operations from the specified date indicated against your business resumption status, when you login to <https://go.gov.sg/timelimitedexemption>{:target="_blank"}.
 
-      There may be conditions imposed on your approved/permitted general exemption/business resumption. These conditions will also be indicated in the email acknowledgement of your manpower declaration. Alternatively, you may login to <https://www.gobusiness.gov.sg/exemptions>{:target="_blank"} to check your general exemption/business resumption status for any conditions to your approval.
+      There may be conditions imposed on your approved/permitted general exemption/business resumption. These conditions will also be indicated in the email acknowledgement of your manpower declaration. Alternatively, you may login to <https://go.gov.sg/timelimitedexemption>{:target="_blank"} to check your general exemption/business resumption status for any conditions to your approval.
 
   - title: What happens if I do not receive an acknowledgement email after I have declared my manpower details?
     content: |
-      If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Singpass account, kindly login to <https://www.gobusiness.gov.sg/exemptions>{:target="_blank"} to verify that your email address is accurately reflected. 
+      If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Singpass account, kindly login to <https://go.gov.sg/timelimitedexemption>{:target="_blank"} to verify that your email address is accurately reflected.
 
       You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.  
 
@@ -61,7 +61,7 @@ accordion-new:
 
   - title: What should I do if I would like to make changes to my manpower declaration?
     content: |   
-      You can login [here](https://www.gobusiness.gov.sg/exemptions/login){:target="_blank"} and click on your business resumption to resubmit your manpower declaration.
+      You can login [here](https://go.gov.sg/timelimitedexemption){:target="_blank"} and click on your business resumption to resubmit your manpower declaration.
 
   - title: Is there a limit to the number of times I can change my manpower declaration details?
     content: |  

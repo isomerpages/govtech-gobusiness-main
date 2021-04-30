@@ -1,5 +1,5 @@
 ---
-title: Sector-specific Requirements
+title: Sector-Specific Requirements
 permalink: /safemanagement/sector/
 accordion-new:
   - title: Accounting practices
@@ -10,15 +10,15 @@ accordion-new:
     content:  |
       Arts and culture stakeholders are to comply to measures stipulated in this [document](/images/guides/nac.pdf){:target="_blank"} [last updated on 1 April 2021]. You can also refer to the National Arts Council [website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html){:target="_blank"}.
 
-      Museum stakeholders are to comply to measures stipulated in this [document](/images/guides/NHB.pdf) [last updated on 28 December 2020]. You can also refer to the National Heritage Board [website](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19){:target="_blank"}.
+      Museum stakeholders are to comply to measures stipulated in this [document](/images/guides/NHB.pdf){:target="_blank"} [last updated on 28 December 2020]. You can also refer to the National Heritage Board [website](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19){:target="_blank"}.
 
   - title: Attractions
     content:  |
-      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STBAdvisoryforattractions.pdf)[last updated on 30 December 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
+      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STBAdvisoryforattractions.pdf){:target="_blank"} [last updated on 30 December 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
 
   - title: Built environment
     content:  |
-      Enterprises in the construction sector are to comply to measures stipulated in this [document](/images/guides/Construction.pdf) [last updated on 25 May 2020] and this [document](/images/guides/Construction2.pdf) [last updated on 26 Jun 20].
+      Enterprises in the construction sector are to comply to measures stipulated in this [document](/images/guides/Construction.pdf){:target="_blank"} [last updated on 25 May 2020] and this [document](/images/guides/Construction2.pdf){:target="_blank"} [last updated on 26 Jun 20].
 
       Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this [document](/images/guides/Reno.pdf){:target="_blank"} [last updated on 13 June 20].
 
@@ -50,20 +50,20 @@ accordion-new:
 
   - title: Finance
     content:  |
-      Enterprises in the finance sector are to comply to measures stipulated in this [document](images/guides/massmrrequirements2.pdf){:target="_blank"} [last updated on 15 June 20]. You can also refer to the Monetary Authority of Singapore [website](https://www.mas.gov.sg/news){:target="_blank"}.
+      Enterprises in the finance sector are to comply to measures stipulated in this [document](/images/guides/massmrrequirements2.pdf){:target="_blank"} [last updated on 15 June 20]. You can also refer to the Monetary Authority of Singapore [website](https://www.mas.gov.sg/news){:target="_blank"}.
 
   - title: Funeral events
     content:  |
-      Enterprises in the funeral sector are to comply to measures stipulated in this [document](images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 21 April 2021].
+      Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 21 April 2021].
 
-  - title: F&B & retail
+  - title: F&B retail
     content:  |
-      - F&B establishments are to comply to measures stipulated in this [document](images/guides/FBestablishments30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
+      - F&B establishments are to comply to measures stipulated in this [document](/images/guides/FBestablishments30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
 
       - Infographic on Safe Management Measures at F&B Establishments [last updated on 12 January 2021]<br>
       ![F&B](/images/covid/smrfnb.jpg "F&B establishments")
 
-      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](images/guides/retailsmrrequirements30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
+      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/retailsmrrequirements30Jan.pdf){:target="_blank"} [last updated on 30 January 2021].<br>
 
       - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 12 January 2021]<br>
       ![Retail](/images/covid/smrretail.jpg "Retail")
@@ -72,13 +72,13 @@ accordion-new:
 
   - title: Health and social services
     content:  |
-      Residential and Community-based Facilities are to comply to measures stipulated in this [document](images/guides/msfresidentialadvisory.pdf){:target="_blank"}[last updated on 27 April 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
+      Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 27 April 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
-      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 7 January 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
+      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 7 January 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
   - title: Hostels
     content:  |
-      Hostels are to comply to the measures stipulated in this document](iimages/guides/hostelsadvisory.pdf){:target="_blank"} [last updated on 1 April 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#advisoryforhostels){:target="_blank"}.
+      Hostels are to comply to the measures stipulated in this [document](/images/guides/hostelsadvisory.pdf){:target="_blank"} [last updated on 1 April 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#advisoryforhostels){:target="_blank"}.
 
   - title: Hotels
     content:  |
@@ -90,77 +90,77 @@ accordion-new:
 
   - title: Marriage solemnisations and wedding receptions
     content:  |
-      With effect from 24 April 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this [document](images/guides/SMMs_for_Weddings_w_PET(For 24 Apr).pdf){:target="_blank"} [last updated 24 April 2021], depending on venue.  
+      With effect from 24 April 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this [document](/images/guides/SMMs_for_Weddings_w_PET(For 24 Apr).pdf){:target="_blank"} [last updated 24 April 2021], depending on venue.  
 
   - title: Marine & offshore (M&O) sector
     content:  |
-      Enterprises in the M&O sector are to comply to measures for stipulated in this [document](images/guides/AdvisoryMOSector_19Feb.pdf){:target="_blank"} [last updated on 19 Feb 21] and updated measures in this [document](images/guides/AdvisoryMOSector_30Mar.pdf){:target="_blank"} [last updated on 30 March 2021].
+      Enterprises in the M&O sector are to comply to measures for stipulated in this [document](/images/guides/AdvisoryMOSector_19Feb.pdf){:target="_blank"} [last updated on 19 Feb 21] and updated measures in this [document](/images/guides/AdvisoryMOSector_30Mar.pdf){:target="_blank"} [last updated on 30 March 2021].
 
-      You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) [here](images/guides/MORestartCriteria.pdf){:target="_blank"} [last updated on 30 March 2021]. For FAQ regarding COVID-Safe restart criteria, please refer to this [document](images/guides/FAQsforMOSector.pdf){:target="_blank"} [last updated on 30 March 2021].
+      You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) [here](/images/guides/MORestartCriteria.pdf){:target="_blank"} [last updated on 30 March 2021]. For FAQ regarding COVID-Safe restart criteria, please refer to this [document](/images/guides/FAQsforMOSector.pdf){:target="_blank"} [last updated on 30 March 2021].
 
-      Enterprises in the M&O sector are to comply to measures stipulated in this [document](images/guides/marineadvisory.pdf){:target="_blank"} [last updated on 12 August 2020] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
+      Enterprises in the M&O sector are to comply to measures stipulated in this [document](/images/guides/marineadvisory.pdf){:target="_blank"} [last updated on 12 August 2020] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
   - title: Massage establishments
     content:  |      
-      Massage Establishments (MEs) are to comply to measures stipulated in this document](images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](images/guides/meannex.pdf){:target="_blank"}[ and adopt the additional measures within, where possible [last updated on 28 December 2020].
+      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](/images/guides/meannex.pdf){:target="_blank"}[ and adopt the additional measures within, where possible [last updated on 28 December 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence){:target="_blank"}.
 
   - title: MICE events
     content:  |      
-      Event Organisers and Event Venues (collectively “EOs”) are to comply to measures stipulated in this [document](images/guides/MICEPilotEventAdvisory.pdf){:target="_blank"} [last updated on 23 April 2021] for piloting MICE events of up to 750 participants. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE){:target="_blank"} for more information on the application process and FAQs.
+      Event Organisers and Event Venues (collectively “EOs”) are to comply to measures stipulated in this [document](/images/guides/MICEPilotEventAdvisory.pdf){:target="_blank"} [last updated on 23 April 2021] for piloting MICE events of up to 750 participants. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE){:target="_blank"} for more information on the application process and FAQs.
 
   - title: Private mahjong (or gambling) rooms operators
     content:  |  
-      Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this [document](images/guides/privatemjadvisory.pdf){:target="_blank"} [last updated on 25 June 2020].
+      Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this [document](/images/guides/privatemjadvisory.pdf){:target="_blank"} [last updated on 25 June 2020].
 
   - title: Private tuition and enrichment
     content:  |  
-      Private tuition and enrichment providers are to comply to measures stipulated in this [document](images/guides/PrivateTuitionEnrichment.pdf){:target="_blank"} [last updated on 5 April 2021].   
+      Private tuition and enrichment providers are to comply to measures stipulated in this [document](/images/guides/PrivateTuitionEnrichment.pdf){:target="_blank"} [last updated on 5 April 2021].   
 
   - title: Process construction & maintenance sector
     content:  |
-      PCM companies are to comply to measures stipulated in this [document](images/guides/PCMAdvisory26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
+      PCM companies are to comply to measures stipulated in this [document](/images/guides/PCMAdvisory26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
-      PCM companies should also comply to the COVID-Safe restart criteria stipulated [here](images/guides/CriteriaPCMCompanies26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
+      PCM companies should also comply to the COVID-Safe restart criteria stipulated [here](/images/guides/CriteriaPCMCompanies26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
-      Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this [document](images/guides/CriteriaECPlantOwners26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
+      Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this [document](/images/guides/CriteriaECPlantOwners26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
-      Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this [document](/images/guides/PCMBCAStaggeredRestDay.pdf){:target="_blank"} [last updated on 12 Augusy 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
+      Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this [document](/images/guides/PCMBCAStaggeredRestDay.pdf){:target="_blank"} [last updated on 12 August 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
       For more information on the BluePass contact tracing token, please refer to this [document](/images/guides/AdvisoryonBPtokenvfp.pdf){:target="_blank"} [last updated on 3 November 2020] and to this [document](/images/guides/AdvisoryonBPtokenvf.pdf){:target="_blank"} [last updated on 4 December 2020].
 
-      For more information on the TraceTogether contact tracing token, please refer to this [document](images/guides/advisoryontttokens.pdf){:target="_blank"} [last updated on 5 April 2021].
+      For more information on the TraceTogether contact tracing token, please refer to this [document](/images/guides/advisoryontttokens.pdf){:target="_blank"} [last updated on 5 April 2021].
 
   - title: Property show galleries
     content:  |   
-      Developers are to comply to measures stipulated in this [document](images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 17 June 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13){:target="_blank"}.
+      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 17 June 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13){:target="_blank"}.
 
   - title: Public entertainment
     content:  |    
-      Public Entertainment (PE) venue operators are to comply to measures stipulated in this [document](images/guides/peadvisory.pdf){:target="_blank"} [last updated on 27 December 2020]. PE operators are also encouraged to refer to the [annex](images/guides/peannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 27 December 2020].
+      Public Entertainment (PE) venue operators are to comply to measures stipulated in this [document](/images/guides/peadvisory.pdf){:target="_blank"} [last updated on 27 December 2020]. PE operators are also encouraged to refer to the [annex](/images/guides/peannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 27 December 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence){:target="_blank"}.
 
   - title: Religious organisations
     content:  |  
-      Religious organisations are to comply to measures stipulated in this [document](images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 31 March 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
+      Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 31 March 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
 
-      For more information and FAQ on COVID-19 for the religious sector, please visit <www.cpro.gov.sg>{:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <cpro@mccy.gov.sg>{:target="_blank"}.
+      For more information and FAQ on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](https://www.cpro.gov.sg/){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg){:target="_blank"}.
 
   - title: Sports sector enterprises, sports education, and premises with sports facilities
     content:  |   
-      Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](images/guides/sportsadvisory.pdf){:target="_blank"} [last updated 7 January 2021].
+      Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/sportsadvisory.pdf){:target="_blank"} [last updated 7 January 2021].
 
-      Lion Dance Performing Troupes are to comply to measures stipulated in this [document](images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 21].
+      Lion Dance Performing Troupes are to comply to measures stipulated in this [document](/images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 21].
 
   - title: Student care centres   
     content:  |
-      Student Care Centres are to comply to the measures stipulated in this [document](images/guides/studentcareadvisory.pdf){:target="_blank"} [last updated 21 April 2021]. You can also refer to the [Student Care Portal](https://www.msf.gov.sg/studentcare/Pages/Home.aspx){:target="_blank"} for more details.
+      Student Care Centres are to comply to the measures stipulated in this [document](/images/guides/studentcareadvisory.pdf){:target="_blank"} [last updated 21 April 2021]. You can also refer to the [Student Care Portal](https://www.msf.gov.sg/studentcare/Pages/Home.aspx){:target="_blank"} for more details.
 
   - title: Tours
     content:  |
-      Tour operators and tourist guides are to comply to measures stipulated in this [document](images/guides/TourAdvisory2.pdf){:target="_blank"} [last updated 1 November 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours){:target="_blank"}.
+      Tour operators and tourist guides are to comply to measures stipulated in this [document](/images/guides/TourAdvisory2.pdf){:target="_blank"} [last updated 1 November 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours){:target="_blank"}.
 
   - title: Veterinary and pet-related services
     content:  |
@@ -170,12 +170,12 @@ accordion-new:
     content:  |  
       Maintenance companies should refer to the following documents on measures relating to the thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains:
 
-      1.	NEA’s [circular](images/guides/CircularonMeasuresRestartingCoolingTowers.pdf){:target="_blank"} on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
+      1.	NEA’s [circular](/images/guides/CircularonMeasuresRestartingCoolingTowers.pdf){:target="_blank"} on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
 
-      2.	b.	NEA’s [circular](images/guides/CircularonMeasuresSwimmingPoolsAndWaterFountains.pdf){:target="_blank"} on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 June 2020]                              
+      2.	b.	NEA’s [circular](/images/guides/CircularonMeasuresSwimmingPoolsAndWaterFountains.pdf){:target="_blank"} on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 June 2020]                              
 ---
 
-## Sector-specific Requirements
+## Sector-Specific Requirements
 
 Businesses must adhere to sector-specific requirements as stipulated below, in addition to the [general requirements](/safemanagement/general/).
 

@@ -14,7 +14,7 @@ accordion-new:
 
   - title: If I see a non-permitted business continue to operate even though it is not supposed to, what should I do?
     content: |
-      Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to <Covid_GoBusiness@mti.gov.sg>.   
+      Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to <covid_gobusiness@mti.gov.sg>.   
 ---
 
 ### For Non-Permitted Services
