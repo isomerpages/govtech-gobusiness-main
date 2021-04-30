@@ -794,3 +794,17 @@ table {
 .navbar-start > div:last-child > div {
   display: none;
 }
+
+.bp-container {
+  .navbar-end {
+    margin-left: 0;
+
+    .navbar-item {
+      margin: 0;
+    }
+
+    .bp-button {
+      padding-left: 0;
+    }
+  }
+}
