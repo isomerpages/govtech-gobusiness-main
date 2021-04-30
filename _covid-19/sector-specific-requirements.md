@@ -146,7 +146,7 @@ accordion-new:
     content:  |  
       Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 31 March 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
 
-      For more information and FAQ on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](www.cpro.gov.sg){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [www.cpro.gov.sg](www.cpro.gov.sg){:target="_blank"}.
+      For more information and FAQ on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](https://www.cpro.gov.sg/){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg){:target="_blank"}.
 
   - title: Sports sector enterprises, sports education, and premises with sports facilities
     content:  |   
