@@ -7,7 +7,7 @@ permalink: /about-us/
 
 ![about us image](/images/abtus.png)
 
-Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our [e-Advisers](/e-services/).
+Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our [e-Advisers](/e-services/guides-for-biz/).
 
 Here’s what you can do with GoBusiness:
 
