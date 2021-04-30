@@ -7,7 +7,22 @@ facebook-pixel: 688926055194344
 linkedin-insights: 918155
 resources_name: news-and-media
 
+colors:
+  primary-color: '#037e8a'
+  secondary-color: '#037e8a'
+  media-colors:
+    - title: media-color-one
+      color: '#009980'
+    - title: media-color-two
+      color: '#006699'
+    - title: media-color-three
+      color: '#2AACA5'
+    - title: media-color-four
+      color: '#1E3D67'
+    - title: media-color-five
+      color: '#3AB488'
 
+      
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -35,18 +50,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-
-colors:
-  primary-color: '#037e8a'
-  secondary-color: '#037e8a'
-  media-colors:
-    - title: media-color-one
-      color: '#009980'
-    - title: media-color-two
-      color: '#006699'
-    - title: media-color-three
-      color: '#2AACA5'
-    - title: media-color-four
-      color: '#1E3D67'
-    - title: media-color-five
-      color: '#3AB488'
