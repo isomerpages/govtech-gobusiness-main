@@ -56,14 +56,14 @@ accordion-new:
     content:  |
       Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 21 April 2021].
 
-  - title: F&B & retail
+  - title: F&B retail
     content:  |
       - F&B establishments are to comply to measures stipulated in this [document](/images/guides/FBestablishments30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
 
       - Infographic on Safe Management Measures at F&B Establishments [last updated on 12 January 2021]<br>
       ![F&B](/images/covid/smrfnb.jpg "F&B establishments")
 
-      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/retailsmrrequirements30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
+      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/retailsmrrequirements30Jan.pdf){:target="_blank"} [last updated on 30 January 2021].<br>
 
       - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 12 January 2021]<br>
       ![Retail](/images/covid/smrretail.jpg "Retail")
@@ -72,13 +72,13 @@ accordion-new:
 
   - title: Health and social services
     content:  |
-      Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"}[last updated on 27 April 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
+      Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 27 April 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
       Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 7 January 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
   - title: Hostels
     content:  |
-      Hostels are to comply to the measures stipulated in this document](/images/guides/hostelsadvisory.pdf){:target="_blank"} [last updated on 1 April 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#advisoryforhostels){:target="_blank"}.
+      Hostels are to comply to the measures stipulated in this [document](/images/guides/hostelsadvisory.pdf){:target="_blank"} [last updated on 1 April 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html#advisoryforhostels){:target="_blank"}.
 
   - title: Hotels
     content:  |
@@ -102,7 +102,7 @@ accordion-new:
 
   - title: Massage establishments
     content:  |      
-      Massage Establishments (MEs) are to comply to measures stipulated in this document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](/images/guides/meannex.pdf){:target="_blank"}[ and adopt the additional measures within, where possible [last updated on 28 December 2020].
+      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](/images/guides/meannex.pdf){:target="_blank"}[ and adopt the additional measures within, where possible [last updated on 28 December 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence){:target="_blank"}.
 
@@ -126,7 +126,7 @@ accordion-new:
 
       Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this [document](/images/guides/CriteriaECPlantOwners26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
-      Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this [document](/images/guides/PCMBCAStaggeredRestDay.pdf){:target="_blank"} [last updated on 12 Augusy 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
+      Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this [document](/images/guides/PCMBCAStaggeredRestDay.pdf){:target="_blank"} [last updated on 12 August 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
 
       For more information on the BluePass contact tracing token, please refer to this [document](/images/guides/AdvisoryonBPtokenvfp.pdf){:target="_blank"} [last updated on 3 November 2020] and to this [document](/images/guides/AdvisoryonBPtokenvf.pdf){:target="_blank"} [last updated on 4 December 2020].
 
@@ -146,7 +146,7 @@ accordion-new:
     content:  |  
       Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 31 March 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
 
-      For more information and FAQ on COVID-19 for the religious sector, please visit <www.cpro.gov.sg>{:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at <cpro@mccy.gov.sg>{:target="_blank"}.
+      For more information and FAQ on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](www.cpro.gov.sg){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [www.cpro.gov.sg](www.cpro.gov.sg){:target="_blank"}.
 
   - title: Sports sector enterprises, sports education, and premises with sports facilities
     content:  |   
