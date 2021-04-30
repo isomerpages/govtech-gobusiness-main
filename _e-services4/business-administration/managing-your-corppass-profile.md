@@ -6,9 +6,9 @@ third_nav_title: Business Administration
 
 ## Managing your Corppass profile
 
-Corppass is a single corporate digital identity for your business. You will need an account to transact with government agencies in Singapore.
+Corppass is a single corporate digital identity for your business to transact with government agencies in Singapore. You can access it with your Singpass login.
 
-Learn more about it in Step 5 of our [Start-up Guide](/start-a-business/create-a-corppass-account/).
+To start using the digital services you need, register a Corppass Administrator(s) for your business. Learn more about it in Step 5 of our [Start-up Guide](/start-a-business/create-a-corppass-account/).
 
 ### e-Services for managing your Corppass
 
@@ -37,7 +37,7 @@ Learn more about it in Step 5 of our [Start-up Guide](/start-a-business/create-a
   <br>Submit a director removal request.
 
 - [Change of Company Name](https://www.cea.gov.sg/professionals/e-services-for-estate-agents){:target="_blank"}
-  <br>Submit an application to change your company name. 
+  <br>Submit an application to change your company name.
 
 ---
 

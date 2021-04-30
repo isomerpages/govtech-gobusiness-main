@@ -6,7 +6,7 @@ third_nav_title: Accounting and Finance
 
 ## Government assistance for businesses
 
-A wide range of government assistance schemes are available in the form of grants, subsidies and loans. Learn more about them here, and use the e-services on this page to submit and manage your applications.
+A wide range of government assistance schemes are available in the form of grants, subsidies and loans. Learn more about them with our [Run and Grow guide](/gov-assist/), and use the e-services on this page to submit and manage your applications.
 
 ### e-Services for government assistance
 
