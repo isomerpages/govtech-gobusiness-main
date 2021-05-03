@@ -6,7 +6,7 @@ third_nav_title: New Business Owners
 
 ## Business registration matters
 
-Registration makes it easier for the public to find your business and transact with it. There are different requirements and supporting documents you will need, depending on your business structure. Learn more about them in [Step 4 of our Start-up Guide](/start-a-business/register-your-business/).
+Registration makes it easier for the public to find your business and transact with it. There are different requirements and supporting documents you will need, depending on your business structure. Learn more about them in [Step 4 of our Start Guide](/start-a-business/register-your-business/).
 
 ### e-Services for local business registration
 
