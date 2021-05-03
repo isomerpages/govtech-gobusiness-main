@@ -12,17 +12,14 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 
 ### Job Portals
 
-- [National Council of Social Service](#){:target="_blank"}
+- [National Council of Social Service](https://e-services.ncss.gov.sg/LoginRequest){:target="_blank"}
   <br>Post job listings in the social service sector.
-
-- [Singapore Corporation of Rehabilitative Enterprises](#){:target="_blank"}
-  <br>Post job listings for ex-offenders.
 
 - [SkillsFutureSG](https://employer.mycareersfuture.gov.sg/){:target="_blank"}
   <br>Post job listings on SkillsFutureSG's job portal.
 
-- [Manage SkillsFutureSG Applications](#){:target="_blank"}
-  <br>PReview applications, and edit or extend your job listings.
+- [Manage SkillsFutureSG Applications](https://employer.mycareersfuture.gov.sg/){:target="_blank"}
+  <br>Review applications, and edit or extend your job listings.
 
 ### e-Services for extending deadlines
 

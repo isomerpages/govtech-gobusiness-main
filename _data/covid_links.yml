@@ -21,3 +21,24 @@
   description: List of measures to ensure safety at the workplace.
   url: /safemanagement/general/
   text: Find Out More
+
+- title: Application for Additional Manpower
+  description: Apply for additional manpower for your business. (Only for businesses that have received approval for exemption)
+  url: form.gov.sg/#!/5ec36d8b153ba4001171e326
+  url-new-tab: true
+  protocol: https
+  text: Find Out More
+
+- title: Time-Limited Exemption
+  description: Apply for your workplace to be allowed to have temporary operations. Your application will only take effect on the following day after your submission. You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
+  url: foodservices.gobusiness.gov.sg/exemptions/login
+  url-new-tab: true
+  protocol: https
+  text: Find Out More
+
+- title: Application for Amendment
+  description: Amend your submitted General Exemption applications.
+  url: form.gov.sg/#!/5ec36e8184445900110e9a58
+  url-new-tab: true
+  protocol: https
+  text: Find Out More  

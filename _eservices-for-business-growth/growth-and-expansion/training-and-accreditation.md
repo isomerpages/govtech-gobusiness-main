@@ -25,7 +25,7 @@ Depending on your business sector and activities, there are various accreditatio
 
 **Maritime and Port Authority of Singapore (MPA Singapore)**
 
-- [Accreditation Scheme for Bunker Suppliers](https://digitalport.mpa.gov.sg/){:target="_blank"}
+- [Accreditation Scheme for Bunker Suppliers](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/services/bunkering/bunkering-licence-application-guidelines/accreditation-scheme-for-bunker-suppliers){:target="_blank"}
   <br>Apply to be accredited as a reliable bunker supplier, based on 3 main criteria.
 
 **Ministry of Social and Family Development (MSF)**

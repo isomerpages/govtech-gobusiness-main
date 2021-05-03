@@ -1,5 +1,5 @@
 collections:
-  e-services3:
+  eservices-for-finance:
     output: true
     order:
       - back-to-e-services-overview.md

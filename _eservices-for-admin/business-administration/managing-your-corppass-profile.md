@@ -15,7 +15,7 @@ To start using the digital services you need, register a Corppass Administrator(
 [Log in to Singpass](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login){:target="_blank"} to access the following e-Services:
 
 - [Register as Corppass Administrator](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login){:target="_blank"}
-  <br>Appoint up to 2 Corppass Administrators.
+  <br>Appoint up to two Corppass Administrators.
 
 - [Approve Corppass Administrator Account](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login){:target="_blank"}
   <br>Approve or reject new registration requests for Corppass Administrator accounts, if you are a Registered Officer.
