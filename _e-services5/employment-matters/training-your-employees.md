@@ -19,7 +19,7 @@ Find them in our list of [grants](/gov-assist/grants/).
 
 **SkillsFuture Singapore (SSG)**
 
-- [Apply for Earn and Learn Programme](#){:target="_blank"}
+- [Apply for Earn and Learn Programme](https://www.enterprisejobskills.gov.sg/content/recruit-talent/skillsfuture-work-study-programme.html){:target="_blank"}
   <br>Recruit fresh graduates from polytechnics and the Institute of Technical Education (ITE) and register them for this work-study programme to prepare them for suitable job roles within your business.
 
 **SkillsFuture Singapore-Workforce Singapore (SSG-WSG)**

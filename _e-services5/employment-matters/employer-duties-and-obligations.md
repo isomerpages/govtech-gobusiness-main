@@ -23,7 +23,7 @@ The Employment Act contains statutory requirements on:
 - CPF contributions
 - Issuing pay slips
 
-Learn more about the [Employment Act](mom.gov.sg/employment-practices/employment-act){:target="_blank"}. on MOM.
+Learn more about the Employment Act on [Ministry of Manpower's website](mom.gov.sg/employment-practices/employment-act){:target="_blank"}.
 
 ### e-Services for employment practices
 
@@ -45,7 +45,7 @@ Learn more about the [Employment Act](mom.gov.sg/employment-practices/employment
 
 **CPF Board**
 
-- [Submission of CPF contributions (via e-submission and hardcopy form)](#){:target="_blank"}
+- [Submission of CPF contributions (via e-submission and hardcopy form)](https://www2.cpf.gov.sg/ert/dsa/spcpSelection.action){:target="_blank"}
   <br>Submit employees' CPF contribution details, either online or in hardcopy, and make payment online.
 
 **Ministry of Manpower (MOM)**
@@ -67,5 +67,5 @@ Learn more about the [Employment Act](mom.gov.sg/employment-practices/employment
 
 **Ministry of Manpower (MOM)**
 
-- [Update company particulars](#){:target="_blank"}
+- [Update company particulars](https://www.mom.gov.sg/passes-and-permits/employment-pass/notify-mom-of-changes){:target="_blank"}
   <br>Update MOM on changes in company details.
