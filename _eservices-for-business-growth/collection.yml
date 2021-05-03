@@ -1,5 +1,5 @@
 collections:
-  e-services6:
+  eservices-for-business-growth:
     output: true
     order:
       - back-to-e-services-overview.md
