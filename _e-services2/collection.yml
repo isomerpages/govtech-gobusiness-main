@@ -1,8 +1,0 @@
-collections:
-  e-services2:
-    output: true
-    order:
-      - back-to-e-services-overview.md
-      - new-business-owners/.keep
-      - new-business-owners/business-registration-matters.md
-      - new-business-owners/essential-business-regulations.md

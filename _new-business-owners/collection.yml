@@ -1,0 +1,7 @@
+collections:
+  new-business-owners:
+    output: true
+    order:
+      - back-to-e-services-overview.md
+      - business-registration-matters.md
+      - essential-business-regulations.md
