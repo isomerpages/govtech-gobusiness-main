@@ -14,9 +14,11 @@ accordion-new:
 
       With effect from 24 April 2021, Event Organisers (EOs) can also apply to organise B2B events where cohorting into sub-cohorts of 20 pax is no longer required.
 
+      |||
       |B2B events of up to 250 pax at a time|B2B events of up to 750 pax at a time|
       |Up to 50 pax per zone Safe distancing of at least 1metre between individuals at all times|
-      |PET required for all foreign participants who are on a Controlled Itinerary*, and any local residents and Business Travel Pass (BTP) holders with recent travel history (i.e. within the last 14 days).|PET required for all participants. Local residents who have completed the full COVID-19 vaccination regimen (with a further two weeks from the second dose to develop sufficient protection) are exempted from pre-event testing. More information on PET exemptions can be found at https://go.gov.sg/pet.|
+      |PET required for all foreign participants who are on a Controlled Itinerary*, and any local residents and Business Travel Pass (BTP) holders with recent travel history (i.e. within the last 14 days).|PET required for all participants. Local residents who have completed the full COVID-19 vaccination regimen (with a further two weeks from the second dose to develop sufficient protection) are exempted from pre-event testing. More information on PET exemptions can be found at [https://go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"}.|
+      |||
 
       All B2B event applications with more than 50 participants must be submitted to STB for approval by the Ministry of Trade and Industry (MTI).  EOs must demonstrate their ability to implement the rigorous Safe Management Measures (SMMs) under STB’s Safe Business Events (SBE) framework<sup>4</sup>. 
 
