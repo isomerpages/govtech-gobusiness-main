@@ -1,5 +1,5 @@
 collections:
-  eservices-guides:
+  e-services1:
     output: true
     order:
       - back-to-e-services-overview.md

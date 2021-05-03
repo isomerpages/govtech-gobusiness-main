@@ -1,5 +1,5 @@
 collections:
-  eservices-new-biz:
+  e-services2:
     output: true
     order:
       - back-to-e-services-overview.md
