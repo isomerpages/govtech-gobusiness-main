@@ -1,5 +1,5 @@
 ---
-title: Trade marks & Intellectual Property (IP)
+title: Trade marks and Intellectual Property (IP)
 permalink: /e-services/trade-marks-and-ip/
 third_nav_title: Growth and Expansion
 ---
@@ -8,7 +8,7 @@ third_nav_title: Growth and Expansion
 
 Your inventions, designs and representations of your brand are Intellectual Property (IP) assets that can be protected. You can do so by filing trade marks, patents or designs.
 
-Learn more about them in our [Start guide](/start-a-business/protect-your-ideas/).
+Learn more about them in our [Start-up Guide](/start-a-business/protect-your-ideas/).
 
 ### e-Services for Trade marks & Intellectual Property (IP)
 
