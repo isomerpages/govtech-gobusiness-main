@@ -27,7 +27,11 @@ accordion-new:
     content: |
       All information and resources under GoBusiness Covid and Gov Assist are now available on GoBusiness, under [Covid-19](/covid/) and [Government Assistance](/gov-assist/).
 
-      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply [log in to them via GoBusiness](/login/), with your SingPass. 
+      At the moment, you may continue using LicenceOne and Business Grants Portal. Simply [log in to them via GoBusiness](/login/), with your SingPass.
+
+  - title: I'm having trouble logging in. What should I do?
+    content: |
+      GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or <a href="/contact-us/" target="_blank">contact us</a> for help.
 
   - title: What is the change in the Corppass login process?
     content: |
