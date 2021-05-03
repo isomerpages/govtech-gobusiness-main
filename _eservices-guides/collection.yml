@@ -1,5 +1,5 @@
 collections:
-  guides-for-businesses:
+  eservices-guides:
     output: true
     order:
       - back-to-e-services-overview.md
