@@ -9,7 +9,7 @@ This powered pallet truck is used to transport loads within warehouses, factorie
 
 The equipment can transport palletised goods of approximately 1000 to 1500 kg.
 
-Grant support: 80% of cost of equipment, capped at $2,080 grant per unit
+Grant support: 80% of cost of equipment, capped at $2,600 grant per unit
 
 ### Details of Solution
 
