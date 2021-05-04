@@ -13,7 +13,7 @@ GoBusiness launches as Singapore’s go-to platform for businesses in Singapore 
 
 ### One-stop access to e-services for businesses
 
-GoBusiness is an online platform to connect business owners to various Government e-services and resources. This includes applying for registering a business, applying for licences and grants, and more. Jointly developed by Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
+GoBusiness is an online platform to connect business owners to various Government e-services and resources. This includes applying for registering a business, applying for licences and grants, and more. Jointly developed by Ministry of Trade and Industry (MTI), the Smart Nation and Digital Government Office (SNDGO), and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
 
 ### A new home for existing e-services
 
