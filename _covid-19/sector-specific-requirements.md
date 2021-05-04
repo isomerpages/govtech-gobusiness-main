@@ -18,9 +18,9 @@ accordion-new:
 
   - title: Built environment
     content:  |
-      Enterprises in the construction sector are to comply to measures stipulated in this [document](/images/guides/Construction.pdf){:target="_blank"} [last updated on 25 May 2020] and this [document](/images/guides/Construction2.pdf){:target="_blank"} [last updated on 26 Jun 20].
+      Enterprises in the construction sector are to comply to measures stipulated in this [document](/images/guides/Construction.pdf){:target="_blank"} [last updated on 25 May 2020] and this [document](/images/guides/Construction2.pdf){:target="_blank"} [last updated on 26 June 2020].
 
-      Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this [document](/images/guides/Reno.pdf){:target="_blank"} [last updated on 13 June 20].
+      Enterprises undertaking renovation works and building works for residential properties from 2 June 2020 are to comply to measures stipulated in this [document](/images/guides/Reno.pdf){:target="_blank"} [last updated on 13 June 2020].
 
       Enterprises employing foreign workers registered with MOM under construction account are to refer to BCA’s Circular on permission for companies to resume work from 10 August 2020 and review of COVID-Safe accommodation criteria in this [document](/images/guides/BCACircularResumption10Aug.pdf){:target="_blank"} [last updated on 10 August 2020].
 
@@ -50,13 +50,13 @@ accordion-new:
 
   - title: Finance
     content:  |
-      Enterprises in the finance sector are to comply to measures stipulated in this [document](/images/guides/massmrrequirements2.pdf){:target="_blank"} [last updated on 15 June 20]. You can also refer to the Monetary Authority of Singapore [website](https://www.mas.gov.sg/news){:target="_blank"}.
+      Enterprises in the finance sector are to comply to measures stipulated in this [document](/images/guides/massmrrequirements2.pdf){:target="_blank"} [last updated on 15 June 2020]. You can also refer to the Monetary Authority of Singapore [website](https://www.mas.gov.sg/news){:target="_blank"}.
 
   - title: Funeral events
     content:  |
       Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 21 April 2021].
 
-  - title: F&B retail
+  - title: F&B and retail
     content:  |
       - F&B establishments are to comply to measures stipulated in this [document](/images/guides/FBestablishments30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
 
@@ -94,7 +94,7 @@ accordion-new:
 
   - title: Marine & offshore (M&O) sector
     content:  |
-      Enterprises in the M&O sector are to comply to measures for stipulated in this [document](/images/guides/AdvisoryMOSector_19Feb.pdf){:target="_blank"} [last updated on 19 Feb 21] and updated measures in this [document](/images/guides/AdvisoryMOSector_30Mar.pdf){:target="_blank"} [last updated on 30 March 2021].
+      Enterprises in the M&O sector are to comply to measures for stipulated in this [document](/images/guides/AdvisoryMOSector_19Feb.pdf){:target="_blank"} [last updated on 19 February 2021] and updated measures in this [document](/images/guides/AdvisoryMOSector_30Mar.pdf){:target="_blank"} [last updated on 30 March 2021].
 
       You should also comply to the COVID-Safe restart criteria for shipyards, resident contractors and common contractors (M&O) [here](/images/guides/MORestartCriteria.pdf){:target="_blank"} [last updated on 30 March 2021]. For FAQ regarding COVID-Safe restart criteria, please refer to this [document](/images/guides/FAQsforMOSector.pdf){:target="_blank"} [last updated on 30 March 2021].
 
@@ -102,7 +102,7 @@ accordion-new:
 
   - title: Massage establishments
     content:  |      
-      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](/images/guides/meannex.pdf){:target="_blank"}[ and adopt the additional measures within, where possible [last updated on 28 December 2020].
+      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](/images/guides/meannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 28 December 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence){:target="_blank"}.
 
@@ -120,7 +120,7 @@ accordion-new:
     content:  |  
       Private tuition and enrichment providers are to comply to measures stipulated in this [document](/images/guides/PrivateTuitionEnrichment.pdf){:target="_blank"} [last updated on 5 April 2021].   
 
-  - title: Process construction & maintenance sector
+  - title: Process construction & maintenance (PCM) sector
     content:  |
       PCM companies are to comply to measures stipulated in this [document](/images/guides/PCMAdvisory26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
@@ -148,13 +148,13 @@ accordion-new:
     content:  |  
       Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 31 March 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
 
-      For more information and FAQ on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](https://www.cpro.gov.sg/){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg){:target="_blank"}.
+      For more information and FAQs on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](https://www.cpro.gov.sg/){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg){:target="_blank"}.
 
   - title: Sports sector enterprises, sports education, and premises with sports facilities
     content:  |   
       Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/sportsadvisory.pdf){:target="_blank"} [last updated 7 January 2021].
 
-      Lion Dance Performing Troupes are to comply to measures stipulated in this [document](/images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 21].
+      Lion Dance Performing Troupes are to comply to measures stipulated in this [document](/images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 2021].
 
   - title: Student care centres   
     content:  |
@@ -172,7 +172,7 @@ accordion-new:
     content:  |  
       Maintenance companies should refer to the following documents on measures relating to the thorough cleaning, disinfection and testing before re-opening/re-starting of cooling towers, swimming pools and water fountains:
 
-      1.	NEA’s [circular](/images/guides/CircularonMeasuresRestartingCoolingTowers.pdf){:target="_blank"} on measures to be taken when re-starting cooling towers [last updated on 18 May 20]
+      1.	NEA’s [circular](/images/guides/CircularonMeasuresRestartingCoolingTowers.pdf){:target="_blank"} on measures to be taken when re-starting cooling towers [last updated on 18 May 2020]
 
       2.	b.	NEA’s [circular](/images/guides/CircularonMeasuresSwimmingPoolsAndWaterFountains.pdf){:target="_blank"} on measures to be taken when re-opening and re-starting of swimming pools and water fountains [last updated on 15 June 2020]                              
 ---
