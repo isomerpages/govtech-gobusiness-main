@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80 from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to 80% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
