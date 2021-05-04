@@ -5,7 +5,7 @@ third_nav_title: General
 accordion-new:
   - title: What is GoBusiness?
     content: |
-      GoBusiness is an online platform to connect business owners to various Government e-services and resources. This includes applying for registering a business, applying for licences and grants, and more. Jointly developed by Ministry of Trade and Industry (MTI), the Smart Nation and Digital Government Office (SNDGO), and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
+      GoBusiness is an online platform to connect business owners to various Government e-services and resources. This includes applying for registering a business, applying for licences and grants, and more. Jointly developed by Ministry of Trade and Industry (MTI), the Smart Nation and Digital Government Office (SNDGO), and GovTech, it also offers personalised help and recommendations for your business with our [e-Advisers](/e-services/guides-for-biz/).
 
   - title: What are the features of GoBusiness?
     content: |
