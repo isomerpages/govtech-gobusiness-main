@@ -7,6 +7,7 @@ layout: skeleton
     /* Desktop */
     .home-content .button-container {
       width: fit-content;
+      width: -moz-fit-content;
       margin: 40px auto 60px auto;
     }
 
@@ -50,21 +51,6 @@ layout: skeleton
       color: #ffffff;
       margin-top: 25px;
       margin-bottom: 23px;
-    }
-
-    .home-content .cta-container>a {
-      display: block;
-      margin: 0 auto;
-    }
-
-    .home-content .cta-container>a>button {
-      padding: 12px 24px;
-      background: #037e8a;
-      border-radius: 3px;
-      color: #ffffff;
-      border-width: 0;
-      font-size: 16px;
-      cursor: pointer;
     }
 
     .home-content .services-container {
@@ -235,6 +221,7 @@ layout: skeleton
       display: flex;
       flex-direction: column;
       width: fit-content;
+      width: -moz-fit-content;
       margin: 0 auto;
       text-align: center;
     }
@@ -321,6 +308,11 @@ layout: skeleton
       margin-top: 30px;
     }
 
+    .home-content .gobizmove-button-container>a {
+      text-align: left;
+      margin: unset !important;
+    }
+
     .home-content .section-5 {
       width: 100%;
       height: auto;
@@ -368,14 +360,15 @@ layout: skeleton
     .home-content .help-buttons-container {
       display: flex;
       width: fit-content;
+      width: -moz-fit-content;
       margin: 40px auto;
     }
 
-    .home-content .help-buttons-container>button {
-      margin: 10px;
+    .home-content .help-buttons-container>a {
+      margin: 10px !important;
     }
 
-    .home-content #contact-helpdesk>button {
+    .home-content #contact-helpdesk>a {
       color: #037e8a;
       background-color: #fafdfd;
       border: 1px solid #b3d8dc;
