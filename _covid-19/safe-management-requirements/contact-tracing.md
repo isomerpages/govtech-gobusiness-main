@@ -21,7 +21,7 @@ To check-in to SafeEntry, visitors scan a QR code using their TraceTogether App,
 
 SafeEntry by any of the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contact tracing for the purpose of meeting the safe management measures required by the law. However, certain circumstances will require more or particular methods to be adopted in order to meet the legal standards.
 
-All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click [here](https://go.gov.sg/travelhealthdeclare){:target="_blank"}.
+All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click [here](https://www.safeentry.gov.sg/){:target="_blank"}.
 
 Of the businesses/services that are allowed to be in operation, the following list of facilities/places are required to deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.<sup>1</sup>
 
@@ -104,10 +104,6 @@ Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Busi
 ### 3. TraceTogether
 
 ![TraceTogether](/images/covid/tracetogether_logo.png "TraceTogether")
-
-TraceTogether is a mobile app that supports Singapore's efforts to help mitigate the spread of COVID-19 through community-driven contact tracing.
-
-**How it works**
 
 The TraceTogether programme is a programme to enhance Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
 
