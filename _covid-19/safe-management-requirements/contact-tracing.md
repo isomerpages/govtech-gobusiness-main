@@ -21,9 +21,9 @@ To check-in to SafeEntry, visitors scan a QR code using their TraceTogether App,
 
 SafeEntry by any of the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contact tracing for the purpose of meeting the safe management measures required by the law. However, certain circumstances will require more or particular methods to be adopted in order to meet the legal standards.
 
-All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click here](https://go.gov.sg/travelhealthdeclare){:target="_blank"}.
+All businesses and services that are in operation (including offices, factories, etc) must institute SafeEntry for their employees, associates, visitors and vendors. For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click [here](https://go.gov.sg/travelhealthdeclare){:target="_blank"}.
 
-Of the businesses/services that are allowed to be in operation, the following list of facilities/places are required to deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law. <sup>1</sup>
+Of the businesses/services that are allowed to be in operation, the following list of facilities/places are required to deploy the SafeEntry system to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.<sup>1</sup>
 
 - Solemnisations and weddings
 - Funeral events
@@ -124,4 +124,4 @@ TraceTogether-only SafeEntry is a protocol where SafeEntry check-in can only be 
 
 TraceTogether-only SafeEntry consists of a protocol where visitors scan a QR code using their TraceTogether App or present their TraceTogether Token to be scanned in order to register a SafeEntry check-in. When TraceTogether-only SafeEntry is implemented, check-in using SingPass Mobile and QR code reader mobile applications will no longer be accepted. For individuals entering premises where TraceTogether-only SafeEntry is implemented as a safe management measure, the individuals have to use either their TraceTogether App or TraceTogether Token, and not any other method, to check in to the venue’s SafeEntry system.
 
-Permitted enterprises should make the necessary preparations to accept TraceTogether Token check-ins. To learn more, please visit [here](https://support.safeentry.gov.sg/hc/en-us/articles/900003686226-How-to-implement-and-scan-TraceTogether-Tokens-for-visitor-check-ins-at-my-business-venue-){:target="_blank"}. 
+Permitted enterprises should make the necessary preparations to accept TraceTogether Token check-ins. To learn more, please visit [here](https://support.safeentry.gov.sg/hc/en-us/articles/900003686226-How-to-implement-and-scan-TraceTogether-Tokens-for-visitor-check-ins-at-my-business-venue-){:target="_blank"}.
