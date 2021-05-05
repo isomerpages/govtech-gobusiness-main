@@ -74,7 +74,7 @@ accordion-new:
     content:  |
       Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/3 May Advisory Residential and Community Facilities_for circulation.pdf){:target="_blank"} [last updated on 3 May 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
-      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 7 January 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
+      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](/images/guides/msfresidentialadvisory.pdf){:target="_blank"} [last updated on 5 May 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}.
 
   - title: Hostels
     content:  |
