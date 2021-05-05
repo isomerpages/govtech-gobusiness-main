@@ -21,7 +21,7 @@ For companies, you will need to hire an auditor within three months and a compan
 **Every month, you will need to:**
 
 - [Itemised payslips](https://www.mom.gov.sg/employment-practices/salary/itemised-payslips){:target="_blank"} along with the payroll
-- [Pay Skills Development Levy](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/skills-development-levy-(sdl)){:target="_blank"}
+- [Pay Skills Development Levy](https://www.cpf.gov.sg/employer/employer-obligations/skills-development-levy){:target="_blank"}
 - [Make CPF contributions](https://www.cpf.gov.sg/employer/making-cpf-contributions){:target="_blank"}
 
 **To hire a foreign employee, you need to:**
