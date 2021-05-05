@@ -128,7 +128,7 @@ accordion-new:
 
       Energy and chemical plant owners are to comply to the COVID-Safe restart criteria stipulated in this [document](/images/guides/CriteriaECPlantOwners26Sep.pdf){:target="_blank"} [last updated on 26 September 2020].
 
-      Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this [document](/images/guides/PCMBCAStaggeredRestDay.pdf){:target="_blank"} [last updated on 12 August 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders.
+      Enterprises in the Process Construction & Maintenance sector are to comply to measures stipulated in this [document](/images/guides/PCMBCAStaggeredRestDay.pdf){:target="_blank"} [last updated on 12 August 20] on measures relating to the implementation of staggered rest days for Work Permit and S Pass holders. 
 
       For more information on the BluePass contact tracing token, please refer to this [document](/images/guides/AdvisoryonBPtokenvfp.pdf){:target="_blank"} [last updated on 3 November 2020] and to this [document](/images/guides/AdvisoryonBPtokenvf.pdf){:target="_blank"} [last updated on 4 December 2020].
 
