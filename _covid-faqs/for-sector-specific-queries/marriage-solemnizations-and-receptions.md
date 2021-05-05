@@ -3,21 +3,54 @@ title: Marriage solemnizations and receptions
 permalink: /covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions
 third_nav_title: For Sector-Specific Queries
 accordion-new:
+  - title: What are the latest guidelines given the heightened situation?
+    content: |
+      In light of the latest COVID-19 situation in Singapore, the Multi-Ministry Taskforce (MTF) has announced a tightening of safe management measures for events, including marriage solemnizations and weddings receptions. From 8 May to 30 May 2021, marriage solemnizations and weddings receptions at external venues (excluding homes) will be subject to the following limits:
+
+      |Activity|Max No. of Attendees, including Bride and Groom (Without Pre-Event Testing)|Max No. of Attendees, including Bride and Groom (With Pre-Event Testing)|
+      |Solemnizations|1-50|51-250 Pre-Event Testing required for bride and groom only, if they are unvaccinated|
+      |Wedding Receptions|1-50|51 -250 Pre-Event Testing required for all unvaccinated attendees|
+  - title: Why are measures tightened so quickly?
+    content: |
+      The local and global COVID-19 situation continues to evolve. Several countries continue to experience a resurgence of cases and the emergence of new virus variants which have also been found in Singapore. The number of locally transmitted COVID-19 cases and unlinked community cases has also continued to increase, signalling undetected community transmissions that could rapidly escalate into another major outbreak if not adequately contained in a timely manner. The tightened measures will help to reduce the risk of transmission and of large clusters forming.
+
+  - title: 3.	Can an exception be made for solemnizations and weddings? Why are the requirements for weddings and solemnizations stricter than other types of events (e.g. MICE)?
+    content: |
+      Due to the intimate and social nature of marriage celebrations, there is a higher chance of interaction among attendees. There is also a higher likelihood of attendees interacting while unmasked, at wedding receptions. Hence, the potential risks of transmission are higher than at business or religious events, even if those are larger.
+
+      We seek the cooperation of everyone in adhering to the prevailing safe management measures to keep you and your loved ones safe.
+
+  - title: 4.	My wedding reception is between 8 May to 30 May and I have invited 51 to 100 guests. As PET is now required for my guests, where and how can my guests get tested?
+    content: |
+      Please click [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for a list of MOH-approved COVID-19 test providers.
+
+  - title: Will the Government subsidise or pay for PET?
+    content: |
+      PET for all events, including solemnizations and receptions, will not be funded by the government; organisers or individuals are responsible for paying for their own tests.
+
+  - title: My wedding is after 30 May 2021 (e.g. 6 Jun 2021), how many guests can I invite and will they be subject to PET?
+    content: |
+      These requirements are based on the current situation. The Government will monitor the situation closely, and depending on whether it improves, or worsens, will review the guidelines accordingly. Couples and wedding organisers can take reference from the prevailing requirements and should be prepared that the requirements may change at any point of time, given the dynamic COVID-19 situation.
+
+  - title: Are vendors (e.g. hotels, restaurants) required to allow couples to cut to 50 pax without penalties?
+    content: |
+      This would be subject to the contractual agreements between vendors and the wedding couples. Given the dynamic COVID-19 situation, we hope all parties, including vendors and couples, can exercise flexibility and mutual understanding in adjusting their plans.
+      
+      
+accordion-new:
   - title: How many persons can I have at my solemnization ceremony?
     content: |
       **Places of residence**
 
-      As of 26 Jan 2021, an individual must not permit to enter or remain in his or her place of residence more than 8 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
+      As of 8 May 2021, an individual must not permit to enter or remain in his or her place of residence more than 5 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
 
-      For solemnization ceremonies held in places of residence, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 8 visitors can attend a solemnization in your home. The total of 14 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
+      For solemnization ceremonies held in places of residence, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
 
-      However, if a place of residence has 8 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>4</sup>.
+      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>4</sup>.
 
       **External venues**
 
-      For solemnization held in other external solemnization venues, such as places of worship or hotels, to the maximum number of attendees will be (a) 100 attendees (without PET), or (b) 250 persons (with PET), or the safe capacity of the venue, whichever is lower. For solemnizations involving between 101-250 attendees, PET is required for the wedding couple only.  Please refer to section VIIII of the FAQs for details on the zoning requirements. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). Please check with your solemnization venue owner / operator on the number of attendees allowed and any other conditions to be met before making arrangements.
-
-      <sup>4</sup> If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.
+      For solemnization held in other external solemnization venues, such as places of worship or hotels, to the maximum number of attendees will be (a) 50 attendees (without PET), or (b) 51-250 persons (with PET), or the safe capacity of the venue, whichever is lower. For solemnizations involving between 101-250 attendees, PET is required for the wedding couple only.  Please refer to section X of the FAQs for details on the zoning requirements. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). Please check with your solemnization venue owner / operator on the number of attendees allowed and any other conditions to be met before making arrangements.
 
   - title: Are vendors (e.g. photographers, videographers, make-up artists, bridal studio) allowed to resume operations for solemnizations? Are they part of the guest limit?
     content: |
@@ -26,28 +59,6 @@ accordion-new:
   - title: Does the guest limit for in-person solemnizations include the interpreter?
     content: |
       No, the guest limit excludes the interpreter, Licensed Solemnizer, and vendors  engaged to provide authorised services for the solemnization (kept to a minimum).
-
-  - title: Do we need to practise safe distancing and safe management during the solemnization?
-    content: |
-      Yes, safe management measures must be in place for the solemnizations.
-
-      **Places of residence**
-
-      As of 26 Jan 2021, an individual must not permit to enter or remain in his or her place of residence more than 8 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
-
-      For solemnization ceremonies held in places of residence, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 8 visitors can attend a solemnization in your home. The total of 14 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
-
-      However, if a place of residence has 8 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>5</sup>.
-
-      **External venues**
-
-      For solemnizations held at other external venues, couples can have up to (a) 100 attendees (without PET), or (b) 250 persons (with PET), or the safe capacity of the venue, whichever is lower. For solemnizations involving between 101-250 attendees, PET is required for the wedding couple only. The caps exclude the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). If couples have more than 20 guests, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to eight people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
-
-      If the total number of attendees is between 50 to 100 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
-
-      All attendees should also check their temperature and that they are feeling well before they attend your solemnization. For contact tracing purposes, you must inform your Licensed Solemnizer of the names of the attendees and vendors engaged to provide authorised services for the solemnization, and keep the attendance record for 14 days after your solemnization. For solemnizations in external venues (i.e. besides home and ROM/M Building), all guests must also check in and out via SafeEntry, and download and activate the TraceTogether app before attending the solemnization.
-
-      <sup>5</sup> If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.
 
   - title: Can the bride and groom remove face masks for the solemnization ceremony? Can the bride and groom use face shields in place of face masks? Can the rest of the attendees be unmasked for photo-taking?
     content: |
@@ -78,19 +89,17 @@ accordion-a:
 
   - title: When is PET required for marriage solemnizations and wedding receptions?
     content: |
-      With effect from 24 Apr 2021, the limit for marriage solemnizations and wedding receptions will be increased from 100 to 250 attendees in total (including the wedding couple, excluding the Licensed Solemnizer and vendors) for the entire event, with the following PET requirements:
+      a. For solemnizations involving 51 to 250 attendees, PET will be required for the unvaccinated wedding couple only.
 
-      a. For solemnizations involving 101 to 250 attendees, PET will be required for the wedding couple only.
+      b. For wedding receptions involving 51 to 250 attendees, PET will be required for all unvaccinated attendees (including the wedding couple).
 
-      b. For wedding receptions involving 101 to 250 attendees, PET will be required for all attendees (including the wedding couple).
+      c. If a solemnization and reception is held back-to-back, and consists of 51 to 250 attendees, PET is required for all unvaccinated attendees (including the wedding couple).
 
-      c. If a solemnization and reception is held back-to-back, and consists of 101 to 250 attendees, PET is required for all attendees (including the wedding couple).
-
-      Marriage solemnizations and wedding receptions involving 100 or fewer attendees do not require PET.
+      Marriage solemnizations and wedding receptions involving 50 or fewer attendees do not require PET.
 
       The PET must be done: (i)	Before entry to the solemnization or wedding reception; and (ii) At most 24 hours before the end of the event.
 
-      Organisers of solemnizations and wedding receptions should ensure that PET requirements are met for such events involving more than 100 attendees. PET for all events, including solemnizations and receptions, will not be funded by the government; organisers or individuals are responsible for paying for their own tests.
+      Organisers of solemnizations and wedding receptions should ensure that PET requirements are met for such events involving more than 50 attendees. PET for all events, including solemnizations and receptions, will not be funded by the government; organisers or individuals are responsible for paying for their own tests.
 
       Please refer to MOH’s guidelines at go.gov.sg/pet for more information on PET.
 
@@ -98,7 +107,7 @@ accordion-a:
 
   - title: What would exempt me/my guests from PET?
     content: |
-      Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry.
+      Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry. Wedding organisers will have to check-in attendees for events requiring PET. PET status of the attendee is verified as part of SafeEntry check-in. Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET [here](https://go.gov.sg/pet){:target="_blank"} for further details.
 
   - title: What is considered an acceptable proof of test result for the bride and groom and wedding reception attendees?
     content: |
@@ -118,7 +127,7 @@ accordion-a:
 
   - title: Can the same COVID-19 Test Result Notice be used to attend more than one wedding reception a day?
     content: |  
-      Yes, as long as the events are within the period of validity of the test result. However, we strongly advise against going to multiple receptions in a day. While PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free. Attending multiple large-scale events could put you at higher risk of being infected or being a vector for infection.
+      Yes, as long as you do not exceed the maximum recommended limit for social gatherings in a day, and the events are within the period of validity of the test result. However, we strongly advise against going to more than one reception in a day. While PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free. Attending multiple large-scale events could put you at higher risk of being infected or being a vector for infection.
 
   - title: Do vendors (e.g. hotel staff, caterers, photographers) or Solemnizers need to undergo PET?
     content: |  
@@ -132,36 +141,40 @@ accordion-a:
     content: |  
       Attendees who have been vaccinated and have a valid cleared status will not have to undergo PET. But PET checks are still needed for those who are not vaccinated. In addition, all attendees, whether vaccinated or not, will still need to adhere to safe management measures to protect unvaccinated individuals should any of the attendees be infected with COVID-19 despite the precautions taken.
 
-  - title: Can the bride and groom choose not to cross zones for marriage solemnizations, and hence not require PET to have a marriage solemnization involving more than 100 attendees?
+  - title: Can the bride and groom choose not to cross zones for marriage solemnizations, and hence not require PET to have a marriage solemnization involving more than 50 attendees?
     content: |  
-      No. If the marriage solemnization involves more than 100 attendees, the bride and groom must undergo PET. This is to reduce the risk of large clusters forming at large-scale events and protect unvaccinated individuals should any of the attendees be infected with COVID-19 despite the precautions taken.
+      No. If the marriage solemnization involves more than 50 attendees, the bride and groom must undergo PET. This is to reduce the risk of large clusters forming at large-scale events and protect unvaccinated individuals should any of the attendees be infected with COVID-19 despite the precautions taken.
 
-  - title: Is PET required for all attendees of wedding receptions with more than 100 attendees, if it adopts staggered timings? Why can’t it be required only for the wedding couple or wedding party who are allowed to attend multiple timeslots?
+  - title: Is PET required for all attendees of wedding receptions with more than 50 attendees, if it adopts staggered timings? Why can’t it be required only for the wedding couple or wedding party who are allowed to attend multiple timeslots?
     content: |  
-      Yes, PET is required for all attendees of wedding receptions with more than 100 attendees, even if staggered timing is adopted. While PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free.
+      Yes, PET is required for all attendees of wedding receptions with more than 50 attendees, even if staggered timing is adopted. While PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free.
 
-  - title: For marriage solemnizations involving more than 100 attendees, can the wedding party also undergo PET and be allowed to cross zones?
+  - title: For marriage solemnizations involving more than 50 attendees, can the wedding party also undergo PET and be allowed to cross zones?
     content: |  
       No, the wedding party, even if tested, will not be allowed to cross zones. While PET serves to reduce the probability of an infected person attending the event, there remains a risk of false negative results where an infected person tests antigen negative and attends the wedding. Safe management measures, such as limiting the crossing of zones, reduce the likelihood of such cases transmitting the virus to other people at the event and sparking off a large cluster of infections.
 
-  - title: For wedding receptions involving more than 100 attendees, do we have to test everyone or just the number exceeding 100pax?
+  - title: For wedding receptions involving more than 50 attendees, do we have to test everyone or just the number exceeding 50pax?
     content: |  
-      Yes, for wedding receptions involving more than 100 attendees, PET will be required for all attendees (including the wedding couple).
+      Yes, for wedding receptions involving more than 50 attendees, PET will be required for all attendees (including the wedding couple).
 
   - title: Will I be compensated if my marriage solemnization/ reception has to be cancelled because the bride/ groom receives a positive / invalid test result?
     content: |  
       No, there will be no compensation from the Government. Holding a marriage event involving more than 100 persons is a personal decision. Couples may wish to work out an arrangement with the venue provider and/or other vendors/service providers to account for the possibility of such a postponement, which would be the same as if the bride and groom were to fall sick or otherwise indisposed.
+
+  - title: I have gone for my first dose of vaccination. Is it true that it may result in a false positive result when I go for pre-event testing? 
+    content: |  
+      No. Vaccination does not result in a false positive PET ART result. 
 
 accordion-b:
   - title: Can we hold our solemnization at home? What are the safe management measures that we must follow?
     content: |
       Yes, you may hold your solemnization at home.
 
-      As of 26 Jan 2021, an individual must not permit to enter or remain in his or her place of residence more than 8 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
+      As of 8 May 2021, an individual must not permit to enter or remain in his or her place of residence more than 5 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
 
-      For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 8 visitors can attend a solemnization in your home. The total of 14 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
+      For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
 
-      However, if a place of residence has 8 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>7</sup>.
+      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence.
 
       For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
@@ -175,39 +188,33 @@ accordion-b:
 
       The organiser is liable for ensuring that all attendees observe the necessary safe management measures <sup>8</sup>.
 
-      <sup>7</sup> If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.
-
       <sup>8</sup> A person is regarded to be an organiser of a wedding if he/ she (whether or not for reward, and whether jointly or otherwise) procures for, or supplies to, any party to the marriage, the premises and any goods and services for the celebration arrangements in connection with the holding of the wedding.
 
-  - title: Can I still have additional vendors attending my solemnization even if I already have 8 non-resident guests?
+  - title: Can I still have additional vendors attending my solemnization even if I already have 5 non-resident guests?
     content: |
-      Yes, you may. For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization. However, the number of vendors should be kept to a minimum.
+      Yes, you may. For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization. However, the number of vendors should be kept to a minimum.
 
-  - title: I am living alone and was intending to have 9 attendees, a solemnizer, and a vendor attending my solemnization at home. Is it still possible to do so with this new cap of 8 visitors a day?
+  - title: I am living alone and was intending to have 9 attendees, a solemnizer, and a vendor attending my solemnization at home. Is it still possible to do so with this new cap of 5 visitors a day?
     content: |
       As of 26 Jan 2021, an individual must not permit to enter or remain in his or her place of residence more than 8 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
 
-      For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 8 visitors can attend a solemnization in your home. The total of 14 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
+      For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
 
-      However, if a place of residence has 8 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>9</sup>.
+      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>9</sup>.
 
       <sup>9</sup> If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.  
 
-  - title: If I have my solemnization at home in the morning involving 8 or more visitors (attending or working), can I still have another gathering involving another 8 visitors in the evening?
+  - title: If I have my solemnization at home in the morning involving 8 or more visitors (attending or working), can I still have another gathering involving another 5 visitors in the evening?
     content: |      
-      No, you may not do so as the quota of 8 visitors per/ day has already been used up during the solemnizsation. This also applies for a gathering before the solemnization. Please refer to FAQ 1 for more details.
-
-  - title: I only have 5 non-residents attending my solemnization (solemnizer, bride and her parents, and the photographer) at home. Can I still have other visitors for other purposes on the same day?
-    content: |  
-      Yes, you can still have 3 other visitors on the same day. Please refer to FAQ 1 for more details.
+      No, you may not do so as the quota of 5 visitors per/ day has already been used up during the solemnizsation. This also applies for a gathering before the solemnization. Please refer to FAQ 1 for more details.
 
   - title: Can I have a small wedding reception at home immediately after my solemnization? Can I perform other cultural rites in the home before or after the solemnization?
     content: |  
       Receptions are not allowed in your home. Couples may want to consider having a separate reception at allowed venues where proper safe management measures can be observed more readily. Any other pre- or post-solemnization activities held at home must abide by the prevailing number of visitors allowed for home visits.
 
-  - title: Can I have more than 10 people or 8 visitors for my home solemnization, if my house is sufficiently large to accommodate everybody safely?
+  - title: Can I have more than 10 people or 5 visitors for my home solemnization, if my house is sufficiently large to accommodate everybody safely?
     content: |  
-      We recognise that your solemnization is an important event for you and your family. However, we are also mindful that due to the intimate nature of solemnizations in the home context, there will likely be high level of chances of interaction. Unlike external venues, there will also be no premises staff to support you in implementing the safe management measures. All these pose greater risks to you, your family, and guests, especially any vulnerable groups who may be present. Hence, the cap for home solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 8 visitors in addition to any residents to the home where the solemnization is held, whichever is higher, regardless of the size of your house.
+      We recognise that your solemnization is an important event for you and your family. However, we are also mindful that due to the intimate nature of solemnizations in the home context, there will likely be high level of chances of interaction. Unlike external venues, there will also be no premises staff to support you in implementing the safe management measures. All these pose greater risks to you, your family, and guests, especially any vulnerable groups who may be present. Hence, the cap for home solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher, regardless of the size of your house.
 
   - title: How do you determine who is from the hosting household?
     content: |  
@@ -240,18 +247,18 @@ accordion-c:
 
   - title: Can we have live instrumental music (without wind instruments) for solemnizations at the ROM(M) Building?
     content: |
-      No. ROM(M) does not allow any live performances, including live instrumental music at the ROM(M) Building.
+      No. ROM(M) does not allow any live performances, including live instrumental music in the ROM(M) Building.
 
 accordion-d:
   - title: Can we hold our solemnization at Places of Worship? What are the safe management measures that we must follow?
     content: |
-      Up to (a) 100 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization,subject to the safe capacity of the venue. For solemnizations involving between 101-250 attendees, PET is required for the wedding couple only. The caps exclude the Licensed Solemnizer, religious and supporting workers, and vendors engaged to provide authorised services for the solemnization (kept to a minimum).
+      Up to (a) 50 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization,subject to the safe capacity of the venue. For solemnizations involving between 51-250 attendees, PET is required for the wedding couple only. The caps exclude the Licensed Solemnizer, religious and supporting workers, and vendors engaged to provide authorised services for the solemnization (kept to a minimum).
 
       For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
-      1.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to eight people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
+      1.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 
-      2.	If the total number of attendees is between 50 to 100 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
+      2.	If the total number of attendees is between 51 to 250 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
 
       3.	All guests must wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead of masks for the duration of the solemnization, and may remove their face shields for key moments such as to exchange vows, rings, to kiss and, during march-ins/outs, as long as they maintain a safe distance of at least 2 metres from others.
 
@@ -292,15 +299,15 @@ accordion-e:
 
   - title: What are the safe management measures that we must follow for solemnizations outside of the home / the ROM(M) Building?
     content: |   
-      Up to (a) 100 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization, subject to the safe capacity of the venue. The caps exclude the Licensed Solemnizer, interpreter, and any other vendors engaged to provide authorised services for the solemnization (kept to a minimum).
+      Up to (a) 50 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization, subject to the safe capacity of the venue. The caps exclude the Licensed Solemnizer, interpreter, and any other vendors engaged to provide authorised services for the solemnization (kept to a minimum).
 
       For the safety of all who are attending your solemnization, please ensure that you and your guests comply with the following measures:
 
-      1.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to eight people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
+      1.	For solemnizations with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 
-      2.	If the total number of attendees is between 50 to 100 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
+      2.	If the total number of attendees is between 51 to 250 persons, attendees must be split into multiple zones of up to 50 persons in a zone. All attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos.
 
-      3.	For solemnizations involving between 101-250 attendees, PET is required for the wedding couple. PET must be done (i) before entry to the reception, and (ii) at most 24 hours before the end of the event.
+      3.	For solemnizations involving between 51-250 attendees, PET is required for the wedding couple. PET must be done (i) before entry to the reception, and (ii) at most 24 hours before the end of the event.
 
       4.	Masks may be removed briefly for photo-taking, and must be put on immediately after
 
@@ -322,7 +329,7 @@ accordion-e:
 
   - title: What happens if the solemnization is back to back with the F&B reception i.e. solemnization followed by F&B reception in the same room?
     content: |
-      If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of (a) 100 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization, subject to the safe capacity of the venue. For back-to-back solemnizations and F&B receptions involving between 101-250 persons, PET is required for all attendees (including the wedding couple).  No other receptions would be allowed. Please refer to section VIIII of the FAQs for details on the zoning requirements.
+      If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of (a) 50 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization, subject to the safe capacity of the venue. For back-to-back solemnizations and F&B receptions involving between 51-250 persons, PET is required for all attendees (including the wedding couple).  No other receptions would be allowed. Please refer to section X of the FAQs for details on the zoning requirements.
 
   - title: Can I perform other cultural rites such as the tea ceremony before or after the solemnization?
     content: |
@@ -333,17 +340,17 @@ accordion-e:
 accordion-f:
   - title: Can I hold a reception? How many receptions can I hold? What are the guidelines for receptions?
     content: |    
-      You can have only one reception, held on the same day as the solemnization or on a separate day. This minimizes the risk to the community. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of (a) 100 persons (without PET), or (b) 250 persons (with PET), subject to the safe capacity of the venue. For such events involving between 101-250 attendees, PET is required for all attendees (including the wedding couple).
+      You can have only one reception, held on the same day as the solemnization or on a separate day. This minimizes the risk to the community. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of (a) 50 persons (without PET), or (b) 250 persons (with PET), subject to the safe capacity of the venue. For such events involving between 51-250 attendees, PET is required for all attendees (including the wedding couple).
 
       You may hold your reception in controlled premises opened for operation (outside of the home and the ROM(M) Building) that can accommodate receptions. Please note that any meal exceeding the existing group size for social gatherings, if held back-to-back with the solemnization, shall be deemed a reception. You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented.
 
-      For such receptions, you may have up to 100 persons, (without PET), or (b) 250 persons (with PET), or the safe capacity of the venue, whichever is lower. For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
+      For such receptions, you may have up to 50 persons, (without PET), or (b) 250 persons (with PET), or the safe capacity of the venue, whichever is lower. For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
 
-      1.	For receptions with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to eight people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
+      1.	For receptions with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to five people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
 
-      2.	If the total number of attendees is between 50 to 250 persons, attendees must be split into either multiple zones of up to 50 persons in a zone, or staggered timings with up to 50 persons in each slot with at least 30 minutes between slots for cleaning and disinfection of event space. For a zoning arrangement, all attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos. For a staggered timing arrangement, the “wedding party” is allowed to remain in each timeslot as it is the only way for them to host the wedding throughout the day. However, like the zoning arrangement, the “wedding party” must not be intermingling with other groups, and prevailing safe distancing rules i.e. 1m distance between groups, must be observed.
+      2.	If the total number of attendees is between 51 to 250 persons, attendees must be split into either multiple zones of up to 50 persons in a zone, or staggered timings with up to 50 persons in each slot with at least 30 minutes between slots for cleaning and disinfection of event space. For a zoning arrangement, all attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos. For a staggered timing arrangement, the “wedding party” is allowed to remain in each timeslot as it is the only way for them to host the wedding throughout the day. However, like the zoning arrangement, the “wedding party” must not be intermingling with other groups, and prevailing safe distancing rules i.e. 1m distance between groups, must be observed.
 
-      3.	For receptions involving between 101-250 attendees, PET is required for all attendees (including the wedding couple). PET must be done (i) before entry to the reception, and (ii) at most 24 hours before the end of the event.
+      3.	For receptions involving between 51-250 attendees, PET is required for all attendees (including the wedding couple). PET must be done (i) before entry to the reception, and (ii) at most 24 hours before the end of the event.
 
       4.	There must be fixed seating for all attendees. Pre-wedding receptions, freestanding activities (e.g photobooths) and interactions such as drinks receptions are not permitted.
 
@@ -401,11 +408,11 @@ accordion-f:
     content: |  
       If your solemnization and reception are held separately, they need not be the same  people. However, you are encouraged to keep your number of social contacts to a minimum to reduce the risk of large clusters forming.
 
-      If the reception takes place at the same location right after the solemnization, the entire event (solemnization and reception) is limited to the same guests. Please refer to section VIIII of the FAQs for details on the zoning requirements.
+      If the reception takes place at the same location right after the solemnization, the entire event (solemnization and reception) is limited to the same guests. Please refer to section X of the FAQs for details on the zoning requirements.
 
-  - title: If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 100 people (without PET) or 250 people (with PET) attendees limit?
+  - title: If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 50 people (without PET) or 250 people (with PET) attendees limit?
     content: |  
-      The total number of attendees for receptions has to be capped at (a) 100 persons (without PET), or (b) 250 persons (with PET), throughout the entire event, or a lower number subject to the size of the premises and safe management requirements. For receptions involving between 101-250 attendees, PET is required for all attendees (including the wedding couple). This includes those who attend the reception for a short duration without eating or drinking
+      The total number of attendees for receptions has to be capped at (a) 50 persons (without PET), or (b) 250 persons (with PET), throughout the entire event, or a lower number subject to the size of the premises and safe management requirements. For receptions involving between 51-250 attendees, PET is required for all attendees (including the wedding couple). This includes those who attend the reception for a short duration without eating or drinking
 
   - title: Are there any duration limits or time restrictions for wedding reception/solemnization?
     content: |  
@@ -442,7 +449,7 @@ accordion-f:
 accordion-g:
   - title: If we opt for solemnization via video link, can the bride, groom, witnesses and guests be in the same venue? Is there a limit to the number of guests in the same venue?
     content: |  
-      The bride, groom, and witnesses can be in the same location if they belong to the same household. If the solemnization is held in the home, then in line with the safe distancing measures, you must not have more than eight visitors in your home. Other guests may wish to join in through the video link instead. Such processes through video links are to enable marriage solemnizations to take place in a safe manner.
+      The bride, groom, and witnesses can be in the same location if they belong to the same household. If the solemnization is held in the home, then in line with the safe distancing measures, you must not have more than five visitors in your home. Other guests may wish to join in through the video link instead. Such processes through video links are to enable marriage solemnizations to take place in a safe manner.
 
 accordion-h:
   - title: For a zoning arrangement, can I have as many zones as I want?
@@ -499,7 +506,7 @@ accordion-h:
     content: |        
       No. Couples can only hold one reception, which limits the total risk exposure. Even in a staggered timing arrangement, the entire reception must be completed within the same day.
 
-  - title: My wedding venue is large enough to accommodate more than 50 pax with appropriate safe distancing between groups of 8, is zoning still necessary?
+  - title: My wedding venue is large enough to accommodate more than 50 pax with appropriate safe distancing between groups of 5, is zoning still necessary?
     content: |    
       Yes. Regardless of venue, the number of people in each zone is capped at 50 pax. All attendees are to be assigned one zone only and entering an unassigned zone is not allowed. This is to minimise participants’ total risk exposure and the risk of bunching at common areas including entrances and exits. Organisers are to ensure at least 3m distance between zones with the use of physical barriers e.g. queue poles, or use a solid partition of 1.8 metres or taller between zones. Organisers must also undertake measures to avoid guests crossing between zones. Arrangements must also be made to ensure attendees from different zones do not meet each other at entrances or exits. For instance, organisers could deploy ushers at the entrances and exits of each zone.
 
@@ -519,40 +526,38 @@ accordion-h:
     content: |   
       Vendor staff need not be confined to zones, as they come into contact with participants only transiently and are always masked. The photographer may follow the wedding couple across zones for photo taking.
 
-  - title: With the increase in group size of up to 8 pax in Phase 3 (w.e.f. 28 Dec), why can’t the zonal and staggered requirements be relaxed further?
-    content: |
-      The cap for time zones and time slots continue to be at 50 pax. This minimises participants’ total risk exposure and helps contain any potential spread, as there are additional measures to prevent attendees from different zones or time slots from coming in contact with one another (e.g. separate entrances, physical barriers, 30 minutes interval between time slots).
-
-      We must remain vigilant and ensure the situation remains under control. Phase 3 is not a return to the pre-COVID status quo. Other countries have seen a resurgence in COVID-19 as they ease up on safety measures. These guidelines are based on the current situation. The guidelines may change, depending on the COVID-19 situation at that point in time, and the cooperation of everyone in adhering to the prevailing safe management measures
 ---
 
-### Marriage solemnizations and receptions
+### Marriage solemnizations and receptions [Updated as of 5 May 2021]
 
-#### 1. General safe management measures
+#### 1. Latest COVID-19 Situation (8 May 30 May 2021)
 {% include accordion-new.html %}
 
-#### 2. Pre-event testing requirements
+#### 2. General safe management measures
+{% include accordion-new.html %}
+
+#### 3. Pre-event testing requirements
 {% include accordion-a.html %}
 
-#### 3. Solemnizations in homes
+#### 4. Solemnizations in homes
 {% include accordion-b.html %}
 
-#### 4. Solemnizations in the ROM(M) building and other locations
+#### 5. Solemnizations in the ROM(M) building and other locations
 {% include accordion-c.html %}
 
-#### 5. Solemnizations in Places of Worship
+#### 6. Solemnizations in Places of Worship
 {% include accordion-d.html %}
 
-#### 6. Solemnizations in other external venues
+#### 7. Solemnizations in other external venues
 {% include accordion-e.html %}
 
-#### 7. Other wedding activities
+#### 8. Other wedding activities
 {% include accordion-f.html %}
 
-#### 8. Video-link solemnizations
+#### 9. Video-link solemnizations
 {% include accordion-g.html %}
 
-#### 9. Zoning and Staggered Timing Requirements
+#### 10. Zoning and Staggered Timing Requirements
 {% include accordion-h.html %}
 
 [Back to Covid-19 Overview](/covid/)

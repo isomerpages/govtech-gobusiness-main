@@ -5,7 +5,9 @@ third_nav_title: Resumption of Business Activities (Phases One and Two)
 accordion-new:
   - title: Are companies that have resumed operations required to ensure that their employees work from home?
     content: |
-      From 5 April 2021, more employees may return to the workplace to better support in-person collaboration and business operations. Employers must ensure that no more than 75% of employees who are able to work from home are at the workplace at any point in time. Nonetheless, employers are encouraged to support as many employees in working from home as possible.
+      All employers should provide the facilities necessary to enable workers to work from home. 
+
+      From 8 May 2021 to 30 May 2021, work-from-home should be the default mode of work and employers must ensure that no more than 50% of employees who are able to work from home are at the workplace at any point in time.
 
       This is to limit employees’ exposure at the workplace. Return to the workplace can either be initiated by the employee and agreed upon with the employer, or directed by the employer. This will help to limit the number of workers exposed at the workplace at any point in time, and reduce crowding in common areas e.g. pantries, toilets, lifts.
 
@@ -15,7 +17,7 @@ accordion-new:
 
   - title: Is there a minimum percentage or number of workers that employers must place on work-from-home arrangements?
     content: |
-      From 5 April 2021, employers must ensure that no more than 75% of employees who are able to work from home are at the workplace at any point in time.
+      From 8 May 2021 to 30 May 2021, employers must exercise heightened vigilance at the workplace, and ensure that no more than 50% of employees who are able to work from home are at the workplace at any point in time. 
 
       However, there is no limit on the proportion of an individual employee’s working time that can be spent at the workplace. Employers are nonetheless encouraged to continue to allow employees to work from home where possible. This will help to limit the number of employees exposed at the workplace at any point in time, and reduce crowding in common areas, e.g. pantries, toilets, lifts.
 

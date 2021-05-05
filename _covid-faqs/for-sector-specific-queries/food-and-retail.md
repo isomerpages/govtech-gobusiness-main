@@ -5,11 +5,13 @@ third_nav_title: For Sector-Specific Queries
 accordion-new:
   - title: When will TraceTogether-only SafeEntry (ToS) be implemented?
     content: |
-      Since October 2020, ToS has been piloted at selected venues as they increase in capacity, and at larger-scale activities involving more people, in order to ensure that individuals at these venues and activities are covered by both SafeEntry and TraceTogether. These selected venues include live performances, MICE events, selected places of worship and cinemas.
+      From 17 May 2021, TraceTogether-only SafeEntry will be implemented at F&B establishments. SafeEntry check-in can only be done by: 
 
-      ToS will only be implemented after everyone has had the chance to collect a Token in their constituencies, and a reasonable period of national distribution is achieved. It will be announced ahead of implementation, in order to provide time for businesses to prepare for this transition to ToS.
+      (i)	Scanning the SafeEntry QR code using the TraceTogethe App, 
+      (ii)	Presenting the TraceTogether Token or QR code to the camera/2D scanner linked to the SafeEntry (Business) App for scanning; or
+      (iii)	Bringing the TraceTogether Token or App close to a SEGW
 
-      F&B establishments are advised to ensure that they are able to accept TraceTogether Token check-in alongside other modes of SafeEntry check-in as soon as possible. Refer to [here](https://support.safeentry.gov.sg/hc/en-us/articles/900003686226-How-to-implement-and-scan-TraceTogether-Tokens-for-visitor-check-ins-at-my-business-venue-){:target="_blank"} to find out how to implement Token check-in.
+      From 15 June 2021, F&B establishments that are required to deploy SafeEntry for customers and visitors (i.e. those providing dine-in services) will need to provide the SafeEntry Gateway (SEGW) as an option for SafeEntry check-in. SEGW is available as a feature within the SafeEntry (Business) App (updated to version 1.1.0 and above) and as a physical standalone device (SEGW Box). These F&B establishments may apply for a free SEGW Box.
 
   - title: On rollout date, how does my establishment enable TraceTogether-only SafeEntry mode on the backend?
     content: |
@@ -19,9 +21,11 @@ accordion-new:
     content: |
       Due to the porous nature of these establishments, which makes it difficult for a designated entrance and exit point, coffee shops/hawker centres/food courts are not required to implement TraceTogether-only SafeEntry.
 
-  - title: I understand that there is a SafeEntry Gateway being trialled. Can I get one?
+  - title: How can I get a SafeEntry Gateway?
     content: |
-      The SafeEntry Gateway is still being trialled and more details will be provided in due course.
+      F&B establishments that are required to deploy SafeEntry for customers and visitors (i.e. those providing dine-in services) can apply for a free SafeEntry GateWay (SEGW) box. SEGW is also available as a feature within the SafeEntry (Business) App (updated to version 1.1.0 and above). 
+
+      You can refer to [https://go.gov.sg/gateway-overview](https://go.gov.sg/gateway-overview) for how to implement the SEGW and apply for a free SEGW Box. 
 
   - title: Is it safe to use reusable containers for takeaway? What if the container was handled by someone who has the virus?
     content: |
@@ -44,7 +48,7 @@ accordion-a:
 
   - title: I own a F&B establishment within a mall. Am I required to implement SafeEntry and conduct temperature taking/checks on visible symptoms, since visitors who entered the malls are already required to do so?
     content: |  
-      All F&B establishments with dine-in facilities must implement SafeEntry to facilitate the efficient collection of customer information for contact tracing when needed. Food courts are expected to put up SafeEntry QR codes for customers to sign in.
+      From 17 May 2021, all F&B establishments with dine-in facilities must implement TraceTogether-only SafeEntry to facilitate the efficient collection of customer information for contact tracing when needed. Food courts are expected to put up SafeEntry QR codes for customers to sign in.
 
       All F&B establishments with dine-in facilities must conduct temperature taking and checks for visible symptoms, except if they are located in malls  that are already doing temperature taking. They should however do so, if they operate outside the mall opening  hours or if they have an entrance not within the mall’s screened area.
 
@@ -62,19 +66,17 @@ accordion-a:
 
   - title: Can I leave the cutleries and condiments on the dining table or placed at a common station for the customers to self-serve?
     content: |  
-      To minimise unnecessary mingling/crowding at F&B outlets, the provision of condiments (e.g. soy sauce, salt and pepper, chilli sauce) and cutleries at self-serve common stations should not be allowed, unless these are individually packed & sealed.
+      To minimise unnecessary mingling/crowding at F&B outlets, the provision of condiments (e.g. soy sauce, salt and pepper, chilli sauce) and cutleries at self-serve common stations should not be allowed, unless these are individually packed & sealed, or placed at counters that are within staff’s line of sight.
 
       For dine-in, condiments should be provided to diners only after they are seated or upon request, and be promptly removed after diners have taken the required serving. Where practicable, F&B establishments should ensure that any shared condiments are properly bottled, and not kept in containers with partial openings and/or involve the use of common utensils. Likewise, cutleries should either be provided to diners when they are seated, or stored in a properly covered container/ compartment at respective dining tables.
-
-      The above notwithstanding, food stalls and kiosks are allowed to place condiments and cutleries at their stall counters (e.g. in covered containers), as long as these are within sight of and managed directly by the staff.
 
   - title: Are F&B establishments allowed to operate the entertainment/amusement devices (such as billiard, pool tables, dart machines) within their outlet? Amusement and leisure centres such as billiard and pool centres can already resume operations, and some even provide F&B.
     content: |  
       Entertainment/amusement devices (e.g. dart machines, billiard, pool tables) in F&B establishments must remain closed as these are not the core services provided by the F&B establishments. Such facilities will result in longer than necessary dwell time, and result in crowds or congregation. We urge the cooperation of F&B establishments as we work towards the gradual resumption of activities, to provide a safe environment for customers and employees.
 
-  - title: Can my restaurant now accept group sizes bigger than 8, as long as we sit them in groups of 8 or less? And for such groups bigger than 8, must they be from the same household?
+  - title: Can my restaurant now accept group sizes bigger than 5, as long as we sit them in groups of 5 or less? And for such groups bigger than 5, must they be from the same household?
     content: |  
-      Each group must be limited to 8 or fewer persons, with at least one-metre spacing between groups. Exceptions can only be made if all members of the group are from the same household. These groups can be allowed into the establishment. However, they will need to be seated at multiple tables, with no more than 8 persons per table, and with at least one metre spacing maintained between these groups.
+      Each group must be limited to 5 or fewer persons, with at least one-metre spacing between groups. Exceptions can only be made if all members of the group are from the same household. These groups can be allowed into the establishment. However, they will need to be seated at multiple tables, with no more than 5 persons per table, and with at least one metre spacing maintained between these groups.
 
   - title: Can F&B establishments request to check the identification cards of the groups of diners if they claim to be from the same household?  
     content: |        
@@ -112,34 +114,40 @@ accordion-a:
 
   - title: Self-service buffet lines are still not allowed. What if I have service staff to man the buffet line?
     content: |       
-      Buffet lines, where customers queue up to collect the food, are currently not allowed, even if the food at the line is served by staff.
+      Buffet lines, where food is served by F&B staff, are allowed in F&B establishments and permitted event settings (work-related events and MICE events), with strict adherence to additional SMMs. Food lines are not permitted at weddings and funerals. For weddings, F&B must continue to be served to seated customers. For funerals, F&B should not be consumed, with the exception of individually packed drinks and tidbits, and individual bento boxes for family members of the deceased who keep vigil for the duration of the funeral wake. 
+
+      For staff-served food lines, the following SMMs must be adhered to: 
+      1. F&B establishments must cover food at the food lines with shields or other forms of barriers. 
+      2. Staff must pick the food for customers and ensure that customers do not have contact with the food line. 
+      3. Staff must not handle food with bare hands. They must use a clean fork, tongs, scoop or other suitable implement. 
+      4. Customers queueing for food must have their masks on at all times. 
 
 accordion-b:
-  - title: The Chinese New Year period is coming up. Can retailers hold pop-ups to sell their products, outside of their premises or at mall atriums?
+  - title: Can retailers hold pop-ups to sell their products, outside of their premises or at mall atriums?
     content: |
-      Temporary pop-ups/pushcarts and fairs selling Chinese New Year goods at mall atriums and common spaces are disallowed. However, existing designated retail stores in the mall may be used to conduct sales of Chinese New Year goods.
+      Temporary pop-ups/pushcarts and fairs at mall atriums and common spaces are disallowed. However, existing designated retail stores in the mall may be used to conduct sales of goods.
 
-  - title: Can I give out food samples to my customers during Chinese New Year?
+  - title: Can I give out food samples to my customers?
     content: |
       Open food sampling is strictly disallowed. However, food samples in sealed packaging can be distributed to shoppers; these must not be for immediate consumption.
 
-  - title: All malls and large standalone stores (>930sqm) must comply with the occupancy limit of 8 sqm per person stipulated. What is the basis for this?
+  - title: All malls and large standalone stores (>930sqm) must comply with the occupancy limit of 10 sqm per person stipulated. What is the basis for this?
     content: |  
       The occupancy limit is meant to help malls and standalone stores operationalise the requirement of ensuring sufficient physical distancing between visitors and avoid overcrowding within the premise.
 
       In addition to the occupancy limit, malls and standalone stores must also ensure that they comply with other safe distancing measures, e.g. dispersion of groups of more than eight people and physical distancing of at least one metre in queues.
 
-  - title: How should malls and standalone stores compute the number of people allowed in their premises based on the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?
+  - title: How should malls and standalone stores compute the number of people allowed in their premises based on the occupancy limit of one person per 10 sqm of Gross Floor Area (GFA)?
     content: |  
       Malls and standalone stores can take reference from the following guidelines:
 
-      -	A standalone mall with an approved GFA of 32,000 sqm for the retail component will have an allowable visitor capacity of 4,000 persons at any one time.
+      -	A standalone mall with an approved GFA of 32,000 sqm for the retail component will have an allowable visitor capacity of 3,200 persons at any one time.
 
       -	Non-visitors, i.e. staff of the mall management, tenants and term contractors, will not be included in the visitor capacity computation.
 
-      -	Individual tenants within shopping malls will not be subjected to this rule. However, other safe distancing measures are to be applied, e.g. dispersion of groups more than eight people and physical distancing of at least one metre in queues.
+      -	Individual tenants within shopping malls will not be subjected to this rule. However, other safe distancing measures are to be applied, e.g. dispersion of groups more than five people and physical distancing of at least one metre in queues.
 
-  - title: How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit of one person per 8 sqm of Gross Floor Area (GFA)?
+  - title: How can a mall/ standalone store manage the number of shoppers to ensure compliance with the occupancy limit?
     content: |  
       Malls and standalone stores can consider continuing to reduce the number of entrances and deploy queue management systems or staff to control the number of visitors entering and leaving the premises, to ensure compliance with the allowable visitor capacity.
 
@@ -249,11 +257,11 @@ accordion-b:
 
       Mask should be worn as a default. Masks can be taken off when performing strenuous activities or where practicable, although it is still recommended as good practice even under such circumstances.  
 
-      Large-format spas and saunas may also reference the advisory for malls and large standalone stores where those larger than > 930 sqm (or 10,000 sqft) of Gross Floor Area (GFA) must comply with the occupancy limit of one person per 8 sqm of GFA.
+      Large-format spas and saunas may also reference the advisory for malls and large standalone stores where those larger than > 930 sqm (or 10,000 sqft) of Gross Floor Area (GFA) must comply with the occupancy limit of one person per 10 sqm of GFA.
 
   - title: Can customers share private therapy rooms?
     content: |   
-      Customers in a group of up to 8 may share a private therapy room. They are allowed to remove their masks during their facial treatment or therapy done in a private room, and must put the masks back on immediately after. The operator must ensure that the private room is thoroughly disinfected before and after use. A private therapy room is defined as one which is enclosed on all sides by partitions  that are at least 2 metres in height, e.g. fixed walls, plexiglass. The operator must ensure that customers are at least 1 metre apart during the treatment or therapy.
+      Customers in a group of up to 5 may share a private therapy room. They are allowed to remove their masks during their facial treatment or therapy done in a private room, and must put the masks back on immediately after. The operator must ensure that the private room is thoroughly disinfected before and after use. A private therapy room is defined as one which is enclosed on all sides by partitions  that are at least 2 metres in height, e.g. fixed walls, plexiglass. The operator must ensure that customers are at least 1 metre apart during the treatment or therapy.
 
   - title: Should malls continue to demarcate lifts with one-metre spacing?
     content: |

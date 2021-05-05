@@ -3,15 +3,19 @@ title: General information on Safe Management Measures
 permalink: /covid-faqs/resumption-biz-activities-phase12/safe-management-measures
 third_nav_title: Resumption of Business Activities (Phases One and Two)
 accordion-new:
-  - title: What are the key changes for Safe Management Measures at the workplace that will take effect from 5 April 2021?
+  - title: What are the key changes for Safe Management Measures at the workplace that will take effect from 8 May 2021 to 30 May 2021?
     content: |
       **Work from home (WFH)**
 
-      The revised WFH requirement is that no more than 75% of employees who can WFH can be at the workplace at any point in time, from 50% previously. There is no longer a limit on the proportion of an individual employee’s working time that can be spent at the workplace. The mandatory split team requirement will also be removed.
+      Employers should exercise heightened vigilance at the workplace, and ensure no more than 50% of employees who can WFH are at the workplace at any point in time, down from 75% previously. 
+
+      There is no limit on the proportion of an individual employee’s working time that can be spent at the workplace. 
+
+      Split team arrangement is not mandatory but employers can continue to adopt such arrangements for business continuity purposes.
 
       **Work-related events**
 
-      Employer-organised social activities will be allowed, subject to the same rules as the community; i.e. gatherings of no more than 8 persons (and no multiple groups of 8 persons). Team bonding activities, for instance, will be allowed but only to a group of 8 persons. There is no change to the current provision for work-related events such as townhalls and workplan seminars, which remains capped at 50 persons.
+      Social gatherings at the workplace should be avoided. However, if they cannot be avoided (e.g. during meal breaks), the gatherings are subject to the revised community limit of 5 persons. 
 
   - title: Is it possible for my business to resume operations earlier if I have implemented all Safe Management Measures at my workplace?   
     content: |
@@ -60,14 +64,16 @@ accordion-new:
 
   - title: My office is on a 5-day week. Can all my employees work at the office for 4 days a week, and then work from home for 1 day?
     content: |
-      No. From 5 April 2021, you must ensure that at most 75% of employees who are able to work from home are at the workplace at any point in time. You can consider other arrangements that will meet this requirement, for instance:
+      No. 
+      
+      From 8 May 2021 to 30 May 2021, you must ensure that at most 50% of employees who are able to work from home are at the workplace at any point in time. You can consider other arrangements that will meet this requirement, for instance:
 
-      1. Divide your employees into 4 groups, with 1 group working from home for any given week.
-      2. Divide your employees into 4 groups, with a different group working from home for each day Monday to Thursday, and all 4 groups working from home on Friday.
+      1. Divide your employees into 2 groups, with 1 group working from home for any given week.
+      2. Divide your employees into 2 groups, with a different group working from home for each day Monday to Thursday, and both groups working from home on Friday.
 
   - title: Do I need to implement split teams for my employees?
     content: |    
-      No. From 5 April 2021, split team arrangements are no longer mandatory. Nonetheless, you can continue to adopt such arrangements for business continuity purposes.
+      Split team arrangements are no longer mandatory. Nonetheless, you can continue to adopt such arrangements for business continuity purposes.
 
   - title: In an office setting, would leaving an empty desk marked (e.g. with a cross) suffice for safe distancing? For barriers between workstations, are there guidelines for how high they need to be?  
     content: |

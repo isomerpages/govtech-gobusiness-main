@@ -5,7 +5,7 @@ third_nav_title: For Sector-Specific Queries
 accordion-new:
   - title: Can cinema patrons sit together?
     content: |
-      Groups of up to eight persons (friends and family) are allowed to book tickets to sit together. Cinemas must ensure there is a 1 metre distance between different groups.
+      Groups of up to five persons (friends and family) are allowed to book tickets to sit together. Cinemas must ensure there is a 1 metre distance between different groups.
 
   - title: Are patrons supposed to put on masks at all times during the movie? Can they eat during the movie?
     content: |
