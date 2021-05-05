@@ -82,7 +82,7 @@ accordion-new:
 
   - title: Hotels
     content:  |
-      Hotels are to comply to measures stipulated in this [document](/images/guides/Circular for Hotels in Phase 3_ver23Apr2021.pdf){:target="_blank"}[last updated 23 April 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}.
+      Hotels are to comply to measures stipulated in this [document](/images/guides/Circular for Hotels in Phase 3_ver4May2021_final.pdf){:target="_blank"}[last updated 4 May 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}.
 
   - title: Landscape-related services
     content:  |
@@ -90,7 +90,7 @@ accordion-new:
 
   - title: Marriage solemnisations and wedding receptions
     content:  |
-      With effect from 24 April 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this [document](/images/guides/SMMs_for_Weddings_w_PET(For 24 Apr).pdf){:target="_blank"} [last updated 24 April 2021], depending on venue.  
+      With effect from 8 May 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this [document](/images/guides/SMMs for Weddings w PET (For 7 May) (clean) (wef 8 May).pdf){:target="_blank"} [last updated 5 May 2021], depending on venue.  
 
   - title: Marine & offshore (M&O) sector
     content:  |
