@@ -46,7 +46,7 @@ accordion-new:
 
       For solemnization ceremonies held in places of residence, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
 
-      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>4</sup>.
+      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence.
 
       **External venues**
 
@@ -107,7 +107,7 @@ accordion-a:
 
   - title: What would exempt me/my guests from PET?
     content: |
-      Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry. Wedding organisers will have to check-in attendees for events requiring PET. PET status of the attendee is verified as part of SafeEntry check-in. Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET [here](https://go.gov.sg/pet) for further details.
+      Please refer to MOH’s guidelines at [go.gov.sg/pet](https://go.gov.sg/pet) on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry. Wedding organisers will have to check-in attendees for events requiring PET. PET status of the attendee is verified as part of SafeEntry check-in. Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET [here](https://go.gov.sg/pet) for further details.
 
   - title: What is considered an acceptable proof of test result for the bride and groom and wedding reception attendees?
     content: |
