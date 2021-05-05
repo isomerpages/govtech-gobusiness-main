@@ -136,7 +136,7 @@ accordion-new:
 
   - title: Property show galleries
     content:  |   
-      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 17 June 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13){:target="_blank"}.
+      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 5 May 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13){:target="_blank"}.
 
   - title: Public entertainment
     content:  |    
