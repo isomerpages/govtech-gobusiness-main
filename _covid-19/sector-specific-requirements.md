@@ -58,12 +58,12 @@ accordion-new:
 
   - title: F&B and retail
     content:  |
-      - F&B establishments are to comply to measures stipulated in this [document](/images/guides/FBestablishments30Jan.pdf){:target="_blank"}[last updated on 30 January 2021].<br>
+      - F&B establishments are to comply to measures stipulated in this [document](/images/guides/Advisory_Safe Management Measures for FB establishments_caa5May21_for publication.pdf){:target="_blank"}[last updated on 5 May 2021].<br>
 
       - Infographic on Safe Management Measures at F&B Establishments [last updated on 12 January 2021]<br>
       ![F&B](/images/covid/smrfnb.jpg "F&B establishments")
 
-      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/retailsmrrequirements30Jan.pdf){:target="_blank"} [last updated on 30 January 2021].<br>
+      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/Advisory_Safe Management Measures for Retail establishments_caa5May21_for publication.pdf){:target="_blank"} [last updated on 5 May 2021].<br>
 
       - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 12 January 2021]<br>
       ![Retail](/images/covid/smrretail.jpg "Retail")
