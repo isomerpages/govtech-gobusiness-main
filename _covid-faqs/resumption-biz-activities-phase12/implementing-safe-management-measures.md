@@ -73,7 +73,7 @@ accordion-new:
 
   - title: Do I need to implement split teams for my employees?
     content: |    
-      Split team arrangements are no longer mandatory. Nonetheless, you can continue to adopt such arrangements for business continuity purposes.
+      No. Split team arrangements are no longer mandatory. Nonetheless, you can continue to adopt such arrangements for business continuity purposes.
 
   - title: In an office setting, would leaving an empty desk marked (e.g. with a cross) suffice for safe distancing? For barriers between workstations, are there guidelines for how high they need to be?  
     content: |

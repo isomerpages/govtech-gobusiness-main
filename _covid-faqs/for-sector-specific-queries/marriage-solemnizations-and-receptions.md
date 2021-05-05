@@ -107,7 +107,7 @@ accordion-a:
 
   - title: What would exempt me/my guests from PET?
     content: |
-      Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry. Wedding organisers will have to check-in attendees for events requiring PET. PET status of the attendee is verified as part of SafeEntry check-in. Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET [here](https://go.gov.sg/pet){:target="_blank"} for further details.
+      Please refer to MOH’s guidelines at <go.gov.sg/pet>{:target="_blank"} on individuals who are exempt from PET and acceptable exemption notices that must be shown to the wedding organiser to be allowed entry. Wedding organisers will have to check-in attendees for events requiring PET. PET status of the attendee is verified as part of SafeEntry check-in. Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET [here](https://go.gov.sg/pet) for further details.
 
   - title: What is considered an acceptable proof of test result for the bride and groom and wedding reception attendees?
     content: |
@@ -159,7 +159,7 @@ accordion-a:
 
   - title: Will I be compensated if my marriage solemnization/ reception has to be cancelled because the bride/ groom receives a positive / invalid test result?
     content: |  
-      No, there will be no compensation from the Government. Holding a marriage event involving more than 100 persons is a personal decision. Couples may wish to work out an arrangement with the venue provider and/or other vendors/service providers to account for the possibility of such a postponement, which would be the same as if the bride and groom were to fall sick or otherwise indisposed.
+      No, there will be no compensation from the Government. Holding a marriage event involving more than 50 persons is a personal decision. Couples may wish to work out an arrangement with the venue provider and/or other vendors/service providers to account for the possibility of such a postponement, which would be the same as if the bride and groom were to fall sick or otherwise indisposed.
 
   - title: I have gone for my first dose of vaccination. Is it true that it may result in a false positive result when I go for pre-event testing? 
     content: |  
@@ -196,15 +196,13 @@ accordion-b:
 
   - title: I am living alone and was intending to have 9 attendees, a solemnizer, and a vendor attending my solemnization at home. Is it still possible to do so with this new cap of 5 visitors a day?
     content: |
-      As of 26 Jan 2021, an individual must not permit to enter or remain in his or her place of residence more than 8 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
+      As of 8 May 2021, an individual must not permit to enter or remain in his or her place of residence more than 5 visitors on any single day. An exception is made for home solemnizations which are subject to the following limits:
 
       For solemnization ceremonies held at home, the maximum number of attendees for solemnizations will be, including the wedding couple, (i) 10 persons or (ii) 5 visitors in addition to any residents to the home where the solemnization is held, whichever is higher. This cap excludes the Licensed Solemnizer, the interpreter (if any), and vendors engaged to provide authorised services for the solemnization (kept to a minimum). For example, if there are 6 persons currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 persons counts the wedding couple but excludes the solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the solemnizer and vendors.
 
-      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence<sup>9</sup>.
+      However, if a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence.
 
-      <sup>9</sup> If the place of residence has, for instance, 5 visitors attending the home solemnization (as guests or vendors), the individual may accept 3 more visitors to his or her place of residence on the same day.  
-
-  - title: If I have my solemnization at home in the morning involving 8 or more visitors (attending or working), can I still have another gathering involving another 5 visitors in the evening?
+  - title: If I have my solemnization at home in the morning involving 5 or more visitors (attending or working), can I still have another gathering involving another 5 visitors in the evening?
     content: |      
       No, you may not do so as the quota of 5 visitors per/ day has already been used up during the solemnizsation. This also applies for a gathering before the solemnization. Please refer to FAQ 1 for more details.
 
@@ -329,7 +327,7 @@ accordion-e:
 
   - title: What happens if the solemnization is back to back with the F&B reception i.e. solemnization followed by F&B reception in the same room?
     content: |
-      If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of (a) 50 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization, subject to the safe capacity of the venue. For back-to-back solemnizations and F&B receptions involving between 51-250 persons, PET is required for all attendees (including the wedding couple).  No other receptions would be allowed. Please refer to section X of the FAQs for details on the zoning requirements.
+      If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of (a) 50 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization, subject to the safe capacity of the venue. For back-to-back solemnizations and F&B receptions involving between 51-250 persons, PET is required for all attendees (including the wedding couple).  No other receptions would be allowed. Please refer to section 10 of the FAQs for details on the zoning requirements.
 
   - title: Can I perform other cultural rites such as the tea ceremony before or after the solemnization?
     content: |
@@ -408,7 +406,7 @@ accordion-f:
     content: |  
       If your solemnization and reception are held separately, they need not be the same  people. However, you are encouraged to keep your number of social contacts to a minimum to reduce the risk of large clusters forming.
 
-      If the reception takes place at the same location right after the solemnization, the entire event (solemnization and reception) is limited to the same guests. Please refer to section X of the FAQs for details on the zoning requirements.
+      If the reception takes place at the same location right after the solemnization, the entire event (solemnization and reception) is limited to the same guests. Please refer to section 10 of the FAQs for details on the zoning requirements.
 
   - title: If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 50 people (without PET) or 250 people (with PET) attendees limit?
     content: |  
@@ -530,7 +528,7 @@ accordion-h:
 
 ### Marriage solemnizations and receptions [Updated as of 5 May 2021]
 
-#### 1. Latest COVID-19 Situation (8 May 30 May 2021)
+#### 1. Latest COVID-19 Situation (8 May to 30 May 2021)
 {% include accordion-new.html %}
 
 #### 2. General safe management measures
@@ -542,7 +540,7 @@ accordion-h:
 #### 4. Solemnizations in homes
 {% include accordion-b.html %}
 
-#### 5. Solemnizations in the ROM(M) building and other locations
+#### 5. Solemnizations in the ROM(M) building and other locations ROM is operating out of
 {% include accordion-c.html %}
 
 #### 6. Solemnizations in Places of Worship
