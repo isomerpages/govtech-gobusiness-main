@@ -136,7 +136,7 @@ accordion-new:
 
   - title: Property show galleries
     content:  |   
-      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 5 May 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-13){:target="_blank"}.
+      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 5 May 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-31){:target="_blank"}.
 
   - title: Public entertainment
     content:  |    
@@ -146,7 +146,7 @@ accordion-new:
 
   - title: Religious organisations
     content:  |  
-      Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 31 March 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
+      Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 5 May 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/mar/phase-three-re-opening-for-religious-activities){:target="_blank"}.
 
       For more information and FAQs on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](https://www.cpro.gov.sg/){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg){:target="_blank"}.
 
