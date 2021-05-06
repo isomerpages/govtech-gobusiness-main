@@ -85,7 +85,7 @@
     {% endfor %}
     {% elsif page.accordion %}
         {% for item in page.accordion %}
-        <li><input id="accordion-new{{ forloop.index }}" type="checkbox" /><label for="accordion-new{{ forloop.index }}">{{
+        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
                 item.title }}</label>
             <div>{{ item.content | markdownify }}</div>
         </li>
