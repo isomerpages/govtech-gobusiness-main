@@ -14,13 +14,13 @@ accordion-new:
     content: |
       The local and global COVID-19 situation continues to evolve. Several countries continue to experience a resurgence of cases and the emergence of new virus variants which have also been found in Singapore. The number of locally transmitted COVID-19 cases and unlinked community cases has also continued to increase, signalling undetected community transmissions that could rapidly escalate into another major outbreak if not adequately contained in a timely manner. The tightened measures will help to reduce the risk of transmission and of large clusters forming.
 
-  - title: 3.	Can an exception be made for solemnizations and weddings? Why are the requirements for weddings and solemnizations stricter than other types of events (e.g. MICE)?
+  - title: Can an exception be made for solemnizations and weddings? Why are the requirements for weddings and solemnizations stricter than other types of events (e.g. MICE)?
     content: |
       Due to the intimate and social nature of marriage celebrations, there is a higher chance of interaction among attendees. There is also a higher likelihood of attendees interacting while unmasked, at wedding receptions. Hence, the potential risks of transmission are higher than at business or religious events, even if those are larger.
 
       We seek the cooperation of everyone in adhering to the prevailing safe management measures to keep you and your loved ones safe.
 
-  - title: 4.	My wedding reception is between 8 May to 30 May and I have invited 51 to 100 guests. As PET is now required for my guests, where and how can my guests get tested?
+  - title: My wedding reception is between 8 May to 30 May and I have invited 51 to 100 guests. As PET is now required for my guests, where and how can my guests get tested?
     content: |
       Please click [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for a list of MOH-approved COVID-19 test providers.
 
@@ -37,7 +37,7 @@ accordion-new:
       This would be subject to the contractual agreements between vendors and the wedding couples. Given the dynamic COVID-19 situation, we hope all parties, including vendors and couples, can exercise flexibility and mutual understanding in adjusting their plans.
       
       
-accordion-new:
+accordion-a:
   - title: How many persons can I have at my solemnization ceremony?
     content: |
       **Places of residence**
@@ -82,7 +82,7 @@ accordion-new:
 
       You may wish to refer [here](http://www.moh.gov.sg/covid-19){:target="_blank"} for updates on the COVID-19 situation in Singapore.
 
-accordion-a:
+accordion-b:
   - title: What is Pre-Event Testing (“PET”)?
     content: |
       A “Pre-Event Test” (PET) refers to a COVID-19 test taken by an attendee or patron who wishes to enter a premise where certain events, businesses, or activities are being held. This attendee or patron must obtain a negative COVID-19 test result within a specified period of time, before being allowed to enter the venue.
@@ -165,7 +165,7 @@ accordion-a:
     content: |  
       No. Vaccination does not result in a false positive PET ART result. 
 
-accordion-b:
+accordion-c:
   - title: Can we hold our solemnization at home? What are the safe management measures that we must follow?
     content: |
       Yes, you may hold your solemnization at home.
@@ -222,7 +222,7 @@ accordion-b:
     content: |  
       Yes, live instrumental music (without the playing of wind instruments) is allowed for solemnizations at home, with the necessary safe management measures in place.
 
-accordion-c:
+accordion-d:
   - title: What are the safe management measures that we must follow for solemnization in the ROM(M) Building?
     content: |
       Up to 10 persons may attend the solemnization, excluding the Licensed Solemnizer, interpreter (if any), and any other vendors engaged to provide authorised services for the solemnization (kept to a minimum). These 10 persons may include guests who are not immediate family members.
@@ -247,7 +247,7 @@ accordion-c:
     content: |
       No. ROM(M) does not allow any live performances, including live instrumental music in the ROM(M) Building.
 
-accordion-d:
+accordion-e:
   - title: Can we hold our solemnization at Places of Worship? What are the safe management measures that we must follow?
     content: |
       Up to (a) 50 persons (without PET), or (b) 250 persons (with PET) may attend the solemnization,subject to the safe capacity of the venue. For solemnizations involving between 51-250 attendees, PET is required for the wedding couple only. The caps exclude the Licensed Solemnizer, religious and supporting workers, and vendors engaged to provide authorised services for the solemnization (kept to a minimum).
@@ -286,7 +286,7 @@ accordion-d:
 
       Indoor venues are places which are enclosed and where access to the venue can be controlled, thereby reducing the likelihood of crowding around the venue where the live music is being played at the solemnization. This includes homes as well as function rooms in hotels, restaurants, places of worship and country clubs.
 
-accordion-e:
+accordion-f:
   - title: Can I have my solemnization at a hotel / F&B restaurant / condominium clubhouse / country club (other private venues) etc?
     content: |      
       You may have your solemnization at any venue opened for operation. You may check directly with the venue operator on whether the venue is available for use for your solemnization.
@@ -335,7 +335,7 @@ accordion-e:
 
       Such cultural rites may take place as part of the wedding reception if they do not involve live performances or other prohibited activities for wedding receptions, subject to the safe management guidelines for receptions. For example, the tea ceremony can be held amongst the “wedding party” of 20 persons as part of the reception, and must take into account the prevailing national guidelines for that activity.
 
-accordion-f:
+accordion-g:
   - title: Can I hold a reception? How many receptions can I hold? What are the guidelines for receptions?
     content: |    
       You can have only one reception, held on the same day as the solemnization or on a separate day. This minimizes the risk to the community. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of (a) 50 persons (without PET), or (b) 250 persons (with PET), subject to the safe capacity of the venue. For such events involving between 51-250 attendees, PET is required for all attendees (including the wedding couple).
@@ -444,12 +444,12 @@ accordion-f:
     content: |
       No. Live performance elements (e.g. with a limited number of singers, wind and other instruments) are permitted only for congregational and other worship services as these have been piloted earlier.
 
-accordion-g:
+accordion-h:
   - title: If we opt for solemnization via video link, can the bride, groom, witnesses and guests be in the same venue? Is there a limit to the number of guests in the same venue?
     content: |  
       The bride, groom, and witnesses can be in the same location if they belong to the same household. If the solemnization is held in the home, then in line with the safe distancing measures, you must not have more than five visitors in your home. Other guests may wish to join in through the video link instead. Such processes through video links are to enable marriage solemnizations to take place in a safe manner.
 
-accordion-h:
+accordion-i:
   - title: For a zoning arrangement, can I have as many zones as I want?
     content: |  
       If the venue permits, you may have more than two zones subject to the overall attendance of the entire event being capped at the maximum allowable limit, the number of people in each zone not exceeding 50 pax, and zoning rules being adhered to (including a 3-metre gap and a continuous physical barrier or a solid partition of 1.8 metre or taller between zones). These caps include the couple and the wedding party, but excludes solemnizer (for the solemnisation), vendors engaged to provide authorised services and venue staff (to be kept to a minimum). We understand venues may have different configurations and encourage couples to work out an optimal arrangement with the venue operator. Couples may choose to configure the zones in a way that allows the wedding couple/party to access ‘central’ areas, such as the aisle and the stage. All attendees, including the “wedding party”),must be assigned to only one zone. Regardless of the number of zones, entering an unassigned zone is not allowed, except for the wedding couple, who may do so briefly e.g. to take photos. Arrangements must also be made to ensure attendees from different zones do not meet each other at entrances or exits. For instance, organisers could deploy ushers at the entrances and exits of each zone. Within each zone, there must be no intermingling and mixing between the wedding party and other groups of guests or between groups of guests.
@@ -532,30 +532,30 @@ accordion-h:
 {% include accordion-new.html %}
 
 #### 2. General safe management measures
-{% include accordion-new.html %}
-
-#### 3. Pre-event testing requirements
 {% include accordion-a.html %}
 
-#### 4. Solemnizations in homes
+#### 3. Pre-event testing requirements
 {% include accordion-b.html %}
 
-#### 5. Solemnizations in the ROM(M) building and other locations ROM is operating out of
+#### 4. Solemnizations in homes
 {% include accordion-c.html %}
 
-#### 6. Solemnizations in Places of Worship
+#### 5. Solemnizations in the ROM(M) building and other locations ROM is operating out of
 {% include accordion-d.html %}
 
-#### 7. Solemnizations in other external venues
+#### 6. Solemnizations in Places of Worship
 {% include accordion-e.html %}
 
-#### 8. Other wedding activities
+#### 7. Solemnizations in other external venues
 {% include accordion-f.html %}
 
-#### 9. Video-link solemnizations
+#### 8. Other wedding activities
 {% include accordion-g.html %}
 
-#### 10. Zoning and Staggered Timing Requirements
+#### 9. Video-link solemnizations
 {% include accordion-h.html %}
+
+#### 10. Zoning and Staggered Timing Requirements
+{% include accordion-i.html %}
 
 [Back to Covid-19 Overview](/covid/)
