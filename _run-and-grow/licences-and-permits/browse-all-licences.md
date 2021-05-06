@@ -8,7 +8,7 @@ accordions:
     letter: a
     data:
     - title: Animal & Veterinary Service (AVS)
-    - content: |
+      content: |
         | **Licence Name** | **Apply on** |
         | --- | --- |
         |Certificate of Freedom From Disease Within Singapore|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136){:target="_blank"}|
@@ -27,7 +27,7 @@ accordions:
     letter: b
     data:
     - title: Building and Construction Authority (BCA)
-    - content: |
+      content: |
         | **Licence Name** | **Apply on** |
         | --- | --- |
         |Advertising Sign/ Signboard Licence|[BCA](https://www.bca.gov.sg/AdvertisementLicence){:target="_blank"}|
