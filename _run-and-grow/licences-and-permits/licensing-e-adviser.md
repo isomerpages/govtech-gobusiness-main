@@ -48,7 +48,6 @@ accordion:
       **Home Office Scheme (HDB)**
       - Applicants need not register with the Accounting & Corporate RegulApplicants need not register with the Accounting & Corporate Regulatory Authority (ACRA) first to apply for the Home Office Scheme (HOS). HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. [Click here](https://licence1.business.gov.sg/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_eAdvisor_WAR_foblsportlet_action=showAgencyLicences&_eAdvisor_WAR_foblsportlet_agencyCD=HDB&_eAdvisor_WAR_foblsportlet_selectionFrom=GovernmentAgency&_eAdvisor_WAR_foblsportlet_stepTO=GAChooseLicence){:target="_blank"}
 
-business-intent:
   - title: Accountancy
     content: |
       [Application for Registering Property](https://www.google.com.sg/){:target="_blank"}
@@ -92,7 +91,6 @@ https://www.google.com.sg/
 
 ### By Sectors
 
-{% include business-intent.html %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
