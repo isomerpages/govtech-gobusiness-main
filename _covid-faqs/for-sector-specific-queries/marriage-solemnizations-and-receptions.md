@@ -14,13 +14,13 @@ accordion-new:
     content: |
       The local and global COVID-19 situation continues to evolve. Several countries continue to experience a resurgence of cases and the emergence of new virus variants which have also been found in Singapore. The number of locally transmitted COVID-19 cases and unlinked community cases has also continued to increase, signalling undetected community transmissions that could rapidly escalate into another major outbreak if not adequately contained in a timely manner. The tightened measures will help to reduce the risk of transmission and of large clusters forming.
 
-  - title: 3.	Can an exception be made for solemnizations and weddings? Why are the requirements for weddings and solemnizations stricter than other types of events (e.g. MICE)?
+  - title: Can an exception be made for solemnizations and weddings? Why are the requirements for weddings and solemnizations stricter than other types of events (e.g. MICE)?
     content: |
       Due to the intimate and social nature of marriage celebrations, there is a higher chance of interaction among attendees. There is also a higher likelihood of attendees interacting while unmasked, at wedding receptions. Hence, the potential risks of transmission are higher than at business or religious events, even if those are larger.
 
       We seek the cooperation of everyone in adhering to the prevailing safe management measures to keep you and your loved ones safe.
 
-  - title: 4.	My wedding reception is between 8 May to 30 May and I have invited 51 to 100 guests. As PET is now required for my guests, where and how can my guests get tested?
+  - title: My wedding reception is between 8 May to 30 May and I have invited 51 to 100 guests. As PET is now required for my guests, where and how can my guests get tested?
     content: |
       Please click [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for a list of MOH-approved COVID-19 test providers.
 
