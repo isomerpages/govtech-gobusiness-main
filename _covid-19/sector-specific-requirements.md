@@ -54,7 +54,7 @@ accordion-new:
 
   - title: Funeral events
     content:  |
-      Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 21 April 2021].
+      Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 6 May 2021].
 
   - title: F&B and retail
     content:  |
