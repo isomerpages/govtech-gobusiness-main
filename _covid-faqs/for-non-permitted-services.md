@@ -1,7 +1,7 @@
 ---
 title: For Non-Permitted Services
 permalink: /covid-faqs/for-non-permitted-services
-accordion-new:
+accordion:
   - title: If my business is not allowed to resume operation, can I go to my place of business to perform maintenance of the facility, attend to perishable products, receive deliveries or perform other necessary tasks?
     content: |
       You may go to your business location for a short duration to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents even if your business is not allowed to resume operations.  
@@ -19,6 +19,6 @@ accordion-new:
 
 ### For Non-Permitted Services
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

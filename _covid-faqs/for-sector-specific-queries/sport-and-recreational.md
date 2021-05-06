@@ -2,7 +2,7 @@
 title: Sport & recreational facility operators & sport, physical exercise & activity administrators
 permalink: /covid-faqs/for-sector-specific-queries/sport-and-recreational
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: Are sport and recreational facilities opened to the public?  
     content: |
       Based on the Multi-Ministerial Taskforce’s announcement on 15 June 2020, all sport and recreational facilities, including but not limited to swimming pools, stadiums, studios, gyms, indoor sport halls, hardcourts, bowling centres, and function rooms, may be opened from Phase Two.
@@ -46,6 +46,6 @@ accordion-new:
 
 ### Sport & recreational facility operators & sport, physical exercise & activity administrators
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

@@ -2,7 +2,7 @@
 title: Jobs Support Scheme
 permalink: /covid-faqs/support-and-relief-measures/jobs-support-scheme
 third_nav_title: Support and Relief Measures
-accordion-new:
+accordion:
   - title: What is the Jobs Support Scheme (JSS)?
     content: |
       The Jobs Support Scheme (JSS) provides wage support to employers, to help enterprises retain their local employees (Singaporean Citizens and Permanent Residents) during this period of economic uncertainty. Under the JSS, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to Aug 2020) and 10% to 50% of the same in the subsequent 7-month period (Sep 2020 to Mar 2021).
@@ -87,6 +87,6 @@ accordion-new:
 
 ### Jobs Support Scheme
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

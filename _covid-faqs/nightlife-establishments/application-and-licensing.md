@@ -2,7 +2,7 @@
 title: Application and licensing procedure for pivoting to permissible activities
 permalink: /covid-faqs/nightlife-establishments/application-and-licensing
 third_nav_title: Nightlife Establishments
-accordion-new:
+accordion:
   - title: How can I change my nightlife operations to activities that are permitted today? What kind of licences are required?
     content: |
       Nightlife operators that wish to convert to F&B operations should first register their interest with the Ministry of Trade and Industry (“MTI”) through the Singapore Nightlife Business Association (“SNBA”) at <helpdesk@snba.org.sg>{:target="_blank"} This would allow us to prioritise your subsequent regulatory submissions to the relevant agencies.
@@ -125,6 +125,6 @@ accordion-new:
 
 ### Application and licensing procedure for pivoting to permissible activities
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

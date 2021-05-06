@@ -2,7 +2,7 @@
 title: Healthcare and social services
 permalink: /covid-faqs/for-sector-specific-queries/healthcare-and-social-services
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: Will there be any practice restrictions as TCM needle acupuncture is allowed for other conditions besides pain management?
     content: |
       The provision of TCM needle acupuncture for all conditions will be allowed, with the following restrictions:
@@ -50,6 +50,6 @@ accordion-new:
 
 ### Healthcare and social services
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

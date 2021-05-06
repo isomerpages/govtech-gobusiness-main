@@ -2,7 +2,7 @@
 title: Hotels
 permalink: /covid-faqs/for-sector-specific-queries/hotels
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: Are staycations allowed?
     content: |
       Hotels may apply to STB to resume the provision of accommodation to guests for the purposes of leisure (e.g. staycations). Any hotel that wishes to apply must comply with the safe management measures required for hotels. Please refer to the advisory for [hotels](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"} for the full list of requirements.
@@ -34,6 +34,6 @@ accordion-new:
 
 ### Hotels
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

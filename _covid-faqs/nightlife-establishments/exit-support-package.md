@@ -2,7 +2,7 @@
 title: Exit Support Package and other government support for winding down
 permalink: /covid-faqs/nightlife-establishments/exit-support-package
 third_nav_title: Nightlife Establishments
-accordion-new:
+accordion:
   - title: Why did the Government only decide to support one month of retrenchment benefit (RB)? Would the one month of support fulfil employers’ full obligations towards RB?
     content: |
       The payout is intended to help nightlife businesses who had not been allowed to operate, defray a portion of their retrenchment benefit to be paid to affected local employees during this challenging period. It is not intended to replace employers’ contractual obligations.
@@ -60,6 +60,6 @@ accordion-new:
 
 ### Exit Support Package and other government support for winding down
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

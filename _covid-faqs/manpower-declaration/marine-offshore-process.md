@@ -2,7 +2,7 @@
 title: For marine & offshore and process sectors only
 permalink: /covid-faqs/manpower-declaration/marine-offshore-process
 third_nav_title: Manpower Declaration
-accordion-new:
+accordion:
   - title: Why is the manpower submission requirement for Marine & Offshore and Process sectors different?
     content: |
       From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://go.gov.sg/timelimitedexemption){:target="_blank"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee’s SGWorkPass AccessCode status to reflect as “Red”.
@@ -72,6 +72,6 @@ accordion-new:
 
 ### For marine & offshore and process sectors only
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

@@ -2,7 +2,7 @@
 title: Infocomm and media
 permalink: /covid-faqs/for-sector-specific-queries/infocomm-and-media
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: Can cinema patrons sit together?
     content: |
       Groups of up to five persons (friends and family) are allowed to book tickets to sit together. Cinemas must ensure there is a 1 metre distance between different groups.
@@ -37,6 +37,6 @@ accordion-new:
 
 #### Cinemas
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)
