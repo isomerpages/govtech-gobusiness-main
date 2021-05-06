@@ -2,7 +2,7 @@
 title: Payment
 permalink: /licensing-faqs/post-application/
 third_nav_title: Post-Application
-accordion-new:
+accordion:
   - title: Can I make payment for my licences at the respective government agency headquarters?
     content: |
       All payment must be made online, directly on GoBusiness Licensing.
@@ -14,6 +14,6 @@ accordion-new:
 
 ### Payment
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

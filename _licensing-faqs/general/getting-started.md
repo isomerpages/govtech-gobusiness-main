@@ -2,7 +2,7 @@
 title: Getting started
 permalink: /licensing-faqs/getting-started/
 third_nav_title: General
-accordion-new:
+accordion:
   - title: How do I log in?
     content: |
       You will need to log in to GoBusiness Licensing with Corppass. You can [register for a Corppass ID here](https://www.Corppass.gov.sg/){:target="_blank"}.
@@ -40,6 +40,6 @@ accordion-new:
 
 ### Getting started
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

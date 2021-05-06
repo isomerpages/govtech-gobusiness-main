@@ -2,7 +2,7 @@
 title: Estate Agency
 permalink: /productivity-solutions-grant/ITSolution/estateagency/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Document Management for Estate Agents
     content: Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management platform. Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights on the performance of your business. Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc (redoc.co)!<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1821' target='_blank'>Redoc Version 1.0 - Package 1 (Up to 5 users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1822' target='_blank'>Redoc Version 1.0 - Package 2 (Up to 10 users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1823' target='_blank'>Redoc Version 1.0 - Package 3 (Up to 20 users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1824' target='_blank'>Redoc Version 1.0 - Package 4 (Up to 30 users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1825' target='_blank'>Redoc Version 1.0 - Package 5 (Up to 40 users)</a><br/>
   - title: Accounting Management and Human Resource Management System (HRMS)
@@ -57,7 +57,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

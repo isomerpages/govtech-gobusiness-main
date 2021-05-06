@@ -3,7 +3,7 @@ title: Company Profile
 permalink: /business-grants-faqs/company-profile/
 third_nav_title: General
 published: false
-accordion-new:
+accordion:
   - title: How can I update my Company Profile in the Business Grants Portal?
     content: |
       Update your Company Profile by clicking on 'Edit Company Profile' on the dashboard. Click on 'Refresh ACRA Info' to auto-populate ACRA information. 
@@ -26,6 +26,6 @@ accordion-new:
 
 ### Company Profile
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

@@ -3,7 +3,7 @@ title: Login via Corppass
 permalink: /business-grants-faqs/login/
 third_nav_title: General
 published: false
-accordion-new:
+accordion:
   - title: How do I log in to the Business Grants Portal?
     content: |
       You need a [Corppass account](https://www.Corppass.gov.sg/cpauth/login/homepage?TAM_OP=login){:target="_blank"} to access Business Grants Portal. If your business doesn't have a Corppass administrator, [find out how](https://www.Corppass.gov.sg/Corppass/common/findoutmore){:target="_blank"} to appoint one.
@@ -26,6 +26,6 @@ accordion-new:
 
 ### Login via Corppass
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

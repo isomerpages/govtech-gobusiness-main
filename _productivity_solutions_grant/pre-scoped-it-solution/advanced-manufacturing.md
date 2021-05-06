@@ -2,7 +2,7 @@
 title: Advanced Manufacturing
 permalink: /productivity-solutions-grant/ITSolution/advancedmanufacturing/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Equipment Monitoring and Manufacturing Data Collection
     content: With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution, manufacturers can gain real-time visibility over their entire machines and equipment health allowing them to schedule recurring maintenance frequency and report on machine breakdowns to dispatch repairs. Leveraging the toolset, manufacturers are able to optimize equipment maintenance process remotely and automatically, while eliminating unscheduled production downtime.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1891' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1892' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Customized</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1893' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Basic</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1894' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Customized</a><br/><br/><br/>Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to Fitbit-for- machines, our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1907' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit - 36mths</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1908' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit - 12mths</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1909' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit - 36mths</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1910' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Standard Kit - 12mths</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1911' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit - 12mths</a><br/>
   - title: Manufacturing Quality Management
@@ -63,7 +63,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

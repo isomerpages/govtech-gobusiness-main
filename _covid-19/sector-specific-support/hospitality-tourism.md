@@ -2,7 +2,7 @@
 title: Hospitality and tourism
 permalink: /supportschemes/tourismsupport/
 third_nav_title: Sector-Specific Support
-accordion-new:
+accordion:
   - title: Tourism Development Fund
     content:  |
       The Tourism Development Fund provides funding support and grants for the creation of innovative and quality tourism products and experiences, as well as capability and talent enhancement efforts among tourism-related establishments.
@@ -24,4 +24,4 @@ accordion-new:
 
 ## Hospitality and tourism
 
-{% include accordion-new.html %}
+{% include accordion.html %}

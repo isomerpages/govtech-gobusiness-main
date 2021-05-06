@@ -3,7 +3,7 @@ title: General
 permalink: /business-grants-faqs/psg-general/
 third_nav_title: Productivity Solutions Grant (PSG)
 published: false
-accordion-new:
+accordion:
   - title: What is the Productivity Solutions Grant (PSG)?
     content: |
       The Productivity Solutions Grant supports businesses in the adoption of solutions and/or equipment that improve productivity. Businesses can choose from a list of pre-scoped solutions.
@@ -31,6 +31,6 @@ accordion-new:
 
 ### General
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

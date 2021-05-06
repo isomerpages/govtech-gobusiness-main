@@ -2,7 +2,7 @@
 title: Reserve your business name
 permalink: /start-a-business/reserve-your-business-name/
 third_nav_title: Key Steps to Start
-accordion-new:
+accordion:
   - title: Apply for Business Name - Sole Proprietorship/Partnership
     content: |
       Here's what you need to know to apply for a Business (Sole Proprietorship/Partnership) name.
@@ -154,4 +154,4 @@ There are two ways to reserve your business name:
 
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
-{% include accordion-new.html %}
+{% include accordion.html %}

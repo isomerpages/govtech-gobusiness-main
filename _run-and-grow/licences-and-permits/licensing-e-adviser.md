@@ -3,7 +3,7 @@ title: Licensing e-Adviser
 permalink: /licences/licensing-eadviser/
 third_nav_title: Licences and Permits
 published: false
-accordion-new:
+accordion:
   - title: Accounting and Corporate Regulatory Authority (ACRA)
     content: |
       **Business Registration**
@@ -88,7 +88,7 @@ https://www.google.com.sg/
 
 ### By Government Agencies
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 ### By Sectors
 

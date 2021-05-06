@@ -2,7 +2,7 @@
 title: Loans
 permalink: /gov-assist/loans/
 third_nav_title: Government Assistance
-accordion-new:
+accordion:
   - title: Enterprise Financing Scheme (EFS)
     content: |
       EFS helps Singapore enterprises to access financing more readily. Enterprise Singapore (ESG) will share the loan default risk in the event of enterprise insolvency with the Participating Financial Institutions (PFIs).
@@ -32,7 +32,7 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
 
 ### For all sectors
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

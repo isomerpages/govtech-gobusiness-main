@@ -2,7 +2,7 @@
 title: Security
 permalink: /productivity-solutions-grant/ITSolution/security/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Mobile-Enabled Patrol and Incident Management
     content: iREP Security is a mobile reporting, maintenance tracking and monitoring system which use GPS trackers and Live Image Captures to enable investigating officers and guards to write incident reports on sites, take attendance of guards and managing visitor visiting the premises.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution416' target='_blank'>iREP Security System Version 3 - Package (Mobile Patrol & Incident Management with 10 Body Worn Camera)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution417' target='_blank'>iREP Security System Version 3 - Package (Mobile Patrol & Incident Management with 5 Body Worn Camera)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution418' target='_blank'>iREP Security System Version 3 - Package (Mobile Patrol & Incident Management)</a><br/><br/><br/>Armfort Security Workforce, previously known as One Security Suite is a cloud-based mobile and web solution that enables security agencies to manage officers, clients, back office in an integrated platform.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution676' target='_blank'>Armfort Security Workforce Version 2 -  Package (Essential)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution677' target='_blank'>Armfort Security Workforce Version 2 -  Package (Enhance)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution678' target='_blank'>Armfort Security Workforce Version 2 - Package (Enterprise)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution679' target='_blank'>Armfort Security Workforce Version 2 - Package (Enhance Plus)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution680' target='_blank'>Armfort Security Workforce Version 2 -  Package (Enterprise Plus)</a><br/>
   - title: Automated Visitor Management
@@ -61,7 +61,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

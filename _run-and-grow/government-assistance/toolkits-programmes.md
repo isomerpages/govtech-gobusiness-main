@@ -337,10 +337,10 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_toolkits
 " type="primary" %}
 
 ### For all sectors
-{% include accordion-a.html %}
+{% include accordion.html letter="a" %}
 
 ### For specific sectors
-{% include accordion-b.html %}
+{% include accordion.html letter="b" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

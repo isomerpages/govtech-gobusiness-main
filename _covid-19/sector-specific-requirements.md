@@ -1,7 +1,7 @@
 ---
 title: Sector-Specific Requirements
 permalink: /safemanagement/sector/
-accordion-new:
+accordion:
   - title: Accounting practices
     content:  |
       Accounting practices are to comply to measures stipulated in this [document](/images/guides/AccountingPractices.pdf){:target="_blank"} [last updated on 11 November 2020]. You can also refer to the Institute of Singapore Chartered Accountants [website](https://isca.org.sg/covid-19-series/faqs/?j=538131&sfmc_sub=28753357&l=215_HTML&u=10800996&mid=7235277&jb=1){:target="_blank"} and the Singapore Accountancy Commission [website](https://www.sac.gov.sg/isca-sac-advisory-accounting-practices-safe-management-measures){:target="_blank"}.
@@ -181,4 +181,4 @@ accordion-new:
 
 Businesses must adhere to sector-specific requirements as stipulated below, in addition to the [general requirements](/safemanagement/general/).
 
-{% include accordion-new.html %}
+{% include accordion.html %}

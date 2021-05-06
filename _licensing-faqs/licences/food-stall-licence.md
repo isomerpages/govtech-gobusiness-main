@@ -2,7 +2,7 @@
 title: Food Stall Licence
 permalink: /licensing-faqs/food-stall-licence/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: Who can be an applicant?
     content: |
       The licence is valid for one year. However, licensees are given the option to pay $64 for a Food Stall Licence that is valid for two years.
@@ -88,7 +88,7 @@ accordion-new:
 
 ### Public Entertainment Licence
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)
 

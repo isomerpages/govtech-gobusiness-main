@@ -2,7 +2,7 @@
 title: Banks
 permalink: /productivity-solutions-grant/ITSolution/banks/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Regulatory Reporting for Banks
     content: AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1482' target='_blank'>AxiomSL MAS 610 SaaS version 4-Package (Basic Data Loading)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1483' target='_blank'>AxiomSL MAS 610 SaaS version 4-Package (Standard Data Loading)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1484' target='_blank'>AxiomSL MAS 610 SaaS version 4-Package (Custom Data Loading)</a><br/><br/><br/>KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1485' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 3 Bank)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1486' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 3 Bank with Auto ETL)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1487' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1488' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank with Auto ETL - Small Engine)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1489' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank with Auto ETL - Medium Engine)</a><br/><br/><br/>OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1490' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 4)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1491' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0- Package (Tier 3)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1492' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 2)</a><br/><br/><br/>AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .The solution is able to comply with the revised MAS 610 regulatory reporting requirements.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1836' target='_blank'>AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)</a><br/>
   - title: Accounting Management and Human Resource Management System (HRMS)
@@ -57,7 +57,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

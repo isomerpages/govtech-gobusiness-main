@@ -3,7 +3,7 @@ title: Letter Of Offer
 permalink: /business-grants-faqs/letter-of-offer/
 third_nav_title: Post-Application
 published: false
-accordion-new:
+accordion:
   - title: My grant application has been approved. How do I accept my Letter of Offer?
     content: |
       Only your company's Acceptor in Corppass can accept the Letter Of Offer (LOF). Viewers and Preparers are not authorised to accept the LOF.
@@ -35,6 +35,6 @@ accordion-new:
 
 ### Letter Of Offer
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

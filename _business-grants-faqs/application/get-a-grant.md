@@ -3,7 +3,7 @@ title: Get a Grant
 permalink: /business-grants-faqs/get-a-grant/
 third_nav_title: Application
 published: false
-accordion-new:
+accordion:
   - title: Where can I find more information about a grant e.g. eligibility criteria, grant caps, application windows?
     content: |
       You can find detailed grant guidelines and information for
@@ -25,6 +25,6 @@ accordion-new:
 
 ### Get a Grant
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

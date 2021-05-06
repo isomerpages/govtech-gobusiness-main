@@ -2,7 +2,7 @@
 title: Public Entertainment Licence
 permalink: /licensing-faqs/public-entertainment-licence/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: Who can be an applicant?
     content: |
       You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-services/apply/licenses-and-permits/public-entertainment/important-notice){:target="_blank"}.
@@ -46,6 +46,6 @@ accordion-new:
 
 ### Public Entertainment Licence
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

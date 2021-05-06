@@ -2,7 +2,7 @@
 title: Food Shop Licence
 permalink: /licensing-faqs/food-shop-licence/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: I am a foreigner with a valid employment pass issued by Ministry of Manpower. Can I apply for the licence in my name?
     content: |
       No. You will need to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) and apply for the licence in the company's name.
@@ -168,7 +168,7 @@ accordion-new:
 
 ### Food Shop Licence
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)
 

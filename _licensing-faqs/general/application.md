@@ -2,7 +2,7 @@
 title: Application
 permalink: /licensing-faqs/application/
 third_nav_title: General
-accordion-new:
+accordion:
   - title: Which licences and permits can I apply for here?
     content: |
       With GoBusiness Licensing, you can apply for the following licences from these government agencies:
@@ -103,6 +103,6 @@ accordion-new:
 
 ### Application
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

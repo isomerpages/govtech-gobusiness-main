@@ -3,7 +3,7 @@ title: Application Status and Processes
 permalink: /business-grants-faqs/application-status-and-processes/
 third_nav_title: Application
 published: false
-accordion-new:
+accordion:
   - title: Where can I check the status of my application?
     content: |
       Log in to Business Grants Portal and navigate to 'My Grants'. You'll see the status of all your grant applications on this page.
@@ -23,6 +23,6 @@ accordion-new:
 
 ### Application Status and Processes
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

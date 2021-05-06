@@ -2,7 +2,7 @@
 title: About
 permalink: /licensing-faqs/
 third_nav_title: General
-accordion-new:
+accordion:
   - title: I am not sure how to choose between the two options on the GoBusiness Licensing homepage. Where can I get help?
     content: |
       <u>For all business owners except new business owners in the food services industry</u>  
@@ -36,6 +36,6 @@ accordion-new:
 
 ### About
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

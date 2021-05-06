@@ -2,7 +2,7 @@
 title: Sector specific
 permalink: /covid-faqs/resumption-biz-activities-phase12/sector-specific
 third_nav_title: Resumption of Business Activities (Phases One and Two)
-accordion-new:
+accordion:
   - title: Are non-corporate entities (e.g. clubs, societies, charities, Social Service Agencies, co-operative societies) also allowed to resume work-related events from 28 Sep?
     content: |
       Yes, all permitted enterprises are allowed to resume work-related events of up to 50 persons at their own workplaces or premises, and at third-party venues. Respective sectoral advisories and safe management measures continue to apply. For more information, please refer [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/safe-management-measures){:target="_blank"}.
@@ -13,7 +13,7 @@ accordion-new:
 
       Fundraising activities that are not standalone fundraising events but are incidentally conducted in the course of other activities should follow the guidelines and safe management measures set for the primary activity. For example, fundraising carried out by commercial participators in the course of their retail business should follow the prevailing guidelines in place for retail activities. Similarly, the collection of offerings/tithes during religious services should follow the prevailing guidelines for the conduct of religious services. For more information, please refer [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/safe-management-measures){:target="_blank"}.
 
-  - title: I have submitted Safe Management Plans for my religious organisation (RO) during Phase One. Do I need to submit another plan for Phase Two?  
+  - title: I have submitted Safe Management Plans for my religious organisation (RO) during Phase One. Do I need to submit another plan for Phase Two?
     content: |
       Yes. As Phase Two involves the gradual resumption of congregational and worship services, as well as other non-congregational worship activities, all ROs are required to submit their Safe Management Plan, including manpower deployment, at least 3 days before resumption of Phase Two activities. ROs who have already submitted their safe management plan in Phase One only need to submit a shorter plan to cover the additional safe management measures for Phase Two activities. Please refer to <https://www.cpro.gov.sg/> for details.
 
@@ -69,6 +69,6 @@ accordion-new:
 
 ### Sector specific
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

@@ -547,13 +547,13 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
 " type="primary" %}
 
 ### For startups
-{% include accordion-a.html %}
+{% include accordion.html letter="a" %}
 
 ### For all sectors
-{% include accordion-b.html %}
+{% include accordion.html letter="b" %}
 
 ### For specific sectors
-{% include accordion-c.html %}
+{% include accordion.html letter="c" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

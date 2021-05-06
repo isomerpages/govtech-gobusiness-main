@@ -2,7 +2,7 @@
 title: Choose a business structure
 permalink: /start-a-business/choose-a-business-structure/
 third_nav_title: Key Steps to Start
-accordion-new:
+accordion:
   - title: Sole Proprietorship
     content: |
       A sole proprietorship is run by only one business owner and it is the simplest type of business structure. While a sole proprietor has complete control over the business and its operations, he is also personally responsible for all debts and legal actions against the business.
@@ -39,7 +39,7 @@ Whether you're running the business on your own or with partners, choose the str
 
 ### Here are the five different types of business structures:
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 ### How to choose your business structure
 

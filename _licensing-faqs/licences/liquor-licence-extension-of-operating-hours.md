@@ -2,7 +2,7 @@
 title: Liquor Licence (Extension of Operating Hours)
 permalink: /licensing-faqs/liquor-licence-extension/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: Who can be an applicant?
     content: |
       If you have just updated ACRA for any changes related to your company's name or staff listing, please allow for at least a day before you submit any application on GoBusiness Licensing with relation to these changes. This waiting time is required to get the updates synced for GoBusiness system verification.
@@ -46,6 +46,6 @@ accordion-new:
 
 ### Liquor Licence (Extension of Operating Hours)
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)
