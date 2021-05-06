@@ -532,30 +532,30 @@ accordion-i:
 {% include accordion-new.html %}
 
 #### 2. General safe management measures
-{% include accordion-new.html %}
-
-#### 3. Pre-event testing requirements
 {% include accordion-a.html %}
 
-#### 4. Solemnizations in homes
+#### 3. Pre-event testing requirements
 {% include accordion-b.html %}
 
-#### 5. Solemnizations in the ROM(M) building and other locations ROM is operating out of
+#### 4. Solemnizations in homes
 {% include accordion-c.html %}
 
-#### 6. Solemnizations in Places of Worship
+#### 5. Solemnizations in the ROM(M) building and other locations ROM is operating out of
 {% include accordion-d.html %}
 
-#### 7. Solemnizations in other external venues
+#### 6. Solemnizations in Places of Worship
 {% include accordion-e.html %}
 
-#### 8. Other wedding activities
+#### 7. Solemnizations in other external venues
 {% include accordion-f.html %}
 
-#### 9. Video-link solemnizations
+#### 8. Other wedding activities
 {% include accordion-g.html %}
 
-#### 10. Zoning and Staggered Timing Requirements
+#### 9. Video-link solemnizations
 {% include accordion-h.html %}
+
+#### 10. Zoning and Staggered Timing Requirements
+{% include accordion-i.html %}
 
 [Back to Covid-19 Overview](/covid/)
