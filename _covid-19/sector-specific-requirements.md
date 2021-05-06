@@ -14,7 +14,7 @@ accordion-new:
 
   - title: Attractions
     content:  |
-      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STBAdvisoryforattractions.pdf){:target="_blank"} [last updated on 30 December 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
+      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STB Advisory for safe resumption of business for attractions.pdf){:target="_blank"} [last updated on 5 May 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
 
   - title: Built environment
     content:  |
@@ -60,13 +60,13 @@ accordion-new:
     content:  |
       - F&B establishments are to comply to measures stipulated in this [document](/images/guides/Advisory_Safe Management Measures for FB establishments_caa5May21_for publication.pdf){:target="_blank"}[last updated on 5 May 2021].<br>
 
-      - Infographic on Safe Management Measures at F&B Establishments [last updated on 12 January 2021]<br>
-      ![F&B](/images/covid/smrfnb.jpg "F&B establishments")
+      - Infographic on Safe Management Measures at F&B Establishments [last updated on 5 May 2021]<br>
+      ![F&B](/images/covid/Safe Distancing_F&B_5May2021_ENG.png "F&B establishments")
 
       - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/Advisory_Safe Management Measures for Retail establishments_caa5May21_for publication.pdf){:target="_blank"} [last updated on 5 May 2021].<br>
 
-      - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 12 January 2021]<br>
-      ![Retail](/images/covid/smrretail.jpg "Retail")
+      - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 5 May 2021]<br>
+      ![Retail](/images/covid/Safe Distancing_Retail_5May2021_ENG.png "Retail")
 
       You can also refer to the Enterprise Singapore [website](https://www.enterprisesg.gov.sg/covid-19/safe-distance){:target="_blank"} for these requirements and other information.
 
@@ -158,7 +158,7 @@ accordion-new:
 
   - title: Student care centres   
     content:  |
-      Student Care Centres are to comply to the measures stipulated in this [document](/images/guides/studentcareadvisory.pdf){:target="_blank"} [last updated 21 April 2021]. You can also refer to the [Student Care Portal](https://www.msf.gov.sg/studentcare/Pages/Home.aspx){:target="_blank"} for more details.
+      Student Care Centres are to comply to the measures stipulated in this [document](/images/guides/Safe Management Measures for Student Care Centres Against COVID-19.pdf){:target="_blank"} [last updated May 2021]. You can also refer to the [Student Care Portal](https://www.msf.gov.sg/studentcare/Pages/Home.aspx){:target="_blank"} for more details.
 
   - title: Tours
     content:  |
