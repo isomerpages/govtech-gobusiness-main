@@ -42,10 +42,6 @@ This listing is not to be taken as a form of endorsement or recommendation by th
 
 Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-Please note that for Remote Working Solution categories ("Online Collaboration Tools" and "Virtual Meeting Tools"), each business entity may only be supported for one application per category.
-
-The support for COVID-19 continuity measures have ceased on 31 Dec 2020.
-
 *If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"} to find out more.*
 
 ---

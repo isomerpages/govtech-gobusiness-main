@@ -1,7 +1,7 @@
 ---
 title: Time-Limited Exemption
 permalink: /covid-faqs/support-and-relief-measures/time-limited-exemption
-accordion-new:
+accordion:
   - title: Is there a guide on how to apply for a Time-Limited Exemption?
     content: |
       Yes. The Guide on how to apply for a Time-Limited Exemption can be found [here](/images/covid/TimeLimitedExemptionGuide.pdf){:target="_blank"}.
@@ -37,6 +37,6 @@ accordion-new:
 
 ### Time-Limited Exemption
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

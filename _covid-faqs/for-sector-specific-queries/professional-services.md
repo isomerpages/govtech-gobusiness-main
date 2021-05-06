@@ -2,7 +2,7 @@
 title: Professional services
 permalink: /covid-faqs/for-sector-specific-queries/professional-services
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: It was announced on 2 May that some of the tighter circuit breaker measures will be progressively eased in the coming weeks, does this mean law practices can resume regular business activities?
     content: |
       Following the announcement on 2 May 2020, the Multi-Ministry Taskforce announced on 19 May 2020 that Circuit Breaker measures will be gradually eased from 2 June 2020, and businesses will be allowed to resume activities in a phased manner. Legal services are included in the list of businesses (accurate as of 19 May 2020) that may operate from 2 June 2020.
@@ -48,6 +48,6 @@ accordion-new:
 
 ### Professional services
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

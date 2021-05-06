@@ -2,7 +2,7 @@
 title: Tourism
 permalink: /covid-faqs/for-sector-specific-queries/tourism
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: Are tourism businesses permitted to resume?
     content: |
       Since 1 July 2020, tourism businesses in Singapore have been permitted to resume operations in stages. For the list of tourism businesses that are permitted to resume, please visit [here](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}.
@@ -28,6 +28,6 @@ accordion-new:
 
 ### Tourism
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

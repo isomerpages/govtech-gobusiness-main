@@ -2,7 +2,7 @@
 title: Annual returns
 permalink: /run-and-grow/annual-returns/
 third_nav_title: Taxes, GST and Customs
-accordion-new:
+accordion:
   - title: For Businesses (Sole Proprietorships and Partnerships) and Limited Partnerships
     content: |
       You must renew the registration before it expires in order to carry on with your business. Your business registration can be renewed 60 days before the expiry date. The renewal fee is $30 for one year or $90 for three years. Please ensure you do not have any outstanding liabilities with CPF Board before renewal.
@@ -32,9 +32,9 @@ accordion-new:
 
 All Singapore-incorporated companies are required to file annual returns with ACRA to keep the company's information in ACRA's database up to date.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
-Use the [Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="_blank"} to get customised guidance in filing your annual returns with ACRA and income tax returns with IRAS.
+Use the [Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="\_blank"} to get customised guidance in filing your annual returns with ACRA and income tax returns with IRAS.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

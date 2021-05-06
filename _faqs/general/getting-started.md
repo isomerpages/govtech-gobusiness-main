@@ -2,7 +2,7 @@
 title: Getting started
 permalink: /faqs/getting-started/
 third_nav_title: General
-accordion-new:
+accordion:
   - title: How do I log in to GoBusiness?
     content: |
       Step 1: Visit the GoBusiness homepage here.
@@ -58,6 +58,6 @@ accordion-new:
 
 ### Getting started
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 <script src="/jquery/bp-menu-new-tab.js"></script>

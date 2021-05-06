@@ -2,7 +2,7 @@
 title: Tobacco Retail Licence
 permalink: /licensing-faqs/tobacco-retail-licence/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: Who can I contact for further details?
     content: |
       For further assistance, please contact us at:
@@ -123,6 +123,6 @@ accordion-new:
 
 ### Petroleum / Flammable Materials Storage Licence
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

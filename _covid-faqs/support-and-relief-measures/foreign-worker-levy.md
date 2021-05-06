@@ -2,7 +2,7 @@
 title: Foreign Worker Levy
 permalink: /covid-faqs/support-and-relief-measures/foreign-worker-levy
 third_nav_title: Support and Relief Measures
-accordion-new:
+accordion:
   - title: Companies in the Construction, Marine Shipyard and Process Sectors are facing high costs implementing stringent Safe Management Measures as a result of COVID-19. What relief measures are being rolled out to help them?
     content: |
       The Government announced on 27 June 2020 that it will set aside up to $920 million to extend Foreign Worker Levy (FWL) rebates for the Construction, Marine Shipyard and Process sectors till end 2022. This will better support the estimated 15,000 companies in these sectors adjust to much more stringent Safe Management Measures as a result of COVID-19.
@@ -12,6 +12,6 @@ accordion-new:
 
 ### Foreign Worker Levy
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

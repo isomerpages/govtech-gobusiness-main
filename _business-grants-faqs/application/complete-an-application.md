@@ -3,7 +3,7 @@ title: Complete an Application
 permalink: /business-grants-faqs/complete-an-application/
 third_nav_title: Application
 published: false
-accordion-new:
+accordion:
   - title: Why can't I submit an application until I update my company profile?
     content: |
       Agencies require companies to provide their latest company profile (based on ACRA information) in order to process the application. ACRA provides agencies the company details, business activity, shareholding details and company financial information for assessment of eligibility. Companies will be prompted to refresh their ACRA records every 3 months.
@@ -25,6 +25,6 @@ accordion-new:
 
 ### Complete an Application
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

@@ -2,7 +2,7 @@
 title: General exemption
 permalink: /covid-faqs/
 third_nav_title: General
-accordion-new:
+accordion:
   - title: What should I do if I have not received an exemption? Am I allowed to continue running my business?
     content: |
       Please suspend your business operations until you have received official approval of your exemption application via email.
@@ -42,6 +42,6 @@ accordion-new:
 
 ### General exemption
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

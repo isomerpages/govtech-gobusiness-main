@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: /start-a-business/faqs/
-accordion-new:
+accordion:
   - title: Why is Singapore an ideal place to start a business?
     content: |
       Strong trade and investment makes Singapore the most competitive Asian country and the world’s easiest place to do business. Singapore is famed for a smooth-running bureaucracy, which sees various government agencies working together seamlessly to help businesses grow.
@@ -40,4 +40,4 @@ accordion-new:
 
 ### About starting a business
 
-{% include accordion-new.html %}
+{% include accordion.html %}

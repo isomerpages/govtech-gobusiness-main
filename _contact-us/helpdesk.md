@@ -1,7 +1,7 @@
 ---
 title: Helpdesk
 permalink: /contact-us/
-accordion-new:
+accordion:
   - title: For matters related to starting a business, licences and permits
     content:  |
       Get the relevant contact details with our list of [government agencies](/contact-us/agencies/).
@@ -60,4 +60,4 @@ accordion-new:
 
 ![Helpdesk](/images/Helpdesk.jpg)
 
-{% include accordion-new.html %}
+{% include accordion.html %}

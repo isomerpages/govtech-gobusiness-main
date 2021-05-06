@@ -3,7 +3,7 @@ title: Claims
 permalink: /business-grants-faqs/claims/
 third_nav_title: Post-Application
 published: false
-accordion-new:
+accordion:
   - title: Can I submit my grant claim through the Business Grants Portal?
     content: |
       You can submit claims for the Productivity Solutions Grant (PSG), Market Readiness Assistance (MRA) and the Business Improvement Fund (BIF) in the Business Grants Portal.
@@ -45,6 +45,6 @@ accordion-new:
 
 ### Claims
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

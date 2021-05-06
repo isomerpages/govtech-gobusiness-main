@@ -2,7 +2,7 @@
 title: Logistics
 permalink: /productivity-solutions-grant/ITSolution/logistics/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Networked Trade Platform Value Added Services
     content: ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules.KEYfields leverages on technology, developing IT Solutions that are versatile and cost effective. The solutions can easily integrate into and across other business centric modules. In addition, they can be deployed independently to cater to different business needs.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution550' target='_blank'>ONE LOGON - ONE LOGistics Online - Package 1 (iWMS SaaS)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution551' target='_blank'>ONE LOGON - ONE LOGistics Online - Package 2 (iWMS On-Premise)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution552' target='_blank'>ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution553' target='_blank'>ONE LOGON - ONE LOGistics Online - Package 4 (iTMS On-Premise)</a><br/>
   - title: E-Freight Management
@@ -61,7 +61,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

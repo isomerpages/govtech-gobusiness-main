@@ -2,7 +2,7 @@
 title: Application for Change of Trade (HDB Commercial Properties)
 permalink: /licensing-faqs/licences/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: What is the Application for Change of Trade (HDB Commercial Properties) for?
     content: |
       The Application for Change of Trade is for HDB Commercial Tenants who wish to change their existing trade or include a new trade relating to sale of food & beverage in their rental HDB Commercial Properties.
@@ -46,6 +46,6 @@ accordion-new:
 
 ### Licences
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

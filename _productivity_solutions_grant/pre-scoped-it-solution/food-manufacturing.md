@@ -2,7 +2,7 @@
 title: Food Manufacturing
 permalink: /productivity-solutions-grant/ITSolution/foodmanufacturing/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Accounting Management and Human Resource Management System (HRMS)
     content: <br/><br/>The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution642' target='_blank'>Accounting and Human Resource Management Version 3.0 - Package A (10 Users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution643' target='_blank'>Accounting and Human Resource Management Version 3.0 - Package B (20 Users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution644' target='_blank'>Accounting and Human Resource Management Version 3.0 - Package C (50 Users)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution645' target='_blank'>Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)</a><br/>
   - title: Accounting Management and Sales Management System (Part 1)
@@ -55,7 +55,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

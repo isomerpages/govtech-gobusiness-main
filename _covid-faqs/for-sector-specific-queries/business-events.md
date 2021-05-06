@@ -2,7 +2,7 @@
 title: Business events
 permalink: /covid-faqs/for-sector-specific-queries/business-events
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: What constitutes a MICE event?
     content: |
       MICE events refer to business-oriented events such as meetings, conferences and exhibitions arranged or held in the course of business<sup>3</sup> with more than 50 participants which are not held for consumers to attend. Events that are substantially social, recreational, political or religious in character, such as company D&Ds, networking events or gala dinners, do not fall within the MICE events contemplated here. 
@@ -49,6 +49,6 @@ accordion-new:
 
 ### Business events
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

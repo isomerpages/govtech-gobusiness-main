@@ -3,7 +3,7 @@ title: About
 permalink: /business-grants-faqs/
 third_nav_title: General
 published: false
-accordion-new:
+accordion:
   - title: What is the Business Grants Portal (BGP)?
     content: |
       Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need.
@@ -22,6 +22,6 @@ accordion-new:
 
 ### About Business Grants FAQ
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

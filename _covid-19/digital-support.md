@@ -1,7 +1,7 @@
 ---
 title: Digital Support
 permalink: /supportschemes/digitalsupport/
-accordion-new:
+accordion:
   - title: Digital Resilience Bonus (DRB)
     content:  |
       Payouts of up to $10,000 to help businesses digitalise with PayNow Corporate, e-invoicing, e-commerce solutions and more. DRB is currently only available for the Food Services and Retail sectors.
@@ -37,4 +37,4 @@ accordion-new:
 
 Running a business in the face of a pandemic has its own unique challenges, and highlight the importance of adapting fast and staying up to date. Here are some resources and schemes to support your business in going digital.
 
-{% include accordion-new.html %}
+{% include accordion.html %}

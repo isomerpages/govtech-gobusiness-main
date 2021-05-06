@@ -2,7 +2,7 @@
 title: Halal Certfication
 permalink: /licensing-faqs/halal-certfication/
 third_nav_title: Licences
-accordion-new:
+accordion:
   - title: What supporting documents do I need to submit?
     content: |
       <b>Eating Establishment (EE) Scheme</b>
@@ -35,6 +35,6 @@ accordion-new:
 
 ### Halal Certfication
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Licences Overview](/licences/)

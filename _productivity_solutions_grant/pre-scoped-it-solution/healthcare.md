@@ -2,7 +2,7 @@
 title: Healthcare
 permalink: /productivity-solutions-grant/ITSolution/healthcare/
 third_nav_title: Pre-scoped IT Solution
-accordion-new:
+accordion:
   - title: Teleconsultation(Video)
     content: The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1842' target='_blank'>HeartVoice Telehealth Platform - Package (1 Doctor)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1843' target='_blank'>HeartVoice Telehealth Platform - Package (2 Doctors)</a><br/><br/><br/>Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1844' target='_blank'>Doctor Anywhere Platform</a><br/><br/><br/>MyDoc's Telemedicine Solution for providers is a bundled package that providers healthcare providers a ready to implement solution to care for patients virtually. The solution includes patient account management and care coordinator account for medication fulfilment. It provides an end-to-end solution for patients to access a doctor via telemedicine consultation care including triage bot, telemedicine consult, EMR / case note recording, eMC, prescription fulfilment, and referrals.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution1845' target='_blank'>MyDoc Telemedicine Solution - Package 1 (1 Doctor)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1846' target='_blank'>MyDoc Telemedicine Solution - Package 2 (2 Doctors)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution1847' target='_blank'>MyDoc Telemedicine Solution - Package 3 (3 Doctors)</a><br/>
   - title: Accounting Management and Human Resource Management System (HRMS)
@@ -57,7 +57,7 @@ accordion-new:
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

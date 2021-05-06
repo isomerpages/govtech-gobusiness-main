@@ -3,7 +3,7 @@ title: General
 permalink: /business-grants-faqs/general/
 third_nav_title: Post-Application
 published: false
-accordion-new:
+accordion:
   - title: Can I submit an appeal if my application is rejected?
     content: |
       If your application is rejected, you will not be able to appeal but you can check with the processing agency on the reason for rejection.
@@ -15,6 +15,6 @@ accordion-new:
 
 ### General
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

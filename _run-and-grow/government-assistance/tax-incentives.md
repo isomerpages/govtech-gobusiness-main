@@ -2,7 +2,7 @@
 title: Tax incentives
 permalink: /gov-assist/tax-incentives/
 third_nav_title: Government Assistance
-accordion-new:
+accordion:
   - title: Approved Contract Manufacturer and Trade Scheme (ACMT)
     content: |
       With ACMT, contract manufacturers and traders do not need to account for GST on value-added activities supplied to non-GST registered overseas customers or overseas persons registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
@@ -52,7 +52,7 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_taxincentives
 
 ### For all sectors
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

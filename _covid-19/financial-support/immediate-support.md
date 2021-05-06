@@ -2,7 +2,7 @@
 title: Immediate support
 permalink: /supportschemes/immediateschemes
 third_nav_title: Financial Support
-accordion-new:
+accordion:
   - title: Jobs Support Scheme (JSS)(Extension for employers in Tier 1 and 2 sectors)
     content:  |  
       * To help employers retain workers, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to August 2020).
@@ -74,4 +74,4 @@ accordion-new:
 
 In the wake of COVID-19, here are the available schemes to give your businesses immediate support and relief.
 
-{% include accordion-new.html %}
+{% include accordion.html %}

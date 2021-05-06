@@ -2,7 +2,7 @@
 title: Safe Distancing Ambassadors
 permalink: /covid-faqs/general/ambassadors
 third_nav_title: General
-accordion-new:
+accordion:
   - title: How do we identify Safe Distancing Ambassadors from ESG and STB?
     content: |
       Safe Distancing Ambassadors from ESG and STB will be wearing a lanyard and a red polo shirt with the words “Safe Distancing Ambassador” on the back.
@@ -11,7 +11,7 @@ accordion-new:
     content: |
       The decision of the SDA / enforcement officers is final. Verbal warnings will be issued and if businesses continue to flout the rules, stricter enforcement measures including fines and suspension of operations will be imposed.
 
-  - title: How do we verify the identity of Enforcement Officers? What do they do? Are we required to pay fines on the spot?  
+  - title: How do we verify the identity of Enforcement Officers? What do they do? Are we required to pay fines on the spot?
     content: |
       Enforcement officers from various agencies including the Singapore Police Force, National Environment Agency, National Parks Board and Land Transport Authority, are issued a letter of appointment by the Ministry of Health. They are deployed to enforce safe distancing measures and control order regulations, by conducting compliance inspections during the “circuit breaker” period.
 
@@ -28,6 +28,6 @@ accordion-new:
 
 ### Safe Distancing Ambassadors
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

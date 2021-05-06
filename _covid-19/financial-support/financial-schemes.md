@@ -2,7 +2,7 @@
 title: Financial schemes
 permalink: /supportschemes/financialschemes
 third_nav_title: Financial Support
-accordion-new:
+accordion:
   - title: Special Situation Fund for Startups (SSFS)
     content:  |  
       * EDBI, the corporate investment arm of Economic Development Board (EDB), and SEEDS Capital, the investment arm of Enterprise Singapore, will administer the $285 million SSFS to provide financing support for promising startups based in Singapore.
@@ -31,4 +31,4 @@ accordion-new:
 
 Here are the schemes currently available to help businesses get funding and financial assistance.
 
-{% include accordion-new.html %}
+{% include accordion.html %}

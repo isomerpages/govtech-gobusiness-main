@@ -2,7 +2,7 @@
 title: Manpower declaration / submission
 permalink: /covid-faqs/manpower-declaration/manpower-declaration-submission
 third_nav_title: Manpower Declaration
-accordion-new:
+accordion:
   - title: Is there a guide on how to declare / submit my manpower details?
     content: |
       Yes. The guide for declaration / submission of manpower details can be found [here](https://file.go.gov.sg/essentialmanpowerguide25sep.pdf){:target="_blank"}.
@@ -90,6 +90,6 @@ accordion-new:
 
 ### Manpower declaration / submission
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

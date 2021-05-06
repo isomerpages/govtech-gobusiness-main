@@ -2,7 +2,7 @@
 title: Closure of nightlife establishments and government support
 permalink: /covid-faqs/nightlife-establishments/closure
 third_nav_title: Nightlife Establishments
-accordion-new:
+accordion:
   - title: How do I know if I’m classified as a non-permitted nightlife business and if the following FAQs apply to me?
     content: |
       This set of FAQs applies to businesses that are pubs, nightclubs, discotheques, dance clubs, and karaoke outlets. It covers companies that hold an SFA Foodshop (Pubs, Bars, Nightclub, Discos) licence, and have not been permitted to operate since March 2020.
@@ -59,6 +59,6 @@ accordion-new:
 
 ### Closure of nightlife establishments and government support
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

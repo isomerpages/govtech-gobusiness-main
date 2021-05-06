@@ -2,7 +2,7 @@
 title: Grants
 permalink: /supportschemes/grantschemes
 third_nav_title: Financial Support
-accordion-new:
+accordion:
   - title: Enterprise Development Grant (EDG)
     content:  |  
       EDG supports projects that help your business upgrade, innovate or venture overseas. It funds qualifying project costs namely third-party consultancy fees, software and equipment, and internal manpower cost. For businesses most severely impacted by COVID-19, the maximum support level may be raised to 90% on a case-by-case basis.
@@ -44,4 +44,4 @@ accordion-new:
 
 Here are the grants currently available.
 
-{% include accordion-new.html %}
+{% include accordion.html %}

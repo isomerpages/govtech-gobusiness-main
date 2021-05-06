@@ -2,7 +2,7 @@
 title: Education
 permalink: /covid-faqs/for-sector-specific-queries/education
 third_nav_title: For Sector-Specific Queries
-accordion-new:
+accordion:
   - title: When can face-to-face lessons at private residences, tuition centres and enrichment centres resume?
     content: |
       Face-to-face tuition and enrichment classes have been allowed to resume from 19 June 2020 in accordance to safe management measures.
@@ -102,6 +102,6 @@ accordion-new:
 
 ### Education
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)

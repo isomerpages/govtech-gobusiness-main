@@ -3,7 +3,7 @@ title: Change Request
 permalink: /business-grants-faqs/change-request/
 third_nav_title: Post-Application
 published: false
-accordion-new:
+accordion:
   - title: What is a change request?
     content: |
       You can submit a change request after you have accepted the Letter Of Offer for a grant and before you have made a claim.Change requests include changes to the project duration, change in project scope and an increase in the funding amount.
@@ -21,6 +21,6 @@ accordion-new:
 
 ### Change Request
 
-{% include accordion-new.html %}
+{% include accordion.html %}
 
 [Back to Business Grants Overview](/business-grants-portal/)
