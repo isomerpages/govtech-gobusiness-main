@@ -152,7 +152,7 @@ accordion:
 
   - title: Sports sector enterprises, sports education, and premises with sports facilities
     content:  |   
-      Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/sportsadvisory.pdf){:target="_blank"} [last updated 6 May 2021].
+      Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/sportsadvisory.pdf){:target="_blank"} [last updated 7 May 2021].
 
       Lion Dance Performing Troupes are to comply to measures stipulated in this [document](/images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 2021].
 
