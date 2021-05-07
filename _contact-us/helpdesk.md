@@ -11,7 +11,7 @@ accordion:
   - title: For enquiries on Government Assistance
     content:  |
       **Telephone**
-      <br>[+65 6898 1800](tel:+6598981800)
+      <br>[+65 6898 1800](tel:+6568981800)
 
       **Email**
       <br>[enquiry@enterprisesg.gov.sg](mailto:enquiry@enterprisesg.gov.sg)
@@ -22,7 +22,7 @@ accordion:
   - title: For enquiries on COVID-related matters for businesses
     content:  |
       **Telephone**
-      <br>[+65 6898 1800](tel:+6598981800)
+      <br>[+65 6898 1800](tel:+6568981800)
 
       **Email**
       <br>[enquiry@enterprisesg.gov.sg](mailto:enquiry@enterprisesg.gov.sg)

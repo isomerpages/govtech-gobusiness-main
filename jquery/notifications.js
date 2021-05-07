@@ -1,6 +1,7 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
+  "<b>[Attention: System Maintenance]</b> GoBusiness COVID Manpower Exemptions and Food Services Guided Journey will be unavailable due to scheduled maintenance on Monday, 10 May 2021 from 4:00pm to 6:00pm. We apologise for the inconvenience caused.",
   "<b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href='https://go.gov.sg/corporate-login'>go.gov.sg/corporate-login</a>",
 ];
 
