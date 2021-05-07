@@ -102,7 +102,7 @@ accordion:
 
   - title: Massage establishments
     content:  |      
-      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 28 December 2020]. MEs are also encouraged to refer to the [annex](/images/guides/meannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 28 December 2020].
+      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 7 May 2020]. MEs are also encouraged to refer to [Annex A (i.e. mandatory SMMs)](/images/guides/MEAnnexA.pdf){:target="_blank"}, [Annex B (i.e. Best Practices)](/images/guides/MEAnnexB.pdf){:target="_blank"}, [Annex C (i.e. information on SEGW)](/images/guides/MEAnnexC.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 7 May 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence){:target="_blank"}.
 
