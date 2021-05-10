@@ -6,6 +6,8 @@ third_nav_title: Business Administration
 
 ## Filing annual returns
 
+![Filing annual returns](/images/eservices/eServices_Filing Annual Returns.jpg)
+
 All Singapore-incorporated companies are required to file annual returns with Accounting and Corporate Regulatory Authority (ACRA) to ensure their information on ACRA's register is up to date.
 
 Learn more about it in our [Run and Grow Guide](/run-and-grow/annual-returns/).

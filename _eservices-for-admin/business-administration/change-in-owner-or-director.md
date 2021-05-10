@@ -6,6 +6,8 @@ third_nav_title: Business Administration
 
 ## Change in owner or director
 
+![Change in owner or director](/images/eservices/eServices_Change in Owner or Director.jpg)
+
 If there are changes in business owners or authorised representatives, you will need to update Accounting and Corporate Regulatory Authority (ACRA) within 14 days of the change. The endorsement of the other business owners (if any) is also required.
 
 Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships/changes-in-business-information-and-appointments-of-business-owners-and-authorised-representatives){:target="_blank"}.

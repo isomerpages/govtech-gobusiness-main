@@ -6,6 +6,8 @@ third_nav_title: Business Administration
 
 ## Managing your Corppass profile
 
+![Managing your Corppass profile](/images/eservices/eServices_Managing your Corppass.jpg)
+
 Corppass is a single corporate digital identity for your business to transact with government agencies in Singapore. You can access it with your Singpass login.
 
 To start using the digital services you need, register a Corppass Administrator(s) for your business. Learn more about it in Step 5 of our [Start-up Guide](/start-a-business/create-a-corppass-account/).
