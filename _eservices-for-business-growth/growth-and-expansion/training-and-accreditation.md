@@ -6,6 +6,8 @@ third_nav_title: Growth and Expansion
 
 ## Training and accreditation
 
+![Training and accreditation](/images/eservices/eServices_Training and Accreditation.jpg)
+
 Depending on your business sector and activities, there are various accreditations and certifications you can obtain to boost your business' credibility and improve consumer trust. Here is a list of relevant e-Services.
 
 ### e-Services for training and accreditation

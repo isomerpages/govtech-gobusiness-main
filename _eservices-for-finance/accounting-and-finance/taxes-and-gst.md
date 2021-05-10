@@ -6,6 +6,8 @@ third_nav_title: Accounting and Finance
 
 ## Taxes and GST
 
+![Taxes and GST](/images/eservices/eServices_Taxes and GST.jpg)
+
 Filing tax returns with Inland Revenue Authority of Singapore (IRAS) come with different requirements, depending on your business structure. You will also need to register for GST if you meet certain criteria.
 
 Learn more about taxes and GST in our [Run and Grow guide](/run-and-grow/).

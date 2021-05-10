@@ -6,6 +6,8 @@ third_nav_title: Employment Matters
 
 ## Employer duties and obligations
 
+![Employer duties and obligations](/images/eservices/eServices_Employer Duties and Obligations.jpg)
+
 Being an employer comes with various administrative and housekeeping matters. These include making CPF contributions for employees, arranging medical examinations for foreign employees and updating company particulars.
 
 Your duties and obligations as an employer are defined by the Singapore Employment Act, summarised below.

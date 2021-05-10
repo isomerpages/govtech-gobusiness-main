@@ -6,6 +6,8 @@ third_nav_title: Employment Matters
 
 ## Hiring employees
 
+![Hiring employees](/images/eservices/eServices_Hiring Employees.jpg)
+
 There are job portals available to help with your search for suitable employees. In order to properly hire, several filing obligations need to be met first. Do take note of the specific requirements for hiring foreign employees as well.
 
 Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/).

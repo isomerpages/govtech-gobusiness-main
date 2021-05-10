@@ -6,6 +6,8 @@ third_nav_title: Growth and Expansion
 
 ## Business opportunities
 
+![Business opportunities](/images/eservices/eServices_Business Opportunities.jpg)
+
 Tap on government initiatives and resources to find new growth opportunities for your business. Here is a list of relevant e-Services.
 
 ### e-Services for business opportunities
