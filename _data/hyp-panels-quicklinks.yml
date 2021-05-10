@@ -23,10 +23,10 @@ panels:
       - text: Budget 2021
         href: /gov-assist/budget-2021/
       - text: General Exemptions Form (Covid-19)
-        href: https://go.gov.sg/generalexemption
+        href: https://go.gov.sg/covidbusinessresumptions
         target: _blank
       - text: Permissions and Manpower Exemption Form (Covid-19)
-        href: https://go.gov.sg/timelimitedexemption
+        href: https://go.gov.sg/covidbusinessresumptions
         target: _blank
       - text: Productivity Solutions Grant Listing
         href: /productivity-solutions-grant/

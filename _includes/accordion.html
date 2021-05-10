@@ -62,11 +62,11 @@
         padding: 0;
         position: absolute;
         right: 0.5rem;
-        transition: all 0.15s ease-in-out;
     }
 
     ul.jekyllcodex_accordion li input:checked+label::before {
-        transform: rotate(-180deg);
+        content: url(/images/chevron-up.svg);
+        transform: rotateZ(180deg);
     }
 
     ul.jekyllcodex_accordion li ul li {

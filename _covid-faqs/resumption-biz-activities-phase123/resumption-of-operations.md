@@ -20,7 +20,7 @@ accordion:
 
       Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their business activity falls within the list of permitted services [here](/images/covid/Permittedserviceslist2.pdf){:target="_blank"}.
 
-      If employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so [here](https://go.gov.sg/timelimitedexemption){:target="_blank"}. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead [here](https://go.gov.sg/timelimitedexemption){:target="_blank"}.
+      If employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}.
 
   - title: I had previously received an approval of my General Exemption but my companies’ activities are not listed in the permitted services list. Will I be able to continue operations? Can our employees who are currently working from home return to the workplace?
     content: |
@@ -34,7 +34,7 @@ accordion:
 
   - title: My company’s activities do not belong to the list of permitted services, but we support a permitted service that is listed. What should I do? Can I appeal?
     content: |
-      If your company needs to support a permitted service please submit an application for a General Exemption or a Time-Limited Exemption [here](https://go.gov.sg/timelimitedexemption){:target="_blank"}.
+      If your company needs to support a permitted service please submit an application for a General Exemption or a Time-Limited Exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}.
 
       You will only be allowed to operate when your General Exemption or Time-Limited Exemption is approved.
 
@@ -58,7 +58,7 @@ accordion:
 
   - title: My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to resume operations?
     content: |  
-      You will need to submit an application for General Exemption [here](https://go.gov.sg/timelimitedexemption){:target="_blank"} and receive approval from MTI before resuming operations.  
+      You will need to submit an application for General Exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"} and receive approval from MTI before resuming operations.  
 
   - title: I am a freelancer and do not have a Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?
     content: |  
