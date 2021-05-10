@@ -24,7 +24,7 @@ accordion:
 
   - title: What should I do if I need to deploy my manpower very urgently (i.e. less than 24-hour notice period)?
     content: |  
-      You are required to apply for the [Time-Limited Exemption (TLE)](https://go.gov.sg/timelimitedexemption){:target="_blank"} one day before deploying your staff. You are encouraged to plan for deployment of manpower accordingly.
+      You are required to apply for the [Time-Limited Exemption (TLE)](https://go.gov.sg/covidbusinessresumptions){:target="_blank"} one day before deploying your staff. You are encouraged to plan for deployment of manpower accordingly.
 
   - title: Can I amend, cancel or void my Time-Limited Exemption application if there are changes in my manpower deployment plans?
     content: |      
