@@ -20,9 +20,6 @@ Learn more about them in our [Start-up Guide](/start-a-business/protect-your-ide
 - [Apply for Patent Cooperation Treaty (PCT)](https://pct.wipo.int/authpage/signin.xhtml?goto=https%3A%2F%2Fpct.wipo.int%3A443%2FePCT%2F){:target="_blank"}
   <br>File for an international application under PCT directly with IPOS. PCT facilitates patent protection for an invention in multiple countries through one application.
 
-- Register for eTrademarks
-  <br>e-Service is unavailable till mid-2021
-
 - [Make appointment with IP business clinic](https://form.gov.sg/#!/5e1d1d26a457ea00129e4f61){:target="_blank"}
   <br>Book an appointment with a private business consultant on IP strategies and options for businesses. Areas of expertise include IP strategy, franchising and licensing, audits and valuation etc.
 
