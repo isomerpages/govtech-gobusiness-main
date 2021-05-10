@@ -2,14 +2,14 @@
     ul.jekyllcodex_accordion {
         position: relative;
         margin: 1.4rem 0 !important;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+        border-bottom: 1px solid #DBDFE4;
         padding-bottom: 0;
     }
 
     ul.jekyllcodex_accordion li {
-        border-top: 1px solid rgba(0, 0, 0, 0.25);
+        border-top: 1px solid #DBDFE4;
         list-style: none;
-        margin-left: 0;
+        margin: 0 auto 0 0 !important;
     }
 
     ul.jekyllcodex_accordion li input {
@@ -19,7 +19,7 @@
     ul.jekyllcodex_accordion li label {
         display: block;
         cursor: pointer;
-        padding: 0.75rem 2.4rem 0.75rem 0;
+        padding: 16px 0;
         margin: 0;
         font-size: 18px;
         font-family: hknova-regular;
@@ -35,6 +35,7 @@
 
     ul.jekyllcodex_accordion li input:checked+label {
         font-weight: 600;
+        font-family: hknova-bold;
     }
 
     ul.jekyllcodex_accordion li input:checked+label+div {
@@ -44,8 +45,16 @@
         overflow: visible;
     }
 
+    ul.jekyllcodex_accordion li input:checked+label+div p {
+        margin-bottom: 24px;
+    }
+
+    ul.jekyllcodex_accordion li input:checked+label+div p:where(ul.jekyllcodex_accordion li input:checked+label+div p a) {
+        margin: 32px 0;
+    }
+
     ul.jekyllcodex_accordion li label::before {
-        content: "+";
+        content: url(/images/chevron-down.svg);
         color: #037e8a;
         font-weight: 400;
         font-size: 130%;
@@ -57,7 +66,7 @@
     }
 
     ul.jekyllcodex_accordion li input:checked+label::before {
-        transform: rotate(-45deg);
+        transform: rotate(-180deg);
     }
 
     ul.jekyllcodex_accordion li ul li {
@@ -76,7 +85,8 @@
     {% for accordion in page.accordions %}
     {% if accordion.letter == include.letter %}
     {% for item in accordion.data %}
-    <li><input id="accordion-{{accordion.letter}}{{ forloop.index }}" type="checkbox" /><label for="accordion-{{accordion.letter}}{{ forloop.index }}">{{
+    <li><input id="accordion-{{accordion.letter}}{{ forloop.index }}" type="checkbox" /><label
+            for="accordion-{{accordion.letter}}{{ forloop.index }}">{{
             item.title }}</label>
         <div>{{ item.content | markdownify }}</div>
     </li>
@@ -84,12 +94,12 @@
     {% endif %}
     {% endfor %}
     {% elsif page.accordion %}
-        {% for item in page.accordion %}
-        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
-                item.title }}</label>
-            <div>{{ item.content | markdownify }}</div>
-        </li>
-        {% endfor %}
+    {% for item in page.accordion %}
+    <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
+            item.title }}</label>
+        <div>{{ item.content | markdownify }}</div>
+    </li>
+    {% endfor %}
     {% endif %}
 </ul>
 
