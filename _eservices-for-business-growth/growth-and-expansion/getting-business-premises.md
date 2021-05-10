@@ -6,6 +6,8 @@ third_nav_title: Growth and Expansion
 
 ## Getting business premises
 
+![Getting business premises](/images/eservices/eServices_Getting Business Premises.jpg)
+
 Before registering your business address, you will need to ensure the approved use is suitable for your business activities. If not, you may apply to request a change in the allowable uses.
 
 Learn more about it in Step 2 of our [Start-up Guide](/start-a-business/submit-a-business-address/).

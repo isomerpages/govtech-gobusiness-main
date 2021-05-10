@@ -6,6 +6,8 @@ third_nav_title: Employment Matters
 
 ## Workplace safety and health
 
+![Workplace safety and health](/images/eservices/eServices_Workplace Safety and health.jpg)
+
 Workplace Safety and Health (WSH) obligations are to improve safety at the workplace. They include legal requirements, certification and registration, monitoring and surveillance, accident reporting and work injury compensation.
 
 Learn more about them at [Ministry of Manpower's website](https://www.mom.gov.sg/workplace-safety-and-health){:target="_blank"}.

@@ -6,6 +6,8 @@ third_nav_title: Employment Matters
 
 ## Central Provident Fund (CPF) matters
 
+![CPF matters](/images/eservices/eServices_About Central Provident Fund (CPF).jpg)
+
 As an employer, you are required to make CPF contributions for your employees. How much you need to contribute depends on the types of wage payments your employees receive.
 
 Learn more about it on [CPF's website](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/cpf-contributions-for-your-employees){:target="_blank"}.

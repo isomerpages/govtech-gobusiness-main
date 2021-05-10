@@ -6,6 +6,8 @@ third_nav_title: Business Administration
 
 ## Winding down a business
 
+![Winding down a business](/images/eservices/eServices_Winding Down a Business.jpg)
+
 There are different ways to close a business, depending on its business structure:
 
 **Sole Proprietorship/Partnership**
