@@ -8,9 +8,9 @@ accordion:
 
   - title: Arts and culture / museums
     content:  |
-      Arts and culture stakeholders are to comply to measures stipulated in this [document](/images/guides/nac.pdf){:target="_blank"} [last updated on 1 April 2021]. You can also refer to the National Arts Council [website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html){:target="_blank"}.
+      Arts and culture stakeholders are to comply to measures stipulated in this [document](/images/guides/nac.pdf){:target="_blank"} [last updated on 10 May 2021]. You can also refer to the National Arts Council [website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html){:target="_blank"}.
 
-      Museum stakeholders are to comply to measures stipulated in this [document](/images/guides/NHB.pdf){:target="_blank"} [last updated on 28 December 2020]. You can also refer to the National Heritage Board [website](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19){:target="_blank"}.
+      Museum stakeholders are to comply to measures stipulated in this [document](/images/guides/NHB.pdf){:target="_blank"} [last updated on 10 May 2020]. You can also refer to the National Heritage Board [website](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/public-advisory-on-covid-19){:target="_blank"}.
 
   - title: Attractions
     content:  |
