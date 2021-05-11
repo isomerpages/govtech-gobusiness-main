@@ -5,6 +5,8 @@ permalink: /e-services/guides-for-biz/
 
 ## Guides for businesses
 
+![Guides for businesses](/images/eservices/Guides for Businesses.jpg)
+
 Navigate the process of starting, running and growing a business with our handy e-Advisers and online guides. Simply answer a few questions about your business and get personalised recommendations for your next steps.
 
 ### e-Services
