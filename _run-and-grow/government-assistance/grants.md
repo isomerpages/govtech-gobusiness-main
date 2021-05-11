@@ -237,6 +237,12 @@ accordions:
   - accordion:
     letter: c
     data:
+    - title: Agriculture
+      content:  |
+        **Agri-Food Cluster Transformation (ACT) Fund**
+        <br>The Agri-Food Cluster Transformation (ACT) Fund supports local food-producing companies in their efforts to expand production capabilities, boost yield, raise productivity, sustainability and improve circularity.
+        
+        <a href="https://www.sfa.gov.sg/explore-by-sections/farms/funding-schemes/act-fund" target="_blank">Find Out More</a>
     - title: Aerospace
       content:  |
         **Aviation Development Fund (ADF)**
