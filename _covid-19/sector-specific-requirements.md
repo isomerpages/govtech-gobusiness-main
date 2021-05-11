@@ -10,7 +10,7 @@ accordion:
     content:  |
       Arts and culture stakeholders are to comply to measures stipulated in this [document](/images/guides/nac.pdf){:target="_blank"} [last updated on 10 May 2021]. You can also refer to the National Arts Council [website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"}.
 
-      Museum stakeholders are to comply to measures stipulated in this [document](/images/guides/NHB.pdf){:target="_blank"} [last updated on 10 May 2020]. You can also refer to the National Heritage Board [website](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/safe-management-measures-for-museum-stakeholders){:target="_blank"}.
+      Museum stakeholders are to comply to measures stipulated in this [document](/images/guides/NHB.pdf){:target="_blank"} [last updated on 10 May 2021]. You can also refer to the National Heritage Board [website](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/safe-management-measures-for-museum-stakeholders){:target="_blank"}.
 
   - title: Attractions
     content:  |
@@ -102,7 +102,7 @@ accordion:
 
   - title: Massage establishments
     content:  |      
-      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 7 May 2021]. MEs are also encouraged to refer to [Annex A (i.e. mandatory SMMs)](/images/guides/MEAnnexA.pdf){:target="_blank"}, [Annex B (i.e. Best Practices)](/images/guides/MEAnnexB.pdf){:target="_blank"}, [Annex C (i.e. information on SEGW)](/images/guides/MEAnnexC.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 7 May 2020].
+      Massage Establishments (MEs) are to comply to measures stipulated in this [document](/images/guides/meadvisory.pdf){:target="_blank"}[last updated on 7 May 2021]. MEs are also encouraged to refer to [Annex A (i.e. mandatory SMMs)](/images/guides/MEAnnexA.pdf){:target="_blank"}, [Annex B (i.e. Best Practices)](/images/guides/MEAnnexB.pdf){:target="_blank"}, [Annex C (i.e. information on SEGW)](/images/guides/MEAnnexC.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 7 May 2021].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence){:target="_blank"}.
 
