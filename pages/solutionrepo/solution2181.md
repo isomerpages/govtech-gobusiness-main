@@ -9,7 +9,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

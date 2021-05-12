@@ -9,7 +9,7 @@ Sleek provides a fully digital solution for accounting, tax, HR and sales manage
 
 ### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
