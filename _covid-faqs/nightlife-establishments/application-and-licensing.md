@@ -45,7 +45,7 @@ accordion:
     content: |
       A Restaurant licence allows an operator to sell food that require extensive preparation or cooking. The operator needs to set up a full-fledge kitchen that has sufficient preparation and storage equipment, wash area, cooking range with exhaust system, etc.
 
-      A Snack counter licence allows operators to sell food that can be cooked/heated up and do not require extensive food preparation, e.g., pizza (pre-packed frozen pizza from supermarket/factory), chicken wings, potato wedges, fishballs, etc. The operator will need basic cooking/heating equipment such as deep fryers, microwaves, ovens etc. Unlike for a restaurant licence, they will not need to set up a full-fledged kitchen.
+      A Snack counter licence allows operators to sell food that can be cooked/heated up and do not require extensive food preparation, e.g., pizza (pre-packed frozen pizza from supermarket/factory), chicken wings, potato wedges, fishballs, etc. The operator will need basic cooking/heating equipment such as air-fryers, microwaves, ovens etc. Unlike for a restaurant licence, they will not need to set up a full-fledged kitchen.
 
   - title: What are the estimated costs for converting to a permitted activity?
     content: |
