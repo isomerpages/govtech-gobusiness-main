@@ -24,7 +24,7 @@ SafeEntry is the name of the national digital visitor registration system that l
 -	Tapping one’s TT App or TT Token at a SafeEntry Gateway device
 
 Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise.  
-From 17 May 2021, all businesses and services that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.  
+From 17 May 2021, all businesses and services that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.<sup>1</sup>
 
 - Solemnisations and weddings
 - Funeral events
@@ -33,7 +33,7 @@ From 17 May 2021, all businesses and services that are allowed to be in operatio
 - Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
 - Retail, personal and food & beverage (F&B) services
   - Malls
-  - Supermarkets 
+  - Supermarkets<sup>2</sup>
   - Large retail outlets (> 930 sqm or 10,000 sqft)
   - F&B outlets for dine-in customers
   - Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
@@ -73,6 +73,7 @@ For avoidance of doubt, all permitted enterprises, must still adhere strictly to
 
 
 <sup>1</sup> This list will be updated as more activities and services are resumed.
+
 <sup>2</sup> From 17 May 2021, supermarkets and large retail outlets that are fully within malls and buildings covered by SafeEntry and have the same operating hours, will no longer be required to implement SafeEntry for customers, clients and visitors.
 
 ---
@@ -121,7 +122,9 @@ By 15 June 2021<sup>3</sup>, the following public-facing venues are required to 
 Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Business) App based on their business needs.
 
 <sup>3</sup> This is with the exception of venues that were earlier required to deploy the SEGW by 19 April 2021.
+
 <sup>4</sup> From 17 May 2021, supermarkets and large retail outlets that are fully within malls and buildings covered by SafeEntry and have the same operating hours, will no longer be required to implement SafeEntry for customers, clients and visitors, and therefore would also not be required to deploy SafeEntry Gateways.
+
 <sup>5</sup> Selected museums will be informed by the National Heritage Board (NHB) 
 
 ---
