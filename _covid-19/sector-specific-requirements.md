@@ -14,7 +14,7 @@ accordion:
 
   - title: Attractions
     content:  |
-      Attractions operators are to comply to measures stipulated in this [document](/images/guides/STB Advisory for safe resumption of business for attractions.pdf){:target="_blank"} [last updated on 5 May 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
+      Attractions operators are to comply to measures stipulated in this [document](/images/guides/AttractionAdvisory.pdf){:target="_blank"} [last updated on 14 May 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases.html){:target="_blank"}.
 
   - title: Built environment
     content:  |
@@ -136,7 +136,7 @@ accordion:
 
   - title: Property show galleries
     content:  |   
-      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 5 May 2020]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-31){:target="_blank"}.
+      Developers are to comply to measures stipulated in this [document](/images/guides/PropertyURA.pdf){:target="_blank"} [last updated on 14 May 2021]. You can also refer to the Urban Redevelopment Authority [website](https://www.ura.gov.sg/Corporate/Guidelines/Circulars/ja-34){:target="_blank"}.
 
   - title: Public entertainment
     content:  |    
