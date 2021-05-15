@@ -1,19 +1,16 @@
 ---
 title: Workplace Safe Management Measures
 permalink: /covid-faqs/
-accordions:
-  - accordion:
-    letter: a
-    data:
-    - title: Who do the requirements for Safe Management Measures apply to?
-        content: |
-            All businesses allowed to operate are required to comply with the Safe Management Measures (SMMs) for workplaces as well as the SMMs for their sector/activity. 
+accordion:
+  - title: What should I do if I have not received an exemption? Am I allowed to continue running my business?
+    content: |
+      Please suspend your business operations until you have received official approval of your exemption application via email.
+
 
 ---
 
 ### Workplace Safe Management Measures
 
-{% include accordion.html letter="a" %}
-
+{% include accordion.html %}
 
 [Back to Covid-19 Overview](/covid/)
