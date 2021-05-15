@@ -132,14 +132,6 @@ accordions:
           
           e.	All other prevailing workplace and venue SMMs must be adhered to.
 
-    - title: info
-      content: |
-        info
-
-    - title: info
-      content: |
-        info
-
 
   - accordion:
     letter: c
