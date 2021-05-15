@@ -6,7 +6,6 @@ accordion:
     content: |
       Please suspend your business operations until you have received official approval of your exemption application via email.
 
-
 ---
 
 ### Workplace Safe Management Measures
