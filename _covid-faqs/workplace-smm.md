@@ -12,7 +12,7 @@ accordions:
     - title: What are the key changes for Safe Management Measures at the workplace that will take effect from 16 May 2021 to 13 June 2021?
       content: |
         Work-from-home is the default mode of work. All employees whose functions can be performed remotely must work from home. Employers must provide the necessary facilities and direct their employees to work from home wherever possible. Employees who are unable to work from home, for reasons due to the nature of their work (e.g. their work can only be done with equipment that is confined to the workplace) can continue working on-site.
-            
+        
         Social gatherings at the workplace are disallowed. Employees should have their meal breaks at the workplace individually.
 
     - title: Are Safe Management Measures mandatory, and what enforcement actions will MOM take against businesses that do not implement it?
@@ -190,20 +190,16 @@ accordions:
 
 ---
 
-### Application Procedures for Permitted and Non-permitted Services  
+### Workplace Safe Management Measures
 
-#### Permitted Services
 {% include accordion.html letter="a" %}
 
-#### General Exemption and Time-Limited Exemption for non-permitted services 
-Note: This section applies to companies who are still non-permitted as their business activities are not within MTI’s List of Permitted Services [here](https://www.gobusiness.gov.sg/permittedlist/){:target="_blank"}. 
+### Take Care of your workers
+
 {% include accordion.html letter="b" %}
 
-#### Manpower Declaration/Submission 
+### Foreign Workers 
+
 {% include accordion.html letter="c" %}
-
-#### For Marine & Offshore and Process sectors only
-{% include accordion.html letter="d" %}
-
 
 [Back to Covid-19 Overview](/covid/)
