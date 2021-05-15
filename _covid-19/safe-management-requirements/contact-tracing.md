@@ -138,11 +138,3 @@ The TraceTogether programme is a programme to enhance Singapore’s efforts to m
 Both the TraceTogether App and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. The TraceTogether devices estimate the distance between users, and the duration of such encounters. Records of these encounters are stored locally in the user’s TraceTogether App or Token in encrypted form, for 25 days (covering the incubation period of the virus as well as time taken for individuals to seek treatment and to be tested for COVID-19), after which it is automatically deleted.
 
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
-
-### 4. TraceTogether-only SafeEntry
-
-TraceTogether-only SafeEntry is a protocol where SafeEntry check-in can only be completed using the TraceTogether App or Token, and is being planned for nationwide roll-out soon.
-
-TraceTogether-only SafeEntry consists of a protocol where visitors scan a QR code using their TraceTogether App or present their TraceTogether Token to be scanned in order to register a SafeEntry check-in. When TraceTogether-only SafeEntry is implemented, check-in using SingPass Mobile and QR code reader mobile applications will no longer be accepted. For individuals entering premises where TraceTogether-only SafeEntry is implemented as a safe management measure, the individuals have to use either their TraceTogether App or TraceTogether Token, and not any other method, to check in to the venue’s SafeEntry system.
-
-Permitted enterprises should make the necessary preparations to accept TraceTogether Token check-ins. To learn more, please visit [here](https://support.safeentry.gov.sg/hc/en-us/articles/900003686226-How-to-implement-and-scan-TraceTogether-Tokens-for-visitor-check-ins-at-my-business-venue-){:target="_blank"}.
