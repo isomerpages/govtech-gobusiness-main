@@ -1,7 +1,7 @@
 ---
 title: Workplace Safe Management Measures
 permalink: /covid-faqs/
-accordion:
+accordions:
   - accordion:
     letter: a
     data:
