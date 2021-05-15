@@ -6,10 +6,6 @@ accordions:
   - accordion:
     letter: a
     data:
-    - title: Important Info
-      content: |
-        The Multi-Ministry Taskforce noted that it may be very hard for couples holding their weddings this Sunday, 16 May 2021, to make changes to their plans. Hence, the Government will allow a special arrangement for couples with wedding receptions on 16 May 2021 to proceed with their receptions but subject to the conditions that only up to 100 attendees are allowed and that all unvaccinated attendees must undergo Pre-event Testing (PET). Guests can be seated in tables of up to 5 persons. Safe management measures such as safe distancing and zoning rules, still apply.
-
     - title: If my wedding reception is held right after my solemnisation, how many attendees can I have?
       content: |
         If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of 100 persons (with PET for all), limited to the same guests, and subject to the safe capacity of the venue. 
@@ -154,6 +150,10 @@ accordions:
     data:
     - title: What is Pre-Event Testing (“PET”)?
       content: |
+        A “Pre-Event Test” (PET) refers to a COVID-19 test taken by an attendee or patron who wishes to enter a premise where certain events, businesses, or activities are being held. This attendee or patron must obtain a negative COVID-19 test result within a specified period of time, before being allowed to enter the venue.
+
+    - title: When is PET required for marriage solemnizations?
+      content: |
         For marriage solemnizations involving 51 to 100 attendees, PET will be required for the all unvaccinated attendees. Marriage solemnizations involving 50 or fewer attendees do not require PET. 
 
         The PET must be done: (i) Before entry to the solemnization; and (ii) At most 24 hours before the end of the event. 
@@ -164,7 +164,7 @@ accordions:
 
         All marriage solemnizations will continue to be subject to the prevailing safe management measures, such safe distancing rules.
 
-    - title: Where can I find more information about PET? E.g. exemptions, acceptable proof of test results, validity of results, operating PET at the venue…
+    - title: Where can I find more information about PET? E.g. exemptions, acceptable proof of test results, validity of results, operating PET at the venue.
       content: |
         Please refer to MOH’s guidelines at [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} for more information on PET. 
 
@@ -226,24 +226,25 @@ accordions:
 
 ---
 
-### Marriage solemnizations and receptions [Updated as of 5 May 2021]
+### Marriage solemnizations and receptions [Updated as of 15 May 2021]
 
-#### 1. Special exception for wedding receptions already planned for 16 May, Sunday
+#### Special exception for wedding receptions already planned for 16 May, Sunday
+The Multi-Ministry Taskforce noted that it may be very hard for couples holding their weddings this Sunday, 16 May 2021, to make changes to their plans. Hence, the Government will allow a special arrangement for couples with wedding receptions on 16 May 2021 to proceed with their receptions but subject to the conditions that only up to 100 attendees are allowed and that all unvaccinated attendees must undergo Pre-event Testing (PET). Guests can be seated in tables of up to 5 persons. Safe management measures such as safe distancing and zoning rules, still apply.
 {% include accordion.html letter="a" %}
 
-#### 2. Latest COVID-19 Situation (16 May to 13 Jun 2021)
+#### I. Latest COVID-19 Situation (16 May to 13 Jun 2021)
 {% include accordion.html letter="b" %}
 
-#### 3. General Safe Management Measures (16 May to 13 Jun 2021)
+#### II. General Safe Management Measures (16 May to 13 Jun 2021)
 {% include accordion.html letter="c" %}
 
-#### 4. Video-link solemnizations
+#### III. Video-link solemnizations
 {% include accordion.html letter="d" %}
 
-#### 5. Pre-Event Testing Requirements
+#### IV. Pre-Event Testing Requirements
 {% include accordion.html letter="e" %}
 
-#### 6. Zoning Requirements for Solemnizations involving 51 to 100 attendees
+#### V. Zoning Requirements for Solemnizations involving 51 to 100 attendees
 {% include accordion.html letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
