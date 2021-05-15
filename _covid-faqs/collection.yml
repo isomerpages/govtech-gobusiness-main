@@ -7,11 +7,14 @@ collections:
       - for-sector-specific-queries/food-and-retail.md
       - for-sector-specific-queries/sport-and-recreational.md
       - for-sector-specific-queries/education.md
+      - for-sector-specific-queries/marriage-solemnizations-and-receptions.md
+      - for-sector-specific-queries/infocomm-and-media.md
+      - for-sector-specific-queries/law-practise.md
       - workplace-safe-management-measures.md
       
       
       - for-sector-specific-queries/healthcare-and-social-services.md
-      - for-sector-specific-queries/infocomm-and-media.md
+      
       - for-sector-specific-queries/tourism.md
       - for-sector-specific-queries/hotels.md
       - for-sector-specific-queries/business-travel.md
@@ -19,7 +22,7 @@ collections:
       - for-sector-specific-queries/built-environment.md
       
       - for-sector-specific-queries/delivery-transportation.md
-      - for-sector-specific-queries/marriage-solemnizations-and-receptions.md
+      
       - for-sector-specific-queries/marine-and-offshore.md
       - for-sector-specific-queries/process-construction-Maintenance.md
       - for-sector-specific-queries/professional-services.md
