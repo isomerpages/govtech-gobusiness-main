@@ -1,6 +1,6 @@
 ---
 title: Workplace Safe Management Measures
-permalink: /covid-faqs/workplacesmm
+permalink: /covid-faqs/
 accordion:
   - accordion:
     letter: a
