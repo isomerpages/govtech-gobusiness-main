@@ -89,7 +89,7 @@ accordions:
 
     - title: How can companies register for swab testing for eligible employees?
       content: |
-        All companies can apply for Swab Registration System (SRS) company account creation via this [link](https://form.gov.sg/#!/5f33ac4aef830b0012597673){:target="_blank"}. They will receive a follow-up email from swab@edb.gov.sg on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at.
+        All companies can apply for Swab Registration System (SRS) company account creation via this [link](https://form.gov.sg/#!/5f33ac4aef830b0012597673){:target="_blank"}. They will receive a follow-up email from <swab@edb.gov.sg>{:target="_blank"} on SRS onboarding and instructions within 5 days. Companies in the non-Marine Shipyard sectors are to indicate the Shipyard’s company name where their workers will be working at.
 
         All companies are to submit their Manpower Declaration in [GoBusiness](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"} indicating employee details and their respective work premises. Companies will receive an email informing them of the expected timeline from which they can start submitting their manpower declaration.
 
@@ -101,7 +101,7 @@ accordions:
 
     - title: I am unable to key in the specific work premises of my employees in the GoBusiness portal. Who should I approach?
       content: |
-        Please contact COVID_GoBusiness@mti.gov.sg. 
+        Please contact <covid_gobusiness@mti.gov.sg>{:target="_blank"}. 
 
     - title: What is considered a “Production site” premise?
       content: |
@@ -130,7 +130,7 @@ accordions:
 
         **2.	Inform MOH Licensing Division and EDB Central COVID Ops Team**
 
-        Only appointed HCI by Ship agent/Shipyard can write in to the MOH Licensing Division <eLIS@moh.gov.sg>{:target="_blank"} and copy to <cco@edb.gov.sg>{:target="_blank"} to follow up on the approval process where MOH Licensing Division must approve the appointed HCI before the on-arrival onboard or sign off pre-departure swab test on the vessel crew can be performed.
+        Only appointed HCI by Ship agent/Shipyard can write in to the MOH Licensing Division <<eLIS@moh.gov.sg>{:target="_blank"}>{:target="_blank"} and copy to <<cco@edb.gov.sg>{:target="_blank"}>{:target="_blank"} to follow up on the approval process where MOH Licensing Division must approve the appointed HCI before the on-arrival onboard or sign off pre-departure swab test on the vessel crew can be performed.
 
         Email to MOH Licensing Division to include the following information which is not exhaustive:
 
@@ -150,7 +150,7 @@ accordions:
 
         -	Laboratory Name where collected swabs will be tested.
 
-        For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division <eLIS@moh.gov.s>{:target="_blank"} and copy to <cco@edb.gov.sg>{:target="_blank"} to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
+        For urgent on-arrival onboard swabs (defined as swabs to be done over the next 10 calendar days), appointed HCI by Ship agent/Shipyard has to write in to the MOH Licensing Division <eLIS@moh.gov.s>{:target="_blank"} and copy to <<cco@edb.gov.sg>{:target="_blank"}>{:target="_blank"} to expedite the approval to conduct offsite swab testing. Only appointed HCI may email or call MOH Licensing Division for urgent confirmation. Urgent applications will be approved only on a case by case basis with justifications.
 
     - title: What is the objective of the Updated Mandatory Precautionary Measures (MPM)?
       content: |
@@ -160,11 +160,11 @@ accordions:
 
     - title: If the vessel is unable to meet the criteria in the mandatory precautionary measures for shipyard repair calls in Singapore, can the shipyard still accept the repair job?
       content: |
-        Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <cco@edb.gov.sg>{:target="_blank"}, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+        Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <<cco@edb.gov.sg>{:target="_blank"}>{:target="_blank"}, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
 
     - title: If the vessel crew have not met the Pre-Departure Test Criteria, can the shipyard still accept the repair job?
       content: |
-        Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <cco@edb.gov.sg>{:target="_blank"}, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+        Shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <<cco@edb.gov.sg>{:target="_blank"}>{:target="_blank"}, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
 
         Shipyards must inform their vessels to plan their voyage for her crew to take Pre-Departure PCR Swab Test at the last port of call or prior to entering Port of Singapore. Shipyards must sight all the vessel crew’s Pre-Departure Negative PCR Swab Test results and keep all results as records. Shipyards can then issue the Letter of Acceptance to the vessel.
 
@@ -172,7 +172,7 @@ accordions:
 
     - title: When will the Updated Assessment Framework be implemented?
       content: |
-        Implementation date will be 5 April 2021. The Mandatory Precautionary Measures (effective date: 5 April 2021) will apply to all inbound vessels arriving at our Singapore-based shipyards and waterfront facilities on 5 April 2021 onwards. For vessel repair jobs that shipyards have already issued the Letter of Acceptance (LOA) in accordance with the Mandatory Precautionary Measures dated 19th Feb, shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at cco@edb.gov.sg, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
+        Implementation date will be 5 April 2021. The Mandatory Precautionary Measures (effective date: 5 April 2021) will apply to all inbound vessels arriving at our Singapore-based shipyards and waterfront facilities on 5 April 2021 onwards. For vessel repair jobs that shipyards have already issued the Letter of Acceptance (LOA) in accordance with the Mandatory Precautionary Measures dated 19th Feb, shipyards are to write to their respective account managers from the Singapore Economic Development Board (EDB) or Enterprise Singapore (ESG) and copy to EDB Central COVID Ops (CCO) team at <cco@edb.gov.sg>{:target="_blank"}, with their specific queries at least 7 calendar days in advance. The case will be assessed accordingly, and an approval may be given on a case-by-case basis.
 
     - title: Under what situation must SmartEntry@Sea be implemented?
       content: |

@@ -138,7 +138,7 @@ accordions:
 
         |Sector your company is in|Who to approach?|
         |Construction|Building and Construction Authority (BCA)</br>If your worker's AccessCode details show 'No approval to start work', it could be because:</br>•	Your company has not submitted project or workers to BCA for approval</br>•	Your company has obtained BCA's approval, but:</br>•	Your project did not include the worker in the submission for approval</br>•	There is missing/wrong worker's information in the submission (e.g. wrong FIN/UEN or FIN entered is not under the employment of the UEN entered)</br>For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:</br>[English version](https://file.go.gov.sg/bca-restart-navigator.pdf){:target="_blank"}</br>[Chinese version](https://file.go.gov.sg/bca-restart-navigator-chi.pdf){:target="_blank"}</br>If none of the above reasons apply to you, please contact BCA at bca_safeworkforce@bca.gov.sg for assistance.|
-        |All sectors|GoBusiness Portal</br>(Email : covid_gobusiness@mti.gov.sg)|
+        |All sectors|GoBusiness Portal</br>(Email : <covid_gobusiness@mti.gov.sg>{:target="_blank"})|
 
     - title: How do I update my foreign employee’s residential address?
       content: |

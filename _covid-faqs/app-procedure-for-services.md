@@ -33,7 +33,7 @@ accordions:
 
     - title: I have checked the list of permitted services against my primary SSIC code and I am sure I am allowed to operate. Why is my business resumption status not reflected as “permitted”? 
       content: |
-        If your primary SSIC code falls into the list of permitted services and you have not changed your primary SSIC code recently, please write to Covid_GoBusiness@mti.gov.sg  for assistance.
+        If your primary SSIC code falls into the list of permitted services and you have not changed your primary SSIC code recently, please write to <covid_gobusiness@mti.gov.sg>{:target="_blank"}  for assistance.
 
     - title: What if my business activities do not fall under what is stated as permitted services for the SSIC code of my company’s primary business activity?
       content: |
@@ -68,7 +68,7 @@ accordions:
       content: |
         Please allow at least 2-3 days for your application to be processed. 
 
-        If you are still unable to view your application status after 3 days, please write to Covid_GoBusiness@mti.gov.sg with your company name, UEN and the reference number for your application.
+        If you are still unable to view your application status after 3 days, please write to <covid_gobusiness@mti.gov.sg>{:target="_blank"} with your company name, UEN and the reference number for your application.
 
     - title: I am self-employed / own a business with multiple entities. Do I need to submit my applications individually or will one application cover all my businesses?
       content: |
@@ -104,15 +104,15 @@ accordions:
 
     - title: I am not allowed to apply for a Time-Limited Exemption. What should I do?
       content: |
-        If you are unable to apply for a Time-Limited Exemption, please contact our helpdesk at Covid_GoBusiness@mti.gov.sg for further assistance.
+        If you are unable to apply for a Time-Limited Exemption, please contact our helpdesk at <covid_gobusiness@mti.gov.sg>{:target="_blank"} for further assistance.
 
     - title: If I see a non-permitted business continue to operate even though it is not supposed to, what should I do?
       content: |
-        Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to Covid_GoBusiness@mti.gov.sg 
+        Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to <covid_gobusiness@mti.gov.sg>{:target="_blank"} 
 
     - title: I am having problems logging into CorpPass. Who can I approach for help? 
       content: |
-        You can contact the Corp Pass Helpdesk at 6643-0577 or email support@corppass.gov.sg.
+        You can contact the Corp Pass Helpdesk at 6643-0577 or email <support@corppass.gov.sg>{:target="_blank"}.
 
   - accordion:
     letter: c
@@ -125,7 +125,7 @@ accordions:
 
     - title: I am unable to declare/submit my manpower details. What should I do? 
       content: |
-        If your business has a ‘Permitted’ status, you are no longer required to submit manpower details and hence will not be able to see the “Submit Manpower” button on the portal. If you are operating on a General Exemption approval but are facing issues with manpower submission, please write to MTI at Covid_GoBusiness@mti.gov.sg
+        If your business has a ‘Permitted’ status, you are no longer required to submit manpower details and hence will not be able to see the “Submit Manpower” button on the portal. If you are operating on a General Exemption approval but are facing issues with manpower submission, please write to MTI at <covid_gobusiness@mti.gov.sg>{:target="_blank"}
 
         Please also note that there may be conditions imposed on the approval of your general exemption. These conditions will be indicated in your official email notification of approval. Alternatively, you may also login to [GoBusiness portal](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"} to check your exemption application for any conditions to your approval. 
 
@@ -173,7 +173,7 @@ accordions:
 
         For applications with ‘Approved’ status, the employment records are accurate as at Dec 2020. We allow for reasonable fluctuations to this number. Therefore, you should continue to declare your manpower details.
 
-        However, should the numbers vary substantially, you should submit a copy of your manpower records with the Ministry of Manpower (MOM) and/or the Central Provident Fund (CPF) to MTI at Covid_GoBusiness@mti.gov.sg.
+        However, should the numbers vary substantially, you should submit a copy of your manpower records with the Ministry of Manpower (MOM) and/or the Central Provident Fund (CPF) to MTI at <covid_gobusiness@mti.gov.sg>{:target="_blank"}.
 
     - title: I need to update the Ministry of Manpower of changes in my foreign workers’ particulars (e.g. residential address) during their employment. Where can I find more information about this? 
       content: |
@@ -238,7 +238,7 @@ accordions:
 
     - title: What happens if the employee/workers’ AccessCode is not updated? 
       content: |
-        If you have submitted your manpower details by 1730 hours, your employee/workers’ AccessCode will only be updated by 2359 hours on the following day. If you require assistance, please write to MTI at Covid_GoBusiness@mti.gov.sg.
+        If you have submitted your manpower details by 1730 hours, your employee/workers’ AccessCode will only be updated by 2359 hours on the following day. If you require assistance, please write to MTI at <covid_gobusiness@mti.gov.sg>{:target="_blank"}.
 
     - title: When do I need to update my manpower details submission? 
       content: |
