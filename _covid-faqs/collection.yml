@@ -2,6 +2,7 @@ collections:
   covid-faqs:
     output: true
     order:
+      - workplace-safe-management-measures.md
       - general/.keep
       - general/general-exemption.md
       - general/safe-distancing-ambassadors.md
