@@ -90,7 +90,7 @@ accordion:
 
   - title: Marriage solemnisations and wedding receptions
     content:  |
-      With effect from 8 May 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this [document](/images/guides/SMMs for Weddings w PET (For 7 May) (clean) (wef 8 May).pdf){:target="_blank"} [last updated 5 May 2021], depending on venue.  
+      With effect from 16 May 2021 (inclusive), marriage solemnisations and wedding receptions are required to comply to measures stipulated in this [document](/images/guides/WeddingAdvisory.pdf){:target="_blank"} [last updated 15 May 2021], depending on venue.  
 
   - title: Marine & offshore (M&O) sector
     content:  |
