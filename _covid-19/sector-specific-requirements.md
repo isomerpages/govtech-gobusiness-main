@@ -140,7 +140,7 @@ accordion:
 
   - title: Public entertainment
     content:  |    
-      Public Entertainment (PE) venue operators are to comply to measures stipulated in this [document](/images/guides/peadvisory.pdf){:target="_blank"} [last updated on 14 May 2020]. PE operators are also encouraged to refer to the [annex](/images/guides/peannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 27 December 2020].
+      Public Entertainment (PE) venue operators are to comply to measures stipulated in this [document](/images/guides/peadvisory.pdf){:target="_blank"} [last updated on 14 May 2021]. PE operators are also encouraged to refer to the [annex](/images/guides/peannex.pdf){:target="_blank"} and adopt the additional measures within, where possible [last updated on 27 December 2020].
 
       You can also refer to the Singapore Police Force [website](https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence){:target="_blank"}.
 
