@@ -2,10 +2,14 @@ collections:
   covid-faqs:
     output: true
     order:
-      - workplace-safe-management-measures.md
+
       - for-sector-specific-queries/.keep
       - for-sector-specific-queries/food-and-retail.md
+      - for-sector-specific-queries/sport-and-recreational.md
       - for-sector-specific-queries/education.md
+      - workplace-safe-management-measures.md
+      
+      
       - for-sector-specific-queries/healthcare-and-social-services.md
       - for-sector-specific-queries/infocomm-and-media.md
       - for-sector-specific-queries/tourism.md
@@ -13,7 +17,7 @@ collections:
       - for-sector-specific-queries/business-travel.md
       - for-sector-specific-queries/business-events.md
       - for-sector-specific-queries/built-environment.md
-      - for-sector-specific-queries/sport-and-recreational.md
+      
       - for-sector-specific-queries/delivery-transportation.md
       - for-sector-specific-queries/marriage-solemnizations-and-receptions.md
       - for-sector-specific-queries/marine-and-offshore.md
