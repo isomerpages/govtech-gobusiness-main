@@ -118,7 +118,7 @@ accordion:
 
   - title: Private tuition and enrichment
     content:  |  
-      Private tuition and enrichment providers are to comply to measures stipulated in this [document](/images/guides/Advisory for Resumption of Private Tuition Enrichment (8 May_v8)_faired.pdf){:target="_blank"} [last updated on 8 May 2021].   
+      Private tuition and enrichment providers are to comply to measures stipulated in this [document](/images/guides/PrivateTuitionAdvisory.pdf){:target="_blank"} [last updated on 15 May 2021].   
 
   - title: Process construction & maintenance (PCM) sector
     content:  |
