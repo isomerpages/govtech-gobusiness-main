@@ -114,7 +114,7 @@ accordion:
 
   - title: Private mahjong (or gambling) rooms operators
     content:  |  
-      Operators of private mahjong (or gambling) rooms are to comply to measures stipulated in this [document](/images/guides/privatemjadvisory.pdf){:target="_blank"} [last updated on 25 June 2020].
+      In line with the measures for Phase 2 – Heightened Awareness, private mahjong (or gambling) rooms will be closed.
 
   - title: Private tuition and enrichment
     content:  |  
@@ -146,7 +146,7 @@ accordion:
 
   - title: Religious organisations
     content:  |  
-      Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 5 May 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/may/phase-three-heightened-alert-religious-activities){:target="_blank"}.
+      Religious organisations are to comply to measures stipulated in this [document](/images/guides/mccyroadadvisory2.pdf){:target="_blank"} [last updated on 15 May 2021]. You can also refer to the MCCY [website](https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2021/may/phase-three-heightened-alert-religious-activities){:target="_blank"}.
 
       For more information and FAQs on COVID-19 for the religious sector, please visit [www.cpro.gov.sg](https://www.cpro.gov.sg/){:target="_blank"} or contact MCCY’s Crisis Preparedness for Religious Organisations Programme Office at [cpro@mccy.gov.sg](mailto:cpro@mccy.gov.sg){:target="_blank"}.
 
