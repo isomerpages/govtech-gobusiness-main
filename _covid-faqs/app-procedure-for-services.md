@@ -141,7 +141,7 @@ accordions:
 
         Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-        Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found [here](https://www.gobusiness.gov.sg/covid-faqs/manpower-declaration/marine-offshore-process){:target="_blank"}.
+        Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found [here](https://www.gobusiness.gov.sg/covid-faqs/app-procedure-for-services){:target="_blank"}.
 
     - title: Can I proceed to operate after declaring/submitting my manpower details? Will I receive any notification of approval? 
       content: |
