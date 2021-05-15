@@ -58,15 +58,9 @@ accordion:
 
   - title: F&B and retail
     content:  |
-      - F&B establishments are to comply to measures stipulated in this [document](/images/guides/Advisory_Safe Management Measures for FB establishments_caa5May21_for publication.pdf){:target="_blank"}[last updated on 5 May 2021].<br>
+      - F&B establishments are to comply to measures stipulated in this [document](/images/guides/FnBAdvisory.pdf){:target="_blank"}[last updated on 15 May 2021].<br>
 
-      - Infographic on Safe Management Measures at F&B Establishments [last updated on 5 May 2021]<br>
-      ![F&B](/images/covid/Safe Distancing_F&B_5May2021_ENG.png "F&B establishments")
-
-      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/Advisory_Safe Management Measures for Retail establishments_caa5May21_for publication.pdf){:target="_blank"} [last updated on 5 May 2021].<br>
-
-      - Infographic on Safe Management Measures at retail establishments and lifestyle-related services [last updated on 5 May 2021]<br>
-      ![Retail](/images/covid/Safe Distancing_Retail_5May2021_ENG.png "Retail")
+      - Retail establishments and lifestyle-related services are to comply to measures stipulated in this [document](/images/guides/RetailAdvisory.pdf){:target="_blank"} [last updated on 15 May 2021].<br>
 
       You can also refer to the Enterprise Singapore [website](https://www.enterprisesg.gov.sg/covid-19/safe-distance){:target="_blank"} for these requirements and other information.
 
