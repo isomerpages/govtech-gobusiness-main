@@ -2,6 +2,7 @@ collections:
   covid-faqs:
     output: true
     order:
+      - overview.md
       - workplace-smm.md
       - for-sector-specific-queries/.keep
       - for-sector-specific-queries/food-and-retail.md

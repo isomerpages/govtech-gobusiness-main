@@ -1,6 +1,6 @@
 ---
 title: Workplace Safe Management Measures
-permalink: /covid-faqs/
+permalink: /covid-faqs/workplace-safe-management-measures
 accordions:
   - accordion:
     letter: a
@@ -206,3 +206,6 @@ accordions:
 {% include accordion.html letter="c" %}
 
 [Back to Covid-19 Overview](/covid/)
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/resize-tables.js"></script>
