@@ -149,8 +149,8 @@ accordions:
 
         <br>For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:<br>
 
-        -	[English version](https://go.gov.sg/bca-restart-navigator){:target="_blank"}
-        -	[Chinese version](https://go.gov.sg/bca-restart-navigator-chi){:target="_blank"}
+        <br> - [English version](https://go.gov.sg/bca-restart-navigator){:target="_blank"}
+        <br> - [Chinese version](https://go.gov.sg/bca-restart-navigator-chi){:target="_blank"}
 
         <br>If none of the above reasons apply to you, please contact BCA at [bca_safeworkforce@bca.gov.sg](mailto:bca_safeworkforce@bca.gov.sg) for assistance. |
         | All Sectors | GoBusiness Portal <br>Email: [covid_gobusiness@mti.gov.sg](mailto:covid_gobusiness@mti.gov.sg) |
