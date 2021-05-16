@@ -40,4 +40,6 @@ accordion:
 
 {% include accordion.html %}
 
+Please check back for more updates.
+
 [Back to Covid-19 Overview](/covid/)

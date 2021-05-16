@@ -9,7 +9,7 @@ accordions:
       content: |
         Your company is allowed to operate if your company’s activities are in MTI’s list of permitted services [here](https://www.gobusiness.gov.sg/images/covid/Permitted%20Services%20(11%20May).pdf){:target="_blank"}. Businesses in this list do not need to apply to MTI for exemption before operating.  
 
-        If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit [https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrWindowId=null](Bizfile+){:target="_blank"} and login with your CorpPass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services. 
+        If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit [Bizfile+](https://www.bizfile.gov.sg/){:target="_blank"} and login with your Singpass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services. 
 
     - title: If my company’s activities belong to the list of permitted services, will I be able to operate all my business functions?
       content: |
@@ -141,7 +141,7 @@ accordions:
 
         Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-        Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found [here](/covid-faqs/for-sector-specific-queries/marine-and-offshore){:target="_blank"}.
+        Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found in the section below titled "For Marine & Offshore and Process sectors only".
 
     - title: Can I proceed to operate after declaring/submitting my manpower details? Will I receive any notification of approval? 
       content: |
@@ -185,7 +185,7 @@ accordions:
 
     - title: I need more manpower on site to ensure the continuation of my business activities. What should I do? 
       content: |
-        The cap on the number of manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work.  Should you require additional manpower, please submit an application for Additional Manpower [here](https://go.gov.sg/additionalmanpower){:target="_blank"}. Do note that the application will be subject to assessment by the respective agencies.
+        The cap on the number of manpower that you are allowed to have on-site is necessary to minimise the movement of employees to and from work.  Should you require additional manpower, please submit an application for Additional Manpower [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}. Do note that the application will be subject to assessment by the respective agencies.
 
   - accordion:
     letter: d
