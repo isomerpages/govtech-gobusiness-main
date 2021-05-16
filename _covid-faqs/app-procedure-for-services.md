@@ -110,7 +110,7 @@ accordions:
       content: |
         Please report this business and provide relevant details such as its name, address and relevant evidence (e.g. photographs) to <covid_gobusiness@mti.gov.sg>{:target="_blank"} 
 
-    - title: I am having problems logging into CorpPass. Who can I approach for help? 
+    - title: I am having problems logging into Corppass. Who can I approach for help? 
       content: |
         You can contact the Corp Pass Helpdesk at 6643-0577 or email <support@corppass.gov.sg>{:target="_blank"}.
 
@@ -137,7 +137,7 @@ accordions:
 
     - title: What manpower details must companies declare/submit? How do I declare/submit my manpower details?
       content: |
-        For applicants with a CorpPass account, please login to [GoBusiness portal](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Thereafter, please click on the button “submit manpower” to submit your manpower details. 
+        For applicants with a Corppass account, please login to [GoBusiness portal](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"}. Thereafter, please click on the button “submit manpower” to submit your manpower details. 
 
         Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
@@ -151,7 +151,7 @@ accordions:
 
     - title: What happens if I do not receive an acknowledgement email after I have declared my manpower details? 
       content: |
-        If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a CorpPass account, kindly login to [GoBusiness portal](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"} to verify that your email address is accurately reflected. 
+        If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Corppass account, kindly login to [GoBusiness portal](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"} to verify that your email address is accurately reflected. 
 
         You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.  
 
