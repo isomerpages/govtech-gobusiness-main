@@ -54,7 +54,7 @@ accordion:
 
   - title: Funeral events
     content:  |
-      Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 6 May 2021].
+      Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/SMM_FuneralServices.pdf){:target="_blank"} [last updated 16 May 2021].
 
   - title: F&B and retail
     content:  |
@@ -76,7 +76,7 @@ accordion:
 
   - title: Hotels
     content:  |
-      Hotels are to comply to measures stipulated in this [document](/images/guides/Circular for Hotels in Phase 3_ver8May2021_final.pdf){:target="_blank"}[last updated 8 May 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}.
+      Hotels are to comply to measures stipulated in this [document](/images/guides/HotelsAdvisory.pdf){:target="_blank"}[last updated 16 May 2021]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}.
 
   - title: Landscape-related services
     content:  |
