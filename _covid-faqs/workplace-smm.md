@@ -138,27 +138,22 @@ accordions:
         
         All companies should check the [GoBusiness Portal](https://www.gobusiness.gov.sg/covid/){:target="_blank"} to find out if they are allowed to operate. Please approach your respective lead agencies for assistance:
 
-        **Sector:** Construction <br>
-        **Who to approach:** Building and Construction Authority (BCA)
+        | **Sector your company is in** | **Who to approach?** |
+        | :--- | :--- |
+        | Construction | Building and Construction Authority (BCA) 
+        <br>If your worker's AccessCode details show 'No approval to start work', it could be because:<br>
+        <br> - Your company has not submitted project or workers to BCA for approval
+        <br> - Your company has ob tained BCA's approval, but:
+        <br> - Your project did not include the worker in the submission for approval
+        <br> - There is missing/wrong worker's information in the submission (e.g. wrong FIN/UEN or FIN entered is not under the employment of the UEN entered)
 
-        If your worker's AccessCode details show 'No approval to start work', it could be because:
-
-        -	Your company has not submitted project or workers to BCA for approval    
-        -	Your company has obtained BCA's approval, but:      
-        -	Your project did not include the worker in the submission for approval      
-        -	There is missing/wrong worker's information in the submission (e.g. wrong FIN/UEN or FIN entered is not under the employment of the UEN entered)
-
-        For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:
+        <br>For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:<br>
 
         -	[English version](https://go.gov.sg/bca-restart-navigator){:target="_blank"}
         -	[Chinese version](https://go.gov.sg/bca-restart-navigator-chi){:target="_blank"}
 
-        If none of the above reasons apply to you, please contact BCA at <bca_safeworkforce@bca.gov.sg>{:target="_blank"} for assistance.
-
-        **Sector:** Other sectors<br>
-        **Who to approach:** GoBusiness Portal
-
-        Email: <<covid_gobusiness@mti.gov.sg>{:target="_blank"}>{:target="_blank"}
+        <br>If none of the above reasons apply to you, please contact BCA at [bca_safeworkforce@bca.gov.sg](mailto:bca_safeworkforce@bca.gov.sg) for assistance. |
+        | All Sectors | GoBusiness Portal <br>Email: [covid_gobusiness@mti.gov.sg](mailto:covid_gobusiness@mti.gov.sg) |
 
     - title: How do I update my foreign employee’s residential address?
       content: |
