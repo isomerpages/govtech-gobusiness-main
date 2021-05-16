@@ -10,6 +10,8 @@ To ensure a safe working environment,  businesses are required to abide by the [
 
 All businesses should take note of the following:
 
--	From 8 May 2021 to 30 May 2021, the Safe Management Measures for the workplace will be tightened. Employers must exercise heightened vigilance at the workplace, and ensure that no more than 50% of employees who are able to work from home return to the workplace at any time. Social gatherings at the workplace should be avoided. These measures help lower transmission risks by reducing the levels of interaction at common spaces at or near the workplace, and in public places, including public transport.
+-	From 16 May 2021 through 13 June 2021, work-from-home will be the default at workplaces. Employers must ensure that employees who are able to work from home do so.
+
+-   Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours. Social gatherings at the workplace will not be allowed.
 
 -	Any applicable sector-specific requirements

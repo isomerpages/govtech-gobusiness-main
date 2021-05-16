@@ -1,33 +1,45 @@
 ---
-title: Tourism
+title: Tourism, Hotels, Business Travel, Business Events
 permalink: /covid-faqs/for-sector-specific-queries/tourism
 third_nav_title: For Sector-Specific Queries
 accordion:
-  - title: Are tourism businesses permitted to resume?
+  - title: Are staycations allowed?  
     content: |
-      Since 1 July 2020, tourism businesses in Singapore have been permitted to resume operations in stages. For the list of tourism businesses that are permitted to resume, please visit [here](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}.
+      Hotels may apply to STB to provide accommodation to guests for the purposes of leisure (e.g. staycations). Any hotel that wishes to apply must comply with the safe management measures required for hotels. Please refer to the advisory for hotels for the full list of requirements.
 
-      Attractions, tour operators and tourist guides are required to submit their reopening proposals to STB for assessment. Operators must demonstrate effective implementation of safe management measures to provide a safe environment for customers and workers, and may resume operations only after receiving approval from the Ministry of Trade and Industry (MTI). These proposals must include safe management measures that are tailored to reduce the COVID-19 transmission risks at each attraction or tour.
+      Hotels must submit their application to STB for assessment. Hotels may provide accommodation to guests for the purposes of leisure and related marketing efforts only after receiving approval from MTI. The list of approved hotels can be found at [https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}
 
-      Hotels may apply to STB to resume provision of accommodation to guests for the purposes of leisure (e.g. staycations). Hotels may submit their application to STB for assessment and may only resume these business activities and related marketing efforts after receiving approval from MTI. Hotels that wish to resume these activities must comply with the required safe management measures.
+      For the period of 16 May 2021 through 13 June 2021 (both dates inclusive), the number of guests allowed to stay in a room for staycation is limited to two persons, or the number of individuals who are all members of the same household (i.e. they live in the same place of residence) if more than two. 
 
-      Please refer to the advisories for [attractions](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-attractions.html){:target="_blank"}, [tours](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html){:target="_blank"} and [hotels](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"} for the full list of requirements for each sector.
-
-  - title: Are attractions allowed to re-open?
+  - title: Can Hotels allow their venues to be used to conduct events?  
     content: |
-      As part of the resumption of activities in Phase 3 , tourism businesses in Singapore will be permitted to resume operations in stages from 1 July, beginning with some attractions. MTI and STB have carefully assessed the reopening proposals that were submitted by these attractions. The list of permitted attractions can be found [here](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}.
+      Yes, Hotels may allow their venues to be used to conduct events, subject to national and sector-specific Safe Management Measures.
 
-      All attractions must submit their re-opening proposals to STB for assessment prior to re-opening, and may resume operations only after receiving approval from the Ministry of Trade and Industry (MTI). Attractions should submit their re-opening proposals to <STB_Attractions@stb.gov.sg>{:target="_blank"}.
+      - Marriage Solemnizations must be limited to 100 persons, excluding Solemnizers, vendors and premises staff (to be kept to minimum required). Pre-Event Testing (PET) for all persons at the event, excluding Solemnizers, vendors and premises staff, is required to be implemented for an event of up to 100 persons; PET need not be implemented for an event of up to 50 persons. No F&B reception is allowed during solemnizations. Wedding receptions are not permitted. For information on PET, please refer to the [PET microsite](https://www.moh.gov.sg/covid-19/pet){:target="_blank"}.
 
-      Please refer to the advisory [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-attractions.html){:target="_blank"} for the full list of requirements.
+      - Classes and training by permitted enterprises conducting an education business must be limited to no more than 50 individuals including the trainer(s). Safe management measures must be implemented, including ensuring at least 1 metre safe distance between all individuals, or if individuals must be less than 1 metre apart, they should be in groups of no more than 2 (including guests and visitors), with at least 1 metre distance between groups. A record of the groups of 2 must be kept for not less than 28 days after the day the record is made. Classes where participants are unmasked are to be suspended. 
 
-  - title: Are tours permitted?
+      - Work-related events may be held at Hotels, with up to 50 persons at any time or the maximum number of individuals which the room or venue may accommodate if there is a distance of  at least 1 metre between any 2 individuals, whichever is lower; and at least 1 metre spacing between individuals at all times. Work-related events include consumer-facing events (such as product launches / branding events), townhalls, seminars, corporate retreats, conferences on business strategies, Annual/Extraordinary General Meetings, tender briefings to vendors and award ceremonies). F&B must not be served at work-related events. 
+
+      - MICE events held in hotels can have up to 100 participants with Pre-Event Testing (PET) implemented for all participants*, or up to 50 participants if PET is not implemented. MICE events must comply with the prevailing Sector Specific Requirements for Business Events. 
+
+      - Live performances held in hotels can have up to 100 audience members with PET implemented, and up to 50 persons without PET implemented, and must comply with the prevailing Sector Specific Requirements for live performances. Please refer to [NAC’s website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"} for more information.
+
+      \*Individuals exempted from the PET requirement for MICE events include individuals who enter or remain at the event venue solely: 
+        - To deliver goods or provide services connected with the event, business, or activity, undertaking work related to the event and carried on within the venue; 
+        - To work as a permitted enterprise or permitted enterprise worker, for or with the occupier of the event venue;
+        - To render assistance in an emergency at the venue; and 
+        - To execute an order of a court or a direction given by or on behalf of a public officer or a public body in exercise of a power under any written law. 
+
+  - title: Once a hotel has received approval to re-open for staycations, does it have to submit a separate application to re-open other businesses (e.g. F&B, spas, pools, gyms) within its premises?
     content: |
-      From 29 June 2020, domestic tour operators can begin submitting their applications to resume operations. Tour operators and tourist guides can submit their application to <STB_TID@stb.gov.sg>{:target="_blank"} , and may only resume carrying out tour activities after receiving approval from MTI. Please refer to the advisory [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html){:target="_blank"} for the full list of requirements.
+      A separate application for General Exemption is not required. Hotels are required to comply with the prevailing Safe Management Measures for other businesses on their premises.  For example, dining-in is not permitted at F&B outlets.
 ---
 
-### Tourism
+### Tourism, Hotels, Business Travel, Business Events
 
 {% include accordion.html %}
+
+Please check back for more updates.
 
 [Back to Covid-19 Overview](/covid/)
