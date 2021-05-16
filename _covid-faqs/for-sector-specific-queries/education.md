@@ -20,9 +20,10 @@ accordion:
       Hence, tuition and enrichment centres are encouraged to consider telecommuting and online lessons as the default arrangement. In the event that face-to-face classes continue, they are expected to observe all the following measures in classrooms and other areas accessed by students:
 
       a. **Safe distancing**. Safe distancing measures for tuition and enrichment are:
+        
         i.	Students: Centres must ensure safe distancing between students by putting up appropriate floor demarcations and/or physical barriers, e.g. using safety tape. There must also be strict separation between students in different classrooms at all times, with no intermingling.
-          I.	As a default, centres must ensure that all students maintain safe distancing of at least 1m at all times, with strictly no physical interaction between students. 
-          II.	If it is not possible to apply 1m safe distancing between students and some interaction is unavoidable, centres may instead organise students into groups of no more than two students, with strictly no physical interaction or intermingling between different groups. Centres must strictly maintain a minimum of 1m spacing between pairs, although MOE advises 2m spacing between pairs as a best practice.
+          <br>I.	As a default, centres must ensure that all students maintain safe distancing of at least 1m at all times, with strictly no physical interaction between students. 
+          <br>II.	If it is not possible to apply 1m safe distancing between students and some interaction is unavoidable, centres may instead organise students into groups of no more than two students, with strictly no physical interaction or intermingling between different groups. Centres must strictly maintain a minimum of 1m spacing between pairs, although MOE advises 2m spacing between pairs as a best practice.
 
         ii.	Tutors/instructors: They can move between pairs. However, contact should be transient, and they should remain at the front of the class as much as is practicable.
 
