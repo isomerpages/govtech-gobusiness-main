@@ -7,7 +7,7 @@ accordions:
     data:
     - title: How do I know if my company is allowed to operate? 
       content: |
-        Your company is allowed to operate if your company’s activities are in MTI’s list of permitted services [here](https://go.gov.sg/permittedserviceslist2){:target="_blank"}. Businesses in this list do not need to apply to MTI for exemption before operating.  
+        Your company is allowed to operate if your company’s activities are in MTI’s list of permitted services [here](https://www.gobusiness.gov.sg/images/covid/Permitted%20Services%20(11%20May).pdf){:target="_blank"}. Businesses in this list do not need to apply to MTI for exemption before operating.  
 
         If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit [https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrWindowId=null](Bizfile+){:target="_blank"} and login with your CorpPass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services. 
 
@@ -141,7 +141,7 @@ accordions:
 
         Businesses who fail to submit the manpower details within 2 weeks of resuming operations will be in breach of the COVID-19 (Temporary Measures) Act. First-time offenders found operating will face a fine of up to $10,000, imprisonment of up to six months, or both. Subsequent offences may face a fine of up to $20,000, imprisonment of up to twelve months, or both.
 
-        Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found [here](https://www.gobusiness.gov.sg/covid-faqs/app-procedure-for-services){:target="_blank"}.
+        Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found [here](/covid-faqs/for-sector-specific-queries/marine-and-offshore){:target="_blank"}.
 
     - title: Can I proceed to operate after declaring/submitting my manpower details? Will I receive any notification of approval? 
       content: |

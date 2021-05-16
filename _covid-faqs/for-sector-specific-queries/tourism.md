@@ -23,7 +23,7 @@ accordion:
 
       - MICE events held in hotels can have up to 100 participants with Pre-Event Testing (PET) implemented for all participants*, or up to 50 participants if PET is not implemented. MICE events must comply with the prevailing Sector Specific Requirements for Business Events. 
 
-      - Live performances held in hotels can have up to 100 audience members with PET implemented, and up to 50 persons without PET implemented, and must comply with the prevailing Sector Specific Requirements for live performances. Please refer to [NAC’s website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Arts-and-Culture-Sector-Advisories.html.){:target="_blank"} for more information.
+      - Live performances held in hotels can have up to 100 audience members with PET implemented, and up to 50 persons without PET implemented, and must comply with the prevailing Sector Specific Requirements for live performances. Please refer to [NAC’s website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"} for more information.
 
       * Individuals exempted from the PET requirement for MICE events include individuals who enter or remain at the event venue solely: 
       - To deliver goods or provide services connected with the event, business, or activity, undertaking work related to the event and carried on within the venue; 
