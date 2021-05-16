@@ -3,8 +3,8 @@ title: Overview
 permalink: /covid-faqs/
 ---
 
-## Covid FAQ
+## COVID-19 FAQ
 
-Find out the FAQ that is most relevant for your business.
+Find the FAQ that is most relevant for your business.
 
 {% include panels.html panels=site.data.covid_faq_overview %}
