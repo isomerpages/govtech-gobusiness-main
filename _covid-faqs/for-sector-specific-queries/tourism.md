@@ -25,11 +25,11 @@ accordion:
 
       - Live performances held in hotels can have up to 100 audience members with PET implemented, and up to 50 persons without PET implemented, and must comply with the prevailing Sector Specific Requirements for live performances. Please refer to [NAC’s website](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"} for more information.
 
-      * Individuals exempted from the PET requirement for MICE events include individuals who enter or remain at the event venue solely: 
-      - To deliver goods or provide services connected with the event, business, or activity, undertaking work related to the event and carried on within the venue; 
-      - To work as a permitted enterprise or permitted enterprise worker, for or with the occupier of the event venue;
-      - To render assistance in an emergency at the venue; and 
-      - To execute an order of a court or a direction given by or on behalf of a public officer or a public body in exercise of a power under any written law. 
+      \*Individuals exempted from the PET requirement for MICE events include individuals who enter or remain at the event venue solely: 
+        - To deliver goods or provide services connected with the event, business, or activity, undertaking work related to the event and carried on within the venue; 
+        - To work as a permitted enterprise or permitted enterprise worker, for or with the occupier of the event venue;
+        - To render assistance in an emergency at the venue; and 
+        - To execute an order of a court or a direction given by or on behalf of a public officer or a public body in exercise of a power under any written law. 
 
   - title: Once a hotel has received approval to re-open for staycations, does it have to submit a separate application to re-open other businesses (e.g. F&B, spas, pools, gyms) within its premises?
     content: |
