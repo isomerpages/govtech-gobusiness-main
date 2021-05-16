@@ -21,13 +21,13 @@ accordion:
 
       a. **Safe distancing**. Safe distancing measures for tuition and enrichment are:
         
-        i.	Students: Centres must ensure safe distancing between students by putting up appropriate floor demarcations and/or physical barriers, e.g. using safety tape. There must also be strict separation between students in different classrooms at all times, with no intermingling.
+        i.	<u>Students</u>: Centres must ensure safe distancing between students by putting up appropriate floor demarcations and/or physical barriers, e.g. using safety tape. There must also be strict separation between students in different classrooms at all times, with no intermingling.
           <br>I.	As a default, centres must ensure that all students maintain safe distancing of at least 1m at all times, with strictly no physical interaction between students. 
           <br>II.	If it is not possible to apply 1m safe distancing between students and some interaction is unavoidable, centres may instead organise students into groups of no more than two students, with strictly no physical interaction or intermingling between different groups. Centres must strictly maintain a minimum of 1m spacing between pairs, although MOE advises 2m spacing between pairs as a best practice.
 
-        ii.	Tutors/instructors: They can move between pairs. However, contact should be transient, and they should remain at the front of the class as much as is practicable.
+        ii.	<u>Tutors/instructors</u>: They can move between pairs. However, contact should be transient, and they should remain at the front of the class as much as is practicable.
 
-        iii.	Capacity: No single room within a centre should hold more than 50 persons, including tutors/instructors, even as the above measures are adopted.
+        iii.	<u>Capacity</u>: No single room within a centre should hold more than 50 persons, including tutors/instructors, even as the above measures are adopted.
 
         iv.	Centres are also reminded that per MOM’s guidelines for workplaces, there should be no cross-deployment across worksites. More information on prevailing workplace SMMs can be found on the [MOM website](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}.
 
@@ -43,25 +43,25 @@ accordion:
     content: |
       The following additional safe management measures apply:
       
-      <ins>Sports Classes</ins>
+      <u>Sports Classes</u>
 
       Higher-risk facilities, such as indoor gyms and fitness/dance/exercise studios must be closed between 16 May 2021 and 13 Jun 2021 (dates inclusive), unless they only offer low intensity physical activities, sport and exercises, where all participants and instructors are wearing masks at all times, subject to capacity limits (no single room should hold more than 30 persons, including tutors/instructors). Outdoor exercise classes may continue. For detailed guidance, please refer to the advisory issued by [Sport Singapore](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/May/Further-Stricter-Safe-Management-Measures-For-Sport-And-Physical-Exercise-,-a-,-Activity){:target="_blank"}.
 
-      <ins>Dance Classes</ins>
+      <u>Dance Classes</u>
 
       Indoor dance classes may only proceed if they are able to adhere to additional safe management measures (including all participants and instructors wearing masks at all times, and further capacity limits; no single room should hold more than 30 persons, including tutors/instructors), as detailed in the advisory issued by the [National Arts Council](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"}. Outdoor dance classes must comply with the measures in the advisory issued by issued by [Sport Singapore](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/May/Further-Stricter-Safe-Management-Measures-For-Sport-And-Physical-Exercise-,-a-,-Activity){:target="_blank"}. 
 
-      <ins>Singing, Wind/Brass Instrument Classes</ ins>
+      <u>Singing, Wind/Brass Instrument Classes</u>
 
       As in-person singing and wind/brass instrument classes involve a higher risk of virus transmission due to voice projection or intentional expulsion of air, they are to be suspended from 16 May to 13 Jun 2021 (dates inclusive).
 
-      <ins>Voice Training, Speech and Drama Classes</ins>
+      <u>Voice Training, Speech and Drama Classes</u>
 
       Voice training and speech and drama classes may continue, with all participants and instructors wearing masks at all times, subject to additional safe management measures and capacity limits (no single room should hold more than 30 persons, including tutors/instructors) as outlined in the National Arts Council’s advisory, available at [https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"}.
 
   - title: Will private tutors operating out of private residences be allowed to resume face-to-face lessons? 
     content: |
-      While private tutors operating out of private residences have been allowed to resume lessons from Phase Two, i.e. from 19 June 2020, MOE strongly recommends that <ins>online lessons be the default arrangement</ins>, to reduce physical contact between individuals. 
+      While private tutors operating out of private residences have been allowed to resume lessons from Phase Two, i.e. from 19 June 2020, MOE strongly recommends that <u>online lessons be the default arrangement</u>, to reduce physical contact between individuals. 
 
       Home-based tuition/enrichment is subject to prevailing safe management measures for home-based services, including the cap of two distinct visitors allowed in the home per day. Such tutors must also use SafeEntry for visitors, to support contact tracing; if the tutor is awaiting the set-up of a SafeEntry account, s/he should maintain a manual log of visitors in the interim. 
 
@@ -69,10 +69,10 @@ accordion:
 
       Private tutors operating out of residences are also advised to put in place appropriate precautionary measures, and work with parents to ensure that they are comfortable with the measures taken. These should include:
 
-        a.	Wearing of masks by all staff and students
-        b.	Temperature screening and health declarations (tutors should turn away or not conduct tuition for persons who are unwell or have been issued with Approved Absence/Leave of Absence by their respective schools or Stay Home Notice/Home Quarantine Order by the authorities)
-        c.	Clear record-keeping of staff/students to facilitate contact-tracing (Note: Where the tutor has to visit multiple places of residence, the tutor is expected to maintain a personal log of his/her activities, to facilitate contact tracing if necessary.)
-        d.	Disinfection of surfaces between classes, if venue is hosted by tutor and shared by multiple students
+      a. Wearing of masks by all staff and students
+      <br>b. Temperature screening and health declarations (tutors should turn away or not conduct tuition for persons who are unwell or have been issued with Approved Absence/Leave of Absence by their respective schools or Stay Home Notice/Home Quarantine Order by the authorities)
+      <br>c. Clear record-keeping of staff/students to facilitate contact-tracing (Note: Where the tutor has to visit multiple places of residence, the tutor is expected to maintain a personal log of his/her activities, to facilitate contact tracing if necessary)
+      <br>d. Disinfection of surfaces between classes, if venue is hosted by tutor and shared by multiple students
 
       Individuals should also limit their overall number of social interactions, to not more than two per day, whether visiting another household or meeting with friends/family members/students in a public place. 
 

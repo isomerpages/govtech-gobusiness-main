@@ -38,7 +38,7 @@ accordions:
 
     - title: For process construction projects that require BCA’s approval for resumption of works but are unable to meet certain BCA safe restart criteria, where can I lodge an appeal?
       content: |
-        For companies which are unable to meet certain safe restart criteria from BCA and have legitimate justifications as to why these restart criteria would not be feasible for the process construction project, you can write in to <<bca_appeals@bca.gov.sg>{:target="_blank"}>{:target="_blank"} to appeal with the following information:
+        For companies which are unable to meet certain safe restart criteria from BCA and have legitimate justifications as to why these restart criteria would not be feasible for the process construction project, you can write in to [bca_appeals@bca.gov.sg](mailto:bca_appeals@bca.gov.sg) to appeal with the following information:
 
         -	Reference number of your original submission
         -	Type of works to be carried out
@@ -101,23 +101,23 @@ accordions:
 
     - title: Who would need to be regularly swab tested?
       content: |
-        All PCM workers will be required to undergo regular swab tests, with the exception of non-dormitory<sup>11</sup> workers who work in non-production sites or work from home.
+        All PCM workers will be required to undergo regular swab tests, with the exception of non-dormitory<sup>1</sup> workers who work in non-production sites or work from home.
 
         The above is applicable for Singaporeans, Singaporean Permanent Residents, Work Permit Holders, S Pass Holders and Employment Pass Holders.
 
-        Companies may create accounts to register for swabs by emailing <<swab@edb.gov.sg>{:target="_blank"}>{:target="_blank"} and schedule for workers to be swabbed via <https://swab.hpb.gov.sg/ext/login.aspx>{:target="_blank"}. If any workers who are working are found to have missed regular testing, the workers’ AccessCode will turn Red after a grace period and the worker should not return to work. MOM will also follow-up to revoke the workpass and blacklist the company should there be no valid reason for the worker missing the swab. EDB also reserves the right to withdraw any approval given for resumption of works.
+        Companies may create accounts to register for swabs by emailing [swab@edb.gov.sg](mailto:swab@edb.gov.sg) and schedule for workers to be swabbed via [https://swab.hpb.gov.sg/ext/login.aspx](https://swab.hpb.gov.sg/ext/login.aspx){:target="_blank"}. If any workers who are working are found to have missed regular testing, the workers’ AccessCode will turn Red after a grace period and the worker should not return to work. MOM will also follow-up to revoke the workpass and blacklist the company should there be no valid reason for the worker missing the swab. EDB also reserves the right to withdraw any approval given for resumption of works.
 
-        <sup>11</sup> Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
+        <sup>1</sup> Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
 
     - title: If my office finance and administrative staff do not go on-site or come into contact with on-site workers, do they have to be regularly swab tested?
       content: |
-        Non-dormitory<sup>12</sup> workers who work in non-production sites or work from home do not need to be regularly swab tested.
+        Non-dormitory<sup>2</sup> workers who work in non-production sites or work from home do not need to be regularly swab tested.
 
-        <sup>12</sup> Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
+        <sup>2</sup> Dormitories include purpose-built dormitories, factory-converted dormitories, construction temporary quarters, temporary occupation license quarters, temporary living quarters and government decant sites.
 
     - title: Can employers make their own private arrangements for their employees to be tested?
       content: |
-        Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Companies may create accounts to register for swabs by emailing <<swab@edb.gov.sg>{:target="_blank"}>{:target="_blank"} and schedule for workers to be swabbed via <https://swab.hpb.gov.sg/ext/login.aspx>{:target="_blank"}.
+        Companies should not approach laboratories/hospitals to set up a private arrangement for these tests. Companies may create accounts to register for swabs by emailing [swab@edb.gov.sg](mailto:swab@edb.gov.sg) and schedule for workers to be swabbed via [https://swab.hpb.gov.sg/ext/login.aspx](https://swab.hpb.gov.sg/ext/login.aspx){:target="_blank"}.
 
     - title: What is the situation around foreign workers dormitories? When can my workers leave the dormitory for work?
       content: |
@@ -127,7 +127,7 @@ accordions:
       content: |
         Please refer to MOM’s guidance on the matter.
 
-        An alternative to repatriation is to consider releasing the foreign worker to other companies that are short in manpower. If it is assessed that the foreign workers are not needed, an alternative is that employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach Singapore Business Federation (SBF) at <<manpowerconnect@sbf.org.sg>{:target="_blank"}>{:target="_blank"} or visit SBF’s website [here](https://www.sbf.org.sg/media-centre/manpowerconnect){:target="_blank"}.
+        An alternative to repatriation is to consider releasing the foreign worker to other companies that are short in manpower. If it is assessed that the foreign workers are not needed, an alternative is that employers may give consent for them to be transferred to other employers facing manpower shortages. Employers can approach Singapore Business Federation (SBF) at [manpowerconnect@sbf.org.sg](mailto:manpowerconnect@sbf.org.sg) or visit SBF’s website [here](https://www.sbf.org.sg/media-centre/manpowerconnect){:target="_blank"}.
 
     - title: For foreign workers who have gone on home leave, when can they return?
       content: |
