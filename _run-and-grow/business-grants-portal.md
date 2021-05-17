@@ -20,7 +20,7 @@ Currently on BGP, you can apply for:
 - [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
 - [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
 - [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
-- [Agri-Food Cluster Transformation (ACT) Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
+- [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
 
 You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
