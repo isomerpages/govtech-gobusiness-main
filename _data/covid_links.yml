@@ -6,14 +6,14 @@
   text: Find Out More
 
 - title: Exemption Application
-  description: Apply for your business to resume operating in Phase 2 (Heightened Alert).
+  description: For businesses which are providing services which are not in the list of permitted services, please apply here for your business to resume operating.
   url: go.gov.sg/covidbusinessresumptions
   url-new-tab: true
   protocol: https
   text: Find Out More
 
 - title: Permitted Services
-  description: List of permitted services allowed to resume operations in Phase 2 (Heightened Alert).
+  description: List of permitted services allowed to operate in Phase 2 (Heightened Alert).
   url: /permittedlist/
   text: Find Out More
 
