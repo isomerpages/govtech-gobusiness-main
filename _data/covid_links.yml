@@ -1,19 +1,19 @@
 - title: Permissions and Manpower Declaration
-  description: For businesses operating or resuming in Phase 3. Check your exemption application/business resumption status, and submit your manpower details here.
+  description: For businesses operating or resuming in Phase 2 (Heightened Alert). Check your exemption application/business resumption status, and submit your manpower details here.
   url: go.gov.sg/covidbusinessresumptions
   url-new-tab: true
   protocol: https
   text: Find Out More
 
 - title: Exemption Application
-  description: Apply for your business to resume operating in Phase 3.
+  description: Apply for your business to resume operating in Phase 2 (Heightened Alert).
   url: go.gov.sg/covidbusinessresumptions
   url-new-tab: true
   protocol: https
   text: Find Out More
 
 - title: Permitted Services
-  description: List of permitted services allowed to resume operations in Phase 3.
+  description: List of permitted services allowed to resume operations in Phase 2 (Heightened Alert).
   url: /permittedlist/
   text: Find Out More
 
