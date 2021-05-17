@@ -1,0 +1,38 @@
+accordion:
+  - title: Can I submit my grant claim through the Business Grants Portal?
+    content: |
+      You can submit claims for the Productivity Solutions Grant (PSG), Market Readiness Assistance (MRA) and the Business Improvement Fund (BIF) in the Business Grants Portal.
+
+      For the Enterprise Development Grant (EDG), you can submit your claims through the [ESG Portal](https://grantportal.enterprisesg.gov.sg/spring/pages/login.aspx){:target="_blank"}.
+
+  - title: How can I extend the claim due date?
+    content: |
+      For the Productivity Solutions Grant (PSG), you can submit a one-time claim extension before your claim is due:
+
+      1. Login to the Business Grants Portal.
+      2. Navigate to 'My Applications' to view all your applications.
+      3. Select the 'Completed' tab.
+      4. Click on your project title.
+      5. Click on the 'Extend Due Date' button.
+
+      For the Business Improvement Fund (BIF), Enterprise Development Grant (EDG) and Market Readiness Assistance (MRA), you will need to submit a Change Request to extend a claim due date.
+
+  - title: What happens if I miss the claim due date?
+    content: |
+      If you miss the claim due date, your claims will lapse. Note that reminder emails will be sent to the main contact person before the claim due date.
+
+  - title: How long does it take for me to receive my claim?
+    content: |
+      Claim disbursements take up to 4-6 weeks to process.
+
+  - title: How can I get the Giro form to set up my account and receive my claims?
+    content: |
+      If you don't have a GIRO account, you will need to print and complete the GIRO form relevant to your processing agency. You will need to get your bank to verify the completed form. Once verified, mail the original verified form to the agency's finance department.
+
+      Here are the links to the processing agencies' GIRO forms:
+      - [Enterprise Singapore](/images/grow/ESG_GIRO_FORM.pdf){:target="_blank"}
+      - [National Environmental Agency](/images/grow/NEA_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
+      - [National Parks Board](/images/grow/NPARKS_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
+      - [Building and Construction Authority](/images/grow/BCA_GIRO_FORM_2017_v1.0.pdf){:target="_blank"}
+      - [Singapore Tourism Board](/images/grow/BCA_GIRO_FORM_2017_v1.0.pdf){:target="_blank"}
+      - [Monetary Authority of Singapore](/images/grow/MAS_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}

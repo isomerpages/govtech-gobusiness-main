@@ -2,46 +2,10 @@
 title: Grants
 permalink: /supportschemes/grantschemes
 third_nav_title: Financial Support
-accordion:
-  - title: Enterprise Development Grant (EDG)
-    content:  |  
-      EDG supports projects that help your business upgrade, innovate or venture overseas. It funds qualifying project costs namely third-party consultancy fees, software and equipment, and internal manpower cost. For businesses most severely impacted by COVID-19, the maximum support level may be raised to 90% on a case-by-case basis.
-
-      Find out more about EDG and apply at <a href="https://go.gov.sg/edgrant" target="_blank">Enterprise Singapore (ESG)</a>.
-
-  - title: Productivity Solutions Grant (PSG)
-    content:  |       
-      PSG supports businesses in adopting IT solutions and equipment to enhance business processes. It supports sector-specific solutions (eg: retail, food, logistics, precision engineering, construction and landscaping industries) as well as solutions that cut across industries, such as in areas of customer management, data analytics, financial management and inventory tracking.
-
-      The maximum funding support level will be raised to 80% from 1 April 2020 to 31 December 2020.
-
-      Find out more about PSG at <a href="https://go.gov.sg/psgrant" target="_blank">Enterprise Singapore (ESG)</a>and apply for it on GoBusiness <a href="https://dashboard-staging.l1t.molb.gov.sg/login">here</a>.
-
-  - title: Market Readiness Assistance (MRA)
-    content:  |       
-      * The MRA grant gives SMEs a boost in taking their business overseas. Eligible SMEs will receive up to 70% of qualifying costs, capped at S$100,000 per company per new market from 1 April 2020 to 31 March 2023 that covers:
-        * Overseas market promotion (capped at S$20,000)
-        * Overseas business development (capped at S$50,000)
-        * Overseas market set-up (capped at S$30,000)
-        * Each application is limited to one activity in a single overseas market (e.g. market entry, or participation in a trade fair)
-
-      Find out more about MRA at <a href="https://go.gov.sg/mra" target="_blank">Enterprise Singapore (ESG)</a>and apply for it on GoBusiness <a href="https://dashboard-staging.l1t.molb.gov.sg/login">here</a>.
-
-  - title: Enterprise Leadership for Transformation (ELT)
-    content:  |    
-      ELT is a 1-year programme that supports SME leaders in developing business growth capabilities. Eligible businesses can qualify for up to 90% funding of programme fees.
-
-      Find out more about ELT and apply at <a href="https://go.gov.sg/elt" target="_blank">Enterprise Singapore (ESG)</a>.
-
-  - title: SkillsFuture Enterprise Credit (SFEC)
-    content:  |       
-      SFEC encourages employers to invest in business transformation and employee capabilities. Eligible employers will receive a one-off $10,000 credit to cover up to 90% of out-of-pocket expenses on qualifying costs for supportable initiatives, on top of the support levels of existing schemes.
-
-      Find out more about SFEC and apply at <a href="https://go.gov.sg/sfec" target="_blank">Enterprise Singapore (ESG)</a>.
 ---
 
 ## Grants
 
 Here are the grants currently available.
 
-{% include accordion.html %}
+{% include accordion.html accordions=site.data.acc16-grants.accordion %}
