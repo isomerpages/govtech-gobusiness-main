@@ -24,6 +24,7 @@
         font-size: 18px;
         font-family: hknova-regular;
         color: #000000;
+        margin-right: 41px;
     }
 
     ul.jekyllcodex_accordion li div {
@@ -36,6 +37,7 @@
     ul.jekyllcodex_accordion li input:checked+label {
         font-weight: 600;
         font-family: hknova-bold;
+        margin-right: 41px;
     }
 
     ul.jekyllcodex_accordion li input:checked+label+div {
@@ -47,6 +49,7 @@
 
     ul.jekyllcodex_accordion li input:checked+label+div p {
         margin-bottom: 24px;
+        margin-right: 41px;
     }
 
     ul.jekyllcodex_accordion li input:checked+label+div p:where(ul.jekyllcodex_accordion li input:checked+label+div p a) {
@@ -81,7 +84,32 @@
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% if page.accordions %}
+    {% if include.accordions %}
+    <!-- New accordion -->
+    {% if include.letter %}
+    {% for accordion in include.accordions %}
+    {% if accordion.letter == include.letter %}
+    {% for item in accordion.data %}
+    <li><input id="accordion-{{accordion.letter}}{{ forloop.index }}" type="checkbox" /><label
+            for="accordion-{{accordion.letter}}{{ forloop.index }}">{{
+            item.title }}</label>
+        <div>{{ item.content | markdownify }}</div>
+    </li>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+    {% else %}
+    {% for item in include.accordions %}
+    <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
+            item.title }}</label>
+        <div>{{ item.content | markdownify }}</div>
+    </li>
+    {% endfor %}
+    {% endif %}
+
+    {% else %}
+    <!-- Old accordion -->
+    {% if include.letter %}
     {% for accordion in page.accordions %}
     {% if accordion.letter == include.letter %}
     {% for item in accordion.data %}
@@ -93,13 +121,14 @@
     {% endfor %}
     {% endif %}
     {% endfor %}
-    {% elsif page.accordion %}
+    {% else %}
     {% for item in page.accordion %}
     <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
             item.title }}</label>
         <div>{{ item.content | markdownify }}</div>
     </li>
     {% endfor %}
+    {% endif %}
     {% endif %}
 </ul>
 
