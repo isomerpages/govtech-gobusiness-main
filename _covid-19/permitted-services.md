@@ -4,7 +4,7 @@ permalink: /permittedlist/
 ---
 ## Permitted services
 
-The Government is currently allowing businesses to resume gradually in phases. As of 28 December 2020, we are currently in Phase 3. All firms, bodies and self-employed persons in operation must comply with the safe management requirements [here](/safemanagement/general/) and sector-specific requirements [here](/safemanagement/sector/).
+All firms, bodies and self-employed persons in operation must comply with the safe management requirements [here](/safemanagement/general/) and sector-specific requirements [here](/safemanagement/sector/).
 
 The list of services that are currently allowed to resume operations and their corresponding Singapore Standard Industrial Classification (SSIC) codes, can be found [here](/images/covid/Permitted Services (11 May).pdf){:target="_blank"}.
 

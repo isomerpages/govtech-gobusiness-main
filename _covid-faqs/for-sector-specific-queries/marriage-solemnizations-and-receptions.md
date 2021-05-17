@@ -228,10 +228,6 @@ accordions:
 
 ### Marriage solemnizations and receptions [Updated as of 15 May 2021]
 
-#### Special exception for wedding receptions already planned for 16 May, Sunday
-The Multi-Ministry Taskforce noted that it may be very hard for couples holding their weddings this Sunday, 16 May 2021, to make changes to their plans. Hence, the Government will allow a special arrangement for couples with wedding receptions on 16 May 2021 to proceed with their receptions but subject to the conditions that only up to 100 attendees are allowed and that all unvaccinated attendees must undergo Pre-event Testing (PET). Guests can be seated in tables of up to 5 persons. Safe management measures such as safe distancing and zoning rules, still apply.
-{% include accordion.html letter="a" %}
-
 #### I. Latest COVID-19 Situation (16 May to 13 Jun 2021)
 {% include accordion.html letter="b" %}
 

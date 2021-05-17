@@ -30,7 +30,7 @@ accordion:
 
   - title: Cinemas
     content:  |
-      Cinema operators are to comply to measures stipulated in this [document](/images/guides/cinemasadvisory2.pdf){:target="_blank"} [last updated on 29 March 2021]. You can also refer to the Infocomm Media Development Authority [website](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation){:target="_blank"}.
+      Cinema operators are to comply to measures stipulated in this [document](/images/guides/cinemasadvisory2.pdf){:target="_blank"} [last updated on 16 May 2021]. You can also refer to the Infocomm Media Development Authority [website](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation){:target="_blank"}.
 
   - title: Country and recreation clubs
     content:  |
@@ -156,7 +156,7 @@ accordion:
 
   - title: Tours
     content:  |
-      Tour operators and tourist guides are to comply to measures stipulated in this [document](/images/guides/TourAdvisory2.pdf){:target="_blank"} [last updated 1 November 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours){:target="_blank"}.
+      Tour operators and tourist guides are to comply to measures stipulated in this [document](/images/guides/TourAdvisory2.pdf){:target="_blank"} [last updated 14 May 2020]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours){:target="_blank"}.
 
   - title: Veterinary and pet-related services
     content:  |
