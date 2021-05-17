@@ -2,26 +2,8 @@
 title: Hospitality and tourism
 permalink: /supportschemes/tourismsupport/
 third_nav_title: Sector-Specific Support
-accordion:
-  - title: Tourism Development Fund
-    content:  |
-      The Tourism Development Fund provides funding support and grants for the creation of innovative and quality tourism products and experiences, as well as capability and talent enhancement efforts among tourism-related establishments.
-
-      Find out more about the fund at <a href="https://go.gov.sg/tourism2" target="_blank">Singapore Tourism Board (STB)</a>.
-
-  - title: COVID-19 Cleaning Support for tourism-related establishments
-    content:  |
-      This scheme helps with the third-party costs of professional cleaning services incurred by tourism-related establishments impacted by COVID-19.
-
-      Find out more about the scheme at <a href="https://go.gov.sg/tourism5" target="_blank">Singapore Tourism Board (STB)</a>.
-
-  - title: COVID-19 (Temporary Measures) Act
-    content:  |
-      The Act aims to provide temporary cash relief for businesses and individuals who are unable to fulfil certain contractual obligations because of COVID-19.
-
-      Find out more about the Act at <a href="https://go.gov.sg/tourism3" target="_blank">Singapore Tourism Board (STB)</a>.
 ---
 
 ## Hospitality and tourism
 
-{% include accordion.html %}
+{% include accordion.html accordions=site.data.acc20-hospitality-tourism.accordion %}
