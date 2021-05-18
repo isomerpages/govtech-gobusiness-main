@@ -3,22 +3,25 @@ title: Education
 permalink: /covid-faqs/for-sector-specific-queries/education
 third_nav_title: For Sector-Specific Queries
 accordion:
-  - title: <a id="question-one">What types of classes need to be suspended, given the tighter safe distancing measures announced on 16 May 2021?</a>
+  - title: What types of classes need to be suspended, given the tighter safe distancing measures announced on 16 May 2021?
     content: |
-      All organisations and individuals offering tuition and enrichment activities, whether academic or non-academic, must shift their lessons for students aged 18 and younger online from 19 May 2021 to 13 June 2021 (both dates inclusive) or otherwise suspend these lessons during this period. This includes but is not limited to education and development support activities, arts and culture classes and workshops, religious classes, as well as sports and physical activity classes and programmes. The decision to suspend these classes is due to the higher risk of transmission of COVID-19 caused by intermingling of students from different schools, and to avoid interactions between tutors and students. This is also in line with schools' move to full Home-Based Learning.
+      <p id="question-one">All</p> organisations and individuals offering tuition and enrichment activities, whether academic or non-academic, must shift their lessons for students aged 18 and younger online from 19 May 2021 to 13 June 2021 (both dates inclusive) or otherwise suspend these lessons during this period. This includes but is not limited to education and development support activities, arts and culture classes and workshops, religious classes, as well as sports and physical activity classes and programmes. The decision to suspend these classes is due to the higher risk of transmission of COVID-19 caused by intermingling of students from different schools, and to avoid interactions between tutors and students. This is also in line with schools' move to full Home-Based Learning.
 
       The above applies to all organisations and individuals (including centre-based classes, home-based businesses as well as one-on-one classes), with the exception of the following, which may continue on-premise instruction, subject to prevailing safe management measures:
 
       a.	MOE-registered Foreign System Kindergartens;
-      <br>b.	Organisations providing full-time pre-tertiary education to students age 18 and below that leads to a qualification, i.e. Private Education Institutions (PEIs) registered with the Committee for Private Education and Privately-funded Schools (PFSs)<sup>1</sup>;
-      <br>c.	Organisations and individuals providing learning interventions provided by therapists registered with the Allied Health Professions Council, or Early Intervention (EI) centres funded by the Early Childhood Development Agency (ECDA)<sup>2</sup>; and
-      <br>d.	Organisations and individuals when providing outdoor one-on-one (one coach to one student/trainee) sport or physical activity classes and programmes.
+      
+      b.	Organisations providing full-time pre-tertiary education to students age 18 and below that leads to a qualification, i.e. Private Education Institutions (PEIs) registered with the Committee for Private Education and Privately-funded Schools (PFSs)<sup>1</sup>;
+      
+      c.	Organisations and individuals providing learning interventions provided by therapists registered with the Allied Health Professions Council, or Early Intervention (EI) centres funded by the Early Childhood Development Agency (ECDA)<sup>2</sup>; and
+      
+      d.	Organisations and individuals when providing outdoor one-on-one (one coach to one student/trainee) sport or physical activity classes and programmes.
 
       Early Childhood Development Centres licensed by ECDA, and student care centres may continue to provide care to children, subject to prevailing safe management measures. On-premise instruction provided in the course of this care will also be permitted.
 
       Classes catering exclusively to students older than 18 years old may also continue in person, subject to prevailing safe management measures.
 
-      <sup>1</sup>I.e. Anglo-Chinese School (International), Hwa Chong International School, St Joseph’s Institution International (High School)
+      <sup>1</sup>i.e. Anglo-Chinese School (International), Hwa Chong International School, St Joseph’s Institution International (High School)
 
       <sup>2</sup>Businesses or individuals that provide arts and sports therapy can approach NAC or SportSG respectively to appeal to continue their services.
 
