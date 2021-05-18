@@ -25,7 +25,7 @@ The Employment Act contains statutory requirements on:
 - CPF contributions
 - Issuing pay slips
 
-Learn more about the Employment Act on [Ministry of Manpower's website](mom.gov.sg/employment-practices/employment-act){:target="_blank"}.
+Learn more about the Employment Act on [Ministry of Manpower's website](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}.
 
 ### e-Services for employment practices
 

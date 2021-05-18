@@ -12,7 +12,7 @@ accordions:
 
     - title: What guidelines are my reception subjected to?
       content: |
-        You can have **<ins>only one</ins>** reception. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of 100 persons (with PET), subject to the safe capacity of the venue.
+        You can have **<u>only one</u>** reception. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of 100 persons (with PET), subject to the safe capacity of the venue.
 
         You may hold your reception in any premises opened for operation (outside of the home and the ROM(M) Building) that can accommodate receptions. **Please note that any meal exceeding the existing group size for social gatherings, if held back-to-back with the solemnization, shall be deemed a reception.** You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented. 
 
