@@ -10,7 +10,7 @@ The solution aims to provide SME the opportunity to create an online presence. I
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
