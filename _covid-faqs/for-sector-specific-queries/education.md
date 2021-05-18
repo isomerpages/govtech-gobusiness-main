@@ -48,7 +48,7 @@ accordion:
 
   - title: What centres are allowed to continue on-premise instruction, and what are the safe management measures that they should implement?
     content: |
-      Details on the centres that are allowed to continue on-premise instruction can be found here.
+      Details on the centres that are allowed to continue on-premise instruction can be found above.
 
       To reduce risk of transmission of COVID-19, centres are required to abide by the nationwide safe management measures for workplaces issued on 9 May 2020. These include health checks, the use of SafeEntry to support contact tracing for all employees, students and other visitors, wearing of masks at all times, and regular cleaning of common facilities and high-touch areas. More details are available at the GoBusiness website.
 
@@ -98,7 +98,7 @@ accordion:
 
       No classes may take place for students aged 18 and younger from 19 May 2021 to 13 Jun 2021 (both dates inclusive). For classes exclusively for students older than age 18, the following additional safe management measures apply:
 
-      Indoor dance classes may only proceed if they are able to adhere to additional safe management measures (including all participants and instructors wearing masks at all times, and further capacity limits; no single room should hold more than 30 persons, including tutors/instructors), as detailed in the advisory issued by the National Arts Council. Outdoor dance classes must comply with the measures in the advisory issued by issued by Sport Singapore. 
+      Indoor dance classes may only proceed if they are able to adhere to additional safe management measures (including all participants and instructors wearing masks at all times, and further capacity limits; no single room should hold more than 30 persons, including tutors/instructors), as detailed in the advisory issued by the [National Arts Council](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"}. Outdoor dance classes must comply with the measures in the advisory issued by issued by Sport Singapore. 
 
       <u>Singing, Wind/Brass Instrument Classes</u>
 
@@ -108,7 +108,7 @@ accordion:
 
       No classes may take place for students aged 18 and younger from 19 May 2021 to 13 Jun 2021 (both dates inclusive). For classes exclusively for students older than age 18, the following additional safe management measures apply:
 
-      Voice training and speech and drama classes may continue, with all participants and instructors wearing masks at all times, subject to additional safe management measures and capacity limits (no single room should hold more than 30 persons, including tutors/instructors) as detailed in the advisory issued by the National Arts Council. 
+      Voice training and speech and drama classes may continue, with all participants and instructors wearing masks at all times, subject to additional safe management measures and capacity limits (no single room should hold more than 30 persons, including tutors/instructors) as detailed in the advisory issued by the [National Arts Council](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector-.html){:target="_blank"}. 
 
   - title: What centres are allowed to continue on-premise instruction, and what are the safe management measures that they should implement?
     content: |
@@ -140,7 +140,7 @@ accordion:
 
   - title: Can employees of private tuition and enrichment centres continue to work, even if centres have switched to online learning?
     content: |
-      Tuition and enrichment centres are required to abide by the nationwide safe management measures for workplaces. Tele-conferencing should be used in place of in-person meetings as far as possible. Where employees can perform their work by telecommuting from home, employers must ensure that they do so.
+      Tuition and enrichment centres are required to abide by the nationwide [safe management measures for workplaces](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. Tele-conferencing should be used in place of in-person meetings as far as possible. Where employees can perform their work by telecommuting from home, employers must ensure that they do so.
 
   - title: I am a private provider / Allied Health Professional offering services for students with Special Educational Needs (SEN) or disabilities. May I provide services and what are the safe management measures that I need to adhere to?
     content: |

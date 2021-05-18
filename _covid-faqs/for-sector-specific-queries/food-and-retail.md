@@ -24,10 +24,10 @@ accordions:
 
     - title: These additional measures have impacted my business greatly. How is the Government supporting us?
       content: |
-        (i)	<ins>Enhanced Jobs Support Scheme (JSS) for F&B firms</ins>
+        (i)	<u>Enhanced Jobs Support Scheme (JSS) for F&B firms</u>
         In view of the cessation of dining-in at F&B establishments, the Government will increase the JSS support rate to 50% of the first $4,600 of gross monthly wages paid to local employees during the period for which dining-in is prohibited. This is an increase from the 10% support for wages paid up to June 2021.
 
-        (ii)	<ins>One-month rental relief for hawker centres and coffeeshops on Government-owned premises</ins>
+        (ii)	<u>One-month rental relief for hawker centres and coffeeshops on Government-owned premises</u>
         To support hawkers and coffeeshop stallholders, who are self-employed and do not benefit from the JSS, the Government will provide one month of rental waiver for hawker stall and coffeeshop tenants of Government agencies. Commercial landlords are urged to support their F&B tenants through this period.
 
     - title: Will there be updates on the GoBusiness portal for businesses, e.g. what are the permissible activities?
