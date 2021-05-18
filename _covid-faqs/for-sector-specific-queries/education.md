@@ -5,7 +5,7 @@ third_nav_title: For Sector-Specific Queries
 accordion:
   - title: What types of classes need to be suspended, given the tighter safe distancing measures announced on 16 May 2021?
     content: |
-      <p id="question-one">All</p> organisations and individuals offering tuition and enrichment activities, whether academic or non-academic, must shift their lessons for students aged 18 and younger online from 19 May 2021 to 13 June 2021 (both dates inclusive) or otherwise suspend these lessons during this period. This includes but is not limited to education and development support activities, arts and culture classes and workshops, religious classes, as well as sports and physical activity classes and programmes. The decision to suspend these classes is due to the higher risk of transmission of COVID-19 caused by intermingling of students from different schools, and to avoid interactions between tutors and students. This is also in line with schools' move to full Home-Based Learning.
+      All organisations and individuals offering tuition and enrichment activities, whether academic or non-academic, must shift their lessons for students aged 18 and younger online from 19 May 2021 to 13 June 2021 (both dates inclusive) or otherwise suspend these lessons during this period. This includes but is not limited to education and development support activities, arts and culture classes and workshops, religious classes, as well as sports and physical activity classes and programmes. The decision to suspend these classes is due to the higher risk of transmission of COVID-19 caused by intermingling of students from different schools, and to avoid interactions between tutors and students. This is also in line with schools' move to full Home-Based Learning.
 
       The above applies to all organisations and individuals (including centre-based classes, home-based businesses as well as one-on-one classes), with the exception of the following, which may continue on-premise instruction, subject to prevailing safe management measures:
 
@@ -22,8 +22,7 @@ accordion:
       Classes catering exclusively to students older than 18 years old may also continue in person, subject to prevailing safe management measures.
 
       <sup>1</sup>i.e. Anglo-Chinese School (International), Hwa Chong International School, St Joseph’s Institution International (High School)
-
-      <sup>2</sup>Businesses or individuals that provide arts and sports therapy can approach NAC or SportSG respectively to appeal to continue their services.
+      <br><sup>2</sup>Businesses or individuals that provide arts and sports therapy can approach NAC or SportSG respectively to appeal to continue their services.
 
   - title: Will private tutors operating out of private residences be required to suspend their lessons?
     content: |
@@ -49,7 +48,7 @@ accordion:
 
   - title: What centres are allowed to continue on-premise instruction, and what are the safe management measures that they should implement?
     content: |
-      Details on the centres that are allowed to continue on-premise instruction can be found [here](/covid-faqs/for-sector-specific-queries/education/#question-one).
+      Details on the centres that are allowed to continue on-premise instruction can be found here.
 
       To reduce risk of transmission of COVID-19, centres are required to abide by the nationwide safe management measures for workplaces issued on 9 May 2020. These include health checks, the use of SafeEntry to support contact tracing for all employees, students and other visitors, wearing of masks at all times, and regular cleaning of common facilities and high-touch areas. More details are available at the GoBusiness website.
 
