@@ -11,7 +11,7 @@ accordion:
 
       a.	MOE-registered Foreign System Kindergartens;
       
-      b.	Organisations providing full-time pre-tertiary education to students age 18 and below that leads to a qualification, i.e. Private Education Institutions (PEIs) registered with the Committee for Private Education and Privately-funded Schools (PFSs)<sup>1</sup>;
+      b.	Organisations providing full-time pre-tertiary education to students age 18 and below that leads to a qualification, i.e. Private Education Institutions (PEIs) registered with the Committee for Private Education and Privately-funded Schools (PFSs); Nonetheless, MOE would strongly encourage these organisations to shift lessons online<sup>1</sup>;
       
       c.	Organisations and individuals providing learning interventions provided by therapists registered with the Allied Health Professions Council, or Early Intervention (EI) centres funded by the Early Childhood Development Agency (ECDA)<sup>2</sup>; and
       
@@ -134,7 +134,7 @@ accordion:
 
       There should be a wipe-down regimen after each use at such external venues. Private providers must also adhere to the safe management guidelines for private tuition/enrichment and CET courses, which are outlined in the FAQs within this section. 
 
-  - title: Can tuition and enrichment centres providing face-to-face classes students older than age 18 switch to online learning?
+  - title: Can tuition and enrichment centres providing face-to-face classes for students older than age 18 switch to online learning?
     content: |
       Yes, tuition and enrichment centres providing face-to-face classes are strongly encouraged to consider online lessons as the default arrangement during this period of heightened risk. Centres should review the safe management measures that they are able to put in place and can make their own business decisions regarding continuation of online learning, taking into consideration the efficacy of instruction and the needs and expectations of students/parents.
 
@@ -168,9 +168,9 @@ accordion:
 
       Business may refer to the SafeEntry User Guide for requirements on how to scan the TT tokens, available at [https://www.safeentry.gov.sg](https://www.safeentry.gov.sg){:target="_blank"} (please navigate to Resources > User Guide > SafeEntry NRIC User Guide for Business). Updates may also be found at [https://www.smartnation.gov.sg/whats-new/press-releases](https://www.smartnation.gov.sg/whats-new/press-releases){:target="_blank"}.
 
-  - title: Will private tutors providing face-to-face classes students older than age 18 operating out of private residences be required to implement the TraceTogether-only SafeEntry system?
+  - title: Will private tutors providing face-to-face classes for students older than age 18 operating out of private residences be required to implement the TraceTogether-only SafeEntry system?
     content: |
-      As with tuition and enrichment centres, private tutors providing face-to-face classes students older than age 18 operating out of private residences will need to implement TT-only SafeEntry.
+      As with tuition and enrichment centres, private tutors providing face-to-face classes for students older than age 18 operating out of private residences will need to implement TT-only SafeEntry.
 
   - title: Can MOE help to facilitate a refund of the fees I had already paid when face-to-face classes were suspended for students aged 18 years and younger?
     content: |
