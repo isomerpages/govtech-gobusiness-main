@@ -56,7 +56,6 @@ accordions:
 
         Enforcement checks will be conducted and actions will be taken against businesses for non-compliance. 
 
-
   - accordion:
     letter: b
     data:
@@ -69,6 +68,16 @@ accordions:
         (ii)	During this period, F&B establishments should cancel all events and promotions that will generate crowding at their physical premises in a manner which is non-compliant with the SMMs.
 
         F&B establishments may serve as venues for wedding solemnisations and/or work-related events by third parties and are required to comply with the SMMs for these events. **However, as wedding receptions are not allowed, food and drinks are not permitted to be served at wedding solemnisations. Food and drinks are also not allowed at work-related events.**
+
+    - title: Can establishments with Pub/Bar/Nightclub/Disco (PBND) licenses continue to provide takeaway and delivery services?
+      content: |
+        Pivoted establishments with the requisite SFA F&B licenses, as well as bars on the nightlife pilot programme, are allowed to provide takeaway and delivery services. 
+
+        Nightlife entities, which have either Pubs, Bars, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613) are still not allowed to operate during this period.
+
+    - title: Can F&B establishments do retail of alcoholic beverages? 
+      content: |
+        Police will not proactively enforce against outlets that are doing delivery/takeaway of liquor without a retail liquor licence, during this period where dining-in is not allowed. If there are further queries, please write in to [SPF_PLRD_PELLD@spf.gov.sg](mailto:SPF_PLRD_PELLD@spf.gov.sg).
 
     - title: Can staff and food handlers have their meals at the food outlets?
       content: |
@@ -96,7 +105,25 @@ accordions:
       content: |
         As dine-in services are not allowed, F&B establishments are not required to implement SafeEntry for customers. However, all F&B establishments (including those with no dine-in services) must require their staff and vendors to do SafeEntry check-in. They must transit to TraceTogether-only SafeEntry when this is implemented from 17 May 2021.
 
-        Staff at these outlets should also be trained to communicate good practices to customers (e.g. avoid forming clusters or join the demarcated queue lines while waiting for food). You can also put up signage to communicate these messages. 
+        Staff at these outlets should also be trained to communicate good practices to customers (e.g. avoid forming clusters or join the demarcated queue lines while waiting for food). You can also put up signage to communicate these messages.
+
+    - title: My operating costs will increase due to the increased demand for takeaway containers. Can the Government help with costs?
+      content: |
+        To help mitigate costs, F&B establishments can encourage customers to bring their own takeaway containers. Some establishments have already started to do so by offering incentives such as a small discount.
+
+    - title: What if we run out of takeaway containers?
+      content: |
+        Singapore has sufficient stock of takeaway containers. Supply chains are open and new stocks are continuing to arrive in Singapore. Local suppliers are also ramping up their production capabilities to prepare to meet the increased demand.
+
+        We encourage everyone to bring their own clean containers when buying food. This will not only help to reduce the amount of waste generated but also ease the demand on disposable containers. In turn, establishments should allow patrons to use their own reusable containers.
+
+    - title: Where can workers whose work requires them to be on the move (e.g. taxi drivers, food delivery personnel, bus drivers) take their meals since dine-in is not allowed?
+      content: |
+        For service workers whose work requires them to be on the move e.g. delivery services, transport services, they should return to their office or homes for their meals. If this is not practical, they can eat in their vehicles, or in public spaces such as void decks, park benches. Workers are encouraged to observe the following while doing so:
+
+        (i)	Dine alone and keep a distance of at least one metre from another individual. They should refrain from interacting with other individuals; and
+
+        (ii)	Dine quickly and leave the public space in a clean state after they have consumed their meals. Wear masks as soon as they have finished eating or drinking.
 
     - title: Must a food delivery personnel wear a mask at all times?
       content: |
@@ -132,6 +159,11 @@ accordions:
           
           e.	All other prevailing workplace and venue SMMs must be adhered to.
 
+    - title: How is this Food Delivery Booster Package different from the package last year?
+      content: |
+        The Food Delivery Booster Package is similar to the previous package that was introduced last year and provides targeted support for F&B businesses to defray business costs associated with greater demand for delivery services, in view of the cessation of dining-in at F&B establishments under the Phase 2 (Heightened Alert) period.
+ 
+        To help F&B businesses sustain their operations during this period, the package will reduce the cost of commission and delivery for appointed food delivery platforms and third-party logistics players.
 
   - accordion:
     letter: c
@@ -182,9 +214,15 @@ accordions:
 
     - title: Are TCM patients allowed to take off their masks during their consultation? 
       content: |
-        Patients of licensed Traditional Chinese Medicine (TCM) practitioners are allowed to remove their masks during their consultation/treatment, if required. They must wear their masks as soon as their consultation/treatment is complete. 
-
-
+        Patients of licensed Traditional Chinese Medicine (TCM) practitioners are allowed to remove their masks during their consultation/treatment, if required. They must wear their masks as soon as their consultation/treatment is complete.
+        
+    - title: How is this E-Commerce Booster Package different from the package last year? 
+      content: |
+        The E-Commerce Booster Package is similar to the package that was offered last year and provides targeted support for retail businesses to defray business costs associated with diversifying operations online, in view of the reduced occupancy limits for shopping malls and large standalone stores, under the Phase 2 (Heightened Alert) period.
+ 
+        The package is targeted at reducing the costs charged by the e-commerce platforms to help retailers increase local sales of products online and expand their reach in the Singapore market through the platforms.
+ 
+        Manpower costs will not be supported under the current package, as the need to defray cost for additional manpower is much lower since stores are allowed to remain open during the Phase 2 (Heightened Alert) period.
 ---
 
 ### Food and retail

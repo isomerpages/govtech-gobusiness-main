@@ -61,7 +61,7 @@ accordions:
         Marriage solemnizations may continue, and will be subject to the following limits:
 
         |Activity|Max No. of Attendees, including Bride and Groom (Without Pre-Event Testing)|Max No. of Attendees, including Bride and Groom (With Pre-Event Testing)|
-        |Solemnizations|1-50|51-100 Pre-Event Testing required for <ins>all unvaccinated attendees</ins>|
+        |Solemnizations|1-50|51-100 Pre-Event Testing required for <u>all unvaccinated attendees</u>|
 
         With the tightened measures, PET will be required for all unvaccinated attendees for solemnizations involving 51 to 100 attendees. (Previously, PET was required for the marriage couple only for solemnizations involving more than 51 to 250 attendees.) Attendees who have successfully completed the COVID-19 vaccination in Singapore are exempted from PET (i.e. 14 days have passed since the second dose of the Pfizer or Moderna COVID-19 vaccination).
 
