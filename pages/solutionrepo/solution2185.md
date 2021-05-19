@@ -1,15 +1,15 @@
 ---
-title: SYSFREIGHT Version 8 - Standard 15 User
-permalink: /productivity-solutions-grant/solutionrepo/solution1530
+title: Xero Accounting software - Premium Starter Package
+permalink: /productivity-solutions-grant/solutionrepo/solution2185
 ---
 
 ### Description
 
-SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences). It aims to computerize and optimizes the operation and management by using of the latest technologies and complemented by our professional services.
+Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
+Web URL: www.xero.com <br>Contact Hotline: 63104961 <br>Contact Email: enquiry@perfecten.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

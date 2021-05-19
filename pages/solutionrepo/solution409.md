@@ -5,11 +5,12 @@ permalink: /productivity-solutions-grant/solutionrepo/solution409
 
 ### Description
 
-Firstcom Solutions is a leading web development agency with more than 10 years of experience. Our solution covers the development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, manage online orders and data, track statistics of product sales performance, online marketing of products and provision of integration with external platforms to provide better automation and data analytics. 
+Firstcom's customised platform allows processing of online orders, dine-in, take-away & table reservation. Payment gets credited to your bank account immediately. Management of pictures and description can be done easily via the portal. 
+Data Analytics features are available to help business owners forecast sales revenue, plan for future stock procurement and do advance digital marketing planning to target the right customers at the right time, with the right products.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Firstcom_20200403_Annex_3_Part_12.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Annex_3_Firstcom_FoodServices.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

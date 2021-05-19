@@ -1,15 +1,15 @@
 ---
-title: SYSFREIGHT Version 8 - Standard 15 User
-permalink: /productivity-solutions-grant/solutionrepo/solution1530
+title: Xero Cloud Accounting Software - Premium Package - Software & Setup
+permalink: /productivity-solutions-grant/solutionrepo/solution2194
 ---
 
 ### Description
 
-SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences). It aims to computerize and optimizes the operation and management by using of the latest technologies and complemented by our professional services.
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
+Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 93891853 <br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
