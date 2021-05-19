@@ -6,7 +6,7 @@ third_nav_title: Licences
 
 ### Public Entertainment Licence
 
-{% include accordion.html accordions=site.data.acc30-food-stall-licence.accordion %}
+{% include accordion.html accordions=site.data.acc030-food-stall-licence.accordion %}
 
 [Back to Licences Overview](/licences/)
 

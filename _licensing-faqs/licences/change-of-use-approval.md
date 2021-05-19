@@ -6,6 +6,6 @@ third_nav_title: Licences
 
 ### Change of Use Approval
 
-{% include accordion.html accordions=site.data.acc28-change-of-use-approval.accordion %}
+{% include accordion.html accordions=site.data.acc028-change-of-use-approval.accordion %}
 
 [Back to Licences Overview](/licences/)

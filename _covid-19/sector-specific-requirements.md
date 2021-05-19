@@ -7,4 +7,4 @@ permalink: /safemanagement/sector/
 
 Businesses must adhere to sector-specific requirements as stipulated below, in addition to the [general requirements](/safemanagement/general/).
 
-{% include accordion.html accordions=site.data.acc19-sector-specific-requirements.accordion %}
+{% include accordion.html accordions=site.data.acc019-sector-specific-requirements.accordion %}

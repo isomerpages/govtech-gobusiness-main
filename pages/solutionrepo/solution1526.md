@@ -9,7 +9,7 @@ SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers compre
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SYSMAGIC_20200398_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

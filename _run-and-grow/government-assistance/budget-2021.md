@@ -20,11 +20,13 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"} for more info
 
 #### Grants
 
-{% include accordion.html accordions=site.data.acc74-budget-2021 letter="a" %}
+{% include letter-accordion.html accordions=site.data.acc074-budget-2021 letter="a" %}
 
 #### Toolkits / Programmes
 
-{% include accordion.html accordions=site.data.acc74-budget-2021 letter="b" %}
+{% include letter-accordion.html accordions=site.data.acc074-budget-2021 letter="b" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+<script src="/jquery/scroll-to-accordion.js"></script>

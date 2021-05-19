@@ -2,7 +2,6 @@
 title: Browse all licences
 permalink: /licences/find-licence-by-agency/
 third_nav_title: Licences and Permits
-
 ---
 
 ## Find licences by agency
@@ -11,53 +10,54 @@ Select a government agency to see its licences and apply for them.
 
 ## A
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="a" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="a" %}
 
 ## B
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="b" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="b" %}
 
 ## C
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="c" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="c" %}
 
 ## E
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="e" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="e" %}
 
 ## H
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="h" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="h" %}
 
 ## I
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="i" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="i" %}
 
 ## L
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="l" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="l" %}
 
 ## M
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="m" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="m" %}
 
 ## N
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="n" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="n" %}
 
 ## P
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="p" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="p" %}
 
 ## S
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="s" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="s" %}
 
 ## U
 
-{% include accordion.html accordions=site.data.acc79-browse-all-licences letter="u" %}
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="u" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
 <script src="/jquery/resize-tables.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+<script src="/jquery/scroll-to-accordion.js"></script>

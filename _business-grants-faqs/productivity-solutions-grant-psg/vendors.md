@@ -7,6 +7,6 @@ published: false
 
 ### Vendors
 
-{% include accordion.html accordions=site.data.acc12-vendors.accordion %}
+{% include accordion.html accordions=site.data.acc012-vendors.accordion %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

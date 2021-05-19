@@ -7,6 +7,6 @@ published: false
 
 ### Claims
 
-{% include accordion.html accordions=site.data.acc08-claims.accordion %}
+{% include accordion.html accordions=site.data.acc008-claims.accordion %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

@@ -9,7 +9,7 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Webcada_Annex_3_wef_1_March_2021_Part_b.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

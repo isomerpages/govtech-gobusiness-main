@@ -6,4 +6,4 @@ third_nav_title: Sector-Specific Support
 
 ## Hospitality and tourism
 
-{% include accordion.html accordions=site.data.acc20-hospitality-tourism.accordion %}
+{% include accordion.html accordions=site.data.acc020-hospitality-tourism.accordion %}

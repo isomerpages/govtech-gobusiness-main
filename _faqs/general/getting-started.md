@@ -6,6 +6,6 @@ third_nav_title: General
 
 ### Getting started
 
-{% include accordion.html accordions=site.data.acc22-getting-started.accordion %}
+{% include accordion.html accordions=site.data.acc022-getting-started.accordion %}
 
 <script src="/jquery/bp-menu-new-tab.js"></script>

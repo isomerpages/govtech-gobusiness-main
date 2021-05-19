@@ -16,7 +16,7 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
 
 ### For all sectors
 
-{% include accordion.html accordions=site.data.acc76-loans.accordion %}
+{% include accordion.html accordions=site.data.acc076-loans.accordion %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

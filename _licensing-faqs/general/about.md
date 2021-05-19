@@ -6,6 +6,6 @@ third_nav_title: General
 
 ### About
 
-{% include accordion.html accordions=site.data.acc24-about.accordion %}
+{% include accordion.html accordions=site.data.acc024-about.accordion %}
 
 [Back to Licences Overview](/licences/)
