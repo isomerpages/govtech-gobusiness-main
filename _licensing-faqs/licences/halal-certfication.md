@@ -6,6 +6,6 @@ third_nav_title: Licences
 
 ### Halal Certfication
 
-{% include accordion.html accordions=site.data.acc31-halal-certfication.accordion %}
+{% include accordion.html accordions=site.data.acc031-halal-certfication.accordion %}
 
 [Back to Licences Overview](/licences/)

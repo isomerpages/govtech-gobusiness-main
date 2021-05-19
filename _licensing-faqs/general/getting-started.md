@@ -6,6 +6,6 @@ third_nav_title: General
 
 ### Getting started
 
-{% include accordion.html accordions=site.data.acc26-getting-started.accordion %}
+{% include accordion.html accordions=site.data.acc026-getting-started.accordion %}
 
 [Back to Licences Overview](/licences/)

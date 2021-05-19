@@ -7,6 +7,6 @@ published: false
 
 ### Letter Of Offer
 
-{% include accordion.html accordions=site.data.acc10-letter-of-offer.accordion %}
+{% include accordion.html accordions=site.data.acc010-letter-of-offer.accordion %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

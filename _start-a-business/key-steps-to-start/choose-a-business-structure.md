@@ -12,7 +12,7 @@ Whether you're running the business on your own or with partners, choose the str
 
 ### Here are the five different types of business structures:
 
-{% include accordion.html accordions=site.data.acc83-choose-a-business-structure.accordion %}
+{% include accordion.html accordions=site.data.acc083-choose-a-business-structure.accordion %}
 
 ### How to choose your business structure
 

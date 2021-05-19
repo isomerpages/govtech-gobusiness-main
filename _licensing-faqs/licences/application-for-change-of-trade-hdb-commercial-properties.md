@@ -6,6 +6,6 @@ third_nav_title: Licences
 
 ### Licences
 
-{% include accordion.html accordions=site.data.acc27-application-for-change-of-trade-hdb-commercial-properties.accordion %}
+{% include accordion.html accordions=site.data.acc027-application-for-change-of-trade-hdb-commercial-properties.accordion %}
 
 [Back to Licences Overview](/licences/)

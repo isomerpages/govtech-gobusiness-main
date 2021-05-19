@@ -15,13 +15,18 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
 " type="primary" %}
 
 ### For startups
-{% include accordion.html accordions=site.data.acc75-grants letter="a" %}
+
+{% include letter-accordion.html accordions=site.data.acc075-grants letter="a" %}
 
 ### For all sectors
-{% include accordion.html accordions=site.data.acc75-grants letter="b" %}
+
+{% include letter-accordion.html accordions=site.data.acc075-grants letter="b" %}
 
 ### For specific sectors
-{% include accordion.html accordions=site.data.acc75-grants letter="c" %}
+
+{% include letter-accordion.html accordions=site.data.acc075-grants letter="c" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+<script src="/jquery/scroll-to-accordion.js"></script>

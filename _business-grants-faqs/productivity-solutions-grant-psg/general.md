@@ -7,6 +7,6 @@ published: false
 
 ### General
 
-{% include accordion.html accordions=site.data.acc11-general.accordion %}
+{% include accordion.html accordions=site.data.acc011-general.accordion %}
 
 [Back to Business Grants Overview](/business-grants-portal/)

@@ -8,4 +8,4 @@ third_nav_title: Financial Support
 
 Here are the schemes currently available to help businesses get funding and financial assistance.
 
-{% include accordion.html accordions=site.data.acc15-financial-schemes.accordion %}
+{% include accordion.html accordions=site.data.acc015-financial-schemes.accordion %}

@@ -8,4 +8,4 @@ third_nav_title: Financial Support
 
 Here are the grants currently available.
 
-{% include accordion.html accordions=site.data.acc16-grants.accordion %}
+{% include accordion.html accordions=site.data.acc016-grants.accordion %}

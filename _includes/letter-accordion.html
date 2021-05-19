@@ -1,0 +1,123 @@
+<style>
+  ul.jekyllcodex_accordion {
+    position: relative;
+    margin: 1.4rem 0 !important;
+    border-bottom: 1px solid #DBDFE4;
+    padding-bottom: 0;
+  }
+
+  ul.jekyllcodex_accordion li {
+    border-top: 1px solid #DBDFE4;
+    list-style: none;
+    margin: 0 auto 0 0 !important;
+  }
+
+  ul.jekyllcodex_accordion li input {
+    display: none;
+  }
+
+  ul.jekyllcodex_accordion li label {
+    display: block;
+    cursor: pointer;
+    padding: 16px 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: hknova-regular;
+    color: #000000;
+    margin-right: 41px;
+  }
+
+  ul.jekyllcodex_accordion li div {
+    padding: 0;
+    height: 0;
+    overflow: hidden;
+    transition: height 0.4s ease-in-out;
+  }
+
+  ul.jekyllcodex_accordion li input:checked+label {
+    font-weight: 600;
+    font-family: hknova-bold;
+    margin-right: 41px;
+  }
+
+  ul.jekyllcodex_accordion li input:checked+label+div {
+    display: block;
+    height: auto;
+    padding: 0;
+    overflow: visible;
+  }
+
+  ul.jekyllcodex_accordion li input:checked+label+div p {
+    margin-bottom: 24px;
+    margin-right: 41px;
+  }
+
+  ul.jekyllcodex_accordion li input:checked+label+div p:where(ul.jekyllcodex_accordion li input:checked+label+div p a) {
+    margin: 32px 0;
+  }
+
+  ul.jekyllcodex_accordion li label::before {
+    content: url(/images/chevron-down.svg);
+    color: #037e8a;
+    font-weight: 400;
+    font-size: 130%;
+    line-height: 1.1rem;
+    padding: 0;
+    position: absolute;
+    right: 0.5rem;
+  }
+
+  ul.jekyllcodex_accordion li input:checked+label::before {
+    content: url(/images/chevron-up.svg);
+    transform: rotateZ(180deg);
+  }
+
+  ul.jekyllcodex_accordion li ul li {
+    list-style-type: disc;
+    border-top: 0;
+  }
+
+  ul.jekyllcodex_accordion li ol li {
+    list-style-type: decimal;
+    border-top: 0;
+  }
+</style>
+
+<ul class="jekyllcodex_accordion">
+  {% if include.accordions %}
+  <!-- New accordion -->
+  {% if include.letter %}
+  {% for accordion in include.accordions %}
+  {% if accordion.letter == include.letter %}
+  {% for item in accordion.data %}
+  <li><input id="accordion-{{accordion.letter}}{{ forloop.index }}" type="checkbox" /><label
+      for="accordion-{{accordion.letter}}{{ forloop.index }}">{{
+      item.title }}</label>
+    <div>{{ item.content | markdownify }}</div>
+  </li>
+  {% endfor %}
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+
+  {% else %}
+  <!-- Old accordion -->
+  {% if include.letter %}
+  {% for accordion in page.accordions %}
+  {% if accordion.letter == include.letter %}
+  {% for item in accordion.data %}
+  <li><input id="accordion-{{accordion.letter}}{{ forloop.index }}" type="checkbox" /><label
+      for="accordion-{{accordion.letter}}{{ forloop.index }}">{{
+      item.title }}</label>
+    <div>{{ item.content | markdownify }}</div>
+  </li>
+  {% endfor %}
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+  
+  {% endif %}
+</ul>
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/scroll-top.js"></script>

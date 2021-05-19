@@ -6,6 +6,6 @@ third_nav_title: Licences
 
 ### Petroleum / Flammable Materials Storage Licence
 
-{% include accordion.html accordions=site.data.acc36-tobacco-retail-licence.accordion %}
+{% include accordion.html accordions=site.data.acc036-tobacco-retail-licence.accordion %}
 
 [Back to Licences Overview](/licences/)

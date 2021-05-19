@@ -16,7 +16,7 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_taxincentives
 
 ### For all sectors
 
-{% include accordion.html accordions=site.data.acc77-tax-incentives.accordion %}
+{% include accordion.html accordions=site.data.acc077-tax-incentives.accordion %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

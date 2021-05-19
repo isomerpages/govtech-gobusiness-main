@@ -7,6 +7,6 @@ published: false
 
 ### Login via Corppass
 
-{% include accordion.html accordions=site.data.acc06-login-via-corppass.accordion %}
+{% include accordion.html accordions=site.data.acc006-login-via-corppass.accordion %}
 
 [Back to Business Grants Overview](/business-grants-portal/)
