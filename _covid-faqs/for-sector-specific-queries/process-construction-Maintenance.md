@@ -31,5 +31,6 @@ third_nav_title: For Sector-Specific Queries
 {% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+
+<script src="/jquery/fuse-code.js"></script>
 <script src="/jquery/scroll-to-accordion.js"></script>
