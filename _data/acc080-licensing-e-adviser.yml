@@ -34,7 +34,7 @@
 - accordion:
   letter: b
   data:
-    - title: Building and Construction
+    - title: Building & Construction
       content: |
         Explore licences you may require with the e-Advisers:
         <br>[Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
@@ -131,7 +131,7 @@
         <br>[Setting up capital market intermediaries](https://eadviser.gobusiness.gov.sg/settingupcapitalmarketintermediaries){:target="_blank"}
         <br>[Financial & insurance advisor](https://eadviser.gobusiness.gov.sg/financialinsuranceadvisor){:target="_blank"}
 
-    - title: Food and Beverage
+    - title: Food & Beverage (F&B)
       content: |
         [Guide to starting a new Food Service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licence_by_sector){:target="_blank"}
         <br>Use Food Services Guided Journey, a step-by-step beginner guide for helping you apply for the licences you need.
@@ -218,7 +218,7 @@
 - accordion:
   letter: m
   data:
-    - title: Manufacturing and Engineering
+    - title: Manufacturing & Engineering
       content: |
         Explore licences you may require with the e-Advisers:
         <br>[Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
@@ -359,7 +359,7 @@
         <br>[Conducting fundraising for foreign charitable purposes](https://eadviser.gobusiness.gov.sg/conductingfundraisingforforeigncharitablepurposes){:target="_blank"}
         <br>[Conducting fundraising events](https://eadviser.gobusiness.gov.sg/conductingfundraisingevents){:target="_blank"}
 
-    - title: Sports and Recreation
+    - title: Sports & Recreation
       content: |
         Explore licences you may require with the e-Advisers:
         <br>[Sports, spearfishing, target practice](https://eadviser.gobusiness.gov.sg/sportsspearfishingtargetpractice){:target="_blank"}
