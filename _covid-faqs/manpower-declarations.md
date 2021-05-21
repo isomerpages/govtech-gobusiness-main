@@ -1,0 +1,17 @@
+---
+title: Manpower Declarations
+permalink: /covid-faqs/manpower-declarations
+---
+
+### Manpower Declarations
+
+{% include letter-accordion.html accordions=site.data.acc087a-manpower-declarations letter="a" %}
+
+#### For Marine & Offshore and Process sectors only
+
+{% include letter-accordion.html accordions=site.data.acc087a-manpower-declarations letter="b" %}
+
+[Back to Covid-19 Overview](/covid/)
+
+<script src="/jquery/fuse-code.js"></script>
+<script src="/jquery/scroll-to-accordion.js"></script>

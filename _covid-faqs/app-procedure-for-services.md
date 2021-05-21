@@ -15,14 +15,6 @@ Note: This section applies to companies who are still non-permitted as their bus
 
 {% include letter-accordion.html accordions=site.data.acc087-app-procedure-for-services letter="b" %}
 
-#### Manpower Declaration/Submission
-
-{% include letter-accordion.html accordions=site.data.acc087-app-procedure-for-services letter="c" %}
-
-#### For Marine & Offshore and Process sectors only
-
-{% include letter-accordion.html accordions=site.data.acc087-app-procedure-for-services letter="d" %}
-
 [Back to Covid-19 Overview](/covid/)
 
 <script src="/jquery/fuse-code.js"></script>
