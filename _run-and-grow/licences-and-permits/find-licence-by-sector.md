@@ -1,25 +1,64 @@
 ---
-title: Find Licence by Sector
+title: Licence guides by sector
 permalink: /licences/find-licence-by-sector/
 third_nav_title: Licences and Permits
 published: false
 ---
 
-## Find Licence by Sector
+## Find licences by sector
 
-Select your relevant industry and find out which licences you need by answering a few questions.
+Find out which licences you need by answering a few questions, based on your business sector.
 
-### Explore licences you may require:
+## A
 
-- Run a food stall in a private establishment
-- Run a hawker stall
-- Run a food & beverage (F&B) outlet
-- Run a restaurant or cafe
-- Run a bar, pub, cabaret, night club, discotheque or karaoke lounge
-- Run a coffee shop or canteen
-- Run a cyber/internet cafe
-- Dealings with rice
-- Operate slaughter-house
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="a" %}
+
+## B
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="b" %}
+
+## D
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="d" %}
+
+## E
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="e" %}
+
+## F
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="f" %}
+
+## H
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="h" %}
+
+## L
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="l" %}
+
+## M 
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="m" %}
+
+## P
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="p" %}
+
+## R
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="r" %}
+
+## S
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="s" %}
+
+## T
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="t" %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+<script src="/jquery/scroll-to-accordion.js"></script>

@@ -24,5 +24,5 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_toolkits
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
+<script src="/jquery/fuse-code.js"></script>
 <script src="/jquery/scroll-to-accordion.js"></script>
