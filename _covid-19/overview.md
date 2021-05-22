@@ -12,7 +12,7 @@ Here are some helpful resources for business owners to find the assistance you n
 > **The email sent from the is....**
 
 <div id="demobox" style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-This is a demo box to illustrate the code given in thesitewizard.com's tutorial on creating coloured boxes.
+This is a test.
 </div>
 
 
