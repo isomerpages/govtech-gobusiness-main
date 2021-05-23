@@ -8,13 +8,5 @@ COVID-19 has caused severe economic disruptions and impacted business activity a
 
 Here are some helpful resources for business owners to find the assistance you need and to ensure that business activities resume safely:
 
-> **The email sent from the is....** 
-> **The email sent from the is....**
-
-<div id="demobox" style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-This is a test.
-</div>
-
-
 
 {% include panels.html panels=site.data.covid_links %}
