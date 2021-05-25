@@ -20,5 +20,4 @@ third_nav_title: For Sector-Specific Queries
 
 [Back to Covid-19 Overview](/covid/)
 
-<script src="/jquery/fuse-code.js"></script>
-<script src="/jquery/scroll-to-accordion.js"></script>
+<script src="/jquery/loadFuse.js"></script>
