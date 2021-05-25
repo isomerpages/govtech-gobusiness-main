@@ -12,9 +12,9 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels.html panels=site.data.rg_licences %}
 
-![Food Services](/images/grow/foodservices.png)
-
 ### For new food service business owners
+
+![Food Services](/images/grow/foodservices.png)
 
 #### Guided Journey
 
@@ -24,9 +24,9 @@ If you are starting a new food service business, find out which licences you nee
 {% include button.html text="Log In to Guided Journey" src="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs" type="primary" %}
 </p>
 
-<img id="amend-renew-licences" src="/images/grow/allotherbizowners.png"/>
+<h3 id="amend-renew-licences">Amend/renew licences</h3>
 
-### Amend/renew licences
+![Others](/images/grow/allotherbizowners.png)
 
 If your licence is from
 
