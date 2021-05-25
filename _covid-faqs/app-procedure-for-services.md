@@ -17,5 +17,4 @@ Note: This section applies to companies who are still non-permitted as their bus
 
 [Back to Covid-19 Overview](/covid/)
 
-<script src="/jquery/fuse-code.js"></script>
-<script src="/jquery/scroll-to-accordion.js"></script>
+<script src="/jquery/loadFuse.js"></script>

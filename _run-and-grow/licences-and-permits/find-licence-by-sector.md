@@ -37,7 +37,7 @@ Find out which licences you need by answering a few questions, based on your bus
 
 {% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="l" %}
 
-## M 
+## M
 
 {% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="m" %}
 
@@ -57,8 +57,6 @@ Find out which licences you need by answering a few questions, based on your bus
 
 {% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="t" %}
 
-
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
-<script src="/jquery/scroll-to-accordion.js"></script>
+<script src="/jquery/loadFuse.js"></script>
