@@ -1,3 +1,8 @@
+- title: Find by sector
+  description: Select your business sector, and answer a few questions to find out which licences you need.
+  url: /licences/find-licence-by-sector/
+  text: Browse list of Sectors
+  
 - title: Browse All Licences
   description: Browse the list of licences you can apply for from each government agency.
   url: /licences/find-licence-by-agency/
