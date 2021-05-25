@@ -1,5 +1,5 @@
 ---
-title: UTM+ Managed Security Services Version 5.5  - Package (UTM+ for Max 800)
+title: UTM+ Managed Security Services Version 5.5  - Package (UTM+ for Max 80)
 permalink: /productivity-solutions-grant/solutionrepo/solution2095
 ---
 
