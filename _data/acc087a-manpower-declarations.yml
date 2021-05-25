@@ -51,6 +51,26 @@
       content: |
         You may change and resubmit your manpower declaration up to 5 times a day. Each new submission will override all previous submissions.
 
+    - title: Is there a cap on the number of workers allowed on site?
+      content: |
+        No. However, businesses are required to implement work-from-home as a default and only workers whose work cannot be performed at home are allowed to continue to work on site.
+
+    - title: If my workers are deployed at other premises and not working at my own business premise, do I include them in the onsite manpower declaration?
+      content: |
+        Workers who are not working from home should be counted, i.e. your count of workers should include 
+        
+        (a) the workers who are working at your work premises and 
+        
+        (b) the workers whom you have deployed outside of your work premises, but not working from home.
+
+    - title: Do I need to submit my manpower details if my business premise is my place of residence?
+      content: |
+        If your registered business premise is your place of residence, you can submit manpower as “0”.
+
+    - title: Will enforcement officers check against the number of people my company have declared to work onsite?
+      content: |
+        In relation to the safe management measure on work-from-home, enforcement officers will review whether the role of the worker who is working onsite cannot be performed from home.
+        
 - accordion:
   letter: b
   data:
