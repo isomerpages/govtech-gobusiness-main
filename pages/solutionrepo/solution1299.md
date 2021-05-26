@@ -1,15 +1,15 @@
 ---
-title: SMEPAYROLL HRMS Version 11 - Professional 250
+title: PEOPLECENTRAL HRMS Version 11 - Professional 250
 permalink: /productivity-solutions-grant/solutionrepo/solution1299
 ---
 
 ### Description
 
-SMEPayroll is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
+PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

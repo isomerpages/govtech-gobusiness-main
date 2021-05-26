@@ -1,5 +1,5 @@
 ---
-title: Managed Firewall Solution - Fortigate 100E
+title: Managed Firewall Solution - Fortigate 80F
 permalink: /productivity-solutions-grant/solutionrepo/solution1284
 ---
 
@@ -9,7 +9,7 @@ LGA's Managed Firewall Service provides robust next-generation firewall protecti
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LGA_Firewall_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
