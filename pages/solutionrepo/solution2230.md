@@ -1,6 +1,6 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (51- 100 Employees)
-permalink: /productivity-solutions-grant/solutionrepo/solution604
+title: HRSS & Payroll Processing with JustLogin - Package (16 - 25 Employees)
+permalink: /productivity-solutions-grant/solutionrepo/solution2230
 ---
 
 ### Description
@@ -9,7 +9,7 @@ Providing customized HR outsourcing services combined with Human Capital Managem
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Match Resources Pte Ltd<br>www.matchresources.com.sg<br>Email: jobs@matchresources.com.sg<br>Tel: +65 6653 1198
+Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

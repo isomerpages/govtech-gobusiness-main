@@ -1,15 +1,15 @@
 ---
-title: Timesheet Management Version 11 - TimeCentral 100
+title: TimeCentral Version 11 - 	TimeCentral 100
 permalink: /productivity-solutions-grant/solutionrepo/solution1668
 ---
 
 ### Description
 
-TimeCentral TIMESHEET MANAGEMENT solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Best_20200325_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
