@@ -2,7 +2,7 @@
 title: Licence guides by sector
 permalink: /licences/find-licence-by-sector/
 third_nav_title: Licences and Permits
-published: false
+published: true
 ---
 
 ## Find licences by sector
