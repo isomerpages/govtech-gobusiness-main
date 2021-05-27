@@ -28,4 +28,3 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-<script src="/jquery/loadFuse.js"></script>

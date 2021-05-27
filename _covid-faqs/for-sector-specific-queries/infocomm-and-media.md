@@ -43,5 +43,3 @@ third_nav_title: For Sector-Specific Queries
 {% include letter-accordion.html accordions=site.data.acc99a-infocomm-and-media letter="h" %}
 
 [Back to Covid-19 Overview](/covid/)
-
-<script src="/jquery/loadFuse.js"></script>

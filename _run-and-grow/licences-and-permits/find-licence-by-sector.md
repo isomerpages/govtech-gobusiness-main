@@ -59,4 +59,3 @@ Find out which licences you need by answering a few questions, based on your bus
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-<script src="/jquery/loadFuse.js"></script>

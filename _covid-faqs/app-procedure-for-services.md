@@ -16,5 +16,3 @@ Note: This section applies to companies who are still non-permitted as their bus
 {% include letter-accordion.html accordions=site.data.acc087-app-procedure-for-services letter="b" %}
 
 [Back to Covid-19 Overview](/covid/)
-
-<script src="/jquery/loadFuse.js"></script>
