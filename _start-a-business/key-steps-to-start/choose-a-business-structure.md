@@ -50,3 +50,5 @@ There are 2 ways to find out which business structure suits you best:
 <div class="bp-youtube">
   <iframe src="https://www.youtube.com/embed/AUDy57BK-rU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
+
+<script src="/jquery/notifications.js"></script>
