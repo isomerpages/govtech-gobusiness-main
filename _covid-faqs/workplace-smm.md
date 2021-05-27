@@ -19,4 +19,3 @@ permalink: /covid-faqs/workplace-safe-management-measures
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
-<script src="/jquery/loadFuse.js"></script>

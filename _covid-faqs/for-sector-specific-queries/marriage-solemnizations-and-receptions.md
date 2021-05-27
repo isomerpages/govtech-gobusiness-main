@@ -27,5 +27,3 @@ third_nav_title: For Sector-Specific Queries
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
-
-<script src="/jquery/loadFuse.js"></script>

@@ -59,4 +59,3 @@ Select a government agency to see its licences and apply for them.
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
 <script src="/jquery/resize-tables.js"></script>
-<script src="/jquery/loadFuse.js"></script>

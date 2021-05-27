@@ -35,5 +35,3 @@ third_nav_title: For Sector-Specific Queries
 {% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="g" %}
 
 [Back to Covid-19 Overview](/covid/)
-
-<script src="/jquery/loadFuse.js"></script>

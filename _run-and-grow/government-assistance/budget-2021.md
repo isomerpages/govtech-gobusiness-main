@@ -28,4 +28,3 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"} for more info
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-<script src="/jquery/loadFuse.js"></script>
