@@ -15,3 +15,5 @@ All businesses should take note of the following:
 -   Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours. Social gatherings at the workplace will not be allowed.
 
 -	Any applicable sector-specific requirements
+
+![SMR](/images/covid/smradvice.jpg "SMR")
