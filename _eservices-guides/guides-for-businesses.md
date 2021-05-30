@@ -22,3 +22,5 @@ Navigate the process of starting, running and growing a business with our handy 
 
 - [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.
+
+<script src="/jquery/notifications.js"></script>

@@ -62,3 +62,5 @@ You will be notified of your application results via email. Log into BGP to acce
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+
+<script src="/jquery/notifications.js"></script>
