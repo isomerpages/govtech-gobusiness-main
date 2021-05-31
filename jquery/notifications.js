@@ -2,7 +2,6 @@
 
 const custom_notifications = [
   "<b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href='https://go.gov.sg/corporate-login'>go.gov.sg/corporate-login</a>",
-  "<b>[Attention: System Maintenance]</b> e-Advisers for Business Structure, Starting a Business and Government Assistance will be unavailable due to scheduled maintenance on 31 May 2021 from 12pm to 2pm. We apologise for the inconvenience caused.",
 ];
 
 // Do not edit the following code
