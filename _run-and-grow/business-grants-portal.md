@@ -25,7 +25,7 @@ Currently on BGP, you can apply for:
 You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
 <p>
-{% include button.html text="Go to e-Adviser for Government Assistance" src="https://gaeadviser.gobusiness.gov.sg/?src=run&grow_bgp" type="primary" %}
+{% include button.html text="Go to e-Adviser for Government Assistance" src="#https://gaeadviser.gobusiness.gov.sg/?src=run&grow_bgp" type="primary" %}
 </p>
 
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for.
@@ -62,3 +62,5 @@ You will be notified of your application results via email. Log into BGP to acce
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+
+<script src="/jquery/notifications.js"></script>

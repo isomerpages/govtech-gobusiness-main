@@ -11,7 +11,7 @@ third_nav_title: Government Assistance
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend loans you can apply for.
 
 {% include button.html text="Go to e-Adviser for Government Assistance" src="
-https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
+#https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
 " type="primary" %}
 
 ### For all sectors
@@ -20,3 +20,5 @@ https://gaeadviser.gobusiness.gov.sg/?src=govassist_loans
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+
+<script src="/jquery/notifications.js"></script>
