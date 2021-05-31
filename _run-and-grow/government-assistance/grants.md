@@ -11,7 +11,7 @@ third_nav_title: Government Assistance
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend grants you can apply for.
 
 {% include button.html text="Go to e-Adviser for Government Assistance" src="
-#https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
+https://gaeadviser.gobusiness.gov.sg/?src=govassist_grants
 " type="primary" %}
 
 ### For startups
@@ -28,5 +28,3 @@ Answer a few questions about your business and our e-Adviser for Government Assi
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-
-<script src="/jquery/notifications.js"></script>

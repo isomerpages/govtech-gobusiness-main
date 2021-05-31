@@ -13,7 +13,7 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 - Check if there are similar business names or trade marks, and if it's available as a username on Facebook/Instagram/YouTube/Twitter.
 - Receive a guide and find out what additional approvals are required to get your business started.
 
-{% include button.html text="Go to e-Adviser for Starting a Business" src="#https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname" type="primary" %}
+{% include button.html text="Go to e-Adviser for Starting a Business" src="https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname" type="primary" %}
 
 Avoid names which are:
 
@@ -37,7 +37,7 @@ You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how
 
 The Singapore Standard Industrial Classification (SSIC) is the national standard to classify the business activities of firms. It is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity.
 
-When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](#https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="_blank"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2015report-v2018a.pdf){:target="_blank"}.
+When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="_blank"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2015report-v2018a.pdf){:target="_blank"}.
 
 ### How to reserve your business name
 
@@ -52,5 +52,3 @@ There are two ways to reserve your business name:
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
 {% include accordion.html accordions=site.data.acc085-reserve-your-business-name.accordion %}
-
-<script src="/jquery/notifications.js"></script>
