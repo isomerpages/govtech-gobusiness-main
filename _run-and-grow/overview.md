@@ -39,5 +39,3 @@ A simple guide to a business' responsibilities while operating in Singapore.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-
-<script src="/jquery/notifications.js"></script>

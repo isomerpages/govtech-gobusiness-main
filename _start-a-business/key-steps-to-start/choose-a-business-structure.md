@@ -37,7 +37,7 @@ There are 2 ways to find out which business structure suits you best:
 
 1.  Use our e-Adviser for Business Structure to get recommendations on the suitable business structure based on your business preferences.
 
-{% include button.html text="Go to e-Adviser for Business Structure" src="#https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure" type="primary" %}
+{% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure" type="primary" %}
 
 {:start="2"}
 
@@ -51,4 +51,3 @@ There are 2 ways to find out which business structure suits you best:
   <iframe src="https://www.youtube.com/embed/AUDy57BK-rU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 
-<script src="/jquery/notifications.js"></script>
