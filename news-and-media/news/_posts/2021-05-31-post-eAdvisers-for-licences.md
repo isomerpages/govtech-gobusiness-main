@@ -9,7 +9,7 @@ published: true
 
 ![licences-eadviser](/images/news/News_Licensing eAdviser launch.jpg)
 
-GoBusiness has launched a new feature to help users find out which licences they need, and apply for them.
+GoBusiness has launched e-Advisers for Licences, a new feature to help users find out which licences they need, and apply for them.
 
 ### What are e-Advisers?
 
