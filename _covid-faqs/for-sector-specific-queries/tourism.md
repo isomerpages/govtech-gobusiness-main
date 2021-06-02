@@ -6,8 +6,22 @@ third_nav_title: For Sector-Specific Queries
 
 ### Tourism, Hotels, Business Travel, Business Events
 
-{% include accordion.html accordions=site.data.acc098-tourism.accordion %}
+#### Hotels
 
-Please check back for more updates.
+{% include letter-accordion.html accordions=site.data.acc098-tourism letter="a" %}
+
+#### Business Travel Pass
+
+#### I.	About Business Travel Pass
+
+{% include letter-accordion.html accordions=site.data.acc098-tourism letter="b" %}
+
+#### II. Application/Eligibility
+
+{% include letter-accordion.html accordions=site.data.acc098-tourism letter="c" %}
+
+#### III. Health Protocols
+
+{% include letter-accordion.html accordions=site.data.acc098-tourism letter="d" %}
 
 [Back to Covid-19 Overview](/covid/)
