@@ -16,4 +16,12 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc098-tourism letter="b" %}
 
+#### II. Application/Eligibility
+
+{% include letter-accordion.html accordions=site.data.acc098-tourism letter="c" %}
+
+#### III. Health Protocols
+
+{% include letter-accordion.html accordions=site.data.acc098-tourism letter="d" %}
+
 [Back to Covid-19 Overview](/covid/)
