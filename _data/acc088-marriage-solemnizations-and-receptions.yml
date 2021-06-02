@@ -1,51 +1,4 @@
 - accordion:
-  letter: a
-  data:
-    - title: If my wedding reception is held right after my solemnisation, how many attendees can I have?
-      content: |
-        If the solemnization is back-to-back with the F&B reception, the entire event (solemnization and reception) is subject to an overall cap of 100 persons (with PET for all), limited to the same guests, and subject to the safe capacity of the venue.
-
-    - title: What guidelines are my reception subjected to?
-      content: |
-        You can have **<u>only one</u>** reception. If the reception takes place in the same location right after the solemnization, the entire event (solemnization and reception) is subject to the overall cap of 100 persons (with PET), subject to the safe capacity of the venue.
-
-        You may hold your reception in any premises opened for operation (outside of the home and the ROM(M) Building) that can accommodate receptions. **Please note that any meal exceeding the existing group size for social gatherings, if held back-to-back with the solemnization, shall be deemed a reception.** You may check directly with the venue operator on their processes and conditions for the holding of the reception. Venue owners/ operators may determine if and when to allow solemnizations and receptions to be held in their premises, and may set additional conditions for their use, such as setting a lower limit for attendance based on their capacity or ability to ensure safe management measures are implemented. 
-
-        For the safety of all who are attending your reception, please ensure that you and your guests comply with the following measures:
-
-        a.	For receptions with more than 20 attendees, attendees must be split into a designated core “wedding party” comprising up to 20 persons (including the bride and groom, and the 2 witnesses), and groups of up to 5 people for the remaining guests. At least 1 metre safe distancing must be observed between groups, as well as between the “wedding party” and other groups, at all times, including for photo-taking.
-
-        b.	If the total number of attendees is between 50 to 100 persons, attendees must be split into either multiple zones of up to 50 persons in a zone, or staggered timings with up to 50 persons in each slot with at least 30 minutes between slots for cleaning and disinfection of event space. For a zoning arrangement, all attendees, including the “wedding party”, must be assigned to one zone only, and there must be no entering of unassigned zones. An exception is made for the wedding couple, who may enter an unassigned zone briefly e.g. to take photos. For a staggered timing arrangement, the “wedding party” is allowed to remain in each timeslot as it is the only way for them to host the wedding throughout the day. However, like the zoning arrangement, the “wedding party” must not be intermingling with other groups, and prevailing safe distancing rules i.e. 1m distance between groups, must be observed.
-
-        c.	PET is required for all attendees (including the wedding couple). PET must be done (i) before entry to the reception, and (ii) at most 24 hours before the end of the event. 
-
-        d.	There must be fixed seating for all attendees. Pre-wedding receptions, freestanding activities (e.g. photobooths) and interactions such as drinks receptions are not permitted.
-
-        e.	Self-service buffets or staff-served food lines are not allowed. Food and beverages must be served to seated attendees. Sharing dishes/ platters is strongly discouraged. 
-
-        f.	Sale and consumption of alcohol is prohibited after 2230hrs.
-
-        g.	Interactions (e.g. face-to-face greetings or conversations) between the “wedding party” and all other guests should be kept to a minimum. 
-
-        h.	Live performances (including live instrumental music) or activities involving singing or loud/ talking shouting (e.g. loud toasting) are not permitted at receptions. Event emcees and persons making speeches on stage must wear face masks.
-
-        i.	Guests will be required to take your temperature, check in and out via SafeEntry before entering the premises, and download and activate the TraceTogether app before attending the event.
-
-        j.	Attendees’ arrival and departure timings should be staggered, and queueing in groups should be discouraged.
-
-    - title: Can the bride and groom stand/ sit on the stage and take photos with the wedding party of 20? Can masks be removed momentarily for this?
-      content: |
-        Yes, they can mingle and take photos with one another within the wedding party of 20 persons (including the bride and groom). For photo-taking, at least one-metre safe distancing must be observed between the wedding party and other groups, as well as between groups, at all times.  Masks should remain on at all times except for the bride and groom who may wear a face shield.
-
-    - title: Can we play video screenings and/or projections of our wedding photos during the reception?
-      content: |
-        Yes, you can. However, there must be no live singing, cheering, loud toasting or shouting during the reception.
-
-    - title: If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the 100 people (with PET) attendees limit?
-      content: |
-        The total number of attendees for receptions has to be capped at 100 persons (with PET) throughout the entire event, or a lower number subject to the size of the premises and safe management requirements. This includes those who attend the reception for a short duration without eating or drinking.
-
-- accordion:
   letter: b
   data:
     - title: What are the latest guidelines given the heightened situation?
@@ -85,6 +38,10 @@
     - title: Given the short notice, are vendors (e.g. hotels, restaurants) required to allow couples to postpone their wedding receptions without penalties?
       content: |
         This would be subject to the contractual agreements between vendors and the wedding couples or mutually acceptable arrangements. Given the dynamic COVID-19 situation, we hope all parties, including vendors and couples, can exercise flexibility and mutual understanding in adjusting their plans.
+
+    - title: Can I provide takeaway food after the solemnisation ceremony?
+      content: |
+        We would advise against doing so. No food or drinks are to be supplied or consumed in the room or place during a solemnisation event. The organiser must ensure that requirements for solemnisation events are not breached. Rather than providing food for takeaway, you may wish to consider providing other tokens of appreciation such as vouchers or non-food gifts.
 
 - accordion:
   letter: c
