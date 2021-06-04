@@ -9,9 +9,9 @@ accordion:
       
       b.	Organisations providing full-time pre-tertiary education to students age 18 and below that leads to a qualification, i.e. Private Education Institutions (PEIs) registered with the Committee for Private Education and Privately-funded Schools (PFSs); Nonetheless, MOE would strongly encourage these organisations to shift lessons online<sup>1</sup>;
       
-      c.	Organisations and individuals providing learning interventions provided by therapists registered with the Allied Health Professions Council, or Early Intervention (EI) centres funded by the Early Childhood Development Agency (ECDA)<sup>2</sup>; and
+      c.	c.	For pre-school children (aged 0-6), organisations and individuals providing learning interventions provided by therapists regulated by the Allied Health Professions Council, or Early Intervention (EI) centres funded by the Early Childhood Development Agency (ECDA)<sup>2</sup>, in compliance with ECDA’s guidelines for EI services;
       
-      d.	Organisations and individuals when providing outdoor one-on-one (one coach to one student/trainee) sport or physical activity classes and programmes.
+      d.	d.	Organisations and individuals providing consultation and assessment services for students aged 7 to 18 with special educational needs or disabilities provided by therapists regulated by the Allied Health Professions Council or psychologists registered with the Singapore Psychological Society’s Register of Psychologists in alignment with MOH guidelines on healthcare services; and
 
       Early Childhood Development Centres licensed by ECDA, and student care centres may continue to provide care to children, subject to prevailing safe management measures. On-premise instruction provided in the course of this care will also be permitted.
 
@@ -140,7 +140,7 @@ accordion:
 
   - title: I am a private provider / Allied Health Professional offering services for students with Special Educational Needs (SEN) or disabilities. May I provide services and what are the safe management measures that I need to adhere to?
     content: |
-      Private Allied Health Professionals (AHPs) can continue to provide service and should continue to adhere to prevailing precautionary measures and safe distancing requirements relevant to each setting, as well as infection and control measures such as hand hygiene and Personal Protective Equipment (PPE) guidelines.
+      Registered Allied Health Professionals (AHPs) defined as professionals regulated by the Allied Health Professions Council and psychologists registered with the Singapore Psychological Society’s Register of Psychologists can continue to provide consultation and assessment services for students (aged 7-18) with special educational needs or disabilities.  These AHPs should adhere to sector-specific guidelines, prevailing precautionary measures and safe distancing requirements, as well as infection and control measures such as hand hygiene and Personal Protective Equipment (PPE) guidelines relevant to each setting.   Please refer to ECDA’s guidelines on Early Intervention (EI) services for pre-school children (aged 0-6).
 
       All non-Public Healthcare Institutions AHS, including psychology services, must adhere to the following:
 
@@ -150,7 +150,9 @@ accordion:
 
       The following are exceptions which may continue on-premise instruction, subject to prevailing safe management measures:
 
-      a. Organisations and individuals providing learning interventions provided by therapists registered with the Allied Health Professions Council, or Early Intervention (EI) services funded by the Early Childhood Development Agency (ECDA).
+      a.	For pre-school children (aged 0-6), organisations and individuals providing learning interventions provided by therapists regulated by the Allied Health Professions Council, or Early Intervention (EI) services funded by the Early Childhood Development Agency (ECDA), in compliance with ECDA’s guidelines for EI services; and
+
+      b.	Organisations and individuals providing consultation and assessment services for students aged 7 to 18 with special educational needs or disabilities provided by therapists regulated by the Allied Health Professions Council or psychologists registered with the Singapore Psychological Society’s Register of Psychologists in alignment with MOH guidelines on healthcare services.
 
   - title: Will the TraceTogether-only SafeEntry system and the SafeEntry Gateway Device (SEGW) be implemented for tuition, enrichment centres and SSG-funded training providers?
     content: |
@@ -175,3 +177,8 @@ accordion:
   - title: When will the suspension on face-to-face tuition and enrichment classes for students aged 18 and younger be lifted?
     content: |
       We expect these measures to be in place until 13 Jun 2021, but the Multi-Ministry Task Force will review the circumstances and may extend the suspension if necessary.
+
+  - title: Which students are considered “above 18” and not subject to the suspension of private tuition and enrichment?
+    content: |
+      This refers to students who have passed their 18th birthday. However, with the recent numbers of community cases, we strongly encourage all organisations and individuals offering tuition and enrichment activities to older students to similarly move online or suspend in-person instruction as well. This would support efforts to keep our students and the community safe.
+      
