@@ -4,7 +4,7 @@ permalink: /licensing-faqs/tobacco-retail-licence/
 third_nav_title: Licences
 ---
 
-### Petroleum / Flammable Materials Storage Licence
+### Tobacco Retail Licence
 
 {% include accordion.html accordions=site.data.acc036-tobacco-retail-licence.accordion %}
 
