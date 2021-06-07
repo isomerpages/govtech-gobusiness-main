@@ -18,7 +18,7 @@ Business entities can apply for PSG if they meet the following criteria:
 * Registered and operating in Singapore
 * Purchase/lease/subscription of the IT solutions/equipment/consultancy service must be used in Singapore
 * (**For selected solutions only**) Have a minimum of 30% local shareholding
-* (**For selected solutions only**) Have at least three local employees at the point of application
+* (**For consultancy service solutions only**) Have at least three local employees at the point of application
 
 ### How to apply?
 
@@ -29,6 +29,7 @@ Business entities can apply for PSG if they meet the following criteria:
    <br> For **Consultancy Service:** Get a quotation from the pre-approved consultant
 3.	Submit an application on the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="_blank"}.
    <br>You will need to register for a Corppass account to transact on the portal.
+4. Submit your grant claim on the BGP before your claim due date. 
 
 ### Supportable solutions
 

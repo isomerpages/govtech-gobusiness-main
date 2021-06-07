@@ -1,7 +1,7 @@
 accordion:
   - title: Which licences and permits can I apply for here?
     content: |
-      With GoBusiness Licensing, you can apply for the following licences from these government agencies:
+      With our Guided Journey feature, you can apply for the following licences from these government agencies:
 
       - Change of Use / Lodgement - URA
       - Change of Trade - HDB
@@ -11,7 +11,7 @@ accordion:
       - Tobacco Retail Licence - HSA
       - Halal Certification - MUIS
 
-      If the licences you need are not on this list, please apply for your licences using our [Self-Service feature](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}.
+      If the licences you need are not on this list, please apply for your licences with [GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}.
 
   - title: How do I know which Food Shop type my business falls under?
     content: |
@@ -28,9 +28,9 @@ accordion:
 
   - title: Do I enter the name of my shop or the name of my registered business under 'Premises Name'?
     content: |
-      You will need to enter the name of your shop under 'Premises Name'. A good rule of thumb is to enter the intended display name on your shopfront.
+      You will need to enter the name of your shop under 'Premises Name'. This means the name you plan to display on your shopfront.
 
-  - title: I cannot proceed as my premises address does not have a level and/or unit number. What should I do?
+  - title: My premises address does not have a level and/or unit number. What should I do?
     content: |
       If your premises address does not have a level and/or unit number, please enter '00' under 'Level' and 'Unit Number' to proceed.
 
@@ -91,6 +91,14 @@ accordion:
   - title: What does 'Premises' mean?
     content: |
       'Premises' refers to the food shop you would like to obtain licences for.
+
+  - title: I have accidentally added a new premises, how can I delete the draft application/premises?
+    content: |
+      Login to [GoBusiness Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licensing_faqs){:target="_blank"}. Click on the premises you would like to delete. If the premises can be deleted, the “Remove” button will appear beside the “Premises Details” section title. Click on the “Remove” button to start the process of deletion.
+
+      A Premises can be deleted if it only contains draft application(s).
+
+      Note: Deleted premises as well as their draft applications are not recoverable.
 
   - title: What does 'adjacent unit' mean?
     content: |
