@@ -3,6 +3,8 @@ accordion:
     content: |
       You will need to log in to GoBusiness via Singpass.
 
+      In order to use GoBusiness Licensing, your company's Corppass Administrator or Sub-Administrator will need to assign digital service access to GoBusiness. You can find out how to assign digital service access [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}.
+
   - title: Which browser should I use to view GoBusiness Licensing?
     content: |
       GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or contact us for help [here](/contact-us/).
