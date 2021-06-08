@@ -24,7 +24,7 @@ There are several benefits of registering a business with ACRA. Here are some of
 
 - The public can easily verify information about your business and its owners
 - The public can easily identify, find and transact with your business
-- You get to participiate in government tenders and secure intellectual property or patents for new products and technology
+- You get to participate in government tenders and secure intellectual property or patents for new products and technology
 - Your business gets access to Government funding, such as Enterprise Singapore grants
 
 In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
