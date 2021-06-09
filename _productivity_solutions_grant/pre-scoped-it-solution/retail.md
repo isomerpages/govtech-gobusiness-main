@@ -11,4 +11,3 @@ third_nav_title: Pre-scoped IT Solution
 {% include accordion.html accordions=site.data.acc068-retail.accordion %}
 
 _If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
-
