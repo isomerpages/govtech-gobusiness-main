@@ -36,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
+Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +65 8540 6590<br>Contact Email: hello@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

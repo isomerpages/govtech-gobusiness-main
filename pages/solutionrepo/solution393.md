@@ -32,12 +32,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum bowl capacity of 20 litres
-Minimally 3 speed options for Planetary Mixer
-Minimally 2 speed options for Spiral Mixer
-Speeds range from 100 to 500 rpm for smaller mixers (less than 100 litres)
+- Minimum bowl capacity of 20 litres
+- Minimally 3 speed options
+- Speeds range from 100 to 500 rpm for smaller mixers (less than 100 litres)
 
-Comes with bowl and minimum 2 out of 3 tools - Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable
+- Comes with bowl and minimum 2 out of 3 tools - Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable
 
 ### Contact Information
 N.A.
