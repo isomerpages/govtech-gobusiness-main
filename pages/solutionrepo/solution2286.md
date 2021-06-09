@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Version 10.5 - Advante Package A (Xero Standard Full Package)
-permalink: /productivity-solutions-grant/solutionrepo/solution105
+title: 2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework
+permalink: /productivity-solutions-grant/solutionrepo/solution2286
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advante_Consulting_Annex3_CR_wef_6_August_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S92SS0008J-01-CRS-Q-0039329-RET' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name: Advante Consulting Pte Ltd <br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com <br>
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

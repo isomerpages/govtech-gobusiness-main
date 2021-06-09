@@ -34,7 +34,7 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum of 10 trays
-Freezer must be able to reach -18?C
+Freezer must be able to reach -18_C
 
 ### Contact Information
 N.A.
