@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier Accounting & Sales Management Software (Support API) Version 23 - Package C with E-Invoicing & Training(1 User)
-permalink: /productivity-solutions-grant/solutionrepo/solution373
+title: 1. Inventory Replenishment and Ordering Decision
+permalink: /productivity-solutions-grant/solutionrepo/solution2310
 ---
 
 ### Description
 
-ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/E-Click_Solutions_20200033_Annex_3_20200625144550_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-92' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-E-Click Solutions<br>www.e-clicksolutions.com/abss-accounting<br>Email: evelyn@e-clicksolutions.com<br>Tel: +65 9792 1964
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

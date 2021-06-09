@@ -9,7 +9,7 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trimble_20200364_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,7 +28,7 @@ Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
