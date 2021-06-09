@@ -8,4 +8,5 @@ third_nav_title: Pre-Scoped Consultancy Service
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion.html accordions=site.data.acc038-job-redesign.accordion %}
+{% include accordion.html %}
+
