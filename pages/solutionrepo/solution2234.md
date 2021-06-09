@@ -1,6 +1,6 @@
 ---
-title: Xero Cloud Accounting Version 10.5 - Advante Package D (Xero Premium Basic Package)
-permalink: /productivity-solutions-grant/solutionrepo/solution108
+title: Xero Cloud Accounting Version 10.5 - Advante Package A (Xero Standard Subscription Only)
+permalink: /productivity-solutions-grant/solutionrepo/solution2234
 ---
 
 ### Description
@@ -9,7 +9,7 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advante_Consulting_Annex3_CR_wef_6_August_2020_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AdvanteAccountingAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Advante Consulting Pte Ltd <br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com <br>
+Company Name:Advante Consulting Pte Ltd <br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -33,8 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum vacuum chamber of 2,184 cm2
-
+Minimum vacuum chamber surface area (Length x Width) of 2184cm2
 
 ### Contact Information
 N.A.
