@@ -16,16 +16,20 @@ For Marriage solemnizations and receptions between 16 May 2021 to 13 June 2021, 
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
 
-#### III. Video-link solemnizations
+#### III. Pre-Event Testing Requirements
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="d" %}
 
-#### IV. Pre-Event Testing Requirements
+#### IV. Video-link solemnizations
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="e" %}
 
-#### V. Zoning Requirements for Solemnizations involving 51 to 100 attendees
+#### V. Other wedding activities
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="f" %}
+
+#### VI. Zoning Requirements for Solemnizations involving 51 to 100 attendees
+
+{% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="g" %}
 
 [Back to Covid-19 Overview](/covid/)
