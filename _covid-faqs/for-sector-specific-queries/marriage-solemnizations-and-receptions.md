@@ -12,7 +12,7 @@ For Marriage solemnizations and receptions between 16 May 2021 to 13 June 2021, 
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
 
-#### II. General Safe Management Measures (16 May to 13 Jun 2021)
+#### II. General Safe Management Measures (with effect from 14 June 2021 onwards)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
 
