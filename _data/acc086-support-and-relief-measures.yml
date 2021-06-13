@@ -11,6 +11,24 @@ accordion:
     content: |
       Please refer to this [link](https://www.mom.gov.sg/covid-19/frequently-asked-questions/levy-rebate-and-levy-waiver){:target="_blank"} for more information on the Foreign Worker levy waiver and rebate.
 
+  - title: What financial assistance will be available to affected businesses and individuals under Phase 2 (Heightened Alert) and Phase 3 (Heightened Alert)?  
+    content: |
+      Please refer to the infographics below on support measures for businesses and individuals during this period.
+      
+      ![Support for Workers and Businesses](/images/covid/Support for workers and businesses.png)
+
+      ![Support for Individuals](/images/covid/Support for individuals.png)
+
+  - title: How do I verify my JSS eligibility? 
+    content: |
+      You may check your business’s JSS eligibility [here](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch){:target="_blank"}.
+
+  - title: I anticipate that my business will continue to face challenges, even after the lifting of restrictions after 13 Jun 2021. Can the Government consider providing financial support for such businesses?
+    content: |
+      Businesses that face cashflow challenges can continue to tap on the extended Temporary Bridging Loan Programme and enhanced Enterprise Financing Scheme, and we encourage businesses to make full use of these schemes.
+      
+      Establishments whose revenues are significantly affected and wish to appeal to receive the Jobs Support Scheme (JSS) may do so [here](https://go.gov.sg/jssappeals){:target="_blank"}.
+
   - title: What financial assistance will be available to affected businesses under Phase 2 (Heightened Alert) from 16 May 2021 to 13 June 2021?
     content: |
       **Enhancements to the Jobs Support Scheme (JSS)**
@@ -32,15 +50,3 @@ accordion:
       The CRG-T scheme will provide one-off support for lower- to middle-income employees and self-employed persons who are financially impacted as a result of the tightened measures. Individuals who experience at least one month of involuntary no-pay leave or income loss of at least 50% for at least one month, during the period between 16 May 2021 and 30 June 2021, may apply for CRG-T. Eligible individuals placed on involuntary no-pay leave may receive a one-off payout of up to $700, and those experiencing significant income loss may receive a one-off payout of up to $500. Applications will be open from 3 June 2021 to 2 July 2021.
 
       For more details, please refer to the MOF Press Release [here](https://www.mof.gov.sg/news-publications/press-releases/support-measures-enhanced-to-help-individuals-and-businesses-during-phase-2-(heightened-alert)){:target="_blank"}.
-
-  - title: Is the Government considering additional support for other sectors in view of the tightened measures?
-    content: |
-      Under Phase 2 (Heightened Alert), most firms can still operate. Businesses that face cashflow challenges can continue to tap on the extended Temporary Bridging Loan Programme and enhanced Enterprise Financing Scheme, and we encourage businesses to make full use of these schemes.
-
-      Establishments whose revenues are significantly affected and wish to appeal to receive a higher tier of the Jobs Support Scheme (JSS) may do so [here](https://go.gov.sg/jssappeals){:target="_blank"}.
-
-  - title: According to MOF’s announcement on the enhanced support measures for businesses under Phase 2 (Heightened Alert), I think my business should receive enhanced JSS. How do I verify this? What should I do if the enhanced JSS is not extended to me?
-    content: |
-      You may check your business’s JSS eligibility [here](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch){:target="_blank"}.
-
-      If you have questions on or would like to appeal against your business’s JSS eligibility, you may do so [here](https://go.gov.sg/jssappeals){:target="_blank"}.
