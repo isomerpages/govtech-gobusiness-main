@@ -282,3 +282,11 @@
 
         Please go to [https://www.support.safeentry.gov.sg/hc/en-us](https://www.support.safeentry.gov.sg/hc/en-us){:target="_blank"} for more details.
 
+    - title: What changes must businesses make to their SafeEntry check-in mode from 17 May 2021?
+      content: |
+        From 17 May 2021, only TraceTogether token or app can be used for SafeEntry check-ins. Other modes, such as scanning of identity cards, venue QR code through Singpass app or other QR code reader apps, will be discontinued. 
+
+        Venues should allow entry to individuals who successfully check in to SafeEntry using their TraceTogether (TT) App or TT token.
+
+        Find out more about [what businesses need to do](https://support.safeentry.gov.sg/hc/en-us/articles/900003291566-What-does-TT-only-SE-mean-to-the-venues-required-to-implement-it-){:target="_blank"}.
+
