@@ -21,7 +21,7 @@ permalink: /covid-faqs/workplace-safe-management-measures
 
 #### Take care of workers who become unwell at the workplace
 
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="e" %}
 
 #### Implement a system of Safe Management Measures
 
