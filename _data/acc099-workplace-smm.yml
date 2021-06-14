@@ -1,53 +1,96 @@
 - accordion:
   letter: a
   data:
-    - title: Who do the requirements for Safe Management Measures apply to?
+    - title: Who does the requirements apply to?
       content: |
-        All businesses allowed to operate are required to comply with the Safe Management Measures (SMMs) for workplaces as well as the SMMs for their sector/activity.
+       All businesses allowed to operate are required to have implemented Safe Management Measures.
+       
+       For companies resuming operations after the circuit breaker period, all Safe Management Measures should be in place before operations can be resumed at the workplace.
 
-    - title: What are the key changes for Safe Management Measures at the workplace that will take effect from 16 May 2021 to 13 June 2021?
+    - title: Why is work-from-home still the default as we transition out of Phase 2 Heightened Alert?
       content: |
-        Work-from-home is the default mode of work. All employees whose functions can be performed remotely must work from home. Employers must provide the necessary facilities and direct their employees to work from home wherever possible. Employees who are unable to work from home, for reasons due to the nature of their work (e.g. their work can only be done with equipment that is confined to the workplace) can continue working on-site.
+        As we transition out of Phase 2 Heightened Alert in the coming weeks, it remains essential that we continue to keep transmission risks in check by reducing overall footfall and interactions at common spaces at or near the workplace, and in public places, including public transport. Therefore, work-from-home will continue to be the default during this transition period. Employers must provide the necessary facilities and direct their employees to work from home wherever possible. Only employees who are unable to work from home (e.g. work requiring access to equipment that is confined to the workplace) are permitted to continue working on-site. 
 
-        Social gatherings at the workplace are disallowed. Employees should have their meal breaks at the workplace individually.
-
-    - title: Are Safe Management Measures mandatory, and what enforcement actions will MOM take against businesses that do not implement it?
+    - title: Do I have to apply to resume operations at my company’s workplace premises?
       content: |
-        MOM and sector agencies will take enforcement actions for non-compliance of Safe Management Measures. For workplaces that severely lack Safe Management Measures, MOM will direct employers to stop operations at the workplace. Employers will have to take steps to ensure that Safe Management Measures are in place before operations can resume.
+        The Multi-Ministry Task Force has announced that selected activities and services are allowed to resume operations. Companies that fall under the list of activities and services do not need to apply before resuming operations. Please go to [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg) for more details. 
+        
+    - title: Are the requirements mandatory, and what enforcement actions will MOM take against businesses that do not implement Safe Management Measures?
+      content: |
+        MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. For workplaces that severely lack Safe Management Measures, we will direct employers to stop operations at the workplace. Employers will have to take steps to ensure that Safe Management Measures are in place before operations can resume.
+        
+        Under the COVID-19 (Temporary Measures) Act, failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both.  Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
 
-        Under the COVID-19 (Temporary Measures) Act, failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months, or both. Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
-
-    - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace?
+    - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace? 
       content: |
         Enforcement action may be taken by any of the following persons under the COVID-19 (Temporary Measures) Act:
 
         - A police officer;
-
         - A Health Officer appointed under section 4(1)(a) or (b) of the Infectious Diseases Act;
-
         - A public officer;
-
         - An officer of a statutory body;
-
         - An auxiliary police officer; and
-
         - An employee of a prescribed institution under the Infectious Diseases Act.
 
         You can verify the identity of enforcement officers via their authority cards or their public service identification cards.
 
     - title: Where can I find more guidance on implementing Safe Management Measures in the workplace?
       content: |
-        You may refer to the Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}, for an overview of the requirements that must be fulfilled prior to resuming business activities at the workplace. For more information, please refer [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/safe-management-measures){:target="_blank"}.
+        You may refer to [Annex B of the Safe Management Measures requirements](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for an overview of the requirements that must be fulfilled prior to resuming business activities at the workplace.
+        
+        Unionised companies are also encouraged to engage their unions on such arrangements.
+
+    - title: Is it compulsory to fill in and maintain the checklist provided in Annex B?
+      content: |
+        [Annex B - Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"} sets out the requirements needed for employers to resume operations. Employers are not required to fill out the checklist, but must ensure that the documents listed in the checklist (or equivalent) are available upon request by officials.
+        
+        When inspected by any government agency, businesses must be prepared to show that they have fulfilled the requirements listed. 
+
+    - title: Are there specific Safe Management Measures for each sector (e.g. construction, F&B, retail)?
+      content: |
+        The requirements on Safe Management Measures at the workplace released by MOM is for general workplace settings. For specific workplace settings or sector requirements, please refer to [guidelines issued by the respective sector agencies](https://covid.gobusiness.gov.sg/safemanagement/sector). 
 
     - title: We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?
       content: |
-        The [advisory on Safe Management Measures and the accompanying checklist](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"} issued by MOM are for workplaces in general. Where there may be sector-specific considerations, companies should also refer to the sector-specific advisories issued. All businesses are required to comply with the Safe Management Measures (SMMs) for workplaces issued by MOM as well as the SMMs for their sector/activity.
+        We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?
 
     - title: My employees do not have a specific workplace as they are deployed to client’s site to provide goods and services. How can I implement Safe Management Measures?
       content: |
         All employers must implement Safe Management Measures at their workplaces for all employees and contractors. 
+        
+        Companies that have employees deployed to other sites should ensure that their employees comply with the Safe Management Measures put in place at these sites. In fact, some of the Safe Management Measures can be implemented by employers regardless of where employees are deployed, such as health monitoring.
 
-        Companies that have employees deployed to other sites should also ensure that their employees comply with the Safe Management Measures put in place at these sites. In fact, some of the Safe Management Measures can be implemented by employers regardless of where employees are deployed, such as health monitoring.
+    - title: If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?
+      content: |
+        Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their list of business activity falls within the [permitted list](htps://covid.gobusiness.gov.sg/faq/resumption/resumption/) allowed to operate from 2 June 2020.
+        
+        Employers whose business operations are not in the list of permitted services may still return to their business facility to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. No application for exemption is required.
+        
+        However, if employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead.
+
+    - title: My company is currently operating under a General Exemption, as our business activities are currently not listed in the permitted services list. Can our employees who are currently working from home return to the workplace?
+      content: |
+        Companies operating under a General Exemption must submit an application for additional manpower via the GoBusiness portal, to allow more employees to return to the workplace.
+
+    - title: What should I do if I see a business that is not in the permitted services list continuing to operate even though it is not supposed to?
+      content: |
+        Please report the incident to <u>covid_gobusiness@mti.gov.sg</u> and include relevant details such as company name, address and relevant evidence (e.g. photographs).
+
+    - title: What should I do if my employer refuses to implement Safe Management Measures in the workplace?
+      content: |
+        If you notice any breach of Safe Management Measures or poor practices at the workplace, you can report it via [SnapSAFE](https://www.mom.gov.sg/eservices/snapsafe){:target="_blank"}, an app that allows the reporting of workplace safety and health issues to MOM.
+        
+        MOM will treat each report seriously and will keep your identity strictly confidential.
+
+    - title: Is there a limit to the number of migrant workers a company can deploy at each renovation site? 
+      content: |
+        Contractors should deploy a minimal number of workers at renovation workplaces and must ensure that Ministry of Manpower’s Safe Management Measures at workplaces are complied with at renovation workplaces to mitigate the risk of community transmission. All personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups. 
+
+    - title: If my renovation project involves more than one team of contractors, are they allowed to work at the same renovation site at the same time?
+      content: |
+        Different teams of contractors (main or sub-contractors) can carry out their respective work within the same renovation site, at the same time and day. However, all personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups. 
+        
+        The application of safe management measures will vary depending on the renovation site. Employers should assess and evaluate the measures that must be taken to ensure safe distancing and ensure that the risk of COVID-19 spread at workplaces is minimised for their workers. This may include additional measures such as having staggered rest, arrival and exit timings to minimise interactions between workers from different companies.
 
 - accordion:
   letter: b
