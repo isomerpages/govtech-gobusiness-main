@@ -17,15 +17,15 @@ permalink: /covid-faqs/workplace-safe-management-measures
 
 #### Take care of the workplace
 
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="d" %}
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
 
 #### Take care of workers who become unwell at the workplace
 
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="e" %}
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
 
 #### Implement a system of Safe Management Measures
 
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="f" %}
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
 
 [Back to Covid-19 Overview](/covid/)
 
