@@ -11,9 +11,21 @@ permalink: /covid-faqs/workplace-safe-management-measures
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="b" %}
 
-#### Foreign Workers
+#### Managing COVID-19 Cases at the workplace
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
+
+#### Take care of the workplace
+
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="d" %}
+
+#### Take care of workers who become unwell at the workplace
+
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="e" %}
+
+#### Implement a system of Safe Management Measures
+
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
 
