@@ -52,7 +52,7 @@
 
     - title: We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?
       content: |
-        We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?
+        The advisory on Safe Management Measures and the accompanying checklist issued by MOM are for general workplace settings. Where there may be sector-specific considerations, companies should also refer to the sector-specific advisories issued, over and above MOM’s advisory.
 
     - title: My employees do not have a specific workplace as they are deployed to client’s site to provide goods and services. How can I implement Safe Management Measures?
       content: |
@@ -112,12 +112,6 @@
         The overarching objective of the requirements is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Employers should focus on providing the facilities necessary and directing every worker to work from home, as far as reasonably practicable. The proportion of employees that can do so will vary in different workplaces and sectors due to differing operational requirements. 
 
         The onus is on employers to show that they have made a reasonable effort to facilitate working from home for all days and at all times, including reviewing and transforming business processes through technology to support remote working e.g. e-payment, e-invoicing, e-signatures. Annex A of the Safe Management Measures requirements provides a list of resources such as technology solutions and grants available to assist companies.
-
-    - title: Should my workers put on the masks at all times? What if my worker has medical condition?
-      content: |
-        Everyone at the workplace should wear a mask at all times, except when eating, drinking, consuming medication or engaging in strenuous physical exercise. 
-
-        However, if your employee has severe medical conditions which do not make it possible to wear a mask, they can wear a face shield in lieu of a mask.
 
     - title: Should my workers put on the masks at all times? What if my worker has medical condition?
       content: |
@@ -275,6 +269,12 @@
         This excludes visitors who may visit the workplace for leisure purposes.
 
     - title: Can I use an alternative visitor management system instead of SafeEntry?
+      content: |
+        Businesses must use SafeEntry to collect entry information of all employees and visitors on their premises. Businesses that need to use their current systems to collect additional data, e.g. employees’ ID, must ensure SafeEntry is implemented on top of their existing systems. 
+
+        From 17 May 2021, all individuals must use TraceTogether (TT) App or token to check in at all premises. 
+
+    - title: SafeEntry is already implemented for my building (e.g. malls), do tenants within the building have to implement SafeEntry as well?
       content: |
         As part of safe workplace measures, all venues and facilities found listed on [https://www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment){:target="_blank"} will have to implement SafeEntry for employees and visitors. 
 
