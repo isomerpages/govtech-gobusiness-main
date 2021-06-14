@@ -95,59 +95,137 @@
 - accordion:
   letter: b
   data:
-    - title: Are companies that are operating required to ensure that their employees work from home?
+    - title: Are companies that have resumed operations required to ensure that their employees work-from-home?
       content: |
-        From 16 May 2021 to 13 Jun 2021, work-from-home is the default mode of work and employers must provide the necessary facilities and direct their employees to work from home wherever possible.
+        Work-from-home is currently the default mode of work . Employers must provide the necessary facilities and direct their employees to work from home wherever possible.
 
-        Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](https://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
+        For employees who are unable to work from home, for reasons such as due to the nature of their work, or their work can only be done with equipment that is confined to the workplace, they can continue working on-site.
 
-        A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}.
+        Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](http://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
 
-        Enforcement checks will be conducted and actions will be taken against businesses for non-compliance.
+        MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees work-from-home where possible, can be found [here](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}. 
 
-    - title: Is there a minimum percentage or number of workers that employers must place on work-from-home arrangements?
+        Enforcement checks will be conducted and actions will be taken against business for non-compliances.
+
+    - title: Is there a minimum % or number of workers that employers must place on work-from-home arrangements? 
       content: |
-        The objective of the requirements is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Employers should focus on providing the facilities necessary and directing every worker to work from home, as far as reasonably practicable. The proportion of employees that can do so will vary in different workplaces and sectors due to differing operational requirements. 
+        The overarching objective of the requirements is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Employers should focus on providing the facilities necessary and directing every worker to work from home, as far as reasonably practicable. The proportion of employees that can do so will vary in different workplaces and sectors due to differing operational requirements. 
 
-        The onus is on employers to show that they have made a reasonable effort to facilitate working from home, including reviewing and transforming business processes through technology to support remote working e.g. e-payment, e-invoicing, e-signatures.
+        The onus is on employers to show that they have made a reasonable effort to facilitate working from home for all days and at all times, including reviewing and transforming business processes through technology to support remote working e.g. e-payment, e-invoicing, e-signatures. Annex A of the Safe Management Measures requirements provides a list of resources such as technology solutions and grants available to assist companies.
 
-    - title: Should my employees wear masks at all times? What should I do if my employee has a medical condition?
+    - title: Should my workers put on the masks at all times? What if my worker has medical condition?
       content: |
         Everyone at the workplace should wear a mask at all times, except when eating, drinking, consuming medication or engaging in strenuous physical exercise. 
 
         However, if your employee has severe medical conditions which do not make it possible to wear a mask, they can wear a face shield in lieu of a mask.
 
+    - title: Should my workers put on the masks at all times? What if my worker has medical condition?
+      content: |
+        Every individual should put on a mask at all times, except when eating, drinking or consuming medication, or engaging in strenuous physical exercise.  However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask. 
+
     - title: What should I do if my employees are unwilling to work from home because their home is not conducive for work?
       content: |
-        The objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers can consider different ways to implement working arrangements that comply with the Safe Management Measures for the workplace, while taking business and employee preferences into account.
+        The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers can consider different ways to implement working arrangements that comply with the Safe Management Measures for the workplace, while taking business and employee preferences into account. 
 
     - title: As most of my employees are either doing frontline work or fieldwork operations, it is not feasible for me to rearrange the work such that they can work-from-home. Will I be penalised for not providing such work arrangements?
       content: |
-        Employers must demonstrate the business or operational reasons why the workers working at the workplace are unable to work-from-home despite review and redesign of work processes. Inspectors will assess the efforts put in by companies to implement work-from-home arrangements based on the practicality of whether the workers can work-from-home given the nature of the job.
+        Employers must demonstrate the business or operational reasons why the workers working at the workplace are unable to work-from-home despite review and redesign of work processes. Our inspectors will assess the efforts put in by companies to implement work-from-home arrangements based on the practicality of whether the workers can work-from-home given the nature of the job.
+        
+        For the safety of workers at the workplace, employers should put in place other Safe Management Measures at the workplace (e.g. ensuring safe distancing, ensuring use of SafeEntry, etc) to provide a safe working environment and minimise risk of further outbreaks.
+        
+        Special attention should also be paid to vulnerable employees (e.g. persons who are aged 60 and above, and patients who are immunocompromised5 or have concurrent medical conditions) to enable them to work-from-home. Employers are encouraged to enable these employees to work-from-home, allow them to travel to/from work at off-peak timings, temporarily redeploy them to another role within the company, or take other appropriate measures to reduce their exposure to infection risk.
 
-        For the safety of workers at the workplace, employers should put in place other Safe Management Measures at the workplace (e.g. ensuring safe distancing, ensuring use of SafeEntry, etc.) to provide a safe working environment and minimize risk of further outbreaks. 
-
-        Special attention should also be paid to vulnerable employees (e.g. persons who are aged 60 and above, and patients who are immunocompromised or have concurrent medical conditions) to enable them to work-from-home. Employers are encouraged to enable these employees to work-from-home, allow them to travel to/from work at off-peak timings, temporarily redeploy them to another role within the company, or take other appropriate measures to reduce their exposure to infection risk.
+    - title: Are there any available resources to help my business review work processes to enable employees to work-from-home?
+      content: |
+        Yes, the Infocomm Media Development Authority (IMDA) provides a list of [digital solutions and resources](https://www.imda.gov.sg/bizgodigital){:target="_blank"} that aims to make business continuity essential more accessible to businesses.
+        
+        Eligible businesses can also apply for the [Productivity Solutions Grant (PSG)](https://www.businessgrants.gov.sg/){:target="_blank"} to support business transformation and put in place flexible work arrangements to minimise spread of COVID-19 (e.g. work-from-home, staggered hours).
 
     - title: Is there a limit on the number of attendees in a physical meeting?
       content: |
         Employers should conduct virtual meetings as far as possible. Where physical meetings are assessed to be necessary, they are subject to a cap of 50 physical attendees and there must be 1m safe distancing between all individuals. Attendees must be masked.
 
-    - title: Are companies required to ensure staggered start times and implement flexible workplace hours for employees at the workplace?
+    - title: What would be considered a work-related event?
+      content: |
+        Some examples of work-related events are as follows:
+        
+        - Work meetings (e.g. among colleagues, or with external parties)
+        - Training
+        - Board meetings
+        - HR talks (e.g. onboarding, retrenchment exercises)
+        - Townhalls
+        - Seminars
+        - Corporate retreats
+        - Conferences on business strategies, workplaces and reviews
+        - Annual General Meeting or Extraordinary General Meetings
+        - Tender briefings to vendors
+        - Award ceremonies
+
+        All work-related events that proceed must adhere to prevailing workplace Safe Management Measures and are subjected to the following requirements: 
+        i.  The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
+        ii. Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
+        iii.  Food and drinks are not allowed at work-related events.
+        Work-related events at third-party venues will also be subject to any additional premise owners’ safe management policies.
+
+    - title: Can my employee work at a co-working space instead of working from home?
+      content: |
+        No. Work-from-home is the default. Employees who can work from home must do so, and should not work at external locations instead. Companies operating co-working spaces should communicate this clearly to their clients. Working from home will lower transmission risks by reducing overall footfall and interactions in public places, including public transport.
+
+    - title: I am an essential services provider. During the tightened measures from 16 May to 13 June, can all my employees return to work on-site, including those who are able to work from home?
+      content: |
+        No. Employers must direct employees who are able to work from home to do so. 
+
+    - title: The advisory states that special attention should be paid to vulnerable employees (e.g. persons who are aged 60 and above, and patients who are immunocompromised) to enable them to work-from-home. How can companies support them? What if they can’t work-from-home?
+      content: |
+        Those who are more vulnerable should be allowed to work-from-home where reasonably practical. Employers should enable this by reviewing the work processes and providing the necessary IT equipment to employees.
+        If the job roles of vulnerable employees cannot be done from home, employers should temporarily re-deploy these employees to another role within the company that is suitable for working-from-home. 
+        
+        If there is no possible redeployment for vulnerable employees’ work to be performed from home, he/she can still be deployed to work in the company premises. The company however, must ensure that safe distancing measures such as ensuring clear physical spacing of at least 1 metre between persons at meeting rooms, work areas and work stations are implemented.
+
+    - title: Are companies required to ensure staggered start times and implement flexible workplace hours for employers at the workplace?
       content: |
         Employers are encouraged to stagger the start times for all employees who are unable to work from home (due to the nature of their work, or their work can only be done with equipment that is confined to the workplace) such that at least half of all employees arrive at the workplace at or after 10am, as far as possible. This would enable more employees to avoid peak-hour travel, especially if employees require the use of public transport. Timings of lunch and other breaks should also be staggered accordingly.
+
+    - title: Are employees and visitors required to wear a mask at all times at the workplace? 
+      content: |
+        For general office workplaces, employers must ensure that employees and visitors wear a mask at all times at the workplace, except during activities that require masks to be removed or when individuals are alone in their own office. Supplementary personal protective equipment is encouraged, whenever relevant (more guidelines can be found in sector-specific guidelines). This is in addition to other safe management measures (e.g. safe distancing) that must be in place at the workplace. 
+
+        Some examples of activities where the requirement for masks to be worn can be waived include mealtimes, or where other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+
+        The requirement for masks to be worn can also be waived for individuals who are alone in their own office, and when no one other than the individual enters the room. If there is any physical contact with people, or if anyone else enters the room, the mask must be put on.
+
+        Where possible, employers should consider improving the working environment for employees to enable them to wear their masks.
+
+    - title: What forms of personal protective equipment should my employees use? Can employees wear other forms of PPEs (e.g. face shields) instead of surgical masks?
+      content: |
+        A mask that closely and completely covers the nose and mouth (i.e. without leaving a gap between the mask and the face) must be worn at all times when persons go out of their homes, including while at the workplace.
+
+        The following specific groups of persons may use a face shield, in place of masks:
+        1.  Children 12 years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time; 
+        2.  Persons who have health conditions that may result in breathing or other medical difficulties when a mask is worn for a prolonged period of time; and
+        3.  Persons who are speaking to a group in a classroom or lecture-style setting, where they largely remain at the spot from which they are speaking, and are able to maintain a safe distance away from any other persons. 
+
+        A face shield has to be must be worn properly so that it covers the entire face, from the forehead to below the chin, wrapping around the sides of the face.
+
+        Plastic spit guards predominantly cover the mouth and are not considered as masks. Face coverings such as neck gaiters, bandannas, scarves or handkerchiefs are not considered as masks.
+
+        If the risk of encountering an infectious person is high (e.g. personnel has sustained contact with many other individuals throughout the course of their work), then surgical masks and other relevant PPEs should be used instead.
+
+    - title: Can my employees use employer-provided recreational facilities which are not located at the workplace?
+      content: |
+        Access to standalone recreational facilities which are located away from employees’ workplaces will depend on the re-opening plans for relevant permitted enterprises. These facilities will also be subject to stricter safe management measures (e.g. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise). When visiting such facilities, employees will still have to comply with the relevant safe management measures put in place for that setting.
+
+    - title: Do I need to wear a mask while giving a speech during a work-related event?
+      content: |
+        Yes.
 
     - title: Can I carry on with the work-related event I have planned between 16 May and 13 June, given the tighter measures that were announced for this period?
       content: |
         Employers are strongly encouraged to consider rescheduling or convert to virtual those work-related events that are not critical, in view of the recent trends in community transmission of COVID-19. 
-
         If employers assess that the physical work-related event is critical, they may proceed with strict implementation of SMM.  
-
-        i.	The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
-
-        ii.	Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
-
-        iii.	Food and drinks are not allowed at work-related events.
+        i.  The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
+        ii. Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
+        iii.  Food and drinks are not allowed at work-related events.
 
 - accordion:
   letter: c
