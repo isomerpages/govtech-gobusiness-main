@@ -335,3 +335,30 @@
         The evacuation plan should include the appointment of the emergency response team, established procedures for activation of response team, evacuation routes, identification of designated clinic and transport arrangements, etc.
 
         The follow up plan should include follow up actions to contain the spread of the virus such as cordoning off and disinfecting of affected area, managing of employees that are in close contact with the confirmed case, etc.
+
+- accordion:
+  letter: f
+  data:
+    - title: What should be included in my monitoring plan?
+      content: |
+        The monitoring plan should at minimum, include details on the steps taken to ensure the requirements are communicated and adhered to, and how any anomalies or non-compliance will be identified. The plan should also highlight risk mitigation strategies and proposed steps to remedy and document any non-compliance found.
+
+        You may refer to [Annex B](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"} of the Safe Management Measures requirements, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for guidance on what should be included in the monitoring plan.
+
+    - title: Who can we appoint as a Safe Management Officer? 
+      content: |
+        Companies should appoint someone capable of carrying out the duties stated in MOM’s requirements for workplace Safe Management Measures within the organisation as the designated Safe Management Officer(s) (SMOs). For unionised companies, union leaders or Workplace Safety and Health officers could be appointed as SMOs. 
+
+        Companies should ensure that SMOs are provided with sufficient resources and guidance to carry out their duties effectively.
+
+        SMOs can be part-time appointments. 
+
+    - title: How do I ensure that my employees adhere to Safe Management Measures?
+      content: |
+        Employers are responsible for ensuring that Safe Management Measures are in place, communicated and explained to employees prior to resuming work. Signs should also be put up to remind employers and visitors to observe all measures in place.
+
+    - title: Can my company be exempted from Safe Management Measures when my employees are vaccinated?
+      content: |
+        We are still monitoring the duration of the vaccine’s protection and its effectiveness in preventing transmission of COVID-19.
+
+        Until enough people are vaccinated, you should continue to practise public health measures such as [Workplace Safe Management Measures](https://momwcms2.intranet.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. This will help to continue protect ourselves and our loved ones

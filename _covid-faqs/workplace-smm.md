@@ -25,7 +25,7 @@ permalink: /covid-faqs/workplace-safe-management-measures
 
 #### Implement a system of Safe Management Measures
 
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
+{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
 
