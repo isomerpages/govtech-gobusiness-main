@@ -243,9 +243,9 @@
         Establishments that were visited by positive COVID-19 cases (as informed and confirmed by MOH) are strongly advised to:
  
         - Disinfect premises as soon as practicable. Arrange for disinfection by external vendors to be carried out, if you are unable to do so yourself.  Please inform NEA about your disinfection schedule by emailing the following personnel:
-        [Kabilan_APANA@nea.gov.sg](mailto:Kabilan_APANA@nea.gov.sg)
-        [Mohammad_Harfid_HAMDAN@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
-        [Dannyanand_GJ@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
+          - [Kabilan_APANA@nea.gov.sg](mailto:Kabilan_APANA@nea.gov.sg)
+          - [Mohammad_Harfid_HAMDAN@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
+          - [Dannyanand_GJ@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
           
         - Premises can reopen only after disinfection is completed. The time taken to complete the disinfection will depend on the size of the premises. 
         
@@ -261,43 +261,3 @@
         
         For venues that have been visited by positive COVID-19 cases and asked to close by MOH, employees should not be redeployed to other worksites at all for the period of closure. If instructed to go for swabs, employers must ensure that their employees from these venues visit the designated Regional Screening Centre, “Swab and Send Home” (SASH) Public Health Preparedness Clinics or mobile swab sites for the COVID-19 test offered by MOH. These employees should stay at home and minimise social interactions during the period of closure even if their swab results are negative. They should also monitor their health closely, and visit a doctor immediately if unwell. 
 
-- accordion:
-  letter: d
-  data:
-    - title: What constitutes as ‘authorised visitors’ allowed to visit the workplace?
-      content: |
-        This refers to visitors who are visiting the workplace for official reasons, including but not limited to:
-
-        - Suppliers or contractors who need to be physically onsite to deliver their goods and services
-        - Buyers who are onsite to collect their goods and services
-        - Visitors who need to attend a physical meeting within the workplace premises
-
-        This excludes visitors who may visit the workplace for leisure purposes.
-
-    - title: Can I use an alternative visitor management system instead of SafeEntry?
-      content: |
-        As part of safe workplace measures, all venues and facilities found listed on [https://www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment){:target="_blank"} will have to implement SafeEntry for employees and visitors. 
-
-        This includes office tenants/workplaces where there is a SafeEntry checkpoint at the main building entrance. 
-
-        Please go to [https://www.support.safeentry.gov.sg/hc/en-us](https://www.support.safeentry.gov.sg/hc/en-us){:target="_blank"} for more details.
-
-    - title: What changes must businesses make to their SafeEntry check-in mode from 17 May 2021?
-      content: |
-        From 17 May 2021, only TraceTogether token or app can be used for SafeEntry check-ins. Other modes, such as scanning of identity cards, venue QR code through Singpass app or other QR code reader apps, will be discontinued. 
-
-        Venues should allow entry to individuals who successfully check in to SafeEntry using their TraceTogether (TT) App or TT token.
-
-        Find out more about [what businesses need to do](https://support.safeentry.gov.sg/hc/en-us/articles/900003291566-What-does-TT-only-SE-mean-to-the-venues-required-to-implement-it-){:target="_blank"}.
-
-    - title: Where can I find more information on SafeEntry?
-      content: |
-        You may go to [https://www.safeentry.gov.sg/](https://www.safeentry.gov.sg/){:target="_blank"} for more information on the implementation and usage of SafeEntry.
-
-    - title: In an office setting, would leaving an empty desk marked (e.g. with a cross) suffice for safe distancing? For barriers between workstations, are there guidelines for how high they need to be?
-      content: |
-        Employers must ensure clear physical spacing of at least 1m between persons at all times and demarcate safe physical distances (at least 1m apart) with visual indicators or physical means such as barriers between work stations. If leaving an empty desk and demarcating clearly with visual indicators allows for at least 1m distancing between employees, such an approach can be considered. For barriers between workstations, while there are no specific height guidelines, the barriers should also facilitate the required safe physical distance of 1m apart.
-        
-   - title: How frequently should I clean my workplace, i.e. what is considered regular cleaning?
-      content: |
-        As the recommended frequency and intensity may differ by sector, businesses should refer to the sanitation and hygiene advisories disseminated by the National Environmental Agency (NEA) [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines){:target="_blank"}. 
