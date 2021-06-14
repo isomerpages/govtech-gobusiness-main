@@ -246,7 +246,6 @@
           - [Kabilan_APANA@nea.gov.sg](mailto:Kabilan_APANA@nea.gov.sg)
           - [Mohammad_Harfid_HAMDAN@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
           - [Dannyanand_GJ@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
-        
 
         - Premises can reopen only after disinfection is completed. The time taken to complete the disinfection will depend on the size of the premises. 
         
@@ -282,3 +281,85 @@
         This includes office tenants/workplaces where there is a SafeEntry checkpoint at the main building entrance. 
 
         Please go to [https://www.support.safeentry.gov.sg/hc/en-us](https://www.support.safeentry.gov.sg/hc/en-us){:target="_blank"} for more details.
+
+    - title: What changes must businesses make to their SafeEntry check-in mode from 17 May 2021?
+      content: |
+        From 17 May 2021, only TraceTogether token or app can be used for SafeEntry check-ins. Other modes, such as scanning of identity cards, venue QR code through Singpass app or other QR code reader apps, will be discontinued. 
+
+        Venues should allow entry to individuals who successfully check in to SafeEntry using their TraceTogether (TT) App or TT token.
+
+        Find out more about [what businesses need to do](https://support.safeentry.gov.sg/hc/en-us/articles/900003291566-What-does-TT-only-SE-mean-to-the-venues-required-to-implement-it-){:target="_blank"}.
+
+    - title: Where can I find more information on SafeEntry?
+      content: |
+        You may go to [https://www.safeentry.gov.sg/](https://www.safeentry.gov.sg/){:target="_blank"} for more information on the implementation and usage of SafeEntry.
+
+    - title: In an office setting, would leaving an empty desk marked (e.g. with a cross) suffice for safe distancing? For barriers between workstations, are there guidelines for how high they need to be?
+      content: |
+        Employers must ensure clear physical spacing of at least 1m between persons at all times and demarcate safe physical distances (at least 1m apart) with visual indicators or physical means such as barriers between work stations. If leaving an empty desk and demarcating clearly with visual indicators allows for at least 1m distancing between employees, such an approach can be considered. For barriers between workstations, while there are no specific height guidelines, the barriers should also facilitate the required safe physical distance of 1m apart.
+
+   - title: How frequently should I clean my workplace, i.e. what is considered regular cleaning?
+      content: |
+        As the recommended frequency and intensity may differ by sector, businesses should refer to the sanitation and hygiene advisories disseminated by the National Environmental Agency (NEA) [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines){:target="_blank"}. 
+
+- accordion:
+  letter: e
+  data:
+    - title: Do employees who are working from home need to undergo regular temperature screening and declarations?
+      content: |
+        Employees who are working from home do not need to submit their temperatures or declarations. However, they should continue to monitor their health conditions and see a doctor if needed.
+
+    - title: What is the frequency of health declaration required?
+      content: |
+        Health declarations should be done daily prior to entry into workplace premises. This must be done regardless of whether the employee is working at the employer’s premises, or at a client’s worksite. 
+        
+        Temperature screening and respiratory checks should be conducted twice daily for employees.
+
+    - title: Can I fulfil the requirements for temperature screening, respiratory checks and relevant declarations via the deployment of SafeEntry?
+      content: |
+        Yes,  declarations by individuals via SafeEntry can be used to fulfil the requirements for temperature screening, respiratory checks and relevant declarations. Employers are reminded that temperature and respiratory symptom checks for employees have to be conducted twice daily at minimum, and for visitors prior to entry.
+        Notwithstanding whether employees make declarations via SafeEntry, employers must be able to demonstrate that regular checks for temperature and respiratory symptoms are in place at the workplace during inspections. This could include facilities set up to screen temperature or records of temperature checks.
+
+    - title: How can we prevent incipient outbreaks at the workplace?
+      content: |
+        You can do your part to guard against incipient outbreaks at the workplace through the following:
+
+        - Adherence to Safe Management Measures at the workplace 
+        - Ensuring employees at the workplace who have visited a clinic submit to you records of their Medical Certificates (MCs) and diagnoses provided (only for COVID-19-related symptoms, including acute respiratory infections), and if they were tested for COVID-19 and the results of their tests
+        - Advising employees who are unwell to stay home and consult a doctor rather than going to the workplace
+        - Requiring employees on MCs to closely monitor their health before returning to the workplace
+        - Requiring close contacts of employees on MCs to monitor their health more regularly
+
+    - title: What should the evacuation plan and follow-up plan include?
+      content: |
+        The evacuation plan should include the appointment of the emergency response team, established procedures for activation of response team, evacuation routes, identification of designated clinic and transport arrangements, etc.
+        
+        The follow up plan should include follow up actions to contain the spread of the virus such as cordoning off and disinfecting of affected area, managing of employees that are in close contact with the confirmed case, etc.
+
+- accordion:
+  letter: f
+  data:
+    - title: What should be included in my monitoring plan?
+      content: |
+        The monitoring plan should at minimum, include details on the steps taken to ensure the requirements are communicated and adhered to, and how any anomalies or non-compliance will be identified. The plan should also highlight risk mitigation strategies and proposed steps to remedy and document any non-compliance found.
+        
+        You may refer to [Annex B](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"} of the Safe Management Measures requirements, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for guidance on what should be included in the monitoring plan.
+
+    - title: Who can we appoint as a Safe Management Officer? 
+      content: |
+        Companies should appoint someone capable of carrying out the duties stated in MOM’s requirements for workplace Safe Management Measures within the organisation as the designated Safe Management Officer(s) (SMOs). For unionised companies, union leaders or Workplace Safety and Health officers could be appointed as SMOs. 
+
+        Companies should ensure that SMOs are provided with sufficient resources and guidance to carry out their duties effectively.
+
+        SMOs can be part-time appointments. 
+
+    - title: How do I ensure that my employees adhere to Safe Management Measures?
+      content: |
+        Employers are responsible for ensuring that Safe Management Measures are in place, communicated and explained to employees prior to resuming work. Signs should also be put up to remind employers and visitors to observe all measures in place.
+
+    - title: Can my company be exempted from Safe Management Measures when my employees are vaccinated?
+      content: |
+        We are still monitoring the duration of the vaccine’s protection and its effectiveness in preventing transmission of COVID-19.
+        
+        Until enough people are vaccinated, you should continue to practise public health measures such as [Workplace Safe Management Measures](https://momwcms2.intranet.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. This will help to continue protect ourselves and our loved ones
+
