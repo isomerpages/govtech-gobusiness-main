@@ -230,80 +230,33 @@
 - accordion:
   letter: c
   data:
-    - title: How do I know if my foreign workers can leave their residence for work?
+    - title: What should I do if there is a positive COVID-19 case at my workplace? 
       content: |
-        You can now use the AccessCode on the SGWorkPass app to check if your foreign employees can leave their residence (dormitory or non-dormitory housing) for work. The status of your employees' AccessCode takes into account 3 broad parameters:
-        - Their health
+        Employers should manage COVID-19 cases proactively. If an employee/visitor has tested positive for COVID-19, employers should immediately ask any staff who were in close contact with the employee/visitor in the last 14 days (e.g. working in the same zone or on the same shift) to self-isolate while MOH performs contact tracing. This will minimise the risk of further spread if any of them are infected. 
 
-        - Their residential address
+        When three or more COVID-19 cases that are epidemiologically linked are formed at your workplace, test all high-risk<sup>1</sup> employees to detect additional cases before resuming operations. High-risk employees are recommended to be placed on a 7-day Rostered Routine Testing after reopening. 
 
-        - Whether your company and/or worker is allowed to operate
+        <sup>1</sup> Refers to close contacts of COVID-19 positive cases, and employees in work functions with close/extended contact with customers.
 
-        They can only leave for work if their AccessCode is 'Green' (can go out for work).
-
-        However, if their AccessCode is 'Red' (cannot go out for work), they are not allowed to leave for work.
-
-    - title: Am I able to access all my workers' AccessCode status and details, instead of checking individually using the SGWorkPass?
+    - title: What is the protocol on disinfection of premises visited by positive COVID-19 cases? 
       content: |
-        From 12 July 2020, employers can download the AccessCode details of their workers from a new [Safe@Work eService](https://www.mom.gov.sg/eservices/services/safe-work){:target="_blank"}. For a start, AccessCode statuses of workers who hold a Work Permit or S Pass will be available. 
+        Establishments that were visited by positive COVID-19 cases (as informed and confirmed by MOH) are strongly advised to:
+ 
+        - Disinfect premises as soon as practicable. Arrange for disinfection by external vendors to be carried out, if you are unable to do so yourself.  Please inform NEA about your disinfection schedule by emailing the following personnel:
+        [Kabilan_APANA@nea.gov.sg](mailto:Kabilan_APANA@nea.gov.sg)
+        [Mohammad_Harfid_HAMDAN@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
+        [Dannyanand_GJ@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
+          
+        - Premises can reopen only after disinfection is completed. The time taken to complete the disinfection will depend on the size of the premises. 
+        
+        - MOH will advise on whether employees need to be quarantined. 
+        
+        - Once disinfection is completed, premises can reopen and be manned by employees not identified as close contacts. Close contacts of the positive COVID-19 case, as identified by MOH, can return to work only after they have completed their Quarantine Order or as directed by MOH.
+        
+        - If there are additional directives issued by MOH (e.g. for premises to be closed for a longer period), firms must comply accordingly. 
 
-        Please refer to the [Safe@Work eService onboarding guide](https://www.mom.gov.sg/-/media/mom/documents/safety-health/user-guides/safe-work/user-guide-safe-work.pdf?la=en&hash=58E40C481AF9D908461569E56A92AD6D){:target="_blank"} for more information.
-
-    - title: My worker's AccessCode is 'Red' and his AccessCode details shows 'No approval to start work'. What should I do?
+    - title: My workplace premise has been directed to close due to a positive COVID-19 case. Can I re-deploy my workers from the closed premises to work at other premises for the period of closure? 
       content: |
-        This means your company has not been given approval to operate, and/or your workers are not allowed to start work.
-
-        All companies should check the [GoBusiness Portal](https://www.gobusiness.gov.sg/covid/){:target="_blank"} to find out if they are allowed to operate. Please approach your respective lead agencies for assistance:
-
-        | **Sector your company is in** | **Who to approach?** |
-        | --- | --- |
-        | Construction | Building and Construction Authority (BCA)<br><br> If your worker's AccessCode details show 'No approval to start work', it could be because:<br><br> - Your company has not submitted project or workers to BCA for approval<br> - Your company has obtained BCA's approval, but:<br> - Your project did not include the worker in the submission for approval<br> - There is missing/wrong worker's information in the submission (e.g. wrong FIN/UEN or FIN entered is not under the employment of the UEN entered)<br><br>For the above scenario, please submit/resubmit an application for construction/supply works at BCA's website. Please refer to the links below the application process:<br><br> - [English version](https://go.gov.sg/bca-restart-navigator){:target="_blank"}<br> - [Chinese version](https://go.gov.sg/bca-restart-navigator-chi){:target="_blank"}<br><br>If none of the above reasons apply to you, please contact BCA at [bca_safeworkforce@bca.gov.sg](mailto:bca_safeworkforce@bca.gov.sg) for assistance. |
-        | All Sectors  | GoBusiness Portal<br><br>Email: [covid_gobusiness@mti.gov.sg](mailto:covid_gobusiness@mti.gov.sg) |
-
-    - title: How do I update my foreign employee’s residential address?
-      content: |
-        You can update their residential address using: 
-
-        - [Online Foreign Worker Address Service (OFWAS)](https://www.mom.gov.sg/eservices/services/ofwas){:target="_blank"} for Work Permit holders
-        - [EP Online](https://www.mom.gov.sg/eservices/services/ep-online){:target="_blank"} for Employment Pass and S Pass holders 
-
-        Their AccessCode will be refreshed 1 - 2 days after their addresses are updated in OFWAS or EP Online. If their AccessCode is not refreshed, it may mean:
-
-        - Your worker has failed to scan the QR code in his room using the FWMOMCare App; or
-        - the dormitory operators' record is not updated. Please contact the dormitory operator to rectify this.
-
-    - title: What can employees of firms which are not allowed to operate do, if they are told to leave the company due to refusal to report to work?
-      content: |
-        Employees who have been wrongfully dismissed may file a claim against the wrongful dismissal or make a phone advisory appointment with the Tripartite Alliance for Dispute Management (TADM) at [https://www.tal.sg/tadm/eServices](https://www.tal.sg/tadm/eServices){:target="_blank"}. 
-
-        For more information on what constitutes a wrongful dismissal, please refer to the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/employment-practices/termination-of-employment/unfair-dismissal#what-is-a-wrongful-dismissal){:target="_blank"}.
-
-    - title: Can my workers who are staying in dormitories walk or take their own personal transport (e.g. bicycle, motorcycles) to and from their worksites?
-      content: |
-        As an employer, you must provide transport for your workers to and from their worksites.
-
-        If the worksite is located nearby (e.g. <1km away) and there are no community areas en-route, you can allow your worker to walk or cycle.
-
-        When allowing workers to walk or cycle between dormitories and worksites, you must demonstrate that you have complied with the relevant safe management measures upon request by enforcement officers. You must ensure that your workers wear their masks at all times, and that they only travel to and from their worksites with no stops in between.
-
-        Workers are not allowed to ride motorcycles to and from their worksites under any circumstances.
-
-        More details on implementing safe management measures for workers on employer-provided transportation can be found [here](https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation){:target="_blank"}.
-
-    - title: Can my workers who are staying in dormitories take taxis or private hire vehicles (e.g. Grab, GoJek) to and from their worksites?
-      content: |
-        As an employer, you must provide transport for your workers to and from their worksites.
-
-        You can use taxis or private hire vehicles (PHVs) as long as you:
-
-        - Work with taxi or PHV operators to pre-arrange and pre-pay for such vehicles to ferry the workers to ensure availability of vehicles and reduce physical interactions between drivers and workers.
-
-        - Work with dormitory operators to plan and coordinate pick-up times so as to reduce congestion.
-
-        AND
-
-        - Are able to demonstrate that you have complied with the relevant safe management measures upon request.
-
-        You must ensure that your workers wear their masks at all times, check in using SafeEntry, and that they go directly to and from their worksites with no stops in between.
-
-        More details on implementing safe management measures for workers on employer-provided transportation can be found [here](https://www.mom.gov.sg/covid-19/advisory-on-safe-management-measures-for-workers-on-transportation){:target="_blank"}.
+        Employers must ensure no cross-deployment across worksites (i.e. no employee should work at more than one worksite). 
+        
+        For venues that have been visited by positive COVID-19 cases and asked to close by MOH, employees should not be redeployed to other worksites at all for the period of closure. If instructed to go for swabs, employers must ensure that their employees from these venues visit the designated Regional Screening Centre, “Swab and Send Home” (SASH) Public Health Preparedness Clinics or mobile swab sites for the COVID-19 test offered by MOH. These employees should stay at home and minimise social interactions during the period of closure even if their swab results are negative. They should also monitor their health closely, and visit a doctor immediately if unwell. 
