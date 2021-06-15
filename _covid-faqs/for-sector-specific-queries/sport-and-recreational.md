@@ -6,27 +6,31 @@ third_nav_title: For Sector-Specific Queries
 
 ### Sport & recreational facility operators & sport, physical exercise & activity administrators
 
-#### I. Children & Youth-Centric Classes/Programmes
+#### On Group Size for Sport & Physical Activities
 
 {% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="a" %}
 
-#### II. Further Reduction of Group Size for Sport & Physical Activities
+#### On Children & Youth-Centric Classes/Programmes
 
 {% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="b" %}
 
-#### III. Low Intensity Sport & physical Activities In Indoor Sport & Recreational Facilities
+#### On Low Intensity Sport & Physical Activities In Indoor Sport & Recreational Facilities
 
 {% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="c" %}
 
-#### IV. Sports Events
+#### On Sport Events 
 
 {% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="d" %}
 
-#### V. Large Group Outdoor Classes
+#### On Large Group Outdoor Classes
 
 {% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="e" %}
 
-#### VI. ActiveSG Facilities & Programmes
+#### On Regular Fast & Easy Testing (FET) 
+
+{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="f" %}
+
+#### On Active SG Facilities & Programmes 
 
 {% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="f" %}
 
