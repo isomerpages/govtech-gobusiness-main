@@ -32,6 +32,6 @@ third_nav_title: For Sector-Specific Queries
 
 #### On Active SG Facilities & Programmes 
 
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="f" %}
+{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="g" %}
 
 [Back to Covid-19 Overview](/covid/)
