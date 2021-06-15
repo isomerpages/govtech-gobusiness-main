@@ -1,62 +1,42 @@
 - accordion:
   letter: a
   data:
-    - title: Which sport and physical activity classes / programmes for children & youth 18 years old and below are to be suspended?
+    - title: What is the maximum number of people who can exercise in a group?  
       content: |
-        To safeguard the well-being of children and youths<sup>1</sup>, all indoor classes / programmes, regardless of class size, and outdoor group classes / programmes will be suspended or moved online from 19 May to 13 June 2021.
+        From 14 June 2021, sport and physical activities must confine to groups of no more than 5 individuals (including instructor). The physical distancing of 2m between individuals except when the nature of the sport does not permit so and 3m between groups of up to 2 individuals must be maintained while exercising and playing sport. 
 
-        Only 1-on-1 (1 coach to 1 student/trainee) sport / physical activity session for this age group can take place outdoors. If activity is strenuous, mask can be taken off but have to be put on immediately after the end of the activity.
-
-        <sup>1</sup>Refers to 18 years (born in 2003) and below
-
-    - title: Are 1-on-1 classes / coaching for children & youths allowed during this period?
+    - title: What is the maximum number of people a sport facility can accommodate? 
       content: |
-        For individuals 18 years (born in 2003) and below, only 1-on-1 (1 coach to 1 student/trainee) sport / physical activity session can take place outdoors. If activity is strenuous, mask can be taken off but have to be put on immediately after the end of the activity.
+        All sport/ recreational facilities can only admit a maximum number of persons according to its Gross Floor Area based on 10 Sqm per person, up to a maximum of 50 persons. No facility, regardless of size, shall admit more than 50 persons. 
 
-    - title: Sport, physical activity classes and programmes for children and youth 18 years old and below will be suspended or moved online, with effect from 19 May to 13 June 2021. Are they allowed to continue exercising?
+        The maximum number of pax for organised classes is 30 pax (multiple groups of 5) or the capacity limit of the venue, whichever is lower, and is inclusive of the instructor. 
+
+    - title: Will I be allowed to play sports such as badminton, basketball and table tennis?  
       content: |
-        To safeguard the well-being of children and youth, all indoor classes / programmes, regardless of class size, and outdoor group classes / programmes will be suspended or moved online during this period. Individuals in this age group can continue to exercise up to a maximum of 2 pax. As an additional precaution, they should continue exercising with people in the same household.
+        From 14 June, you are allowed to play sports such as badminton, basketball and table tennis in a group of no more than 5 persons. 
 
-        In addition, when engaging in sport and exercise, a physical distancing of 2 metres between individuals and 3 metres between groups sharing the same space must be maintained at all times. No mixing of groups is allowed. Masks must be donned when not engaging in strenuous exercises outdoors.
+        If you are playing sports indoors, between 14 to 20 June, you will need to be masked-up for the entire duration of play and not to remove it.  
+
+        From 21 June, with gradual easing of SMMs for sport, you will be able to partake in maskdown, high intensity activities in both indoor and outdoor settings.
 
 - accordion:
   letter: b
   data:
-    - title: What is the maximum number of people who can exercise in a group?
+    - title: I run sport classes for youths and children under 18 years old. Can I resume these classes? 
       content: |
-        From 16 May to 13 June 2021, sport and physical activities must be confined to groups of no more than 2 individuals. The physical distancing of 2m between individuals except when the nature of the sport does not permit so and 3m between groups of up to 2 individuals must be maintained while exercising and playing sport.
+        Classes for this age group can resume as follows: 
+        - From 14 to 20 June 2021, only ***outdoor*** sport / physical activity programmes may be conducted for up to 1 group of 5 participants in total. If the activity is strenuous, masks can be taken off, but will have to be put on immediately after the end of the activity. 
+        - From 21 June 2021, multiple groups of 5 up to 30 participants or the capacity limit of the venue, whichever is lower, will be allowed. This applies to <u>both indoor and outdoor</u> activities.   
 
-    - title: What is the maximum number of people a sport facility can accommodate?
+    - title: Are 1-on-1 classes / coaching for children & youths who are 18 years old & under in indoor settings allowed? 
       content: |
-        All sport/ recreational facilities can only admit a maximum number of persons according to its Gross Floor Area based on 16 Sqm per person, up to a maximum of 50 persons, instead of 10 Sqm per person. No facility, regardless of size, shall admit more than 50 persons.
+        From 19 May to 20 June 2021, ***indoor*** classes / programmes regardless of size are not allowed to take place. Instructors are urged to suspend classes or move them online. 
 
-    - title: Can there be large group sport and physical activities classes?
+        From 21 June 2021, ***indoor*** classes / programmes can resume in multiple groups of 5 up to 30 participants or the capacity limit of the venue, whichever is lower. 
+
+    - title: I run a yoga class for children below 7 years old. Do my young participants need to don masks? 
       content: |
-        For organised programmes and classes indoors<sup>2</sup>, multiple groups of 2 remain allowable up to 30 participants or the capacity limit of the venue, whichever is lower. The groups of 2 are not to intermingle and must remain 3 metres apart
-
-        For organised programmes and classes outdoors, multiple groups of 2 remain allowable up to 30 participants or the capacity limit of the venue, whichever is lower, if the activity is of low intensity with masks on at all times. The groups of 2 are not to intermingle and must remain 3 metres apart.
-
-        If the activity is of high intensity where masks have to be removed, only two persons are allowed (including instructor or coach) and there can be no multiple groups of 2.
-
-        In some ActiveSG facilities, the Multi-Ministry Taskforce has allowed multiple groups of 2s for high intensity activities (unmasked) as part of organised programmes with strict enforcement of safety management measures.
-
-        <sup>2</sup>From 19 May to 30 Jun 2021, all indoor classes / programmes, regardless of class size, and outdoor group classes / programmes catering to 18 years old (born in 2003) & below are to be suspended or moved online.
-
-    - title: Will I be allowed to swim?
-      content: |
-        Yes, you are allowed to swim outdoors as an individual or in a group of no more than 2 persons, including yourself.
-
-    - title: Will I be allowed to golf in a 4-ball flight?
-      content: |
-        You are allowed to golf in a 4-ball flight in two groups of 2 person with masks on and keeping 3m between the two groups at all times. If masks are unable to be worn throughout, only a 2-ball flight is allowed.
-
-    - title: Will I be allowed to play sports such as badminton, basketball and table tennis?
-      content: |
-        You are allowed to play sports such as badminton, basketball and table tennis in a group of no more than 2 persons (i.e. 1v1). Masks must be worn at all times when playing sports indoors; masks may be taken off during strenuous activity outdoors, in a group of no more than 2 persons only.
-
-    - title: I am a family of 4. Can we exercise outdoors together?
-      content: |
-        Individuals from the same household can exercise together, but should split into pairs and maintain safe distancing between individuals (2 metres) and different groups (3 metres) while exercising.
+        Children under 6 years old are not required by law to wear mask, but it would be good practice for them to do so where possible. However, do note that from 16 May to 20 June 2021, all indoor classes / programmes regardless of class size, are to be suspended or moved online. These indoor classes can only resume in in multiple groups of 5 up to 30 participants or the capacity limit of the venue, whichever is lower, from 21 June 2021. 
 
 - accordion:
   letter: c
