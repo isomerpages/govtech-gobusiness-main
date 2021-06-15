@@ -9,7 +9,7 @@ Xero is a cloud-based online accounting solution that can handle tasks that used
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HarvestAccounting20200628_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,18 +1,15 @@
 ---
-title: Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Premium)
-permalink: /productivity-solutions-grant/solutionrepo/solution1820
+title: SYNERGIX E1 Version TH6 - Package A   HRMS Standard
+permalink: /productivity-solutions-grant/solutionrepo/solution2245
 ---
 
 ### Description
 
-You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!
-Vue Tech not only build up a website for you, but also helps you to set up all the infrastructure you need to promote your business on the internet.
-Vue tech provides eCommerce website setup, digital marketing setup & optimization, SEO setup & consultation, with a great performance track record.
-Vue tech build long term business channel for you!
+Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266<br>Contact Email: godigital@vuetechsg.com <br>
+Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
