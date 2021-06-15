@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:E-Click Solutions <br>Web URL: 53295423L  <br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
+Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
