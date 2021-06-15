@@ -10,9 +10,11 @@ To ensure a safe working environment,  businesses are required to abide by the [
 
 All businesses should take note of the following:
 
--	From 16 May 2021 through 13 June 2021, work-from-home will be the default at workplaces. Employers must ensure that employees who are able to work from home do so.
+-	Work-from-home will continue to be the default at workplaces. Employers must ensure that employees who are able to work from home do so.
 
--   Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours. Social gatherings at the workplace will not be allowed.
+-   Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours. 
+
+-   Social gatherings at the workplace will not be allowed. Employees should have their meal breaks at the workplace individually.
 
 -	Any applicable sector-specific requirements
 
