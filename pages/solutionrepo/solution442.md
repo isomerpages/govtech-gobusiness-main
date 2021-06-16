@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (NAV) Version 17 - Package C (Premium 10 Users with Peppol)
+title: Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium 10 Users with Peppol)
 permalink: /productivity-solutions-grant/solutionrepo/solution442
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Globalsoft_Annex3_CR_wef_3_Dec_2020_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
