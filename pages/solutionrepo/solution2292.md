@@ -1,5 +1,5 @@
 ---
-title: 3a. Jumpstart your Online Business (Part 1)
+title: 3b. Jumpstart your Online Business (Part 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution2292
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051549' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051939' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
