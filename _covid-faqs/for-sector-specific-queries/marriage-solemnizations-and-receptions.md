@@ -6,11 +6,11 @@ third_nav_title: For Sector-Specific Queries
 
 ### Marriage Solemnization and Receptions [Updated as of 10 June 2021]
 
-#### I. Latest COVID-19 Situation (14 Jun 2021)
+#### I. Latest COVID-19 Situation (19 Jun 2021)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
 
-#### II. General Safe Management Measures (with effect from 14 June 2021 onwards)
+#### II. General Safe Management Measures (with effect from 19 June 2021 onwards)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
 
