@@ -1,12 +1,12 @@
 - title: Exemptions
-  description: Apply for your business to resume operating or to have temporary operations. You can also check your exemption application/business resumption status and appeal rejected or partially approved applications
-  url: go.gov.sg/covidbusinessresumptions.
+  description: Apply for your business to resume operating or to have temporary operations. You can also check your exemption application/business resumption status and appeal rejected or partially approved applications.8
+  url: go.gov.sg/covidbusinessresumptions
   url-new-tab: true
   protocol: https
   text: Find Out More
 
 - title: Manpower
-  description: Submit your manpower details here or apply for additional manpower (only for businesses that have received approval for exemption)/
+  description: Submit your manpower details here or apply for additional manpower (only for businesses that have received approval for exemption).
   url: go.gov.sg/covidbusinessresumptions
   url-new-tab: true
   protocol: https
