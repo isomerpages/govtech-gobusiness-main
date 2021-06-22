@@ -3,27 +3,24 @@
   data:
     - title: How long will these measures last for?
       content: |
-        These measures will take effect from 16 May 2021 through 13 June 2021. However, this may be extended if the situation does not improve.
+        The latest measures will take effect from 21 June 2021 till mid July 2021. However, this may be extended if the situation does not improve.
 
-    - title: Why is there a need for the Government to further tighten F&B and other Retail operations?
+    - title: Why is there a need for the Government to further calibrate F&B and other Retail operations?
       content: |
-        The Multi-Ministry Taskforce (MTF) has been closely monitoring the local and global COVID-19 situation. The number of locally transmitted COVID-19 cases and unlinked community cases has continued to increase. To this end, the measures are needed to decisively arrest the increasing number of cases in the community.
-
-    - title: Are employees allowed to continue to work in office?
-      content: |
-        Work-from-home will be the default at workplaces. Employers must ensure that employees who are able to work from home do so. 
-
-        There should continue to be no cross-deployment of workers to multiple worksites. Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours. 
-
-        Social gatherings at the workplace will not be allowed. Employees may have meal breaks at the workplace, but refrain from intermingling with their colleagues when their masks are taken off.
+        The Multi-Ministry Taskforce (MTF) has been closely monitoring the local and global COVID-19 situation. Due to the persistence of some undetected community transmission cases, we will need to calibrate our reopening plans. 
 
     - title: These additional measures have impacted my business greatly. How is the Government supporting us?
       content: |
-        (i)	<u>Enhanced Jobs Support Scheme (JSS) for F&B firms</u>
-        In view of the cessation of dining-in at F&B establishments, the Government will increase the JSS support rate to 50% of the first $4,600 of gross monthly wages paid to local employees during the period for which dining-in is prohibited. This is an increase from the 10% support for wages paid up to June 2021.
+        (i)	<u>Enhanced Jobs Support Scheme (JSS) for affected sectors</u>
+        In view of the continued tightened safe management measures of various activities until mid-July 2021, the Government will extend the current enhancements to the JSS for affected sectors by 3 weeks (starting 21 June) before tapering it down to 10% for the subsequent 2 weeks. Please refer to the annex for more details. 
 
-        (ii)	<u>One-month rental relief for hawker centres and coffeeshops on Government-owned premises</u>
-        To support hawkers and coffeeshop stallholders, who are self-employed and do not benefit from the JSS, the Government will provide one month of rental waiver for hawker stall and coffeeshop tenants of Government agencies. Commercial landlords are urged to support their F&B tenants through this period.
+        (ii)  <u>Support to hawkers who are self-employed</u>
+        To support hawkers and coffeeshop stallholders who are self-employed, the Government will extend the subsidies for fees for table-cleaning and centralized dishwashing services, and will provide rental waivers, till mid-July 2021 for stallholders in centres managed by NEA or NEA-appointed operators. 
+
+        (iii) <u>Food Delivery Booster Package and E-commerce Booster Package</u> 
+        ESG reintroduced support measures to help affected F&B and retail businesses diversify their revenue channels and defray business costs of going online:
+        - The Food Delivery Booster Package defrays part of food delivery costs, via food delivery platforms and third-party logistics partners, and will be available from 16 May to 15 July 2021.
+        - The E-Commerce Booster Package provides up to 80% support for local retailers to get on-board local e-commerce platforms, and will be available from 16 May 2021 to 16 November 2021.
 
     - title: Will there be updates on the GoBusiness portal for businesses, e.g. what are the permissible activities?
       content: |
@@ -43,64 +40,78 @@
 
     - title: Are companies that are operating required to ensure that their employees work from home?
       content: |
-        From 16 May 2021 to 13 Jun 2021, work-from-home is the default mode of work and employers must provide the necessary facilities and direct their employees to work from home wherever possible.  
+        It remains essential that we continue to keep transmission risks in check by reducing overall footfall and interactions at common spaces or near the workplace, and in public places. Therefore, work-from-home is the default mode of work and employers must provide the necessary facilities and direct their employees to work from home wherever possible.  
 
         Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](https://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
 
-        A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}.
+        A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}. Enforcement checks will be conducted and actions will be taken against businesses for non-compliance. 
 
-        Enforcement checks will be conducted and actions will be taken against businesses for non-compliance.
+        For employees who need to return to the workplace, employers should continue to stagger start times of these employees and implement flexible working hours. Social gatherings at the workplace will not be allowed. Employees may have meal breaks at the workplace, but refrain from intermingling with their colleagues when their masks are taken off.
+
+    - title: Do I need to send my staff for regular testing? 
+      content: |
+        All employees who work at settings with unmasked clients/patron, or where there is prolonged contact between individuals, are required to be placed on a regular Fast and Easy Tests (FET) regime using tests such as antigen rapid tests (ART). These include staff of:
+
+        a.  Dine-in F&B establishments;
+        b.  Personal care services (e.g. facial and nail services, spas/saunas, massage establishments, hairdressing, and make-up services); and
+        c.  Gyms and fitness studios where clients are unmasked.
+        
+        The mandatory regular 14-day FET for staff at these settings will be progressively rolled out from 21 June 2021 and made mandatory from mid-July 2021. 
+
+    - title: Why do I need to send my staff for regular testing? 
+      content: |
+        Identified settings are of higher risks, as clients/patrons are unmasked while in close proximity to one another for prolonged periods of time. Employees who work at these settings would therefore need to undergo 14-day regular FET.
+
+    - title: What is the cost of getting the antigen rapid tests (ART)?
+      content: |
+        For establishments that are required to be placed on mandatory Fast and Easy Tests (FET) regime, the costs for the ART kits and training programmes for employees will be borne by the Government for the first 3 months, until 20 September 2021, during the initial roll-out.
+        For those who wish to purchase the ART self-test kits, they are available at all major pharmacies in Singapore, and their retail prices range from $10 to $13 per test kit. 
+
+    - title: How do I organise/conduct Fast and Easy Tests (FET) for my employees?
+      content: |
+        FET for all dine-in F&B establishments will be conducted via Employer-Supervised Self Swab (ESSS) where employees will swab themselves under the supervision of a trained staff (‘supervisor’). Supervision can be done either in-person or virtually.
+
+        To support establishments in their efforts to get started on FET, the government has also set up training programmes that companies can leverage to train supervisors in their establishments to supervise ART self-swabs for their staff. These supervisor training programmes will be provided at no costs to these establishments for the next three months.    
+
+        More details on the registration process and collection of kits will be announced. 
+
+    - title: I own a small business and am unable to organise the supervised self-swabs on my own. What should I do? 
+      content: |
+        We encourage all businesses to conduct employer supervised self-swabs for their employees. 
+
+        However, for small businesses (e.g. hawkers) who are unable to organise the supervised self-swabs on their own, the government will set up Quick Test Centres (QTCs) to support those who need to be tested. The first 2 QTCs at Tekka and Yishun will be operational from **21 June 2021**. More QTCs will be progressively set up. 
+
+    - title: On the regular testing regime, is there a need to bring it to a shorter interval, instead of 14 days? 
+      content: |
+        The Government will monitor the situation closely and if the need arises, the frequency may be increased. 
 
 - accordion:
   letter: b
   data:
     - title: Can F&B establishments allow dine-in options?
       content: |
-        From 16 May through 13 June 2021, all F&B establishments can only open for takeaway and/or delivery during this period. Dining-in is not permitted; this includes home-based private dining businesses.
+        From 21 June through mid-July 2021, F&B establishments are allowed to resume food service operations, with the exception of establishments with Pubs, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613. They must comply with the following: 
 
-        (i)	While customers and delivery personnel are allowed to enter the premises of the F&B establishments for takeaway or delivery, they must leave the premises once they have picked up their orders.
+        (i) F&B establishments are only permitted to seat dining groups of up to 2 persons. F&B establishments must also ensure that a safe distance of at least one metre is maintained between groups of diners to mitigate the risk of transmission. This refers to the distance between the edges of every group (of up to 2 persons) or person. In addition, F&B establishments must ensure that the furniture is arranged in such a way to facilitate safe distancing between groups – for example, the distance measured between the backs of chairs used by diners in different groups, or the legs of chairs if there is no back, must also be at least one metre apart.
 
-        (ii)	During this period, F&B establishments should cancel all events and promotions that will generate crowding at their physical premises in a manner which is non-compliant with the SMMs.
+        (ii)  Sale and consumption of alcohol in all F&B establishments are prohibited after 2230hrs daily. This includes consumption at any outdoor refreshment area and/or tables/chairs owned or managed by such establishment. As a best practice, by around 2200hrs, F&B operators should cease the sale of alcohol as a dine-in service and remind customers to consume their alcohol by 2230hrs. 
 
-        F&B establishments may serve as venues for wedding solemnisations and/or work-related events by third parties and are required to comply with the SMMs for these events. **However, as wedding receptions are not allowed, food and drinks are not permitted to be served at wedding solemnisations. Food and drinks are also not allowed at work-related events.**
+        (iii) F&B establishments are not allowed to play any form of background music or sounds. 
+
+        (iv)  F&B establishments may serve as venues for wedding solemnisations and/or work-related events by third parties and are required to comply with the SMMs for these events. Food and drinks are not allowed to be consumed at these events. Wedding receptions also remain prohibited.
+
+        All F&B establishments are also to note and implement the following measures:   
+        
+        (i) Ventilate and improve the indoor air quality where possible.
+        (ii)  F&B establishments should proactively manage potential contacts of COVID-19 cases at the workplace.
+        (iii) Observe the protocol on disinfection for premises visited by positive COVID-19 cases.
+        (iv)  F&B establishments providing dine-in services are to place all employees on a regular Fast and Easy Testing (FET) regime using tests such as antigen rapid test (ART), regardless of their vaccination status. Mandatory FET will be rolled out progressively for dine-in F&B establishments.
 
     - title: Can establishments with Pub/Bar/Nightclub/Disco (PBND) licenses continue to provide takeaway and delivery services?
       content: |
         Pivoted establishments with the requisite SFA F&B licenses, as well as bars on the nightlife pilot programme, are allowed to provide takeaway and delivery services. 
 
         Nightlife entities, which have either Pubs, Bars, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613) are still not allowed to operate during this period.
-
-    - title: Can F&B establishments do retail of alcoholic beverages?
-      content: |
-        Police will not proactively enforce against outlets that are doing delivery/takeaway of liquor without a retail liquor licence, during this period where dining-in is not allowed. If there are further queries, please write in to [SPF_PLRD_PELLD@spf.gov.sg](mailto:SPF_PLRD_PELLD@spf.gov.sg).
-
-    - title: Can staff and food handlers have their meals at the food outlets?
-      content: |
-        Employees of F&B establishments may consume their meals at the F&B premises. This includes all F&B establishments such as those in shopping malls, industrial estates, coffeeshops and hawker centres. Malls may designate spaces for mall employees to consume their meals. 
-
-        However, the F&B establishment must ensure that the following safe distancing measures are observed:
-
-        (i)	Designate and clearly demarcate a dining area for staff only. The designated area should be out of public view wherever possible.
-
-        (ii)	Stagger employees’ meal times.
-
-        (iii)	Employees must dine alone and keep a distance of at least one metre from any other individual. They should refrain from interacting with other individuals. 
-
-        (iv)	Employees should dine quickly and leave the designated dining area in a clean state after they have consumed their meals.
-
-        (v)	Employees must wear their masks as soon as they have finished eating or drinking. 
-
-        (vi)	Coffeeshop and food court stall operators may consume their meals at the tables in front of their stalls and they should also adhere to the safe management measures stated in (ii), (iii), (iv) and (v).
-
-    - title: My food establishment is located within an industrial building. Can it be allowed for dine-in during this period?
-      content: |
-        It can only serve takeaway and/or delivery orders only. No dine-in service is permitted. Customers are not permitted to consume any food or drinks on-site whilst waiting for the food to be prepared.
-
-    - title: Are F&B establishments still required to put in place contact tracing and temperature screening for customers, now that they can only provide takeaway services?
-      content: |
-        As dine-in services are not allowed, F&B establishments are not required to implement SafeEntry for customers. However, all F&B establishments (including those with no dine-in services) must require their staff and vendors to do SafeEntry check-in. They must transit to TraceTogether-only SafeEntry when this is implemented from 17 May 2021.
-
-        Staff at these outlets should also be trained to communicate good practices to customers (e.g. avoid forming clusters or join the demarcated queue lines while waiting for food). You can also put up signage to communicate these messages.
 
     - title: My operating costs will increase due to the increased demand for takeaway containers. Can the Government help with costs?
       content: |
@@ -112,25 +123,15 @@
 
         We encourage everyone to bring their own clean containers when buying food. This will not only help to reduce the amount of waste generated but also ease the demand on disposable containers. In turn, establishments should allow patrons to use their own reusable containers.
 
-    - title: Where can workers whose work requires them to be on the move (e.g. taxi drivers, food delivery personnel, bus drivers) take their meals since dine-in is not allowed?
-      content: |
-        For service workers whose work requires them to be on the move e.g. delivery services, transport services, they should return to their office or homes for their meals. If this is not practical, they can eat in their vehicles, or in public spaces such as void decks, park benches. Workers are encouraged to observe the following while doing so:
-
-        (i)	Dine alone and keep a distance of at least one metre from another individual. They should refrain from interacting with other individuals; and
-
-        (ii)	Dine quickly and leave the public space in a clean state after they have consumed their meals. Wear masks as soon as they have finished eating or drinking.
-
     - title: Must a food delivery personnel wear a mask at all times?
       content: |
-        A food delivery personnel must wear a mask at all times in the course of their work.
+        Food delivery personnel must wear a mask at all times in the course of their work.
 
         The only two exceptions are when he/she is cycling to deliver food. A mask must be worn once he/she completes cycling.
 
     - title: Can work-related events continue to be held at F&B establishments?
       content: |
-        Employers should avoid organising work-related events unless critical. All work-related events that proceed (both non customer-facing and customer-facing) can be held within the workplace premise and third-party venues such as F&B establishments. 
-
-        However, event organisers are required to comply with the following guidelines: 
+        Work-related events (both non customer-facing and customer-facing) can be held within the workplace premises and third-party venues. Prevailing guidelines for the respective event venues will apply.
 
         (i)	Non customer-facing events (e.g. conferences, seminars):
 
@@ -154,54 +155,66 @@
           
           e.	All other prevailing workplace and venue SMMs must be adhered to.
 
-    - title: How is this Food Delivery Booster Package different from the package last year?
+    - title: Can I have lunch with my family members (within the same household) in a group of more than 2 persons in an F&B establishment? 
       content: |
-        The Food Delivery Booster Package is similar to the previous package that was introduced last year and provides targeted support for F&B businesses to defray business costs associated with greater demand for delivery services, in view of the cessation of dining-in at F&B establishments under the Phase 2 (Heightened Alert) period.
+        As per prevailing F&B SMMs, each dining group must be limited to 2 persons, with at least one-metre spacing between groups. Gatherings or groups of more than 2 persons are not allowed, even if they are split across multiple tables*. There should be no mixing or intermingling between groups.
 
-        To help F&B businesses sustain their operations during this period, the package will reduce the cost of commission and delivery for appointed food delivery platforms and third-party logistics players.
+        *Exceptions can only be made if all persons in the group are from the same household. These group(s) can be allowed into the F&B establishment. However, they will need to be seated at multiple tables, with no more than 2 persons per table, and at least one metre between tables. There should also be no intermingling between the dining groups in the F&B establishment.
+
+    - title: Are babies or toddlers included in the group size limits in F&B establishments? 
+      content: |
+        Yes, all persons, including babies and toddlers, are counted towards the group size. 
+
+    - title: How can F&B establishments apply for earlier vaccination for their frontline workers?
+      content: |
+        F&B establishments interested in earlier vaccination can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg. RAS will work with F&B companies to obtain the necessary details to facilitate earlier vaccination. 
+
+    - title: What are the next steps after applying for earlier vaccination? How long will F&B frontline workers have to wait to be vaccinated? 
+      content: |
+        The Government recognises that staff of F&B dine-in establishments are involved in higher-risk activities and will facilitate earlier vaccination of individuals who work in these settings. Individuals will receive a SMS directly from MOH to book their appointment slots for vaccination, once there are available slots. We seek your understanding that SMSes will be sent progressively as vaccination appointment slots are made available as supplies arrive. Individuals are also encouraged to register under the national vaccination programme at http://www.vaccine.gov.sg if they are already in eligible age groups.
+
+    - title: Is the earlier vaccination open to all F&B frontline workers, including foreigners?
+      content: |
+        All staff of F&B dine-in establishments are eligible for earlier vaccination, regardless of nationality. Interested F&B establishments can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg for more details.  
+
+    - title: Can I apply for earlier vaccination if I have already registered interest for vaccination previously?
+      content: |
+        If you have not received your vaccination booking registration code from MOH, you can still apply for earlier vaccination. To apply, you can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg for more details.
+
+    - title: Can F&B companies apply for priority vaccination for all employees, beyond frontline workers (staff who work at settings with unmasked clients/patrons, or where there is prolonged contact between individuals)?
+      content: |
+        The Government will facilitate earlier vaccination of all frontline staff who work at the physical outlets (including front-of-house and back-of-house operations) of dine-in F&B establishments as there is a higher risk for staff who work at settings with unmasked clients/patrons, or where there is prolonged contact between individuals. All other employees working in F&B companies (e.g. corporate staff, central kitchen staff) or non-dine in establishments (e.g. takeaway kiosks) will have to register under the national vaccination programme at http://www.vaccine.gov.sg.
+
+    - title: How can I find out more about the national vaccination programme? What are the side effects of vaccination?
+      content: |
+        For more details on the national vaccination programme, you can visit http://www.vaccine.gov.sg.
 
 - accordion:
   letter: c
   data:
     - title: What are the latest measures that retail establishments and lifestyle-related services need to note?
       content: |
-        From 16 May through 13 June 2021, retail establishments and lifestyle-related services are to note the following: 
+        From 14 June 2021, retail establishments and lifestyle-related services are to comply with the following: 
 
-        (i)	Social gatherings are allowed to comprise up to 2 persons, a reduction from 5 persons.
+        (i)	Social gatherings of up to 5 persons will be allowed. In line with this, retail establishments are to ensure at least one-metre spacing between groups of customers (of up to 5 persons). 
 
-        (ii)	The occupancy limit for malls and large standalone stores will be one person per 16 sqm of Gross Floor Area (GFA), instead of one person per 10 sqm of GFA. During this period, retail establishments should cancel all events and promotions that will generate crowds at their physical premises. 
+        (ii)	The occupancy limit for malls and large standalone stores will be increased to one person per 10 sqm of Gross Floor Area (GFA). During this period, retail establishments should not hold any events and promotions that will result in crowding at their physical premises in a manner which is non-compliant with the SMMs. 
 
-        (iii)	The operating capacity of Commercial Family Entertainment Centres must be kept to a maximum of one person per 16 sqm of usable space or 25% operating capacity, whichever is lower, instead of one person per 10 sqm of usable space or 50% operating capacity.
+        (iii)	The operating capacity of Commercial Family Entertainment Centres must be kept to a maximum of one person per 10 sqm of usable space or 50% operating capacity, whichever is lower. 
 
-        (iv)	“Mask-off” services and activities must cease, with exception of medical/dental services. Activities which must cease include strenuous indoor exercise classes, strenuous individual and group indoor sports and exercise activities, and personal care services where masks are not worn (e.g. facial treatments, make-up services and saunas are not permitted).   
+        (iv)	Personal care services which require masks to be removed (e.g. facial treatments, make-up services and saunas) will be allowed to resume. These must adhere strictly to the SMMs.  
 
-        (v)	Food and drinks are not allowed at work-related events. 
-
-        (vi)	Odd and even date entry restrictions on Sundays for popular malls (Lucky Plaza and Peninsula Plaza) will be extended to 13 June 2021.
+        (v)	Odd and even date entry restrictions on Sundays for popular malls (Lucky Plaza and Peninsula Plaza) will be lifted. 
 
     - title: How can supermarket manage queues now that the tightening of measures may result in more people buying groceries to cook at home?
       content: |
-        Supermarket retailers should implement other crowd management measures (e.g. limiting the number of shoppers within the store at any one time) to ensure that one metre spacing can be maintained between shoppers. They would also need to limit groups of customers entering the store to no more than 2 persons, as well as maintain orderly queues in-store, and at entrance to store.
+        Supermarket retailers should implement other crowd management measures (e.g. limiting the number of shoppers within the store at any one time) to ensure that one metre spacing can be maintained between shoppers. They would also need to limit groups of customers entering the store to no more than 5 persons, as well as maintain orderly queues in-store, and at entrance to store.
 
         Supermarkets are also encouraged to provide dedicated shopping hours for vulnerable groups, such as the elderly, persons with disabilities and pregnant women. This can help to reduce intermingling to better protect those who are more vulnerable to COVID-19.
 
-    - title: Are beauty services permitted to continue operations?
-      content: |
-        Beauty services and/or activities that require customers to remove their masks must cease from 16 May through 13 June 2021. These include beauty services and/or activities offered at retail outlets.
-
-        Examples of such services include facial treatments, saunas, makeup services and portions of threading and facial grooming services, which require customers’ masks to be removed.
-
-    - title: Are massage/spa services permitted to continue operations?
-      content: |
-        Massage services are still allowed to operate within private rooms. However, customers will need to have their masks on at all times.
-
-    - title: Will the 16sqm rule also apply to showrooms, e.g. car showrooms?
-      content: |
-        Yes, the occupancy limit of one person per 16 sqm of Gross Floor Area (GFA) applies to showrooms. During this period, retail establishments should cancel all events and promotions that will generate crowds at their physical premises.
-
     - title: Are game arcades permitted to continue operations?
       content: |
-        Yes, they can remain open. However, operators must practise safe management and safe distancing measures, including adhering to the occupancy limit of one person per 16 sqm of Gloss Floor Area (GFA) or 25% of operating capacity, whichever is lower. They must ensure that common touchpoints are disinfected frequently.
+        Yes, they can remain open. However, operators must practise safe management and safe distancing measures, including adhering to the occupancy limit of one person per 10 sqm of Gloss Floor Area (GFA) or 50% of operating capacity, whichever is lower. They must ensure that common touchpoints are disinfected frequently.
 
     - title: Are playgrounds/ indoor playgrounds permitted to open?
       content: |
@@ -211,10 +224,6 @@
       content: |
         Patients of licensed Traditional Chinese Medicine (TCM) practitioners are allowed to remove their masks during their consultation/treatment, if required. They must wear their masks as soon as their consultation/treatment is complete.
 
-    - title: How is this E-Commerce Booster Package different from the package last year?
+    - title: Are retail and lifestyle establishments required to place their employees on regular Fast and Easy Testing (FET) regime? 
       content: |
-        The E-Commerce Booster Package is similar to the package that was offered last year and provides targeted support for retail businesses to defray business costs associated with diversifying operations online, in view of the reduced occupancy limits for shopping malls and large standalone stores, under the Phase 2 (Heightened Alert) period.
-
-        The package is targeted at reducing the costs charged by the e-commerce platforms to help retailers increase local sales of products online and expand their reach in the Singapore market through the platforms.
-
-        Manpower costs will not be supported under the current package, as the need to defray cost for additional manpower is much lower since stores are allowed to remain open during the Phase 2 (Heightened Alert) period.
+        Establishments providing F&B dine-in services, personal care services (e.g. facial treatments, make-up services, hairdressing, spas/saunas and massage establishments) and gyms and fitness studios where customers are unmasked are required to place all employees on a regular 14-day FET regime using tests such as antigen rapid test (ART), regardless of their vaccination status. 
