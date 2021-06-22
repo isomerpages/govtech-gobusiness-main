@@ -1,36 +1,12 @@
-- title: Permissions and Manpower Declaration
-  description: Check your exemption application/business resumption status, and submit your manpower details here.
-  url: go.gov.sg/covidbusinessresumptions
+- title: Exemptions
+  description: Apply for your business to resume operating or to have temporary operations. You can also check your exemption application/business resumption status and appeal rejected or partially approved applications
+  url: go.gov.sg/covidbusinessresumptions.
   url-new-tab: true
   protocol: https
   text: Find Out More
 
-- title: Exemption Application
-  description: For businesses which are providing services which are not in the list of permitted services, please apply here for your business to resume operating.
-  url: go.gov.sg/covidbusinessresumptions
-  url-new-tab: true
-  protocol: https
-  text: Find Out More
-
-- title: Permitted Services
-  description: List of permitted services allowed to operate in Phase 3 (Heightened Alert).
-  url: /permittedlist/
-  text: Find Out More
-
-- title: Safe Management Requirements
-  description: List of measures to ensure safety at the workplace.
-  url: /safemanagement/general/
-  text: Find Out More
-
-- title: Application for Additional Manpower
-  description: Apply for additional manpower for your business. (Only for businesses that have received approval for exemption)
-  url: go.gov.sg/covidbusinessresumptions
-  url-new-tab: true
-  protocol: https
-  text: Find Out More
-
-- title: Time-Limited Exemption
-  description: Apply for your workplace to be allowed to have temporary operations. Your application will only take effect on the following day after your submission. You are allowed to submit applications only twice every week (each week starting from Sunday 12:00am to Saturday 11:59pm)
+- title: Manpower
+  description: Submit your manpower details here or apply for additional manpower (only for businesses that have received approval for exemption)/
   url: go.gov.sg/covidbusinessresumptions
   url-new-tab: true
   protocol: https
