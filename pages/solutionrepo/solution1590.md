@@ -13,7 +13,7 @@ INNOCOM - Autodesk BIM 360
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedInnocom_Annex_3_BCA_CRwef11Mar21_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedINNOCOM-BIMCOLLABORATEPROAnnex3CRwef24June2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
