@@ -9,7 +9,7 @@ SAP Business One is an ERP solution with built-in advanced analytical processing
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,10 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:MPS Solutions Pte Ltd <br>Web URL:www.mpssolutions.com.sg <br>Contact Hotline:68469109 <br>Contact Email:kelvin@mclinkgroup.com <br>
+Company Name:MPS Solutions Pte Ltd 
+<br>Web URL:www.mpssolutions.com.sg 
+<br>Contact Hotline:68469109 
+<br>Contact Email:kelvin@mclinkgroup.com 
+<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

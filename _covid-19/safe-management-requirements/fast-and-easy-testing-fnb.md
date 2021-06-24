@@ -12,13 +12,13 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 **1.2	All dine-in F&B establishments (including restaurants, cafes, food courts, coffee shops, hawker stalls) must ensure that their outlet employees undergo FET every 14 days. This includes all full time and part time employees, as well as third-party contracted employees (e.g. cleaners) who work at the establishments.**
 
-1.3	This FET regime is being imposed under the COVID-19 (Temporary Measures) (Control Order) Regulations. Failure to comply with the requirements set out herein may result in prosecution and/or other enforcement action, including suspension/closure of operations[^1].
+1.3	This FET regime is being imposed under the COVID-19 (Temporary Measures) (Control Order) Regulations. Failure to comply with the requirements set out herein may result in prosecution and/or other enforcement action, including suspension/closure of operations<sup>1</sup>.
 
 1.4	FET can be done through one of two ways:
 
 1.4.1.	F&B establishments such as restaurants, restaurants, cafes, food courts, coffee shops and canteens are encouraged to conduct Employer-Supervised Self-Swab (ESSS), where employees will swab themselves under the supervision of a trained staff (‘supervisor’). Supervision can be done either on-site at the workplace or virtually using tools such as video conferencing. To conduct ESSS, establishments will need to undergo training provided by the Government to supervise employees’ self-swabs. 
 
-1.4.2.	For small businesses in hawker centres that might not be able to organise the supervised self-swabs on their own, the relevant government agencies will progressively reach out to business owners and provide a sign up link for their employees to secure an appointment at Quick Test Centres (QTCs)[^2]. 
+1.4.2.	For small businesses in hawker centres that might not be able to organise the supervised self-swabs on their own, the relevant government agencies will progressively reach out to business owners and provide a sign up link for their employees to secure an appointment at Quick Test Centres (QTCs)<sup>2</sup>. 
 
 1.5	For ESSS, ART kits will be provided. The costs for the kits and training for employees will be borne by the Government for 3 months, until 30 September 2021.
 
@@ -31,11 +31,12 @@ This guide is updated as of 23 July 2021, 2000 hours.
 2.3 All employees must check for acute respiratory infection (ARI) symptoms prior to taking the self-swab. Only employees with no ARI symptoms should continue with the FET. Employees with ARI symptoms should not continue with the ART but instead consult a doctor for medical treatment immediately.
 
 2.4 The ESSS process is summarised as follows:
+
 <ins>Workflow for employees taking supervised self-swab at the workplace</ins>
 ![FET](/images/covid/FastAndEastTestingFNB1.JPG "FET")
 <ins>Workflow for employees taking supervised self-swab home</ins>
 ![FET](/images/covid/FastAndEastTestingFNB2.JPG "FET")
-<ins>Note: Employers should confirm with employees that they do not have any of the following prior to the self-swabs: (1) Any frequent nosebleeds? (2) Any operations on face or nose? (3) Any tumors or cancers of nose and throat? (4) Any facial skull or fractures? If employees answer “yes’ to one or more, a contraindicatory process (refer to Section 7 “Employer-Supervised Self-Swab (ESSS): Onsite responsibilities of the supervisor”) will kick in.</ins>
+*Note: Employers should confirm with employees that they do not have any of the following prior to the self-swabs: (1) Any frequent nosebleeds? (2) Any operations on face or nose? (3) Any tumors or cancers of nose and throat? (4) Any facial skull or fractures? If employees answer “yes’ to one or more, a contraindicatory process (refer to Section 7 “Employer-Supervised Self-Swab (ESSS): Onsite responsibilities of the supervisor”) will kick in.*
 
 2.3	Following the FET tests, F&B establishments are to upload the ART results of their employees into the national Swab Registration System (SRS) within the same day.
 
@@ -71,12 +72,12 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 5.1	The following details (to be submitted via [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"}) are required to facilitate the self-collection of test kits:
 
-- Name of Point-of-Contact (POC)
-- Full delivery address
-- Postal code
-- Email (to receive confirmation email, if any)
-- Mobile number of POC (to receive confirmation SMS, if any)
-- Number of employees (including <ins>all</ins> full-time, part time and third-party contracted staff) 
+a. Name of Point-of-Contact (POC)<br/>
+b. Full delivery address<br/>
+c. Postal code<br/>
+d. Email (to receive confirmation email, if any)<br/>
+e. Mobile number of POC (to receive confirmation SMS, if any)<br/>
+f. Number of employees (including <ins>all</ins> full-time, part time and third-party contracted staff) 
 
 5.2	After the submission of details, a confirmation email from a third-party vendor will be sent to your company POC with the collection location and date within a week. An SMS will subsequently be sent when the kits are ready for collection. The kits must collected be collected within three days upon receipt of the SMS. 
 
@@ -136,7 +137,10 @@ This guide is updated as of 23 July 2021, 2000 hours.
 8.1 The antigen rapid test will return three results: negative (AG-), positive (AG+) or invalid (AG Invalid). Employees who obtain two AG Invalid results will be treated as having obtained an AG+ result.
 
 8.2 The following screenshots illustrates the how the different results will be shown. Please note that the lines on the test cassette will appear in 15 – 30 minutes after the specimen buffer has been added to the test well. Please do not read the results after 30 minutes. 
+
 <ins>Interpreting SD Bio Sensor ART kit results</ins>
+
+Please note that the lines on the test cassette will appear in 15-30 minutes after the speciment buffer has been added to the test well. Please do not read the results after 30 minutes.
 ![FET](/images/covid/FastAndEastTestingFNB3.JPG "FET")
 
 8.3 Employers should manage their workers depending on the results obtained:
@@ -162,11 +166,11 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 9.3.	If no ARI symptoms are detected, the employer should arrange for the employee to be sent to a SASH PHPC for a confirmatory Polymerase Chain Reaction (PCR) test. More details on this are as follows:
 
-a.	The employer must call the SASH PHPC in advance to make an appointment. The employer must also confirm that the worker is able to obtain a confirmatory PCR test during their visit prior to sending the worker down. The list of SASH PHPCs can be found [here](https://flu.gowhere.gov.sg/){:target="_blank"}.
-b.	The employer must issue a referral note (refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-b--template-for-employer-referral-letter-for-ag-or-double-invalid-cases.pdf?la=en){:target="_blank"} for template; sample shown below). The worker must bring this referral note (signed by the employer) and his or her NRIC for subsequent verification at the PHPC.
+a.	The employer must call the SASH PHPC in advance to make an appointment. The employer must also confirm that the worker is able to obtain a confirmatory PCR test during their visit prior to sending the worker down. The list of SASH PHPCs can be found [here](https://flu.gowhere.gov.sg/){:target="_blank"}.<br/>
+b.	The employer must issue a referral note (refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-b--template-for-employer-referral-letter-for-ag-or-double-invalid-cases.pdf?la=en){:target="_blank"} for template; sample shown below). The worker must bring this referral note (signed by the employer) and his or her NRIC for subsequent verification at the PHPC.<br/>
 <ins>Sample of completed referral note</ins>
 ![FET](/images/covid/FastAndEastTestingFNB6.JPG "FET")
-c.	The employer must arrange for private transport (e.g. car or taxi with windows wound down and air conditioning switched off) for the employee to be sent to a SASH PHPC. The employee should be reminded to wear a surgical mask and sit alone in the back seat (on the other side from driver). Seats should be wiped down at the end of the trip.
+c.	The employer must arrange for private transport (e.g. car or taxi with windows wound down and air conditioning switched off) for the employee to be sent to a SASH PHPC. The employee should be reminded to wear a surgical mask and sit alone in the back seat (on the other side from driver). Seats should be wiped down at the end of the trip.<br/>
 d.	The following list of private transport service providers available for booking is in the following table. The transport cost will be borne by the employee/employer.
 
 |S/N|Service Provider|Contact Number/Mobile Application|
@@ -207,6 +211,6 @@ d.	The worker must wait for the PCR test result:
 
 
 ---
-[^1] F&B establishments must comply with the COVID-19 (Temporary Measures) (Control Order) Regulations and implement [Safe Management Measures (SMMs)](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}, as set out on the [COVID Gobusiness website](/covid/){:target="_blank"}. They are also required to comply with the [SMMs](https://www.enterprisesg.gov.sg/covid-19/safe-distance/#FB){:target="_blank"} set out by Enterprise Singapore (ESG), Housing & Development Board (HDB), Singapore Food Agency (SFA), Singapore Tourism Board (STB) and Urban Redevelopment Authority (URA). 
+<sup>1</sup> F&B establishments must comply with the COVID-19 (Temporary Measures) (Control Order) Regulations and implement [Safe Management Measures (SMMs)](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}, as set out on the [COVID Gobusiness website](/covid/){:target="_blank"}. They are also required to comply with the [SMMs](https://www.enterprisesg.gov.sg/covid-19/safe-distance/#FB){:target="_blank"} set out by Enterprise Singapore (ESG), Housing & Development Board (HDB), Singapore Food Agency (SFA), Singapore Tourism Board (STB) and Urban Redevelopment Authority (URA). 
 
-[^2] The QTCs will be progressively set up across the island, starting with two at Tekka and Yishun, from 21 June 2021.
+<sup>2</sup> The QTCs will be progressively set up across the island, starting with two at Tekka and Yishun, from 21 June 2021.
