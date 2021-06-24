@@ -69,20 +69,20 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 #### 5. Employer-Supervised Self-Swab (ESSS): Self-collection of test kits
 
-5.1.	The following details (to be submitted via [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"}) are required to facilitate the self-collection of test kits:
+5.1	The following details (to be submitted via [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"}) are required to facilitate the self-collection of test kits:
 
-a.	Name of Point-of-Contact (POC)
-b.	Full delivery address
-c.	Postal code
-d.	Email (to receive confirmation email, if any)
-e.	Mobile number of POC (to receive confirmation SMS, if any)
-f.	Number of employees (including all full-time, part time and third-party contracted staff) 
+- Name of Point-of-Contact (POC)
+- Full delivery address
+- Postal code
+- Email (to receive confirmation email, if any)
+- Mobile number of POC (to receive confirmation SMS, if any)
+- Number of employees (including <ins>all</ins> full-time, part time and third-party contracted staff) 
 
-5.2.	After the submission of details, a confirmation email from a third-party vendor will be sent to your company POC with the collection location and date within a week. An SMS will subsequently be sent when the kits are ready for collection. The kits must collected be collected within three days upon receipt of the SMS. 
+5.2	After the submission of details, a confirmation email from a third-party vendor will be sent to your company POC with the collection location and date within a week. An SMS will subsequently be sent when the kits are ready for collection. The kits must collected be collected within three days upon receipt of the SMS. 
 
-5.3.	Self-collection of test kits is expected to start from 1 July 2021.
+5.3	Self-collection of test kits is expected to start from 1 July 2021.
 
-5.4.	The test kits should be stored indoors at a temperature of between 2 – 30 degrees Celsius. They should be stored in air-conditioned room if possible. 
+5.4	The test kits should be stored indoors at a temperature of between 2 – 30 degrees Celsius. They should be stored in air-conditioned room if possible. 
 
 #### 6.	Employer-Supervised Self-Swab (ESSS): Submission of test results via SRS
 
