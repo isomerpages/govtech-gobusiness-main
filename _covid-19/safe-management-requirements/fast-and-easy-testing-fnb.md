@@ -52,7 +52,7 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 - Booking their training slot directly with HMI Institute [here](https://hmi-ihs.com/supervisory-training-in-art-self-swab/){:target="_blank"}; and 
 
-- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://www.enterprisesg.gov.sg/covid-19/safe-distance/#FB){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg) as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
+- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-a---template-for-hmi-institute-training-participant-details.xlsx?la=en){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg) as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
 
 3.4 Timings for the training are from a) 8am-12pm, b) 2pm-6pm and c) 6pm-10pm. These will be available on a first-come-first-served basis. 
 
@@ -140,7 +140,6 @@ f. Number of employees (including <ins>all</ins> full-time, part time and third-
 
 <ins>Interpreting SD Bio Sensor ART kit results</ins>
 
-Please note that the lines on the test cassette will appear in 15-30 minutes after the speciment buffer has been added to the test well. Please do not read the results after 30 minutes.
 ![FET](/images/covid/FastAndEastTestingFNB3.JPG "FET")
 
 8.3 Employers should manage their workers depending on the results obtained:
@@ -168,6 +167,7 @@ Please note that the lines on the test cassette will appear in 15-30 minutes aft
 
 a.	The employer must call the SASH PHPC in advance to make an appointment. The employer must also confirm that the worker is able to obtain a confirmatory PCR test during their visit prior to sending the worker down. The list of SASH PHPCs can be found [here](https://flu.gowhere.gov.sg/){:target="_blank"}.<br/>
 b.	The employer must issue a referral note (refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-b--template-for-employer-referral-letter-for-ag-or-double-invalid-cases.pdf?la=en){:target="_blank"} for template; sample shown below). The worker must bring this referral note (signed by the employer) and his or her NRIC for subsequent verification at the PHPC.<br/>
+
 <ins>Sample of completed referral note</ins>
 ![FET](/images/covid/FastAndEastTestingFNB6.JPG "FET")
 c.	The employer must arrange for private transport (e.g. car or taxi with windows wound down and air conditioning switched off) for the employee to be sent to a SASH PHPC. The employee should be reminded to wear a surgical mask and sit alone in the back seat (on the other side from driver). Seats should be wiped down at the end of the trip.<br/>
