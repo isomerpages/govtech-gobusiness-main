@@ -1,6 +1,6 @@
 ---
 title: Using commercial space
-permalink: /next-steps-to-consider/using-commercial-space/
+permalink: /start-a-business/using-commercial-space/
 third_nav_title: Next Steps to Consider
 ---
 
