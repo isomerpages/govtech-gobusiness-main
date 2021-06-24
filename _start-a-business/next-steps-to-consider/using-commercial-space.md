@@ -1,6 +1,6 @@
 ---
-title: Choose a business address
-permalink: /start-a-business/user-commerical-space/
+title: Using commercial space
+permalink: /start-a-business/using-commercial-space/
 third_nav_title: Key Steps to Start
 ---
 
