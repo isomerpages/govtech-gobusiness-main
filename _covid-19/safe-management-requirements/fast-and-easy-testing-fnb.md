@@ -1,6 +1,6 @@
 ---
 title: Fast and Easy Testing (FET) Guide for Dine-in Food & Beverage (F&B) Establishments
-permalink: /safemanagement/fast-and-east-testing/
+permalink: /safemanagement/fast-and-easy-testing/
 third_nav_title: Safe Management Requirements
 ---
 
@@ -10,15 +10,15 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 1.1	As announced by the Multi-Ministry Taskforce on 18 June 2021, a Fast and Easy Testing (FET) regime will be progressively rolled out for all outlet employees at dine-in F&B establishments from 21 June 2021 onwards, and be mandatory from mid-July 2021.This is to further reduce the risk of transmission in settings with unmasked clients/patrons. These employees are required to be on a regular FET regime using tests such as the antigen rapid test (ART), regardless of their vaccination status.
 
-1.2	All dine-in F&B establishments (including restaurants, cafes, food courts, coffee shops, hawker stalls) must ensure that their outlet employees undergo FET every 14 days. This includes all full time and part time employees, as well as third-party contracted employees (e.g. cleaners) who work at the establishments. 
+**1.2	All dine-in F&B establishments (including restaurants, cafes, food courts, coffee shops, hawker stalls) must ensure that their outlet employees undergo FET every 14 days. This includes all full time and part time employees, as well as third-party contracted employees (e.g. cleaners) who work at the establishments.**
 
-1.3	This FET regime is being imposed under the COVID-19 (Temporary Measures) (Control Order) Regulations. Failure to comply with the requirements set out herein may result in prosecution and/or other enforcement action, including suspension/closure of operations .
+1.3	This FET regime is being imposed under the COVID-19 (Temporary Measures) (Control Order) Regulations. Failure to comply with the requirements set out herein may result in prosecution and/or other enforcement action, including suspension/closure of operations[^1].
 
 1.4	FET can be done through one of two ways:
 
 1.4.1.	F&B establishments such as restaurants, restaurants, cafes, food courts, coffee shops and canteens are encouraged to conduct Employer-Supervised Self-Swab (ESSS), where employees will swab themselves under the supervision of a trained staff (‘supervisor’). Supervision can be done either on-site at the workplace or virtually using tools such as video conferencing. To conduct ESSS, establishments will need to undergo training provided by the Government to supervise employees’ self-swabs. 
 
-1.4.2.	For small businesses in hawker centres that might not be able to organise the supervised self-swabs on their own, the relevant government agencies will progressively reach out to business owners and provide a sign up link for their employees to secure an appointment at Quick Test Centres (QTCs) . 
+1.4.2.	For small businesses in hawker centres that might not be able to organise the supervised self-swabs on their own, the relevant government agencies will progressively reach out to business owners and provide a sign up link for their employees to secure an appointment at Quick Test Centres (QTCs)[^2]. 
 
 1.5	For ESSS, ART kits will be provided. The costs for the kits and training for employees will be borne by the Government for 3 months, until 30 September 2021.
 
@@ -51,7 +51,7 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 - Booking their training slot directly with HMI Institute [here](https://hmi-ihs.com/supervisory-training-in-art-self-swab/){:target="_blank"}; and 
 
-- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://hmi-ihs.com/supervisory-training-in-art-self-swab/){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg) as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
+- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://www.enterprisesg.gov.sg/covid-19/safe-distance/#FB){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg) as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
 
 3.4 Timings for the training are from a) 8am-12pm, b) 2pm-6pm and c) 6pm-10pm. These will be available on a first-come-first-served basis. 
 
@@ -101,7 +101,7 @@ f.	Number of employees (including all full-time, part time and third-party contr
 7.1.	Before commencing the swab process, the supervisor needs to ensure:
 
 - The worker does not display any ARI symptoms;
-- The worker does not have any contraindications (e.g. has not had any nosebleed (past 24 ho9urs), facial surgery (last 8 weeks), nasal surgery (last 4 weeks);
+- The worker does not have any contraindications (e.g. has not had any nosebleed (past 24 hours), facial surgery (last 8 weeks), nasal surgery (last 4 weeks);
 - IPC measures are observed (disinfect area after swab)
 - Swab processes of workers are of an approved standard;
 - Safe Management Measures (SMM) are observed;
@@ -129,7 +129,7 @@ f.	Number of employees (including all full-time, part time and third-party contr
 - Perform hand hygiene before commencing swabbing;
 - Carry out self-swab. After the testing has been done, the swab stick, reaction tube and the test device may then be placed into the Ziploc bag (with employee’s ID) and the Ziploc bag sealed. The test device should be laid flat and the results may be read in 15- 20 mins.
 - Dispose the Ziploc bag that contains the swab stick, the reaction tube, into bins (double bagged and with cover/lid).
-- Wipe down the swab station (including the table and the mirror) with the 70% alcohol wipes and perform hand hygiene before leaving the swab station
+- Wipe down the swab station (including the table and the mirror) with the 70% alcohol wipes and perform hand hygiene before leaving the swab station.
 
 #### 8.	Employer-Supervised Self-Swab (ESSS): Managing individuals depending on their test results  
 
@@ -168,13 +168,15 @@ b.	The employer must issue a referral note (refer to attachment [here](https://w
 ![FET](/images/covid/FastAndEastTestingFNB6.JPG "FET")
 c.	The employer must arrange for private transport (e.g. car or taxi with windows wound down and air conditioning switched off) for the employee to be sent to a SASH PHPC. The employee should be reminded to wear a surgical mask and sit alone in the back seat (on the other side from driver). Seats should be wiped down at the end of the trip.
 d.	The following list of private transport service providers available for booking is in the following table. The transport cost will be borne by the employee/employer.
+
 |S/N|Service Provider|Contact Number/Mobile Application|
-|1|ComfortDelGro Taxi (Comfort & CityCab taxis) |6333 1133 or via ComfortDelGro app|
+|1|ComfortDelGro Taxi (Comfort & CityCab taxis)|6333 1133 or via ComfortDelGro app|
 |2|Trans-cab|6213 0997|
 |3|SMRT|6477 5971|
 |4|Prime|6776 7553|
 |5|Premier|6681 9462|
 |6|GrabSHN, Go-Jek, Ryde, MVL(TADA)|Via respective providers’ app|
+
 e.	When booking private transport, the employer/worker must inform the hotline operator that the worker is going to a SASH PHPC for his or her swab test. For booking through mobile apps, the employer/worker must key “SHN” in the chat/note/comment box or check the SHN checkbox (if provided within the app).
 
 f.	Following the PCR test, the worker must self-isolate at home until the PCR results are returned. If the worker is unable to self-isolate at own place of residence, the SASH PHPC will help arrange for conveyance to a Swab Isolation Facility. 
@@ -202,3 +204,9 @@ d.	The worker must wait for the PCR test result:
 11.1. For frequently asked questions, please click [here](/covid-faqs/for-sector-specific-queries/food-and-retail){:target="_blank"}.
 
 11.2. For enquiries, please call the Enterprise Singapore Infoline at 6898 1800 or email [enquiry@enterprisesg.gov.sg](mailto: enquiry@enterprisesg.gov.sg).
+
+
+---
+[^1] F&B establishments must comply with the COVID-19 (Temporary Measures) (Control Order) Regulations and implement [Safe Management Measures (SMMs)](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}, as set out on the [COVID Gobusiness website](/covid/){:target="_blank"}. They are also required to comply with the [SMMs](https://www.enterprisesg.gov.sg/covid-19/safe-distance/#FB){:target="_blank"} set out by Enterprise Singapore (ESG), Housing & Development Board (HDB), Singapore Food Agency (SFA), Singapore Tourism Board (STB) and Urban Redevelopment Authority (URA). 
+
+[^2] The QTCs will be progressively set up across the island, starting with two at Tekka and Yishun, from 21 June 2021.
