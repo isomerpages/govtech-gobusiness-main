@@ -32,9 +32,9 @@ This guide is updated as of 23 July 2021, 2000 hours.
 
 2.4 The ESSS process is summarised as follows:
 <ins>Workflow for employees taking supervised self-swab at the workplace</ins>
-![FET](/images/covid/FastAndEastTestingFNB1.png "FET")
+![FET](/images/covid/FastAndEastTestingFNB1.JPG "FET")
 <ins>Workflow for employees taking supervised self-swab home</ins>
-![FET](/images/covid/FastAndEastTestingFNB2.png "FET")
+![FET](/images/covid/FastAndEastTestingFNB2.JPG "FET")
 <ins>Note: Employers should confirm with employees that they do not have any of the following prior to the self-swabs: (1) Any frequent nosebleeds? (2) Any operations on face or nose? (3) Any tumors or cancers of nose and throat? (4) Any facial skull or fractures? If employees answer “yes’ to one or more, a contraindicatory process (refer to Section 7 “Employer-Supervised Self-Swab (ESSS): Onsite responsibilities of the supervisor”) will kick in.</ins>
 
 2.3	Following the FET tests, F&B establishments are to upload the ART results of their employees into the national Swab Registration System (SRS) within the same day.
@@ -137,7 +137,7 @@ f.	Number of employees (including all full-time, part time and third-party contr
 
 8.2 The following screenshots illustrates the how the different results will be shown. Please note that the lines on the test cassette will appear in 15 – 30 minutes after the specimen buffer has been added to the test well. Please do not read the results after 30 minutes. 
 <ins>Interpreting SD Bio Sensor ART kit results</ins>
-![FET](/images/covid/FastAndEastTestingFNB3.png "FET")
+![FET](/images/covid/FastAndEastTestingFNB3.JPG "FET")
 
 8.3 Employers should manage their workers depending on the results obtained:
 
@@ -150,9 +150,9 @@ f.	Number of employees (including all full-time, part time and third-party contr
 8.5 The following diagrams summarise the procedures for managing employees based on their test results. More details are provided in Sections 9 and 10.  
 
 <ins>Workflow for employees taking supervised self-swab at the workplace</ins>
-![FET](/images/covid/FastAndEastTestingFNB4.png "FET")
+![FET](/images/covid/FastAndEastTestingFNB4.JPG "FET")
 <ins>Workflow for employees taking supervised self-swab at home</ins>
-![FET](/images/covid/FastAndEastTestingFNB5.png "FET")
+![FET](/images/covid/FastAndEastTestingFNB5.JPG "FET")
 
 #### 9.	Employer-Supervised Self Swab (ESSS): Managing AG+ cases (FET at the workplace)
 
@@ -165,7 +165,7 @@ f.	Number of employees (including all full-time, part time and third-party contr
 a.	The employer must call the SASH PHPC in advance to make an appointment. The employer must also confirm that the worker is able to obtain a confirmatory PCR test during their visit prior to sending the worker down. The list of SASH PHPCs can be found [here](https://flu.gowhere.gov.sg/){:target="_blank"}.
 b.	The employer must issue a referral note (refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-b--template-for-employer-referral-letter-for-ag-or-double-invalid-cases.pdf?la=en){:target="_blank"} for template; sample shown below). The worker must bring this referral note (signed by the employer) and his or her NRIC for subsequent verification at the PHPC.
 <ins>Sample of completed referral note</ins>
-![FET](/images/covid/FastAndEastTestingFNB6.png "FET")
+![FET](/images/covid/FastAndEastTestingFNB6.JPG "FET")
 c.	The employer must arrange for private transport (e.g. car or taxi with windows wound down and air conditioning switched off) for the employee to be sent to a SASH PHPC. The employee should be reminded to wear a surgical mask and sit alone in the back seat (on the other side from driver). Seats should be wiped down at the end of the trip.
 d.	The following list of private transport service providers available for booking is in the following table. The transport cost will be borne by the employee/employer.
 |S/N|Service Provider|Contact Number/Mobile Application|
