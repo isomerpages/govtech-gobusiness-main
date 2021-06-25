@@ -4,7 +4,7 @@ permalink: /safemanagement/fast-and-easy-testing/
 third_nav_title: Safe Management Requirements
 ---
 
-This guide is updated as of 23 July 2021, 2000 hours. 
+This guide is updated as of 23 June 2021, 2000 hours. 
 
 #### 1.	Mandatory Fast and Easy Testing (FET) for staff as we move towards a safe and gradual resumption of F&B dine-in Activities
 
