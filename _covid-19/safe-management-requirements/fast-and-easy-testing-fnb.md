@@ -166,11 +166,13 @@ f. Number of employees (including <ins>all</ins> full-time, part time and third-
 9.3.	If no ARI symptoms are detected, the employer should arrange for the employee to be sent to a SASH PHPC for a confirmatory Polymerase Chain Reaction (PCR) test. More details on this are as follows:
 
 a.	The employer must call the SASH PHPC in advance to make an appointment. The employer must also confirm that the worker is able to obtain a confirmatory PCR test during their visit prior to sending the worker down. The list of SASH PHPCs can be found [here](https://flu.gowhere.gov.sg/){:target="_blank"}.<br/>
+
 b.	The employer must issue a referral note (refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-b--template-for-employer-referral-letter-for-ag-or-double-invalid-cases.pdf?la=en){:target="_blank"} for template; sample shown below). The worker must bring this referral note (signed by the employer) and his or her NRIC for subsequent verification at the PHPC.<br/>
 
 <ins>Sample of completed referral note</ins>
 ![FET](/images/covid/FastAndEastTestingFNB6.JPG "FET")
 c.	The employer must arrange for private transport (e.g. car or taxi with windows wound down and air conditioning switched off) for the employee to be sent to a SASH PHPC. The employee should be reminded to wear a surgical mask and sit alone in the back seat (on the other side from driver). Seats should be wiped down at the end of the trip.<br/>
+
 d.	The following list of private transport service providers available for booking is in the following table. The transport cost will be borne by the employee/employer.
 
 |S/N|Service Provider|Contact Number/Mobile Application|
