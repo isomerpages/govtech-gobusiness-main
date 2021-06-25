@@ -6,6 +6,8 @@ third_nav_title: For Sector-Specific Queries
 
 ### Marriage Solemnization and Receptions [Updated as of 19 June 2021]
 
+(Wedding receptions remain prohibited until mid-July 2021; date to be announced later)
+
 #### I. Latest COVID-19 Situation (19 Jun 2021)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
