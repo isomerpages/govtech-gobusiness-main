@@ -3,19 +3,23 @@ panels:
     image: /images/signpost.svg
     alt: signpost
     links:
-      - text: e-Adviser for Premises Use
-        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=homepage
-        target: _blank
-        is_new: true
+      # puc_launch: to add--v
+      # - text: e-Adviser for Premises Use
+      #   href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=homepage
+      #   target: _blank
+      #   is_new: true
+      # puc_launch: to add--^
       - text: e-Adviser for Business Structure
         href: https://eadviser.gobusiness.gov.sg/businessstructure?src=homepage
         target: _blank
       - text: e-Adviser for Starting a Business
         href: https://eadviser.gobusiness.gov.sg/startabusiness?src=homepage
         target: _blank
+      # puc_launch: to remove--v
       - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=homepage
         target: _blank
+      # puc_launch: to remove--^
       - text: e-Adviser for Government Assistance
         href: https://gaeadviser.gobusiness.gov.sg/?src=homepage
         target: _blank
