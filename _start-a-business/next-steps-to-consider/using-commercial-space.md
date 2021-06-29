@@ -9,6 +9,7 @@ third_nav_title: Next Steps to Consider
 ![Using commercial space](/images/start/StartSJ_StartSJ_Commercial Spaces.jpg)
 
 Coming soon!
+
 <!-- puc_launch: to add--v -->
 <!-- Depending on the nature of your business, you may need the use of commercial space (eg: retail, food & beverage or providing services such as tuition). Before leasing or buying commercial space, you should find out what you can or cannot do with the premises. You can check if a property is approved for your intended use with our e-Adviser for Premises Use.
 
