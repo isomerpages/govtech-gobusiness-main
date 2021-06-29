@@ -11,7 +11,7 @@ Navigate the process of starting, running and growing a business with our handy 
 
 ### e-Services
 <!--  puc_launch: to add--v -->
-- [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="_blank"} <span style="background: #E6F2F3;
+<!-- - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="_blank"} <span style="background: #E6F2F3;
       border-radius: 3px;
       width: 49px;
       height: 22px;
@@ -25,7 +25,7 @@ Navigate the process of starting, running and growing a business with our handy 
       margin-left: 8px;">
   New!
   </span>
-  <br>For business owners to check their premises are currently approved for their intended use.
+  <br>For business owners to check if their premises are currently approved for their intended use. -->
 <!--  puc_launch: to add--^ -->
 - [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_guidesforbiz){:target="_blank"}
   <br>For aspiring business owners to find out the next steps to start and register a business.
@@ -39,19 +39,6 @@ Navigate the process of starting, running and growing a business with our handy 
 - [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.
 <!--  puc_launch: move the following to right below PUC--v -->
-- [e-Advisers for Licences](/licences/find-licence-by-sector/) <span style="background: #E6F2F3;
-      border-radius: 3px;
-      width: 49px;
-      height: 22px;
-      padding: 2px 8px;
-      font-family: hknova-regular;
-      font-size: 12px;
-      line-height: 18px;
-      color: #02737D;
-      display: inline-block;
-      vertical-align: middle;
-      margin-left: 8px;">
-  New!
-  </span>
+- [e-Advisers for Licences](/licences/find-licence-by-sector/) <!--add new tag span as above-->
   <br>A directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
 <!--  puc_launch: move the following to right below PUC--^ -->
