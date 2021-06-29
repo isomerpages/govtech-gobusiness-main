@@ -26,6 +26,6 @@ Navigate the process of starting, running and growing a business with our handy 
 - [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.
 <!--  puc_launch: move the following to right below PUC--v -->
-- [e-Advisers for Licences](/licences/find-licence-by-sector/)
+- [e-Advisers for Licences](/licences/find-licence-by-sector/) <!-- new tag pending -->
   <br>A directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
 <!--  puc_launch: move the following to right below PUC--^ -->
