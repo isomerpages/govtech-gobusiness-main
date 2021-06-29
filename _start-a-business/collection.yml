@@ -12,6 +12,9 @@ collections:
       - key-steps-to-start/open-a-corporate-bank-account.md
       - next-steps-to-consider/.keep
       - next-steps-to-consider/hire-employees.md
+      # puc_launch: to add--v
+      # - next-steps-to-consider/using-commercial-space.md
+      # puc_launch: to add--^
       - next-steps-to-consider/get-licences-and-permits.md
       - next-steps-to-consider/adopt-technology.md
       - next-steps-to-consider/protect-your-ideas.md
