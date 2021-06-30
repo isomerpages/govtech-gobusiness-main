@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package E (3 Perpetual Users with PEPPOL unlimited + Customer Self Ordering App)
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package E (5 Users with PEPPOL unlimited + Warehouse Management App 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution627
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MSC_Consulting_(S)_20200095_Annex_3_20200625145707_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-MSC Consulting (S) Pte Ltd<br>www.msc-consulting.com.sg<br>Email: alex.goh@msc-consulting.com.sg<br>Tel: +65 9631 4881
+Web URL: www.msc-consulting.com.sg <br>Contact Hotline: 63172050 <br>Contact Email: alex.goh@msc-consulting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
