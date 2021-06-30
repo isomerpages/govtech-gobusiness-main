@@ -3,23 +3,16 @@ panels:
     image: /images/signpost.svg
     alt: signpost
     links:
-      # puc_launch: to add--v
-      # - text: e-Adviser for Premises Use
-      #   href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
-      #   target: _blank
-      #   is_new: true
-      # puc_launch: to add--^
+      - text: e-Adviser for Premises Use
+        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
+        target: _blank
+        is_new: true
       - text: e-Adviser for Business Structure
         href: https://eadviser.gobusiness.gov.sg/businessstructure?src=eservices_quicklinks
         target: _blank
       - text: e-Adviser for Starting a Business
         href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
         target: _blank
-      # puc_launch: to remove--v
-      - text: Food Services Licence Guided Journey
-        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=quicklinks
-        target: _blank
-      # puc_launch: to remove--^
       - text: e-Adviser for Government Assistance
         href: https://gaeadviser.gobusiness.gov.sg/?src=quicklinks
         target: _blank
@@ -54,9 +47,7 @@ panels:
         alt: login
       - text: Browse by sector
         href: /licences/find-licence-by-sector/
-        # puc_launch: to add--v
-        # is_new: true
-        # puc_launch: to add--^
+        is_new: true
       - text: Browse all licences
         href: /licences/find-licence-by-agency/
       - text: For new food service business owners
