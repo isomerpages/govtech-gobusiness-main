@@ -6,6 +6,7 @@ google_analytics: UA-186826212-1
 facebook-pixel: 199274315251589
 linkedin-insights: 918155
 resources_name: news-and-media
+vica: true
 
 colors:
   primary-color: '#037e8a'
