@@ -44,7 +44,7 @@ This guide is updated as of 23 June 2021, 2000 hours.
 
 #### 3. Employer-Supervised Self Swabs: Registering for Supervisory Training
 
-3.1 F&B establishments conducting ESSS are advised to nominate at least two employees per outlet to attend a 4-hour virtual Supervisory Training in ART Self-Swab conducted by the Ministry of Health’s (MOH) appointed vendor, HMI Institute. The training will equip employees with the knowledge needed to supervise the conduct of ART operations.
+3.1 F&B establishments conducting ESSS are advised to nominate up to two employees per outlet to attend a 4-hour virtual Supervisory Training in ART Self-Swab conducted by the Ministry of Health’s (MOH) appointed vendor, HMI Institute. The training will equip employees with the knowledge needed to supervise the conduct of ART operations.
 
 3.2 Nominated employees above 50 years old must be fully vaccinated (i.e. have received two doses of the COVID-19 vaccination from our national vaccination progamme).
 
