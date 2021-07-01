@@ -331,9 +331,59 @@
     
     - title: How can I collect test kits? Can my employees collect the test kits themselves?
       content: |
-        Establishments can submit full details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"} by 5 July 2021 to facilitate the collection of test kits and setup of Swab Registration System (SRS) accounts. Those with multiple outlets are encouraged to submit a form for each outlet or unique SFA license . The Point-of-Contact (POC) indicated in the form must be the employee who will be responsible for both self-collection of the test kits, and the uploading of FET results to the SRS account. The kits will be provided on a monthly basis, for up to a maximum of 3 months (till 30 September) funded by the Government.
+        Establishments can submit full details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"} by 5 July 2021 to facilitate the collection of test kits and setup of Swab Registration System (SRS) accounts. Those with multiple outlets are encouraged to submit a form for each outlet or unique SFA license<sup>1</sup>. The Point-of-Contact (POC) indicated in the form must be the employee who will be responsible for both self-collection of the test kits, and the uploading of FET results to the SRS account. The kits will be provided on a monthly basis, for up to a maximum of 3 months (till 30 September) funded by the Government.
       
         After the submission of details, a confirmation email from the third-party vendor will be sent to your company POC with the collection location and date within a week. An SMS will subsequently be sent when the kits are ready for collection. The kits must be collected within 3 days upon receipt of the SMS. Self-collection of test kits is expected to start from 1 July 2021.
+
+        <sup>1</sup> For businesses with multiple outlets under the same UEN, you may submit your request to create multiple SRS company accounts under the same UEN. However, there must be a unique mobile number and email address used for each account. F&B establishments without a UEN can indicate their NRIC in the UEN field instead.
+
+    - title: I am a big establishment with a lot of outlets and employees. Will there be an alternative to self-collecting the kits? 
+      content: |
+        To facilitate the collection of test kits, F&B establishments should submit full details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"} by 5 July 2021. 
+        
+        For large establishments with multiple outlets and employ a large group of employees, the logistics partner will reach out to them separately on the arrangement for point-to-point delivery following the submission of the form.    
+
+    - title: I am a big establishment with a lot of outlets and employees. Can I send in consolidated details instead of filling in the registration form one by one?
+      content: |
+        For companies with more than 5 dine-in outlets, they may fill in the [excel sheet](/images/guides/F&B Consolidated Registration.xlsx){:target="_blank"} and send it to Food Division email ([food_division@enterprisesg.gov.sg](food_division@enterprisesg.gov.sg){:target="_blank"}). Companies should ensure that their email addresses and mobile numbers are correct, as these would be necessary for companies to log into their account. 
+
+    - title: If there are changes to the estimated number of employees to be on FET, would I need to submit a new form? 
+      content: |
+        No. However, there is a small buffer on the number of test kits issued to establishments. Establishments should purchase their own test kits if they need more than what was applied for. 
+    
+    - title: How do I create an account on SRS to upload the employees’ swab test results? 
+      content: |
+        F&B establishments must submit their details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"} for the set-up of their SRS accounts. 
+        
+        Enterprises with multiple outlets are encouraged to submit a form for each outlet (or unique SFA license)<sup>2</sup>. The Point-of-Contact<sup>3</sup> (POC) indicated in the form must be the employee who will be responsible for both self-collection of the test kits, and the uploading of FET results to the SRS account.  
+
+        <sup>2</sup> For businesses with multiple outlets under the same UEN, you may submit your request to create multiple SRS company accounts under the same UEN. However, there must be a unique mobile number and email address used for each account. F&B establishments without a UEN can indicate their NRIC in the UEN field instead.  
+        <sup>3</sup> Establishments are also able to nominate an alternate POC per outlet, if they wish to do so.
+
+    - title: How should I go about creating an account on SRS if my company does not have an UEN?
+      content: |
+        F&B establishments without a UEN can indicate their NRIC in the UEN field of the sign-up form instead. 
+    
+    - title: When will the SRS be ready for upload of results?
+      content: |
+        More details on the uploading of results to the SRS will be provided at [www.enterprisesg.gov.sg/fast-easy-testing](www.enterprisesg.gov.sg/fast-easy-testing){:target="_blank"} by mid-July. 
+        
+        In the meantime, employers are required to record the results of the tests taken and the results may be requested by the respective lead agencies. Employers will also need to submit a summary report of the tests completed at [https://go.gov.sg/fet-results](https://go.gov.sg/fet-results){:target="_blank"}.
+    
+    - title: How do I add entries for new supervisors/update supervisors’ details on the SRS? 
+      content: |
+        Once the company’s SRS account has been created, the POC may log into the account to create accounts for supervisors, as well as make edits subsequently. 
+    
+    - title: Is there a deadline for employers to key in the test results onto the SRS portal? 
+      content: |
+        To track businesses’ compliance to the mandatory FET, establishments are required to upload the results of the outlet workers’ swab tests to the SRS on the same day as the tests are taken. 
+        
+        Before more information is ready for the uploading of results on the SRS portal, the establishments are required to record the results of the tests taken and the results may be requested by the respective lead agencies. They will also need to submit a summary report of the tests completed at [https://go.gov.sg/fet-results](https://go.gov.sg/fet-results){:target="_blank"}.
+        
+    - title: Can employers generate a copy of their employees’ test results from the SRS portal? 
+      content: |
+        After submitting the ART test results in the SRS portal, establishments will automatically receive the daily report via email. However, they will not be able to generate and download past reports in the portal.   
+
 
 
 
