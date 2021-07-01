@@ -20,6 +20,6 @@ third_nav_title: For Sector-Specific Queries
 
 #### FET
 
-{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="c" %}
+{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="d" %}
 
 [Back to Covid-19 Overview](/covid/)
