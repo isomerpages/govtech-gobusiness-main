@@ -341,11 +341,7 @@
       content: |
         To facilitate the collection of test kits, F&B establishments should submit full details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"} by 5 July 2021. 
         
-        For large establishments with multiple outlets and employ a large group of employees, the logistics partner will reach out to them separately on the arrangement for point-to-point delivery following the submission of the form.    
-
-    - title: I am a big establishment with a lot of outlets and employees. Can I send in consolidated details instead of filling in the registration form one by one?
-      content: |
-        For companies with more than 5 dine-in outlets, they may fill in the [excel sheet](/images/guides/F&B Consolidated Registration.xlsx){:target="_blank"} and send it to Food Division email ([food_division@enterprisesg.gov.sg](food_division@enterprisesg.gov.sg){:target="_blank"}). Companies should ensure that their email addresses and mobile numbers are correct, as these would be necessary for companies to log into their account. 
+        For large establishments with multiple outlets and employ a large group of employees, the logistics partner will reach out to them separately on the arrangement for point-to-point delivery following the submission of the form. 
 
     - title: If there are changes to the estimated number of employees to be on FET, would I need to submit a new form? 
       content: |
@@ -382,7 +378,7 @@
         
     - title: Can employers generate a copy of their employees’ test results from the SRS portal? 
       content: |
-        After submitting the ART test results in the SRS portal, establishments will automatically receive the daily report via email. However, they will not be able to generate and download past reports in the portal.   
+        No, the results will not be generated on the portal. Individual employees will receive an SMS notification with their results, and these results will also be shown on employee’s Health Hub.
 
 
 
