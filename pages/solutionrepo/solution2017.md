@@ -5,7 +5,12 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2017
 
 ### Description
 
-We build powerful eCommerce Websites, launch creative Marketing Campaigns and generate great impressions for our clients! eCommerce Websites has sprung into popularity when digital globalization became a hot topic a decade ago. The advantages are plenty. An additional source of online revenue opens up for you. As the site is easily maintainable, you can finally focus on things that matter! 
+Online eStore
+Inventory Management
+Orders & Payments
+Content Management
+CRM & Social Media Integration
+Chatbot & Ai Recommendation
 
 ### Details of Solution
 

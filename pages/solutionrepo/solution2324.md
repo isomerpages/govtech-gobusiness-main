@@ -1,15 +1,15 @@
 ---
-title: Shortcuts Version 8 - Shortcuts Fusion Live
-permalink: /productivity-solutions-grant/solutionrepo/solution1194
+title: 3a. Jumpstart your Online Business (Part 1)
+permalink: /productivity-solutions-grant/solutionrepo/solution2324
 ---
 
 ### Description
 
-Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051549' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact Hotline: 91092480 <br>Contact Email: info@serixx.com <br>
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
