@@ -91,11 +91,9 @@ f. Number of employees (including <ins>all</ins> full-time, part time and third-
 
 6.2 SRS accounts will be created for your company by the relevant government agencies using the same information submitted via [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"}. Your company POCs will receive an email notification after the accounts have been set up.
 
-6.3 Supervisors are required to upload the results of the employees’ swab tests to the SRS on the same day as the tests are taken. 
+6.3 From 7 July 2021, all companies must upload the ART results of their employees to SRS on the same day the tests are taken. More details on how to use the SRS can be found [here](https://www.enterprisesg.gov.sg/-/media/5467059f09174b648eaf714f03ff5f34.ashx){:target="_blank"}.   
 
-6.4 More details on the uploading of results to the SRS will be provided by mid-July. In the meantime, employers are required to record the results of the tests taken, which may be requested by the respective lead agencies. Employers are to submit a summary report of the tests completed at [https://go.gov.sg/fet-results](https://go.gov.sg/fet-results){:target="_blank"}. 
-
-6.5 For enquiries or technical issues with SRS, please call the FET Hotline at 6876 5830.
+6.4 For enquiries or technical issues with SRS, please call the FET Hotline at 6876 5830.
 
 #### 7.	Employer-Supervised Self-Swab (ESSS): Onsite responsibilities of the supervisor
 
