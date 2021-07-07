@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - AGERE (Xero Premium w/Training)
+title: AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1083
 ---
 

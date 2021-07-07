@@ -1,21 +1,6 @@
 - accordion:
   letter: a
   data:
-    - title: Agriculture
-      content: |
-        Explore licences you may require with the e-Advisers:
-        
-        - [Operating a veterinary centre](https://eadviser.gobusiness.gov.sg/operatingaveterinarycentre){:target="_blank"}
-
-        - [Practising veterinary medicine in singapore](https://eadviser.gobusiness.gov.sg/practisingveterinarymedicineinsingapore){:target="_blank"}
-
-        - [Setting up animal research facilities](https://eadviser.gobusiness.gov.sg/settingupanimalresearchfacilities){:target="_blank"}
-
-        - [Setting up pet shop or café](https://eadviser.gobusiness.gov.sg/settinguppetshoporcafe){:target="_blank"}
-
-        - [Setting up research and development activity](https://eadviser.gobusiness.gov.sg/settingupresearchanddevelopmentactivity){:target="_blank"}
-
-        - [Veterinary clinic/research laboratory/school/institution/factory](https://eadviser.gobusiness.gov.sg/veterinaryclinicresearchlaboratoryschoolinstitutionfactory){:target="_blank"}
 
     - title: Air Transport
       content: |
@@ -30,14 +15,6 @@
         - [Conducting an aerial activity](https://eadviser.gobusiness.gov.sg/conductinganaerialactivity){:target="_blank"}
 
         - [Conducting an aerial photography or videography](https://eadviser.gobusiness.gov.sg/conductinganaerialphotographyorvideography){:target="_blank"}
-
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
-
-        - [Importing petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/importingpetroleumandflammablematerials){:target="_blank"}
-
-        - [Importing/exporting ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importingexportingionisingradiationirradiatingapparatus){:target="_blank"}
-
-        - [Importing/exporting radioactive materials or devices](https://eadviser.gobusiness.gov.sg/importingexportingradioactivematerialsordevices){:target="_blank"}
 
         - [Obstacle clearance](https://eadviser.gobusiness.gov.sg/obstacleclearance){:target="_blank"}
 
@@ -66,19 +43,13 @@
 
         - [Environmental health issues within construction site](https://eadviser.gobusiness.gov.sg/environmentalhealthissueswithinconstructionsite){:target="_blank"}
 
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
-
         - [Housing developer](https://eadviser.gobusiness.gov.sg/housingdeveloper){:target="_blank"}
-
-        - [Importing petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/importingpetroleumandflammablematerials){:target="_blank"}
 
         - [Obstacle clearance](https://eadviser.gobusiness.gov.sg/obstacleclearance){:target="_blank"}
 
         - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
 
         - [Provisioning of telecommunication internal wiring works](https://eadviser.gobusiness.gov.sg/provisioningoftelecommunicationinternalwiringworks){:target="_blank"}
-
-        - [Setting up architectural firm](https://eadviser.gobusiness.gov.sg/settinguparchitecturalfirm){:target="_blank"}
 
         - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
@@ -92,10 +63,6 @@
         Explore licences you may require with the e-Advisers:
         
         - [Operating dormitory for foreign employees](https://eadviser.gobusiness.gov.sg/operatingdormitoryforforeignemployees){:target="_blank"}
-
-        - [Setting up an accommodation for short-term stay](https://eadviser.gobusiness.gov.sg/settingupanaccommodationforshorttermstay){:target="_blank"}
-
-        - [Setting up hotel](https://eadviser.gobusiness.gov.sg/settinguphotel){:target="_blank"}
 
         - [Setting up lodging and boarding houses](https://eadviser.gobusiness.gov.sg/settinguplodgingandboardinghouses){:target="_blank"}
 
@@ -135,8 +102,6 @@
         - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
         - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
-
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
 
         - [Setting up business to generate, retail, transmit electricity](https://eadviser.gobusiness.gov.sg/settingupbusinesstogenerateretailtransmitelectricity){:target="_blank"}
 
@@ -246,6 +211,8 @@
 
         - [Setting up mobile food wagon / food truck](https://eadviser.gobusiness.gov.sg/settingupmobilefoodwagonfoodtruck){:target="_blank"}
 
+        - [Setting up pet shop or café](https://eadviser.gobusiness.gov.sg/settinguppetshoporcafe){:target="_blank"}
+
         - [Setting up restaurant, cafe](https://eadviser.gobusiness.gov.sg/settinguprestaurantcafe){:target="_blank"}
 
         - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
@@ -270,12 +237,6 @@
         - [Environmental health issues within construction site](https://eadviser.gobusiness.gov.sg/environmentalhealthissueswithinconstructionsite){:target="_blank"}
 
         - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
-
-        - [Importing/exporting ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importingexportingionisingradiationirradiatingapparatus){:target="_blank"}
-
-        - [Importing/exporting radioactive materials or devices](https://eadviser.gobusiness.gov.sg/importingexportingradioactivematerialsordevices){:target="_blank"}
-
-        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}
 
         - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
 
@@ -303,22 +264,38 @@
     - title: Land Transport
       content: |
         Explore licences you may require with the e-Advisers:
-        
-        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}
-
-        - [Application of hazardous substances transport approval](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancestransportapproval){:target="_blank"}
-
-        - [Application of toxic industrial waste transport approval](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastetransportapproval){:target="_blank"}
 
         - [Bus attendant](https://eadviser.gobusiness.gov.sg/busattendant){:target="_blank"}
 
         - [Bus driver](https://eadviser.gobusiness.gov.sg/busdriver){:target="_blank"}
 
+        - [Issuing vocational licence(vl)](https://eadviser.gobusiness.gov.sg/issuingvocationallicence){:target="_blank"}
+
+        - [Operating a bus service](https://eadviser.gobusiness.gov.sg/operatingabusservice){:target="_blank"}
+
+        - [Taxi driver](https://eadviser.gobusiness.gov.sg/taxidriver){:target="_blank"}
+
+        - [Ticket payment services in the transit arena](https://eadviser.gobusiness.gov.sg/ticketpaymentservicesinthetransitarena){:target="_blank"}
+
+        - [Transport company](https://eadviser.gobusiness.gov.sg/transportcompany){:target="_blank"}
+
+    - title: Logistics
+      content: |
+        Explore licences you may require with the e-Advisers:
+
+        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}
+
+        - [Application of hazardous substances transport approval](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancestransportapproval){:target="_blank"}
+
+        - [Application of toxic industrial waste transport approval](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastetransportapproval){:target="_blank"}
+        
         - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
 
         - [Dealing with security equipment](https://eadviser.gobusiness.gov.sg/dealingwithsecurityequipment){:target="_blank"}
 
         - [Dealing, shipment or exporting of explosive precursor](https://eadviser.gobusiness.gov.sg/dealingshipmentorexportingofexplosiveprecursor){:target="_blank"}
+
+        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
 
         - [Import/export non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importexportnonionisingradiationirradiatingapparatus){:target="_blank"}
 
@@ -332,13 +309,7 @@
 
         - [Importing/exporting radioactive materials or devices](https://eadviser.gobusiness.gov.sg/importingexportingradioactivematerialsordevices){:target="_blank"}
 
-        - [Issuing vocational licence(vl)](https://eadviser.gobusiness.gov.sg/issuingvocationallicence){:target="_blank"}
-
         - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}
-
-        - [Operating a bus service](https://eadviser.gobusiness.gov.sg/operatingabusservice){:target="_blank"}
-
-        - [Physical trading of rubber in singapore](https://eadviser.gobusiness.gov.sg/physicaltradingofrubberinsingapore){:target="_blank"}
 
         - [Sale or distributing medical/industrial/research/veterinary device](https://eadviser.gobusiness.gov.sg/saleordistributingmedicalindustrialresearchveterinarydevice){:target="_blank"}
 
@@ -347,12 +318,6 @@
         - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}
 
         - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
-
-        - [Taxi driver](https://eadviser.gobusiness.gov.sg/taxidriver){:target="_blank"}
-
-        - [Ticket payment services in the transit arena](https://eadviser.gobusiness.gov.sg/ticketpaymentservicesinthetransitarena){:target="_blank"}
-
-        - [Transport company](https://eadviser.gobusiness.gov.sg/transportcompany){:target="_blank"}
 
         - [Transporting petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/transportingpetroleumandflammablematerials){:target="_blank"}
 
@@ -371,10 +336,6 @@
 
         - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Commercial printing (newspapers, magazines, newsletter)](https://eadviser.gobusiness.gov.sg/commercialprintingnewspapersmagazinesnewsletter){:target="_blank"}
-
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
-
         - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}
 
         - [Manufacturing and processing](https://eadviser.gobusiness.gov.sg/manufacturingandprocessing){:target="_blank"}
@@ -384,6 +345,10 @@
         - [Manufacturing of arms](https://eadviser.gobusiness.gov.sg/manufacturingofarms){:target="_blank"}
 
         - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
+
+        - [Physical trading of rubber in singapore](https://eadviser.gobusiness.gov.sg/physicaltradingofrubberinsingapore){:target="_blank"}
+
+        - [Providing engineering services](https://eadviser.gobusiness.gov.sg/providingengineeringservices){:target="_blank"}
 
         - [Setting up factory/manufacturing business](https://eadviser.gobusiness.gov.sg/settingupfactorymanufacturingbusiness){:target="_blank"}
 
@@ -412,6 +377,8 @@
     - title: Media
       content: |
         Explore licences you may require with the e-Advisers:
+
+        - [Commercial printing (newspapers, magazines, newsletter)](https://eadviser.gobusiness.gov.sg/commercialprintingnewspapersmagazinesnewsletter){:target="_blank"}
         
         - [Providing nationwide TV services](https://eadviser.gobusiness.gov.sg/providingnationwidetvservices){:target="_blank"}
 
@@ -458,11 +425,9 @@
 
         - [Disposing of unwanted or expired explosives](https://eadviser.gobusiness.gov.sg/disposingofunwantedorexpiredexplosives){:target="_blank"}
 
-        - [Importing or exporting of explosives](https://eadviser.gobusiness.gov.sg/importingorexportingofexplosives){:target="_blank"}
+        - [Operating a veterinary centre](https://eadviser.gobusiness.gov.sg/operatingaveterinarycentre){:target="_blank"}
 
-        - [Importing, exporting and shipping of arms](https://eadviser.gobusiness.gov.sg/importingexportingandshippingofarms){:target="_blank"}
-
-        - [Providing engineering services](https://eadviser.gobusiness.gov.sg/providingengineeringservices){:target="_blank"}
+        - [Practising veterinary medicine in singapore](https://eadviser.gobusiness.gov.sg/practisingveterinarymedicineinsingapore){:target="_blank"}
 
         - [Registering as patent agent](https://eadviser.gobusiness.gov.sg/registeringaspatentagent){:target="_blank"}
 
@@ -470,9 +435,17 @@
 
         - [Repairing of arms](https://eadviser.gobusiness.gov.sg/repairingofarms){:target="_blank"}
 
+        - [Setting up animal research facilities](https://eadviser.gobusiness.gov.sg/settingupanimalresearchfacilities){:target="_blank"}
+
+        - [Setting up architectural firm](https://eadviser.gobusiness.gov.sg/settinguparchitecturalfirm){:target="_blank"}
+
+        - [Setting up research and development activity](https://eadviser.gobusiness.gov.sg/settingupresearchanddevelopmentactivity){:target="_blank"}
+
         - [Singapore patent agent](https://eadviser.gobusiness.gov.sg/singaporepatentagent){:target="_blank"}
 
         - [Store explosive](https://eadviser.gobusiness.gov.sg/storeexplosive){:target="_blank"}
+
+        - [Veterinary clinic/research laboratory/school/institution/factory](https://eadviser.gobusiness.gov.sg/veterinaryclinicresearchlaboratoryschoolinstitutionfactory){:target="_blank"}
 
 - accordion:
   letter: r
@@ -595,6 +568,8 @@
     - title: Sports & Recreation
       content: |
         Explore licences you may require with the e-Advisers:
+
+        - [Conducting an aerial activity](https://eadviser.gobusiness.gov.sg/conductinganaerialactivity){:target="_blank"}
         
         - [Event/exhibition/roadshow with entertainment activity to the public](https://eadviser.gobusiness.gov.sg/eventexhibitionroadshowwithentertainmentactivitytothepublic){:target="_blank"}
 
@@ -680,6 +655,10 @@
     - title: Tourism
       content: |
         Explore licences you may require with the e-Advisers:
+
+        - [Setting up an accommodation for short-term stay](https://eadviser.gobusiness.gov.sg/settingupanaccommodationforshorttermstay){:target="_blank"}
+
+        - [Setting up hotel](https://eadviser.gobusiness.gov.sg/settinguphotel){:target="_blank"}
         
         - [Setting up travel / tour agency](https://eadviser.gobusiness.gov.sg/settinguptraveltouragency){:target="_blank"}
 

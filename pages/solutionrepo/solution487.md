@@ -1,5 +1,5 @@
 ---
-title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 8 Users
+title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 12 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution487
 ---
 
@@ -9,7 +9,7 @@ Characterized by its easy-to-use, fast operated speed, complete business logic c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Ingenious_Business_Software_20200149_Annex_3_20200625150811_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Ingenious Business Software Pte Ltd<br>https://www.ingenious.sg/pre-approved-digital-solutions/<br>Email: enquiry@ingenious.sg<br>Tel: +65 6223 4385
+Company Name:Ingenious Business Software Pte Ltd <br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
