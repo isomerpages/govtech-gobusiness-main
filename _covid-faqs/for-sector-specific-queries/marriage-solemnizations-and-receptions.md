@@ -4,15 +4,15 @@ permalink: /covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-r
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Marriage Solemnization and Receptions [Updated as of 19 June 2021]
+### Marriage Solemnization and Receptions [Updated as of 7 July 2021]
 
-(Wedding receptions remain prohibited until mid-July 2021; date to be announced later)
+For Marriage solemnizations and receptions between 19 June to 11 July 2021, please refer to this [document](/images/guides/3HA - FAQs for weddings 21 Jun 2021 - Update (7 July) Clean (002).pdf){:target="_blank"}
 
-#### I. Latest COVID-19 Situation (19 Jun 2021)
+#### I. Latest COVID-19 Situation (12 July 2021)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
 
-#### II. General Safe Management Measures (with effect from 19 June 2021 onwards)
+#### II. General Safe Management Measures (with effect from 12 July 2021 onwards)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
 
@@ -28,7 +28,7 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="f" %}
 
-#### VI. Zoning Requirements for Solemnizations involving 51 to 100 attendees
+#### VI. Zoning and Staggered Timing Requirements
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="g" %}
 
