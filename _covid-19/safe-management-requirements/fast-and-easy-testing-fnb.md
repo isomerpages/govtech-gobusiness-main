@@ -52,7 +52,7 @@ This guide is updated as of 23 June 2021, 2000 hours.
 
 - Booking their training slot directly with HMI Institute [here](https://hmi-ihs.com/supervisory-training-in-art-self-swab/){:target="_blank"}; and 
 
-- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-a---template-for-hmi-institute-training-participant-details.xlsx?la=en){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg) as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
+- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-a---template-for-hmi-institute-training-participant-details.xlsx?la=en){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg){:target="_blank"} as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
 
 3.4 Timings for the training are from a) 8am-12pm, b) 2pm-6pm and c) 6pm-10pm. These will be available on a first-come-first-served basis. 
 
