@@ -6,8 +6,6 @@ third_nav_title: For Sector-Specific Queries
 
 ### Marriage Solemnization and Receptions [Updated as of 7 July 2021]
 
-For Marriage solemnizations and receptions between 19 June to 11 July 2021, please refer to this [document](/images/guides/3HA - FAQs for weddings 21 Jun 2021 - Update (7 July) Clean (002).pdf){:target="_blank"}
-
 #### I. Latest COVID-19 Situation (12 July 2021)
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
