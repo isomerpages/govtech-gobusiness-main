@@ -1,20 +1,4 @@
-<div
-    id="webchat"
-    app-id="gt-ask-gobiz"
-    app-name="Ask GoBiz"
-    app-subtitle="Chat with us"
-    app-welcome-message="Hello there, chat with us if you have any questions!"
-    app-icon="/images/VICA-avatar-210px.png"
-    app-colour="#037e8"
-    app-foreground-color1="white"
-    app-background-color2="white"
-    app-foreground-color-2="#2e2e2e"
-    app-canvas-background-color="#dcdcdc"
-    app-button-border-color="#b3d8dc"
-    app-icon="https://file.go.gov.sg/32h9vk.png" 
-    app-subtitle="app-welcome-message"
-    app-environment-override="draft"
-
+<script>
     document.addEventListener("DOMContentLoaded", () => {
         const chatBot = document.createElement("div");
         chatBot.setAttribute("id", "webchat");
@@ -40,9 +24,10 @@
         chatBot.setAttribute("app-bot-response-trigger-event", "false");
         chatBot.setAttribute("app-environment-override", "draft");
         document.body.appendChild(chatBot);
+
+        const script = document.createElement("script");
+        script.src = "https://webchat.vica.gov.sg/static/js/chat.js";
+        script.async = false;
+        document.body.appendChild(script);
     });
-></div>
-<script>
-    type="text/javascript" 
-    src="https://webchat.vica.gov.sg/static/js/chat.js"
 </script>
