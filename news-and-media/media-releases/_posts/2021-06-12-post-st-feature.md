@@ -2,7 +2,7 @@
 layout: post
 title:  'The Straits Times: Business owners benefit from simpler licensing via GoBusiness'
 permalink: /news-and-media/media-releases/st-feature
-published: true
+published: false
 ---
 
 ## GoBusiness in the News
