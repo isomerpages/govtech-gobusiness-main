@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Govtech: More improvements in the pipeline for GoBusiness as part of Government digitalisation'
+title:  'GovTech: More improvements in the pipeline for GoBusiness as part of Government digitalisation'
 permalink: /news-and-media/media-releases/gt-press-statement
 published: true
 ---
