@@ -84,16 +84,6 @@ accordion:
 
       In addition to aligning with MOH guidelines on healthcare services, group therapy for all non-public Healthcare Institutions AHS, including psychology services, is capped at a maximum of 5 clients per session (count excludes AHPs and support staff).
 
-  - title: Can private tuition/enrichment classes and training sessions provide food and drinks to students?
-    content: |
-      In line with the prevailing safe management measures, food and drinks should not be provided, and students are strongly discouraged from eating and drinking during classes.
-      
-      If necessary, for example, during full day workshops or courses, students may bring their own packed food, and consume the food and drinks, subject to prevailing safe management measures, including to limit group size to no more than 5 persons, with at least 1m spacing between students (MOE recommends at least 2m spacing as a best practice).
-
-  - title: Can private tuition/enrichment classes and training sessions involving transient mask-off activities such as food tasting be allowed to continue?
-    content: |
-      Students are strongly encouraged to keep their masks on throughout class as much as possible. If necessary as part of the lesson, transient mask-off activities such as food tasting are allowed.
-
   - title: Will the TraceTogether-only SafeEntry system and the SafeEntry Gateway Device (SEGW) be implemented for tuition, enrichment centres and SSG-funded training providers?
     content: |
       On 4 May 2021, the Multi-Ministry Taskforce (MTF) announced that TraceTogether-only SafeEntry (TT-only SafeEntry) will be implemented at all venues that experience higher throughput of visitors, and/or where people are likely to be in close proximity for prolonged periods from 17 May 2021. The TT programme and SafeEntry are important digital tools that enable contact tracers to quickly identify and isolate close contacts of COVID-19 cases. This helps to break transmission chains and prevent community outbreaks. TT tokens may be collected at designated collection points (please refer to [https://token.gowhere.gov.sg](https://token.gowhere.gov.sg){:target="_blank"} for more information).
@@ -113,3 +103,13 @@ accordion:
   - title: Can MOE help to facilitate a refund of the fees I had already paid for the period where face-to-face classes were suspended for students aged 18 years and younger?
     content: |
       As matters pertaining to the payment of fees is a contractual matter and practices vary across different providers, we advise parents, guardians and affected students to work with and seek an amicable resolution directly with the private provider in question.
+
+  - title: Can private tuition/enrichment classes and training sessions provide food and drinks to students?
+    content: |
+      In line with the prevailing safe management measures, food and drinks should not be provided, and students are strongly discouraged from eating and drinking during classes.
+      
+      If necessary, for example, during full day workshops or courses, students may bring their own packed food, and consume the food and drinks, subject to prevailing safe management measures, including to limit group size to no more than 5 persons, with at least 1m spacing between students (MOE recommends at least 2m spacing as a best practice).
+
+  - title: Can private tuition/enrichment classes and training sessions involving transient mask-off activities such as food tasting be allowed to continue?
+    content: |
+      Students are strongly encouraged to keep their masks on throughout class as much as possible. If necessary as part of the lesson, transient mask-off activities such as food tasting are allowed.
