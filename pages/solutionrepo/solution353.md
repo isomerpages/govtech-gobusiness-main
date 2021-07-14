@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - Package C with Unified Payments
+title: MyRetailer Android POS-Package C with Unified Payments
 permalink: /productivity-solutions-grant/solutionrepo/solution353
 ---
 

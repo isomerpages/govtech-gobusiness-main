@@ -1,5 +1,5 @@
 ---
-title: Advanced Ecommerce Solution by I Concept Version 1.0  - Advanced Ecommerce Solution by I Concept (Basic)
+title: Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution473
 ---
 

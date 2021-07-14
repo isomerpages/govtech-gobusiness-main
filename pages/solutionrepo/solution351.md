@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - Package A Standalone
+title: MyRetailer Android POS-Package A Standalone
 permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 

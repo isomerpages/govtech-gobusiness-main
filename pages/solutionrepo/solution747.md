@@ -1,5 +1,5 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 - WESS Lite
+title: WESS - Wellness Management Software Version 2.0 -WESS Lite
 permalink: /productivity-solutions-grant/solutionrepo/solution747
 ---
 

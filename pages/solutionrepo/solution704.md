@@ -1,5 +1,5 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 - iTrack Fleet Management Package E (12 Vehicles)
+title: iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution704
 ---
 

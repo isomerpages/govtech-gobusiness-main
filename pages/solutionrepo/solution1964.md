@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0 - Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)
+title: FoodZaps Version 4.0-Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)
 permalink: /productivity-solutions-grant/solutionrepo/solution1964
 ---
 

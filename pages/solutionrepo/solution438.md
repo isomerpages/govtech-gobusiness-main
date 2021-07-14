@@ -1,11 +1,11 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2 - Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
+title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
 permalink: /productivity-solutions-grant/solutionrepo/solution438
 ---
 
 ### Description
 
-Getz solution is a fully integrated platform that comprehensively resolves F&B s real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B s fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
+Getz solution is a fully integrated platform that comprehensively resolves F&B's real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B's fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
 
 
 
