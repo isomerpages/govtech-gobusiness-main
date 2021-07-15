@@ -1,5 +1,5 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 - WESS Professional with Online Booking
+title: WESS - Wellness Management Software Version 2.0 -WESS Professional with Online Booking
 permalink: /productivity-solutions-grant/solutionrepo/solution749
 ---
 

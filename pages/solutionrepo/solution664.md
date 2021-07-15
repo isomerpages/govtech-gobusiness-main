@@ -1,5 +1,5 @@
 ---
-title: OCi Sales & Accounting Management System (SAM) Version 11 - Package (2 Concurrent Users)
+title: OCi Sales & Accounting Management System (SAM) Version 11 -Package (2 Concurrent Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution664
 ---
 
@@ -7,13 +7,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution664
 
 OCi Sales and Accounting Management system is a straight-forward and comprehensive system in serving the needs in the following:
  
-         Pre-Sales Management
-         Post-Sales Fulfillment Management
-         Accounts Receivable Management
-         Accounts Payable Management
-         Inventory Management
-         Project Management
-         Management Accounting & Compliance
+-        Pre-Sales Management
+-        Post-Sales Fulfillment Management
+-        Accounts Receivable Management
+-        Accounts Payable Management
+-        Inventory Management
+-        Project Management
+-        Management Accounting & Compliance
 
 ### Details of Solution
 

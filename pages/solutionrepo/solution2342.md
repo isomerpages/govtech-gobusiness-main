@@ -1,5 +1,5 @@
 ---
-title: 3. Process human resource information (SFw HR)
+title: 2b. Boost your Business with Social Commerce (Part 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution2342
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S80TU0496C-01-CRS-Q-0034638-HRS' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051938' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

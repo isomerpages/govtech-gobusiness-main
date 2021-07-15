@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0 - Package A (eMenu)
+title: FoodZaps Version 4.0-Package A (eMenu)
 permalink: /productivity-solutions-grant/solutionrepo/solution1961
 ---
 

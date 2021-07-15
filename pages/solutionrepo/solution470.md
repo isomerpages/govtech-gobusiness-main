@@ -1,5 +1,5 @@
 ---
-title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub - CRM (Growth Package)- Hubspot
+title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Growth Package)- Hubspot
 permalink: /productivity-solutions-grant/solutionrepo/solution470
 ---
 

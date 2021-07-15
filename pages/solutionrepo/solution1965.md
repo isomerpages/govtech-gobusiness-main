@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0 - Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)
+title: FoodZaps Version 4.0-Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)
 permalink: /productivity-solutions-grant/solutionrepo/solution1965
 ---
 

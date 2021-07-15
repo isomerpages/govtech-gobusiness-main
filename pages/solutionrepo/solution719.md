@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5 - Marketplace
+title: PixelCommerce Version 5.2.5-Ultimate
 permalink: /productivity-solutions-grant/solutionrepo/solution719
 ---
 

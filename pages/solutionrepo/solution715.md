@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5 - Essentials
+title: PixelCommerce Version 5.2.5-Essentials
 permalink: /productivity-solutions-grant/solutionrepo/solution715
 ---
 

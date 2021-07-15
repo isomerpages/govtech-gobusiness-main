@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - Package E with Unified Payments & Web Store
+title: MyRetailer Android POS-Package E with Unified Payments & Web Store
 permalink: /productivity-solutions-grant/solutionrepo/solution355
 ---
 

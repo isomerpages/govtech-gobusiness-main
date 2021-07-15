@@ -1,5 +1,5 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0 - Express E-Commerce Website Development Package
+title: Corsiva Lab - E-Commerce Website Development Version 1.0 -Express E-Commerce Website Development Package
 permalink: /productivity-solutions-grant/solutionrepo/solution314
 ---
 

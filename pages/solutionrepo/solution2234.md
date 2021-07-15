@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Version 10.5 - Advante Package A (Xero Standard Subscription Only)
+title: Xero Cloud Accounting Version 10.5-Advante Package A (Xero Standard Subscription Only)
 permalink: /productivity-solutions-grant/solutionrepo/solution2234
 ---
 

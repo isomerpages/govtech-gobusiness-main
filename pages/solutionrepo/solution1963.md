@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0 - Package C (Customer QR/Online Self Ordering)
+title: FoodZaps Version 4.0-Package C (Customer QR/Online Self Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution1963
 ---
 

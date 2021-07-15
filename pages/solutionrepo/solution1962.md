@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0 - Package B (eMenu with eWaiter)
+title: FoodZaps Version 4.0-Package B (eMenu with eWaiter)
 permalink: /productivity-solutions-grant/solutionrepo/solution1962
 ---
 

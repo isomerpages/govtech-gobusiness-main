@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework
 permalink: /productivity-solutions-grant/solutionrepo/solution2335
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200722689Z-01-CRS-Q-0040060-HRS' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S92SS0008J-01-CRS-Q-0039329-RET' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

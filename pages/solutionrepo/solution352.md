@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - Package B with Dashboard
+title: MyRetailer Android POS-Package B with Dashboard
 permalink: /productivity-solutions-grant/solutionrepo/solution352
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Version 10.5 - Advante Package D (Xero Standard Full Package)
+title: Xero Cloud Accounting Version 10.5-Advante Package D (Xero Standard Full Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution2237
 ---
 
