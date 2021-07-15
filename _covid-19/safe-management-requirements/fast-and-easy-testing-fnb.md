@@ -4,11 +4,11 @@ permalink: /safemanagement/fast-and-easy-testing/
 third_nav_title: Safe Management Requirements
 ---
 
-This guide is updated as of 23 June 2021, 2000 hours. 
+This guide is updated as of 12 July 2021. 
 
 #### 1.	Mandatory Fast and Easy Testing (FET) for staff as we move towards a safe and gradual resumption of F&B dine-in Activities
 
-1.1	As announced by the Multi-Ministry Taskforce on 18 June 2021, a Fast and Easy Testing (FET) regime will be progressively rolled out for all outlet employees at dine-in F&B establishments from 21 June 2021 onwards, and be mandatory from mid-July 2021.This is to further reduce the risk of transmission in settings with unmasked clients/patrons. These employees are required to be on a regular FET regime using tests such as the antigen rapid test (ART), regardless of their vaccination status.
+1.1	As part of the suite of measures to reduce transmission for mask-off activities, all staff who work in settings with unmasked clients/patrons and/or have prolonged and close contact with clients when performing services will be placed on the Fast and Easy Testing (FET) regime, using tests such as antigen rapid test (ART), regardless of their vaccination status. This is mandatory as of 15 July 2021.
 
 **1.2	All dine-in F&B establishments (including restaurants, cafes, food courts, coffee shops, hawker stalls) must ensure that their outlet employees undergo FET every 14 days. This includes all full time and part time employees, as well as third-party contracted employees (e.g. cleaners) who work at the establishments.**
 
@@ -28,7 +28,7 @@ This guide is updated as of 23 June 2021, 2000 hours.
 
 2.2 The self swab can be done either at the workplace or at home, and will take approximately 10-15 minutes. 
 
-2.3 All employees must check for acute respiratory infection (ARI) symptoms prior to taking the self-swab. Only employees with no ARI symptoms should continue with the FET. Employees with ARI symptoms should not continue with the ART but instead consult a doctor for medical treatment immediately.
+2.3 All employees must check for acute respiratory infection (ARI) symptoms (such as cough, fever, flu or runny nose ) prior to taking the self-swab.
 
 2.4 The ESSS process is summarised as follows:
 
@@ -48,19 +48,13 @@ This guide is updated as of 23 June 2021, 2000 hours.
 
 3.2 Nominated employees above 50 years old must be fully vaccinated (i.e. have received two doses of the COVID-19 vaccination from our national vaccination progamme).
 
-3.3 F&B establishments can register their staff for training by:
+3.3 F&B establishments can register their staff for training by booking their training slot directly with HMI Institute [here](https://hmi-ihs.com/supervisory-training-in-art-self-swab/){:target="_blank"}
 
-- Booking their training slot directly with HMI Institute [here](https://hmi-ihs.com/supervisory-training-in-art-self-swab/){:target="_blank"}; and 
-
-- Submitting the list of participants (through the Excel sheet – refer to attachment [here](https://www.enterprisesg.gov.sg/-/media/esg/files/covid-19/fet/annex-a---template-for-hmi-institute-training-participant-details.xlsx?la=en){:target="_blank"}) to [swab@hmi.com.sg](mailto: swab@hmi.com.sg){:target="_blank"} as soon as possible. As the information provided may be sensitive, employers should password-protect the document before sending to HMI.
-
-3.4 Timings for the training are from a) 8am-12pm, b) 2pm-6pm and c) 6pm-10pm. These will be available on a first-come-first-served basis. 
+3.4 Timings for the training are from a) 8am-12pm, b) 2pm-6pm and c) 6pm-10pm with English and Mandarin classes. These will be available on a first-come-first-served basis. 
 
 3.5 Upon successful sign-up, a web link will be sent for employees to attend the virtual training session via Zoom.
 
 3.6 Employees who complete the course will be issued a certificate of attendance. 
-
-3.7 For more information, please visit [HMI Institute’s website](https://hmi-ihs.com/){:target="_blank"} (refer to COVID-19 Training) for the latest updates on the ESSS training details.
 
 #### 4.	Employer-Supervised Self-Swab (ESSS): Registering for self-collection of test kits and Swab Registration System (SRS) account
 
