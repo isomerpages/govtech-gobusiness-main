@@ -2,6 +2,7 @@
 title: Fast and Easy Testing (FET) Guide for Dine-in Food & Beverage (F&B) Establishments
 permalink: /safemanagement/fast-and-easy-testing/
 third_nav_title: Safe Management Requirements
+published: false
 ---
 
 This guide is updated as of 12 July 2021. 
