@@ -1,6 +1,14 @@
 - accordion:
   letter: a
   data:
+    - title: I am a freelancer and do not have a Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?
+      content: |
+        Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. For more information, please refer [here](https://www.acra.gov.sg/how-to-guides/before-you-start/who-must-register){:target="_blank"}.
+ 
+        If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016){:target="_blank"} to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations [here](https://www.gobusiness.gov.sg/permittedlist/){:target="_blank"}.
+        
+        Once you have verified that your SSIC code is within the list of permitted services, you can resume your service, subject to the necessary Safe Management Measures [here](https://www.gobusiness.gov.sg/safemanagement/general/){:target="_blank"}.
+
     - title: How do I know if my company is allowed to operate?
       content: |
         Your company is allowed to operate if your company’s activities are in MTI’s list of permitted services [here](https://www.gobusiness.gov.sg/images/covid/Permitted%20Services%20(11%20May).pdf){:target="_blank"}. Businesses in this list do not need to apply to MTI for exemption before operating.  

@@ -168,6 +168,10 @@
 - accordion:
   letter: c
   data:
+    - title: I understand that the F&B FET regime is mandatory from 15 July. I have received my ART test kits but am experiencing technical issues with the Swab Registration System (SRS) (e.g. unable to log into the system/ upload supervisors/ upload results). What should I do? Can I still continue to operate?
+      content: |
+        You can continue to operate. However, if you have received your ART test kits, you should proceed with the testing of your staff and keep a record of the results. Once the SRS system issues have been resolved, you will need to upload these backdated results into the system. Subsequently, all “AG+” or “Double Invalid” test results will have to be uploaded onto SRS no later than 30 minutes after the ESSS for that specific staff is completed; whereas all other “AG-” test results needs to be logged onto SRS within 24 hours.
+
     - title: How can F&B establishments apply for earlier vaccination for their frontline workers?
       content: |
         F&B establishments interested in earlier vaccination can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg. RAS will work with F&B companies to obtain the necessary details to facilitate earlier vaccination. 
