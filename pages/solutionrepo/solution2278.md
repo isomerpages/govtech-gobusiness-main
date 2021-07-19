@@ -35,7 +35,7 @@ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indire
 
 ### Contact Information
 Web URL: https://kegmil.com/ 
-<br>Contact Hotline: 69311384 
+<br>Contact Hotline: 8949 9637 
 <br>Contact Email: info@kegmil.com 
 <br>
 
