@@ -105,7 +105,7 @@ permalink: /privacy/
 
     You may withdraw your consent to the handling, collection, use, disclosure and processing of Your Data by us with reasonable notice and subject to any prevailing restrictions imposed by applicable law or contract. Please note that the withdrawal of such consent may prevent the proper functioning of the Services (or any part thereof) and may also result in the cessation of the Services (or any part thereof) to you. Notwithstanding the withdrawal of such consent, we may continue handling, collecting, using, disclosing or processing Your Data for any or all of the Purposes if we are permitted to do so under the law.
 
-12. Please contact licences-helpdesk@crimsonlogic.com.sg if you:
+12. Please contact AskGoBiz@crimsonlogic.com.sg if you:
 
     (a) have any enquires, complaints or feedback on our data protection policies and procedures; or
 

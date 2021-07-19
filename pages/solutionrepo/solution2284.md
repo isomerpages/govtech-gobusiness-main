@@ -9,7 +9,7 @@ It's a powerful Mobile Application designed for Building and Construction indust
 
 ### Details of Solution
 
-Click <a href='www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,9 @@ Up to NA% for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ngt.com.sg <br>Contact Hotline: 68469334 <br>Contact Email: info@ngt.com.sg <br>
+Web URL: www.ngt.com.sg 
+<br>Contact Hotline: 68469334 
+<br>Contact Email: info@ngt.com.sg 
+<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

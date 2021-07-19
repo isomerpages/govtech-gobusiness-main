@@ -9,7 +9,7 @@ Kegmil is on a mission to empower millions of deskless field service professiona
 
 ### Details of Solution
 
-Click <a href='www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,9 @@ Up to NA% for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://kegmil.com/ <br>Contact Hotline: 69311384 <br>Contact Email: info@kegmil.com <br>
+Web URL: https://kegmil.com/ 
+<br>Contact Hotline: 69311384 
+<br>Contact Email: info@kegmil.com 
+<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
