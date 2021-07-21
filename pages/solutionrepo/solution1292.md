@@ -9,7 +9,7 @@ Venuerific was founded in Singapore in 2013 with the goal of helping venue owner
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VENUERIFIC_20200420_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

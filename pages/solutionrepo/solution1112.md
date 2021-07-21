@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting System Version 2.0 - Basic (1 User)
+title: Autocount Accounting System Version 2.0-Basic (1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution1112
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BonaForce - bonaFORCE Agencies
+title: BonaForce-bonaFORCE Agencies
 permalink: /productivity-solutions-grant/solutionrepo/solution261
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: BonaForce - bonaFORCE Premium
+title: BonaForce-bonaFORCE Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution259
 ---
 

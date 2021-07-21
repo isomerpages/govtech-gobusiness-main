@@ -34,9 +34,6 @@ Up to NA% for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://kegmil.com/ 
-<br>Contact Hotline: 8949 9637
-<br>Contact Email: info@kegmil.com 
-<br>
+Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

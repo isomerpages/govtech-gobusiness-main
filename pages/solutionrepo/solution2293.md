@@ -1,15 +1,15 @@
 ---
-title: OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)
-permalink: /productivity-solutions-grant/solutionrepo/solution1086
+title: Athena E-store Solution-Athena E Store Lite Version
+permalink: /productivity-solutions-grant/solutionrepo/solution2293
 ---
 
 ### Description
 
-An intuitive user interface designed for sales. A Dashboard for a better overview of the sales activities. Useful tips and best practices to configure and deploy your CRM and much more. Odoo CRM is part of Odoo, the #1 suite of business applications dedicated to SMEs. The strength of Odoo is its modularity and scalability. Start with CRM to track all your sales pipeline, and as your business grows, add the sales, inventory or the accounting module, all integrated, same data and easy to use.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Alitec Pte Ltd <br>Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
+Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678935 <br>Contact Email: ernest@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

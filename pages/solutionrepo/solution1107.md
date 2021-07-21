@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Business Central with E-invoicing Version 15 - Dynamics 365 BC Essential 3 Users
+title: Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Essential 3 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1107
 ---
 

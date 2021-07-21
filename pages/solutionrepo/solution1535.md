@@ -1,5 +1,5 @@
 ---
-title: Zoho One - 7 Users + Onboarding Services
+title: Zoho One-7 Users + Onboarding Services
 permalink: /productivity-solutions-grant/solutionrepo/solution1535
 ---
 
@@ -9,7 +9,7 @@ With advanced CRM features like workflow management, advanced analytics, territo
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_20200592_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
