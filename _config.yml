@@ -6,7 +6,7 @@ google_analytics: UA-186826212-1
 facebook-pixel: 199274315251589
 linkedin-insights: 918155
 vica: false
-resources_name: news-and-media
+resources_name: news-and-updates
 
 colors:
   primary-color: '#037e8a'
@@ -17,9 +17,9 @@ colors:
     - title: media-color-two
       color: '#006699'
     - title: media-color-three
-      color: '#2AACA5'
-    - title: media-color-four
       color: '#1E3D67'
+    - title: media-color-four
+      color: '#2AACA5'
     - title: media-color-five
       color: '#3AB488'
 

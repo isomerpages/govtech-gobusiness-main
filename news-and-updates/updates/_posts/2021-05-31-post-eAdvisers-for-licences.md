@@ -1,7 +1,7 @@
 ---
 layout: post
 title: e-Advisers for licences
-permalink: /news-and-media/news/eAdvisers-for-licences
+permalink: /news-and-updates/updates/eAdvisers-for-licences
 published: true
 ---
 
