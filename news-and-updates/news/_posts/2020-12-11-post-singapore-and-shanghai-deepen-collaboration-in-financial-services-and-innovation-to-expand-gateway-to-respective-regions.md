@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Singapore and Shanghai deepen collaboration in financial services and innovation to expand gateway to respective regions
-permalink: /news-and-media/media-releases/sample1
+permalink: /news-and-updates/news/sample1
 published: false
 ---
 ![about us image](/images/li-yang-5h_dMuX_7RE-unsplash1.jpg)
