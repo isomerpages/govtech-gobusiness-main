@@ -4,13 +4,13 @@ permalink: /covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-r
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Marriage Solemnization and Receptions [Updated as of 7 July 2021]
+### Marriage Solemnization and Receptions [Updated as of 21 July 2021]
 
-#### I. Latest COVID-19 Situation (12 July 2021)
+#### I. Latest COVID-19 Situation
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
 
-#### II. General Safe Management Measures (with effect from 12 July 2021 onwards)
+#### II. General Safe Management Measures
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
 
@@ -29,5 +29,9 @@ third_nav_title: For Sector-Specific Queries
 #### VI. Zoning and Staggered Timing Requirements
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="g" %}
+
+#### VII. Mediation Programme
+
+{% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="h" %}
 
 [Back to Covid-19 Overview](/covid/)

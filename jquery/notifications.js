@@ -1,7 +1,7 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
-  "<b>[Announcement]</b> There will be a change in our Helpdesk contact information. Please go to our <a href='https://www.gobusiness.gov.sg/contact-us/'>Contact Us</a> page for the new contact details from 1 July 2021.",
+  "<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
   //"<b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href='https://go.gov.sg/corporate-login'>go.gov.sg/corporate-login</a>",
 ];
 
