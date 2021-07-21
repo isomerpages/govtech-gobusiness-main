@@ -1,5 +1,5 @@
 ---
-title: SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)
+title: SUNTOYO POS SOLUTION Version 8.1 - PACKAGE (BASIC)
 permalink: /productivity-solutions-grant/solutionrepo/solution1126
 ---
 

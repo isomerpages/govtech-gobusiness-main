@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users
+title: SAP Business One Version Cloud - HANA Cloud - 3 Subscription Users
 permalink: /productivity-solutions-grant/solutionrepo/solution121
 ---
 

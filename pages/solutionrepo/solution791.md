@@ -1,5 +1,5 @@
 ---
-title: Ezyprocure Version 2.0-Package 1
+title: Ezyprocure Version 2.0 - Package 1
 permalink: /productivity-solutions-grant/solutionrepo/solution791
 ---
 

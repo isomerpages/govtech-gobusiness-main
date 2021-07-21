@@ -1,5 +1,5 @@
 ---
-title: BonaForce-bonaFORCE SMEs
+title: BonaForce - bonaFORCE SMEs
 permalink: /productivity-solutions-grant/solutionrepo/solution258
 ---
 

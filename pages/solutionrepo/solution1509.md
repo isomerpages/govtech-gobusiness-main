@@ -1,5 +1,5 @@
 ---
-title: SGDATAPOS Version 5.1-Package (Basic With Hardware)
+title: SGDATAPOS Version 5.1 - Package (With Customer Relationship Management, With Hardware)
 permalink: /productivity-solutions-grant/solutionrepo/solution1509
 ---
 

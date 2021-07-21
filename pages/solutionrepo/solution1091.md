@@ -1,5 +1,5 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 MOBILE
+title: BIZ POS VER 3.0 MOBILE
 permalink: /productivity-solutions-grant/solutionrepo/solution1091
 ---
 

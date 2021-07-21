@@ -1,5 +1,5 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE
+title: BIZ POS VER 3.0 ALL-IN-ONE
 permalink: /productivity-solutions-grant/solutionrepo/solution1090
 ---
 

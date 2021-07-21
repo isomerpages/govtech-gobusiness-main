@@ -1,5 +1,5 @@
 ---
-title: BonaForce-bonaFORCE Portal
+title: BonaForce - bonaFORCE Portal
 permalink: /productivity-solutions-grant/solutionrepo/solution262
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Intuit Quickbooks Online Full Transformation Package-Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package
+title: Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package
 permalink: /productivity-solutions-grant/solutionrepo/solution61
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Shopcada Ecommerce and POS-Shopcada Premium  Ecommerce Package
+title: Shopcada Ecommerce and POS - Shopcada Premium  Ecommerce Package
 permalink: /productivity-solutions-grant/solutionrepo/solution938
 ---
 

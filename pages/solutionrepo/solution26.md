@@ -34,7 +34,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Payload modules to lift trolleys Minimum 150kg
+Payload modules to lift trolleys Minimum  150kg
 Min. load surface: 720x600mm
 1-1.2m/s driving with spot turning
 Battery: Min. 4h, ~8h standby, ~4h charging

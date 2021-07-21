@@ -1,5 +1,5 @@
 ---
-title: BonaForce-bonaFORCE Events
+title: BonaForce - bonaFORCE Events
 permalink: /productivity-solutions-grant/solutionrepo/solution260
 ---
 

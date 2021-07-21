@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting System Version 2.0-Pro (3 Users)
+title: Autocount Accounting System Version 2.0 - Pro (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1114
 ---
 
