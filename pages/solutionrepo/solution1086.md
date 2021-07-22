@@ -1,5 +1,5 @@
 ---
-title: OdooCRM - Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps with Professional Services & Training)
+title: OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1086
 ---
 
