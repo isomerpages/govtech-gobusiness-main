@@ -9,7 +9,7 @@
         |**Wedding Solemnizations**|
         |Home|Up to 10 attendees|
         |ROM/M Building|Up to 10 attendees|
-        |External venues|- Up to 50 attendees (no Pre-Event Test (PET) requirement); <br/>- From 51 to 250 attendees, PET required for all attendees <br/>- Group size of up to 2 persons|
+        |External venues|- Up to 50 attendees (no Pre-Event Test (PET) requirement); <br/>- From 51 to 100 attendees, PET required for all attendees <br/>- Group size of up to 2 persons|
         |**Wedding Receptions**|
         |Home and ROM/M Building|Not allowed|
         |External venues|- Up to 100 attendees, PET required for all attendees; <br/>- Group size of up to 5 persons|
@@ -141,19 +141,13 @@
       content: |
         No. If the marriage solemnization involves more than 50 attendees, all attendees must undergo PET.
 
-    - title: Is PET required for all attendees of wedding receptions with less than 22 attendees, if it adopts staggered timings? Why can’t it be required only for the wedding couple or wedding party who are allowed to attend multiple timeslots?
+    - title: Is PET required for all attendees of wedding receptions with less than 50 attendees, if it adopts staggered timings? Why can’t it be required only for the wedding couple or wedding party who are allowed to attend multiple timeslots?
       content: |
         Yes, from 22 July 2021, PET is required for all attendees of wedding receptions, even if staggered timing is adopted. While PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free.
 
     - title: For marriage solemnizations involving more than 50 attendees, can the wedding party who had undergone PET and be allowed to cross zones?
       content: |
         No, the wedding party, even if tested, will not be allowed to cross zones. While PET serves to reduce the probability of an infected person attending the event, there remains a risk of false negative results where an infected person tests antigen negative and attends the wedding. Safe management measures, such as limiting the crossing of zones, reduce the likelihood of such cases transmitting the virus to other people at the event and sparking off a large cluster of infections.
-
-    - title: For wedding receptions involving more than 50 attendees, do we have to test everyone or just the number exceeding 50 pax?
-      content: |
-        Yes, for wedding receptions involving more than 50 attendees, PET will be required for all attendees (including the wedding couple).
-
-        For wedding receptions involving 50 attendees or a lower number, PET will be required only for members of wedding party of up to 20 persons (including the wedding couple).
 
     - title: Will I be compensated if my marriage solemnization/ reception has to be cancelled because the bride/ groom receives a positive / invalid test result?
       content: |
@@ -164,7 +158,7 @@
   data:
     - title: If we opt for solemnization via video link, what is the limit to the number of guests in the same venue? Can the bride, groom, witnesses and guests be in the same venue? 
       content: |
-        For solemnizations via video-link, the prevailing home visit guidelines should be adhered to (i.e. up to 5 visitors to a home per day). The bride, groom, witnesses, and guests can be in the same location if they belong to the same household or if they are within the prevailing home visit guidelines (i.e. up to 5 visitors to a home per day). Other guests exceeding the 5 visitors allowed may wish to join in through video-link instead. Such processes through video-link ensures marriage solemnizations take place in a safe manner.
+        For solemnizations via video-link, the prevailing home visit guidelines should be adhered to (i.e. up to 2 visitors to a home per day). The bride, groom, witnesses, and guests can be in the same location if they belong to the same household or if they are within the prevailing home visit guidelines (i.e. up to 2 visitors to a home per day). Other guests exceeding the 2 visitors allowed may wish to join in through video-link instead. Such processes through video-link ensures marriage solemnizations take place in a safe manner.
 
 - accordion:
   letter: f
@@ -173,7 +167,7 @@
       content: |
         Solemnizations are capped at 50 attendees (PET not required), or 100 attendees (PET required for all attendees). Attendee limits include the bride and groom, and exclude the solemnizer and vendors.
         
-        -	If the wedding reception is held in the same room or space as the solemnization without any break in between, the entire event will be considered a wedding reception and be subject to the wedding reception safe management measures including attendance limits, i.e. up to 50 persons (PET required for the wedding party), or up to 100 persons (PET required for all attendees). Attendee limits include the bride and groom, and exclude the solemnizer and vendors.
+        -	If the wedding reception is held in the same room or space as the solemnization without any break in between, the entire event will be considered a wedding reception and be subject to the wedding reception safe management measures including attendance limits, i.e. up to 100 persons (PET required for all attendees). Attendee limits include the bride and groom, and exclude the solemnizer and vendors.
 
         -	If organisers intend to hold separate solemnization and wedding reception events at the same venue, you are advised to have a reasonably long break between the two events. This will provide time to vacate and sanitise the venue after the first event and will also prevent interactions between the two sets of guests who are leaving or entering the venue.
 

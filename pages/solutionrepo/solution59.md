@@ -1,5 +1,5 @@
 ---
-title: Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Basic Plan
+title: Intuit Quickbooks Online Full Transformation Package-Intuit Quickbooks Online - Basic Plan
 permalink: /productivity-solutions-grant/solutionrepo/solution59
 ---
 

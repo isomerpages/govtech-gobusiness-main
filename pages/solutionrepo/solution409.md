@@ -5,8 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution409
 
 ### Description
 
-Firstcom's customised platform allows processing of online orders, dine-in, take-away & table reservation. Payment gets credited to your bank account immediately. Management of pictures and description can be done easily via the portal. 
-Data Analytics features are available to help business owners forecast sales revenue, plan for future stock procurement and do advance digital marketing planning to target the right customers at the right time, with the right products.
+The Online Ordering & Payment System allows F&B enterprises to enable digital online ordering and comprehensive functionalities to automate and perform online sales transactions. It enables F&B outlets to allow their customers to order on-site, takeout or delivery on an online platform.
+
+ 
 
 ### Details of Solution
 

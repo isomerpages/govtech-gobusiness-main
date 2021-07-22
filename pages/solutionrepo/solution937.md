@@ -1,5 +1,5 @@
 ---
-title: Shopcada Ecommerce and POS - Shopcada Premium Ecommerce with Grow Mobile Package
+title: Shopcada Ecommerce and POS-Shopcada Premium Ecommerce with Grow Mobile Package
 permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 

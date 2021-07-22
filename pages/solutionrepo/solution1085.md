@@ -1,5 +1,5 @@
 ---
-title: OdooCRM - Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps with Prof Services & Training)
+title: OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1085
 ---
 

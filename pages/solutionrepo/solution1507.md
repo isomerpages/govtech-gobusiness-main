@@ -1,5 +1,5 @@
 ---
-title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
+title: SGDATAPOS Version 5.1-Package (Basic Without Hardware)
 permalink: /productivity-solutions-grant/solutionrepo/solution1507
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Essential Plan
+title: Intuit Quickbooks Online Full Transformation Package-Intuit Quickbooks Online - Essential Plan
 permalink: /productivity-solutions-grant/solutionrepo/solution62
 ---
 
