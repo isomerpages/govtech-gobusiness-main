@@ -14,7 +14,7 @@ For companies, you will need to hire an auditor within three months and a compan
 
 - Apply for a [CPF Submission Number](https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number){:target="_blank"}  to make CPF contributions as an employer
 - [Write a contract](https://www.mom.gov.sg/employment-practices/contract-of-service#key-employment-terms){:target="_blank"} which complies with the [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}
-- [Get Work Injury Compensation Insurance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance){:target="_blank"} for certain groups of employees
+- [Get Work Injury Compensation Insurance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance){:target="_blank"} for certain groups of employees through [MOM's designated insurers](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer){:target="_blank"}.
 
 *You can consider using Workforce Singapore (WSG)’s [MyCareersFuture portal](https://employer.mycareersfuture.sg/){:target="_blank"} to source for local employees
 
