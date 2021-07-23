@@ -3,7 +3,7 @@
   data:
     - title: How long will these measures last for?
       content: |
-        The latest measures will take effect from 12 July 2021. 
+        The latest measures will take effect from 22 July till 18 August 2021, and supersede measurers that were recently introduced. 
 
     - title: These additional measures have impacted my business greatly. How is the Government supporting us?
       content: |
@@ -17,6 +17,8 @@
         ESG reintroduced support measures to help affected F&B and retail businesses diversify their revenue channels and defray business costs of going online:
         - The Food Delivery Booster Package defrays part of food delivery costs, via food delivery platforms and third-party logistics partners, and will be available from 16 May to 15 July 2021.
         - The E-Commerce Booster Package provides up to 80% support for local retailers to get on-board local e-commerce platforms, and will be available from 16 May 2021 to 16 November 2021.
+
+        In view of the tightened safe management measures until 18 August 2021, the Government will provide a support package to affected businesses and workers. More details will be announced at a later date.
 
     - title: Will there be updates on the GoBusiness portal for businesses, e.g. what are the permissible activities?
       content: |
@@ -36,7 +38,7 @@
 
     - title: Are companies that are operating required to ensure that their employees work from home?
       content: |
-        It remains essential that we continue to keep transmission risks in check by reducing overall footfall and interactions at common spaces or near the workplace, and in public places. Therefore, work-from-home is the default mode of work and employers must provide the necessary facilities and direct their employees to work from home wherever possible.  
+        Work-from-home will continue to be the default at workplaces. Employers must provide the necessary facilities and direct their employees to work from home wherever possible.  
 
         Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](https://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
 
@@ -53,6 +55,8 @@
         c.  Gyms and fitness studios where clients are unmasked.
         
         The mandatory regular 14-day FET for staff at these settings will be progressively rolled out from 21 June 2021 and made mandatory from 15 July 2021. 
+
+        From 22 July through 18 August 2021, staff who work at settings with unmasked clients/patrons and were placed on mandatory FET regimes, will not be required to conduct FET if their business operations are suspended. For F&B establishments that choose to remain open for takeaway/delivery, they must continue to place their employees on the regular 14-day FET regime. Such regular FET will continue to be made free of charge during this period.
 
     - title: Why do I need to send my staff for regular testing? 
       content: |
@@ -89,28 +93,21 @@
   data:
     - title: Can F&B establishments allow dine-in options?
       content: |
-        From 12 July, F&B establishments are allowed to resume food service operations, with the exception of establishments with Pubs, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613. They must comply with the following: 
-
-        (i) F&B establishments are only permitted to seat dining groups of up to 5 persons. F&B establishments must also ensure that a safe distance of at least one metre is maintained between groups of diners to mitigate the risk of transmission. This refers to the distance between the edges of every group (of up to 5 persons) or person. In addition, F&B establishments must ensure that the furniture is arranged in such a way to facilitate safe distancing between groups – for example, the distance measured between the backs of chairs used by diners in different groups, or the legs of chairs if there is no back, must also be at least one metre apart.
-
-        (ii)  Sale and consumption of alcohol in all F&B establishments are prohibited after 2230hrs daily. This includes consumption at any outdoor refreshment area and/or tables/chairs owned or managed by such establishment. As a best practice, by around 2200hrs, F&B operators should cease the sale of alcohol as a dine-in service and remind customers to consume their alcohol by 2230hrs. 
-
-        (iii) F&B establishments are not allowed to play any form of background music or sounds. 
-
-        (iv)  F&B establishments may serve as venues for wedding solemnisations and/or work-related events by third parties and are required to comply with the SMMs for these events. From 12 July 2021, food and drinks are permitted at work-related events; wedding receptions may also resume.
-
-        All F&B establishments are also to note and implement the following measures:   
+        From 22 July through 18 August 2021, all F&B establishments can only open for takeaway and/or delivery during this period. Dining-in is prohibited. 
         
-        (i) Ventilate and improve the indoor air quality where possible.
-        (ii)  F&B establishments should proactively manage potential contacts of COVID-19 cases at the workplace.
-        (iii) Observe the protocol on disinfection for premises visited by positive COVID-19 cases.
-        (iv)  F&B establishments providing dine-in services are to place all employees on a regular Fast and Easy Testing (FET) regime using tests such as antigen rapid test (ART), regardless of their vaccination status. FET will be mandatory for dine-in F&B establishments from 15 July 2021.
+        (i)	While customers and delivery personnel are allowed to enter the premises of the F&B establishments for takeaway or delivery, they must leave the premises once they have picked up their orders. 
+        
+        (ii)	During this period, F&B establishments should cancel all events and promotions that will generate crowding at their physical premises in a manner which is non-compliant with the SMMs.
+        
+        F&B establishments may serve as venues for marriage events and/or work-related events by third parties and are required to comply with the SMMs for these events. **Food and drinks are not permitted to be served or consumed at solemnisations or work-related events. As a special provision, wedding receptions may be allowed to continue, up to a maximum of 100 attendees including the parties to the marriage. For the detailed SMM requirements for Marriage Solemnisations and Wedding Receptions, please refer to the GoBusiness portal.**
 
     - title: Can establishments with Pub/Bar/Nightclub/Disco (PBND) licenses continue to provide takeaway and delivery services?
       content: |
-        Pivoted establishments with the requisite SFA F&B licenses, as well as bars on the nightlife pilot programme, are allowed to provide takeaway and delivery services. 
+        F&B establishments are allowed to continue food service operations, with the exception of (i) establishments with Pubs, Bars, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613, and (ii) nightlife operators that were allowed to pivot to F&B operations as listed at [https://covid.gobusiness.gov.sg/permittedlist/](https://covid.gobusiness.gov.sg/permittedlist/) (operations suspended from 16 July through 30 July).
 
-        Nightlife entities, which have either Pubs, Bars, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613) are still not allowed to operate during this period.
+    - title: My food establishment is located within an industrial building. Can it be allowed for dine-in during this period?
+      content: |
+        It can only serve takeaway and/or delivery orders only. No dine-in service is permitted. Customers are not permitted to consume any food or drinks on-site whilst waiting for the food to be prepared. 
 
     - title: My operating costs will increase due to the increased demand for takeaway containers. Can the Government help with costs?
       content: |
@@ -138,7 +135,7 @@
 
           b.	At least one-metre spacing between individuals must be maintained at all times.
           
-          c.	Meals should not be the main feature. Employers should avoid holding events over mealtimes as far as possible. Food or drinks should only be served if incidental to the work-related event (e.g. the meeting or conference extends over lunchtime). In addition, the food must be served in individual portions, and participants must be seated while consuming. Participants should minimise the time that they are unmasked while eating and drinking.
+          c.	Food and drinks are not allowed. 
           
           d.	Prevailing SMMs as indicated in MOM’s Requirements for Safe Management Measures at the workplace continue to apply.
 
@@ -148,26 +145,13 @@
           
           b.	Events organised by external parties at F&B establishments (where the F&B premises now function as a third-party venue) are subject to a cap of 50 persons (excluding service staff) or a lower number, depending on venue capacity and safe distancing requirements.
           
-          c.	Meals should not be the main feature. Event organisers should also avoid holding events over mealtimes as far as possible. Food or drinks should only be served if incidental to the work-related event (e.g. the meeting or conference extends over lunchtime). In addition, the food must be served in individual portions<sup>1</sup>, and participants must be seated while consuming. Participants should minimise the time that they are unmasked while eating and drinking.
+          c.	Food and drinks are not allowed. 
           
           d.	Each group must be limited to a maximum of 2 persons, with at least one-metre spacing between groups.
           
           e.	All other prevailing workplace and venue SMMs must be adhered to.
 
-          <sup>1</sup> Food served through staff-served food lines must also be served in individual portions.
-    - title: Can I have lunch with my family members (within the same household) in a group of more than 5 persons in an F&B establishment? 
-      content: |
-        As per prevailing F&B SMMs, each dining group must be limited to 5 persons, with at least one-metre spacing between groups. Gatherings or groups of more than 5 persons are not allowed, even if they are split across multiple tables*. There should be no mixing or intermingling between groups.
-
-        *Exceptions can only be made if all persons in the group are from the same household. These group(s) can be allowed into the F&B establishment. However, they will need to be seated at multiple tables, with no more than 2 persons per table, and at least one metre between tables. There should also be no intermingling between the dining groups in the F&B establishment.
-
-    - title: Are babies or toddlers included in the group size limits in F&B establishments? 
-      content: |
-        Yes, all persons, including babies and toddlers, are counted towards the group size. 
-
-    - title: I understand that the F&B FET regime is mandatory from 15 July. I have received my ART test kits but am experiencing technical issues with the Swab Registration System (SRS) (e.g. unable to log into the system/ upload supervisors/ upload results). What should I do? Can I still continue to operate?
-      content: |
-        You can continue to operate. However, if you have received your ART test kits, you should proceed with the testing of your staff and keep a record of the results. Once the SRS system issues have been resolved, you will need to upload these backdated results into the system. Subsequently, all “AG+” or “Double Invalid” test results will have to be uploaded onto SRS no later than 30 minutes after the ESSS for that specific staff is completed; whereas all other “AG-” test results needs to be logged onto SRS within 24 hours.
+          Such events are not permitted at public and common areas such as mall atriums, public transport nodes, HDB estates and common corridors.
 
 - accordion:
   letter: c
@@ -229,6 +213,58 @@
         Establishments are required to upload the results of the outlet workers’ swab tests to the SRS on the same day as the tests are taken (within 24 hours). 
         
         For Ag+ cases, the results must be submitted on the SRS within 30 mins from the time of the test.  
+
+    - title: I understand that the F&B FET regime is mandatory from 15 July. I have received my ART test kits but am experiencing technical issues with the Swab Registration System (SRS) (e.g. unable to log into the system/ upload supervisors/ upload results). What should I do? Can I still continue to operate?
+      content: |
+        You can continue to operate. However, if you have received your ART test kits, you should proceed with the testing of your staff and keep a record of the results. Once the SRS system issues have been resolved, you will need to upload these backdated results into the system. Subsequently, all “AG+” or “Double Invalid” test results will have to be uploaded onto SRS no later than 30 minutes after the ESSS for that specific staff is completed; whereas all other “AG-” test results needs to be logged onto SRS within 24 hours.
+
+- accordion:
+  letter: e
+  data:
+    - title: What are the latest measures that retail establishments and lifestyle-related services need to note?
+      content: |
+        From 22 July through 18 August 2021, retail establishments and lifestyle-related services are to comply with the following: 
+        
+        a.	Social gatherings of up to 2 persons will be allowed. In line with this, retail establishments are to ensure at least one-metre spacing between groups of customers (of up to 2 persons). Malls should also ensure that crowds do not gather at atriums or common spaces, and discourage the consumption of food and drinks at such spaces. 
+        
+        b.	The occupancy limit for malls and large standalone stores will be one person per 16 sqm of Gross Floor Area (GFA), instead of one person per 10 sqm of GFA. During this period, retail establishments should cancel all events and promotions that will result in crowding at their physical premises in a manner which is non-compliant with the SMMs. 
+        
+        c.	The operating capacity of Commercial Family Entertainment Centres must be kept to a maximum of one person per 16 sqm of usable space or25% operating capacity, whichever is lower. 
+        
+        d.	Indoor “mask-off” services and activities must cease. This includes dine-in F&B establishments, strenuous indoor exercise class or strenuous individual and group indoor sports and exercise activities. Personalised services which require masks to be removed (e.g. facials, saunas, make-up services), singing, and the playing of instruments that require intentional expulsion of air (e.g. wind or brass instruments) will also not be allowed. These restrictions will not apply to medical and dental consultations that require patients to have their masks removed.
+        
+        e.	Since 15 July 2021, it has been mandatory for establishments providing personal care services (e.g. facial and nail services, spas/saunas, massage establishments, hairdressing, and make-up services) to place all employees on a regular Fast and Easy Testing (FET) regime using tests such as antigen rapid test (ART), regardless of their vaccination status. 
+        
+          - This includes both part-time and full-time employees, as well as third-party contracted staff (e.g. cleaners) who work at the establishments. Business owners and store managers who work at the workplace must also undergo FET. Individuals who have recovered from a COVID-19 infection in the past 270 days are exempted from the FET Requirement. Establishments can refer to the following Gobusiness portal link for more details.
+          - From 22 July though 18 August 2021, employees placed on the mandatory FET regime will not be required to conduct FET if their business has ceased operations during the return Phase 2 (Heightened Alert). Businesses (originally providing mask-off services such as facials, spas/saunas and make-up services) that continue to remain open for sale of products or other services must continue to place their employees on the regular 14-day FET regime. Such regular FET will continue to be made free of charge during this period.
+
+    - title: How can supermarket manage queues now that the measures may result in more people buying groceries to cook at home?
+      content: |
+        Supermarket retailers should implement other crowd management measures (e.g. limiting the number of shoppers within the store at any one time) to ensure that one metre spacing can be maintained between shoppers. They would also need to limit groups of customers entering the store to no more than 2 persons, as well as maintain orderly queues in-store, and at entrance to store.
+        
+        Supermarkets are also encouraged to provide dedicated shopping hours for vulnerable groups, such as the elderly, persons with disabilities and pregnant women. This can help to reduce intermingling to better protect those who are more vulnerable to COVID-19.
+
+    - title: Are game arcades permitted to continue operations?
+      content: |
+        Yes, they can remain open. However, operators must practise safe management and safe distancing measures, including adhering to the occupancy limit of one person per 16 sqm of Gloss Floor Area (GFA) or 25% of operating capacity, whichever is lower. They must ensure that common touchpoints are disinfected frequently.
+
+    - title: Are playgrounds/ indoor playgrounds permitted to open? 
+      content: |
+        Common play areas for children/toddlers/infants in retail stores or malls can remain open. Operators of these play areas must ensure at least one-metre spacing between groups of customers.
+
+    - title: Are beauty services permitted to continue operations?
+      content: |
+        Beauty services and/or activities that require customers to remove their masks must cease from 22 July through 18 August 2021. These include beauty services and/or activities offered at retail outlets.
+        
+        Examples of such services include facial treatments, saunas, makeup services and portions of threading and facial grooming services, which require customers’ masks to be removed.
+
+    - title: Are massage/spa services permitted to continue operations?
+      content: |
+        Massage services are still allowed to operate within private rooms. However, customers will need to have their masks on at all times.
+
+    - title: Are TCM patients allowed to take off their masks during their consultation? 
+      content: |
+        Patients of licensed Traditional Chinese Medicine (TCM) practitioners are allowed to remove their masks during their consultation/treatment, if required. They must wear their masks as soon as their consultation/treatment is complete.
 
 
 
