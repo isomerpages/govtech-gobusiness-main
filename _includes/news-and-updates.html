@@ -77,7 +77,7 @@
         {% endif %}
         padding--lg resources">
         <div>
-          <small class="has-text-white padding--bottom">{{ post.permalink | remove:'/news-and-media/' | split: '/' |
+          <small class="has-text-white padding--bottom">{{ post.permalink | remove:'/news-and-updates/' | split: '/' |
             first | join: '' | replace: '-', ' ' | upcase
             }}</small>
           <h4 class="has-text-white padding--bottom--lg">{{ post.title }}</h4>
