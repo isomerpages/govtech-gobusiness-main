@@ -1,5 +1,5 @@
 ---
-title: LFSuite Version 6.0 - Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)
+title: LFSuite Version 6.0- Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution1149
 ---
 
@@ -9,7 +9,7 @@ Optimize your F&B business productivity and operational efficiency with DinePlan
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_20200321_Annex_3_Part_89.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_89.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
