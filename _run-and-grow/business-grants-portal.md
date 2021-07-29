@@ -21,6 +21,7 @@ Currently on BGP, you can apply for:
 - [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
 - [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
 - [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
+- [Electric Vehicle Common Charger Grant](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/ev_common_charger_grant.html){:target="_blank"}
 
 You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
