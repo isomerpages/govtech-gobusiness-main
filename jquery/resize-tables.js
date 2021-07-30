@@ -21,7 +21,7 @@ const customTables = [
   },
   {
     path: "/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
-    columns: ["12%", "70%", "auto"],
+    columns: ["32%", "auto"],
   },
   
 ];
