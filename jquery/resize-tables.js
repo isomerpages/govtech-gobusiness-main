@@ -19,11 +19,6 @@ const customTables = [
     path: "/licensing-faqs/food-stall-licence/",
     columns: ["12%", "70%", "auto"],
   },
-  {
-    path: "/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
-    columns: ["32%", "auto"],
-  },
-  
 ];
 
 $(document).ready(function () {
