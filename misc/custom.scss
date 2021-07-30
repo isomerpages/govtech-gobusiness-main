@@ -822,20 +822,16 @@ div#webchat-container {
   font-family: 'hknova-regular';
 }
 
+// General Paragraphs
 div#webchat-container > div > div > div:nth-child(2) div,
 div#webchat-container > div > div > div:nth-child(2) p
 {
   font-family: 'hknova-regular';
   font-size: 14px;
-  line-height: 1.06rem;
+  line-height: 1.25rem;
 }
 
-div#webchat-container > div > div > div:nth-child(2) > div > div {
-  font-family: unset;
-  font-size: 20px;
-  line-height: 35px;
-} 
-
+// List styles
 div#webchat-container ul {
   list-style-type: disc;
   list-style-position: outside;
@@ -843,6 +839,50 @@ div#webchat-container ul {
   li {
     font-family: 'hknova-regular';
     font-size: 14px;
-    line-height: 1.06rem;
+    line-height: 1.25rem;
   }
+}
+
+// Chatbot responses
+div#webchat-container > div > div > div:nth-child(2) > div > div {
+  font-family: unset;
+  font-size: 20px;
+  line-height: 35px;
+} 
+
+// User's responses
+div#webchat-container div[direction="row-reverse"] > div > div > span {
+  font-family: 'hknova-regular';
+  font-size: 14px;
+  line-height: 1.25rem;
+}
+
+// Card and titles
+div#webchat-container .kxXLiI, 
+div#webchat-container .duZRnn, 
+div#webchat-container .liDYoY {
+  font-family: 'hknova-semibold' !important;
+  font-size: 14px !important;
+  line-height: 1.25rem !important;
+}
+
+// Card button
+div#webchat-container button.sc-cSHVUG {
+  background-color: #fafdfd;
+}
+
+// Chatbot frame title
+.sc-iwsKbI.jHlcrJ > div {
+  position: relative;
+
+  p {
+    position: relative;
+    &.sc-gZMcBi.kIqhcI {
+      top: 6px;
+    }
+    &.sc-gqjmRU.dyvkkp {
+      bottom: 6px;
+    }
+  }
+  
 }
