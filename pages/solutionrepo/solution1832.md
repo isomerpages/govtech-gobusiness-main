@@ -43,5 +43,5 @@ Up to 80% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Contact Information<br><br>Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: joey.jiang@mercer.com<br>Contact Number: 63982800
+Contact Information<br><br>Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: laura.lim@mercer.com<br>Contact Number: 63982800
 

@@ -12,6 +12,10 @@ The solution is able to comply with the revised MAS 610 regulatory reporting req
 
 Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
 
+### Sector Specialisation
+
+HINK 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
