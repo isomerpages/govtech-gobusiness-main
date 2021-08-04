@@ -6,6 +6,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution173
 ### Description
 
 Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
+For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
 
 ### Details of Solution
 
