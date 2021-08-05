@@ -1,8 +1,8 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
+  "<b>[Attention: System Maintenance]</b> e-Advisers for Business Structure and Starting a Business will be unavailable due to scheduled maintenance on 5 Aug 2021 from 4pm to 6pm. We apologise for the inconvenience caused.",
   "<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
-  //"<b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href='https://go.gov.sg/corporate-login'>go.gov.sg/corporate-login</a>",
 ];
 
 // Do not edit the following code
