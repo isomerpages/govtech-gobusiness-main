@@ -57,7 +57,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 - [Apply for long-term visit pass (LTVP)](https://www.mom.gov.sg/eservices/services/ep-online){:target="_blank"}
   <br>Apply for the LTVP on behalf of your employee. The LTVP is for a common-law spouse, step-child or handicapped child of an Employment Pass or S Pass holder.
 
-- [Apply for rior approval to recruit non-traditional source workers in conservancy schemes](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/wp_appln_for_nts_workers.pdf){:target="_blank"}
+- [Apply for prior approval to recruit non-traditional source workers in conservancy schemes](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/wp_appln_for_nts_workers.pdf){:target="_blank"}
   <br>Application form for prior approval to recruit workers from Thailand, Philippines, India, Sri Lanka, Bangladesh, Myanmar for conservancy schemes.
 
 - [Security bond for foreign workers (domestic & non-domestic)](http://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/fw_sb_form.pdf){:target="_blank"}
