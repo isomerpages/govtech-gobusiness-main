@@ -1,37 +1,40 @@
 - accordion:
   letter: b
   data:
-    - title: What are the latest requirements for marriage solemnizations and wedding receptions given the heightened situation?
+    - title: What are the latest requirements for marriage solemnizations and wedding receptions?
       content: |
-        From Thursday, 22 July 2021, the updated safe management measures for marriage solemnizations and wedding receptions are as follows:  
+        The updated safe management measures for marriage solemnizations and wedding receptions are as follows:  
 
-        ||**From 22 July 2021 to 18 August 2021**|
-        |**Wedding Solemnizations**||
-        |Home|Up to 10 attendees|
-        |ROM/M Building|Up to 10 attendees|
-        |External venues|- Up to 50 attendees (no Pre-Event Test (PET) requirement); <br/>- From 51 to 100 attendees, PET required for all attendees<sup>*</sup><br/>- Group size of up to 2 persons|
-        |**Wedding Receptions**||
-        |Home and ROM/M Building|Not allowed|
-        |External venues|- Up to 100 attendees, PET required for all attendees<sup>*</sup>; <br/>- Group size of up to 5 persons|
+        ||**From 10 August 2021 to 18 August 2021**|**From 19 August 2021 onwards** <br> *(subject to change)*|
+        |**Wedding Solemnizations**|||
+        |Home|Up to 10 attendees or up to 5 visitors (whichever is higher)|Up to 10 attendees or up to 5 visitors (whichever is higher)|
+        |ROM/M Building|Up to 10 attendees|Up to 10 attendees|
+        |External venues| - Up to 50 attendees (no Pre-Event Test (PET) requirement);<br> - From 51 to 500 attendees, PET required for all attendees unless the attendee has a cleared status <br> - Group size of up to 5 attendees| - Up to 50 attendees (no PET requirement); <br> -	From 51 to 1,000 attendees, PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees|
+        |**Wedding Receptions**|||
+        |Home and ROM/M Building|Not allowed|Not allowed|
+        |External venues (Excluding Places of Worship)| - Up to 250 attendees, with PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees| - Up to 250 attendees, with PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees|
         
-        <sup>*</sup> Note: Where PET is required, it means that entry checks must be implemented to ensure that every attendee is fully vaccinated, recovered or has tested negative for COVID-19.
+        <sup>1</sup> Where PET is required, it means that checks must be implemented to ensure that every attendee has a cleared status.
+        “Cleared status” refer to (i) Fully vaccinated (an individual is considered fully vaccinated two weeks after he or she has received the full regimen of the Pfizer-BioNTech/Comirnaty or Moderna vaccines currently administered under the National Vaccination Programme, or World Health Organisation’s Emergency Use Listing (WHO EUL) vaccines); or (ii) Recovered from COVID-19 and can provide a valid PET exemption notice for the duration of the event; or (iii) Has a valid negative Pre-Event Test (PET) result for the duration of the event.
 
-        These limits include the couple, but exclude the Licensed Solemnizer, and any other vendors engaged to provide authorised services for the wedding event.
-        All marriage Solemnizations and wedding receptions continue to be subject to the prevailing safe management measures, such as zonal/time slot requirements and safe distancing rules. Please refer to the requirements [here](/safemanagement/sector/){:target="_blank"}. All wedding guests must strictly abide by the safe management measures, and in particular maintain social distancing and avoid mingling with others beyond their own table. Given their higher vulnerability, we also strongly discourage unvaccinated individuals from attending such events until they are fully vaccinated.
+        These limits include the couple, but exclude the Licensed Solemnizer and any other vendors engaged to provide authorised services for the wedding event.  
+        
+        Children aged 12 years and below (i.e. born in and after 2009), who are currently not eligible for vaccinations under the National Vaccination Programme, should not make up more than 20% of the total attendance. This applies to marriage solemnizations with more than 50 attendees or wedding receptions (regardless of the number of attendees). These children seated within the groups of 5 attendees must be from the same household.
+        
+        All marriage solemnizations and wedding receptions continue to be subject to the prevailing safe management measures, such as zonal/time slot requirements and safe distancing rules, and prevailing group size of up to 5 people. Please refer to the requirements [here](https://covid.gobusiness.gov.sg/safemanagement/sector/). All wedding guests must strictly abide by the safe management measures, and in particular, maintain social distancing and avoid mingling with others beyond their own table. 
 
-        Organisers must ensure that before entering the event, all attendees must take their temperature; and must check in to the event using TraceTogether-only SafeEntry. The venue owner/ operator or organisers should have a unique QR code for the event space, e.g. hotel ballroom or private room in a restaurant.
-
-        For more information on SafeEntry, please refer to the link [here](/safemanagement/safeentry/){:target="_blank"}.
-
+        When attending marriage solemnizations with more than 50 attendees and wedding receptions (regardless of the number of attendees), all children aged 12 years and below seated in the same groups of up to 5 attendees must be from the same household.
+        
+        Organisers must ensure that before entering the event, all attendees must take their temperature; and must check in to the event using TraceTogether-only SafeEntry. TraceTogether, the SEBizApp or HealthHub can be used to check the vaccination and PET status of attendees.  The venue owner/operator or organisers should have a unique QR code for the event space, e.g. hotel ballroom or private room in a restaurant.
+        
+        For more information on SafeEntry, please refer to the link [here](https://www.gobusiness.gov.sg/safemanagement/safeentry/).
+        
         For more information on Pre-Event Test (PET), please refer to MOH’s guidelines at [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} and section III for FAQs on PET requirements related to marriage solemnizations and wedding receptions.
+
 
     - title: Why are measures changed so often?
       content: |
-        The Multi-Ministry Taskforce (MTF) has been closely monitoring the local and global COVID-19 situation. In view of the growing local clusters and the need to minimise the likelihood of large cluster formations, we will scale down event sizes and lower the event size caps. Hence, the community safe management measures will therefore be further tightened by going back to Phase 2 (Heightened Alert).  We acknowledge that wedding couples have faced significant uncertainties over their wedding plans. Hence, as a special provision, wedding receptions will be allowed to continue with some adjustments. We will continue to monitor the evolving COVID-19 situation, however should there be further tightening, couples should be prepared to adjust their plans accordingly.
-
-    - title: My wedding is after 18 Aug 2021 (e.g. 21 Aug 2021), can I proceed to plan for my wedding reception and how many guests can I invite?
-      content: |
-        These safe management measures are based on the current situation. The Government will monitor the situation closely, and review the measures accordingly. Couples and wedding organisers can take reference from the prevailing measures and should be prepared that the measures may change at any point of time, given the dynamic COVID-19 situation.
+        The Multi-Ministry Taskforce (MTF) has been closely monitoring the local and global COVID-19 situation, and will continue to calibrate the resumption of more economic and community related activities. However, should there be further tightening, couples should be prepared to adjust their plans accordingly.
 
 - accordion:
   letter: c
@@ -42,17 +45,15 @@
 
     - title: Are vendors (e.g. photographers, videographers) part of the attendee limit?
       content: |
-        Vendors engaged to provide authorised services for the solemnization are excluded from the attendance limit for your solemnization but should be kept to a minimum. (Vendors who are also invited guests are part of the attendee limit).
+        Vendors engaged to provide authorised services for the marriage solemnization or wedding reception are excluded from the attendance limit for these events but should be kept to a minimum. (Vendors who are also invited guests are part of the attendee limit).
 
-    - title: Can the bride and groom remove face masks for the solemnization ceremony? Can the bride and groom use face shields in place of face masks? Can the rest of the attendees be unmasked for photo-taking?
+    - title: Can the bride and groom remove face masks for the solemnization ceremony or wedding reception? Can the bride and groom use face shields in place of face masks? Can the rest of the attendees be unmasked for photo-taking?
       content: |
-        The bride and groom must use face masks or face shields throughout the solemnization event. They may remove their masks and/or face shields for key moments of the solemnization, which includes the exchanging of vows, rings, to kiss and during march-ins/outs. However, the bride and groom must maintain a 2-metre distance from the rest of the attendees of the solemnization whenever masks and face shields are removed.
+        The bride and groom must use face masks or face shields throughout the marriage solemnization or wedding reception event. They may remove their masks and/or face shields for key moments of the solemnization or reception, which includes the exchanging of vows, rings, to kiss and during march-ins/outs. However, the bride and groom must maintain a 2-metre distance from the rest of the attendees of the marriage solemnization or wedding reception whenever masks and face shields are removed.
 
-        All other attendees must wear their masks throughout the solemnization process<sup>1</sup>, even for photo-taking.
+        All other attendees must wear their masks throughout the solemnization process or wedding reception , but masks may be removed momentarily for photo-taking and must be worn immediately after.
 
-        On the use of masks and face shield, please refer to the latest guidelines [here](https://www.moh.gov.sg/news-highlights/details/guidance-for-use-of-masks-and-face-shields){:target="_blank"}.
-
-        <sup>1</sup> Children aged twelve years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time, may wear a face shield as indicated in MOH’s Advisory of 1 Jun 2020 (“Guidance for Use of Masks and Face Shields”)
+        On the use of masks and face shield, please refer to the latest guidelines [here](https:/www.moh.gov.sg/news-highlights/details/guidance-for-use-of-masks-and-face-shields){:target="_blank"}.
 
     - title: How long can our solemnization ceremony last?
       content: |
@@ -62,53 +63,71 @@
       content: |
         Pre-wedding photo shoots must adhere to IMDA’s Mandatory Safety Rules for the Resumption of Content Production. Please check directly with the wedding photographer on the Safe Management Measures that must be adhered to.
 
-    - title: What are the guidelines for the attendance limit of home Solemnizations, if I have more than 10 residents in my household?
+    - title: What are the guidelines for the attendance limit of home solemnizations, if I have more than 10 residents in my household?
       content: |
-        For marriage Solemnizations held in a place of residence, the maximum number of attendees for the home solemnization must not exceed 10 persons. This limit includes the couple and members of hosting household, but excludes the Licensed Solemnizer and vendors engaged to provide authorised services for the solemnization.
+        For marriage solemnizations held in a place of residence, the maximum number of attendees for the home solemnization must not exceed 10 attendees or 5 visitors in addition to the members of hosting household, whichever is higher. This limit includes the couple, but excludes the Licensed Solemnizer and vendors engaged to provide authorised services for the solemnization.
 
-        For example, if there are 6 persons currently living in your household, the 6 residents and an additional 4 visitors can attend a solemnization in your home. The total of 10 persons counts the wedding couple but excludes the Solemnizer and vendors. Or if you live alone, you and 9 other persons, including the wedding couple, can attend a solemnization in your home, excluding the Solemnizer and vendors.
+        For example, if there are 6 attendees currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 attendees counts the wedding couple but excludes the Solemnizer and vendors. Or if you live alone, you and 9 other attendees, including the wedding couple, can attend a solemnization in your home, excluding the Solemnizer and vendors.
 
-        If a place of residence has 2 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence.
+        If a place of residence has 5 or more visitors attending a home solemnization (as guests or vendors), then the individual must not accept any more visitors that day to his or her place of residence.
 
         For the safety of all who are attending your home solemnization, please ensure that you and your guests comply with the following measures:
 
-        - All guests must wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead of masks for the duration of the solemnization., and may remove their face shields/masks for key moments such as to exchange vows, rings, to kiss and during march-ins/ outs. Other guests must maintain a 2-metre distance from the bride and groom when they are unmasked.
+        - All guests must wear masks for the duration of the solemnization. The bride and groom may choose to wear face shields instead of masks for the duration of the solemnization, and may remove their face shields/masks for key moments such as to exchange vows, rings, to kiss and during march-ins/ outs. Other guests must maintain a 2-metre distance from the bride and groom when they are unmasked. 
 
-        - For all other attendees, masks / face shields should be retained throughout the event, even for photo-taking.
+        - The bride, groom, and guests may remove their masks momentarily for photo-taking and must wear their masks immediately after the photos are taken.
 
     - title: Can I provide takeaway food after the solemnization ceremony?
       content: |
-        No food or drinks are to be supplied or consumed in the room or place during a solemnization event. Takeaway food may be provided only after the solemnization ceremony is over, and must not be consumed at the solemnization venue. Once the solemnization ceremony is over, social gatherings cannot exceed 2 individuals and organisers of a solemnization should ensure that guests do not crowd around or outside the event venue to consume their takeaway food.
+        No food or drinks are to be supplied or consumed in the room or place during a solemnization event. Takeaway food may be provided only after the solemnization ceremony is over, and must not be consumed at the solemnization venue. Once the solemnization ceremony is over, social gatherings cannot exceed 5 individuals and organisers of a solemnization should ensure that guests do not crowd around or outside the event venue to consume their takeaway food.
 
         Organisers of a solemnization must ensure that requirements for solemnization events are not breached. Rather than providing food for takeaway, you may wish to consider providing other tokens of appreciation such as vouchers or non-food gifts.
 
         If there is a queue for distributing the takeaway food, the enterprise providing the takeaway must ensure that there is at least 1m safe distancing between individuals in the queue.
+
+    - title: Can I have children as part of my marriage solemnization or wedding reception? 
+      content: |
+        If the wedding reception (regardless of the number of attendees) or marriage solemnization (more than 50 attendees) includes children aged 12 years and below, these children should not make up more than 20% of the overall attendance. These children seated within the groups of 5 attendees must be from the same household.
+
+    - title: Can I have children to be part of the “wedding party” for my wedding reception?
+      content: |
+        Up to five children aged 12 years and below, who are from the same household, may be included in the wedding party. If there are more than 5 children aged 12 years and below in the wedding party, or if there are children from multiple households in the wedding party, then PET should be carried out for all the children.  
 
 - accordion:
   letter: d
   data:
     - title: What is Pre-Event Testing (“PET”)?
       content: |
-        A Pre-event Test refers to a COVID-19 test taken by an attendee who wishes to enter a venue where selected events such as solemnizations or wedding receptions are being held. This attendee must have a valid negative COVID-19 test result 24 hours from the time an individual is registered in-person at the testing premise, before being allowed to enter the venue.
+        A Pre-Event Test refers to a COVID-19 test taken by an attendee who wishes to enter a venue where selected events such as marriage solemnizations or wedding receptions are being held. This attendee must have a valid negative COVID-19 test result 24 hours from the time an individual is registered in-person at the testing premise, before being allowed to enter the venue.
 
     - title: When is PET required for marriage solemnizations and wedding receptions?
       content: |
-        - For solemnizations involving 51 to 100 attendees, PET is required for all attendees (including the wedding couple).
-        - For wedding receptions involving up to 100 attendees, PET is required for all attendees (including the wedding couple).
+        From 10 August to 18 August 2021:
+
+        - For solemnizations involving 51 to 500 attendees, PET is required for all attendees (including the wedding couple)
+        - For wedding receptions involving up to 250 attendees, PET is required for all attendees (including the wedding couple) unless the attendee has a cleared status.
         
-        Marriage solemnizations involving 50 or fewer attendees do not require PET.
+        From 19 August 2021 onwards (subject to change):
         
-        The PET must be done: (i) Before entry to the solemnization or wedding reception; and (ii) At most 24 hours before the end of the event.
+        - For solemnizations involving 51 to 1,000 attendees, PET is required for all attendees (including the wedding couple) unless the attendee has a cleared status.
+        - For wedding receptions involving up to 250 attendees, PET is required for all attendees (including the wedding couple) unless the attendee has a cleared status.
         
-        Organisers of solemnizations and wedding receptions must ensure that PET requirements are met for such events. PET for all events, including solemnizations and receptions, will not be funded by the government; organisers or individuals are responsible for paying for their own tests.
+        The PET must be done: (i) Before entry to the marriage solemnization or wedding reception; and (ii) At most 24 hours before the end of the event.
         
-        Please refer to MOH’s guidelines at [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} for more information on PET.
+        Organisers of marriage solemnizations and wedding receptions must ensure that PET requirements are met for such events. PET for all events, including solemnizations and receptions, will not be funded by the government; organisers or individuals are responsible for paying for their own tests.
+        Please refer to MOH’s guidelines at [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} for more information on PET, including information on individuals who are exempted from PET.
         
-        All marriage solemnizations and wedding receptions will continue to be subject to the prevailing safe management measures, such as zonal/ time slot requirements and safe distancing rules.
+        All marriage solemnizations and wedding receptions will continue to be subject to the prevailing safe management measures, such as zonal/time slot requirements and safe distancing rules.
 
     - title: What would exempt me/my guests from PET?
       content: |
-        Please refer to MOH’s guidelines at [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} for more information on PET and acceptable exemption notices that must be shown to the organiser of the wedding reception and or solemnization to be allowed entry. Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET on [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} for further details.
+        Only fully vaccinated attendees and recovered attendees from a COVID-19 infection may be exempted from PET. Fully vaccinated attendees are those individuals who have received the full two-dose regimen of  Pfizer-BioNTech/Comirnatry or Moderna vaccines, or completed the appropriate regimen for World Health Organisation’s Emergency Use Listing (WHO EUL) vaccines and had their vaccination records ingested into MOH’s national vaccination IT systems). TraceTogether, the SEBizApp or HealthHub can be used to check the vaccination status of attendees.  
+        
+        Children aged 12 years and below, who are not eligible for vaccines currently under the National Vaccination Programme, are also exempt from PET (subject to an overall attendance cap of 20% of total attendees).  
+        
+        Please refer to MOH’s guidelines at go.gov.sg/pet for more updated information on individuals who are exempted from PET and acceptable exemption notices that must be shwn to the organiser of the wedding reception and or marriage solemnization to be allowed entry. 
+        
+        Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET on [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"} for further details on verification of vaccination status of individuals.
 
     - title: What is considered an acceptable proof of test result for attendees requiring PET?
       content: |
@@ -128,25 +147,25 @@
 
     - title: Do vendors (e.g. hotel staff, caterers, photographers) or Solemnizers need to undergo PET?
       content: |
-        No, unless the vendor or Solemnizer is also a guest of the solemnization or wedding reception (e.g. sits down at a table like other guests).
+        Unless the vendors or Solemnizer are also guests of the marriage solemnization or wedding reception (e.g. sits down at a table like other guests), there is no need to arrange PET for the vendors or Solemnizer.  However, some vendors, such as F&B staff in restaurants, may be under a separate Fast & Easy Test (FET) regime. 
 
-    - title: With PET, can we relax some of the safe management measures e.g. mask-wearing, intermingling, and allowing attendees to cross zones?
+    - title: With PET, can we relax some of the safe management measures, e.g. mask-wearing, intermingling, and allowing attendees to cross zones?
       content: |
-        No, PET does not replace the need for safe management measures. PET serves to reduce the probability of an infected person entering the venue. If an infected person tests antigen negative (i.e. false negative) and attends the solemnization or wedding reception, safe management measures will reduce the likelihood of him/ her transmitting the virus to other people at the event and sparking off a large cluster of infections. Both PET and safe management measures serve to further minimise the risk of spread and protect you and your loved ones.
+        No, PET does not replace the need for safe management measures. PET serves to reduce the probability of an infected person entering the venue. In addition, whilst vaccination reduces the chances that a person is infected, it does not eliminate it.  If an infected person tests antigen negative (i.e. false negative), or a vaccinated person is actually infected, and either attends the solemnization or wedding reception, safe management measures will reduce the likelihood of him/ her transmitting the virus to other people at the event and sparking off a large cluster of infections. Together, vaccination, PET and safe management measures serve to further minimise the risk of spread and protect you and your loved ones.
 
     - title: If most of my guests have been vaccinated, can we do away with Pre-Event Testing (PET) and Safe Management Measures?
       content: |
-        Attendees who have been fully vaccinated and have a valid cleared status will not have to undergo PET. But entry checks are required for all attendees at entry and PET is needed for those who are not vaccinated. In addition, all attendees, whether vaccinated or not, will still need to adhere to safe management measures to protect unvaccinated individuals should any of the attendees be infected with COVID-19 despite the precautions taken.
+        Attendees who have cleared status will not have to undergo PET. But entry checks are required for all attendees at entry and PET is needed for those who do not have cleared statuses. In addition, all attendees, whether with cleared statuses or not, will still need to adhere to safe management measures to protect unvaccinated individuals, should any of the attendees be infected with COVID-19 despite the precautions taken.
 
     - title: Can the bride and groom choose not to cross zones for marriage solemnizations, and hence not require PET to have a marriage solemnization involving more than 50 attendees?
       content: |
-        No. If the marriage solemnization involves more than 50 attendees, all attendees must undergo PET.
+        No. If the marriage solemnization involves more than 50 attendees, all attendees must undergo PET, unless the attendee has a cleared status.
 
     - title: Is PET required for all attendees of wedding receptions with less than 50 attendees, if it adopts staggered timings? Why can’t it be required only for the wedding couple or wedding party who are allowed to attend multiple timeslots?
       content: |
-        Yes, from 22 July 2021, PET is required for all attendees of wedding receptions, even if staggered timing is adopted. While PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free.
+        Yes, PET is required for all attendees of wedding receptions, unless the attendee has a cleared status, even if staggered timing is adopted. While vaccination, PET and safe management measures serve to reduce the risk of transmissions, it is not risk-free.
 
-    - title: For marriage solemnizations involving more than 50 attendees, can the wedding party who had undergone PET and be allowed to cross zones?
+    - title: For marriage solemnizations involving more than 50 attendees, can the wedding party who had undergone PET be allowed to cross zones?
       content: |
         No, the wedding party, even if tested, will not be allowed to cross zones. While PET serves to reduce the probability of an infected person attending the event, there remains a risk of false negative results where an infected person tests antigen negative and attends the wedding. Safe management measures, such as limiting the crossing of zones, reduce the likelihood of such cases transmitting the virus to other people at the event and sparking off a large cluster of infections.
 
@@ -157,19 +176,22 @@
 - accordion:
   letter: e
   data:
-    - title: If we opt for solemnization via video link, what is the limit to the number of guests in the same venue? Can the bride, groom, witnesses and guests be in the same venue? 
+    - title: If we opt for solemnization via video link, what is the limit to the number of guests in the same venue? Can the bride, groom, witnesses and guests be in the same venue?
       content: |
-        For solemnizations via video-link, the prevailing home visit guidelines should be adhered to (i.e. up to 2 visitors to a home per day). The bride, groom, witnesses, and guests can be in the same location if they belong to the same household or if they are within the prevailing home visit guidelines (i.e. up to 2 visitors to a home per day). Other guests exceeding the 2 visitors allowed may wish to join in through video-link instead. Such processes through video-link ensures marriage solemnizations take place in a safe manner.
+        For solemnizations via video-link, the prevailing home visit guidelines should be adhered to (i.e. up to 5 visitors to a home per day). The bride, groom, witnesses, and guests can be in the same location if they belong to the same household or if they are within the prevailing home visit guidelines (i.e. up to 5 visitors to a home per day). Other guests exceeding the 5 visitors allowed may wish to join in through video-link instead. Such processes through video-link ensures marriage solemnizations take place in a safe manner.
 
 - accordion:
   letter: f
   data:
-    - title: What are the attendance caps if I hold my solemnization is immediately followed by a wedding reception?
+    - title: What are the attendance caps if I hold my solemnization immediately followed by a wedding reception?
       content: |
-        Solemnizations are capped at 50 attendees (PET not required), or 100 attendees (PET required for all attendees). Attendee limits include the bride and groom, and exclude the solemnizer and vendors.
+        From 10 to 18 August 2021, solemnizations are capped at 50 attendees (PET not required), or 500 attendees from 10 August to 18 August 2021 (PET required for all attendees, unless the attendee has a cleared status) 
         
-        -	If the wedding reception is held in the same room or space as the solemnization without any break in between, the entire event will be considered a wedding reception and be subject to the wedding reception safe management measures including attendance limits, i.e. up to 100 persons (PET required for all attendees). Attendee limits include the bride and groom, and exclude the solemnizer and vendors.
-
+        From 19 August 2021 onwards (subject to change), solemnizations are capped at 50 attendees (PET not required), or 1,000 attendees (PET required for all attendees, unless the attendee has a cleared status). 
+        
+        Attendee limits include the bride and groom, and exclude the Solemnizer and vendors.
+        
+        -	If the wedding reception is held in the same room or space as the solemnization without any break in between, the entire event will be considered a wedding reception and be subject to the wedding reception safe management measures including attendance limits, i.e. up to 250 attendees (PET required for all attendees, unless the attendee has a cleared status). Attendee limits include the bride and groom, and exclude the Solemnizer and vendors.
         -	If organisers intend to hold separate solemnization and wedding reception events at the same venue, you are advised to have a reasonably long break between the two events. This will provide time to vacate and sanitise the venue after the first event and will also prevent interactions between the two sets of guests who are leaving or entering the venue.
 
     - title: Can I perform other cultural rites such as the tea ceremony during the reception?
@@ -178,7 +200,7 @@
 
     - title: Can we have our tea ceremony at the solemnization venue?
       content: |
-        Food and drink are not allowed during solemnization events. The tea ceremony may be held before or after the solemnization but must comply with requirements such as the social gathering size limit of 2 persons or the cap of 2 visitors a day to a place of residence. Nonetheless, the tea ceremony can be held as part of a wedding reception, amongst the “wedding party”, comprising the wedding couple and up to 18 other attendees, subject to safe management measures for wedding receptions.
+        Food and drinks are not allowed during solemnization events. The tea ceremony may be held before or after the solemnization but must comply with requirements such as the social gathering size limit of 5 persons or the cap of 5 visitors a day to a place of residence. Nonetheless, the tea ceremony can be held as part of a wedding reception, amongst the “wedding party”, comprising the wedding couple and up to 18 other attendees, subject to safe management measures for wedding receptions.
 
     - title: Can we do our pre-wedding photo shoots on a separate day from our solemnization?
       content: |
@@ -186,19 +208,19 @@
 
     - title: Can we hire a photographer to take photos of my wedding dinner/reception, and can the photographer take photos of guests at each table by adhering to the 1-metre distancing?
       content: |
-        Yes, you can hire a photographer to take photos of the wedding reception. A 1-metre distance between the photographer and the subject(s) of photography must be maintained at all times. There must also be no intermingling between the wedding party and guests (i.e. table-to-table photos should be avoided). Masks must be kept on for photo-taking.
+        Yes, you can hire a photographer to take photos of the wedding reception. A 1-metre distance between the photographer and the subject(s) of photography must be maintained at all times. There must also be no intermingling between the wedding party and guests (i.e. table-to-table photos should be avoided). Masks may be removed momentarily for photo-taking, and must be worn immediately after the photos are taken. 
 
-    - title: Can the bride and groom stand/ sit on the stage and take photos with the wedding party of 20?
+    - title: Can the bride and groom stand/sit on the stage and take photos with the wedding party of 20?
       content: |
-        Yes, they can mingle and take photos with one another within the wedding party of 20 persons (including the bride and groom). For photo-taking, at least 1-metre safe distancing must be observed between the wedding party and other groups, as well as between groups, at all times.
+        Yes, they can mingle and take photos with one another within the wedding party of 20 attendees (including the bride and groom). For photo-taking, at least 1-metre safe distancing must be observed between the wedding party and other groups, as well as between groups, at all times.
 
     - title: Can we play video screenings and/or projections of our wedding photos during the reception?
       content: |
         Yes, you can. However, there must be no activities involving live singing, cheering, loud toasting or shouting, or dancing during the reception.
 
-    - title: Can weddings that are up to 20 pax be considered a wedding party where the hosts and guests are allowed to interact as a group?
+    - title: Can weddings that are up to 20 attendees be considered a wedding party where the hosts and guests are allowed to interact as a group?
       content: |
-        Yes, if the event size is kept at 20 attendees throughout the entire wedding reception. PET would be required for all 20 attendees, including the wedding couple.
+        Yes, if the event size is kept at 20 attendees throughout the entire wedding reception. PET would be required for all 20 attendees, including the wedding couple, unless the attendee has a cleared status.
 
     - title: If I have a small wedding reception now, can I have another reception should the limits be increased subsequently?
       content: |
@@ -220,7 +242,7 @@
 
     - title: Is a food line able to be set-up with safe distancing queues and served by the servers at hand?
       content: |
-        Food lines are not permitted at wedding events. At receptions, guests are to be served seated at their tables, instead of queuing at the food lines. This is to minimise mingling/ crowding, and to reduce interaction amongst different groups of guests. Organisers can offer individually plated or packaged food, and should avoid shared platters or dishes. For solemnizations, food and beverages are strictly not allowed.
+        Food lines are not permitted at wedding events. At wedding receptions, guests are to be served seated at their tables, instead of queuing at the food lines. This is to minimise mingling/crowding, and to reduce interaction amongst different groups of guests. Organisers can offer individually plated or packaged food, and should avoid shared platters or dishes. For marriage solemnizations, food and beverages are strictly not allowed.
 
     - title: Is onsite cooking allowed at my wedding reception?
       content: |
@@ -237,23 +259,23 @@
       content: |
         If the venue permits, you may have multiple time slots subject to the overall attendance of the entire event comprising the multiple time slots being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 pax, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
 
-        Guests must be assigned to one time slot only, and can only be present in their assigned time slot. Only the “wedding party” (up to 20 pax) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests i.e. a 1 metre safe distance between these groups must be observed.
+        Guests must be assigned to one time slot only, and can only be present in their assigned time slot. Only the “wedding party” (up to 20 pax) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests, i.e. a 1 metre safe distance between these groups must be observed.
 
         Venue operators may impose shorter time limits as they deem fit, based on their capacity or ability to ensure safe management measures are implemented.
 
     - title: Why is the wedding party allowed to remain for each time slot in a staggered timing arrangement, but not allowed to cross zones in a zoning arrangement?
       content: |
-        Both arrangements adhere to the safety principle that there should be no more than 50 persons at one place (zone) at one time (time slot). Within each zone or timeslot, there must similarly be no intermingling and mixing between the wedding party and other groups of guests or between groups of guests. In a zoning arrangement, only the wedding couple is allowed to cross zones briefly (e.g. to take photos).
+        Both arrangements adhere to the safety principle that there should be no more than 50 attendees at one place (zone) at one time (time slot). Within each zone or timeslot, there must similarly be no intermingling and mixing between the wedding party and other groups of guests or between groups of guests. In a zoning arrangement, only the wedding couple is allowed to cross zones briefly (e.g. to take photos).
+        
+        In a staggered timing arrangement, the wedding party is allowed to remain in each timeslot as it is the only way for them to host the wedding throughout the entire event. However, like the physical zoning arrangement, the wedding party must not be intermingling with other groups, and prevailing safe distancing rules, i.e. 1m distance between groups, must be observed. Additional safety measures must be taken such as requiring a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted.
 
-        In a staggered timing arrangement, the wedding party is allowed to remain in each timeslot as it is the only way for them to host the wedding throughout the entire event. However, like the physical zoning arrangement, the wedding party must not be intermingling with other groups, and prevailing safe distancing rules i.e. 1m distance between groups, must be observed. Additional safety measures must be taken such as requiring a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted.
-
-    - title: Is the wedding party included in the 50-per-zone cap?
+    - title: Is the wedding party included in the 50-per-zone cap?Yes. There must be no more than 50 people in each zone, and each attendee (including the wedding party) must be assigned to only one zone. Couples may choose to configure the zones in a way that allows the wedding couple/party to access ‘central areas’, such as the aisle and the stage. Regardless of the number and configuration of zones, entering an unassigned zone is not allowed, except for the wedding couple who may do so briefly, e.g. to take photos.
       content: |
         Yes. There must be no more than 50 people in each zone, and each attendee (including the wedding party) must be assigned to only one zone. Couples may choose to configure the zones in a way that allows the wedding couple/party to access ‘central areas’, such as the aisle and the stage. Regardless of the number and configuration of zones, entering unassigned zones, except for the wedding couple who may do so briefly e.g. to take photos.
 
     - title: Can I split my wedding party across zones?
       content: |
-        Yes. However, once the wedding party is split across zones, they can no longer enter other unassigned zones or interact with other members of the wedding party that are in separate zones during the event. There is an exception for the wedding couple, who may cross zones briefly e.g. to take photos, but at least 1m safe distancing must be observed between the couple and other groups, as well as between groups, at all times, including for photo-taking.
+        Yes. However, once the wedding party is split across zones, they can no longer enter other unassigned zones or interact with other members of the wedding party that are in separate zones during the event. There is an exception for the wedding couple, who may cross zones briefly, e.g. to take photos, but at least 1m safe distancing must be observed between the couple and other groups, as well as between groups, at all times, including for photo-taking.
 
     - title: Can the wedding party cross zones?
       content: |
@@ -265,9 +287,9 @@
 
     - title: Can I split my reception into lunch and dinner at the same venue on the same day?
       content: |
-        Yes. You may split your reception into lunch and dinner if it is at the same venue and entire event is completed within a day. This is subject to the overall attendance of the entire event being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 pax, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
-
-        Guests can only arrive and leave in their scheduled timeslot. Only the wedding party (up to 20 pax) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests i.e. a 1 metre distance between these groups must be observed.
+        Yes. You may split your reception into lunch and dinner if it is at the same venue and the entire event is completed within a day. This is subject to the overall attendance of the entire event being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 pax, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
+        
+        Guests can only arrive and leave in their scheduled timeslot. Only the wedding party (up to 20 pax) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests, i.e. a 1 metre distance between these groups must be observed.
 
         Venue operators may impose shorter time limits as they deem fit, based on their capacity or ability to ensure safe management measures are implemented.
 
@@ -283,17 +305,17 @@
       content: |
         No. Couples can only hold one reception, which limits the total risk exposure. Even in a staggered timing arrangement, the entire reception must be completed within the same day.
 
-    - title: My wedding venue is large enough to accommodate more than 100 attendees for marriage solemnization or wedding receptions with appropriate safe distancing between groups of 2 (for solemnization) and 5 (for wedding reception), is zoning of 50 still necessary?
+    - title: My wedding venue is large enough to accommodate more than 500 or 1,000 attendees for marriage solemnization or 250 attendees for wedding receptions with appropriate safe distancing between groups of 5, is zoning of 50 still necessary?
       content: |
-        Yes. Regardless of venue, the number of people in each zone is capped at 50 attendees. All attendees are to be assigned one zone only and entering an unassigned zone is not allowed. This is to minimise participants’ total risk exposure and the risk of bunching at common areas including entrances and exits. Organisers are to ensure at least 3m distance between zones with the use of physical barriers e.g. queue poles, or use a solid partition of 1.8 metres or taller between zones. Organisers must also undertake measures to avoid guests crossing between zones. Arrangements must also be made to ensure attendees from different zones do not meet each other at entrances or exits. For instance, organisers could deploy ushers at the entrances and exits of each zone.
+        Yes. Regardless of venue, the number of people in each zone is capped at 50 attendees. All attendees are to be assigned one zone only and entering an unassigned zone is not allowed. This is to minimise participants’ total risk exposure and the risk of bunching at common areas including entrances and exits. Organisers are to ensure at least 3m distance between zones with the use of physical barriers, e.g. queue poles, or use a solid partition of 1.8 metres or taller between zones. Organisers must also undertake measures to avoid guests crossing between zones. Arrangements must also be made to ensure attendees from different zones do not meet each other at entrances or exits. For instance, organisers could deploy ushers at the entrances and exits of each zone.
 
     - title: What are the requirements/guidelines for cleaning and disinfection during the intervals between time slots?
       content: |
-        There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space and other common areas must be conducted. Before the start of each time slot and where applicable, the venue owner/ operator or organisers must clean and disinfect function spaces, common facilities (e.g. toilets), tables and chairs before and after use, including high-touch areas such as handrails, door handles, lift buttons, etc. It is a good practice for the venue owner/ operator or organisers to provide disinfecting agents like hand sanitisers, disinfectant sprays, wipes, etc. for attendees and staff at common or high-touch areas.
+        There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space and other common areas must be conducted. Before the start of each time slot and where applicable, the venue owner/operator or organisers must clean and disinfect function spaces, common facilities (e.g. toilets), tables and chairs before and after use, including high-touch areas such as handrails, door handles, lift buttons, etc. It is a good practice for the venue owner/operator or organisers to provide disinfecting agents like hand sanitisers, disinfectant sprays, wipes, etc., for attendees and staff at common or high-touch areas.
 
     - title: Are common areas such as toilets subject to zonal restrictions?
       content: |
-        Organisers are encouraged to designate specific common areas and facilities to specific zones. If this is not possible, organisers should identify hotspots e.g. entry/ exit points, washrooms, corridors, etc. for potential bunching and implement a control mechanism to prevent/ disperse crowds e.g. staggered entrances and exits. This could include the deployment of Safety Ambassadors to remind attendees against clustering and loitering in common areas. Where possible, common surfaces should be wiped down after each use.
+        Organisers are encouraged to designate specific common areas and facilities to specific zones. If this is not possible, organisers should identify hotspots, e.g. entry/exit points, washrooms, corridors, etc., for potential bunching and implement a control mechanism to prevent/disperse crowds, e.g. staggered entrances and exits. This could include the deployment of Safety Ambassadors to remind attendees against clustering and loitering in common areas. Where possible, common surfaces should be wiped down after each use.
 
     - title: If the wedding party is only part of one zone, does it mean they cannot take photos with guests from the other zone?
       content: |

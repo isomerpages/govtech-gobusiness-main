@@ -4,7 +4,7 @@ permalink: /covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-r
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Marriage Solemnization and Receptions [Updated as of 30 July 2021]
+### Marriage Solemnization and Receptions [Updated as of 8 Aug 2021]
 
 #### I. Latest COVID-19 Situation
 
