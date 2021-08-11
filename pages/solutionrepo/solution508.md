@@ -9,7 +9,7 @@ Sage 300 is an ERP solution which automates and connects the various work proces
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityPriceAnnex3_CR12August2021-_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

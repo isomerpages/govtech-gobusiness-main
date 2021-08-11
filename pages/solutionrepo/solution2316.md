@@ -1,17 +1,15 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package B (2 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution1154
+title: SHOPLINE e-Commerce Solution - Advanced Ecommerce (PRO) + Digital Marketing (Basic)
+permalink: /productivity-solutions-grant/solutionrepo/solution2316
 ---
 
 ### Description
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
-
-Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
+SHOPLINE provides extensive e-commerce support: inventory management, payment and logistics services, and marketing and CRM tools. We also provide analytics and reports and connect to a variety of digital marketing tools and platforms so that merchants can visualize their performance. Apart from online services, SHOPLINE offers an effective omni-channel retail solution for merchants to build a digital customer experience on top of their physical business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Rockbell International Software Pte Ltd <br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+Web URL: www.shoplineapp.sg <br>Contact Hotline: 93855186 <br>Contact Email: support.sg@shoplineapp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
