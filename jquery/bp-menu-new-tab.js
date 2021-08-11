@@ -3,7 +3,7 @@
 
 const listOfLinks = [
   "Start Business",
-  "Business Grants",
+  "Business Grants Portal",
   "Covid-19",
   "Licences and Permits",
   "For new food service business owners",

@@ -1,12 +1,11 @@
 ---
 title: Claims
-permalink: /business-grants-faqs/claims/
+permalink: /business-grants-portal-faq/claims/
 third_nav_title: Post-Application
-published: false
 ---
 
 ### Claims
 
 {% include accordion.html accordions=site.data.acc008-claims.accordion %}
 
-[Back to Business Grants Overview](/business-grants-portal/)
+[Back to Business Grants Portal Overview](/business-grants-portal/)
