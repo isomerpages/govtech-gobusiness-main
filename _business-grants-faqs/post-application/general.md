@@ -1,12 +1,11 @@
 ---
 title: General
-permalink: /business-grants-faqs/general/
+permalink: /business-grants-portal-faq/general/
 third_nav_title: Post-Application
-published: false
 ---
 
 ### General
 
 {% include accordion.html accordions=site.data.acc009-general.accordion %}
 
-[Back to Business Grants Overview](/business-grants-portal/)
+[Back to Business Grants Portal Overview](/business-grants-portal/)

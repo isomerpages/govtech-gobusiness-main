@@ -1,5 +1,5 @@
 collections:
-  business-grants-faqs:
+  business-grants-portal-faq:
     output: true
     order:
       - general/.keep

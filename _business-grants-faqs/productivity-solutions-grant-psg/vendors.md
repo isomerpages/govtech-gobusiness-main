@@ -1,12 +1,11 @@
 ---
 title: Vendors
-permalink: /business-grants-faqs/psg-vendors/
+permalink: /business-grants-portal-faq/psg-vendors/
 third_nav_title: Productivity Solutions Grant (PSG)
-published: false
 ---
 
 ### Vendors
 
 {% include accordion.html accordions=site.data.acc012-vendors.accordion %}
 
-[Back to Business Grants Overview](/business-grants-portal/)
+[Back to Business Grants Portal Overview](/business-grants-portal/)
