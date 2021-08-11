@@ -2,7 +2,6 @@
 title: Claims
 permalink: /business-grants-portal-faq/claims/
 third_nav_title: Post-Application
-published: false
 ---
 
 ### Claims

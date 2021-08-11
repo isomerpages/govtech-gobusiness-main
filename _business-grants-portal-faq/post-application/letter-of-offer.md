@@ -2,7 +2,6 @@
 title: Letter Of Offer
 permalink: /business-grants-portal-faq/letter-of-offer/
 third_nav_title: Post-Application
-published: false
 ---
 
 ### Letter Of Offer

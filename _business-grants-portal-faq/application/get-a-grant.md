@@ -2,7 +2,6 @@
 title: Get a Grant
 permalink: /business-grants-portal-faq/get-a-grant/
 third_nav_title: Application
-published: false
 ---
 
 ### Get a Grant

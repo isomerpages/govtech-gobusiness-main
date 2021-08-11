@@ -2,7 +2,6 @@
 title: General
 permalink: /business-grants-portal-faq/general/
 third_nav_title: Post-Application
-published: false
 ---
 
 ### General

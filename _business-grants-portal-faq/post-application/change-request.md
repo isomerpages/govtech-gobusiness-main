@@ -2,7 +2,6 @@
 title: Change Request
 permalink: /business-grants-portal-faq/change-request/
 third_nav_title: Post-Application
-published: false
 ---
 
 ### Change Request
