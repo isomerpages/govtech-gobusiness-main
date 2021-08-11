@@ -11,7 +11,7 @@ Million Accounting supports Multi-Company and Multi-Currency and has four module
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200199_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedRockbellMillionStockAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

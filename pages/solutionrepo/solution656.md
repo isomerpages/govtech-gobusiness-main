@@ -10,7 +10,7 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Technology_LLP_20200127_Annex_3_20200625143944_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
