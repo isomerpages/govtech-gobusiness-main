@@ -1,15 +1,17 @@
 ---
-title: AdeptForms - Document Management Solution Version 1 - Package B (Up to 8 users)
-permalink: /productivity-solutions-grant/solutionrepo/solution2249
+title: cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 150 Users
+permalink: /productivity-solutions-grant/solutionrepo/solution2321
 ---
 
 ### Description
 
-Document management is a module to help the users digitize and manage their digital forms or documents via AdeptForms web or mobile application.
+cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing.
+
+The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact Email: contact@adeptforms.com <br>
+Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
