@@ -1,7 +1,7 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
-  //"<b>[Attention: System Maintenance]</b> e-Advisers for Business Structure and Starting a Business will be unavailable due to scheduled maintenance on 5 Aug 2021 from 4pm to 6pm. We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 13 Aug 2021 8pm to 14 Aug 2021 8am. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
   "<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
 ];
 
