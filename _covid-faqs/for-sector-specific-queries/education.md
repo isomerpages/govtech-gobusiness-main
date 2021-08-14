@@ -4,7 +4,7 @@ permalink: /covid-faqs/for-sector-specific-queries/education
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Education [last updates 8 Aug 2021]
+### Education [last updated 13 Aug 2021]
 
 {% include accordion.html accordions=site.data.acc097-education.accordion %}
 
