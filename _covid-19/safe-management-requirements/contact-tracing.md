@@ -96,11 +96,12 @@ To better support contact tracing efforts involving street-hail trips, all taxi 
 
 For avoidance of doubt, all permitted enterprises and event organisers, must still adhere strictly to the other safe management measures, e.g. safe distancing.
 
-<sup>1</sup> This includes event organisers who are not enterprises and who organise events such as  funerals, weddings and solemnisations.
-<sup>2</sup> This list will be updated as more activities and services resume.
-<sup>3</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.
-<sup>4</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.
-<sup>5</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.
+<sup>1</sup> This includes event organisers who are not enterprises and who organise events such as  funerals, weddings and solemnisations.<br>
+<sup>2</sup> This list will be updated as more activities and services resume.<br>
+<sup>3</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
+<sup>4</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
+<sup>5</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
+
 ---
 
 ### 2. SafeEntry Gateway
@@ -166,12 +167,13 @@ Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Busi
 
 In order to facilitate more precise contact tracing efforts, businesses are encouraged to facilitate check-out for their customers, clients and visitors. Businesses may do so by toggling to the SEGW check-out function within the SafeEntry (Business) App or by deploying the SafeEntry Gateway Check-Out Boxes<sup>11</sup>. Businesses need not enforce checking out but should encourage customers to do so as much as possible.
 
-<sup>6</sup> This is with the exception of venues that were earlier required to deploy the SEGW by 19 April 2021.
-<sup>7</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.
-<sup>8</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.
-<sup>9</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.
-<sup>10</sup> Selected museums will be informed by the National Heritage Board (NHB) 
-<sup>11</sup> The distribution of SEGW Check-Out Boxes is prioritised to venues with higher throughput of visitors, and places where people are likely to be in close proximity for prolonged periods with their masks off. Eligible businesses will be notified via email and SMS and receive the Check-Out Box via delivery. 
+<sup>6</sup> This is with the exception of venues that were earlier required to deploy the SEGW by 19 April 2021.<br>
+<sup>7</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
+<sup>8</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
+<sup>9</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
+<sup>10</sup> Selected museums will be informed by the National Heritage Board (NHB) <br>
+<sup>11</sup> The distribution of SEGW Check-Out Boxes is prioritised to venues with higher throughput of visitors, and places where people are likely to be in close proximity for prolonged periods with their masks off. Eligible businesses will be notified via email and SMS and receive the Check-Out Box via delivery. <br>
+
 ---
 
 ### 3. TraceTogether
