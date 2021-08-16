@@ -26,7 +26,7 @@ Using this system allows businesses to verify user identity with data from Gover
 
 From 17 May 2021, all workplaces that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of their employees and contractors in order to meet the safe management measures required by the law.
 
-The following list of venues must also institute TraceTogether-only SafeEntry check-in for customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.<sup>2</sup>
+The following list of venues must also institute TraceTogether-only SafeEntry check-in for customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law<sup>2</sup>:
 
   - Solemnisations and weddings
 
