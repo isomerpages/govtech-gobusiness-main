@@ -6,10 +6,9 @@ third_nav_title: Safe Management Requirements
 
 ## Contact tracing
 
-All permitted enterprises are subject to the following requirements for the implementation of SafeEntry, pursuant to Regulation 10(b) or otherwise of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (“Control Order”). Failure to comply with these requirements may result in a breach of the Control Order, for which upon conviction of a first offence the penalty is a fine of up to a maximum of $10,000, imprisonment of up to a maximum of 6 months, or both.
+All permitted enterprises and event organiser<sup>1</sup> are subject to the following requirements for the implementation of SafeEntry, pursuant to Regulation 10(b) or otherwise of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (“Control Order”). Failure to comply with these requirements may result in a breach of the Control Order, for which upon conviction of a first offence the penalty is a fine of up to a maximum of $10,000, imprisonment of up to a maximum of 6 months, or both.
 
-Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises are advised to stand ready to adapt entry arrangements at their premises to new methods if they want to be confident in meeting statutory requirements.
-
+Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises and event organisers are advised to stand ready to adapt entry arrangements at their premises to new methods if they want to be confident in meeting statutory requirements.
 
 ### 1. SafeEntry
 
@@ -23,45 +22,71 @@ SafeEntry is the name of the national digital visitor registration system that l
 -	Displaying one’s TT Token so that a venue staff can scan the TT Token’s QR code
 -	Tapping one’s TT App or TT Token at a SafeEntry Gateway device
 
-Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise.  
-From 17 May 2021, all businesses and services that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law.<sup>1</sup>
+Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise. SafeEntry by only the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contact tracing for the purpose of meeting the safe management measures required by the law, save in circumstances where certain particular methods are required pursuant to specific restrictions or conditions. 
 
-- Solemnisations and weddings
-- Funeral events
-- Funerary memorial events 
-- Funeral parlours with wake halls 
-- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
-- Retail, personal and food & beverage (F&B) services
-  - Malls
-  - Supermarkets<sup>2</sup>
-  - Large retail outlets (> 930 sqm or 10,000 sqft)
-  - F&B outlets for dine-in customers
-  - Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
-  - Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres
-  - Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
-  - Showrooms
-- Cultural and entertainment venues
-  - Libraries
-  - Museums, exhibitions
-  - Cinemas 
-  - Ticketed attractions
-  - Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres
-- Event venues e.g. function halls/ rooms, event lawns
-- Places of worship
-- Construction and marine process worksites
-- Hotels and hostels
-- Schools and educational institutes
-- Preschools and student care centres
-- Tuition and enrichment and training centres 
-- Other training/ class venues
-  - Outdoor exercise classes
-  - Sports and fitness centres, including gyms, studios
-- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities
-- Country and recreation clubs
-- Registered premises of other member clubs/societies
-- Banks and financial institutions
-- Cruises
-- Government public service centres 
+From 17 May 2021, all workplaces that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of their employees and contractors in order to meet the safe management measures required by the law.
+
+The following list of venues must also institute TraceTogether-only SafeEntry check-in for customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law<sup>2</sup>:
+
+  - Solemnisations and weddings
+
+  -	Funeral events
+
+  -	Funerary memorial events 
+
+  -	Funeral parlours with wake halls 
+
+  -	Schools and educational institutes
+
+  -	Preschools and student care centres
+
+  -	Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities 
+
+  -	Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities
+
+  -	Vaccination centres, regional swab centres, quick test centres
+
+  -	Places of worship
+
+  -	Hotels and hostels
+
+  -	Banks and financial institutions
+
+  -	Retail, personal and food & beverage (F&B) services<Br>
+    a. Malls<Br>
+    b. Supermarkets<sup>3</sup><br>
+    c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>4</sup><br>
+    d. F&B outlets for dine-in customers<br>
+    e. Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<Br>
+    f. Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
+    g. Showrooms<Br>
+
+-	Wet markets and hawker centres<sup>5</sup>
+
+-	Tuition and enrichment and training centres 
+
+-	Other training/ class venues<br>
+  a. Outdoor exercise classes<br>
+  b. Sports and fitness centres, including gyms, studios<Br>
+
+-	Country and recreation clubs
+
+-	Registered premises of other member clubs/societies
+
+-	Cultural and entertainment venues<br>
+  a. Libraries<br>
+  b. Museums, exhibitions<br>
+  c. Cinemas <br>
+  d. Ticketed attractions<br>
+  e. Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
+
+-	MICE event venues (e.g. convention centres)
+
+-	Government public service centres 
+
+-	Construction and marine process worksites
+
+-	Cruises
 
 Smaller retail outlets (i.e. ≤ 930sqm or 10,000sqft) where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops are not required to implement SafeEntry for customers. Those that have voluntarily done so, should remove their SafeEntry check-ins.
 
@@ -69,63 +94,85 @@ For large office buildings that have multiple floors and/or house different busi
 
 To better support contact tracing efforts involving street-hail trips, all taxi commuters should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
 
-For avoidance of doubt, all permitted enterprises, must still adhere strictly to the other safe management measures, e.g. safe distancing.
+For avoidance of doubt, all permitted enterprises and event organisers, must still adhere strictly to the other safe management measures, e.g. safe distancing.
 
-
-<sup>1</sup> This list will be updated as more activities and services are resumed.
-
-<sup>2</sup> From 17 May 2021, supermarkets and large retail outlets that are fully within malls and buildings covered by SafeEntry and have the same operating hours, will no longer be required to implement SafeEntry for customers, clients and visitors.
+<sup>1</sup> This includes event organisers who are not enterprises and who organise events such as  funerals, weddings and solemnisations.<br>
+<sup>2</sup> This list will be updated as more activities and services resume.<br>
+<sup>3</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
+<sup>4</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
+<sup>5</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
 
 ---
 
 ### 2. SafeEntry Gateway
 
-SafeEntry Gateway will be introduced as an additional mode of SafeEntry check-in.
+SafeEntry Gateway will be introduced as an additional mode of SafeEntry check-in. 
 
 The SafeEntry Gateway enables contactless detection of both the TraceTogether App and Token, and serves as an additional means of SE check-in that is quicker and more seamless. It also allows users to check if their Token has run out of battery or is not working.
 
 The SafeEntry Gateway is available both as a physical device and as an app function in the existing SafeEntry (Business) App. Both the device and app function by detecting Bluetooth signals from the TraceTogether App and TraceTogether Token for SafeEntry check-in. Visitors may bring their mobile phone with the TraceTogether App in the foreground or the TraceTogether Token close to the Gateway to check in. If the check-in is successful, the SafeEntry Gateway device will emit a green light and a beep sound to indicate a successful check-in, while the SafeEntry (Business) App will have a pop-out screen for a successful check-in.
 
-By 15 June 2021<sup>3</sup>, the following public-facing venues are required to deploy SafeEntry Gateway at their main entrances as an additional check-in mode to log the check-in of customers, clients and visitors:
+By 15 June 2021<sup>6</sup>, the following public-facing venues are required to deploy SafeEntry Gateway at their main entrances as an additional check-in mode to log the check-in of customers, clients and visitors:
 
 - Funeral parlours with wake halls
+
 - Schools and educational institutions
-- Preschools and student care centres
-- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities 
-- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities    
+
+- Preschools and student care centres 
+
+- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
+
+- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities  
+
+- Vaccination centres, regional swab centres, quick test centres
+
 - Places of worship 
+
 - Hotels and hostels
+
 - Retail bank branches and insurers with customer-facing locations
-- Retail, personal and food & beverage (F&B) services
-  - Malls 
-  - Supermarkets<sup>4</sup>
-  - Large retail outlets (> 930 sqm or 10,000 sqft)1
-  - F&B outlets for dine-in customers
-  - Personal care services e.g. hairdressers, barbers, spas, beauty and wellness
-  - Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
-  - Selected popular wet markets (Geylang Serai Market, Block 104 / 105 Yishun Ring Road (Chong Pang Market), Block 20/21 Marsiling Lane, and Block 505 Jurong West Street 52)
-  - Showrooms
-- Tuition and enrichment and training centres 
-- Other training/ class venues 
-  - Sports and fitness centres, including gyms, studios
-- Country and recreation clubs
-- Registered premises of other member clubs/societies
-- Cultural and entertainment venues 
-  - Libraries
-  - Selected museums, heritage institutions and galleries<sup>5</sup>
-  - Cinemas
-  - Ticketed attractions 
-  - Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres  
-- MICE event venues (hotels/convention centres with events for >100pax)
-- Government public service centres
+
+- Retail, personal and food & beverage (F&B) services<Br>
+  a. Malls<Br>
+  b. Supermarkets<sup>7</sup><Br>
+  c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>8</sup><Br>
+  d. F&B outlets for dine-in customers<br>
+  e. Personal care services e.g. hairdressers, barbers, spas, beauty and wellness<br>
+  f. Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
+  g. Showrooms<br>
+
+-	Wet markets and hawker centres<sup>9</sup>
+
+-	Tuition and enrichment and training centres 
+
+-	Other training/ class venues<Br>
+  a. Sports and fitness centres, including gyms, studios<br>
+
+-	Country and recreation clubs
+
+-	Registered premises of other member clubs/societies
+
+-	Cultural and entertainment venues<br>
+  a. Libraries<br>
+  b. Selected public and private museums, heritage institutions and galleries<sup>10</sup><br>
+  c. Cinemas<br>
+  d. Ticketed attractions<br>
+  e. Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
+
+-	MICE event venues (e.g. convention centres)
+
+-	Government public service centres 
 
 Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Business) App based on their business needs.
 
-<sup>3</sup> This is with the exception of venues that were earlier required to deploy the SEGW by 19 April 2021.
+In order to facilitate more precise contact tracing efforts, businesses are encouraged to facilitate check-out for their customers, clients and visitors. Businesses may do so by toggling to the SEGW check-out function within the SafeEntry (Business) App or by deploying the SafeEntry Gateway Check-Out Boxes<sup>11</sup>. Businesses need not enforce checking out but should encourage customers to do so as much as possible.
 
-<sup>4</sup> From 17 May 2021, supermarkets and large retail outlets that are fully within malls and buildings covered by SafeEntry and have the same operating hours, will no longer be required to implement SafeEntry for customers, clients and visitors, and therefore would also not be required to deploy SafeEntry Gateways.
-
-<sup>5</sup> Selected museums will be informed by the National Heritage Board (NHB) 
+<sup>6</sup> This is with the exception of venues that were earlier required to deploy the SEGW by 19 April 2021.<br>
+<sup>7</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
+<sup>8</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
+<sup>9</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
+<sup>10</sup> Selected museums will be informed by the National Heritage Board (NHB) <br>
+<sup>11</sup> The distribution of SEGW Check-Out Boxes is prioritised to venues with higher throughput of visitors, and places where people are likely to be in close proximity for prolonged periods with their masks off. Eligible businesses will be notified via email and SMS and receive the Check-Out Box via delivery. <br>
 
 ---
 
