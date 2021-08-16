@@ -54,7 +54,7 @@ The following list of venues must also institute TraceTogether-only SafeEntry ch
 
   -	Retail, personal and food & beverage (F&B) services<Br>
     a. Malls<Br>
-    b. Supermarkets<sup>3</sup>
+    b. Supermarkets<sup>3</sup><br>
     c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>4</sup><br>
     d. F&B outlets for dine-in customers<br>
     e. Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<Br>
