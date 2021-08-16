@@ -52,33 +52,33 @@ The following list of venues must also institute TraceTogether-only SafeEntry ch
 
   -	Banks and financial institutions
 
-  -	Retail, personal and food & beverage (F&B) services
-    -	Malls
+  -	Retail, personal and food & beverage (F&B) services<Br>
+    -	Malls<Br>
     -	Supermarkets<sup>3</sup>
-    -	Large retail outlets (> 930 sqm or 10,000 sqft)<sup>4</sup>
-    -	F&B outlets for dine-in customers
-    -	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres
-    -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
-    - Showrooms
+    -	Large retail outlets (> 930 sqm or 10,000 sqft)<sup>4</sup><br>
+    -	F&B outlets for dine-in customers<br>
+    -	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<Br>
+    -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
+    - Showrooms<Br>
 
   -	Wet markets and hawker centres<sup>5</sup>
 
   -	Tuition and enrichment and training centres 
 
-  -	Other training/ class venues
-    -	Outdoor exercise classes
-    -	Sports and fitness centres, including gyms, studios
+  -	Other training/ class venues<br>
+    -	Outdoor exercise classes<br>
+    -	Sports and fitness centres, including gyms, studios<Br>
 
 -	Country and recreation clubs
 
 -	Registered premises of other member clubs/societies
 
--	Cultural and entertainment venues
-  -	Libraries
-  -	Museums, exhibitions
-  -	Cinemas 
-  -	Ticketed attractions
-  -	Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres
+-	Cultural and entertainment venues<br>
+  -	Libraries<br>
+  -	Museums, exhibitions<br>
+  -	Cinemas <br>
+  -	Ticketed attractions<br>
+  -	Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
 
 -	MICE event venues (e.g. convention centres)
 
@@ -132,32 +132,32 @@ By 15 June 2021<sup>6</sup>, the following public-facing venues are required to 
 
 - Retail bank branches and insurers with customer-facing locations
 
-- Retail, personal and food & beverage (F&B) services
-  -	Malls 
-  -	Supermarkets<sup>7</sup>
-  -	Large retail outlets (> 930 sqm or 10,000 sqft)<sup>8</sup>
-  -	F&B outlets for dine-in customers
-  -	Personal care services e.g. hairdressers, barbers, spas, beauty and wellness
-  -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
-  -	Showrooms
+- Retail, personal and food & beverage (F&B) services<Br>
+  -	Malls<Br>
+  -	Supermarkets<sup>7</sup><Br>
+  -	Large retail outlets (> 930 sqm or 10,000 sqft)<sup>8</sup><Br>
+  -	F&B outlets for dine-in customers<br>
+  -	Personal care services e.g. hairdressers, barbers, spas, beauty and wellness<br>
+  -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
+  -	Showrooms<br>
 
 -	Wet markets and hawker centres<sup>9</sup>
 
 -	Tuition and enrichment and training centres 
 
--	Other training/ class venues 
-  -	Sports and fitness centres, including gyms, studios
+-	Other training/ class venues<Br>
+  -	Sports and fitness centres, including gyms, studios<br>
 
 -	Country and recreation clubs
 
 -	Registered premises of other member clubs/societies
 
--	Cultural and entertainment venues 
-  -	Libraries
-  -	Selected public and private museums, heritage institutions and galleries<sup>10</sup>
-  -	Cinemas
-  -	Ticketed attractions 
-  -	Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres  
+-	Cultural and entertainment venues<br>
+  -	Libraries<br>
+  -	Selected public and private museums, heritage institutions and galleries<sup>10</sup><br>
+  -	Cinemas<br>
+  -	Ticketed attractions<br>
+  -	Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
 
 -	MICE event venues (e.g. convention centres)
 
