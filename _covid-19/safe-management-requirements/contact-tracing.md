@@ -41,6 +41,7 @@ The following list of venues must also institute TraceTogether-only SafeEntry ch
 -	Hotels and hostels
 -	Banks and financial institutions
 -	Retail, personal and food & beverage (F&B) services
+
   -	Malls
   -	Supermarkets<sup>3</sup>
   -	Large retail outlets (> 930 sqm or 10,000 sqft)<sup>4</sup>
@@ -48,19 +49,24 @@ The following list of venues must also institute TraceTogether-only SafeEntry ch
   -	Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres
   -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
   - Showrooms
+
 -	Wet markets and hawker centres<sup>5</sup>
 -	Tuition and enrichment and training centres 
+
 -	Other training/ class venues
   -	Outdoor exercise classes
   -	Sports and fitness centres, including gyms, studios
+
 -	Country and recreation clubs
 -	Registered premises of other member clubs/societies
 -	Cultural and entertainment venues
+
   -	Libraries
   -	Museums, exhibitions
   -	Cinemas 
   -	Ticketed attractions
   -	Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres
+
 -	MICE event venues (e.g. convention centres)
 -	Government public service centres 
 -	Construction and marine process worksites
@@ -91,16 +97,17 @@ The SafeEntry Gateway is available both as a physical device and as an app funct
 
 By 15 June 2021<sup>6</sup>, the following public-facing venues are required to deploy SafeEntry Gateway at their main entrances as an additional check-in mode to log the check-in of customers, clients and visitors:
 
--	Funeral parlours with wake halls
--	Schools and educational institutions
--	Preschools and student care centres 
--	Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
--	Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities    
--	Vaccination centres, regional swab centres, quick test centres
--	Places of worship 
--	Hotels and hostels
--	Retail bank branches and insurers with customer-facing locations
--	Retail, personal and food & beverage (F&B) services
+- Funeral parlours with wake halls
+- Schools and educational institutions
+- Preschools and student care centres 
+- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
+- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities    
+- Vaccination centres, regional swab centres, quick test centres
+- Places of worship 
+- Hotels and hostels
+- Retail bank branches and insurers with customer-facing locations
+- Retail, personal and food & beverage (F&B) services
+
   -	Malls 
   -	Supermarkets<sup>7</sup>
   -	Large retail outlets (> 930 sqm or 10,000 sqft)<sup>8</sup>
@@ -108,18 +115,23 @@ By 15 June 2021<sup>6</sup>, the following public-facing venues are required to 
   -	Personal care services e.g. hairdressers, barbers, spas, beauty and wellness
   -	Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)
   -	Showrooms
+
 -	Wet markets and hawker centres<sup>9</sup>
 -	Tuition and enrichment and training centres 
 -	Other training/ class venues 
+
   -	Sports and fitness centres, including gyms, studios
+
 -	Country and recreation clubs
 -	Registered premises of other member clubs/societies
 -	Cultural and entertainment venues 
+
   -	Libraries
   -	Selected public and private museums, heritage institutions and galleries<sup>10</sup>
   -	Cinemas
   -	Ticketed attractions 
   -	Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres  
+
 -	MICE event venues (e.g. convention centres)
 -	Government public service centres 
 
