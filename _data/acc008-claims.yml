@@ -3,7 +3,7 @@ accordion:
     content: |
       You can submit claims for the Productivity Solutions Grant (PSG), Market Readiness Assistance (MRA) and the Business Improvement Fund (BIF) in the Business Grants Portal.
 
-      For the Enterprise Development Grant (EDG), you can submit your claims through the [ESG Portal](https://grantportal.enterprisesg.gov.sg/spring/pages/login.aspx){:target="_blank"}.
+      For the Enterprise Development Grant (EDG), you can submit your claims through the [ESG Portal](https://grantportal.enterprisesg.gov.sg/spring/pages/login.aspx){:target="_blank"}{:rel="noopener"}.
 
   - title: How can I extend the claim due date?
     content: |

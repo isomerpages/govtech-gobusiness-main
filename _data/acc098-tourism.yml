@@ -1,18 +1,18 @@
 - accordion:
   letter: a
   data:
-    - title: Are staycations allowed?  
+    - title: Are staycations allowed?
       content: |
-        Hotels may apply to STB to provide accommodation to guests for the purposes of leisure (e.g. staycations). Any hotel that wishes to apply must comply with the safe management measures required for hotels. Please refer to the advisory for [hotels](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"} for the full list of requirements.
+        Hotels may apply to STB to provide accommodation to guests for the purposes of leisure (e.g. staycations). Any hotel that wishes to apply must comply with the safe management measures required for hotels. Please refer to the advisory for [hotels](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}{:rel="noopener"} for the full list of requirements.
 
-        Hotels must submit their application to STB for assessment. Hotels may provide accommodation to guests for the purposes of leisure and related marketing efforts only after receiving approval from MTI. The list of approved hotels can be found at [https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}
+        Hotels must submit their application to STB for assessment. Hotels may provide accommodation to guests for the purposes of leisure and related marketing efforts only after receiving approval from MTI. The list of approved hotels can be found at [https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html](https://www.stb.gov.sg/content/stb/en/home-pages/permitted-tourism-businesses.html){:target="_blank"}{:rel="noopener"}
 
-    - title: Can Hotels allow their venues to be used to conduct events?  
+    - title: Can Hotels allow their venues to be used to conduct events?
       content: |
         Yes, Hotels may allow their venues to be used to conduct events, subject to national and sector-specific Safe Management Measures.
 
-        - Marriage Solemnisations are to be capped at a group size of ≤ 50 persons without pre-event testing (PET) implemented, and ≤250 persons with PET implemented. Vendors and premises staff should be kept to the minimum required. No F&B reception is allowed during solemnisations. Wedding receptions are not permitted. For information on PET, please refer to the [PET microsite](https:/www.moh.gov.sg/covid-19/pet){:target="_blank"}.
-        **<u>From mid-July 2021:</u>** Wedding receptions are to be capped at a group size ≤100 attendees (including wedding couple but excluding vendors) with PET required for all attendees. For wedding receptions of ≤50 attendees, PET is required only for all members of the wedding party (of ≤20 attendees including the wedding couple). Vendors and premises staff should be kept to the minimum required. For information on PET, please refer to the [PET microsite](https:/www.moh.gov.sg/covid-19/pet){:target="_blank"}.
+        - Marriage Solemnisations are to be capped at a group size of ≤ 50 persons without pre-event testing (PET) implemented, and ≤250 persons with PET implemented. Vendors and premises staff should be kept to the minimum required. No F&B reception is allowed during solemnisations. Wedding receptions are not permitted. For information on PET, please refer to the [PET microsite](https:/www.moh.gov.sg/covid-19/pet){:target="_blank"}{:rel="noopener"}.
+        **<u>From mid-July 2021:</u>** Wedding receptions are to be capped at a group size ≤100 attendees (including wedding couple but excluding vendors) with PET required for all attendees. For wedding receptions of ≤50 attendees, PET is required only for all members of the wedding party (of ≤20 attendees including the wedding couple). Vendors and premises staff should be kept to the minimum required. For information on PET, please refer to the [PET microsite](https:/www.moh.gov.sg/covid-19/pet){:target="_blank"}{:rel="noopener"}.
 
         - Classes and training by permitted enterprises conducting an education business must be limited to no more than 50 individuals including the trainer(s). Safe management measures must be implemented, including ensuring at least 1 metre safe distance between all individuals, or if individuals must be less than 1 metre apart, they should be in groups of no more than 5 (including guests and visitors), with at least 1 metre distance between groups. A record of the groups of 5 must be kept for not less than 28 days after the day the record is made. Classes where participants are unmasked are to be suspended. 
         Classes where participants are unmasked and require expulsion of air (e.g. wind and brass instruments, and singing) may resume and must adhere to prevailing guidelines found on NAC’s website.
@@ -21,14 +21,13 @@
 
         - MICE events held in hotels can have ≤250 participants with PET implemented (please see [https://www.moh.gov.sg/covid-19/pet](https://www.moh.gov.sg/covid-19/pet){:target:="_blank"}), or ≤50 participants if PET is not implemented and must comply with the prevailing Sector Specific Requirements for Business Events.
 
-        - Live performances are permitted with ≤250 audience members with PET implemented, and up to 50 persons without PET implemented, and must comply with the prevailing Sector Specific Requirements for live performances. Please refer to latest prevailing guidelines at [https://www.gobusiness.gov.sg/safemanagement/sector/](https://www.gobusiness.gov.sg/safemanagement/sector/){:target="_blank"} (See Section on “Arts and Culture”).
+        - Live performances are permitted with ≤250 audience members with PET implemented, and up to 50 persons without PET implemented, and must comply with the prevailing Sector Specific Requirements for live performances. Please refer to latest prevailing guidelines at [https://www.gobusiness.gov.sg/safemanagement/sector/](https://www.gobusiness.gov.sg/safemanagement/sector/){:target="_blank"}{:rel="noopener"} (See Section on “Arts and Culture”).
 
         \*Individuals exempted from the PET requirement for MICE events include individuals who enter or remain at the event venue solely: 
           - To deliver goods or provide services connected with the event, business, or activity, undertaking work related to the event and carried on within the venue; 
           - To work as a permitted enterprise or permitted enterprise worker, for or with the occupier of the event venue;
           - To render assistance in an emergency at the venue; and 
-          - To execute an order of a court or a direction given by or on behalf of a public officer or a public body in exercise of a power under any written law. 
-
+          - To execute an order of a court or a direction given by or on behalf of a public officer or a public body in exercise of a power under any written law.
 
     - title: Once a hotel has received approval to re-open for staycations, does it have to submit a separate application to re-open other businesses (e.g. F&B, spas, pools, gyms) within its premises?
       content: |
@@ -37,7 +36,7 @@
 - accordion:
   letter: b
   data:
-    - title: What is the pilot Business Travel Pass?  
+    - title: What is the pilot Business Travel Pass?
       content: |
         One of Singapore’s key value propositions is our position as an air and business hub. This includes the ease with which executives based in Singapore can travel around the region for work, to oversee regional operations.
 
@@ -46,7 +45,7 @@
         Hence, we are piloting a Business Travel Pass for senior executives in Singapore with regional or international roles who need to travel regularly for business. We are doing this in a gradual and calibrated manner to manage our public health situation carefully.
 
         -	Travellers with the Business Travel Pass will be required to abide by a strict controlled itinerary when they travel overseas for work. 
-      
+
         -	Before returning to Singapore, they are required to make a health declaration to ensure that they do not have any symptoms and have not encountered anyone infected with COVID-19. 
 
         -	All travellers will be required to present a negative COVID-19 PCR test taken within 72 hours before departure, before they can travel to Singapore.
@@ -57,46 +56,46 @@
 
         These enhanced testing requirements serve to minimise the risk of potential incubating cases leaking into the community.
 
-    - title: Where can the senior executives travel to with the Business Travel Pass?  
+    - title: Where can the senior executives travel to with the Business Travel Pass?
       content: |
         The Business Travel Pass is not country specific and senior executives will be able to travel to a range of countries, subject to the countries’ border requirements. 
-        
+
         Although the Business Travel Pass is not a ‘free-pass’ for travellers to enter various countries, it facilitates the Business Travel Pass holders' return to Singapore, to carry on with their business operations, subject to prevailing border restrictions in Singapore for pass holders. 
-        
+
         Travellers must abide by both the destination’s public health rules, as well as the stringent health protocols in Singapore upon their return. 
-        
+
         If they are found not to have abided by any of the protocols, we will revoke the Business Travel Pass and remove them from the pilot.
 
 - accordion:
   letter: c
   data:
-    - title: What are the eligibility criteria for this travel pass?  
+    - title: What are the eligibility criteria for this travel pass?
       content: |
         The Business Travel Pass is issued to senior executives in Singapore with international or regional responsibilities who travel regularly for official and business purposes, and are progressively issuing the passes. 
-        
+
         -	Approval is given only if we are assured that the individual will comply with the stringent public health requirements and safeguards.
-        
+
         -	We will maintain the ability to revoke the Business Travel Pass if we find that the traveller failed to abide by the stringent health protocols.  
-        
+
         Eligible candidates include senior executives of all nationalities in Singapore. Foreign nationals are required to hold an Employment Pass (EP), EntrePass, Personalised Employment Pass (PEP) or Immigration Exemption Order (IEO). 
-        
+
         Only travellers sponsored by government agencies may submit applications for a Business Travel Pass through their respective sponsoring government agencies.
 
-    - title: Why must applications for the Business Travel Pass be sponsored by government agencies?  
+    - title: Why must applications for the Business Travel Pass be sponsored by government agencies?
       content: |
         Travellers are required to keep close contact with their sponsoring government agencies which allows us to follow up closely with these travellers to determine the public health outcome of the scheme.
-        
+
         Through the government agencies, we will also be able to contact these travellers quickly in the event that we need to adjust parameters of the Business Travel Pass in response to a sudden change in the global epidemiological situation. The travellers will have to immediately adapt to and abide by any change in public health requirements. 
 
         This is critical because public health remains our number one priority as we explore new ways to resume business travel to aid in our economic recovery.
 
-    - title: How can embassies/chambers work with MTI to obtain Business Travel Passes for diplomats/affiliated companies?  
+    - title: How can embassies/chambers work with MTI to obtain Business Travel Passes for diplomats/affiliated companies?
       content: |
         As the initiative is in the pilot phase, there is a tight limit on the number of Business Travel Passes available. Our focus is on monitoring the implementation of the pilot to ensure that public health risk can be managed. This will enable us to assess whether to expand the initiative. 
-        
+
         Regional travel for businesses based in Singapore is important. We want to enable this as much as possible in a safe and sustainable manner, while protecting the health of these travellers and the local community.
-        
-        In the meantime, companies may also wish to consider utilising other available travel lanes for entry into Singapore from applicable countries for business purposes. 
+
+        In the meantime, companies may also wish to consider utilising other available travel lanes for entry into Singapore from applicable countries for business purposes.
 
     - title: When will the pilot Business Travel Pass be open for public application?
       content: |
@@ -109,28 +108,28 @@
 - accordion:
   letter: d
   data:
-    - title: What are the health protocols and safeguards for this travel pass?  
+    - title: What are the health protocols and safeguards for this travel pass?
       content: |
         Travellers on the pilot will be required to submit a controlled itinerary of their meetings and activities while abroad, including the contacts they meet and venues they go to, and must adhere strictly to this controlled itinerary. Travellers who leave Singapore without an approved controlled itinerary, will be subject to the prevailing border measures for non-BTP holders upon their return to Singapore which may include a 21-day SHN at SHN Dedicated Facilities (SDF).
-        
+
         Before returning to Singapore, they are required to make a health declaration to ensure that they do not have any symptoms and have not encountered anyone infected with COVID-19. 
-        
+
         All travellers will be required to present a negative COVID-19 PCR test taken within 72 hours before departure, before they can travel to Singapore. 
-        
+
         Upon arriving in Singapore, they will take an on-arrival PCR test at their own cost and are required to strictly self-isolate until they obtain a negative test result. 
-        
+
         In addition, travellers are required to undergo COVID-19 PCR tests on Days 3, 5, 7, 11, and 14 of their return. A Serology test will also be required on Day 3. These serve as added precautionary measures to capture any possible incubating cases. 
-        
+
         On top of that, travellers are required to use TraceTogether, avoid all forms of public transport within 21 days of return, comply with safe management measures at their workplace and for events and abide by all other prevailing measures applicable to local residents. 
-        
+
         If travellers are found to have breached any of the health protocols stated above, their Business Travel Pass may be revoked and they may face further penalties.
 
-    - title: Why are we allowing travellers to come into Singapore without serving SHN?  
+    - title: Why are we allowing travellers to come into Singapore without serving SHN?
       content: |
         Travellers on the pilot will be screened beforehand. They are also required to comply with stringent public health requirements and additional safeguards. For instance, they are required to submit a controlled itinerary before leaving Singapore and adhere strictly to this itinerary abroad. All travellers will be required to present a negative COVID-19 PCR test taken within 72 hours before departure, before they can travel to Singapore. 
-        
+
         Upon their arrival in Singapore, travellers are required to undergo an on-arrival PCR test in lieu of their SHN requirements and additional PCR and Serology tests on designated days as a precautionary measure to capture any possible incubating cases.   
-        
+
         In order to limit the potential public health risks, we are starting only with a small number of Business Travel Passes during the pilot phase. 
-        
-        We will continue to carefully monitor the global situation and the public health outcomes of this scheme in order to strike a calibrated balance between the safety of the local community and resuming business travel in support of our overall economic recovery. 
+
+        We will continue to carefully monitor the global situation and the public health outcomes of this scheme in order to strike a calibrated balance between the safety of the local community and resuming business travel in support of our overall economic recovery.

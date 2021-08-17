@@ -24,4 +24,5 @@ Corppass will continue to be the one-stop authorisation system for businesses to
 Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners’ app will no longer be used.
 
 ### Learn More
-Read the full FAQ at [Corppass’ website](https://go.gov.sg/corporate-login){:target="_blank"}.
+
+Read the full FAQ at [Corppass’ website](https://go.gov.sg/corporate-login){:target="\_blank"}{:rel="noopener"}.

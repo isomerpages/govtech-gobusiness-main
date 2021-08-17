@@ -3,17 +3,17 @@
   data:
     - title: I am a freelancer and do not have a Singapore Standard Industrial Classification (SSIC) code. How do I know if I can resume service?
       content: |
-        Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. For more information, please refer [here](https://www.acra.gov.sg/how-to-guides/before-you-start/who-must-register){:target="_blank"}.
- 
-        If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016){:target="_blank"} to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations [here](https://www.gobusiness.gov.sg/permittedlist/){:target="_blank"}.
-        
-        Once you have verified that your SSIC code is within the list of permitted services, you can resume your service, subject to the necessary Safe Management Measures [here](https://www.gobusiness.gov.sg/safemanagement/general/){:target="_blank"}.
+        Freelancers have to be registered with ACRA, unless the business is carried out in your full name as reflected in your NRIC. For more information, please refer [here](https://www.acra.gov.sg/how-to-guides/before-you-start/who-must-register){:target="_blank"}{:rel="noopener"}.
+
+        If the business is carried out in your full name as reflected in your NRIC, you can include a description of your business and click [here](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016){:target="_blank"}{:rel="noopener"} to search for the SSIC code which corresponds to the nature of your business activity. Once you have retrieved your SSIC code, please check it against the list of permitted services that can resume operations [here](https://www.gobusiness.gov.sg/permittedlist/){:target="_blank"}{:rel="noopener"}.
+
+        Once you have verified that your SSIC code is within the list of permitted services, you can resume your service, subject to the necessary Safe Management Measures [here](https://www.gobusiness.gov.sg/safemanagement/general/){:target="_blank"}{:rel="noopener"}.
 
     - title: How do I know if my company is allowed to operate?
       content: |
-        Your company is allowed to operate if your company’s activities are in MTI’s list of permitted services [here](https://www.gobusiness.gov.sg/images/covid/Permitted Services (11 May).pdf){:target="_blank"}. Businesses in this list do not need to apply to MTI for exemption before operating.  
+        Your company is allowed to operate if your company’s activities are in MTI’s list of permitted services [here](https://www.gobusiness.gov.sg/images/covid/Permitted Services (11 May).pdf){:target="_blank"}{:rel="noopener"}. Businesses in this list do not need to apply to MTI for exemption before operating.  
 
-        If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit [Bizfile+](https://www.bizfile.gov.sg/){:target="_blank"} and login with your Singpass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services.
+        If you cannot recall your company’s primary SSIC code or are unsure of the classification of your business activity, you can visit [Bizfile+](https://www.bizfile.gov.sg/){:target="_blank"}{:rel="noopener"} and login with your Singpass to retrieve your primary SSIC code. Thereafter, you can check this against the list of permitted services.
 
     - title: If my company’s activities belong to the list of permitted services, will I be able to operate all my business functions?
       content: |
@@ -25,11 +25,11 @@
 
     - title: I have more than one Singapore Standard Industrial Classification (SSIC) code tagged to my business. If my primary activity does not fall under the list of permitted services, but my secondary activity falls under the list of permitted services, will I still be allowed to operate?
       content: |
-        No. You may operate only if the SSIC code for your primary business activity falls within the list of permitted services. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}.
+        No. You may operate only if the SSIC code for your primary business activity falls within the list of permitted services. However, if you intend to only carry out the secondary activity (and not the primary activity) which falls within the list of permitted services, you may submit an application for General Exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}.
 
     - title: My company is carrying out the activity as listed in the list of permitted services. However, my SSIC code does not fall under the listed code on the website. Will I still be allowed to operate?
       content: |
-        You will need to submit an application for General Exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"} and receive approval from MTI before operating.
+        You will need to submit an application for General Exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"} and receive approval from MTI before operating.
 
     - title: What is the penalty if my company is found operating when we are not allowed to do so?
       content: |
@@ -54,9 +54,9 @@
 
         Your employees are not permitted to go to your place of business. They may work remotely from home.
 
-        If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), you need to apply for a time-limited exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}. Please submit your application one day before the required date of use.
+        If you need to activate your employees to work on-site for short periods of time (i.e. less than a day), you need to apply for a time-limited exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}. Please submit your application one day before the required date of use.
 
-        If you need to maintain a small workforce at your place of business for safety purposes, please apply for a general exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}.
+        If you need to maintain a small workforce at your place of business for safety purposes, please apply for a general exemption [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}.
 
     - title: The website reflects that my exemption application is still processing. What should I do?
       content: |
@@ -66,7 +66,7 @@
 
     - title: The website reflects that my exemption application is “approved”. What should I do?
       content: |
-        Please proceed to declare your manpower details [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}. Please note that you are still subjected to a manpower quota as your company is not in the list of permitted services.
+        Please proceed to declare your manpower details [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}. Please note that you are still subjected to a manpower quota as your company is not in the list of permitted services.
 
     - title: I am unable to find the status of my application for General Exemption on covid.gobusiness.gov.sg. What should I do?
       content: |
@@ -80,7 +80,7 @@
 
     - title: Is there a guide on how to apply for a Time-Limited Exemption?
       content: |
-        Yes. The Guide on how to apply for a Time-Limited Exemption can be found [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}.
+        Yes. The Guide on how to apply for a Time-Limited Exemption can be found [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}.
 
     - title: How many times can I apply for Time-Limited Exemptions (TLEs)?
       content: |
@@ -100,7 +100,7 @@
 
     - title: What should I do if I need to deploy my manpower very urgently (i.e. less than 24-hour notice period)?
       content: |
-        You are required to apply for the [Time-Limited Exemption (TLE)](https://go.gov.sg/covidbusinessresumptions){:target="_blank"} one day before deploying your staff. You are encouraged to plan for deployment of manpower accordingly.
+        You are required to apply for the [Time-Limited Exemption (TLE)](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"} one day before deploying your staff. You are encouraged to plan for deployment of manpower accordingly.
 
     - title: Can I amend, cancel or void my Time-Limited Exemption application if there are changes in my manpower deployment plans?
       content: |

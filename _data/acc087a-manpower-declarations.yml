@@ -3,7 +3,7 @@
   data:
     - title: How do I know if I need to declare my manpower details?
       content: |
-        As part of the Phase 2 Heightened Alert announced on 16 May 2021, all firms are required to declare your onsite manpower details [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"} under the reference number starting with “MPsubmit”. Please refer to this [guide](/guides/) for instructions on how to do so. Firms are required to make your declarations by 28 May 2021.
+        As part of the Phase 2 Heightened Alert announced on 16 May 2021, all firms are required to declare your onsite manpower details [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"} under the reference number starting with “MPsubmit”. Please refer to this [guide](/guides/) for instructions on how to do so. Firms are required to make your declarations by 28 May 2021.
 
     - title: I had declared my onsite manpower previously under another reference number. Do I need to make any changes to that even as I am now instructed to declare my onsite manpower under the reference number starting with "MPsubmit-"?
       content: |
@@ -11,7 +11,7 @@
 
     - title: How do I declare my manpower details?
       content: |
-        Please login [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}. Thereafter, please click on the button “submit manpower” to submit your manpower details. 
+        Please login [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}. Thereafter, please click on the button “submit manpower” to submit your manpower details. 
 
         Please refer to this [guide](/guides/) for instructions on how to declare your manpower details. 
 
@@ -21,7 +21,7 @@
       content: |
         This refers to the total number of employees working on-site (i.e. no longer working from home). 
 
-        For example, your company has a total of 100 employees. 60 of your employees are required to work onsite to operate your production plant, whereas 40 of your employees are able to work from home all the time. The total number of manpower working on-site is 60. 
+        For example, your company has a total of 100 employees. 60 of your employees are required to work onsite to operate your production plant, whereas 40 of your employees are able to work from home all the time. The total number of manpower working on-site is 60.
 
     - title: How do I calculate the maximum number of workers on-site at any time?
       content: |
@@ -43,7 +43,7 @@
 
     - title: What happens if I do not receive an acknowledgement email after I have declared my manpower details?
       content: |
-        If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Corppass account, kindly login [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"} to verify that your email address is accurately reflected.
+        If you have not received an acknowledgement email, your email address may be inaccurately captured on our system. For applicants with a Corppass account, kindly login [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"} to verify that your email address is accurately reflected.
 
         You will be able to update your email address if needed. All changes will be reflected immediately. You will also be able to check whether your declaration has been captured. You should resubmit the declaration if it has not been captured.
 
@@ -58,9 +58,9 @@
     - title: If my workers are deployed at other premises and not working at my own business premise, do I include them in the onsite manpower declaration?
       content: |
         Workers who are not working from home should be counted, i.e. your count of workers should include 
-        
+
         (a) the workers who are working at your work premises and 
-        
+
         (b) the workers whom you have deployed outside of your work premises, but not working from home.
 
     - title: Do I need to submit my manpower details if my business premise is my place of residence?
@@ -70,13 +70,13 @@
     - title: Will enforcement officers check against the number of people my company have declared to work onsite?
       content: |
         In relation to the safe management measure on work-from-home, enforcement officers will review whether the role of the worker who is working onsite cannot be performed from home.
-        
+
 - accordion:
   letter: b
   data:
     - title: Why is the manpower submission requirement for Marine & Offshore and Process sectors different?
       content: |
-        From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee’s SGWorkPass AccessCode status to reflect as “Red”.
+        From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://foodservices.gobusiness.gov.sg/exemptions/login){:target="_blank"}{:rel="noopener"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee’s SGWorkPass AccessCode status to reflect as “Red”.
 
     - title: What manpower details must I submit, and from when should I be submitting?
       content: |

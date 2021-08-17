@@ -1,30 +1,30 @@
 accordion:
-  - title: What is the Jobs Support Scheme (JSS)? 
+  - title: What is the Jobs Support Scheme (JSS)?
     content: |
       The Jobs Support Scheme (JSS) provides wage support to employers, to help enterprises retain their local employees (Singaporean Citizens and Permanent Residents) during this period of economic uncertainty. Under the JSS, the Government co-funds a proportion of the first $4,600 of gross monthly wages paid to each local employee.
 
       The level and duration of support each employer receives depends on the sector in which the employer operates. As JSS payouts are intended to offset and protect local employees’ wages, employers who put local employees on mandatory no-pay leave (NPL) or retrench them will not be eligible for JSS payouts for those employees. 
 
-      Please refer [go.gov.sg/jss](https://go.gov.sg/jss){:target="_blank"} for more information on the JSS.
+      Please refer [go.gov.sg/jss](https://go.gov.sg/jss){:target="_blank"}{:rel="noopener"} for more information on the JSS.
 
-  - title: What is the Foreign Worker levy waiver and rebate? 
+  - title: What is the Foreign Worker levy waiver and rebate?
     content: |
-      Please refer to this [link](https://www.mom.gov.sg/covid-19/frequently-asked-questions/levy-rebate-and-levy-waiver){:target="_blank"} for more information on the Foreign Worker levy waiver and rebate.
+      Please refer to this [link](https://www.mom.gov.sg/covid-19/frequently-asked-questions/levy-rebate-and-levy-waiver){:target="_blank"}{:rel="noopener"} for more information on the Foreign Worker levy waiver and rebate.
 
-  - title: What financial assistance will be available to affected businesses and individuals under Phase 2 (Heightened Alert) and Phase 3 (Heightened Alert)?  
+  - title: What financial assistance will be available to affected businesses and individuals under Phase 2 (Heightened Alert) and Phase 3 (Heightened Alert)?
     content: |
       Please refer to the infographics below on support measures for businesses and individuals during this period.
-      
+
       ![Support for Workers and Businesses](/images/covid/Support for workers and businesses.png)
 
       ![Support for Individuals](/images/covid/Support for individuals.png)
 
-  - title: How do I verify my JSS eligibility? 
+  - title: How do I verify my JSS eligibility?
     content: |
-      You may check your business’s JSS eligibility [here](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch){:target="_blank"}.
+      You may check your business’s JSS eligibility [here](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch){:target="_blank"}{:rel="noopener"}.
 
   - title: I anticipate that my business will continue to face challenges, even after the lifting of restrictions after 13 Jun 2021. Can the Government consider providing financial support for such businesses?
     content: |
       Businesses that face cashflow challenges can continue to tap on the extended Temporary Bridging Loan Programme and enhanced Enterprise Financing Scheme, and we encourage businesses to make full use of these schemes.
-      
-      Establishments whose revenues are significantly affected and wish to appeal to receive the Jobs Support Scheme (JSS) may do so [here](https://go.gov.sg/jssappeals){:target="_blank"}.
+
+      Establishments whose revenues are significantly affected and wish to appeal to receive the Jobs Support Scheme (JSS) may do so [here](https://go.gov.sg/jssappeals){:target="_blank"}{:rel="noopener"}.

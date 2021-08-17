@@ -121,6 +121,7 @@ YML Data Example
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
                 <a class="panel-link"
+                    rel="noopener"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
                     target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
                     {% if panel.text %}{{panel.text}}

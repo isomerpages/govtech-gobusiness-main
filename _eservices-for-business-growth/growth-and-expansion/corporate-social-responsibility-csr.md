@@ -14,13 +14,13 @@ In support of corporate activities to promote inclusivity and community, there a
 
 **National Council of Social Service (NCSS)**
 
-- [Enabling Employment Pledge](https://form.gov.sg/#!/5e4a00425cb1370011a1d85c){:target="_blank"}
+- [Enabling Employment Pledge](https://form.gov.sg/#!/5e4a00425cb1370011a1d85c){:target="\_blank"}{:rel="noopener"}
   <br>Sign the pledge to commit to creating an inclusive work environment and culture for persons with disabilities. Pledge signatories will benefit from SG Enable's consultancy on inclusive hiring.
 
 **National Integration Council**
 
-- [Apply for Community Integration Fund (CIF)](https://oursggrants.gov.sg/){:target="_blank"}
+- [Apply for Community Integration Fund (CIF)](https://oursggrants.gov.sg/){:target="\_blank"}{:rel="noopener"}
   <br>Apply for CIF to get funding for ground-up integration initiatives. Project budget form and supporting documents must be included with your application.
 
-- [Apply for CIF Workplace Integration Resource (WIRe)](https://oursggrants.gov.sg/){:target="_blank"}
+- [Apply for CIF Workplace Integration Resource (WIRe)](https://oursggrants.gov.sg/){:target="\_blank"}{:rel="noopener"}
   <br>Apply for CIF WIRe to get funding for workplace integration efforts. Submit your application on OurSG Grants and indicate "WIRe Type #" in the project title.
