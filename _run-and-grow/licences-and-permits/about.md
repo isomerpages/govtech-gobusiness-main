@@ -31,8 +31,8 @@ If you are starting a new food service business, find out which licences you nee
 If your licence is from
 
 | --- | --- |
-|**SFA, NParks and AVS**|[Log In Here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=run&grow_licences_sfavsnparks){:target="_blank"}|
-|**All other agencies**|[Log In Here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="_blank"}|
+|**SFA, NParks and AVS**|[Log In Here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=run&grow_licences_sfavsnparks){:target="\_blank"}{:rel="noopener"}|
+|**All other agencies**|[Log In Here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="\_blank"}{:rel="noopener"}|
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

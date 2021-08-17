@@ -1,7 +1,7 @@
 accordion:
   - title: Where can I get more information for Public Entertainment Licence?
     content: |
-      You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-services/apply/licenses-and-permits/public-entertainment/important-notice){:target="_blank"}.
+      You can get more information at Singapore Police Force's website [here](https://www.police.gov.sg/e-services/apply/licenses-and-permits/public-entertainment/important-notice){:target="_blank"}{:rel="noopener"}.
 
   - title: Who can be an applicant?
     content: |

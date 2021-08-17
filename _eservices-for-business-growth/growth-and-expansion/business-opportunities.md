@@ -19,11 +19,11 @@ Tap on government initiatives and resources to find new growth opportunities for
 
 **Singapore Tourism Board (STB)**
 
-- [Singapore Visitor Centre (SVC) Network Partnership](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/singapore-visitor-centre-SVC-network-partnership.html){:target="_blank"}
+- [Singapore Visitor Centre (SVC) Network Partnership](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/singapore-visitor-centre-SVC-network-partnership.html){:target="\_blank"}{:rel="noopener"}
   <br>Join the SVC network to access STB's resources and support for innovative tourism experiences.
 
 ---
 
 ### Related links
 
-{% include panels.html panels=site.data.gebiz_alerts_links %}  
+{% include panels.html panels=site.data.gebiz_alerts_links %}

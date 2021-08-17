@@ -3,25 +3,25 @@
   data:
     - title: Who does the requirements apply to?
       content: |
-       All businesses allowed to operate are required to have implemented Safe Management Measures.
-       
-       For companies resuming operations after the circuit breaker period, all Safe Management Measures should be in place before operations can be resumed at the workplace.
+        All businesses allowed to operate are required to have implemented Safe Management Measures.
+
+        For companies resuming operations after the circuit breaker period, all Safe Management Measures should be in place before operations can be resumed at the workplace.
 
     - title: Why is work-from-home still the default as we transition out of Phase 2 Heightened Alert?
       content: |
-        As we transition out of Phase 2 Heightened Alert in the coming weeks, it remains essential that we continue to keep transmission risks in check by reducing overall footfall and interactions at common spaces at or near the workplace, and in public places, including public transport. Therefore, work-from-home will continue to be the default during this transition period. Employers must provide the necessary facilities and direct their employees to work from home wherever possible. Only employees who are unable to work from home (e.g. work requiring access to equipment that is confined to the workplace) are permitted to continue working on-site. 
+        As we transition out of Phase 2 Heightened Alert in the coming weeks, it remains essential that we continue to keep transmission risks in check by reducing overall footfall and interactions at common spaces at or near the workplace, and in public places, including public transport. Therefore, work-from-home will continue to be the default during this transition period. Employers must provide the necessary facilities and direct their employees to work from home wherever possible. Only employees who are unable to work from home (e.g. work requiring access to equipment that is confined to the workplace) are permitted to continue working on-site.
 
     - title: Do I have to apply to resume operations at my company’s workplace premises?
       content: |
-        The Multi-Ministry Task Force has announced that selected activities and services are allowed to resume operations. Companies that fall under the list of activities and services do not need to apply before resuming operations. Please go to [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg) for more details. 
-        
+        The Multi-Ministry Task Force has announced that selected activities and services are allowed to resume operations. Companies that fall under the list of activities and services do not need to apply before resuming operations. Please go to [https://covid.gobusiness.gov.sg](https://covid.gobusiness.gov.sg) for more details.
+
     - title: Are the requirements mandatory, and what enforcement actions will MOM take against businesses that do not implement Safe Management Measures?
       content: |
         MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. For workplaces that severely lack Safe Management Measures, we will direct employers to stop operations at the workplace. Employers will have to take steps to ensure that Safe Management Measures are in place before operations can resume.
-        
+
         Under the COVID-19 (Temporary Measures) Act, failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both.  Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
 
-    - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace? 
+    - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace?
       content: |
         Enforcement action may be taken by any of the following persons under the COVID-19 (Temporary Measures) Act:
 
@@ -36,19 +36,19 @@
 
     - title: Where can I find more guidance on implementing Safe Management Measures in the workplace?
       content: |
-        You may refer to [Annex B of the Safe Management Measures requirements](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for an overview of the requirements that must be fulfilled prior to resuming business activities at the workplace.
-        
+        You may refer to [Annex B of the Safe Management Measures requirements](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}{:rel="noopener"}, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for an overview of the requirements that must be fulfilled prior to resuming business activities at the workplace.
+
         Unionised companies are also encouraged to engage their unions on such arrangements.
 
     - title: Is it compulsory to fill in and maintain the checklist provided in Annex B?
       content: |
-        [Annex B - Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"} sets out the requirements needed for employers to resume operations. Employers are not required to fill out the checklist, but must ensure that the documents listed in the checklist (or equivalent) are available upon request by officials.
-        
-        When inspected by any government agency, businesses must be prepared to show that they have fulfilled the requirements listed. 
+        [Annex B - Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}{:rel="noopener"} sets out the requirements needed for employers to resume operations. Employers are not required to fill out the checklist, but must ensure that the documents listed in the checklist (or equivalent) are available upon request by officials.
+
+        When inspected by any government agency, businesses must be prepared to show that they have fulfilled the requirements listed.
 
     - title: Are there specific Safe Management Measures for each sector (e.g. construction, F&B, retail)?
       content: |
-        The requirements on Safe Management Measures at the workplace released by MOM is for general workplace settings. For specific workplace settings or sector requirements, please refer to [guidelines issued by the respective sector agencies](https://covid.gobusiness.gov.sg/safemanagement/sector). 
+        The requirements on Safe Management Measures at the workplace released by MOM is for general workplace settings. For specific workplace settings or sector requirements, please refer to [guidelines issued by the respective sector agencies](https://covid.gobusiness.gov.sg/safemanagement/sector).
 
     - title: We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?
       content: |
@@ -57,15 +57,15 @@
     - title: My employees do not have a specific workplace as they are deployed to client’s site to provide goods and services. How can I implement Safe Management Measures?
       content: |
         All employers must implement Safe Management Measures at their workplaces for all employees and contractors. 
-        
+
         Companies that have employees deployed to other sites should ensure that their employees comply with the Safe Management Measures put in place at these sites. In fact, some of the Safe Management Measures can be implemented by employers regardless of where employees are deployed, such as health monitoring.
 
     - title: If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?
       content: |
         Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their list of business activity falls within the [permitted list](htps://covid.gobusiness.gov.sg/faq/resumption/resumption/) allowed to operate from 2 June 2020.
-        
+
         Employers whose business operations are not in the list of permitted services may still return to their business facility to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. No application for exemption is required.
-        
+
         However, if employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead.
 
     - title: My company is currently operating under a General Exemption, as our business activities are currently not listed in the permitted services list. Can our employees who are currently working from home return to the workplace?
@@ -78,18 +78,18 @@
 
     - title: What should I do if my employer refuses to implement Safe Management Measures in the workplace?
       content: |
-        If you notice any breach of Safe Management Measures or poor practices at the workplace, you can report it via [SnapSAFE](https://www.mom.gov.sg/eservices/snapsafe){:target="_blank"}, an app that allows the reporting of workplace safety and health issues to MOM.
-        
+        If you notice any breach of Safe Management Measures or poor practices at the workplace, you can report it via [SnapSAFE](https://www.mom.gov.sg/eservices/snapsafe){:target="_blank"}{:rel="noopener"}, an app that allows the reporting of workplace safety and health issues to MOM.
+
         MOM will treat each report seriously and will keep your identity strictly confidential.
 
-    - title: Is there a limit to the number of migrant workers a company can deploy at each renovation site? 
+    - title: Is there a limit to the number of migrant workers a company can deploy at each renovation site?
       content: |
-        Contractors should deploy a minimal number of workers at renovation workplaces and must ensure that Ministry of Manpower’s Safe Management Measures at workplaces are complied with at renovation workplaces to mitigate the risk of community transmission. All personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups. 
+        Contractors should deploy a minimal number of workers at renovation workplaces and must ensure that Ministry of Manpower’s Safe Management Measures at workplaces are complied with at renovation workplaces to mitigate the risk of community transmission. All personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups.
 
     - title: If my renovation project involves more than one team of contractors, are they allowed to work at the same renovation site at the same time?
       content: |
         Different teams of contractors (main or sub-contractors) can carry out their respective work within the same renovation site, at the same time and day. However, all personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups. 
-        
+
         The application of safe management measures will vary depending on the renovation site. Employers should assess and evaluate the measures that must be taken to ensure safe distancing and ensure that the risk of COVID-19 spread at workplaces is minimised for their workers. This may include additional measures such as having staggered rest, arrival and exit timings to minimise interactions between workers from different companies.
 
 - accordion:
@@ -101,13 +101,13 @@
 
         For employees who are unable to work from home, for reasons such as due to the nature of their work, or their work can only be done with equipment that is confined to the workplace, they can continue working on-site.
 
-        Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](http://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
+        Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](http://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"}{:rel="noopener"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
 
-        MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees work-from-home where possible, can be found [here](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}. 
+        MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees work-from-home where possible, can be found [here](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"}. A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}{:rel="noopener"}. 
 
         Enforcement checks will be conducted and actions will be taken against business for non-compliances.
 
-    - title: Is there a minimum % or number of workers that employers must place on work-from-home arrangements? 
+    - title: Is there a minimum % or number of workers that employers must place on work-from-home arrangements?
       content: |
         The overarching objective of the requirements is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Employers should focus on providing the facilities necessary and directing every worker to work from home, as far as reasonably practicable. The proportion of employees that can do so will vary in different workplaces and sectors due to differing operational requirements. 
 
@@ -115,25 +115,25 @@
 
     - title: Should my workers put on the masks at all times? What if my worker has medical condition?
       content: |
-        Every individual should put on a mask at all times, except when eating, drinking or consuming medication, or engaging in strenuous physical exercise.  However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask. 
+        Every individual should put on a mask at all times, except when eating, drinking or consuming medication, or engaging in strenuous physical exercise.  However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask.
 
     - title: What should I do if my employees are unwilling to work from home because their home is not conducive for work?
       content: |
-        The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers can consider different ways to implement working arrangements that comply with the Safe Management Measures for the workplace, while taking business and employee preferences into account. 
+        The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers can consider different ways to implement working arrangements that comply with the Safe Management Measures for the workplace, while taking business and employee preferences into account.
 
     - title: As most of my employees are either doing frontline work or fieldwork operations, it is not feasible for me to rearrange the work such that they can work-from-home. Will I be penalised for not providing such work arrangements?
       content: |
         Employers must demonstrate the business or operational reasons why the workers working at the workplace are unable to work-from-home despite review and redesign of work processes. Our inspectors will assess the efforts put in by companies to implement work-from-home arrangements based on the practicality of whether the workers can work-from-home given the nature of the job.
-        
+
         For the safety of workers at the workplace, employers should put in place other Safe Management Measures at the workplace (e.g. ensuring safe distancing, ensuring use of SafeEntry, etc) to provide a safe working environment and minimise risk of further outbreaks.
-        
+
         Special attention should also be paid to vulnerable employees (e.g. persons who are aged 60 and above, and patients who are immunocompromised5 or have concurrent medical conditions) to enable them to work-from-home. Employers are encouraged to enable these employees to work-from-home, allow them to travel to/from work at off-peak timings, temporarily redeploy them to another role within the company, or take other appropriate measures to reduce their exposure to infection risk.
 
     - title: Are there any available resources to help my business review work processes to enable employees to work-from-home?
       content: |
-        Yes, the Infocomm Media Development Authority (IMDA) provides a list of [digital solutions and resources](https://www.imda.gov.sg/bizgodigital){:target="_blank"} that aims to make business continuity essential more accessible to businesses.
-        
-        Eligible businesses can also apply for the [Productivity Solutions Grant (PSG)](https://www.businessgrants.gov.sg/){:target="_blank"} to support business transformation and put in place flexible work arrangements to minimise spread of COVID-19 (e.g. work-from-home, staggered hours).
+        Yes, the Infocomm Media Development Authority (IMDA) provides a list of [digital solutions and resources](https://www.imda.gov.sg/bizgodigital){:target="_blank"}{:rel="noopener"} that aims to make business continuity essential more accessible to businesses.
+
+        Eligible businesses can also apply for the [Productivity Solutions Grant (PSG)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} to support business transformation and put in place flexible work arrangements to minimise spread of COVID-19 (e.g. work-from-home, staggered hours).
 
     - title: Is there a limit on the number of attendees in a physical meeting?
       content: |
@@ -142,7 +142,7 @@
     - title: What would be considered a work-related event?
       content: |
         Some examples of work-related events are as follows:
-        
+
         - Work meetings (e.g. among colleagues, or with external parties)
         - Training
         - Board meetings
@@ -167,20 +167,20 @@
 
     - title: I am an essential services provider. During the tightened measures from 16 May to 13 June, can all my employees return to work on-site, including those who are able to work from home?
       content: |
-        No. Employers must direct employees who are able to work from home to do so. 
+        No. Employers must direct employees who are able to work from home to do so.
 
     - title: The advisory states that special attention should be paid to vulnerable employees (e.g. persons who are aged 60 and above, and patients who are immunocompromised) to enable them to work-from-home. How can companies support them? What if they can’t work-from-home?
       content: |
         Those who are more vulnerable should be allowed to work-from-home where reasonably practical. Employers should enable this by reviewing the work processes and providing the necessary IT equipment to employees.
         If the job roles of vulnerable employees cannot be done from home, employers should temporarily re-deploy these employees to another role within the company that is suitable for working-from-home. 
-        
+
         If there is no possible redeployment for vulnerable employees’ work to be performed from home, he/she can still be deployed to work in the company premises. The company however, must ensure that safe distancing measures such as ensuring clear physical spacing of at least 1 metre between persons at meeting rooms, work areas and work stations are implemented.
 
     - title: Are companies required to ensure staggered start times and implement flexible workplace hours for employers at the workplace?
       content: |
         Employers are encouraged to stagger the start times for all employees who are unable to work from home (due to the nature of their work, or their work can only be done with equipment that is confined to the workplace) such that at least half of all employees arrive at the workplace at or after 10am, as far as possible. This would enable more employees to avoid peak-hour travel, especially if employees require the use of public transport. Timings of lunch and other breaks should also be staggered accordingly.
 
-    - title: Are employees and visitors required to wear a mask at all times at the workplace? 
+    - title: Are employees and visitors required to wear a mask at all times at the workplace?
       content: |
         For general office workplaces, employers must ensure that employees and visitors wear a mask at all times at the workplace, except during activities that require masks to be removed or when individuals are alone in their own office. Supplementary personal protective equipment is encouraged, whenever relevant (more guidelines can be found in sector-specific guidelines). This is in addition to other safe management measures (e.g. safe distancing) that must be in place at the workplace. 
 
@@ -224,7 +224,7 @@
 - accordion:
   letter: c
   data:
-    - title: What should I do if there is a positive COVID-19 case at my workplace? 
+    - title: What should I do if there is a positive COVID-19 case at my workplace?
       content: |
         Employers should manage COVID-19 cases proactively. If an employee/visitor has tested positive for COVID-19, employers should immediately ask any staff who were in close contact with the employee/visitor in the last 14 days (e.g. working in the same zone or on the same shift) to self-isolate while MOH performs contact tracing. This will minimise the risk of further spread if any of them are infected. 
 
@@ -232,10 +232,10 @@
 
         <sup>1</sup> Refers to close contacts of COVID-19 positive cases, and employees in work functions with close/extended contact with customers.
 
-    - title: What is the protocol on disinfection of premises visited by positive COVID-19 cases? 
+    - title: What is the protocol on disinfection of premises visited by positive COVID-19 cases?
       content: |
         Establishments that were visited by positive COVID-19 cases (as informed and confirmed by MOH) are strongly advised to:
- 
+
         - Disinfect premises as soon as practicable. Arrange for disinfection by external vendors to be carried out, if you are unable to do so yourself.  Please inform NEA about your disinfection schedule by emailing the following personnel:
           - [Kabilan_APANA@nea.gov.sg](mailto:Kabilan_APANA@nea.gov.sg)
           - [Mohammad_Harfid_HAMDAN@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
@@ -247,13 +247,13 @@
 
         - Once disinfection is completed, premises can reopen and be manned by employees not identified as close contacts. Close contacts of the positive COVID-19 case, as identified by MOH, can return to work only after they have completed their Quarantine Order or as directed by MOH.
 
-        - If there are additional directives issued by MOH (e.g. for premises to be closed for a longer period), firms must comply accordingly. 
+        - If there are additional directives issued by MOH (e.g. for premises to be closed for a longer period), firms must comply accordingly.
 
-    - title: My workplace premise has been directed to close due to a positive COVID-19 case. Can I re-deploy my workers from the closed premises to work at other premises for the period of closure? 
+    - title: My workplace premise has been directed to close due to a positive COVID-19 case. Can I re-deploy my workers from the closed premises to work at other premises for the period of closure?
       content: |
         Employers must ensure no cross-deployment across worksites (i.e. no employee should work at more than one worksite). 
 
-        For venues that have been visited by positive COVID-19 cases and asked to close by MOH, employees should not be redeployed to other worksites at all for the period of closure. If instructed to go for swabs, employers must ensure that their employees from these venues visit the designated Regional Screening Centre, “Swab and Send Home” (SASH) Public Health Preparedness Clinics or mobile swab sites for the COVID-19 test offered by MOH. These employees should stay at home and minimise social interactions during the period of closure even if their swab results are negative. They should also monitor their health closely, and visit a doctor immediately if unwell. 
+        For venues that have been visited by positive COVID-19 cases and asked to close by MOH, employees should not be redeployed to other worksites at all for the period of closure. If instructed to go for swabs, employers must ensure that their employees from these venues visit the designated Regional Screening Centre, “Swab and Send Home” (SASH) Public Health Preparedness Clinics or mobile swab sites for the COVID-19 test offered by MOH. These employees should stay at home and minimise social interactions during the period of closure even if their swab results are negative. They should also monitor their health closely, and visit a doctor immediately if unwell.
 
 - accordion:
   letter: d
@@ -272,15 +272,15 @@
       content: |
         Businesses must use SafeEntry to collect entry information of all employees and visitors on their premises. Businesses that need to use their current systems to collect additional data, e.g. employees’ ID, must ensure SafeEntry is implemented on top of their existing systems. 
 
-        From 17 May 2021, all individuals must use TraceTogether (TT) App or token to check in at all premises. 
+        From 17 May 2021, all individuals must use TraceTogether (TT) App or token to check in at all premises.
 
     - title: SafeEntry is already implemented for my building (e.g. malls), do tenants within the building have to implement SafeEntry as well?
       content: |
-        As part of safe workplace measures, all venues and facilities found listed on [https://www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment){:target="_blank"} will have to implement SafeEntry for employees and visitors. 
+        As part of safe workplace measures, all venues and facilities found listed on [https://www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment){:target="_blank"}{:rel="noopener"} will have to implement SafeEntry for employees and visitors. 
 
         This includes office tenants/workplaces where there is a SafeEntry checkpoint at the main building entrance. 
 
-        Please go to [https://www.support.safeentry.gov.sg/hc/en-us](https://www.support.safeentry.gov.sg/hc/en-us){:target="_blank"} for more details.
+        Please go to [https://www.support.safeentry.gov.sg/hc/en-us](https://www.support.safeentry.gov.sg/hc/en-us){:target="_blank"}{:rel="noopener"} for more details.
 
     - title: What changes must businesses make to their SafeEntry check-in mode from 17 May 2021?
       content: |
@@ -288,11 +288,11 @@
 
         Venues should allow entry to individuals who successfully check in to SafeEntry using their TraceTogether (TT) App or TT token.
 
-        Find out more about [what businesses need to do](https://support.safeentry.gov.sg/hc/en-us/articles/900003291566-What-does-TT-only-SE-mean-to-the-venues-required-to-implement-it-){:target="_blank"}.
+        Find out more about [what businesses need to do](https://support.safeentry.gov.sg/hc/en-us/articles/900003291566-What-does-TT-only-SE-mean-to-the-venues-required-to-implement-it-){:target="_blank"}{:rel="noopener"}.
 
     - title: Where can I find more information on SafeEntry?
       content: |
-        You may go to [https://www.safeentry.gov.sg/](https://www.safeentry.gov.sg/){:target="_blank"} for more information on the implementation and usage of SafeEntry.
+        You may go to [https://www.safeentry.gov.sg/](https://www.safeentry.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on the implementation and usage of SafeEntry.
 
     - title: In an office setting, would leaving an empty desk marked (e.g. with a cross) suffice for safe distancing? For barriers between workstations, are there guidelines for how high they need to be?
       content: |
@@ -300,7 +300,7 @@
 
     - title: How frequently should I clean my workplace, i.e. what is considered regular cleaning?
       content: |
-        As the recommended frequency and intensity may differ by sector, businesses should refer to the sanitation and hygiene advisories disseminated by the National Environmental Agency (NEA) [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines){:target="_blank"}. 
+        As the recommended frequency and intensity may differ by sector, businesses should refer to the sanitation and hygiene advisories disseminated by the National Environmental Agency (NEA) [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines){:target="_blank"}{:rel="noopener"}.
 
 - accordion:
   letter: e
@@ -323,7 +323,7 @@
     - title: How can we prevent incipient outbreaks at the workplace?
       content: |
         You can do your part to guard against incipient outbreaks at the workplace through the following:
-        
+
         - Adherence to Safe Management Measures at the workplace 
         - Ensuring employees at the workplace who have visited a clinic submit to you records of their Medical Certificates (MCs) and diagnoses provided (only for COVID-19-related symptoms, including acute respiratory infections), and if they were tested for COVID-19 and the results of their tests
         - Advising employees who are unwell to stay home and consult a doctor rather than going to the workplace
@@ -343,15 +343,15 @@
       content: |
         The monitoring plan should at minimum, include details on the steps taken to ensure the requirements are communicated and adhered to, and how any anomalies or non-compliance will be identified. The plan should also highlight risk mitigation strategies and proposed steps to remedy and document any non-compliance found.
 
-        You may refer to [Annex B](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"} of the Safe Management Measures requirements, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for guidance on what should be included in the monitoring plan.
+        You may refer to [Annex B](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}{:rel="noopener"} of the Safe Management Measures requirements, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for guidance on what should be included in the monitoring plan.
 
-    - title: Who can we appoint as a Safe Management Officer? 
+    - title: Who can we appoint as a Safe Management Officer?
       content: |
         Companies should appoint someone capable of carrying out the duties stated in MOM’s requirements for workplace Safe Management Measures within the organisation as the designated Safe Management Officer(s) (SMOs). For unionised companies, union leaders or Workplace Safety and Health officers could be appointed as SMOs. 
 
         Companies should ensure that SMOs are provided with sufficient resources and guidance to carry out their duties effectively.
 
-        SMOs can be part-time appointments. 
+        SMOs can be part-time appointments.
 
     - title: How do I ensure that my employees adhere to Safe Management Measures?
       content: |
@@ -361,4 +361,4 @@
       content: |
         We are still monitoring the duration of the vaccine’s protection and its effectiveness in preventing transmission of COVID-19.
 
-        Until enough people are vaccinated, you should continue to practise public health measures such as [Workplace Safe Management Measures](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}. This will help to continue protect ourselves and our loved ones
+        Until enough people are vaccinated, you should continue to practise public health measures such as [Workplace Safe Management Measures](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"}. This will help to continue protect ourselves and our loved ones

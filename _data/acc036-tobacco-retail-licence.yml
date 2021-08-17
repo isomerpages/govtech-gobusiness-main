@@ -14,7 +14,7 @@ accordion:
       Tel: 6684 2031 / 2032
       Fax: 6684 1502
       Email: [hsa_trb@hsa.gov.sg](mailto:hsa_trb@hsa.gov.sg)
-      Website: Click [here](https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Tobacco_Control/Overview/Tobacco_Licences_Eligibility_Criteria/Tobacco_Retail_Licences.html){:target="_blank"}.
+      Website: Click [here](https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Tobacco_Control/Overview/Tobacco_Licences_Eligibility_Criteria/Tobacco_Retail_Licences.html){:target="_blank"}{:rel="noopener"}.
 
   - title: Do I need to apply for this licence?
     content: |
@@ -24,7 +24,7 @@ accordion:
 
       For sole proprietorship or partnership, the person whose name is registered with Accounting & Corporate Regulatory Authority (ACRA), will need to apply for the Tobacco Retail Licence under his/her name via Singpass.
 
-      If you hold an Singapore Food Agency (SFA) Hawker licence, please apply for the Tobacco Retail Licence on [GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}.
+      If you hold an Singapore Food Agency (SFA) Hawker licence, please apply for the Tobacco Retail Licence on [GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}.
 
   - title: I have been issued with a provisional unit number in my tenancy agreement and the number can only be confirmed at a later date. Can I submit my new licence application based on the provisional unit number?
     content: |
@@ -52,7 +52,7 @@ accordion:
       You must ensure that there are sufficient notices prominently displayed.in the outlet to inform the public that the sale of tobacco products to persons below the MLA is prohibited.
 
       f. Prohibition on sale of Harmful and imitation tobacco products
-      You must not sell any harmful tobacco products like smokeless tobacco, or any tobacco products that contain nicotine and tar above the yield limit of 1.0mg and 10.0mg respectively and imitation tobacco products like [electronic vaporisers] (https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Tobacco_Control/Overview/Tobacco_Legislation/Prohibition_on_Certain_Products.html){:target="_blank"} at the outlet.
+      You must not sell any harmful tobacco products like smokeless tobacco, or any tobacco products that contain nicotine and tar above the yield limit of 1.0mg and 10.0mg respectively and imitation tobacco products like [electronic vaporisers] (https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Tobacco_Control/Overview/Tobacco_Legislation/Prohibition_on_Certain_Products.html){:target="_blank"}{:rel="noopener"} at the outlet.
 
       g. Health Warnings on tobacco products
       You must ensure that all tobacco products carry the mandatory health-warning labels.
@@ -70,7 +70,7 @@ accordion:
 
   - title: How can I download the approved Tobacco Retail Licence?
     content: |
-      Go to 'My Licences' on your dashboard to view and download all approved licences.You can obtain the licence number from our [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}.
+      Go to 'My Licences' on your dashboard to view and download all approved licences.You can obtain the licence number from our [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}{:rel="noopener"}.
 
   - title: What conditions do I need to fulfil?
     content: |
@@ -98,7 +98,7 @@ accordion:
 
       The application will not be processed if there are any missing or incomplete documents or lack of payment. Do take note that HSA may request for additional documents to review the licence application.
 
-      If you need more information on the supporting documents needed, please refer to the [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}.
+      If you need more information on the supporting documents needed, please refer to the [HSA website](http://eservice.hsa.gov.sg/prism/common/enquirepublic/SearchTRURetail.do?action=load){:target="_blank"}{:rel="noopener"}.
 
   - title: My licence is currently suspended and will expire by the end of the suspension period. When can I apply for a new licence?
     content: |
@@ -110,7 +110,7 @@ accordion:
 
       You are strongly encouraged to apply for an Inter-bank GIRO account for subsequent renewal payments.
 
-      The GIRO form can be downloaded from the HSA website [here](https://www.hsa.gov.sg/content/dam/HSA/e-Services/Form%20for%20Inter-bank%20GIRO%20Application.pdf){:target="_blank"}. Do take note that GoBusiness Licensing only accepts credit card payment.
+      The GIRO form can be downloaded from the HSA website [here](https://www.hsa.gov.sg/content/dam/HSA/e-Services/Form%20for%20Inter-bank%20GIRO%20Application.pdf){:target="_blank"}{:rel="noopener"}. Do take note that GoBusiness Licensing only accepts credit card payment.
 
   - title: How long is the licence valid for?
     content: |
