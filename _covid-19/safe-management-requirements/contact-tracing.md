@@ -24,7 +24,7 @@ SafeEntry is the name of the national digital visitor registration system that l
 
 Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise. SafeEntry by only the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contact tracing for the purpose of meeting the safe management measures required by the law, save in circumstances where certain particular methods are required pursuant to specific restrictions or conditions.
 
-From 17 May 2021, all workplaces that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of their employees and contractors in order to meet the safe management measures required by the law.
+From 17 May 2021, all workplaces that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of employees, contractors and visitors in order to meet the safe management measures required by the law.
 
 The following list of venues must also institute TraceTogether-only SafeEntry check-in for customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law<sup>2</sup>:
 

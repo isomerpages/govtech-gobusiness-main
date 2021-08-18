@@ -5,14 +5,14 @@
       content: |
         The updated safe management measures for marriage solemnizations and wedding receptions are as follows:  
 
-        ||**From 10 August 2021 to 18 August 2021**|**From 19 August 2021 onwards** <br> *(subject to change)*|
-        |**Wedding Solemnizations**|||
-        |Home|Up to 10 attendees or up to 5 visitors (whichever is higher)|Up to 10 attendees or up to 5 visitors (whichever is higher)|
-        |ROM/M Building|Up to 10 attendees|Up to 10 attendees|
-        |External venues| - Up to 50 attendees (no Pre-Event Test (PET) requirement);<br> - From 51 to 500 attendees, PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees| - Up to 50 attendees (no PET requirement); <br> -	From 51 to 1,000 attendees, PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees|
-        |**Wedding Receptions**|||
-        |Home and ROM/M Building|Not allowed|Not allowed|
-        |External venues (Excluding Places of Worship)| - Up to 250 attendees, with PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees| - Up to 250 attendees, with PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees|
+        ||**From 19 August 2021 onwards**|
+        |**Marriage Solemnizations**||
+        |Home|Up to 10 attendees or up to 5 visitors (whichever is higher)|
+        |ROM/M Building|Up to 10 attendees|
+        |External venues| - Up to 50 attendees (no Pre-Event Test (PET) requirement); <br> -	From 51 to 1,000 attendees, PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees|
+        |**Wedding Receptions**||
+        |Home and ROM/M Building|Not allowed|
+        |External venues (Excluding Places of Worship)| - Up to 250 attendees, with PET required for all attendees unless the attendee has a cleared status<sup>1</sup> <br> - Group size of up to 5 attendees|
 
         <sup>1</sup> Where PET is required, it means that checks must be implemented to ensure that every attendee has a cleared status.
         “Cleared status” refer to (i) Fully vaccinated (an individual is considered fully vaccinated two weeks after he or she has received the full regimen of the Pfizer-BioNTech/Comirnaty or Moderna vaccines currently administered under the National Vaccination Programme, or World Health Organisation’s Emergency Use Listing (WHO EUL) vaccines); or (ii) Recovered from COVID-19 and can provide a valid PET exemption notice for the duration of the event; or (iii) Has a valid negative Pre-Event Test (PET) result for the duration of the event.
@@ -25,7 +25,7 @@
 
         When attending marriage solemnizations with more than 50 attendees and wedding receptions (regardless of the number of attendees), all children aged 12 years and below seated in the same groups of up to 5 attendees must be from the same household.
 
-        Organisers must ensure that before entering the event, all attendees must take their temperature; and must check in to the event using TraceTogether-only SafeEntry. TraceTogether, the SEBizApp or HealthHub can be used to check the vaccination and PET status of attendees.  The venue owner/operator or organisers should have a unique QR code for the event space, e.g. hotel ballroom or private room in a restaurant.
+        Organisers must ensure that before entering the event, all attendees must check in to the event using TraceTogether-only SafeEntry. TraceTogether, the SEBizApp or HealthHub can be used to check the vaccination and PET status of attendees.  The venue owner/operator or organisers should have a unique QR code for the event space, e.g. hotel ballroom or private room in a restaurant.
 
         For more information on SafeEntry, please refer to the link [here](https://www.gobusiness.gov.sg/safemanagement/safeentry/).
 
@@ -103,12 +103,7 @@
 
     - title: When is PET required for marriage solemnizations and wedding receptions?
       content: |
-        From 10 August to 18 August 2021:
-
-        - For solemnizations involving 51 to 500 attendees, PET is required for all attendees (including the wedding couple)
-        - For wedding receptions involving up to 250 attendees, PET is required for all attendees (including the wedding couple) unless the attendee has a cleared status.
-
-        From 19 August 2021 onwards (subject to change):
+        From 19 August 2021 onwards:
 
         - For solemnizations involving 51 to 1,000 attendees, PET is required for all attendees (including the wedding couple) unless the attendee has a cleared status.
         - For wedding receptions involving up to 250 attendees, PET is required for all attendees (including the wedding couple) unless the attendee has a cleared status.
@@ -124,9 +119,9 @@
       content: |
         Only fully vaccinated attendees and recovered attendees from a COVID-19 infection may be exempted from PET. Fully vaccinated attendees are those individuals who have received the full two-dose regimen of  Pfizer-BioNTech/Comirnatry or Moderna vaccines, or completed the appropriate regimen for World Health Organisation’s Emergency Use Listing (WHO EUL) vaccines and had their vaccination records ingested into MOH’s national vaccination IT systems). TraceTogether, the SEBizApp or HealthHub can be used to check the vaccination status of attendees.  
 
-        Children aged 12 years and below, who are not eligible for vaccines currently under the National Vaccination Programme, are also exempt from PET (subject to an overall attendance cap of 20% of total attendees).  
+        Children aged 12 years and below, who are not eligible for vaccines currently under the National Vaccination Programme, are also exempted from PET (subject to an overall attendance cap of 20% of total attendees).  
 
-        Please refer to MOH’s guidelines at go.gov.sg/pet for more updated information on individuals who are exempted from PET and acceptable exemption notices that must be shwn to the organiser of the wedding reception and or marriage solemnization to be allowed entry. 
+        Please refer to MOH’s guidelines at go.gov.sg/pet for more updated information on individuals who are exempted from PET and acceptable exemption notices that must be shown to the organiser of the wedding reception and or marriage solemnization to be allowed entry. 
 
         Please refer to the Event Organiser’s/Relevant Enterprises’ Guide to PET on [go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"}{:rel="noopener"} for further details on verification of vaccination status of individuals.
 
@@ -186,9 +181,7 @@
   data:
     - title: What are the attendance caps if I hold my solemnization immediately followed by a wedding reception?
       content: |
-        From 10 to 18 August 2021, solemnizations are capped at 50 attendees (PET not required), or 500 attendees from 10 August to 18 August 2021 (PET required for all attendees, unless the attendee has a cleared status) 
-
-        From 19 August 2021 onwards (subject to change), solemnizations are capped at 50 attendees (PET not required), or 1,000 attendees (PET required for all attendees, unless the attendee has a cleared status). 
+        From 19 August 2021 onwards, solemnizations are capped at 50 attendees (PET not required), or 1,000 attendees (PET required for all attendees, unless the attendee has a cleared status). 
 
         Attendee limits include the bride and groom, and exclude the Solemnizer and vendors.
 
@@ -258,9 +251,9 @@
 
     - title: For a staggered timing arrangement for wedding receptions, can I have as many time slots as I want?
       content: |
-        If the venue permits, you may have multiple time slots subject to the overall attendance of the entire event comprising the multiple time slots being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 pax, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
+        If the venue permits, you may have multiple time slots subject to the overall attendance of the entire event comprising the multiple time slots being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 attendees, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
 
-        Guests must be assigned to one time slot only, and can only be present in their assigned time slot. Only the “wedding party” (up to 20 pax) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests, i.e. a 1 metre safe distance between these groups must be observed.
+        Guests must be assigned to one time slot only, and can only be present in their assigned time slot. Only the “wedding party” (up to 20 attendees) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests, i.e. a 1 metre safe distance between these groups must be observed.
 
         Venue operators may impose shorter time limits as they deem fit, based on their capacity or ability to ensure safe management measures are implemented.
 
@@ -288,9 +281,9 @@
 
     - title: Can I split my reception into lunch and dinner at the same venue on the same day?
       content: |
-        Yes. You may split your reception into lunch and dinner if it is at the same venue and the entire event is completed within a day. This is subject to the overall attendance of the entire event being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 pax, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
+        Yes. You may split your reception into lunch and dinner if it is at the same venue and the entire event is completed within a day. This is subject to the overall attendance of the entire event being capped at the maximum allowable limit, the number of people in each time slot not exceeding 50 attendees, and staggered timing rules being adhered to (including a 30-minute gap between time slots). These caps include the couple and the wedding party, but excludes vendors engaged to provide authorised services and venue staff (to be kept to a minimum). The duration of the entire event must be kept within the same calendar day.
 
-        Guests can only arrive and leave in their scheduled timeslot. Only the wedding party (up to 20 pax) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests, i.e. a 1 metre distance between these groups must be observed.
+        Guests can only arrive and leave in their scheduled timeslot. Only the wedding party (up to 20 attendees) may remain between time slots, whereas all other guests must only belong to one timeslot. There must be a minimum of 30 minutes between time slots, where cleaning and disinfection at the event space (e.g. common/shared surfaces such as seats) and other common areas (e.g. toilets) must be conducted. Within each timeslot, there must be no intermingling between the wedding party and other groups of guests or between groups of guests, i.e. a 1 metre distance between these groups must be observed.
 
         Venue operators may impose shorter time limits as they deem fit, based on their capacity or ability to ensure safe management measures are implemented.
 
@@ -306,7 +299,7 @@
       content: |
         No. Couples can only hold one reception, which limits the total risk exposure. Even in a staggered timing arrangement, the entire reception must be completed within the same day.
 
-    - title: My wedding venue is large enough to accommodate more than 500 or 1,000 attendees for marriage solemnization or 250 attendees for wedding receptions with appropriate safe distancing between groups of 5, is zoning of 50 still necessary?
+    - title: My wedding venue is large enough to accommodate more than 1,000 attendees for marriage solemnization or 250 attendees for wedding receptions with appropriate safe distancing between groups of 5, is zoning of 50 still necessary?
       content: |
         Yes. Regardless of venue, the number of people in each zone is capped at 50 attendees. All attendees are to be assigned one zone only and entering an unassigned zone is not allowed. This is to minimise participants’ total risk exposure and the risk of bunching at common areas including entrances and exits. Organisers are to ensure at least 3m distance between zones with the use of physical barriers, e.g. queue poles, or use a solid partition of 1.8 metres or taller between zones. Organisers must also undertake measures to avoid guests crossing between zones. Arrangements must also be made to ensure attendees from different zones do not meet each other at entrances or exits. For instance, organisers could deploy ushers at the entrances and exits of each zone.
 
