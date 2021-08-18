@@ -1,15 +1,20 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Enterprise 150
+title: Dough Sheeter
 permalink: /productivity-solutions-grant/solutionrepo/solution386
 ---
 
 ### Description
 
-QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +36,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Thickness of resulting dough should be adjustable 
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
-Enable Business Pte Ltd<br>www.quickhr.co<br>Email: business@quickhr.co<br>Tel: +65 6908 8158
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

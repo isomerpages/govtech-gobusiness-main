@@ -1,15 +1,15 @@
 ---
-title: 1. E-Payments Made Easy
+title: CROSSTRACK GO - Fleet Management Package 1 - 1 Vehicle
 permalink: /productivity-solutions-grant/solutionrepo/solution2334
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0046053' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Subscription or Leasing
 
 ### Support Level
-Up to % for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
+Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br>Contact Hotline: 91733775 <br>Contact Email: psg@crosstrack.sg <br>
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

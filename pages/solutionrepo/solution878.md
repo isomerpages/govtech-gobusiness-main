@@ -1,15 +1,15 @@
 ---
-title: Sage 300 Version 2021 - Peppol Ready- Advance Edition (5 Users)
+title: Times Software HRMS Version 18.0 - Cloud Based Package 2 (up to 50 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution878
 ---
 
 ### Description
 
-Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
+TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Times_Software_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: The World Management Pte Ltd<br>Web URL: https://twm.com.sg/<br>Contact Hotline: 6741 9198<br>Contact Email: sales@twm.com.sg
+Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

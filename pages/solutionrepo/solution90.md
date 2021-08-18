@@ -1,13 +1,13 @@
 ---
-title: Portable Automatic Gas Cutting Machine
+title: Power Jack for Steel Plates Adjustment (Perpendicular)
 permalink: /productivity-solutions-grant/solutionrepo/solution90
 ---
 
 ### Description
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
+The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
 
-Grant support: 80% of cost of equipment, up to $5,000 grant
+Grant support: 80% of cost of equipment, up to $15,000 grant
 
 ### Details of Solution
 
@@ -33,13 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Automatic traveling gas cutting operations
-Cutting speed: minimum 110 mm/min
-Adjustable bevel angle
+Hydraulic capacity: Min. 5 tonnes
 Maintenance costs not supported
-Optional components: relevant accessories e.g. gas hoses, cables, rail/track
+Optional components: relevant accessories e.g. pump, hydraulic hose
 
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

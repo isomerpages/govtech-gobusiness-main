@@ -1,13 +1,14 @@
 ---
-title: Ozonised Air + Surface Sterilization System
+title: Ozonised Water Sterilisation System
 permalink: /productivity-solutions-grant/solutionrepo/solution83
 ---
 
 ### Description
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
+An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation. 
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
+Purchase of pre-owned/used equipment not supportable
 
 ### Details of Solution
 
@@ -34,10 +35,11 @@ N.A. for non-SMEs
 
 ### Things to Note
 Equipment must meet the following:
-- User ozonised tech generating active oxygen at output between 20mg - 1g/hr
-- Area coverage at least 36.5square meter
-- Effective sterilisation & reduce bacteria count by 90%
-- Installation & maintenance costs not supported
+- Use ozonised tech with ozonised water concen.: 0.4-1.5ppm
+- Ozone flow rate: 0-3 Litres/min
+- Piped to water sources
+- Effective sterilisation & lower bacteria amt by 90%
+- Installation & maintenance not supported
 - For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
@@ -47,4 +49,4 @@ No change in vendor allowed
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,15 @@
 ---
-title: Liquid Filling Machine
+title: KNOW Version 5 - Medium Package (up to 50 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2080
 ---
 
 ### Description
 
-Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
-Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
-Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
+Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -33,17 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimally semi-automated
-- Minimally 1 unit/1 nozzle system to provide accurate filling into applicable units
-- Volumetric or weight based filling
-- Touchscreen display (optional)
-- Explosion proof (optional)
-- Installation/simple training costs can be supported.
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

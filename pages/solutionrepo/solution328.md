@@ -1,18 +1,15 @@
 ---
-title: Creative Sales & Order Management - Package (Standard)
+title: Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution328
 ---
 
 ### Description
 
-Creative Sales and Order Management System is a B2B ecommerce platform that facilitates efficient procurement process through a centralized and secure application hosting. It comes with various modules such as procurement, quotation, invoice, news & events to allow better management of SMEs product catalogue and streamlining of business workflows.
-
-
-
+Microsoft Dynamics 365 Business Central is a complete business solution that can effectively help companies and organizations to manage their financial and operation processes. The flexibility of the software makes it ideal to be configured to fit different business requirements, improve the company's ability to make decisions, and thereby increase the overall productivity of the company.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
+Company Name:Dalstech Pte Ltd <br>Web URL:www.dalstech.com <br>Contact Hotline:69092088 <br>Contact Email:sales@dalstech.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

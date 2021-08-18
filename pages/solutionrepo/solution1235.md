@@ -1,15 +1,17 @@
 ---
-title: Vehicle Safety System - GridPlus VSS (4 Vehicle Package)
+title: King Of Time Version 1 - Up to 150 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1235
 ---
 
 ### Description
 
-VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more. ADAS DSM with AI recognition software will improve driver safety, prevent and reduce the numbers of injuries and accidents.
+King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.
+
+As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hotline: 66908821 <br>Contact Email: hello@huubap.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus
+title: arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 
 ### Description
 
-GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
+With Arcstone's Manufacturing Quality Management solution, manufacturers can gain better control over the quality management processes. The solution delivers end-to-end capabilities to collect quality data, predict abnormalities, trigger alarms allowing them to avoid costly quality issues while eliminating non-compliance at every step.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

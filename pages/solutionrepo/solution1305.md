@@ -1,15 +1,15 @@
 ---
-title: ACE e-commerce solution - Ace Online Ordering System
+title: Vehicle Support System - Vehicle Support System (16 Vehicles Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1305
 ---
 
 ### Description
 
-This 6-in-1 platform provides each F&B establishment with their exclusive website at zero commission fees. Our unique solution allows takeaway ordering where customers can choose the pickup timeslot, online ordering for delivery of food integrated with island-wide delivery partners, dine-in ordering using QR code, integration with kitchen for food preparation, tracking of sales by outlets and customers, and targeted marketing such as discount codes and up-sell functions!
+VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning system for Vehicle Tracking System that stream live location with video and much more. Video cameras installed on 2 sides of the vehicle, the system is able to monitor and record the vehicle front and back in a real-time basis. Providing an enhanced visibility for blind spot in accident prevention. Video footage and GPS data is stored on MDVR/Cloud based for ease of viewing, retrieving and playback.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
+Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Counter/ Fish Biomass Estimation System
+title: Automatic Harvester
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 
 ### Description
 
-Automatic devices for measuring or estimating the number of fish at a waterbody in a period. 
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

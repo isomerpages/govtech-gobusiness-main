@@ -1,15 +1,15 @@
 ---
-title: Carddio Version 1 - Plus Package
+title: Frontwave Cloud Version 8 -  Package (Cloud Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution1174
 ---
 
 ### Description
 
-The One Stop Mobile App for Business Contact Data Storage & Salesman Management with Lead Exchange
+Frontwave Cloud is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Carddio Pte Ltd <br>Web URL: www.carddio.com.sg <br>Contact Hotline: 6258 9852 <br>Contact Email: psg@carddio.com.sg<br>
+Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.sg/frontwave-cloud <br>Contact Hotline: 62899125 <br>Contact Email: info@frontwave.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

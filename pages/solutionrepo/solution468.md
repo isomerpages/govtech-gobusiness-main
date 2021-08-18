@@ -1,15 +1,15 @@
 ---
-title: Hubble Safety Management System - Package (Up to 4 Projects)
+title: Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners
 permalink: /productivity-solutions-grant/solutionrepo/solution468
 ---
 
 ### Description
 
-Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
+Qornerstone Estate is an off-the-shelf solution to digitalize Property & Management (PM) operations. For property managers and single building owners looking to streamline operations and raise productivity levels, or who may wish to scale up but find themselves constrained by the escalating cost of manpower, the Qornerstone Estate is an end-to-end property, leasing, and facilities management platform to leverage on.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
+IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

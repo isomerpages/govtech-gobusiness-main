@@ -1,15 +1,18 @@
 ---
-title: Rockbell Human Resource Management System Version 3 - Package (1 user - 30 employees)
+title: Static Parcel Dimension, Weight and Scan Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution752
 ---
 
 ### Description
 
-The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.  
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
+
+Grant support: 80% of cost of equipment, up to $17,000 grant
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +34,18 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Mandatory Specification
+- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together
+- Weigh parcel up to 30kg
+- Weighing accuracy of +/- 10g
+- Stereometry accuracy within +/- 5mm
+- Throughput approx 400/hour
+- Data transmitted to a software/ERP via wireless/LAN connection
+
+Installation costs are supported.
+?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Rockbell International Software Pte Ltd<br>www.rockbell.sg<br>Email: sales@rockbell.com.sg<br>Tel: +65 6469 7720
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

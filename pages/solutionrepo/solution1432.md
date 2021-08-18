@@ -1,15 +1,15 @@
 ---
-title: UNIPRO RETAILPOS STANDARD VER 14.01 Version-OUTLET 
+title: SQL Account Version 5-Package A (1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution1432
 ---
 
 ### Description
 
-Unipro's RetailPOS Standard Ver .14.01  is an effective end to end web based Retail Management Solution. The suite of applications provides retailers with a real time view of their operations, and centralised control enables effective and faster decision-making.In-Store transactions are replicated to the Head Office, allowing quick decision making without any delays in day to day operations. Data is stored in a cloud hosting and report generation form cloud storage. 
+SQL Account includes full range of business features including AR, AP, GL, Inventory, Banking, GST, Reporting. It's user-friendly interface helps SMEs perform daily operation easily and effectively, organise and analyse finance data for accurate reporting, customisable to suit business workflow and secure access right. SQL Account features multi-currencies, project & departmental costing, multi-warehouses so you can access to updates on your accounting & business operation with ease.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_UNIPRO_20190004_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
+Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

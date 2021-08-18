@@ -1,16 +1,15 @@
 ---
-title: VEON@Experience Version 1.0 - Package D (VEON Basic (+ hardware) + 5 Stylist, Assistant, Freelancer tool + 2 Software powerpacks)
+title: Microsoft Dynamics 365 Business Central (NAV) - Package B (Level Up 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution433
 ---
 
 ### Description
 
-VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
-Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand.
+Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick to implement, simple-to-use business solution with the power to support your business ambitions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_45.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +65 9761 9340
+Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-solutions.com<br>Tel: +65 6570 5012
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

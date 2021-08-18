@@ -6,12 +6,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution94
 ### Description
 
 A probing system consists of the following attached to CNC machining center:
-
 Work Piece Touch Probe: Work piece measurement/referencing 
 Tool Setting Probe: Tool setting, length, radius, breakage detection
 Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
 Implementation: Equipment configuration, training
-
 Grant support: 80% of cost of probing system, up to $30,000 grant cap
 
 ### Details of Solution
@@ -54,4 +52,4 @@ No change in vendor allowed
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

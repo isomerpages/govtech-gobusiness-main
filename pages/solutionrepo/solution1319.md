@@ -1,5 +1,5 @@
 ---
-title: SentroWeb - Regular DJ 1000
+title: SentroWeb - Regular 100
 permalink: /productivity-solutions-grant/solutionrepo/solution1319
 ---
 
@@ -9,7 +9,7 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,4 +36,4 @@ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indire
 ### Contact Information
 Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

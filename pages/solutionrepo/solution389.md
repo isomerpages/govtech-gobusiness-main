@@ -1,5 +1,5 @@
 ---
-title: Epoint Version 9 - Package (eWaiter - Basic+ For Single Outlet )
+title: Epoint Version 9 - Package (eKiosk - Pro For Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution389
 ---
 
@@ -11,9 +11,10 @@ Epoint mobility ordering POS provides a full spectrum of solutioning for Food an
 
 
 
+
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -40,4 +41,4 @@ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indire
 ### Contact Information
 Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

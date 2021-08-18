@@ -1,15 +1,25 @@
 ---
-title: WarelyPOS Version 1.1 - WarelyPOS Express
+title: Automated tools management system
 permalink: /productivity-solutions-grant/solutionrepo/solution2038
 ---
 
 ### Description
 
-WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system.  
+
+Grant support: 80% of cost of equipment, up to $22,400 grant
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +41,15 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Unit is expandable, customizable to hold different types of tools, and fully secured. 
+
+Support only hardware and software.
+
+Additional criteria:
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
-Web URL: https://www.p65marketing.com/warelypos/ <br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

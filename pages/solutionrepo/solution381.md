@@ -1,15 +1,19 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)
+title: Epoint Version 9 - Package (eWaiter - Basic+ For Single Outlet )
 permalink: /productivity-solutions-grant/solutionrepo/solution381
 ---
 
 ### Description
 
-EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
+Epoint mobility ordering POS provides a full spectrum of solutioning for Food and Beverages segment. The mobility solution allows waiter to use a tablet to take order on behalf of the customer directly and send orders to kitchen once the order is confirmed.
+
+
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>Contact Hotline:67460710 <br>Contact Email:sales@edgeworks.com.sg <br>
+Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

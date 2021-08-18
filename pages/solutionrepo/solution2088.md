@@ -1,15 +1,15 @@
 ---
-title: KNOW Version 5 - Medium Package (up to 50 Users)
+title: UTM+ Managed Security Services Version 5.5  - Package (UTM+ for Max 200)
 permalink: /productivity-solutions-grant/solutionrepo/solution2088
 ---
 
 ### Description
 
-Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
+Networkbox's UTM solution provides remote monitoring, manages and protects company's network from cyber threats 24/7, allowing businesses to concentrate on running their day to day operations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
+Company Name: Network Box (SIN) Pte Ltd<br>Web URL:  www.network-box.sg<br>Contact Hotline: 6339 5900<br>Contact Email: enquiry@network-box.sg
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

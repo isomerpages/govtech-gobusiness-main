@@ -1,15 +1,15 @@
 ---
-title: InSight QSE - Insight QSE Safety PTW System (Enterprise)
+title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 EndPoints (for SMEs with 10 servers and 15 employees or more)
 permalink: /productivity-solutions-grant/solutionrepo/solution284
 ---
 
 ### Description
 
-Insight QSE Safety PTW System alleviates the current paper-based method of routing PTWs for approvals which is time-consuming and an administrative headache to store all paper-based PTWs properly for accountability and checks. The System will help to establish Control, Coordination and Communication for PTW applications among the participating stakeholders through both web and mobile application.
+Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
+Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

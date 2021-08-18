@@ -1,11 +1,11 @@
 ---
-title: Automatic egg case labelling machine
+title: Culture Tank System with Water Monitoring and Control System
 permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 
 ### Description
 
-Egg pack printing system or pack labelling system which allow the user to fully customize their label.
+Fish cultivation system with monitoring and control system
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

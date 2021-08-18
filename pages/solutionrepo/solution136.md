@@ -1,17 +1,15 @@
 ---
-title: Steel Plate Butt Joint Welding Alignment Tool
+title: ABSS Premier Version 23.0 - Package D (Single User Licence product only)
 permalink: /productivity-solutions-grant/solutionrepo/solution136
 ---
 
 ### Description
 
-The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
-
-Grant support: 80% of cost of equipment, up to $10,000 grant
+ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -33,10 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Magnetic force: minimum 800kgf
-Maintenance costs not supported
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

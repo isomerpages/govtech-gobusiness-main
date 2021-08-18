@@ -1,15 +1,15 @@
 ---
-title: Tessaract.io Version 2021 - CRM Package D - Up to 30 Users
+title: APPZPOS F&B Point of Sales Version 1.1 - Web Online Ordering System
 permalink: /productivity-solutions-grant/solutionrepo/solution1981
 ---
 
 ### Description
 
-An enterprise solution for the professional services industry - Legal, Accountancy, Consulting, Advisory, Media, Architectural. Our technology solutions are client-focused, and definitely professional-focused, to make sure you are able to maximize the full potential of your workforce. Our methodology of constant building and evolving to meet the real needs of our users ensures customer satisfaction and success.
+APPZPOS is a one integrated solution with multiple ordering portals linked to the same central admin backend and kitchen display system. Users can place orders from multiple portals, while staff check orders as well as sales reports in the same backend for multiple outlets. APPZPOS is a cloud based system where users can easily amend menu and other setting from backend, check reports through any device, at anywhere, anytime.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO <br>
+Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932234 <br>Contact Email: sales@appzgate.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

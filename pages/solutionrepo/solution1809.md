@@ -1,19 +1,15 @@
 ---
-title: Xero - Premier with Set-Up (Basic)
+title: NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1809
 ---
 
 ### Description
 
-Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
-
-Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
-
-Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
+Synology NAS pairing with an onsite and offsite cloud backup to ensure that data protection is achieved and to meet compliance in many organisations. The data can be accessed via mapped drives, website portal or via the mobile app. It also sync the documents automatically without hassle via the app on your local computer, similar to One Drive/Google Drive/Dropbox but this is on a private cloud basis.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
+Web URL: https://www.nucleoconsulting.com/psg-grants-nas-email-security-cyber-training<br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com 
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

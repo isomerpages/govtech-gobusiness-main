@@ -1,15 +1,15 @@
 ---
-title: KADDRA Mobile App Commerce Solution Version 1.9 - Pro
+title: DST Inventory System Version 1.3 - Package C (Barcode)
 permalink: /productivity-solutions-grant/solutionrepo/solution2261
 ---
 
 ### Description
 
-Kaddra helps businesses turn loyalty into revenue, improve retention and accelerate growth through its cross-channel solution. With the useful end to end tools, it provides opportunities for SMEs to upsell, create targeted marketing, improve customer service and better understand customer trends through analytics.
+DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android App) to scan passive RFID tags attached onto Inbound and Outbound items for tracking and inventory stock take. The solution is used mainly for tracking of high value items such as Jewellery, Wines, Furniture, Laptops etc. by Rental, Movers and Event Companies.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact Email: Togi.Gouw@Kaddra.com <br>
+Company Name: DST Advertising (Singapore) Pte Ltd<br>Web URL: DSTadvertising.com<br>Contact Hotline: 8668 5292<br>Contact Email: Sales@dstadvertising.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

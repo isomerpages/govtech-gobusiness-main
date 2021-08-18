@@ -1,15 +1,15 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank with Auto ETL - Medium Engine)
+title: Singtel-Fortinet-FG-60E inclusive of 1 Year Unified (UTM) Protection
 permalink: /productivity-solutions-grant/solutionrepo/solution1489
 ---
 
 ### Description
 
-KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Fortigate_UTM_Annex_3_CR_2_wef_29_October_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,14 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 30% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>Contact Hotline: 62133388<br>Contact Email: grace_tan@kpmg.com.sg<br>
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

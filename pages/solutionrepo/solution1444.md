@@ -1,15 +1,15 @@
 ---
-title: SQL Account Version 5-Package E (Advance - 8 Users)
+title: OpenCart E-Commerce Website Deployment - eCommerce Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1444
 ---
 
 ### Description
 
-SQL Account includes full range of business features including AR, AP, GL, Inventory, Banking, GST, Reporting. It's user-friendly interface helps SMEs perform daily operation easily and effectively, organise and analyse finance data for accurate reporting, customisable to suit business workflow and secure access right. SQL Account features multi-currencies, project & departmental costing, multi-warehouses so you can access to updates on your accounting & business operation with ease.
+OpenCart is the world's top three open source e-commerce software. It has everything needed to create, scale and run a business. Equotix is OpenCart's sole partner based in Singapore. Equotix assist companies in customising and deploying their own OpenCart e-commerce website on the cloud. It is simple to use and cost friendly to businesses.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
+Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Contact Email: contact@equotix.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

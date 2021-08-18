@@ -1,15 +1,15 @@
 ---
-title: SQL Account Version 5-Package D (Advance - 5 Users)
+title: EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)
 permalink: /productivity-solutions-grant/solutionrepo/solution1443
 ---
 
 ### Description
 
-SQL Account includes full range of business features including AR, AP, GL, Inventory, Banking, GST, Reporting. It's user-friendly interface helps SMEs perform daily operation easily and effectively, organise and analyse finance data for accurate reporting, customisable to suit business workflow and secure access right. SQL Account features multi-currencies, project & departmental costing, multi-warehouses so you can access to updates on your accounting & business operation with ease.
+Eats365 POS System is design for chain restaurants, franchise or MNC. It automatically consolidate online orders, food delivery platforms, self-service kiosk, dine-in (BYOD), and eCommerce into the POS system (Point-of-sale) and to give you insightful reporting. Eats365 POS built-in loyalty, and promotion features, help you to grow business and retain customers.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
+Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

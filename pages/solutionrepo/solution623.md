@@ -1,15 +1,20 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package A (5 Users with PEPPOL unlimited)
+title: MuRho Inventory Management & Sales Management System - STARTER PACK C - PERPETUAL LICENSE ON CLOUD WITH HARDWARE
 permalink: /productivity-solutions-grant/solutionrepo/solution623
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive all-in-one business management solution integrated with ERP capabilities into applications that work seamlessly together with Office 365 across sales, operations, field service and financials for small and medium-sized businesses. The application helps your business transform and streamlines work processes to achieve the productivity of your work, reduce manual efforts and go paperless.
+The MuRho Inventory Management & Sales Management System includes:
+-	Store N Track (Inventory & Asset Management System)
+-	Manufacture N Track (Inventory & Manufacturing Work In Progress Management System)
+-	Sell N Track (Inventory & Sales Order Management System) 
+-	Order N Track (Inventory & Online B2B / Mobile Sales Order Management System)
+-	Connect N Track (API connector to link to 3rd party Marketplace / Software System)
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +39,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.msc-consulting.com.sg <br>Contact Hotline: 63172050 <br>Contact Email: alex.goh@msc-consulting.com.sg <br>
+MuRho Pte Ltd <br>www.murho.com.sg<br>Email:sales@murho.com.sg<br>Tel:+65 6289 3802
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

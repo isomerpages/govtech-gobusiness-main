@@ -1,15 +1,15 @@
 ---
-title: Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 100 Licences (1 Year)
+title: Tessaract.io Version 2021 - CRM Package A - Up to 5 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1970
 ---
 
 ### Description
 
-Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
+An enterprise solution for the professional services industry - Legal, Accountancy, Consulting, Advisory, Media, Architectural. Our technology solutions are client-focused, and definitely professional-focused, to make sure you are able to maximize the full potential of your workforce. Our methodology of constant building and evolving to meet the real needs of our users ensures customer satisfaction and success.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.advancedatan.com <br>Contact Hotline: 65606228 <br>Contact Email: sales@advancedatan.com <br>
+Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

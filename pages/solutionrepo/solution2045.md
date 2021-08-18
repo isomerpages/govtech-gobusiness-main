@@ -1,19 +1,17 @@
 ---
-title: Mobile Computer (Warehouse application)
+title: EQUIP Version 10 - EQUIP S1 - 30 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2045
 ---
 
 ### Description
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
 
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
-
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,20 +33,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Installed with software for inventory data input.
-Withstand rough handling, meet min IP54 standards.
-Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
-Battery with min 3 hrs standby.
-Wireless LAN/Bluetooth/cellular connectivity.
-Support the common operating system e.g. Android, Windows.
-Maintenance cost is not supported.
-
-
-Additional criteria: >30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 66028002 <br>Contact Email: enquiries@hashmicro.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automated Slaughtering Equipment
+title: Crate/ Tray washing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
 ### Description
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+A machine used to wash crates and trays used for farming.
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

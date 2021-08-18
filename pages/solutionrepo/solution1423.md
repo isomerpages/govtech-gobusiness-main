@@ -1,15 +1,15 @@
 ---
-title: Freight Master Version 8.1 (8 Licenses)
+title: UNIPRO RETAILPOS STANDARD VER 14.01 Version-HQ
 permalink: /productivity-solutions-grant/solutionrepo/solution1423
 ---
 
 ### Description
 
-The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of four core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low cost solution, thereby providing a more level playing field for the SMEs.
+Unipro's RetailPOS Standard Ver .14.01  is an effective end to end web based Retail Management Solution. The suite of applications provides retailers with a real time view of their operations, and centralised control enables effective and faster decision-making.In-Store transactions are replicated to the Head Office, allowing quick decision making without any delays in day to day operations. Data is stored in a cloud hosting and report generation form cloud storage. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_UNIPRO_20190004_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
+Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: XERO - Accounting Consultancy-Premium Full Package
+title: SAP BUSINESS ONE V10 - 5 Perpetual Starter users SQL on Cloud
 permalink: /productivity-solutions-grant/solutionrepo/solution1766
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
+SAP Business One is an integrated business management application. It offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics, which address the business management needs of your entire company. It helps businesses like yours manage the entire process of selling and servicing clients, and once orders are taken, they flow directly into automated fulfillment.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
+Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

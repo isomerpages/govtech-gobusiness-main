@@ -1,15 +1,15 @@
 ---
-title: EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)
+title: Swingvy-Swingvy - Swingvy Full suite for 5 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1451
 ---
 
 ### Description
 
-Eats365 POS System is design for chain restaurants, franchise or MNC. It automatically consolidate online orders, food delivery platforms, self-service kiosk, dine-in (BYOD), and eCommerce into the POS system (Point-of-sale) and to give you insightful reporting. Eats365 POS built-in loyalty, and promotion features, help you to grow business and retain customers.
+Swingvy is the modern HR platform for small and mid-sized businesses. By seamlessly connecting all HR information, Swingvy automates every administrative work - HR, claims, payroll and benefits - without hassle. Swingvy aims to replace paperwork or spreadsheets and help SMEs to manage all their HR in one place. Swingvy serves over 8,000 companies and has offices in Singapore, Kuala Lumpur, Taiwan and Seoul.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
+Web URL: http://swingvy.com/ <br>Contact Hotline: +6591877655 <br>Contact Email: support@swingvy.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

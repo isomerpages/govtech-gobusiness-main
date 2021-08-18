@@ -1,15 +1,15 @@
 ---
-title: VersaFleet Version 6-W
+title: EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (10 Devices)
 permalink: /productivity-solutions-grant/solutionrepo/solution952
 ---
 
 ### Description
 
-VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
+Winapp EzySalesOrder V 2.0  simplifies your organization, to do day to day operation from our Web and Mobile Application. Our solution reduces all manual efforts and data loss which increase Productivity by saving lots of time and operational cost. We offers fully integrated application for Wholesale and retail to help your business grow and succeed. Our powerful web and mobile app allow you to maintain full control over sales, purchase and inventory while presenting an easy user interface.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Versafleet-WS_Annex3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Website: www.versafleet.co <br>Email: customers@versafleet.co<br>Tel: 69965309 
+Company Name:WINAPP SOLUTIONS PTE LTD <br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

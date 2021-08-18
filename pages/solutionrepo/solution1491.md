@@ -1,15 +1,15 @@
 ---
-title: OneSumX for Regulatory Reporting Version 3.1.0- Package (Tier 3)
+title: Singtel-Fortinet-FG-100E inclusive of 1 Year Unified (UTM) Protection
 permalink: /productivity-solutions-grant/solutionrepo/solution1491
 ---
 
 ### Description
 
-OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
+A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Fortigate_UTM_Annex_3_CR_2_wef_29_October_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,14 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 30% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Wolters Kluwer Financial Services Singapore Pte Ltd<br>Web URL: www.wolterskluwerfs.com<br>Contact Hotline: 63808000<br>Contact Email: Anurag.Seth@wolterskluwer.com<br>
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

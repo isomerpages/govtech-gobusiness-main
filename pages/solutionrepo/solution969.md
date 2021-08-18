@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central for Wholesale - Package D (15 On-Cloud Licenses) with  PEPPOL e-invoicing
+title: Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up, Training Package
 permalink: /productivity-solutions-grant/solutionrepo/solution969
 ---
 
 ### Description
 
-An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
+Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
+Web URL: https://www.yoio-sg.com/#ourexpertise <br>Contact Hotline: 91793142 <br>Contact Email: hanz@yoio-sg.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

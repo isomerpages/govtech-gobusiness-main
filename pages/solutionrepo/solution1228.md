@@ -1,15 +1,15 @@
 ---
-title: VRcollab LITE - LICENSE ONLY
+title: Vehicle Safety System - GridPlus VSS (6 Vehicle Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1228
 ---
 
 ### Description
 
-VRcollab is a next generation VDC software solution for the construction industry which provides BIM interrogation, Stakeholder collaboration and use of Virtual Reality in BIM coordination sessions. BIM interrogation capabilities includes Full BIM Meta Data Inspection and Precise Model Measurements. The software also allows the users to annotate and comment directly on VR models for the purpose of issue creation, tracking, and coordination reporting.
+VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more. ADAS DSM with AI recognition software will improve driver safety, prevent and reduce the numbers of injuries and accidents.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
+Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,15 @@
 ---
-title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
+title: SAP Business One Version 10 - SAP Business One on HANA - Package A Starter Package (5 Cloud Subscription Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1990
 ---
 
 ### Description
 
-Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
-
-The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
+SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
+Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: GenicDocs - Document Management Software-Package E
+title: Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1421
 ---
 
 ### Description
 
-GenicDocs is a very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users.
+Simplr is an easy-to-use, intuitive mobility solution for distribution management, distributor management and warehouse management. The comprehensive field sales-force automation solution optimises productivity, efficiency and provide management with real-time information and visibility in the sales distribution. The solution integrates your distribution network with data capture at every node to optimise resource utilization and provide a macro view of the supply chain.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

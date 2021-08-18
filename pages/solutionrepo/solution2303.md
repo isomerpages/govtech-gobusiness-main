@@ -1,15 +1,15 @@
 ---
-title: XERO -Cloud Accounting Software- Aspire Super Plan D
+title: Fleet Management System - Pkg 2 - 4 vehicle
 permalink: /productivity-solutions-grant/solutionrepo/solution2303
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
+Track-Asia's FMS enable fleet owners the capability of tracking their fleet at any point of time with the assistance of software (web/mobile) together with GPS Tracker installed in the vehicle. Our solution is able to provide comprehensive data based on the collected data that is registered into the backend which will allow business owners to analyze & study. Not limiting the software capability for business owner, they can setup their own geo-fencing, scheduling maintenance & servicing.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Acecom20200635_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.xero.com <br>Contact Hotline: 97592364 <br>Contact Email: info@clooudconsulting.com <br>
+Web URL: https://track-asia.com/ <br>Contact Hotline: 91125883 <br>Contact Email: eugene_low@acecom.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

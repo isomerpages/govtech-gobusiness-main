@@ -1,15 +1,15 @@
 ---
-title: UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - LITE
+title: Flange Facer
 permalink: /productivity-solutions-grant/solutionrepo/solution1469
 ---
 
 ### Description
 
-Unipro Ecommerce Online store aims to provide SME the opportunity to create an online presence and explore its business in online platform. It helps the SME to create more convenience for their customers to explore the products and services at the convenient time and influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
+The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered. Time is saved during operation as there can be less rework.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Facing diameter must be >1m
+Training costs can be supported
+Maintenance costs not supported
 
 ### Contact Information
-Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,17 @@
 ---
-title: ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)
+title: RevoPOS 3.0 - Package (Digital Ordering System)
 permalink: /productivity-solutions-grant/solutionrepo/solution143
 ---
 
 ### Description
 
-ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
+RevoPOS 3.0 Digital Ordering Systems eMenu and eWaiter enable customers to place orders themselves(eMenu) or for staff to send orders(eWaiter) directly to the Kitchen Ordering System. Data can be managed within the outlet or on the cloud. The CRM and Loyalty come with features such as Rewards Points, Credit Storage, Member Auto Discounts, and SMART SMS promoting. All RevoPOS data can be synced on the cloud for all outlets and generate data insights and managed on the backend and the frontend.
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Appz_Inc_-_FS_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +26,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663
+Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

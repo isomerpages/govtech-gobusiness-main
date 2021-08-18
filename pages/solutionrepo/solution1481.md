@@ -1,15 +1,15 @@
 ---
-title: Automatic Nut Splitter
+title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank with Auto ETL - Medium Engine)
 permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 
 ### Description
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
+KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,16 +27,14 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 30% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum nut size: 12.7mm
-It can be powered hydraulically, electrically, pneumatically etc
-Training costs can be supported
-Maintenance costs not supported
+For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 ### Contact Information
-N.A.
+Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>Contact Hotline: 62133388<br>Contact Email: grace_tan@kpmg.com.sg<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

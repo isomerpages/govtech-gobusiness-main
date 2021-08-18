@@ -1,15 +1,18 @@
 ---
-title: Digital Retail eCommerce Solution Version 1
+title: AppPOS (BYOD) Version 4 - Package (PLUS - QR ordering - Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution140
 ---
 
 ### Description
 
-Digital Retail eCommerce Solution enable users to enhance their online presence through mobile responsive  e-Commerce website with content management, online leads analysis and online transaction management capabilities. 
+AppPOS Solution is a highly scalable omni-channel ordering system that fits the purpose of F&B merchants of all concepts/sizes. It allows customers to order food (dine in, takeaway, pre-orders and drive through) via web app and mobile apps for restaurants, quick service restaurants, kiosks/stalls, among many other F&B concepts.
+
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Amobee_Asia_Annex 3_CR_wef_8May2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Amobee Asia Pte Ltd<br>https://amobeedigital.com/web-solutions/<br>Email: ADS@amobee.com<br>Tel: +65 6323 9448
+AppsPOS Pte Ltd<br>www.appspos.com<br>Email: kingsley@appspos.com<br>Tel: +65 9028 8123
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

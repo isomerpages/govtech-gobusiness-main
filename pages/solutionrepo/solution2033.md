@@ -1,15 +1,15 @@
 ---
-title: A2000ERP Version 12.X - Package (A) - A2000ERP Wholesale System for 10 Users Annual Subscription
+title: Zeemart - Zeemart Buyer Hub (Upto 10 outlets w/integration) (Package 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution2033
 ---
 
 ### Description
 
-A2000 Solutions Pte. Ltd. is an established ERP business software development company in Singapore with more than 24 years of industry experience in its pocket. We provide enterprise solutions that cover financial management, analytics, mobile solutions, sales & distribution, POS, inventory & warehouse system. A2000 Solutions simplifies your business processes, empowers people, and helps SMEs to create dynamic responses to market changes for small and medium-sized industries.
+Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hotels, Restaurants, Catering) industry.  For Buyers, Zeemart provides a platform (mobile & web) to perform sourcing, procurement, inventory, financing & payment activities for their operations. For Suppliers, Zeemart provides an all-in-one solution (web) for their digital marketing, lead generation, order management, inventory, eInvoicing, and payment collection business activities.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
+Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

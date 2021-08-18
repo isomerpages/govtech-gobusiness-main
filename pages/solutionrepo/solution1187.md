@@ -1,15 +1,15 @@
 ---
-title: Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users)
+title: Shortcuts Version 8 - Shortcuts Fusion + Network Client
 permalink: /productivity-solutions-grant/solutionrepo/solution1187
 ---
 
 ### Description
 
-Madsoft Solutions is an integrated order processing, inventory and accounting solution to meet the operational and financial reporting needs of SMEs. Easy user interface allows non-account person to manage the finances. Real-time updating and powerful inquiry function provide up-to-date information for management. It is able to track receiving and ordering, management of inventory turnover, handle project costing, multiple locations, simple item assembly.  It has on-line or on premise versions.
+Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 6296 9919/ 9858 9768 <br>Contact Email: sales@madsoft.com.sg <br>
+Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact Hotline: 91092480 <br>Contact Email: info@serixx.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (250)
+title: Hubble Safety Management System - Package (Up to 3 Projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution459
 ---
 
 ### Description
 
-HRMLABS helps to digitalize the manual process of HR administrative data with ease of access to the centralized information. The base modules cover the Dashboard, Employee Management, Leave Management, Benefits & Claims Management, Payroll Management, Contract Management, Attendance Management and Performance Appraisal Management.
+Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-HRM Labs Pte Ltd<br>www.hrmlabs.com<br>Email: contact@hrmlabs.com<br>Tel: +65 9025 5587
+Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

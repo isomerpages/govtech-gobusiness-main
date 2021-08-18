@@ -1,16 +1,15 @@
 ---
-title: Vodich- Xero Cloud Accounting - Package B - Standard
+title: Automatic Shrink Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1984
 ---
 
 ### Description
 
-Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. 
-On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
+Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,25 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to For SMEs: 80 of cost of equipment, up to $30,000 grant per unit.% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications:
+- Able to pack products in round or odd shapes.
+- Must be able to run shrinking polyolefin films.
+- Min. output capacity of 15 metres per minute.
+- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
+- Installation and maintenance costs are not supported.
+
+-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+-No change in vendor allowed
+-The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
-Web URL: https://vodich.com.sg/index.php/cloud-accounting/ <br>Contact Hotline: 67339196 <br>Contact Email: sales@vodich.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

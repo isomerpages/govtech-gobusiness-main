@@ -1,15 +1,15 @@
 ---
-title: Venue management software Version 2.0 - Regular
+title: Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management - Package A (10 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
 ### Description
 
-Venuerific was founded in Singapore in 2013 with the goal of helping venue owners market and grow their business through the events industry. What we discovered soon after was that most venues did not have the proper tools & systems to effectively manage this business. Hence in 2015, Venuerific pivoted to developing a one-stop system that allows the venues to operate optimally and efficiently through relevant data and in return increase revenue & profitability of the business.
+Ascent's iSPOT FMS enable companies to transform their business with data-driven actions on a simple managed platform from the day that they start their fleet. Ascent's positioning in the market on iSPOT FMS has always been cost leadership, commoditizing our solutions and making it available to all companies operating fleets. Installation, guided adoption walkthrough and business hours support flattens the learning curve and allow SME to exact benefits immediately after signing up with us
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:VENUERIFIC PTE. LTD. <br>Web URL: www.venuerific.com <br>Contact Hotline: 84489750 <br>Contact Email: support.sg@venuerific.com 
+Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

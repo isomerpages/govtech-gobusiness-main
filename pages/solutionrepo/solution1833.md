@@ -1,26 +1,19 @@
 ---
-title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
+title: Yumstone F&B Solutions Version 5.0 - Package 5 Mobile, Emenu, Kiosk, Qrcode and CRM
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 
 ### Description
 
-At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
-
-We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
+The Essential F&B Management Solutions 
+Major Productivity Solutions:
+1.	Efficient streamlined manpower, cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-1.Financial Services<br>
-2.Consumer FMCG<br>
-3.Telecommunications<br>
-4.Consumer Food Retail<br>
-5.Consumer - Agricultural Conglomerate<br>
-6.Consumer - Beverage
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -39,11 +32,12 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
+Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
 
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

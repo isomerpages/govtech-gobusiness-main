@@ -1,15 +1,15 @@
 ---
-title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PATH TO PURCHASE
+title: A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan C
 permalink: /productivity-solutions-grant/solutionrepo/solution1680
 ---
 
 ### Description
 
-RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technologies to intelligently measure shoppers' behavior. Shoppers' behavioral data are anonymously captured and sent to the platform directly from the "Aurora V2" sensors. Retailers can have a wider perspective of where the possible areas to work on increasing revenue are. RetailNext is a proven platform used by more than 450 retailers in over 85 countries to increase sales, reduce theft and eliminate unnecessary costs.
+Sleek provides fully digital, secure and hassle-free HR admin & payroll services for SMEs and Startups in Singapore. Sleek's HR service covers everything that a growing SME will need from monthly payroll reporting (including payslips), leave management, employee expenses submission and tracking, annual IR8A preparation, IR21 Tax Clearance, Central Provident Fund (CPF) submissions and Skills Development Levy (SDL) processing all delivered through a user-friendly and digital experience.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.retaildds.com <br>Contact Hotline: 69881039 <br>Contact Email: transform@retaildds.com <br>
+Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

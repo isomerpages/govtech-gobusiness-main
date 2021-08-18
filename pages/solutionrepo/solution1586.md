@@ -1,15 +1,15 @@
 ---
-title: Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft75 (For 75 users)
+title: cuteTrac Version 2  - Package (1 Vehicle)
 permalink: /productivity-solutions-grant/solutionrepo/solution1586
 ---
 
 ### Description
 
-Voted as one of the best HRMS vendors by the Human Resource community, Unit4 has accumulated deep knowledge in developing and providing human resource software solutions and services. Its unique system, the Prosoft HRMS, is smart, flexible and easily integrated. It is widely regarded as an asset to human resource management and fulfills local and regional manpower management needs for many clients.
+cuteTrac is an advanced vehicle tracking solution that helps to manage fleet operations in an efficient manner. It increases the productivity and results in tremendous cost savings.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.enablegroup.com.sg<br>Contact Hotline: 68718801<br>Contact Email:clientservices@enablegroup.com.sg
+Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

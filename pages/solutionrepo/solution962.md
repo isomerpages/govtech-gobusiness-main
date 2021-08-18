@@ -1,15 +1,18 @@
 ---
-title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Start Up Pack (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution962
 ---
 
 ### Description
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. Time and manpower is saved during operation.
+"Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements."
+
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,19 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Able to deliver at least 1000NM of torque
-- It can be powered pneumatically or electically through a power unit  . If it is electrically powered, 1 Power Unit can be supported.
-- Training costs to be supported
-- Maintenance costs not supported
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

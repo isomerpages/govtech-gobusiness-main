@@ -1,15 +1,18 @@
 ---
-title: DROPBOX - DROPBOX BUSINESS - 10 USERS 
+title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 6 Vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
 ### Description
 
-The Advanced plan on Dropbox Business gives teams as much space as they need, along with sophisticated admin, audit, security, and integration capabilities.
+Designed for all fleet size and management. 
+Includes 4 cameras and a mobile digital video recorder with gps which provides real-time video and gps information to allow fleet managers to better manage and monitor. This will help with more efficient operation, lowering cost and better productivity.   
+
+The system is also able to add in a variety of Telematics smart sensors to meet certain industrial mandatory safety requirements.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

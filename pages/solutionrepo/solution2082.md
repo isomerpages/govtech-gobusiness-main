@@ -1,15 +1,15 @@
 ---
-title: High Pressure Rotating Head
+title: KNOW Version 5 - Xlarge Package (up to 200 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2082
 ---
 
 ### Description
 
-The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. Time and manpower reliance can be reduced when using this equipment.
+Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,13 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
-- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
-- Maintenance costs not supported
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

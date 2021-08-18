@@ -1,15 +1,15 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)
+title: 2020 QuickHR Version 9 - Cloud HRMS - Enterprise 150
 permalink: /productivity-solutions-grant/solutionrepo/solution378
 ---
 
 ### Description
 
-EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
+QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>Contact Hotline:67460710 <br>Contact Email:sales@edgeworks.com.sg <br>
+Enable Business Pte Ltd<br>www.quickhr.co<br>Email: business@quickhr.co<br>Tel: +65 6908 8158
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

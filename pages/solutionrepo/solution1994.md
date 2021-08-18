@@ -1,15 +1,15 @@
 ---
-title: ABSS - Accounting Consultancy - 3 users + Setup
+title: SAP Business One Version 10 - SAP Business One on HANA - Package E (7 Perpetual Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution1994
 ---
 
 ### Description
 
-Accounting Consultancy Pte Ltd is a pre-approved vendor offering ABSS ABSS Premier provides advanced Accounting, inventory and business management capabilities to companies. Process foreign currency transactions, tax submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
+SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
+Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Autocount Accounting 2.0 - Package (Pro - 3 Users)
+title: Revel Systems POS Version 2 - Package A Revel 2 device license w/ e-Menu Ordering
 permalink: /productivity-solutions-grant/solutionrepo/solution1791
 ---
 
 ### Description
 
-Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
+Revel Systems iPad Point of Sale is the most versatile solution in the market today-a feature-rich POS platform that offers business owners and operators complete control of their business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_System_Holdings_20200105_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
+Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Live Fish Pump
+title: Solar Panels System and Energy Storage System
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
 ### Description
 
-An equipment that ensure safe, gentle, fast way to transfer fish.
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

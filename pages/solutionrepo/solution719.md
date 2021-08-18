@@ -1,15 +1,15 @@
 ---
-title: PixelCommerce Version 5.2.5-Ultimate
+title: Psoft Accounting Systems - Package (Cloud-Based Single User)
 permalink: /productivity-solutions-grant/solutionrepo/solution719
 ---
 
 ### Description
 
-PixelCommerce is a complete e-Store solution that enables SMEs to boost business presence, enhance customer experience, influence purchase decisions, and ultimately increasing productivity and revenue.
+Our company specializes in business software applications ie selling Psoft Accounting software for SME in Singapore to help them keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Our software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow. All these to help SME company to perform better.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:PIXEL MECHANICS PTE LTD <br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg <br>
+Psoft Pte. Ltd.<br>http://www.psoftaccounting.com<br>Email: psoft@singnet.com.sg<br>Tel: +65 6295 3292
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

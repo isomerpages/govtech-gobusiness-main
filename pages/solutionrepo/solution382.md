@@ -1,17 +1,20 @@
 ---
-title: EPSProfessional V1.7
+title: Epoint Version 9 - Package (eMenu - Advance For Single Outlet )
 permalink: /productivity-solutions-grant/solutionrepo/solution382
 ---
 
 ### Description
 
-ePSProfessional is a feature-rich ecommerce online shop solution based on open source system (Prestashop 1.7x) which allows store owners to run easily on their existing web hosting. It includes an online catalogue which saves customer service effort. The online ordering and payment capabilities help to increase productivity by eliminating paper invoicing and PO faxing. The search-engine-optimized system and training create a digital marketing advantage for the merchants over their competitors.
+Epoint mobility ordering POS provides a full spectrum of solutioning for Food and Beverages segment. The mobility solution allows waiter to use a tablet to take order on behalf of the customer directly and send orders to kitchen once the order is confirmed.
+
+
+
 
 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +29,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +39,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Efusion Technology Pte Ltd<br>www.efusiontech.com<br>Email: contact@efusiontech.com<br>Tel: +65 6292 3086 / +65 6291 3382
+Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

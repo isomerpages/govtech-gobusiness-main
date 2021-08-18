@@ -1,15 +1,15 @@
 ---
-title: PEOPLECENTRAL HRMS Version 11 - Professional 150
+title: ACE e-commerce solution - Ace Online Ordering System
 permalink: /productivity-solutions-grant/solutionrepo/solution1297
 ---
 
 ### Description
 
-PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
+This 6-in-1 platform provides each F&B establishment with their exclusive website at zero commission fees. Our unique solution allows takeaway ordering where customers can choose the pickup timeslot, online ordering for delivery of food integrated with island-wide delivery partners, dine-in ordering using QR code, integration with kitchen for food preparation, tracking of sales by outlets and customers, and targeted marketing such as discount codes and up-sell functions!
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co
+Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

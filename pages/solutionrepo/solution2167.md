@@ -1,15 +1,15 @@
 ---
-title: Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)
+title: BlueMeg Console - Package C (250 Entities)
 permalink: /productivity-solutions-grant/solutionrepo/solution2167
 ---
 
 ### Description
 
-Powerful & speedy cloud-based digital ordering system, accelerate your business with Popcorn that is specially designed for cafes and restaurants of all sizes. With powerful features to keep your business operations run flawlessly, we can help transform your business like never before!
+The BlueMeg Console is a cloud-based entity management and document management software as a service solution. It is a collaborative tool that enables the secure sharing of company information and documents with authorised company stakeholders. The BlueMeg Console enables users to interact and transact digitally, adding a new degree of efficiency, enforcement, and governance - all while decreasing the cost of doing business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whitelabel@bluemeg.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

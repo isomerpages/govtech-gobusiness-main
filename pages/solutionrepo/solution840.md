@@ -1,15 +1,15 @@
 ---
-title: Synergix E1 Sales & Accounting - Package (5 users) - TH6
+title: SmartTab eMenu Version 4 - Package (10 eMenu Licenses with HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution840
 ---
 
 ### Description
 
-Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking.
+TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
+Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

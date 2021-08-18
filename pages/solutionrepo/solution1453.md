@@ -1,15 +1,15 @@
 ---
-title: OpenCart E-Commerce Website Deployment - eCommerce Revamp
+title: Swingvy-Swingvy - Swingvy Full suite for 25 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1453
 ---
 
 ### Description
 
-OpenCart is the world's top three open source e-commerce software. It has everything needed to create, scale and run a business. Equotix is OpenCart's sole partner based in Singapore. Equotix assist companies in customising and deploying their own OpenCart e-commerce website on the cloud. It is simple to use and cost friendly to businesses.
+Swingvy is the modern HR platform for small and mid-sized businesses. By seamlessly connecting all HR information, Swingvy automates every administrative work - HR, claims, payroll and benefits - without hassle. Swingvy aims to replace paperwork or spreadsheets and help SMEs to manage all their HR in one place. Swingvy serves over 8,000 companies and has offices in Singapore, Kuala Lumpur, Taiwan and Seoul.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Contact Email: contact@equotix.com <br>
+Web URL: http://swingvy.com/ <br>Contact Hotline: +6591877655 <br>Contact Email: support@swingvy.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

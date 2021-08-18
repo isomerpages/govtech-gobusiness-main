@@ -1,15 +1,15 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))
+title: SmartKiosk Version 1 - Package (2 Kiosks with HW Rental)
 permalink: /productivity-solutions-grant/solutionrepo/solution839
 ---
 
 ### Description
 
-The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
+TabSquare's SmartKiosk Version1 is a Hybrid Digital Ordering and Payment solution that drives self-ordering, payment and customer engagements which improves customer experience and increase productivity of F&B operators. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/TabSquare_SmartKiosk_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
+Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

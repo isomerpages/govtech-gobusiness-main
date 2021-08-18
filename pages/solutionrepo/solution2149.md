@@ -1,11 +1,11 @@
 ---
-title: Milking Machine
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

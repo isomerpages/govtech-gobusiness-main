@@ -1,15 +1,22 @@
 ---
-title: SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 10 Subscription Users
+title: AGHRM - AGHRM 250 + eRequest
 permalink: /productivity-solutions-grant/solutionrepo/solution131
 ---
 
 ### Description
 
-SAP Business One is an enterprise resource planning (ERP) software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources. SAP Business One currently has over 60,000 customers worldwide.
+AGHRM provides an integrated suite of cloud based Human Resource Management Solutions
+a.	Personnel
+b.	Leave
+c.	Claims
+d.	Attendance & Rostering
+e.	Payroll Singapore. 
+f.	Performance Management
+In addition, we provide mobile apps for employees to manage their HR matters on the go
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +41,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: AFON Technologies Pte Ltd <br>Web URL: https://www.afon.com.sg/erp <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
+Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

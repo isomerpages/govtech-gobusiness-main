@@ -1,5 +1,5 @@
 ---
-title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
+title: 3b. Jumpstart your Online Business (Part 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution2352
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051939' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

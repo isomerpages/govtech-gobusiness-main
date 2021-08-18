@@ -1,15 +1,24 @@
 ---
-title: Redoc Version 1.0 - Package 4 (Up to 30 users)
+title: Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1824
 ---
 
 ### Description
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management platform. Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights on the performance of your business. Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc (redoc.co)!
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+1.Accounting<br>
+2.Healthcare<br>
+3.Hotels & Accommodation<br>
+4.Retail<br>
+5.Consumer Goods<br>
+6.Other sectors of strength: Education and Lifesciences
 
 ### Eligibility Criteria
 
@@ -28,12 +37,11 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
+Contact Information<br><br>Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: laura.lim@mercer.com<br>Contact Number: 63982800
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

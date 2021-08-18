@@ -1,15 +1,18 @@
 ---
-title: Shopcada Ecommerce and POS-SShopcada Standard  Ecommerce Package
+title: WhyzeHR Management System Version 12 - Package (50 SME)
 permalink: /productivity-solutions-grant/solutionrepo/solution939
 ---
 
 ### Description
 
-Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
+WhyzeHR enables SMEs of all size to keep track of their labour force, forecasting labour requirements, facilitate day to day employee management and providing financial reporting to the account department. The solution helps HR to stay compliance and providing cost saving and efficiency through the elimination of paper.
+
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
+Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze.com.sg<br>Tel: +65 6838 0161
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

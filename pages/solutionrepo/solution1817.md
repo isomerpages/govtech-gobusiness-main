@@ -1,15 +1,15 @@
 ---
-title: NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard
+title: Redoc Version 1.0 - Package 5 (Up to 40 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1817
 ---
 
 ### Description
 
-Synology NAS pairing with an onsite and offsite cloud backup to ensure that data protection is achieved and to meet compliance in many organisations. The data can be accessed via mapped drives, website portal or via the mobile app. It also sync the documents automatically without hassle via the app on your local computer, similar to One Drive/Google Drive/Dropbox but this is on a private cloud basis.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management platform. Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights on the performance of your business. Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc (redoc.co)!
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.nucleoconsulting.com/psg-grants-nas-email-security-cyber-training<br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com 
+Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

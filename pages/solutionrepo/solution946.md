@@ -1,15 +1,16 @@
 ---
-title: KYBIO Version 3.0.9.3 - Package (POS - Lite)
+title: WhyzeHR Workforce Management System Version 12 - Package B (100 Entry Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution946
 ---
 
 ### Description
 
-Cloud-Based POS System with product management, inventory management, promotion management and sales analytics module. Designed for Retail, F&B, QSR chains and the Service line.
+Companies in wholesale sector used our fully web based system to manage all the movement of their staffs from office, warehouse to delivery of the goods to their distributors / retailers. They planned schedules of their staff using our system, check the attendance of each staff and their respective locations. Their employees' working hours, OT and attendance allowances will be sent over to payroll for payroll computation, assisting them to analyse on the full labour costing reports.
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Weebo Pte Ltd <br>Web URL: https://www.weebo.com.sg/shop/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg <br>
+Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze.com.sg<br>Tel: +65 6838 0161
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

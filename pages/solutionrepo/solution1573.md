@@ -1,16 +1,15 @@
 ---
-title: iMakan - 2 x Kiosks + KDS & Number Display with Analytics
+title: A-Class Accounting & Sales Management by Sleek Version 1 - C - SME
 permalink: /productivity-solutions-grant/solutionrepo/solution1573
 ---
 
 ### Description
 
-iMakan is best for merchants who are looking for a cost- effective transformation in customer ordering process. A complete set of digital tools: in-store QR ordering, online ordering for self-pickup/delivery, eMenu and kiosk. With a clean UI to achieve high speed order input, iMakan presents an effective up-sell automation that helps F&B realize potential revenue faster. 
-iMakan is widely used by new age diners who prefer digital menu and fast pace ordering.
+Sleek provides a fully digital solution for accounting, tax, HR and sales management for SMEs and Startups in Singapore backed up by quality local support.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
+Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users
+title: Xero Cloud Accounting Software-Harvest - Software
 permalink: /productivity-solutions-grant/solutionrepo/solution2211
 ---
 
 ### Description
 
-Sage CRM is a customer relationship management solution designed to help small and midsize businesses optimize their customer experience and improve productivity.  The solution helps users to simplify the work processes such as quotes and orders, progressing leads and converting them to opportunities using sales workflow, shorten work process cycles.
+Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 0.8% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
+Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 98218195 <br>Contact Email: ask@harvestaccounting.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

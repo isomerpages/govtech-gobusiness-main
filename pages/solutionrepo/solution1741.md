@@ -1,15 +1,18 @@
 ---
-title: SmartFM Version 1.0 - Commercial (Unlimited)
+title: IamTreked Version 3.13 - IamTreked Package 1 - 10 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution1741
 ---
 
 ### Description
 
-SmartFM is an integrated, cloud based, facility management solution. It is designed to be a common data collection interface where operators can perform their day to day operations on a single platform, allowing data to be easily shared between operational departments, digitally documenting day to day tasks and granting executives and managers critical oversight and analysis tools to modernize dormitory operations.
+Iamtreked 3.13 is the latest version of our Fleet Management Solutions
+In addition to the ordinary vehicle tracking and fleet management functions, we have included tracking and management of assets such as trailers, power generators, etc.  Inputs from multiple sensors (e.g. temperature sensor) have also been incorporated.
+
+Many advanced alerts and events have also been added to inform the users on the performance and activities of their assets and sensor readings that are being tracked
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zonje_20200139_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 70% (80 from 1 Apr 2020 to 30 Sep 2021)% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
+Web URL: www.iamtreked.com <br>Contact Hotline: 63396535 <br>Contact Email: tdepot@iamtreked.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

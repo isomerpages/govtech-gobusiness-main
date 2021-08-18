@@ -1,15 +1,15 @@
 ---
-title: UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - PRO
+title: Torque Multiplier
 permalink: /productivity-solutions-grant/solutionrepo/solution1470
 ---
 
 ### Description
 
-Unipro Ecommerce Online store aims to provide SME the opportunity to create an online presence and explore its business in online platform. It helps the SME to create more convenience for their customers to explore the products and services at the convenient time and influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
+The electrically powered torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. Time is also saved during operation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Produce at least 4,000 N.m torquing force 
+The lithium battery pack that powers the torque multiplier can be supported
+Training costs can be supported
+Maintenance costs not supported
 
 ### Contact Information
-Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Sowing Machine
+title: Egg Grading and Inspection System
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+Egg grader machine also called egg sorter machine where the eggs are divided into several grades according to weight. Egg sorting can be connected with to egg testing, egg washing, egg ink jet printer, egg packing device, etc. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

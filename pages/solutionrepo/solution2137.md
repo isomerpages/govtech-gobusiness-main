@@ -1,11 +1,11 @@
 ---
-title: Ear Tagging Machine
+title: Humidifier Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2137
 ---
 
 ### Description
 
-A machine used to place ear tags into the ears of cattle, sheep, goats, and pigs to provide a means of animal identification.
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

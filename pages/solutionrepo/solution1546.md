@@ -1,15 +1,15 @@
 ---
-title: D365 Business Central (Microsoft) - Package A (5 Subscription Licences)
+title: Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 60 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1546
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
+Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Winspire Solutions Pte Ltd<br>Web URL: www.winspiresolutions.com<br>Contact Hotline: 67440324<br>Contact Email: jkulkarni@winspiresolutions.com
+Web URL: www.rahtech.sg <br>Contact Hotline: 6452 5066 / 8766 5066<br>Contact Email: sales@rahtech.sg 
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

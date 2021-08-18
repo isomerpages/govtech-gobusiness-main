@@ -1,11 +1,11 @@
 ---
-title: Pelleting Machine
+title: Vegetable Weighing and Packing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
 ### Description
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+A system that accurately weigh the produce according to the pre-set quantity and weight, and automatically transported to the packaging station to ensure that the quantity and weight of the packaged products meet the requirements. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,15 @@
 ---
-title: Octopus Retail Solution-Package D (Multi Terminal + eCommerce)
+title: Automotive Tracking System-Package B (6 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1457
 ---
 
 ### Description
 
-Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal. 
-
-Our solutions help retail owners run sales and promotions, track inventory, manage operations and engage customers. Applicable to small businesses and larger multi-store operations. Our solutions have been deployed in thousands of retail in Singapore and internationally.
+Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://octopuspos.com/ <br>Contact Hotline: 62216601 <br>Contact Email: solutions@octopuspos.com <br>
+Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

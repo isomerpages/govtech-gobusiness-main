@@ -1,15 +1,15 @@
 ---
-title: Novade - Package 3 Novade Safety (1 Project, up to 3 years)
+title: Xero accounting software - ASL Advisory- Xero subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution1160
 ---
 
 ### Description
 
-Novade provides an enterprise platform for site operations. Novade leverages mobile technology to streamline site processes, facilitate collaboration and improve productivity. The data captured provides insights to improve operations.
+Xero is an accounting software for small business that lives in the cloud and works anywhere you do. This means that you can automate everyday business tasks, get up to date financials and run your business from wherever you are. Xero also connects to the Peppol E-invoicing network launched by IMDA to speed up your invoicing process. It can get you paid faster by your customers and help you maintain healthy cash flow in your business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

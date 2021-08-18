@@ -1,15 +1,15 @@
 ---
-title: (eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250
+title:  Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users) with Peppol e-invoicing
 permalink: /productivity-solutions-grant/solutionrepo/solution1180
 ---
 
 ### Description
 
-QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workforce Management solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of eScheduling and Workforce Management. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+Madsoft Solutions is an integrated order processing, inventory and accounting solution to meet the operational and financial reporting needs of SMEs. Easy user interface allows non-account person to manage the finances. Real-time updating and powerful inquiry function provide up-to-date information for management. It is able to track receiving and ordering, management of inventory turnover, handle project costing, multiple locations, simple item assembly.  It has on-line or on premise versions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Enable Business Pte Ltd <br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co <br>
+Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

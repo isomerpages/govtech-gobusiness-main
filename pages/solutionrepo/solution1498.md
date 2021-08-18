@@ -1,15 +1,15 @@
 ---
-title: Singtel-Fortinet-FG-80E inclusive of 1 Year Unified (UTM) Protection
+title: Trend Micro - Package (Apex One - 150 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution1498
 ---
 
 ### Description
 
-A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure. 
+A cloud-based EndPoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Fortigate_UTM_Annex_3_CR_2_wef_29_October_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,4 +36,4 @@ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indire
 ### Contact Information
 Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

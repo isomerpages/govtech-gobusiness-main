@@ -1,15 +1,15 @@
 ---
-title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package
+title: High Pressure Rotating Head
 permalink: /productivity-solutions-grant/solutionrepo/solution2074
 ---
 
 ### Description
 
-Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations. For each transformation solutions development,  SCS provides Transformation Consultation, Integration Recommendations, Project Management, Implementation as well as Onsite Training and Technical Support.
+The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. Time and manpower reliance can be reduced when using this equipment.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
+- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
+- Maintenance costs not supported
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
-Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email: enquiry@scs-cpa.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

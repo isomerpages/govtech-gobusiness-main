@@ -1,16 +1,15 @@
 ---
-title: MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package A (5 Users with PEPPOL unlimited)
 permalink: /productivity-solutions-grant/solutionrepo/solution615
 ---
 
 ### Description
 
-A specialized solution for wholesalers to optimize their order fulfilment to customers in both Lower and Upper Trade. The solution helps wholesalers streamline the process from customers' order taking (for both Lower and Upper Trade) to delivery.
-
+Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive all-in-one business management solution integrated with ERP capabilities into applications that work seamlessly together with Office 365 across sales, operations, field service and financials for small and medium-sized businesses. The application helps your business transform and streamlines work processes to achieve the productivity of your work, reduce manual efforts and go paperless.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-MEVO Pte Ltd<br>www.mevo.com.sg<br>Email: enquiries@mevo.com.sg<br>Tel: +65 6773 9048
+Web URL: www.msc-consulting.com.sg <br>Contact Hotline: 63172050 <br>Contact Email: alex.goh@msc-consulting.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

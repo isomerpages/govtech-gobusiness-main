@@ -1,15 +1,17 @@
 ---
-title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package
+title: Liquid Filling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2072
 ---
 
 ### Description
 
-Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations. For each transformation solutions development,  SCS provides Transformation Consultation, Integration Recommendations, Project Management, Implementation as well as Onsite Training and Technical Support.
+Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
+Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,17 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimally semi-automated
+- Minimally 1 unit/1 nozzle system to provide accurate filling into applicable units
+- Volumetric or weight based filling
+- Touchscreen display (optional)
+- Explosion proof (optional)
+- Installation/simple training costs can be supported.
+- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
-Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email: enquiry@scs-cpa.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

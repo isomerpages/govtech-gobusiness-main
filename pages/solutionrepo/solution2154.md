@@ -1,11 +1,11 @@
 ---
-title: Robot Cleaner 
+title: Water Treatment System for Water Recirculation or Discharge
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
 ### Description
 
-A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
+A system for wastewater treatment to improve the water quality before the water is reused or discharged. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

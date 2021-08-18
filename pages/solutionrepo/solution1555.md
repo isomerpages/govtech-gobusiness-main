@@ -1,15 +1,15 @@
 ---
-title: Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users
+title: ChopeBook - ChopeBook Software Only 
 permalink: /productivity-solutions-grant/solutionrepo/solution1555
 ---
 
 ### Description
 
-Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
+ChopeBook is a Table Management System (TMS) designed to make the most of a restaurant's revenue generating assets - tables and seats. Manage the inflow of online and offline reservations with user-friendly functions synced across multiple devices.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.rahtech.sg <br>Contact Hotline: 6452 5066 / 8766 5066<br>Contact Email: sales@rahtech.sg 
+Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,16 @@
 ---
-title: ABSS Premier Version 23 - Package E Advanced with E-Invoicing (5-Users)
+title: STUDIO MANAGER Version 7 - Package A (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution163
 ---
 
 ### Description
 
-Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
+Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
+For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-APSCOM SOLUTIONS<br>www.apscomsolutions.com<br>Email: carol.kok@apscomsolutions.com<br>Tel: +65 9720 6813
+Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email: sales_marketing@archerlogic.com<br>Tel: +65 6785 9007
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: MPD E-Commerce SMEs Version - Elite
+title: MEVO DMS 8.3 - MEVO B2B (8 Users Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution608
 ---
 
 ### Description
 
-MPD e-commerce SMEs Version offers SMEs an opportunity to increase their sales online by widening their reach thru the digital platform where users can easily browse, shop and purchase their merchandises/products/services via a few clicks online with minimal manpower required. In addition, the solution allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently as well as to improve their overall operating cost as compared to a brick and mortar store.
+A specialized solution for wholesalers to optimize their order fulfilment to customers in both Lower and Upper Trade. The solution helps wholesalers streamline the process from customers' order taking (for both Lower and Upper Trade) to delivery.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-MediaPlus Digital Pte Ltd<br>https://mediaplus.com.sg/<br>Email: wow@mediaplus.com.sg<br>Tel: +65 6816 3168
+MEVO Pte Ltd<br>www.mevo.com.sg<br>Email: enquiries@mevo.com.sg<br>Tel: +65 6773 9048
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

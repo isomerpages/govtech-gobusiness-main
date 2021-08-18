@@ -1,15 +1,15 @@
 ---
-title: eBIS Version V1.0-eBIS (Intermediate Package -2 Projects)
+title: Athena E-store Solution-Athena E Store Lite Version
 permalink: /productivity-solutions-grant/solutionrepo/solution2285
 ---
 
 ### Description
 
-It's a powerful Mobile Application designed for Building and Construction industry. The Mobile Apps is built to replace pen and paper method of site inspections, site recording, follow-up, issues tracking, and reporting including e-Permit to Work (e-PTW) that makes it easy for everyone throughout the process of construction, hence ultimately transform the industry towards adopting Digital Technology, thereby skyrocket team's productivity.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ngt.com.sg <br>Contact Hotline: 68469334 <br>Contact Email: info@ngt.com.sg <br>
+Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br><br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

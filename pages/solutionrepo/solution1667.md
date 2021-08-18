@@ -1,15 +1,15 @@
 ---
-title: TimeCentral Version 11 - TimeCentral 50
+title: THEREFORE Version 2020 - Therefore-in-e-Cloud Package 5 (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1667
 ---
 
 ### Description
 
-TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+Therefore is a scalable Cloud Document Management Solution, that provides a central document repository for companies. It enables users to save, organize, share and access all vital business information instantly. Security is enhanced through simple permission controls and audit trails. Companies can also improve their productivity and optimize their business processes through Therefore's automated workflows. Simply improve security, productivity and traceability with Therefore.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.timecentral.co<br>Contact Hotline: 68372336<br>Contact Email: business@peoplecentral.co 
+Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

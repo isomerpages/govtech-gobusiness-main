@@ -1,15 +1,17 @@
 ---
-title: Visual Optical Retail Management System Version 8 Software - Package (Business Pro)
+title: Laser Geometric Alignment System
 permalink: /productivity-solutions-grant/solutionrepo/solution1143
 ---
 
 ### Description
 
-Visual Optical RMS is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
+In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.
+
+Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.  
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
+Measuring errors: minimum +/- 1%
+Maintenance cost not supported
+Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
 
 ### Contact Information
-Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.sg/frontwave-cloud <br>Contact Hotline: 62899125 <br>Contact Email: info@frontwave.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
