@@ -1,15 +1,15 @@
 ---
-title: Novade - Package 2 Novade Safety (1 Project, up to 2 years)
+title: Xero Cloud Accounting Software - Xero Accounting Solution _Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1159
 ---
 
 ### Description
 
-Novade provides an enterprise platform for site operations. Novade leverages mobile technology to streamline site processes, facilitate collaboration and improve productivity. The data captured provides insights to improve operations.
+Xero solution which is a cloud based solution which enable businesses to work from home and enhance processes from purchase order, sales quotation, invoices and e-peppol invoices , inventory tracking to accounting and GST reporting
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

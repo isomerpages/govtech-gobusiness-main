@@ -1,15 +1,17 @@
 ---
-title: CalendarOne CRM Solution Ver 2.0 - Enhanced CRM Package (with Peppol E-Invoice)
+title: Augmented Reality Welding Training Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution264
 ---
 
 ### Description
 
-CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients' engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
+This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+This solution uses AR technology to simulate welding processes on different test pieces
+Optional components: accessories e.g. work stand to secure workpiece, cables, material license
 
 ### Contact Information
-CalendarOne Pte Ltd<br>www.calendarone.com<br>Email: francis@calendarone.com<br>Tel: +65 9248 5655
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

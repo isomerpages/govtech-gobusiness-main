@@ -1,13 +1,18 @@
 ---
-title: Power Jack for Steel Plates Adjustment (Perpendicular)
+title: Probing System
 permalink: /productivity-solutions-grant/solutionrepo/solution91
 ---
 
 ### Description
 
-The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
+A probing system consists of the following attached to CNC machining center:
 
-Grant support: 80% of cost of equipment, up to $15,000 grant
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
+
+Grant support: 80% of cost of probing system, up to $30,000 grant cap
 
 ### Details of Solution
 
@@ -33,11 +38,20 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Hydraulic capacity: Min. 5 tonnes
-Maintenance costs not supported
-Optional components: relevant accessories e.g. pump, hydraulic hose
+Equipment must meet the following specifications: 
+1. Work Piece & Tool Setting Probe:
+- Approach Directions: +/-x, +/-y, -z
+- Repeatability: <=1um 2sigma
+
+2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts
+
+3. Implementation: Probe and software configuration and training
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+No change in vendor allowed
 
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

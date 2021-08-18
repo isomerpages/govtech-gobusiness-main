@@ -1,19 +1,15 @@
 ---
-title: Electric Pedestrian Pallet Truck
+title: Freight Master Version 8.1 (12 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution1416
 ---
 
 ### Description
 
-This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
-
-The equipment can transport palletised goods of approximately 1000 to 1500 kg.
-
-Grant support: 80% of cost of equipment, capped at $2,600 grant per unit
+The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of four core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low cost solution, thereby providing a more level playing field for the SMEs.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,17 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Specifications:
-- Rechargeable battery powered. Min. recommended battery voltage -24V and rated capacity -10Ah
-- Rated loading capacity approx. 1000 - 1500kg
-- 1 worker/electric pallet truck
-- Min. gradeability w/o load - 5%, w load - 3%
-- Safety features incl. (e.g. emergency stop switch)
-- Charging accessories & 1 spare battery per unit may be supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

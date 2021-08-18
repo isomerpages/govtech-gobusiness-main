@@ -1,15 +1,15 @@
 ---
-title: Zoho One-7 Users + Free Online Tutorials
+title: Tekla Solutions - Tekla Structural Designer with Training
 permalink: /productivity-solutions-grant/solutionrepo/solution1533
 ---
 
 ### Description
 
-With advanced CRM features like workflow management, advanced analytics, territory management, sales and marketing automation, Zoho One helps reduce the time salespeople spend on mundane tasks, have more time to concentrate on customers and unify operations across multiple geographic locations. The CRM system helps companies cover every aspect of their business cycle with an increase in sales and marketing returns, all while helping them reduce operating costs.
+Tekla Solutions is a suite of 3D modelling software for Contractors to create and manage Detailing and Fabrication digital information with the capability to create as built drawings for easy submission in buildings and infrastructure projects. Within Tekla Solutions, Tekla Structural Designer is a Design software that gives engineers the power to Analyze and Design buildings efficiently and profitably.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.zolution.co <br>Contact Hotline: 31385268 <br>Contact Email: team@zolution.co <br>
+Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Email: tekla.sales.sea@trimble.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

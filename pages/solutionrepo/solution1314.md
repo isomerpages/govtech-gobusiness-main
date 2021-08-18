@@ -1,15 +1,15 @@
 ---
-title: Vehicle Support System - Vehicle Support System (18 Vehicles Package)
+title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 50 x GR with Cyber Essential Course 1 Year Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1314
 ---
 
 ### Description
 
-VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning system for Vehicle Tracking System that stream live location with video and much more. Video cameras installed on 2 sides of the vehicle, the system is able to monitor and record the vehicle front and back in a real-time basis. Providing an enhanced visibility for blind spot in accident prevention. Video footage and GPS data is stored on MDVR/Cloud based for ease of viewing, retrieving and playback.
+The GRmail removes the email threats even before it reaches the email server and GRisolation protects the users, by opening any malicious links in a sandbox so that it does not affect their computers. This solution also detects and filters away Chinese characters emails. Our solution works with all kinds of email platforms - Office 365, Gsuite or Cpanel. We will assist to migrate the domain name and help with the setup of the email security solution on the DNS record level.  
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+Company Name:Nucleo Consulting Pte Ltd <br>Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

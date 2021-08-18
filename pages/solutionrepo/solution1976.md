@@ -1,15 +1,16 @@
 ---
-title: Microsoft Dynamics 365 Business Central - Essentials - 5 Users
+title: Vodich- Xero Cloud Accounting - Package B - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1976
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central (formerly known as Dynamics NAV or Navision) is an innovative Enterprise Resource Planning (ERP) system that automates and streamlines business processes. This comprehensive business application for small-to-midsize organizations is scalable, easy to configure, and simple to use. If your business outgrows your current financial software or legacy system, Microsoft Dynamics 365 Business Central will be an ideal replacement for your business.
+Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. 
+On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.ibizcs.com/ <br>Contact Hotline: 64307341 <br>Contact Email: SALES@IBIZCS.COM <br>
+Web URL: https://vodich.com.sg/index.php/cloud-accounting/ <br>Contact Hotline: 67339196 <br>Contact Email: sales@vodich.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

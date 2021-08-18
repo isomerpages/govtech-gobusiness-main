@@ -1,11 +1,11 @@
 ---
-title: Dehusking Machine/ Shaker
+title: Hi-jack Cleaning Machinery
 permalink: /productivity-solutions-grant/solutionrepo/solution2136
 ---
 
 ### Description
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

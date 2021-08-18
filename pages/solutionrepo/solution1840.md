@@ -1,19 +1,15 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 4 Qrcode Ordering and CRM
+title: ABSS Premier Version 23 - Package (Single User with InvoiceNow)
 permalink: /productivity-solutions-grant/solutionrepo/solution1840
 ---
 
 ### Description
 
-The Essential F&B Management Solutions 
-Major Productivity Solutions:
-1.	Efficient streamlined manpower, cutting down on mistakes.
-2.	Effective audit to prevent loopholes and lock profits.
-3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
+ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Premier_V23_Annex3_CR_wef_7_Jan_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
+Company Name: ABSS (formerly known as MYOB) <br>Web URL: www.abssasia.com<br>Contact Hotline: 6505 6582<br>Contact Email: cs.sg@abssasia.com
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

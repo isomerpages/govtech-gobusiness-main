@@ -1,17 +1,15 @@
 ---
-title: E-Commerce Portal Development (WooCommerce) - Basic Package
+title: Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution2110
 ---
 
 ### Description
 
-WooCommerce is an open-source, completely customizable eCommerce platform developed in the Wordpress CMS. It's estimated that WooCommerce is used by around 3.9 million websites worldwide.
-
-WooCommerce is friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing features, reporting and shipping integration. Apart from physical products, it allows us to sell digital products, subscriptions, appointments, and much more.
+Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_1-.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20200806_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
+Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

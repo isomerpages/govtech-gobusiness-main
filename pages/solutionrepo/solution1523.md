@@ -1,16 +1,15 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 3 - (Up to 5 concurrent users)
+title: Mobile Responsive E-Commerce Version 1 - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1523
 ---
 
 ### Description
 
-Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
-Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
+Web Imp is an award winning SG tech firm with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. Their strong ties with reputable tech companies enable seamless integration with solutions such as B2C Loyalty CRM, payment gateways, and multi-channel marketplace. They ensure scalability and continuity of your digitalization with their Client Support team and digital marketing capabilities.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_20200493_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_Pte_Ltd_20200527_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
+Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,17 @@
 ---
-title: Tessaract.io Version 2021 - CRM Package E - Up to 45 Users
+title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1982
 ---
 
 ### Description
 
-An enterprise solution for the professional services industry - Legal, Accountancy, Consulting, Advisory, Media, Architectural. Our technology solutions are client-focused, and definitely professional-focused, to make sure you are able to maximize the full potential of your workforce. Our methodology of constant building and evolving to meet the real needs of our users ensures customer satisfaction and success.
+Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
+
+The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO <br>
+Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

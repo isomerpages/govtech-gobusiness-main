@@ -1,15 +1,28 @@
 ---
-title: Qashier Smart Terminal - Package E (Pro + Basic Setup)
+title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 25
 permalink: /productivity-solutions-grant/solutionrepo/solution1734
 ---
 
 ### Description
 
-Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier's flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
+HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
+1. HRSS via Frontier e-HR
+Personnel Management
+Leave Module
+Mobile Attendance Module
+Payroll Module
+Benefit and Claim Module
+2. HR Admin Support & Payroll Processing
+Process Leave encashment & No Pay Leave via Payroll
+Process Claim Reimbursement
+Prepare Payroll reports for approval
+Prepare GIRO bank file for approval
+Prepare CPF file and submit to CPF Website
+One Payroll process run per month
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +47,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Qashier Pte Ltd <br>Web URL:qashier.co <br>Contact Hotline:94555108 <br>Contact Email:hello@qashier.co <br>
+Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

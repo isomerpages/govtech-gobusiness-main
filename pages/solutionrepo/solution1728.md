@@ -1,15 +1,28 @@
 ---
-title: BOTG Version 1.0 - Standard
+title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1728
 ---
 
 ### Description
 
-Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+1.Early Childhood Care & Education<br>
+2.Training & Adult Education<br>
+3.Human Resources<br>
+4.Accountancy<br>
+5.Food & Beverage<br>
+6.Healthcare<br>
+7.Retail & Services<br>
+8.Construction<br>
+9.Food Manufacturing<br>
+10.Logistics/Supply Chain
 
 ### Eligibility Criteria
 
@@ -28,12 +41,11 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
+Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: Ms Angeline Soh (angeline_soh@eon.com.sg) <br>Contact Number: 6220 4008
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Culture Tank System with Water Monitoring and Control System
+title: Grass Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
 ### Description
 
-Fish cultivation system with monitoring and control system
+A machine to mix and chop up the grass for animal feed. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

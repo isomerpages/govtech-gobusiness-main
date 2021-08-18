@@ -1,15 +1,26 @@
 ---
-title: Redoc Version 1.0 - Package 5 (Up to 40 users)
+title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1825
 ---
 
 ### Description
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management platform. Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights on the performance of your business. Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc (redoc.co)!
+At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
+
+We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+1.Financial Services<br>
+2.Consumer FMCG<br>
+3.Telecommunications<br>
+4.Consumer Food Retail<br>
+5.Consumer - Agricultural Conglomerate<br>
+6.Consumer - Beverage
 
 ### Eligibility Criteria
 
@@ -28,12 +39,11 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
+Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

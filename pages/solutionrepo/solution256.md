@@ -1,17 +1,15 @@
 ---
-title: BonaEcom - Standard
+title: CalendarOne CRM Solution Ver 2.0-Standard CRM Package (incl Peppol E- Invoice) - 10 Users Licence
 permalink: /productivity-solutions-grant/solutionrepo/solution256
 ---
 
 ### Description
 
-eCommerce equipped by WooCommerce and Wordpress. 
-Bona Technologies is a proud partner of Wordpress.com
-
+CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients' engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaEcom_20200152_Annex_3_20200625151725_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCalendarOneAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
+Company Name:CalendarOne Pte Ltd <br>Web URL:www.calendarone.com <br>Contact Hotline:92485655 <br>Contact Email:francis@calendarone.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

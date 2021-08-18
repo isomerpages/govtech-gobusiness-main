@@ -1,11 +1,11 @@
 ---
-title: Packaging & Labelling Machine
+title: Vacuum Cooler Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2150
 ---
 
 ### Description
 
-A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

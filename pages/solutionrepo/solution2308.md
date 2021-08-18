@@ -1,15 +1,15 @@
 ---
-title: vTrak Version 1.4 - 20 VEHICLES
+title: SHOPLINE e-Commerce Solution - Advanced Ecommerce (PRO) + Digital Marketing (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution2308
 ---
 
 ### Description
 
-The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
+SHOPLINE provides extensive e-commerce support: inventory management, payment and logistics services, and marketing and CRM tools. We also provide analytics and reports and connect to a variety of digital marketing tools and platforms so that merchants can visualize their performance. Apart from online services, SHOPLINE offers an effective omni-channel retail solution for merchants to build a digital customer experience on top of their physical business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IDEE_INFOCOM_20200355_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: WWW.IDEE.SG <br>Contact Hotline: 62936461 <br>Contact Email: INFO@IDEE.SG <br>
+Web URL: www.shoplineapp.sg <br>Contact Hotline: 93855186 <br>Contact Email: support.sg@shoplineapp.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

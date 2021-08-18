@@ -1,16 +1,15 @@
 ---
-title: Revel Systems - Revel Essentials - Lite
+title: Automated Labelling Machine 
 permalink: /productivity-solutions-grant/solutionrepo/solution2071
 ---
 
 ### Description
 
-Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -32,9 +31,18 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum 1 labelling position 
+- Auto self-adhesive labelling function 
+- Parameter setting for different label sizes
+- Adjustable production speed minimum 1-30 Metre /min
+- Touchscreen display (optional)
+- Explosion proof (optional) 
+- Installation/simple training costs can be supported 
+- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
-Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

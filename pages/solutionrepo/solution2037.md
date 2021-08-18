@@ -1,15 +1,19 @@
 ---
-title: A2000ERP Version 12.X - Package (E) - A2000ERP Wholesale System 15 Users +10 Mobile Users + ECommerce Annual Subscription
+title: Mobile Computer (Warehouse application)
 permalink: /productivity-solutions-grant/solutionrepo/solution2037
 ---
 
 ### Description
 
-A2000 Solutions Pte. Ltd. is an established ERP business software development company in Singapore with more than 24 years of industry experience in its pocket. We provide enterprise solutions that cover financial management, analytics, mobile solutions, sales & distribution, POS, inventory & warehouse system. A2000 Solutions simplifies your business processes, empowers people, and helps SMEs to create dynamic responses to market changes for small and medium-sized industries.
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Grant support: 80% of cost of equipment, up to $24,000 grant
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +28,27 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Installed with software for inventory data input.
+Withstand rough handling, meet min IP54 standards.
+Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
+Battery with min 3 hrs standby.
+Wireless LAN/Bluetooth/cellular connectivity.
+Support the common operating system e.g. Android, Windows.
+Maintenance cost is not supported.
+
+
+Additional criteria: >30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+No change in vendor allowed
 
 ### Contact Information
-Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

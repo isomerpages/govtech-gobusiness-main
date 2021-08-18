@@ -1,17 +1,17 @@
 ---
-title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - 2 License Bundle
+title: King Of Time Version 1 - Up to 70 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1233
 ---
 
 ### Description
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
-The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
-With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.
+
+As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
+Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hotline: 66908821 <br>Contact Email: hello@huubap.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Egg Washing System
+title: Milking Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2141
 ---
 
 ### Description
 
-Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
+A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: THEREFORE Version 2020 - Therefore-in-e-CLOUD Package 1 (5 users)
+title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PRODUCT ENGAGEMENT
 permalink: /productivity-solutions-grant/solutionrepo/solution1671
 ---
 
 ### Description
 
-Therefore is a scalable Cloud Document Management Solution, that provides a central document repository for companies. It enables users to save, organize, share and access all vital business information instantly. Security is enhanced through simple permission controls and audit trails. Companies can also improve their productivity and optimize their business processes through Therefore's automated workflows. Simply improve security, productivity and traceability with Therefore.
+RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technologies to intelligently measure shoppers' behavior. Shoppers' behavioral data are anonymously captured and sent to the platform directly from the "Aurora V2" sensors. Retailers can have a wider perspective of where the possible areas to work on increasing revenue are. RetailNext is a proven platform used by more than 450 retailers in over 85 countries to increase sales, reduce theft and eliminate unnecessary costs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>
+Web URL: www.retaildds.com <br>Contact Hotline: 69881039 <br>Contact Email: transform@retaildds.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

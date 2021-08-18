@@ -1,15 +1,23 @@
 ---
-title: FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (4 Vehicles)
+title: Dining Butler system - Dining Butler
 permalink: /productivity-solutions-grant/solutionrepo/solution994
 ---
 
 ### Description
 
-FocusGuard Fleet Management System is designed as the process of controlling, monitoring and tracking all the vehicles. Locate vehicles using detailed maps round the clock. Access the web-based fleet management portal or Mobile App to view real time location and information of the vehicles and generate up-to-date reports.
+Dining Butler provides an end to end solution for F&B that covers the following modules
+1) mobile ordering
+2) POS operations
+3) kitchen management
+4) waiter management
+5) backend item management
+6) CRM
+7) inventory 
+8) reports
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +42,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:FocusGuard Pte Ltd <br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
+Company Name:Singapore Dining Butler Pte Ltd <br>Web URL: diningbutler.com <br>Contact Hotline: 63392800 <br>Contact Email: enquiry@diningbutler.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

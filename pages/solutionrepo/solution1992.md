@@ -1,15 +1,15 @@
 ---
-title: Automatic Shrink Wrap Packaging Machine
+title: SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1992
 ---
 
 ### Description
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,22 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to For SMEs: 80 of cost of equipment, up to $30,000 grant per unit.% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Specifications:
-- Able to pack products in round or odd shapes.
-- Must be able to run shrinking polyolefin films.
-- Min. output capacity of 15 metres per minute.
-- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
-- Installation and maintenance costs are not supported.
-
--Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
--No change in vendor allowed
--The purchase of pre-owned/used equipment is not supportable
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

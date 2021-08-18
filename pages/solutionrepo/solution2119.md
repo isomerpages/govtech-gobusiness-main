@@ -1,11 +1,11 @@
 ---
-title: Wireless Tour Guide System 
+title: Automatic egg case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 
 ### Description
 
-Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
+Egg pack printing system or pack labelling system which allow the user to fully customize their label.
 
 ### Details of Solution
 
@@ -27,16 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-Up to 60% for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Operating time of >15 hours and talk range of 100-200 meters. 
-
-Additional criteria for SMEs: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

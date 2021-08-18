@@ -1,15 +1,15 @@
 ---
-title: Managed Firewall Solution - Fortigate 80F
+title: Venue management software Version 2.0 - Regular
 permalink: /productivity-solutions-grant/solutionrepo/solution1284
 ---
 
 ### Description
 
-LGA's Managed Firewall Service provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 LGA support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance due to our fully managed service.
+Venuerific was founded in Singapore in 2013 with the goal of helping venue owners market and grow their business through the events industry. What we discovered soon after was that most venues did not have the proper tools & systems to effectively manage this business. Hence in 2015, Venuerific pivoted to developing a one-stop system that allows the venues to operate optimally and efficiently through relevant data and in return increase revenue & profitability of the business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+Company Name:VENUERIFIC PTE. LTD. <br>Web URL: www.venuerific.com <br>Contact Hotline: 84489750 <br>Contact Email: support.sg@venuerific.com 
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,15 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Lite with Next Business Day Security Support
+title: LFSUITE Version 6.0 - Package Functional
 permalink: /productivity-solutions-grant/solutionrepo/solution1875
 ---
 
 ### Description
 
-TOFFS MSSP for ABCD provides 24 x7 outsourced monitoring & management of security devices & systems. Services include acting as the SME's inhouse IT security department to monitor & assess the IT security posture
-
-We provide EndPoint protection, vulnerability assessment, network threat hunting & AI-based anomaly, network & system behavioural analytics to detect malware, data infiltration, data extradition and remediate in real-time any malware attacks that is threatening the organisation.
+Optimize your retail business productivity and efficiency with RetailPlan, our integrated suite of solutions under LFSuite. Stability, Ease of Use, Scalability, Ability to Customize and Open Integration Capability are 5 uniqueness of our system. We offer a cloud-hybrid POS system, with an online central management console (RetailConnect), where we manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
+Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

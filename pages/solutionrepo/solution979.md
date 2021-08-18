@@ -1,16 +1,17 @@
 ---
-title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Single Location)
+title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 15.6" Customer Self Ordering Station Package )
 permalink: /productivity-solutions-grant/solutionrepo/solution979
 ---
 
 ### Description
 
-ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order.  For Distributor or Retailers, there are functions that enable them to track their Inventory levels before placing reorder with their suppliers.  This enables them to keep warehousing and storage cost low.
-
+AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with .........
+1) Customer self-ordering kiosk providing a less face to face interaction and to ease the queue 
+2) Mobility device via QR / App Ordering to enhance their ordering process .
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_20200157_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.com<br>Tel: +65 6745 0866
+Company Name:AZ DIGITAL PTE LTD <br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

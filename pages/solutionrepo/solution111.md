@@ -1,5 +1,5 @@
 ---
-title: Advocado Cloud Loyalty CRM Software - Package (Starter)
+title: Advocado Cloud Loyalty CRM Software - Package (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution111
 ---
 
@@ -9,7 +9,7 @@ Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,4 +36,4 @@ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indire
 ### Contact Information
 Advocado Pte Ltd<br>https://www.advocadoapp.com<br>Email: hello@advocado.me<br>Tel: +65 6444 9556
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

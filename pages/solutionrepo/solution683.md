@@ -1,20 +1,18 @@
 ---
-title: OpensoftHR Version 2019 - Package C (100 pax)
+title: Absolute Payboy HRMS Version 1.0 - Package C (75 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution683
 ---
 
 ### Description
 
-OpensoftHR is a comprehensive HRM solution that is designed to reduce time consuming administrative work and improve HR efficiency for SMEs.
-
-
+Absolute Payboy is a cloud-based human resource management system that offers one-stop solution to SME's HR needs such as payroll processing, leave management, time tracking, scheduling and more.    The solution include mobile apps that allow SMEs to manage their employees anytime and anywhere from their mobile devices.
 
 
 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Opensoft_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Payboy_Annex_3_wef_4_May_2020_Part_3_.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -39,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Opensoft Pte. Ltd.<br>http://www.opensofthr.com<br>Email: sales@opensofthr.com<br>Tel: +65 6346 1511
+Payboy Pte. Ltd.<br>www.Payboy.biz<br>Email: nigel.lim@payboy.biz<br>Tel: +65 9187 6425
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

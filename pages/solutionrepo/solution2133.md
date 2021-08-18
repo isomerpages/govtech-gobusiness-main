@@ -1,11 +1,11 @@
 ---
-title: Conveyor System for transporting materials
+title: Egg Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
 ### Description
 
-A conveyor system that automates farming processes which includes production, feeding, post-harvesting, packing, etc.
+Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

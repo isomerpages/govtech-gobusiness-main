@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Plug Transplanter
+title: Egg Collection Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
 ### Description
 
-A machine that completes transplantation of the plug seedlings of vegetables.
+Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

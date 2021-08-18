@@ -1,16 +1,15 @@
 ---
-title: SecureAPlus Version 6.x - (150 Pax)
+title: Shell Telematics - Shell Telematics (5 vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution772
 ---
 
 ### Description
 
-SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
-
+Shell Telematics is designed to help business owners get the best performance from their fleet, no matter its size.  We use the latest vehicle tracking technology and integrate with Shell Cards to gather a wealth of performance and transaction data from the fleet. Then we turn it into clear, actionable fleet intelligence that helps businesses improve their efficiency, productivity, safety and security.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
+Company Name:SHELL EASTERN PETROLEUM (PTE) LTD <br>Web URL: https://www.shell.com.sg/business-customers/shell-fuel-card/shell-telematics-get-started.html <br>Contact Hotline: 6562615322 <br>Contact Email: generalcardrequests-sg@shell.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

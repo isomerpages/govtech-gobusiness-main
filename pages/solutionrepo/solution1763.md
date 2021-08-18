@@ -1,15 +1,15 @@
 ---
-title: iCoreSpec - Corporate User (C2 - 10 Users One Package)
+title: Xero - Xero Premium Implementation (XPI)
 permalink: /productivity-solutions-grant/solutionrepo/solution1763
 ---
 
 ### Description
 
-The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
+Xero is online accounting software that allows small businesses to work in real-time with their accountant or bookkeeper, and build a trusted relationship through online collaboration. Xero allows you and your team to connect with your clients and with the right information, anytime, anywhere. Xero also connects seamlessly with hundreds of other apps to become the basis of a complete business solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.inpqs.com <br>Contact Hotline: 62260881 <br>Contact Email: sales@inpqs.com <br>
+Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com 
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

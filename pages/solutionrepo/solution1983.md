@@ -1,16 +1,15 @@
 ---
-title: Vodich- Xero Cloud Accounting - Package A - Software Subscription
+title: Automatic Flow Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1983
 ---
 
 ### Description
 
-Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. 
-On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,24 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to For SMEs: 80 of cost of equipment, up to $30,000 grant per unit.% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications:
+- Able to pack products in round or odd shapes or with a tray.
+- Uses heat sealing with films to automatically wrap products.
+- Min. output capacity of 30 metres per minute.
+- Installation and maintenance costs are not supported.
+
+-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+-No change in vendor allowed
+-The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
-Web URL: https://vodich.com.sg/index.php/cloud-accounting/ <br>Contact Hotline: 67339196 <br>Contact Email: sales@vodich.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

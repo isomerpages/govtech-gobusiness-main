@@ -1,15 +1,15 @@
 ---
-title: Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)
+title: FingerBooth POS System Version 1 - POS System Pro + Online Appointment
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 
 ### Description
 
-TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media Integration - a unique Cloud-based system that empowers SMEs to manage both new & loyal customers while automating the overall business processes. This business intelligence tool allows businesses to link up their current CRM contact base to social media accounts, streamlining the overall marketing and business management-combining sales, customer relations, and social media handling all into one system.
+FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Active Interactions Pte Ltd <br>Web URL: trueblu.co <br>Contact Hotline: 91697979 <br>Contact Email: joel@activeinteractions.com <br>
+Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

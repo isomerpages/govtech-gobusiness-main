@@ -1,5 +1,5 @@
 ---
-title: Intuit Quickbooks Online Full Transformation Package-Intuit Quickbooks Online - Full Digital Transformation for Micro Business Package
+title: Intuit Quickbooks Online Full Transformation Package- Intuit Quickbooks Online - Full Digital Transformation fo Small Business Package
 permalink: /productivity-solutions-grant/solutionrepo/solution63
 ---
 
@@ -10,7 +10,7 @@ Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_(Singapore)_20200275_Annex_3_20200625152440_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Acc Pro (Singapore) Pte. Ltd.<br>www.accprosingapore.com<br>Email: sales@accprosingapore.com<br>Tel: +65 6352 0103
+Company Name:Acc Pro (Singapore) Pte. Ltd. <br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

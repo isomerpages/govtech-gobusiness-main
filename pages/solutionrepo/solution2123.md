@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Vaccination
+title: Automatic Seed Sowing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2123
 ---
 
 ### Description
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
+A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
 ### Details of Solution
 
@@ -36,4 +36,4 @@ N.A.
 ### Contact Information
 N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,21 @@
 ---
-title: Roubler - Roubler 31- 60 Users 
+title: Sage 300 ERP - Sage 300Cloud PREMIUM Finance 10 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2013
 ---
 
 ### Description
 
-Roubler's all-in-one cloud-based system combines essential workforce management tasks with a simple, easy-to-use interface to give your employees the power to manage their working lives.
-
-Your team has the freedom to check rosters, accept and decline shifts, request leave, view payslips, and update their personal details, all from the convenience of our employee self-service mobile app.
+Sage 300cloud connects the most
+important aspects of your growing business, including:
+-Financials
+-Operations and inventory
+-Project and vendor management
+-Business intelligence and reporting
+-Sales, marketing and customer service
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200604_Sage 300 ERP_Desensitised_Annex_3__Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +30,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +40,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.roubler.com <br>Contact Hotline: 31636786 <br>Contact Email: info@roubler.com <br>
+Web URL: www.mis.sg <br>Contact Hotline: 66842300 <br>Contact Email: rick@mis.sg <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,28 +1,18 @@
 ---
-title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 25
+title: IamTreked Version 3.13 - IamTreked Package 2 - 20 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution1742
 ---
 
 ### Description
 
-HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
-1. HRSS via Frontier e-HR
-Personnel Management
-Leave Module
-Mobile Attendance Module
-Payroll Module
-Benefit and Claim Module
-2. HR Admin Support & Payroll Processing
-Process Leave encashment & No Pay Leave via Payroll
-Process Claim Reimbursement
-Prepare Payroll reports for approval
-Prepare GIRO bank file for approval
-Prepare CPF file and submit to CPF Website
-One Payroll process run per month
+Iamtreked 3.13 is the latest version of our Fleet Management Solutions
+In addition to the ordinary vehicle tracking and fleet management functions, we have included tracking and management of assets such as trailers, power generators, etc.  Inputs from multiple sensors (e.g. temperature sensor) have also been incorporated.
+
+Many advanced alerts and events have also been added to inform the users on the performance and activities of their assets and sensor readings that are being tracked
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zonje_20200139_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -47,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+Web URL: www.iamtreked.com <br>Contact Hotline: 63396535 <br>Contact Email: tdepot@iamtreked.com <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

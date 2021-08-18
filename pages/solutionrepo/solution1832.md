@@ -1,24 +1,19 @@
 ---
-title: Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+title: Yumstone F&B Solutions Version 5.0 - Package 4 Qrcode Ordering and CRM
 permalink: /productivity-solutions-grant/solutionrepo/solution1832
 ---
 
 ### Description
 
-Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
+The Essential F&B Management Solutions 
+Major Productivity Solutions:
+1.	Efficient streamlined manpower, cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-1.Accounting<br>
-2.Healthcare<br>
-3.Hotels & Accommodation<br>
-4.Retail<br>
-5.Consumer Goods<br>
-6.Other sectors of strength: Education and Lifesciences
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,11 +32,12 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Contact Information<br><br>Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: laura.lim@mercer.com<br>Contact Number: 63982800
+Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
 
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

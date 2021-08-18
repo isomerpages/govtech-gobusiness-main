@@ -1,16 +1,15 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 5 - (Up to 10 concurrent users)
+title: Zoho One-7 Users + Free Online Tutorials
 permalink: /productivity-solutions-grant/solutionrepo/solution1525
 ---
 
 ### Description
 
-Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
-Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
+With advanced CRM features like workflow management, advanced analytics, territory management, sales and marketing automation, Zoho One helps reduce the time salespeople spend on mundane tasks, have more time to concentrate on customers and unify operations across multiple geographic locations. The CRM system helps companies cover every aspect of their business cycle with an increase in sales and marketing returns, all while helping them reduce operating costs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_20200493_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
+Web URL: www.zolution.co <br>Contact Hotline: 31385268 <br>Contact Email: team@zolution.co <br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

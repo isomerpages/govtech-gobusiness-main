@@ -1,5 +1,5 @@
 ---
-title: ADAPTIVE PAY Version 2019/2020 - Package (15 Employees)
+title: ADAPTIVE PAY Version 2019/2020 - Package (16 - 35 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution77
 ---
 
@@ -9,7 +9,7 @@ Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdaptiveCloudAnnex3CRwef11March2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdaptiveCloudAnnex3CRwef11March2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,4 +36,4 @@ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indire
 ### Contact Information
 Adaptive Cloud Systems Pte Ltd<br>www.adaptivepay.com.sg<br>Email: info@adaptivepay.com.sg<br>Tel: +65 6708 9398
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
