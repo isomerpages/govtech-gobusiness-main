@@ -14,7 +14,6 @@ $(document).ready(function () {
     "padding-top: 0 !important"
   );
   $(".masthead-container").attr("style", "position: relative");
-  $(".masthead-container>section").attr("style", "height: 28px !important");
   $(".bp-container>div").attr("style", "margin-top: 0; margin-bottom: 0");
   $(".bp-container>div>div").attr("style", "padding: 0");
   $(".masthead-container").prepend(custom_notificationContainer);
