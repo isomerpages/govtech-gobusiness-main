@@ -162,32 +162,13 @@
 
         Such events are not permitted at public and common areas such as mall atriums, public transport nodes, HDB estates and common corridors.
 
-- accordion:
-  letter: c
-  data:
-    - title: How can F&B establishments apply for earlier vaccination for their frontline workers?
-      content: |
-        F&B establishments interested in earlier vaccination can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg. RAS will work with F&B companies to obtain the necessary details to facilitate earlier vaccination. 
-
-    - title: What are the next steps after applying for earlier vaccination? How long will F&B frontline workers have to wait to be vaccinated? 
-      content: |
-        The Government recognises that staff of F&B dine-in establishments are involved in higher-risk activities and will facilitate earlier vaccination of individuals who work in these settings. Individuals will receive a SMS directly from MOH to book their appointment slots for vaccination, once there are available slots. We seek your understanding that SMSes will be sent progressively as vaccination appointment slots are made available as supplies arrive. Individuals are also encouraged to register under the national vaccination programme at http://www.vaccine.gov.sg if they are already in eligible age groups.
-
-    - title: Is the earlier vaccination open to all F&B frontline workers, including foreigners?
-      content: |
-        All staff of F&B dine-in establishments are eligible for earlier vaccination, regardless of nationality. Interested F&B establishments can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg for more details.  
-
-    - title: Can I apply for earlier vaccination if I have already registered interest for vaccination previously?
-      content: |
-        If you have not received your vaccination booking registration code from MOH, you can still apply for earlier vaccination. To apply, you can reach out to Restaurant Association of Singapore (RAS) at enquiry@ras.org.sg for more details.
-
-    - title: Can F&B companies apply for priority vaccination for all employees, beyond frontline workers (staff who work at settings with unmasked clients/patrons, or where there is prolonged contact between individuals)?
+    - title: Can F&B establishments apply for earlier vaccination for their frontline workers?
       content: |
         From 2 August, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 18 years old and above have also been allowed to walk in to any of our 11 community vaccination centres offering the Moderna COVID-19 vaccine without a prior appointment.
 
-        From 10 August 2021, to make it more convenient to get vaccinated, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 12 years old and above who have yet to come forward for their first dose will be able to walk in to any of the 26 vaccination centres offering the Pfizer-BioNTech/Comirnaty COVID-19 vaccine without a prior appointment
+        From 2 August, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 18 years old and above have also been allowed to walk in to any of our 11 community vaccination centres offering the Moderna COVID-19 vaccine without a prior appointment.
 
-        It would be more expeditious for F&B staff who have yet to be vaccinated to walk in to any Vaccination Centre or Mobile Vaccination Site. Please refer to https://www.vaccine.gov.sg/locations-vcs for the location of the vaccination centres.
+        It would be more expeditious for F&B staff who have yet to be vaccinated to walk in to any Vaccination Centre or Mobile Vaccination Site. Please refer to [https://www.vaccine.gov.sg/locations-vcs](https://www.vaccine.gov.sg/locations-vcs){:target="_blank"}{:rel="noopener"} for the location of the vaccination centres
 
     - title: How can I find out more about the national vaccination programme? What are the side effects of vaccination?
       content: |
@@ -308,10 +289,6 @@
     - title: My F&B establishment is an alfresco dine in concept and naturally ventilated just like hawker centres and coffee shops. Can I allow 2 pax to dine in without checking VDS eligibility?
       content: |
         No, you are not allowed to do so. The 2 pax dine-in (regardless of vaccination status) only applies to hawker centres and coffee shops, which generally refer to F&B establishments that hold an SFA coffee shop/ eating house/ canteen license. Hawker centres and coffee shops provide convenient and affordable food services within the community. As they are open-air and naturally ventilated spaces, a special concession is thus given to allow vaccinated and unvaccinated individuals to dine in these settings, but subject to a group size of up to 2 persons only. 
-
-    - title: My F&B establishment is a foodcourt (with SFA food court license) but our operations are similar to that of hawker centres and coffee shops (self service, multiple stalls, open area). Why are we not allowed to allow 2 pax dine in without checking VDS eligibility?
-      content: |
-        The allowance for 2 persons to dine-in (regardless of vaccination status) only applies to hawker centres and coffee shops, which generally refer to F&B establishments that hold an SFA coffee shop/ eating house/ canteen license. Hawker centres and coffee shops provide convenient and affordable food services within the community. As they are open-air and naturally ventilated spaces, a special concession is thus given to allow vaccinated and unvaccinated individuals to dine in these settings, but subject to a group size of up to 2 persons only.
 
     - title: The capacity of my F&B establishment is small and cannot accommodate dine-in groups of 5 pax. Can I allow 2 pax to dine in without checking VDS eligibility?
       content: |
