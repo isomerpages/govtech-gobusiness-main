@@ -55,7 +55,7 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 **Singapore Food Agency (SFA)**
 
-- <a href="https://www.sfa.gov.sg/e-services?type=food-farming&page=1" target="_blank">Basic Capability Upgrading (BCU) Scheme</a>
+- <a href="https://www.sfa.gov.sg/e-services?type=food-farming&page=1" target="_blank" rel="noopener">Basic Capability Upgrading (BCU) Scheme</a>
   <br>Apply for co-funding support of equipment to help increase your farm's productivity.
 
 - [Productivity Enhancement Scheme](https://www.sfa.gov.sg/docs/default-source/tools-and-resources/resources-for-businesses/APFGuidelinesPE_vet){:target="\_blank"}{:rel="noopener"}

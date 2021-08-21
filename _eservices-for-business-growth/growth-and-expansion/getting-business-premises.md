@@ -28,7 +28,7 @@ Learn more about it in Step 2 of our [Start-up Guide](/start-a-business/submit-a
 - [Check allowable use for shophouses](https://www.ura.gov.sg/maps/?service=eAdvisor){:target="\_blank"}{:rel="noopener"}
   <br>Find out the allowed and last approved uses for all shophouses in Singapore.
 
-- <a href="https://www.ura.gov.sg/EnquiryOnApprovedUse/#:~:text=of%2Dcharge).-,If%20the%20subject%20premises%20is%20a%20private%20shophouse%20unit%2C%20you,of%20%2453.50%20per%20enquiry%20applies." target="_blank">Enquiry on approved use of premises</a>
+- <a href="https://www.ura.gov.sg/EnquiryOnApprovedUse/#:~:text=of%2Dcharge).-,If%20the%20subject%20premises%20is%20a%20private%20shophouse%20unit%2C%20you,of%20%2453.50%20per%20enquiry%20applies." target="_blank" rel="noopener">Enquiry on approved use of premises</a>
   <br>Find out the allowed uses for all types of premises, except private shophouses.
 
 - [Officers-in-charge of conserved buildings](https://www.ura.gov.sg/maps/?service=eAdvisor){:target="\_blank"}{:rel="noopener"}

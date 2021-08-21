@@ -124,7 +124,7 @@
       src="{% if {{link.image}} %}{{link.image}}{% else %}/images/right-arrow.svg{% endif %}"
       alt="{% if {{link.alt}} %}{{link.alt}}{% else %}right-arrow{% endif %}" />
     <a class="panel-content-links" href="{{link.href}}"
-      target="{% if {{link.target}} %}{{link.target}}{% else %}_self{% endif %}">{{link.text}}</a>
+      target="{% if {{link.target}} %}{{link.target}}{% else %}_self{% endif %}" rel="noopener">{{link.text}}</a>
     {% if link.is_new %}
     <span style="margin-left: 8px;">
       {% include new-tag.html %}
