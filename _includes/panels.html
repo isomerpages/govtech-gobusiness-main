@@ -123,7 +123,7 @@ YML Data Example
                 <a class="panel-link"
                     rel="noopener"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
+                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}"  rel="noopener">
                     {% if panel.text %}{{panel.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
