@@ -19,7 +19,7 @@
   <p class="notice-title"><strong>{{include.notice.title}}</strong></p>
   <div class="notice-content">{{include.notice.content}}</div>
   {% include button.html text=include.notice.text src=include.notice.href
-  target=include.notice.target %}
+  target=include.notice.target rel=include.notice.rel %}
 </div>
 {% else %}
 <div class="notice-container">
