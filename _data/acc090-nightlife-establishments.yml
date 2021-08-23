@@ -5,6 +5,13 @@
       content: |
         This set of FAQs applies to businesses that are pubs, nightclubs, discotheques, dance clubs, and karaoke outlets. It covers companies that hold an SFA Foodshop (Pubs, Bars, Nightclub, Discos) licence, and have not been permitted to operate since March 2020.
 
+- accordion:
+  letter: b
+  data:
+    - title: How do I know if I’m classified as a non-permitted nightlife business and if the following FAQs apply to me?
+      content: |
+        This set of FAQs applies to businesses that are pubs, nightclubs, discotheques, dance clubs, and karaoke outlets. It covers companies that hold an SFA Foodshop (Pubs, Bars, Nightclub, Discos) licence, and have not been permitted to operate since March 2020.
+
     - title: Why are nightlife businesses not allowed to reopen? When will they be allowed to resume?
       content: |
         Nightlife establishments will not be able to reopen in their original form for some time. The settings of nightlife activities entail a large number of people coming into close contact for prolonged periods of time, and often in enclosed spaces, which pose a higher risk of COVID-19 transmission. Hence, we are taking a cautious approach in the reopening of this sector and must ensure that the public health risks associated with COVID-19 are mitigated before doing so.
@@ -46,7 +53,7 @@
         The Simplified Insolvency Programme (SIP) aims to provide simpler, faster, and lower-cost proceedings to assist micro and small companies in need for winding up or restructuring. It comprises two separate programmes: (a) Simplified Debt Restructuring Programme for viable businesses; and (b) Simplified Winding Up Programme for non-viable businesses. Companies may apply for the programmes [here](https://eservices.mlaw.gov.sg/io/){:target="_blank"}{:rel="noopener"} before 28 July 2021.
 
 - accordion:
-  letter: b
+  letter: c
   data:
     - title: How can I change my nightlife operations to activities that are permitted today? What kind of licences are required?
       content: |
@@ -135,7 +142,7 @@
         In the event that the PEL is not renewed by the time of reversion, the smoking room must remain close until a valid PEL is obtained.
 
 - accordion:
-  letter: c
+  letter: d
   data:
     - title: Why did the Government only decide to support one month of retrenchment benefit? Would the one month of support fulfil employers’ full obligations towards the retrenchment benefit?
       content: |
