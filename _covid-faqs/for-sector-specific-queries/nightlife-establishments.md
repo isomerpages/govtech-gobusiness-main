@@ -10,15 +10,15 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc090-nightlife-establishments letter="a" %}
 
-#### I. Closure of Nightlife Establishments and Government Support
+#### II. Closure of Nightlife Establishments and Government Support
 
 {% include letter-accordion.html accordions=site.data.acc090-nightlife-establishments letter="b" %}
 
-#### II. Application and Licensing Procedure for Pivoting to Permissible Activities
+#### III. Application and Licensing Procedure for Pivoting to Permissible Activities
 
 {% include letter-accordion.html accordions=site.data.acc090-nightlife-establishments letter="c" %}
 
-#### III. Exit Support Package and Other Government Support for Winding Down
+#### IV. Exit Support Package and Other Government Support for Winding Down
 
 {% include letter-accordion.html accordions=site.data.acc090-nightlife-establishments letter="d" %}
 
