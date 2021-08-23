@@ -2,7 +2,7 @@
 
 const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 21 Aug 2021 10pm to 22 Aug 2021 8am. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
-  "<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
+  //"<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
 ];
 
 // Do not edit the following code
