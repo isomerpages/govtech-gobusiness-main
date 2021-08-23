@@ -1,9 +1,11 @@
 - accordion:
   letter: a
   data:
-    - title: How do I know if I’m classified as a non-permitted nightlife business and if the following FAQs apply to me?
+    - title: Which pivoted nightlife establishments will not be allowed to reopen?
       content: |
-        This set of FAQs applies to businesses that are pubs, nightclubs, discotheques, dance clubs, and karaoke outlets. It covers companies that hold an SFA Foodshop (Pubs, Bars, Nightclub, Discos) licence, and have not been permitted to operate since March 2020.
+        Operators which are not allowed to resume operations will be notified by agencies.  They had previously breached Safe Management Measures (SMMs), including failing to prevent large groups of patrons from intermingling; allowing live entertainment (e.g. live singing and dancing, playing of musical instruments) and games (e.g. dice and billiards); and failing to ensure 1 metre safe distancing between customers and staff.
+
+        The list of pivoted nightlife establishments which are not permitted to open is available on GoBusiness Singapore under Annex B here.
 
 - accordion:
   letter: b
