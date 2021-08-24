@@ -1,6 +1,51 @@
 - accordion:
   letter: a
   data:
+    - title: Which pivoted nightlife establishments will not be allowed to reopen?
+      content: |
+        Operators which are not allowed to resume operations will be notified by agencies.  They had previously breached Safe Management Measures (SMMs), including failing to prevent large groups of patrons from intermingling; allowing live entertainment (e.g. live singing and dancing, playing of musical instruments) and games (e.g. dice and billiards); and failing to ensure 1 metre safe distancing between customers and staff.
+
+        The list of pivoted nightlife establishments which are not permitted to open is available on GoBusiness Singapore [here](/images/covid/Permitted Services (20 Aug).pdf).
+
+    - title: Why are the measures exceptionally strict for pivoted nightlife establishments? 
+      content: |
+        Some nightlife establishments which pivoted to F&B operations had continued to carry out activities associated with nightlife activities, in flagrant disregard of SMMs. Persistent breaches of these SMMs and the cluster outbreak at pivoted establishments have made it necessary for the Government to tighten measures, so as to further mitigate public health risks and facilitate enforcement checks.
+
+    - title: When will these stringent measures be eased, given the adverse impact on the nightlife industry?
+      content: |
+        These measures will be reviewed as and when necessary, such as when we have reached an endemic COVID-19 situation in Singapore.
+
+    - title: What will happen to establishments which do not pass the inspections? Will they be allowed to apply to be inspected again?
+      content: |
+        Establishments that do not pass inspections will not be allowed to reopen until they pass a later inspection, which they may apply for when they are ready.
+
+    - title: Can establishments which are not allowed to resume operations file an appeal?
+      content: |
+        Establishments may write to the Ministry of Trade and Industry (MTI) via covid_gobusiness@mti.gov.sg to appeal against the decision of non-resumption of operations.  
+
+    - title: Can nightlife operators apply to convert their premises to full-fledged F&B operations for the longer term?
+      content: |
+        Operators can apply to the Urban Redevelopment Authority (URA) to convert their premises to a restaurant for the longer term at [https://licence1.business.gov.sg/web/frontier/home](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}{:rel="noopener"}. Only proposals for full-fledged restaurants may be considered, subject to full compliance with the restaurant guidelines, including the provision of proper kitchens. However, as announced on 16 July 2021, the processing of applications has been suspended until 15 October 2021, pending review of the requirements.
+
+    - title: Can nightlife operators apply to convert their premises to non-F&B operations?
+      content: |
+        Operators will need to make a Change of Use application with the Urban Redevelopment Authority (URA) if they wish to use their premises for other activities. The application is subject to assessment, taking into consideration the planning intention for the site, compatibility, and potential impact of the proposed use with the surroundings, and the prevailing policies/guidelines.
+
+    - title: Why did the Government allow nightlife establishments to pivot to F&B operations?
+      content: |
+        The nightlife industry is the only industry that has not been allowed to operate throughout the pandemic. As such, government agencies had worked together to help interested operators temporarily pivot to other operations in a quick and less costly manner, such that the operators would be able to revert to their usual operations when the nightlife sector is able to reopen. There are an estimated 10,000 locals employed in this sector. This move allowed nightlife establishments to at least have some revenue in the interim.
+
+        Besides temporarily pivoting to F&B operations, nightlife establishments may also apply to convert operations to another industry insofar as they obtain a Change of Use approval from the URA and meet the various requirements. 
+
+    - title: How long is the validity of the food licence under the temporary pivot scheme? Can the validity be extended?
+      content: |
+        There is no extension of the one-year food licence under the temporary pivot scheme.
+
+        Operators which intend to operate F&B services after the expiry of the one-year food license will need to obtain a Change of Use approval from the URA to convert to a restaurant. Only proposals for full-fledged restaurants may be considered, subject to full compliance with the restaurant guidelines, including the provision of proper kitchens.
+
+- accordion:
+  letter: b
+  data:
     - title: How do I know if I’m classified as a non-permitted nightlife business and if the following FAQs apply to me?
       content: |
         This set of FAQs applies to businesses that are pubs, nightclubs, discotheques, dance clubs, and karaoke outlets. It covers companies that hold an SFA Foodshop (Pubs, Bars, Nightclub, Discos) licence, and have not been permitted to operate since March 2020.
@@ -46,7 +91,7 @@
         The Simplified Insolvency Programme (SIP) aims to provide simpler, faster, and lower-cost proceedings to assist micro and small companies in need for winding up or restructuring. It comprises two separate programmes: (a) Simplified Debt Restructuring Programme for viable businesses; and (b) Simplified Winding Up Programme for non-viable businesses. Companies may apply for the programmes [here](https://eservices.mlaw.gov.sg/io/){:target="_blank"}{:rel="noopener"} before 28 July 2021.
 
 - accordion:
-  letter: b
+  letter: c
   data:
     - title: How can I change my nightlife operations to activities that are permitted today? What kind of licences are required?
       content: |
@@ -135,7 +180,7 @@
         In the event that the PEL is not renewed by the time of reversion, the smoking room must remain close until a valid PEL is obtained.
 
 - accordion:
-  letter: c
+  letter: d
   data:
     - title: Why did the Government only decide to support one month of retrenchment benefit? Would the one month of support fulfil employers’ full obligations towards the retrenchment benefit?
       content: |
