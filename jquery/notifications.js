@@ -1,8 +1,9 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 24 Aug 2021 10pm to 25 Aug 2021 2am. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 25 Aug 2021 10pm to 26 Aug 2021 2am. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.You can check our [schedule](https://licence1.business.gov.sg/web/frontier/maintenance){:target='blank'} {:rel='noopener'} for upcoming maintenance works.",
   //"<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
+  
 ];
 
 // Do not edit the following code
