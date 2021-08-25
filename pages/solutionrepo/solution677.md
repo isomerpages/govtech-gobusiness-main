@@ -14,7 +14,7 @@ OpensoftHR is a comprehensive HRM solution that is designed to reduce time consu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Opensoft_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Opensoft_Annex_3_ver2_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
