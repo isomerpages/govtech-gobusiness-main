@@ -1,6 +1,6 @@
 ---
-title: 2a. Boost your Business with Social Commerce (Part 1)
-permalink: /productivity-solutions-grant/solutionrepo/solution2349
+title: 1. E-Payments Made Easy
+permalink: /productivity-solutions-grant/solutionrepo/solution2566
 ---
 
 ### Description
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051550' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0046053' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,6 +1,6 @@
 ---
-title: 1. Apply Knowledge of Accounting Related Concepts
-permalink: /productivity-solutions-grant/solutionrepo/solution2356
+title: 2b. Boost your Business with Social Commerce (Part 2)
+permalink: /productivity-solutions-grant/solutionrepo/solution2574
 ---
 
 ### Description
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0036758-BM' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051938' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

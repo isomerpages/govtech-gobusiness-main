@@ -1,6 +1,6 @@
 ---
-title: 1. Human Resource Analytics and Insights
-permalink: /productivity-solutions-grant/solutionrepo/solution2359
+title: 1. Content Creation 101
+permalink: /productivity-solutions-grant/solutionrepo/solution2572
 ---
 
 ### Description
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200722689Z-01-CRS-Q-0040060-HRS' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0045420' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

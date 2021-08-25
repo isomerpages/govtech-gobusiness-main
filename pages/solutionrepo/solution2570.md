@@ -1,6 +1,6 @@
 ---
-title: 2. Advanced Demand Forecasting Techniques
-permalink: /productivity-solutions-grant/solutionrepo/solution2371
+title: 2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework
+permalink: /productivity-solutions-grant/solutionrepo/solution2570
 ---
 
 ### Description
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-89' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S92SS0008J-01-CRS-Q-0039329-RET' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

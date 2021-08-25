@@ -1,6 +1,6 @@
 ---
-title: 3. Service Challenges for C-Suite
-permalink: /productivity-solutions-grant/solutionrepo/solution2347
+title: 2. Introduction to Accounting Data and Analytics
+permalink: /productivity-solutions-grant/solutionrepo/solution2581
 ---
 
 ### Description
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-199104974R-01-CRS-Q-0039480-RET' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200000267Z-01-CRS-N-0048575' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

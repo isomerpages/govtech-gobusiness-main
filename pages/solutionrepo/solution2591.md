@@ -1,6 +1,6 @@
 ---
-title: 3. Process human resource information (SFw HR)
-permalink: /productivity-solutions-grant/solutionrepo/solution2361
+title: 3. Transformational Strategies for Supply Chain and Logistics Management
+permalink: /productivity-solutions-grant/solutionrepo/solution2591
 ---
 
 ### Description
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S80TU0496C-01-CRS-Q-0034638-HRS' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200604346E-01-CRS-N-0046808' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
