@@ -1,6 +1,6 @@
 ---
 title: Application Procedures for Permitted and Non-permitted Services
-permalink: /covid-faqs/app-procedure-for-services
+permalink: /covid-19-faqs/app-procedure-for-services
 ---
 
 ### Application Procedures for Permitted and Non-permitted Services

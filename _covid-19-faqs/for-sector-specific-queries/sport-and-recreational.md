@@ -1,6 +1,6 @@
 ---
 title: Sport & recreational facility operators & sport, physical exercise & activity administrators
-permalink: /covid-faqs/for-sector-specific-queries/sport-and-recreational
+permalink: /covid-19-faqs/for-sector-specific-queries/sport-and-recreational
 third_nav_title: For Sector-Specific Queries
 ---
 

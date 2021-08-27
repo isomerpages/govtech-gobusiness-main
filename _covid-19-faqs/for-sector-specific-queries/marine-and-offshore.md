@@ -1,6 +1,6 @@
 ---
 title: Marine & offshore
-permalink: /covid-faqs/for-sector-specific-queries/marine-and-offshore
+permalink: /covid-19-faqs/for-sector-specific-queries/marine-and-offshore
 third_nav_title: For Sector-Specific Queries
 ---
 

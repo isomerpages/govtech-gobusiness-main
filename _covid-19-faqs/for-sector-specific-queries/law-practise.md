@@ -1,6 +1,6 @@
 ---
 title: Law Practices
-permalink: /covid-faqs/for-sector-specific-queries/law-practise
+permalink: /covid-19-faqs/for-sector-specific-queries/law-practise
 third_nav_title: For Sector-Specific Queries
 ---
 

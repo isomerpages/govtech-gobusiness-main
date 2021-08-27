@@ -1,6 +1,6 @@
 ---
 title: Delivery / transportation
-permalink: /covid-faqs/for-sector-specific-queries/delivery-transportation
+permalink: /covid-19-faqs/for-sector-specific-queries/delivery-transportation
 third_nav_title: For Sector-Specific Queries
 ---
 

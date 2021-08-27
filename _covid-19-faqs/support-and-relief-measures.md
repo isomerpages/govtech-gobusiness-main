@@ -1,6 +1,6 @@
 ---
 title: Support and Relief Measures
-permalink: /covid-faqs/support-and-relief-measures
+permalink: /covid-19-faqs/support-and-relief-measures
 ---
 
 ### Support and Relief Measures

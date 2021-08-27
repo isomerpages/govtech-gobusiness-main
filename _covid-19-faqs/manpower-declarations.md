@@ -1,6 +1,6 @@
 ---
 title: Manpower Declarations
-permalink: /covid-faqs/manpower-declarations
+permalink: /covid-19-faqs/manpower-declarations
 ---
 
 ### Manpower Declarations

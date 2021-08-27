@@ -1,6 +1,6 @@
 ---
 title: Tourism, Hotels, Business Travel, Business Events
-permalink: /covid-faqs/for-sector-specific-queries/tourism
+permalink: /covid-19-faqs/for-sector-specific-queries/tourism
 third_nav_title: For Sector-Specific Queries
 ---
 
