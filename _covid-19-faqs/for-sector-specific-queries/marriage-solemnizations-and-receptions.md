@@ -1,6 +1,6 @@
 ---
 title: Marriage solemnizations and receptions
-permalink: /covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions
+permalink: /covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions
 third_nav_title: For Sector-Specific Queries
 ---
 

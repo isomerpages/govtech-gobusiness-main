@@ -4,7 +4,7 @@ const customTables = [
     columns: ["32%", "auto"],
   },
   {
-    path: "/covid-faqs/workplace-safe-management-measures",
+    path: "/covid-19-faqs/workplace-safe-management-measures",
     columns: ["32%", "auto"],
   },
   {
@@ -20,7 +20,7 @@ const customTables = [
     columns: ["12%", "70%", "auto"],
   },
   {
-    path: "/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
+    path: "/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
     columns: ["50%", "50%"],
   },
 ];

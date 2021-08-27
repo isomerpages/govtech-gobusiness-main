@@ -1,5 +1,5 @@
 collections:
-  covid-faqs:
+  covid-19-faqs:
     output: true
     order:
       - overview.md

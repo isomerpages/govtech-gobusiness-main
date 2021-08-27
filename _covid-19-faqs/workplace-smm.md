@@ -1,6 +1,6 @@
 ---
 title: Workplace Safe Management Measures
-permalink: /covid-faqs/workplace-safe-management-measures
+permalink: /covid-19-faqs/workplace-safe-management-measures
 ---
 
 ### Workplace Safe Management Measures

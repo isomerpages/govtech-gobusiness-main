@@ -1,6 +1,6 @@
 ---
 title: Process Construction & Maintenance (PCM) sector
-permalink: /covid-faqs/for-sector-specific-queries/process-construction-Maintenance
+permalink: /covid-19-faqs/for-sector-specific-queries/process-construction-Maintenance
 third_nav_title: For Sector-Specific Queries
 ---
 

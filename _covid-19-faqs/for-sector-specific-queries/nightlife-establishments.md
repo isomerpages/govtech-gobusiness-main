@@ -1,6 +1,6 @@
 ---
 title: Nightlife Establishments
-permalink: /covid-faqs/for-sector-specific-queries/nightlife-establishments
+permalink: /covid-19-faqs/for-sector-specific-queries/nightlife-establishments
 third_nav_title: For Sector-Specific Queries
 ---
 

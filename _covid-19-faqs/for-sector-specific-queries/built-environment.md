@@ -1,6 +1,6 @@
 ---
 title: Built environment
-permalink: /covid-faqs/for-sector-specific-queries/built-environment
+permalink: /covid-19-faqs/for-sector-specific-queries/built-environment
 third_nav_title: For Sector-Specific Queries
 ---
 

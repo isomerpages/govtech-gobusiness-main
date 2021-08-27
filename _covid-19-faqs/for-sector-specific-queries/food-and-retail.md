@@ -1,6 +1,6 @@
 ---
 title: Food and retail
-permalink: /covid-faqs/for-sector-specific-queries/food-and-retail
+permalink: /covid-19-faqs/for-sector-specific-queries/food-and-retail
 third_nav_title: For Sector-Specific Queries
 ---
 

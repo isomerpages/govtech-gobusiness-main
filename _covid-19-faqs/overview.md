@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /covid-faqs/
+permalink: /covid-19-faqs/
 ---
 
 ## COVID-19 FAQ
