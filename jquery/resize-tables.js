@@ -1,7 +1,7 @@
 const customTables = [
   {
-    path: "/start-a-business/open-a-corporate-bank-account/",
-    columns: ["32%", "auto"],
+    path: "/contact-us/helpdesk/",
+    columns: ["160px", "auto",],
   },
   {
     path: "/covid-19-faqs/workplace-safe-management-measures",

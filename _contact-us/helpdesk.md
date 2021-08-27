@@ -12,3 +12,6 @@ permalink: /contact-us/
 Ask our chatbot for help! Click on the icon on the bottom right hand corner to start.|
 
 {% include accordion.html accordions=site.data.acc013-helpdesk.accordion %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/resize-tables.js"></script>
