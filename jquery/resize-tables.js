@@ -1,7 +1,7 @@
 const customTables = [
   {
     path: "/contact-us/",
-    columns: ["22%", "auto",],
+    columns: ["32%", "auto",],
   },
   {
     path: "/covid-19-faqs/workplace-safe-management-measures",
