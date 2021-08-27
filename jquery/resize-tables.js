@@ -1,6 +1,6 @@
 const customTables = [
   {
-    path: "/contact-us/helpdesk/",
+    path: "/contact-us/",
     columns: ["32%", "auto",],
   },
   {
