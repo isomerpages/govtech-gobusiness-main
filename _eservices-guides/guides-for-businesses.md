@@ -11,35 +11,9 @@ Navigate the process of starting, running and growing a business with our handy 
 
 ### e-Services
 
-- [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="\_blank"}{:rel="noopener"} <span style="background: #E6F2F3;
-      border-radius: 3px;
-      width: 49px;
-      height: 22px;
-      padding: 2px 8px;
-      font-family: hknova-regular;
-      font-size: 12px;
-      line-height: 18px;
-      color: #02737D;
-      display: inline-block;
-      vertical-align: middle;
-      margin-left: 8px;">
-  New!
-  </span>
+- [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="\_blank"}{:rel="noopener"}
   <br>For business owners to check if their premises are currently approved for their intended use.
-- [e-Advisers for Licences](/licences/find-licence-by-sector/) <span style="background: #E6F2F3;
-      border-radius: 3px;
-      width: 49px;
-      height: 22px;
-      padding: 2px 8px;
-      font-family: hknova-regular;
-      font-size: 12px;
-      line-height: 18px;
-      color: #02737D;
-      display: inline-block;
-      vertical-align: middle;
-      margin-left: 8px;">
-  New!
-  </span>
+- [e-Advisers for Licences](/licences/find-licence-by-sector/)
   <br>A directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
 - [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_guidesforbiz){:target="\_blank"}{:rel="noopener"}
   <br>For aspiring business owners to find out the next steps to start and register a business.
