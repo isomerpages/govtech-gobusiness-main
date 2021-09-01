@@ -6,7 +6,6 @@ panels:
       - text: e-Adviser for Premises Use
         href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
         target: _blank
-        is_new: true
       - text: e-Adviser for Business Structure
         href: https://eadviser.gobusiness.gov.sg/businessstructure?src=eservices_quicklinks
         target: _blank
@@ -47,7 +46,6 @@ panels:
         alt: login
       - text: Browse by sector
         href: /licences/find-licence-by-sector/
-        is_new: true
       - text: Browse all licences
         href: /licences/find-licence-by-agency/
       - text: For new food service business owners
