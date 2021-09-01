@@ -1,5 +1,5 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 3 - (Up to 5 concurrent users)
+title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 2 - (Up to 3 concurrent users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1515
 ---
 
@@ -10,7 +10,7 @@ Highnix ERP has APIs which allow integration of third party applications. It wil
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_20200493_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_20200493_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

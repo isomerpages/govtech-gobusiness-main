@@ -1,11 +1,11 @@
 ---
-title: Solar Panels System and Energy Storage System
+title: Recirculating Aquaculture System
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
 ### Description
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
 ### Details of Solution
 

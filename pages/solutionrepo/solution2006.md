@@ -1,5 +1,5 @@
 ---
-title: Roubler - Roubler 60 -100 Users 
+title: Roubler - Roubler 1 - 30 Users 
 permalink: /productivity-solutions-grant/solutionrepo/solution2006
 ---
 
@@ -11,7 +11,7 @@ Your team has the freedom to check rosters, accept and decline shifts, request l
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

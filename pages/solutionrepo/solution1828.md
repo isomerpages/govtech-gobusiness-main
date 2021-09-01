@@ -1,20 +1,19 @@
 ---
-title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
+title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1828
 ---
 
 ### Description
 
-AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
-The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-HINK 
+All Sectors
 
 ### Eligibility Criteria
 
@@ -29,16 +28,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription with a one-time set-up fee 
+Direct Purchase
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for SMEs <br>
+Up to 80% for non-SMEs
 
 ### Things to Note
-N.A.
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
+Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ <br>Contact Email: Ishita.goel2@aon.com <br>Contact Number: 8165 7647
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

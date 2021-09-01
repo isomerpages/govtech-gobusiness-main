@@ -1,5 +1,5 @@
 ---
-title: Really Platform for PMs and FMs Version 2.4-Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)
+title: Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2282
 ---
 
@@ -9,7 +9,7 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

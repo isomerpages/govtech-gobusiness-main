@@ -1,5 +1,5 @@
 ---
-title: A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan D
+title: A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan C
 permalink: /productivity-solutions-grant/solutionrepo/solution1569
 ---
 
@@ -9,7 +9,7 @@ Sleek offers a fully digital experience for the effortless management of corpora
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

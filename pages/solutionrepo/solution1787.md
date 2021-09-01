@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software - Timcole Package 1 - Standard, Subscription only
+title: Autocount Accounting 2.0 - Package (Premium - 7 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1787
 ---
 
 ### Description
 
-Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
+Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_26_August_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
+Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857 <br>Contact Email: enquiry@creaworld.com.sg<br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

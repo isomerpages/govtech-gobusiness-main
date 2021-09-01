@@ -1,5 +1,5 @@
 ---
-title: A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan D
+title: A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan C
 permalink: /productivity-solutions-grant/solutionrepo/solution1681
 ---
 
@@ -9,7 +9,7 @@ Sleek provides fully digital, secure and hassle-free HR admin & payroll services
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

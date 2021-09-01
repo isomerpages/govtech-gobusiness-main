@@ -1,5 +1,5 @@
 ---
-title: Zoho CRM - Zoho CRM - ENTERPRISE edition, 10 users
+title: Zoho CRM - Zoho CRM - PROFESSIONAL edition, 5 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1916
 ---
 
@@ -9,7 +9,7 @@ Build everlasting customer relationships with the world's favorite CRM. Zoho CRM
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

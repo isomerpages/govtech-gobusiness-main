@@ -1,15 +1,15 @@
 ---
-title: Accounts101 - Xero Cloud Accounting Software - Package A (Premium)
+title: High Pressure Rotating Head
 permalink: /productivity-solutions-grant/solutionrepo/solution2076
 ---
 
 ### Description
 
-Xero offers a cloud-based accounting software platform for small and medium-sized businesses. Its key features include automatic bank feeds, invoicing, accounts payable, expense claims, fixed asset depreciation, purchase orders, bank reconciliations, and standard business and management reporting. Xero has more than 200 secure connections with banks and financial service partners around the world.
+The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. Time and manpower reliance can be reduced when using this equipment.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
+- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
+- Maintenance costs not supported
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
-Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Contact Hotline: 91782021<br>Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

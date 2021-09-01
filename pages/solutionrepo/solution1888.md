@@ -1,15 +1,15 @@
 ---
-title: arc.ops - Manufacturing Quality Management - Annual Subscription License - Customized
+title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Customized
 permalink: /productivity-solutions-grant/solutionrepo/solution1888
 ---
 
 ### Description
 
-With Arcstone's Manufacturing Quality Management solution, manufacturers can gain better control over the quality management processes. The solution delivers end-to-end capabilities to collect quality data, predict abnormalities, trigger alarms allowing them to avoid costly quality issues while eliminating non-compliance at every step.
+With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution, manufacturers can gain real-time visibility over their entire machines and equipment health allowing them to schedule recurring maintenance frequency and report on machine breakdowns to dispatch repairs. Leveraging the toolset, manufacturers are able to optimize equipment maintenance process remotely and automatically, while eliminating unscheduled production downtime.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

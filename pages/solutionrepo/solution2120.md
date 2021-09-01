@@ -1,11 +1,11 @@
 ---
-title: Automatic Feeding/ Drinking System
+title: Automated Slaughtering Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2120
 ---
 
 ### Description
 
-A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ### Details of Solution
 

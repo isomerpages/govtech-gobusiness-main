@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central - Package B (PEPPOL e-invoicing-15 Perpetual Licences)
+title: D365 Business Central (Microsoft) - Package A (5 Subscription Licences)
 permalink: /productivity-solutions-grant/solutionrepo/solution1539
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resour
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

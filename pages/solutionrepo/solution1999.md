@@ -1,15 +1,15 @@
 ---
-title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro
+title: Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)
 permalink: /productivity-solutions-grant/solutionrepo/solution1999
 ---
 
 ### Description
 
-Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQCOMS' Managed Security Service delivers operationally simple instant pre-breach proactive protection against the most sophisticated cyberattacks immediately, efficiently, and absolutely like no other. Combined with our 24x7 monitoring center, we provide businesses with round-the-clock visibility on the security of their machines.
+Armfort VMS is an integrated solution that will assist you to effectively authenticate and pro-actively monitor the people coming in and out of the premises on a daily basis, as there is no foresee with absolute certainty where the visitors will go and whether they have any malicious intent.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.eqcoms.com <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
+Web URL: www.onethird.co <br>Contact Hotline: 96497552 <br>Contact Email: hello@onethird.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

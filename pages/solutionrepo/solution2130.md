@@ -1,11 +1,11 @@
 ---
-title: Egg Collection Systems
+title: Dehusking Machine/ Shaker
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
 ### Description
 
-Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ### Details of Solution
 

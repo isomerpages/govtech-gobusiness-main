@@ -1,11 +1,11 @@
 ---
-title: Enhanced vehicular/ personnel disinfection system
+title: Egg Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
 ### Description
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+Integrated egg processing system to process eggs into liquid, hardboiled or pasteurized egg products
 
 ### Details of Solution
 

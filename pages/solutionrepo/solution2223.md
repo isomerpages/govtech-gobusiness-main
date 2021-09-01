@@ -1,5 +1,5 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (26- 50 Employees)
+title: HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution2223
 ---
 
@@ -9,7 +9,7 @@ Providing customized HR outsourcing services combined with Human Capital Managem
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,11 +1,11 @@
 ---
-title: Grass Processing Machine
+title: Egg Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
 ### Description
 
-A machine to mix and chop up the grass for animal feed. 
+Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
 
 ### Details of Solution
 

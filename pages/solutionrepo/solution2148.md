@@ -1,11 +1,11 @@
 ---
-title: Sterilizer Equipment
+title: Robot Cleaner 
 permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 
 ### Description
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for soil or media treatment.
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ### Details of Solution
 

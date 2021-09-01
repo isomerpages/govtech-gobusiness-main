@@ -1,5 +1,5 @@
 ---
-title: DST Inventory System Version 1.3 - Package D (RFID)
+title: DST Inventory System Version 1.3 - Package B (QR Code)
 permalink: /productivity-solutions-grant/solutionrepo/solution2262
 ---
 
@@ -9,7 +9,7 @@ DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Sorter/ Grader
+title: Aeration System/ Oxygenation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2114
 ---
 
 ### Description
 
-Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ### Details of Solution
 

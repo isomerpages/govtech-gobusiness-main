@@ -1,25 +1,15 @@
 ---
-title: Automated tools management system
+title: Zeemart - Zeemart Buyer Hub (Upto 100 outlets w/integration) (Package 5)
 permalink: /productivity-solutions-grant/solutionrepo/solution2038
 ---
 
 ### Description
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
-
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Grant support: 80% of cost of equipment, up to $22,400 grant
+Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hotels, Restaurants, Catering) industry.  For Buyers, Zeemart provides a platform (mobile & web) to perform sourcing, procurement, inventory, financing & payment activities for their operations. For Suppliers, Zeemart provides an all-in-one solution (web) for their digital marketing, lead generation, order management, inventory, eInvoicing, and payment collection business activities.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,22 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
-
-Support only hardware and software.
-
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

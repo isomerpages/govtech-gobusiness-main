@@ -1,15 +1,16 @@
 ---
-title: Microsoft Dynamics 365 Business Central SaaS - Package B - D365BC essential for 3 users
+title: DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3-DIMMPS
 permalink: /productivity-solutions-grant/solutionrepo/solution2050
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central (D365BC) offers a complete business accounting management system with realtime information that helps in decision making. It has all the functionalities any business needs to manage their business and financials efficiently. It can start small and scale as when the business needs grows.The solution suite includes the extension which covers the GST and PEPPOL E-invoicing for both compliance and regulatory reporting required for all businesses.
+DIMMPS is a marketing software platform based on the WeChat mobile app.
+The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.cyansys.com <br>Contact Hotline: 65353257 <br>Contact Email: sales@cyansys.com<br>
+Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Pelleting Machine
+title: Packaging & Labelling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
 
 ### Details of Solution
 

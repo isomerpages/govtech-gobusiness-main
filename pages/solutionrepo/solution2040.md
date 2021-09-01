@@ -1,15 +1,25 @@
 ---
-title: NetQ Management System - NetQ Management System
+title: Automated tools management system
 permalink: /productivity-solutions-grant/solutionrepo/solution2040
 ---
 
 ### Description
 
-Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system.  
+
+Grant support: 80% of cost of equipment, up to $22,400 grant
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +41,15 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Unit is expandable, customizable to hold different types of tools, and fully secured. 
+
+Support only hardware and software.
+
+Additional criteria:
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
-Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact Email: sales@arrowlogic.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

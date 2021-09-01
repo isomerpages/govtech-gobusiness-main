@@ -1,5 +1,5 @@
 ---
-title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 100
+title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50
 permalink: /productivity-solutions-grant/solutionrepo/solution1736
 ---
 
@@ -22,7 +22,7 @@ One Payroll process run per month
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

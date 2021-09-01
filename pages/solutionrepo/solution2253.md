@@ -1,5 +1,5 @@
 ---
-title: KADDRA Mobile App Commerce Solution Version 1.9 - Pro
+title: KADDRA Mobile App Commerce Solution Version 1.9 - Starter
 permalink: /productivity-solutions-grant/solutionrepo/solution2253
 ---
 
@@ -9,7 +9,7 @@ Kaddra helps businesses turn loyalty into revenue, improve retention and acceler
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

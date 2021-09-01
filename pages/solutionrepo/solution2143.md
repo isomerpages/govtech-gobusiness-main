@@ -1,11 +1,11 @@
 ---
-title: Pasteurisation Equipment/ Plant
+title: Milking Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
 ### Description
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
 
 ### Details of Solution
 

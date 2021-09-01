@@ -1,18 +1,15 @@
 ---
-title: Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Basic)
+title: NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1811
 ---
 
 ### Description
 
-You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!
-Vue Tech not only build up a website for you, but also helps you to set up all the infrastructure you need to promote your business on the internet.
-Vue tech provides eCommerce website setup, digital marketing setup & optimization, SEO setup & consultation, with a great performance track record.
-Vue tech build long term business channel for you!
+Synology NAS pairing with an onsite and offsite cloud backup to ensure that data protection is achieved and to meet compliance in many organisations. The data can be accessed via mapped drives, website portal or via the mobile app. It also sync the documents automatically without hassle via the app on your local computer, similar to One Drive/Google Drive/Dropbox but this is on a private cloud basis.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com <br>
+Web URL: https://www.nucleoconsulting.com/psg-grants-nas-email-security-cyber-training<br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

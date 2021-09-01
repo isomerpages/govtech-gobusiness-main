@@ -1,11 +1,11 @@
 ---
-title: Egg Washing System
+title: Egg Grading and Inspection System
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
 ### Description
 
-Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
+Egg grader machine also called egg sorter machine where the eggs are divided into several grades according to weight. Egg sorting can be connected with to egg testing, egg washing, egg ink jet printer, egg packing device, etc. 
 
 ### Details of Solution
 

@@ -1,11 +1,11 @@
 ---
-title: Battery-operated Torque Wrench
+title: High pressure industrial vacuum cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
 ### Description
 
-Battery-operated torque wrench or torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates the need of tedious manual torqing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, a single worker will be able to carry out torquing independently and in a shorter amount of time. 
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. Time and manpower reliance can be reduced.
 
 ### Details of Solution
 
@@ -31,8 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Produce at least 1,000 N.m torquing force 
-- Battery pack and charger can be supported
+- Must be certified intrinsically safe (e.g. ATEX certified)
+- Contains an immersion separator as a filter 
+- Training costs can be supported
 - Maintenance costs not supported
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed

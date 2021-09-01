@@ -1,5 +1,5 @@
 ---
-title: A-Class Accounting & Sales Management by Sleek Version 1 - E - Growth
+title: A-Class Accounting & Sales Management by Sleek Version 1 - D - Supreme
 permalink: /productivity-solutions-grant/solutionrepo/solution1575
 ---
 
@@ -9,7 +9,7 @@ Sleek provides a fully digital solution for accounting, tax, HR and sales manage
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

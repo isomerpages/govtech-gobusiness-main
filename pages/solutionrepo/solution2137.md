@@ -1,11 +1,11 @@
 ---
-title: Humidifier Equipment
+title: Grass Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2137
 ---
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+A machine to mix and chop up the grass for animal feed. 
 
 ### Details of Solution
 

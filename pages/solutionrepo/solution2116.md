@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation & Dosing System
+title: Automated Fish Sorter/ Grader
 permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ### Description
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
 
 ### Details of Solution
 

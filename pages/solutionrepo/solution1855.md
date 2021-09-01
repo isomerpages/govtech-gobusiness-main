@@ -1,5 +1,5 @@
 ---
-title: NetSuite-SuiteSuccess Standard and Inventory Management
+title: NetSuite-SuiteSuccess FinancialsFirst Standard Cloud Service
 permalink: /productivity-solutions-grant/solutionrepo/solution1855
 ---
 
@@ -11,7 +11,7 @@ Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

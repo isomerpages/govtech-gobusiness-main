@@ -1,19 +1,24 @@
 ---
-title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+title: Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1826
 ---
 
 ### Description
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-All Sectors
+1.Accounting<br>
+2.Healthcare<br>
+3.Hotels & Accommodation<br>
+4.Retail<br>
+5.Consumer Goods<br>
+6.Other sectors of strength: Education and Lifesciences
 
 ### Eligibility Criteria
 
@@ -38,5 +43,5 @@ Up to 80% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ <br>Contact Email: Ishita.goel2@aon.com <br>Contact Number: 8165 7647
+Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
 

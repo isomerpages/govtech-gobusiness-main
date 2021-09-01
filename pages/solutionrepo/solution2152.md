@@ -1,11 +1,11 @@
 ---
-title: Vegetable Weighing and Packing System
+title: Vacuum Cooler Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
 ### Description
 
-A system that accurately weigh the produce according to the pre-set quantity and weight, and automatically transported to the packaging station to ensure that the quantity and weight of the packaged products meet the requirements. 
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ### Details of Solution
 
