@@ -1,11 +1,11 @@
 ---
-title: Automatic egg case labelling machine
+title: Automated Mixer/ Compacter for Growing Media
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 
 ### Description
 
-Egg pack printing system or pack labelling system which allow the user to fully customize their label.
+Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
 ### Details of Solution
 

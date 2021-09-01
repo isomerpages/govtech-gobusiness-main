@@ -1,11 +1,11 @@
 ---
-title: Vacuum Cooler Equipment
+title: Sterilizer Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2150
 ---
 
 ### Description
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for soil or media treatment.
 
 ### Details of Solution
 

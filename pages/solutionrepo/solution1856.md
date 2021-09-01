@@ -1,15 +1,17 @@
 ---
-title: Second CRM Version 7.1 - Package A (3 Users)
+title: NetSuite-SuiteSuccess FinancialsFirst Standard Cloud Service w/ implementation
 permalink: /productivity-solutions-grant/solutionrepo/solution1856
 ---
 
 ### Description
 
-Second CRM is an easy to use cloud based business automation solution designed to improve productivity for small to medium businesses. Second CRM focuses on sales, customer services and operations, providing end to end streamlining of business functions.
+For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
+
+Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact Email: sales@secondcrm.com <br>
+Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

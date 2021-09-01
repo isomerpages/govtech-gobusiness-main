@@ -1,17 +1,15 @@
 ---
-title: NetSuite-SuiteSuccess Starter with Implementation
+title: Fides Suite - Fides Cloud - 3 Outlets
 permalink: /productivity-solutions-grant/solutionrepo/solution1851
 ---
 
 ### Description
 
-For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
-
-Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
+Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all B2B and B2c businesses. and Fides Portal is an engaging platform for members to view their loyalty history, redeem rewards and shop
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
+Web URL: crm.fidescloud.com <br>Contact Hotline: 69726400 <br>Contact Email: fidessuite@edenred.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

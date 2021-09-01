@@ -1,15 +1,17 @@
 ---
-title: Microsoft Dynamics 365 Business Central SaaS - Package A - D365BC premium for 3 users
+title: EQUIP Version 10 - EQUIP S1 - 30 Users with Manufacturing
 permalink: /productivity-solutions-grant/solutionrepo/solution2049
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central (D365BC) offers a complete business accounting management system with realtime information that helps in decision making. It has all the functionalities any business needs to manage their business and financials efficiently. It can start small and scale as when the business needs grows.The solution suite includes the extension which covers the GST and PEPPOL E-invoicing for both compliance and regulatory reporting required for all businesses.
+EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
+
+Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.cyansys.com <br>Contact Hotline: 65353257 <br>Contact Email: sales@cyansys.com<br>
+Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 66028002 <br>Contact Email: enquiries@hashmicro.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

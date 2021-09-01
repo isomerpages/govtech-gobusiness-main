@@ -1,11 +1,11 @@
 ---
-title: Inoculation Cabinet (Laminar flow cabinet)
+title: Hi-jack Cleaning Machinery
 permalink: /productivity-solutions-grant/solutionrepo/solution2138
 ---
 
 ### Description
 
-For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ### Details of Solution
 

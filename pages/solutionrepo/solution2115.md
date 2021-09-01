@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Vaccination
+title: Automated Fish Counter/ Fish Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 
 ### Description
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
+Automatic devices for measuring or estimating the number of fish at a waterbody in a period. 
 
 ### Details of Solution
 

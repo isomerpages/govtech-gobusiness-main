@@ -1,17 +1,15 @@
 ---
-title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
+title: APPZPOS F&B Point of Sales Version 1.1 - IOS/Android Mobile Ordering System
 permalink: /productivity-solutions-grant/solutionrepo/solution1982
 ---
 
 ### Description
 
-Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
-
-The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
+APPZPOS is a one integrated solution with multiple ordering portals linked to the same central admin backend and kitchen display system. Users can place orders from multiple portals, while staff check orders as well as sales reports in the same backend for multiple outlets. APPZPOS is a cloud based system where users can easily amend menu and other setting from backend, check reports through any device, at anywhere, anytime.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
+Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932234 <br>Contact Email: sales@appzgate.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

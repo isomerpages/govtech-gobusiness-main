@@ -1,11 +1,11 @@
 ---
-title: Vegetable Washing Machine
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
 ### Description
 
-A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 

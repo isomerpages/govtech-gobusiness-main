@@ -1,19 +1,19 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 1 Mobile Ordering
+title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1829
 ---
 
 ### Description
 
-The Essential F&B Management Solutions 
-Major Productivity Solutions:
-1.	Efficient streamlined manpower, cutting down on mistakes.
-2.	Effective audit to prevent loopholes and lock profits.
-3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
+COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+All Sectors
 
 ### Eligibility Criteria
 
@@ -32,12 +32,11 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
+Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

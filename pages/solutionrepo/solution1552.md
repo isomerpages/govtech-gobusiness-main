@@ -1,5 +1,5 @@
 ---
-title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 6 Vehicles
+title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 4 Vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
@@ -12,7 +12,7 @@ The system is also able to add in a variety of Telematics smart sensors to meet 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-HR Easily Pte Ltd<br>https://www.hreasily.com/<br>Email: sharon@hreasily.com<br>Tel: +65 6438 3190
+Company Name: HR Easily Pte Ltd<br>Web URL: https://www.hreasily.com/<br>Contact Hotline: 6438 3190    ContactEmail:enquiry@hreasily.com    <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

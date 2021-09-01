@@ -1,11 +1,11 @@
 ---
-title: Water Filtration System
+title: Vegetable Washing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
 
 ### Details of Solution
 

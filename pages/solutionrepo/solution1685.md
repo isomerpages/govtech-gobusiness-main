@@ -1,5 +1,5 @@
 ---
-title: SoloTracking Version 2 - Package B (1 vehicle with 3G)
+title: SoloTracking Version 2 - Package A (40 vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1685
 ---
 
@@ -9,7 +9,7 @@ SoloTracking is an industry-proven, advanced and productivity-oriented fleet man
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_20200467_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_20200467_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

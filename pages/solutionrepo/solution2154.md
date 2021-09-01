@@ -1,11 +1,11 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: Vegetable Weighing and Packing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
 ### Description
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged. 
+A system that accurately weigh the produce according to the pre-set quantity and weight, and automatically transported to the packaging station to ensure that the quantity and weight of the packaged products meet the requirements. 
 
 ### Details of Solution
 

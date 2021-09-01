@@ -1,5 +1,5 @@
 ---
-title: Second CRM Version 7.1 - Package C (10 Users)
+title: Second CRM Version 7.1 - Package A (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1858
 ---
 
@@ -9,7 +9,7 @@ Second CRM is an easy to use cloud based business automation solution designed t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

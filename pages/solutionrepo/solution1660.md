@@ -1,5 +1,5 @@
 ---
-title: TimeCentral Version 11 - 	TimeCentral 100
+title: TimeCentral Version 11 - TimeCentral 50
 permalink: /productivity-solutions-grant/solutionrepo/solution1660
 ---
 
@@ -9,7 +9,7 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,11 +1,15 @@
 ---
-title: Automatic Nut Splitter
+title: Mobile Computer (Warehouse application)
 permalink: /productivity-solutions-grant/solutionrepo/solution2039
 ---
 
 ### Description
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Grant support: 80% of cost of equipment, up to $24,000 grant
 
 ### Details of Solution
 
@@ -31,10 +35,18 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum nut size: 12.7mm
-It can be powered hydraulically, electrically, pneumatically etc
-Training costs can be supported
-Maintenance costs not supported
+Installed with software for inventory data input.
+Withstand rough handling, meet min IP54 standards.
+Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
+Battery with min 3 hrs standby.
+Wireless LAN/Bluetooth/cellular connectivity.
+Support the common operating system e.g. Android, Windows.
+Maintenance cost is not supported.
+
+
+Additional criteria: >30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+No change in vendor allowed
 
 ### Contact Information
 N.A.

@@ -1,15 +1,21 @@
 ---
-title: Xero - Xero Subscription Only (XSO)
+title: Xero - Xero Premium Implementation (XPI)
 permalink: /productivity-solutions-grant/solutionrepo/solution1764
 ---
 
 ### Description
 
-Xero is online accounting software that allows small businesses to work in real-time with their accountant or bookkeeper, and build a trusted relationship through online collaboration. Xero allows you and your team to connect with your clients and with the right information, anytime, anywhere. Xero also connects seamlessly with hundreds of other apps to become the basis of a complete business solution.
+Xero is online accounting software that allows small businesses
+to work in real-time with their accountant or bookkeeper, and
+build a trusted relationship through online collaboration. Xero
+allows you and your team to connect with your clients and with
+the right information, anytime, anywhere. Xero also connects
+seamlessly with hundreds of other apps to become the basis of
+a complete business solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +40,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com 
+Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Egg Processing Machine
+title: Egg Collection Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2132
 ---
 
 ### Description
 
-Integrated egg processing system to process eggs into liquid, hardboiled or pasteurized egg products
+Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
 
 ### Details of Solution
 

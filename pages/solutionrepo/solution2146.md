@@ -1,11 +1,11 @@
 ---
-title: Robot Cleaner 
+title: Pelleting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2146
 ---
 
 ### Description
 
-A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ### Details of Solution
 

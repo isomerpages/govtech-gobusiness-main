@@ -1,15 +1,15 @@
 ---
-title: ABSS - Accounting Consultancy - 3 users + Setup + Training
+title: Automatic Flow Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1985
 ---
 
 ### Description
 
-Accounting Consultancy Pte Ltd is a pre-approved vendor offering ABSS ABSS Premier provides advanced Accounting, inventory and business management capabilities to companies. Process foreign currency transactions, tax submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,21 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to For SMEs: 80 of cost of equipment, up to $30,000 grant per unit.% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications:
+- Able to pack products in round or odd shapes or with a tray.
+- Uses heat sealing with films to automatically wrap products.
+- Min. output capacity of 30 metres per minute.
+- Installation and maintenance costs are not supported.
+
+-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+-No change in vendor allowed
+-The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
-Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

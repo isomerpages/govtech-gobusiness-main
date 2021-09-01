@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Autodesk Docs (10 User Pack)
+title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (2 User Pack)
 permalink: /productivity-solutions-grant/solutionrepo/solution1585
 ---
 
@@ -13,7 +13,7 @@ INNOCOM - Autodesk BIM 360
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

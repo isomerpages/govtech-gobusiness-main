@@ -1,16 +1,15 @@
 ---
-title: Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (25 Units)
+title: Microsoft Dynamics 365 Business Central SaaS - Package B - D365BC essential for 3 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2052
 ---
 
 ### Description
 
-Adventus Managed EndPoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic EndPoint Protection by providing managed service on top of the solution.
-With this all-rounded EndPoint Protection, threats are disrupted, contained, and neutralized. As a result, customers can rest assured that their servers and EndPoints are constantly being monitored by Adventus while they focus on their business needs and daily business operations.
+Microsoft Dynamics 365 Business Central (D365BC) offers a complete business accounting management system with realtime information that helps in decision making. It has all the functionalities any business needs to manage their business and financials efficiently. It can start small and scale as when the business needs grows.The solution suite includes the extension which covers the GST and PEPPOL E-invoicing for both compliance and regulatory reporting required for all businesses.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
+Web URL: www.cyansys.com <br>Contact Hotline: 65353257 <br>Contact Email: sales@cyansys.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

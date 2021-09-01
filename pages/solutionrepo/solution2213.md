@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software-Harvest - Software, Setup and Training
+title: Xero Cloud Accounting Software-Harvest - Software
 permalink: /productivity-solutions-grant/solutionrepo/solution2213
 ---
 
@@ -9,7 +9,7 @@ Xero is a cloud-based online accounting solution that can handle tasks that used
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 98218195 <br>Contact Email: ask@harvestaccounting.com.sg <br>
+Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

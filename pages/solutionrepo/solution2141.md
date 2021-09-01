@@ -1,11 +1,11 @@
 ---
-title: Milking Machine
+title: Live Fish Pump
 permalink: /productivity-solutions-grant/solutionrepo/solution2141
 ---
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
+An equipment that ensure safe, gentle, fast way to transfer fish.
 
 ### Details of Solution
 
