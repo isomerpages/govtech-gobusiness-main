@@ -1,27 +1,12 @@
 collections:
-  run-and-grow:
+  faqs:
     output: true
     order:
-      - overview.md
-      - government-assistance/.keep
-      - government-assistance/about-government-assistance.md
-      - government-assistance/tax-incentives.md
-      - government-assistance/loans.md
-      - government-assistance/grants.md
-      - government-assistance/toolkits-programmes.md
-      - government-assistance/budget-2021.md
-      - business-grants-portal.md
-      - business-grants-portal/.keep
-      - business-grants-portal/about-business-grant-portal.md
-      - business-grants-portal/faq.md
-      - licences-and-permits/.keep
-      - licences-and-permits/about.md
-      - licences-and-permits/find-licence-by-sector.md
-      - licences-and-permits/browse-all-licences.md
-      - licences-and-permits/for-new-food-service-business-owners.md
-      - licences-and-permits/faq.md
-      - taxes-gst-customs/.keep
-      - taxes-gst-customs/taxes-gst.md
-      - taxes-gst-customs/annual-returns.md
-      - taxes-gst-customs/imports-exports.md
-      - gebiz-alerts.md
+      - most-popular-faq.md
+      - general/.keep
+      - general/about.md
+      - general/getting-started.md
+      - start-business.md
+      - business-grants.md
+      - covid-19.md
+      - licences-and-permits.md
