@@ -16,13 +16,13 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 
 Currently on BGP, you can apply for:
 
-- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="\_blank"}{:rel="noopener"}
-- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="\_blank"}{:rel="noopener"}
-- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="\_blank"}{:rel="noopener"}
-- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="\_blank"}{:rel="noopener"}
-- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="\_blank"}
-- [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="\_blank"}{:rel="noopener"}
-- [Electric Vehicle Common Charger Grant](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/ev_common_charger_grant.html){:target="\_blank"}{:rel="noopener"}
+- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="_blank"}
+- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"}
+- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
+- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
+- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
+- [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
+- [Electric Vehicle Common Charger Grant](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/ev_common_charger_grant.html){:target="_blank"}
 
 You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
@@ -58,7 +58,7 @@ You will be notified of your application results via email. Log into BGP to acce
 
 #### 7. Submit your claim
 
-Once you have accepted your Letter of Offer, you will be notified on your claim due date for your grant via email. Log into BGP to file your claim before the claim due date and your approved claim will be credited to your company’s bank account.
+Once you have accepted your Letter of Offer, you will be notified on your claim due date for your grant via email. Log into BGP to file your claim before the claim due date and your approved claim will be credited to your company’s bank account. 
 
 ---
 
