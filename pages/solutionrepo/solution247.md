@@ -10,7 +10,7 @@ Synchronize your promotions, customer data, inventory stock level, sales reports
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_8.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_8.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +35,10 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
+Company Name:Bona Technologies Systems Pte Ltd 
+<br>Web URL: bona.com.sg 
+<br>Contact Hotline: 90470443 
+<br>Contact Email: it@bona.com.sg 
+<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
