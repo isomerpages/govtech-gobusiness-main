@@ -10,6 +10,8 @@ To ensure a safe working environment, businesses are required to abide by the [n
 
 All businesses should take note of the following:
 
+- From 19 August 2021, temperature screening and symptom checks are no longer required at workplaces.
+
 - Work-from-home will continue to be the default at workplaces. Employers must ensure that employees who are able to work from home do so.
 
 - Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours.
