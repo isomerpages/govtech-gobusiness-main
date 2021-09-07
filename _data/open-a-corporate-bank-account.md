@@ -1,6 +1,6 @@
 ---
 title: Open a corporate bank account
-permalink: /start-a-business/open-a-corporate-bank-account/
+permalink: /start-a-business/open-a-corporate-bank-account-b/
 third_nav_title: Key Steps to Start
 ---
 
