@@ -16,11 +16,11 @@ It is optional for Sole Proprietorships, Partnerships and Limited Partnerships. 
 
 In general, most banks have the following requirements.
 
-1. Account signatories and majority directors be physically present in Singapore for paperwork signing at the time of opening the company bank account.
+1) Account signatories and majority directors be physically present in Singapore for paperwork signing at the time of opening the company bank account.
 
 Note: Some banks may accept the signing of documents at one of their overseas branches or in front of a Notary Public.
 
-2. Supporting documents needed:
+2) Supporting documents needed:
 
 |-- |--|
 |**Completed Corporate Account Opening Forms** |Signed by authorised signatories as per the board resolution|
@@ -33,14 +33,11 @@ Note: Some banks may accept the signing of documents at one of their overseas br
 
 Note: Some banks may require additional documents on a case-by-case basis.
 
-<!-- ### Apply for corporate bank account
+### Apply for corporate bank account
 
 Click on the bank of your choice to learn about opening an account on their website.
 
-|--|--------------------------------------------------|-------------|
-|**Name of Bank**| |**Visit**|
-|![DBS](/images/start/DBS.png) | Development Bank of Singapore (DBS) | [Find Out More](https://go.dbs.com/oaos-gobusiness){:target="_blank"}{:rel="noopener"} |
-|![OCBC](/images/start/OCBC.png) | Overseas Chinese Banking Corporation (OCBC) | [Find Out More](https://openbizaccount.ocbc.com/obao/#!intro){:target="_blank"}{:rel="noopener"} |
-|![UOB](/images/start/UOB.png)| United Overseas Bank (UOB) | [Find Out More](https://www.uob.com.sg/business/transact/ebusiness-account.page){:target="_blank"}{:rel="noopener"} | -->
+{% include panels-single.html panels=site.data.start_corporatebanks %}
+
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
