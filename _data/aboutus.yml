@@ -1,0 +1,36 @@
+- image: <img src="/images/aboutus/e-Services.svg">
+  title: Find Government e-Services
+  description: Find what you need fast and easily. Over 300 Government e-services are at your fingertips with our directory to help make your search quick and simple.
+  url: /e-services/
+  text: Go to e-Service Navigator
+
+- image: <img src="/images/aboutus/e-Adviser.svg">
+  title: Get personalised help
+  description: Answer a few questions about your business to find out what you need to do next, with our e-Advisers and Guided Journeys.
+  url: /e-services/guides-for-biz/
+  text: View out Guides for Businesses
+
+- image: <img src="/images/aboutus/Covid.svg">
+  title: Get support during COVID-19
+  description: Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
+  url: /covid/
+  text: Find Out More
+
+- image: <img src="/images/aboutus/Licences.svg">
+  title: Apply for licences
+  description: Apply for the licences and permits you need from multiple government agencies, with just one application. For new business owners, the Guided Journey feature takes you through a step-by-step process to find out the licences you need, and apply for them. This feature is currently for food services only.
+  url: /licences/
+  text: Find Out More
+
+- image: <img src="/images/aboutus/GovAssist.svg">
+  title: Get Government Assistance
+  description: Tap on a wide range of Government assistance schemes to support your business. From loans and tax incentives to grants and toolkits, identify what you need with an e-Adviser.
+  url: /gov-assist/
+  text: Find Out More
+
+- image: <img src="/images/aboutus/GeBiz Alerts.svg">
+  title: Get GeBIZ alerts
+  description: Stay competitive and subscribe for daily email notifications on government procurement opportunities posted on Government Electronic Business (GeBIZ).
+  url: /gebiz-alerts/
+  text: Subscribe Here
+  
