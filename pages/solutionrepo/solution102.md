@@ -36,11 +36,15 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
+Mandatory: 
+- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) 
+- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) 
+
 Support excludes end-effectors, sensors, programming and integration cost
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+- The purchase of pre-owned/used equipment is not supportable. 
 
 ### Contact Information
 N.A.

@@ -1,5 +1,5 @@
 ---
-title: SAP BUSINESS ONE V10 - 5 Subscription users Hana on Cloud
+title: SAP BUSINESS ONE V10 -  5 Perpetual Professional users Hana on Cloud
 permalink: /productivity-solutions-grant/solutionrepo/solution1771
 ---
 
@@ -9,7 +9,7 @@ SAP Business One is an integrated business management application. It offers a c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_World_Management_Annex_3_CR_wef_9_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
