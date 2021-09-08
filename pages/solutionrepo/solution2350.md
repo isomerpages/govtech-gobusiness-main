@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
+Web URL: https://361dc.com/software/hr-easily/<br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
