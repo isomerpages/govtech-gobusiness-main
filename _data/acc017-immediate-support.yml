@@ -1,8 +1,8 @@
 accordion:
-  - title: Jobs Support Scheme (Additional support for affected businesses through Phase 2 and 3 (Heightened Alert))
+  - title: Jobs Support Scheme (Additional support for affected businesses through Phase 2 (Heightened Alert))
     content: |
       *	Wage support for employers to retain their local employees during this period of uncertainty. 
-      *	From 16 May to 11 Jul 2021, JSS will be enhanced to 50% for F&B, performing arts and arts education, and affected gyms and fitness studios; and to 30% for retail, cinema operators, museums, art galleries, historical sites, indoor playgrounds, and other family entertainment centres. The sectors that received enhanced JSS support during Phase 2 (Heightened Alert) will receive 10% support from 12 Jun to 25 Jul 2021. As personal care services can resume their full suite of activities from 14 Jun onwards, the sector will receive 30% JSS from 16 May to 20 Jun, and 10% from 21 Jun to 30 Jun, before reverting to its original JSS schedule. There is no change to JSS schedule for other sectors (e.g. Tier 1 sectors).
+      * From 22 July to 18 August 2021, JSS support will be enhanced to 60% for sectors where the tightened measures require them to suspend many, if not all, of their activities. These include food & beverage (F&B) businesses, gyms, fitness studios, performing arts organisations and arts education centres. We will also enhance JSS support to 40% for sectors that are significantly affected by the restrictions. These include the retail sector, affected personal care services, tourist attractions, licensed hotels, cruise and regional ferry operators, MICE organisers, travel agents, museums, art galleries, cinema operators and other family entertainment centres. JSS support for these sectors will taper to 10% from 19 to 31 August 2021.
       *	All active employers in specified sectors that meet the qualifying criteria and who have made mandatory CPF contributions before the stipulated deadline for their local employees will qualify for the payout.
       *	More details on sectors can be found here: [https://www.iras.gov.sg/irashome/Schemes/Businesses/Specific-Industries-in-Tiers-and-SSIC-Codes/](https://www.iras.gov.sg/irashome/Schemes/Businesses/Specific-Industries-in-Tiers-and-SSIC-Codes/){:target="_blank"}{:rel="noopener"}
       *	Find out more information from: [https://go.gov.sg/jss](https://go.gov.sg/jss){:target="_blank"}{:rel="noopener"}
@@ -10,10 +10,8 @@ accordion:
   - title: Rental Support for SME and NPO Tenant-Occupiers of Commercial Properties
     content: |
       * Rental cost support to ease cashflow difficulties for businesses affected by Phase 2 (HA) restrictions. 
-      * Hawkers in centres managed by NEA or NEA-appointed operators, SMEs and eligible NPOs with an annual revenue not exceeding $100 million, who are tenant-occupiers of qualifying commercial properties.  
-      * Lease must be entered into before 14 May 2021. 
-
-      Details will be uploaded on [https://www.iras.gov.sg](https://www.iras.gov.sg){:target="_blank"}{:rel="noopener"} by mid-June 2021.
+      * Hawkers in centres managed by NEA or NEA-appointed operators, SMEs and eligible NPOs with an annual revenue not exceeding $100 million, who are tenant-occupiers of qualifying commercial properties.
+      * Find out more information from: [https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme](https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme){:target="_blank"}{:rel="noopener"}
 
   - title: Jobs Growth Incentive (JGI)
     content: |
@@ -28,6 +26,11 @@ accordion:
     content: |
       * Covers 20% of delivery cost per trip for delivery orders fulfilled through eligible third-party logistics partners, or 5% reduction in commission cost charged for food delivery using eligible food delivery platforms.
       * Find out more from: [https://www.enterprisesg.gov.sg/industries/type/food-services/food-delivery-booster-package](https://www.enterprisesg.gov.sg/industries/type/food-services/food-delivery-booster-package){:target="_blank"}{:rel="noopener"}
+
+  - title: E-Commerce Booster Package
+    content: |
+      * Retailers can engage one of the appointed e-commerce platforms to sell products online. Eligible local retailers will receive one-time support to defray 80% of qualifying costs, capped at $8000.  
+      * Find out more information from: [https://www.enterprisesg.gov.sg/industries/type/retail/e-commerce-booster-package](https://www.enterprisesg.gov.sg/industries/type/retail/e-commerce-booster-package){:target="_blank"}{:rel="noopener"}
 
   - title: Enhanced Wage Credit Scheme (WCS)
     content: |
