@@ -26,7 +26,7 @@ The Government shall have the right to claw back the cost of any test kits shoul
 
 ### Application
 
-Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="blank"}{:rel="noopener"} 
+Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="blank"}{:rel="noopener"} 
  
 The application period is from 16 Sep – 13 Oct 2021. Corporate entity login (Corppass) is required for this application form. Please only submit one application form per company UEN. Multiple or inaccurate submissions will be voided and processing will be further delayed.
 
