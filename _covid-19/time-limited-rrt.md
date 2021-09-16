@@ -1,12 +1,12 @@
 ---
-title: Time Limited RRT for Workspaces
+title: Time Limited RRT for Worksplaces
 permalink: /timelimitedrrt/
 ---
 ## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
 
 As part of the national effort to step up regular testing, firms with employees that work onsite and <b>are not already subject to mandatory RRT</b>, will be eligible to voluntarily apply for 8 Antigen Rapid Test (ART) kits per onsite employee for weekly testing of their staff over a two-month period. With these kits, firms are to initiate weekly testing for their onsite staff. These tests can be administered by the individuals themselves at home, or at the work premises. 
 
-### Eligible Criteria
+### Eligibility Criteria
 
 * Staff should not be on any mandatory Polymerase Chain Reaction (PCR) or Fast and Easy Testing (FET) RRT
 
@@ -36,7 +36,7 @@ For queries about your application, please contact:
 
 * Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="blank"}{:rel="noopener"} or [+65 6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
 
-* Health Promotion Board (HPB) at [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
+* Health Promotion Board (HPB) at [+65 6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
 
 ### More information about ART
 Learn more about how to perform a self-test using ART and what to do if tested positive:
