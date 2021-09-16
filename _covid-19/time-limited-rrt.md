@@ -1,5 +1,5 @@
 ---
-title: Time Limited RRT for Worksplaces
+title: Time Limited RRT for Workplaces
 permalink: /timelimitedrrt/
 ---
 ## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
