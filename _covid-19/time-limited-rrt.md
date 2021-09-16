@@ -18,7 +18,7 @@ As part of the national effort to step up regular testing, firms with employees 
 
 ### Compliance & Results Declaration
 
-Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. These processes will be audited by the government for compliance.  
+Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. <b>These processes will be audited by the government for compliance.</b>  
 
 Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="blank"}{:rel="noopener"} 
   
@@ -42,6 +42,6 @@ For queries about your application, please contact:
 Learn more about how to perform a self-test using ART and what to do if tested positive:
 
 |-|-|
-|Resources|[www.moh.gov.sg/covid-19/selftestart](www.moh.gov.sg/covid-19/selftestart){:target="blank"}{:rel="noopener"}|
+|Resources|[https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="blank"}{:rel="noopener"}|
 |Self-test instructions|[https://artbuddy.healthpixel.co/](https://artbuddy.healthpixel.co/){:target="blank"}{:rel="noopener"}|
 
