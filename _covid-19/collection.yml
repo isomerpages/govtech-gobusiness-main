@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - overview.md
+      - time-limited-rrt.md
       - permitted-services.md
       - safe-management-requirements/.keep
       - safe-management-requirements/general-requirements.md
