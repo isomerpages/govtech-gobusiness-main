@@ -6,6 +6,14 @@ const customTables = [
   {
     path: "/contact-us/",
     columns: ["32%", "auto",],
+  }, 
+  {
+    path: "/timelimitedrrt/",
+    columns: ["32%", "auto",],
+  }, 
+  {
+    path: "/covid-19-faqs/time-limited-rrt-for-workplaces",
+    columns: ["32%", "auto"],
   },
   {
     path: "/covid-19-faqs/workplace-safe-management-measures",

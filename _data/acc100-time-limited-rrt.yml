@@ -24,7 +24,7 @@
       content: |
         Please note that your company would need to have a valid CorpPass login to submit your application via [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="_blank"}{:rel="noopener"}. 
 
-        Please only submit one application form per company UEN. The application should include all on-site employees hired to work under this company UEN, even if they work in different office/outlet locations. 9
+        Please only submit one application form per company UEN. The application should include all on-site employees hired to work under this company UEN, even if they work in different office/outlet locations.
 
     - title: My company does not have a Corppass. What should I do?
       content: |
@@ -113,15 +113,24 @@
 
     - title: If I test ART-positive or invalid twice, what do I do?
       content: |
-        * Call the nearest SASH clinic listed on phpc.gov.sg to make an appointment and confirm that they can provide a confirmatory PCR test. At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you have to comply with your doctor’s instructions.
+        * Call the nearest SASH clinic listed on [phpc.gov.sg](https://phpc.gov.sg/){:target="_blank"}{:rel="noopener"} to make an appointment and confirm that they can provide a confirmatory PCR test. At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you have to comply with your doctor’s instructions.
+
         * Take a photo of your ART test result(s) with your identification document (ID) in the <b>same photo</b> immediately. Dispose the used test kit by properly and wash your hands. 
+
         * Bring (1) the photo of your results + ID together and (2) your physical ID (NRIC/Passport) to the clinic.
+
         * Travel to the clinic via private transport (car or taxi). Sit alone in the back seat and on the opposite side of the driver. Wind down the windows (switch off air-conditioning) and wear a surgical mask throughout the ride. If you ride a motorcycle, please ensure that you do not have a pillion rider.
-        * If you require a taxi, please do not take a street-hire taxi. Instead, book a taxi through:<br>
-        i.	<b>Call the taxi hotlines</b>: Inform the operator that you are going for a PCR test at a SASH clinic.<br>
-        ii.	<b>Mobile application of transport companies</b>: Input “SHN” in the comment box or check the “SHN” checkbox (if available).
+
+        * If you require a taxi, please do not take a street-hire taxi. Instead, book a taxi through:
+
+          i.	<b>Call the taxi hotlines</b>: Inform the operator that you are going for a PCR test at a SASH clinic.
+
+          ii.	<b>Mobile application of transport companies</b>: Input “SHN” in the comment box or check the “SHN” checkbox (if available).
+
         * <b>After the confirmatory PCR test, please go home immediately via private transport (same arrangement above), and self-isolate at home until you receive your negative PCR test results.</b>
+
         * If you are unable to self-isolate at home, please inform your clinic before the swab so that alternative arrangements may be made.
+
         * Your doctor will generally inform you of your results within 24 to 48 hours. Alternatively, you may check your results via [HealthHub](https://www.healthhub.sg/){:target="_blank"}{:rel="noopener"}.
 
     - title: How much do I have to pay for the confirmatory PCR test?
