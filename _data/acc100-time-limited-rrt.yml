@@ -41,7 +41,7 @@
     - title: I tried to submit an online application using my CorpPass but received an error message saying “Unauthorised. What should I do?
       content: |
         CorpPass Administrators need to first select digital services for the entity:
-          1.  Login at www.corppass.gov.sg 
+          1.  Login at [www.Corppass.gov.sg](https://www.Corppass.gov.sg/cpauth/login/homepage?TAM_OP=login){:target="_blank"}{:rel="noopener"}
 
           2.	Go to ‘e-Services’ -> ‘Select Entity e-Services’
 
