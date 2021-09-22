@@ -1,11 +1,11 @@
 ---
-title: Ecommerce Web Software Development -Ecommerce Web Software Development  - Ecommerce Web Software Development (Opencart/Woocommerce)
+title: Ecommerce Web Software Development  -  Ecommerce Web Software Development (Opencart/Woocommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution1086
 ---
 
 ### Description
 
-Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
+Firstcom Solutions is a leading web development agency with more than 10 years of experience. Our solution covers the development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, manage online orders and data, track statistics of product sales performance, online marketing of products and provision of integration with external platforms to provide better automation and data analytics. 
 
 ### Details of Solution
 
