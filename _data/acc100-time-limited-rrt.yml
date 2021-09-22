@@ -76,10 +76,6 @@
       content: |
         There can only be ONE (1) application submitted per company UEN. Subsequent submissions will be voided. Should additional kits be required after the first application, these must be purchased at your company’s own costs
 
-    - title: I have already made my online application but realised that I have missed adding some new hires and part-timers. Can I submit another application?
-      content: |
-        There can only be ONE (1) application submitted per company UEN. Multiple submissions will be voided. Should additional kits be required after the first application, these must be purchased at your company’s own costs. 
-
 - accordion:
   letter: c
   data:
