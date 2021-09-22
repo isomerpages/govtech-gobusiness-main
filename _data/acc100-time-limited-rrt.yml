@@ -61,10 +61,9 @@
           9.	Select the digital services you wish to assign to the selected users. Or type “Health Promotion Board” in the search bar. Click ‘Next’ to proceed.
 
           10.	Tick the box on the left of “FormSG (Health Promotion Board)”, then click ‘Next’
-
-            a.	“Authorization Effective Date” can be today.
-
-            b.	“Authorization Expiry Date” can be left blank.
+          
+            - “Authorization Effective Date” can be today.
+            - “Authorization Expiry Date” can be left blank.
 
           11.	Click ‘Next’ and ‘Submit’
 
@@ -101,8 +100,8 @@
       content: |
         Companies are recommended to allow employees to perform the self-testing onsite. For companies that would like to repack the box of ART kits into individual packs, please refer to the following instructions, depending on the brand of ART kits you have received:
 
-        - [Abbott Panbio](/images/guides/Guide to repack & use Abbott Panbio ART.ppt){:target="_blank"}
-        - [BD Veritor](/images/guides/Guide to repack & use BD Veritor ART.ppt){:target="_blank"}
+        - [Abbott Panbio](/images/guides/Guide to repack & use Abbott Panbio ART.pptx){:target="_blank"}
+        - [BD Veritor](/images/guides/Guide to repack & use BD Veritor ART.pptx){:target="_blank"}
 
 - accordion:
   letter: d
