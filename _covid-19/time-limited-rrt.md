@@ -20,13 +20,13 @@ As part of the national effort to step up regular testing, firms with employees 
 
 Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. <b>These processes will be audited by the government for compliance.</b>  
 
-Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="blank"}{:rel="noopener"} 
+Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
   
 The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any of non-compliance to the testing requirements are found.
 
 ### Application
 
-Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="blank"}{:rel="noopener"} 
+Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="_blank"}{:rel="noopener"} 
  
 The application period is from 16 Sep – 13 Oct 2021. Corporate entity login (Corppass) is required for this application form. Please only submit one application form per company UEN. Multiple or inaccurate submissions will be voided and processing will be further delayed.
 
@@ -34,7 +34,7 @@ Successful applicants will be informed of their delivery within 20 working days 
 
 For queries about your application, please contact:
 
-* Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="blank"}{:rel="noopener"} or [+65 6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
+* Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"} or [+65 6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
 
 * Health Promotion Board (HPB) at [+65 6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
 
@@ -42,9 +42,9 @@ For queries about your application, please contact:
 Learn more about how to perform a self-test using ART and what to do if tested positive:
 
 |-|-|
-|Resources|[https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="blank"}{:rel="noopener"}|
-|Self-test instructions|[https://artbuddy.healthpixel.co/](https://artbuddy.healthpixel.co/){:target="blank"}{:rel="noopener"}|
+|Resources|[https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
+|Self-test instructions|[https://artbuddy.healthpixel.co/](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"}|
 
 ### More information about ART
 
-For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) for more information.
+For general queries, please refer to the [Frequently Asked Questions (FAQs)](/covid-19-faqs/time-limited-rrt-for-workplaces) for more information.

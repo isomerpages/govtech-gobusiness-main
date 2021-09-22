@@ -17,6 +17,14 @@
       content: |
         Your company should start the weekly RRT with immediate effect, upon receipt of the ART kits.
 
+    - title: I am a home-based business owner/self-employed person. Can I apply for the ART kits?
+      content: |
+        As long as your business is UEN-registered and you have a valid Corppass, you will be eligible to apply for kits for employee(s) that work on-site and are not already subject to mandatory RRT. 
+
+    - title: If employees are working on a split-team arrangement and returning to office on alternate weeks, are they eligible for the kits?
+      content: |
+        Your company may apply for staff who are returning to office only on alternate weeks. They should continue to self-test even for weeks where they are working from home.  
+
 - accordion:
   letter: b
   data:
@@ -30,13 +38,43 @@
       content: |
         You will need a Corppass login in order to apply for the ART kits. Find out how you can register for a Corppass at [https://www.corppass.gov.sg/](https://www.corppass.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
+    - title: I tried to submit an online application using my CorpPass but received an error message saying “Unauthorised. What should I do?
+      content: |
+        CorpPass Administrators need to first select digital services for the entity:
+          1.  Login at [www.Corppass.gov.sg](https://www.Corppass.gov.sg/){:target="_blank"}{:rel="noopener"}
+
+          2.	Go to ‘e-Services’ -> ‘Select Entity e-Services’
+
+          3.	Type “Health Promotion Board” in the search bar 
+
+          4.	Tick the box on the left of “FormSG (Health Promotion Board)”, then click ‘Next’
+
+          5.	Press ‘Next’ and ‘Submit’
+
+          6.	A confirmation message will indicate that you have selected your entity’s digital services. You may now assign these digital services to your users.
+
+          After adding FormSG (Health Promotion Board) for the entity, the Admin would then need to assign the digital service access to other users within the entity to carry out transactions.
+          7.	Go to ‘e-Services’ -> ‘Assign selected e-Services’
+
+          8.	Tick the box next to the appropriate staff’s name and press ‘Next’.
+
+          9.	Select the digital services you wish to assign to the selected users. Or type “Health Promotion Board” in the search bar. Click ‘Next’ to proceed.
+
+          10.	Tick the box on the left of “FormSG (Health Promotion Board)”, then click ‘Next’<br>
+            - “Authorization Effective Date” can be today.<br>
+            - “Authorization Expiry Date” can be left blank.
+
+          11.	Click ‘Next’ and ‘Submit’
+
+          12.	A confirmation message will indicate that you have successfully assigned digital service access to your selected users.
+
     - title: I am unsure about my company’s SSIC code. What should I do?
       content: |
         You may search for the closest SSIC code corresponding to your business activity here: [https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016){:target="_blank"}{:rel="noopener"}
 
     - title: I have already made my online application but realised that I have missed adding some new hires and part-timers. Can I submit another application?
       content: |
-        There can only be ONE (1) application submitted per company UEN. Multiple submissions will be voided. Should additional kits be required after the first application, these must be purchased at your company’s own costs. 
+        There can only be ONE (1) application submitted per company UEN. Subsequent submissions will be voided. Should additional kits be required after the first application, these must be purchased at your company’s own costs
 
 - accordion:
   letter: c
@@ -52,6 +90,13 @@
         Companies will receive a pre-delivery notification via SMS/email and should ensure that there is someone present to receive the delivery. In the event of any failed delivery, redelivery costs would be charged to receiving company.
 
         If there are multiple offices/outlets registered under the same company UEN, each company should make your own arrangements to re-distribute the received kits to other locations at your own cost. 
+
+    - title: I have received the box(es) of ART kits. How can my company repack them into individual packs of kits for my employees?
+      content: |
+        Companies are recommended to allow employees to perform the self-testing onsite. For companies that would like to repack the box of ART kits into individual packs, please refer to the following instructions, depending on the brand of ART kits you have received:
+
+        - [Abbott Panbio](/images/guides/Guide to repack & use Abbott Panbio ART.pptx){:target="_blank"}
+        - [BD Veritor](/images/guides/Guide to repack & use BD Veritor ART.pptx){:target="_blank"}
 
 - accordion:
   letter: d

@@ -17,7 +17,7 @@ We are continuing to upgrade GoBusiness with more services to better support you
 
 ### Partnerships and collaborations
 
-For organisations interested in working with GoBusiness to help businesses set up and operate, please [contact us](https://go.gov.sg/gobizcollab){:target="blank"}{:rel="noopener"} with your proposal.
+For organisations interested in working with GoBusiness to help businesses set up and operate, please [contact us](https://go.gov.sg/gobizcollab){:target="_blank"}{:rel="noopener"} with your proposal.
 
 
 <script src="/jquery/jquery.min.js"></script>
