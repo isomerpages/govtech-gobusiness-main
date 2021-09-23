@@ -7,7 +7,7 @@
 
     - title: Which companies are eligible to apply for kits?
       content: |
-        Companies with employees that work onsite and are not already subject to mandatory RRT, may voluntarily apply for 8 ART kits per onsite employee for weekly testing of their staff over a two-month period. Employees include full-time and part-time employees, and students on long-term (at least 2 months) placement or internship. 
+        Companies with employees that work onsite and are not already subject to mandatory RRT, may voluntarily apply for 8 ART kits per onsite employee for weekly testing of their staff over a two-month period. Employees include full-time and part-time employees, and students on long-term (at least 2 months) placement or internship, regardless of vaccination status.
 
     - title: Can companies with employees that meet the eligibility criteria choose not to apply for the ART test kits?
       content: |
@@ -24,6 +24,10 @@
     - title: If employees are working on a split-team arrangement and returning to office on alternate weeks, are they eligible for the kits?
       content: |
         Your company may apply for staff who are returning to office only on alternate weeks. They should continue to self-test even for weeks where they are working from home.  
+
+    - title: Can my company apply for additional kits, in case of invalid test results?
+      content: |
+        Invalid results are extremely rare. If there are insufficient test kits arising from retesting due to invalid results, your company may purchase additional kits to complete the regime for the affected employee. Otherwise, the company should note during results recording that there is a missing test due to past invalid results.  
 
 - accordion:
   letter: b
@@ -128,7 +132,12 @@
   data:
     - title: How do I use the test kits?
       content: |
-        Please read and follow the instructions available in the test kits carefully so that you can use the ART self-test kits correctly. You may also follow the step-by-step instructions available [here](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"} or obtain more information from [go.gov.sg/selftestart](https://go.gov.sg/selftestart){:target="_blank"}{:rel="noopener"}. 
+        Please refer to the following self-test instructions, depending on the brand of ART kits you have received:
+        
+        - [Abbott Panbio](/images/guides/Guide to repack & use Abbott Panbio ART.pptx){:target="_blank"}
+        - [BD Veritor](/images/guides/Guide to repack & use BD Veritor ART.pptx){:target="_blank"}
+
+        You may also follow the step-by-step instructions available here or obtain more information from go.gov.sg/selftestart. 
 
     - title: How accurate is ART?
       content: |
