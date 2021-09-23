@@ -45,6 +45,6 @@ Learn more about how to perform a self-test using ART and what to do if tested p
 |Resources|[https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
 |Self-test instructions|[https://artbuddy.healthpixel.co/](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"}|
 
-### More information about ART
+### Frequently Asked Questions (FAQ)
 
-For general queries, please refer to the [Frequently Asked Questions (FAQs)](/covid-19-faqs/time-limited-rrt-for-workplaces) for more information.
+For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) for more information.
