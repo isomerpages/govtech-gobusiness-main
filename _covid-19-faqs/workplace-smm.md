@@ -1,5 +1,5 @@
 ---
-title: Workplace Safe Management Measures [UPDATED ON 24 Sep 2021]
+title: Workplace Safe Management Measures<br>[UPDATED ON 24 Sep 2021]
 permalink: /covid-19-faqs/workplace-safe-management-measures
 ---
 
