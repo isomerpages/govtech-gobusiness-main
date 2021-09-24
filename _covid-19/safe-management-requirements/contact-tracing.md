@@ -100,7 +100,7 @@ For avoidance of doubt, all permitted enterprises and event organisers, must sti
 <sup>2</sup> This list will be updated as more activities and services resume.<br>
 <sup>3</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
 <sup>4</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
-<sup>6</sup> F&B outlets include food courts.<br>
+<sup>5</sup> F&B outlets include food courts.<br>
 <sup>6</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
 
 ---
