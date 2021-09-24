@@ -1,5 +1,5 @@
 ---
-title: Workplace Safe Management Measures
+title: Workplace Safe Management Measures [UPDATED ON 24 Sep 2021]
 permalink: /covid-19-faqs/workplace-safe-management-measures
 ---
 
@@ -10,10 +10,6 @@ permalink: /covid-19-faqs/workplace-safe-management-measures
 #### Take Care of your workers
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="b" %}
-
-#### Managing COVID-19 Cases at the workplace
-
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
 
 #### Take care of the workplace
 
