@@ -7,9 +7,15 @@
 
         For companies resuming operations after the circuit breaker period, all Safe Management Measures should be in place before operations can be resumed at the workplace.
 
-    - title: Why is work-from-home still the default as we transition out of Phase 2 Heightened Alert?
+    - title: What are the key changes that will take effect from 27 Sep 2021?
       content: |
-        As we transition out of Phase 2 Heightened Alert in the coming weeks, it remains essential that we continue to keep transmission risks in check by reducing overall footfall and interactions at common spaces at or near the workplace, and in public places, including public transport. Therefore, work-from-home will continue to be the default during this transition period. Employers must provide the necessary facilities and direct their employees to work from home wherever possible. Only employees who are unable to work from home (e.g. work requiring access to equipment that is confined to the workplace) are permitted to continue working on-site.
+        From 27 September 2021, work-from-home will be the default at workplaces. Employers must ensure that employees who are able to work from home do so. 
+
+        During this period, the snap 10-day Work from Home (10D WFH) regime will be suspended.
+
+        There should continue to be no cross-deployment of workers to multiple worksites. Social gatherings at the workplace will continue to be disallowed.
+
+        Employees, contractors, and vendors who are unable to work from home are strongly encouraged to self-test weekly via an Antigen Rapid Test (ART) to keep infected employees from coming to work and keep their workplace safe. Those who are able to work from home but need to return to the workplace for adhoc reasons may do so after testing negative via ART before returning onsite. 
 
     - title: Do I have to apply to resume operations at my company’s workplace premises?
       content: |
@@ -78,7 +84,7 @@
 
     - title: What should I do if my employer refuses to implement Safe Management Measures in the workplace?
       content: |
-        If you notice any breach of Safe Management Measures or poor practices at the workplace, you can report it via [SnapSAFE](https://www.mom.gov.sg/eservices/snapsafe){:target="_blank"}{:rel="noopener"}, an app that allows the reporting of workplace safety and health issues to MOM.
+        If you notice any breach of Safe Management Measures or poor practices at the workplace, you can [report it to MOM](https://www.mom.gov.sg/report-WSH-issues){:target="_blank"}{:rel="noopener"}.
 
         MOM will treat each report seriously and will keep your identity strictly confidential.
 
@@ -92,33 +98,43 @@
 
         The application of safe management measures will vary depending on the renovation site. Employers should assess and evaluate the measures that must be taken to ensure safe distancing and ensure that the risk of COVID-19 spread at workplaces is minimised for their workers. This may include additional measures such as having staggered rest, arrival and exit timings to minimise interactions between workers from different companies.
 
+    - title: Can employees who are vaccinated and unvaccinated work in close proximity or on the same task?
+      content: |
+        There is no need to segregate vaccinated employees from non-vaccinated employees. All employees must adhere to the safe management measures at the workplace.
+
+    - title: Can employees who are vaccinated and unvaccinated dine together at the pantry?
+      content: |
+        No. Social gatherings at the workplace are disallowed until further notice. Employees should have their meal breaks at the workplace individually.
+
+    - title: Can employers organise team bonding events?
+      content: |
+        No. Team bonding activities are considered social gatherings. Social gatherings at the workplace are disallowed until further notice.
+
+    - title: Can my employers continue to dine in staff canteens?
+      content: |
+        For staff canteens that are open only to employees and regular contractors’ staff who work at the premises, employees should dine individually.
+        
+        Staff canteens that are open to visitors are subject to the same requirements as other F&B establishments, including Vaccination-Differentiated SMMs.
+
 - accordion:
   letter: b
   data:
     - title: Are companies that have resumed operations required to ensure that their employees work-from-home?
       content: |
-        Work-from-home is currently the default mode of work . Employers must provide the necessary facilities and direct their employees to work from home wherever possible.
+        From 27 Sep 2021, work-from-home is the default mode of work for employees who are able to work from home.
 
-        For employees who are unable to work from home, for reasons such as due to the nature of their work, or their work can only be done with equipment that is confined to the workplace, they can continue working on-site.
+        Employers are strongly encouraged to support their employees’ mental well-being during work (whether it is working from home or at the workplace. Employers can adopt the recommendations in the [Tripartite Advisory on mental well-being at workplaces](http://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"}{:rel="noopener"}. 
 
-        Work-from-home measures should be implemented in a sustainable manner that enables employees to maintain work-life harmony while continuing to meet business needs. The [tripartite advisory on mental well-being at workplaces](http://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"}{:rel="noopener"} sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being. 
+        Employers are also encouraged to make plans to implement [Flexible Work Arrangements (FWA)](https://www.tal.sg/tafep/employment-practices/work-life-harmony/fwas){:target="_blank"}{:rel="noopener"}.  Employers should consider hybrid work arrangements as this will strengthen business resilience against the risk of new variants or future outbreaks.
 
-        MOM’s Safe Management Measures requirements at the workplace, which include ensuring that employees work-from-home where possible, can be found [here](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"}. A list of resources such as technology solutions and grants available to assist companies is available [here](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-a-resources-to-assist-companies.pdf){:target="_blank"}{:rel="noopener"}. 
-
-        Enforcement checks will be conducted and actions will be taken against business for non-compliances.
-
-    - title: Is there a minimum % or number of workers that employers must place on work-from-home arrangements?
+    - title: Should my employees be masked at all times? What if my worker has medical condition?
       content: |
-        The overarching objective of the requirements is to reduce physical interactions in the workplace in order to minimise spread of COVID-19. Employers should focus on providing the facilities necessary and directing every worker to work from home, as far as reasonably practicable. The proportion of employees that can do so will vary in different workplaces and sectors due to differing operational requirements. 
-
-        The onus is on employers to show that they have made a reasonable effort to facilitate working from home for all days and at all times, including reviewing and transforming business processes through technology to support remote working e.g. e-payment, e-invoicing, e-signatures. Annex A of the Safe Management Measures requirements provides a list of resources such as technology solutions and grants available to assist companies.
-
-    - title: Should my workers put on the masks at all times? What if my worker has medical condition?
-      content: |
-        Every individual should put on a mask at all times, except when eating, drinking or consuming medication, or engaging in strenuous physical exercise.  However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask.
+        Every individual should put on a mask at all times, except when eating, drinking or consuming medication, or engaging in strenuous physical exercise.  However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask. 
 
     - title: What should I do if my employees are unwilling to work from home because their home is not conducive for work?
       content: |
+        From 27 Sep 2021, work-from-home is the default mode of work for employees who are able to work from home.
+        
         The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers can consider different ways to implement working arrangements that comply with the Safe Management Measures for the workplace, while taking business and employee preferences into account.
 
     - title: As most of my employees are either doing frontline work or fieldwork operations, it is not feasible for me to rearrange the work such that they can work-from-home. Will I be penalised for not providing such work arrangements?
@@ -154,20 +170,29 @@
         - Annual General Meeting or Extraordinary General Meetings
         - Tender briefings to vendors
         - Award ceremonies
+        - Training sessions
 
         All work-related events that proceed must adhere to prevailing workplace Safe Management Measures and are subjected to the following requirements: 
-        i.  The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
+        
+        i. The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
+
         ii. Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
-        iii.  Food and drinks are not allowed at work-related events.
-        Work-related events at third-party venues will also be subject to any additional premise owners’ safe management policies.
 
-    - title: Can my employee work at a co-working space instead of working from home?
-      content: |
-        No. Work-from-home is the default. Employees who can work from home must do so, and should not work at external locations instead. Companies operating co-working spaces should communicate this clearly to their clients. Working from home will lower transmission risks by reducing overall footfall and interactions in public places, including public transport.
+        iii. Meals should not be the main feature of the event, i.e. food or drinks should only be served if incidental to the workplace event (e.g. the meeting or conference extends over lunchtime). In addition, the food must be served individually with the participants seated while consuming. Participants should minimise the time that they are unmasked while eating. 
 
-    - title: I am an essential services provider. During the tightened measures from 16 May to 13 June, can all my employees return to work on-site, including those who are able to work from home?
+        iv. Work-related events held at third-party venues will also be subject to any additional premises owners’ safe management policies such as Vaccination Differentiated SMMs.
+
+        v. High risk activities such as singing and the playing of wind or brass instruments are not allowed to resume at work-related events.
+
+    - title: Who counts towards the 50 persons cap allowed at work-related events?  
       content: |
-        No. Employers must direct employees who are able to work from home to do so.
+        The 50 persons cap includes all persons who will be in the event venue at any one time, including emcees, security officers, public officers overseeing the ceremony, etc. 
+        
+        Persons providing services related to the event venue, and do not stay on for the event can be excluded from the cap. For example:
+        
+        - Staff providing decoration, lighting, sound or other equipment for hire.
+        
+        Those who are involved in event setup only.
 
     - title: The advisory states that special attention should be paid to vulnerable employees (e.g. persons who are aged 60 and above, and patients who are immunocompromised) to enable them to work-from-home. How can companies support them? What if they can’t work-from-home?
       content: |
@@ -205,6 +230,18 @@
 
         If the risk of encountering an infectious person is high (e.g. personnel has sustained contact with many other individuals throughout the course of their work), then surgical masks and other relevant PPEs should be used instead.
 
+    - title: Can I organise a work-related event for more than 50 persons?
+      content: |
+        Yes. However, you need to split into multiple groups at different locations.
+        Each group must be capped at **50 persons**. For example, if you have 100 persons, you need at least 2 groups, with each group in a different location.
+
+        You can use videoconferencing to link the groups.
+
+        You must ensure there is **no intermingling between groups**, including at common spaces such as pantries and lift lobbies. You should consider using:
+        -	Rooms on different floors
+        -	Different wings of the building
+        -	Separate buildings
+
     - title: Can my employees use employer-provided recreational facilities which are not located at the workplace?
       content: |
         Access to standalone recreational facilities which are located away from employees’ workplaces will depend on the re-opening plans for relevant permitted enterprises. These facilities will also be subject to stricter safe management measures (e.g. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise). When visiting such facilities, employees will still have to comply with the relevant safe management measures put in place for that setting.
@@ -212,48 +249,6 @@
     - title: Do I need to wear a mask while giving a speech during a work-related event?
       content: |
         Yes.
-
-    - title: Can I carry on with the work-related event I have planned between 16 May and 13 June, given the tighter measures that were announced for this period?
-      content: |
-        Employers are strongly encouraged to consider rescheduling or convert to virtual those work-related events that are not critical, in view of the recent trends in community transmission of COVID-19. 
-        If employers assess that the physical work-related event is critical, they may proceed with strict implementation of SMM.  
-        i.  The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
-        ii. Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
-        iii.  Food and drinks are not allowed at work-related events.
-
-- accordion:
-  letter: c
-  data:
-    - title: What should I do if there is a positive COVID-19 case at my workplace?
-      content: |
-        Employers should manage COVID-19 cases proactively. If an employee/visitor has tested positive for COVID-19, employers should immediately ask any staff who were in close contact with the employee/visitor in the last 14 days (e.g. working in the same zone or on the same shift) to self-isolate while MOH performs contact tracing. This will minimise the risk of further spread if any of them are infected. 
-
-        When three or more COVID-19 cases that are epidemiologically linked are formed at your workplace, test all high-risk<sup>1</sup> employees to detect additional cases before resuming operations. High-risk employees are recommended to be placed on a 7-day Rostered Routine Testing after reopening. 
-
-        <sup>1</sup> Refers to close contacts of COVID-19 positive cases, and employees in work functions with close/extended contact with customers.
-
-    - title: What is the protocol on disinfection of premises visited by positive COVID-19 cases?
-      content: |
-        Establishments that were visited by positive COVID-19 cases (as informed and confirmed by MOH) are strongly advised to:
-
-        - Disinfect premises as soon as practicable. Arrange for disinfection by external vendors to be carried out, if you are unable to do so yourself.  Please inform NEA about your disinfection schedule by emailing the following personnel:
-          - [Kabilan_APANA@nea.gov.sg](mailto:Kabilan_APANA@nea.gov.sg)
-          - [Mohammad_Harfid_HAMDAN@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
-          - [Dannyanand_GJ@nea.gov.sg](mailto:Mohammad_Harfid_HAMDAN@nea.gov.sg)
-
-        - Premises can reopen only after disinfection is completed. The time taken to complete the disinfection will depend on the size of the premises. 
-
-        - MOH will advise on whether employees need to be quarantined. 
-
-        - Once disinfection is completed, premises can reopen and be manned by employees not identified as close contacts. Close contacts of the positive COVID-19 case, as identified by MOH, can return to work only after they have completed their Quarantine Order or as directed by MOH.
-
-        - If there are additional directives issued by MOH (e.g. for premises to be closed for a longer period), firms must comply accordingly.
-
-    - title: My workplace premise has been directed to close due to a positive COVID-19 case. Can I re-deploy my workers from the closed premises to work at other premises for the period of closure?
-      content: |
-        Employers must ensure no cross-deployment across worksites (i.e. no employee should work at more than one worksite). 
-
-        For venues that have been visited by positive COVID-19 cases and asked to close by MOH, employees should not be redeployed to other worksites at all for the period of closure. If instructed to go for swabs, employers must ensure that their employees from these venues visit the designated Regional Screening Centre, “Swab and Send Home” (SASH) Public Health Preparedness Clinics or mobile swab sites for the COVID-19 test offered by MOH. These employees should stay at home and minimise social interactions during the period of closure even if their swab results are negative. They should also monitor their health closely, and visit a doctor immediately if unwell.
 
 - accordion:
   letter: d
@@ -309,16 +304,15 @@
       content: |
         Employees who are working from home do not need to submit their temperatures or declarations. However, they should continue to monitor their health conditions and see a doctor if needed.
 
-    - title: What is the frequency of health declaration required?
+    - title: I have implemented the snap work-from-home regime. Do I need to continue on 27 September 2021?
       content: |
-        Health declarations should be done daily prior to entry into workplace premises. This must be done regardless of whether the employee is working at the employer’s premises, or at a client’s worksite. 
+        The snap work-from-home regime will be suspended from 27 September 2021. Work-from-home would be the default mode for employees who are able to do so.
 
-        Temperature screening and respiratory checks should be conducted twice daily for employees.
-
-    - title: Can I fulfil the requirements for temperature screening, respiratory checks and relevant declarations via the deployment of SafeEntry?
+    - title: How do I apply for ART kits to be distributed to the workplace?
       content: |
-        Yes,  declarations by individuals via SafeEntry can be used to fulfil the requirements for temperature screening, respiratory checks and relevant declarations. Employers are reminded that temperature and respiratory symptom checks for employees have to be conducted twice daily at minimum, and for visitors prior to entry.
-        Notwithstanding whether employees make declarations via SafeEntry, employers must be able to demonstrate that regular checks for temperature and respiratory symptoms are in place at the workplace during inspections. This could include facilities set up to screen temperature or records of temperature checks.
+        Companies who are not already subject to mandatory RRT will be eligible to voluntarily apply for 8 ART kits per onsite employee for weekly testing of their staff over a two- month period.  The companies are also expected to report the ART results at the end of the two-month testing cycle. Companies can log on to the gobiz website to register. Kits obtained from this channel are fully funded by government, and companies are subjected to audit processes to ensure compliance. 
+
+        The website link is: [https://www.gobusiness.gov.sg/timelimitedrrt/](https://www.gobusiness.gov.sg/timelimitedrrt/)
 
     - title: How can we prevent incipient outbreaks at the workplace?
       content: |
@@ -362,3 +356,20 @@
         We are still monitoring the duration of the vaccine’s protection and its effectiveness in preventing transmission of COVID-19.
 
         Until enough people are vaccinated, you should continue to practise public health measures such as [Workplace Safe Management Measures](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"}. This will help to continue protect ourselves and our loved ones
+
+    - title: 	Do I need to implement temperature screening for my employees?
+      content: |
+        No. This requirement was lifted on 19 August 2021.
+
+    - title: What should I take into consideration when engaging employees on returning to the workplace?
+      content: |
+        You are encouraged to have a transparent and open discussion with employees on the work arrangements, taking into consideration factors such as: 
+        
+        - Business needs and nature of work, i.e. task requires employees to be physically in office
+        - Readiness of workforce, e.g. infrastructure, IT support, onboarding of new hires, etc.
+        - Implications on remuneration package, e.g. savings from office space rental, transport allowances, etc. 
+        - Sensitivity towards certain groups of employees, i.e. older and more vulnerable employees, employees identified by MOH as not suitable to receive the COVID-19 vaccine, employees with caregiving needs
+
+        Having a clear set of guidelines or workplace policies on the work arrangements would help prevent misunderstandings or disputes. 
+        
+        You may wish to refer to TAFEP's telecommuting guide for more details on implementing a sustainable telecommuting arrangement or to approach TAFEP on work-life programmes that can be implemented at the workplace. 
