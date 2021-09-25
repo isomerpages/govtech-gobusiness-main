@@ -111,8 +111,8 @@
       content: |
         Companies are recommended to allow employees to perform the self-testing onsite. For companies that would like to repack the box of ART kits into individual packs, please refer to the following instructions, depending on the brand of ART kits you have received:
 
-        - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}
-        - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}
+        - [Abbott Panbio](/images/guides/Guide to repack  use Abbott Panbio ART.pptx){:target="_blank"}
+        - [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}
 
     - title: Can my company exchange the ART kits for another brand?
       content: |
@@ -177,7 +177,7 @@
       content: |
         <u>Negative</u>: Even if you test negative, please stay vigilant. Do continue to observe safe distancing measures and practice good personal hygiene such as regular handwashing and wearing a mask when leaving your home. Continue to monitor your health and test yourself where necessary.
 
-        <u>Positive</u>: If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you are symptomatic at any point in time, please proceed to the nearest SASH clinic or PHPC for a medical assessment and a confirmatory PCR test. 
+        <u>Positive</u>: You may be infected with the SARS-CoV-2 virus. If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you are symptomatic at any point in time, please proceed to the nearest SASH clinic or PHPC for a medical assessment and a confirmatory PCR test. 
         
         To keep a record the positive results, you should take a photograph of your ART test results with your identification document (e.g. NRIC/passport) in the same photo.
 
@@ -269,7 +269,15 @@
 
     - title: My employee has tested ART positive, can I require that he/she undergoes a confirmatory PCR test?
       content: |
-        Companies should not require employees to undergo a confirmatory PCR test unless they meet the criteria in doing so (refer to Question “5” on this).
+        Companies should not require employees to undergo a confirmatory PCR test unless they meet the criteria (as stated below) in doing so.
+
+        - They have any symptoms of COVID-19 at any time, such as fever, cough, runny nose, sore throat, loss of taste or smell
+        - They are under a quarantine order, stay-home notice or have received a Health Risk Warning
+        - They work in healthcare or eldercare
+        - They work or study in pre-schools or primary schools
+        - They are aged above 80 years old (vaccinated) or above 70 years old (unvaccinated)
+
+        Specific sectors may also have special considerations which, where applicable, should be separately communicated to you.
 
     - title: My employee has tested ART negative after having tested positive initially. Is it safe for him/her to return to work?
       content: |
