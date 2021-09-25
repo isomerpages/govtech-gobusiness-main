@@ -113,7 +113,7 @@ The SafeEntry Gateway enables contactless detection of both the TraceTogether Ap
 
 The SafeEntry Gateway is available both as a physical device and as an app function in the existing SafeEntry (Business) App. Both the device and app function by detecting Bluetooth signals from the TraceTogether App and TraceTogether Token for SafeEntry check-in. Visitors may bring their mobile phone with the TraceTogether App in the foreground or the TraceTogether Token close to the Gateway to check in. If the check-in is successful, the SafeEntry Gateway device will emit a green light and a beep sound to indicate a successful check-in, while the SafeEntry (Business) App will have a pop-out screen for a successful check-in.
 
-By 15 June 2021<sup>6</sup>, the following public-facing venues are required to deploy SafeEntry Gateway at their main entrances as an additional check-in mode to log the check-in of customers, clients and visitors:
+The following public-facing venues are required to deploy SafeEntry Gateway at their main entrances as an additional check-in mode to log the check-in of customers, clients and visitors:
 
 - Funeral parlours with wake halls
 
@@ -168,7 +168,6 @@ Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Busi
 
 In order to facilitate more precise contact tracing efforts, businesses are encouraged to facilitate check-out for their customers, clients and visitors. Businesses may do so by toggling to the SEGW check-out function within the SafeEntry (Business) App or by deploying the SafeEntry Gateway Check-Out Boxes<sup>12</sup>. Businesses need not enforce checking out but should encourage customers to do so as much as possible.
 
-<sup>6</sup> This is with the exception of venues that were earlier required to deploy the SEGW by 19 April 2021.<br>
 <sup>7</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
 <sup>8</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
 <sup>9</sup> F&B outlets include food courts.<br>
