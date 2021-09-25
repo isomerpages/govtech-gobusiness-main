@@ -47,4 +47,4 @@ Learn more about how to perform a self-test using ART and what to do if tested p
 
 ### Frequently Asked Questions (FAQ)
 
-For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) for more information.
+For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) (updated on 25 Sep 2021) for more information.

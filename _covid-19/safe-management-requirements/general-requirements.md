@@ -10,15 +10,15 @@ To ensure a safe working environment, businesses are required to abide by the [n
 
 All businesses should take note of the following:
 
-- From 19 August 2021, temperature screening and symptom checks are no longer required at workplaces.
+- From 27 September 2021, Work-From-Home (WFH) will be the default for employees who are able to work from home. Employees who are unable to work from home are strongly encouraged to self-test weekly via an Antigen Rapid Test (ART).
 
-- Employers must ensure that no more than 50% of employees who are able to work from home are at the workplace at any point in time, regardless of their vaccination status.
+- During this period, the snap 10-day work from home (10D WFH) regime will be suspended.
+
+- There should continue to be no cross-deployment of workers to multiple worksites.
+
+- Social gatherings at the workplace will continue to be disallowed.
 
 - Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours.
-
-- Social gatherings at the workplace will not be allowed. Employees should have their meal breaks at the workplace individually.
-
-- From 8 September 2021, if an employee tests positive for COVID-19 and was at the workplace on any of the past 7 days, the employer must implement a snap 14-day work-from-home regime for all employees who are able to do so.
 
 - Any applicable sector-specific requirements
 
