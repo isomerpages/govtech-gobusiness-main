@@ -15,7 +15,7 @@
 
     - title: When should my company start the 8-weeks RRT?
       content: |
-        Your company should start the weekly RRT with immediate effect, upon receipt of the ART kits.
+        Your company should start the weekly RRT for onsite employees with immediate effect, upon receipt of the ART kits.
 
     - title: I am a home-based business owner/self-employed person. Can I apply for the ART kits?
       content: |
@@ -25,9 +25,17 @@
       content: |
         Your company may apply for staff who are returning to office only on alternate weeks. They should continue to self-test even for weeks where they are working from home.  
 
-    - title: Can my company apply for additional kits, in case of invalid test results?
+    - title: Can my company apply for additional kits, in case of invalid test results or repeat testing due to being ART positive?
       content: |
-        Invalid results are extremely rare. If there are insufficient test kits arising from retesting due to invalid results, your company may purchase additional kits to complete the regime for the affected employee. Otherwise, the company should note during results recording that there is a missing test due to past invalid results.  
+        Invalid results are extremely rare. If there are insufficient test kits arising from retesting due to invalid results or repeat testing due to being ART positive, your company may purchase additional kits to complete the regime for the affected employee(s). Otherwise, the company should note during results recording that there are missing test cycles due to past retesting.  
+
+    - title: The government recently announced that work-from-home (WFH) will be the default. Can my company apply ART kits for employees who WFH?
+      content: |
+        ART kit applications are strongly encouraged only for employees who have to work onsite. Your company need not apply for ART kits for employees who fully WFH.
+
+    - title: My company applied for/received the ART kits before the government announced that WFH will be the default. Should my employees who have pivoted to full WFH still be tested weekly?
+      content: |
+        As your company has already applied for or received the kits, the employees who have pivoted to full WFH may use the kits to continue weekly testing from home. Alternatively, they may recommence testing upon return to office once WFH is no longer the default. During the results declaration at the end of each month’s testing cycle, your company should still submit the declaration, and provide an explanation if the number of results declared is lower than the declared no. of onsite employees to be tested during application.
 
 - accordion:
   letter: b
@@ -80,6 +88,10 @@
       content: |
         There can only be ONE (1) application submitted per company UEN. Subsequent submissions will be voided. Should additional kits be required after the first application, these must be purchased at your company’s own costs
 
+    - title: Can I cancel my application after submitting?
+      content: |
+        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for onsite workers upon receipt of the kits.
+
 - accordion:
   letter: c
   data:
@@ -102,6 +114,10 @@
         - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}
         - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}
 
+    - title: Can my company exchange the ART kits for another brand?
+      content: |
+        No, the kits issued may not be exchanged.
+
 - accordion:
   letter: d
   data:
@@ -112,10 +128,10 @@
         If audited by the government, companies should be able to produce proof (e.g. email records, circulars, excel documents etc.) that such processes have been put in place and implemented. 
 
         |-|-|
-        | Checklist of Processes | Suggested Best Practices|
+        | Checklist of Processes | Suggested Practices|
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
-        | Appropriate actions are taken if tested ART positive or double Ag invalid | * Share with employees on follow ups if tested ART positive. (refer to question below on what to do) <br>* Ensure that employees who are tested ART positive/double Ag invalid have gone for a confirmatory PCR test at a SASH clinic. |
+        | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic. |
 
     - title: Does my company have to submit my employees’ test results to the government?
       content: |
@@ -141,7 +157,7 @@
 
     - title: How accurate is ART?
       content: |
-        ART is faster and less intrusive than a Polymerase Chain Reaction (PCR) test. This makes it easy for the public to use to test themselves if needed. In general, ARTs have a sensitivity (ability of a test to identify patients with the disease) of about 80% for cases with higher viral loads and a specificity (ability of a test to identify patients without the disease) range of 97-100%. As the sensitivity and specificity of ARTs are lower as compared to PCR tests, if you test ART-positive or invalid twice, you will need to follow up with a confirmatory PCR test at a Swab and Send Home (SASH) clinic. You should not repeat the ART. Even if you do test ART-negative in the repeated test, it may be a false negative result and hence you need to go for a confirmatory PCR test.
+        ART is faster and less intrusive than a Polymerase Chain Reaction (PCR) test. This makes it easy for the public to use to test themselves if needed. In general, ARTs have a sensitivity (ability of a test to identify patients with the disease) of about 80% for cases with higher viral loads and a specificity (ability of a test to identify patients without the disease) range of 97-100%.
 
     - title: Is ART painful?
       content: |
@@ -161,13 +177,65 @@
       content: |
         <u>Negative</u>: Even if you test negative, please stay vigilant. Do continue to observe safe distancing measures and practice good personal hygiene such as regular handwashing and wearing a mask when leaving your home. Continue to monitor your health and test yourself where necessary.
 
-        <u>Positive</u>: You may be infected with the SARS-CoV-2 virus. Please take a photograph of your ART test results with your identification document (e.g. NRIC/passport) in the same photo immediately and visit a Swab and Send Home (SASH) clinic for a confirmatory Polymerase Chain Reaction (PCR) test. The list of SASH clinics may be found at phpc.gov.sg. Bring (1) the photo of your results and ID together and (2) your physical ID (NRIC/Passport) to the clinic. Please refer to the next question on how to make your way safely to the clinic.
+        <u>Positive</u>: If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you are symptomatic at any point in time, please proceed to the nearest SASH clinic or PHPC for a medical assessment and a confirmatory PCR test. 
+        
+        To keep a record the positive results, you should take a photograph of your ART test results with your identification document (e.g. NRIC/passport) in the same photo.
 
-        <u>Invalid</u>: An invalid test may mean that the test was not performed correctly. You must perform a second ART test immediately. If your second ART test is still invalid, please take a photo of the test result(s) with your identification document (ID) in the same photo immediately and call a SASH clinic to make an appointment for a confirmatory PCR test. The list of SASH clinics may be found at phpc.gov.sg. Please bring (1) the photo of your results + ID together and (2) your physical ID (NRIC/Passport) to the clinic.
+        <u>Invalid</u>: An invalid test may mean that the test was not performed correctly, or the test kit was faulty. You should re-read the instructions on how to perform the test and repeat an ART with a new test kit. You may also consider undergoing an ART done by a healthcare provider, such as at Quick Test Centres or medical clinics. As you have not tested positive, you need not self-isolate because of an invalid ART result.
 
-    - title: If I test ART-positive or invalid twice, what do I do?
+    - title: What should I do if I experience nose bleeding after swabbing?
       content: |
-        * Call the nearest SASH clinic listed on [phpc.gov.sg](https://phpc.gov.sg/){:target="_blank"}{:rel="noopener"} to make an appointment and confirm that they can provide a confirmatory PCR test. At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you have to comply with your doctor’s instructions.
+        Please consult a doctor if you experience persistent nose bleeding.
+
+    - title: How should I dispose the used test kit?
+      content: |
+        After reading the results, please take a photo with your ID in the same photo if the result is positive or both results are invalid.
+
+        To dispose the test kit, place all the used items from the test kit into a plastic bag or a sealable bag and seal it. Place the sealed bag into another plastic bag. Tie the second plastic bag with a rubber band or cable tie. Please ensure that the bags are tightly tied to protect your community. Throw it into the rubbish chute or a pedal bin immediately.
+
+- accordion:
+  letter: f
+  data:
+    - title: What should I do if I test ART positive?
+      content: |
+        You should isolate yourself at home if you are asymptomatic and test positive. If you have symptoms, go to a SASH clinic to be assessed medically and get a confirmatory PCR test.
+
+        After 72 hours, repeat an ART. You can resume daily activities if it tests negative. If it is positive, continue to self-isolate and repeat ARTs at least one day apart. You can stop self-isolation and resume daily activities when it tests negative.
+
+    - title: What should I do as part of self-isolation?
+      content: |
+        You should take steps and make arrangements to make sure that you can isolate yourself from other persons in your household. You should minimise interactions with other household members, and practise good hygiene habits. These include:
+
+        - Staying in a room on your own as much as possible and keeping the door closed
+        - If you have to share a bathroom, clean it each time you use it by wiping surfaces
+        - Wash your hands often
+        - Keep the windows open to ensure the house is well-ventilated
+        
+        You should not leave the home unless to seek medical care for COVID-19.
+
+    - title: What should I do if I do not have an ART test to do the repeat tests?
+      content: |
+        You may use the ART kits that your company has applied for you to conduct the repeat tests. If that is not available or accessible, your family and friends can help to purchase or you can purchase them online.
+
+    - title: If I test ART positive, when should I proceed to receive a confirmatory PCR test instead of self-isolating? 
+      content: |
+        You should proceed to undergo a confirmatory PCR test instead of self-isolating if,
+
+        - You have any symptoms of COVID-19 at any time, such as fever, cough, runny nose, sore throat, loss of taste or smell
+        - You are under a quarantine order, stay-home notice or have received a Health Risk Warning
+        - You work in healthcare or eldercare
+        - You work or study in pre-schools or primary schools
+        - You are aged above 80 years old (vaccinated) or above 70 years old (unvaccinated)
+
+        Specific sectors may also have special considerations which, where applicable, should be separately communicated to you.
+
+    - title: Can I still choose to undergo a confirmatory PCR test if I tested positive on the first ART?
+      content: |
+        Yes, asymptomatic persons with a positive ART result can still undergo a government-funded confirmatory PCR test at a Swab and Send Home (SASH) clinic. Please refer to the next question for the steps to do so. 
+
+    - title: What should I do if I tested positive on ART and need to see a doctor and undergo a confirmatory PCR test?
+      content: |
+        * Call the nearest SASH clinic listed on [phpc.gov.sg](https://phpc.gov.sg/){:target="_blank"}{:rel="noopener"} to make an appointment and confirm that they can provide a confirmatory PCR test. At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you should comply with your doctor’s instructions.
 
         * Take a photo of your ART test result(s) with your identification document (ID) in the <b>same photo</b> immediately. Dispose the used test kit by properly and wash your hands. 
 
@@ -183,26 +251,28 @@
 
         * <b>After the confirmatory PCR test, please go home immediately via private transport (same arrangement above), and self-isolate at home until you receive your negative PCR test results.</b>
 
-        * If you are unable to self-isolate at home, please inform your clinic before the swab so that alternative arrangements may be made.
-
         * Your doctor will generally inform you of your results within 24 to 48 hours. Alternatively, you may check your results via [HealthHub](https://www.healthhub.sg/){:target="_blank"}{:rel="noopener"}.
 
     - title: How much do I have to pay for the confirmatory PCR test?
       content: |
         If you are assessed by the doctor to meet the swabbing criteria, the cost of the confirmatory PCR test will be fully covered by the government. Please bring (1) the photo of your test results + ID and (2) your physical ID to the SASH clinic for the clinic’s verification. Otherwise, you may be charged for your confirmatory PCR test at the clinic’s prevailing charges.
 
-        At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you have to comply with your doctor’s instructions.  The prevailing subsidies and fees will apply if needed.
+        At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you should comply with your doctor’s instructions.  The prevailing subsidies and fees will apply if needed.
 
     - title: What do I do if my confirmatory PCR test is positive?
       content: |
         If your PCR test is positive, MOH will contact you via phone call to provide instructions on the follow-up actions required. Please self-isolate until your results are out. 
 
-    - title: What should I do if I experience nose bleeding after swabbing?
+    - title: What should my household members, colleagues or close contacts do if I am ART positive?
       content: |
-        Please consult a doctor if you experience persistent nose bleeding.
+        If they have any COVID-19 symptoms, please see a doctor. If they have no symptoms, they may perform an ART within 24 hours of you having tested ART positive. Thereafter, they should monitor themselves for symptoms for 10 days. During this period, they should perform an ART and ensure that they test negative before going into settings that may expose others. 
 
-    - title: How should I dispose the used test kit?
+    - title: My employee has tested ART positive, can I require that he/she undergoes a confirmatory PCR test?
       content: |
-        After reading the results, please take a photo with your ID in the same photo if the result is positive or both results are invalid.
+        Companies should not require employees to undergo a confirmatory PCR test unless they meet the criteria in doing so (refer to Question “5” on this).
 
-        To dispose the test kit, place all the used items from the test kit into a plastic bag or a sealable bag and seal it. Place the sealed bag into another plastic bag. Tie the second plastic bag with a rubber band or cable tie. Please ensure that the bags are tightly tied to protect your community. Throw it into the rubbish chute or a pedal bin immediately.
+    - title: My employee has tested ART negative after having tested positive initially. Is it safe for him/her to return to work?
+      content: |
+        As long as a person without symptoms has tested negative on the antigen test that was done at least 72 hours after the initial positive test, the person can return to work safely. 
+
+        There is no need for PCR testing before the person returns to work.

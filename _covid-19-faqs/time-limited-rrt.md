@@ -25,6 +25,10 @@ permalink: /covid-19-faqs/time-limited-rrt-for-workplaces
 
 {% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="e" %}
 
+#### About Testing ART-Positive 
+
+{% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="f" %}
+
 
 [Back to Covid-19 Overview](/covid/)
 
