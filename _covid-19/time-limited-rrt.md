@@ -30,7 +30,7 @@ Firms with employees that meet the eligibility criteria may apply for ART kits v
  
 The application period is from 16 Sep – 13 Oct 2021. Corporate entity login (Corppass) is required for this application form. Please only submit one application form per company UEN. Multiple or inaccurate submissions will be voided and processing will be further delayed.
 
-Successful applicants will be informed of their delivery within 20 working days from application. Please commence weekly testing with immediate effect, upon receipt of the ART kits. 
+Successful applicants will be informed of their delivery within 5 working days from application. Please commence weekly testing with immediate effect, upon receipt of the ART kits. 
 
 For queries about your application, please contact:
 
@@ -39,12 +39,12 @@ For queries about your application, please contact:
 * Health Promotion Board (HPB) at [+65 6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
 
 ### More information about ART
-Learn more about how to perform a self-test using ART and what to do if tested positive:
+Learn more about how to perform a self-test using ART:
 
 |-|-|
-|Resources|[https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
-|Self-test instructions|[https://artbuddy.healthpixel.co/](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"}|
-
+|Self-test instructions | - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}|
+|Repacking instructions| - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}|
+|More resources | [https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
 ### Frequently Asked Questions (FAQ)
 
 For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) (updated on 25 Sep 2021) for more information.
