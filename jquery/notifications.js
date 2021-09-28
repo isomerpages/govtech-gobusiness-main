@@ -3,7 +3,7 @@
 const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable from 18 September 2021 10pm to 19 September 2021 6pm due to scheduled maintenance. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> e-Advisers for Business Structure and Starting a Business will be unavailable due to scheduled maintenance on 8 Sep 2021 from 6pm to 8pm. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable during the upcoming scheduled maintenance as follows. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.You can check our <a href='https://licence1.business.gov.sg/feportal/web/frontier/maintenance' target='blank' rel='noopener'>schedule</a> for upcoming maintenance works.<br>(1) From 25 Sep 2021 12am to 25 Sep 2021 6am<br>(2) From 25 Sep 2021 10pm to 26 Sep 2021 6am",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable during the upcoming scheduled maintenance as follows. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.You can check our <a href='https://licence1.business.gov.sg/feportal/web/frontier/maintenance' target='blank' rel='noopener'>schedule</a> for upcoming maintenance works.<br>(1) From 25 Sep 2021 12am to 25 Sep 2021 6am<br>(2) From 25 Sep 2021 10pm to 26 Sep 2021 6am",
   //"<b>[Announcement]</b> We have updated our Helpdesk contact information. Please go to our Contact Us page for the new contact details. Thank you.",
   
 ];
