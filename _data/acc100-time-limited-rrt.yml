@@ -97,7 +97,7 @@
   data:
     - title: My company has submitted the application. When will my company receive the ART kits?
       content: |
-        Successful applicants will be informed of their delivery within 5 working days from application.
+        Successful applicants will be informed of their delivery within 20 working days from application.
 
     - title: How will the kits be delivered to my company?
       content: |
@@ -111,8 +111,8 @@
       content: |
         Companies are recommended to allow employees to perform the self-testing onsite. For companies that would like to repack the box of ART kits into individual packs, please refer to the following instructions, depending on the brand of ART kits you have received:
 
-        - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}
-        - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}
+        - [Abbott Panbio](/images/guides/Guide to repack  use Abbott Panbio ART.pptx){:target="_blank"}
+        - [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}
 
     - title: Can my company exchange the ART kits for another brand?
       content: |
