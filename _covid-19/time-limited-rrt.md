@@ -42,8 +42,8 @@ For queries about your application, please contact:
 Learn more about how to perform a self-test using ART:
 
 |-|-|
-|Self-test instructions | - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}|
-|Repacking instructions| - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}|
+|Self-test instructions | * [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> * [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}|
+|Repacking instructions| * [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> * [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}|
 |More resources | [https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
 ### Frequently Asked Questions (FAQ)
 
