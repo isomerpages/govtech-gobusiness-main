@@ -1,15 +1,15 @@
 ---
-title: TessaCloud DMS is a Document Management System that combines the best features of a cloud drive with the ease of quick uploading and downloading of files. Built-in Optical Character Recognition (OCR) and Enterprise Search functionalities are included for quick and accurate retrieval of documents and precedents. Besides, it can automatically sort folders and link them to their respective matters. Email synchronization is also available and attachments will be saved in the system. 
+title: TessaCloud DMS Version DMS - Package D Up to 30 users
 permalink: /productivity-solutions-grant/solutionrepo/solution859
 ---
 
 ### Description
 
-201815955C
+TessaCloud DMS is a Document Management System that combines the best features of a cloud drive with the ease of quick uploading and downloading of files. Built-in Optical Character Recognition (OCR) and Enterprise Search functionalities are included for quick and accurate retrieval of documents and precedents. Besides, it can automatically sort folders and link them to their respective matters. Email synchronization is also available and attachments will be saved in the system. 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Tessaract_Technologies_20190017_Annex_3_20200625142151_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-36880
+Subscription / Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@tessaract.io<br>Tel: +65 9009 0570
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,19 @@
 ---
-title: T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.  - Advanced tracking technology providing greater fleet insights to improve business productivity and safety - Driver behaviour insights and scoring to instil safe driving culture - Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
+title: T-Guard - Package (4 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1866
 ---
 
 ### Description
 
-201130424H
+T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
+
+- Advanced tracking technology providing greater fleet insights to improve business productivity and safety
+- Driver behaviour insights and scoring to instil safe driving culture
+- Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_20200200_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-22152
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

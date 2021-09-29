@@ -1,11 +1,11 @@
 ---
-title: Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
+title: Automated Fish Sorter/ Grader
 permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ### Description
 
-
+Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

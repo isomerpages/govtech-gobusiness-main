@@ -1,11 +1,11 @@
 ---
-title: A machine that completes transplantation of the plug seedlings of vegetables.
+title: Automatic Seed Plug Transplanter
 permalink: /productivity-solutions-grant/solutionrepo/solution2124
 ---
 
 ### Description
 
-
+A machine that completes transplantation of the plug seedlings of vegetables.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

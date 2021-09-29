@@ -1,11 +1,11 @@
 ---
-title: Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
+title: Egg Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
 ### Description
 
-
+Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

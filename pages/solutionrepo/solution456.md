@@ -1,15 +1,15 @@
 ---
-title: Hubble Workforce Management System is a cloud solution on both web and mobile, that allows attendance tracking on-site, utilising biometric facial recognition, GPS tracking, and real time analytics. With these features, companies will be able to monitor and deploy their workforce efficiently.
+title: Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution456
 ---
 
 ### Description
 
-201606906Z
+Hubble Workforce Management System is a cloud solution on both web and mobile, that allows attendance tracking on-site, utilising biometric facial recognition, GPS tracking, and real time analytics. With these features, companies will be able to monitor and deploy their workforce efficiently.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-32500
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+title: Water Filtration System
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
 ### Description
 
-
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

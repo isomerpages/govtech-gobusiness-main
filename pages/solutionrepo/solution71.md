@@ -1,11 +1,13 @@
 ---
-title: Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.  Grant support 80% of cost of equipment, up to $10,000 grant
+title: Portable Automatic Pipe Gas Cutter
 permalink: /productivity-solutions-grant/solutionrepo/solution71
 ---
 
 ### Description
 
+Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.
 
+Grant support: 80% of cost of equipment, up to $10,000 grant
 
 ### Details of Solution
 
@@ -24,18 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Automatic travelling gas cutting operations
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Automatic travelling gas cutting operations
 Cutting speed: minimum 50 mm/min
 Adjustable bevel angle
 Maintenance costs not supported
-Optional components: relevant accessories e.g. gas hoses, cables, rail/track% for non-SMEs
-
-### Things to Note
-Active
+Optional components: relevant accessories e.g. gas hoses, cables, rail/track
 
 ### Contact Information
 N.A.

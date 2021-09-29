@@ -1,15 +1,18 @@
 ---
-title: Sage 300 accounting software is widely used by small and medium-sized businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing, retail, e-commerce and robust business intelligence tools to provide real-time key performance indicator (KPI) dashboards.   
+title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (Advanced Edition - 7 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution340
 ---
 
 ### Description
 
-200703060H
+Sage 300 accounting software is widely used by small and medium-sized businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing, retail, e-commerce and robust business intelligence tools to provide real-time key performance indicator (KPI) dashboards.
+
+
+
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Databit_20190015_Annex_3_20200625142031_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-38833
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Databit Pte Ltd<br>https://www.databit.com.sg<br>Email: sales@databit.com.sg<br>Tel: +65 9488 4143
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

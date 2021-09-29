@@ -1,15 +1,16 @@
 ---
-title: Intuit Quickbooks Online is the number one cloud accounting solution for SMEs in the World developed by USD 75 Billion Listed Company, Intuit.  As at June 2020, it has 4.5 million users around the World. It has presence in 100+ countries and 12 languages. Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is customised to the requirements to the Accounting and Tax compliance requirements in Singapore.
+title: Intuit Quickbooks Online Full Transformation Package- Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package
 permalink: /productivity-solutions-grant/solutionrepo/solution60
 ---
 
 ### Description
 
-201539815G
+Intuit Quickbooks Online is the number one cloud accounting solution for SMEs in the World developed by USD 75 Billion Listed Company, Intuit.  As at June 2020, it has 4.5 million users around the World. It has presence in 100+ countries and 12 languages.
+Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is customised to the requirements to the Accounting and Tax compliance requirements in Singapore.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-9978
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Acc Pro (Singapore) Pte. Ltd. <br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

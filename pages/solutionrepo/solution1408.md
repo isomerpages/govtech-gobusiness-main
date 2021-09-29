@@ -1,11 +1,15 @@
 ---
-title: This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.   The equipment can transport palletised goods of approximately 1000 to 1500 kg.  Grant support 80% of cost of equipment, capped at $2,600 grant per unit
+title: Electric Pedestrian Pallet Truck
 permalink: /productivity-solutions-grant/solutionrepo/solution1408
 ---
 
 ### Description
 
+This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
 
+The equipment can transport palletised goods of approximately 1000 to 1500 kg.
+
+Grant support: 80% of cost of equipment, capped at $2,600 grant per unit
 
 ### Details of Solution
 
@@ -24,11 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Specifications:
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Specifications:
 - Rechargeable battery powered. Min. recommended battery voltage -24V and rated capacity -10Ah
 - Rated loading capacity approx. 1000 - 1500kg
 - 1 worker/electric pallet truck
@@ -36,10 +43,7 @@ Up to Specifications:
 - Safety features incl. (e.g. emergency stop switch)
 - Charging accessories & 1 spare battery per unit may be supported
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
-
-### Things to Note
-N.A.
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.

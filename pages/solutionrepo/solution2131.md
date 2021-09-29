@@ -1,11 +1,11 @@
 ---
-title: A machine used to place ear tags into the ears of cattle, sheep, goats, and pigs to provide a means of animal identification.
+title: Ear Tagging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-
+A machine used to place ear tags into the ears of cattle, sheep, goats, and pigs to provide a means of animal identification.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

@@ -1,15 +1,15 @@
 ---
-title: SEMS Smart FM solution enables organizations to manage their estate(s) at ease. It is designed to help save time & money by managing workflows intelligently across their estate(s)/buildings thus processes become efficient & effective. SEMS enables contractors/officers to perform ongoing maintenance and repair, including asset management, contractor/workers management, service fulfilment and scheduling. It empowers FM teams to adequately track job status and analyse working patterns over time.
+title: Smart Estate Management System - Single Estate Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution1644
 ---
 
 ### Description
 
-200405971E
+SEMS Smart FM solution enables organizations to manage their estate(s) at ease. It is designed to help save time & money by managing workflows intelligently across their estate(s)/buildings thus processes become efficient & effective. SEMS enables contractors/officers to perform ongoing maintenance and repair, including asset management, contractor/workers management, service fulfilment and scheduling. It empowers FM teams to adequately track job status and analyse working patterns over time.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-$30600
+Subscription / Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.combuilder.com.sg <br>Contact Hotline: 63238100 <br>Contact Email: enquiry@combuilder.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

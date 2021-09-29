@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier provides advanced inventory, and business management capabilities to medium-sized companies. Process foreign currency transactions, GST submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
+title: ABSS Premier V23 Version 23 - Package C with E-Invoicing and setup (1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution31
 ---
 
 ### Description
 
-200804595N
+ABSS Premier provides advanced inventory, and business management capabilities to medium-sized companies. Process foreign currency transactions, GST submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

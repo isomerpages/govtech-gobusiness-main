@@ -1,15 +1,15 @@
 ---
-title: SoloTracking is an industry-proven, advanced and productivity-oriented fleet management system. It makes it unprecedentedly easy to take your fleet's pulse, from location tracking and fleet management to job dispatching and fleet optimization. Besides its "track and trace" capability, SoloTracking provides true digital readiness to your fleet's daily operation.
+title: SoloTracking Version 2 - Package B (1 vehicle with 3G)
 permalink: /productivity-solutions-grant/solutionrepo/solution1686
 ---
 
 ### Description
 
-201013506H
+SoloTracking is an industry-proven, advanced and productivity-oriented fleet management system. It makes it unprecedentedly easy to take your fleet's pulse, from location tracking and fleet management to job dispatching and fleet optimization. Besides its "track and trace" capability, SoloTracking provides true digital readiness to your fleet's daily operation.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_20200467_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6118.8
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.solo.com.sg/safepass-facial-recognition-fever-screening-with-attendance-and-access-control-system/ <br>Contact Hotline: 65158803 <br>Contact Email: sales@solo.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

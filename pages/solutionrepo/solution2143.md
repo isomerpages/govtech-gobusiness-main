@@ -1,11 +1,11 @@
 ---
-title: A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
+title: Milking Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
 ### Description
 
-
+A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

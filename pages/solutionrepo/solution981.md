@@ -1,15 +1,17 @@
 ---
-title: AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with ......... 1) Customer self-ordering kiosk providing a less face to face interaction and to ease the queue  2) Mobility device via QR / App Ordering to enhance their ordering process .
+title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 22" Customer Self Ordering  STAND KIOSK Station Package )
 permalink: /productivity-solutions-grant/solutionrepo/solution981
 ---
 
 ### Description
 
-198901360G
+AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with .........
+1) Customer self-ordering kiosk providing a less face to face interaction and to ease the queue 
+2) Mobility device via QR / App Ordering to enhance their ordering process .
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_20200157_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10800
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:AZ DIGITAL PTE LTD <br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
