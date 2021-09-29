@@ -1,15 +1,15 @@
 ---
-title: APPZPOS F&B Point of Sales Version 1.1 - IOS/Android Mobile Ordering System
+title: APPZPOS is a one integrated solution with multiple ordering portals linked to the same central admin backend and kitchen display system. Users can place orders from multiple portals, while staff check orders as well as sales reports in the same backend for multiple outlets. APPZPOS is a cloud based system where users can easily amend menu and other setting from backend, check reports through any device, at anywhere, anytime.
 permalink: /productivity-solutions-grant/solutionrepo/solution1982
 ---
 
 ### Description
 
-APPZPOS is a one integrated solution with multiple ordering portals linked to the same central admin backend and kitchen display system. Users can place orders from multiple portals, while staff check orders as well as sales reports in the same backend for multiple outlets. APPZPOS is a cloud based system where users can easily amend menu and other setting from backend, check reports through any device, at anywhere, anytime.
+201628309N
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+5308
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932234 <br>Contact Email: sales@appzgate.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

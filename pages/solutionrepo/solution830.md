@@ -1,16 +1,15 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package C (Large Restaurant (E-waiter for 3 Users, CRM & KDS Lite for 4 Users))
+title: The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly. 
 permalink: /productivity-solutions-grant/solutionrepo/solution830
 ---
 
 ### Description
 
-The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
-
+201025900M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

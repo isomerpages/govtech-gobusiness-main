@@ -1,16 +1,15 @@
 ---
-title: SecureAPlus Version 6.x - (100 Pax)
+title: SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC. 
 permalink: /productivity-solutions-grant/solutionrepo/solution763
 ---
 
 ### Description
 
-SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
-
+200209504H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

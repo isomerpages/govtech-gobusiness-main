@@ -1,15 +1,15 @@
 ---
-title: Shopcada Ecommerce and POS-Shopcada Premium  Ecommerce Package
+title: Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
 permalink: /productivity-solutions-grant/solutionrepo/solution930
 ---
 
 ### Description
 
-Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
+201016666H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+9900
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

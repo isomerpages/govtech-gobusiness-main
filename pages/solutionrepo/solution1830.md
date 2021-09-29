@@ -1,16 +1,15 @@
 ---
-title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
+title: AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions . The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 permalink: /productivity-solutions-grant/solutionrepo/solution1830
 ---
 
 ### Description
 
-AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
-The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+200206632K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription with a one-time set-up fee 
+$459,200.00
 
 ### Support Level
-Up to 30% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Active
 
 ### Contact Information
-Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

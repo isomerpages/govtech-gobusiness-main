@@ -1,11 +1,11 @@
 ---
-title: Conveyor System for transporting materials
+title: A conveyor system that automates farming processes which includes production, feeding, post-harvesting, packing, etc.
 permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 
 ### Description
 
-A conveyor system that automates farming processes which includes production, feeding, post-harvesting, packing, etc.
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

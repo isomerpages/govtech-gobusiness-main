@@ -1,15 +1,15 @@
 ---
-title: WhyzeHR eScheduling - WhyzeHR E-Scheduling Pro 200
+title: WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
 permalink: /productivity-solutions-grant/solutionrepo/solution2358
 ---
 
 ### Description
 
-WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
+200818854Z
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+15000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://whyze.com.sg/escheduling/ <br>Contact Hotline: 68380161 <br>Contact Email: enquiry@whyze.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

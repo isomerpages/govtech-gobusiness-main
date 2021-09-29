@@ -1,16 +1,15 @@
 ---
-title: Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)
+title: Octopus Food Solutions provides a complete suites of innovative and easy-to-use food management solutions, designed to help food businesses be smarter and more personal. Our solutions are suited to various verticals within the food industry including quick service counters, seated restaurant, bars and bistros. From small too large multi store operations. We help food business owners run sales and promotions, track inventory, manage operations and engage customers. 
 permalink: /productivity-solutions-grant/solutionrepo/solution666
 ---
 
 ### Description
 
-Octopus Food Solutions provides a complete suites of innovative and easy-to-use food management solutions, designed to help food businesses be smarter and more personal. Our solutions are suited to various verticals within the food industry including quick service counters, seated restaurant, bars and bistros. From small too large multi store operations. We help food business owners run sales and promotions, track inventory, manage operations and engage customers.
-
+201614842W
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+7296
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@octopuspos.com<br>Tel: +65 6221 6601
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

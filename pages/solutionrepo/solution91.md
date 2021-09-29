@@ -1,18 +1,11 @@
 ---
-title: Probing System
+title: A probing system consists of the following attached to CNC machining center  Work Piece Touch Probe Work piece measurement/referencing  Tool Setting Probe Tool setting, length, radius, breakage detection Software Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports Implementation Equipment configuration, training  Grant support 80% of cost of probing system, up to $30,000 grant cap
 permalink: /productivity-solutions-grant/solutionrepo/solution91
 ---
 
 ### Description
 
-A probing system consists of the following attached to CNC machining center:
 
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-Grant support: 80% of cost of probing system, up to $30,000 grant cap
 
 ### Details of Solution
 
@@ -31,14 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Equipment must meet the following specifications: 
+Up to % for SMEs <br>
+Up to Equipment must meet the following specifications: 
 1. Work Piece & Tool Setting Probe:
 - Approach Directions: +/-x, +/-y, -z
 - Repeatability: <=1um 2sigma
@@ -49,7 +39,10 @@ Equipment must meet the following specifications:
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-No change in vendor allowed
+No change in vendor allowed% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

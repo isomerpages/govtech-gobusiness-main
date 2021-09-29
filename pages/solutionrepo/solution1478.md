@@ -1,15 +1,15 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 3 Bank with Auto ETL)
+title: KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 permalink: /productivity-solutions-grant/solutionrepo/solution1478
 ---
 
 ### Description
 
-KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+200003956G
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+2036000
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. % for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+N.A.
 
 ### Contact Information
-Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>Contact Hotline: 62133388<br>Contact Email: grace_tan@kpmg.com.sg<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

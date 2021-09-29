@@ -1,15 +1,15 @@
 ---
-title: One-Stop Document Access - Pro (10 Users)
+title: One-Stop Document Access is a document management system, accessible via web browser and mobile. Documents are maintained in departmentalized teamsites with following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-Data tags information allowing quick retrieval. The system is also backed up to a secured cloud platform. With Prominds as a vendor, SMEs receive an all-rounded solution readily available for deployment.
 permalink: /productivity-solutions-grant/solutionrepo/solution1968
 ---
 
 ### Description
 
-One-Stop Document Access is a document management system, accessible via web browser and mobile. Documents are maintained in departmentalized teamsites with following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-Data tags information allowing quick retrieval. The system is also backed up to a secured cloud platform. With Prominds as a vendor, SMEs receive an all-rounded solution readily available for deployment.
+200408845E
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+10152
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

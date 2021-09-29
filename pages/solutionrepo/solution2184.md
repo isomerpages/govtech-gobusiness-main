@@ -1,15 +1,15 @@
 ---
-title: SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)
+title: SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
 permalink: /productivity-solutions-grant/solutionrepo/solution2184
 ---
 
 ### Description
 
-SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
+201731885M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+6800
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR % for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
+N.A.
 
 ### Contact Information
-Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello@skipqoo.io <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

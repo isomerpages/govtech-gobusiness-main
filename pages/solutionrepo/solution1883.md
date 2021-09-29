@@ -1,15 +1,15 @@
 ---
-title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus
+title: GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
 permalink: /productivity-solutions-grant/solutionrepo/solution1883
 ---
 
 ### Description
 
-GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
+T11FC0171H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+6411.6
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

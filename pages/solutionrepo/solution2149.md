@@ -1,11 +1,11 @@
 ---
-title: Solar Panels System and Energy Storage System
+title: A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ### Description
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

@@ -1,13 +1,11 @@
 ---
-title: Rotary Oven
+title: Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns. Able to increase product yield by reducing amount of unevenly baked or burned cakes and muffins. Ideal for bakeries. For bigger rotary ovens, it is recommended for it to come with a trolley to load
 permalink: /productivity-solutions-grant/solutionrepo/solution384
 ---
 
 ### Description
 
-Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns.
-Able to increase product yield by reducing amount of unevenly baked or burned cakes and muffins. Ideal for bakeries.
-For bigger rotary ovens, it is recommended for it to come with a trolley to load
+
 
 ### Details of Solution
 
@@ -26,15 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Minimum of 8 trays
+Racks inside oven must be able to rotate% for non-SMEs
 
 ### Things to Note
-Minimum of 8 trays
-Racks inside oven must be able to rotate
+Active
 
 ### Contact Information
 N.A.

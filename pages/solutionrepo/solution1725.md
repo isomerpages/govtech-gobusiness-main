@@ -1,15 +1,15 @@
 ---
-title: Qashier Smart Terminal - Package C (Basic)
+title: Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier's flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
 permalink: /productivity-solutions-grant/solutionrepo/solution1725
 ---
 
 ### Description
 
-Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier's flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
+201905998K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+$1,538.00
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Qashier Pte Ltd <br>Web URL:qashier.co <br>Contact Hotline:94555108 <br>Contact Email:hello@qashier.co <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

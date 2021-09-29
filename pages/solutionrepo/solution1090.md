@@ -1,19 +1,15 @@
 ---
-title: (A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)
+title: INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS. - Transforming HR Software to Cloud - Integrated Software enables overall view of the workforce & productivity, performance & efficiency - Help HR handle company's compliance challenges and better manage resources. - Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 permalink: /productivity-solutions-grant/solutionrepo/solution1090
 ---
 
 ### Description
 
-INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
-- Transforming HR Software to Cloud
-- Integrated Software enables overall view of the workforce & productivity, performance & efficiency
-- Help HR handle company's compliance challenges and better manage resources.
-- Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
+200711480W
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+5700
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Info-Tech Systems Integrators Pte Ltd <br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

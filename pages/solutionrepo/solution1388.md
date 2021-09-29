@@ -1,15 +1,15 @@
 ---
-title: 3D Omni Commerce Version 1.03 - STANDARD
+title: 3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
 permalink: /productivity-solutions-grant/solutionrepo/solution1388
 ---
 
 ### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
+201822015H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+2500
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,16 +1,15 @@
 ---
-title: iMakan - Mobile Ordering (Direct Purchase) 
+title: iMakan is best for merchants who are looking for a cost- effective transformation in customer ordering process. A complete set of digital tools in-store QR ordering, online ordering for self-pickup/delivery, eMenu and kiosk. With a clean UI to achieve high speed order input, iMakan presents an effective up-sell automation that helps F&B realize potential revenue faster.  iMakan is widely used by new age diners who prefer digital menu and fast pace ordering.
 permalink: /productivity-solutions-grant/solutionrepo/solution1563
 ---
 
 ### Description
 
-iMakan is best for merchants who are looking for a cost- effective transformation in customer ordering process. A complete set of digital tools: in-store QR ordering, online ordering for self-pickup/delivery, eMenu and kiosk. With a clean UI to achieve high speed order input, iMakan presents an effective up-sell automation that helps F&B realize potential revenue faster. 
-iMakan is widely used by new age diners who prefer digital menu and fast pace ordering.
+200503951K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+6980
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

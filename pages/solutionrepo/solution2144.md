@@ -1,11 +1,11 @@
 ---
-title: Packaging & Labelling Machine
+title: A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

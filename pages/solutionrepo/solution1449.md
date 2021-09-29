@@ -1,17 +1,15 @@
 ---
-title: Octopus Retail Solution-Package D (Multi Terminal + eCommerce)
+title: Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal.   Our solutions help retail owners run sales and promotions, track inventory, manage operations and engage customers. Applicable to small businesses and larger multi-store operations. Our solutions have been deployed in thousands of retail in Singapore and internationally.
 permalink: /productivity-solutions-grant/solutionrepo/solution1449
 ---
 
 ### Description
 
-Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal. 
-
-Our solutions help retail owners run sales and promotions, track inventory, manage operations and engage customers. Applicable to small businesses and larger multi-store operations. Our solutions have been deployed in thousands of retail in Singapore and internationally.
+201614842W
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -26,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+13058
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://octopuspos.com/ <br>Contact Hotline: 62216601 <br>Contact Email: solutions@octopuspos.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

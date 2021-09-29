@@ -1,12 +1,11 @@
 ---
-title: Standalone Automated Industrial Utensil Washer
+title: Automated standalone washer for pots, trays and utensils that replaces manual dishawashing.  Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
 permalink: /productivity-solutions-grant/solutionrepo/solution383
 ---
 
 ### Description
 
-Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. 
-Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
+
 
 ### Details of Solution
 
@@ -25,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Automated washing that only requires loading, no need for handwashing. 
+Wash tank capacity of at least 15 litres.
+Does not include accessories% for non-SMEs
 
 ### Things to Note
-Automated washing that only requires loading, no need for handwashing. 
-Wash tank capacity of at least 15 litres.
-Does not include accessories
+Active
 
 ### Contact Information
 N.A.

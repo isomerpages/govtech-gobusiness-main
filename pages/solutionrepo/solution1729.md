@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+title: EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 permalink: /productivity-solutions-grant/solutionrepo/solution1729
 ---
 
 ### Description
 
-EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
+201301501N
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -37,15 +37,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+Up to Additional criteria: All participating companies must have at least three local employees at the point of application% for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+N.A.
 
 ### Contact Information
-Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
+N.A.
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

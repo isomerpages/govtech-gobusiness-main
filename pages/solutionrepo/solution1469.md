@@ -1,11 +1,11 @@
 ---
-title: Flange Facer
+title: The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered. Time is saved during operation as there can be less rework.
 permalink: /productivity-solutions-grant/solutionrepo/solution1469
 ---
 
 ### Description
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered. Time is saved during operation as there can be less rework.
+
 
 ### Details of Solution
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Facing diameter must be >1m
+Training costs can be supported
+Maintenance costs not supported% for non-SMEs
 
 ### Things to Note
-Facing diameter must be >1m
-Training costs can be supported
-Maintenance costs not supported
+N.A.
 
 ### Contact Information
 N.A.

@@ -1,16 +1,15 @@
 ---
-title: ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)
+title: ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules. KEYfields leverages on technology, developing IT Solutions that are versatile and cost effective. The solutions can easily integrate into and across other business centric modules. In addition, they can be deployed independently to cater to different business needs.
 permalink: /productivity-solutions-grant/solutionrepo/solution544
 ---
 
 ### Description
 
-ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules.
-KEYfields leverages on technology, developing IT Solutions that are versatile and cost effective. The solutions can easily integrate into and across other business centric modules. In addition, they can be deployed independently to cater to different business needs.
+200307927R
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

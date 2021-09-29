@@ -1,18 +1,15 @@
 ---
-title: Autodesk Docs - 10 User Package (Formerly BIM 360 Docs) 
+title: BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations. BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats). BIM 360 Design - For real time design collaboration, work sharing and change management. BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
 permalink: /productivity-solutions-grant/solutionrepo/solution1022
 ---
 
 ### Description
 
-BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design - For real time design collaboration, work sharing and change management.
-BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+201014126M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -27,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+4300
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to NA% for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

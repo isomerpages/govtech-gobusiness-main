@@ -1,16 +1,11 @@
 ---
-title: Digital Welding Equipment 
+title: Consists of digital welding machines (hardware) and management software - Compute actual real-time output of voltage, reducing manual recording and computing - Allow real-time monitoring of multiple weld stations to ensure welding works are compliant  - Provide data logging to track welders' performance/ productivity - Monitor power consumption and consumables - User can pre-set/control welding parameters and optimise voltage applied
 permalink: /productivity-solutions-grant/solutionrepo/solution1285
 ---
 
 ### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+
 
 ### Details of Solution
 
@@ -29,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Consists of digital welding machines (hardware) and management software
+Current adjusting range: minimally +/- 150A
+Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box% for non-SMEs
 
 ### Things to Note
-Consists of digital welding machines (hardware) and management software
-Current adjusting range: minimally +/- 150A
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+N.A.
 
 ### Contact Information
 N.A.

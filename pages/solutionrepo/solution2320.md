@@ -1,15 +1,15 @@
 ---
-title: FITPRISE Project Management System - PCM - Package 2 (10 users)
+title: FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
 permalink: /productivity-solutions-grant/solutionrepo/solution2320
 ---
 
 ### Description
 
-FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
+200707356K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+32000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.enhanzcom.com <br>Contact Hotline: 62761128 <br>Contact Email: enquiries@enhanzcom.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

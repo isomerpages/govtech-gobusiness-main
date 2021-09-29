@@ -1,15 +1,15 @@
 ---
-title: Sapaad - Sapaad Restaurant Management System + KDS
+title: Sapaad is a leading, cost-effective, scalable Cloud point-of-salev(POS) & restaurant management system, trusted by thousands of restaurants worldwide. Sapaad is an end-to-end point-of-sale & restaurant management solution that fits all restaurant models, including casual dining, quick service restaurants, kiosks, food trucks and drive-thrus, and addresses all order types walk-in, dine-in, take- way and home delivery.
 permalink: /productivity-solutions-grant/solutionrepo/solution1913
 ---
 
 ### Description
 
-Sapaad is a leading, cost-effective, scalable Cloud point-of-salev(POS) & restaurant management system, trusted by thousands of restaurants worldwide. Sapaad is an end-to-end point-of-sale & restaurant management solution that fits all restaurant models, including casual dining, quick service restaurants, kiosks, food trucks and drive-thrus, and addresses all order types: walk-in, dine-in, take- way and home delivery.
+201543242E
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Sapaad_20200692_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+5354.98
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.sapaad.com/sg/ <br>Contact Hotline: 62240777 <br>Contact Email: presales.support@sapaad.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

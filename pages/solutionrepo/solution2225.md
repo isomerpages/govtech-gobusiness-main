@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (26- 50 Employees)
+title: Match Resources Pte Ltd is a full-service Human Resources consulting firm that uses an innovative SaaS HRSS ecosystem. The firm combines HR management expertise and cutting-edge cloud software to support local SMEs in digitizing and automating their crucial HR processes. The SaaS modules include Employment Information System, Leave Management, Expense Claims, Time Attendance, and Payroll Processing, all of which are conveniently accessible via a mobile application.
 permalink: /productivity-solutions-grant/solutionrepo/solution2225
 ---
 
 ### Description
 
-Match Resources Pte Ltd is a full-service Human Resources consulting firm that uses an innovative SaaS HRSS ecosystem. The firm combines HR management expertise and cutting-edge cloud software to support local SMEs in digitizing and automating their crucial HR processes. The SaaS modules include Employment Information System, Leave Management, Expense Claims, Time Attendance, and Payroll Processing, all of which are conveniently accessible via a mobile application.
+200801526G
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+$19,900
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

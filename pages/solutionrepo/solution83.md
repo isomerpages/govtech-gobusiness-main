@@ -1,14 +1,11 @@
 ---
-title: Ozonised Water Sterilisation System
+title: An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation.   Grant support 80% of cost of equipment, up to $30,000 grant Purchase of pre-owned/used equipment not supportable
 permalink: /productivity-solutions-grant/solutionrepo/solution83
 ---
 
 ### Description
 
-An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation. 
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
-Purchase of pre-owned/used equipment not supportable
 
 ### Details of Solution
 
@@ -27,14 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Equipment must meet the following:
+Up to % for SMEs <br>
+Up to Equipment must meet the following:
 - Use ozonised tech with ozonised water concen.: 0.4-1.5ppm
 - Ozone flow rate: 0-3 Litres/min
 - Piped to water sources
@@ -44,7 +38,10 @@ Equipment must meet the following:
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-No change in vendor allowed
+No change in vendor allowed% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

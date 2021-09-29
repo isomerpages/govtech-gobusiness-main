@@ -1,15 +1,15 @@
 ---
-title: Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)
+title: Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful ecommerce store to sell their products online and receive payment via online payment gateway, QR Code payment, PayNow or PayLah.
 permalink: /productivity-solutions-grant/solutionrepo/solution465
 ---
 
 ### Description
 
-Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful ecommerce store to sell their products online and receive payment via online payment gateway, QR Code payment, PayNow or PayLah.
+201215396N
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+8000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

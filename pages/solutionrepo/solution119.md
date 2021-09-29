@@ -1,15 +1,11 @@
 ---
-title: Secure Locking System for Access Control
+title: The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces.   The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.  Grant support 80% of cost of equipment, up to $16,000 grant
 permalink: /productivity-solutions-grant/solutionrepo/solution119
 ---
 
 ### Description
 
-The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. 
 
-The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.
-
-Grant support: 80% of cost of equipment, up to $16,000 grant
 
 ### Details of Solution
 
@@ -28,14 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-- Automate access request and provisioning
+Up to % for SMEs <br>
+Up to - Automate access request and provisioning
 - Physically secure spaces without the need for power supply to operate 
 - Provide traceability of all access into the secured spaces
 - Installed with Management software to administer access to users
@@ -44,7 +37,10 @@ N.A. for non-SMEs
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-No change in vendor allowed
+No change in vendor allowed% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

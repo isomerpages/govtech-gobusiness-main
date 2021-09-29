@@ -1,15 +1,15 @@
 ---
-title: Netiquette Cloud Business Suite - Package D (Saas for 25 Users)
+title: Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
 permalink: /productivity-solutions-grant/solutionrepo/solution641
 ---
 
 ### Description
 
-Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
+200706402C
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+7240
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquette.com.sg<br>Tel: +65 6223 1157
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automatic Flange Spreader
+title: The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 permalink: /productivity-solutions-grant/solutionrepo/solution1472
 ---
 
 ### Description
 
-The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+
 
 ### Details of Solution
 
@@ -24,18 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Min. spreading force of 240KN
+Up to % for SMEs <br>
+Up to Min. spreading force of 240KN
 Must be certified intrinsically safe (e.g. ATEX certified)
 It can be powered by a hydraulic/electric source
 Training costs can be supported
-Maintenance costs not supported
+Maintenance costs not supported% for non-SMEs
+
+### Things to Note
+N.A.
 
 ### Contact Information
 N.A.

@@ -1,13 +1,11 @@
 ---
-title: Laser Geometric Alignment System
+title: In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.  Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.  
 permalink: /productivity-solutions-grant/solutionrepo/solution1143
 ---
 
 ### Description
 
-In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.
 
-Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.  
 
 ### Details of Solution
 
@@ -26,17 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
+Up to % for SMEs <br>
+Up to The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
 Measuring errors: minimum +/- 1%
 Maintenance cost not supported
-Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
+Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

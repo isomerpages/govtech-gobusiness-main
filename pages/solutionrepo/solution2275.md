@@ -1,15 +1,15 @@
 ---
-title: INNOCOM - ASSEMBLE-PROJECT - 3 YEARS
+title: Assemble Systems provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows.
 permalink: /productivity-solutions-grant/solutionrepo/solution2275
 ---
 
 ### Description
 
-Assemble Systems provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows.
+199400358M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+34000
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to NA% for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

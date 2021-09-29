@@ -1,15 +1,15 @@
 ---
-title: vTrak Version 1.4 - 10 VEHICLES
+title: The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
 permalink: /productivity-solutions-grant/solutionrepo/solution2300
 ---
 
 ### Description
 
-The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
+200919057R
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IDEE_INFOCOM_20200355_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+16489
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: WWW.IDEE.SG <br>Contact Hotline: 62936461 <br>Contact Email: INFO@IDEE.SG <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
