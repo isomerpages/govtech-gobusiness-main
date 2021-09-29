@@ -1,11 +1,13 @@
 ---
-title: An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process.  The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery. It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+title: Encrusting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution47
 ---
 
 ### Description
 
-
+An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
+The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
+It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
 
 ### Details of Solution
 
@@ -24,15 +26,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Minimum capacity of 1,000 pcs per hour
-% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum capacity of 1,000 pcs per hour
+
 
 ### Contact Information
 N.A.

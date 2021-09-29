@@ -1,15 +1,15 @@
 ---
-title: Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
+title: Doctor Anywhere Platform
 permalink: /productivity-solutions-grant/solutionrepo/solution1838
 ---
 
 ### Description
 
-201827970D
+Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-$2500.00
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.com<br>Contact Hotline: 9278 6055<br>Contact Email: fanny@doctoranywhere.com
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

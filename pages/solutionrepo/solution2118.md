@@ -1,11 +1,11 @@
 ---
-title: Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+title: Automated Irrigation & Dosing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

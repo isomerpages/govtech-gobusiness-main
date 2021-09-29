@@ -1,11 +1,13 @@
 ---
-title: Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.  Grant support 80% of cost of equipment, up to $30,000 grant
+title: Vertical Carousel
 permalink: /productivity-solutions-grant/solutionrepo/solution159
 ---
 
 ### Description
 
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
 
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 ### Details of Solution
 
@@ -24,18 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Unit height: min. 2.5m
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Unit height: min. 2.5m
 Carrier tray width: min. 1.3m
 Load capacity per tray: min. 150kg
 With operator Interface (Console)
-With software linked to Inventory Management System% for non-SMEs
-
-### Things to Note
-Active
+With software linked to Inventory Management System
 
 ### Contact Information
 N.A.

@@ -1,15 +1,22 @@
 ---
-title: AGHRM provides an integrated suite of cloud based Human Resource Management Solutions a.	Personnel b.	Leave c.	Claims d.	Attendance & Rostering e.	Payroll Singapore.  f.	Performance Management In addition, we provide mobile apps for employees to manage their HR matters on the go
+title: AGHRM - AGHRM 50
 permalink: /productivity-solutions-grant/solutionrepo/solution126
 ---
 
 ### Description
 
-200603625R
+AGHRM provides an integrated suite of cloud based Human Resource Management Solutions
+a.	Personnel
+b.	Leave
+c.	Claims
+d.	Attendance & Rostering
+e.	Payroll Singapore. 
+f.	Performance Management
+In addition, we provide mobile apps for employees to manage their HR matters on the go
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4500
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

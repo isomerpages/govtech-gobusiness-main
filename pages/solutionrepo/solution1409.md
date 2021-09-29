@@ -1,15 +1,15 @@
 ---
-title: GenicDocs is very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. It is the smart and flexible choice with a user-friendly.
+title: GenicDocs - Document Management Software - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution1409
 ---
 
 ### Description
 
-201410722E
+GenicDocs is very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. It is the smart and flexible choice with a user-friendly.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_Annex_3_CR_wef_23_September_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5000
+Subscription or Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

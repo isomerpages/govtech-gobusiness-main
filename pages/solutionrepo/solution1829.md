@@ -1,15 +1,15 @@
 ---
-title: COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
+title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1829
 ---
 
 ### Description
 
-198905395E
+COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
@@ -28,16 +28,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to Additional criteria: All participating companies must have at least three local employees at the point of application% for non-SMEs
+Up to 80% for non-SMEs
 
 ### Things to Note
-N.A.
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-N.A.
+Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

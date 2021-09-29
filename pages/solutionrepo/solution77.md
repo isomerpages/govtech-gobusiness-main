@@ -1,15 +1,15 @@
 ---
-title: Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such as payroll management, leave management, claim management, appraisal management and others. Most of the features are available on the mobile app which employees can perform tasks on the go. 
+title: ADAPTIVE PAY Version 2019/2020 - Package (16 - 35 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution77
 ---
 
 ### Description
 
-201323996K
+Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such as payroll management, leave management, claim management, appraisal management and others. Most of the features are available on the mobile app which employees can perform tasks on the go. 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdaptiveCloudAnnex3CRwef11March2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Adaptive Cloud Systems Pte Ltd<br>www.adaptivepay.com.sg<br>Email: info@adaptivepay.com.sg<br>Tel: +65 6708 9398
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

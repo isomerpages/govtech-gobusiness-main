@@ -1,11 +1,13 @@
 ---
-title: Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations.   Grant support 80% of cost of equipment, up to $15,000 grant
+title: Circular Gas Cutter
 permalink: /productivity-solutions-grant/solutionrepo/solution38
 ---
 
 ### Description
 
+Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
 
+Grant support: 80% of cost of equipment, up to $15,000 grant
 
 ### Details of Solution
 
@@ -24,18 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Automatic rotating nozzle
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Automatic rotating nozzle
 Cutting speed: min 0.2 rpm
 Adjustable bevel angle
 Maintenance costs not supported
-Optional components: relevant accessories e.g.gas hoses, cables% for non-SMEs
-
-### Things to Note
-Active
+Optional components: relevant accessories e.g.gas hoses, cables
 
 ### Contact Information
 N.A.

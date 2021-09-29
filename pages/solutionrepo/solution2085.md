@@ -1,15 +1,15 @@
 ---
-title: Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
+title: KNOW Version 5 - Ultimate Package (up to 300 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2085
 ---
 
 ### Description
 
-201542782M
+Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-16300
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

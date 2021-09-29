@@ -1,11 +1,11 @@
 ---
-title: Automatic devices for measuring or estimating the number of fish at a waterbody in a period. 
+title: Automated Fish Counter/ Fish Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 
 ### Description
 
-
+Automatic devices for measuring or estimating the number of fish at a waterbody in a period. 
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

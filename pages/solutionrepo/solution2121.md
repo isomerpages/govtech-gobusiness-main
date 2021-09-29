@@ -1,11 +1,11 @@
 ---
-title: Egg pack printing system or pack labelling system which allow the user to fully customize their label.
+title: Automatic egg case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 
 ### Description
 
-
+Egg pack printing system or pack labelling system which allow the user to fully customize their label.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

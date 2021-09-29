@@ -1,15 +1,15 @@
 ---
-title: Voted as one of the best HRMS vendors by the Human Resource community, Unit4 has accumulated deep knowledge in developing and providing human resource software solutions and services. Its unique system, the Prosoft HRMS, is smart, flexible and easily integrated. It is widely regarded as an asset to human resource management and fulfills local and regional manpower management needs for many clients.
+title: Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft150 (For 150 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1581
 ---
 
 ### Description
 
-201313892N
+Voted as one of the best HRMS vendors by the Human Resource community, Unit4 has accumulated deep knowledge in developing and providing human resource software solutions and services. Its unique system, the Prosoft HRMS, is smart, flexible and easily integrated. It is widely regarded as an asset to human resource management and fulfills local and regional manpower management needs for many clients.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-42600
+Subscription / Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.enablegroup.com.sg<br>Contact Hotline: 68718801<br>Contact Email:clientservices@enablegroup.com.sg
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

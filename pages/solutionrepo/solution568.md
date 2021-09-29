@@ -1,15 +1,19 @@
 ---
-title: Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's internal HR processes to determine HR services that can be best outsourced. Besides, they provide HR Administrative support and payroll processing via a HRMS including employee data storage, attendance and leave, payroll and claims modules.    
+title: Human Resource Shared Services (HRSS) - Basic Package 3 (101 to 150 staff)
 permalink: /productivity-solutions-grant/solutionrepo/solution568
 ---
 
 ### Description
 
-201220461M
+Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's internal HR processes to determine HR services that can be best outsourced. Besides, they provide HR Administrative support and payroll processing via a HRMS including employee data storage, attendance and leave, payroll and claims modules.
+
+
+
+
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Lee_Wenyong_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Lee Wenyong & Co. Holdings Pte.. Ltd.<br>www.leewenyong.com<br>Email: me@leewenyong.com<br>Tel: +65 6988 6999
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

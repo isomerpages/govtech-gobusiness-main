@@ -1,11 +1,11 @@
 ---
-title: Fish cultivation system with monitoring and control system
+title: Culture Tank System with Water Monitoring and Control System
 permalink: /productivity-solutions-grant/solutionrepo/solution2129
 ---
 
 ### Description
 
-
+Fish cultivation system with monitoring and control system
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.

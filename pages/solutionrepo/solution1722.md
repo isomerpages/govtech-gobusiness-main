@@ -1,15 +1,15 @@
 ---
-title: Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
+title: BOTG Version 1.0 - Professional 
 permalink: /productivity-solutions-grant/solutionrepo/solution1722
 ---
 
 ### Description
 
-201819295R
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-$9600.00
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg/<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

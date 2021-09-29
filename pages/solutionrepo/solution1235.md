@@ -1,15 +1,17 @@
 ---
-title: King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.  As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
+title: King Of Time Version 1 - Up to 150 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1235
 ---
 
 ### Description
 
-201510137H
+King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.
+
+As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hotline: 66908821 <br>Contact Email: hello@huubap.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

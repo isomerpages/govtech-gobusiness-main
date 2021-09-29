@@ -1,15 +1,16 @@
 ---
-title: Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.    Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
+title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 2 - (Up to 3 concurrent users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1515
 ---
 
 ### Description
 
-201425638H
+Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
+Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-11000
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

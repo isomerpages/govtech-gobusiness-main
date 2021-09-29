@@ -1,15 +1,15 @@
 ---
-title: CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+title: Job Redesign Consultancy - CET Global Pte Ltd 
 permalink: /productivity-solutions-grant/solutionrepo/solution1728
 ---
 
 ### Description
 
-201404397W
+CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
@@ -28,16 +28,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to Additional criteria: All participating companies must have at least three local employees at the point of application% for non-SMEs
+Up to 80% for non-SMEs
 
 ### Things to Note
-N.A.
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-N.A.
+Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Email: Ms Berenice Choong (Berenice.choong@cetglobal.com.sg)<br>Contact Number: 69291564 (Mobile: 9106 0005)
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

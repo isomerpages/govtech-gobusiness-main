@@ -1,15 +1,15 @@
 ---
-title: Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+title: Managed Firewall - Sophos XG 210 EnterpriseGuard with Enhanced Support - 12 Months 
 permalink: /productivity-solutions-grant/solutionrepo/solution2258
 ---
 
 ### Description
 
-201504939N
+Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3194
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.netpluz.asia <br>Contact Hotline: 68058998 <br>Contact Email: contact@netpluz.asia <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

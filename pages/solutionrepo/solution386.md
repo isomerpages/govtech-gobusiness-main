@@ -1,10 +1,15 @@
 ---
-title: Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.  The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time.   Grant support 80% of cost of equipment, up to $30,000 grant 
+title: Dough Sheeter
 permalink: /productivity-solutions-grant/solutionrepo/solution386
 ---
 
 ### Description
 
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 
 ### Details of Solution
@@ -24,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to - Thickness of resulting dough should be adjustable 
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+- Thickness of resulting dough should be adjustable 
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
 N.A.

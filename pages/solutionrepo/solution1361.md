@@ -1,15 +1,15 @@
 ---
-title: EZ Accounting and Inventory Management System started since 1999 developed by EZ Accounting based in Singapore. It is able to generate all accounting reporting such as Profit and Loss, GST report, project reporting and also full set of Inventory Management System to compute stock costing and location stock details.
+title: EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE v10.1 - UNLIMITED USERS
 permalink: /productivity-solutions-grant/solutionrepo/solution1361
 ---
 
 ### Description
 
-200601747E
+EZ Accounting and Inventory Management System started since 1999 developed by EZ Accounting based in Singapore. It is able to generate all accounting reporting such as Profit and Loss, GST report, project reporting and also full set of Inventory Management System to compute stock costing and location stock details.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-13473
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:USER BASIC SOFTWARE PTE LTD <br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

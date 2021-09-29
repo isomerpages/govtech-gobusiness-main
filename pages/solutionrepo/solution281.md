@@ -1,15 +1,15 @@
 ---
-title: Carbonate HR is a web and mobile application based HR management system that focuses on helping SME schedule their employees, track attendance and pay staff quickly.
+title: Carbonate HR Version 1.0- Package (Ultimate 50)
 permalink: /productivity-solutions-grant/solutionrepo/solution281
 ---
 
 ### Description
 
-201904063K
+Carbonate HR is a web and mobile application based HR management system that focuses on helping SME schedule their employees, track attendance and pay staff quickly.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-9850
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<br>Tel: +65 6797 6787
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

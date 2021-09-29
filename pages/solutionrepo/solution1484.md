@@ -1,15 +1,15 @@
 ---
-title: OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
+title: OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution1484
 ---
 
 ### Description
 
-200207681Z
+OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-1149920
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. % for non-SMEs
+Up to 30% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 ### Contact Information
-N.A.
+Company Name: Wolters Kluwer Financial Services Singapore Pte Ltd<br>Web URL: www.wolterskluwerfs.com<br>Contact Hotline: 63808000<br>Contact Email: Anurag.Seth@wolterskluwer.com<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

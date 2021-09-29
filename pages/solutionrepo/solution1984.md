@@ -1,15 +1,17 @@
 ---
-title: Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.  The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
+title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1984
 ---
 
 ### Description
 
-200508264R
+Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
+
+The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-30000
+Subscription / Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

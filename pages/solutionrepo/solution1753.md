@@ -1,15 +1,15 @@
 ---
-title: The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
+title: iCoreSpec - Single User (Full Suite)
 permalink: /productivity-solutions-grant/solutionrepo/solution1753
 ---
 
 ### Description
 
-201540114E
+The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5600
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.inpqs.com <br>Contact Hotline: 62260881 <br>Contact Email: sales@inpqs.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

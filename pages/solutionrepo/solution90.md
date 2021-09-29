@@ -1,11 +1,13 @@
 ---
-title: The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process.   Grant support 80% of cost of equipment, up to $15,000 grant
+title: Power Jack for Steel Plates Adjustment (Perpendicular)
 permalink: /productivity-solutions-grant/solutionrepo/solution90
 ---
 
 ### Description
 
+The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
 
+Grant support: 80% of cost of equipment, up to $15,000 grant
 
 ### Details of Solution
 
@@ -24,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
-Up to Hydraulic capacity: Min. 5 tonnes
-Maintenance costs not supported
-Optional components: relevant accessories e.g. pump, hydraulic hose% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Active
+Hydraulic capacity: Min. 5 tonnes
+Maintenance costs not supported
+Optional components: relevant accessories e.g. pump, hydraulic hose
 
 ### Contact Information
 N.A.

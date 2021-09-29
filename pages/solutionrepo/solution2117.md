@@ -1,11 +1,11 @@
 ---
-title: Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
+title: Automated Fish Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 
 ### Description
 
-
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
 Up to 50% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
 N.A.
