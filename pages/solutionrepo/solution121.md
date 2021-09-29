@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-­$43,980.00 
+43980
 
 ### Support Level
 Up to % for SMEs <br>
