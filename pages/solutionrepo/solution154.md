@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier Version 23-Package E Advanced with E-Invoicing (5-Users)
+title: Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
 permalink: /productivity-solutions-grant/solutionrepo/solution154
 ---
 
 ### Description
 
-Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
+53226122D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedApscomAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+$6,000.00
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:APSCOM SOLUTIONS <br>Web URL:www.apscomsolutions.com <br>Contact Hotline:97206813 <br>Contact Email:carol.kok@apscomsolutions.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan E
+title: Sleek provides fully digital, secure and hassle-free HR admin & payroll services for SMEs and Startups in Singapore. Sleek's HR service covers everything that a growing SME will need from monthly payroll reporting (including payslips), leave management, employee expenses submission and tracking, annual IR8A preparation, IR21 Tax Clearance, Central Provident Fund (CPF) submissions and Skills Development Levy (SDL) processing all delivered through a user-friendly and digital experience.
 permalink: /productivity-solutions-grant/solutionrepo/solution1683
 ---
 
 ### Description
 
-Sleek provides fully digital, secure and hassle-free HR admin & payroll services for SMEs and Startups in Singapore. Sleek's HR service covers everything that a growing SME will need from monthly payroll reporting (including payslips), leave management, employee expenses submission and tracking, annual IR8A preparation, IR21 Tax Clearance, Central Provident Fund (CPF) submissions and Skills Development Levy (SDL) processing all delivered through a user-friendly and digital experience.
+201708433H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+1401.87
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

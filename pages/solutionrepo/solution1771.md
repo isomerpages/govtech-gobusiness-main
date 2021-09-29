@@ -1,15 +1,15 @@
 ---
-title: SAP BUSINESS ONE V10 -  5 Perpetual Professional users Hana on Cloud
+title: SAP Business One is an integrated business management application. It offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics, which address the business management needs of your entire company. It helps businesses like yours manage the entire process of selling and servicing clients, and once orders are taken, they flow directly into automated fulfillment.
 permalink: /productivity-solutions-grant/solutionrepo/solution1771
 ---
 
 ### Description
 
-SAP Business One is an integrated business management application. It offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics, which address the business management needs of your entire company. It helps businesses like yours manage the entire process of selling and servicing clients, and once orders are taken, they flow directly into automated fulfillment.
+198000012M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_World_Management_Annex_3_CR_wef_9_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+49900
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

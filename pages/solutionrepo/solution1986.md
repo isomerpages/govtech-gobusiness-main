@@ -1,11 +1,11 @@
 ---
-title: Automatic Shrink Wrap Packaging Machine
+title: Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 permalink: /productivity-solutions-grant/solutionrepo/solution1986
 ---
 
 ### Description
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+
 
 ### Details of Solution
 
@@ -24,14 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to For SMEs: 80 of cost of equipment, up to $30,000 grant per unit.% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Specifications:
+Up to % for SMEs <br>
+Up to Specifications:
 - Able to pack products in round or odd shapes.
 - Must be able to run shrinking polyolefin films.
 - Min. output capacity of 15 metres per minute.
@@ -40,7 +37,10 @@ Specifications:
 
 -Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 -No change in vendor allowed
--The purchase of pre-owned/used equipment is not supportable
+-The purchase of pre-owned/used equipment is not supportable% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

@@ -1,16 +1,15 @@
 ---
-title: AutoCount Accounting - AutoCount Accounting Basic V2.0 ( 1 User)
+title: Since being established in 1996, AutoCount has grown into the TOP SME brands, serving more than 180,000 SMEs across the region. AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. Flexibility, expandability, and ease-to-use are the features we develop, you can be assured of when your business grows, we able to sustain your development needs. 
 permalink: /productivity-solutions-grant/solutionrepo/solution187
 ---
 
 ### Description
 
-Since being established in 1996, AutoCount has grown into the TOP SME brands, serving more than 180,000 SMEs across the region. AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. Flexibility, expandability, and ease-to-use are the features we develop, you can be assured of when your business grows, we able to sustain your development needs.
-
+201713604G
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+4500
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountsoft.com<br>Tel:+65 8321 9689
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

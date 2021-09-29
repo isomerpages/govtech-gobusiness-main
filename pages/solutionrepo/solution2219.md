@@ -1,15 +1,15 @@
 ---
-title: QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package
+title: Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accounting solution to help your business with accurate accounting, reconciliation and invoice management. Access your accounts in real-time, anytime and anywhere with our market-leading professional suite of solutions.
 permalink: /productivity-solutions-grant/solutionrepo/solution2219
 ---
 
 ### Description
 
-Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accounting solution to help your business with accurate accounting, reconciliation and invoice management. Access your accounts in real-time, anytime and anywhere with our market-leading professional suite of solutions.
+201809937E
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+2980
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: matthew@tischglobal.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

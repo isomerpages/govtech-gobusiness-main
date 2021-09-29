@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central - Package B (PEPPOL e-invoicing-15 Perpetual Licences)
+title: Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
 permalink: /productivity-solutions-grant/solutionrepo/solution1540
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
+200615630E
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex 3_CR wef_26_August_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+77555.68
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name: Winspire Solutions Pte Ltd<br>Web URL: www.winspiresolutions.com<br>Contact Hotline: 67440324<br>Contact Email: jkulkarni@winspiresolutions.com
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

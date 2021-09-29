@@ -1,15 +1,15 @@
 ---
-title: Creative Eshop - Package (Pro)
+title: Creative eShop is e-commerce platform which enable users to manage their online content, business transaction, marketing outreach to potential customers with optimal shopping experience. Equipped with a user friendly interface, user can easily utilise the platform without much IT knowledge.
 permalink: /productivity-solutions-grant/solutionrepo/solution316
 ---
 
 ### Description
 
-Creative eShop is e-commerce platform which enable users to manage their online content, business transaction, marketing outreach to potential customers with optimal shopping experience. Equipped with a user friendly interface, user can easily utilise the platform without much IT knowledge.
+200200017N
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+13800
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857<br>Contact Email: enquiry@creaworld.com.sg
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

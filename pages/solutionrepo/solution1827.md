@@ -1,17 +1,15 @@
 ---
-title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
+title: At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value.   We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
 permalink: /productivity-solutions-grant/solutionrepo/solution1827
 ---
 
 ### Description
 
-At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
-
-We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
+199707499N
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -35,15 +33,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+Up to Additional criteria: All participating companies must have at least three local employees at the point of application% for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+N.A.
 
 ### Contact Information
-Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
+N.A.
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

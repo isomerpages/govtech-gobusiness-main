@@ -1,15 +1,15 @@
 ---
-title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro
+title: Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQCOMS' Managed Security Service delivers operationally simple instant pre-breach proactive protection against the most sophisticated cyberattacks immediately, efficiently, and absolutely like no other. Combined with our 24x7 monitoring center, we provide businesses with round-the-clock visibility on the security of their machines.
 permalink: /productivity-solutions-grant/solutionrepo/solution2001
 ---
 
 ### Description
 
-Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQCOMS' Managed Security Service delivers operationally simple instant pre-breach proactive protection against the most sophisticated cyberattacks immediately, efficiently, and absolutely like no other. Combined with our 24x7 monitoring center, we provide businesses with round-the-clock visibility on the security of their machines.
+200102135C
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+2800
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.eqcoms.com <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

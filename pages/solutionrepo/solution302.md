@@ -1,13 +1,11 @@
 ---
-title: Vacuum Packing and Sealing Machine
+title: The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap loaded into the vacuum chambers, the product will be vacuum sealed The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal.  It is recommended for the equipment to have a digital interface for ease of use
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
 ### Description
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap loaded into the vacuum chambers, the product will be vacuum sealed
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
-It is recommended for the equipment to have a digital interface for ease of use
+
 
 ### Details of Solution
 
@@ -26,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Minimum vacuum chamber surface area (Length x Width) of 2184cm2% for non-SMEs
 
 ### Things to Note
-Minimum vacuum chamber surface area (Length x Width) of 2184cm2
+Active
 
 ### Contact Information
 N.A.

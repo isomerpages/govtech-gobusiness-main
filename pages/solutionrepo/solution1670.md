@@ -1,15 +1,15 @@
 ---
-title: iFoundries E-commerce Jump Start Package Version 1 - Premium
+title: The amount of trade conducted electronically in Singapore and globally has already grown tremendously with the wide-spread of Internet usage. Those who have viewed e-commerce as a secondary channel now need to re-orient every aspect of their business towards a e-commerce mindset. There exists an opportunity to double-down on e-commerce, augmenting existing offerings and creating new lines of product with our E-commerce Jump Start solutions.
 permalink: /productivity-solutions-grant/solutionrepo/solution1670
 ---
 
 ### Description
 
-The amount of trade conducted electronically in Singapore and globally has already grown tremendously with the wide-spread of Internet usage. Those who have viewed e-commerce as a secondary channel now need to re-orient every aspect of their business towards a e-commerce mindset. There exists an opportunity to double-down on e-commerce, augmenting existing offerings and creating new lines of product with our E-commerce Jump Start solutions.
+200500323W
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+12000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.ifoundries.com <br>Contact Hotline: 96246245<br>Contact Email: web-enquiry@ifoundries.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

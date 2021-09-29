@@ -1,19 +1,15 @@
 ---
-title: Xero - Premier with Set-Up and Training 
+title: Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.    Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.    Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
 permalink: /productivity-solutions-grant/solutionrepo/solution1802
 ---
 
 ### Description
 
-Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
-
-Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
-
-Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
+197500695G
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+3896
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,21 +1,11 @@
 ---
-title: Automated tools management system
+title: Centralized tool storage, dispensing & inventory management (IM) system with 2 key components   1) Smart IM software  Monitors tool inventory, stock level & consumption rate; and  With customizable option to link to ERP or supplier online automated ordering process; and;  Controls the issuing of tools per user's security access level  2) Tool dispensing hardware Hardware can be in the form of a drawer or coil vending system.    Grant support 80% of cost of equipment, up to $22,400 grant
 permalink: /productivity-solutions-grant/solutionrepo/solution2040
 ---
 
 ### Description
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
 
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Grant support: 80% of cost of equipment, up to $22,400 grant
 
 ### Details of Solution
 
@@ -34,20 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
+Up to % for SMEs <br>
+Up to Unit is expandable, customizable to hold different types of tools, and fully secured. 
 
 Support only hardware and software.
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+- The purchase of pre-owned/used equipment is not supportable.% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

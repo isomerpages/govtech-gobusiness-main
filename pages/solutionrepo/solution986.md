@@ -1,15 +1,15 @@
 ---
-title: FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (4 Vehicles)
+title: FocusGuard Fleet Management System is designed as the process of controlling, monitoring and tracking all the vehicles. Locate vehicles using detailed maps round the clock. Access the web-based fleet management portal or Mobile App to view real time location and information of the vehicles and generate up-to-date reports.
 permalink: /productivity-solutions-grant/solutionrepo/solution986
 ---
 
 ### Description
 
-FocusGuard Fleet Management System is designed as the process of controlling, monitoring and tracking all the vehicles. Locate vehicles using detailed maps round the clock. Access the web-based fleet management portal or Mobile App to view real time location and information of the vehicles and generate up-to-date reports.
+200820049M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+4800
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:FocusGuard Pte Ltd <br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

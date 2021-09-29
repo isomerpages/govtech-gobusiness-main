@@ -1,15 +1,15 @@
 ---
-title: BIMAGE - Autodesk AEC Collection - 1 Year AEC (1 Day training)
+title: Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
 permalink: /productivity-solutions-grant/solutionrepo/solution1212
 ---
 
 ### Description
 
-Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
+201014126M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+$3,990.00
 
 ### Support Level
-Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

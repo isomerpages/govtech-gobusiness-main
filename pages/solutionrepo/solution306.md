@@ -1,15 +1,15 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0 -Express E-Commerce Website Development Package
+title: Extend your business online and generate higher sales revenue with our scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
 permalink: /productivity-solutions-grant/solutionrepo/solution306
 ---
 
 ### Description
 
-Extend your business online and generate higher sales revenue with our scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
+201701817K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+6000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Corsiva Lab Pte Ltd <br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

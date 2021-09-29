@@ -1,15 +1,15 @@
 ---
-title: A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan B
+title: Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
 permalink: /productivity-solutions-grant/solutionrepo/solution1568
 ---
 
 ### Description
 
-Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
+201708433H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+672.9
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

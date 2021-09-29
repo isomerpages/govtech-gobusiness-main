@@ -1,15 +1,15 @@
 ---
-title: FingerBooth POS System Version 1 - POS System Pro + Online Appointment
+title: FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 
 ### Description
 
-FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
+201204044K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+16800
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

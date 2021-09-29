@@ -1,15 +1,15 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 MOBILE
+title: BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer/inventory management. Daily sales operation are equipped with many promotions/discount setup abilities, this software also bundles with membership features to monitor customers spending, rewards and redemption. The inventory features will track each stocks in and out of the store and report balance of the stock quantities.
 permalink: /productivity-solutions-grant/solutionrepo/solution1083
 ---
 
 ### Description
 
-BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer/inventory management. Daily sales operation are equipped with many promotions/discount setup abilities, this software also bundles with membership features to monitor customers spending, rewards and redemption. The inventory features will track each stocks in and out of the store and report balance of the stock quantities.
+200709074D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+4800
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Coobiz IT Solutions Pte Ltd <br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

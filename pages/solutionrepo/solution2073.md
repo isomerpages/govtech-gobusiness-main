@@ -1,11 +1,11 @@
 ---
-title: Automated Labelling Machine 
+title: The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 permalink: /productivity-solutions-grant/solutionrepo/solution2073
 ---
 
 ### Description
 
-The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+
 
 ### Details of Solution
 
@@ -24,14 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-- Minimum 1 labelling position 
+Up to % for SMEs <br>
+Up to - Minimum 1 labelling position 
 - Auto self-adhesive labelling function 
 - Parameter setting for different label sizes
 - Adjustable production speed minimum 1-30 Metre /min
@@ -40,7 +37,10 @@ N.A. for non-SMEs
 - Installation/simple training costs can be supported 
 - Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
 
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

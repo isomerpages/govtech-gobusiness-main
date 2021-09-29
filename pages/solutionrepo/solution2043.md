@@ -1,15 +1,15 @@
 ---
-title: NetQ Management System - NetQ Management System(include hardware and SMS notification)
+title: Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
 permalink: /productivity-solutions-grant/solutionrepo/solution2043
 ---
 
 ### Description
 
-Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
+200815649D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+10060
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact Email: sales@arrowlogic.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

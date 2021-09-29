@@ -1,15 +1,10 @@
 ---
-title: Smart Cabinet
+title: The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.  Grant Support  Direct Purchase 80% of cost of equipment, up to $21,000 grant  Subscription/Leasing 80% of cost of equipment, up to $8,000/unit/year 
 permalink: /productivity-solutions-grant/solutionrepo/solution753
 ---
 
 ### Description
 
-The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
-
-Grant Support: 
-Direct Purchase: 80% of cost of equipment, up to $21,000 grant 
-Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
 
 
 ### Details of Solution
@@ -29,20 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase,Subscription / Leasing
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Mandatory Specification
+Up to % for SMEs <br>
+Up to Mandatory Specification
 - Access controlled and tracked with RFID or other relevant technology
 - Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
 - Hardware must be linked with a software/ERP system to access the logs and inventory information
 
 Installation and maintenance fee are not supportable.
-?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

@@ -1,15 +1,15 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4-Package (Custom Data Loading)
+title: AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 
 ### Description
 
-AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+201009353K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,17 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+757000
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. % for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+N.A.
 
 ### Contact Information
-Company Name: AxiomSL Pte Ltd<br>Web URL: www.axiomsl.com<br>Contact Hotline: 69557660<br>Contact Email: sdatta@axiomsl.com<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

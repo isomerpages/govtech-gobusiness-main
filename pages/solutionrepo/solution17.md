@@ -1,12 +1,11 @@
 ---
-title: Automated Noodle Boiler
+title: The automated noodle boiler automates the noodle cooking process. Grant support 80% of cost of equipment, up to $8,000 grant
 permalink: /productivity-solutions-grant/solutionrepo/solution17
 ---
 
 ### Description
 
-The automated noodle boiler automates the noodle cooking process.
-Grant support: 80% of cost of equipment, up to $8,000 grant
+
 
 ### Details of Solution
 
@@ -25,21 +24,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Min Specifications: 
+Up to % for SMEs <br>
+Up to Min Specifications: 
 - Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings
 - Digital timer: Each basket is programmed according to its own set timing.
 
 Min Capacity: 
 - 3 noodle baskets
 
-The purchase of pre-owned/used equipment is not supportable.
+The purchase of pre-owned/used equipment is not supportable.% for non-SMEs
+
+### Things to Note
+Active
 
 ### Contact Information
 N.A.

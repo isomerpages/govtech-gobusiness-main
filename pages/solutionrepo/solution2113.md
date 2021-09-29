@@ -1,11 +1,11 @@
 ---
-title: Wireless Tour Guide System 
+title: Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 
 ### Description
 
-Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
+
 
 ### Details of Solution
 
@@ -24,17 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-Up to 60% for non-SMEs
-
-### Things to Note
-Operating time of >15 hours and talk range of 100-200 meters. 
+Up to 60% for SMEs <br>
+Up to Operating time of >15 hours and talk range of 100-200 meters. 
 
 Additional criteria for SMEs: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
+
+### Things to Note
+N.A.
 
 ### Contact Information
 N.A.

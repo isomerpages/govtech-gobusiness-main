@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version SAAS-Growing Enterprise
+title: Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
 permalink: /productivity-solutions-grant/solutionrepo/solution1396
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for: Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
+201608167D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Illum_20200074_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+34450
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

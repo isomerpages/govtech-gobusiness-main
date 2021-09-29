@@ -1,16 +1,15 @@
 ---
-title: Deskera ERP Version 9.0/10.1- Package B (SaaS - 5 users)
+title: Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution. From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
 permalink: /productivity-solutions-grant/solutionrepo/solution354
 ---
 
 ### Description
 
-Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
-From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
+200820807R
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

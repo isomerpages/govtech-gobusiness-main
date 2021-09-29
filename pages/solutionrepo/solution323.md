@@ -1,15 +1,15 @@
 ---
-title: CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)
+title: Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
 permalink: /productivity-solutions-grant/solutionrepo/solution323
 ---
 
 ### Description
 
-Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
+201808241N
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+10110
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Ctrl Alt Del Pte Ltd<br>www.cad.sg<br>Email: business@cad.sg<br>Tel: +65 9859 7714
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

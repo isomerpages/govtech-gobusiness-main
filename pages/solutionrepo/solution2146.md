@@ -1,11 +1,11 @@
 ---
-title: Pelleting Machine
+title: Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 permalink: /productivity-solutions-grant/solutionrepo/solution2146
 ---
 
 ### Description
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

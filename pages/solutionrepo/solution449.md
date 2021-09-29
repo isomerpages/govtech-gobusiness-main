@@ -1,15 +1,15 @@
 ---
-title: HRM Human Resource Management System - HRM Labs Basic Package (75)
+title: HRMLABS helps to digitalize the manual process of HR administrative data with ease of access to the centralized information. The base modules cover the Dashboard, Employee Management, Leave Management, Benefits & Claims Management, Payroll Management, Contract Management, Attendance Management and Performance Appraisal Management.
 permalink: /productivity-solutions-grant/solutionrepo/solution449
 ---
 
 ### Description
 
-HRMLABS helps to digitalize the manual process of HR administrative data with ease of access to the centralized information. The base modules cover the Dashboard, Employee Management, Leave Management, Benefits & Claims Management, Payroll Management, Contract Management, Attendance Management and Performance Appraisal Management.
+201512065D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-HRM Labs Pte Ltd<br>www.hrmlabs.com<br>Email: contact@hrmlabs.com<br>Tel: +65 9025 5587
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

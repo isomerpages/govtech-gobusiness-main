@@ -1,11 +1,11 @@
 ---
-title: Vegetable Washing Machine
+title: A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
 ### Description
 
-A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

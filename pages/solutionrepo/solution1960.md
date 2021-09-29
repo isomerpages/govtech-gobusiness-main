@@ -1,11 +1,11 @@
 ---
-title: Auto Welding Carriage
+title: Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
 permalink: /productivity-solutions-grant/solutionrepo/solution1960
 ---
 
 ### Description
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+
 
 ### Details of Solution
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Adjustable arm torch angle
+Maintenance not included
+Communication to link multiple sets (optional)% for non-SMEs
 
 ### Things to Note
-Adjustable arm torch angle
-Maintenance not included
-Communication to link multiple sets (optional)
+Active
 
 ### Contact Information
 N.A.

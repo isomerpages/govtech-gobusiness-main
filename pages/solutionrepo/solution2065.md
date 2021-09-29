@@ -1,16 +1,15 @@
 ---
-title: Revel Systems - Revel Essentials - Lite
+title: Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease.  The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
 permalink: /productivity-solutions-grant/solutionrepo/solution2065
 ---
 
 ### Description
 
-Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+201533706M
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+4106
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

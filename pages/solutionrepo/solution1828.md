@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+title: Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 permalink: /productivity-solutions-grant/solutionrepo/solution1828
 ---
 
 ### Description
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+198901141D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,15 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+Up to Additional criteria: All participating companies must have at least three local employees at the point of application% for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+N.A.
 
 ### Contact Information
-Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ <br>Contact Email: Ishita.goel2@aon.com <br>Contact Number: 8165 7647
+N.A.
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

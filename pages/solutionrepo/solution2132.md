@@ -1,11 +1,11 @@
 ---
-title: Egg Collection Systems
+title: Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
 permalink: /productivity-solutions-grant/solutionrepo/solution2132
 ---
 
 ### Description
 
-Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

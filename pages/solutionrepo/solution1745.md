@@ -1,18 +1,15 @@
 ---
-title: IamTreked Version 3.13 - IamTreked Package 4 - 40 vehicles
+title: Iamtreked 3.13 is the latest version of our Fleet Management Solutions In addition to the ordinary vehicle tracking and fleet management functions, we have included tracking and management of assets such as trailers, power generators, etc.  Inputs from multiple sensors (e.g. temperature sensor) have also been incorporated.  Many advanced alerts and events have also been added to inform the users on the performance and activities of their assets and sensor readings that are being tracked
 permalink: /productivity-solutions-grant/solutionrepo/solution1745
 ---
 
 ### Description
 
-Iamtreked 3.13 is the latest version of our Fleet Management Solutions
-In addition to the ordinary vehicle tracking and fleet management functions, we have included tracking and management of assets such as trailers, power generators, etc.  Inputs from multiple sensors (e.g. temperature sensor) have also been incorporated.
-
-Many advanced alerts and events have also been added to inform the users on the performance and activities of their assets and sensor readings that are being tracked
+201018694W
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zonje_20200139_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -27,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+26400
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.iamtreked.com <br>Contact Hotline: 63396535 <br>Contact Email: tdepot@iamtreked.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

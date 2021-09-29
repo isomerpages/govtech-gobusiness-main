@@ -1,11 +1,11 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: A system for wastewater treatment to improve the water quality before the water is reused or discharged. 
 permalink: /productivity-solutions-grant/solutionrepo/solution2156
 ---
 
 ### Description
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged. 
+
 
 ### Details of Solution
 
@@ -24,11 +24,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
 Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

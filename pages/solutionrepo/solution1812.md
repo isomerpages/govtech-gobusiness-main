@@ -1,15 +1,15 @@
 ---
-title: Smart Management Tracking System II - Starter Package
+title: Tunity Smart Management Tracking System II (SMTS II) is a smart inventory management system that uses the RFID technology. With the RFID tag on each item, we are able to give every object its own identity so as to track the item for visibility, traceability, connectivity and accountability.  Users of the SMTS II System can perform their daily operations easily with the handheld scanner and software application and at the same time experience the digitalization of their operation.
 permalink: /productivity-solutions-grant/solutionrepo/solution1812
 ---
 
 ### Description
 
-Tunity Smart Management Tracking System II (SMTS II) is a smart inventory management system that uses the RFID technology. With the RFID tag on each item, we are able to give every object its own identity so as to track the item for visibility, traceability, connectivity and accountability.  Users of the SMTS II System can perform their daily operations easily with the handheld scanner and software application and at the same time experience the digitalization of their operation.
+200300277D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+16000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact Email: enquiries@tunitytech.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

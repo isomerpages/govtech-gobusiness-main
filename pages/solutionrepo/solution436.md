@@ -1,15 +1,15 @@
 ---
-title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)
+title: A Digital costing platform, for the QS fraternity, whereby measurements of element components indicates geometry with attributes and information required by QS. Providing Detailed & Accurate Quantities during quantification of elements through the consideration of Industry Standard Calculation Rules & Settings based on Singapore Measurement Standards. Bringing a Visual Reality of a 2D Plan Drawing to a 3D Visualization Model.
 permalink: /productivity-solutions-grant/solutionrepo/solution436
 ---
 
 ### Description
 
-A Digital costing platform, for the QS fraternity, whereby measurements of element components indicates geometry with attributes and information required by QS. Providing Detailed & Accurate Quantities during quantification of elements through the consideration of Industry Standard Calculation Rules & Settings based on Singapore Measurement Standards. Bringing a Visual Reality of a 2D Plan Drawing to a 3D Visualization Model.
+201102124D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

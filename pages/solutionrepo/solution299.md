@@ -1,11 +1,11 @@
 ---
-title: Automated Tray Sealer
+title: The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material
 permalink: /productivity-solutions-grant/solutionrepo/solution299
 ---
 
 ### Description
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material
+
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Minimum 400 trays per hour% for non-SMEs
 
 ### Things to Note
-Minimum 400 trays per hour
+Active
 
 ### Contact Information
 N.A.

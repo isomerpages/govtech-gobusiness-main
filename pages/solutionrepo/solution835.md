@@ -1,15 +1,15 @@
 ---
-title: Synergix E1 Sales & Accounting- Package (10 users with PEPPOL) - TH6
+title: Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking. 
 permalink: /productivity-solutions-grant/solutionrepo/solution835
 ---
 
 ### Description
 
-Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking. 
+199609132G
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+72740
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier Version 23.0 - Package A (Single User Licence full package)
+title: ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
 permalink: /productivity-solutions-grant/solutionrepo/solution133
 ---
 
 ### Description
 
-ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
+200918692D
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+2750
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

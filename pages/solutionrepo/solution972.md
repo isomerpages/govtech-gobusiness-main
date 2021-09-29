@@ -1,16 +1,15 @@
 ---
-title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Multi Location)
+title: ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order.  For Distributor or Retailers, there are functions that enable them to track their Inventory levels before placing reorder with their suppliers.  This enables them to keep warehousing and storage cost low. 
 permalink: /productivity-solutions-grant/solutionrepo/solution972
 ---
 
 ### Description
 
-ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order.  For Distributor or Retailers, there are functions that enable them to track their Inventory levels before placing reorder with their suppliers.  This enables them to keep warehousing and storage cost low.
-
+201206718K
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+15000
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Active
 
 ### Contact Information
-Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.com<br>Tel: +65 6745 0866
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

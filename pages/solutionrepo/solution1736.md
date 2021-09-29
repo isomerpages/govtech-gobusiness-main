@@ -1,28 +1,15 @@
 ---
-title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50
+title: HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes 1. HRSS via Frontier e-HR Personnel Management Leave Module Mobile Attendance Module Payroll Module Benefit and Claim Module 2. HR Admin Support & Payroll Processing Process Leave encashment & No Pay Leave via Payroll Process Claim Reimbursement Prepare Payroll reports for approval Prepare GIRO bank file for approval Prepare CPF file and submit to CPF Website One Payroll process run per month
 permalink: /productivity-solutions-grant/solutionrepo/solution1736
 ---
 
 ### Description
 
-HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
-1. HRSS via Frontier e-HR
-Personnel Management
-Leave Module
-Mobile Attendance Module
-Payroll Module
-Benefit and Claim Module
-2. HR Admin Support & Payroll Processing
-Process Leave encashment & No Pay Leave via Payroll
-Process Claim Reimbursement
-Prepare Payroll reports for approval
-Prepare GIRO bank file for approval
-Prepare CPF file and submit to CPF Website
-One Payroll process run per month
+200005018Z
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -37,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+17400
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to % for SMEs <br>
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
