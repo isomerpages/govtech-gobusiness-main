@@ -4,19 +4,17 @@
     - title: These additional measures have impacted my business greatly. How is the Government supporting us?
       content: |
         (i)	Enhanced Jobs Support Scheme (JSS) for affected sectors
-        In view of the continued tightened safe management measures of various activities until mid-July 2021, the Government will extend the current enhancements to the JSS for affected sectors by 3 weeks (starting 21 June) before tapering it down to 10% for the subsequent 2 weeks. Please refer to the [annex](https://www.moh.gov.sg/docs/librariesprovider5/pressroom/press-releases/annex-b-mtf-18-jun.pdf){:target="_blank"}{:rel="noopener"} for more details. 
+        The government will enhance the JSS support to 25% for the period of 27 September 2021 through 24 October 2021 for sectors significantly affected by the tightened measures. These sectors include F&B and retail. Please refer to the [annex](https://www.moh.gov.sg/docs/librariesprovider5/pressroom/press-releases/annex-b-mtf-18-jun.pdf){:target="_blank"}{:rel="noopener"} for more details. 
 
         (ii)	Support to hawkers who are self-employed 
-        To support hawkers and coffeeshop stallholders who are self-employed, the Government will extend the subsidies for fees for table-cleaning and centralized dishwashing services, and will provide rental waivers, till mid-July 2021 for stallholders in centres managed by NEA or NEA-appointed operators.
+        Cooked food and market stallholders in centres managed by the NEA or NEA-appointed operators will receive a 2-week rental waiver. 
 
         (iii)	E-commerce Booster Package
         ESG reintroduced support measure to help affected retail businesses diversify their revenue channels and defray business costs of going online:<br>
         - The E-Commerce Booster Package provides up to 80% support for local retailers to get on-board local e-commerce platforms, and will be available from 16 May 2021 to 16 November 2021.
 
         <u>Rental Support Scheme</u>
-        Rental support for SME of Commercial Properties during two P2HA periods, disbursed by IRAS to qualifying tenants:
-        - Half-month rental relief cash payout (payout from Aug 2021)
-        - Half-month rental relief cash payout (payout from Oct 2021)
+        The Government will provide a 2-week rental waiver for qualifying tenants on Government-owned commercial properties. Qualifying tenant-occupiers and owner-occupiers of privately-owned commercial properties will also be given a 2-week rental relief cash payout under the Rental Support Scheme (RSS). These will offset rent for half the duration of the Stabilisation Phase. More details on the RSS are available from the IRAS website.
 
     - title: Will there be updates on the GoBusiness portal for businesses, e.g. what are the permissible activities?
       content: |
@@ -24,21 +22,25 @@
 
     - title: Am I allowed to operate at full capacity during this time?  Or must we limit work to specific hours or at certain manpower limits?
       content: |
-        From 19 August 2021, up to 50% of employees who are able to work from home are allowed to return to the workplace at any point in time. Employers can consider other arrangements that will meet this requirement, for instance: 
+        Employers must ensure that all employees whose job functions can be performed from home should work from home. For those that are unable to work from home, employers should stagger start times and allow flexible workplace hours. Employees should not be cross deployed to other worksites. 
 
-        -	Divide employees into 2 groups, with 1 group working from home for any given week. 
-        
-        -	Divide employees into 2 groups, with a different group working from home for each day Monday to Thursday, and both groups working from home on Fridays.   
+        Special attention should be paid to vulnerable employees (e.g. older workers, pregnant workers, and those with underlying medical conditions) to enable them to work from home. For these employees, you could consider temporarily redeploying them to another role within the company so that they are able to telecommute or work from home. 
 
     - title: Do I need to send my staff for regular testing? 
       content: |
-        All employees who work at settings with unmasked clients/patron, or where there is prolonged contact between individuals, are required to be placed on a regular Fast and Easy Tests (FET) regime using tests such as antigen rapid tests (ART). These include staff of:
+        All employees who work at settings with unmasked clients/patron, or where there is prolonged contact between individuals, are required to be placed on a regular Fast and Easy Tests Rostered Routine Testing (FET RRT) regime using tests such as antigen rapid tests (ART), regardless of vaccination status. These include: 
 
-        a.  Dine-in F&B establishments; 
-        b.  Personal care services (e.g. nail services, massage establishments, hairdressing); and
-        c.  Gyms and fitness studios where clients are unmasked.
+        a.  All individuals working at F&B establishments providing dine-in services;
+        b.  All last-mile food delivery personnel;
+        c.  Personal care services (e.g. nail services, massage establishments, hairdressing);
+        d.  Gyms and fitness studios where clients are unmasked;
+        e.	<u>All individuals working in malls, large standalone stores and supermarket outlets<sup>1</sup></u>
 
-        The regular FET for staff at these settings is mandatory. From 13 September 2021, the frequency of the FET RRT has been increased to once every 7 days to facilitate the earlier detection and ringfencing of cases. 
+        The above include part-time and full-time employees, third-party contracted staff, and all other workers who <u>work on the premises</u>, e.g. cleaners, contractors, subcontractors, promoters).
+
+        The regular FET for staff in these settings is mandatory. The frequency of the FET is once every 7 days to facilitate the earlier detection of cases.
+
+        <sup>1</sup> This refers to all mall management employees as well as all tenants and vendors who work in the malls, large standalone stores and supermarkets, including those working in office spaces of the shops.
 
     - title: Why do I need to send my staff for regular testing?
       content: |
@@ -46,9 +48,9 @@
 
     - title: What is the cost of getting the antigen rapid tests (ART)?
       content: |
-        For establishments that are placed on mandatory Fast and Easy Tests (FET) regime, the costs for the ART kits and training programmes for supervisors will be borne by the Government until 31 December 2021.
+        For establishments that are placed on mandatory Fast and Easy Tests (FET) regime, the costs for the ART kits and training programmes for employees will be borne by the Government, until 31 December 2021. 
 
-        For those who wish to purchase the ART self-test kits, they are available at all major pharmacies in Singapore, and their retail prices range from $10 to $13 per test kit. Companies can also refer to the list of distributors at [https://www.hsa.gov.sg/consumer-safety/articles//details/covid19_ARTselftests](https://www.hsa.gov.sg/consumer-safety/articles//details/covid19_ARTselftests){:target="_blank"}{:rel="noopener"}. 
+        For those who wish to purchase the ART kits, they are available at all major pharmacies in Singapore.
 
     - title: How do I organise/conduct mandatory testing for my employees?
       content: |
@@ -71,43 +73,28 @@
   data:
     - title: Can F&B establishments allow dine-in options?
       content: |
-        From 10 Aug, F&B establishments are allowed to continue food service operations, with the exceptions of PBND SFA license categories or SSIC codes starting with 5613.
+        F&B establishments are allowed to continue food service operations, with the exception of establishments with Pubs, Bars, Nightclubs, Discos and Karaoke SFA license categories or SSIC codes starting with 5613.
 
-        F&B establishments including food courts are permitted to seat dine-in groups of up to 5 pax with vaccine differentiated SMMs (VDS) in place
+        From 27 September through 24 October 2021, F&B establishments including food courts are only permitted to seat dine-in groups of up to 2 pax with vaccination-differentiated SMMs (VDS) in place
         
         - VDS eligibility criteria are as follows:
+        
+          a.	Fully vaccinated, i.e. has received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines (e.g. Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca-SKBio, Serum Institute of India, Janssen, Sinopharm, Sinovac-CoronaVac) including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records captured in MOH’s national IT systems ; or
 
-          a.  Fully vaccinated, i.e. has received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines (e.g. Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca-SKBio, Serum Institute of India, Janssen, Sinopharm, Sinovac-CoronaVac) including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records captured in MOH’s national IT systems<sup>1</sup> ; or
+          b.	Recovered from COVID-19, i.e. less than 270 days of first positive Polymerase Chain Reaction (PCR) test result obtained in Singapore, and can provide a valid Pre-Event Test (PET) exemption noticefrom an MOH-approved COVID-19 test provider; or
 
-          b.  Recovered from COVID-19, i.e. less than 270 days of first positive Polymerase Chain Reaction (PCR) test result obtained in Singapore, and can provide a valid Pre-Event Test (PET) exemption notice for the duration of his/her dine-in<sup>2</sup> from an MOH-approved COVID-19 test provider; or
+          c.	Have a valid negative PET result  obtained from an MOH-approved COVID-19 test provider in the past 24 hours.
 
-          c.  Have a valid negative PET result for the duration of his/her dine-in<sup>3</sup> obtained from an MOH-approved COVID-19 test provider in the past 24 hours.
+        -	Dine-in is not allowed if any individual does not meet the eligibility criteria above. Allowing this would be an offence.
 
-        - Dine-in is not allowed if any individual within a group of up to 5 persons does not meet the eligibility criteria above. Allowing this would be an offence.
+          Children aged 12 years and below who are unvaccinated are eligible for vaccination-differentiated SMMs and may be included in the group of up to 2 persons. F&B establishments are to ensure that there is no mixing or mingling between different groups.   
 
-        - Children aged 12 years and below who are unvaccinated are eligible for vaccination-differentiated SMMs and may be included in the group of up to 5 persons. If there is more than one such child in the group, all children must be from the same household. F&B establishments are to ensure that there is no mixing or mingling between different groups.   
+        <u>Hawker centres/ coffee shops/ canteens<sup>2</sup></u>
+        -	A special concession will be given to allow vaccinated and unvaccinated customers to dine in these settings, subject to a group size of up to 2 pax.
 
-        Hawker centres/ coffee shops/ canteens
+        **Note**: F&B establishments will need to check their SFA food shop license categories to determine which establishment-type they are e.g. SFA food shop (coffee shops/eating houses), SFA food shop (food courts), SFA food shop (canteens). 
 
-        - A special concession will be given to allow vaccinated and unvaccinated customers to dine in these settings, subject to group sizes of up to 2 pax
-
-        **Note:** F&B establishments will need to check their SFA food shop license categories to determine which establishment-type they are e.g. SFA food shop (coffee shops/eating houses), SFA food shop (food courts), SFA food shop (canteens). This concession only applies to establishments with a SFA food shop license for coffeeshop, eating house or canteen **and** are not substantially enclosed by a permanent barrier.
-
-        <sup>1</sup> Please refer to [MOH’s Post Vaccination Matters website](http://www.moh.gov.sg/covid-19/vaccination/faqs/faqs---post-vaccination-matters){:target="_blank"}{:rel="noopener"} for more information.
-
-        <sup>2</sup> Recovered individuals can obtain a PET Exemption Notice from any clinic offering ART or PCR testing services.  Refer to [go.gov.sg/swabproviders](https://go.gov.sg/swabproviders){:target="_blank"}{:rel="noopener"} for the list of MOH-approved COVID-19 test providers.
-
-        <sup>3</sup> Unvaccinated individuals aged 13 or above must have a valid negative ART or PCR result from an MOH-approved COVID-19 test provider within the last 24 hours. Refer to [go.gov.sg/swabproviders](https://go.gov.sg/swabproviders){:target="_blank"}{:rel="noopener"} for the list of MOH-approved COVID-19 test providers. Self-administered ART supervised by employer and self-administered ART results are not recognised for vaccination-differentiated SMMs.
-
-    - title: My operating costs will increase due to the increased demand for takeaway containers. Can the Government help with costs?
-      content: |
-        To help mitigate costs, F&B establishments can encourage customers to bring their own takeaway containers. Some establishments have already started to do so by offering incentives such as a small discount.
-
-    - title: What if we run out of takeaway containers?
-      content: |
-        Singapore has sufficient stock of takeaway containers. Supply chains are open and new stocks are continuing to arrive in Singapore. Local suppliers are also ramping up their production capabilities to prepare to meet the increased demand.
-
-        We encourage everyone to bring their own clean containers when buying food. This will not only help to reduce the amount of waste generated but also ease the demand on disposable containers. In turn, establishments should allow patrons to use their own reusable containers.
+        <sup>2</sup> These refer to F&B establishments with SFA coffeeshop/eating house/canteen licenses that are not substantially enclosed by a permanent barrier. 
 
     - title: Must a food delivery personnel wear a mask at all times?
       content: |
@@ -121,41 +108,33 @@
 
         (i) Non customer-facing events (e.g. conferences, seminars):
 
-          a.  Such events  are subject to a cap of 50 persons or a lower number, depending on venue capacity and safe distancing requirements.
+            a.	Meals should not be the main feature of the event. Employers should also avoid holding events over mealtimes as far as possible. Food and drinks should only be served if incidental to the work-related event (e.g. the meeting or conference extends over lunchtime). In addition, the food must be served in individual portions, and participants must be seated while consuming the food and drinks. Participants should minimise the time that they are unmasked while eating and drinking.
 
-          b.  Meals should not be the main feature. Employers should also avoid holding events over mealtimes as far as possible. Food and drinks should only be served if incidental to the work-related event (e.g. the meeting or conference extends over lunchtime). In addition, the food must be served in individual portions, and participants must be seated while consuming the food and drinks. Participants should minimise the time that they are unmasked while eating and drinking. 
+            b.	Should meals be provided as part of the event and it involves any participants who is not an employee of, or who does not regularly deliver goods or services to the enterprise organising the event, then every participant is required to be fully vaccinated. 
 
-          c.  Should F&B establishments hold such events using their own premises, at least one-metre spacing between individuals must be maintained at all times. 
+            c.	Such events held in F&B establishments are subject to a cap of 50 persons or a lower number, depending on venue capacity and safe distancing requirements.
 
-          d.  For events organised by external parties (where the F&B premises now function as a third-party venue), groups of up to 5 persons with at least one-metre spacing between groups are permitted. 
+            d.	Should F&B establishments hold such events using their own premises, at least one-metre spacing between individuals must be maintained at all times. 
 
-          e.  Should meals be provided as part of the event and it involves any participants who is not an employee of, or who does not regularly deliver goods or services to the enterprise organising the event, then every participant is required to be fully vaccinated. 
+            e.	For events organised by external parties (where the F&B premises now function as a third-party venue), groups of up to 2 persons with at least one-metre spacing between groups are permitted. 
 
         (ii) Customer-facing events (e.g. product launches, marketing events):
 
-          a.  Such events organised by F&B establishments within their own F&B premises are subject to the maximum number of individuals that the venue may accommodate after safe distancing measures are adhered to.
+            a.	Meals should not be the main feature of the event. Event organisers should also avoid holding events over mealtimes as far as possible. Food or drinks should only be served if incidental to the work-related event (e.g. the meeting or product launch extends over lunchtime). In addition, the food must be served in individual portions, participants must be seated while consuming the food and drinks, and there should be no intermingling between the groups. Participants should minimise the time that they are unmasked while eating and drinking.
 
-          b.  Events organised by external parties (where the F&B premises now function as a third-party venue) are subject to a cap of 50 persons (excluding the F&B establishment’s service staff) or a lower number, depending on venue capacity and safe distancing requirements.
+            b.	Should meals be provided as part of the event, and it involves any participants who is not an employee of, or who does not regularly deliver goods or services to the enterprise organising the event, then every participant is required to be fully vaccinated.
 
-          c.  Event participants can be in groups of up to 5 persons, with at least one-metre spacing between groups.
+            c.	Such events organised by F&B establishments within their own F&B premises are subject to the maximum number of individuals that the venue may accommodate after safe distancing measures are adhered to.
 
-          d.  Meals should not be the main feature. Event organisers should also avoid holding events over mealtimes as far as possible. Food or drinks should only be served if incidental to the work-related event (e.g. the meeting or product launch extends over lunchtime). In addition, the food must be served in individual portions, participants must be seated while consuming the food and drinks, and there should be no intermingling between the groups. Participants should minimise the time that they are unmasked while eating and drinking.
+            d.	Events organised by external parties (where the F&B premises now function as a third-party venue) are subject to a cap of 50 persons (excluding the F&B establishment’s service staff) or up to the venue capacity with safe distancing requirements in place, whichever is lower.
 
-          e.  Should meals be provided as part of the event, and it involves any participants who is not an employee of, or who does not regularly deliver goods or services to the enterprise organising the event, then every participant is required to be fully vaccinated.
+            e.	Event participants can be in groups of up to 2 persons, with at least one-metre spacing between groups. 
 
         Such events are not permitted at public and common areas such as mall atriums, public transport nodes, HDB estates and common corridors. 
 
-    - title: Can F&B establishments apply for earlier vaccination for their frontline workers?
+    - title: I am having my wedding reception. Will I be able to have a food tasting session ahead of the reception in tables of 5?
       content: |
-        From 2 August, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 18 years old and above have also been allowed to walk in to any of our 11 community vaccination centres offering the Moderna COVID-19 vaccine without a prior appointment.
-
-        From 10 August 2021, to make it more convenient to get vaccinated, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 12 years old and above who have yet to come forward for their first dose will be able to walk in to any of the 26 vaccination centres offering the Pfizer-BioNTech/Comirnaty COVID-19 vaccine without a prior appointment.
-
-        It would be more expeditious for F&B staff who have yet to be vaccinated to walk in to any Vaccination Centre or Mobile Vaccination Site. Please refer to [https://www.vaccine.gov.sg/locations-vcs](https://www.vaccine.gov.sg/locations-vcs){:target="_blank"}{:rel="noopener"} for the location of the vaccination centres
-
-    - title: How can I find out more about the national vaccination programme? What are the side effects of vaccination?
-      content: |
-        For more details on the national vaccination programme, you can visit [http://www.vaccine.gov.sg](http://www.vaccine.gov.sg){:target="_blank"}{:rel="noopener"}.
+        No, the exception is only given for wedding receptions. Food tasting sessions ahead of the reception must comply with the existing F&B regulations. F&B establishments should not accept reservations or walk-ins, or allow in their premises social gatherings with more than 2 persons, even if they are split across multiple tables, food tasting sessions involving more than 2 persons must not be organised.
 
 - accordion:
   letter: d
@@ -166,7 +145,7 @@
 
     - title: How do I create an account on SRS to upload the employees’ swab test results?
       content: |
-        For unregistered F&B establishments, please submit your details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"}{:rel="noopener"}. This registration would facilitate the set-up of companies’ SRS accounts and arrange for the delivery or collection of ART kits.
+        FFor unregistered F&B establishments, please submit your details at https://go.gov.sg/fet-registration-food. This registration would facilitate the set-up of companies’ SRS accounts and arrange for the delivery or collection of ART kits.
         
         Enterprises with multiple outlets must consolidate their submission and submit a single Order Form for each UEN. Enterprises will be responsible for the dissemination of the test kits to their respective outlets. The Point-of-Contact<sup>4</sup> (POC) indicated in the form must be the employee who will be responsible for both self-collection of the test kits, and the uploading of FET results to the SRS account.
 
@@ -186,17 +165,7 @@
 
     - title: I understand that the F&B FET regime is mandatory from 15 July. I have received my ART test kits but am experiencing technical issues with the Swab Registration System (SRS) (e.g. unable to log into the system/ upload supervisors/ upload results). What should I do? Can I still continue to operate?
       content: |
-        You can continue to operate. However, you should reach out to HPB’s SRS technical support at [AskSRS@hpb.gov.sg](mailto:AskSRS@hpb.gov.sg){:target="_blank"} or [+65 6876 5830](tel:+6568765830) if you are facing technical issues with the SRS. Once you have received your ART test kits, you should proceed with the testing of your staff and keep a record of the results. Once the SRS system issues have been resolved, you will need to upload these backdated results into the system. Subsequently, all “AG+” or “Double Invalid” test results will have to be uploaded onto SRS no later than 30 minutes after the ESSS for that specific staff is completed; whereas all other “AG-” test results needs to be logged onto SRS within 24 hours.
-
-    - title: How and where should my employees submit their test results?
-      content: |
-        Enterprises are required to upload the test results obtained by their workers from the Employer-Supervised Self-Swab (ESSS) onto the Swab Registration System (SRS). More information on the upload of test results can be found at [www.enterprisesg.gov.sg/fast-easy-testing](https://www.enterprisesg.gov.sg/fast-easy-testing){:target="_blank"}{:rel="noopener"}. 
-
-    - title: Can I create multiple company admin accounts using the same UEN?
-      content: |
-        Yes, multiple company accounts can be created under a single UEN. However, each account will need to have a unique email address. This email address cannot be used for another UEN as the email address is the unique identifier for log in to the SRS.
-        
-        You may submit your request to create multiple SRS company accounts under the same UEN at [https://go.gov.sg/srs-account-creation](https://go.gov.sg/srs-account-creation){:target="_blank"}{:rel="noopener"}. We will only create up to 3 company HR accounts per UEN.  Enterprises without a UEN can indicate their NRIC in the UEN field instead. Please ensure that the UEN/NRIC indicated is accurate.
+        You can continue to operate. However, you should reach out to HPB’s SRS technical support at [AskSRS@hpb.gov.sg](mailto:AskSRS@hpb.gov.sg) or [+65 6876 5830](tel:+65 6876 5830) if you are facing technical issues with the SRS. Once you have received your ART test kits, you should proceed with the testing of your staff and keep a record of the results. Once the SRS system issues have been resolved, you will need to upload these backdated results into the system.
 
 - accordion:
   letter: e
@@ -205,33 +174,35 @@
       content: |
         Retail establishments and lifestyle-related services are to comply with the following:
 
-        a.  Social gatherings are allowed to comprise up to 5 persons. In line with this, retail establishments are to ensure at least one-metre spacing between groups of customers (of up to 5 persons). Malls should also ensure that crowds do not gather at atriums or common spaces, and discourage the consumption of food and drinks at such spaces.
+        a.	Social gatherings are allowed to comprise up to 2 persons. In line with this, retail establishments are to ensure at least one-metre spacing between groups of customers (of up to 2 persons). Malls should also ensure that crowds do not gather at atriums or common spaces, and discourage the consumption of food and drinks at such spaces.
 
-        b.  From 19 August 2021, the occupancy limit for malls and large standalone stores will be one person per 10 sqm of Gross Floor Area (GFA).
+        b.	The occupancy limit for malls and large standalone stores will be one person per10 sqm of Gross Floor Area (GFA). 
 
-        c.  From 19 August 2021, the operating capacity of Commercial Family Entertainment Centres will be at a maximum of one person per 10 sqm of usable space or 50% operating capacity, whichever is lower.
+        c.	The operating capacity of Commercial Family Entertainment Centres will be at a maximum of one person per 10 sqm of usable space or 50% operating capacity, whichever is lower. 
 
-        d.  Services and activities in higher-risk settings, which require masks to be removed, are allowed to resume in groups of up to 5 persons if customers are fully vaccinated. These include personal care services (e.g. facial treatments, make-up services and saunas), Food & Beverage (F&B) dine-in and indoor high-intensity/ mask-off sports services.
+        d.	Services and activities in higher-risk settings, which require masks to be removed, are allowed to resume in groups of up to 2 persons if customers are fully vaccinated. These include personal care services (e.g. facial treatments, make-up services and saunas), Food & Beverage (F&B) dine-in and indoor high-intensity/ mask-off sports services. 
 
-        e.  Since 15 July 2021, it has been mandatory for establishments providing personal care services (e.g. facial and nail services, spas/saunas, massage establishments, hairdressing, and make-up services) to place all employees on a regular Fast and Easy Testing (FET) regime using tests such as antigen rapid test (ART), regardless of their vaccination status.
+        e.	It is mandatory for establishments providing personal care services (e.g. facial and nail services, spas/saunas, massage establishments, hairdressing, and make-up services) to place all employees on a regular Fast and Easy Testing Rostered Routine Testing (FET RRT) regime using tests such as antigen rapid test (ART), regardless of their vaccination status. 
 
-          - From 13 September 2021, the frequency of the FET RRT has been increased to once every 7 days to allow for earlier detection and ringfencing of cases. 
+          *	The frequency of the FET RRT is now once every 7 days to allow for earlier detection and ringfencing of cases. 
 
-          - This includes both part-time and full-time employees, as well as third-party contracted staff (e.g. cleaners) who work at the establishments. Business owners and store managers who work at the workplace must also undergo FET. Individuals who have recovered from a COVID-19 infection in the past 270 days are exempted from the FET Requirement. Establishments can refer to the following Gobusiness portal link for more details.
+          * By 27 September 2021, all individuals working in malls, large standalone stores and supermarket outlets must also undergo testing once every 7 days under the FET RRT regime.  
 
-        From 1 October 2021, all unvaccinated individuals working at establishments providing personal care services have to undergo testing twice a week using ART to mitigate risk of transmission to the public, under the  “Vaccinate or Regular Test” (VoRT) regime. This is now applicable to those working in malls, large standalone stores and supermarket outlets. The tests can be similarly done through employer-led supervised self-swabs.
+          *	This includes both part-time and full-time employees, as well as third-party contracted staff and all those who work on the premises (e.g. cleaners, promoters). Business owners and store managers who work at the workplace must also undergo FET. Individuals who have recovered from a COVID-19 infection in the past 270 days are exempted from the FET Requirement. Establishments can refer to the following Gobusiness portal link for more details.  
+          
+          * From 1 October 2021, all unvaccinated individuals working at establishments providing personal care services have to undergo testing twice a week using ART to mitigate risk of transmission to the public, under the “Vaccinate or Regular Test” (VoRT) regime. This is also applicable to those working in malls, large standalone stores and supermarket outlets. The tests can be similarly done through employer-led supervised self-swabs.   A test done under the existing FET RRT, which is a supervised FET, also counts towards this requirement. 
 
-        - The costs of testing required for unvaccinated employees are to be fully borne by users or their employers.
+          *	The costs of additional testing required for unvaccinated employees are to be fully borne by users or the enterprises.
 
-        - The government will subsidise tests for the small group of individuals who are medically ineligible for vaccines. 
+          *	The government will subsidise tests for individuals who are medically ineligible for vaccines.
 
-        -	Note that all vaccinated employees working at establishments providing personal care services must continue with the prevailing FET regime (testing once every 14 days). 
+          *	All vaccinated employees working at establishments providing personal care services must continue with the prevailing FET RRT regime (testing once every 7 days). 
 
-        -	Employers may wish to refer to [MOM's Advisory on COVID-19 vaccination in employment settings](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}. 
+          *	Employers may wish to refer to [MOM's Advisory on COVID-19 vaccination in employment settings](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}.
 
     - title: How can supermarket manage queues now that the measures may result in more people buying groceries to cook at home?
       content: |
-        Supermarket retailers should implement other crowd management measures (e.g. limiting the number of shoppers within the store at any one time) to ensure that one metre spacing can be maintained between shoppers. They would also need to limit groups of customers entering the store to no more than 5 persons, as well as maintain orderly queues in-store, and at entrance to store.
+        Supermarket retailers should implement other crowd management measures (e.g. limiting the number of shoppers within the store at any one time) to ensure that one metre spacing can be maintained between shoppers. They would also need to limit groups of customers entering the store to no more than 2 persons, as well as maintain orderly queues in-store, and at entrance to store.
 
         Supermarkets are also encouraged to provide dedicated shopping hours for vulnerable groups, such as the elderly, persons with disabilities and pregnant women. This can help to reduce intermingling to better protect those who are more vulnerable to COVID-19.
 
@@ -264,11 +235,17 @@
       content: |
         PSAR approved vaccines (i.e. Pfizer-BioNTech/Comirnaty or Moderna vaccines currently administered under the National Vaccination Programme), as well as vaccines on the World Health Organisation’s Emergency Use Listing (WHO EUL) (such as Sinovac-CoronaVac, Sinopharm, and AstraZeneca-SKBio, Serum Institute of India, Janssen) are recognised for VDS.
         
-        Individuals who are vaccinated with WHO-EUL vaccines will be eligible for vaccination-differentiated SMMs only if their vaccination records have been captured in MOH’s National Immunisation Registry (NIR).
+        Please refer to MOH’s information sheet for more details of the requirements on VDS at [https://go.gov.sg/vdsmminfo](https://go.gov.sg/vdsmminfo){:target="_blank"}{:rel="noopener"}. 
 
     - title: Do I have to check the vaccination status for customers doing takeaways?
       content: |
         There is no need to conduct VDS checks for customers doing takeaways. However, it is your responsibility to ensure that these customers do not consume food and drinks on premise. There should be clearly demarcated waiting areas for customers doing takeaways.
+
+    - title: Do I need to do SafeEntry at my F&B establishment? 
+      content: |
+        TraceTogether-only SafeEntry must be implemented for all dine-in customers and visitors at F&B establishments, including at food courts. Delivery personnel picking up food orders and take-away customers are not required to do SafeEntry as their presence at the F&B establishment is transient.  
+
+        All establishments must require their employees and vendors to do SafeEntry check-in via TT-only SE. 
 
     - title: For VDS, I understand that the children in the group must be from the same household. What about the other individuals in the group? Can we be from different households?
       content: |
@@ -276,11 +253,7 @@
 
     - title: My F&B establishment is an alfresco dine in concept and naturally ventilated just like hawker centres and coffee shops. Can I allow 2 pax to dine in without checking VDS eligibility?
       content: |
-        No, you are not allowed to do so. The 2 pax dine-in (regardless of vaccination status) only applies to hawker centres and coffee shops, which generally refer to F&B establishments that hold an SFA coffee shop/ eating house/ canteen license. Hawker centres and coffee shops provide convenient and affordable food services within the community. As they are open-air and naturally ventilated spaces, a special concession is thus given to allow vaccinated and unvaccinated individuals to dine in these settings, but subject to a group size of up to 2 persons only. 
-
-    - title: The capacity of my F&B establishment is small and cannot accommodate dine-in groups of 5 pax. Can I allow 2 pax to dine in without checking VDS eligibility?
-      content: |
-        No, you are not allowed to do so. Even if your F&B establishment can only accommodate tables for 2 pax, you are required to implement VDS. Alternatively, you may choose to do only takeaway services.
+        No, you are not allowed to do so. The 2 pax dine-in (regardless of vaccination status) only applies to hawker centres and coffee shops, which generally refer to F&B establishments that hold an SFA coffee shop/ eating house/ canteen license that are not substantially enclosed by a permanent barrier. Hawker centres and coffee shops provide convenient and affordable food services within the community. As they are open-air and naturally ventilated spaces, a special concession is thus given to allow an unvaccinated individual to dine in these settings.  
 
     - title: My shop offers hairdressing/manicure/pedicure services, and is considered part of the personal care services sector. Do I also need to implement VDS?
       content: |
@@ -288,9 +261,7 @@
 
     - title: Can I allow a foreign customer who received his/her PSAR-approved vaccines overseas and provides proof of this vaccination to dine in my F&B establishment/ partake in personal care services provided at my shop?
       content: |
-        Overseas vaccine certificates (hard or softcopy) will not be accepted for VDS. From 20 August 2021, the Immigration and Checkpoints Authority will issue a tamper-proof vaccination sticker to be affixed onto the passport of newly-arrived travellers or Short-Term Visitor Pass Holders who were fully vaccinated overseas with a WHO-Emergency Use Listing vaccine, and who can furnish a valid English-language vaccination certificate. By September, the systems will also be enhanced so that travellers, upon verification of their eligible vaccination status at entry, will also be recognised by the SE Biz App through their TraceTogether Apps/Tokens to be eligible for VDS without needing to go through PET.
-
-        In the meantime, short-term visitors/ tourists who had entered into Singapore before 20 August 2021 can show their valid negative PET results from MOH-approved test providers to be accepted for VDS.
+        Overseas vaccine certificates (hard or softcopy) will not be accepted for VDS. From 20 August 2021, the Immigration and Checkpoints Authority will issue a tamper-proof vaccination sticker to be affixed onto the passport of newly-arrived travellers or Short-Term Visitor Pass Holders who were fully vaccinated with a WHO-Emergency Use Listing vaccine, and who can furnish a valid English-language vaccination certificate. This sticker would be valid until the end of their STVP validity or until 30 September 2021, 2359hrs, whichever is earlier. From 6 September, the systems will also be enhanced so that travellers, upon verification of their eligible vaccination status at entry, will also be recognised by the SE Biz App through their TraceTogether Apps/Tokens to be eligible for VDS without needing to go through PET.
 
     - title: Why are overseas vaccination certificates not recognised for VDS?
       content: |
@@ -301,13 +272,15 @@
   data:
     - title: Will the government pay for FET for employees who are/cannot be vaccinated? What about those who are not fully-vaccinated yet (i.e. first dose only)?
       content: |
-        The FET regime is mandatory for employees who interact with customers in higher-risk mask-off settings. ART kits will be provided for Employer-Supervised Self-Swab (ESSS) and the costs for these kits and training for employees will be borne by the government until 31 December 2021.
+        The FET regime is mandatory for employees who interact with customers in higher-risk mask-off settings, regardless of vaccination status. As such, ART kits will be provided for Employer-Supervised Self-Swab (ESSS) and the costs for these kits and training for the swab supervisors will be borne by the government until 31 December 2021.
 
-        From 1 October 2021, employees working in such sectors are to be fully vaccinated or have to undergo regular, twice-weekly testing. The government will subsidise the cost of tests for individuals who are medically ineligible for vaccines under the National Vaccination Programme. Enterprises should submit a consolidated declaration of their workers’ vaccination status at [https://go.gov.sg/mi-declaration](https://go.gov.sg/mi-declaration){:target="_blank"}{:rel="noopener"}. Please submit a consolidated entry for your UEN. 
+        From 1 October 2021, employees working in selected sectors (including F&B) are also mandated to be fully vaccinated or have to undergo regular, twice-weekly testing. The government will subsidise the cost of tests for unvaccinated individuals who are medically ineligible for vaccines under the National Vaccination Programme. Enterprises should submit a consolidated declaration of their workers’ vaccination status at [https://go.gov.sg/mi-declaration](https://go.gov.sg/mi-declaration){:target="_blank"}{:rel="noopener"} for your UEN.
 
     - title: Should F&B/spa/gym staff who are unvaccinated be redeployed to other roles? How is the government protecting the jobs of unvaccinated staff affected by this policy (‘vaccinate or regular test’) and prevent employers from displacing/letting them go?
       content: |
-        The Vaccinate or Regular Testing (VoRT) regime is mandatory for employees in identified [settings](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-a2c38c82f53d24bd3a1374f87f22b1270.pdf){:target="_blank"}{:rel="noopener"} due to the high interaction with customers in these roles.  To safeguard the health of unvaccinated staff, employers can choose to redeploy staff who are unvaccinated to alternative positions in settings that are not on the mandatory testing regime.
+        While employers may continue to deploy unvaccinated employees in higher risk activities with regular testing, they can also decide whether to redeploy these employees to another job with lower risk of COVID-19 infection, commensurate with the employee’s experience and skills, as per existing redeployment policies. If there are no such policies within the organisation, terms and conditions for redeployment should be mutually agreed between employers and employees. 
+
+        Please refer to the [annex](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-a2c38c82f53d24bd3a1374f87f22b1270.pdf){:target="_blank"}{:rel="noopener"} for the list of sectors subjected to the VoRT regime.
 
     - title: Can I ask my employees to declare their vaccination status to me?
       content: |
@@ -315,7 +288,20 @@
         
         For the purpose of the VoRT regime, employees who decline or are unable to produce the proofs of vaccination will be regarded as unvaccinated but medically eligible and will be required to undergo twice-weekly testing. 
 
+- accordion:
+  letter: h
+  data:
+    - title: Can F&B establishments apply for earlier vaccination for their frontline workers?
+      content: |
+        From 2 August, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 18 years old and above have also been allowed to walk in to any of our community vaccination centres offering the Moderna COVID-19 vaccine without a prior appointment.
 
+        From 10 August 2021, to make it more convenient to get vaccinated, all Singaporeans, Permanent Residents, and Long-Term Pass holders aged 12 years old and above who have yet to come forward for their first dose will be able to walk in to any of the vaccination centres offering the Pfizer-BioNTech/Comirnaty COVID-19 vaccine without a prior appointment.
+
+        F&B staff who have yet to be vaccinated can  walk in to any Vaccination Centre. Please refer to [https://www.vaccine.gov.sg/locations-vcs](https://www.vaccine.gov.sg/locations-vcs){:target="_blank"}{:rel="noopener"} for the location of the vaccination centres.  
+
+    - title: How can I find out more about the national vaccination programme? What are the side effects of vaccination?
+      content: |
+        For more details on the national vaccination programme, you can visit [http://www.vaccine.gov.sg](http://www.vaccine.gov.sg){:target="_blank"}{:rel="noopener"}.
 
 
 
