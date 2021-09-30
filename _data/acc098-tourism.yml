@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: Are staycations allowed?
+    - title: Are staycations allowed? 
       content: |
         Hotels may apply to STB to provide accommodation to guests for the purposes of leisure (e.g. staycations). Any hotel that wishes to apply must comply with the safe management measures required for hotels. Please refer to the advisory for [hotels](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}{:rel="noopener"} for the full list of requirements.
 
@@ -44,15 +44,17 @@
 
         Hence, we are piloting a Business Travel Pass for senior executives in Singapore with regional or international roles who need to travel regularly for business. We are doing this in a gradual and calibrated manner to manage our public health situation carefully.
 
+        -	All travellers on this scheme are required to be fully vaccinated with a recognised vaccine under the HSA-PSAR and WHO-EUL lists. 
+        
         -	Travellers with the Business Travel Pass will be required to abide by a strict controlled itinerary when they travel overseas for work. 
-
+        
         -	Before returning to Singapore, they are required to make a health declaration to ensure that they do not have any symptoms and have not encountered anyone infected with COVID-19. 
-
-        -	All travellers will be required to present a negative COVID-19 PCR test taken within 72 hours before departure, before they can travel to Singapore.
-
+        
+        -	All travellers will be required to present a negative COVID-19 PCR test taken within 48 hours before departure, before they can travel to Singapore.
+        
         -	Upon return, travellers will undergo an on-arrival COVID-19 Polymerase Chain Reaction (PCR) test in lieu of the Stay-Home Notice (SHN) and are required to be isolated in a single location until they obtain a negative result for their on-arrival PCR test.
-
-        -	As an added precautionary measure, travellers on this scheme are required to undergo COVID-19 PCR tests on Days 3, 5, 7, 11 and 14 of their return. A Serology test will also be required on Day 3.
+        
+        -	As an added precautionary measure, travellers on this scheme are required to undergo COVID-19 PCR tests on Days 3, 5, 7, 11 and 14 of their return. A Serology test will also be required on Day 3 for travellers who are not vaccinated or were not vaccinated in Singapore
 
         These enhanced testing requirements serve to minimise the risk of potential incubating cases leaking into the community.
 
@@ -80,6 +82,8 @@
         Eligible candidates include senior executives of all nationalities in Singapore. Foreign nationals are required to hold an Employment Pass (EP), EntrePass, Personalised Employment Pass (PEP) or Immigration Exemption Order (IEO). 
 
         Only travellers sponsored by government agencies may submit applications for a Business Travel Pass through their respective sponsoring government agencies.
+
+        Travellers on this scheme must be fully vaccinated with a recognised vaccine under the HSA-PSAR and WHO-EUL lists. 
 
     - title: Why must applications for the Business Travel Pass be sponsored by government agencies?
       content: |
@@ -114,11 +118,11 @@
 
         Before returning to Singapore, they are required to make a health declaration to ensure that they do not have any symptoms and have not encountered anyone infected with COVID-19. 
 
-        All travellers will be required to present a negative COVID-19 PCR test taken within 72 hours before departure, before they can travel to Singapore. 
+        All travellers will be required to present a negative COVID-19 PCR test taken within 48 hours before departure, before they can travel to Singapore. 
 
         Upon arriving in Singapore, they will take an on-arrival PCR test at their own cost and are required to strictly self-isolate until they obtain a negative test result. 
 
-        In addition, travellers are required to undergo COVID-19 PCR tests on Days 3, 5, 7, 11, and 14 of their return. A Serology test will also be required on Day 3. These serve as added precautionary measures to capture any possible incubating cases. 
+        In addition, travellers are required to undergo COVID-19 PCR tests on Days 3, 5, 7, 11, and 14 of their return. A Serology test will also be required on Day 3 for travellers who are not vaccinated or were not vaccinated in Singapore. These serve as added precautionary measures to capture any possible incubating cases. 
 
         On top of that, travellers are required to use TraceTogether, avoid all forms of public transport within 21 days of return, comply with safe management measures at their workplace and for events and abide by all other prevailing measures applicable to local residents. 
 
@@ -126,7 +130,7 @@
 
     - title: Why are we allowing travellers to come into Singapore without serving SHN?
       content: |
-        Travellers on the pilot will be screened beforehand. They are also required to comply with stringent public health requirements and additional safeguards. For instance, they are required to submit a controlled itinerary before leaving Singapore and adhere strictly to this itinerary abroad. All travellers will be required to present a negative COVID-19 PCR test taken within 72 hours before departure, before they can travel to Singapore. 
+        Travellers on the pilot will be screened beforehand. They are also required to comply with stringent public health requirements and additional safeguards. For instance, they are required to submit a controlled itinerary before leaving Singapore and adhere strictly to this itinerary abroad. All travellers will be required to present a negative COVID-19 PCR test taken within 48 hours before departure, before they can travel to Singapore. 
 
         Upon their arrival in Singapore, travellers are required to undergo an on-arrival PCR test in lieu of their SHN requirements and additional PCR and Serology tests on designated days as a precautionary measure to capture any possible incubating cases.   
 

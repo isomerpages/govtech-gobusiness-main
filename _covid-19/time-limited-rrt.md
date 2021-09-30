@@ -43,7 +43,7 @@ Learn more about how to perform a self-test using ART:
 
 |-|-|
 |Self-test instructions | * [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> * [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"} |
-|Repacking instructions| * [Abbott Panbio](/images/guides/Guide to repack  use Abbott Panbio ART.pptx){:target="_blank"}<br> * [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}|
+|Repacking instructions| * [Abbott Panbio](/images/guides/Guide to repack use Abbott Panbio ART.pptx){:target="_blank"}<br> * [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}|
 |More resources | [https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
 
 ### Frequently Asked Questions (FAQ)

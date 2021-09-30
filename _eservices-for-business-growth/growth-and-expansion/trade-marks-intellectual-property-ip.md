@@ -25,8 +25,8 @@ Learn more about them in our [Start-up Guide](/start-a-business/protect-your-ide
 - [Make appointment with IP business clinic](https://form.gov.sg/#!/5e1d1d26a457ea00129e4f61){:target="\_blank"}{:rel="noopener"}
   <br>Book an appointment with a private business consultant on IP strategies and options for businesses. Areas of expertise include IP strategy, franchising and licensing, audits and valuation etc.
 
-- Make Appointment with IP Legal Clinic
-  <br>Book a consultation on infringement of intellectual property or opposition. This e-Service will be available from end of September 2021.
+- [Make Appointment with IP Legal Clinic](https://go.gov.sg/iplegalclinic){:target="\_blank"}{:rel="noopener"}
+  <br>Book a consultation on infringement of intellectual property or opposition.
 
 - [Make appointment with IPOS](https://form.gov.sg/#!/5e16bc778967b800114d7e81){:target="\_blank"}{:rel="noopener"}
   <br>Book an appointment with IPOS for questions about your application or available options.
