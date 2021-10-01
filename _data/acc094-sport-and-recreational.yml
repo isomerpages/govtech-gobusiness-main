@@ -1,206 +1,427 @@
 - accordion:
   letter: a
   data:
-    - title: What is the maximum number of people who can exercise in a group?
+    - title: What are the key changes to the safe management measures from 27 September 2021?  
       content: |
-        From 14 June 2021, sport and physical activities must confine to groups of no more than 5 individuals (including instructor). The physical distancing of 2m between individuals except when the nature of the sport does not permit so and 3m between groups of up to 2 individuals must be maintained while exercising and playing sport.
+        The key changes from 27 September to 24 October 2021 are as follows: 
 
-    - title: What is the maximum number of people a sport facility can accommodate?
-      content: |
-        All sport/ recreational facilities can only admit a maximum number of persons according to its Gross Floor Area based on 10 Sqm per person, up to a maximum of 50 persons. No facility, regardless of size, shall admit more than 50 persons. 
+        * **Group Size.** Group activities are allowed for up to 2 individuals (including instructor / coach). This applies for all settings – indoors and outdoors regardless of masked or unmasked activity. Physical activity of a social nature (that does not involve any instructor / coach) should be kept to a limit of 2 participants. 
 
-        The maximum number of pax for organised classes is 30 pax (multiple groups of 5) or the capacity limit of the venue, whichever is lower, and is inclusive of the instructor.
+        * **Organised Classes / Programmes.** 
+        
+          - Multiple groups of 2, up to 50 participants (including instructor / coach) or up to the capacity limit of the venue, whichever is lower, can take place for indoor masked and outdoor masked/unmasked activities. 
 
-    - title: Will I be allowed to play sports such as badminton, basketball and table tennis?
-      content: |
-        From 14 June, you are allowed to play sports such as badminton, basketball and table tennis in a group of no more than 5 persons. 
+          - Multiple groups of 2, up to 30 participants (including instructor / coach) or up to the capacity limit of the venue, whichever is lower, can take place for indoor unmasked activities. All participants have to be fully vaccinated<sup>1</sup> for the class/programme to take place. If any of the participants is not fully vaccinated (or does not have a valid PET result / is not a recovered COVID-19 individual), then indoor unmasked activity for that group is prohibited. 
 
-        If you are playing sports indoors, between 14 to 20 June, you will need to be masked-up for the entire duration of play and not to remove it.  
+        * **Organised Classes/programmes for Children 12 Years and Under.** All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below (born in 2009 onwards) are to be suspended or moved online from 27 September **to 10 October** 2021. 
 
-        From 21 June, with gradual easing of SMMs for sport, you will be able to partake in maskdown, high intensity activities in both indoor and outdoor settings.
+        * **Seniors 60 Years and Above.** Seniors are advised to stay at home except for essential activities such as buying food, groceries, and individual exercise activities in uncrowded locations as they are vulnerable to the virus. To protect our seniors, **Sport Singapore will be suspending all senior-centric classes/programmes under ActiveSG from** 27 September **to 24 October 2021**. 
+
+        <sup>1</sup> An individual is considered fully vaccinated two weeks after he or she has received two doses of Pfizer-BioNTech/ Comirnaty, Moderna, or any WHO EUL vaccines. Unvaccinated individuals with a valid negative result on a Pre-Event Test taken within the past 24 hours at an MOH-approved medical service provider before the expected end of the class/programme/event, or recovered COVID-19 individuals, are of similarly lower risk, and may also join in the group of fully vaccinated individuals.  
 
 - accordion:
   letter: b
   data:
-    - title: I run sport classes for youths and children under 18 years old. Can I resume these classes?
+    - title: What is vaccination-differentiated Safe Management Measures (SMM) and where is it applicable at?   
       content: |
-        Classes for this age group can resume as follows: 
-        - From 14 to 20 June 2021, only ***outdoor*** sport / physical activity programmes may be conducted for up to 1 group of 5 participants in total. If the activity is strenuous, masks can be taken off, but will have to be put on immediately after the end of the activity. 
-        - From 21 June 2021, multiple groups of 5 up to 30 participants or the capacity limit of the venue, whichever is lower, will be allowed. This applies to <u>both indoor and outdoor</u> activities.
+        As fully vaccinated individuals have better protection against infection and severe illness, fully vaccinated individuals may participate in activities in high-risk settings (unmasked activities that take place indoors<sup>2</sup>) from 10 August 2021. The group size can go up to 2 individuals (including instructor / coach). For organised classes/programmes catered to fully vaccinated individuals, multiple groups of 2, up to 30 pax or the capacity limit of the venue, whichever is lower, is allowed. 
+        
+        Unvaccinated individuals with a valid negative result on a Pre-Event Test taken in the past 24 hours at an MOH-approved medical service provider before the expected end of the class/programme/event, or recovered COVID-19 individuals, are of similarly lower risk, and may also join in the group of fully vaccinated individuals.
 
-    - title: Are 1-on-1 classes / coaching for children & youths who are 18 years old & under in indoor settings allowed?
+        <sup>2</sup> Indoors are spaces that are enclosed by shelter and walls where there is inadequate natural ventilation. 
+
+    - title: What does fully vaccinated individual mean?   
       content: |
-        From 19 May to 20 June 2021, ***indoor*** classes / programmes regardless of size are <u>not</u> allowed to take place. Instructors are urged to suspend classes or move them online. 
+        An individual is considered fully vaccinated two weeks after he or she has received two doses of Pfizer-BioNTech/ Comirnaty, Moderna, or any WHO EUL vaccines<sup>3</sup>. 
 
-        From 21 June 2021, ***indoor*** classes / programmes can resume in multiple groups of 5 up to 30 participants or the capacity limit of the venue, whichever is lower.
+        Unvaccinated individuals with a valid negative result on a Pre-Event Test taken in the past 24 hours at an MOH-approved medical service provider before the expected end of the class/programme/event, or recovered COVID-19 individuals, are of similarly lower risk, and may also join in the group of fully vaccinated individuals. 
 
-    - title: I run a yoga class for children below 7 years old. Do my young participants need to don masks?
+        <sup>3</sup> From 10 August 2021, individuals who are fully vaccinated with the World Health Organisation’s Emergency Use Listing (WHO EUL) vaccines such as Sinovac-CoronaVac, Sinopharm, and AstraZeneca will be eligible for the vaccination-differentiated safe management measures. 
+
+    - title: I want to organise unmasked class/programme/activities at my indoor facility. How do I go about it? 
       content: |
-        Children under 6 years old are not required by law to wear mask, but it would be good practice for them to do so where possible. However, do note that from 16 May to 20 June 2021, all indoor classes / programmes regardless of class size, are to be suspended or moved online. These indoor classes can only resume in in multiple groups of 5 up to 30 participants or the capacity limit of the venue, whichever is lower, from 21 June 2021.
+        Permitted enterprises are: 
+
+        * to implement vaccination-differentiated SMMs at their indoor facilities 
+
+        * to prominently display that vaccination-differentiated SMMs are implemented on their premises 
+
+        * to set up proper checking protocol at their access control 
+
+        * responsible to conduct checks on the vaccination status of their participants at their access control. Persons who fail to have their status verified will be denied participation in high risk activities. Only fully vaccinated individuals may be admitted for the indoor / unmasked class/ programme / activity. 
+
+        * to ensure that every person who enter their premises have their vaccination status checked and recorded manually or electronically, beyond the usual screening measures such as TraceTogether-only SafeEntry (TT-only SE), SafeEntry Gateway (SEGW) check-in & check-out and temperature checks. 
+
+        * to ensure that participants, instructors and staff also adhere to an enhanced set of SMMs per [Annex in the Sport Singapore guidance issued on 25 Sep 2021](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases){:target="_blank"}{:rel="noopener"}. 
+        
+        In addition, all indoor premises should refer to the latest guidance on improving ventilation and indoor air quality in buildings amid the COVID-19 situation, available at: [https://go.gov.sg/bca-circular-improving-ventilation-iaq](https://go.gov.sg/bca-circular-improving-ventilation-iaq){:target="_blank"}{:rel="noopener"} as well as enhance hygiene and cleanliness through the SGClean certification: [https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/](https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/){:target="_blank"}{:rel="noopener"}
+
+    - title: I am organising a class that requires vaccination-differentiated SMMs. How do I check my participants’ vaccination status? 
+      content: |
+        You can refer to the information at [https://go.gov.sg/status-check](https://go.gov.sg/status-check){:target="_blank"}{:rel="noopener"}. You can also check the status of vaccination or their COVID test records on the participants’ TraceTogether app. 
+
+        For recovered individuals, they can show the pre-event test exemption notice. Operators/organisers should verify that the PET exemption notice belongs to the customer, i.e. NRIC/FIN on the document matches the NRIC/FIN on the customer’s photo ID. Additionally, operators/organisers should verify that the exemption date is valid for the duration of the class/programme.
+        <img src="/images/covid/PET Exemption Notice.png">
+
+    - title: Can I do a one-time check of vaccination status for regular patrons at my facility instead of checking their trace-together app each time they visit? 
+      content: |
+        Yes. If you are implementing VDS at your facility, you need to: 
+        
+        * Implement Trace Together only SafeEntry or SafeEntry Gateway check-in and check-out 
+
+        * Check the vaccination status of every person who enters your facility 
+
+        * Record the vaccination status check manually or electronically
+
+          - For regular patrons at your facility, you can do a one-time check of their vaccination status and record it in your master list of “pre-verified” fully vaccinated persons. Thereafter, each time these regular patrons visit your gym, you only need to verify they are in your master list of “pre-verified” persons before they are allowed to enter. This of course cannot be done for patrons who come in via PET where you will need to check their PET results every time they visit since it is only valid for 24 hours. 
+
+    - title: I operate an indoor facility. Is it mandatory for me to implement vaccination-differentiated SMMs for all classes/programmes/activities at my indoor facility? 
+      content: |
+        Permitted enterprises are to determine if they would implement vaccination-differentiated SMMs at their facilities. Those who choose not to implement vaccination-differentiated SMMs will not be allowed to conduct indoor unmasked activities nor provide equipment at their facility.
+        
+        Those that choose not to implement vaccination-differentiated SMMs may continue to conduct indoor masked activities without the provision of equipment or outdoor activities. For indoor facility, participants, instructors and staff will also have to adhere to an enhanced set of SMMs per [Annex in the Sport Singapore guidance issued on 25 Sep 2021](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases){:target="_blank"}{:rel="noopener"}.
+        
+        In addition, all indoor premises should refer to the latest guidance on improving ventilation and indoor air quality in buildings amid the COVID-19 situation, available at: [https://go.gov.sg/bca-circular-improving-ventilation-iaq](https://go.gov.sg/bca-circular-improving-ventilation-iaq){:target="_blank"}{:rel="noopener"} as well as enhance hygiene and cleanliness through the SGClean certification: [https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/](https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/){:target="_blank"}{:rel="noopener"}
+ 
+    - title: If I do not implement vaccination-differentiated SMMs at my indoor facility, can I still offer common/shared equipment to my participants who are masked?
+      content: |
+        No, you cannot. If you choose not to implement vaccination-differentiated SMMs, you may only continue to conduct indoor masked activities without the provision of equipment. In addition, your participants, instructors and staff will also have to adhere to an enhanced set of SMMs per [Annex in the Sport Singapore guidance issued on 25 Sep 2021](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases){:target="_blank"}{:rel="noopener"}.
+        
+        In addition, all indoor premises should refer to the latest guidance on improving ventilation and indoor air quality in buildings amid the COVID-19 situation, available at: [https://go.gov.sg/bca-circular-improving-ventilation-iaq](https://go.gov.sg/bca-circular-improving-ventilation-iaq){:target="_blank"}{:rel="noopener"} as well as enhance hygiene and cleanliness through the SGClean certification: [https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/](https://www.sgclean.gov.sg/join/for-owners/how-to-be-certified/){:target="_blank"}{:rel="noopener"}
+ 
+    - title: Do students need to carry their TraceTogether (TT) token during activity? 
+      content: |
+        Where it may not be practical to do so, the TT tokens need not be carried on the individual; however, the operator should keep records of class attendance and group lists to facilitate contact tracing. Depending on the specific circumstances (e.g. duration of close contact, nature of close contact environment, type of activity, prevailing COVID situation etc.), MOH may impose quarantine orders on group, class, facility level.
+
+    - title: I have a mixed purpose facility that has a weights-training gym, exercise studio, outdoor pool, spa, can I offer classes for both fully vaccinated and non-vaccinated people?
+      content: |
+        Permitted enterprises that have multiple spaces may conduct different group activities for people who are fully vaccinated (includes those that have valid PET result / have recovered from COVID-19) and non-vaccinated in those spaces.
+
+        If you allow indoor unmasked activities, you will have to ensure that there is no intermingling of these two categories of individuals for the whole time these individuals are within the facilities (including common areas such as changing rooms and toilets). In such situation, the individuals from different categories should be clearly marked by use of different coloured wrist tags, passes or some other form of differentiating identification.
+
+    - title: I am a Fitness Studio offering low intensity Yoga classes. Can I have both unvaccinated and vaccinated students in the same class by making everyone wear their mask?
+      content: |
+        Yes, you can (up to 50 pax, or the capacity limit of the venue, whichever is lower). However, if any one person is unmasked at any point in time, including wearing the mask below the nose, all activity in the gym must stop until everyone is masked up again.
+
+        If you do not provide common equipment, you do not need to implement VDS.
+
+        If you provide common equipment such as yoga mats, you will need to implement VDS at your facility. Refer to earlier FAQ on implementing VDS at the indoor facility for more information.
+
+    - title: I am a Gym offering weights equipment and treadmills. Can I have both unvaccinated and vaccinated individuals use the gym at the same time by making everyone wear their mask?
+      content: |
+        You can (up to 50 pax, or the capacity limit of the venue, whichever is lower) if you implement vaccination-differentiated SMMs at your facility. However, if any one person is unmasked at any point in time, including wearing the mask below the nose, all activity in the gym must stop until everyone is masked up again.
+
+    - title: I am a Gym offering weights equipment and treadmills and my patrons work out on their own time. Can I allow both unvaccinated and vaccinated individuals to work out in the gym at the same time and allow vaccinated individuals to remove their masks while working out, and the unvaccinated individuals to be masked?
+      content: |
+        You can (up to 50 pax, or the capacity limit of the venue, whichever is lower) if you implement vaccination-differentiated SMMs at your facility. You will need to clearly demarcate the workout areas for the two different categories of users such that they do not share the same common equipment or intermingle for the whole time they are within the facilities (including common areas such as changing rooms and toilets). In such situations, the individuals from different categories should also be clearly marked by use of different coloured wrist tags, passes or some other form of differentiating identification. Refer to earlier FAQ on implementing VDS at the indoor facility for more information.
+
+    - title: Can I hold classes for unvaccinated individuals with mask on and vaccinated individuals without mask in the same studio but at different timings?
+      content: |
+        Yes, you can do so as long as you ensure that there is sufficient time for the studio to be thoroughly cleaned before the next session begins and that there is no intermingling between the different classes in the common areas such as entrances/exits, toilets/changing rooms, etc.
+
+    - title: I run a badminton class for children below 12 years old. Do I need to check their vaccination status?
+      content: |
+        All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below are to be suspended or moved online from 27 September to 10 October 2021.
 
 - accordion:
   letter: c
   data:
-    - title: What sport and physical activities are allowed indoors?
+    - title: What is the maximum number of people who can exercise in a group? 
       content: |
-        Between 8 May to 20 June, only low intensity sport and physical activities with masks on at all times are allowed in indoor sport & recreation facilities. The activity has to cease immediately, if any participant removes his or her mask.  
+        From 27 September 2021, sport and physical activities must be confined to groups of no more than 2 individuals (including instructor / coach). Physical activity of a social nature (that does not involve any instructor / coach) should be kept to a limit of 2 participants.
 
-        From 21 June 2021 onwards, high intensity, mask-down activities can resume in indoor settings. Common equipment may also be provided for use by participants<sup>1</sup>. 
+        For organised classes / programmes, there may be multiple groups of 2 up to 50 pax or the capacity limit of the venue, whichever is lower, except for indoor unmasked activities. 
+        
+        Only fully vaccinated individuals<sup>4</sup> may participate in indoor unmasked activities. No more than 2 individuals (including instructor / coach) can be in the same group. Organised classes / programmes may have multiple groups of 2 up to 30 pax fully vaccinated individuals, or the capacity limit of the venue, whichever is lower. If any one of the participants is not fully vaccinated (or do not have valid PET result / have not recovered from COVID-19), then such activity is prohibited.
 
-        Gyms, studios, climbing walls and other indoor facilities may resume normal operations subject to prevailing SMMs in [Sport Singapore’s guidance on 11 June 2021](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases){:target="_blank"}{:rel="noopener"}. 
+        While exercising and playing sport, a) a 2-metre physical distancing between individuals should be maintained for general physical activities, unless the nature of activity requires the distance to be shortened; b) a 3-metre physical distancing between individuals for indoors high intensity or high movement exercise classes (where allowed), unless the nature of activity requires the distance to be shortened.
 
-        <sup>1</sup> A physical distancing of 3 metres between individuals should be observed for indoors high intensity or high movement exercise classes unless the nature of activity requires the distance to be shortened. The restriction against common equipment indoors imposed since 8 May 2021 will be rescinded from 21 June 2021.
+        If there are multiple groups, the groups must maintain a distance of 3 metres apart at all times and not intermingle. To be clear, there shall be no cross-mixing or cross-playing between groups i.e. no modified versions of games where a ball is being played between two groups.
 
-    - title: What are some examples of low intensity sport/physical activities?
+        <sup>4</sup> An individual is considered fully vaccinated two weeks after he or she has received two doses of approved vaccines. Unvaccinated individuals with a valid negative result on a Pre-Event Test taken within the past 24 hours at an MOH-approved medical service provider before the expected end of the class/programme/event, or recovered COVID-19 individuals, are of similarly lower risk, and may also join in the group of fully vaccinated individuals.  
+
+    - title: What is the maximum number of people a sport facility can accommodate?
       content: |
-        These are activities that can be done <u>with mask on at all times</u> such as Yoga, Pilates, stretching exercises, Tai Chi, etc. There may have to be some modification to how it is done, e.g. without the use of equipment, during this period of time.
+        All sport/ recreational facilities can only admit a maximum number of persons according to its Gross Floor Area based on 10 Sqm per person, up to a maximum of 50 persons. No facility, regardless of size, shall admit more than 50 persons.
 
-    - title: I run a gym. When can I resume operations?
+        However, large complexes or multi-function premises such as country clubs may treat different parts of their premises as separate facilities, provided that they are well separated by physical barriers such that intermingling is not possible. Each of these facilities are to have separate TraceTogether-only SafeEntry (TT-only SE) or SafeEntry Gateway (SEGW) check-in & check-out, as well as other screening provisions.
+
+    - title: Can there be large group sport and physical activities classes?
       content: |
-        Between 8 May to 20 June, indoor facilities such as gyms can continue to operate as long as they offer low intensity, mask-up activities and do not provide common equipment to participants.  
+        Yes there can be subject to the prevailing SMMs for masked/unmasked activities held indoors and outdoors. In addition, during the stabilisation period:
 
-        From 21 June 2021 onwards, high intensity, mask-down activities can resume in indoor settings. Common equipment may also be provided for use by participants. <sup>2</sup>Gyms, studios, climbing walls and other indoor facilities may resume normal operations subject to prevailing SMMs in [Sport Singapore’s guidance on 11 June 2021](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases){:target="_blank"}{:rel="noopener"}. 
+        * All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below (born in 2009 onwards) are to be suspended or moved online from 27 September to 10 October 2021.
 
-        <sup>2</sup> A physical distancing of 3 metres between individuals should be observed for indoors high intensity or high movement exercise classes unless the nature of activity requires the distance to be shortened. The restriction against common equipment indoors imposed since 8 May 2021 will be rescinded from 21 June 2021.
+        * Seniors are advised to stay at home except for essential activities such as buying food, groceries, and individual exercise activities in uncrowded locations as they are vulnerable to the virus.
 
-    - title: I run a private sport academy (e.g. gymnastics, martial arts, combat sports) in an indoor setting similar to a studio. When can I reopen?
+    - title: Will I be allowed to swim in a group?
       content: |
-        Between 8 May to 20 June, if the activities being offered<sup>3</sup> are modified as per the guidance below and you have factored in the reduced group size and facility capacity, as well as enhanced measures as per [Annex in the updated Sport Singapore guidance](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/June/Updated-7-June-2021-Further-Stricter-SMM-For-Sport){:target="_blank"}{:rel="noopener"}, you can still operate. These apply to activities such as TKD, MMA, Muay Thai, BJJ, Fencing, Judo, Boxing and other similar activities. 
+        Yes, you are allowed to swim outdoors as an individual or in a group of no more than 2 persons, including yourself.
 
-        The private sport academies that continue to open must: 
-
-        - Modify their activities to minimise contact as much as possible. Keep total grappling time to <u>no more than 15 minutes</u> in total per session. 
-        - Ensure that their participants and instructors are masked on at all times, refraining from conducting activities that are strenuous to the point that they feel the need to remove their masks. 
-        - Not provide common equipment such as punching pads, bags, dummies, use of boxing ring, etc, where fomite transmission risk is high. 
-        - Not offer weight, strength or resistance training or cardio training of any form, and/or provide equipment for such training, such that they become strenuous activities. 
-        - Keep to cohorting to limit the extent of any contact tracing. 
-
-        From 21 June 2021 onwards, high intensity, mask-down activities can resume in indoor settings. Common equipment may also be provided for use by participants<sup>4</sup>. Gyms, studios, climbing walls and other indoor facilities may resume normal operations subject to prevailing SMMs in [Sport Singapore’s guidance on 11 June 2021](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases){:target="_blank"}{:rel="noopener"}. 
-
-        <sup>3</sup> From 19 May to 13 Jun 2021, all indoor classes / programmes, regardless of class size, and outdoor group classes / programmes catering to 18 years old (born in 2003) & below are to be suspended or moved online. 
-        <sup>4</sup> A physical distancing of 3 metres between individuals should be observed for indoors high intensity or high movement exercise classes unless the nature of activity requires the distance to be shortened. The restriction against common equipment indoors imposed since 8 May 2021 will be rescinded from 21 June 2021.
-
-    - title: Are sports such as table tennis, basketball, badminton and volleyball be allowed indoors?
+    - title: Will I be allowed to play sports such as badminton, basketball and table tennis?
       content: |
-        Between 8 May to 20 June, all indoor activities have to be changed to low intensity with masks on in a group of no more than 2 persons (till 13 June) / no more than 5 persons (from 14 June). While practice drills may still be possible, competitive sports will typically be high intensity and if allowed to proceed would put participants at risk of flouting the law. Therefore, we advise venue operators to ensure that competitive sports do not take place and masks are worn at all times. 
+        You are allowed to play sports in a group of no more than 2 persons (i.e.: 1 v 1). There shall be no cross-mixing or cross-playing between groups i.e. no modified versions of games where a ball is being played between two groups of 2 pax.
 
-        From 21 June 2021, high intensity, mask-down activities can resume in indoor settings. Common equipment may also be provided for use by participants.<sup>5</sup>
+        Masks must be worn at all times when playing sports indoors, unless the indoor facility you are playing in deploys vaccination-differentiated SMMs and all participants in your group are fully vaccinated/tested/recovered.
 
-        <sup>5</sup> A physical distancing of 3 metres between individuals should be observed for indoors high intensity or high movement exercise classes unless the nature of activity requires the distance to be shortened. The restriction against common equipment indoors imposed since 8 May 2021 will be rescinded from 21 June 2021.
-
-    - title: I am moving my classes at the outdoor area near to my indoor facility. Can my participants enter to use the toilet/shower facilities in my gym/exercise studios after they are done with the physical activity?
+    - title: I run a yoga class for children below 7 years old. Do my young participants need to don masks?
       content: |
-        Yes they may use the toilet/shower facilities subject to prevailing safe management measures such as facility capacity and safe distancing. You have to ensure that they do not linger in the premises / use any of the equipment within. If you are not able to ensure participants’ compliance to the necessary safe management measures, you are advised to close off the toilet/shower facilities. 
+        All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below are to be suspended or moved online from 27 September to 10 October 2021.
 
-        Do seek the approval of the venue owner of the outdoor location that you will be using, before you move your classes outdoors.
-
-    - title: I am a freelance instructor and the gym / fitness/exercise studio that I provide my services to is closed. Can I conduct my classes up to 5 persons, at home?
+    - title: Can I conduct a 1-on-1 private training with my 10-year-old student?
       content: |
-        You are strongly discouraged from doing so. As the intent is to reduce the risk of further community spread in this period of heightened alert, we strongly discourage sports providers from hosting physical fitness classes for up to 5 persons in residential premises due to the high intensity and close contact nature of the activity.
+        No, you may not. All organised sport or physical exercise/activity classes/programmes regardless of group size, catering to children 12 years old and below are to be suspended or moved online from 27 September to 10 October 2021.
 
-        We seek the cooperation of all sports providers to remain unified and disciplined in our fight against COVID-19, and to keep our loved ones and community safe.
-
-    - title: I am an indoor facility owner. Can I rent out my facility space for physical activities/sport use?
+    - title: Can I continue to conduct 1-on-1 sessions at my indoor gym / fitness/exercise studio / indoor facility where my participant and I are a) masked, b) unmasked?
       content: |
-        You may rent out your facility spaces for low intensity exercises/sport where participants are masked on at all times and are in compliance to the stricter safe management measures found in [Annex in the updated Sport Singapore guidance](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/June/Updated-7-June-2021-Further-Stricter-SMM-For-Sport){:target="_blank"}{:rel="noopener"}. From 21 June, there is an easing in SMMs so high intensity, mask-down activities can resume in indoor settings. Common equipment may also be provided for use by participants
+        a) Yes, you can have masked activities indoors.
 
-        If in doubt you can email the Sport Singapore QSM at [https://members.myactivesg.com/feedback](https://members.myactivesg.com/feedback){:target="_blank"}{:rel="noopener"}.
+        If your indoor facility does not implement VDS, you must not offer weight, strength, or resistance training of any form, and/or provide equipment (such as Yoga mats, stretch bands, dumbbells etc).
+        However, if your indoor facility implements VDS, you may provide equipment for participants’ use.
+        
+        b) You can only have unmasked activities indoors if the facility implements VDS and admits only vaccinated individuals.
+
+        Do refer to section E to ensure you meet testing requirements (FET / VoRT) from 13 September 2021.
+        
+        Do note that your participant(s) cannot be children 12 years old and below, as any classes/programmes for this segment are to be suspended or moved online from 27 September to 10 October 2021.
+
+    - title: Can high intensity classes such as martial arts, combat sports, still take place indoors?
+      content: |
+        High intensity classes held indoors where participants are unmasked can only take place if vaccination-differentiated SMMs are in place.
+
+        Such enterprises are:
+
+        * to implement vaccination-differentiated SMMs at their facilities
+        
+        * to prominently display that vaccination-differentiated SMMs are implemented on their premises
+
+        * to set up proper checking protocol at their access control
+
+        * responsible to conduct checks on the vaccination status of their participants at their access control. Persons who fail to have their status verified will be denied participation in high risk activities.
+
+        * to ensure that every person who enter their premises have their vaccination status checked and recorded manually or electronically, beyond the usual screening measures such as TraceTogether-only SafeEntry (TT-only SE), SafeEntry Gateway (SEGW) check-in & check-out and temperature checks.
+
+        * to ensure that participants, instructors and staff also adhere to an enhanced set of SMMs per Annex in the Sport Singapore guidance issued on 7 August 2021.
+
+        Those who choose not to implement vaccination-differentiated SMMs will not be allowed to conduct indoor unmasked activities nor provide common equipment at their facility.
+
+        Those that choose not to implement vaccination-differentiated SMMs may continue to conduct indoor masked activities without provision of equipment or outdoor activities. For indoor facility, participants, instructors and staff will also have to adhere to an enhanced set of SMMs per Annex in the Sport Singapore guidance issued on 7 August 2021.
+
+        In addition, classes such as TKD, MMA, Muay Thai, BJJ, Fencing, Judo, Boxing, and other similar activities that take place in enterprises without vaccination-differentiated SMMs must:
+
+        * Modify the activities to minimise contact as much as possible. Keep total grappling time to no more than 15 minutes in total per session.
+
+        * Ensure that participants and instructors are masked on at all times, refraining from conducting activities that are strenuous to the point that they feel the need to remove their masks.
+
+        * Not offer weight, strength or resistance training or cardio training of any form, and/or provide equipment for such training, such that they become strenuous activities. Not provide common equipment such as punching pads, bags, dummies, use of boxing ring, etc, where fomite transmission risk is high.
+
+        * Keep to cohorting to limit the extent of any contact tracing.
+
+        Do note that your participant(s) cannot be children 12 years old and below, as any classes/programmes for this segment are to be suspended or moved online from 27 September to 10 October 2021.
 
 - accordion:
   letter: d
   data:
-    - title: What sport events are currently permitted?
+    - title: I am moving my classes to the outdoor area near to my indoor facility. Can my participants enter to use the changing room/toilet/shower facilities in my gym/exercise studios after they are done with the physical activity?
       content: |
-        As part of the gradual resumption of sport and physical activity & exercise, sport events will resume as follows: 
+        Yes, they may use the changing room/toilet/shower facilities subject to prevailing safe management measures such as facility capacity and safe distancing. You have to take measures to ensure that transmission risks are minimised in such places. Participants should keep their masks on whilst in the changing rooms, and if they are taking a shower, to put on their mask promptly when done. You should make sure that changing rooms/toilet/shower facility are not overcrowded, and encourage people not to linger on the premises post-activity if they do not need to. If you are not able to ensure participants’ compliance to the necessary safe management measures, you are advised to close off the toilet/shower facilities. Violation of this may result in stop work order issued by the authorities.
+        
+        Do seek the approval of the venue owner of the outdoor location that you will be using before you move your classes outdoors.
+        
+        Government agencies will be conducting inspections. Enforcement action(s) under the COVID-19 (Temporary Measures) Act will be taken against businesses or individuals who fail to comply with safe management measures.
 
-        - <u>Live Spectator Sport Events</u> may resume from 14 June 2021, with up to 50 spectators without the need for attendees to undergo pre-event testing<sup>6</sup>.  Should the organiser implement pre-event testing , the number of spectators can be increased to 250, in zones of up to 50 persons. 
-        - <u>Mass Participation Sport Events</u> such as mass runs, open-water swims, cycling and triathlon events) may proceed from 21 June 2021.  Such events can proceed with up to 50 participants without the need for pre-event testing.  With pre-event testing, up to 250 participants (in waves of up to 50 persons) are allowed per session, with different sessions adequately separated by time<sup>7</sup> to avoid the congregation of participants at the venue.  
-        At this juncture, mass participation sport events will not be allowed to accommodate more than 250 participants per session, and will not be allowed to have invited spectators. Organisers are to put in place measures to prevent the spontaneous gathering of onlookers for such events.
-        - <u>Sport Competitions & Tournaments (without spectators<sup>8</sup>)</u> refer to competitions involving timed races or head-to-head matches where there could be multiple heats or qualifying rounds (“sessions”). Such events may resume from 21 June 2021, but must not exceed 50 persons in each facility, with different sessions adequately separated within a day or across multiple days, to avoid congregation. 
-        - Each match is capped at 5 persons (which includes the referees if they need to be in the field of play). If there are multiple matches, close contact must not exceed 50 persons a day for each participant. For example, if a team plays multiple matches a day, each team member shall not play more than 49 others (including teammates) in a day.  
-
-        <sup>6</sup> Please refer to [https://go.gov.sg/pet](https://go.gov.sg/pet){:target="_blank"}{:rel="noopener"} for MOH’s latest requirements and guidelines on pre-event testing.  
-        <sup>7</sup> Organisers may propose the number of sessions and time interval between sessions to ensure safe participation, which may vary depending on context.
-        <sup>8</sup> Sport tournaments and competitions with spectators will be treated as Live Spectator Sport Events.
-
-    - title: I have previously submitted my application and received Sport Singapore’s endorsement to organise an event. Can I still carry on?
+    - title: I am a Fitness Studio offering high intensity classes to children 12 years old and below where the children are unmasked. Can I have two groups of 3 children in the class separated by 3m distance between them? The 3 children in each group are from the same household.
       content: |
-        Events that were previously endorsed by Sport Singapore will need to have their SMMs updated and organisers are to resubmit their plans using the prescribed form for endorsement by Sport Singapore.  
+        All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below are to be suspended or moved online from 27 September to 10 October 2021.
 
-        Organisers will have to submit an application to Sport Singapore using the prescribed form and emailing it to [SPORT_Covid@sport.gov.sg](mailto:SPORT_Covid@sport.gov.sg) <u>at least 30 days prior</u> to the start of the event to give time for evaluation and discussion. Organisers are advised not to carry out related marketing/publicity efforts before receiving endorsement from Sport Singapore, as the event may require modifications before it may proceed<sup>9</sup>.   
-
-        Sport Singapore’s endorsement is only for the sport event SMMs. Organisers will need to seek further approval from facility owner / relevant agencies before their event can proceed. 
-
-        <sup>9</sup> Organisers will be responsible for the costs of the event (including the additional costs of modifications), and/or compensation to participants arising from event postponement or cancellation.
-
-    - title: I am an NSA and will like to conduct a tournament/competition during this period, for athletes’ international qualifications. Is it still possible?
+    - title: For indoors, if an instructor keeps mask on but participants do not, does that count as low- or high- risk activity? 
       content: |
-        NSAs are advised to approach their NSA Partnership officer from Sport Singapore as soon as possible to discuss these plans, and to obtain approval for the event, before they can proceed.
+        Even if an instructor is masked, the activity is considered high-risk if the participants/students are unmasked.
+
+    - title: Is there a minimum time gap between the end of an indoor class and the start of another? 
+      content: |
+        A minimum of 15 minutes is required to prevent intermingling and mixing between participants before and after class. Operators will have to clean and ventilate the room after each class ends.
+
+    - title: Can studios/gyms sell food and drinks? What about vending machines and water fountains?
+      content: |
+        SportSG continues to discourage operators from selling food and beverages on their premises. Vending machines and water coolers (for refilling purposes) are allowed.
 
 - accordion:
   letter: e
   data:
     - title: I am a registered instructor under Sport Singapore’s Large Group Outdoor Classes. How does the latest measures affect me?
       content: |
-        Approved large outdoor classes at public spaces<sup>10</sup> such as parks and HDB common areas, can continue.  
+        Approved large outdoor classes at public spaces<sup>5</sup>, such as parks and HDB common areas, can continue.
 
-        <u>From 14 to 20 June:</u>
-        For <u>organised programmes and classes **outdoors**</u>, a service provider (such as an instructor or a coach) from a permitted enterprise may guide the group and is included in the group size. Multiple groups of 5 remain allowable up to 30 participants or the capacity limit of the venue, whichever is lower, if the activity is of ***low intensity*** <u>with masks on at all times</u>. The groups of 5 are not to intermingle and must remain 3 metres apart.  
+        For organised programmes and classes outdoors, a service provider (such as an instructor or a coach) from a permitted enterprise may guide the group. Multiple groups of 2 remain allowable up to 50 participants (including instructor) or the capacity limit of the venue, whichever is lower. The groups of 2 are not to intermingle and must remain 3 metres apart.
 
-        If the activity is of ***high intensity*** where masks have to be removed, <u>only five persons are allowed</u> (including instructor or coach) and there can be no multiple groups of 5.  
+        In addition, during the stabilisation period:
 
-        <u>From 21 June:</u>
-        For ***high intensity*** where masks have to be removed, <u>five persons are allowed</u> (including instructor). There can also be multiple groups of 5 allowed, up to 30 participants or the capacity limit of the venue, whichever is lower.   
+        - All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below (born in 2009 onwards) are to be suspended or moved online from 27 September to 10 October 2021.
 
-        <sup>10</sup> An instructor may coach multiple groups of 5 persons, up to 30 pax or the venue capacity limit, whichever is lower. Instructors who are interested to conduct large outdoor classes of up to 30 pax at outdoor public spaces must be registered. Please visit [https://circle.myactivesg.com/programmes/classes/coaches/outdoor-classes-instructor-registration](https://circle.myactivesg.com/programmes/classes/coaches/outdoor-classes-instructor-registration){:target="_blank"}{:rel="noopener"} for more information.
+        -	Seniors are advised to stay at home except for essential activities such as buying food, groceries, and individual exercise activities in uncrowded locations as they are vulnerable to the virus.
+
+        <sup>5</sup> An instructor may coach multiple groups of 2 persons, up to 30 pax or the venue capacity limit, whichever is lower. Instructors who are interested to conduct large outdoor classes of up to 30 pax at outdoor public spaces must be registered. Please visit [https://circle.myactivesg.com/programmes/classes/coaches/outdoor-classes-instructor-registration](https://circle.myactivesg.com/programmes/classes/coaches/outdoor-classes-instructor-registration){:target="_blank"}{:rel="noopener"} for more information.  
+
+    - title: I am Zumba instructor conducting outdoor classes. Can I instruct 3 different groups of 2 participants at one go? Can I approach participants to guide them?
+      content: |
+        You may coach multiple groups of 2 persons, up to 50 pax or the venue capacity limit, whichever is lower. The groups of 2 are not to intermingle and must remain 3 metres apart, and that the participants do not switch groupings during the session. You should maintain a contact list of how the groups are organised to assist with contact tracing in the event of an infection. The records should be kept for 1 month.
+        
+        You can guide the participants from a 3-metre physical distancing at all times. Should you be unable to do so, and need to approach the participants to guide them, you would then need to be part of that group and not intermingle with the other groups.
+        
+        Instructors who are interested to conduct large outdoor classes of up to 50 pax at outdoor public spaces must be registered. Please visit [https://circle.myactivesg.com/programmes/classes/coaches/outdoor-classes-instructor-registration](https://circle.myactivesg.com/programmes/classes/coaches/outdoor-classes-instructor-registration){:target="_blank"}{:rel="noopener"} for more information.
+        
+        In addition, during the stabilisation period:
+        
+        - All organised sport or physical exercise/activity classes/programmes catering to children 12 years old and below (born in 2009 onwards) are to be suspended or moved online from 27 September to 10 October 2021.
+
+        - Seniors are advised to stay at home except for essential activities such as buying food, groceries, and individual exercise activities in uncrowded locations as they are vulnerable to the virus.
 
 - accordion:
   letter: f
   data:
-    - title: I am a gym owner. Do my staff need to undergo FET before I can reopen?
+    - title: What are the testing requirements for the sport / fitness sector starting 13 September 2021? 
       content: |
-        FET is currently not a condition for the gradual re-opening. Your facility and programmes can resume from 21 June. Details for the FET are being firmed up and more information will be released in due course.
+        As announced by the Multi-Ministry Taskforce on 6 September 2021, there will be a need to increase the frequency of testing regimes for all workforce, especially those in high-risk settings. From 13 September 2021, the mandatory testing regime for the sport and fitness sector will be as follows:
 
-    - title: I am a fitness instructor. Do I need to undergo FET and how do I go about it?
+        <img src="/images/covid/table.jpg">
+
+        <sup>6</sup> Does not include volunteers and those who are not paid/compensated for their services.  
+
+    - title: Who needs to do FET? Which types of staff need to do it?
       content: |
-        Instructors and staff who come into contact with unmasked users in the course of their work will be progressively scheduled to undergo regular FET as part of the enhanced national measures for workers involved in higher-risk mask-off activities.  More details will be released in due course. 
+        All workforce<sup>7</sup> (including full-time/part-time workers such as cleaners and administrative staff even if they are masked and do not interact with unmasked persons) in the following sport / fitness settings will have to be tested once a week:
 
-        Do note that FET is currently not a condition for the gradual re-opening. Facilities and programmes are allowed to re-open while details are being firmed up.
+        i.	All indoor (regardless of masked or unmasked activities) sport / fitness facilities and activities
 
-    - title: I am a yoga studio owner. My staff will need to undergo FET. Who will bear the cost for this requirement?
+        ii.	All outdoor unmasked sport / fitness activities
+
+        iii.	Activities involving children 12 years and under, regardless of masked or unmasked activities
+
+        <sup>7</sup> Does not include volunteers and those who are not paid/compensated for their services.  
+
+    - title: Who needs to do VoRT? Which types of staff need to do it?
       content: |
-        Sport Singapore and MCCY are working with the MOH on the details and will share more information in due course.
+        All unvaccinated staff (including full-time/part-time workers such as cleaners and administrative staff) in the following sport / fitness settings will have to be tested twice a week:
+        
+        i. All indoor (regardless of masked or unmasked activities) sport / fitness facilities and activities
+        
+        ii. All outdoor unmasked sport / fitness activities
+        
+        iii. Activities involving children 12 years and under, regardless of masked or unmasked activities
+        
+        Do note that your weekly FET RRT will count towards one of the twice weekly VoRT requirements and that the remaining test is not funded unless you are medically ineligible for vaccination. 
+
+    - title: I am an admin officer at my gym and are masked at all times with no interaction with anyone who is unmasked. I am unvaccinated. I understand that I need to do VoRT, but do I also need to do FET RRT? 
+      content: |
+        Yes you will need to do FET RRT as that is a separate testing regime for the workforce under sport and fitness sector. Each weekly FET RRT will count towards one of the twice weekly VoRT requirements. So if you have already done your FET RRT, you will need to do just one more VoRT.
+ 
+        - FET RRT may be done via (i) Employer-led Supervised Self-Swab (ESSS), or (ii) Quick Test Centres (QTCs); 
+
+        - VoRT may be done via (i) Quick Test Centres (QTCs), or ( ii) MOH approved Covid-19 test provider. 
+
+    - title: Can the Government cover the cost of testing? Who is eligible for the subsidy of these tests? 
+      content: |
+        FET RRT is subsidised for all specified workforce under the stipulated sport & fitness settings (regardless whether they are vaccinated or not) until 31 December 2021. 
+
+        For unvaccinated workforce that will have to undergo VoRT from 1 October 2021, their weekly FET RRT will count towards one of the twice weekly VoRT requirements. The remaining test is not funded unless they are medically ineligible for vaccination.
 
 - accordion:
   letter: g
   data:
+    - title: What sport events are currently permitted? 
+      content: |
+        Sport events can continue during the stipulated period as follows: 
+
+        **Spectator Sport Events.** Spectator sport events, such as Singapore Premier League football matches can proceed with up to 1,000 spectators (in zones of up to 50 persons) if all spectators are fully vaccinated (includes those that have valid PET result / have recovered from COVID-19).
+
+        **Mass Participation Sport Events.** Mass participation sport events, such as mass runs, open-water swims, cycling and triathlon events, can proceed with up to 1,000 participants (in waves of up to 50 persons) per session<sup>8</sup>, if all participants are fully vaccinated (includes those that have valid PET result / have recovered from COVID-19).
+
+        At this juncture, mass participation sport events will not be allowed to have invited spectators. Organisers are to put in place measures to prevent the spontaneous gathering of onlookers for such events.
+
+        **Sport Competitions & Tournaments** refer to competitions involving timed races or head-to-head matches where there could be multiple heats or qualifying rounds (“sessions”). Such events can continue but must not exceed 50 persons in each facility at any single point in time. Organisers are advised to arrange competitions with different sessions, adequately separated within a day (i.e. at different times of a day) or across multiple days, to avoid congregation. 
+        
+        Each match is allowed to have up to 2 persons in the field of play at any single point in time. For indoor unmasked competitions or activities, only fully vaccinated persons (includes those that have valid PET result / have recovered from COVID-19) may participate in such events.
+
+        For such sport competitions and tournaments, spectators are permitted, but must comply with the requirements under Spectator Sport Events above.
+
+        From 27 September to **24 October 2021**, mass participation sport events / sport competitions & tournaments catering to seniors 60 and above are discouraged. From 27 September to **10 October 2021**, mass participation sport events catering to children 12 years and below are to be suspended.
+
+        <sup>8</sup> Different sessions are required to be adequately separated by time to avoid the congregation of participants at the venue and its vicinity. Organisers may propose the number of sessions and time interval between sessions to ensure safe participation, which may vary depending on context.  
+
+    - title: I would like to organise a mass running event for 100 persons. What do I need to do?
+      content: |
+        All sport events that involve more than 50 persons in total (including participants, spectators, officials, event crew and support staff) will need to be endorsed by Sport Singapore before they can be conducted. Organisers will have to submit an application to Sport Singapore using the form in Annex A, emailing it to SPORT_Covid@sport.gov.sg at least 14 days prior to the start of the event to give time for evaluation and discussion. Organisers are advised not to carry out related marketing/publicity efforts before receiving endorsement from Sport Singapore, as the event may require modifications before it may proceed<sup>9</sup>.  Sport Singapore’s endorsement is only for the sport event SMMs. Organisers will need to seek further approval from facility owner / relevant agencies before their event can proceed. Events that were previously endorsed by Sport Singapore will need to have their SMMs updated and organisers are to resubmit their plans using the prescribed form for endorsement by Sport Singapore.
+
+        Do note that from 27 September to **24 October 2021**, mass participation sport events catering to seniors 60 and above are discouraged. From 27 September to **10 October 2021**, mass participation sport events catering to children 12 years and below are to be suspended.
+
+        <sup>9</sup> Organisers will be responsible for the costs of the event (including the additional costs of modifications), and/or compensation to participants arising from event postponement or cancellation.  
+    - title: I have previously submitted my application and received Sport Singapore’s endorsement to organise an event. Can I still carry on?  
+      content: |
+        Events that were previously endorsed by Sport Singapore will need to have their SMMs updated and organisers are to resubmit their plans using the prescribed form for endorsement by Sport Singapore.
+
+        Do note that from 27 September to **24 October 2021**, mass participation sport events catering to seniors 60 and above are discouraged. From 27 September to **10 October 2021**, mass participation sport events catering to children 12 years and below are to be suspended. 
+
+    - title: I am an NSA and will like to conduct a tournament/competition during this period, for athletes’ international qualifications. Is it still possible? 
+      content: |
+        NSAs are advised to approach their NSA Partnership officer from Sport Singapore as soon as possible to discuss these plans, and to obtain approval for the event, before they can proceed. 
+
+- accordion:
+  letter: h
+  data:
     - title: Which ActiveSG sport facilities are closed?
       content: |
-        Please see [https://www.myactivesg.com/Facilities/Sport-Centres/Facilities-Closure](https://www.myactivesg.com/Facilities/Sport-Centres/Facilities-Closure){:target="_blank"}{:rel="noopener"} for the list of ActiveSG facilities that are closed from 16 May – 20 June 2021.  
-
-        ActiveSG outdoor facilities such as stadiums, tennis courts and pools, as well as tenants of permitted services, will <u>remain open</u> from 16 May to 20 June 2021. Members of public are advised to check with the respective tenants before heading down. ActiveSG indoor facilities such as indoor courts, gyms and studios <u>will open</u> from 21 June 2021 onwards till further notice.
+        ActiveSG indoor and outdoor facilities such as indoor courts, gyms, studios, stadiums, tennis courts, pools, as well as tenants of permitted services, will be open. Members of public are advised to check with the respective tenants before heading down. For a list of open/closed ActiveSG indoor facilities and programmes during this period, please visit https://www.myactivesg.com/Facilities/Sport-Centres/Facilities-Closure.
 
     - title: Is there anyone who is not allowed into ActiveSG sport facilities?
       content: |
         Yes, users who display flu like symptoms (e.g. cough, fever above 38 degree Celsius), users who came back from overseas within the last 14 days, on Stay Home Notice / Quarantine Order, are not allowed within our premises.
 
-    - title: Which programmes under ActiveSG are affected?
+    - title: Which programmes under ActiveSG are affected and are there any exceptions between vaccinated and non-vaccinated individuals? 
       content: |
-        In line with the Ministry of Education (MOE)’s announcement on 16 and 18 May to reduce intermingling of students from different schools and enhance the safety of students, ***<u>all indoor</u>*** classes / programmes, regardless of class size, classes / programmes catering to children and youths who are 18 years (born 2003) and below, will be suspended from 19 May to 20 June 2021. In view of this, training for ActiveSG Academies & Clubs will continue virtually during this period. From 14 June to 20 June 2021, ***<u>outdoor</u>*** classes / programmes are allowed for only 1 group of 5 pax (including instructor).  
+        From 27 September: 
 
-        **<u>Indoor and outdoor</u>** mask-down activities (high intensity) will be allowed in groups of 5 (including instructor), up to 30 pax, from 21 June 2021 onwards till further notice.
+        The group count for all activities/programmes across all settings (indoor and outdoor) will be reduced from 5 to 2 pax. There can be multiple groups of 2 pax (including instructor), up to 30 pax for indoor classes and up to 50 pax for outdoor classes. 
+
+        * **All** programmes catering to 12 years and below **will be suspended** till 10 October 2021. 
+        * **Programmes organised by ActiveSG** for 60 years and above **will be suspended** till 24 October 2021. 
+
+        **Background on Vaccination-Differentiated SMMs for high-risk settings (Indoors unmasked activities)**
+
+        Definition of Fully Vaccinated Individuals: As fully vaccinated individuals have better protection against infection and severe illness, they may participate in activities in high-risk settings. You may participate if you fulfil one of the following conditions:
+
+        * An individual is considered fully vaccinated two weeks after he or she has received two doses of Pfizer-BioNTech/ Comirnaty, Moderna, or any WHO EUL vaccines<sup>10</sup>.
+        
+        * Unvaccinated individuals with a valid negative result on a Pre-Event Test taken in the past 24 hours at an MOH-approved medical service provider before the expected end of the class/programme/event or,
+        
+        * recovered COVID-19 individuals, are of similarly lower risk, and may also join in the group of fully vaccinated individuals.
+        
+        High-risk (indoor unmasked) activities are allowed and must be confined to no more than 2 individuals (including instructor / coach) if all participants are fully vaccinated (includes those that have valid PET result / have recovered from COVID-19). If any one of the participants is not fully vaccinated, then such activity is prohibited.
+        
+        **For Organised Classes / Programmes in High-Risk Settings (Indoors unmasked activities - applicable across Children & Youths & General Programmes and activities)**s
+
+        From 27 September 2021, **all** programmes catering to 12 years and below **will be suspended** till 10 October 2021.
+
+        Multiple groups of 2, up to 30 participants (including instructor / coach) or the capacity limit of the venue, whichever is lower, can take place in high-risk settings only if all participants are fully vaccinated (includes those that have valid PET result / have recovered from COVID-19). A record of the grouping is to be maintained to aid contact tracing. The records should be kept for 1 month.
+
+        <sup>10</sup> From 10 August 2021, individuals who are fully vaccinated with the World Health Organisation’s Emergency Use Listing (WHO EUL) vaccines such as Sinovac-CoronaVac, Sinopharm, and AstraZeneca will be eligible for the vaccination-differentiated Safe Management Measures.  
 
     - title: What are some ActiveSG’s measures to protect the safety and wellbeing of users?
       content: |
-        In order to safeguard the wellbeing of our guests, the following safe management measures will be put in place at all ActiveSG Sport Centres from 14 June till further notice: 
+        To safeguard the wellbeing of our guests, the following safe management measures will be put in place at all ActiveSG Sport Centres: 
+        
+        *	Recording of visitor details via ToS at our facilities. 
+        
+        *	Keeping the operating capacity to no more than 10 Sqm per person<sup>11</sup> or the venue capacity limit. 
+        
+        *	Regulating access at our ActiveSG sport centres to ensure adequate physical distancing among users. This applies to our all stadiums, sport halls and swimming complexes that have facility/sport specific measures that may supersede general safe management measures. 
+        
+        *	While exercising and playing sport, a 2-metre physical distancing between individuals should be maintained for general physical activities, unless the nature of activity requires the distance to be shortened; a 3-metre physical distancing between individuals for indoors high intensity or high movement exercise classes (only when it is not prohibited), unless the nature of activity requires the distance to be shortened. If there are multiple groups, the groups must not interact and must maintain a distance of 3 metres apart from one another at all times. Groups should not intermingle at all times. 
+        
+        *	Sharing of common equipment (when it is not prohibited) should be minimised as far as possible. The equipment (provided by facility) should be wiped down / sanitised before passing on for use by the next user. This includes equipment such as weights and balls. 
+        
+        *	Ensuring that participants, including the instructor, do not talk loudly, sing, or shout while engaging in physical activities to minimise risk of transmission via droplets. Instructor may raise their volume when communicating instructions or in the event of a potential danger. 
+        
+        *	Increased cleaning and sanitising of our facilities. 
 
-        - Implementing temperature taking and recording of visitor details via SafeEntry at our facilities. 
-        - Keeping the operating capacity to no more than 10 Sqm per person<sup>11</sup> or the venue capacity limit. Staff on the premises is not included as part of the maximum capacity of 10 Sqm per person. 
-        - Regulating access at our ActiveSG sport centres to ensure adequate physical distancing among users. This applies to our all stadiums, sport halls and swimming complexes that have facility/sport specific measures that may supersede general safe management measures. 
-        - Organised programmes and classes will be capped at 30 participants, in groups of 5 pax (including instructor), or the capacity limit of the venue, whichever is lower. There are also facility/sport specific measures that may supersede general safe management measures. 
-        - Physical distancing of at least 2m between participants when exercising and 3m between different groups of a maximum of 5 pax will be followed strictly at all times.  
-        - No provision of common equipment such as exercise mats to minimise fomite transmission. From 21 June 2021, sharing of common equipment will be allowed.  
-        - Ensuring that participants, including the instructor, do not talk loudly, sing, or shout while engaging in physical activities to minimise risk of transmission via droplets. Instructor may raise their volume when communicating instructions or in the event of a potential danger. 
-        - Increased cleaning and sanitising of our facilities. 
-
-        <sup>11</sup> Sport/recreational facilities can only admit a maximum number of persons according to its Gross Floor Area based on 10 Sqm per person, up to a maximum of 50 persons. No facility, regardless of size, shall admit more than 50 persons.
+        <sup>11</sup> Sport/recreational facilities can only admit a maximum number of persons according to its Gross Floor Area based on 10 Sqm per person, up to a maximum of 50 persons. This is not inclusive of staff.  
