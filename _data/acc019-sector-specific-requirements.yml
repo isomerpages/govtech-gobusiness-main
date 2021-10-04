@@ -33,6 +33,10 @@ accordion:
     content: |
       Country and recreation clubs are to comply to measures stipulated in this [document](/images/guides/Country and Rec Club Conditions (updated 25Sep)(clean).pdf){:target="_blank"} [last updated on 27 Sep 2021].
 
+  - title: Critical Food Supply Nodes
+    content: |
+      All enterprises that operate within the following critical food supply nodes (“Nodes”) – (a) Jurong Fishery Port; (b) Senoko Fishery Port; (c) Changi Creek; (d) Pasir Panjang Wholesale Centre; (e) abattoirs; and (f) slaughterhouses (“Enterprises”) are to comply with the Vaccinate or Regular Test (“VoRT”) regime, stipulated in this [document](/images/guides/VoRT Notice_30Sep_final.pdf){:target="_blank"} [last updated on 30 Sep 2021].
+
   - title: Disinfection Services
     content: |
       Disinfection companies (companies listed on NEA’s website providing disinfection services at non-healthcare premises exposed to confirmed COVID-19 cases) are to comply with the mandatory Fast and Easy Testing (FET) regime for disinfection workers, with the measures stipulated in this [notice](/images/guides/FET Notice_DC_27 August 2021.pdf){:target="_blank"} [last updated on 27 August 2021].
@@ -75,15 +79,9 @@ accordion:
 
       - In addition, all dine-in F&B establishments are to comply to the mandatory Fast and Easy Testing (FET) regime for outlet employees, with the measures stipulated in this [document](/images/guides/FET Notice to FB Industry_asof23Jun21_for dissemination_updated_clean 300621.pdf){:target="_blank"} [last updated on 30 June 2021]. With effect from 15 July 2021 onwards, all dine-in F&B establishments must also comply with the mandatory requirements set out in this updated [notice](/images/guides/Circular on FET for F&B sector (updated 28 July 2021).pdf){:target="_blank"}. [last updated on 28 July 2021]
 
-  - title: Health and social services
+  - title: Healthcare
     content: |
-      Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/(25 Sep) Advisory on Residential and Community-based Facilities_Stabilisation Phase_For Circulation.pdf){:target="_blank"} [last updated on 25 Sep 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}.
-
-      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](/images/guides/(25 Sep) Advisory on Essential Aid Distribution_Stabilisation Phase_For Circulation.pdf){:target="_blank"} [last updated on 25 Sep 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}.
-
-      In addition, all Homes and selected Centres, as indicated in the notice, are to comply with the mandatory requirements under Fast and Easy Testing (FET) regime for staff, regular vendors and regular volunteers stipulated in this [document](/images/guides/Updated FET notice.pdf){:target="_blank"} [last updated on 30 Sep 2021].
-
-      In addition, all Homes, Centres and agencies providing social services, as indicated in the notice, are to comply with the mandatory requirements under Vaccinate or Regular Test (VoRT) regime for staff, regular vendors and regular volunteers stipulated in this [document](/images/guides/MSF VoRT Notice_30 Sept (Notice).pdf){:target="_blank"} [last updated on 30 Sep 2021]. You might also wish to refer to the FAQ on [MSF’s website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}. 
+      All enterprises in the Healthcare and Community care sectors are to comply with the Vaccinate or Regular Test (“VoRT”) regime, stipulated in this [document](/images/guides/VoRT Notice for healthcare sector (as at 1 Oct 2021).pdf){:target="_blank"} [last updated on 1 Oct 2021].
 
   - title: Hostels
     content: |
@@ -92,7 +90,9 @@ accordion:
       For Annex A, please refer to this [document](/images/guides/Annex A_Checklist of SMMs for backpackers' hostel_24 Sept 2021.pdf){:target="_blank"}.<br>
       For Annex B, please refer to this [document](/images/guides/Annex B_Hostel Application Form_10Aug2021_Final.xlsx){:target="_blank"}.
 
-      In addition, hostels are to comply to the mandatory Fast and Easy Testing (FET) regime for relevant employees, with the measures stipulated in this [document](/images/guides/Stringent FET Notice_final_Hotels and Hotel Tenants_16 July 2021.pdf) [last updated on 16 July 2021].
+      In addition, hostels are to comply to the mandatory Fast and Easy Testing (FET) regime for relevant employees, with the measures stipulated in this [document](/images/guides/Stringent FET Notice_STB 1Oct FINAL.pdf){:target="_blank"} [last updated on 1 Oct 2021].
+
+      All hostels are to comply with the requirements of the Vaccinate or Regular Test (VoRT) regime as stipulated in this [document](/images/guides/VoRT Notice_STB 30Sep 1733 FINAL.pdf){:target="_blank"} [last updated on 30 Sep 2021].
 
   - title: Hotels
     content: |
@@ -100,7 +100,9 @@ accordion:
 
       You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-hotels.html){:target="_blank"}{:rel="noopener"}.
 
-      In addition, hotels are to comply to the mandatory Fast and Easy Testing (FET) regime for relevant employees, with the measures stipulated in this [document](/images/guides/Stringent FET Notice_final_Hotels and Hotel Tenants_16 July 2021.pdf) [last updated on 16 July 2021].
+      In addition, hotels are to comply to the mandatory Fast and Easy Testing (FET) regime for relevant employees, with the measures stipulated in this [document](/images/guides/Stringent FET Notice_STB 1Oct FINAL.pdf) [last updated on 16 July 2021].
+
+      All hotels are to comply with the requirements of the Vaccinate or Regular Test (VoRT) regime as stipulated in this [document](/images/guides/VoRT Notice_STB 30Sep 1733 FINAL.pdf){:target="_blank"} [last updated on 30 Sep 2021]
 
   - title: Landscape-related services
     content: |
@@ -198,11 +200,21 @@ accordion:
 
       - Businesses providing cleaning services at retail malls are also required to comply with the mandatory FET requirements set out in this [notice](/images/guides/FET Notice_MallCleaning_31 Aug 2021.pdf){:target="_blank"}. [last updated on 31 August 2021]
 
+  - title: Social Services
+    content: |
+      Residential and Community-based Facilities are to comply to measures stipulated in this [document](/images/guides/(25 Sep) Advisory on Residential and Community-based Facilities_Stabilisation Phase_For Circulation.pdf){:target="_blank"} [last updated on 25 Sep 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}.
+
+      Social Service Agencies and community groups distributing essential aid (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid) are to comply to measures stipulated in this [document](/images/guides/(25 Sep) Advisory on Essential Aid Distribution_Stabilisation Phase_For Circulation.pdf){:target="_blank"} [last updated on 25 Sep 2021]. You can also refer to the Ministry of Social and Family Development [website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}.
+
+      In addition, all Homes and selected Centres, as indicated in the notice, are to comply with the mandatory requirements under Fast and Easy Testing (FET) regime for staff, regular vendors and regular volunteers stipulated in this [document](/images/guides/Updated FET notice.pdf){:target="_blank"} [last updated on 30 Sep 2021].
+
+      In addition, all Homes, Centres and agencies providing social services, as indicated in the notice, are to comply with the mandatory requirements under Vaccinate or Regular Test (VoRT) regime for staff, regular vendors and regular volunteers stipulated in this [document](/images/guides/MSF VoRT Notice_30 Sept (Notice).pdf){:target="_blank"} [last updated on 30 Sep 2021]. You might also wish to refer to the FAQ on [MSF’s website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}. 
+
   - title: Sports sector enterprises, sports education, and premises with sports facilities
     content: |
       Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/Sport_PE_PA SMMs from 27 Sep 2021 (final).pdf){:target="_blank"} [last updated on 25 Sep 2021].
 
-      In addition, with effect from 15 Jul 2021 onwards, all sports enterprises, including self-employed persons, are to comply to the mandatory Fast and East Testing (FET) regime for relevant employees, with the measures stipulated in this [document](/images/guides/Stringent FET Notice_20210925.pdf){:target="_blank"} [last updated on 25 Sep 2021], and the mandatory VoRT requirements stipulated in this [document](/images/guides/VoRT Notice 20210925.pdf){:target="_blank"} [last updated on 25 Sep 2021].
+      In addition, with effect from 15 Jul 2021 onwards, all sports enterprises, including self-employed persons, are to comply to the mandatory Fast and East Testing (FET) regime for relevant employees, with the measures stipulated in this [document](/images/guides/VoRT Notice_Sport and Fitness Industry 20210930_final.pdf){:target="_blank"} [last updated on 30 Sep 2021], and the mandatory VoRT requirements stipulated in this [document](/images/guides/VoRT Notice_30Sep_final.pdf){:target="_blank"} [last updated on 30 Sep 2021].
 
       Lion Dance Performing Troupes are to comply to measures stipulated in this [document](/images/guides/PerformingTroupesAdvisory.pdf){:target="_blank"} [last updated 8 February 2021].
 
