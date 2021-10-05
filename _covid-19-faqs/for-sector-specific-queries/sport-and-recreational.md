@@ -6,33 +6,7 @@ third_nav_title: For Sector-Specific Queries
 
 ### Sport & recreational facility operators & sport, physical exercise & activity administrators
 
-#### Safe Management Measures During This Stabilisation Period 
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="a" %}
-
-#### On Vaccination-Differentiated Safe Management Measures & Eligibility 
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="b" %}
-
-#### On Group Size for Sport & Physical Activities
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="c" %}
-
-#### General Questions on Sport & Physical Exercise/Activity SMMs 
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="d" %}
-
-#### On Large Group Outdoor Classes
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="e" %}
-
-#### On Regular Fast & Easy Testing (FET) And “Vaccinate or Regular Test” (VoRT) Regime for Sport and Fitness Sector
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="f" %}
-
-#### On Sports Events
-
-{% include letter-accordion.html accordions=site.data.acc094-sport-and-recreational letter="g" %}
+Please refer to this [document](/images/guides/FAQs on SMM for Sport_PE_PA from 27 Sep 2021.pdf){:target="_blank"} for a list of Frequently Asked Questions (FAQs).
 
 
 [Back to Covid-19 Overview](/covid/)
