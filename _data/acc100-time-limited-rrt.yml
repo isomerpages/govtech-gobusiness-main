@@ -148,7 +148,7 @@
   data:
     - title: How do I use the test kits?
       content: |
-        Please refer to the following self-test instructions, depending on the brand of ART kits you have received:
+        Please refer to the following self-test instructions, depending on the brand of ART kits you have received. For BD Veritor, an Analyzer is not required; the test results can be read visually as per the instructions below:
         
         - [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}
         - [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}
