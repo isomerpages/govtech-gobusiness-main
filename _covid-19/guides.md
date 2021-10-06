@@ -6,9 +6,9 @@ permalink: /guides/
 
 | User Guides | Download |
 |---|---|
-| General exemption application | [PDF](/images/guides/General Exemption Applications (23 Aug 2021).pdf){:target="_blank"} |
-| General exemption appeal | [PDF](/images/guides/General Exemption Appeals (28 June 2021).pdf){:target="_blank"} |
-| Additional manpower application | [PDF](/images/guides/Additional Manpower Applications (28 June 2021).pdf){:target="_blank"} |
-| Manpower declaration | [PDF](/images/guides/Manpower Declaration (24 August 2021).pdf){:target="_blank"} |
-| Manpower declaration for M&O/Process companies, and companies with manpower quota | [PDF](/images/guides/Manpower Declaration (MO Process Companies and Companies with Quota) (23 Aug 2021).pdf){:target="_blank"} |
-| Time-limited exemption | [PDF](/images/guides/Time Limited Exemption Applications (28 June 2021).pdf){:target="_blank"} |
+| Manpower declaration | [PDF](/images/guides/Manpower Declaration (6 October 2021).pdf){:target="_blank"} |
+| Manpower declaration for M&O/Process companies, and companies with manpower quota | [PDF](/images/guides/Manpower Declaration MO Process Companies and Companies with Quota 6 October 2021.pdf){:target="_blank"} |
+| General exemption application | [PDF](/images/guides/General Exemption Applications (6 October 2021).pdf){:target="_blank"} |
+| General exemption appeal | [PDF](/images/guides/General Exemption Appeals (6 October 2021).pdf){:target="_blank"} |
+| Additional manpower application | [PDF](/images/guides/Additional Manpower Applications (6 October 2021).pdf){:target="_blank"} |
+| Time-limited exemption | [PDF](/images/guides/Time Limited Exemption Applications (6 October 2021).pdf){:target="_blank"} |
