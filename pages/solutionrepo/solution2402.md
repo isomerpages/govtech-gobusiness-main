@@ -1,15 +1,15 @@
 ---
-title: MyRetailer Android POS - Package D with Dashboard & Unified Payments
-permalink: /productivity-solutions-grant/solutionrepo/solution346
+title: OS Store E-Commerce - Premium
+permalink: /productivity-solutions-grant/solutionrepo/solution2402
 ---
 
 ### Description
 
-MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
+OS Store is a web-based, e-commerce solution that enables SMEs to build a storefront from the ground up. The custom UI with smart features and plugins ensures seamless retail management and UX. It is designed to help businesses to go digital and deal with the most common challenges, such as cybersecurity, order fulfillment, customer segmentation and experience, traffic conversion, marketing, engagement and loyalty, competition, pricing, shipping, refund, point of sale and inventory management.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
+Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

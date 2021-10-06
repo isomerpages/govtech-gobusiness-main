@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Plus Version 4-Package C with Web Store
+title: MyRetailer Plus Version 4 - Package C with Web Store
 permalink: /productivity-solutions-grant/solutionrepo/solution1264
 ---
 
@@ -9,7 +9,7 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPLUSAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

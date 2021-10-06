@@ -1,15 +1,15 @@
 ---
-title: MyRetailer Android POS - Package D with Dashboard & Unified Payments
-permalink: /productivity-solutions-grant/solutionrepo/solution346
+title: NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)
+permalink: /productivity-solutions-grant/solutionrepo/solution2391
 ---
 
 ### Description
 
-MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
+NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
+Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

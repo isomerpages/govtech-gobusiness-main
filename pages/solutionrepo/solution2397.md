@@ -1,15 +1,17 @@
 ---
-title: MyRetailer Android POS - Package D with Dashboard & Unified Payments
-permalink: /productivity-solutions-grant/solutionrepo/solution346
+title: Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 100
+permalink: /productivity-solutions-grant/solutionrepo/solution2397
 ---
 
 ### Description
 
-MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
+With more than 10 years' experience in HR Time Attendance Solution, Flick understands the need of having a hassle-free Time Attendance Solution
+
+Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance software that is flexible and proven to work for everyday time management and attendance needs. Flick believes in working together with Clients towards a more efficient HR system and solution, which will in turn reduce Clients' workload significantly.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
+Web URL: www.flick.sg <br>Contact Hotline: 62768255 <br>Contact Email: sales@flick.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
