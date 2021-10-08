@@ -22,4 +22,4 @@ All businesses should take note of the following:
 
 - Any applicable sector-specific requirements
 
-![SMR](/images/covid/smradvice.jpg 'SMR')
+![SMR](/images/covid/Adhere_to_Safe_Management_Measures_at_Workplaces_Infographic_v3.jpg 'SMR')
