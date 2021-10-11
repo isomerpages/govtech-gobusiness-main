@@ -30,7 +30,7 @@ Firms with employees that meet the eligibility criteria may apply for ART kits v
  
 The application period is from 16 Sep – 13 Oct 2021. Corporate entity login (Corppass) is required for this application form. Please only submit one application form per company UEN. Multiple or inaccurate submissions will be voided and processing will be further delayed.
 
-Successful applicants will be informed of their delivery within 5 working days from application. Please commence weekly testing with immediate effect, upon receipt of the ART kits. 
+Successful applicants will be informed of their delivery within 5 working days from application. <b>Please note that we are experiencing a surge in demand from applicant companies and delivery might take a longer time than 5 working days during this period. You will receive a delivery notification from the vendor when the kits are ready to be sent out.</b> Please commence weekly testing with immediate effect, upon receipt of the ART kits. 
 
 For queries about your application, please contact:
 
@@ -42,9 +42,13 @@ For queries about your application, please contact:
 Learn more about how to perform a self-test using ART:
 
 |-|-|
-|Self-test instructions | * [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> * [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"} |
-|Repacking instructions| * [Abbott Panbio](/images/guides/Guide to repack use Abbott Panbio ART.pptx){:target="_blank"}<br> * [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}|
+|Self-test instructions | * [Abbott Panbio](https://go.gov.sg/abbott-panbio){:target="_blank"}{:rel="noopener"}<br> * [BD Veritor](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}<br> * [SD Biosensor](https://go.gov.sg/sd-biosensor){:target="_blank"}{:rel="noopener"} |
+|Repacking instructions| * [Abbott Panbio](/images/guides/Guide to repack use Abbott Panbio ART.pptx){:target="_blank"}<br> * [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}<br> * [SD Biosensor](/images/guides/Guide to repack & use SD Biosensor ART.pptx){:target="_blank"}|
 |More resources | [https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
+
+To note for the <u><b>BD Veritor Kits</b></u>: 
+•	The expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pptx){:target="_blank"} for more information. 
+•	An Analyzer is not required; the test results can be read visually as per the self-test instructions above.
 
 ### Frequently Asked Questions (FAQ)
 

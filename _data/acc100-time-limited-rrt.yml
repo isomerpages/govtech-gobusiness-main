@@ -92,6 +92,10 @@
       content: |
         Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for onsite workers upon receipt of the kits.
 
+    - title: My company has missed the application deadline. Can we still apply?
+      content: |
+        The application period is from 16 Sep – 13 Oct 2021. Companies will not be able to apply after the application period.
+
 - accordion:
   letter: c
   data:
@@ -113,6 +117,15 @@
 
         - [Abbott Panbio](/images/guides/Guide to repack use Abbott Panbio ART.pptx){:target="_blank"}
         - [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}
+        - [SD Biosensor](/images/guides/Guide to repack & use SD Biosensor ART.pptx){:target="_blank"}
+
+    - title: I have received the BD Veritor kits and they are close to expiring. Can I be issued with a new batch?
+      content: |
+        Please note that the expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pptx){:target="_blank"} for more information.
+
+    - title: I have received the BD Veritor kits and the box and instructions indicate that the test kits require the use of BD Veritor Plus Analyzer. What should I do? 
+      content: |
+        An Analyzer is not required; the test results can be read visually as per these [instructions](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}.
 
     - title: Can my company exchange the ART kits for another brand?
       content: |
