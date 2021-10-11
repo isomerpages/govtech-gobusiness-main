@@ -47,7 +47,7 @@ Learn more about how to perform a self-test using ART:
 |More resources | [https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
 
 To note for the <u><b>BD Veritor Kits</b></u>: 
-* The expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pptx){:target="_blank"} for more information. 
+* The expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pdf){:target="_blank"} for more information. 
 * An Analyzer is not required; the test results can be read visually as per the self-test instructions above.
 
 ### Frequently Asked Questions (FAQ)
