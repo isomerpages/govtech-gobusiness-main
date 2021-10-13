@@ -1,11 +1,11 @@
 ---
-title: Culture Tank System with Water Monitoring and Control System
+title: Conveyor System for transporting materials
 permalink: /productivity-solutions-grant/solutionrepo/solution2129
 ---
 
 ### Description
 
-Fish cultivation system with monitoring and control system
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: HReasily Version 5 - Package (Premium 200 employees)
+title: HReasily Version 5 - Package (Premium 100 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution444
 ---
 
@@ -9,7 +9,7 @@ HReasily is a cloud-based HR solution that provides end to end employee data col
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: HR Easily Pte Ltd<br>Web URL: https://www.hreasily.com/<br>Contact Hotline: 6438 3190    <br>Contact Email:enquiry@hreasily.com    <br>
+Company Name: HR Easily Pte Ltd<br>Web URL: https://www.hreasily.com/<br>Contact Hotline: 6438 3190    <br>Contact Email:enquiry@hreasily.com    
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

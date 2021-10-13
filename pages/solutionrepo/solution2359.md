@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (3 Pax)
+title: i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution2359
 ---
 
 ### Description
 
-Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm where the firm makes use of cloud accounting eco-system of Quickbooks Online and Xero and its add-ons to support local SMEs to digitalize the sales, accounting and payroll processes. The firm also performs compliance services including using cloud technology to perform cloud book-keeping and cloud payroll services to SMEs.
+Since 2014, HEXA Singapore has been building websites and applications from strategy and planning to design and development. We also provide data migration to extensive API integrations and anything in between for start-ups, small to mid-size businesses, enterprise organizations, and marketing agencies.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Payroll_20210136_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hexa_20200809_Desensitised_Annex_3_Part12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+Web URL: https://hexa.sg/products/ <br>Contact Hotline: 69777797 <br>Contact Email: howdy@hexa.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

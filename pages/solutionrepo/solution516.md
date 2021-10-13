@@ -1,5 +1,5 @@
 ---
-title: EndPoint Protection Platform - 50 Licenses
+title: EndPoint Protection Platform - 25 licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution516
 ---
 
@@ -10,7 +10,7 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

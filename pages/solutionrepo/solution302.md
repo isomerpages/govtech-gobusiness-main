@@ -1,13 +1,13 @@
 ---
-title: Vacuum Packing and Sealing Machine
+title: Commercial Inkjet Printer
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
 ### Description
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap loaded into the vacuum chambers, the product will be vacuum sealed
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
-It is recommended for the equipment to have a digital interface for ease of use
+Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. 
+They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
+It is recommended for the Inkjet Printer to be able to integrate with the production line for a smoother flow of operation
 
 ### Details of Solution
 
@@ -33,7 +33,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum vacuum chamber surface area (Length x Width) of 2184cm2
+
+Touchscreen interface, able to manually input datecode/ expiry date for products
+Can automatically print unique barcode for each product from the production line
 
 ### Contact Information
 N.A.

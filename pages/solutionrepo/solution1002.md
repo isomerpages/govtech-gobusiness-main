@@ -1,15 +1,15 @@
 ---
-title: Stendard Solution  Version 1.6.1 - Starter
+title: Dropbox Business - Dropbox Business 20 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1002
 ---
 
 ### Description
 
-Stendard Solution  is a cloud-based document management system that allows you to easily store, maintain, review and sign-off documents electronically. Published documents are automatically maintained with version controlling, enabling access to the latest version of documents at all time. With our workflow module, you can easily create, customise and simply tailor a fool-proof to-do list for your teams and everyone involved in any project. We put quality at the centre of your business.
+Dropbox is a file storage solution known to many individuals, but the business edition enables companies with more control. Dropbox Business has unlimited storage capacity that allows you to store your files securely in the cloud, shares easily with external parties, and collaborate conveniently with your team members. It is also effective for organization management & control. With Web Imp as your vendor, you get an additional advantage with an established tech firm providing local support.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io <br>
+Company Name:WEB IMP PTE LTD <br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 93689672 <br>Contact Email: wilson@webimp.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

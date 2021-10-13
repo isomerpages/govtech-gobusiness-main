@@ -1,5 +1,5 @@
 ---
-title: FleetManager Version 5.0 - FleetManager Leasing Plan for 10 vehicles
+title: FleetManager Version 5.0 - FleetManager Leasing Plan for 5 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution2060
 ---
 
@@ -9,7 +9,7 @@ FleetManager App software is a modern fleet management system offered by Logisfl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

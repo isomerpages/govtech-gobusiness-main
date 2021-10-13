@@ -1,5 +1,5 @@
 ---
-title: Flavor CRM Version 1 - Advanced Mode 2
+title: Flavor CRM Version 1 - Advanced Mode 1
 permalink: /productivity-solutions-grant/solutionrepo/solution818
 ---
 
@@ -10,7 +10,7 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

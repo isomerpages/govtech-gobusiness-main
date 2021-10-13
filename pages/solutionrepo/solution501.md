@@ -1,5 +1,5 @@
 ---
-title: Sage 300  - Package A3 (Advanced Edition - 10 Users)
+title: Sage 300  - Package A2 (Advanced Edition - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution501
 ---
 
@@ -9,7 +9,7 @@ Sage 300 is an ERP solution which automates and connects the various work proces
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityPriceAnnex3_CR12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityPriceAnnex3_CR12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

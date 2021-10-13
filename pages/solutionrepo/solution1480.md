@@ -1,5 +1,5 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank with Auto ETL - Small Engine)
+title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 2 Bank)
 permalink: /productivity-solutions-grant/solutionrepo/solution1480
 ---
 
@@ -9,7 +9,7 @@ KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

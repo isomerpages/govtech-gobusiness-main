@@ -1,5 +1,5 @@
 ---
-title: OpenCart E-Commerce Website Deployment - eCommerce Revamp
+title: OpenCart E-Commerce Website Deployment - eCommerce Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1445
 ---
 
@@ -9,7 +9,7 @@ OpenCart is the world's top three open source e-commerce software. It has everyt
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

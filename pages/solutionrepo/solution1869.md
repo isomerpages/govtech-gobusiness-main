@@ -1,5 +1,5 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Lite with Next Business Day Security Support
+title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Mini with Next Business Day Security Support
 permalink: /productivity-solutions-grant/solutionrepo/solution1869
 ---
 
@@ -11,7 +11,7 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

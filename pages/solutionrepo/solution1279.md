@@ -1,15 +1,15 @@
 ---
-title: V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package A
+title: Managed Firewall Solution - Fortigate 200F
 permalink: /productivity-solutions-grant/solutionrepo/solution1279
 ---
 
 ### Description
 
-V3Nity-FMS Fleet Management System is a Web based Telematics system powered by V3 Smart Technologies V3Nity proprietary software engine that empower users of our system to effectively monitor and manage its fleet of vehicles in real time using V3 designed small and IMDA/SIRIM approved GPS/3G enabled Smart Tracking device, ranging from tracking and location, asset security to optimising asset utilization, vehicle health status, and safety by measuring driving variables and driver behaviour.
+LGA's Managed Firewall Service provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 LGA support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance due to our fully managed service.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com 
+Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

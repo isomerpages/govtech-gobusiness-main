@@ -1,15 +1,15 @@
 ---
-title: SmartTab eMenu Version 4 - Package (10 eMenu Licenses with HW)
+title: SmartKiosk Version 1 - Package (2 Kiosks with HW Rental)
 permalink: /productivity-solutions-grant/solutionrepo/solution840
 ---
 
 ### Description
 
-TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity.
+TabSquare's SmartKiosk Version1 is a Hybrid Digital Ordering and Payment solution that drives self-ordering, payment and customer engagements which improves customer experience and increase productivity of F&B operators. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/TabSquare_SmartKiosk_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

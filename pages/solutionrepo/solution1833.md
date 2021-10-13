@@ -1,5 +1,5 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 3 Mobile and Kiosk Ordering
+title: Yumstone F&B Solutions Version 5.0 - Package 2 Mobile and Emenu Ordering
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 
@@ -13,7 +13,7 @@ Major Productivity Solutions:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

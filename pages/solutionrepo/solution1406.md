@@ -1,5 +1,5 @@
 ---
-title: StaffAny Version 1.0-Package D (150 Users)
+title: StaffAny Version 1.0-Package C (100 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1406
 ---
 
@@ -9,7 +9,7 @@ StaffAny is a software-as-a-service that helps business owners reduce work dedic
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

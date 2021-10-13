@@ -1,5 +1,5 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4-Package (Custom Data Loading)
+title: AxiomSL MAS 610 SaaS version 4-Package (Standard Data Loading)
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 
@@ -9,7 +9,7 @@ AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

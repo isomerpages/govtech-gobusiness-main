@@ -1,5 +1,5 @@
 ---
-title: Singtel-Fortinet-FG-400E inclusive of 1 Year Unified (UTM) Protection
+title: Singtel-Fortinet -  FG-100F with Enhanced Managed Security Services
 permalink: /productivity-solutions-grant/solutionrepo/solution1493
 ---
 
@@ -9,7 +9,7 @@ A network appliance that consolidates multiple security and networking functions
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Fortigate_UTM_Annex_3_CR_2_wef_29_October_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_FORTINET_Annex_3_CR_wef_14_Oct_21_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

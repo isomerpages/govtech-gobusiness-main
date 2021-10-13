@@ -1,16 +1,15 @@
 ---
-title: Revel Systems - Revel Essentials - Quick Service & Coffeeshop
+title: FleetManager Version 5.0 - FleetManager Leasing Plan for 20 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution2063
 ---
 
 ### Description
 
-Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+FleetManager App software is a modern fleet management system offered by Logisfleet Pte Ltd since 2010. With more than a decade of experience helping Singapore companies digitize their fleet operations, our capabilities and strengths are constantly evolving to match our customers' high expectations. We have equipped ourselves with our own in-house automotive technicians, constantly innovate with our own R&D team, and own a dedicated 3000 square feet workshop for vehicle drive-in installation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
+Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

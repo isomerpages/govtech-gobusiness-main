@@ -1,11 +1,11 @@
 ---
-title: Automatic egg case labelling machine
+title: Automated Slaughtering Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 
 ### Description
 
-Egg pack printing system or pack labelling system which allow the user to fully customize their label.
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ### Details of Solution
 

@@ -1,15 +1,15 @@
 ---
-title: i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)
+title: APEX - APEX StartUp
 permalink: /productivity-solutions-grant/solutionrepo/solution2341
 ---
 
 ### Description
 
-Since 2014, HEXA Singapore has been building websites and applications from strategy and planning to design and development. We also provide data migration to extensive API integrations and anything in between for start-ups, small to mid-size businesses, enterprise organizations, and marketing agencies.
+A fully integrated cloud-based information management solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hexa_20200809_Desensitised_Annex_3_Part12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SIACAD_20210266_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://hexa.sg/products/ <br>Contact Hotline: 69777797 <br>Contact Email: howdy@hexa.sg <br>
+Web URL: http://www.siacad.com/ <br>Contact Hotline: 62253823 <br>Contact Email: apex15@siacad.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

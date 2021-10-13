@@ -1,5 +1,5 @@
 ---
-title: Moneyworks Version 8 - Now (3 users)
+title: Moneyworks Version 8 - Gold (1 user)
 permalink: /productivity-solutions-grant/solutionrepo/solution679
 ---
 
@@ -9,7 +9,7 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

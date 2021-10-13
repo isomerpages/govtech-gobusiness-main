@@ -1,11 +1,11 @@
 ---
-title: Closed Containment System
+title: Automatic Seed Sowing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
 ### Description
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
 ### Details of Solution
 

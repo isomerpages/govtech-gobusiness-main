@@ -1,15 +1,15 @@
 ---
-title: Vehicle Support System - Vehicle Support System (12 Vehicles Package)
+title: Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package E)
 permalink: /productivity-solutions-grant/solutionrepo/solution1303
 ---
 
 ### Description
 
-VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning system for Vehicle Tracking System that stream live location with video and much more. Video cameras installed on 2 sides of the vehicle, the system is able to monitor and record the vehicle front and back in a real-time basis. Providing an enhanced visibility for blind spot in accident prevention. Video footage and GPS data is stored on MDVR/Cloud based for ease of viewing, retrieving and playback.
+Cartrack Fleet offers companies the visibility of their fleet, enabling better control and efficiency management in achieving greater productivity. Cartrack Fleet includes provision of a proven in-house developed platform and installation of advanced telematics devices. Cartrack platform provides our customers with real-time actionable business intelligence, based on advanced technology and reliable data.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+Company Name:Cartrack Technologies South East Asia Pte Ltd <br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

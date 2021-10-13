@@ -1,11 +1,11 @@
 ---
-title: Crate/ Tray washing machine
+title: Closed Containment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2128
 ---
 
 ### Description
 
-A machine used to wash crates and trays used for farming.
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ### Details of Solution
 

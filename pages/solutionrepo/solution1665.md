@@ -1,5 +1,5 @@
 ---
-title: THEREFORE Version 2020 - Therefore-in-e-Cloud Package 2 (Up to 10 users)
+title: THEREFORE Version 2020 - Therefore-in-e-CLOUD Package 1 (5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1665
 ---
 
@@ -9,7 +9,7 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

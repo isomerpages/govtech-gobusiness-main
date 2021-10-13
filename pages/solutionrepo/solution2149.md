@@ -1,11 +1,11 @@
 ---
-title: Solar Panels System and Energy Storage System
+title: Multi-tier Cultivation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ### Description
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ### Details of Solution
 

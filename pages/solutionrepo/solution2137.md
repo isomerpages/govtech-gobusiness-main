@@ -1,11 +1,11 @@
 ---
-title: Grass Processing Machine
+title: Farm Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2137
 ---
 
 ### Description
 
-A machine to mix and chop up the grass for animal feed. 
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ### Details of Solution
 

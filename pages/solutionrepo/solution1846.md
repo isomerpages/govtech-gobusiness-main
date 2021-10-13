@@ -1,5 +1,5 @@
 ---
-title: ABSS PremierPlus Version 23 - Package (3 Users with InvoiceNow)
+title: ABSS PremierPlus Version 23 - Package (Single User with InvoiceNow)
 permalink: /productivity-solutions-grant/solutionrepo/solution1846
 ---
 
@@ -9,7 +9,7 @@ ABSS Premier is an accounting and inventory management system that integrates wi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Premier_V23_Annex3_CR_wef_7_Jan_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Premier_V23_Annex3_CR_wef_7_Jan_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

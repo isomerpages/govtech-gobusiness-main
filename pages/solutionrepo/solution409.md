@@ -1,5 +1,5 @@
 ---
-title: iREP Security System Version 3 - Package (Mobile Patrol & Incident Management with 5 Body Worn Camera)
+title: iREP Security System Version 3 - Package (Mobile Patrol & Incident Management with 10 Body Worn Camera)
 permalink: /productivity-solutions-grant/solutionrepo/solution409
 ---
 
@@ -12,7 +12,7 @@ iREP Security is a mobile reporting, maintenance tracking and monitoring system 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_MnP_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_MnP_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package B (Medium Restaurant  (E-waiter for 2 Users, CRM & KDS Lite for 3 Users))
+title: Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))
 permalink: /productivity-solutions-grant/solutionrepo/solution829
 ---
 
@@ -9,7 +9,7 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

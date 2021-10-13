@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Sorter/ Grader
+title: Automated Counter/ Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ### Description
 
-Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ### Details of Solution
 

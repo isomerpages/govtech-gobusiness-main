@@ -1,15 +1,23 @@
 ---
-title: Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F
+title: Sophos XG Firewall - XG 210
 permalink: /productivity-solutions-grant/solutionrepo/solution2387
 ---
 
 ### Description
 
-FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
+Sophos XG Cybersecurity Solution that provides :
+(i) Network Firewall
+(ii) Intrusion Detection/Prevention System
+(iii) Virtual Private Network (VPN)
+(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
+(v) Secure Email Gareway (e.g. anti-spam, content filtering)
+(vi) Anti-Virus/Anti-Malware
+(vii) Application Control
+(viii) Sandboxing
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Eminet_20200439_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +42,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.care.biz <br>Contact Hotline: 67448022 <br>Contact Email: sales@sg.care.biz <br>
+Web URL: www.eminet.com.sg <br>Contact Hotline: 66019898 <br>Contact Email: charles@eminet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

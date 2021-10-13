@@ -1,15 +1,15 @@
 ---
-title: SentroWeb - Lite 50
+title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 200 x GR with Cyber Essential Course 1 Year Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1318
 ---
 
 ### Description
 
-Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that you can take the complexities out of AML/CFT compliance, and get straight to business.
+The GRmail removes the email threats even before it reaches the email server and GRisolation protects the users, by opening any malicious links in a sandbox so that it does not affect their computers. This solution also detects and filters away Chinese characters emails. Our solution works with all kinds of email platforms - Office 365, Gsuite or Cpanel. We will assist to migrate the domain name and help with the setup of the email security solution on the DNS record level.  
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net <br>
+Company Name:Nucleo Consulting Pte Ltd <br>Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

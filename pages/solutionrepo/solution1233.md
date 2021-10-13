@@ -1,5 +1,5 @@
 ---
-title: King Of Time Version 1 - Up to 70 users
+title: King Of Time Version 1 - Up to 50 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1233
 ---
 
@@ -11,7 +11,7 @@ As it is a cloud system, all stakeholders including employees will be able to ac
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
