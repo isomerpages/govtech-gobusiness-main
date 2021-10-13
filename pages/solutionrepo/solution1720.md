@@ -1,5 +1,5 @@
 ---
-title: SourceSage Online Store - Grow
+title: SourceSage Online Store - Start
 permalink: /productivity-solutions-grant/solutionrepo/solution1720
 ---
 
@@ -9,7 +9,7 @@ Founded in 2015, SourceSage is an award winning global ecommerce platform which 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Email: support@sourcesage.co <br>
+Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Email: support@sourcesage.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

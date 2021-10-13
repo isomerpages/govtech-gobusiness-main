@@ -1,11 +1,11 @@
 ---
-title: Packaging & Labelling Machine
+title: Humidifier Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ### Details of Solution
 

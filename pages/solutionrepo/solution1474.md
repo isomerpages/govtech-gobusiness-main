@@ -1,15 +1,15 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4-Package (Basic Data Loading)
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1474
 ---
 
 ### Description
 
-AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -27,14 +27,16 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 30% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+Minimum nut size: 12.7mm
+It can be powered hydraulically, electrically, pneumatically etc
+Training costs can be supported
+Maintenance costs not supported
 
 ### Contact Information
-Company Name: AxiomSL Pte Ltd<br>Web URL: www.axiomsl.com<br>Contact Hotline: 69557660<br>Contact Email: sdatta@axiomsl.com<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

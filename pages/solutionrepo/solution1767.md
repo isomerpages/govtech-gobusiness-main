@@ -1,15 +1,21 @@
 ---
-title: SAP BUSINESS ONE V10 - 3 Perpetual Starter users SQL on Premise
+title: Xero - Xero Basic Implementation (Plus) - XBI+
 permalink: /productivity-solutions-grant/solutionrepo/solution1767
 ---
 
 ### Description
 
-SAP Business One is an integrated business management application. It offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics, which address the business management needs of your entire company. It helps businesses like yours manage the entire process of selling and servicing clients, and once orders are taken, they flow directly into automated fulfillment.
+Xero is online accounting software that allows small businesses
+to work in real-time with their accountant or bookkeeper, and
+build a trusted relationship through online collaboration. Xero
+allows you and your team to connect with your clients and with
+the right information, anytime, anywhere. Xero also connects
+seamlessly with hundreds of other apps to become the basis of
+a complete business solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_World_Management_Annex_3_CR_wef_9_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +30,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +40,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
+Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: SentroWeb - Regular DJ 1000
+title: SentroWeb - Regular 500
 permalink: /productivity-solutions-grant/solutionrepo/solution1311
 ---
 
@@ -9,7 +9,7 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

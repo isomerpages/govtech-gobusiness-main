@@ -1,18 +1,15 @@
 ---
-title: Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Basic)
+title: Smart Management Tracking System II - Starter Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1813
 ---
 
 ### Description
 
-You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!
-Vue Tech not only build up a website for you, but also helps you to set up all the infrastructure you need to promote your business on the internet.
-Vue tech provides eCommerce website setup, digital marketing setup & optimization, SEO setup & consultation, with a great performance track record.
-Vue tech build long term business channel for you!
+Tunity Smart Management Tracking System II (SMTS II) is a smart inventory management system that uses the RFID technology. With the RFID tag on each item, we are able to give every object its own identity so as to track the item for visibility, traceability, connectivity and accountability.  Users of the SMTS II System can perform their daily operations easily with the handheld scanner and software application and at the same time experience the digitalization of their operation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com <br>
+Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact Email: enquiries@tunitytech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

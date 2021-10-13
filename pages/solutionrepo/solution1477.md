@@ -1,15 +1,15 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 3 Bank)
+title: AxiomSL MAS 610 SaaS version 4-Package (Custom Data Loading)
 permalink: /productivity-solutions-grant/solutionrepo/solution1477
 ---
 
 ### Description
 
-KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +35,6 @@ For MAS Notice 610 and Notice 1003 Regulatory Reporting.
 Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 ### Contact Information
-Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>Contact Hotline: 62133388<br>Contact Email: grace_tan@kpmg.com.sg<br>
+Company Name: AxiomSL Pte Ltd<br>Web URL: www.axiomsl.com<br>Contact Hotline: 69557660<br>Contact Email: sdatta@axiomsl.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

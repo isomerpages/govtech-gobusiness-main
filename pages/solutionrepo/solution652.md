@@ -1,5 +1,5 @@
 ---
-title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Mobile Order Management
+title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale
 permalink: /productivity-solutions-grant/solutionrepo/solution652
 ---
 
@@ -9,7 +9,7 @@ RavenPOS offers standard to full scale business enterprise software automation s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

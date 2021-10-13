@@ -1,5 +1,5 @@
 ---
-title: Sapaad - Sapaad Restaurant Management System + Loyalty + KDS
+title: Sapaad - Sapaad Restaurant Management System + KDS
 permalink: /productivity-solutions-grant/solutionrepo/solution1914
 ---
 
@@ -9,7 +9,7 @@ Sapaad is a leading, cost-effective, scalable Cloud point-of-salev(POS) & restau
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Sapaad_20200692_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Sapaad_20200692_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

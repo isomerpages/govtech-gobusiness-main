@@ -1,11 +1,11 @@
 ---
-title: Automatic Nut Splitter
+title: Automatic Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1473
 ---
 
 ### Description
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
+The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
 ### Details of Solution
 
@@ -31,8 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum nut size: 12.7mm
-It can be powered hydraulically, electrically, pneumatically etc
+Min. spreading force of 240KN
+Must be certified intrinsically safe (e.g. ATEX certified)
+It can be powered by a hydraulic/electric source
 Training costs can be supported
 Maintenance costs not supported
 

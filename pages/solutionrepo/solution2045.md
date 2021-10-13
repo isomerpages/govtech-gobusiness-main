@@ -1,17 +1,15 @@
 ---
-title: EQUIP Version 10 - EQUIP S1 - 10 Users
+title: NetQ Management System - NetQ Management System(include SMS notification and Face Recognition Thermometer)
 permalink: /productivity-solutions-grant/solutionrepo/solution2045
 ---
 
 ### Description
 
-EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
-
-Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
+Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 69836445<br>Whatsapp: 87776207<br>Contact Email: enquiries@hashmicro.com <br>
+Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact Email: sales@arrowlogic.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

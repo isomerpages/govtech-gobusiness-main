@@ -1,5 +1,5 @@
 ---
-title: Accounting and Human Resource Management Version 3.0 - Package B (20 Users)
+title: Accounting and Human Resource Management Version 3.0 - Package A (10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution635
 ---
 
@@ -9,7 +9,7 @@ The solution is an integrated and cloud based Accounting and Human Resource Mana
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Net_Solutions_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Net_Solutions_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,17 +1,15 @@
 ---
-title: Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 25
+title: SmartCursors Human Resource Management System (HRMS) - Silver (up to 25 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2395
 ---
 
 ### Description
 
-With more than 10 years' experience in HR Time Attendance Solution, Flick understands the need of having a hassle-free Time Attendance Solution
-
-Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance software that is flexible and proven to work for everyday time management and attendance needs. Flick believes in working together with Clients towards a more efficient HR system and solution, which will in turn reduce Clients' workload significantly.
+HRMS software assists an organization's human resources department by automating manual tasks, keeping employee information organized, and creating data-driven reports. HRMS software can also serve employees and managers within an organization, assisting with tasks like time tracking, updating employee directories, and performance management.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.flick.sg <br>Contact Hotline: 62768255 <br>Contact Email: sales@flick.sg <br>
+Web URL: WWW.SMARTCURSORS.COM <br>Contact Hotline: 63365500 <br>Contact Email: CONTACT@SMARTCURSORS.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

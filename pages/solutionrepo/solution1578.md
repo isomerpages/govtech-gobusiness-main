@@ -1,5 +1,5 @@
 ---
-title: Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft50 (For 50 users)
+title: Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft25 (For 25 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1578
 ---
 
@@ -9,7 +9,7 @@ Voted as one of the best HRMS vendors by the Human Resource community, Unit4 has
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

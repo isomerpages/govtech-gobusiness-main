@@ -1,15 +1,18 @@
 ---
-title: ETABS Ultimate Suite Version 19 - Package 2 with Training (Perpetual License)
+title: QuickBooks Online Version 1 - VCSG QBO subscription only
 permalink: /productivity-solutions-grant/solutionrepo/solution2389
 ---
 
 ### Description
 
-ETABS Ultimate Suite is an integrated 3D finite element software package for the structural analysis, design and detailing of building systems. Using ETABS advanced and friendly GUI, engineer can perform object-based modelling and design building using linear, non-linear, static and dynamic analysis. ETABS includes many advanced tools like Sequential Constructions, P-delta with Large-Displacement, Performance Based Design tool to cater for advanced and complex building design.
+1) Quick setup & onboarding with in accordance to clients' specific workflows.
+2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
+3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
+4) Efficient processing & recording of expenses claims into QuickBooks Online.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_20210040_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +30,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Substrate Mixing and Packing Machine
+title: Pasteurisation Equipment/ Plant
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
 ### Description
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ### Details of Solution
 

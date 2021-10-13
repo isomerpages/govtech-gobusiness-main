@@ -1,11 +1,11 @@
 ---
-title: Recirculating Aquaculture System
+title: Manure Treatment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
 ### Description
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ### Details of Solution
 

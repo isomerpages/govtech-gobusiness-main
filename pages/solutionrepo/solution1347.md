@@ -1,5 +1,5 @@
 ---
-title: SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)
+title: SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution1347
 ---
 
@@ -9,7 +9,7 @@ Administrator manage the company's HR requirements, payroll, schedule, Leave and
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: HRM Human Resource Management System - HRM Labs Basic Package (30)
+title: HReasily Version 5 - Package (Mix-n-match 20 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution448
 ---
 
 ### Description
 
-HRMLABS helps to digitalize the manual process of HR administrative data with ease of access to the centralized information. The base modules cover the Dashboard, Employee Management, Leave Management, Benefits & Claims Management, Payroll Management, Contract Management, Attendance Management and Performance Appraisal Management.
+HReasily is a cloud-based HR solution that provides end to end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_modified_CR_wef_30_June_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-HRM Labs Pte Ltd<br>www.hrmlabs.com<br>Email: contact@hrmlabs.com<br>Tel: +65 9025 5587
+Company Name: HR Easily Pte Ltd<br>Web URL: https://www.hreasily.com/<br>Contact Hotline: 6438 3190    <br>Contact Email:enquiry@hreasily.com    <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

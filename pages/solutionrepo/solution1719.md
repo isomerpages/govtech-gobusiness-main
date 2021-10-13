@@ -1,15 +1,15 @@
 ---
-title: SourceSage Online Store - Start
+title: Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit
 permalink: /productivity-solutions-grant/solutionrepo/solution1719
 ---
 
 ### Description
 
-Founded in 2015, SourceSage is an award winning global ecommerce platform which makes it easier for you to scale your business online using your own platform. Till date, we have empowered thousands of SMEs and MNCs across different verticals with brand names including DBS Bank, DHL, Mitsui, PwC etc with their own Online Store or Whitelabeled Ecommerce Platform.
+Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Email: support@sourcesage.co <br>
+Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

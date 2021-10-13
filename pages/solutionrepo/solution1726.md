@@ -1,5 +1,5 @@
 ---
-title: Qashier Smart Terminal - Package D (Pro)
+title: Qashier Smart Terminal - Package C (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution1726
 ---
 
@@ -9,7 +9,7 @@ Qashier provides smart point-of-sale (POS) solutions to help small merchants dig
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

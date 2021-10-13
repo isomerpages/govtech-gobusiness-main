@@ -1,5 +1,5 @@
 ---
-title: A2000ERP Version 12.X - Package (B) - A2000ERP Wholesale System for 10 Users + 8 Mobile Users Annual Subscription
+title: A2000ERP Version 12.X - Package (A) - A2000ERP Wholesale System for 10 Users Annual Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution2028
 ---
 
@@ -9,7 +9,7 @@ A2000 Solutions Pte. Ltd. is an established ERP business software development co
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

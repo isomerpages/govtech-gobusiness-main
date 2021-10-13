@@ -1,5 +1,5 @@
 ---
-title: Deskera ERP Version 9.0/10.1 - Package D (Direct Purchase Enterprise Package)
+title: Deskera ERP Version 9.0/10.1 - Package C (SaaS - 10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution356
 ---
 
@@ -10,7 +10,7 @@ From invoices to books, POS to receipts, customer and vendor management to custo
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

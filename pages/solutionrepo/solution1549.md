@@ -1,5 +1,5 @@
 ---
-title: Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 60 users
+title: Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1549
 ---
 
@@ -9,7 +9,7 @@ Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed pl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

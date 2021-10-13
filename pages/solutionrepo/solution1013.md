@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Advanced Edition - Cloud Basic Package P2 (10 Users)
+title: Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1013
 ---
 
@@ -9,7 +9,7 @@ Sage 300 takes the complexity out of managing your business finances across bord
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

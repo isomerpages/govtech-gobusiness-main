@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Counter/ Fish Biomass Estimation System
+title: Aeration System/ Oxygenation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 
 ### Description
 
-Automatic devices for measuring or estimating the number of fish at a waterbody in a period. 
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ### Details of Solution
 

@@ -1,15 +1,15 @@
 ---
-title: SmartCursors Human Resource Management System (HRMS) - Gold (up to 100 users)
+title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2378
 ---
 
 ### Description
 
-HRMS software assists an organization's human resources department by automating manual tasks, keeping employee information organized, and creating data-driven reports. HRMS software can also serve employees and managers within an organization, assisting with tasks like time tracking, updating employee directories, and performance management.
+Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm where the firm makes use of cloud accounting eco-system of Quickbooks Online and Xero and its add-ons to support local SMEs to digitalize the sales, accounting and payroll processes. The firm also performs compliance services including using cloud technology to perform cloud book-keeping and cloud payroll services to SMEs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Payroll_20210136_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: WWW.SMARTCURSORS.COM <br>Contact Hotline: 63365500 <br>Contact Email: CONTACT@SMARTCURSORS.COM <br>
+Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

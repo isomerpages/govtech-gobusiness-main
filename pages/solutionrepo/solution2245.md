@@ -1,15 +1,15 @@
 ---
-title: AdeptForms - Document Management Solution Version 1 - Package D (Up to 15 users - With OCR)
+title: HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution2245
 ---
 
 ### Description
 
-Document management is a module to help the users digitize and manage their digital forms or documents via AdeptForms web or mobile application.
+Match Resources Pte Ltd is a full-service Human Resources consulting firm that uses an innovative SaaS HRSS ecosystem. The firm combines HR management expertise and cutting-edge cloud software to support local SMEs in digitizing and automating their crucial HR processes. The SaaS modules include Employment Information System, Leave Management, Expense Claims, Time Attendance, and Payroll Processing, all of which are conveniently accessible via a mobile application.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact Email: contact@adeptforms.com <br>
+Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

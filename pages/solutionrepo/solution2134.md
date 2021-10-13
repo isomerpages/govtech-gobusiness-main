@@ -1,11 +1,11 @@
 ---
-title: Egg Processing Machine
+title: Collection Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
 ### Description
 
-Integrated egg processing system to process eggs into liquid, hardboiled or pasteurized egg products
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ### Details of Solution
 

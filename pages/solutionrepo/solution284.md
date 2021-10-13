@@ -1,5 +1,5 @@
 ---
-title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 EndPoints (for SMEs with 10 servers and 15 employees or more)
+title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 1 server agents and 30 endpoint agents with 24/7 SOC
 permalink: /productivity-solutions-grant/solutionrepo/solution284
 ---
 
@@ -9,7 +9,7 @@ Solution which leverages asset information and behavioral analytics to identify,
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

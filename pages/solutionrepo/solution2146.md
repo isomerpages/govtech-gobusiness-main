@@ -1,11 +1,11 @@
 ---
-title: Pelleting Machine
+title: Live Pump
 permalink: /productivity-solutions-grant/solutionrepo/solution2146
 ---
 
 ### Description
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+An equipment that ensure safe, gentle, fast way to transfer produce.
 
 ### Details of Solution
 

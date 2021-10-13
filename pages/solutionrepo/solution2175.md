@@ -1,15 +1,15 @@
 ---
-title: RealtyPromote Version 3.2 - RealtyPromote Package 5 up to 100
+title: Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (1 Waiter)
 permalink: /productivity-solutions-grant/solutionrepo/solution2175
 ---
 
 ### Description
 
-CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
+Powerful & speedy cloud-based digital ordering system, accelerate your business with Popcorn that is specially designed for cafes and restaurants of all sizes. With powerful features to keep your business operations run flawlessly, we can help transform your business like never before!
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>
+Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

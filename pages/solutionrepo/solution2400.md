@@ -1,15 +1,15 @@
 ---
-title: OS Store E-Commerce - Standard
+title: HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)
 permalink: /productivity-solutions-grant/solutionrepo/solution2400
 ---
 
 ### Description
 
-OS Store is a web-based, e-commerce solution that enables SMEs to build a storefront from the ground up. The custom UI with smart features and plugins ensures seamless retail management and UX. It is designed to help businesses to go digital and deal with the most common challenges, such as cybersecurity, order fulfillment, customer segmentation and experience, traffic conversion, marketing, engagement and loyalty, competition, pricing, shipping, refund, point of sale and inventory management.
+Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
+Web URL: http://hubspot.com/ <br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

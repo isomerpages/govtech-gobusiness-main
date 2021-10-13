@@ -1,18 +1,15 @@
 ---
-title: QuickBooks Online Version 1 - VCSG QBO Starter Advance
+title: WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 50
 permalink: /productivity-solutions-grant/solutionrepo/solution2373
 ---
 
 ### Description
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.value.com.sg/valueproducttemp <br>Contact Hotline: 66393320 <br>Contact Email: info@vmcsg.com <br>
+Web URL: https://whyze.com.sg/escheduling/ <br>Contact Hotline: 68380161 <br>Contact Email: enquiry@whyze.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,18 @@
 ---
-title: VersaFleet Version 6-W
+title: WhyzeHR Management System Version 12 - Package (200 Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution944
 ---
 
 ### Description
 
-VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
+WhyzeHR enables SMEs of all size to keep track of their labour force, forecasting labour requirements, facilitate day to day employee management and providing financial reporting to the account department. The solution helps HR to stay compliance and providing cost saving and efficiency through the elimination of paper.
+
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Versafleet-WS_Annex3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Website: www.versafleet.co <br>Email: customers@versafleet.co<br>Tel: 69965309 
+Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze.com.sg<br>Tel: +65 6838 0161
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

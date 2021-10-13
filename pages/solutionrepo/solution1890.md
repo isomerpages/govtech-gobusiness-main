@@ -1,5 +1,5 @@
 ---
-title: arc.ops - Manufacturing Quality Management - Annual Subscription License - Customized
+title: arc.ops - Manufacturing Quality Management - Annual Subscription License - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1890
 ---
 
@@ -9,7 +9,7 @@ With Arcstone's Manufacturing Quality Management solution, manufacturers can gai
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

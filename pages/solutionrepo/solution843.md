@@ -1,5 +1,5 @@
 ---
-title: SmartTab eMenu Version 4 - Package (5 eMenu Licenses)
+title: SmartTab eMenu Version 4 - Package (20 eMenu Licenses with HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution843
 ---
 
@@ -9,7 +9,7 @@ TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-m
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

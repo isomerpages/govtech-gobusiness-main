@@ -1,11 +1,11 @@
 ---
-title: Hi-jack Cleaning Machinery
+title: Enhanced disinfection system
 permalink: /productivity-solutions-grant/solutionrepo/solution2138
 ---
 
 ### Description
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ### Details of Solution
 

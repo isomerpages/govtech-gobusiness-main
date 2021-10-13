@@ -1,5 +1,5 @@
 ---
-title: OpensoftHR Version 2019 - Package E (200 pax)
+title: OpensoftHR Version 2019 - Package D (150 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution677
 ---
 
@@ -14,7 +14,7 @@ OpensoftHR is a comprehensive HRM solution that is designed to reduce time consu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Opensoft_Annex_3_ver2_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Opensoft_Annex_3_ver2_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,15 +1,18 @@
 ---
-title: NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)
+title: QuickBooks Online Version 1 - VCSG QBO Starter Advance
 permalink: /productivity-solutions-grant/solutionrepo/solution2391
 ---
 
 ### Description
 
-NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
+1) Quick setup & onboarding with in accordance to clients' specific workflows.
+2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
+3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
+4) Efficient processing & recording of expenses claims into QuickBooks Online.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +30,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com <br>
+Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

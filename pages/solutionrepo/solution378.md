@@ -1,5 +1,5 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Enterprise 150
+title: 2020 QuickHR Version 9 - Cloud HRMS - Enhanced 100
 permalink: /productivity-solutions-grant/solutionrepo/solution378
 ---
 
@@ -9,7 +9,7 @@ QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

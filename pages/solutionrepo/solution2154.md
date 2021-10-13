@@ -1,11 +1,11 @@
 ---
-title: Vegetable Weighing and Packing System
+title: Robot Cleaner 
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
 ### Description
 
-A system that accurately weigh the produce according to the pre-set quantity and weight, and automatically transported to the packaging station to ensure that the quantity and weight of the packaged products meet the requirements. 
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: KNOW Version 5 - Xlarge Package (up to 200 Users)
+title: KNOW Version 5 - Large Package (up to 100 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2084
 ---
 
@@ -9,7 +9,7 @@ Mobile platform that connects the top-floor to the shop-floor. KNOW is a communi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

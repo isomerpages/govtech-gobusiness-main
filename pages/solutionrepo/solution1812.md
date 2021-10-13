@@ -1,15 +1,15 @@
 ---
-title: Smart Management Tracking System II - Starter Package
+title: NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1812
 ---
 
 ### Description
 
-Tunity Smart Management Tracking System II (SMTS II) is a smart inventory management system that uses the RFID technology. With the RFID tag on each item, we are able to give every object its own identity so as to track the item for visibility, traceability, connectivity and accountability.  Users of the SMTS II System can perform their daily operations easily with the handheld scanner and software application and at the same time experience the digitalization of their operation.
+Synology NAS pairing with an onsite and offsite cloud backup to ensure that data protection is achieved and to meet compliance in many organisations. The data can be accessed via mapped drives, website portal or via the mobile app. It also sync the documents automatically without hassle via the app on your local computer, similar to One Drive/Google Drive/Dropbox but this is on a private cloud basis.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact Email: enquiries@tunitytech.com <br>
+Web URL: https://www.nucleoconsulting.com/psg-grants-nas-email-security-cyber-training<br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,18 +1,25 @@
 ---
-title: QuickBooks Online Version 1 - VCSG QBO subscription only
+title: BIPO Human Resource Management System - BIPO LITE 150
 permalink: /productivity-solutions-grant/solutionrepo/solution2371
 ---
 
 ### Description
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+Global HR and Payroll Solutions
+ 
+Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. Globally, we support over 1,600 clients across 87 countries and regions with: 
+
+(a) Employee master data management 
+(b) Time and attendance 
+(c) Payroll management
+(d) Expense claims and overtime 
+(e) Performance and training management
+
+BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and practices built in.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +44,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.value.com.sg/valueproducttemp <br>Contact Hotline: 66393320 <br>Contact Email: info@vmcsg.com <br>
+Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

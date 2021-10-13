@@ -1,15 +1,15 @@
 ---
-title: Xero - Xero Set-Up with Training
+title: HReasily Online Payroll Version 5 - Package C - 20 Employees
 permalink: /productivity-solutions-grant/solutionrepo/solution2366
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
+HReasily is a cloud-based HR solution that provides end-to-end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.budgetaccounts.com.sg <br>Contact Hotline: 97839675 <br>Contact Email: lynette@budgetaccounts.com.sg <br>
+Web URL: https://361dc.com/software/hr-easily/<br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Times Software HRMS Version 18.0 - Cloud Based Package 4 (up to 150 pax)
+title: Times Software HRMS Version 18.0 - Cloud Based Package 3 (up to 100 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution880
 ---
 
@@ -9,7 +9,7 @@ TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resou
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Times_Software_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Times_Software_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

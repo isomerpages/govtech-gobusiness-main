@@ -1,5 +1,5 @@
 ---
-title: Trend Micro -Package (Apex One - 51 Licenses)
+title: Trend Micro - Worry Free Protection (25 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1496
 ---
 
@@ -9,7 +9,7 @@ A cloud-based EndPoint solution which secures Windows (desktops and servers), Ma
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

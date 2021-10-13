@@ -1,5 +1,5 @@
 ---
-title: Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)
+title: Zeemart - Zeemart Buyer Hub (Upto 20 outlets w/integration) (Package 3)
 permalink: /productivity-solutions-grant/solutionrepo/solution2037
 ---
 
@@ -9,7 +9,7 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia <br>
+Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

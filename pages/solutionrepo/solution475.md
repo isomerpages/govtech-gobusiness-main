@@ -1,15 +1,15 @@
 ---
-title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User
+title: SAP Business One, version for HANA Version 10 - Package E (3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution475
 ---
 
 ### Description
 
-Characterized by its easy-to-use, fast operated speed, complete business logic coverage, and accurate information provided; AutoCount system stands out as one of the best accounting software for today business requirements. With minimal of accounting knowledge, user can start using AutoCount system.With its advanced technology such as Microsoft .Net Framework, SQL Server 2012,AutoCount system able to operate in ultra-fast speed and provides strong and stable database for every type of business.
+SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries and service/repair organizations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Ingenious Business Software Pte Ltd <br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+Inecom Pte Ltd<br>www.inecom.com.sg<br>Email: enquiries@inecomworld.com<br>Tel:+65 6225 9255
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

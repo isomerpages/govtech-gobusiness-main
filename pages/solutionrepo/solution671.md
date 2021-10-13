@@ -1,5 +1,5 @@
 ---
-title: Armfort Security Workforce Version 2 - Package (Enhance Plus)
+title: Armfort Security Workforce Version 2 - Package (Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution671
 ---
 
@@ -13,7 +13,7 @@ Armfort Security Workforce, previously known as One Security Suite is a cloud-ba
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/One_Third_Technologies_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/One_Third_Technologies_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

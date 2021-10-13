@@ -1,5 +1,5 @@
 ---
-title: Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Packages for Property Management Companies (MA)
+title: Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners
 permalink: /productivity-solutions-grant/solutionrepo/solution469
 ---
 
@@ -9,7 +9,7 @@ Qornerstone Estate is an off-the-shelf solution to digitalize Property & Managem
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

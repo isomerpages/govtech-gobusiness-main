@@ -1,15 +1,17 @@
 ---
-title: Globe3 ERP V5.6 - Package (3 Users) (PEPPOL Ready)
+title: King Of Time Version 1 - Up to 150 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1236
 ---
 
 ### Description
 
-Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
+King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.
+
+As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:TNO Systems Pte Ltd <br>Web URL: www.globe3.com <br>Contact Hotline: 67498823 <br>Contact Email: sales@globe3.com <br>
+Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hotline: 66908821 <br>Contact Email: hello@huubap.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

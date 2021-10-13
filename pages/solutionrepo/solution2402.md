@@ -1,15 +1,15 @@
 ---
-title: OS Store E-Commerce - Premium
+title: Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F
 permalink: /productivity-solutions-grant/solutionrepo/solution2402
 ---
 
 ### Description
 
-OS Store is a web-based, e-commerce solution that enables SMEs to build a storefront from the ground up. The custom UI with smart features and plugins ensures seamless retail management and UX. It is designed to help businesses to go digital and deal with the most common challenges, such as cybersecurity, order fulfillment, customer segmentation and experience, traffic conversion, marketing, engagement and loyalty, competition, pricing, shipping, refund, point of sale and inventory management.
+FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
+Web URL: www.care.biz <br>Contact Hotline: 67448022 <br>Contact Email: sales@sg.care.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

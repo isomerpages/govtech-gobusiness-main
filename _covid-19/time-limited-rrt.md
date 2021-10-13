@@ -4,33 +4,19 @@ permalink: /timelimitedrrt/
 ---
 ## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
 
-As part of the national effort to step up regular testing, firms with employees that work onsite and <b>are not already subject to mandatory RRT</b>, will be eligible to voluntarily apply for 8 Antigen Rapid Test (ART) kits per onsite employee for weekly testing of their staff over a two-month period. With these kits, firms are to initiate weekly testing for their onsite staff. These tests can be administered by the individuals themselves at home, or at the work premises. 
+Please note that the application period (16 Sep – 13 Oct 2021) is over, and application has closed. Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
 
-### Eligibility Criteria
+### Delivery of Kits
 
-* Staff should not be on any mandatory Polymerase Chain Reaction (PCR) or Fast and Easy Testing (FET) RRT
-
-    * If there are some staff on mandatory RRT, the company should exclude them from their request for ART kits
-
-* Staff should physically return to office, worksite or any off-site premises at least once a week, for work purposes (i.e. does not work from home full-time)
-
-    * Include full-time and part-time employees, regular vendors/contractors, students on long-term (at least 2 months) placement or internship
+Due to high application volumes, delivery might take a longer time during this period. You will receive a delivery notification from the vendor when the kits are ready to be sent out. Please commence weekly testing with immediate effect, upon receipt of the ART kits.   
 
 ### Compliance & Results Declaration
 
 Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. <b>These processes will be audited by the government for compliance.</b>  
 
-Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
+Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
   
 The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any of non-compliance to the testing requirements are found.
-
-### Application
-
-Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="_blank"}{:rel="noopener"} 
- 
-The application period is from 16 Sep – 13 Oct 2021. Corporate entity login (Corppass) is required for this application form. Please only submit one application form per company UEN. Multiple or inaccurate submissions will be voided and processing will be further delayed.
-
-Successful applicants will be informed of their delivery within 5 working days from application. <b>Please note that we are experiencing a surge in demand from applicant companies and delivery might take a longer time than 5 working days during this period. You will receive a delivery notification from the vendor when the kits are ready to be sent out.</b> Please commence weekly testing with immediate effect, upon receipt of the ART kits. 
 
 For queries about your application, please contact:
 
@@ -52,4 +38,4 @@ To note for the <u><b>BD Veritor Kits</b></u>:
 
 ### Frequently Asked Questions (FAQ)
 
-For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) (updated on 25 Sep 2021) for more information.
+For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) (updated on 12 Oct 2021) for more information.

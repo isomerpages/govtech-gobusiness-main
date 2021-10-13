@@ -1,11 +1,11 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: Sterilizer Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2156
 ---
 
 ### Description
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged. 
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ### Details of Solution
 

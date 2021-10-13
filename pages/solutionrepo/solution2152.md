@@ -1,11 +1,11 @@
 ---
-title: Vacuum Cooler Equipment
+title: Pelleting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
 ### Description
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ### Details of Solution
 

@@ -1,17 +1,15 @@
 ---
-title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite >150 Users
+title: RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10
 permalink: /productivity-solutions-grant/solutionrepo/solution2190
 ---
 
 ### Description
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing. 
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
+Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

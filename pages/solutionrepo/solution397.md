@@ -1,5 +1,5 @@
 ---
-title: FacilityBot - Mid-Sized Facilities
+title: FacilityBot - Small Facilities
 permalink: /productivity-solutions-grant/solutionrepo/solution397
 ---
 
@@ -10,7 +10,7 @@ FacilityBot is the first-to-market omni-channel AI-powered facilities management
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

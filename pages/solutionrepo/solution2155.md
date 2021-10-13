@@ -1,11 +1,11 @@
 ---
-title: Water Filtration System
+title: Solar Panels System and Energy Storage System
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ### Details of Solution
 

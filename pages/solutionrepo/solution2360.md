@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)
+title: Swipetask PRO - Swipetask PRO - Standard Workforce & Task-Management solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2360
 ---
 
 ### Description
 
-Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm where the firm makes use of cloud accounting eco-system of Quickbooks Online and Xero and its add-ons to support local SMEs to digitalize the sales, accounting and payroll processes. The firm also performs compliance services including using cloud technology to perform cloud book-keeping and cloud payroll services to SMEs.
+Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Payroll_20210136_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Athena E-store Solution-Athena E Store Lite Version
+title: KEGMIL FSM-Kegmil FSM Package A - 10 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2287
 ---
 
 ### Description
 
-Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
+Kegmil is on a mission to empower millions of deskless field service professionals with technology & data to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software intelligently automates & optimizes field activities for small to mid-sized maintenance firms who keep our world running across industries from elevator to data center equipment servicing.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://cleverly.sg/psg-e-commerce-solution/ <br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
+Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)
+title: EquipPOS Retail Solutions Version 3 - Package A (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution370
 ---
 
@@ -9,7 +9,7 @@ EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-ba
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

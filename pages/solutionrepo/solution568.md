@@ -1,5 +1,5 @@
 ---
-title: Human Resource Shared Services (HRSS) - Basic Package 3 (101 to 150 staff)
+title: Human Resource Shared Services (HRSS) - Basic Package 2 (51 to 100 staff)
 permalink: /productivity-solutions-grant/solutionrepo/solution568
 ---
 
@@ -13,7 +13,7 @@ Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's inter
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Lee_Wenyong_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Lee_Wenyong_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

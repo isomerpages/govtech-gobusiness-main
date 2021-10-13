@@ -1,5 +1,5 @@
 ---
-title: Zeemart - Zeemart Buyer Hub (Upto 10 outlets w/integration) (Package 2)
+title: Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)
 permalink: /productivity-solutions-grant/solutionrepo/solution2035
 ---
 
@@ -9,7 +9,7 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

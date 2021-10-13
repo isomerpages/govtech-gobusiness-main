@@ -1,5 +1,5 @@
 ---
-title: MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)
+title: MEVO DMS 8.3 - MEVO B2B (1 User Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution608
 ---
 
@@ -9,7 +9,7 @@ A specialized solution for wholesalers to optimize their order fulfilment to cus
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MEVO_Annex_3_CR_wef_30_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MEVO_Annex_3_CR_wef_30_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

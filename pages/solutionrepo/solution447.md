@@ -1,5 +1,5 @@
 ---
-title: HReasily Version 5 - Package (Mix-n-match 20 employees)
+title: HReasily Version 5 - Package (Face Recognition 20 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution447
 ---
 
@@ -9,7 +9,7 @@ HReasily is a cloud-based HR solution that provides end to end employee data col
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_modified_CR_wef_30_June_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_modified_CR_wef_30_June_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
