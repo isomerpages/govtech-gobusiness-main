@@ -237,42 +237,69 @@
 - accordion:
   letter: f
   data:
-    - title: Will vaccines other than Moderna/Pfizer be recognised for VDS?
+
+    - title: Are employees/tenants in shopping malls affected by VDS? How will the checks be done?   
       content: |
-        PSAR approved vaccines (i.e. Pfizer-BioNTech/Comirnaty or Moderna vaccines currently administered under the National Vaccination Programme), as well as vaccines on the World Health Organisation’s Emergency Use Listing (WHO EUL) (such as Sinovac-CoronaVac, Sinopharm, and AstraZeneca-SKBio, Serum Institute of India, Janssen) are recognised for VDS.
+        Individuals working in these premises or who have to visit these premises in the course of work, including tenants, office workers of the mall, vendors, part-time workers, third-party contracted workers as well as food delivery personnel and couriers, can continue to access the workplace at the mall. 
+
+        These individuals will need to provide proof of work at the mall (e.g. in the form of staff uniforms, staff pass, letter of authorisation, food delivery pickup order or any other identification approved by the mall). 
+
+    - title: Are third-party vendors/contractors who are unvaccinated allowed to enter shopping malls?  
+      content: |
+        Third-party vendors and contractors who are unvaccinated are allowed to enter shopping malls in the course of work. However, they are required to provide proof (e.g. in the form of temporary passes from mall security, delivery order or letter of service appointment). 
+
+        These unvaccinated individuals should access the malls for the specified work reasons only and leave the mall as soon as the tasks are completed.
+
+    - title: Can unvaccinated customers who intend to do takeaway enter the mall?   
+      content: |
+        No, unvaccinated persons are not allowed to enter shopping malls to buy takeaway food. There are alternate options for takeaway food outside of malls (e.g. standalone F&B outlets, hawker centres and coffee shops), as well as delivery services from food delivery platforms. 
+
+    - title: Can an unvaccinated parent/grandparent who is bringing a child to the tuition/enrichment centre located within the mall enter the premises?    
+      content: |
+        No, unvaccinated caregivers are not allowed to enter shopping malls for the purpose of dropping off/picking up their children at tuition/enrichment centres. Caregivers are encouraged to make alternative arrangements before the expanded VDS coverage takes place from 13 October 2021 and during the grace period which ends on 19 October 2021. 
+
+    - title: Can an unvaccinated parent/grandparent who is bringing a child to a preschool or childcare centre located within the mall enter the premises? 
+      content: |
+        Unvaccinated caregivers can enter the mall for the purpose of dropping off/picking up young children at preschools or childcare centres. However, they are required to provide a letter of support issued by the preschool/childcare centre. They should not linger in the mall and must leave as soon as their charges have been dropped off or picked up. 
+
+    - title: Given that shopping malls are required to implement VDS, are F&B and Personal Care Services (PCS) establishments located within also required to check VDS eligibility for customers? 
+      content: |
+        Yes, F&B and PCS establishments must continue to conduct VDS checks on customers dining in and having mask-down services, even after VDS is implemented for entry into malls. 
+
+    - title: Can unvaccinated customers visit an establishment located within the shopping mall but has an outward facing entrance?   
+      content: |
+        Establishments located within shopping malls but have an outward facing entrance can allow unvaccinated customers to visit if there is no entry into the mall. Otherwise, these establishments are required to close the additional entrance, or check VDS eligibility for all customers entering the shopping mall through their premises. 
+
+    - title: Can unvaccinated individuals enter the mall for banking or postal services? 
+      content: |
+        No, unvaccinated persons are not allowed to enter shopping malls for banking or postal services. They may proceed to banks or post offices at locations outside malls for these services instead. 
+
+    - title: I am not fully vaccinated, and have an appointment to visit the medical/dental/TCM clinic located within the shopping mall. Am I allowed to enter the mall? 
+      content: |
+        Exceptions will be made to allow for unvaccinated individuals to access licensed medical services in the malls, including doctors, dentists and registered Traditional Chinese Medicine Practitioners. However, they are required to provide proof of appointment (e.g. in the form of a letter, email of SMS). This includes caregivers who need to drop off young children/elderly for such medical attention. 
+
+        Individuals who do not have an appointment can try to call the clinic to send an SMS to confirm their visit.
+
+        These unvaccinated individuals should access the malls for the above reasons only and leave the mall once the tasks are completed.
+
+    - title: Would I be subjected to VDS (e.g. to dine in, enter shopping malls) if I have a valid PET result in the past 24 hours? 
+      content: |
+        VDS will not apply to individuals who have a valid negative PET result for the duration of the service/activity from an MOH-approved COVID-19 test provider in the past 24 hours. 
+
+    - title: Do large standalone supermarkets need to implement VDS? It was announced in the MOH PR but was not stated in the retail advisory.
+      content: |
+        VDS will not apply to supermarkets which are large standalone stores, and they will not be required to check the vaccination status of individuals. 
+
+    - title: What does the grace period from 13-19 Oct mean?
+      content: |
+        The grace period is for the VDS to be phased in, allowing mall/store operators as well as the public to be familiarised with the VDS. The required checks must be imposed during this grace period, but unvaccinated persons can be permitted entry into the malls/large standalone stores with a reminder. 
+
+        Malls are encouraged to train their workers to check the vaccination status of individuals who are entering the mall during this period, and to remind the unvaccinated individuals that they will not be allowed to enter the mall with effect from 20 October 2021 (if they are yet to be fully vaccinated or do not have a valid reason). Malls should also work with tenants to provide the necessary proof of entry to individuals who are exempted from VDS.
+
+    - title: Are tenants expected to conduct VDS outside of mall operating hours?
+      content: |
+        Only tenants mandated under VDS (e.g. dine-in F&B, mask-off PCS) will need to continue to conduct VDS checks outside of mall operating hours. The remaining tenants will not need to do so outside of mall operating hours.
         
-        Please refer to MOH’s information sheet for more details of the requirements on VDS at [https://go.gov.sg/vdsmminfo](https://go.gov.sg/vdsmminfo){:target="_blank"}{:rel="noopener"}. 
-
-    - title: Do I have to check the vaccination status for customers doing takeaways?
-      content: |
-        There is no need to conduct VDS checks for customers doing takeaways. However, it is your responsibility to ensure that these customers do not consume food and drinks on premise. There should be clearly demarcated waiting areas for customers doing takeaways.
-
-    - title: Do I need to do SafeEntry at my F&B establishment? 
-      content: |
-        TraceTogether-only SafeEntry must be implemented for all dine-in customers and visitors at F&B establishments, including at food courts. Delivery personnel picking up food orders and take-away customers are not required to do SafeEntry as their presence at the F&B establishment is transient.  
-
-        All establishments must require their employees and vendors to do SafeEntry check-in via TT-only SE. 
-
-    - title: For VDS, I understand that the children in the group must be from the same household. What about the other individuals in the group? Can we be from different households?
-      content: |
-        Yes, eligible individuals (13 years old and above) in the group can be from different households; they need not be from the same household as the children. Within the group, only children (12 and under) need to be from the same household. 
-
-    - title: My F&B establishment is an alfresco dine in concept and naturally ventilated just like hawker centres and coffee shops. Can I allow 2 pax to dine in without checking VDS eligibility?
-      content: |
-        No, you are not allowed to do so. The 2 pax dine-in (regardless of vaccination status) only applies to hawker centres and coffee shops, which generally refer to F&B establishments that hold an SFA coffee shop/ eating house/ canteen license that are not substantially enclosed by a permanent barrier. Hawker centres and coffee shops provide convenient and affordable food services within the community. As they are open-air and naturally ventilated spaces, a special concession is thus given to allow an unvaccinated individual to dine in these settings.  
-
-    - title: My shop offers hairdressing/manicure/pedicure services, and is considered part of the personal care services sector. Do I also need to implement VDS?
-      content: |
-        No, you do not need to. VDS is to be implemented for personal care services that require customers to remove their masks for the duration of the service. For example, make-up services, facial treatments and saunas. 
-
-    - title: Can I allow a foreign customer who received his/her PSAR-approved vaccines overseas and provides proof of this vaccination to dine in my F&B establishment/ partake in personal care services provided at my shop?
-      content: |
-        Overseas vaccine certificates (hard or softcopy) will not be accepted for VDS. From 20 August 2021, the Immigration and Checkpoints Authority will issue a tamper-proof vaccination sticker to be affixed onto the passport of newly-arrived travellers or Short-Term Visitor Pass Holders who were fully vaccinated with a WHO-Emergency Use Listing vaccine, and who can furnish a valid English-language vaccination certificate. This sticker would be valid until the end of their STVP validity or until 30 September 2021, 2359hrs, whichever is earlier. From 6 September, the systems will also be enhanced so that travellers, upon verification of their eligible vaccination status at entry, will also be recognised by the SE Biz App through their TraceTogether Apps/Tokens to be eligible for VDS without needing to go through PET.
-
-    - title: Why are overseas vaccination certificates not recognised for VDS?
-      content: |
-        Overseas vaccine certificates (hard or softcopy) will not be accepted for VDS because it is difficult for individual establishments to verify the authenticity of these certificates which are issued in different formats and languages. 
-
 - accordion:
   letter: g
   data:
