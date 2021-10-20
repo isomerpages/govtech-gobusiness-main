@@ -1,5 +1,5 @@
 ---
-title: A2000ERP Version 12.X - Package (C) - A2000ERP Wholesale System for 15 Users + 10 Mobile Users Annual Subscription
+title: A2000ERP Version 12.X - Package (C) - A2000ERP Wholesale System for 3 Users + 5 Mobile Users Annual Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution2030
 ---
 
@@ -9,7 +9,7 @@ A2000 Solutions Pte. Ltd. is an established ERP business software development co
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

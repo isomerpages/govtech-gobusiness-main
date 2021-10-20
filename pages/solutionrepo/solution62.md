@@ -1,12 +1,11 @@
 ---
-title: Intuit Quickbooks Online Full Transformation Package-Intuit Quickbooks Online - Full Digital Transformation for Micro Business Package
+title: Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Full Digital Transformation for Micro Business Package
 permalink: /productivity-solutions-grant/solutionrepo/solution62
 ---
 
 ### Description
 
-Intuit Quickbooks Online is the number one cloud accounting solution for SMEs in the World developed by USD 75 Billion Listed Company, Intuit.  As at June 2020, it has 4.5 million users around the World. It has presence in 100+ countries and 12 languages.
-Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is customised to the requirements to the Accounting and Tax compliance requirements in Singapore.
+Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is proud to offer QuickBooks accounting solutions as part of our ever-growing cloud productivity suite. We are a team of qualified of Accredited Digital & Chartered Accountants equipped with the necessary skillsets to make your business easier & better. Our clients can focus on building their business while leaving the hassle of back-end business processes such as accounting to us.
 
 ### Details of Solution
 
