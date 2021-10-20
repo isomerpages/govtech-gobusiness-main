@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2381
 
 ### Description
 
-Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm where the firm makes use of cloud accounting eco-system of Quickbooks Online and Xero and its add-ons to support local SMEs to digitalize the sales, accounting and payroll processes. The firm also performs compliance services including using cloud technology to perform cloud book-keeping and cloud payroll services to SMEs.
+Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs to digitalize the HR processes such as payroll, leave management, claims, and benefits, etc. With integration to QuickBooks Online and Xero, we can also help SMEs digitalize the sales, accounting, and payroll processes. Our clients can focus on building their business while leaving the hassle of back-end business processes to us.
 
 ### Details of Solution
 

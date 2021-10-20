@@ -1,5 +1,5 @@
 ---
-title: BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
+title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
 permalink: /productivity-solutions-grant/solutionrepo/solution1025
 ---
 
