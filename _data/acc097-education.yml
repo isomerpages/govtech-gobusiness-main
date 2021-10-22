@@ -1,5 +1,5 @@
 accordion:
-  - title: What are the safe management measures that should be implemented for tuition and enrichment centres that are allowed to continue on-site instruction?
+  - title: <a name="Q1"></a>What are the safe management measures that should be implemented for tuition and enrichment centres that are allowed to continue on-site instruction?
     content: |
       In line with the national posture, all tuition and enrichment centres must ensure that work-from-home is the default arrangement for employees who are able to do so. During this period, the 10-day snap work-from-home regime will be suspended. MOE strongly encourages that all tuition and enrichment classes be conducted online. 
 
@@ -111,7 +111,7 @@ accordion:
     content: |
       Yes, in-person classes catering exclusively to students older than 12 years old may continue in person, subject to prevailing safe management measures. However, MOE strongly encourages that these classes be conducted online.
       
-      For health and safety reasons, the maximum class size for all other in-person CET activities is capped at 50 persons (including the trainer(s)). For SSG-funded CET programmes, SSG’s prevailing guideline for a maximum class size of 40 persons (excluding the trainer(s)) for course quality reasons remains and takes precedence. This is subject to safe management requirements (please refer to Q1) and additional safe management measures specified in Q2 and Q3 as applicable.
+      For health and safety reasons, the maximum class size for all other in-person CET activities is capped at 50 persons (including the trainer(s)). For SSG-funded CET programmes, SSG’s prevailing guideline for a maximum class size of 40 persons (excluding the trainer(s)) for course quality reasons remains and takes precedence. This is subject to safe management requirements (please refer to [Q1](#Q1)) and additional safe management measures specified in Q2 and Q3 as applicable.
 
   - title: Will the TraceTogether-only SafeEntry system and the SafeEntry Gateway Device (SEGW) be implemented for tuition, enrichment centres and SSG-funded training providers?
     content: |
