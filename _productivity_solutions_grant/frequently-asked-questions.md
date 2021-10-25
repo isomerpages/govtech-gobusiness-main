@@ -11,7 +11,7 @@ PSG aims to facilitate quick adoption of proven productivity solutions recommend
 
 ### 2. Where can I apply for Productivity Solutions Grant?
 
-After you have obtained a quotation from your preferred vendor for the supportable solution(s), please log into [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="\_blank"}{:rel="noopener"} to submit your application for PSG.
+After you have obtained a quotation from your preferred vendor for the supportable solution(s), please log into [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} to submit your application for PSG.
 
 ### 3. What industries can apply for PSG?
 
@@ -19,7 +19,7 @@ PSG covers sector-specific solutions including the retail, food, logistics, prec
 
 ### 4. How do I become a IT solution provider for PSG?
 
-If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please visit [IMDA’s website](https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions){:target="\_blank"}{:rel="noopener"}.
+If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please visit [IMDA’s website](https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions){:target="_blank"}{:rel="noopener"}.
 
 ### 5. It was announced in Budget 2020 on PSG expansion to include job redesign consultancy services. Where can I find out more information on this?
 
@@ -29,4 +29,4 @@ As part of the enhancement to the existing PSG, job redesign under PSG (PSG-JR) 
 
 PSG-JR is open for application since 1 December 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on Business Grant portal. Companies will need to register for a Corppass account to transact on the portal.
 
-For more information on PSG-JR, please refer to [https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="\_blank"}{:rel="noopener"} or to contact SNEF at psgjr@snef.org.sg or +65 6827 6910.
+For more information on PSG-JR, please refer to [https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"} or to contact SNEF at psgjr@snef.org.sg or +65 6827 6910.

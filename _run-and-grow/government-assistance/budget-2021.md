@@ -10,11 +10,11 @@ Deputy Prime Minister, Coordinating Minister for Economic Policies and Minister 
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the [Budget 2021 Business Booklet](/images/budget2021/Budget 2021 Business Booklet (Updated 9 Mar).pdf){:target="\_blank"}.
+- Download the [Budget 2021 Business Booklet](/images/budget2021/Budget 2021 Business Booklet (Updated 9 Mar).pdf){:target="_blank"}.
 
-- Download the [Budget 2021 - Budget Navigator (for Businesses)](/images/budget2021/Budget 2021 Navigator (businesses).pdf){:target="\_blank"}.
+- Download the [Budget 2021 - Budget Navigator (for Businesses)](/images/budget2021/Budget 2021 Navigator (businesses).pdf){:target="_blank"}.
 
-Visit the [MOF website](https://www.mof.gov.sg/){:target="\_blank"}{:rel="noopener"} for more information on Budget 2021.
+Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2021.
 
 #### List of Government Assistance related schemes:
 

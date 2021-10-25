@@ -18,4 +18,4 @@ Director of Operations at Sing Swee Kee Chicken Rice, Ms Eliss Pang, said that t
 
 Mr Regan Hee, who runs healthfood minimart Harvester and three Poke Theory franchise branches, shared that GoBusiness has empowered him to manage licence applications without having to engage an external consultant. He added that the waiting time for a licence approval can be shortened to three days from 30 days with GoBusiness, and users can log in to check the status of their applications at any time.
 
-Read the full article at [The Straits Times](https://www.straitstimes.com/business/website-simplifies-licensing-process-for-business-owners){:target="\_blank"}{:rel="noopener"}.
+Read the full article at [The Straits Times](https://www.straitstimes.com/business/website-simplifies-licensing-process-for-business-owners){:target="_blank"}{:rel="noopener"}.

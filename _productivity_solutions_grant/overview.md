@@ -28,7 +28,7 @@ Business entities can apply for PSG if they meet the following criteria:
 2. For **IT solutions:** Get a quotation from the pre-approved vendor
    <br>For **Equipment:** Source for the equipment and get a quotation from the vendor
    <br> For **Consultancy Service:** Get a quotation from the pre-approved consultant
-3. Submit an application on the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="\_blank"}{:rel="noopener"}.
+3. Submit an application on the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
    <br>You will need to register for a Corppass account to transact on the portal.
 4. Submit your grant claim on the BGP before your claim due date.
 
@@ -44,6 +44,6 @@ This listing is not to be taken as a form of endorsement or recommendation by th
 
 Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-_If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="\_blank"}{:rel="noopener"} to find out more._
+_If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"}{:rel="noopener"} to find out more._
 
 ---
