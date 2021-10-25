@@ -16,4 +16,4 @@ Now that you've registered your business, the next thing you must have to transa
 - Customise digital service access of individual users within the entity
 - Authorise third party service providers to transact on your behalf for selected digital services
 
-[Set up your Corppass Admin account here](https://www.Corppass.gov.sg/Corppass/common/findoutmore){:target="\_blank"}{:rel="noopener"}.
+[Set up your Corppass Admin account here](https://www.Corppass.gov.sg/Corppass/common/findoutmore){:target="_blank"}{:rel="noopener"}.

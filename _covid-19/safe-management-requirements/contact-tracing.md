@@ -90,7 +90,7 @@ The following list of venues must also institute TraceTogether-only SafeEntry ch
 
 Smaller retail outlets (i.e. ≤ 930sqm or 10,000sqft) where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops are not required to implement SafeEntry for customers. Those that have voluntarily done so, should remove their SafeEntry check-ins.
 
-For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click [here](https://www.safeentry.gov.sg/){:target="\_blank"}{:rel="noopener"}.
+For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click [here](https://www.safeentry.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
 To better support contact tracing efforts involving street-hail trips, all taxi commuters should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
 

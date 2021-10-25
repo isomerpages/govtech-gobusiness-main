@@ -23,13 +23,13 @@ Avoid names which are:
 
 You may submit an appeal if your name application has been rejected and/or you have a valid reason to use the name which is identical or prohibited. You will need to upload the supporting documents to support your name appeal.
 
-To improve your chances of a successful application, read the [ACRA business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="\_blank"}{:rel="noopener"} for more details.
+To improve your chances of a successful application, read the [ACRA business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"}{:rel="noopener"} for more details.
 
 ### Review of applications by Referral Authorities
 
 Certain names or business activities require approval from the relevant government agencies (Referral Authorities). For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
 
-You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="\_blank"}{:rel="noopener"}.
+You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="_blank"}{:rel="noopener"}.
 
 ### Singapore Standard Industrial Classification (SSIC)
 
@@ -37,7 +37,7 @@ You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how
 
 The Singapore Standard Industrial Classification (SSIC) is the national standard to classify the business activities of firms. It is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity.
 
-When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="\_blank"}{:rel="noopener"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2015report-v2018a.pdf){:target="\_blank"}{:rel="noopener"}.
+When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="_blank"}{:rel="noopener"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2015report-v2018a.pdf){:target="_blank"}{:rel="noopener"}.
 
 ### How to reserve your business name
 
@@ -45,7 +45,7 @@ You can reserve your desired name for up to 120 days before registering your bus
 
 There are two ways to reserve your business name:
 
-1. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="\_blank"}{:rel="noopener"} with your Singpass to submit the application online, or
+1. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} with your Singpass to submit the application online, or
 
 2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 

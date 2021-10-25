@@ -25,4 +25,4 @@ Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the �
 
 ### Learn More
 
-Read the full FAQ at [Corppass’ website](https://go.gov.sg/corporate-login){:target="\_blank"}{:rel="noopener"}.
+Read the full FAQ at [Corppass’ website](https://go.gov.sg/corporate-login){:target="_blank"}{:rel="noopener"}.

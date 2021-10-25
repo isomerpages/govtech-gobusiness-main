@@ -15,4 +15,4 @@ Here are some helpful resources for business owners to find the assistance you n
 
 {% include panels.html panels=site.data.covid_links %}
 
-For further questions, please check our [FAQ](/covid-19-faqs/), or use this [Covid-19 Chatbot for businesses](https://www.mti.gov.sg/chatbot/chat){:target="\_blank"}{:rel="noopener"}.
+For further questions, please check our [FAQ](/covid-19-faqs/), or use this [Covid-19 Chatbot for businesses](https://www.mti.gov.sg/chatbot/chat){:target="_blank"}{:rel="noopener"}.

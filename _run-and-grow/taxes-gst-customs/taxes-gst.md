@@ -14,24 +14,24 @@ Unsure about the tax filing obligations for your business/company?
 
 If you have newly registered your business or intend to register for one, check out the following guides to learn more.
 
-- [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="\_blank"}{:rel="noopener"}
-- [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="\_blank"}{:rel="noopener"}
+- [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Self-Employed-Persons/){:target="_blank"}{:rel="noopener"}
+- [Basic Guide for Partnerships](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Basic-Guide-for-Partnerships/){:target="_blank"}{:rel="noopener"}
 
 After registering for your business, access the Start-Up Kit for customised information to guide you in your first Income Tax Return filing with IRAS.
 
-- [New Sole Proprietorship and Partnership Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/New-Sole-Proprietorship-and-Partnership-Start-Up-Kit/){:target="\_blank"}{:rel="noopener"}
+- [New Sole Proprietorship and Partnership Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/New-Sole-Proprietorship-and-Partnership-Start-Up-Kit/){:target="_blank"}{:rel="noopener"}
 
 **Corporate income tax filing for new companies**
 
 If you have newly incorporated a company or intend to incorporate one, check out the following guide to learn more.
 
-- [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="\_blank"}{:rel="noopener"}
+- [Basic Guide for New Companies](https://www.iras.gov.sg/irashome/NewCompanies/){:target="_blank"}{:rel="noopener"}
 
 After incorporating your company, access the Start-Up Kit for customised information to guide you in your first filing of the Annual Return with ACRA and Corporate Income Tax Returns with IRAS.
 
-- [New Company Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="\_blank"}{:rel="noopener"}
+- [New Company Start-Up Kit](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/New-Company-Start-Up-Kit/){:target="_blank"}{:rel="noopener"}
 
-Learn more about your company’s Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="\_blank"}{:rel="noopener"}.
+Learn more about your company’s Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="_blank"}{:rel="noopener"}.
 
 ### Register for GST
 
@@ -40,7 +40,7 @@ You will need to register for GST if:
 - Your taxable turnover for the past 12 months has exceeded $1 million or
 - You can reasonably expect your taxable turnover in the next 12 months to exceed $1 million
 
-If your yearly taxable turnover does not exceed $1 million, you may still choose to [voluntarily register for GST](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="\_blank"}{:rel="noopener"} after carefully considering the obligations and responsibilities of being GST-registered.
+If your yearly taxable turnover does not exceed $1 million, you may still choose to [voluntarily register for GST](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="_blank"}{:rel="noopener"} after carefully considering the obligations and responsibilities of being GST-registered.
 
 ### How to calculate my taxable turnover?
 
@@ -78,10 +78,10 @@ Total Taxable Turnover = combined revenue, fees and income from:
 
 Check out the following webpages and video to learn more.
 
-- [Applying for GST Registration](https://www.iras.gov.sg/IRASHome/GST/Non-GST-registered-businesses/Registering-for-GST/Applying-for-GST-Registration/){:target="\_blank"}{:rel="noopener"}
-- [Do I Need to Register for GST?](https://www.iras.gov.sg/IRASHome/GST/Non-GST-registered-businesses/Registering-for-GST/Do-I-Need-to-Register-for-GST/){:target="\_blank"}{:rel="noopener"}
-- [Factors to Consider Before Registering Voluntarily](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="\_blank"}{:rel="noopener"}
-- [Overview of GST](https://elearn.iras.gov.sg/EdulearnNetUpload/CourseWare/IrasLearning/overviewOfGST/desktop/index.html){:target="\_blank"}{:rel="noopener"}
+- [Applying for GST Registration](https://www.iras.gov.sg/IRASHome/GST/Non-GST-registered-businesses/Registering-for-GST/Applying-for-GST-Registration/){:target="_blank"}{:rel="noopener"}
+- [Do I Need to Register for GST?](https://www.iras.gov.sg/IRASHome/GST/Non-GST-registered-businesses/Registering-for-GST/Do-I-Need-to-Register-for-GST/){:target="_blank"}{:rel="noopener"}
+- [Factors to Consider Before Registering Voluntarily](https://www.iras.gov.sg/irashome/GST/Non-GST-registered-businesses/Registering-for-GST/Factors-to-Consider-Before-Registering-Voluntarily-for-GST/){:target="_blank"}{:rel="noopener"}
+- [Overview of GST](https://elearn.iras.gov.sg/EdulearnNetUpload/CourseWare/IrasLearning/overviewOfGST/desktop/index.html){:target="_blank"}{:rel="noopener"}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

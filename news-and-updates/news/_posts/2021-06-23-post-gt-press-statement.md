@@ -15,4 +15,4 @@ An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 2
 
 GoBusiness was highlighted as one of the key projects that will undergo transformation. Currently, the GoBusiness platform has helped a monthly average of 150 Food and Beverage establishments register for licences, with a shorter turnaround time. The platform will be expanded into a place for business-to-government interactions in Singapore and provide personalised assistance and recommendations for new and existing business.
 
-Read the full media release on [GovTech](https://www.tech.gov.sg/media/media-releases/2021-06-23-increased-ict-spending-in-fy2021-to-accelerate-government-digitalisation){:target="\_blank"}{:rel="noopener"}.
+Read the full media release on [GovTech](https://www.tech.gov.sg/media/media-releases/2021-06-23-increased-ict-spending-in-fy2021-to-accelerate-government-digitalisation){:target="_blank"}{:rel="noopener"}.
