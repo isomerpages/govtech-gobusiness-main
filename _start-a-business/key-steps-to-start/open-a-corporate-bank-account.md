@@ -37,6 +37,8 @@ Note: Some banks may require additional documents on a case-by-case basis.
 
 Click on the bank of your choice to learn about opening an account on their website.
 
+**Disclaimer:** GoBusiness provides the information below for your convenience. It does not indicate an affliation, endorsement or recommendation by GoBusiness. You are advised to find out more about the services and understand the terms before applying for a bank account.
+
 {% include panels-single.html panels=site.data.start_corporatebanks %}
 
 <script src="/jquery/jquery.min.js"></script>
