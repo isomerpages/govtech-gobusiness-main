@@ -1,15 +1,15 @@
 ---
-title: Moneyworks Version 9 - DataCentre (3 users)
-permalink: /productivity-solutions-grant/solutionrepo/solution681
+title: DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (20 Keywords) & Social Media Advertising [6 Months Package]
+permalink: /productivity-solutions-grant/solutionrepo/solution2467
 ---
 
 ### Description
 
-Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
+At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Lab_20210327_Annex_3_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Ostendo Pte Ltd <br>Web URL: www.ostendoasia.com <br>Contact Hotline: 68505150 <br>Contact Email: info.sg@ostendoasia.com <br>
+Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

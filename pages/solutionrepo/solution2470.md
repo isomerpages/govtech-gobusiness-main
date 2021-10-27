@@ -1,15 +1,21 @@
 ---
-title: Moneyworks Version 9 - DataCentre (3 users)
-permalink: /productivity-solutions-grant/solutionrepo/solution681
+title: DM Impossible Marketing Digital Marketing Packages - Diversification - 3 Months
+permalink: /productivity-solutions-grant/solutionrepo/solution2470
 ---
 
 ### Description
 
-Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
+Our digital marketing solution comprises of 3 main services: Search Engine Optimisation (SEO), Search Engine Marketing (SEM) and Social Media Advertising (SMA).
+
+SEO is the process taken to raise a website's organic position on the search results page, boosting visibility.
+
+SEM, is the use of pay-per-click ads to draw in targeted leads and impressions.
+
+SMA is the process of using social media advertisements to generate leads and build online presence.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Impossible_Marketing_Services_20210324_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +40,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Ostendo Pte Ltd <br>Web URL: www.ostendoasia.com <br>Contact Hotline: 68505150 <br>Contact Email: info.sg@ostendoasia.com <br>
+Web URL: https://www.impossible.sg/ <br>Contact Hotline: 93740111 <br>Contact Email: hello@impossible.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
