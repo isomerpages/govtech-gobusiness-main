@@ -1,5 +1,5 @@
 ---
-title: Absolute Payboy HRMS Version 1.0 - Package C (75 Employees)
+title: Absolute Payboy HRMS Version 1.0 - Package A (20 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution684
 ---
 

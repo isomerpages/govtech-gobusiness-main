@@ -31,9 +31,9 @@ Up to 70% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
- - additional criteria to have only up to 5 centres for SMEs per UEN, anything above will be supported under non-SME levels
+ - Add up to 10 centres for each application.
 
- - same criteria and support levels for SSA and IPC operators.
+- Subject to internal funding caps.
 
 ### Contact Information
 Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
