@@ -1,7 +1,7 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
-  "<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness Licensing, Guided Journey for Food Services and Start a Business e-Adviser will experience intermittent delays from 25 Oct 2021, 9am to 27 Oct 2021 6pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness Licensing, Guided Journey for Food Services and Start a Business e-Adviser will experience intermittent delays from 25 Oct 2021, 9am to 27 Oct 2021 6pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable from 18 September 2021 10pm to 19 September 2021 6pm due to scheduled maintenance. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> e-Advisers for Business Structure and Starting a Business will be unavailable due to scheduled maintenance on 8 Sep 2021 from 6pm to 8pm. We apologise for the inconvenience caused.",
   "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable during the upcoming scheduled maintenance from 29 October 2021 10pm to 30 October 2021 6am. <b>Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.You can check our <a href='https://licence1.business.gov.sg/feportal/web/frontier/maintenance' target='blank' rel='noopener'>schedule</a> for upcoming maintenance works."
