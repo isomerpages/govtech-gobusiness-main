@@ -379,11 +379,9 @@
   data:
     - title: Who are included in the computation of my company’s vaccination rate at https://go.gov.sg/percentvaccinated?
       content: |
-        All your employees are included in the computation of your company’s vaccination rate. This includes interns*, temporary staff, and part-time staff.
+        All your employees are included in the computation of your company’s vaccination rate. This generally includes interns, temporary staff, and part-time staff. 
         
         Persons who are not employees, such as vendors, contractors, and consultants, are not included in the computation of your company’s vaccination rate.
-        
-        *Data for the following categories of interns are excluded: interns who are students (i) enrolled in an institution or programme subsidised by the MOE and (ii) employed for training approved by their educational institution.
 
     - title: When is an employee considered vaccinated?
       content: |
