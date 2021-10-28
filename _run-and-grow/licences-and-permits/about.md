@@ -23,7 +23,7 @@ Are you an event organiser organising Sports, MICE, Arts/Culture, and/or Busines
 Find out which licences and permits you need to organise a physical event in Singapore with our new e-Adviser for Events.
 
 <p>
-{% include button.html text="Go to e-Adviser for Events" src="https://eadviser.gobusiness.sg/events?src=run&grow_licences" type="primary" %}
+{% include button.html text="Go to e-Adviser for Events" src="https://eadviser.gobusiness.gov.sg/events?src=run&grow_licences" type="primary" %}
 </p>
 <br>
 

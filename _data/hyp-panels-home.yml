@@ -4,7 +4,7 @@ panels:
     alt: signpost
     links:
       - text: e-Adviser for Events
-        href: https://eadviser.gobusiness.g2b.sg/events?src=homepage
+        href: https://eadviser.gobusiness.gov.sg/events?src=homepage
         target: _blank
         is_new: true
       - text: e-Adviser for Premises Use
