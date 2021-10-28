@@ -9,7 +9,7 @@ published: true
 
 ![events-eadviser](/images/news/News_Events eAdviser launch.jpg)
 
-GoBusiness has launched the [e-Adviser for Events](https://eadviser.g2b.sg/events), a new feature to help event organisers find out which licences and permits they need to organise a physical event in Singapore.
+GoBusiness has launched the [e-Adviser for Events](https://eadviser.gobusiness.sg/events?src=news), a new feature to help event organisers find out which licences and permits they need to organise a physical event in Singapore.
 
 **Examples of event types:**
 
