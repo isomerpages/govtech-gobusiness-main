@@ -3,11 +3,12 @@ panels:
     image: /images/signpost.svg
     alt: signpost
     links:
+      - text: e-Adviser for Events
+        href: https://eadviser.g2b.sg/events
+        target: _blank
+        is_new: true
       - text: e-Adviser for Premises Use
         href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
-        target: _blank
-      - text: e-Adviser for Business Structure
-        href: https://eadviser.gobusiness.gov.sg/businessstructure?src=eservices_quicklinks
         target: _blank
       - text: e-Adviser for Starting a Business
         href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
