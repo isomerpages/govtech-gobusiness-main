@@ -377,7 +377,7 @@
 - accordion:
   letter: g
   data:
-    - title: Who are included in the computation of my company’s vaccination rate at [https://go.gov.sg/percentvaccinated](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"}?
+    - title: Who are included in the computation of my company’s vaccination rate at https://go.gov.sg/percentvaccinated?
       content: |
         All your employees are included in the computation of your company’s vaccination rate. This includes interns, temporary staff, and part-time staff. 
 
@@ -399,7 +399,7 @@
       content: |
         Your results at the portal will be updated 2-3 months after your new employees join.
 
-    - title: The vaccination rate of my company is different than what is reflected at [https://go.gov.sg/percentvaccinated](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"}. Why is this so?
+    - title: The vaccination rate of my company is different than what is reflected at https://go.gov.sg/percentvaccinated. Why is this so?
       content: |
         There is a time lag for government administrative data to be updated. Employers may refer to their own records when this happens.
 
@@ -407,7 +407,7 @@
       content: |
         The Multi-Ministry Taskforce will include the Sinovac-CoronaVac COVID-19 vaccine in the National Vaccination Programme, following the interim authorisation of the vaccine by the Health Sciences Authority. Those who have taken two doses of Sinovac-Coronavac will be regarded as fully vaccinated for four months after the second dose, or 31 December 2021, whichever is later. (from [Updated advisory on COVID-19 vaccination at the workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"})
 
-    - title: I tried to login to the web service – [https://go.gov.sg/percentvaccinated](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} but was informed that I am not an authorised user. What can I do?
+    - title: I tried to login to the web service – https://go.gov.sg/percentvaccinated but was informed that I am not an authorised user. What can I do?
       content: |
         Please inform your Corppass admin or sub-admin to assign <name of eService> as one of your company’s eServices and assign it to your Corppass account. The Corp Pass account for the Vaccination Checker should be linked to the Ministry of Trade and Industry” and “GoBusiness Portal”.
         
