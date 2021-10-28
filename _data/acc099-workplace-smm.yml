@@ -121,7 +121,7 @@
   data:
     - title: Are companies that have resumed operations required to ensure that their employees work-from-home?
       content: |
-        From 27 Sep 2021, work-from-home is the default mode of work for employees who are able to work from home.
+        From <b>27 Sep 2021</b>, work-from-home is the default mode of work for employees who are able to work from home.
 
         Employers are strongly encouraged to support their employees’ mental well-being during work (whether it is working from home or at the workplace. Employers can adopt the recommendations in the [Tripartite Advisory on mental well-being at workplaces](http://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces){:target="_blank"}{:rel="noopener"}. 
 
@@ -373,3 +373,46 @@
         Having a clear set of guidelines or workplace policies on the work arrangements would help prevent misunderstandings or disputes. 
         
         You may wish to refer to TAFEP's telecommuting guide for more details on implementing a sustainable telecommuting arrangement or to approach TAFEP on work-life programmes that can be implemented at the workplace. 
+
+- accordion:
+  letter: g
+  data:
+    - title: Who are included in the computation of my company’s vaccination rate at [https://go.gov.sg/percentvaccinated](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"}?
+      content: |
+        All your employees are included in the computation of your company’s vaccination rate. This includes interns, temporary staff, and part-time staff. 
+
+        Persons who are not employees, such as vendors, contractors, and consultants, are not included in the computation of your company’s vaccination rate. 
+
+    - title: When is an employee considered vaccinated?
+      content: |
+        An employee is considered vaccinated if he/ she has been: a) fully vaccinated, i.e. has received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective, and had their vaccination records ingested in MOH’s national IT systems ; b) recovered from COVID-19 and within 270 days from the date of COVID-19 infection. 
+
+    - title: Are employees who recovered from COVID-19 but unvaccinated counted towards the vaccination rate of the company?
+      content: |
+        Yes. Employees who recovered from COVID-19 will be counted to the vaccination rate if they are within 270 days from the date of COVID-19 infection. 
+
+    - title: How do I check a specific employee’s vaccination status? 
+      content: |
+        MOM is not able to provide the details of vaccinated and unvaccinated employees. As stated in the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}, employers may ask employees for their vaccination status for the purpose of planning deployment at the workplace.
+
+    - title: Some employees joined my company recently. Is the information on the portal updated?
+      content: |
+        Your results at the portal will be updated 2-3 months after your new employees join.
+
+    - title: The vaccination rate of my company is different than what is reflected at [https://go.gov.sg/percentvaccinated](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"}. Why is this so?
+      content: |
+        There is a time lag for government administrative data to be updated. Employers may refer to their own records when this happens.
+
+    - title: My employees are vaccinated with the Sinovac-Coronavac vaccine. Are they considered vaccinated? 
+      content: |
+        The Multi-Ministry Taskforce will include the Sinovac-CoronaVac COVID-19 vaccine in the National Vaccination Programme, following the interim authorisation of the vaccine by the Health Sciences Authority. Those who have taken two doses of Sinovac-Coronavac will be regarded as fully vaccinated for four months after the second dose, or 31 December 2021, whichever is later. (from [Updated advisory on COVID-19 vaccination at the workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"})
+
+    - title: I tried to login to the web service – [https://go.gov.sg/percentvaccinated](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} but was informed that I am not an authorised user. What can I do?
+      content: |
+        Please inform your Corppass admin or sub-admin to assign <name of eService> as one of your company’s eServices and assign it to your Corppass account. The Corp Pass account for the Vaccination Checker should be linked to the Ministry of Trade and Industry” and “GoBusiness Portal”.
+        
+        The account could be updated here: 
+        [https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"}
+        
+        A user guide could be found here:
+        [https://www.corppass.gov.sg/corppass/common/userguides](https://www.corppass.gov.sg/corppass/common/userguides){:target="_blank"}{:rel="noopener"}
