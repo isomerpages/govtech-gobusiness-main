@@ -6,6 +6,7 @@ const listOfLinks = [
   "Business Grants Portal",
   "Covid-19",
   "Licences and Permits",
+  "For event organisers",
   "For new food service business owners",
 ];
 
