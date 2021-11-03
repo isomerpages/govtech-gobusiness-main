@@ -5,13 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2471
 
 ### Description
 
-Our digital marketing solution comprises of 3 main services: Search Engine Optimisation (SEO), Search Engine Marketing (SEM) and Social Media Advertising (SMA).
-
-SEO is the process taken to raise a website's organic position on the search results page, boosting visibility.
-
-SEM, is the use of pay-per-click ads to draw in targeted leads and impressions.
-
-SMA is the process of using social media advertisements to generate leads and build online presence.
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
 
 ### Details of Solution
 
@@ -40,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.impossible.sg/ <br>Contact Hotline: 93740111 <br>Contact Email: hello@impossible.sg <br>
+Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
