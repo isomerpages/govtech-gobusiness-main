@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1660
 
 ### Description
 
-TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ### Details of Solution
 
