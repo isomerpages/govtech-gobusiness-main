@@ -1,5 +1,5 @@
 ---
-title: Updated solution end date 1160-1180 1181-1192 1221-1230 1260-1266 1279-1284 1876-1879
+title: EndPoint Standard - 10 EndPoints
 permalink: /productivity-solutions-grant/solutionrepo/solution2180
 ---
 
