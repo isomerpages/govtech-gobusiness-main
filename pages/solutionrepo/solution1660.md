@@ -9,7 +9,7 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_People_Central_Timecentral_Annex_3_CR_wef_4_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.timecentral.co<br>Contact Hotline: 68372336<br>Contact Email: business@peoplecentral.co 
+Web URL: www.timecentral.co<br>Contact Hotline: 68372336<br>Contact Email: business@peoplecentral.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

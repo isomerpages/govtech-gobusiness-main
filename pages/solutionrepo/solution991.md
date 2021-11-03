@@ -9,7 +9,7 @@ iCHEF is an integrated digital ordering solution to help small F&B businesses op
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_Annex_3_CR_wef_4_Nov_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
