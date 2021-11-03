@@ -1,8 +1,69 @@
-accordion:
-  - title: My firm is not permitted to operate but I have a shipment of goods coming in. Will I be allowed to send the goods to my work premise and will I be able to activate my employees to receive the shipment at my work premise?
-    content: |
-      Port operators and logistics service providers will be allowed to continue to operate during this period. Yes, you may receive deliveries at your premises. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption. Please submit your application **one day before** the required date of use.
+- accordion:
+  letter: a
+  data:
+    - title: My firm is not permitted to operate but I have a shipment of goods coming in. Will I be allowed to send the goods to my work premise and will I be able to activate my employees to receive the shipment at my work premise?
+      content: |
+        Port operators and logistics service providers will be allowed to continue to operate during this period. Yes, you may receive deliveries at your premises. If you need to activate your employees to work on-site for short periods of time to receive deliveries and perform other related tasks, please apply for a time-limited exemption. Please submit your application **one day before** the required date of use.
 
-  - title: If my work premise is closed, but some of the components are being shipped in, can the company still maintain a minimum number of employees onsite to clear the goods?
-    content: |
-      Yes, the intention is to keep goods flowing in and to keep the port clear.   
+    - title: If my work premise is closed, but some of the components are being shipped in, can the company still maintain a minimum number of employees onsite to clear the goods?
+      content: |
+        Yes, the intention is to keep goods flowing in and to keep the port clear.   
+
+- accordion:
+  letter: b
+  data:
+    - title: I am a food delivery personnel working for Grab/ foodpanda/ Deliveroo. Where do I go for testing? 
+      content: |
+        Food delivery personnel working for Grab, foodpanda or Deliveroo would need to go to a Quick Test Centre (QTC) for testing. The platforms that you work for should have reached out to obtain the necessary details and will schedule you for an appointment, when there is an available slot. You will be informed of your appointment location, date and time in due course, and should keep to the scheduled appointment.
+
+    - title: When will I be scheduled for testing at the Quick Test Centres (QTCs)? 
+      content: |
+        Testing slots at QTCs are being rolled out progressively. Food delivery platforms will schedule you for an appointment when there is an available slot. You will be informed of your appointment location, date and time in due course, and should keep to the scheduled appointment. 
+
+        Even if you have registered with more than one platform, you will be allocated testing slot through one platform. Once the platform has scheduled you, you will receive an SMS confirming the appointment date, time and QTC; the SMS will also indicate the food delivery platform that scheduled your test appointment. 
+
+        Vaccinated delivery personnel are required to do one weekly test while unvaccinated delivery personnel are required to be tested twice weekly. Unvaccinated persons will need to pay for the additional ART that they undergo each week, except for those who are medically ineligible for the mRNA COVID-19 vaccines.
+
+    - title: Can I book the testing appointment at the Quick Test Centres on my own?
+      content: |
+        You will not be able to do so. Food delivery platforms will manage the scheduling of testing slots, based on availability of slots. Please be patient if you have not received an appointment slot yet. You should receive your testing appointment by Nov 2021. 
+        
+    - title: How do I know when to turn up at the QTC? Are we able to change appointment date/ time/ locations? 
+      content: |
+        You will receive an SMS confirming the appointment date, time and QTC. The SMS will also indicate the food delivery platform that scheduled your test appointment. Please wait for the confirmation SMS before turning up at the QTC. Due to limited capacity at the QTC, we seek your understanding to keep to the scheduled appointments. 
+
+    - title: Am I allowed to switch to a different delivery platform after the existing food delivery platform that I am working already scheduled my testing appointment? 
+      content: |
+        If you want to switch to another platform entirely, you will have to make direct arrangements with the other food delivery platform to take over the scheduling of your appointment. 
+
+    - title: Where are the QTCs located? 
+      content: |
+        There is currently a network of about 20 QTCs located island-wide across North, South, East and West regions of Singapore, to cater to workers or individuals who need to undergo routine testing. Please refer to [https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)](https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)){:target="_blank"}{:rel="noopener"} for a comprehensive list of the QTC locations, which will be periodically reviewed. 
+
+    - title: I am a food delivery personnel who works for multiple food delivery platforms/ I am a part-time food delivery personnel and I am already undergoing a Fast and Easy Testing (FET)/ Vaccinate or Regulate testing (VoRT) regime as part of my full-time job requirement. How many tests am I required to do?  
+      content: |
+        Vaccinated delivery personnel are required to do one test per week. Unvaccinated delivery personnel are required to be tested twice weekly. The cost of the 2nd test each week is payable by unvaccinated, but medically eligible delivery personnel. 
+
+        If you work for or provide services to more than one delivery platform, you will need to declare your test status to your other employers as your test result will only be made available to the platform/ company that scheduled* your test appointment.
+
+        *Note: You can check your QTC appointment SMS to find out which company/ food delivery platform scheduled you for your test appointment.
+
+    - title: What should I do if I obtain an “Ag+” result?
+      content: |
+        Should you have a positive ART test result, you are required to follow the prevailing guidelines set out on MOH’s website at [https://www.covid.gov.sg/resources/protocol-changes/9-oct](https://www.covid.gov.sg/resources/protocol-changes/9-oct){:target="_blank"}{:rel="noopener"}. 
+
+        In the meantime, you must stop fulfilling delivery orders, until you test negative, per the current healthcare protocol. Food delivery platforms must not assign jobs to food delivery personnel that have tested positive.
+
+    - title: What happens if I do not follow the health protocols?
+      content: |
+        Persons who do not follow the health protocols may be found to be in breach of the Infectious Disease Act. Enforcement action will be taken against those persons who are found to be in breach, which may include prosecution. 
+
+        In addition, food delivery platforms that are found to have carried on their business in a manner that is likely to cause the spread of COVID-19 may be ordered to suspend their businesses.
+
+    - title: What will happen at the Quick Test Centre?
+      content: |
+        Participants will swab themselves using the ART kits under the supervision of trained staff at the test centre. The process will take 10 – 15 mins. Your test result will be sent to you via SMS.
+
+    - title: Will the Government cover the cost of testing at the QTC? 
+      content: |
+        Tests for all food delivery personnel who are mandated to undergo routine testing on a weekly basis will be subsidised until 31 December 2021. The cost for both tests each week for delivery personnel who are <u>medically ineligible for mRNA COVID-19 vaccines and remain unvaccinated</u> will also be subsidised. These medically ineligible personnel need to produce a doctor-certified memo (see attached), certifying that they are medically ineligible for mRNA COVID-19 vaccines to be exempted from payment. Those who are <u>medically eligible for mRNA COVID-19 vaccines but remain unvaccinated</u> will need to pay for the 2nd test each week at the QTC. 
