@@ -7,7 +7,7 @@ accordion:
 
       From 1 January 2022, only employees who are fully vaccinated, or have recovered from COVID-19 within the past 270 days, can return to the workplace. Unvaccinated employees will not be allowed to return to the workplace unless they have a negative Pre-Event Testing (PET) result, which must be valid for the duration that the employees are required to be present at the workplace. Unvaccinated employees have to pay for the costs of PET and show the results to their employers when reporting to the workplace. More information can be found on the MOM website ([https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}).
 
-      As part of Singapore’s national efforts to mitigate the risk of transmission of COVID-19, enterprises in the Private Tuition and Enrichment Sector are required to comply with the Fast and Easy Testing (FET) 7-day regime, as well as the Vaccinate or Regular Test (VoRT) regime for onsite employees. The latest details on the two regimes are on: https://go.gov.sg/tuition-enrichment-fet. 
+      As part of Singapore’s national efforts to mitigate the risk of transmission of COVID-19, enterprises in the Private Tuition and Enrichment Sector are required to comply with the Fast and Easy Testing (FET) 7-day regime, as well as the Vaccinate or Regular Test (VoRT) regime for onsite employees. The latest details on the two regimes are on: [https://go.gov.sg/tuition-enrichment-fet](https://go.gov.sg/tuition-enrichment-fet){:target="_blank"}{:rel="noopener"}.
       
       As a default, the following SMMs apply to all centres conducting on-site instruction (whether indoors or outdoors and regardless of activity), except where there are additional safe management measures that apply for higher-risk activities such as sports or physical activity, dance, singing, the playing of instruments that require the intentional expulsion of air (e.g. wind/brass instruments), voice training, and speech and drama classes (please refer to Q2 and Q3 for details for these classes).
 
@@ -53,14 +53,14 @@ accordion:
 
         - There must be at least 1m safe distance between individuals who are masked. For individuals who are unmasked, they must maintain a 2m safe distance with the next individual. 
         - Until 10 November 2021, there must be a minimum of 3m spacing between each group. The groups should not intermingle before, during, and after the class.
-        - From 10 November 2021, there must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.
+        - From 10 November 2021, there must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.<br>
 
       - For indoor classes, class size must be limited to a maximum of 30 persons (including the instructor), with:
 
         - Group sizes of no more than **<u>2 persons</u>**, provided that all individuals in the class are vaccinated. 
         - There must be at least 1m safe distance between individuals who are masked. For individuals who are unmasked, they must maintain a 2m safe distance with the next individual. 
         - Until 10 November 2021, there must be a minimum of 3m spacing between each group. The groups should not intermingle before, during, and after the class.  
-        - From 10 November 2021, there must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.
+        - From 10 November 2021, there must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.<br>
 
       - Where there are individuals who are not vaccinated, indoor classes **<u>are to be suspended.</u>**
 
@@ -106,7 +106,7 @@ accordion:
     content: |
       MOE strongly encourages that these classes be conducted online.
 
-      For classes that are conducted in person, they are subject to safe management requirements and additional safe management measures specified in here and here as applicable.
+      For classes that are conducted in person, they are subject to safe management requirements and additional safe management measures specified in here (please refer to Q2) and here (please refer to Q3) as applicable.
       Specifically for SSG-funded CET programmes, SSG’s prevailing guideline for a maximum class size of 40 persons (excluding the trainer(s)) for course quality reasons remains and takes precedence.
 
   - title: Will the TraceTogether-only SafeEntry system and the SafeEntry Gateway Device (SEGW) be implemented for tuition, enrichment centres and SSG-funded training providers?
