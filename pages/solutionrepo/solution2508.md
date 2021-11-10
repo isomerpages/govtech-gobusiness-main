@@ -1,23 +1,18 @@
 ---
-title: Sophos XG Firewall - XG 116
-permalink: /productivity-solutions-grant/solutionrepo/solution2385
+title: ABSS Premier Version 23 - 1U+Setup+Training
+permalink: /productivity-solutions-grant/solutionrepo/solution2508
 ---
 
 ### Description
 
-Sophos XG Cybersecurity Solution that provides :
-(i) Network Firewall
-(ii) Intrusion Detection/Prevention System
-(iii) Virtual Private Network (VPN)
-(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
-(v) Secure Email Gareway (e.g. anti-spam, content filtering)
-(vi) Anti-Virus/Anti-Malware
-(vii) Application Control
-(viii) Sandboxing
+ABSS Premier is a leading SME business integrated accounting solution
+- Formerly known as MYOB that provides simple and easy to use accounting support.
+- A digital ready accounting software that help owner-operators, accountant to manage and process sales and purchases, track receivable, payable, inventory and GST.  
+- A simplify desktop & cloud accounting management, ePayments, eInvoices and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_11_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Dandelion_Consulting_20200930_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -42,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.eminet.com.sg <br>Contact Hotline: 66019898 <br>Contact Email: charles@eminet.com.sg <br>
+Web URL: www.dandelion.com.sg <br>Contact Hotline: 89275811 <br>Contact Email: info@dandelion.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

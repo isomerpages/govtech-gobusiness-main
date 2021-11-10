@@ -1,23 +1,15 @@
 ---
-title: Sophos XG Firewall - XG 116
-permalink: /productivity-solutions-grant/solutionrepo/solution2385
+title: Creative eShop - Creative eShop Package Standard
+permalink: /productivity-solutions-grant/solutionrepo/solution2506
 ---
 
 ### Description
 
-Sophos XG Cybersecurity Solution that provides :
-(i) Network Firewall
-(ii) Intrusion Detection/Prevention System
-(iii) Virtual Private Network (VPN)
-(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
-(v) Secure Email Gareway (e.g. anti-spam, content filtering)
-(vi) Anti-Virus/Anti-Malware
-(vii) Application Control
-(viii) Sandboxing
+Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_11_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -42,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.eminet.com.sg <br>Contact Hotline: 66019898 <br>Contact Email: charles@eminet.com.sg <br>
+Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
