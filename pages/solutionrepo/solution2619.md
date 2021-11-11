@@ -1,15 +1,15 @@
 ---
-title: Sage 300  - Package A1 (Advanced Edition - 3 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution500
+title: 3. Transformational Strategies for Supply Chain and Logistics Management
+permalink: /productivity-solutions-grant/solutionrepo/solution2619
 ---
 
 ### Description
 
-Sage 300 is an ERP solution which automates and connects the various work processes of a business including financials, operations and inventory, project and vendor management, business intelligence reporting and sales, marketing and customer service for a seamless centralised platform.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityPriceAnnex3_CR12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200604346E-01-CRS-N-0046808' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name: IT Infinity Pte Ltd<br>Web URL: www.it8.com.sg<br>Contact Hotline: 6346-1511<br>Contact Email: sales@it8.com.sg
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

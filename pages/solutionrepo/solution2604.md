@@ -1,5 +1,5 @@
 ---
-title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
+title: 2. Introduction to Accounting Data and Analytics
 permalink: /productivity-solutions-grant/solutionrepo/solution2604
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200000267Z-01-CRS-N-0048575' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

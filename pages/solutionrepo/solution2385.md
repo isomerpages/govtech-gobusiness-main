@@ -1,5 +1,5 @@
 ---
-title: Sophos XG Firewall - XG 115
+title: Sophos XG Firewall - XG 116
 permalink: /productivity-solutions-grant/solutionrepo/solution2385
 ---
 
@@ -17,7 +17,7 @@ Sophos XG Cybersecurity Solution that provides :
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Eminet_20200439_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_11_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

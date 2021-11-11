@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 1. Apply Knowledge of Accounting Related Concepts
 permalink: /productivity-solutions-grant/solutionrepo/solution2603
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200722689Z-01-CRS-Q-0040060-HRS' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0036758-BM' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

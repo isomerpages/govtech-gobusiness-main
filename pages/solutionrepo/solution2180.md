@@ -1,5 +1,5 @@
 ---
-title: EndPoint Standard - 10 EndPoints
+title: Endpoint Standard - 10 EndPoints
 permalink: /productivity-solutions-grant/solutionrepo/solution2180
 ---
 
