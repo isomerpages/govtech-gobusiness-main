@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Ostendo Pte Ltd <br>Web URL: www.ostendoasia.com <br>Contact Hotline: 68505150 <br>Contact Email: info.sg@ostendoasia.com <br>
+Company Name:Ostendo Pte Ltd <br>Web URL: www.ostendoasia.com <br>Contact Hotline: 6983 6783 <br>Contact Email: info.sg@ostendoasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
