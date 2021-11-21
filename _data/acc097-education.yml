@@ -3,7 +3,7 @@ accordion:
     content: |
       In line with the national posture, all tuition and enrichment centres must ensure that work-from-home is the default arrangement for employees who are able to do so. MOE strongly encourages that all tuition and enrichment classes be conducted online. 
 
-      For centres that are allowed to continue on-site instruction, to reduce risk of transmission of COVID-19, they are required to abide by the nationwide [safe management measures for workplaces](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"}. These include the use of SafeEntry to support contact tracing for all employees, wearing of masks at all times, no social gatherings at the workplace and regular cleaning of common facilities and high-touch areas. Employers should continue to implement flexible working hours and stagger the start times of employees who need to return to the workplace. For employees who are able to work from home but need to return to the workplace for adhoc reasons may do so after testing negative via  the Antigen Rapid Test before returning onsite. More information on prevailing workplace safe management measures can be found on the MOM website ([https://www.mom.gov.sg/covid-19](https://www.mom.gov.sg/covid-19){:target="_blank"}{:rel="noopener"}).
+      Centres that continue on-site instruction or have employees who must return to the workplace (e.g. to maintain critical IT functions) are required to abide by the nationwide [safe management measures for workplaces](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"} to reduce risk of transmission of COVID-19. These include the use of SafeEntry to support contact tracing for all employees, wearing of masks at all times, no social gatherings at the workplace and regular cleaning of common facilities and high-touch areas. Employers should continue to implement flexible working hours and stagger the start times of employees who need to return to the workplace. For employees who are able to work from home but need to return to the workplace for adhoc reasons may do so after testing negative via  the Antigen Rapid Test before returning onsite. More information on prevailing workplace safe management measures can be found on the MOM website ([https://www.mom.gov.sg/covid-19](https://www.mom.gov.sg/covid-19){:target="_blank"}{:rel="noopener"}).
 
       From 1 January 2022, only employees who are fully vaccinated, or have recovered from COVID-19 within the past 270 days, can return to the workplace. Unvaccinated employees will not be allowed to return to the workplace unless they have a negative Pre-Event Testing (PET) result, which must be valid for the duration that the employees are required to be present at the workplace. Unvaccinated employees have to pay for the costs of PET and show the results to their employers when reporting to the workplace. More information can be found on the MOM website ([https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}).
 
@@ -15,7 +15,7 @@ accordion:
 
         i. <u>Students:</u> Centres must ensure safe distancing between students by putting up appropriate floor demarcations and/or physical barriers, e.g. using safety tape. There must also be strict separation between students in different classrooms at all times, with no intermingling.
           <br>- As a default, centres must ensure that all students maintain safe distancing of at least 1m at all times, with strictly no physical interaction between students. 
-          <br>- If it is not possible to apply 1m safe distancing between students and some interaction is unavoidable, centres may instead organise students into groups of no more than 2 **<u>students</u>**, with strictly no physical interaction or intermingling between different groups. Centres must strictly maintain a minimum of 1m spacing between groups, although MOE advises 2m spacing between groups as a best practice.
+          <br>- If it is not possible to apply 1m safe distancing between students and some interaction is unavoidable, centres may instead organise students into groups of no more than 5 **<u>students</u>**, with strictly no physical interaction or intermingling between different groups. Centres must strictly maintain a minimum of 1m spacing between groups, although MOE advises 2m spacing between groups as a best practice.
 
         ii. <u>Tutors/instructors:</u> Tutors/instructors are advised to minimise contact with students. If some interaction is unavoidable, contact with students should be transient, and they should remain at the front of the class as much as is practicable.
 
@@ -49,16 +49,16 @@ accordion:
     content: |
       All activities involving mask-off activities are subject to additional safe management measures (on top of the prevailing safe management measures (please refer to Q1) that all classes are required to comply with).
 
-      - For outdoor classes, the class size must be limited to a maximum of 50 persons (including the instructor), with group sizes of no more than **<u>2 persons</u>**. 
+      - For outdoor classes, the class size must be limited to a maximum of 50 persons (including the instructor), with group sizes of no more than **<u>5 persons</u>**. 
 
         - There must be at least 1m safe distance between individuals who are masked. For individuals who are unmasked, they must maintain a 2m safe distance with the next individual. 
-        - From 10 November 2021, there must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.<br>
+        - There must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.<br>
 
       - For indoor classes, class size must be limited to a maximum of 30 persons (including the instructor), with:
 
-        - Group sizes of no more than **<u>2 persons</u>**, provided that all individuals in the class are vaccinated. 
+        - Group sizes of no more than **<u>5 persons</u>**, provided that all individuals in the class are vaccinated. 
         - There must be at least 1m safe distance between individuals who are masked. For individuals who are unmasked, they must maintain a 2m safe distance with the next individual. 
-        - From 10 November 2021, there must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.<br>
+        - There must be a minimum of 2m spacing between each group. The groups should not intermingle before, during, and after the class.<br>
 
       - Where there are individuals who are not vaccinated, indoor classes **<u>are to be suspended.</u>**
 
@@ -68,11 +68,13 @@ accordion:
 
       b. Recovered from COVID-19; or 
 
-      c. Has obtained a negative result on a pre-event test taken in the past 24 hours before the expected end of the event.
+      c. **(Only applicable until 31 Dec 2021)** Has obtained a negative result on a pre-event test taken in the past 24 hours before the expected end of the event.
+
+      From 1 December 2021, individuals who are medically ineligible for all COVID-19 vaccines under the National Vaccination Programme will be exempted from vaccination-differentiated SMMs. As they remain unvaccinated, they are strongly encouraged to use this concession judiciously.
 
   - title: What are the safe management measures that should be implemented for in person lessons operating out of private residences? 
     content: |
-      MOE strongly encourages that all tuition and enrichment classes be conducted online. Home-based tuition/enrichment that conduct in-person lessons, will be subject to the prevailing national group size limit (currently two) and number of unique household visitors allowed per day (also currently two). Individuals who visit private residences to provide tuition and enrichment are also subject to the prevailing national limit for number of social household visits allowed (currently one). The prevailing national limits can be found at [https://www.moh.gov.sg/covid-19-phase-advisory](https://www.moh.gov.sg/covid-19-phase-advisory){:target="_blank"}{:rel="noopener"}.
+      MOE strongly encourages that all tuition and enrichment classes be conducted online. Home-based tuition/enrichment that conduct in-person lessons, will be subject to the prevailing national group size limit and number of unique household visitors allowed per day. Individuals who visit private residences to provide tuition and enrichment are also recommended to ensure they are within the prevailing national limit for number of social household visitors allowedallowed, and are strongly advised to only visit other residences if they are fully vaccinated, so as to protect those who are unvaccinated from exposure to the virus. The prevailing national limits can be found at [https://www.moh.gov.sg/covid-19-phase-advisory](https://www.moh.gov.sg/covid-19-phase-advisory){:target="_blank"}{:rel="noopener"}.
       
       In addition, home ventilation should be improved by opening doors and windows. Fans can be used to promote air circulation when needed.
 
@@ -131,7 +133,7 @@ accordion:
 
   - title: Can private tuition/enrichment classes and training sessions involving transient mask-off activities such as food tasting be allowed to continue?
     content: |
-      Students are strongly encouraged to keep their masks on throughout class as much as possible. If necessary as part of the lesson, transient mask-off activities such as food tasting are allowed, subject to additional safe management measures in Q2 and Q3 as applicable.
+      Students are strongly encouraged to keep their masks on throughout class as much as possible. If necessary as part of the lesson, transient mask-off activities such as food tasting are allowed, subject to additional safe management measures specified in Q2 and Q3 as applicable.
 
   - title: Can MOE help to facilitate a refund of the fees I had already paid for the period where face-to-face classes were suspended for students aged 18 years and younger?
     content: |
@@ -141,4 +143,4 @@ accordion:
     content: |
       For Early Intervention (EI) services provided to pre-school children (aged 0 - 6), please refer to ECDA’s guidelines on EI services.  
 
-      In addition to aligning with MOH guidelines on healthcare services, group therapy for all non-public Healthcare Institutions AHS, including psychology services, is capped at a maximum of 2 clients per session (count excludes AHPs and support staff).
+      In addition to aligning with MOH guidelines on healthcare services, group therapy for all non-public Healthcare Institutions AHS, including psychology services, is capped at a maximum of 5 clients per session (count excludes AHPs and support staff).
