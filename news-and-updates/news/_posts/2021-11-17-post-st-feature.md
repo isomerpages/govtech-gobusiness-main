@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Straits Times: Upcoming GoBusiness Dashboard to simplify grant and licence applications'
-permalink: /news-and-updates/news/st-feature-db
+permalink: /news-and-updates/news/gt-press-statement
 published: true
 ---
 
