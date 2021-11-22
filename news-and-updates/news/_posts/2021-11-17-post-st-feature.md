@@ -15,4 +15,4 @@ The report also featured a men’s tailor business Stitched Custom, and detailed
 
 In 2020 alone, over 60,000 unique businesses have used GoBusiness to apply for government assistance. More than 2,800 businesses from the food services sector have also benefited from the simplified licensing process since GoBusiness was launched in 2019.
 
-Read the full media release on [The Straits Times](https://www.straitstimes.com/business/gobusiness-to-launch-one-stop-dashboard-for-business-owners-to-apply-for-grants-and){:target="_blank"}{:rel="noopener"}.
+Read the full article on [The Straits Times](https://www.straitstimes.com/business/gobusiness-to-launch-one-stop-dashboard-for-business-owners-to-apply-for-grants-and){:target="_blank"}{:rel="noopener"}.
