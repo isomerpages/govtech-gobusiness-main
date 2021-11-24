@@ -9,7 +9,7 @@ At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on th
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Lab_20210327_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_789.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
