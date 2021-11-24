@@ -12,7 +12,7 @@ ABSS Premier is a leading SME business integrated accounting solution
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Dandelion_Consulting_20200930_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_CR_wef_25_Nov_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
