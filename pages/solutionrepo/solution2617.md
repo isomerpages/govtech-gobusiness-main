@@ -1,5 +1,5 @@
 ---
-title: 1. Inventory Replenishment and Ordering Decision
+title: 1. WSQ Retail Inventory Control (Perform Stock Control)
 permalink: /productivity-solutions-grant/solutionrepo/solution2617
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-92' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -11,7 +11,7 @@ ePSProfessional is a feature-rich ecommerce online shop solution based on open s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Efusion_Tech_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

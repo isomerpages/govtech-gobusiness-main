@@ -1,5 +1,5 @@
 ---
-title: 3. Service Challenges for C-Suite
+title: 3. Service Challenges (Level 5)
 permalink: /productivity-solutions-grant/solutionrepo/solution2594
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-199104974R-01-CRS-Q-0039480-RET' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
