@@ -1,5 +1,5 @@
 ---
-title: 3. Supply Chain Management
+title: 3. Transformational Strategies for Supply Chain and Logistics Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2619
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200604346E-01-CRS-N-0046808' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

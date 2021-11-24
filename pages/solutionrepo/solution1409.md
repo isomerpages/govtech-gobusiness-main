@@ -5,11 +5,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1409
 
 ### Description
 
-This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
+This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
 
-The equipment can transport palletised goods of approximately 1000 to 2000 kg.
+The equipment can transport palletised goods of approximately 1000 to 1500 kg.
 
-Grant support: 80% of cost of equipment, up to $2,600 grant per unit.
+Grant support: 80% of cost of equipment, capped at $2,600 grant per unit
 
 ### Details of Solution
 
@@ -36,12 +36,12 @@ N.A. for non-SMEs
 
 ### Things to Note
 Specifications:
-- Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable
-- Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load
-- 1 worker/unit
-- Safety features eg emergency stop
-- Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.
-- Only 1 application per coy will be supported
+- Rechargeable battery powered. Min. recommended battery voltage -24V and rated capacity -10Ah
+- Rated loading capacity approx. 1000 - 1500kg
+- 1 worker/electric pallet truck
+- Min. gradeability w/o load - 5%, w load - 3%
+- Safety features incl. (e.g. emergency stop switch)
+- Charging accessories & 1 spare battery per unit may be supported
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
