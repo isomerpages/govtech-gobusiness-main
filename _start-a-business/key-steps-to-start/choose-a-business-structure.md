@@ -41,7 +41,7 @@ There are 2 ways to find out which business structure suits you best:
 
 {:start="2"}
 
-2.  Download a [Business Structure Comparison Table](/images/start/Types of Business Structures SG 25Nov2021.pdf){:target="_blank"} to find out the differences amongst the different business structures.
+2.  Download a [Business Structure Comparison Table](/images/start/Types of Business Structures SG 29Sep2021.pdf){:target="_blank"} to find out the differences amongst the different business structures.
 
 ---
 
