@@ -59,3 +59,6 @@ _Caption: The e-Adviser for Starting a Business helps users check if their chose
 ### Coming soon in early 2022
 
 The upcoming GoBusiness Dashboard has been featured on [The Straits Times](https://www.straitstimes.com/business/gobusiness-to-launch-one-stop-dashboard-for-business-owners-to-apply-for-grants-and){:target="_blank"}{:rel="noopener"}, [Channel 8](https://www.8world.com/singapore/gobusiness-1648721){:target="_blank"}{:rel="noopener"} and [Vulcan Post](https://vulcanpost.com/769410/how-gobusiness-helps-singapore-entrepreneurs/){:target="_blank"}{:rel="noopener"} — watch this space for more updates!
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
