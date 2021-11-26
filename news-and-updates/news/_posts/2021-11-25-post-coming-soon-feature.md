@@ -25,7 +25,7 @@ With a **cleaner and neater** layout, business users can easily find all the **e
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/watch?v=1PPXLGZmZXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/1PPXLGZmZXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -37,7 +37,7 @@ With a **single, personalised dashboard** to support users through the whole bus
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/watch?v=2BOhxdf9xYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/2BOhxdf9xYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -50,7 +50,7 @@ To better cater to the unique needs of businesses, the new dashboard will also p
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/watch?v=1ub4jq_iv5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/1ub4jq_iv5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
