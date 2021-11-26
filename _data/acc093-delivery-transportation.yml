@@ -18,7 +18,7 @@
 
     - title: When will I be scheduled for testing at the Quick Test Centres (QTCs)? 
       content: |
-        Testing slots at QTCs are being rolled out progressively. Food delivery platforms will schedule you for an appointment when there is an available slot. You will be informed of your appointment location, date and time in due course, and should keep to the scheduled appointment. 
+        Food delivery platforms will schedule you for an appointment when there is an available slot. You will be informed of your appointment location, date and time in due course, and should keep to the scheduled appointment.
 
         Even if you have registered with more than one platform, you will be allocated testing slot through one platform. Once the platform has scheduled you, you will receive an SMS confirming the appointment date, time and QTC; the SMS will also indicate the food delivery platform that scheduled your test appointment. 
 
@@ -26,7 +26,9 @@
 
     - title: Can I book the testing appointment at the Quick Test Centres on my own?
       content: |
-        You will not be able to do so. Food delivery platforms will manage the scheduling of testing slots, based on availability of slots. Please be patient if you have not received an appointment slot yet. You should receive your testing appointment by Nov 2021. 
+        You will not be able to do so. Food delivery platforms will manage the scheduling of testing slots, based on availability of slots. You should receive your testing appointment by 28 Nov 2021. If you have not received any test appointment yet, please inform the platform<sup>*</sup> and the platform will assist to schedule a test appointment for you. If you are a new food delivery personnel that recently joined the platform, we seek your patience as the platforms may need some time to schedule test appointments.
+
+        <sup>*</sup> If you are working for multiple platforms, please send your request to one platform only, as every food delivery personnel can only be tagged to a single platform.   
         
     - title: How do I know when to turn up at the QTC? Are we able to change appointment date/ time/ locations? 
       content: |
@@ -38,15 +40,19 @@
 
     - title: Where are the QTCs located? 
       content: |
-        There is currently a network of about 20 QTCs located island-wide across North, South, East and West regions of Singapore, to cater to workers or individuals who need to undergo routine testing. Please refer to [https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)](https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)){:target="_blank"}{:rel="noopener"} for a comprehensive list of the QTC locations, which will be periodically reviewed. 
+        There is currently a network of QTCs located island-wide across North, South, East and West regions of Singapore, to cater to workers or individuals who need to undergo routine testing. Please refer to [https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)](https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)){:target="_blank"}{:rel="noopener"} for a comprehensive list of the QTC locations, which will be periodically reviewed.
 
-    - title: I am a food delivery personnel who works for multiple food delivery platforms/ I am a part-time food delivery personnel and I am already undergoing a Fast and Easy Testing (FET)/ Vaccinate or Regulate testing (VoRT) regime as part of my full-time job requirement. How many tests am I required to do?  
+    - title: I am a food delivery personnel who works for multiple food delivery platforms/ I am a part-time food delivery personnel and I am already undergoing a Fast and Easy Testing (FET)/ Vaccinate or Regulate testing (VoRT) regime as part of my full-time job requirement. How many tests am I required to do?
       content: |
         Vaccinated delivery personnel are required to do one test per week. Unvaccinated delivery personnel are required to be tested twice weekly. The cost of the 2nd test each week is payable by unvaccinated, but medically eligible delivery personnel. 
 
-        If you work for or provide services to more than one delivery platform, you will need to declare your test status to your other employers as your test result will only be made available to the platform/ company that scheduled* your test appointment.
+        There is no need to test multiple times for different platform/ companies. If you have already undergone mandatory ART or PCR testing as part of requirements in your other employment (including other platforms), you only need to declare your test status to the other employers/ platforms. Your test result will be made available only to the platform/ company that scheduled<sup>*</sup> your test appointment or did the supervised testing for you.
 
-        *Note: You can check your QTC appointment SMS to find out which company/ food delivery platform scheduled you for your test appointment.
+        Food delivery personnel who work for multiple companies or platforms are highly encouraged to onboard Sync<sup>**</sup> to facilitate sharing of test status information to relevant parties, so that they do not have to make multiple declarations.  Riders should have received a request via the platform’s communication channels to share the test results with them on Sync. Alternatively, riders may also access Sync at [https://sync.covid.gov.sg/](https://sync.covid.gov.sg/){:target="_blank"}{:rel="noopener"} and login via SingPass to share the test results with the relevant platform/ companies.
+
+        <sup>*</sup> Note: You can check your QTC appointment SMS to find out which company/ food delivery platform scheduled you for your test appointment. 
+
+        <sup>**</sup> Sync is a web portal that allows individuals to provide consent and share your health records with recipients (platforms/companies) easily, starting with COVID-19 test and vaccination records.
 
     - title: What should I do if I obtain an “Ag+” result?
       content: |
