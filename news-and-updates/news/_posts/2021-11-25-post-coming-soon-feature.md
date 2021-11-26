@@ -7,7 +7,7 @@ published: true
 
 ## Manage all your business licences and permits in one place
 
-![media feature](/images/news/News_Media Feature.jpg)
+![PEP DB](/images/news/News_PEP_DB.jpg)
 
 Interactions with the Government are about to get a lot simpler and seamless for business owners with a brand new GoBusiness Dashboard coming soon in early 2022!
 
