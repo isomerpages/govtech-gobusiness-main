@@ -29,7 +29,7 @@ With a **cleaner and neater** layout, business users can easily find all the **e
 </div>
 </p>
 
-_Caption: A preview of the upcoming new GoBusiness Dashboard, with a clear overview of all transactions and their statuses._
+Caption: A preview of the upcoming new GoBusiness Dashboard, with a clear overview of all transactions and their statuses.
 
 ### Applications made simpler
 
@@ -41,7 +41,7 @@ With a **single, personalised dashboard** to support users through the whole bus
 </div>
 </p>
 
-_Caption: Licence application forms now come with a summary of key information and required documents at the start, to ensure business users have what they need to apply._
+Caption: Licence application forms now come with a summary of key information and required documents at the start, to ensure business users have what they need to apply.
 
 
 ### Personalised guidance
@@ -54,7 +54,7 @@ To better cater to the unique needs of businesses, the new dashboard will also p
 </div>
 </p>
 
-_Caption: The e-Adviser for Starting a Business helps users check if their chosen business name is already in use, and recommends licences and approvals needed to start the business._
+Caption: The e-Adviser for Starting a Business helps users check if their chosen business name is already in use, and recommends licences and approvals needed to start the business.
 
 ### Coming soon in early 2022
 
