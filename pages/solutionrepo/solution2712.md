@@ -1,5 +1,5 @@
 ---
-title: 3. Apply Workplace Safety and Health in Logistics and Transportation
+title: 2. Manage Budgeting and Forecasting Processes for the Business Unit
 permalink: /productivity-solutions-grant/solutionrepo/solution2712
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Budgeting-Forecasting-Processes-Business-Unit-5' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

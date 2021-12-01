@@ -1,5 +1,5 @@
 ---
-title: 3. Analyse the Impact of Customer Behaviour on Sales & Marketing Strategies
+title: 2. Adapt to Change - Digitalization for Hawkers
 permalink: /productivity-solutions-grant/solutionrepo/solution2709
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Impact-Customer-Behaviour-Sales-Marketing-Strategies-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Adapt-Change-Digitalization-Hawkers' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

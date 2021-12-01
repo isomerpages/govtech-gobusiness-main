@@ -1,5 +1,5 @@
 ---
-title: 2. Apply Project Management Skills
+title: 1. NICF - CRM - Sales Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2714
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Apply-Project-Management-Skills-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/NICFCRM-Sales-Management-SF-1' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

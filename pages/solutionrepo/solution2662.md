@@ -1,5 +1,5 @@
 ---
-title: 1. User Interface and User Experience Optimisation
+title: 3. Supply Chain Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2662
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/User-Interface-User-Experience-Optimisation-PCP-Synchronous-ELearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -40,8 +40,8 @@ Minimum Specifications
 
 -	Installation and maintenance costs not supported. 
 
-- Support is given for 1 unit per deployment location
-- The purchase of pre-owned/used equipment is not supportable.
+-Support is given for 1 unit per deployment location
+-The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
 N.A.
