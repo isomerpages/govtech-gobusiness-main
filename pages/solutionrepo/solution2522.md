@@ -34,7 +34,7 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum Specifications
-- Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
+-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
 
 -	Well capacity to be at least 5L 
 
@@ -43,8 +43,8 @@ Minimum Specifications
 -	Installation and maintenance costs not supported
 
 
-- Support is given for 1 unit per deployment location
-- The purchase of pre-owned/used equipment is not supportable.
+-Support is given for 1 unit per deployment location
+-The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
 N.A.

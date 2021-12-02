@@ -1,5 +1,5 @@
 ---
-title: SAGE 300Cloud Version 2020 - Advanced B2 - 5 Users with InvoiceNow
+title: SAGE 300Cloud Version 2021 - Advanced B2 - 5 Users with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution69
 ---
 
