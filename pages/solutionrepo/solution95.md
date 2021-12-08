@@ -1,5 +1,5 @@
 ---
-title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package A Moneyworks Gold - 1 User Software Only
+title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only
 permalink: /productivity-solutions-grant/solutionrepo/solution95
 ---
 
@@ -9,7 +9,7 @@ MoneyWorks was built from the ground up for the needs of business, finance and a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Advanced Micro Control Pte Ltd<br>http://www.amc.com.sg<br>Email: Sales@amc.com.sg<br>Tel: +65 6589 8818
+Company Name:Advanced Micro Control Pte Ltd <br>Web URL:http://www.amc.com.sg <br>Contact Hotline:65898818 <br>Contact Email:sales@amc.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

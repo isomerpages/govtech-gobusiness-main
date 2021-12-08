@@ -1,5 +1,5 @@
 ---
-title: 2. Align Human Resource Services with Business Needs (SFw HR)
+title: 2. Knowledge Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2736
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Align-Human-Resource-Services-Business-Needs-SFw-HR-1' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Knowledge-Management-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
