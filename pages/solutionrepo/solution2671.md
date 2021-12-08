@@ -1,5 +1,5 @@
 ---
-title: 3. (WSQ) Process Payroll
+title: 1. Content Creation and Marketing
 permalink: /productivity-solutions-grant/solutionrepo/solution2671
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payroll-4' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Content-Creation-Marketing' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

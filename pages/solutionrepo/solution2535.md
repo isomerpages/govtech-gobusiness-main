@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: http://sea.1-smart.com.sg/ <br>Contact Hotline: 93688784 <br>Contact Email: sales@1-smart.com.sg <br>
+Web URL: www.2dfire.sg <br>Contact Hotline: 83210776 <br>Contact Email: cocowang@1-smart.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

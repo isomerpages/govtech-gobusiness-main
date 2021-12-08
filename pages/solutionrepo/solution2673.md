@@ -1,5 +1,5 @@
 ---
-title: 2. Apply Knowledge of Accounting-Related Concepts
+title: 2b. Social Commerce Fundamentals
 permalink: /productivity-solutions-grant/solutionrepo/solution2673
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Knowledge-AccountingRelated-Concepts-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
