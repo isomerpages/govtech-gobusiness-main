@@ -14,25 +14,28 @@
   data:
     - title: I am a food delivery personnel working for Grab/ foodpanda/ Deliveroo. Where do I go for testing? 
       content: |
-        Food delivery personnel working for Grab, foodpanda or Deliveroo would need to go to a Quick Test Centre (QTC) for testing. The platforms that you work for should have reached out to obtain the necessary details and will schedule you for an appointment, when there is an available slot. You will be informed of your appointment location, date and time in due course, and should keep to the scheduled appointment.
+        Food delivery personnel working for Grab, foodpanda or Deliveroo would need to go to a Quick Test Centre (QTC) for testing. The platforms that you work for should have reached out to obtain the necessary details to onboard you and/or schedule you for your first appointment. Please approach the platform if you have not been onboarded or scheduled for an appointment. 
 
     - title: When will I be scheduled for testing at the Quick Test Centres (QTCs)? 
       content: |
-        Food delivery platforms will schedule you for an appointment when there is an available slot. You will be informed of your appointment location, date and time in due course, and should keep to the scheduled appointment.
+        Your first appointment may be scheduled
 
-        Even if you have registered with more than one platform, you will be allocated testing slot through one platform. Once the platform has scheduled you, you will receive an SMS confirming the appointment date, time and QTC; the SMS will also indicate the food delivery platform that scheduled your test appointment. 
+        (i)	by the food delivery platform, or 
+        (ii)	on your own through the platform specific self-booking link shared by the platform
+
+        For (i), the platform will schedule you for an appointment when there is an available slot. You will receive an SMS confirming the appointment date, time and QTC; the SMS will also indicate the food delivery platform that scheduled your test appointment. Should you need to re-schedule your first appointment, you may do so using the platform specific self-booking link shared by the platform.
+
+        For (ii), you will be able to book a testing appointment at the QTC on your own using the platform specific self-booking link, as long as the food delivery platform has onboarded you onto the system.
+
+        If you are a new food delivery personnel who recently joined the platform, we seek your patience as the platforms may need some time to onboard you/ schedule your first test appointment.
+
+        Even if you have registered with more than one platform, your onboarding and/or first test appointment will only be through one platform. 
 
         Vaccinated delivery personnel are required to do one weekly test while unvaccinated delivery personnel are required to be tested twice weekly. Unvaccinated persons will need to pay for the additional ART that they undergo each week, except for those who are medically ineligible for the mRNA COVID-19 vaccines.
 
-    - title: Can I book the testing appointment at the Quick Test Centres on my own?
+    - title: Are we able to change appointment date/ time/ locations?
       content: |
-        You will not be able to do so. Food delivery platforms will manage the scheduling of testing slots, based on availability of slots. You should receive your testing appointment by 28 Nov 2021. If you have not received any test appointment yet, please inform the platform<sup>*</sup> and the platform will assist to schedule a test appointment for you. If you are a new food delivery personnel that recently joined the platform, we seek your patience as the platforms may need some time to schedule test appointments.
-
-        <sup>*</sup> If you are working for multiple platforms, please send your request to one platform only, as every food delivery personnel can only be tagged to a single platform.   
-        
-    - title: How do I know when to turn up at the QTC? Are we able to change appointment date/ time/ locations? 
-      content: |
-        You will receive an SMS confirming the appointment date, time and QTC. The SMS will also indicate the food delivery platform that scheduled your test appointment. Please wait for the confirmation SMS before turning up at the QTC. Due to limited capacity at the QTC, we seek your understanding to keep to the scheduled appointments. 
+        You may re-schedule your appointments by using the platform specific self-booking link shared by the platform and signing in via SingPass. Upon successful re-scheduling, you will receive an SMS confirming the new appointment date, time and QTC. 
 
     - title: Am I allowed to switch to a different delivery platform after the existing food delivery platform that I am working already scheduled my testing appointment? 
       content: |
@@ -42,23 +45,25 @@
       content: |
         There is currently a network of QTCs located island-wide across North, South, East and West regions of Singapore, to cater to workers or individuals who need to undergo routine testing. Please refer to [https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)](https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)){:target="_blank"}{:rel="noopener"} for a comprehensive list of the QTC locations, which will be periodically reviewed.
 
-    - title: I am a food delivery personnel who works for multiple food delivery platforms/ I am a part-time food delivery personnel and I am already undergoing a Fast and Easy Testing (FET)/ Vaccinate or Regulate testing (VoRT) regime as part of my full-time job requirement. How many tests am I required to do?
+    - title: I am a food delivery personnel who works for multiple food delivery platforms/ I am a part-time food delivery personnel and I am already undergoing a Fast and Easy Testing (FET)/ Vaccinate or Regular Testing (VoRT) regime* as part of my full-time job requirement. How many tests am I required to do? 
       content: |
-        Vaccinated delivery personnel are required to do one test per week. Unvaccinated delivery personnel are required to be tested twice weekly. The cost of the 2nd test each week is payable by unvaccinated, but medically eligible delivery personnel. 
+        Vaccinated delivery personnel are required to do one test per week. Unvaccinated delivery personnel are required to be tested twice per week. The cost of the 2nd test each week is payable by unvaccinated, but medically eligible delivery personnel.
 
         There is no need to test multiple times for different platform/ companies. If you have already undergone mandatory ART or PCR testing as part of requirements in your other employment (including other platforms), you only need to declare your test status to the other employers/ platforms. Your test result will be made available only to the platform/ company that scheduled<sup>*</sup> your test appointment or did the supervised testing for you.
 
-        Food delivery personnel who work for multiple companies or platforms are highly encouraged to onboard Sync<sup>**</sup> to facilitate sharing of test status information to relevant parties, so that they do not have to make multiple declarations.  Riders should have received a request via the platform’s communication channels to share the test results with them on Sync. Alternatively, riders may also access Sync at [https://sync.covid.gov.sg/](https://sync.covid.gov.sg/){:target="_blank"}{:rel="noopener"} and login via SingPass to share the test results with the relevant platform/ companies.
+        Food delivery personnel who work for multiple companies or platforms are highly encouraged to onboard Sync<sup>**</sup> to facilitate sharing of test status information to relevant parties, so that they do not have to make multiple declarations.  Riders should have received a request via the platform’s communication channels to share the test results with them on Sync. Alternatively, riders may also access Sync at https://sync.covid.gov.sg/ and login via SingPass to share the test results with the relevant platform/ companies.
 
-        <sup>*</sup> Note: You can check your QTC appointment SMS to find out which company/ food delivery platform scheduled you for your test appointment. 
+        Note: You can check your QTC appointment SMS to find out which company/ food delivery platform you are tagged under. 
+
+        <sup>*</sup> Vaccinate or Regular Testing (VoRT) will be in effect till 31 Dec 2021.
 
         <sup>**</sup> Sync is a web portal that allows individuals to provide consent and share your health records with recipients (platforms/companies) easily, starting with COVID-19 test and vaccination records.
 
     - title: What should I do if I obtain an “Ag+” result?
       content: |
-        Should you have a positive ART test result, you are required to follow the prevailing guidelines set out on MOH’s website at [https://www.covid.gov.sg/resources/protocol-changes/9-oct](https://www.covid.gov.sg/resources/protocol-changes/9-oct){:target="_blank"}{:rel="noopener"}. 
+        Should you have a positive ART test result, you are required to follow the prevailing guidelines set out on [https://www.covid.gov.sg/resources/protocol-changes/9-oct](https://www.covid.gov.sg/resources/protocol-changes/9-oct){:target="_blank"}{:rel="noopener"}.
 
-        In the meantime, you must stop fulfilling delivery orders, until you test negative, per the current healthcare protocol. Food delivery platforms must not assign jobs to food delivery personnel that have tested positive.
+        In the meantime, you must stop fulfilling delivery orders, until you test negative. Food delivery platforms must not assign jobs to food delivery personnel that have tested positive.  
 
     - title: What happens if I do not follow the health protocols?
       content: |
