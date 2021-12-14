@@ -133,7 +133,7 @@
 
           *	The frequency of the FET RRT is now once every 7 days to allow for earlier detection and ringfencing of cases. 
 
-          * By 27 September 2021, all individuals working in malls, large standalone stores and supermarket outlets<sup>4</sup> must also undergo testing once every 7 days under the FET RRT regime.  
+          * By 27 September 2021, all individuals working in malls, large standalone stores and supermarket outlets  must also undergo testing once every 7 days under the FET RRT regime.  
 
           *	This includes both part-time and full-time employees, as well as third-party contracted staff and all those who work on the premises (e.g. cleaners, promoters). Business owners and store managers who work at the workplace must also undergo FET. Individuals who have recovered from a COVID-19 infection in the past 270 days are exempted from the FET Requirement. Establishments can refer to the following Gobusiness portal link for more details.  
           
@@ -146,8 +146,6 @@
           *	All vaccinated employees working at establishments providing personal care services must continue with the prevailing FET RRT regime (testing once every 7 days). 
 
           *	Employers may wish to refer to [MOM's Advisory on COVID-19 vaccination at the workplace for more information](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}.
-
-          <sup>4</sup> This refers to all mall management employees as well as all tenants and vendors who work in the malls, large standalone stores and supermarkets, including those working in office spaces of the shops.
 
     - title: How can supermarket manage queues now that the measures may result in more people buying groceries to cook at home?
       content: |
@@ -193,13 +191,13 @@
         
         d. Gyms and fitness studios where clients are unmasked;
         
-        e. All individuals working in malls, large standalone stores and supermarket outlets<sup>5</sup> 
+        e. All individuals working in malls, large standalone stores and supermarket outlets<sup>4</sup> 
 
         The above include part-time and full-time employees, third-party contracted staff, and all other workers who work on the premises, e.g. cleaners, contractors, subcontractors, promoters).
 
         The regular FET for staff in these settings is mandatory. The frequency of the FET is once every 7 days to facilitate the earlier detection of cases.
 
-        <sup>5</sup> This refers to all mall management employees as well as all tenants and vendors who work in the malls, large standalone stores and supermarkets, including those working in office spaces of the shops.
+        <sup>4</sup> This refers to all mall management employees as well as all tenants and vendors who work in the malls, large standalone stores and supermarkets, including those working in office spaces of the shops.
 
     - title: Why do I need to send my staff for regular testing?   
       content: |
@@ -334,12 +332,12 @@
       content: |
         From 1 December 2021, those who are medically ineligible for all COVID-19 vaccines under the National Vaccination Programme will be able to enter shopping malls, dine in at F&B establishments and participate in personal care services (such as facials and saunas) and high-intensity sports/exercise activities and classes that require masks to be removed. 
 
-        They will need to present a hard copy memo issued by a General Practitioner (GP) clinic, public or private healthcare institution, along with a government-issued photo identification card for entry into these premises. More details on the criteria for medical ineligibility can be found [here](https://www.moh.gov.sg/news-highlights/details/calibrated-adjustments-in-stabilisation-phase_8Nov2021){:target="_blank"}{:rel="noopener"}. 
+        They will need to present a hard copy memo issued by a General Practitioner (GP) clinic, public or private healthcare institution, along with a government-issued photo identification card for entry into these premises. More details on the criteria for medical ineligibility can be found [here](https://www.moh.gov.sg/news-highlights/details/calibrated-adjustments-in-stablisation-phase_8Nov2021){:target="_blank"}{:rel="noopener"}. 
 
 - accordion:
   letter: h
   data:
-    - title: Will the government pay for the mandatory testing for employees?
+    - title: Will the government pay for FET for employees who are/cannot be vaccinated? What about those who are not fully-vaccinated yet (i.e. first dose only)?
       content: |
         The FET regime is mandatory for employees who interact with customers in higher-risk mask-off settings, regardless of vaccination status. As such, ART kits will be provided for Employer-Supervised Self-Swab (ESSS) and the costs for these kits will be borne by the government until 31 December 2021.
 
