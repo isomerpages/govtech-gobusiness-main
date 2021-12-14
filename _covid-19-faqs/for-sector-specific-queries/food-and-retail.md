@@ -22,16 +22,20 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="e" %}
 
-#### Vaccination-differentiated SMMs (VDS)
+#### FET for F&B and Retail Establishments
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="f" %}
 
-#### Testing for unvaccinated employees
+#### Vaccination-differentiated SMMs (VDS)
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="g" %}
 
-#### Priority vaccination for F&B Sector
+#### Testing for unvaccinated employees
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="h" %}
+
+#### Priority vaccination for F&B Sector
+
+{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="i" %}
 
 [Back to Covid-19 Overview](/covid/)
