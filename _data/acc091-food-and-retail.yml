@@ -26,11 +26,11 @@
         
         VDS eligibility criteria are as follows:
         
-          a.	Fully vaccinated, i.e. has received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines (e.g. Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca-SKBio, Serum Institute of India, Janssen, Sinopharm, Sinovac-CoronaVac) including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records captured in MOH's national IT systems<sup>2</sup>; or
+          a.	Fully vaccinated, i.e. has received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines (e.g. Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca-SKBio, Serum Institute of India, Janssen, Sinopharm, Sinovac-CoronaVac) including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records captured in MOH's national IT systems<sup>1</sup>; or
 
           b.	Recovered from COVID-19, i.e. less than 270 days of first positive Polymerase Chain Reaction (PCR) test result obtained in Singapore, and can provide a valid Pre-Event Test (PET) exemption notice from an MOH-approved COVID-19 test provider; or
 
-          c.	Have a valid negative PET result<sup>3</sup> obtained from an MOH-approved COVID-19 test provider in the past 24 hours.
+          c.	Have a valid negative PET result<sup>2</sup> obtained from an MOH-approved COVID-19 test provider in the past 24 hours.
 
         Dine-in is not allowed if any individual does not meet the eligibility criteria above. Allowing this would be an offence.
 
@@ -40,8 +40,8 @@
         
         *These refer to F&B establishments with SFA coffeeshop/ eating house/canteen licenses that are not substantially enclosed by a permanent barrier. 
 
-        <sup>2</sup> Please refer to MOH's Post Vaccination Matters website for more information.
-        <sup>3</sup> Unvaccinated individuals aged 13 or above must have a valid negative ART or PCR result from an MOH-approved COVID-19 test provider within the last 24 hours. Refer to [go.gov.sg/swabproviders](https://go.gov.sg/swabproviders){:target="_blank"}{:rel="noopener"} for the list of MOH-approved COVID-19 test providers. Self-administered ART supervised by employer and self-administered ART results are not recognised for vaccination-differentiated SMMs.
+        <sup>1</sup> Please refer to [MOH's Post Vaccination Matters website](https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters){:target="_blank"}{:rel="noopener"} for more information.
+        <sup>2</sup> Unvaccinated individuals aged 13 or above must have a valid negative ART or PCR result from an MOH-approved COVID-19 test provider within the last 24 hours. Refer to [go.gov.sg/swabproviders](https://go.gov.sg/swabproviders){:target="_blank"}{:rel="noopener"} for the list of MOH-approved COVID-19 test providers. Self-administered ART supervised by employer and self-administered ART results are not recognised for vaccination-differentiated SMMs.
         
     - title: Must a food delivery personnel wear a mask at all times?
       content: |
@@ -104,11 +104,11 @@
       content: |
         For unregistered F&B establishments, please submit your details at [https://go.gov.sg/fet-registration-food](https://go.gov.sg/fet-registration-food){:target="_blank"}{:rel="noopener"}. This registration would facilitate the set-up of companies’ SRS accounts and arrange for the delivery or collection of ART kits.
         
-        Enterprises with multiple outlets must consolidate their submission and submit a single Order Form for each UEN. Enterprises will be responsible for the dissemination of the test kits to their respective outlets. The Point-of-Contact<sup>5</sup> (POC) indicated in the form must be the employee who will be responsible for both self-collection of the test kits, and the uploading of FET results to the SRS account.
+        Enterprises with multiple outlets must consolidate their submission and submit a single Order Form for each UEN. Enterprises will be responsible for the dissemination of the test kits to their respective outlets. The Point-of-Contact<sup>3</sup> (POC) indicated in the form must be the employee who will be responsible for both self-collection of the test kits, and the uploading of FET results to the SRS account.
 
         After the creation of the SRS account, the POC will need to upload the particulars of their supervisors. With the successful upload of their particulars, supervisors will be able to submit test results through the unique company SRS link.
 
-        <sup>5</sup> Establishments are also able to nominate an alternate POC, if they wish to do so.
+        <sup>3</sup> Establishments are also able to nominate an alternate POC, if they wish to do so.
 
     - title: How do I add entries for new supervisors/update supervisors’ details on the SRS? 
       content: |
@@ -197,13 +197,13 @@
         
         d. Gyms and fitness studios where clients are unmasked;
         
-        e. All individuals working in malls, large standalone stores and supermarket outlets<sup>10</sup> 
+        e. All individuals working in malls, large standalone stores and supermarket outlets<sup>4</sup> 
 
         The above include part-time and full-time employees, third-party contracted staff, and all other workers who work on the premises, e.g. cleaners, contractors, subcontractors, promoters).
 
         The regular FET for staff in these settings is mandatory. The frequency of the FET is once every 7 days to facilitate the earlier detection of cases.
 
-        <sup>10</sup> This refers to all mall management employees as well as all tenants and vendors who work in the malls, large standalone stores and supermarkets, including those working in office spaces of the shops.
+        <sup>4</sup> This refers to all mall management employees as well as all tenants and vendors who work in the malls, large standalone stores and supermarkets, including those working in office spaces of the shops.
 
     - title: Why do I need to send my staff for regular testing?   
       content: |
