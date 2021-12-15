@@ -34,5 +34,8 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="h" %}
 
+#### Priority vaccination for F&B Sector
+
+{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="i" %}
 
 [Back to Covid-19 Overview](/covid/)
