@@ -15,49 +15,49 @@ accordion:
 
   - title: How do I change my role from Preparer to Acceptor to accept the Letter of Offer?
     content: |
-      If you are the company’s Managing Director, Chief Executive Officer or equivalent and would like to change your role from Preparer to Acceptor, your Corppass admin can assign the appropriate e-service role for you.
+      If you are the company's Managing Director, Chief Executive Officer or equivalent and would like to change your role from Preparer to Acceptor, your Corppass admin can assign the appropriate e-service role for you.
 
-      The applicant company’s CorpPass Admin would need to add in the “MTI – Business Grant Portal (BGP)” digital service:
+      The applicant company's CorpPass Admin would need to add in the “MTI – Business Grant Portal (BGP)” digital service:
 
       1. Login at [www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}{:rel="noopener"}
 
-      2. Go to ‘e-Services’ -> ‘Select Entity e-Services’
+      2. Go to ‘e-Services' -> ‘Select Entity e-Services'
 
-      3. Type “bgp” in the search bar to the right (next to ‘filter’)
+      3. Type “bgp” in the search bar to the right (next to ‘filter')
 
-      4. Tick the box on the left of “BGP”, then press ‘Next’<br>
+      4. Tick the box on the left of “BGP”, then press ‘Next'<br>
       a. If there is no checkbox to tick, you may skip ahead to Step 7 below.
 
-      5. Press ‘Next’ and ‘Submit’
+      5. Press ‘Next' and ‘Submit'
 
-      6. Press ‘Return to Homepage’.
+      6. Press ‘Return to Homepage'.
 
       After adding BGP for the company, the Admin would then need to assign it to the relevant staff:
 
-      7. Go to ‘e-Services’ -> ‘Assign selected e-Services’
+      7. Go to ‘e-Services' -> ‘Assign selected e-Services'
 
-      8. Tick the box next to the relevant staff’s name and press ‘Next’.
+      8. Tick the box next to the relevant staff's name and press ‘Next'.
 
-      9. Type “bgp” in the search bar to the right (next to ‘filter’)
+      9. Type “bgp” in the search bar to the right (next to ‘filter')
 
-      10. Tick the box on the left of “BGP”, then press ‘Next’<br>
+      10. Tick the box on the left of “BGP”, then press ‘Next'<br>
       a. Select the “Acceptor” role.<br>
       b. “Authorization Effective Date” can be today.<br>
       c. “Authorization Expiry Date” can be left blank.
 
-      11. Press ‘Next’ and ‘Submit’
+      11. Press ‘Next' and ‘Submit'
 
-      If you are unsure of who your Admin is, you may use your SingPass to check on the identity of your entity’s CorpPass Admins and Sub-Admins:
+      If you are unsure of who your Admin is, you may use your SingPass to check on the identity of your entity's CorpPass Admins and Sub-Admins:
 
       * Go to [www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}{:rel="noopener"}
 
-      * Click on ‘Services’ > ‘Find Your CorpPass Admin’
+      * Click on ‘Services' > ‘Find Your CorpPass Admin'
 
       * Login to SingPass
 
-      * Enter the company’s UEN
+      * Enter the company's UEN
 
-      * Press ‘Search’ (the respective admins’ names will be displayed)
+      * Press ‘Search' (the respective admins' names will be displayed)
 
       For further enquiries regarding CorpPass roles, please refer to the [CorpPass User Guide](https://www.corppass.gov.sg/corppass/common/userguides){:target="_blank"}{:rel="noopener"}.
 

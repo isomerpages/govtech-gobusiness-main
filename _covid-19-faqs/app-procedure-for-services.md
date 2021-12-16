@@ -11,7 +11,7 @@ permalink: /covid-19-faqs/app-procedure-for-services
 
 #### General Exemption and Time-Limited Exemption for non-permitted services
 
-Note: This section applies to companies who are still non-permitted as their business activities are not within MTI’s List of Permitted Services [here](/permittedlist/).
+Note: This section applies to companies who are still non-permitted as their business activities are not within MTI's List of Permitted Services [here](/permittedlist/).
 
 {% include letter-accordion.html accordions=site.data.acc087-app-procedure-for-services letter="b" %}
 
