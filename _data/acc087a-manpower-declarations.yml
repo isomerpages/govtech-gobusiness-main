@@ -53,7 +53,7 @@
 
     - title: Can I proceed to operate after declaring/submitting my manpower details? Will I receive any notification of approval? 
       content: |
-        You will receive an email acknowledgment of your manpower declaration. In the meantime, you may continue to operate if your business activities fall within MTI’s list of permitted services or you have a General Exemption approval to operate onsite. You must adhere to all the relevant safe management measures for your sector. 
+        You will receive an email acknowledgment of your manpower declaration. In the meantime, you may continue to operate if your business activities fall within MTI's list of permitted services or you have a General Exemption approval to operate onsite. You must adhere to all the relevant safe management measures for your sector. 
 
     - title: What happens if I do not receive an acknowledgement email after I have declared my manpower details? 
       content: |
@@ -86,7 +86,7 @@
   data:
     - title: Why is the manpower submission requirement for Marine & Offshore and Process sectors different? 
       content: |
-        From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://gobusiness.gov.sg/exemptions){:target="_blank"}{:rel="noopener"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee’s SGWorkPass AccessCode status to reflect as “Red”. 
+        From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://gobusiness.gov.sg/exemptions){:target="_blank"}{:rel="noopener"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee's SGWorkPass AccessCode status to reflect as “Red”. 
 
     - title: What manpower details must I submit, and from when should I be submitting? 
       content: |
@@ -110,42 +110,42 @@
 
     - title: If my company has multiple work premises, do I need to submit manpower details for all my workers across all the different work premises? 
       content: |
-        You will need to click on the “Add Premises” button to key in the details of all your company’s work premises. 
+        You will need to click on the “Add Premises” button to key in the details of all your company's work premises. 
 
     - title: Will I receive any additional notification to know whether my worker/employee is approved to work on-site? How do I know if my submitted manpower is approved to work on-site? 
       content: |
         Upon submission of the manpower details, you will receive an email acknowledgement. The AccessCode on SGWorkPass app will determine whether your submitted manpower is allowed to work on site. The AccessCode will factor in a few parameters, namely:
         
-        - Worker’s health status 
-        - Worker’s place of residence is COVID-free
-        - Worker’s approval to work
+        - Worker's health status 
+        - Worker's place of residence is COVID-free
+        - Worker's approval to work
         - Download and activate latest version of TraceTogether
         
         Workers with a “green” AccessCode will be allowed to work on-site.
 
     - title: By when should I submit my manpower details to know whether my worker/employee will be allowed to work on-site? 
       content: |
-        You will need to submit your manpower details by 1730 hours, for your worker/employees’ AccessCode to be updated by 2359 hours on the following day via the SGWorkPass app. 
+        You will need to submit your manpower details by 1730 hours, for your worker/employees' AccessCode to be updated by 2359 hours on the following day via the SGWorkPass app. 
 
-    - title: What happens if the employee/workers’ AccessCode is not updated? 
+    - title: What happens if the employee/workers' AccessCode is not updated? 
       content: |
-        If you have submitted your manpower details by 1730 hours, your employee/workers’ AccessCode will only be updated by 2359 hours on the following day. If you require assistance, please write to MTI at [COVID_GoBusiness@mti.gov.sg](mailto:COVID_GoBusiness@mti.gov.sg).
+        If you have submitted your manpower details by 1730 hours, your employee/workers' AccessCode will only be updated by 2359 hours on the following day. If you require assistance, please write to MTI at [COVID_GoBusiness@mti.gov.sg](mailto:COVID_GoBusiness@mti.gov.sg).
 
     - title: When do I need to update my manpower details submission? 
       content: |
-        You will need to update your manpower details as soon as there is a change in the specific workers required to work on-site, as this will affect arrangements for your workers’ regular swab tests.
+        You will need to update your manpower details as soon as there is a change in the specific workers required to work on-site, as this will affect arrangements for your workers' regular swab tests.
 
     - title: My SSIC code is in Marine/Offshore/Process but that is not the nature of my work. Do I still have to submit my manpower details? 
       content: |
-        Manpower details are required for companies utilising Marine Shipyard or Process manpower quota as defined under MOM. These details are required to ensure that your workers’ SG WorkPass app AccessCode reflects their approval to be deployed for work and to facilitate arrangement for regular swab tests. 
+        Manpower details are required for companies utilising Marine Shipyard or Process manpower quota as defined under MOM. These details are required to ensure that your workers' SG WorkPass app AccessCode reflects their approval to be deployed for work and to facilitate arrangement for regular swab tests. 
 
     - title: I have successfully submitted my manpower details but the Workpass app still comes out as red. Can I proceed to deploy my workers?
       content: |
         The AccessCode factors in a few parameters, namely:
         
-        - Worker’s health status 
-        - Worker’s place of residence is COVID-free
-        - Worker’s approval to work
+        - Worker's health status 
+        - Worker's place of residence is COVID-free
+        - Worker's approval to work
         - Download and activate latest version of TraceTogether
         
         Only workers with a “green” AccessCode should be deployed to work on-site.

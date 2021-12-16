@@ -17,12 +17,12 @@ Having a single Singpass login system, instead of maintaining two separate modes
 
 ### Do I still need my Corppass account?
 
-Corppass will continue to be the one-stop authorisation system for businesses to authorise or remove their employees’ access to government digital services on their behalf. Your Singpass ID will have been automatically linked to your Corppass account, so you can sign in via Singpass.
+Corppass will continue to be the one-stop authorisation system for businesses to authorise or remove their employees' access to government digital services on their behalf. Your Singpass ID will have been automatically linked to your Corppass account, so you can sign in via Singpass.
 
 ### I am an existing Foreign ID user on Corppass. How do I log in now?
 
-Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners’ app will no longer be used.
+Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners' app will no longer be used.
 
 ### Learn More
 
-Read the full FAQ at [Corppass’ website](https://go.gov.sg/corporate-login){:target="_blank"}{:rel="noopener"}.
+Read the full FAQ at [Corppass' website](https://go.gov.sg/corporate-login){:target="_blank"}{:rel="noopener"}.

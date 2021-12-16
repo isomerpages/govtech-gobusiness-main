@@ -19,7 +19,7 @@ PSG covers sector-specific solutions including the retail, food, logistics, prec
 
 ### 4. How do I become a IT solution provider for PSG?
 
-If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please visit [IMDA’s website](https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions){:target="_blank"}{:rel="noopener"}.
+If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to deliver productivity gains to SMEs, you can submit your solution to be pre-approved under the SMEs Go Digital programme. Solutions can be sector-specific or cut across various sectors. For information on the application process, please visit [IMDA's website](https://www.imda.gov.sg/programme-listing/smes-go-digital/pre-approval-of-icm-vendors-solutions){:target="_blank"}{:rel="noopener"}.
 
 ### 5. It was announced in Budget 2020 on PSG expansion to include job redesign consultancy services. Where can I find out more information on this?
 

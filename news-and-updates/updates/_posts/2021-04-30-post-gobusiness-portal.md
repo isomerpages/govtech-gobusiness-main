@@ -9,7 +9,7 @@ published: true
 
 ![gobusiness](/images/news/News_GoBiz Portal.jpg)
 
-GoBusiness launches as Singapore’s go-to platform for businesses in Singapore to access government e-services and resources.
+GoBusiness launches as Singapore's go-to platform for businesses in Singapore to access government e-services and resources.
 
 ### One-stop access to e-services for businesses
 

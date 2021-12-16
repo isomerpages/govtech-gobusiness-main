@@ -17,4 +17,4 @@ GoBusiness has launched e-Advisers for Licences, a new feature to help users fin
 
 ### Find licence guides by sector
 
-With a wide variety of e-Advisers for different business activities, users can simply choose their business sector and use the relevant e-Adviser to find out which licences they need. The full list of e-Advisers for licences can be found in GoBusiness’ [directory of licence guides](/licences/find-licence-by-sector/).
+With a wide variety of e-Advisers for different business activities, users can simply choose their business sector and use the relevant e-Adviser to find out which licences they need. The full list of e-Advisers for licences can be found in GoBusiness' [directory of licence guides](/licences/find-licence-by-sector/).
