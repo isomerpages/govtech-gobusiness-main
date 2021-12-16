@@ -4,7 +4,7 @@ permalink: /timelimitedrrt/
 ---
 ## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
 
-Please note that the application period (16 Sep – 13 Oct 2021) is over, and application has closed. Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month's testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
+Please note that the application period (16 Sep – 13 Oct 2021) is over, and application has closed. Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
 
 ### Delivery of Kits
 
@@ -14,7 +14,7 @@ Due to high application volumes, delivery might take a longer time during this p
 
 Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. <b>These processes will be audited by the government for compliance.</b>  
 
-Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month's testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
+Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
   
 The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any of non-compliance to the testing requirements are found.
 

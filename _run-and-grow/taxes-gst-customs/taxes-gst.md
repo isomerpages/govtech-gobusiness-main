@@ -31,7 +31,7 @@ After incorporating your company, access the Start-Up Kit for customised informa
 
 - [New Company Start-Up Kit](https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/new-company-start-up-kit ){:target="_blank"}{:rel="noopener"}
 
-Learn more about your company's Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="_blank"}{:rel="noopener"}.
+Learn more about your company’s Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="_blank"}{:rel="noopener"}.
 
 ### Register for GST
 

@@ -32,9 +32,9 @@ accordion:
 
   - title: What is the change in the Corppass login process?
     content: |
-      From 11 April 2021, the login process for Corppass will be changed to verify the user's identity via Singpass first, before the user can proceed to access and transact with government digital services.
+      From 11 April 2021, the login process for Corppass will be changed to verify the user’s identity via Singpass first, before the user can proceed to access and transact with government digital services.
 
-      Note: Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners' app will no longer be used.
+      Note: Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners’ app will no longer be used.
 
   - title: How do I register a business?
     content: |

@@ -18,9 +18,9 @@ SafeEntry is the name of the national digital visitor registration system that l
 
 **From 17 May 2021, contact tracing procedures will be further strengthened through the implementation of TraceTogether-only SafeEntry check-in, which replaces the previous SafeEntry check-in.** Under TraceTogether-only SafeEntry, check-ins must be performed using the TraceTogether App or TraceTogether Token by:
 
-- Using one's TT App to scan the venue's QR code
-- Displaying one's TT Token so that a venue staff can scan the TT Token's QR code
-- Tapping one's TT App or TT Token at a SafeEntry Gateway device
+- Using one’s TT App to scan the venue’s QR code
+- Displaying one’s TT Token so that a venue staff can scan the TT Token’s QR code
+- Tapping one’s TT App or TT Token at a SafeEntry Gateway device
 
 Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise. SafeEntry by only the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contact tracing for the purpose of meeting the safe management measures required by the law, save in circumstances where certain particular methods are required pursuant to specific restrictions or conditions.
 
@@ -181,8 +181,8 @@ In order to facilitate more precise contact tracing efforts, businesses are enco
 
 ![TraceTogether](/images/covid/tracetogether_logo.png 'TraceTogether')
 
-The TraceTogether programme is a programme to enhance Singapore's efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
+The TraceTogether programme is a programme to enhance Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
 
-Both the TraceTogether App and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. The TraceTogether devices estimate the distance between users, and the duration of such encounters. Records of these encounters are stored locally in the user's TraceTogether App or Token in encrypted form, for 25 days (covering the incubation period of the virus as well as time taken for individuals to seek treatment and to be tested for COVID-19), after which it is automatically deleted.
+Both the TraceTogether App and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. The TraceTogether devices estimate the distance between users, and the duration of such encounters. Records of these encounters are stored locally in the user’s TraceTogether App or Token in encrypted form, for 25 days (covering the incubation period of the virus as well as time taken for individuals to seek treatment and to be tested for COVID-19), after which it is automatically deleted.
 
-If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user's close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
+If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.

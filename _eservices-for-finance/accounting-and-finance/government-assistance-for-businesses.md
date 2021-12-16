@@ -46,7 +46,7 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
   <br>Apply to get funding support for science and engineering projects that aim to develop technologies of high impact and significant value for Singapore.
 
 - [Systemic Risk and Resilience (SR2)](https://www.nrf.gov.sg/funding-grants/systemic-risk-and-resilience){:target="_blank"}{:rel="noopener"}
-  <br>Apply to get funding support for activities to grow and strengthen Singapore's research capabilities and manpower in relevant research areas.
+  <br>Apply to get funding support for activities to grow and strengthen Singapore’s research capabilities and manpower in relevant research areas.
 
 **Social Development Network (SDN)**
 
