@@ -17,7 +17,7 @@ The new dashboard is developed in close collaboration with businesses through ex
 
 From wanting more prompts and reminders for important tasks to needing immediate technical support, GoBusiness unearthed a wealth of insights about what would help businesses before getting down to designing the dashboard.
 
-Here’s what businesses can look forward to with the new GoBusiness Dashboard:
+Here's what businesses can look forward to with the new GoBusiness Dashboard:
 
 ### Fresh new design
 

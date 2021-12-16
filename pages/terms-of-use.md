@@ -285,7 +285,7 @@ In such case, there may be terms of use and privacy statements that govern your 
 
 (b) have a compatible Device; and
 
-(c) allow access by the Services to certain functions of your Device where such functions are available, including your Device’s camera, push notifications, the obtaining or sharing of your location, or the collection of data from you in connection with your access to and use of the Services. By accessing or using the Services, you consent to access by the Services of such functions of your Device as may be reasonably required by the Services.
+(c) allow access by the Services to certain functions of your Device where such functions are available, including your Device's camera, push notifications, the obtaining or sharing of your location, or the collection of data from you in connection with your access to and use of the Services. By accessing or using the Services, you consent to access by the Services of such functions of your Device as may be reasonably required by the Services.
 
 8.2 You may not be able to use certain functionalities or features of the Services if you do not comply with the requirements set out in Clause 8.1.
 

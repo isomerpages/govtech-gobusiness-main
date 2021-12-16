@@ -18,7 +18,7 @@ All businesses should take note of the following:
 
 - Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours.
 
-- From 1 January 2022, employers must ensure that unvaccinated employees do not return to the workplace unless they have a negative ART administered via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider 24 hours before the expect end of work. Employers and employees can refer to the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"} for more details on work arrangements for unvaccinated employees. Employers may check their company’s vaccination rate through [The Workforce Vaccination Checker](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} (Corppass login required).
+- From 1 January 2022, employers must ensure that unvaccinated employees do not return to the workplace unless they have a negative ART administered via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider 24 hours before the expect end of work. Employers and employees can refer to the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"} for more details on work arrangements for unvaccinated employees. Employers may check their company's vaccination rate through [The Workforce Vaccination Checker](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} (Corppass login required).
 
 - Any applicable sector-specific requirements
 

@@ -34,7 +34,7 @@ Business entities can apply for PSG if they meet the following criteria:
 
 ### Supportable solutions
 
-PSG covers sector-specific solutions including the Retail, Food, Logistics, Precision Engineering, Wholesale, Building and Construction, Financial Service, and Landscaping industries. PSG also supports businesses’ adoption of broad-based solutions that cut across all industries, such as Customer Relationship Management and Human Resource Management systems.
+PSG covers sector-specific solutions including the Retail, Food, Logistics, Precision Engineering, Wholesale, Building and Construction, Financial Service, and Landscaping industries. PSG also supports businesses' adoption of broad-based solutions that cut across all industries, such as Customer Relationship Management and Human Resource Management systems.
 
 Businesses can choose from a list of pre-scoped solutions eligible to their sectors.
 
@@ -44,6 +44,6 @@ This listing is not to be taken as a form of endorsement or recommendation by th
 
 Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-_If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"}{:rel="noopener"} to find out more._
+_If you'd like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"}{:rel="noopener"} to find out more._
 
 ---

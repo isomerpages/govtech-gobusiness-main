@@ -9,7 +9,7 @@ permalink: /about-us/
 
 Jointly developed by Ministry of Trade and Industry (MTI), the Smart Nation and Digital Government Office (SNDGO), and GovTech, it also offers personalised help and recommendations for your business with our [e-Advisers](/e-services/guides-for-biz/).
 
-Here’s what you can do with GoBusiness:
+Here's what you can do with GoBusiness:
 
 {% include panels.html panels=site.data.aboutus %}
 
