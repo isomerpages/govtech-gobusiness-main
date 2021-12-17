@@ -139,6 +139,74 @@ layout: skeleton
       width: 176px !important;
     }
 
+
+    /* Login Banner CSS */
+    .loginBanner {
+      width: 100%;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      background: #E6F2F3;
+      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+      padding: 40px 16px;
+    }
+
+    .loginBanner__imageWrapper {
+      width: 100%;
+      height: fit-content;
+      text-align: center;
+    }
+
+    .loginBanner__image {
+      max-width: 100%;
+    }
+
+    .loginBanner__content {
+      display: grid;
+      row-gap: 16px;
+    }
+
+    .loginBanner__title {
+      font-size: 24px;
+      font-family: hknova-semibold;
+      line-height: 30px;
+      color: #02737D !important;
+      text-align: center;
+      margin: 0 !important;
+    }
+
+    .loginBanner__description {
+      font-size: 14px !important;
+      line-height: 21px !important;
+      text-align: center;
+      color: #4A5561 !important;
+      margin: 0 !important;
+      margin-bottom: 24px;
+    }
+
+    .loginBanner__cta-text {
+      font-family: hknova-semibold;
+      font-size: 18px;
+      line-height: 22px;
+      color: #02737D;
+      text-align: center;
+      margin: 0 !important;
+    }
+
+    @media screen and (min-width: 1290px) {
+      .loginBanner {
+        grid-template-rows: 1fr;
+        grid-template-columns: auto 1fr;
+        box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        padding: 0;
+        height: 379px;
+      }
+
+      .loginBanner__content {
+        padding: 82px 105px;
+      }
+    }
+
+
     @media (max-width: 1290px) {
       .panel {
         grid-template-rows: auto auto 1fr;
@@ -193,7 +261,8 @@ layout: skeleton
                   <h5>Business<br />
                     Grants Portal</h5>
                   <p>Apply for and manage grants on Business Grants Portal.</p>
-                  {% include secondary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank" rel="noopener"
+                  {% include secondary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank"
+                  rel="noopener"
                   text="Log In" %}
                 </div>
                 <div id="subscribe" class="panel">
@@ -208,7 +277,8 @@ layout: skeleton
                     Food Services</h5>
                   <p>Apply for and manage licences for food service businesses.</p>
                   {% include secondary-btn.html
-                  href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs" target="_blank" rel="noopener"
+                  href="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs" target="_blank"
+                  rel="noopener"
                   text="Log In" %}
                 </div>
                 <div id="nparks" class="panel">
@@ -229,6 +299,18 @@ layout: skeleton
                   target="_blank" rel="noopener"
                   text="Log In" %}
                 </div>
+              </div>
+              <div class="loginBanner">
+                <aside class="loginBanner__imageWrapper">
+                  <img class="loginBanner__image" src="/images/login-banner-image.svg" alt="Coming soon">
+                </aside>
+                <main class="loginBanner__content">
+                  <h5 class="loginBanner__title">Launching in 2022: GoBusiness Dashboard</h5>
+                  <p class="loginBanner__description">The new and improved GoBusiness Dashboard is designed to help you
+                    apply for and manage licences efficiently with <a href="/news-and-updates/news/coming-soon-feature" target="_blank">all-new features</a>.</p>
+                  <h6 class="loginBanner__cta-text">Get notified when it's launched!</h6>
+                  {% include primary-btn.html href="http://go.gov.sg/gobusiness-mailing-list" target="_blank" text="Subscribe for Updates" %}
+                </main>
               </div>
             </div>
           </div>
