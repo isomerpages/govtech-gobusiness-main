@@ -1,5 +1,5 @@
 ---
-title: Protect your ideas
+title: Unlock Your IP Value
 permalink: /start-a-business/protect-your-ideas/
 third_nav_title: Next Steps to Consider
 ---
