@@ -16,17 +16,25 @@ For Marriage solemnizations and receptions on/before 31 December 2021, please re
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
 
-#### III. Video-link solemnizations
+#### III. Pre-Event Testing Requirements
+
+{% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="d" %}
+
+#### IV. Video-link solemnizations
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="e" %}
 
-#### IV. Other wedding activities
+#### V. Other wedding activities
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="f" %}
 
-#### V. Zoning and Staggered Timing Requirements
+#### VI. Zoning and Staggered Timing Requirements
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="g" %}
+
+#### VII. Mediation Programme
+
+{% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="h" %}
 
 [Back to Covid-19 Overview](/covid/)
 
