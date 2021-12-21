@@ -5,21 +5,112 @@
       content: |
         As part of the national effort to step up regular testing, companies are strongly encouraged to apply for ART kits to commence regular testing for employees who work on-site, but are not already on any form of mandatory Rostered Routine Testing (RRT). This will enable us to detect and ringfence cases, keeping the community safe. 
 
+    - title: Which companies are eligible to apply for kits?
+      content: |
+        Companies with employees that work onsite and are not already subject to mandatory RRT, may voluntarily apply for 8 ART kits per onsite employee for weekly testing of their staff over a two-month period. Employees include full-time and part-time employees, and students on long-term (at least 2 months) placement or internship, regardless of vaccination status.
+
+    - title: Can companies with employees that meet the eligibility criteria choose not to apply for the ART test kits?
+      content: |
+        Applying for the ART kits is voluntary. Nevertheless, companies are strongly encouraged to do so.  
+
     - title: When should my company start the 8-weeks RRT?
       content: |
-        Your company should start the weekly voluntary RRT for onsite employees with immediate effect, upon receipt of the ART kits. If you had deferred starting the weekly voluntary RRT due to the Government’s announcement in end-Sep to pivot towards full WFH, you may encourage your employees to use the kits to continue weekly testing from home. Alternatively, they may recommence testing upon return to office once WFH is no longer the default. 
+        Your company should start the weekly RRT for onsite employees with immediate effect, upon receipt of the ART kits.
+
+    - title: I am a home-based business owner/self-employed person. Can I apply for the ART kits?
+      content: |
+        As long as your business is UEN-registered and you have a valid Corppass, you will be eligible to apply for kits for employee(s) that work on-site and are not already subject to mandatory RRT. 
+
+    - title: If employees are working on a split-team arrangement and returning to office on alternate weeks, are they eligible for the kits?
+      content: |
+        Your company may apply for staff who are returning to office only on alternate weeks. They should continue to self-test even for weeks where they are working from home.  
+
+    - title: Can my company apply for additional kits, in case of invalid test results or repeat testing due to being ART positive?
+      content: |
+        Invalid results are extremely rare. If there are insufficient test kits arising from retesting due to invalid results or repeat testing due to being ART positive, your company may purchase additional kits to complete the regime for the affected employee(s). Otherwise, the company should note during results recording that there are missing test cycles due to past retesting.  
+
+    - title: The government recently announced that work-from-home (WFH) will be the default. Can my company apply ART kits for employees who WFH?
+      content: |
+        ART kit applications are strongly encouraged only for employees who have to work onsite. Your company need not apply for ART kits for employees who fully WFH.
 
     - title: My company applied for/received the ART kits before the government announced that WFH will be the default. Should my employees who have pivoted to full WFH still be tested weekly?
       content: |
         As your company has already applied for or received the kits, the employees who have pivoted to full WFH may use the kits to continue weekly testing from home. Alternatively, they may recommence testing upon return to office once WFH is no longer the default. During the results declaration at the end of each month's testing cycle, your company should still submit the declaration, and provide an explanation if the number of results declared is lower than the declared no. of onsite employees to be tested during application.
 
+- accordion:
+  letter: b
+  data:
+    - title: How do I submit my company's application?
+      content: |
+        Please note that your company would need to have a valid CorpPass login to submit your application via [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="_blank"}{:rel="noopener"}. 
+
+        Please only submit one application form per company UEN. The application should include all on-site employees hired to work under this company UEN, even if they work in different office/outlet locations.
+
+    - title: My company does not have a Corppass. What should I do?
+      content: |
+        You will need a Corppass login in order to apply for the ART kits. Find out how you can register for a Corppass at [https://www.corppass.gov.sg/](https://www.corppass.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
+    - title: I tried to submit an online application using my CorpPass but received an error message saying “Unauthorised. What should I do?
+      content: |
+        CorpPass Administrators need to first select digital services for the entity:
+          1.  Login at [www.Corppass.gov.sg](https://www.Corppass.gov.sg/){:target="_blank"}{:rel="noopener"}
+
+          2.	Go to ‘e-Services' -> ‘Select Entity e-Services'
+
+          3.	Type “Health Promotion Board” in the search bar 
+
+          4.	Tick the box on the left of “FormSG (Health Promotion Board)”, then click ‘Next'
+
+          5.	Press ‘Next' and ‘Submit'
+
+          6.	A confirmation message will indicate that you have selected your entity's digital services. You may now assign these digital services to your users.
+
+          After adding FormSG (Health Promotion Board) for the entity, the Admin would then need to assign the digital service access to other users within the entity to carry out transactions.
+          7.	Go to ‘e-Services' -> ‘Assign selected e-Services'
+
+          8.	Tick the box next to the appropriate staff's name and press ‘Next'.
+
+          9.	Select the digital services you wish to assign to the selected users. Or type “Health Promotion Board” in the search bar. Click ‘Next' to proceed.
+
+          10.	Tick the box on the left of “FormSG (Health Promotion Board)”, then click ‘Next'<br>
+            - “Authorization Effective Date” can be today.<br>
+            - “Authorization Expiry Date” can be left blank.
+
+          11.	Click ‘Next' and ‘Submit'
+
+          12.	A confirmation message will indicate that you have successfully assigned digital service access to your selected users.
+
+    - title: I am unsure about my company's SSIC code. What should I do?
+      content: |
+        You may search for the closest SSIC code corresponding to your business activity here: [https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=G016){:target="_blank"}{:rel="noopener"}
+
+    - title: I have already made my online application but realised that I have missed adding some new hires and part-timers. Can I submit another application?
+      content: |
+        There can only be ONE (1) application submitted per company UEN. Subsequent submissions will be voided. Should additional kits be required after the first application, these must be purchased at your company's own costs
+
+    - title: Can I cancel my application after submitting?
+      content: |
+        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for onsite workers upon receipt of the kits.
+
     - title: My company has missed the application deadline. Can we still apply?
       content: |
-        The application period is from 16 Sep – 13 Oct 2021. Companies will not be able to apply after the application period. As the Time-Limited RRT was meant to be a one-time distribution exercise, we currently do not have plans to issue any more kits.
+        The application period is from 16 Sep – 13 Oct 2021. Companies will not be able to apply after the application period.
 
 - accordion:
   letter: c
   data:
+    - title: My company has submitted the application. When will my company receive the ART kits?
+      content: |
+        Due to high application volumes, delivery might take a longer time during this period. You will receive a delivery notification from the vendor when the kits are ready to be sent out. Please commence weekly testing with immediate effect, upon receipt of the ART kits.
+
+    - title: How will the kits be delivered to my company?
+      content: |
+        In order to ensure that the ART kits can be distributed quickly to companies, there will only be a one-time delivery to ONE (1) location per company UEN.
+
+        Companies will receive a pre-delivery notification via SMS/email and should ensure that there is someone present to receive the delivery. In the event of any failed delivery, redelivery costs would be charged to receiving company.
+
+        If there are multiple offices/outlets registered under the same company UEN, each company should make your own arrangements to re-distribute the received kits to other locations at your own cost. 
+
     - title: I have received the box(es) of ART kits. How can my company repack them into individual packs of kits for my employees?
       content: |
         Companies are recommended to allow employees to perform the self-testing onsite. For companies that would like to repack the box of ART kits into individual packs, please refer to the following instructions, depending on the brand of ART kits you have received:
@@ -30,11 +121,15 @@
 
     - title: I have received the BD Veritor kits and they are close to expiring. Can I be issued with a new batch?
       content: |
-        Please note that the expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pdf){:target="_blank"} for more information. Please refer to the column titled “New Visual Read Kit Expiry Date” for the new expiry dates of the respective BD Veritor Kits when reading the test results visually. 
+        Please note that the expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pdf){:target="_blank"} for more information.
 
     - title: I have received the BD Veritor kits and the box and instructions indicate that the test kits require the use of BD Veritor Plus Analyzer. What should I do? 
       content: |
         An Analyzer is not required; the test results can be read visually as per these [instructions](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}.
+
+    - title: Can my company exchange the ART kits for another brand?
+      content: |
+        No, the kits issued may not be exchanged.
 
 - accordion:
   letter: d
@@ -51,23 +146,11 @@
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
         | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic. |
 
-    - title: My company has yet to commence testing because we shifted fully to WFH. Do I still need to submit the results declaration at the end of the 2-month cycle from the date of receipt of kits?  
+    - title: Does my company have to submit my employees' test results to the government?
       content: |
-        For companies who have yet to commence testing due to the shift to full WFH, they should still submit the results declaration at the end of each one-month cycle (for 2 months) from the date of receipt of kits, by indicating the number of tests they have conducted. If the actual number of employees tested is lower than the number of onsite employees declared during application, companies should provide a reasonable explanation why this is so in the submission form (e.g. pivot to WFH). 
+        Companies are not required to submit detailed results of each employee to the government. Nevertheless, companies are required to submit their ART results declaration at the end of each month's testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"}
 
-        The company should also retain proof of communication sent to employees informing them that they will be working from home by default and the effective date of WFH implementation, which should be provided when audited by the Government. 
-
-        Once WFH is no longer the default, companies are advised to re-commence testing upon return to office and continue submitting results until testing is complete. 
-
-    - title: My company still has kits left after I completed the 8-weeks testing. Do we need to continue testing and submit the results declaration? 
-      content: |
-        If your company has completed the 8-weeks testing for all the onsite employees as declared during application but still has kits left (e.g. because staff recovered from COVID-19 and is exempted from testing, extra kits received due to rounding up), you may retain the kits for further voluntary testing. There is no need to submit additional results declaration in this situation.
-
-    - title: How long does my company need to retain proof of processes and test results for?
-      content: |
-        For companies who would complete testing for all staff by 31 January 2022, please retain all necessary proof of test processes and test results until 31 January 2022.
-
-        For companies who would still be conducting testing beyond 31 January 2022 due to various reasons, please retain all necessary proof/results for a duration of one month after the second round of results declaration. E.g. if testing ends on 15 February 2022, please retain the necessary proof/results until 15 March 2022. 
+        If audited by the government, companies are expected to be able to produce proof that test results have been recorded by the company.
 
     - title: What actions will be taken if my company is found to be non-compliant?
       content: |
@@ -108,11 +191,11 @@
       content: |
         <u>Negative</u>: Even if you test negative, please stay vigilant. Do continue to observe safe distancing measures and practice good personal hygiene such as regular handwashing and wearing a mask when leaving your home. Continue to monitor your health and test yourself where necessary.
 
-        <u>Positive</u>: You may be infected with the SARS-CoV-2 virus. If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you feel unwell e.g. fever, cough, sore throat at any point in time, please proceed to the nearest SASH clinic or PHPC for a medical assessment. 
+        <u>Positive</u>: You may be infected with the SARS-CoV-2 virus. If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you are symptomatic at any point in time, please proceed to the nearest SASH clinic or PHPC for a medical assessment and a confirmatory PCR test. 
         
         To keep a record the positive results, you should take a photograph of your ART test results with your identification document (e.g. NRIC/passport) in the same photo.
 
-        <u>Invalid</u>: An invalid test may mean that the test was not performed correctly, or the test kit was faulty. You should re-read the instructions on how to perform the test and repeat an ART with a new test kit until you get a valid ART result. You may also consider undergoing a self-paid ART which is supervised or done by a healthcare provider, such as at Quick Test Centres or medical clinics.
+        <u>Invalid</u>: An invalid test may mean that the test was not performed correctly, or the test kit was faulty. You should re-read the instructions on how to perform the test and repeat an ART with a new test kit. You may also consider undergoing an ART done by a healthcare provider, such as at Quick Test Centres or medical clinics. As you have not tested positive, you need not self-isolate because of an invalid ART result.
 
     - title: What should I do if I experience nose bleeding after swabbing?
       content: |
@@ -129,11 +212,13 @@
   data:
     - title: What should I do if I test ART positive?
       content: |
+<<<<<<< HEAD
         You should isolate yourself at home if you are well and test positive. 
+=======
+        You should isolate yourself at home if you are asymptomatic and test positive. If you have symptoms, go to a SASH clinic to be assessed medically and get a confirmatory PCR test.
+>>>>>>> parent of e40a771b (updates)
 
         After 72 hours, repeat an ART. You can resume daily activities if it tests negative. If it is positive, continue to self-isolate and repeat ARTs at least one day apart. You can stop self-isolation and resume daily activities when it tests negative.
-
-        If you feel unwell e.g. fever, cough, sore throat, go to a SASH clinic via private transport to be assessed medically by a doctor.
 
     - title: What should I do as part of self-isolation?
       content: |
@@ -154,10 +239,33 @@
       content: |
         You should proceed to undergo a confirmatory PCR test instead of self-isolating if,
 
-        - You feel unwill, such as having a fever, cough, sore throat, and a doctor advises you to take a confirmatory PCR test
+        - You have any symptoms of COVID-19 at any time, such as fever, cough, runny nose, sore throat, loss of taste or smell
+        - You are under a quarantine order, stay-home notice or have received a Health Risk Warning
+        - You work in healthcare or eldercare
+        - You work or study in pre-schools or primary schools
         - You are aged above 80 years old (vaccinated) or above 70 years old (unvaccinated)
 
         Specific sectors may also have special considerations which, where applicable, should be separately communicated to you.
+
+    - title: What should I do if I tested positive on ART and need to see a doctor and undergo a confirmatory PCR test?
+      content: |
+        * Call the nearest SASH clinic listed on [phpc.gov.sg](https://phpc.gov.sg/){:target="_blank"}{:rel="noopener"} to make an appointment and confirm that they can provide a confirmatory PCR test. At the clinic, if your doctor informs you that you need a consultation, e.g. because of observed symptoms such as runny nose, mild fever, you should comply with your doctor's instructions.
+
+        * Take a photo of your ART test result(s) with your identification document (ID) in the <b>same photo</b> immediately. Dispose the used test kit by properly and wash your hands. 
+
+        * Bring (1) the photo of your results + ID together and (2) your physical ID (NRIC/Passport) to the clinic.
+
+        * Travel to the clinic via private transport (car or taxi). Sit alone in the back seat and on the opposite side of the driver. Wind down the windows (switch off air-conditioning) and wear a surgical mask throughout the ride. If you ride a motorcycle, please ensure that you do not have a pillion rider.
+
+        * If you require a taxi, please do not take a street-hire taxi. Instead, book a taxi through:
+
+          * <b>Call the taxi hotlines</b>: Inform the operator that you are going for a PCR test at a SASH clinic.
+
+          * <b>Mobile application of transport companies</b>: Input “SHN” in the comment box or check the “SHN” checkbox (if available).
+
+        * <b>After the confirmatory PCR test, please go home immediately via private transport (same arrangement above), and self-isolate at home until you receive your negative PCR test results.</b>
+
+        * Your doctor will generally inform you of your results within 24 to 48 hours. Alternatively, you may check your results via [HealthHub](https://www.healthhub.sg/){:target="_blank"}{:rel="noopener"}.
 
     - title: How much do I have to pay for the confirmatory PCR test?
       content: |
@@ -171,23 +279,19 @@
 
     - title: What should my household members, colleagues or close contacts do if I am ART positive?
       content: |
-        While they will not be issued a Health Risk Warning (HRW) given that this is an ART positive case, we advise they take the following precautions:
-        
-        - Minimise contact with the person who had tested ART positive
-        
-        - Take an ART self-test within 24 hours of their last contact with the person
-        
-        - Should they need to leave home over the next 7 days, e.g. to work or to school, take an ART self-test on the same day
-
-          1. If negative, they may leave home
-
-          2. If positive, follow the instructions for persons tested ART positive. 
-
-        During the 7-day period, avoid unnecessary interactions with others as much as possible. 
+        If they have any COVID-19 symptoms, please see a doctor. If they have no symptoms, they may perform an ART within 24 hours of you having tested ART positive. Thereafter, they should monitor themselves for symptoms for 10 days. During this period, they should perform an ART and ensure that they test negative before going into settings that may expose others. 
 
     - title: My employee has tested ART positive, can I require that he/she undergoes a confirmatory PCR test?
       content: |
-        Companies should not require employees to undergo a confirmatory PCR test unless they are unwell (e.g. fever, cough, sore throat), or are above 80 years old (vaccinated) or 70 years old (unvaccinated).
+        Companies should not require employees to undergo a confirmatory PCR test unless they meet the criteria (as stated below) in doing so.
+
+        - They have any symptoms of COVID-19 at any time, such as fever, cough, runny nose, sore throat, loss of taste or smell
+        - They are under a quarantine order, stay-home notice or have received a Health Risk Warning
+        - They work in healthcare or eldercare
+        - They work or study in pre-schools or primary schools
+        - They are aged above 80 years old (vaccinated) or above 70 years old (unvaccinated)
+
+        Specific sectors may also have special considerations which, where applicable, should be separately communicated to you.
 
     - title: My employee has tested ART negative after having tested positive initially. Is it safe for him/her to return to work?
       content: |
