@@ -4,9 +4,7 @@ permalink: /covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-an
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Marriage Solemnization and Receptions [Updated as of 21 Dec 2021]
-
-For Marriage solemnizations and receptions on/before 31 December 2021, please refer to this [document](/images/guides/TP - FAQs for weddings until 31 Dec 2021.pdf){:target="_blank"}.
+### Marriage Solemnization and Receptions [Updated as of 23 Nov 2021]
 
 #### I. Latest COVID-19 Situation
 
