@@ -4,17 +4,13 @@ permalink: /timelimitedrrt/
 ---
 ## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
 
-Please note that the application period (16 Sep – 13 Oct 2021) is over, and application has closed. Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month's testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
-
-### Delivery of Kits
-
-Due to high application volumes, delivery might take a longer time during this period. You will receive a delivery notification from the vendor when the kits are ready to be sent out. Please commence weekly testing with immediate effect, upon receipt of the ART kits.   
+The Time-Limited RRT exercise has officially ended on 13th Oct 2021. Please note that this was a one-time distribution exercise which serves to help promote regular testing amongst companies. We will not be issuing any more kits, and companies who wish to continue testing voluntarily after the 8-week supply is utilised may purchase kits at their own cost. 
 
 ### Compliance & Results Declaration
 
-Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. <b>These processes will be audited by the government for compliance.</b>  
+Firms that have applied for and receive the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. Firms should retain proof of such processes and test results, and to produce these proof when audited by the government. Firms are required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
 
-Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month's testing cycle (i.e. twice across the 8-weeks period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
+Firms may have discontinued or deferred testing due to full work-from-home arrangements announced by the Government in end-Sep 2021. In such cases, firms should still submit any test results they had collected (or relevant justification if there are no test results) at the end of each month for the two-months period starting from the date of receipt of kits. Once WFH is no longer the default, companies are advised to re-commence testing upon return to office and continue submitting results until testing is complete.   
   
 The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any of non-compliance to the testing requirements are found.
 
@@ -38,4 +34,4 @@ To note for the <u><b>BD Veritor Kits</b></u>:
 
 ### Frequently Asked Questions (FAQ)
 
-For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) (updated on 12 Oct 2021) for more information.
+For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) (updated on 21 Dec 2021) for more information.
