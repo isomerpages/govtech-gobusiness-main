@@ -6,7 +6,7 @@ third_nav_title: For Sector-Specific Queries
 
 ### Sport & recreational facility operators & sport, physical exercise & activity administrators
 
-Please refer to this [document](/images/guides/Updated 17 Dec 2021_FAQs on SMM for Sportv2.pdf){:target="_blank"} for a list of Frequently Asked Questions (FAQs).
+Please refer to this [document](/images/guides/FAQs on SMM for Sport_PE_PA for the Transition Phase (21 Nov 21).pdf){:target="_blank"} for a list of Frequently Asked Questions (FAQs).
 
 
 [Back to Covid-19 Overview](/covid/)

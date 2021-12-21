@@ -9,7 +9,11 @@ permalink: /covid-19-faqs/time-limited-rrt-for-workplaces
 
 {% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="a" %}
 
-#### About the usage of ART kits
+#### About the application process
+
+{% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="b" %}
+
+#### About the delivery of ART kits
 
 {% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="c" %}
 
