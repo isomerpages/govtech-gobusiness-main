@@ -34,7 +34,7 @@ Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>

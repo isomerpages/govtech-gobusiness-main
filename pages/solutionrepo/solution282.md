@@ -1,15 +1,15 @@
 ---
-title: Digital Retail eCommerce Solution Version 1
-permalink: /productivity-solutions-grant/solutionrepo/solution132
+title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC
+permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 
 ### Description
 
-Digital Retail eCommerce Solution enable users to enhance their online presence through mobile responsive  e-Commerce website with content management, online leads analysis and online transaction management capabilities. 
+Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Amobee_Asia_Annex 3_CR_wef_8May2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Amobee Asia Pte Ltd<br>https://amobeedigital.com/web-solutions/<br>Email: ADS@amobee.com<br>Tel: +65 6323 9448
+Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

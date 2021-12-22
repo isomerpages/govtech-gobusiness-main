@@ -43,7 +43,7 @@ Specifications:
 - Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.
 - Only 1 application per coy will be supported
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.

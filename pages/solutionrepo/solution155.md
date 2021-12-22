@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:APSCOM SOLUTIONS <br>Web URL:www.apscomsolutions.com <br>Contact Hotline:97206813 <br>Contact Email:carol.kok@apscomsolutions.com <br>

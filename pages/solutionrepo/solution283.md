@@ -1,15 +1,15 @@
 ---
-title: Rockbell Human Resource Management System Version 3 - Package (1 user - 60 employees)
-permalink: /productivity-solutions-grant/solutionrepo/solution746
+title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 1 server agents and 10 endpoint agents with 24/7 SOC
+permalink: /productivity-solutions-grant/solutionrepo/solution283
 ---
 
 ### Description
 
-The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.
+Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Rockbell International Software Pte Ltd<br>www.rockbell.sg<br>Email: sales@rockbell.com.sg<br>Tel: +65 6469 7720
+Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

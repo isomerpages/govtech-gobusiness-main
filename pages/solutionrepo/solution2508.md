@@ -34,7 +34,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.dandelion.com.sg <br>Contact Hotline: 89275811 <br>Contact Email: info@dandelion.com.sg <br>
