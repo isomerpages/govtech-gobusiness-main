@@ -1,10 +1,10 @@
 ---
-title: Retail
-permalink: /productivity-solutions-grant/ITSolution/retail/
+title: Training and Adult Education
+permalink: /productivity-solutions-grant/ITSolution/trainingandadulteducation/
 third_nav_title: Pre-scoped IT Solution
 ---
 
-## Pre-scoped IT Solutions for Retail
+## Pre-scoped IT Solutions for Training and Adult Education
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 

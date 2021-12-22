@@ -1,10 +1,10 @@
 ---
-title: Retail
-permalink: /productivity-solutions-grant/ITSolution/retail/
+title: IT
+permalink: /productivity-solutions-grant/ITSolution/it/
 third_nav_title: Pre-scoped IT Solution
 ---
 
-## Pre-scoped IT Solutions for Retail
+## Pre-scoped IT Solutions for IT
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
