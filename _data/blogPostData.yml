@@ -26,7 +26,7 @@
   link: /#
   image: /images/man-with-laptop.svg
   alt: man with laptop
-  date: 2021-10-10
+  date: 2021-11-30
 - index: 4
   tag: Behind the Business
   title: Interview with Sing Swee Kee Chicken Rice
@@ -35,4 +35,6 @@
   link: /#
   image: /images/two-ladies-shop.svg
   alt: two ladies shop
-  date: 2021-09-09
+  date: 2022-01-01
+# TODO: Need to sort the posts based on reverse chronological order
+# TODO: Need to populate the links with actual URLs
