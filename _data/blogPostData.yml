@@ -1,0 +1,32 @@
+- index: 1
+  tag: GoBusiness How-To
+  title: Planning a conference? How e-Adviser for Events can help you find the correct licences
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /#
+  image: /images/woman-with-ipad.svg
+  alt: woman with ipad
+- index: 2
+  tag: Behind the Business
+  title: Interview with Sing Swee Kee Chicken Rice
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /#
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
+- index: 3
+  tag: Business Tips & Tricks
+  title: Interview with Sing Swee Kee Chicken Rice
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /#
+  image: /images/man-with-laptop.svg
+  alt: man with laptop
+- index: 4
+  tag: Behind the Business
+  title: Interview with Sing Swee Kee Chicken Rice
+  body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+  link: /#
+  image: /images/two-ladies-shop.svg
+  alt: two ladies shop
