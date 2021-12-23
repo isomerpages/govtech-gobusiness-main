@@ -1,0 +1,148 @@
+---
+layout: skeleton
+---
+
+<body>
+  <div id="main-content" role="main">
+    <section class="bp-section is-small bp-section-pagetitle">
+
+      <div class="bp-container ">
+        <div class="row">
+          <div class="col">
+            <nav class="bp-breadcrumb" aria-label="breadcrumbs">
+              <ul>
+                <li>
+                  <a href="/">
+                    <small>HOME</small>
+                  </a>
+                </li>
+                <li>
+                  <a href="/gobusiness-blog/">
+                    <small>GOBUSINESS BLOG</small>
+                  </a>
+                </li>
+                <li>
+                  <a href="/gobusiness-blog/">
+                    <small>
+                      MERCHANT STORIES</small>
+                  </a>
+                </li>
+                <li>
+                  <a href="/gobusiness-blog/sing-swee-kee-chicken-rice">
+                    <small>INTERVIEW WITH SING
+                      SWEE
+                      KEE CHICKEN RICE...</small>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="bp-container">
+        <div class="row">
+          <div class="col">
+            <h1 class="has-text-white">
+              <b>{{page.title}}</b>
+            </h1>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <section class="bp-section">
+      <div class="bp-container content padding--top--lg padding--bottom--xl">
+        <div class="row">
+          <div class="col is-8 is-offset-2 print-content">
+            <p>{{page.date}}</p>
+            <p>{{page.name}}</p>
+            <p>{{page.test}}</p>
+            <p>{{page.tags}}</p>
+
+            {{content}}
+          </div>
+          <div class="col is-1 has-float-btns is-position-relative is-hidden-touch">
+            <div class="float-buttons">
+              <div class="inner-wrapper-sticky" style="position: relative;">
+                <div class="actionbar__inner">
+                  <button class="bp-button" id="print-button" aria-label="Print">
+                    <i class="sgds-icon sgds-icon-print is-size-4">
+                    </i>
+                  </button>
+                </div>
+                <div class="actionbar__inner padding--top--sm">
+                  <button class="bp-button" id="copy-link" aria-label="Copy Link">
+                    <i class="sgds-icon sgds-icon-link is-size-4">
+                    </i>
+                  </button>
+                  <input id="page-url" type="text" class="hide"
+                    value="http://localhost:4000/gobusiness-blog/merchant-stories/sing-swee-kee-chicken-rice">
+                </div>
+                <div class="actionbar__inner padding--top--sm">
+                  <a href="mailto:?Subject=Interview%20with%20Sing%20Swee%20Kee%20Chicken%20Rice&amp;amp;Body=http%3A%2F%2Flocalhost%3A4000%2Fgobusiness-blog%2Fmerchant-stories%2Fsing-swee-kee-chicken-rice"
+                    id="mail-anchor" aria-label="Mail">
+                    <button class="bp-button">
+                      <i class="sgds-icon sgds-icon-mail is-size-4">
+                      </i>
+                    </button>
+                  </a>
+                </div>
+                <div class="actionbar__inner padding--top--sm"><a
+                    href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fgobusiness-blog%2Fmerchant-stories%2Fsing-swee-kee-chicken-rice"
+                    target="_blank" rel="noreferrer" id="fb-anchor" aria-label="Share in Facebook">
+                    <button class="bp-button">
+                      <i class="sgds-icon sgds-icon-facebook-alt is-size-4">
+                      </i>
+                    </button>
+                  </a>
+                </div>
+                <div class="actionbar__inner padding--top--sm"><a
+                    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A4000%2Fgobusiness-blog%2Fmerchant-stories%2Fsing-swee-kee-chicken-rice&amp;title=Interview%20with%20Sing%20Swee%20Kee%20Chicken%20Rice"
+                    target="_blank" rel="noreferrer" id="li-anchor" aria-label="Share in LinkedIn">
+                    <button class="bp-button">
+                      <i class="sgds-icon sgds-icon-linkedin-alt is-size-4">
+                      </i>
+                    </button>
+                  </a>
+                </div>
+                <div dir="ltr" class="resize-sensor"
+                  style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
+                  <div class="resize-sensor-expand"
+                    style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
+                    <div
+                      style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 89px; height: 282px;">
+                    </div>
+                  </div>
+                  <div class="resize-sensor-shrink"
+                    style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
+                    <div style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div dir="ltr" class="resize-sensor"
+              style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
+              <div class="resize-sensor-expand"
+                style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
+                <div
+                  style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 114px; height: 444px;">
+                </div>
+              </div>
+              <div class="resize-sensor-shrink"
+                style="pointer-events: none; position: absolute; left: 0px; top: 0px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
+                <div style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%"></div>
+              </div>
+            </div>
+          </div>
+
+          <script src="/assets/js/print.js"></script>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
+  <script src="/jquery/jquery.min.js"></script>
+</body>

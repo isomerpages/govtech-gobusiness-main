@@ -1,0 +1,33 @@
+blogposts:
+  - index: 1
+    tag: Behind the Business
+    title: Interview with Sing Swee Kee Chicken Rice
+    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+    link: /#
+    image: /images/homepage/two-ladies-shop.png
+    alt: blog image
+  - index: 2
+    tag: Behind the Business
+    title: Interview with Sing Swee Kee Chicken Rice
+    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+    link: /#
+    image: /images/homepage/two-ladies-shop.png
+    alt: blog image
+  - index: 3
+    tag: Behind the Business
+    title: Interview with Sing Swee Kee Chicken Rice
+    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+    link: /#
+    image: /images/homepage/two-ladies-shop.png
+    alt: blog image
+  - index: 4
+    tag: Behind the Business
+    title: Interview with Sing Swee Kee Chicken Rice
+    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Curabitur suscipit, elit sed molestie luctus, leo neque euismo...
+    link: /#
+    image: /images/homepage/two-ladies-shop.png
+    alt: blog image
