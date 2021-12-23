@@ -1,10 +1,28 @@
 <style>
+  [class*="nnu"] {
+    font-family: hknova-regular;
+  }
+
+  .nnuContainer {
+    min-width: 328px;
+    display: grid;
+    grid-template-areas:
+      "header"
+      "banner"
+      "nnu__post--preview"
+      "nnu__content--2"
+      "nnu__content--3"
+      "button";
+    row-gap: 24px;
+    padding: 16px 16px 64px;
+    margin: 0 auto;
+  }
+
   .nnu__title {
     grid-area: header;
-    font-style: normal;
     font-weight: 600;
-    font-size: 36px;
-    line-height: 45px;
+    font-size: 28px;
+    line-height: 35px;
     color: #037e8a;
   }
 
@@ -13,12 +31,17 @@
   }
 
   .nnu__banner img {
-    max-width: 100%;
-    max-height: 204px;
+    width: 100%;
+  }
+
+  [class*="nnu__content"] {
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
   }
 
   .nnu__content--1 {
-    grid-area: nnu__post--excerpt;
+    grid-area: nnu__post--preview;
   }
 
   .nnu__content--2 {
@@ -29,164 +52,120 @@
     grid-area: nnu__content--3;
   }
 
-  .nnuContainer {
-    display: grid;
-    grid-template-areas:
-      "header header"
-      "banner nnu__content--2"
-      "banner nnu__content--2"
-      "nnu__post--excerpt nnu__content--3"
-      "nnu__post--excerpt nnu__content--3"
-      "nnu__post--excerpt button";
-    grid-gap: 32px;
-    padding: 64px 150px;
-  }
-
-  .nnu__post--title {
-    font-family: hknova-regular;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 30px;
+  .nnu__post--title2 {
+    font-family: hknova-semibold;
+    font-size: 18px;
+    line-height: 27px;
     color: #313840;
-    margin-top: 16px;
-  }
-
-  .nnu__post--tag {
-    font-family: hknova-regular;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    color: #647283;
-  }
-
-  .nnu__post--excerpt,
-  .nnu__post--excerpt>* {
-    font-family: hknova-regular !important;
-    font-style: normal !important;
-    font-weight: normal !important;
-    font-size: 16px !important;
-    line-height: 24px !important;
-    color: #313840 !important;
-    margin-top: 16px !important;
   }
 
   .nnu__post--footer {
     display: flex;
     flex-direction: row;
-    margin-top: 16px;
+  }
+
+  .nnu__post--footer>:first-child {
+    margin-right: 16px;
   }
 
   .nnu__date {
-    font-family: hknova-regular;
-    font-style: normal;
-    font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #647283;
   }
 
   .nnu__readMoreLink {
-    font-family: hknova-regular;
-    font-style: normal;
-    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    margin-left: 16px;
-    text-decoration-nnu_divider: undernnu_divider;
-    color: #2a6ebb;
+    text-decoration: underline;
   }
 
-  .nnu__post--title2 {
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    margin-top: 16px;
-    color: #313840;
+  .nnu__divider {
+    margin: 16px 0 8px;
+    border-bottom: 1px solid #dbdfe4;
   }
 
-  .nnu_divider {
-    margin: 24px 0 12px 0;
-    border: 1px solid #dbdfe4;
-  }
-
-  .news-and-update-button {
+  .nnu__btnContainer {
     grid-area: button;
-    font-family: hknova-semibold;
-    font-weight: 600;
-    text-decoration: none;
-    color: #037E8A;
-    display: flex;
-    justify-content: start;
-    align-items: center;
-    border: 1px solid #b3d8dc;
-    box-sizing: border-box;
-    border-radius: 3px;
-    background-color: #fafdfd;
-    font-size: 18px;
-    line-height: 27px;
-    color: #037e8a;
-    height: 52px;
-    width: fit-content;
-    width: -moz-fit-content;
-    cursor: pointer;
-    padding: 12.5px 24px;
-    text-align: center;
+    margin-top: 8px;
   }
 
-  .news-and-update-button:hover {
-    border: 1px solid #026770;
-    color: #026770;
+  #main-content .nnuContainer .nnu__btnContainer a.secondary-btn {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    padding: unset;
   }
 
-  .news-and-update-button:active {
-    border: 1px solid #025b63;
-    color: #025b63;
-  }
+  @media (min-width: 768px) {
+    .nnu__title {
+      font-size: 36px;
+      line-height: 45px;
+    }
 
-  .news-and-update-button:focus {
-    outline: 2px solid #1c8b95;
-  }
-
-  @media (max-width: 760px) {
     .nnuContainer {
-      min-width: 328px;
       display: grid;
       grid-template-areas:
-        "header header"
-        "banner banner"
-        "banner banner"
-        "banner banner"
-        "nnu__post--excerpt nnu__post--excerpt"
-        "nnu__post--excerpt nnu__post--excerpt"
-        "nnu__post--excerpt nnu__post--excerpt"
-        "nnu__content--2 nnu__content--2"
-        "nnu__content--2 nnu__content--2"
-        "nnu__content--3 nnu__content--3"
-        "nnu__content--3 nnu__content--3"
-        "button button";
-      grid-gap: 24px;
-      padding: 16px;
+        "header ."
+        "banner nnu__content--2"
+        "banner nnu__content--3"
+        "nnu__post--preview nnu__content--3"
+        ". button";
+      row-gap: 24px;
+      column-gap: 64px;
+      padding: 24px 24px 40px;
+      max-width: 1140px;
     }
 
-    .nnu__title {
-      font-style: normal;
-      font-weight: 600;
-      font-size: 28px;
-      line-height: 35px;
-      color: #037e8a;
+    .nnu__post--title {
+      font-family: hknova-semibold;
+      font-size: 24px;
+      line-height: 30px;
+      color: #313840;
     }
 
-    .nnu_divider {
-      margin: 24px 0 0 0;
-      border: 1px solid #dbdfe4;
+    .nnu__image {
+      width: auto;
+      height: 100%;
+      object-fit: cover;
+      object-position: right;
     }
 
-    .news-and-update-button {
-      grid-area: button;
-      width: 100%;
+    .nnu__post--preview {
+      font-family: hknova-regular;
+      font-size: 16px;
+      line-height: 24px;
+    }
+
+    .nnu__post--tag {
+      font-size: 14px;
+      line-height: 24px;
+      color: #647283;
+    }
+
+    .nnu__date {
+      font-size: 14px;
+      line-height: 24px;
+      color: #647283;
+    }
+
+    .nnu__readMoreLink {
+      font-size: 16px;
+      line-height: 24px;
+      text-decoration-line: underline;
+      color: #2a6ebb;
+    }
+
+    .nnu__content--1 .nnu__divider {
+      display: none;
+    }
+
+    .nnu__divider {
+      margin-top: 8px;
+      border-bottom: 1px solid #dbdfe4;
+    }
+
+    .nnu__btnContainer {
+      max-width: 144px;
     }
   }
 </style>
@@ -194,7 +173,7 @@
 <div class="nnuContainer">
   <div class="nnu__title">News and Updates</div>
   <div class="nnu__banner">
-    <img alt="news-and-updates-image" class="nnu__image" src="/images/man-woman-background.png" />
+    <img alt="news-and-updates-image" class="nnu__image" src="/images/man-woman-background.svg" />
   </div>
   {% for post in site.posts limit:3 %}
 
@@ -204,14 +183,14 @@
       {{ post.permalink | remove:'/news-and-updates/' | split: '/' | first |
       join: '' | replace: '-', ' ' | upcase}}
     </div>
-    <div class="nnu__post--title">{{ post.title }}</div>
-    <div class="nnu__post--excerpt"> {{ post.excerpt }}</div>
+    <h4 class="nnu__post--title">{{ post.title }}</h4>
+    <div class="nnu__post--preview">{{ post.preview }}</div>
 
     <div class="nnu__post--footer">
       <div class="nnu__date">{{ post.date | date_to_string | upcase }}</div>
       <a href="{{post.url}}" class="nnu__readMoreLink">Read more</a>
     </div>
-    <div class="nnu_divider"></div>
+    <hr class="nnu__divider">
   </div>
 
   {% elsif forloop.index == 2 %}
@@ -226,7 +205,7 @@
       <div class="nnu__date">{{ post.date | date_to_string | upcase }}</div>
       <a href="{{post.url}}" class="nnu__readMoreLink">Read more</a>
     </div>
-    <div class="nnu_divider"></div>
+    <hr class="nnu__divider">
   </div>
 
   {% else %}
@@ -240,13 +219,12 @@
       <div class="nnu__date">{{ post.date | date_to_string | upcase }}</div>
       <a href="{{post.url}}" class="nnu__readMoreLink">Read more</a>
     </div>
-    <div class="nnu_divider"></div>
+    <hr class="nnu__divider">
+    <div class="nnu__btnContainer">
+      {% include secondary-btn.html href="#" text="Older News" %}
+    </div>
   </div>
-
   {% endif %}
-  </a>
 
   {% endfor %}
-
-  {% include secondary-btn.html href="#" target="_blank" rel="noopener" text="Older News" %}
 </div>
