@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/<br>Contact Hotline: 6871 8833 / 8482 1888<br>Contact Email: sales@epos.com.sg

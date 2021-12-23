@@ -47,7 +47,7 @@ Supportable costs:
 
 *Support is only granted for 1 unit per clinic location.
 Basic equipment costs (e.g. laptop) unsupportable
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.
