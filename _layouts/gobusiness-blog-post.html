@@ -23,15 +23,12 @@ layout: skeleton
                 </li>
                 <li>
                   <a href="/gobusiness-blog/">
-                    <small>
-                      MERCHANT STORIES</small>
+                    <small>MERCHANT STORIES</small>
                   </a>
                 </li>
                 <li>
                   <a href="/gobusiness-blog/sing-swee-kee-chicken-rice">
-                    <small>INTERVIEW WITH SING
-                      SWEE
-                      KEE CHICKEN RICE...</small>
+                    <small>{{ page.title | upcase }}</small>
                   </a>
                 </li>
               </ul>
@@ -56,11 +53,6 @@ layout: skeleton
       <div class="bp-container content padding--top--lg padding--bottom--xl">
         <div class="row">
           <div class="col is-8 is-offset-2 print-content">
-            <p>{{page.date}}</p>
-            <p>{{page.name}}</p>
-            <p>{{page.test}}</p>
-            <p>{{page.tags}}</p>
-
             {{content}}
           </div>
           <div class="col is-1 has-float-btns is-position-relative is-hidden-touch">
@@ -78,9 +70,10 @@ layout: skeleton
                     </i>
                   </button>
                   <input id="page-url" type="text" class="hide"
-                    value="http://localhost:4000/gobusiness-blog/merchant-stories/sing-swee-kee-chicken-rice">
+                    value="/gobusiness-blog/merchant-stories/sing-swee-kee-chicken-rice">
                 </div>
                 <div class="actionbar__inner padding--top--sm">
+                  <!-- TODO: Need to change href here -->
                   <a href="mailto:?Subject=Interview%20with%20Sing%20Swee%20Kee%20Chicken%20Rice&amp;amp;Body=http%3A%2F%2Flocalhost%3A4000%2Fgobusiness-blog%2Fmerchant-stories%2Fsing-swee-kee-chicken-rice"
                     id="mail-anchor" aria-label="Mail">
                     <button class="bp-button">
@@ -89,7 +82,9 @@ layout: skeleton
                     </button>
                   </a>
                 </div>
-                <div class="actionbar__inner padding--top--sm"><a
+                <div class="actionbar__inner padding--top--sm">
+                  <!-- TODO: Need to change href here -->
+                  <a
                     href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fgobusiness-blog%2Fmerchant-stories%2Fsing-swee-kee-chicken-rice"
                     target="_blank" rel="noreferrer" id="fb-anchor" aria-label="Share in Facebook">
                     <button class="bp-button">
@@ -98,7 +93,9 @@ layout: skeleton
                     </button>
                   </a>
                 </div>
-                <div class="actionbar__inner padding--top--sm"><a
+                <div class="actionbar__inner padding--top--sm">
+                  <!-- TODO: Need to change href here -->
+                  <a
                     href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A4000%2Fgobusiness-blog%2Fmerchant-stories%2Fsing-swee-kee-chicken-rice&amp;title=Interview%20with%20Sing%20Swee%20Kee%20Chicken%20Rice"
                     target="_blank" rel="noreferrer" id="li-anchor" aria-label="Share in LinkedIn">
                     <button class="bp-button">
@@ -107,6 +104,7 @@ layout: skeleton
                     </button>
                   </a>
                 </div>
+                <!-- TODO: Need to create classes and remove the inline styles -->
                 <div dir="ltr" class="resize-sensor"
                   style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;">
                   <div class="resize-sensor-expand"

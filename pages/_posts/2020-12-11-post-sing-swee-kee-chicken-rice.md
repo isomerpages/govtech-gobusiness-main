@@ -8,9 +8,11 @@ tags:
   - Behind the Business
 ---
 
+<!-- TODO: Remove any unused properties. -->
+
 ## Business innovation amidst the pandemic
 
-![sing swee kee image](/images/two-ladies-shop.png)
+![sing swee kee image](/images/two-ladies-shop.svg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius elit a leo ultrices efficitur.
 Curabitur luctus euismod erat ultricies fringilla. Curabitur erat ligula, condimentum sit amet convallis
