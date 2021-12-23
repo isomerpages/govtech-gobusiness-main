@@ -1,6 +1,18 @@
 <style>
+  .hpgCardContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+    height: auto;
+    align-items: center;
+    justify-content: unset;
+    position: relative;
+    top: -66px;
+    padding: 0 16px;
+  }
+
   .hpgCard {
-    width: 328px;
+    width: 100%;
     height: fit-content;
     background-color: #FFFFFF;
     box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
@@ -95,20 +107,14 @@
   .hpgCard__cta {
     padding: 20px 24px;
     display: grid;
-    grid-template-columns: auto 1fr;
+    grid-template-columns: auto 20px;
     align-items: center;
     column-gap: 10px;
   }
 
-  .hpgCardContainer {
-    display: flex;
-    flex-direction: column;
-    row-gap: 16px;
-    height: auto;
-    align-items: center;
-    justify-content: unset;
-    position: relative;
-    top: -66px;
+  .hpgCard__cta-img {
+    height: 15px;
+    width: 20px;
   }
 
   @media screen and (min-width: 768px) {
@@ -173,7 +179,7 @@
     <div class="hpgCard__bottom toggle-display">
       <div class="hpgCard__cta">
         <a href="{{hpgCard.cta_href}}" class="hpgCard__cta-text">{{hpgCard.cta_text}}</a>
-        <img class="hpgCard__cta-img" src="/images/next_arrow.png" alt="right-arrow">
+        <img class="hpgCard__cta-img" src="/images/next_arrow.svg" alt="right-arrow">
       </div>
     </div>
   </div>
