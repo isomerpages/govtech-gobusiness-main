@@ -3,8 +3,11 @@ layout: skeleton
 ---
 
 <body>
-  <!-- TODO: Blog layout to be here -->
-  <img src="/images/Screenshot 2021-12-21 at 4.08.40 PM.png" alt="blog layout">
+  <!-- TODO: Remove limit property if you want to get all posts; make limit optional -->
+  <!-- TODO: Abstract out title and buttons from blogCard parts in blogCard.html -->
+  <!-- TODO: Create post filter UI and logic -->
+  <!-- TODO: Create pagination UI and logic -->
+  {% include blogCard.html blogPostData=site.data.blogPostData limit=1000 %}
 
   <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
   <script src="/jquery/jquery.min.js"></script>
