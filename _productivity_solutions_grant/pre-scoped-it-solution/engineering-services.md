@@ -4,10 +4,11 @@ permalink: /productivity-solutions-grant/ITSolution/engineeringservices/
 third_nav_title: Pre-scoped IT Solution
 ---
 
-## Pre-scoped IT Solution for Engineering Services
+## Pre-scoped IT Solutions for Engineering Services
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion.html accordions=site.data.acc058a-engineering-services.accordion %}
+{% include accordion.html %}
 
-_If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
+_If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' rel='noopener' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
+
