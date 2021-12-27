@@ -30,7 +30,7 @@ The Government shall have the right to claw back the cost of any test kits shoul
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the FAQs (updated on 21 Dec 2021) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
+Please refer to the FAQs (updated on 27 Dec 2021) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
 
 ### More information about ART
 Learn more about how to perform a self-test using ART:
