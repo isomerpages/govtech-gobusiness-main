@@ -1,43 +1,12 @@
 - accordion:
   letter: a
   data:
-    - title: Why is MOH distributing ART self-test kits to workplaces?
-      content: |
-        As part of the national effort to step up regular testing, companies are strongly encouraged to apply for ART kits to commence regular testing for employees who work on-site, but are not already on any form of mandatory Rostered Routine Testing (RRT). This will enable us to detect and ringfence cases, keeping the community safe. 
-
     - title: When should my company start the 8-weeks RRT?
       content: |
         Your company should start the weekly voluntary RRT for onsite employees with immediate effect, upon receipt of the ART kits. If you had deferred starting the weekly voluntary RRT due to the Government’s announcement in end-Sep to pivot towards full WFH, you may encourage your employees to use the kits to continue weekly testing from home. Alternatively, they may recommence testing upon return to office once WFH is no longer the default. 
 
-    - title: My company applied for/received the ART kits before the government announced that WFH will be the default. Should my employees who have pivoted to full WFH still be tested weekly?
-      content: |
-        As your company has already applied for or received the kits, the employees who have pivoted to full WFH may use the kits to continue weekly testing from home. Alternatively, they may recommence testing upon return to office once WFH is no longer the default. During the results declaration at the end of each month's testing cycle, your company should still submit the declaration, and provide an explanation if the number of results declared is lower than the declared no. of onsite employees to be tested during application.
-
-    - title: My company has missed the application deadline. Can we still apply?
-      content: |
-        The application period is from 16 Sep – 13 Oct 2021. Companies will not be able to apply after the application period. As the Time-Limited RRT was meant to be a one-time distribution exercise, we currently do not have plans to issue any more kits.
-
 - accordion:
-  letter: c
-  data:
-    - title: I have received the box(es) of ART kits. How can my company repack them into individual packs of kits for my employees?
-      content: |
-        Companies are recommended to allow employees to perform the self-testing onsite. For companies that would like to repack the box of ART kits into individual packs, please refer to the following instructions, depending on the brand of ART kits you have received:
-
-        - [Abbott Panbio](/images/guides/Guide to repack use Abbott Panbio ART.pptx){:target="_blank"}
-        - [BD Veritor](/images/guides/Guide to repack  use BD Veritor ART.pptx){:target="_blank"}
-        - [SD Biosensor](/images/guides/Guide to repack & use SD Biosensor ART.pptx){:target="_blank"}
-
-    - title: I have received the BD Veritor kits and they are close to expiring. Can I be issued with a new batch?
-      content: |
-        Please note that the expiry dates of the BD Veritor kits issued by the government have been extended by 6 months. You may refer to this [letter](/images/guides/Lot tracebility General Letter Public 280921 Final.pdf){:target="_blank"} for more information. Please refer to the column titled “New Visual Read Kit Expiry Date” for the new expiry dates of the respective BD Veritor Kits when reading the test results visually. 
-
-    - title: I have received the BD Veritor kits and the box and instructions indicate that the test kits require the use of BD Veritor Plus Analyzer. What should I do? 
-      content: |
-        An Analyzer is not required; the test results can be read visually as per these [instructions](https://go.gov.sg/bd-veritor){:target="_blank"}{:rel="noopener"}.
-
-- accordion:
-  letter: d
+  letter: b
   data:
     - title: What processes should my company have in place to ensure that we are compliant?
       content: |
@@ -50,6 +19,12 @@
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
         | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic. |
+
+    - title: Does my company have to submit my employees’ test results to the government?
+      content: |
+        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration ](https://go.gov.sg/time-limited-rrt-art-results-declaration ){:target="_blank"}{:rel="noopener"} 
+
+        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain the test results up to 1 month after they have completed the 8-week testing, and be required to produce proof if audited by the government.
 
     - title: My company has yet to commence testing because we shifted fully to WFH. Do I still need to submit the results declaration at the end of the 2-month cycle from the date of receipt of kits?  
       content: |
@@ -74,7 +49,7 @@
         The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form be untrue, or if non-compliance to the testing requirements is found.
 
 - accordion:
-  letter: e
+  letter: c
   data:
     - title: How do I use the test kits?
       content: |
@@ -125,7 +100,7 @@
         To dispose the test kit, place all the used items from the test kit into a plastic bag or a sealable bag and seal it. Place the sealed bag into another plastic bag. Tie the second plastic bag with a rubber band or cable tie. Please ensure that the bags are tightly tied to protect your community. Throw it into the rubbish chute or a pedal bin immediately.
 
 - accordion:
-  letter: f
+  letter: d
   data:
     - title: What should I do if I test ART positive?
       content: |
