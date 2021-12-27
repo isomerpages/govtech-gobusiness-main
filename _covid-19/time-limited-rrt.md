@@ -8,7 +8,7 @@ permalink: /timelimitedrrt/
 
 Firms with <b>fully vaccinated employees who work onsite</b> and who <b>are not already under the Government’s mandatory Polymerase Chain Reaction (PCR) or Fast and Easy Testing (FET) RRT regime</b>, will be eligible to apply for 8 ART kits per onsite fully vaccinated employee for weekly testing over a two-month period. These tests can be self-administered by staff either at home, or at the work premises.
 
-###[Round 2 of Time-Limited RRT] Eligibility Criteria
+### [Round 2 of Time-Limited RRT] Eligibility Criteria
 
 - Staff should be fully vaccinated, and not be on any mandatory Polymerase Chain Reaction (PCR) or Fast and Easy Testing (FET) RRT
     - Companies should exclude non-fully vaccinated staff, as well as staff on mandatory RRT regime, from their application for ART kits.
@@ -16,7 +16,7 @@ Firms with <b>fully vaccinated employees who work onsite</b> and who <b>are not 
 - Staff should physically return to office, worksite or any off-site premises at least once a week, for work purposes (i.e. does not work from home full-time). This includes staff on hybrid work arrangements and who will return to office. Staff who are on 100% work from home arrangement would not qualify for the kits.
     - Includes full-time and part-time employees, regular vendors/contractors, students on long-term (at least 2 months) placement or internship. 
 
-###[Round 2 of Time-Limited RRT] Application Details
+### [Round 2 of Time-Limited RRT] Application Details
 
 The application period is from 3 Jan 2021 to 31 Jan 2021. More details will be provided before application begins on 3 Jan 2021. 
 
