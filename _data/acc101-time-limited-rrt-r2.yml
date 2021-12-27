@@ -1,0 +1,78 @@
+- accordion:
+  letter: a
+  data:
+    - title: Why is MOH conducting a second round of ART kit distribution to workplaces?
+      content: |
+        With more employees returning to the workplace from 1 Jan 2022, there could be higher risk of workplace transmission, particularly given the higher transmissibility of the Omicron variant. Regular testing is therefore important to ensure early detection and ringfencing of cases at the workplace. To support this practice, the Government is undertaking a second round of ART kit distribution which eligible companies can apply for. The application period will be from 3 Jan 2022 through to 31 Jan 2022.
+
+    - title: Which companies are eligible to apply for kits?
+      content: |
+        Companies with <u>fully vaccinated*</u> employees who <u>work onsite</u> and who <u>are not already subject to the Government’s mandatory PCR or FET RRT regime</u>, may apply for 8 ART kits per onsite fully vaccinated employee for weekly testing over a two-month period. This includes full-time, part-time employees, interns or vendors who will return to office at least once a week over a 2-month period. 
+
+        <i>*Note: employees who are medically ineligible may apply for the ART kits as well</i>
+
+    - title: Why is it that only fully vaccinated employees are eligible for the free ART kits?
+      content: |
+        Non-fully vaccinated staff are already subject to MOM’s Workforce Vaccination Measures from 1 Jan 2022, where they have to pay for their own PET before returning to the workplace. They will therefore not be eligible for the free ART kits issued by the Government to workplaces. From 15 Jan 2022, this concession for non-fully vaccinated persons to return to the workplace with a negative PET result will also be removed i.e. they will not be allowed to return to office at all.  
+
+    - title: If employees are working on a split-team arrangement and returning to office on alternate days or weeks, are they eligible for the kits? 
+      content: |
+        Companies may apply for staff who are returning to office on alternate days or weeks so long as they are fully vaccinated and not already under the mandatory RRT regime. These staff should continue to self-test on weeks when they are working from home over the 2-month period.  
+
+    - title: Are home-based business owner/self-employed persons eligible to apply for the ART kits?
+      content: |
+        Businesses which are UEN-registered and have a valid Corppass will be eligible to apply for kits for fully vaccinated employee(s) who work on-site and are not already under the mandatory RRT regime. 
+
+    - title: Can companies with employees that meet the eligibility criteria choose not to apply for the ART test kits?
+      content: |
+        Applying for the ART kits is voluntary. Nevertheless, companies are strongly encouraged to do so.  
+
+    - title: Can my company apply for additional kits, in case of invalid test results?
+      content: |
+        Invalid results are rare. If there are insufficient test kits arising from re-testing due to invalid results, your company may choose to purchase additional kits to complete the regime for the affected employee(s). Otherwise, if the kits issued by the Government are used for re-testing and this leads to fewer kits being available for employees, companies should indicate under the “Remarks” field when submitting the results declaration form to account for the lower number of staff tested. 
+
+    - title: I applied for the first round of kits distribution in Sep 2021. Am I still eligible to apply for this second round of kits distribution? 
+      content: |
+        Yes, your company may still apply for the ART kits for the employees who fulfill the eligibility criteria.  
+
+    - title: I missed the application period for the first round of kits distribution in Sep 2021. Can I apply for additional kits per onsite employee (up to 16 kits) for this second round of distribution? 
+      content: |
+        Applications for the first round of ART kits distribution has ended on 13 October 2021. Companies who participate in the second round of distribution should only apply for 8 kits per onsite employee.  
+
+- accordion:
+  letter: b
+  data:
+    - title: How do I submit my company’s application?
+      content: |
+        Please note that your company would need to have a valid Corppass login to submit your application. The application link will be made available on this website by 3 Jan 2022. 
+
+        Please only submit one application form per company UEN. The application should include all on-site employees hired to work under this company UEN, even if they work in different office/outlet locations. 
+
+    - title: My company does not have a Corppass. What should I do?
+      content: |
+        You will need a Corppass login in order to apply for the ART kits. Find out how you can register for a Corppass at [https://www.corppass.gov.sg/](https://www.corppass.gov.sg/){:target="_blank"}{:rel="noopener"}
+
+    - title: Can I cancel my application after submitting?
+      content: |
+        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for onsite workers upon receipt of the kits. 
+
+- accordion:
+  letter: c
+  data:
+    - title: Does my company have to submit my employees’ test results to the government?
+      content: |
+        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month’s testing cycle (i.e. twice across the two-month period) to the Government. The link for results submission will be provided at a later date. 
+
+        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain the test results up to 1 month after they have completed the 8-week testing, and be required to produce proof if audited by the government.
+
+    - title: What processes should my company have in place to ensure that we are compliant?
+      content: |
+        Companies should have processes in place to ensure that the weekly tests are conducted properly, test results are recorded, and appropriate follow-up actions are adhered to. 
+
+        If audited by the government, companies should be able to produce proof (e.g. email records, circulars, excel documents etc.) that such processes have been put in place and implemented. 
+
+        |-|-|
+        | Checklist of Processes | Suggested Practices|
+        | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
+        | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
+        | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic. |
