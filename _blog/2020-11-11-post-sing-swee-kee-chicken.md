@@ -1,9 +1,9 @@
 ---
 layout: gobusiness-blog-post
-title: Interview with Sing Swee Kee Chicken Rice
-permalink: /gobusiness-blog/sing-swee-kee-chicken-rice
-tags: Behind the Business
-date: 11-12-2020
+title: Sing Swee Kee Chicken Rice
+permalink: /gobusiness-blog/sing-swee-kee-chicken
+tags: GoBusiness How-To
+date: 11-11-2020
 ---
 
 

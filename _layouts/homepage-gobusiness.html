@@ -154,7 +154,6 @@ layout: skeleton
       }
     }
   </style>
-  <!-- test -->
   <div class="home-content">
     <div class="section-1">
       <div class="hero-container"></div>
@@ -169,9 +168,9 @@ layout: skeleton
 
     {% include hpgCard.html hpgCardData=site.data.hpgCardData %}
 
-    {% include blogCard.html blogPostData=site.data.blogPostData limit=3 %}
-    <!-- TODO: Rename news-and-updates-2 to news-and-updates, and remove unused files when done -->
-    {% include news-and-updates-2.html %}
+    {% include blogCard.html blogPostData=site.data.blogPostData limit=3 keyword='all' %}
+  
+    {% include news-and-updates.html %}
 
     {% include goBizIntro.html %}
   </div>

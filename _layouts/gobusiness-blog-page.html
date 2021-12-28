@@ -3,12 +3,78 @@ layout: skeleton
 ---
 
 <body>
+  <style>
+    .blog-mainpage-title {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 52px;
+      text-align: center;
+      letter-spacing: -1px;
+      padding: 64px 0;
+      color: #037e8a;
+    }
+    .blog-row-justified {
+      justify-content: center;
+      padding: 0 180px;
+      text-align: center;
+    }
+    .blog-tags {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #313840;
+      text-decoration: none;
+      flex: none;
+      order: 2;
+      flex-grow: 0;
+      margin: 0px 40px;
+    }
+
+    .blog-tags:hover {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #037e8a;
+      text-decoration: underline;
+      order: 2;
+      flex-grow: 0;
+      margin: 0px 40px;
+    }
+  </style>
+  <div class="blog-mainpage-title">GoBusiness Blog</div>
+  <div class="row blog-row-justified">
+    <a class="blog-tags" onclick="filterPosts('all')">ALL</a>
+    <a class="blog-tags" onclick="filterPosts('Behind the Business')"
+      >BEHIND THE BUSINESS</a
+    >
+    <a class="blog-tags" onclick="filterPosts('Business Tips & Tricks')"
+      >BUSINESS TIPS AND TRICKS</a
+    >
+    <a class="blog-tags" onclick="filterPosts('GoBusiness How-To')"
+      >GOBUSINESS HOW-TO</a
+    >
+  </div>
   <!-- TODO: Remove limit property if you want to get all posts; make limit optional -->
   <!-- TODO: Abstract out title and buttons from blogCard parts in blogCard.html -->
   <!-- TODO: Create post filter UI and logic -->
   <!-- TODO: Create pagination UI and logic -->
-  {% include blogCard.html blogPostData=site.data.blogPostData limit=1000 %}
 
-  <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
+  <div id="filtered" style="background-color: #037e8a"></div>
+  <!-- idk why this doesnt work -->
+  {% capture keyword_text %}"Behind the Business"{% endcapture %} 
+
+  {% include blogCard.html blogPostData=site.data.blogPostData limit=1000 keyword='all' %}
+
+  <script
+    src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable"
+    async
+  ></script>
   <script src="/jquery/jquery.min.js"></script>
+  <script src="/jquery/gobusiness-blog-page.js"></script>
 </body>

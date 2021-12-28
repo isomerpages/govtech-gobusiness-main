@@ -147,15 +147,15 @@
     </div>
   </div>
   <div class="blogCard__container">
-    {% for post in include.blogPostData limit: include.limit %}
+    {% assign sorted = include.blogPostData | sort: 'date' | reverse %}
+    {% for post in sorted limit: include.limit %}
+    {% if include.keyword == 'all' %}
     <div class="blogCard">
       <div class="blogCard__head">
         <img class="blogCard__image" src="{{post.image}}" alt="{{post.alt}}" />
       </div>
       <div class="blogCard__body">
-        <div class="blogCard__tag">
-          {{post.tag}}
-        </div>
+        <div class="blogCard__tag">{{post.tag}}</div>
         <div class="blogCard__text">
           <div class="blogCard__text--top">{{post.title}}</div>
           <div class="blogCard__text--bottom">{{post.body}}</div>
@@ -165,6 +165,23 @@
         <a href="#" class="blogCard__readMoreLink">Read more</a>
       </div>
     </div>
+    {% elsif post.tag == include.keyword %}
+    <div class="blogCard">
+      <div class="blogCard__head">
+        <img class="blogCard__image" src="{{post.image}}" alt="{{post.alt}}" />
+      </div>
+      <div class="blogCard__body">
+        <div class="blogCard__tag">{{post.tag}}</div>
+        <div class="blogCard__text">
+          <div class="blogCard__text--top">{{post.title}}</div>
+          <div class="blogCard__text--bottom">{{post.body}}</div>
+        </div>
+      </div>
+      <div class="blogCard__footer">
+        <a href="#" class="blogCard__readMoreLink">Read more</a>
+      </div>
+    </div>
+    {% endif %}
     {% endfor %}
     <div class="blogCard__buttonContainer">
       {% include primary-btn.html href="#" text="More Stories" %}

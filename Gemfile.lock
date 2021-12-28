@@ -1,21 +1,21 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.8)
-    em-websocket (0.5.2)
+    concurrent-ruby (1.1.9)
+    em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0.6.0)
+      http_parser.rb (~> 0)
     eventmachine (1.2.7)
     fastimage (1.8.1)
       addressable (~> 2.3, >= 2.3.5)
-    ffi (1.15.0)
+    ffi (1.15.4)
     forwardable-extended (2.6.0)
     hike (1.2.3)
-    http_parser.rb (0.6.0)
-    i18n (1.8.10)
+    http_parser.rb (0.8.0)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     isomer-jekyll (0.1.0)
       jekyll (= 4.2.0)
@@ -66,7 +66,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.5.1)
+    listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
@@ -76,12 +76,12 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
     rack (1.6.13)
-    rb-fsevent (0.10.4)
+    rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.26.0)
-    rubyzip (2.3.0)
+    rouge (3.27.0)
+    rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -103,15 +103,15 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     tilt (1.4.1)
-    unicode-display_width (1.7.0)
+    unicode-display_width (1.8.0)
     webrick (1.7.0)
 
 PLATFORMS
-  x86_64-darwin-20
+  ruby
 
 DEPENDENCIES
   isomer-jekyll
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.16
+   1.17.2
