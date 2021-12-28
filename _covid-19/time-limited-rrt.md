@@ -12,7 +12,7 @@ Firms with <b>fully vaccinated employees who work onsite</b> and who <b>are not 
 
 - Staff should be fully vaccinated, and not be on any mandatory Polymerase Chain Reaction (PCR) or Fast and Easy Testing (FET) RRT
     - Companies should exclude non-fully vaccinated staff, as well as staff on mandatory RRT regime, from their application for ART kits.
-    - Companies may apply for ART kits for staff who are certified to be medically ineligible. 
+    - Companies may apply for ART kits for staff who are certified to be medically ineligible. Please refer to [MOH website](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-bb44528cbc27b4ceb9571fb222a0c5777.pdf){:target="_blank"}{:rel="noopener"} for the conditions to be met before one can be certified as medically ineligible
 - Staff should physically return to office, worksite or any off-site premises at least once a week, for work purposes (i.e. does not work from home full-time). This includes staff on hybrid work arrangements and who will return to office. Staff who are on 100% work from home arrangement would not qualify for the kits.
     - Includes full-time and part-time employees, regular vendors/contractors, students on long-term (at least 2 months) placement or internship. 
 
