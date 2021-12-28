@@ -67,9 +67,9 @@ layout: skeleton
 
   <div id="filtered" style="background-color: #037e8a"></div>
   <!-- idk why this doesnt work -->
-  {% capture keyword_text %}"Behind the Business"{% endcapture %} 
+  {% capture keyword_text %}all{% endcapture %} 
 
-  {% include blogCard.html blogPostData=site.data.blogPostData limit=1000 keyword='all' %}
+  {% include blogCard.html blogPostData=site.data.blogPostData limit=1000 keyword=keyword_text %}
 
   <script
     src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable"

@@ -165,7 +165,7 @@
         <a href="#" class="blogCard__readMoreLink">Read more</a>
       </div>
     </div>
-    {% elsif post.tag == include.keyword %}
+    {% elsif post.tag contains include.keyword %}
     <div class="blogCard">
       <div class="blogCard__head">
         <img class="blogCard__image" src="{{post.image}}" alt="{{post.alt}}" />
