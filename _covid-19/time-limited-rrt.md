@@ -18,7 +18,7 @@ Firms with <b>fully vaccinated employees who work onsite</b> and who <b>are not 
 
 ### [Round 2 of Time-Limited RRT] Application Details
 
-The application period is from 3 Jan 2021 to 31 Jan 2021. More details will be provided before application begins on 3 Jan 2021. 
+The application period is from 3 Jan 2022 to 31 Jan 2022. More details will be provided before application begins on 3 Jan 2022. 
 
 ### Compliance & Results Declaration
 
