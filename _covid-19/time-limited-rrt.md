@@ -18,7 +18,7 @@ Firms with eligible employees (see eligibility criteria below) may apply for 8 A
 
 ### [Round 2 of Time-Limited RRT] Application Details
 
-Firms with employees who meet the eligibility criteria may apply for the ART kits via this link: (https://go.gov.sg/round-2-tlrrt-applications)[https://go.gov.sg/round-2-tlrrt-applications]{:target="_blank"}{:rel="noopener"}. 
+Firms with employees who meet the eligibility criteria may apply for the ART kits via this link: [https://go.gov.sg/round-2-tlrrt-applications](https://go.gov.sg/round-2-tlrrt-applications){:target="_blank"}{:rel="noopener"}. 
 
 The application period is from 3 Jan 2022 to 31 Jan 2022. Please note that corporate entity login (Corppass) is required for authentication during submission. Only one application form will be allowed for each company UEN. Any subsequent or duplicate submissions will be automatically rejected and there will be no rejection notifications sent.
 
@@ -41,7 +41,7 @@ Firms who applied and received the ART kits for the second round of Time-Limited
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 27 Dec 2021) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 31 Dec 2021) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
 
 ### More information about ART
 Learn more about how to perform a self-test using ART:
