@@ -7,9 +7,9 @@
 
     - title: Which companies are eligible to apply for kits?
       content: |
-        Companies with <u>fully vaccinated*</u> employees who <u>work onsite</u> and who <u>are not already subject to the Government’s mandatory PCR or FET RRT regime</u>, may apply for 8 ART kits per onsite fully vaccinated employee for weekly testing over a two-month period. This includes full-time, part-time employees, interns or vendors who will return to office at least once a week over a 2-month period. 
+        Companies with <u>fully vaccinated*</u> employees who <u>work onsite</u> and who <u>are not already subject to the Government's mandatory PCR or FET RRT regime</u>, may apply for 8 ART kits per onsite fully vaccinated employee for weekly testing over a two-month period. This includes full-time, part-time employees, interns or vendors who will return to office at least once a week over a 2-month period. 
 
-        <i>*Note: employees who are medically ineligible may apply for the ART kits as well</i>
+        <i>*Note: employees who are (i) certified to be medically ineligible, or (ii) unvaccinated and recovered from COVID-19 infection within 180 days as of 31 March 2022, may apply for the ART kits as well.</i>
 
     - title: Why is it that only fully vaccinated employees are eligible for the free ART kits?
       content: |
@@ -33,7 +33,7 @@
 
     - title: I applied for the first round of kits distribution in Sep 2021. Am I still eligible to apply for this second round of kits distribution? 
       content: |
-        Yes, your company may still apply for the ART kits for the employees who fulfill the eligibility criteria.  
+        Yes, your company may still apply for the ART kits for the employees who fulfill the eligibility criteria. However, the Government reserves the right to reject applications from non-compliant companies who applied for and received the first round of kits distribution. Companies are therefore reminded to submit their results declaration on time and produce the proof of documents as necessary if audited.
 
     - title: I missed the application period for the first round of kits distribution in Sep 2021. Can I apply for additional kits per onsite employee (up to 16 kits) for this second round of distribution? 
       content: |
@@ -52,16 +52,85 @@
       content: |
         You will need a Corppass login in order to apply for the ART kits. Find out how you can register for a Corppass at [https://www.corppass.gov.sg/](https://www.corppass.gov.sg/){:target="_blank"}{:rel="noopener"}
 
-    - title: Can I cancel my application after submitting?
+    - title: I tried to submit an online application using my CorpPass but received an error message saying “Unauthorised. What should I do?
       content: |
-        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for onsite workers upon receipt of the kits. 
+        CorpPass Administrators need to first select digital services for the entity:
+
+        1. Login at www.corppass.gov.sg 
+
+        2. Go to 'e-Services' -> 'Select Entity e-Services'
+        
+        3. Type “Health Promotion Board” in the search bar 
+        
+        4. Tick the box on the left of “FormSG (Health Promotion Board)”, then click 'Next'
+        
+        5. Press 'Next' and 'Submit'
+        
+        6. A confirmation message will indicate that you have selected your entity's digital services. You may now assign these digital services to your users.
+
+        After adding FormSG (Health Promotion Board) for the entity, the Admin would then need to assign the digital service access to other users within the entity to carry out transactions.
+        
+        7. Go to 'e-Services' -> 'Assign selected e-Services'
+
+        8. Tick the box next to the appropriate staff's name and press 'Next'.
+
+        9. Select the digital services you wish to assign to the selected users. Or type “Health Promotion Board” in the search bar. Click 'Next' to proceed.
+
+        10. Tick the box on the left of “FormSG (Health Promotion Board)”, then click 'Next'
+
+            - “Authorization Effective Date” can be today.
+
+            - “Authorization Expiry Date” can be left blank.
+
+        11. Click 'Next' and 'Submit'
+
+        12. A confirmation message will indicate that you have successfully assigned digital service access to your selected users.
+
+    - title: How do I know that my application has been sent in successfully? 
+      content: |
+        Upon submitting your application, you should receive an auto-generated acknowledgement email. Do note that any duplicate submissions will be automatically considered as void, and we will not send rejection notifications for these submissions. 
+
+    - title: Can I cancel my application after submitting? 
+      content: |
+        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for their eligible employees upon receipt of the kits. 
 
 - accordion:
   letter: c
   data:
-    - title: Does my company have to submit my employees’ test results to the government?
+    - title: My company has submitted the application. When will my company receive the ART kits?
       content: |
-        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month’s testing cycle (i.e. twice across the two-month period) to the Government. The link for results submission will be provided at a later date. 
+        Successful applicants will be informed of their delivery up to 10 working days from the time of application.
+
+    - title: How will the kits be delivered to my company?
+      content: |
+        To ensure that ART kits can be distributed to companies in a timely manner, we will only provide a one-time delivery to ONE (1) location per company UEN. If there are multiple offices/outlets registered under the same company UEN, your company should make your own arrangements to re-distribute the kits to other locations at your own cost.
+
+        Companies will receive a pre-delivery notification via SMS/email and should ensure that there is someone present to receive the delivery. In the event of any failed delivery, the costs of re-delivery will be charged to the receiving company.
+
+    - title: Is my company able to receive the kits regardless of where we are located? 
+      content: |
+        There are a few restricted areas where we are unable to deliver to. Please click [here](/images/guides/List of Restricted Zones.pdf){:target="_blank"} for the list of restricted areas. 
+
+        If your company's address is in a restricted area, please provide an alternate address for delivery. If this is not possible, please indicate as such in the application form. For such cases, do note that deliveries may be delayed.
+
+    - title: I have not received the kits even after 10 working days. What can I do?
+      content: |
+        For questions or issues regarding delivery, you may send in an enquiry via this [link](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}. We will contact you as soon as possible to resolve your enquiry.
+
+    - title: I was contacted by the delivery vendor on the date of delivery, but I will not be around to receive the kits. Is there a way for me to reschedule the date of delivery? 
+      content: |
+        For questions or issues regarding delivery, you may send in an enquiry via this [link](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}. We will contact you as soon as possible to resolve your enquiry.
+
+    - title: Can my company exchange the ART kits that we received for another brand? 
+      content: |
+        No, we do not allow any exchanges for the kits that were issued.
+
+- accordion:
+  letter: d
+  data:
+    - title: Does my company have to submit my employees' test results to the government?
+      content: |
+        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month's testing cycle (i.e. twice across the two-month period) to the Government. The results declaration may be submitted via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}. Kindly note that this link will be made available only from February 2022 onwards.  
 
         The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain the test results up to 1 month after they have completed the 8-week testing, and be required to produce proof if audited by the government.
 
