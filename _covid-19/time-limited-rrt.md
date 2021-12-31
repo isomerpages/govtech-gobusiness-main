@@ -6,7 +6,7 @@ permalink: /timelimitedrrt/
 
 As more employees return to the workplace from 1 Jan 2022, there could be higher risk of workplace transmission, particularly given the higher transmissibility of the Omicron variant. To ensure early detection and ringfencing of COVID-19 infections, we encourage all firms to implement regular testing for all employees. The Government will therefore conduct <b>a second round of Antigen Rapid Test (ART) kit distribution to workplaces</b>. Similar to the first round of distribution in Sep/Oct 2021, this time-limited 8-weeks RRT exercise is voluntary and will be on an application basis. Application will open from 3 January 2022 through to 31 January 2022.
 
-Firms with eligible employees (see eligibility criteria below) may apply for 8 ART kits per onsite fully vaccinated employee for weekly testing over a two-month period. These tests can be self-administered by the employee either at home, or at the work premises.
+Firms with eligible employees (see eligibility criteria below) may apply for 8 ART kits per employee for weekly testing over a two-month period. These tests can be self-administered by the employee either at home, or at the work premises.
 
 ### [Round 2 of Time-Limited RRT] Eligibility Criteria
 
@@ -29,7 +29,7 @@ Companies are required to commence weekly testing with immediate effect, upon re
 
 ### Compliance & Results Declaration
 
-Firms that have applied for and receive the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. Firms should retain proof of such processes and test results, and to produce these proof when audited by the government. 
+Firms that have applied for and received the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. Firms should retain proof of such processes and test results, and to produce these proof when audited by the government. 
 
 Firms are required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government. The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any non-compliance to the testing requirements are found.
 
