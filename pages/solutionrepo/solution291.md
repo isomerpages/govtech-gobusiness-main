@@ -1,20 +1,15 @@
 ---
-title: Asset Based Cyber Defense - Security-as-a-Service (SaaS)
+title: CFOsg Xero Cloud Accounting Solution E
 permalink: /productivity-solutions-grant/solutionrepo/solution291
 ---
 
-### Vendor Information
-Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
-
 ### Description
 
-Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
+Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_1.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 150 EndPoints (for SMEs with 150 employees or more)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 5 servers and 80 EndPoints (for SMEs with 80 employees or more)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 EndPoints (for SMEs with 10 servers and 15 employees or more)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -38,4 +33,7 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 89491427<br>Contact Email: XERO@CFOSG.SG
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

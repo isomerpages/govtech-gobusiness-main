@@ -1,11 +1,11 @@
 ---
-title: Egg Processing Machine
+title: Ear Tagging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
 ### Description
 
-Integrated egg processing system to process eggs into liquid, hardboiled or pasteurized egg products
+A machine used to place ear tags into the ears of livestocks to provide a means of identification.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

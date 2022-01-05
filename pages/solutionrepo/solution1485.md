@@ -1,15 +1,15 @@
 ---
-title: Artemis-100 searches for 1 year
+title: OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution1485
 ---
 
 ### Description
 
-Artemis is the simple, cost-effective one-stop automation of a complex regulatory requirement on Know-Your-Customer (KYC)/Anti-Money Laundering (AML)/Counter-Terrorism Financing (CTF). Artemis is built specifically to address the ever-changing AML/CTF requirements prescribed by regulators in Singapore and elsewhere. Intended for both Financial and non-Financial sectors, it helps regulated businesses to better comply with regulatory requirements on KYC, risk assessment, record keeping, screening and on-going due diligence obligations.
+OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 30% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 ### Contact Information
-Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0 -Elite E-Commerce Website Development Package
+title: Corsiva Lab - E-Commerce Website Development Version 1.0  - Customized E-Commerce Website Development Package
 permalink: /productivity-solutions-grant/solutionrepo/solution308
 ---
 
@@ -9,7 +9,7 @@ Extend your business online and generate higher sales revenue with our scalable 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_Annex_3_CR_wef_6_Jan_2022_Part_456.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

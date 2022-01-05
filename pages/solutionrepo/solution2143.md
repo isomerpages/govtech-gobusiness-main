@@ -1,11 +1,11 @@
 ---
-title: Milking Machine
+title: Feed Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
+A machine to mix and chop up the materials for animal feed. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

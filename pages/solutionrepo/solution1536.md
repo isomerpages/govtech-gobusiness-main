@@ -1,5 +1,5 @@
 ---
-title: Tekla Solutions - Tekla Structural Design Suite (3 years) with Training
+title: Tekla Solutions - Tekla Structural Design Suite with Training 
 permalink: /productivity-solutions-grant/solutionrepo/solution1536
 ---
 
@@ -9,7 +9,7 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

@@ -1,16 +1,16 @@
 ---
-title: Revel Systems - Revel Essentials - Lite
+title: Revel Systems - Revel Essentials - Quick Service & Coffeeshop
 permalink: /productivity-solutions-grant/solutionrepo/solution2065
 ---
 
 ### Description
 
 Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+The Revel Enterprise solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

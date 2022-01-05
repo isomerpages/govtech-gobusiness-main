@@ -1,5 +1,5 @@
 ---
-title: LFSuite Version 6.0-Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)
+title: LFSuite Version 6.0-Package A [Automate] - (2x Digital Ordering + Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution1138
 ---
 
@@ -9,7 +9,7 @@ Optimize your F&B business productivity and operational efficiency with DinePlan
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_23.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>

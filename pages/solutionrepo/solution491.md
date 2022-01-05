@@ -1,5 +1,5 @@
 ---
-title: SAP Business One 9.3 Package - Package (6 Professional Users on Cloud)
+title: SAP Business One 9.3 Package - Package (5 Starter Users on Cloud)
 permalink: /productivity-solutions-grant/solutionrepo/solution491
 ---
 
@@ -9,7 +9,7 @@ The SAP Business One application offers a single, affordable way to manage your 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

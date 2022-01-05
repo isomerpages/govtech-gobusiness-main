@@ -1,5 +1,5 @@
 ---
-title: EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 5 USERS
+title: EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS
 permalink: /productivity-solutions-grant/solutionrepo/solution1360
 ---
 
@@ -9,7 +9,7 @@ EZ Accounting and Inventory Management System started since 1999 developed by EZ
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

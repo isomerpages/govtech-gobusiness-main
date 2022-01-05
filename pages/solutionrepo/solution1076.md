@@ -1,5 +1,5 @@
 ---
-title: AGERE - Xero Cloud Accounting Software -(Xero Premium, Subscription only)
+title: AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup & Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1076
 ---
 
@@ -9,7 +9,7 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com <br>Contact Hotline: 63850609 <br>Contact Email: elainelim@agere-ca.com <br>

@@ -1,5 +1,5 @@
 ---
-title: Swingvy-Swingvy - Swingvy Full suite for 25 users
+title: Swingvy-Swingvy - Swingvy Full suite for 10 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1453
 ---
 
@@ -9,7 +9,7 @@ Swingvy is the modern HR platform for small and mid-sized businesses. By seamles
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

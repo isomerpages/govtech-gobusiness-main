@@ -1,11 +1,11 @@
 ---
-title: Packaging & Labelling Machine
+title: Hi-jack Cleaning Machinery
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

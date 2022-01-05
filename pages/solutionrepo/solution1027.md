@@ -1,18 +1,18 @@
 ---
-title: EasyBus Version 2.2
+title: Autodesk BIM 360 - Build (10 User Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1027
 ---
 
-### Vendor Information
-Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
-
 ### Description
 
-EasyBus is a true all in one platform designed specifically for service industry, it most suitable for business include Laundry, Leather care, Alteration, Home service and other customer centric service business, platform include from customer Apps/Website to POS to logistic system to production system, no matter you are running a factory or a shop or doing business online or all of them, we provide a single place to helping you improve your productivity, sales and create great customer loyalty.
+BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
+BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
+BIM 360 Design - For real time design collaboration, work sharing and change management.
+BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Standard)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,10 +30,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

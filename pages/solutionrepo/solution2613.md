@@ -1,5 +1,5 @@
 ---
-title: MMS - Xero Accounting Solution - C - Xero Premium Setup Package
+title: MMS - Xero Accounting Solution - B - Xero Premium Training Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2613
 ---
 
@@ -9,7 +9,7 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://www.xero.com/sg/?escape=true <br>Contact Hotline: 63093800 <br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br>

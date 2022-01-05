@@ -1,15 +1,15 @@
 ---
-title: Automated Labelling Machine 
+title: CSG - Autodesk BIM Collaborate Pro - 10 Users Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution2073
 ---
 
 ### Description
 
-The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,25 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to NA% for non-SMEs
 
 ### Things to Note
-- Minimum 1 labelling position 
-- Auto self-adhesive labelling function 
-- Parameter setting for different label sizes
-- Adjustable production speed minimum 1-30 Metre /min
-- Touchscreen display (optional)
-- Explosion proof (optional) 
-- Installation/simple training costs can be supported 
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

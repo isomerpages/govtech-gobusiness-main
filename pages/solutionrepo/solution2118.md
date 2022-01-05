@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation & Dosing System
+title: Automated Sorter/ Grader
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

@@ -1,11 +1,11 @@
 ---
-title: Egg Washing System
+title: Collection Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
 ### Description
 
-Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

@@ -1,22 +1,17 @@
 ---
-title: CFOsg Xero Cloud Accounting
+title: Automated Dough Filler/Depositor
 permalink: /productivity-solutions-grant/solutionrepo/solution298
 ---
 
-### Vendor Information
-Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 89491427<br>Contact Email: XERO@CFOSG.SG
-
 ### Description
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
+Also known as dough portion divider, the machine is made to suit the soft dough texture. 
+As a guide, it is recommended for the Dough Filler to allow a divided dough weight of minimum 7gm and a dough dividing capacity with minimum 5 seconds
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_2.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_3.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_4.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution E</a>
+N.A.
 
 ### Eligibility Criteria
 
@@ -38,6 +33,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Vendor must be able to offer several options of hoppers with different volumes
+Equipment must allow company to be able to change desired dough weight (Mandatory)
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+N.A.
+
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

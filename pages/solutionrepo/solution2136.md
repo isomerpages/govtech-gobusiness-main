@@ -1,11 +1,11 @@
 ---
-title: Enhanced vehicular/ personnel disinfection system
+title: Farm Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2136
 ---
 
 ### Description
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+Integrated processing system to process produce into value-added products
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

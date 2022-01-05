@@ -1,48 +1,15 @@
 ---
-title: SSJ-Related
+title: Swipetask PRO - Swipetask PRO - Standard Workforce & Task-Management solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2361
 ---
 
-### Vendor Information
-
-
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0046053' target='_blank'>1. E-Payments Made Easy</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S92SS0008J-01-CRS-Q-0039329-RET' target='_blank'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-199104974R-01-CRS-Q-0039480-RET' target='_blank'>3. Service Challenges for C-Suite</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0046053' target='_blank'>1. E-Payments Made Easy</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S92SS0008J-01-CRS-Q-0039329-RET' target='_blank'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-199104974R-01-CRS-Q-0039480-RET' target='_blank'>3. Service Challenges for C-Suite</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0045420' target='_blank'>1. Content Creation 101</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051550' target='_blank'>2a. Boost your Business with Social Commerce (Part 1)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051938' target='_blank'>2b. Boost your Business with Social Commerce (Part 2)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051549' target='_blank'>3a. Jumpstart your Online Business (Part 1)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T08GB0032G-01-CRS-N-0051939' target='_blank'>3b. Jumpstart your Online Business (Part 2)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0036758-BM' target='_blank'>1. Apply Knowledge of Accounting Related Concepts</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200000267Z-01-CRS-N-0048575' target='_blank'>2. Introduction to Accounting Data and Analytics</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0028425-BM' target='_blank'>3. Develop and Establish Financial Budget and Plans</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0036758-BM' target='_blank'>1. Apply Knowledge of Accounting Related Concepts</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200000267Z-01-CRS-N-0048575' target='_blank'>2. Introduction to Accounting Data and Analytics</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0028425-BM' target='_blank'>3. Develop and Establish Financial Budget and Plans</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200722689Z-01-CRS-Q-0040060-HRS' target='_blank'>1. Human Resource Analytics and Insights</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' target='_blank'>2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S80TU0496C-01-CRS-Q-0034638-HRS' target='_blank'>3. Process human resource information (SFw HR)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200722689Z-01-CRS-Q-0040060-HRS' target='_blank'>1. Human Resource Analytics and Insights</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' target='_blank'>2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S80TU0496C-01-CRS-Q-0034638-HRS' target='_blank'>3. Process human resource information (SFw HR)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-92' target='_blank'>1. Inventory Replenishment and Ordering Decision</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-89' target='_blank'>2. Advanced Demand Forecasting Techniques</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200604346E-01-CRS-N-0046808' target='_blank'>3. Transformational Strategies for Supply Chain and Logistics Management</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' target='_blank'>2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S80TU0496C-01-CRS-Q-0034638-HRS' target='_blank'>3. Process human resource information (SFw HR)</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-92' target='_blank'>1. Inventory Replenishment and Ordering Decision</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-89' target='_blank'>2. Advanced Demand Forecasting Techniques</a>
-<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200604346E-01-CRS-N-0046808' target='_blank'>3. Transformational Strategies for Supply Chain and Logistics Management</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -57,13 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Subscription / Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

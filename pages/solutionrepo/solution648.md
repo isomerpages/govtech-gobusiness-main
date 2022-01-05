@@ -1,5 +1,5 @@
 ---
-title: NMTODOO - ERP  - Package Standard
+title: NMTODOO - ERP  - Package Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution648
 ---
 
@@ -10,7 +10,7 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediatechnology.com<br>Tel: +65 6701 8203
+Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediatechnology.com<br>Tel: +65 6701 8202
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,18 +1,15 @@
 ---
-title: MEGAPOS - MEGAPOS Pro on Tablet
+title: SmartWeb V3 Version V3 - Smartweb V3 (License & Implementation Support)
 permalink: /productivity-solutions-grant/solutionrepo/solution1193
 ---
 
-### Vendor Information
-Company Name:Megasafe Technology Pte Ltd <br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
-
 ### Description
 
-A cost-effective POS solution that comes with sleek hardware, feature-rich software and top service.   MEGAPOS offers you an opportunity to upgrade to a modern productivity tool engineered and tested for the new retail economy in this post-Covid CB period.
+SmartWeb is one of the unique solutions in the market which allows online ordering and payments for all order types like Dine-in, Take Away, Delivery on one single platform. Powered by AI engine Aiden it leverages on Data Analytics and Machine Learning /AI models to provide a unique personalised ordering experience to the restaurants' diners with a beautiful interface, personalised menus, personalised recommendations and even personalised promotions.
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank'>MEGAPOS - MEGAPOS Pro on Tablet</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,4 +33,7 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

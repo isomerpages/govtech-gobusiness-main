@@ -1,5 +1,5 @@
 ---
-title: Firewalla Gold Package - Package B - 2 Sites
+title: Firewalla Gold Package - Package A - 1 Site
 permalink: /productivity-solutions-grant/solutionrepo/solution2607
 ---
 
@@ -9,7 +9,7 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: Cybersecurity Products and Services <br>Contact Hotline: 97520811 <br>Contact Email: info@anzenglobal.com <br>

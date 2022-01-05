@@ -1,22 +1,16 @@
 ---
-title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE
+title: Octopus Food Solution Version 7 - Package C (Online Mobile Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution661
 ---
 
-### Vendor Information
-Nspire Group Pte Ltd<br>https://www.RavenPOS.com<br>Email: ravenpos@gmail.com<br>Tel: +65 6100 2628
-
 ### Description
 
-RavenPOS offers standard to full scale business enterprise software automation solution covering all major business trades with integration to our cloud based HQ system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level plus full cloud based accounting suite to assist business owners to gain holistic view of company financial health.
+Octopus Food Solutions provides a complete suites of innovative and easy-to-use food management solutions, designed to help food businesses be smarter and more personal. Our solutions are suited to various verticals within the food industry including quick service counters, seated restaurant, bars and bistros. From small too large multi store operations. We help food business owners run sales and promotions, track inventory, manage operations and engage customers.
 
-### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_1.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_2.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Mobile Order Management</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_5.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with QR Ordering</a>
+### Details of Solution
+
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -40,4 +34,8 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+
+### Contact Information
+Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@octopuspos.com<br>Tel: +65 6221 6601
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

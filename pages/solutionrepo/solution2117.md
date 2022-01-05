@@ -1,11 +1,11 @@
 ---
-title: Automated Fish Vaccination
+title: Automated Counter/ Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 
 ### Description
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

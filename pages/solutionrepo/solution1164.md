@@ -1,5 +1,5 @@
 ---
-title: Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data
+title: Xero accounting software - ASL Advisory - Xero setup, subscription, training, opening balance input
 permalink: /productivity-solutions-grant/solutionrepo/solution1164
 ---
 
@@ -9,7 +9,7 @@ Xero is an accounting software for small business that lives in the cloud and wo
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com <br>

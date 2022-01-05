@@ -1,15 +1,15 @@
 ---
-title: Fleet Management System - Pkg 5 - 10 vehicle
+title: Fooyo Mini Shop Version 2.0-Basic WeChat Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2308
 ---
 
 ### Description
 
-Track-Asia's FMS enable fleet owners the capability of tracking their fleet at any point of time with the assistance of software (web/mobile) together with GPS Tracker installed in the vehicle. Our solution is able to provide comprehensive data based on the collected data that is registered into the backend which will allow business owners to analyze & study. Not limiting the software capability for business owner, they can setup their own geo-fencing, scheduling maintenance & servicing.
+Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps merchants set up digital ordering capability efficiently. It empowers F&B businesses to do QR-based food ordering for dine-in, takeaway and delivery. The solution supports both the web app and the WeChat mini-program, together with various payment methods such as PayNow, Credit Cards, and WeChat Pay.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Acecom20200635_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://track-asia.com/ <br>Contact Hotline: 91125883 <br>Contact Email: eugene_low@acecom.com.sg <br>
+Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

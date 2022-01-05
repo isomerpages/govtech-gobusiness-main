@@ -1,22 +1,28 @@
 ---
-title: SmartFM Version 1.0
+title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 200
 permalink: /productivity-solutions-grant/solutionrepo/solution1740
 ---
 
-### Vendor Information
-Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
-
 ### Description
 
-SmartFM is an integrated, cloud based, facility management solution. It is designed to be a common data collection interface where operators can perform their day to day operations on a single platform, allowing data to be easily shared between operational departments, digitally documenting day to day tasks and granting executives and managers critical oversight and analysis tools to modernize dormitory operations.
+HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
+1. HRSS via Frontier e-HR
+Personnel Management
+Leave Module
+Mobile Attendance Module
+Payroll Module
+Benefit and Claim Module
+2. HR Admin Support & Payroll Processing
+Process Leave encashment & No Pay Leave via Payroll
+Process Claim Reimbursement
+Prepare Payroll reports for approval
+Prepare GIRO bank file for approval
+Prepare CPF file and submit to CPF Website
+One Payroll process run per month
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_1.pdf' target='_blank'>SmartFM Version 1.0 - Basic (250 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_2.pdf' target='_blank'>SmartFM Version 1.0 - Core (250 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_3.pdf' target='_blank'>SmartFM Version 1.0 - Core (500 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_4.pdf' target='_blank'>SmartFM Version 1.0 - Core (1000 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank'>SmartFM Version 1.0 - Commercial (Unlimited)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,13 +37,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
-Up to 70% (80 from 1 Apr 2020 to 30 Sep 2021)% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

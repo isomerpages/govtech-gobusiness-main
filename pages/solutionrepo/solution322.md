@@ -1,5 +1,5 @@
 ---
-title: CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Advance Edition)
+title: CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)
 permalink: /productivity-solutions-grant/solutionrepo/solution322
 ---
 
@@ -9,7 +9,7 @@ Cadstudio is a comprehensive enterprise resource planning (ERP) software made up
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

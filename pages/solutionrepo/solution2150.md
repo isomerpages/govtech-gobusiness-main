@@ -1,11 +1,11 @@
 ---
-title: Sterilizer Equipment
+title: Multi-tier Cultivation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2150
 ---
 
 ### Description
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for soil or media treatment.
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

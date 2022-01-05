@@ -1,11 +1,11 @@
 ---
-title: Bristle Blaster / Cup Brush / Power Brush
+title: Torque Multiplier
 permalink: /productivity-solutions-grant/solutionrepo/solution1471
 ---
 
 ### Description
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120micron. Time is also saved during operation.
+The electrically powered torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. Time is also saved during operation.
 
 ### Details of Solution
 
@@ -31,9 +31,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Idle speed of at least 3200 rpm
-Belt diameter of at least 110 mm
-Additional bristle brushes (carbon steel or stainless steel) can be supported.
+Produce at least 4,000 N.m torquing force 
+The lithium battery pack that powers the torque multiplier can be supported
 Training costs can be supported
 Maintenance costs not supported
 

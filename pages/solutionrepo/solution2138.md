@@ -1,11 +1,11 @@
 ---
-title: Hi-jack Cleaning Machinery
+title: Farm Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2138
 ---
 
 ### Description
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

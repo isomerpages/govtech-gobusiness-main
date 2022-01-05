@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Management System Version 12 - Package (100 SME)
+title: WhyzeHR Management System Version 12 - Package (50 SME)
 permalink: /productivity-solutions-grant/solutionrepo/solution940
 ---
 
@@ -12,7 +12,7 @@ WhyzeHR enables SMEs of all size to keep track of their labour force, forecastin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

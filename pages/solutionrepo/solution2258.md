@@ -1,15 +1,15 @@
 ---
-title: Managed Firewall - Sophos XG 210 EnterpriseGuard with Enhanced Support - 12 Months 
+title: SYNERGIX E1 Version TH6 - Package A   HRMS Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution2258
 ---
 
 ### Description
 
-Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.netpluz.asia <br>Contact Hotline: 68058998 <br>Contact Email: contact@netpluz.asia <br>
+Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

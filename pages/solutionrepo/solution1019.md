@@ -1,5 +1,5 @@
 ---
-title: EasyBus Version 2.0 - EasyBus Online (Standard)
+title: EasyBus Version 2.0 - EasyBus Online (Lite)
 permalink: /productivity-solutions-grant/solutionrepo/solution1019
 ---
 

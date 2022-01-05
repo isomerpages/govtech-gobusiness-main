@@ -1,15 +1,15 @@
 ---
-title: Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 10 Vehicles
+title: Xero Cloud Accounting Software - Premium Package - Software & Setup
 permalink: /productivity-solutions-grant/solutionrepo/solution2207
 ---
 
 ### Description
 
-Detrack is a cloud-based real-time vehicle tracking and electronic proof of delivery (e-POD) solution with the use of just an Android or iPhone. Detrack not only offers full visibility of your delivery fleet, but it also lets you keep track of the status of every delivery job and helps you notify your customers of the progress in real-time, so they won't have to keep calling your customer hotline. Our solution has proven to help companies cut manpower and operations costs by up to 90%.
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Web URL: https://www.detrack.com <br>Contact Hotline: 68440509 <br>Contact Email: sales@detrack.com <br>
+Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 93891853 <br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

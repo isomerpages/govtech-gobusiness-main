@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting System Version 2.0-Pro (3 Users)
+title: Autocount Accounting System Version 2.0-Basic (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1106
 ---
 
@@ -9,7 +9,7 @@ AutoCount Accounting stands out as one of the best accounting software for today
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

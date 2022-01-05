@@ -1,11 +1,11 @@
 ---
-title: Automatic Harvester
+title: Automatic case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2123
 ---
 
 ### Description
 
-To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
+Case printing system or pack labelling system which allow the user to fully customize their label.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

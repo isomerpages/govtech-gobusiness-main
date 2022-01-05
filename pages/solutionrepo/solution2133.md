@@ -1,11 +1,11 @@
 ---
-title: Egg Grading and Inspection System
+title: Dehusking Machine/ Shaker
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
 ### Description
 
-Egg grader machine also called egg sorter machine where the eggs are divided into several grades according to weight. Egg sorting can be connected with to egg testing, egg washing, egg ink jet printer, egg packing device, etc. 
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

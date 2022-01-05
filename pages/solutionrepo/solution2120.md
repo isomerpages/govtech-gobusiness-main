@@ -1,11 +1,11 @@
 ---
-title: Automated Slaughtering Equipment
+title: Automated Irrigation & Dosing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2120
 ---
 
 ### Description
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

@@ -1,26 +1,15 @@
 ---
-title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )
+title: cuteTrac Version 2  - Package (13 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1591
 ---
 
-### Vendor Information
-Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
-
 ### Description
 
-INNOCOM - Autodesk BIM 360
-- Single platform that connects design and construction processes and project team at one place.
-- BIM 360 Design is the cloud collaboration solution for Revit users.
-- Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
-- Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms
+cuteTrac is an advanced vehicle tracking solution that helps to manage fleet operations in an efficient manner. It increases the productivity and results in tremendous cost savings.
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedINNOCOM-BIMCOLLABORATEPROAnnex3CRwef24June2021_Part_1.pdf' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (5 User Pack)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedINNOCOM-BIMCOLLABORATEPROAnnex3CRwef24June2021_Part_2.pdf' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (10 User Pack)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedINNOCOM-BIMCOLLABORATEPROAnnex3CRwef24June2021_Part_3.pdf' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (25 User Pack)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedINNOCOM-BIMCOLLABORATEPROAnnex3CRwef24June2021_Part_4.pdf' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (2 User Pack)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedINNOCOM-BIMCOLLABORATEPROAnnex3CRwef24June2021_Part_5.pdf' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - BIM 360 Docs (10 User Pack)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,13 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to NA% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

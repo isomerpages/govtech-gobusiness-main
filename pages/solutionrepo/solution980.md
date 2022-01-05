@@ -1,5 +1,5 @@
 ---
-title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 22" Customer Self Ordering Station Package )
+title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 15.6" Customer Self Ordering Station Package )
 permalink: /productivity-solutions-grant/solutionrepo/solution980
 ---
 
@@ -11,7 +11,7 @@ AZ Digital ordering solution provides an up scaling process in engaging customer
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_20200157_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

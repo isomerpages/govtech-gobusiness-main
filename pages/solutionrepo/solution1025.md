@@ -1,5 +1,5 @@
 ---
-title:  BIM Collaborate Pro - 10 User Package (Formerly BIM 360 Design)
+title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
 permalink: /productivity-solutions-grant/solutionrepo/solution1025
 ---
 
@@ -12,7 +12,7 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,7 +34,7 @@ Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>

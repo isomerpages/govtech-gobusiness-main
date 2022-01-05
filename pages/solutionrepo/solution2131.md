@@ -1,11 +1,11 @@
 ---
-title: Ear Tagging Machine
+title: Crate/ Tray washing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-A machine used to place ear tags into the ears of cattle, sheep, goats, and pigs to provide a means of animal identification.
+A machine used to wash crates and trays used for farming.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

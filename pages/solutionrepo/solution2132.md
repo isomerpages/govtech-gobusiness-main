@@ -1,11 +1,11 @@
 ---
-title: Egg Collection Systems
+title: Culture Tank System with Monitoring and Control System
 permalink: /productivity-solutions-grant/solutionrepo/solution2132
 ---
 
 ### Description
 
-Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
+Cultivation system with monitoring and control system
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

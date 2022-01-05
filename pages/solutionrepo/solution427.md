@@ -1,32 +1,16 @@
 ---
-title: iREP Workforce Management System Version 2
+title: VEON@Experience Version 1.0 - Package E (VEON Basic (+ hardware) + 10 Stylist, Assistant, Freelancer tool + 3 Software powerpacks)
 permalink: /productivity-solutions-grant/solutionrepo/solution427
 ---
 
-### Vendor Information
-Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419
-
 ### Description
 
-iREP Workforce Management System is a mobile reporting, maintenance tracking and monitoring system which allows all the service aspects to be integrated using mobility from planning, development and delivery of services either to the organisation itself or to third parties.  Within the service framework in this application, it allows mobile reporting, maintenance tracking and monitoring work progress to meet quality standards.
+VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
+Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand.
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Essential)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_3.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Advanced)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_4.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Professional)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Comprehensive)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Essential)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_3.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Advanced)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_4.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Professional)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Comprehensive)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Essential)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_3.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Advanced)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_4.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Professional)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Comprehensive)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_67.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -45,9 +29,12 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+N.A. for non-SMEs
 
 ### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +65 9761 9340
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

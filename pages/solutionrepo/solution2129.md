@@ -1,11 +1,11 @@
 ---
-title: Culture Tank System with Water Monitoring and Control System
+title: Closed Containment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2129
 ---
 
 ### Description
 
-Fish cultivation system with monitoring and control system
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

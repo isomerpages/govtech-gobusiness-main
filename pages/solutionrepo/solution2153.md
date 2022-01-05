@@ -1,11 +1,11 @@
 ---
-title: Vegetable Washing Machine
+title: Pelleting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
 ### Description
 
-A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

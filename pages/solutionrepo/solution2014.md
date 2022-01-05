@@ -1,5 +1,5 @@
 ---
-title: Sage 300 ERP - Sage 300Cloud ADVANCE Distribution 10 users
+title: Sage 300 ERP - Sage 300Cloud ADVANCE Distribution 5 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2014
 ---
 
@@ -15,7 +15,7 @@ important aspects of your growing business, including:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200604_Sage 300 ERP_Desensitised_Annex_3__Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200604_Sage 300 ERP_Desensitised_Annex_3__Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

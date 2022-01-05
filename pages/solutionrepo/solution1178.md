@@ -1,5 +1,5 @@
 ---
-title:  Madsoft Solutions IAF Version 320 - Package C (Madsoft Enterprise 3 users with RFID Hardware) with Peppol e-invoicing
+title:  Madsoft Solutions IAF Version 320 - Package B (Madsoft Business 5 users) with Peppol e-invoicing 
 permalink: /productivity-solutions-grant/solutionrepo/solution1178
 ---
 
@@ -9,7 +9,7 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>

@@ -1,5 +1,5 @@
 ---
-title: 1. Evaluate and Interpret Financial Reports
+title: 1. Financial Acumen Level 4 Manage Budgets and Finances
 permalink: /productivity-solutions-grant/solutionrepo/solution2783
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Evaluate-Interpret-Financial-Reports-4' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Financial-Acumen-Level-4-Manage-Budgets-Finances-1' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

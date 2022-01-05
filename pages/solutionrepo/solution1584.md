@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (25 User Pack)
+title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (10 User Pack)
 permalink: /productivity-solutions-grant/solutionrepo/solution1584
 ---
 
@@ -13,7 +13,7 @@ INNOCOM - Autodesk BIM 360
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,7 +35,7 @@ Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>

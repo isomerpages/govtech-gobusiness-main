@@ -1,22 +1,15 @@
 ---
-title: Shell Telematics
+title: Shopmatic - Shopmatic Pro Concierge
 permalink: /productivity-solutions-grant/solutionrepo/solution782
 ---
 
-### Vendor Information
-Company Name:SHELL EASTERN PETROLEUM (PTE) LTD <br>Web URL: https://www.shell.com.sg/business-customers/shell-fuel-card/shell-telematics-get-started.html <br>Contact Hotline: 6562615322 <br>Contact Email: generalcardrequests-sg@shell.com <br>
-
 ### Description
 
-Shell Telematics is designed to help business owners get the best performance from their fleet, no matter its size.  We use the latest vehicle tracking technology and integrate with Shell Cards to gather a wealth of performance and transaction data from the fleet. Then we turn it into clear, actionable fleet intelligence that helps businesses improve their efficiency, productivity, safety and security.
+Shopmatic is a SaaS solution that offers an integrated business solutions for SMEs to take their business online and providing full accessibility to the business owner to operate their e-commerce presence.
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_1.pdf' target='_blank'>Shell Telematics - Shell Telematics (5 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_2.pdf' target='_blank'>Shell Telematics - Shell Telematics (10 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_3.pdf' target='_blank'>Shell Telematics - Shell Telematics (20 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_4.pdf' target='_blank'>Shell Telematics - Shell Telematics (30 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_5.pdf' target='_blank'>Shell Telematics - Shell Telematics (40 vehicles)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -40,4 +33,7 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

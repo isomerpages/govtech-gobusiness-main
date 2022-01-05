@@ -1,5 +1,5 @@
 ---
-title: School Bus Management System Version SBMS.V2 - 3 Vehicle Package
+title: School Bus Management System Version SBMS.V2 - 2 Vehicle Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2618
 ---
 
@@ -9,7 +9,7 @@ SSTA Technology Development Pte Ltd is a Singapore-based company since January 2
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: NA <br>Contact Hotline: 84991007 <br>Contact Email: TASDAVID90@GMAIL.COM <br>

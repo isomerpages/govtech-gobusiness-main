@@ -1,10 +1,7 @@
 ---
-title: Epoint Version 9
+title: Epoint Version 9 - Package (eKiosk - Pro For Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution390
 ---
-
-### Vendor Information
-Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
 
 ### Description
 
@@ -15,13 +12,9 @@ Epoint mobility ordering POS provides a full spectrum of solutioning for Food an
 
 
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_1.pdf' target='_blank'>Epoint Version 9 - Package (eWaiter - Basic For Single Outlet)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_2.pdf' target='_blank'>Epoint Version 9 - Package (eWaiter - Basic+ For Single Outlet )</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_3.pdf' target='_blank'>Epoint Version 9 - Package (eMenu - Advance For Single Outlet )</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_4.pdf' target='_blank'>Epoint Version 9 - Package (eMenu - Advance+ For Single Outlet)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_5.pdf' target='_blank'>Epoint Version 9 - Package (eKiosk - Pro For Single Outlet)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -45,4 +38,7 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

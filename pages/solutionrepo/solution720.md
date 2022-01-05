@@ -1,5 +1,5 @@
 ---
-title: Psoft Accounting Systems - Package (Cloud-Based Three Users)
+title: Psoft Accounting Systems - Package (Cloud-Based Single User - Peppol Ready)
 permalink: /productivity-solutions-grant/solutionrepo/solution720
 ---
 
@@ -9,7 +9,7 @@ Our company specializes in business software applications ie selling Psoft Accou
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,22 +1,15 @@
 ---
-title: THEREFORE Version 2020
+title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PATH TO PURCHASE
 permalink: /productivity-solutions-grant/solutionrepo/solution1674
 ---
 
-### Vendor Information
-Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>
-
 ### Description
 
-Therefore is a scalable Cloud Document Management Solution, that provides a central document repository for companies. It enables users to save, organize, share and access all vital business information instantly. Security is enhanced through simple permission controls and audit trails. Companies can also improve their productivity and optimize their business processes through Therefore's automated workflows. Simply improve security, productivity and traceability with Therefore.
+RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technologies to intelligently measure shoppers' behavior. Shoppers' behavioral data are anonymously captured and sent to the platform directly from the "Aurora V2" sensors. Retailers can have a wider perspective of where the possible areas to work on increasing revenue are. RetailNext is a proven platform used by more than 450 retailers in over 85 countries to increase sales, reduce theft and eliminate unnecessary costs.
 
-### Packages Available
+### Details of Solution
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_1.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-CLOUD Package 1 (5 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_2.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 2 (Up to 10 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_3.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 3 (Up to 15 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_4.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 4 (Up to 25 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_5.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 5 (Up to 30 users)</a>
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -40,4 +33,7 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Contact Information
+Web URL: www.retaildds.com <br>Contact Hotline: 69881039 <br>Contact Email: transform@retaildds.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

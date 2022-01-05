@@ -1,15 +1,15 @@
 ---
-title: 2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework
+title: Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2569
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
 
 ### Details of Solution
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S92SS0008J-01-CRS-Q-0039329-RET' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,29 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Subscription or Leasing
 
 ### Support Level
-Up to % for SMEs <br>
-N.A. for non-SMEs
+Up to 80
+% for SMEs <br>
+Up to 60
+% for non-SMEs
 
 ### Things to Note
-N.A.
+The Grantee shall submit the following documents for claims and verification:
+1. Invoice
+2. Bank statement showing payment to vendor
+3. Purchase order or signed acceptance of quotation / contract
+4. Receipt or cheque
+5. Pictures
+- licence number(s) of software
+6. Usage Report
+- at least 1 month
+7. GIRO Direct Credit Authorisation Form
+
+8. Declaration of Project's actual Local Business Spend (expenses paid to SG-registered biz) in the text box "if your projections have changed, please tell us why"
 
 ### Contact Information
-
+Web URL: https://sugatitravel.com/ <br>Contact Hotline: 91273257 <br>Contact Email: hello@sugatitravel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

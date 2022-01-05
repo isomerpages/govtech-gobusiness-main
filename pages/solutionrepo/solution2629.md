@@ -1,5 +1,5 @@
 ---
-title: RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 40
+title: RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 20
 permalink: /productivity-solutions-grant/solutionrepo/solution2629
 ---
 
@@ -9,7 +9,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>

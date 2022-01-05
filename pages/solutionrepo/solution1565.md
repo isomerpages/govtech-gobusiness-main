@@ -1,5 +1,5 @@
 ---
-title: iMakan - F&B Full Digitalisation with Analytics
+title: iMakan - Digital & QR Ordering Standard with Analytics
 permalink: /productivity-solutions-grant/solutionrepo/solution1565
 ---
 
@@ -10,7 +10,7 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Automotive Tracking System-Package C (9 Vehicles)
+title: Automotive Tracking System-Package B (6 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1458
 ---
 
@@ -9,7 +9,7 @@ Track 365 Automotive Tracking System is a cloud based telematics solution. Due t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
