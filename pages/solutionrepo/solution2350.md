@@ -1,15 +1,15 @@
 ---
-title: Simplr Warehouse Management Version 6 - Cloud Model (3 users)
+title: HReasily Online Payroll Version 5 - Package E - 50 Employees
 permalink: /productivity-solutions-grant/solutionrepo/solution2350
 ---
 
 ### Description
 
-The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
+HReasily is a cloud-based HR solution that provides end-to-end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
+Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

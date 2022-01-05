@@ -1,5 +1,5 @@
 ---
-title: SAGE 300Cloud Version 2021 - Advanced B1 - 2 Users with InvoiceNow
+title: SAGE 300Cloud Version 2020 - Advanced B1 - 2 Users with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution68
 ---
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:ACSOLV CONSULT PTE. LTD. <br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com <br>

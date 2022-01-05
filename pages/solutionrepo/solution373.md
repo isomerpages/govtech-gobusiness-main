@@ -1,5 +1,5 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package D (Basic + Inventory Manager APP with Tablet)
+title: EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)
 permalink: /productivity-solutions-grant/solutionrepo/solution373
 ---
 
@@ -9,7 +9,7 @@ EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-ba
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgework_Annex_3_CR_wef_25_Nov_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>Contact Hotline:67460710 <br>Contact Email:sales@edgeworks.com.sg <br>

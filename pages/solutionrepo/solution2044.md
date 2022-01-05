@@ -1,5 +1,5 @@
 ---
-title: NetQ Management System - NetQ Management System(include hardware and SMS notification)
+title: NetQ Management System - NetQ Management System(include SMS notification and Face Recognition Thermometer)
 permalink: /productivity-solutions-grant/solutionrepo/solution2044
 ---
 
@@ -9,7 +9,7 @@ Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

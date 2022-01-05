@@ -1,5 +1,5 @@
 ---
-title: InSight QSE - Insight QSE Safety PTW System (Enterprise)   
+title: InSight QSE - Insight QSE Safety PTW System (Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution276
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: SmartWeb V3 Version V3 - Smartweb V3 (License Only)
+title: SmartWeb V3 Version V3 - Smartweb V3 (License & Implementation Support)
 permalink: /productivity-solutions-grant/solutionrepo/solution1192
 ---
 
@@ -9,7 +9,7 @@ SmartWeb is one of the unique solutions in the market which allows online orderi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)
+title: Ethylene Removal System
 permalink: /productivity-solutions-grant/solutionrepo/solution2000
 ---
 
 ### Description
 
-Armfort VMS is an integrated solution that will assist you to effectively authenticate and pro-actively monitor the people coming in and out of the premises on a daily basis, as there is no foresee with absolute certainty where the visitors will go and whether they have any malicious intent.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,24 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to For SMEs: 80 of cost of equipment, up to $30,000 grant per unit.% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications:
+- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.
+- No harmful substance must be released into the environment E.g. Ozone
+- Can be used in storage and production facilities.
+- Installation and maintenance costs are not supported.
+
+-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+-No change in vendor allowed
+-The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
-Web URL: www.onethird.co <br>Contact Hotline: 96497552 <br>Contact Email: hello@onethird.co <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

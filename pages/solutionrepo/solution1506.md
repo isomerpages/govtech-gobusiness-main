@@ -1,5 +1,5 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1)
+title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 - Tablet)
 permalink: /productivity-solutions-grant/solutionrepo/solution1506
 ---
 
@@ -9,7 +9,7 @@ EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Annex_3_CR_wef_2_September_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Annex_3_CR_wef_2_September_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/<br>Contact Hotline: 6871 8833 / 8482 1888<br>Contact Email: sales@epos.com.sg

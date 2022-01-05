@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5-AI
+title: PixelCommerce Version 5.2.5-AI Advanced
 permalink: /productivity-solutions-grant/solutionrepo/solution710
 ---
 
@@ -9,7 +9,7 @@ PixelCommerce is a complete e-Store solution that enables SMEs to boost business
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

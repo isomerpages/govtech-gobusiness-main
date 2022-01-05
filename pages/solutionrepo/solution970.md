@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up, Training Package
+title: Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up, Training Package
 permalink: /productivity-solutions-grant/solutionrepo/solution970
 ---
 
@@ -9,7 +9,7 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://www.yoio-sg.com/#ourexpertise <br>Contact Hotline: 91793142 <br>Contact Email: hanz@yoio-sg.com <br>

@@ -1,5 +1,5 @@
 ---
-title: ONE LOGON - ONE LOGistics Online - Package 2 (iWMS On-Premise)
+title: ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)
 permalink: /productivity-solutions-grant/solutionrepo/solution544
 ---
 
@@ -10,7 +10,7 @@ KEYfields leverages on technology, developing IT Solutions that are versatile an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

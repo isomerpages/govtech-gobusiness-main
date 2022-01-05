@@ -1,5 +1,5 @@
 ---
-title: Sage 300 - Package (Advanced Edition - 2 Users)
+title: Sage 300 - Package (Advanced Edition - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution767
 ---
 
@@ -9,7 +9,7 @@ Sage 300 is a business accounting software that provides accounting software for
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

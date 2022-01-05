@@ -1,11 +1,11 @@
 ---
-title: Multi-tier Cultivation System
+title: Solar Panels System and Energy Storage System
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ### Description
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

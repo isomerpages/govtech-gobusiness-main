@@ -1,15 +1,15 @@
 ---
-title: Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)
+title: Wireless Tour Guide System 
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 
 ### Description
 
-Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
+Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -28,12 +28,15 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 60% for non-SMEs
 
 ### Things to Note
+Operating time of >15 hours and talk range of 100-200 meters. 
+
+Additional criteria for SMEs: 
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

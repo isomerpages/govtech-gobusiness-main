@@ -1,15 +1,15 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: EndPoint Standard - 10 EndPoints
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 
 ### Description
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's EndPoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

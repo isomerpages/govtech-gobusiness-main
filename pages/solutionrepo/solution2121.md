@@ -1,11 +1,11 @@
 ---
-title: Automated Slaughtering Equipment
+title: Automatic egg case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 
 ### Description
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+Egg pack printing system or pack labelling system which allow the user to fully customize their label.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

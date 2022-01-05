@@ -1,17 +1,15 @@
 ---
-title: EPSProfessional V1.7
+title: 2020 QuickHR Version 9 - Cloud HRMS - Essential 25
 permalink: /productivity-solutions-grant/solutionrepo/solution375
 ---
 
 ### Description
 
-ePSProfessional is a feature-rich ecommerce online shop solution based on open source system (Prestashop 1.7x) which allows store owners to run easily on their existing web hosting. It includes an online catalogue which saves customer service effort. The online ordering and payment capabilities help to increase productivity by eliminating paper invoicing and PO faxing. The search-engine-optimized system and training create a digital marketing advantage for the merchants over their competitors.
-
-
+QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Efusion_Tech_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Efusion Technology Pte Ltd<br>www.efusiontech.com<br>Email: contact@efusiontech.com<br>Tel: +65 6292 3086 / +65 6291 3382
+Enable Business Pte Ltd<br>www.quickhr.co<br>Email: business@quickhr.co<br>Tel: +65 6908 8158
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

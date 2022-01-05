@@ -1,19 +1,20 @@
 ---
-title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
 permalink: /productivity-solutions-grant/solutionrepo/solution1830
 ---
 
 ### Description
 
-COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
+AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
+The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-All Sectors
+HINK 
 
 ### Eligibility Criteria
 
@@ -28,15 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription with a one-time set-up fee 
 
 ### Support Level
-Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+Up to 30% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+N.A.
 
 ### Contact Information
-Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
+Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
 
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

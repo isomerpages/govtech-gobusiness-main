@@ -1,18 +1,15 @@
 ---
-title: Creative Sales & Order Management - Package (Standard)
+title: CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)
 permalink: /productivity-solutions-grant/solutionrepo/solution321
 ---
 
 ### Description
 
-Creative Sales and Order Management System is a B2B ecommerce platform that facilitates efficient procurement process through a centralized and secure application hosting. It comes with various modules such as procurement, quotation, invoice, news & events to allow better management of SMEs product catalogue and streamlining of business workflows.
-
-
-
+Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
+Ctrl Alt Del Pte Ltd<br>www.cad.sg<br>Email: business@cad.sg<br>Tel: +65 9859 7714
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

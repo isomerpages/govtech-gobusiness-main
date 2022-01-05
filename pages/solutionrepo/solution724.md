@@ -1,15 +1,15 @@
 ---
-title: Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)
+title: Pytheas Ecommerce (B2C) Version 1.1
 permalink: /productivity-solutions-grant/solutionrepo/solution724
 ---
 
 ### Description
 
-Our company specializes in business software applications ie selling Psoft Accounting software for SME in Singapore to help them keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Our software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow. All these to help SME company to perform better.
+Pytheas Ecommerce (B2C) provides an end-to-end e-commerce platform which comprises content management function to enable ease of content publish on website, dynamic packing function for bundling of flights and hotels, pricing engine to populate the latest deals from various travel agents and customer relationship management feature to consolidate customers and transaction details for easy retrieval of information across different travel agencies. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Pytheas_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,12 +28,15 @@ Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 60% for non-SMEs
 
 ### Things to Note
+Only licensed travel agents are eligible for support.
+
+Additional criteria for SMEs: 
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Psoft Pte. Ltd.<br>http://www.psoftaccounting.com<br>Email: psoft@singnet.com.sg<br>Tel: +65 6295 3292
+Pytheas Infosys Pte Ltd<br>http://www.pytheas.travel<br>Email: info@pytheas.travel<br>Tel: +65 6635 6592
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

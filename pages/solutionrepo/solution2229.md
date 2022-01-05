@@ -1,17 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01 - Cloud Solution Package-Basic
+title: Xero Cloud Accounting Version 10.5-Advante Package B (Xero Standard Basic Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution2229
 ---
 
 ### Description
 
-- Microsoft Dynamics 365 Business Central base Finance and Supply Chain Management (Inventory, Sales and Purchase)
-- Mobile Addon (Document Approval - PR, PO, Sales Quote, Sales Order)
-- Predefined Setup and Implementation
+Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DynamicSolutions20200274_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.dynsln.com.sg <br>Contact Hotline: 62617881 <br>Contact Email: info@dynsln.com.sg <br>
+Company Name:Advante Consulting Pte Ltd <br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

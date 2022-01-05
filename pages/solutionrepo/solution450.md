@@ -1,5 +1,5 @@
 ---
-title: HRM Human Resource Management System - HRM Labs Basic Package (75)
+title: HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (120)
 permalink: /productivity-solutions-grant/solutionrepo/solution450
 ---
 
@@ -9,7 +9,7 @@ HRMLABS helps to digitalize the manual process of HR administrative data with ea
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

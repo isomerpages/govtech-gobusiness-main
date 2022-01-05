@@ -1,15 +1,15 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)
+title: Salesforce Sales Cloud Professional Edition -Premier Success and Jumpstart Setup (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1509
 ---
 
 ### Description
 
-EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
+Salesforce is the #1 CRM, bringing companies and customers together in the digital age. It's an integrated CRM platform that gives teams a single, shared view of their customers so they can deliver the intelligent, personalized experiences their customers have come to expect from every brand and build lasting, trusted relationships.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Annex_3_CR_wef_2_September_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/<br>Contact Hotline: 6871 8833 / 8482 1888<br>Contact Email: sales@epos.com.sg
+Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

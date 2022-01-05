@@ -1,15 +1,22 @@
 ---
-title: Ecommerce Web Software Development  -  Ecommerce Web Software Development (Opencart/Woocommerce)
+title: OdooCRM 
 permalink: /productivity-solutions-grant/solutionrepo/solution1087
 ---
 
+### Vendor Information
+Company Name:Alitec Pte Ltd <br>Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
+
 ### Description
 
-Firstcom Solutions is a leading web development agency with more than 10 years of experience. Our solution covers the development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, manage online orders and data, track statistics of product sales performance, online marketing of products and provision of integration with external platforms to provide better automation and data analytics. 
+An intuitive user interface designed for sales. A Dashboard for a better overview of the sales activities. Useful tips and best practices to configure and deploy your CRM and much more. Odoo CRM is part of Odoo, the #1 suite of business applications dedicated to SMEs. The strength of Odoo is its modularity and scalability. Start with CRM to track all your sales pipeline, and as your business grows, add the sales, inventory or the accounting module, all integrated, same data and easy to use.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_eCommerce_Annex_3_CR_wef_22_July_2021_Part123.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_1.pdf' target='_blank'>OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_2.pdf' target='_blank'>OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_3.pdf' target='_blank'>OdooCRM -Alitec Enterprise (5 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_4.pdf' target='_blank'>OdooCRM -Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_5.pdf' target='_blank'>OdooCRM -Alitec Starter (Unlimited Users, Alitec Hosted, CRM + Website Apps)</a>
 
 ### Eligibility Criteria
 
@@ -31,9 +38,6 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

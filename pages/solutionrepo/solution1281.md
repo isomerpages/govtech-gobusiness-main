@@ -1,5 +1,5 @@
 ---
-title: V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package B
+title: V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package C
 permalink: /productivity-solutions-grant/solutionrepo/solution1281
 ---
 
@@ -9,7 +9,7 @@ V3Nity-FMS Fleet Management System is a Web based Telematics system powered by V
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

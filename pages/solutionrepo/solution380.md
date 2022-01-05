@@ -1,15 +1,19 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Enterprise 200
+title: Epoint Version 9 - Package (eWaiter - Basic For Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution380
 ---
 
 ### Description
 
-QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+Epoint mobility ordering POS provides a full spectrum of solutioning for Food and Beverages segment. The mobility solution allows waiter to use a tablet to take order on behalf of the customer directly and send orders to kitchen once the order is confirmed.
+
+
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Enable Business Pte Ltd<br>www.quickhr.co<br>Email: business@quickhr.co<br>Tel: +65 6908 8158
+Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

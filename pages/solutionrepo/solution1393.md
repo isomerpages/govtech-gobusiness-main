@@ -1,5 +1,5 @@
 ---
-title: Artemis-500 searches for 1 year
+title: Artemis-1000 searches for 1 year
 permalink: /productivity-solutions-grant/solutionrepo/solution1393
 ---
 
@@ -9,7 +9,7 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

@@ -1,5 +1,5 @@
 ---
-title: ChopeBook - ChopeBook with Phone Line Mgmt Software Only 
+title: ChopeBook - ChopeBook Software & Hardware
 permalink: /productivity-solutions-grant/solutionrepo/solution1558
 ---
 
@@ -9,7 +9,7 @@ ChopeBook is a Table Management System (TMS) designed to make the most of a rest
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

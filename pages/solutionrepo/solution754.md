@@ -1,20 +1,22 @@
 ---
-title: Smart Cabinet
+title: Rockbell Human Resource Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution754
 ---
 
+### Vendor Information
+Rockbell International Software Pte Ltd<br>www.rockbell.sg<br>Email: sales@rockbell.com.sg<br>Tel: +65 6469 7720
+
 ### Description
 
-The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
+The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.
 
-Grant Support: 
-Direct Purchase: 80% of cost of equipment, up to $21,000 grant 
-Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
+### Packages Available
 
-
-### Details of Solution
-
-N.A.
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_1.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - 30 employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_2.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - 60 employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_3.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - unlimited employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_4.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (3 users - unlimited employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_5.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (5 users - unlimited employees)</a>
 
 ### Eligibility Criteria
 
@@ -29,22 +31,13 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase,Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Mandatory Specification
-- Access controlled and tracked with RFID or other relevant technology
-- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
-- Hardware must be linked with a software/ERP system to access the logs and inventory information
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-Installation and maintenance fee are not supportable.
-?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

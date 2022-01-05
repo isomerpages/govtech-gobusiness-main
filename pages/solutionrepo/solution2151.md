@@ -1,11 +1,11 @@
 ---
-title: Pasteurisation Equipment/ Plant
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
 ### Description
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

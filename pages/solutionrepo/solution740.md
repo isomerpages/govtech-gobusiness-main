@@ -1,5 +1,5 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 -WESS Lite
+title: WESS - Wellness Management Software Version 2.0 -WESS Professional
 permalink: /productivity-solutions-grant/solutionrepo/solution740
 ---
 
@@ -9,7 +9,7 @@ WESS, a leading professional cloud management software made easy for the Beauty,
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

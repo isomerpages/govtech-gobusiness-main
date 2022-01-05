@@ -1,5 +1,5 @@
 ---
-title: Stendard Solution  Version 1.6.1 - Starter
+title: Stendard Solution  Version 1.6.1 - Professional
 permalink: /productivity-solutions-grant/solutionrepo/solution1003
 ---
 
@@ -9,7 +9,7 @@ Stendard Solution  is a cloud-based document management system that allows you t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

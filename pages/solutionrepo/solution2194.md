@@ -1,15 +1,17 @@
 ---
-title: Xero Accounting software - Subscription Package
+title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 20 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2194
 ---
 
 ### Description
 
-Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
+cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing. 
+
+The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.xero.com <br>Contact Hotline: 63104961 <br>Contact Email: enquiry@perfecten.com.sg <br>
+Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

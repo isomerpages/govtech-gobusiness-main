@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)
+title: Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1015
 ---
 
@@ -9,7 +9,7 @@ Sage 300 takes the complexity out of managing your business finances across bord
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD <br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>

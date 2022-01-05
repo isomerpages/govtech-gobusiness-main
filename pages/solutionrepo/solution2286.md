@@ -1,19 +1,15 @@
 ---
-title: Pepper Cloud CRM Version 14.0-Enterprise
+title: Really Platform for PMs and FMs Version 2.4-Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution2286
 ---
 
 ### Description
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
-
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
-
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
+Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
+Web URL: https://www.really.sg/project-management-features/ <br>Contact Hotline: 69507563 <br>Contact Email: info@really.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

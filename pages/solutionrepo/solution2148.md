@@ -1,11 +1,11 @@
 ---
-title: Milking Machine
+title: Robot Cleaner 
 permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

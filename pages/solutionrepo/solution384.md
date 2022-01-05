@@ -1,12 +1,13 @@
 ---
-title: Standalone Automated Industrial Utensil Washer
+title: Rotary Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution384
 ---
 
 ### Description
 
-Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. 
-Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
+Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns.
+Able to increase product yield by reducing amount of unevenly baked or burned cakes and muffins. Ideal for bakeries.
+For bigger rotary ovens, it is recommended for it to come with a trolley to load
 
 ### Details of Solution
 
@@ -32,9 +33,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Automated washing that only requires loading, no need for handwashing. 
-Wash tank capacity of at least 15 litres.
-Does not include accessories
+Minimum of 8 trays
+Racks inside oven must be able to rotate
 
 ### Contact Information
 N.A.

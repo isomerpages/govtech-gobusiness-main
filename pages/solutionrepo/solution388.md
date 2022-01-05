@@ -1,17 +1,19 @@
 ---
-title: Blast Freezer
+title: Epoint Version 9 - Package (eMenu - Advance+ For Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution388
 ---
 
 ### Description
 
-Blast freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing.
-Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food.
-It is recommended for the blast freezer to be able to be loaded with a trolley for ease of operation
+Epoint mobility ordering POS provides a full spectrum of solutioning for Food and Beverages segment. The mobility solution allows waiter to use a tablet to take order on behalf of the customer directly and send orders to kitchen once the order is confirmed.
+
+
+
+
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,17 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum of 10 trays
-Freezer must be able to reach -18?C
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

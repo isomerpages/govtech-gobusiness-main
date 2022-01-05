@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package D (15 Cloud Subscription Users)
+title: SAP Business One Version 10 - SAP Business One on HANA - Package E (7 Perpetual Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution1996
 ---
 
@@ -9,7 +9,7 @@ SAP Business One is specifically designed to meet today's small and mid-size bus
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

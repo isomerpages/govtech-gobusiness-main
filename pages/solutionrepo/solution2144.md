@@ -1,11 +1,11 @@
 ---
-title: Humidifier Equipment
+title: Packaging & Labelling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

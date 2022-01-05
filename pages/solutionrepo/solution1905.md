@@ -1,5 +1,5 @@
 ---
-title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Standard Kit (Business) - 12mths
+title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit - 12mths
 permalink: /productivity-solutions-grant/solutionrepo/solution1905
 ---
 
@@ -9,7 +9,7 @@ Auk Industries is a disruptive end-to-end technology provider for Industrial IoT
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AUK_20200866_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>

@@ -10,7 +10,7 @@ Synchronize your promotions, customer data, inventory stock level, sales reports
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

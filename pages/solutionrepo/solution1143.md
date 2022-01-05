@@ -1,13 +1,13 @@
 ---
-title: Battery-Powered Rope Ascender
+title: Laser Geometric Alignment System
 permalink: /productivity-solutions-grant/solutionrepo/solution1143
 ---
 
 ### Description
 
-Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually. The process is time-consuming and is physically exhausting. 
+In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.
 
-The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement. 
+Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.  
 
 ### Details of Solution
 
@@ -33,8 +33,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Ascent speed: minimum 1 ft/s
+The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
+Measuring errors: minimum +/- 1%
 Maintenance cost not supported
+Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
 
 ### Contact Information
 N.A.

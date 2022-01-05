@@ -1,5 +1,5 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontier 50
+title: Frontier e-HR Version 8 - AutomateHR eFrontierPlus 50
 permalink: /productivity-solutions-grant/solutionrepo/solution405
 ---
 
@@ -10,7 +10,7 @@ Frontier e-HR is a user friendly cloud based Human Resource Management System ( 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

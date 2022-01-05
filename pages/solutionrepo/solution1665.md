@@ -1,5 +1,5 @@
 ---
-title: THEREFORE - Therefore-in-e-CLOUD Package 1 (5 users)
+title: THEREFORE Version 2020 - Therefore-in-e-Cloud Package 2 (Up to 10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1665
 ---
 
@@ -9,7 +9,7 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>

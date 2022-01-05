@@ -1,5 +1,5 @@
 ---
-title: MyDoc Telemedicine Solution - Package 1 (1 Doctor)
+title: MyDoc Telemedicine Solution - Package 2 (2 Doctors)
 permalink: /productivity-solutions-grant/solutionrepo/solution1840
 ---
 
@@ -9,7 +9,7 @@ MyDoc's Telemedicine Solution for providers is a bundled package that providers 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

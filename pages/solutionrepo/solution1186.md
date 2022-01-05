@@ -1,15 +1,15 @@
 ---
-title: MEGAPOS - MEGAPOS Pro on Tablet
+title: Shortcuts Version 8 - Shortcuts Fusion Live
 permalink: /productivity-solutions-grant/solutionrepo/solution1186
 ---
 
 ### Description
 
-A cost-effective POS solution that comes with sleek hardware, feature-rich software and top service.   MEGAPOS offers you an opportunity to upgrade to a modern productivity tool engineered and tested for the new retail economy in this post-Covid CB period.
+Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Megasafe Technology Pte Ltd <br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
+Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact Hotline: 91092480 <br>Contact Email: info@serixx.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

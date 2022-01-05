@@ -1,5 +1,5 @@
 ---
-title: Vodich- Xero Cloud Accounting - Package B - Standard
+title: Vodich- Xero Cloud Accounting - Package C - Standard with Training
 permalink: /productivity-solutions-grant/solutionrepo/solution1979
 ---
 
@@ -10,7 +10,7 @@ On the other hand, users will also be able to see the money that is coming in an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

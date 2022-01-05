@@ -1,5 +1,5 @@
 ---
-title: SmartFM Version 1.0 - Core (1000 Pax)
+title: SmartFM Version 1.0 - Commercial (Unlimited)
 permalink: /productivity-solutions-grant/solutionrepo/solution1734
 ---
 
@@ -9,7 +9,7 @@ SmartFM is an integrated, cloud based, facility management solution. It is desig
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,11 +1,11 @@
 ---
-title: Automated Sorter/ Grader
+title: Automated Fish Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 
 ### Description
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

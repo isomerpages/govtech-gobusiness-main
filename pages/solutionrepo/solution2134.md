@@ -1,11 +1,11 @@
 ---
-title: Collection Systems
+title: Egg Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
 ### Description
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+Integrated egg processing system to process eggs into liquid, hardboiled or pasteurized egg products
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

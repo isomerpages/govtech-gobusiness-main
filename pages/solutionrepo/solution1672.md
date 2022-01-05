@@ -1,5 +1,5 @@
 ---
-title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - TRAFFIC 2.0
+title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PRODUCT ENGAGEMENT
 permalink: /productivity-solutions-grant/solutionrepo/solution1672
 ---
 
@@ -9,7 +9,7 @@ RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technolog
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

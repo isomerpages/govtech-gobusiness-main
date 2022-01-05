@@ -1,15 +1,22 @@
 ---
-title: SQL Account Version 5-Package E (Advance - 8 Users)
+title: Haulio Community System Version 2.0
 permalink: /productivity-solutions-grant/solutionrepo/solution1437
 ---
 
+### Vendor Information
+Company Name:Haulio Pte Ltd <br>Web URL: www.haulio.io <br>Contact Hotline: 85082327 <br>Contact Email: hello@haulio.io <br>
+
 ### Description
 
-SQL Account includes full range of business features including AR, AP, GL, Inventory, Banking, GST, Reporting. It's user-friendly interface helps SMEs perform daily operation easily and effectively, organise and analyse finance data for accurate reporting, customisable to suit business workflow and secure access right. SQL Account features multi-currencies, project & departmental costing, multi-warehouses so you can access to updates on your accounting & business operation with ease.
+Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>Haulio Community System Version 2.0-15 Trucks</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_2.pdf' target='_blank'>Haulio Community System Version 2.0-30 Trucks</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank'>Haulio Community System Version 2.0-5 Trucks</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank'>Haulio Community System Version 2.0-10 Trucks</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>Haulio Community System Version 2.0-20 Trucks</a>
 
 ### Eligibility Criteria
 
@@ -24,7 +31,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -33,7 +40,4 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

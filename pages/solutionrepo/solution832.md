@@ -1,15 +1,15 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))
+title: Synergix E1 Sales & Accounting - Package (5 users) - TH6
 permalink: /productivity-solutions-grant/solutionrepo/solution832
 ---
 
 ### Description
 
-The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
+Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
+Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

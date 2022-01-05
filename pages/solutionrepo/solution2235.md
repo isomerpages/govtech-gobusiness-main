@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software-Harvest - Software Setup, Migration and Training
+title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package C with E-Invoicing & Training(1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution2235
 ---
 
 ### Description
 
-Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
+ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
-Up to 0.8% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg <br>
+Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

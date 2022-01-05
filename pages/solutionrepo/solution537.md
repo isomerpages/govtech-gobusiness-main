@@ -1,5 +1,5 @@
 ---
-title: KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)
+title: KEEPITAL Sales Management Business Solution Version 3 - Package (1000 Product Showcase)
 permalink: /productivity-solutions-grant/solutionrepo/solution537
 ---
 
@@ -11,7 +11,7 @@ To Digitize all SME products and services into a single platform, all hardcopy p
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

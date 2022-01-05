@@ -1,15 +1,15 @@
 ---
-title: REACH MOIBOO Version 1.8 - Plan C
+title: WESS - Wellness Management Software Version 2.0 -WESS Lite
 permalink: /productivity-solutions-grant/solutionrepo/solution739
 ---
 
 ### Description
 
-Moiboo is an automobile business software which helps auto workshops, auto dealers, auto rentals, auto spare parts business and Transporter to automate the entire business end to end
+WESS, a leading professional cloud management software made easy for the Beauty, Hair, Nail, Spa & Wellness businesses in Singapore & Asia.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:REACH PROCESS OUTSOURCING PTE. LTD. <br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: babu@moiboo.com <br>
+Company Name:Refine Solutions Pte Ltd <br>Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

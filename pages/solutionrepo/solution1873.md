@@ -1,17 +1,15 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) Internet & Malware Defence Large SME with 24 x 7 Managed Support
+title: ZettApps Finance & Order Processing Version 4.2 - Package A - SME
 permalink: /productivity-solutions-grant/solutionrepo/solution1873
 ---
 
 ### Description
 
-TOFFS MSSP for ABCD provides 24 x7 outsourced monitoring & management of security devices & systems. Services include acting as the SME's inhouse IT security department to monitor & assess the IT security posture
-
-We provide EndPoint protection, vulnerability assessment, network threat hunting & AI-based anomaly, network & system behavioural analytics to detect malware, data infiltration, data extradition and remediate in real-time any malware attacks that is threatening the organisation.
+ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Management Solution. Listed in the IRAS Accouting Software Register, ZETTAPPS is GST compliant and a Business Management Software that helps businesses to streamline their Accounting procedures.  Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, reduction in cost and gain access to new financial options.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
+Web URL: www.zetta-solution.com <br>Contact Hotline: 67450866 <br>Contact Email: sales@zetta-solution.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

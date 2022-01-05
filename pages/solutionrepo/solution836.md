@@ -1,15 +1,21 @@
 ---
-title: Synergix E1 Sales & Accounting- Package (10 users with PEPPOL) - TH6
+title: Integrated Back Of House Solution for Restaurant Version 1 
 permalink: /productivity-solutions-grant/solutionrepo/solution836
 ---
 
+### Vendor Information
+Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
+
 ### Description
 
-Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking. 
+The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_2.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package B (Medium Restaurant  (E-waiter for 2 Users, CRM & KDS Lite for 3 Users))</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_3.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package C (Large Restaurant (E-waiter for 3 Users, CRM & KDS Lite for 4 Users))</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))</a>
 
 ### Eligibility Criteria
 
@@ -33,7 +39,4 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Creative Sales & Order Management - Package (SMEZ)
+title: Creative Sales & Order Management - Package (Lite)
 permalink: /productivity-solutions-grant/solutionrepo/solution319
 ---
 
@@ -12,7 +12,7 @@ Creative Sales and Order Management System is a B2B ecommerce platform that faci
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Revel Systems POS Version 2 - Package B Revel 4 device license w/ e-Menu Ordering
+title: Revel Systems POS Version 2 - Package C Revel 6 device license w/ e-Menu Ordering
 permalink: /productivity-solutions-grant/solutionrepo/solution1795
 ---
 
@@ -9,7 +9,7 @@ Revel Systems iPad Point of Sale is the most versatile solution in the market to
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_System_Holdings_20200105_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_System_Holdings_20200105_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

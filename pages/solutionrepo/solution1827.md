@@ -1,24 +1,26 @@
 ---
-title: Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1827
 ---
 
 ### Description
 
-Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
+At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
+
+We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-1.Accounting<br>
-2.Healthcare<br>
-3.Hotels & Accommodation<br>
-4.Retail<br>
-5.Consumer Goods<br>
-6.Other sectors of strength: Education and Lifesciences
+1.Financial Services<br>
+2.Consumer FMCG<br>
+3.Telecommunications<br>
+4.Consumer Food Retail<br>
+5.Consumer - Agricultural Conglomerate<br>
+6.Consumer - Beverage
 
 ### Eligibility Criteria
 
@@ -43,5 +45,5 @@ Up to 80% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
+Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
 

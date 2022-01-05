@@ -1,26 +1,19 @@
 ---
-title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
+title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1828
 ---
 
 ### Description
 
-At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
-
-We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
+Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-1.Financial Services<br>
-2.Consumer FMCG<br>
-3.Telecommunications<br>
-4.Consumer Food Retail<br>
-5.Consumer - Agricultural Conglomerate<br>
-6.Consumer - Beverage
+All Sectors
 
 ### Eligibility Criteria
 
@@ -45,5 +38,5 @@ Up to 80% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
+Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ <br>Contact Email: Ishita.goel2@aon.com <br>Contact Number: 8165 7647
 

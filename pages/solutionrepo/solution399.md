@@ -1,16 +1,19 @@
 ---
-title: FacilityBot - Large Facilities
+title: Combi Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution399
 ---
 
 ### Description
 
-FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
 
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -25,16 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum capacity: 5GN
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
-FacilityBot Pte Ltd<br>http://facilitybot.co<br>Email: sales@facilitybot.co<br>Tel: +65 9748 0484
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

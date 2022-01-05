@@ -1,5 +1,5 @@
 ---
-title: Xero - Xero Basic Implementation (XBI)
+title: Xero - Xero Advanced Implementation (XAI)
 permalink: /productivity-solutions-grant/solutionrepo/solution1763
 ---
 
@@ -15,7 +15,7 @@ a complete business solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,14 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com <br>

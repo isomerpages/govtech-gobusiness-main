@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation & Dosing System
+title: Automated Mixer/ Compacter for Growing Media
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 
 ### Description
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

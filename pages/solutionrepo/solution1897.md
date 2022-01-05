@@ -1,15 +1,15 @@
 ---
-title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Customized
+title: arc.lite and arc.ops - Process Configuration (arc.link Module) - Annual Subscription License - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1897
 ---
 
 ### Description
 
-With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manufacturers gain better control over their process flows ensuring the maximum level of efficiency achieved with minimal chance of delays or potential interruptions occur. Leveraging the toolset, manufacturers are able to stay on top of their production processes through automatic and accurate resources planning, allocation and dynamic (re) scheduling capabilities.
+Arcstone's Product and Manufacturing Process Configuration solution empowers manufacturers to get a head start on manufacturing digitalization by streamlining the heavy manual-based production processes to the fully automated ones. With the toolset, manufacturers can significantly reduce time spent on deployment to rapidly optimize productivity and product traceability
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

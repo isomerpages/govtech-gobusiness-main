@@ -1,15 +1,16 @@
 ---
-title: Deskera People Version 10.0 - Package E (People - 80 Users)
+title: Deskera ERP Version 9.0/10.1 - Package A (SaaS - 3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution353
 ---
 
 ### Description
 
-Deskera HRMS is a comprehensive HRMS solution which includes payroll management, performance appraisal, statutory compliance, recruitment management, timesheet management and others. The solution also comes with e-Leave and e-Claim features which allows a complete view of employees' leaves, attendance and claims submission details.
+Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
+From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Deskera Singapore Pte Ltd<br>Web URL: https://www.deskera.com/<br>Contact Hotline: (+65) 62021350<br>Contact Email: hello@deskera.com
+Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

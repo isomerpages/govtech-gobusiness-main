@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)
+title: SYNERGIX E1 Version TH6 - Package C  HRMS Standard with Staff Appraisal , Training and Recruitment
 permalink: /productivity-solutions-grant/solutionrepo/solution2241
 ---
 
 ### Description
 
-Match Resources Pte Ltd is a full-service Human Resources consulting firm that uses an innovative SaaS HRSS ecosystem. The firm combines HR management expertise and cutting-edge cloud software to support local SMEs in digitizing and automating their crucial HR processes. The SaaS modules include Employment Information System, Leave Management, Expense Claims, Time Attendance, and Payroll Processing, all of which are conveniently accessible via a mobile application.
+Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br>
+Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

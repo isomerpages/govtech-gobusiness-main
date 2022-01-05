@@ -1,5 +1,5 @@
 ---
-title: EasyBus Version 2.0 - EasyBus POS
+title: EasyBus Version 2.0 - EasyBus Online (Lite)
 permalink: /productivity-solutions-grant/solutionrepo/solution1018
 ---
 
@@ -9,7 +9,7 @@ EasyBus is a true all in one platform designed specifically for service industry
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

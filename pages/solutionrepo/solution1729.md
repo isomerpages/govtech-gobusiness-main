@@ -1,19 +1,28 @@
 ---
-title: Job Redesign Consultancy - CET Global Pte Ltd 
+title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1729
 ---
 
 ### Description
 
-CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-All sectors
+1.Early Childhood Care & Education<br>
+2.Training & Adult Education<br>
+3.Human Resources<br>
+4.Accountancy<br>
+5.Food & Beverage<br>
+6.Healthcare<br>
+7.Retail & Services<br>
+8.Construction<br>
+9.Food Manufacturing<br>
+10.Logistics/Supply Chain
 
 ### Eligibility Criteria
 
@@ -38,5 +47,5 @@ Up to 80% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Email: Ms Berenice Choong (Berenice.choong@cetglobal.com.sg)<br>Contact Number: 69291564 (Mobile: 9106 0005)
+Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: Ms Angeline Soh (angeline_soh@eon.com.sg) <br>Contact Number: 6220 4008
 

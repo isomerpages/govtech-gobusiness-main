@@ -1,21 +1,23 @@
 ---
-title: Sage 300 ERP - Sage 300Cloud PREMIUM Distribution 10 users
+title: Alpha eCommerce Booster Version Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution2017
 ---
 
+### Vendor Information
+Web URL: https://alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg <br>
+
 ### Description
 
-Sage 300cloud connects the most
-important aspects of your growing business, including:
--Financials
--Operations and inventory
--Project and vendor management
--Business intelligence and reporting
--Sales, marketing and customer service
+Online eStore
+Inventory Management
+Orders & Payments
+Content Management
+CRM & Social Media Integration
+Chatbot & Ai Recommendation
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200604_Sage 300 ERP_Desensitised_Annex_3__Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/ALPHABET_SIX_20200698_Desensitised_Annex_3.pdf' target='_blank'>Alpha eCommerce Booster Version Premium - ALPHA eCommerce BoosterPremium</a>
 
 ### Eligibility Criteria
 
@@ -39,7 +41,4 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Web URL: www.mis.sg <br>Contact Hotline: 66842300 <br>Contact Email: rick@mis.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

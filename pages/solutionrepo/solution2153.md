@@ -1,11 +1,11 @@
 ---
-title: Recirculating Aquaculture System
+title: Vegetable Washing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
 ### Description
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

@@ -1,5 +1,5 @@
 ---
-title: CFOsg Xero Cloud Accounting Solution D
+title: CFOsg Xero Cloud Accounting Solution E
 permalink: /productivity-solutions-grant/solutionrepo/solution290
 ---
 
@@ -9,7 +9,7 @@ Xero is an universal accounting software that provides a complete list of accoun
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

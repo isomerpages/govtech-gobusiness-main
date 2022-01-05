@@ -1,5 +1,5 @@
 ---
-title: Revel Systems - Revel Essentials - Quick Service & Coffeeshop
+title: Revel Systems - Revel Essentials -  Modern Restaurant 
 permalink: /productivity-solutions-grant/solutionrepo/solution2064
 ---
 
@@ -10,7 +10,7 @@ The Revel Enterprise- solution is tailored for large chains and leads the indust
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

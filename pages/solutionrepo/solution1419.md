@@ -1,15 +1,15 @@
 ---
-title: Freight Master Version 8.1 (25 Licenses)
+title: Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1419
 ---
 
 ### Description
 
-The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of four core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low cost solution, thereby providing a more level playing field for the SMEs.
+Simplr is an easy-to-use, intuitive mobility solution for distribution management, distributor management and warehouse management. The comprehensive field sales-force automation solution optimises productivity, efficiency and provide management with real-time information and visibility in the sales distribution. The solution integrates your distribution network with data capture at every node to optimise resource utilization and provide a macro view of the supply chain.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

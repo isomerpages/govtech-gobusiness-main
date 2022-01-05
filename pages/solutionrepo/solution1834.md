@@ -1,5 +1,5 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 3 Mobile and Kiosk Ordering
+title: Yumstone F&B Solutions Version 5.0 - Package 4 Qrcode Ordering and CRM
 permalink: /productivity-solutions-grant/solutionrepo/solution1834
 ---
 
@@ -13,7 +13,7 @@ Major Productivity Solutions:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

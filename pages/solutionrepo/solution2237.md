@@ -1,15 +1,15 @@
 ---
-title: QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package
+title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package D with E-Invoicing & Training(3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2237
 ---
 
 ### Description
 
-Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accounting solution to help your business with accurate accounting, reconciliation and invoice management. Access your accounts in real-time, anytime and anywhere with our market-leading professional suite of solutions.
+ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: matthew@tischglobal.com <br>
+Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

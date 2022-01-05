@@ -1,17 +1,15 @@
 ---
-title: NetSuite-SuiteSuccess Standard and Inventory Management
+title: Second CRM Version 7.1 - Package A (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1858
 ---
 
 ### Description
 
-For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
-
-Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
+Second CRM is an easy to use cloud based business automation solution designed to improve productivity for small to medium businesses. Second CRM focuses on sales, customer services and operations, providing end to end streamlining of business functions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedOracleAnnexCRwef12August2021-_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
+Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact Email: sales@secondcrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

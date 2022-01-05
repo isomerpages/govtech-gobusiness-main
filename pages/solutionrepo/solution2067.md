@@ -1,5 +1,5 @@
 ---
-title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package
+title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2067
 ---
 
@@ -9,7 +9,7 @@ Going digital is not only about moving to cloud-based accounting software but al
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

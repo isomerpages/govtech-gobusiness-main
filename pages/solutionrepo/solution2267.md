@@ -1,15 +1,19 @@
 ---
-title: Ecommflow Version 2.0 - Pro
+title: Pepper Cloud CRM Version 14.0-Standard_10Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2267
 ---
 
 ### Description
 
-Spend more time on what matters. Ecommflow takes care of the rest, with a suite of powerful online selling features for every type of industry. Secure payments, configurable shipping options, subscriptions, and more.
+Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
+
+Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
+
+We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://calvinseng.com <br>Contact Hotline: +6592348807 <br>Contact Email: hello@calvinseng.com <br>
+Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

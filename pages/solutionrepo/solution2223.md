@@ -1,15 +1,15 @@
 ---
-title: Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users
+title: HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution2223
 ---
 
 ### Description
 
-Sage CRM is a customer relationship management solution designed to help small and midsize businesses optimize their customer experience and improve productivity.  The solution helps users to simplify the work processes such as quotes and orders, progressing leads and converting them to opportunities using sales workflow, shorten work process cycles.
+Providing customized HR outsourcing services combined with Human Capital Management solutions/SaaS such as Employment Information System, Leave Management, Expense Claims, Time Attendance, Payroll Benefits that includes mobile app.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
+Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

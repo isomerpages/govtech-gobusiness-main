@@ -1,13 +1,12 @@
 ---
-title: Rotary Oven
+title: Planetary or Spiral Mixer
 permalink: /productivity-solutions-grant/solutionrepo/solution385
 ---
 
 ### Description
 
-Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns.
-Able to increase product yield by reducing amount of unevenly baked or burned cakes and muffins. Ideal for bakeries.
-For bigger rotary ovens, it is recommended for it to come with a trolley to load
+Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
 
 ### Details of Solution
 
@@ -33,8 +32,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum of 8 trays
-Racks inside oven must be able to rotate
+Minimum bowl capacity of 20 litres
+Minimally 3 speed options for Planetary Mixer
+Minimally 2 speed options for Spiral Mixer
+Speeds range from 100 to 500 rpm for smaller mixers (less than 100 litres)
+
+Comes with bowl and minimum 2 out of 3 tools - Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable
 
 ### Contact Information
 N.A.

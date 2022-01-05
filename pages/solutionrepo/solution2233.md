@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software-Harvest - Software, Setup and Training
+title: FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)
 permalink: /productivity-solutions-grant/solutionrepo/solution2233
 ---
 
 ### Description
 
-Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
+FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
-Up to 0.8% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Nil
 
 ### Contact Information
-Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg <br>
+Company Name:FacilityBot Pte Ltd <br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

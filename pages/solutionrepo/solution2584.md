@@ -1,15 +1,15 @@
 ---
-title: QuickBooks Online - Acloud - QBO Quick Start - Set A
+title: 3. Develop and Establish Financial Budget and Plans
 permalink: /productivity-solutions-grant/solutionrepo/solution2584
 ---
 
 ### Description
 
-QuickBooks Online is an IRAS-registered cloud accounting software which helps small business owners to access their accounting data, send invoice & record expenses anytime & anywhere when they are online.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0028425-BM' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.acloud-b.com/our-price--services.html <br>Contact Hotline: 97942119 <br>Contact Email: ACloud.Sales@gmail.com <br>
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP (With SOC) - Package (FG-60F)
+title: Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP - Package (FG-60F)
 permalink: /productivity-solutions-grant/solutionrepo/solution1809
 ---
 
@@ -9,7 +9,7 @@ Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified T
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

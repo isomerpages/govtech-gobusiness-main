@@ -1,15 +1,23 @@
 ---
-title: Shopcada Ecommerce and POS - Shopcada Standard Ecommerce Package
+title: XERO CLOUD ACCOUNTING SOFTWARE
 permalink: /productivity-solutions-grant/solutionrepo/solution932
 ---
 
+### Vendor Information
+Company Name:W.L.P PTE LTD <br>Web URL:https://www.wlp.com.sg/ <br>Contact Hotline:64932970 <br>Contact Email:info@wlp.com.sg <br>
+
 ### Description
 
-Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
+Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
+By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_XERO_Accounting_Annex_3_Revised_CR_WEF_30_DEC_2020_Part_1.pdf' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE - Xero Start-up Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_XERO_Accounting_Annex_3_Revised_CR_WEF_30_DEC_2020_Part_2.pdf' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE - Xero Booming Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_XERO_Accounting_Annex_3_Revised_CR_WEF_30_DEC_2020_Part_3.pdf' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE - Xero Basic Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_XERO_Accounting_Annex_3_Revised_CR_WEF_30_DEC_2020_Part_4.pdf' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE - Xero Premier Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_XERO_Accounting_Annex_3_Revised_CR_WEF_30_DEC_2020_Part_5.pdf' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE - Xero Subscription Only</a>
 
 ### Eligibility Criteria
 
@@ -24,7 +32,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -33,7 +41,4 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Globe3 ERP V5.6 - Package (10 Users)(PEPPOL Ready)
+title: Globe3 ERP V5.6 - Package (5 Users with Cloud) (PEPPOL Ready)
 permalink: /productivity-solutions-grant/solutionrepo/solution1240
 ---
 
@@ -9,7 +9,7 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

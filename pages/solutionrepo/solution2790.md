@@ -1,5 +1,5 @@
 ---
-title: 3. Human Resource Systems Management Level 2 Operate Human Resource Information Systems
+title: 2. Apply Project Management Skills
 permalink: /productivity-solutions-grant/solutionrepo/solution2790
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Systems-Management-Level-2-Operate-Human-Resource-Information-Systems-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Apply-Project-Management-Skills-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

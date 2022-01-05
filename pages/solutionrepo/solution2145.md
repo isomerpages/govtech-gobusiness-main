@@ -1,11 +1,11 @@
 ---
-title: Inoculation Cabinet (Laminar flow cabinet)
+title: Pasteurisation Equipment/ Plant
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
 ### Description
 
-For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

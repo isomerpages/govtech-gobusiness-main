@@ -1,5 +1,5 @@
 ---
-title: Synergix E1 Sales & Accounting - Package (5 users with PEPPOL) - TH6
+title: Synergix E1 Sales & Accounting- Package (10 users with PEPPOL) - TH6
 permalink: /productivity-solutions-grant/solutionrepo/solution835
 ---
 
@@ -9,7 +9,7 @@ Synergix E1 is a comprehensive ERP solution that helps to integrate and link up 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

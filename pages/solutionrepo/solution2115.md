@@ -1,11 +1,11 @@
 ---
-title: Aeration System/ Oxygenation System
+title: Automated Fish Counter/ Fish Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 
 ### Description
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+Automatic devices for measuring or estimating the number of fish at a waterbody in a period. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

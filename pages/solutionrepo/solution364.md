@@ -1,15 +1,22 @@
 ---
-title: Eber Smart Membership Solution - Basic Package
+title: Deskera ERP Version 9.0/10.1
 permalink: /productivity-solutions-grant/solutionrepo/solution364
 ---
 
+### Vendor Information
+Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
+
 ### Description
 
-Eber Smart Member Solution is a smart member system comes with comprehensive loyalty & rewards system, marketing, gift card and analytic tool. Retailers and brands can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
+Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
+From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eber_Annex_3_CR_wef_9_Dec_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_1.pdf' target='_blank'>Deskera ERP Version 9.0/10.1 - Package A (SaaS - 3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_2.pdf' target='_blank'>Deskera ERP Version 9.0/10.1- Package B (SaaS - 5 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>Deskera ERP Version 9.0/10.1 - Package C (SaaS - 10 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>Deskera ERP Version 9.0/10.1 - Package D (Direct Purchase Enterprise Package)</a>
 
 ### Eligibility Criteria
 
@@ -24,16 +31,13 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Company Name: Eber Pte Ltd<br>Web URL: eber.co<br>Contact Hotline: 31590888<br>Contact Email: godigital@eber.co<br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

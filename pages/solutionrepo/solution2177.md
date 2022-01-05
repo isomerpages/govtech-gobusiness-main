@@ -1,15 +1,15 @@
 ---
-title: Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (3 Waiters)
+title: Xero Accounting software - Standard Starter Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2177
 ---
 
 ### Description
 
-Powerful & speedy cloud-based digital ordering system, accelerate your business with Popcorn that is specially designed for cafes and restaurants of all sizes. With powerful features to keep your business operations run flawlessly, we can help transform your business like never before!
+Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+Web URL: www.xero.com <br>Contact Hotline: 63104961 <br>Contact Email: enquiry@perfecten.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

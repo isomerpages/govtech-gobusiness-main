@@ -1,5 +1,5 @@
 ---
-title: Fides Suite - Fides Cloud - 3 Outlets
+title: Fides Suite - Fides Cloud - 4 Outlets
 permalink: /productivity-solutions-grant/solutionrepo/solution1852
 ---
 
@@ -9,7 +9,7 @@ Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

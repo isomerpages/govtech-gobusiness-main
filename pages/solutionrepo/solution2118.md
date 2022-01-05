@@ -1,11 +1,11 @@
 ---
-title: Automated Vaccination
+title: Automated Irrigation & Dosing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

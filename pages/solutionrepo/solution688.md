@@ -1,18 +1,22 @@
 ---
-title: Absolute Payboy HRMS Version 1.0 - Package E (200 Employees)
+title: Moneyworks Version 8 
 permalink: /productivity-solutions-grant/solutionrepo/solution688
 ---
 
+### Vendor Information
+Ostendo Pte Ltd<br>www.ostendoasia.com<br>Email: info.sg@ostendoasia.com<br>Tel: +65 6850 5150
+
 ### Description
 
-Absolute Payboy is a cloud-based human resource management system that offers one-stop solution to SME's HR needs such as payroll processing, leave management, time tracking, scheduling and more.    The solution include mobile apps that allow SMEs to manage their employees anytime and anywhere from their mobile devices.
+Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Payboy_Annex_3_wef_4_May_2020_Part_2_.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>Moneyworks Version 8 - Gold (1 user)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>Moneyworks Version 8 - Now (3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>Moneyworks Version 8 - DataCentre (3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with integration and automation)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with Zoho CRM integration)</a>
 
 ### Eligibility Criteria
 
@@ -27,7 +31,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -36,7 +40,4 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Payboy Pte. Ltd.<br>www.Payboy.biz<br>Email: nigel.lim@payboy.biz<br>Tel: +65 9187 6425
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

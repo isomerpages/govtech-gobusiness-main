@@ -1,11 +1,11 @@
 ---
-title: Crate/ Tray washing machine
+title: Dehusking Machine/ Shaker
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
 ### Description
 
-A machine used to wash crates and trays used for farming.
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

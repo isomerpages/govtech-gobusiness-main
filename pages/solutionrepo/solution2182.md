@@ -1,15 +1,15 @@
 ---
-title: EndPoint Standard - 100 EndPoints
+title: WarelyEcom Version 1.3 - Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution2182
 ---
 
 ### Description
 
-Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's EndPoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
+WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+Web URL: https://www.p65marketing.com/ <br>Contact Hotline: 94501066 <br>Contact Email: Business@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

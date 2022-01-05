@@ -1,5 +1,5 @@
 ---
-title: SYSFREIGHT Version 8 - Standard 9 User
+title: SYSFREIGHT Version 8 - Standard 12 User
 permalink: /productivity-solutions-grant/solutionrepo/solution1522
 ---
 
@@ -9,7 +9,7 @@ SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers compre
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

@@ -1,5 +1,5 @@
 ---
-title: Shell Telematics - Shell Telematics (30 vehicles)
+title: Shell Telematics - Shell Telematics (40 vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution776
 ---
 
@@ -9,7 +9,7 @@ Shell Telematics is designed to help business owners get the best performance fr
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

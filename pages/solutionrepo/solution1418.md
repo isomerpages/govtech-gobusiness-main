@@ -1,5 +1,5 @@
 ---
-title: Freight Master Version 8.1 (18 Licenses)
+title: Freight Master Version 8.1 (25 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution1418
 ---
 
@@ -9,7 +9,7 @@ The Freight Master software is a suite of integrated and comprehensive software 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

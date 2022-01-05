@@ -1,15 +1,22 @@
 ---
-title: Vertical Carousel
+title: ABSS Premier Version 23
 permalink: /productivity-solutions-grant/solutionrepo/solution160
 ---
 
+### Vendor Information
+APSCOM SOLUTIONS<br>www.apscomsolutions.com<br>Email: carol.kok@apscomsolutions.com<br>Tel: +65 9720 6813
+
 ### Description
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
 
-### Details of Solution
+### Packages Available
 
-N.A.
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_1.pdf' target='_blank'>ABSS Premier Version 23 - Package A with E-Invoicing (1-User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_2.pdf' target='_blank'>ABSS Premier Version 23 - Package B Software Only with E-Invoicing (3-Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_3.pdf' target='_blank'>ABSS Premier Version 23 - Package C with E-Invoicing (3-Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_4.pdf' target='_blank'>ABSS Premier Version 23 - Package D Advanced with E-Invoicing (3-Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_5.pdf' target='_blank'>ABSS Premier Version 23 - Package E Advanced with E-Invoicing (5-Users)</a>
 
 ### Eligibility Criteria
 
@@ -31,14 +38,6 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Unit height: min. 2.5m
-Carrier tray width: min. 1.3m
-Tray load capacities: 150kg
-With operator Interface (Console)
-With software linked to Inventory Management System 
-Installation costs are supported. Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. Purchase of pre-owned/used equipment not supportable.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

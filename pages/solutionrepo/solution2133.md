@@ -1,11 +1,11 @@
 ---
-title: Ear Tagging Machine
+title: Egg Grading and Inspection System
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
 ### Description
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+Egg grader machine also called egg sorter machine where the eggs are divided into several grades according to weight. Egg sorting can be connected with to egg testing, egg washing, egg ink jet printer, egg packing device, etc. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

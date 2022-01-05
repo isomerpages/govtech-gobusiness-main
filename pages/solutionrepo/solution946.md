@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Workforce Management System Version 12 - Package A (25 Entry Package)
+title: WhyzeHR Workforce Management System Version 12 - Package B (100 Entry Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution946
 ---
 
@@ -10,7 +10,7 @@ Companies in wholesale sector used our fully web based system to manage all the 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

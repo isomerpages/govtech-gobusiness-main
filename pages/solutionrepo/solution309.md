@@ -1,15 +1,20 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0 -Elite E-Commerce Website Development Package
+title: Commercial Inkjet Printer
 permalink: /productivity-solutions-grant/solutionrepo/solution309
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
-Extend your business online and generate higher sales revenue with our scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
+Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. 
+They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
+It is recommended for the Inkjet Printer to be able to integrate with the production line for a smoother flow of operation
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +36,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Company Name:Corsiva Lab Pte Ltd <br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com <br>
+Touchscreen interface, able to manually input datecode/ expiry date for products
+Can automatically print unique barcode for each product from the production line
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

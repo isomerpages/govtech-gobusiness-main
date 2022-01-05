@@ -1,21 +1,11 @@
 ---
-title: Automated tools management system
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution2041
 ---
 
 ### Description
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
-
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Grant support: 80% of cost of equipment, up to $22,400 grant
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
 
 ### Details of Solution
 
@@ -41,13 +31,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
-
-Support only hardware and software.
-
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+Minimum nut size: 12.7mm
+It can be powered hydraulically, electrically, pneumatically etc
+Training costs can be supported
+Maintenance costs not supported
 
 ### Contact Information
 N.A.

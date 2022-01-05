@@ -1,5 +1,5 @@
 ---
-title: Redoc Version 1.0 - Package 3 (Up to 20 users)
+title: Redoc Version 1.0 - Package 4 (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1818
 ---
 
@@ -9,7 +9,7 @@ Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

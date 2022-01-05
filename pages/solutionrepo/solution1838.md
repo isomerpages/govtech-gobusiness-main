@@ -1,15 +1,15 @@
 ---
-title: HeartVoice Telehealth Platform - Package (2 Doctors)
+title: Doctor Anywhere Platform
 permalink: /productivity-solutions-grant/solutionrepo/solution1838
 ---
 
 ### Description
 
-The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes 
+Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase 
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: HeartVoice Pte Ltd<br>Web URL: www.ourheartvoice.com<br>Contact Hotline: 64631795<br>Contact Email: hs@ourheartvoice.com<br>
+Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.com<br>Contact Hotline: 9278 6055<br>Contact Email: fanny@doctoranywhere.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

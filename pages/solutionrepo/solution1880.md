@@ -1,15 +1,15 @@
 ---
-title: LFSUITE Version 6.0 - Package Digital
+title: iREP FM - FM (Mobile Inspection) Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1880
 ---
 
 ### Description
 
-Optimize your retail business productivity and efficiency with RetailPlan, our integrated suite of solutions under LFSuite. Stability, Ease of Use, Scalability, Ability to Customize and Open Integration Capability are 5 uniqueness of our system. We offer a cloud-hybrid POS system, with an online central management console (RetailConnect), where we manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
+Gabkotech recognises the need for the digital transformation of the Facilities Management industry, and has proposed iREP FM for this transformation.  Components within the iREP FM solution will improve and transform the industry to be future-ready with Smart IOT Built Environment Solutions.  These solutions will improve workflow automation for the Built Environment Industry.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
+Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

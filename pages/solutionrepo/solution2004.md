@@ -1,5 +1,5 @@
 ---
-title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (S)
+title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (M)
 permalink: /productivity-solutions-grant/solutionrepo/solution2004
 ---
 
@@ -9,7 +9,7 @@ Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQ
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

@@ -1,15 +1,15 @@
 ---
-title: EndPoint Standard - 30 EndPoints
+title: SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)
 permalink: /productivity-solutions-grant/solutionrepo/solution2184
 ---
 
 ### Description
 
-Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's EndPoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
+SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello@skipqoo.io <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

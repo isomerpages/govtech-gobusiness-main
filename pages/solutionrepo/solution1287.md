@@ -1,20 +1,15 @@
 ---
-title: Digital Welding Equipment 
+title: PEOPLECENTRAL HRMS Version 11 - Professional 50
 permalink: /productivity-solutions-grant/solutionrepo/solution1287
 ---
 
 ### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,11 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Consists of digital welding machines (hardware) and management software
-Current adjusting range: minimally +/- 150A
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

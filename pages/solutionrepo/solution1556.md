@@ -1,18 +1,15 @@
 ---
-title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 10 Vehicles
+title: ChopeBook - ChopeBook Software Only 
 permalink: /productivity-solutions-grant/solutionrepo/solution1556
 ---
 
 ### Description
 
-Designed for all fleet size and management. 
-Includes 4 cameras and a mobile digital video recorder with gps which provides real-time video and gps information to allow fleet managers to better manage and monitor. This will help with more efficient operation, lowering cost and better productivity.   
-
-The system is also able to add in a variety of Telematics smart sensors to meet certain industrial mandatory safety requirements.
+ChopeBook is a Table Management System (TMS) designed to make the most of a restaurant's revenue generating assets - tables and seats. Manage the inflow of online and offline reservations with user-friendly functions synced across multiple devices.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
+Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

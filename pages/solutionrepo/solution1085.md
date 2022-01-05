@@ -1,15 +1,22 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP
+title: OdooCRM 
 permalink: /productivity-solutions-grant/solutionrepo/solution1085
 ---
 
+### Vendor Information
+Company Name:Alitec Pte Ltd <br>Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
+
 ### Description
 
-BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer/inventory management. Daily sales operation are equipped with many promotions/discount setup abilities, this software also bundles with membership features to monitor customers spending, rewards and redemption. The inventory features will track each stocks in and out of the store and report balance of the stock quantities.
+An intuitive user interface designed for sales. A Dashboard for a better overview of the sales activities. Useful tips and best practices to configure and deploy your CRM and much more. Odoo CRM is part of Odoo, the #1 suite of business applications dedicated to SMEs. The strength of Odoo is its modularity and scalability. Start with CRM to track all your sales pipeline, and as your business grows, add the sales, inventory or the accounting module, all integrated, same data and easy to use.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_1.pdf' target='_blank'>OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_2.pdf' target='_blank'>OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_3.pdf' target='_blank'>OdooCRM -Alitec Enterprise (5 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_4.pdf' target='_blank'>OdooCRM -Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_5.pdf' target='_blank'>OdooCRM -Alitec Starter (Unlimited Users, Alitec Hosted, CRM + Website Apps)</a>
 
 ### Eligibility Criteria
 
@@ -33,7 +40,4 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Contact Information
-Company Name:Coobiz IT Solutions Pte Ltd <br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

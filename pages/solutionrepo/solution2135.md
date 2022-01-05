@@ -1,11 +1,11 @@
 ---
-title: Farm Processing Machine
+title: Egg Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
 ### Description
 
-Integrated processing system to process produce into value-added products
+Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

@@ -1,5 +1,5 @@
 ---
-title: Kiosk  & BYOD - Digital Order Channel Package Plus
+title: Kiosk  & BYOD - Kiosk Package with Hardware
 permalink: /productivity-solutions-grant/solutionrepo/solution976
 ---
 
@@ -9,7 +9,7 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_45.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

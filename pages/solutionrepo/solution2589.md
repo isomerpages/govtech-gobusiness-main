@@ -1,15 +1,15 @@
 ---
-title: Xero by Book&Entries - Package A (Premium Package - Software only)
+title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution2589
 ---
 
 ### Description
 
-Since 2015, Book&Entries has continued to serve and provide clients with our various advisory and compliance services.  Our partnership with Xero has enabled us to work with many small-medium enterprises on adopting and implementing the digital way of running the business.  We assist companies with a robust process review to convert tradition way of record keeping to maintaining records digitally.  Our business digital solutions packages are customized to meet your business needs.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.bookentries.com.sg <br>Contact Hotline: 62214246 <br>Contact Email: support@bookentries.com.sg <br>
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

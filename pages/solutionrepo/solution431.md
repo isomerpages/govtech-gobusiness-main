@@ -1,5 +1,5 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
+title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods) 
 permalink: /productivity-solutions-grant/solutionrepo/solution431
 ---
 
@@ -11,7 +11,7 @@ Getz solution is a fully integrated platform that comprehensively resolves F&B's
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: T-Guard - Package (1 Vehicle)
+title: T-Guard - Package (2 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1864
 ---
 
@@ -7,13 +7,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1864
 
 T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
 
--Advanced tracking technology providing greater fleet insights to improve business productivity and safety
--Driver behaviour insights and scoring to instil safe driving culture
--Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
+- Advanced tracking technology providing greater fleet insights to improve business productivity and safety
+- Driver behaviour insights and scoring to instil safe driving culture
+- Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_20200200_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,7 +35,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>

@@ -1,5 +1,5 @@
 ---
-title: TessaCloud DMS Version DMS - Package B Up to 12 users
+title: TessaCloud DMS Version DMS - Package C Up to 20 users
 permalink: /productivity-solutions-grant/solutionrepo/solution858
 ---
 
@@ -9,7 +9,7 @@ TessaCloud DMS is a Document Management System that combines the best features o
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Tessaract_Technologies_20190017_Annex_3_20200625142151_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Tessaract_Technologies_20190017_Annex_3_20200625142151_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

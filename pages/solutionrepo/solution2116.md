@@ -1,11 +1,11 @@
 ---
-title: Automated Counter/ Biomass Estimation System
+title: Automated Fish Sorter/ Grader
 permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ### Description
 
-Automatic devices for measuring or estimating the number of produce in a period.
+Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

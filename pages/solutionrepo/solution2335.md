@@ -1,17 +1,15 @@
 ---
-title: cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 50 Users
+title: Simplr Warehouse Management Version 6 - On Premise (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2335
 ---
 
 ### Description
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing.
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -33,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

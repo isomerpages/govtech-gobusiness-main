@@ -1,11 +1,11 @@
 ---
-title: Sterilizer Equipment
+title: Water Treatment System for Water Recirculation or Discharge
 permalink: /productivity-solutions-grant/solutionrepo/solution2156
 ---
 
 ### Description
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+A system for wastewater treatment to improve the water quality before the water is reused or discharged. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

@@ -1,5 +1,5 @@
 ---
-title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (10 Licenses)
+title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (1 License)
 permalink: /productivity-solutions-grant/solutionrepo/solution613
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution613
 
 SAP Business One is an ERP solution with built-in advanced analytical processing capabilities that includes predictive and graph analysis for the business users. With the SAP HANA data platform where both transactions and analytics are processed in memory, large volumes of data is able to be analyzed in real time and with speed. MPS Solutions is offering Accounting, Inventory, CRM & Sales Management on the SAP Business One platform, enhanced with Peppol E-Invoice integration.
 
-
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

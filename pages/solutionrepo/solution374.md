@@ -1,15 +1,17 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)
+title: EPSProfessional V1.7
 permalink: /productivity-solutions-grant/solutionrepo/solution374
 ---
 
 ### Description
 
-EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
+ePSProfessional is a feature-rich ecommerce online shop solution based on open source system (Prestashop 1.7x) which allows store owners to run easily on their existing web hosting. It includes an online catalogue which saves customer service effort. The online ordering and payment capabilities help to increase productivity by eliminating paper invoicing and PO faxing. The search-engine-optimized system and training create a digital marketing advantage for the merchants over their competitors.
+
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgework_Annex_3_CR_wef_25_Nov_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>Contact Hotline:67460710 <br>Contact Email:sales@edgeworks.com.sg <br>
+Efusion Technology Pte Ltd<br>www.efusiontech.com<br>Email: contact@efusiontech.com<br>Tel: +65 6292 3086 / +65 6291 3382
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

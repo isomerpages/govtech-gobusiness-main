@@ -1,11 +1,11 @@
 ---
-title: Flange Facer
+title: Torque Multiplier
 permalink: /productivity-solutions-grant/solutionrepo/solution1470
 ---
 
 ### Description
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered. Time is saved during operation as there can be less rework.
+The electrically powered torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. Time is also saved during operation.
 
 ### Details of Solution
 
@@ -31,7 +31,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Facing diameter must be >1m
+Produce at least 4,000 N.m torquing force 
+The lithium battery pack that powers the torque multiplier can be supported
 Training costs can be supported
 Maintenance costs not supported
 

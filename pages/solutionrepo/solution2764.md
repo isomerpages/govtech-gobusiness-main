@@ -1,5 +1,5 @@
 ---
-title: 3. Process human resource information (SFw HR)
+title: 3. Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)
 permalink: /productivity-solutions-grant/solutionrepo/solution2764
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Management-Level-2-Process-Human-Resource-Information-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Incident-Response-Perform-Monitoring-Reporting-Duties-Central-Command-Centre-8' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
