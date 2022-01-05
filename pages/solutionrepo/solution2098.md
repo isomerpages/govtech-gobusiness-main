@@ -1,5 +1,5 @@
 ---
-title: Quickbooks online solutions - AB Essential Solution
+title: Quickbooks online solutions - AB Simple Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2098
 ---
 
@@ -10,7 +10,7 @@ The QBOL is IRAS Approved Online Accounting Software solutions
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

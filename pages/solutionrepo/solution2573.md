@@ -1,5 +1,5 @@
 ---
-title: Alitec odooCRM and sales - odoo 5 Users AS3 (Sales)
+title: Alitec odooCRM and sales - STEPS-AS2/(Portal)
 permalink: /productivity-solutions-grant/solutionrepo/solution2573
 ---
 
@@ -9,7 +9,7 @@ Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technic
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

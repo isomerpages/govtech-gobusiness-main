@@ -1,11 +1,11 @@
 ---
-title: Digital quality testing equipment
+title: Packing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2171
 ---
 
 ### Description
 
-Quality testing equipment in measuring the produce quality and freshness
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ### Details of Solution
 

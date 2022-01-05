@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Sowing Machine
+title: Automatic Seed Plug Transplanter
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
 ### Description
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+A machine that completes transplantation.
 
 ### Details of Solution
 

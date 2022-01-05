@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Plug Transplanter
+title: Automatic Harvester
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 
 ### Description
 
-A machine that completes transplantation.
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ### Details of Solution
 

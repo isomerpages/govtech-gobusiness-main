@@ -3,7 +3,7 @@ title: Workplace Safe Management Measures
 permalink: /covid-19-faqs/workplace-safe-management-measures
 ---
 
-### Workplace Safe Management Measures [UPDATED ON 28 Oct 2021]
+### Workplace Safe Management Measures [UPDATED ON 1 Jan 2022]
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="a" %}
 

@@ -1,5 +1,5 @@
 ---
-title: DM Impossible Marketing Digital Marketing Packages - Organic Growth - 3 Months
+title: DM Impossible Marketing Digital Marketing Packages - Social Focus - 3 Months
 permalink: /productivity-solutions-grant/solutionrepo/solution2473
 ---
 
@@ -9,7 +9,7 @@ Impossible Marketing, a Google and Facebook partner company, is one of the leadi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_9.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

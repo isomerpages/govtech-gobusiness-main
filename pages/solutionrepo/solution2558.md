@@ -1,5 +1,5 @@
 ---
-title: AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)
+title: AdeptForms Security Operational Management Version 2 - Package A (Up to 5 Sites)
 permalink: /productivity-solutions-grant/solutionrepo/solution2558
 ---
 
@@ -9,7 +9,7 @@ AdeptForms help our clients to improve and grow by automating their business pro
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

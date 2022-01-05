@@ -1,5 +1,5 @@
 ---
-title: Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, Jumbo (Kiosk)
+title: Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, Large (Kiosk)
 permalink: /productivity-solutions-grant/solutionrepo/solution2515
 ---
 
@@ -9,7 +9,7 @@ Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Lunchbox_20200960_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Lunchbox_20200960_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

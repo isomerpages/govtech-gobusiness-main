@@ -1,5 +1,5 @@
 ---
-title: FITPRISE Project Management System - PCM - Package 2 (10 users)
+title: FITPRISE Project Management System - PCM - Package 1 (5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2338
 ---
 
@@ -9,7 +9,7 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

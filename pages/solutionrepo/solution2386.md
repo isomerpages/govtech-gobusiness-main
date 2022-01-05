@@ -1,5 +1,5 @@
 ---
-title: Sophos XG Firewall - XG 136
+title: Eminet Sophos XGS Firewall - XG 116
 permalink: /productivity-solutions-grant/solutionrepo/solution2386
 ---
 
@@ -17,7 +17,7 @@ Sophos XG Cybersecurity Solution that provides :
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_11_Nov_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -39,7 +39,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.eminet.com.sg <br>Contact Hotline: 66019898 <br>Contact Email: charles@eminet.com.sg <br>

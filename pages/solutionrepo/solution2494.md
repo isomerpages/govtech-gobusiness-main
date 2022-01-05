@@ -1,5 +1,5 @@
 ---
-title: XERO CLOUD APPLICATION - Xero Comprehensive Package D (Premium Package)
+title: XERO CLOUD APPLICATION - Xero Comprehensive Package C (Inclusive of training)
 permalink: /productivity-solutions-grant/solutionrepo/solution2494
 ---
 
@@ -9,7 +9,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

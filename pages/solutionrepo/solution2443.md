@@ -1,5 +1,5 @@
 ---
-title: HAVENCE Version 4 - HAVSMART EMPOWERED
+title: HAVENCE Version 4 - HAVSMART ENRICHED
 permalink: /productivity-solutions-grant/solutionrepo/solution2443
 ---
 
@@ -9,7 +9,7 @@ A complete end-to-end software system tailor-made for centres where there are st
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

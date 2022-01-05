@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Version 23 - 5U+Remote+Setup+Training
+title: ABSS Premier Version 23 - 3U+Remote+Setup+Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2511
 ---
 
@@ -12,7 +12,7 @@ ABSS Premier is a leading SME business integrated accounting solution
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_CR_wef_25_Nov_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_CR_wef_25_Nov_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

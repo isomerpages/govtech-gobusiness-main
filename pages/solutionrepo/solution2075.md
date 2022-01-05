@@ -1,13 +1,11 @@
 ---
-title: Liquid Filling Machine
+title: Automated Labelling Machine 
 permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
 ### Description
 
-Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
-Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
-Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
 ### Details of Solution
 
@@ -33,12 +31,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimally semi-automated
-- Minimally 1 unit/1 nozzle system to provide accurate filling into applicable units
-- Volumetric or weight based filling
+- Minimum 1 labelling position 
+- Auto self-adhesive labelling function 
+- Parameter setting for different label sizes
+- Adjustable production speed minimum 1-30 Metre /min
 - Touchscreen display (optional)
-- Explosion proof (optional)
-- Installation/simple training costs can be supported.
+- Explosion proof (optional) 
+- Installation/simple training costs can be supported 
 - Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed

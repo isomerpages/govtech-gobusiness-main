@@ -1,5 +1,5 @@
 ---
-title: RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10
+title: RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5
 permalink: /productivity-solutions-grant/solutionrepo/solution2190
 ---
 
@@ -9,7 +9,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

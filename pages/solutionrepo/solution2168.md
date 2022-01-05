@@ -1,11 +1,11 @@
 ---
-title: LED grow lights
+title: HVAC system
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
 ### Description
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ### Details of Solution
 

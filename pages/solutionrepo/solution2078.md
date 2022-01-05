@@ -1,11 +1,11 @@
 ---
-title: Battery-operated Torque Wrench
+title: High Pressure Rotating Head
 permalink: /productivity-solutions-grant/solutionrepo/solution2078
 ---
 
 ### Description
 
-Battery-operated torque wrench or torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates the need of tedious manual torqing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, a single worker will be able to carry out torquing independently and in a shorter amount of time. 
+The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. Time and manpower reliance can be reduced when using this equipment.
 
 ### Details of Solution
 
@@ -31,8 +31,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Produce at least 1,000 N.m torquing force 
-- Battery pack and charger can be supported
+- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
+- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
 - Maintenance costs not supported
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed

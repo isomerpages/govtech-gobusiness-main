@@ -1,11 +1,11 @@
 ---
-title: Substrate Mixing and Packing Machine
+title: Sterilizer Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 
 ### Description
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ### Details of Solution
 

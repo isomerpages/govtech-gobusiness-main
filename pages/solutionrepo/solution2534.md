@@ -1,5 +1,5 @@
 ---
-title: Wealthbridge - Xero  - Premium Training Package
+title: Wealthbridge - Xero  - Premium Full Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2534
 ---
 
@@ -9,7 +9,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

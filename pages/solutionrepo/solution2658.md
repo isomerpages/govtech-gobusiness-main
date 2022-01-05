@@ -1,5 +1,5 @@
 ---
-title: Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services
+title: Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services
 permalink: /productivity-solutions-grant/solutionrepo/solution2658
 ---
 
@@ -9,7 +9,7 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus  (25 License)
+title: Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (10 License)
 permalink: /productivity-solutions-grant/solutionrepo/solution2496
 ---
 
@@ -10,7 +10,7 @@ It combines multi-layered, next-generation threat protection with additional pro
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

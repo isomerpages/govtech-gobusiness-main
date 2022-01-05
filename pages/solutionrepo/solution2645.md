@@ -1,5 +1,5 @@
 ---
-title: Flavor Customer Relationship Management System Version 1 - Advanced Mode 1
+title: Flavor Customer Relationship Management System Version 1 - Basic Mode
 permalink: /productivity-solutions-grant/solutionrepo/solution2645
 ---
 
@@ -9,7 +9,7 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

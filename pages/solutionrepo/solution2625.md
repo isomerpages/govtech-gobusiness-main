@@ -1,5 +1,5 @@
 ---
-title: AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=200,000sqm)
+title: AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=100,000sqm)
 permalink: /productivity-solutions-grant/solutionrepo/solution2625
 ---
 
@@ -9,7 +9,7 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

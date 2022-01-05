@@ -1,11 +1,11 @@
 ---
-title: Underwater Camera 
+title: Digital quality testing equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2172
 ---
 
 ### Description
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+Quality testing equipment in measuring the produce quality and freshness
 
 ### Details of Solution
 

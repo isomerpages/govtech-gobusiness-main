@@ -1,5 +1,5 @@
 ---
-title: DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Creative Video Campaign
+title: DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Live Streaming
 permalink: /productivity-solutions-grant/solutionrepo/solution2477
 ---
 
@@ -9,7 +9,7 @@ This package by Next Level SG is designed to help SMEs with increasing and accel
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

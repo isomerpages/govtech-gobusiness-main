@@ -1,11 +1,11 @@
 ---
-title: Crate/ Tray washing machine
+title: Conveyor System for transporting materials
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
 ### Description
 
-A machine used to wash crates and trays used for farming.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: Xero Accounting software - Premium Starter Package
+title: Xero Accounting software - Grow Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2197
 ---
 
@@ -9,7 +9,7 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

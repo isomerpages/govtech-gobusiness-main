@@ -1,5 +1,5 @@
 ---
-title: Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)
+title: Accounts101 - Xero Cloud Accounting Software - Package A (Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution2080
 ---
 
@@ -9,7 +9,7 @@ Xero offers a cloud-based accounting software platform for small and medium-size
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

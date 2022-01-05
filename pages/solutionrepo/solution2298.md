@@ -1,5 +1,5 @@
 ---
-title: eBIS Version V1.0-eBIS (Advanced Package -3 Projects)
+title: eBIS Version V1.0-eBIS (Intermediate Package -2 Projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution2298
 ---
 
@@ -9,7 +9,7 @@ It's a powerful Mobile Application designed for Building and Construction indust
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

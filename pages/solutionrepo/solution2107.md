@@ -1,5 +1,5 @@
 ---
-title: E-Commerce Portal Development (WooCommerce) - Intermediate Package
+title: E-Commerce Portal Development (WooCommerce) - Advanced Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2107
 ---
 
@@ -11,7 +11,7 @@ WooCommerce is friendly to new eCommerce retailers. It is flexible in core featu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_3-.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_2-.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

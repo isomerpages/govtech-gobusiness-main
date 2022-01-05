@@ -1,5 +1,5 @@
 ---
-title: SAP2000 Ultimate Suite - Package 2 with Training (Perpetual)
+title: SAP2000 Ultimate Suite - Package 1 with Training (1 Year)
 permalink: /productivity-solutions-grant/solutionrepo/solution2484
 ---
 
@@ -9,7 +9,7 @@ The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and d
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

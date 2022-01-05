@@ -1,5 +1,5 @@
 ---
-title: 1. WSQ Retail (Sf) Inventory Control (Perform Stock Control for Retail Operations)
+title: 3. NICF - CND - Certified Network Defender
 permalink: /productivity-solutions-grant/solutionrepo/solution2854
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/NICF-CND-Certified-Network-Defender-SF-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -25 Licences
+title: TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -10 Licences
 permalink: /productivity-solutions-grant/solutionrepo/solution2269
 ---
 
@@ -10,7 +10,7 @@ Secures Windows (desktops and servers), Mac, iOS, and Android devices by infusin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

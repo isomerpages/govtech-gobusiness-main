@@ -1,5 +1,5 @@
 ---
-title: 2. Business Forecasting
+title: 1. WSQ Retail Inventory Control (Perform Stock Control)
 permalink: /productivity-solutions-grant/solutionrepo/solution2774
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

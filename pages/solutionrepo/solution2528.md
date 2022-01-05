@@ -1,5 +1,5 @@
 ---
-title: DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo
+title: DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo
 permalink: /productivity-solutions-grant/solutionrepo/solution2528
 ---
 
@@ -9,7 +9,7 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: SHOPLINE e-Commerce Solution - Customized eCommerce Website Development Package + Digital Marketing (Advanced)
+title: SHOPLINE e-Commerce Solution - Advanced Ecommerce & O2O (ALL IN ONE) + Digital Marketing (Basic) 
 permalink: /productivity-solutions-grant/solutionrepo/solution2331
 ---
 
@@ -9,7 +9,7 @@ SHOPLINE provides extensive e-commerce support: inventory management, payment an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,15 +1,16 @@
 ---
-title: Xero - Bamboo Sea Software only
+title: Quickbooks online solutions - AB Plus Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2100
 ---
 
 ### Description
 
-Xero simplifies business tasks so that Managers can focus on the business.
+QuickBooks Online (QBOL) is a small business accounting software program businesses use to manage income and expenses and keep track of the financial health of their business. You can use it to invoice customers, pay bills, generate reports, and prepare for taxes. 
+The QBOL is IRAS Approved Online Accounting Software solutions
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.bamboosea.sg <br>Contact Hotline: 69325288 <br>Contact Email: admin@bamboosea.sg <br>
+Web URL: https://www.avenbill.com.sg/accounting-bookkeeping/ <br>Contact Hotline: 62353309 <br>Contact Email: admin@avenbill.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

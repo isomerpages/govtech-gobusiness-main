@@ -1,11 +1,11 @@
 ---
-title: Packing machine
+title: Rainwater harvesting system and storage tank
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
 ### Description
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ### Details of Solution
 

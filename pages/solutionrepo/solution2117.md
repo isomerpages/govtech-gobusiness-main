@@ -1,11 +1,11 @@
 ---
-title: Automated Sorter/ Grader
+title: Automated Counter/ Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 
 ### Description
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ### Details of Solution
 

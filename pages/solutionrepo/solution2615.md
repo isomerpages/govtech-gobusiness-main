@@ -1,5 +1,5 @@
 ---
-title: MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package
+title: MMS - Xero Accounting Solution - D - Xero Premium Full Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2615
 ---
 
@@ -9,7 +9,7 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,11 +1,11 @@
 ---
-title: Automated Vaccination
+title: Automated Sorter/ Grader
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
 
 ### Details of Solution
 
