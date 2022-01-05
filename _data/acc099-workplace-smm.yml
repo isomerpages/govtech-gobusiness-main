@@ -259,15 +259,11 @@
 
     - title: How long in advance do I need to submit the notification for work related events with 51 to 1000 attendees?
       content: |
-        No. Work related events with more than 1000 attendees are not allowed to proceed.
+        The notification must be submitted before the start of the event.
 
     - title: Can I be unmasked while giving a speech during a work-related event?
       content: |
         Yes. You must deliver the speech from a fixed position that is at least 2 metres away from the audience.
-
-    - title: Do I need to wear a mask while giving a speech during a work-related event?
-      content: |
-        Yes.
 
 - accordion:
   letter: d
