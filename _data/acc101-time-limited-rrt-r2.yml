@@ -33,11 +33,27 @@
 
     - title: I applied for the first round of kits distribution in Sep 2021. Am I still eligible to apply for this second round of kits distribution? 
       content: |
-        Yes, your company may still apply for the ART kits for the employees who fulfill the eligibility criteria. However, the Government reserves the right to reject applications from non-compliant companies who applied for and received the first round of kits distribution. Companies are therefore reminded to submit their results declaration on time and produce the proof of documents as necessary if audited.
+        Yes, your company may still apply for the ART kits for the employees who fulfill the eligibility criteria. , if you have finished utilising the test kits from first round of kits distribution. 
+
+        If your company still has test kits left from the first round of kits distribution, you may use them for weekly testing of onsite employees over the next 8 weeks. If the kits left are not sufficient, you may apply for this second round of kits distribution nearer to the end of January, to begin testing for this second round soon after receiving the kits. Please also note that you should finish utilising the test kits from the first round of distribution before using the test kits from this second round of distribution. You should also continue to submit the results declaration via the respective FormSG links for both rounds of kits distribution at the end of each month of testing.
+        
+        As part of the ongoing audit for the first round of kits distribution, there will be companies who are identified as non-compliant as they have failed to submit results and/or produce the proof of documents as required during audit. The Government therefore reserves the right to reject applications from such companies under this second round of kits distribution. 
 
     - title: I missed the application period for the first round of kits distribution in Sep 2021. Can I apply for additional kits per onsite employee (up to 16 kits) for this second round of distribution? 
       content: |
         Applications for the first round of ART kits distribution has ended on 13 October 2021. Companies who participate in the second round of distribution should only apply for 8 kits per onsite employee.  
+
+    - title: I did not apply for the first round of kits distribution in Sep/Oct 2021, but am keen to apply for this second round of distribution. However, my company is still working from home and have no plans to return to office at this time. Can I still apply for kits?
+      content: |
+        If your company has no plans to return to office until March 2022, there is no need to apply for this second round of distribution. This is because the kits are meant for testing during a time-limited period in January and February, where we expect an uptick in the number of Omicron cases at workplaces. 
+
+        For companies who plan to return to office earlier than March e.g. in February, you may wish to apply for the test kits towards the end of the application period (i.e. end-Jan). This will allow you to begin testing as soon as possible after receiving the test kits, and facilitate your reporting requirements.
+
+    - title: I have already applied for the second round of kits distribution, but my company is still working from home. Do I need to return the kits?
+      content: |
+        You do not have to return the kits but your company will need to submit results twice over the next 8 weeks from the time of receipt of kits (i.e. once at the end of each month’s testing cycle), to indicate how many employees have been tested, and explain the shortfall if need be.
+
+        Upon return to office, you will need to commence testing and continue submitting results on a monthly basis until testing is complete.
 
 - accordion:
   letter: b
@@ -89,6 +105,10 @@
     - title: How do I know that my application has been sent in successfully? 
       content: |
         Upon submitting your application, you should receive an auto-generated acknowledgement email. Do note that any duplicate submissions will be automatically considered as void, and we will not send rejection notifications for these submissions. 
+    
+    - title: I have already submitted an application but realised that I have missed adding some new hires and part-timers. Can I submit another application?
+      content: |
+        There can only be ONE (1) application submitted per company UEN. Subsequent submissions will be voided. Should additional kits be required after the first application, these should be purchased at your company’s own costs.  
 
     - title: Can I cancel my application after submitting? 
       content: |
@@ -144,4 +164,4 @@
         | Checklist of Processes | Suggested Practices|
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
-        | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic. |
+        | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the subsequent FAQs below on what to do when tested ART positive) <br>Ensure that employees have adhered to the required follow-up actions. |

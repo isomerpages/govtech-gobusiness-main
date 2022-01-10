@@ -3,7 +3,7 @@
   data:
     - title: When should my company start the 8-weeks RRT?
       content: |
-        Your company should start the weekly voluntary RRT for onsite employees with immediate effect, upon receipt of the ART kits. If you had deferred starting the weekly voluntary RRT due to the Government’s announcement in end-Sep to pivot towards full WFH, you may encourage your employees to use the kits to continue weekly testing from home. Alternatively, they may recommence testing upon return to office once WFH is no longer the default. 
+        Your company should start the weekly voluntary RRT for onsite employees with immediate effect, upon receipt of the ART kits. If you had deferred starting the weekly voluntary RRT due to the Government’s announcement in end-Sep to pivot towards full WFH, you may encourage your employees to use the kits to continue weekly testing from home. Now that WFH is no longer the default, you may recommence testing for your onsite employees upon return to office.  
 
 - accordion:
   letter: b
@@ -18,7 +18,7 @@
         | Checklist of Processes | Suggested Practices|
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
-        | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic. |
+        | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic.<SUP>*</SUP> <br>(<SUP>*</SUP> Note: This is valid for the period of weekly testing stipulated under the first round of kits distribution. From 6 Jan 2022, low-risk and mildly symptomatic individuals will be instructed to follow an expanded Protocol 2 by their primary care provider i.e. 5-day Medical Certificate will be given; individual to self-isolate at home for 72 hours and be allowed to leave home once tested negative thereafter.) |
 
     - title: Does my company have to submit my employees’ test results to the government?
       content: |
@@ -129,8 +129,8 @@
       content: |
         You should proceed to undergo a confirmatory PCR test instead of self-isolating if,
 
-        - You feel unwill, such as having a fever, cough, sore throat, and a doctor advises you to take a confirmatory PCR test
-        - You are aged above 80 years old (vaccinated) or above 70 years old (unvaccinated)
+        - You display mild symptoms, such as having a fever, cough,  sore throat, and are assessed by a doctor to be high risk (e.g. elderly, pregnant, immunocompromised) 
+        - You display significant symptoms (e.g. chest pain, shortness of breath, prolonged fever) 
 
         Specific sectors may also have special considerations which, where applicable, should be separately communicated to you.
 
@@ -146,8 +146,10 @@
 
     - title: What should my household members, colleagues or close contacts do if I am ART positive?
       content: |
-        While they will not be issued a Health Risk Warning (HRW) given that this is an ART positive case, we advise they take the following precautions:
-        
+        If you test ART positive during your visit to a primary care provider where you received a healthcare-administered ART, Health Risk Warnings (HRW) will be issued to your close contacts, including those identified through the TraceTogether app and self-declaration of household members. Persons issued with HRW should follow the prevailing Protocol 3. 
+
+        If you had tested ART positive via a self-administered ART. Your close contacts will not be issued a HRW. However, we advise that they take the following precautions:
+                
         - Minimise contact with the person who had tested ART positive
         
         - Take an ART self-test within 24 hours of their last contact with the person
@@ -162,7 +164,7 @@
 
     - title: My employee has tested ART positive, can I require that he/she undergoes a confirmatory PCR test?
       content: |
-        Companies should not require employees to undergo a confirmatory PCR test unless they are unwell (e.g. fever, cough, sore throat), or are above 80 years old (vaccinated) or 70 years old (unvaccinated).
+        Companies should not require employees to undergo a confirmatory PCR test unless they display significant symptoms (e.g. chest pain, shortness of breath, prolonged fever), or if they display mild symptoms and are assessed by a doctor to be high-risk (e.g. elderly, pregnant, immunocompromised).
 
     - title: My employee has tested ART negative after having tested positive initially. Is it safe for him/her to return to work?
       content: |
