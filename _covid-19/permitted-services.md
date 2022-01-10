@@ -7,7 +7,7 @@ permalink: /permittedlist/
 
 All firms, bodies and self-employed persons in operation must comply with the safe management requirements [here](/safemanagement/general/) and sector-specific requirements [here](/safemanagement/sector/).
 
-The list of services that are currently allowed to resume operations and their corresponding Singapore Standard Industrial Classification (SSIC) codes, can be found [here](/images/covid/Permitted Services (4 Jan 2022).pdf){:target="_blank"}.
+The list of services that are currently allowed to resume operations and their corresponding Singapore Standard Industrial Classification (SSIC) codes, can be found [here](/images/covid/Permitted Services (10 Jan 2022).pdf){:target="_blank"}.
 
 <!-- note to update zehmie for changes -->
 
