@@ -39,7 +39,7 @@ Firms who have applied and received the ART kits for the first round of Time-Lim
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 10 Jan 2021) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 10 Jan 2022) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
 
 ### More information about ART
 Learn more about how to perform a self-test using ART:
