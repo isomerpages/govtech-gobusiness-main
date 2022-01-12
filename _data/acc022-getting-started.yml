@@ -3,7 +3,7 @@ accordion:
     content: |
       Step 1: Visit the GoBusiness homepage here.
 
-      Step 2: Click on <a href="/login/" target="_blank">Log In</a>, found in the top right hand corner.
+      Step 2: Click on <a href="https://dashboard.gobusiness.gov.sg/login" target="_blank">Log In</a>, found in the top right hand corner.
 
       Step 3: Log in with your SingPass.
 
