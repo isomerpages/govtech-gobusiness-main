@@ -38,5 +38,5 @@ Navigate the process of starting, running and growing a business with our handy 
 - [Food Services Licence Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_guidesforbiz){:target="_blank"}
   <br>A step-by-step walkthrough for food service business owners to apply for relevant licences.
 
-- [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=eservices_guidesforbiz){:target="_blank"}
+- [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.

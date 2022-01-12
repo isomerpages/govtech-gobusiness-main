@@ -11,7 +11,7 @@ third_nav_title: Government Assistance
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend toolkits and programmes you can use.
 
 {% include button.html text="Go to e-Adviser for Government Assistance" src="
-https://gaeadviser.gobusiness.gov.sg/?src=govassist_toolkits
+https://eadviser.gobusiness.gov.sg/govassist/?src=govassist_toolkits
 " type="primary" %}
 
 ### For all sectors

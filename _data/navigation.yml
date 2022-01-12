@@ -72,4 +72,4 @@ links:
       - title: FAQ
         url: /faqs/popular/
   - title: <div class="login-btn"></div>
-    url: /login/?src=top_nav
+    url: https://dashboard.gobusiness.gov.sg/login

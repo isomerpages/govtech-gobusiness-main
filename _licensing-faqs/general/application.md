@@ -4,7 +4,7 @@ permalink: /licensing-faqs/application/
 third_nav_title: General
 ---
 
-### Application
+### Food Services Guided Journey
 
 {% include accordion.html accordions=site.data.acc025-application.accordion %}
 

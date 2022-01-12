@@ -1,14 +1,14 @@
 accordion:
   - title: How do I log in to GoBusiness?
     content: |
-      Step 1: Visit the GoBusiness homepage here.
+      Step 1: Click on the Log In button at the top right hand corner of the screen.
 
-      Step 2: Click on <a href="/login/" target="_blank">Log In</a>, found in the top right hand corner.
+      Step 2: Select the portal you are logging into.
 
-      Step 3: Log in with your SingPass.
+      Step 3: Log in via your Singpass account.
 
-      Note: From 11 April 2021, you will be required to login to government digital services for businesses (G2B) using SingPass instead of CorpPass. For more information, visit <a href="/contact-us/" target="_blank">go.gov.sg/corporate-login</a>.
-
+      You are required to log in to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href="https://go.gov.sg/corporate-login" target="_blank">go.gov.sg/corporate-login</a>.
+      
   - title: I'm having trouble logging in. What should I do?
     content: |
       GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or <a href="/contact-us/" target="_blank">contact us</a> for help.
@@ -17,7 +17,7 @@ accordion:
     content: |
       From 11 April 2021, the login process for Corppass will be changed to verify the user's identity via Singpass first, before the user can proceed to access and transact with government digital services.
 
-      Note: Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the ‘Corppass 2FA for Foreigners' app will no longer be used.
+      Note: Foreign ID users will be issued a Singpass Foreign user Account (SFA) and the 'Corppass 2FA for Foreigners' app will no longer be used.
 
   - title: Why is there a change in the Corppass login process?
     content: |
@@ -37,15 +37,15 @@ accordion:
 
   - title: I am an existing Foreign ID user on Corppass, what should I do?
     content: |
-      You would have received an email from Singpass with the subject ‘Registration of Singpass account (Foreign User)' which contains your Singpass ID and instructions to set up your Singpass app.
+      You would have received an email from Singpass with the subject 'Registration of Singpass account (Foreign User)' which contains your Singpass ID and instructions to set up your Singpass app.
 
-      Follow the instructions in the email to <a href="https://www.ifaq.gov.sg/CorpPass/apps/Fcd_faqmain.aspx#FAQ_2110970" target="_blank" rel="noopener">activate your Singpass Foreign user Account</a>.
+      Follow the instructions in the email to <a href="https://www.ifaq.gov.sg/CorpPass/apps/Fcd_faqmain.aspx#FAQ_2110970" target="_blank">activate your Singpass Foreign user Account</a>.
 
       Note: Please activate your Singpass account immediately if you have not activated it yet.
 
   - title: I have activated my Singpass Foreign user Account. What should I do now?
     content: |
-      For now, you may continue to use your Corppass ID, Password and the ‘Corppass 2FA for Foreigners' app for Two-Factor Authentication to access and transact with government digital services.
+      For now, you may continue to use your Corppass ID, Password and the 'Corppass 2FA for Foreigners' app for Two-Factor Authentication to access and transact with government digital services.
 
   - title: I have multiple Corppass accounts. How can I select which account to transact for when I log in with Singpass?
     content: |
