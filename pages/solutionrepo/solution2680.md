@@ -1,15 +1,15 @@
 ---
-title: Fides Suite - Fides Cloud - 3 Outlets
-permalink: /productivity-solutions-grant/solutionrepo/solution1852
+title: JustLogin HR E-Scheduling - C (Up to 75 pax)
+permalink: /productivity-solutions-grant/solutionrepo/solution2680
 ---
 
 ### Description
 
-Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all B2B and B2c businesses. and Fides Portal is an engaging platform for members to view their loyalty history, redeem rewards and shop
+JustLogin is an Employee First Human Resource (HR) cloud platform that provides innovative technologies for businesses to manage their people operations. JustLogin HR E-Scheduling allows tracking of employee attendance and roster scheduling, and is seamlessly integrated with Payroll and Leave software. The package includes SafeClock, an all-in-one employee attendance tracker, contactless temperature scanner, automated SafeEntry, visitor management and door access solution device.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: crm.fidescloud.com <br>Contact Hotline: 69726400 <br>Contact Email: fidessuite@edenred.com <br>
+Web URL: https://justlogin.com <br>Contact Hotline: 69099217 <br>Contact Email: info@justlogin.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
