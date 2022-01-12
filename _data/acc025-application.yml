@@ -64,7 +64,7 @@ accordion:
 
   - title: I accidentally added new premises, how can I delete the draft application/premises?
     content: |
-      [Login to GoBusiness Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs). Click on the premises you would like to delete. If the premises can be deleted, the “Remove” button will appear beside the “Premises Details” section title. Click on the “Remove” button to start the process of deletion.
+      [Login to GoBusiness Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=login_fs){:target="_blank"}{:rel="noopener"}. Click on the premises you would like to delete. If the premises can be deleted, the “Remove” button will appear beside the “Premises Details” section title. Click on the “Remove” button to start the process of deletion.
 
       Premises can only be deleted if they contain draft application(s).
 
