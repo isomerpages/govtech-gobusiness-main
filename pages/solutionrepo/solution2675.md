@@ -1,15 +1,15 @@
 ---
-title: Fides Suite - Fides Cloud - 1 Outlet
-permalink: /productivity-solutions-grant/solutionrepo/solution1851
+title: Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3
+permalink: /productivity-solutions-grant/solutionrepo/solution2675
 ---
 
 ### Description
 
-Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all B2B and B2c businesses. and Fides Portal is an engaging platform for members to view their loyalty history, redeem rewards and shop
+QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobile based and hence, you don't have to install or download traditional software on your laptops or worry about operating-system compatibility. Your data are backs up automatically and meet the highest online security standards for data storage.  It allows you to access from any Internet-connected computer and you can specify permission levels to control what type of data your users can see or modify.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: crm.fidescloud.com <br>Contact Hotline: 69726400 <br>Contact Email: fidessuite@edenred.com <br>
+Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
