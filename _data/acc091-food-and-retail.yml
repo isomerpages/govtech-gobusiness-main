@@ -112,7 +112,7 @@
       content: |
         Establishments are required to upload the results of the outlet workers' swab tests to the SRS on the same day as the tests are taken (within 24 hours). 
         
-        For Ag+ cases, the results must be submitted on the SRS within 30 mins from the time of the test.  
+        For Ag+ cases, the results must be submitted on the SRS within 12 hours from the time of the test.  
 
 - accordion:
   letter: e
