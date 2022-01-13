@@ -3,7 +3,7 @@
   data:
     - title: Do i need to declare my onsite manpower details?
       content: |
-        You are required to declare your onsite manpower if you received an email notifying you to submit your onsite manpower details, or if there is a “MPSubmit” reference number in your company dashboard after you have logged into GoBusiness. 
+        You are encouraged to declare your onsite manpower if you received an email notifying you to submit your onsite manpower details, or if there is a “MPSubmit” reference number in your company dashboard after you have logged into GoBusiness. 
         
         For companies in the Construction, Process and, Marine and Offshore Sectors
         
@@ -11,7 +11,7 @@
 
     - title: Why is it necessary for me to declare my onsite manpower details?
       content: |
-        As announced under the Stablisation Period on 24 Sep 2021, work-from-home will be the default at workplaces and employers must ensure that employees who are able to work from home do so. The onsite manpower declaration will help us in tracking and guide our decisions moving forward. 
+        The onsite manpower declaration will help us in tracking and guide our decisions moving forward. 
         
         We seek your assistance in adhering to this and appreciate your contributions in the national fight against COVID-19.
 
@@ -25,15 +25,15 @@
 
     - title: How do I declare my manpower details?
       content: |
-        Please login to [https://go.gov.sg/covidbusinessresumptions](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}. Thereafter, please click on the button “submit manpower” to submit your manpower details. 
+        Please login to [https://go.gov.sg/covidbusinessresumptions](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"} and log in to the system using your Corppass account. Thereafter, scroll down to the relevant reference number and click on the button “submit manpower” to submit your manpower details. 
 
-        Please refer to this [guide](https://www.gobusiness.gov.sg/images/guides/Manpower%20Declaration%20(24%20August%202021).pdf){:target="_blank"}{:rel="noopener"} for instructions on how to declare your manpower details. 
+        Please refer to this [guide](https://www.gobusiness.gov.sg/images/guides/Manpower Declaration (17 December 2021).pdf){:target="_blank"}{:rel="noopener"} for instructions on how to declare your manpower details. 
 
         Specific manpower declaration requirements for the Marine & Offshore and Process sectors can be found in the section below titled “For Marine & Offshore and Process sectors only”.
 
     - title: How do I calculate the total no. of manpower working on-site? 
       content: |
-        This refers to the total number of employees working on-site (i.e. no longer working from home). 
+        This refers to the total number of employees working on-site (i.e. no longer working from home full-time). 
 
         For example, your company has a total of 100 employees. 60 of your employees are required to work onsite to operate your production plant, whereas 40 of your employees are able to work from home all the time. The total number of manpower working on-site is 60. 
 
@@ -45,7 +45,7 @@
 
     - title: I am unable to declare my manpower details. What should I do? 
       content: |
-        Please refer to this [guide](https://www.gobusiness.gov.sg/images/guides/Manpower%20Declaration%20(24%20August%202021).pdf){:target="_blank"}{:rel="noopener"} for instructions on how to declare your manpower details. If you continue to face any issues declaring your manpower details, please contact [COVID_GoBusiness@mti.gov.sg](mailto:COVID_GoBusiness@mti.gov.sg) for assistance. 
+        Please refer to this [guide](https://www.gobusiness.gov.sg/images/guides/Manpower Declaration (17 December 2021).pdf){:target="_blank"}{:rel="noopener"} for instructions on how to declare your manpower details. If you continue to face any issues declaring your manpower details, please contact [COVID_GoBusiness@mti.gov.sg](mailto:COVID_GoBusiness@mti.gov.sg) for assistance. 
 
     - title: How long do I need to keep declaring/submitting my manpower details? Do I need to update this information on a daily basis whenever there are changes to my manpower count?
       content: |
@@ -67,7 +67,9 @@
 
     - title: Is there a cap on the number of workers allowed on site? 
       content: |
-        No. However, businesses are required to implement work-from-home as a default and only workers whose work cannot be performed at home are allowed to continue to work on site.
+        From 1 January 2022 to 14 January 2022, up to 50% of employees who can work from home are allowed to return to the workplace. Employers must ensure only the following employees can return to the workplace: (i) employees who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) employees who have recovered from COVID-19 within the past 180 days, (iii) unvaccinated employees who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test at an MOH-approved COVID-19 test provider. Employees who are medically ineligible for all the vaccines under the National Vaccination Programme, including Sinovac, are exempted from the testing requirement above if they need to work on-site
+
+        From 15 January 2022 onwards, only employees who are fully vaccinated, certified to be medically ineligible or have recovered from COVID-19 within 180 days, can return to the workplace. The concession for unvaccinated employees to perform PET in lieu of being fully vaccinated will be removed, i.e. such employees will not be allowed to return to the workplace even if they did PET with a negative result. Partially vaccinated employees will still be allowed at workplaces with a negative PET result up to 31 January 2022 after which they must be fully vaccinated.
 
     - title: If my workers are deployed at other premises and not working at my own business premise, do I include them in the onsite manpower declaration?
       content: |
@@ -86,7 +88,7 @@
   data:
     - title: Why is the manpower submission requirement for Marine & Offshore and Process sectors different? 
       content: |
-        From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://gobusiness.gov.sg/exemptions){:target="_blank"}{:rel="noopener"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee's SGWorkPass AccessCode status to reflect as “Red”. 
+        From 1 July 2020, businesses that falls under the Marine & Offshore and Process sectors will be required to submit details of the employees/workers [here](https://go.gov.sg/covidbusinessresumptions){:target="_blank"}{:rel="noopener"}. This submission of manpower details is required to facilitate information updates for the AccessCode on the SGWorkPass app, including the approval to work and the requirement for regular swabbing. Failure to do so will cause the employee's SGWorkPass AccessCode status to reflect as “Red”. 
 
     - title: What manpower details must I submit, and from when should I be submitting? 
       content: |
