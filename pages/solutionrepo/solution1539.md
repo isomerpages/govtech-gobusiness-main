@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 Subscription / Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note

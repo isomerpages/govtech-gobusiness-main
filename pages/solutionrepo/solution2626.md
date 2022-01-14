@@ -27,11 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.airsquire.ai <br>Contact Hotline: 91190708 <br>Contact Email: hello@airsquire.ai <br>

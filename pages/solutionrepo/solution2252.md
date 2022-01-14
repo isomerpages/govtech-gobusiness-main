@@ -27,11 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Subscription / Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
-Nil
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:FacilityBot Pte Ltd <br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co <br>

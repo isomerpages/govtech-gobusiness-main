@@ -31,11 +31,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
 Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
