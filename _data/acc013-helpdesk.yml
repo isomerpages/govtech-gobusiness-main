@@ -32,6 +32,8 @@ accordion:
       <br>Closed on weekends and public holidays  
   - title: For enquiries on GoBusiness Licensing
     content:  |
+      <img src="/images/gobusiness_licensing.png">
+
       **Telephone**
       <br>[+65 6774 1430](tel:+6567741430)
 
@@ -44,7 +46,8 @@ accordion:
       <br>Closed on Sundays and public holidays
   - title: For enquiries or technical issues with GoBusiness
     content:  |
-      Including questions about GoBusiness Dashboard and other general matters
+      <img src="/images/gobusiness_dashboard.png">
+      <br>Including questions about GoBusiness Dashboard and other general matters
 
       **Telephone**
       <br>[+65 6336 3373](tel:+6563363373)
