@@ -30,3 +30,7 @@ As part of the enhancement to the existing PSG, job redesign under PSG (PSG-JR) 
 PSG-JR is open for application since 1 December 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on Business Grant portal. Companies will need to register for a Corppass account to transact on the portal.
 
 For more information on PSG-JR, please refer to [https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"} or to contact SNEF at psgjr@snef.org.sg or +65 6827 6910.
+
+### 6. Is the Productivity Solutions Grant (PSG) taxable?
+
+PSG should be considered as revenue and is taxable for grant recipients. For more information on the tax treatment of PSG, you can contact IRAS via their online chatbox or email via myTax Mail in [myTax Portal](https://mytax.iras.gov.sg/){:target="_blank"}{:rel="noopener"}.
