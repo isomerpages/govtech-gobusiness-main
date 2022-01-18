@@ -4,7 +4,9 @@ permalink: /covid-19-faqs/for-sector-specific-queries/food-and-retail
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Food and retail
+### Food and retail 
+
+#### A.	Retail and F&B Establishments
 
 #### General
 
@@ -14,7 +16,11 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="b" %}
 
-#### Other Questions
+#### Vaccination-differentiated SMMs (VDS)
+
+{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="c" %}
+
+#### Workplace Vaccination Measures
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="d" %}
 
@@ -22,17 +28,18 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="e" %}
 
-#### FET for F&B and Retail Establishments
+#### B. FET for F&B and Retail Establishments
+
+#### General
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="f" %}
 
-#### Vaccination-differentiated SMMs (VDS)
+#### Collection of Test Kits
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="g" %}
 
-#### Testing for unvaccinated employees
+#### Recording of test results on Swab Registration System (SRS)
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="h" %}
-
 
 [Back to Covid-19 Overview](/covid/)
