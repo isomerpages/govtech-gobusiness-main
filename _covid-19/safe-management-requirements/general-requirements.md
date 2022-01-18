@@ -28,4 +28,4 @@ All businesses should take note of the following:
 
 <sup>1</sup> From 1 January 2022, all recovered persons from COVID-19 who are not fully vaccinated will only be given a 180-day exemption after infection to enter the workplace. Non-fully vaccinated individuals who had recovered from COVID-19 prior to 1 January 2022 will also have their exemption period reduced from 270 days to 180 days. Such individuals who will already exceed the 180-day period as at 1 January 2022 would be granted an additional one-month grace period till 31 January 2022 to complete their vaccination regime, so as to continue being able to enter the workplace
 
-![SMR](/images/covid/Adhere_to_Safe_Management_Measures_at_Workplaces_Infographic_v3.jpg 'SMR')
+![SMR](/images/covid/14 Dec - Updates to SMM_14 Dec 2021.jpg 'SMR')
