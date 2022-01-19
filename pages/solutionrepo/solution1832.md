@@ -5,11 +5,15 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1832
 
 ### Description
 
-Yumstone's Management System enables F&B operators and restaurants to empower their dining and takeaway customers to order their food and beverages by themselves using their own mobile devices - mobile phone or tablets.  The solution also allow F&B operators to register every customer in Yumstone CRM and run marketing campaigns and promotions to attract return customers which is the most important group of customers for operators.
+The Essential F&B Management Solutions 
+Major Productivity Solutions:
+1.	Efficient streamlined manpower, cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
