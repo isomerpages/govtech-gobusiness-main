@@ -21,6 +21,13 @@ permalink: /covid-19-faqs/time-limited-rrt-for-workplaces-round2
 
 {% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="d" %}
 
+#### About Use of Antigen Rapid Test (ART) Kits
+
+{% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="e" %}
+
+#### About Testing ART-Positive
+
+{% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
 

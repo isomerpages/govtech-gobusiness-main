@@ -23,6 +23,10 @@
       content: |
         Businesses which are UEN-registered and have a valid Corppass will be eligible to apply for kits for fully vaccinated employee(s) who work on-site and are not already under the mandatory RRT regime. 
 
+    - title: My employees are on FET RRT and we are running out of kits for this month. However, we have yet to receive additional kits for the next month. Can we apply for this second round of Time-Limited RRT to get the kits first?
+      content: |
+        Companies with employees on mandatory FET RRT should not obtain additional kits meant for mandatory testing by applying for this second round of Time-Limited RRT. For companies who are running out of kits, they should contact their respective FET RRT Sector Lead agencies for follow-up on the kits replenishment. 
+
     - title: Can companies with employees that meet the eligibility criteria choose not to apply for the ART test kits?
       content: |
         Applying for the ART kits is voluntary. Nevertheless, companies are strongly encouraged to do so.  
@@ -55,10 +59,14 @@
 
         Upon return to office, you will need to commence testing and continue submitting results on a monthly basis until testing is complete.
 
+    - title: I started my weekly voluntary testing regime, but have an employee who tested positive at a GP in the first week, and was subsequently given the ‘recovered’ status which exempts him from Pre-Event Testing. Will he also be exempted from the Time-Limited RRT when he comes back to work?
+      content: |
+        The employee may still use the test kits for weekly testing when he returns to the workplace. Companies may use the test kits for testing of onsite employees who are fully vaccinated (including those who have recovered), those certified to be medically ineligible, or unvaccinated and recovered from COVID-19 infection within 180 days. 
+
 - accordion:
   letter: b
   data:
-    - title: How do I submit my company’s application?
+    - title: How do I submit my company's application?
       content: |
         Please note that your company would need to have a valid Corppass login to submit your application. The application link will be made available on this website by 3 Jan 2022. 
 
@@ -119,7 +127,7 @@
   data:
     - title: My company has submitted the application. When will my company receive the ART kits?
       content: |
-        Successful applicants will be informed of their delivery up to 10 working days from the time of application.
+        Successful applicants will be informed of their delivery up to 10 working days from the time of application. However, for applications made after 21 Jan onwards, please expect a longer processing and delivery lead time as our delivery vendors are taking a scheduled break over the Chinese New Year period. Deliveries for applications made after 21 Jan onwards may only be fulfilled after the Chinese New Year period, from second week of February onwards.
 
     - title: How will the kits be delivered to my company?
       content: |
@@ -159,3 +167,103 @@
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
         | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the subsequent FAQs below on what to do when tested ART positive) <br>Ensure that employees have adhered to the required follow-up actions. |
+
+- accordion:
+  letter: e
+  data:
+    - title: How do I use the test kits?
+      content: |
+        You may refer to this [link](https://go.gov.sg/sd-biosensor){:target="_blank"}{:rel="noopener"} for self-test instructions for the SD Biosensor kits which you have received.  
+
+        You may also follow the step-by-step instructions available [here](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"} or obtain more information from go.gov.sg/selftestart. 
+
+    - title: Is ART painful?
+      content: |
+        ART is conducted by inserting a swab stick approximately 2cm into the nostril. These swabs are shallower and less intrusive than the nasopharyngeal swabs taken for PCR tests. Users may experience some discomfort, but the swabs should not be painful.
+
+    - title: Is frequent ART swabbing harmful to me?
+      content: |
+        Frequent swabbing has not been proven to be harmful. ART swabs are inserted at around 2cm into the nostril, which are shallower and less intrusive than the nasopharyngeal swabs taken for PCR tests. However, if you have had recent facial surgery or frequent nose bleeds, you are advised to visit a [licensed ART provider](https://www.moh.gov.sg/docs/librariesprovider5/covid19_test_providers/approved-covid-19-art-swab-provider-(caa-18-june).pdf){:target="_blank"}{:rel="noopener"} to have a professional perform the ART for you.
+
+    - title: If I am feeling unwell on the day of testing (i.e. have sore throat, cough or fever), should I still proceed to do the test?
+      content: |
+        If you are experiencing acute respiratory symptoms (e.g. fever, cough, flu or runny nose), you may visit a primary care provider who will assess your condition and administer the relevant tests.
+
+    - title: What do my results mean?
+      content: |
+        Negative: Even if you test negative, please stay vigilant. Do continue to observe safe distancing measures and practice good personal hygiene such as regular handwashing and wearing a mask when leaving your home. Continue to monitor your health and test yourself where necessary.
+
+        Positive: If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you feel unwell e.g. fever, cough, sore throat at any point in time, please visit a primary care doctor for further assessment. 
+
+        Invalid: An invalid test may mean that the test was not performed correctly, or the test kit was faulty. You should re-read the instructions on how to perform the test and repeat an ART with a new test kit until you get a valid ART result. You may also consider undergoing a self-paid ART which is supervised or done by a healthcare provider, such as at Quick Test Centres or medical clinics. 
+
+    - title: What should I do if I experience nose bleeding after swabbing?
+      content: |
+        Please consult a doctor if you experience persistent nose bleeding.
+
+    - title: How should I dispose the used test kit?
+      content: |
+        After reading the results, please take a photo with your ID in the same photo if the result is positive or both results are invalid.
+
+        To dispose the test kit, place all the used items from the test kit into a plastic bag or a sealable bag and seal it. Place the sealed bag into another plastic bag. Tie the second plastic bag with a rubber band or cable tie. Please ensure that the bags are tightly tied to protect your community. Throw it into the rubbish chute or a pedal bin immediately.
+
+- accordion:
+  letter: f
+  data:
+    - title: What should I do if I test ART positive?
+      content: |
+        You should isolate yourself at home if you are well and test positive. 
+
+        After 72 hours, repeat an ART. You can resume daily activities if it tests negative. If it is positive, continue to self-isolate and repeat ARTs at least one day apart. You can stop self-isolation and resume daily activities when it tests negative.
+
+        If you feel unwell e.g. fever, cough, sore throat, please visit a primary care provider to be assessed medically.
+
+    - title: What should I do as part of self-isolation?
+      content: |
+        You should take steps and make arrangements to make sure that you can isolate yourself from other persons in your household. You should minimise interactions with other household members, and practise good hygiene habits. These include:
+        
+        * Staying in a room on your own as much as possible and keeping the door closed
+        
+        * If you have to share a bathroom, clean it each time you use it by wiping surfaces
+        
+        * Wash your hands often
+        
+        * Keep the windows open to ensure the house is well-ventilated
+
+        You are advised not to leave home unless to seek medical care for COVID-19.
+
+    - title: What should I do if I do not have an ART test to do the repeat tests?
+      content: |
+        You may use the ART kits that your company has applied for you to conduct the repeat tests. If that is not available or accessible, your family and friends can help to purchase or you can purchase them online.
+
+    - title: If I test ART positive, when should I proceed to receive a confirmatory PCR test instead of self-isolating? 
+      content: |
+        You are not required to receive a confirmatory PCR test unless your primary care provider advises you to do so. 
+
+    - title: What should my household members, colleagues or close contacts do if I am ART positive?
+      content: |
+        If you test ART positive during your visit to a primary care provider where you received a healthcare-administered ART, Health Risk Warnings (HRW) will be issued to your close contacts, including those identified through the TraceTogether app and self-declaration of household members. Persons issued with HRW should follow the prevailing Protocol 3. 
+
+        If you had tested ART positive via a self-administered ART. Your close contacts will not be issued a HRW. However, we advise that they take the following precautions:
+        
+        * <b>Minimise contact with the person who had tested ART positive</b>
+        
+        * <b>Take an ART self-test within 24 hours of their last contact with the person</b>
+        
+        * <b>Should they need to leave home over the next 7 days, e.g. to work or to school, take an ART self-test on the same day</b>
+        
+          1. <b>If negative, they may leave home</b>
+
+          2. <b>If positive, follow the instructions for persons tested ART positive.</b>
+
+        During the 7-day period, avoid unnecessary interactions with others as much as possible. 
+
+    - title: My employee has tested ART positive, can I require that he/she undergoes a confirmatory PCR test?
+      content: |
+        Companies should not require employees to undergo a confirmatory PCR test unless the employee visits a primary care doctor who advises him/her to do so. 
+
+    - title: My employee has tested ART negative after having tested positive initially. Is it safe for him/her to return to work?
+      content: |
+        As long as a person without symptoms has tested negative on the antigen test that was done at least 72 hours after the initial positive test, the person can return to work safely. 
+
+        There is no need for PCR testing before the person returns to work.
