@@ -173,9 +173,9 @@
   data:
     - title: How do I use the test kits?
       content: |
-        You may refer to this link for self-test instructions for the SD Biosensor kits which you have received.  
+        You may refer to this [link](https://go.gov.sg/sd-biosensor){:target="_blank"}{:rel="noopener"} for self-test instructions for the SD Biosensor kits which you have received.  
 
-        You may also follow the step-by-step instructions available here or obtain more information from go.gov.sg/selftestart. 
+        You may also follow the step-by-step instructions available [here](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"} or obtain more information from go.gov.sg/selftestart. 
 
     - title: Is ART painful?
       content: |
@@ -183,7 +183,7 @@
 
     - title: Is frequent ART swabbing harmful to me?
       content: |
-        Frequent swabbing has not been proven to be harmful. ART swabs are inserted at around 2cm into the nostril, which are shallower and less intrusive than the nasopharyngeal swabs taken for PCR tests. However, if you have had recent facial surgery or frequent nose bleeds, you are advised to visit a licensed ART provider to have a professional perform the ART for you.
+        Frequent swabbing has not been proven to be harmful. ART swabs are inserted at around 2cm into the nostril, which are shallower and less intrusive than the nasopharyngeal swabs taken for PCR tests. However, if you have had recent facial surgery or frequent nose bleeds, you are advised to visit a [licensed ART provider](https://www.moh.gov.sg/docs/librariesprovider5/covid19_test_providers/approved-covid-19-art-swab-provider-(caa-18-june).pdf){:target="_blank"}{:rel="noopener"} to have a professional perform the ART for you.
 
     - title: If I am feeling unwell on the day of testing (i.e. have sore throat, cough or fever), should I still proceed to do the test?
       content: |
