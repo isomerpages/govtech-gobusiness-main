@@ -13,14 +13,6 @@ permalink: /covid-19-faqs/time-limited-rrt-for-workplaces
 
 {% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="b" %}
 
-#### About Antigen Rapid Testing (ART)
-
-{% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="c" %}
-
-#### About Testing ART-Positive 
-
-{% include letter-accordion.html accordions=site.data.acc100-time-limited-rrt letter="d" %}
-
 
 [Back to Covid-19 Overview](/covid/)
 
