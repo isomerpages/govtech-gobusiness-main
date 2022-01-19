@@ -22,7 +22,7 @@ Firms with employees who meet the eligibility criteria may apply for the ART kit
 
 The application period is from 3 Jan 2022 to 31 Jan 2022. Please note that corporate entity login (Corppass) is required for authentication during submission. Only one application form will be allowed for each company UEN. Any subsequent or duplicate submissions will be automatically rejected and there will be no rejection notifications sent.
 
-Successful applicants will be informed of their delivery up to 10 working days from the time of application.
+Successful applicants will be informed of their delivery up to 10 working days from the time of application. In view of the upcoming Chinese New Year period, please expect a longer processing and delivery lead time for your application as our delivery vendors are taking a scheduled break. <b>Deliveries for applications made after 21 Jan onwards may only be fulfilled after the Chinese New Year period, from second week of February onwards.</b>
 
 Companies are required to commence weekly testing with immediate effect, upon receipt of the ART kits. 
 
@@ -39,7 +39,7 @@ Firms who have applied and received the ART kits for the first round of Time-Lim
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 10 Jan 2022) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 19 Jan 2022) for more information on application process for Round 2 of Time-Limited RRT, as well as results submission and declaration for Round 1 of Time-Limited RRT.
 
 ### More information about ART
 Learn more about how to perform a self-test using ART:
