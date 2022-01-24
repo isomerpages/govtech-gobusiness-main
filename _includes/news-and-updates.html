@@ -1,92 +1,235 @@
 <style>
-  .news-media-container {
+  [class*="nnu"] {
+    font-family: hknova-regular;
+  }
+
+  .nnuContainer {
+    min-width: 328px;
     display: grid;
-    grid-template-columns: repeat(3, 366px);
-    justify-content: center;
-    column-gap: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    grid-template-areas:
+      "header"
+      "banner"
+      "nnu__post--preview"
+      "nnu__content--2"
+      "nnu__content--3"
+      "button";
+    row-gap: 24px;
+    padding: 16px 16px 64px;
+    margin: 0 auto;
   }
 
-  .news-media-container small {
-    font-size: 15px;
-    line-height: 23px;
+  .nnu__title {
+    grid-area: header;
+    font-family: hknova-semibold;
+    font-size: 28px;
+    line-height: 35px;
+    color: #037e8a;
   }
 
-  .news-media-container h4 {
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 36px;
-    font-size: 24px;
-    line-height: 36px;
-    display: -webkit-box;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
-    height: 180px;
+  .nnu__banner {
+    grid-area: banner;
   }
 
-  @media (max-width: 1279px) {
-    .news-media-container {
-      margin: 20px 30px;
-      overflow: scroll;
-      justify-content: start;
-      -ms-overflow-style: none;
-      scrollbar-width: none;
+  .nnu__banner img {
+    width: 100%;
+  }
+
+  [class*="nnu__content"] {
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+  }
+
+  .nnu__content--1 {
+    grid-area: nnu__post--preview;
+  }
+
+  .nnu__content--2 {
+    grid-area: nnu__content--2;
+  }
+
+  .nnu__content--3 {
+    grid-area: nnu__content--3;
+  }
+
+  .nnu__post--title {
+    font-family: hknova-semibold;
+  }
+
+  .nnu__post--title2 {
+    font-family: hknova-semibold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
+  }
+
+  .nnu__post--footer {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .nnu__post--footer>:first-child {
+    margin-right: 16px;
+  }
+
+  .nnu__date {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .nnu__readMoreLink {
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: underline;
+  }
+
+  .nnu__divider {
+    margin: 16px 0 8px;
+    border-bottom: 1px solid #dbdfe4;
+  }
+
+  .nnu__btnContainer {
+    grid-area: button;
+    margin-top: 8px;
+  }
+
+  #main-content .nnuContainer .nnu__btnContainer a.secondary-btn {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    padding: unset;
+  }
+
+  @media (min-width: 768px) {
+    .nnu__title {
+      font-size: 36px;
+      line-height: 45px;
     }
 
-    .news-media-container::-webkit-scrollbar {
+    .nnuContainer {
+      display: grid;
+      grid-template-areas:
+        "header ."
+        "banner nnu__content--2"
+        "banner nnu__content--3"
+        "nnu__post--preview nnu__content--3"
+        ". button";
+      row-gap: 24px;
+      column-gap: 64px;
+      padding: 24px 24px 40px;
+      max-width: 1140px;
+    }
+
+    .nnu__post--title {
+      font-family: hknova-semibold;
+      font-size: 24px;
+      line-height: 30px;
+      color: #313840;
+    }
+
+    .nnu__image {
+      width: auto;
+      height: 100%;
+      object-fit: cover;
+      object-position: right;
+    }
+
+    .nnu__post--preview {
+      font-family: hknova-regular;
+      font-size: 16px;
+      line-height: 24px;
+    }
+
+    .nnu__post--tag {
+      font-size: 14px;
+      line-height: 24px;
+      color: #647283;
+    }
+
+    .nnu__date {
+      font-size: 14px;
+      line-height: 24px;
+      color: #647283;
+    }
+
+    .nnu__readMoreLink {
+      font-size: 16px;
+      line-height: 24px;
+      text-decoration-line: underline;
+      color: #2a6ebb;
+    }
+
+    .nnu__content--1 .nnu__divider {
       display: none;
     }
-  }
 
-  @media (max-width: 760px) {
-    .news-media-container {
-      grid-template-columns: 1fr;
+    .nnu__divider {
+      margin-top: 8px;
+      border-bottom: 1px solid #dbdfe4;
     }
 
-    .news-media-container>.col {
-      margin: 0 !important;
+    .nnu__btnContainer {
+      max-width: 144px;
     }
   }
 </style>
 
-<!-- change the bg-media-color to what is mapped in the _config.yml file -->
-<div class="news-media-container">
-  {% assign cats = "" | split: "," %}
-  {% for item in site.posts reversed %}
-  {% assign cats = cats | push: item.categories[1] %}
-  {% endfor %}
-  {% assign uniq_cats = cats | uniq %}
-  {% for post in site.posts limit:3 %}
-  <div class="col">
-    <a href="{{post.url}}">
-      <div
-        class="media-card-plain 
-        {% if post.categories[1] == uniq_cats[0] %}
-        bg-media-color-2
-        {% elsif post.categories[1] == uniq_cats[1] %}
-        bg-media-color-3
-        {% elsif post.categories[1] == uniq_cats[2] %}
-        bg-media-color-4
-        {% elsif post.categories[1] == uniq_cats[3] %}
-        bg-media-color-5
-        {% elsif post.categories[1] == uniq_cats[4] %}
-        bg-media-color-1
-        {% endif %}
-        padding--lg resources">
-        <div>
-          <small class="has-text-white padding--bottom">{{ post.permalink | remove:'/news-and-updates/' | split: '/' |
-            first | join: '' | replace: '-', ' ' | upcase
-            }}</small>
-          <h4 class="has-text-white padding--bottom--lg">{{ post.title }}</h4>
-        </div>
-        <div class="is-fluid padding--top--md description">
-          <small class="has-text-white">{{ post.date | date_to_string | upcase }}</small>
-        </div>
-      </div>
-    </a>
+<div class="nnuContainer">
+  <div class="nnu__title">News and Updates</div>
+  <div class="nnu__banner">
+    <img alt="news-and-updates-image" class="nnu__image" src="/images/man-woman-background.svg" />
   </div>
+  <!-- TODO: Explore getting blog posts using something like site.posts; might need to filter somehow -->
+  {% for post in site.posts limit:3 %}
+
+  {% if forloop.index == 1 %}
+  <div class="nnu__content--1">
+    <div class="nnu__post--tag">
+      {{ post.permalink | remove:'/news-and-updates/' | split: '/' | first |
+      join: '' | replace: '-', ' ' | upcase}}
+    </div>
+    <h4 class="nnu__post--title">{{ post.title }}</h4>
+    <div class="nnu__post--preview">{{ post.preview }}</div>
+
+    <div class="nnu__post--footer">
+      <div class="nnu__date">{{ post.date | date_to_string | upcase }}</div>
+      <a href="{{post.url}}" class="nnu__readMoreLink">Read more</a>
+    </div>
+    <hr class="nnu__divider">
+  </div>
+
+  {% elsif forloop.index == 2 %}
+  <div class="nnu__content--2">
+    <div class="nnu__post--tag">
+      {{ post.permalink | remove:'/news-and-updates/' | split: '/' | first |
+      join: '' | replace: '-', ' ' | upcase}}
+    </div>
+    <div class="nnu__post--title2">{{ post.title }}</div>
+
+    <div class="nnu__post--footer">
+      <div class="nnu__date">{{ post.date | date_to_string | upcase }}</div>
+      <a href="{{post.url}}" class="nnu__readMoreLink">Read more</a>
+    </div>
+    <hr class="nnu__divider">
+  </div>
+
+  {% else %}
+  <div class="nnu__content--3">
+    <div class="nnu__post--tag">
+      {{ post.permalink | remove:'/news-and-updates/' | split: '/' | first |
+      join: '' | replace: '-', ' ' | upcase}}
+    </div>
+    <div class="nnu__post--title2">{{ post.title }}</div>
+    <div class="nnu__post--footer">
+      <div class="nnu__date">{{ post.date | date_to_string | upcase }}</div>
+      <a href="{{post.url}}" class="nnu__readMoreLink">Read more</a>
+    </div>
+    <hr class="nnu__divider">
+    <div class="nnu__btnContainer">
+      {% include secondary-btn.html href="#" text="Older News" %}
+    </div>
+  </div>
+  {% endif %}
+
   {% endfor %}
 </div>

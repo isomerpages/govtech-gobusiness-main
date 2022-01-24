@@ -1,0 +1,206 @@
+<style>
+  [class*="goBizIntro"] {
+    font-family: hknova-regular;
+  }
+
+  .goBizIntro__container {
+    display: flex;
+    flex-direction: column;
+    padding: 64px 16px;
+    background-color: #e6f2f3;
+  }
+
+  .goBizIntro__container .goBizIntro__title h2 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 48px;
+  }
+
+  .goBizIntro__header {
+    line-height: 45px;
+    color: #037e8a;
+    margin-bottom: 48px;
+  }
+
+  .goBizIntro__title {
+    text-align: center;
+  }
+
+  .goBizIntro__contents {
+    display: grid;
+    grid-template-areas:
+      "content-1"
+      "content-2"
+      "content-3"
+      "content-4";
+    grid-gap: 25px;
+    grid-template-rows: 1fr 1fr auto auto;
+  }
+
+  .goBizIntro__media {
+    grid-area: content-1;
+    height: 100%;
+  }
+
+  .goBizIntro__media iframe {
+    height: 100%;
+    width: 100%;
+    filter: drop-shadow(0px 10px 20px #B3D8DC);
+  }
+
+  .goBizIntro__right-upper {
+    grid-area: content-2;
+  }
+
+  .goBizIntro__left-bottom {
+    grid-area: content-3;
+  }
+
+  .goBizIntro__right-bottom {
+    grid-area: content-4;
+  }
+
+  .goBizIntro__bold {
+    font-family: hknova-semibold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
+  }
+
+  .goBizIntro__normal {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 8px 0 32px 0;
+    color: #313840;
+  }
+
+  .goBizIntro__logoWrapper {
+    padding: 0 24px;
+    margin-top: 24px;
+  }
+
+  .goBizIntro__logo {
+    width: 48px;
+    height: 48px;
+  }
+
+  .goBizIntro__card {
+    display: grid;
+    background: #ffffff;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+      0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+    row-gap: 8px;
+    grid-template-rows: 80px auto auto auto 64px;
+    height: 100%;
+  }
+
+  .goBizIntro__card--title {
+    font-family: hknova-semibold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #313840;
+    padding: 0 24px;
+  }
+
+  .goBizIntro__card--body {
+    font-size: 16px;
+    line-height: 24px;
+    color: #313840;
+    padding: 0 24px;
+    margin: 16px 0;
+  }
+
+  .goBizIntro__card--line {
+    border-bottom: 1px solid #dbdfe4;
+  }
+
+  .goBizIntro__card--button {
+    font-size: 16px;
+    line-height: 24px;
+    color: #2a6ebb;
+    padding: 0 24px;
+    margin-top: 16px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .goBizIntro__contents {
+      display: grid;
+      grid-template-areas:
+        "content-1 content-2"
+        "content-3 content-4";
+      row-gap: 25px;
+      max-width: 1140px;
+      margin: 0 auto;
+      column-gap: 64px;
+    }
+
+    .goBizIntro__media iframe {
+      height: 100%;
+      width: 100%;
+    }
+  }
+</style>
+<div class="goBizIntro__container">
+  <div class="goBizIntro__header">
+    <div class="goBizIntro__title">
+      <h2>GoBusiness connects businesses to the right government services</h2>
+    </div>
+    <div class="goBizIntro__contents">
+      <div class="goBizIntro__media">
+        <iframe
+          src="https://www.youtube.com/embed/xJ5D8FuUjaw"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
+      <div class="goBizIntro__right-upper">
+        <div class="goBizIntro__bold">Guidance for local businesses</div>
+        <div class="goBizIntro__normal">
+          Official information for <a href="/#">starting a business,</a>
+          <a href="/#">growing its presence</a>, and navigating through
+          <a href="/#">Covid-19</a>
+        </div>
+        <div class="goBizIntro__bold">
+          Find the right resources with e-Advisers
+        </div>
+        <div class="goBizIntro__normal">
+          Get recommendations for <a href="/#">licences</a>,
+          <a href="/#">events</a>, <a href="/#">government assistance </a>,
+          <a href="/#"> and more</a>, tailored to your business needs.
+        </div>
+      </div>
+      <div class="goBizIntro__left-bottom">
+        <div class="goBizIntro__card">
+          <div class="goBizIntro__logoWrapper">
+            <img class="goBizIntro__logo" src="/images/rocket.png" alt="logo" />
+          </div>
+          <div class="goBizIntro__card--title">Partner with GoBusiness</div>
+          <div class="goBizIntro__card--body">
+            Do you help local businesses set up and operate? Get in touch with
+            us, and your business could be featured on our portal.
+          </div>
+          <div class="goBizIntro__card--line"></div>
+          <div class="goBizIntro__card--button">
+            <a href="/#">Contact us with your proposal </a>
+          </div>
+        </div>
+      </div>
+      <div class="goBizIntro__right-bottom">
+        <div class="goBizIntro__card">
+          <div class="goBizIntro__logoWrapper">
+            <img class="goBizIntro__logo" src="/images/rocket.png" alt="logo" />
+          </div>
+          <div class="goBizIntro__card--title">Help GoBusiness Improve</div>
+          <div class="goBizIntro__card--body">
+            If you're a current or upcoming business owner, or have transacted
+            with the government for business purposes, we want you (to provide
+            feedback)!
+          </div>
+          <div class="goBizIntro__card--line"></div>
+          <div class="goBizIntro__card--button"><a href="/#" target="_blank">Participate in our research</a></div>
+        </div>
+      </div>
+    </div>
+  </div>

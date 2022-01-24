@@ -1,0 +1,190 @@
+<style>
+  [class*="blogCard"] {
+    font-family: hknova-regular;
+  }
+
+  .blogCard__sectionContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 0 16px 0;
+    row-gap: 16px;
+  }
+
+  .blogCard__title {
+    font-family: hknova-bold;
+    font-size: 40px;
+    line-height: 44px;
+    padding: 0 20px 0 20px;
+  }
+
+  .blogCard__buttonContainer:first-of-type {
+    display: none;
+  }
+
+  #main-content .blogCard__buttonContainer:last-of-type a.primary-btn {
+    width: 100%;
+  }
+
+  .blogCard__container {
+    display: grid;
+    grid-template-columns: repeat(1, auto);
+    /* flex-direction: column; */
+    row-gap: 16px;
+  }
+
+  .blogCard {
+    display: grid;
+    grid-template-rows: 185px auto 48px;
+    background: #ffffff;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+      0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 100%;
+    /* max-width: 364px; */
+  }
+
+  .blogCard__head {
+    width: 100%;
+  }
+
+  .blogCard__image {
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .blogCard__readMoreLink {
+    display: flex;
+    align-items: flex-start;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2a6ebb;
+    text-decoration: none;
+  }
+
+  .blogCard__tag {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 2px 8px;
+    width: auto;
+    height: 22px;
+    background: #e6f2f3;
+    border-radius: 3px;
+    font-family: hknova-semibold;
+    font-size: 12px;
+    line-height: 18px;
+    color: #02737d;
+  }
+
+  .blogCard__body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+    margin: 0px 0px;
+  }
+
+  .blogCard__text--bottom {
+    font-family: hknova-regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: #313840;
+    margin-top: 16px;
+    max-height: 72px;
+    /* max-width: 364px;
+        white-space: nowrap; */
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .blogCard__text--top {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840;
+    margin-top: 16px;
+  }
+
+  .blogCard__footer {
+    padding: 0 24px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .blogCard__sectionContainer {
+      row-gap: 40px;
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+
+    .blogCard__sectionHeader {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .blogCard__sectionHeader .blogCard__buttonContainer:first-of-type {
+      display: block;
+    }
+
+    .blogCard__buttonContainer:last-of-type {
+      display: none;
+      padding: 0 20px 0 20px;
+    }
+
+    .blogCard__container {
+      grid-template-columns: repeat(3, 1fr);
+      row-gap: unset;
+      grid-gap: 20px;
+      margin-top: 32px;
+    }
+
+    .blogCard {
+      max-width: 364px;
+    }
+  }
+</style>
+
+<div class="blogCard__sectionContainer">
+  <div class="blogCard__container">
+    {% assign sorted = include.blogPostData | sort: 'date' | reverse %}
+    {% for post in sorted limit: include.limit offset: include.offset %}
+    {% if include.keyword == 'all' %}
+    <div class="blogCard">
+      <div class="blogCard__head">
+        <img class="blogCard__image" src="{{post.image}}" alt="{{post.alt}}" />
+      </div>
+      <div class="blogCard__body">
+        <div class="blogCard__tag">{{post.tag}}</div>
+        <div class="blogCard__text">
+          <div class="blogCard__text--top">{{post.title}}</div>
+          <div class="blogCard__text--bottom">{{post.body}}</div>
+        </div>
+      </div>
+      <div class="blogCard__footer">
+        <a href="{{post.link}}" class="blogCard__readMoreLink">Read more</a>
+      </div>
+    </div>
+    {% elsif post.tag contains include.keyword %}
+    <div class="blogCard">
+      <div class="blogCard__head">
+        <img class="blogCard__image" src="{{post.image}}" alt="{{post.alt}}" />
+      </div>
+      <div class="blogCard__body">
+        <div class="blogCard__tag">{{post.tag}}</div>
+        <div class="blogCard__text">
+          <div class="blogCard__text--top">{{post.title}}</div>
+          <div class="blogCard__text--bottom">{{post.body}}</div>
+        </div>
+      </div>
+      <div class="blogCard__footer">
+        <a href="{{post.link}}" class="blogCard__readMoreLink">Read more</a>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>

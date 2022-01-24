@@ -1,0 +1,170 @@
+---
+layout: skeleton
+---
+
+<body>
+  <style>
+    .blog-mainpage-title {
+      font-family: hknova-bold;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 52px;
+      text-align: center;
+      letter-spacing: -1px;
+      padding: 64px 0;
+      color: #037e8a;
+    }
+
+    .blog-row-justified {
+      display: flex;
+      width: 100vw;
+      text-align: center;
+      overflow: scroll;
+      padding: 0 16px 32px;
+      margin: 0 !important;
+      column-gap: 40px;
+      -ms-overflow-style: none;
+      /* IE and Edge */
+      scrollbar-width: none;
+      /* Firefox */
+    }
+
+    .blog-row-justified::-webkit-scrollbar {
+      display: none;
+    }
+
+    .blog-tags {
+      font-family: hknova-semibold;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #313840;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .blog-tags.selected-page {
+      color: #037e8a !important;
+      border-bottom: 2px solid #037e8a !important;
+    }
+
+    .blog-tags:hover {
+      font-family: hknova-semibold;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #037e8a;
+      text-decoration: none;
+      border-bottom: 2px solid #037e8a !important;
+    }
+
+    .blogpage-pagination {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 64px;
+    }
+
+    .blogpage-index {
+      font-family: hknova-regular;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;
+      border: 1px solid #dbdfe4;
+      box-sizing: border-box;
+      text-align: center;
+      padding: 13px;
+      margin: 5px;
+    }
+
+    .blogpage-index-selected {
+      background-color: #037e8a;
+      color: #ffffff;
+    }
+
+    @media screen and (min-width: 768px) {
+      .blog-row-justified {
+        justify-content: center;
+      }
+    }
+  </style>
+  <div class="blog-mainpage-title">GoBusiness Blog</div>
+  <div class="row blog-row-justified">
+    <a class="blog-tags" href="/gobusiness-blog">ALL</a>
+    <a class="blog-tags" href="/gobusiness-blog/behind-the-business">BEHIND THE BUSINESS</a>
+    <a class="blog-tags selected-page" href="/gobusiness-blog/business-tips-and-tricks">BUSINESS TIPS AND TRICKS</a>
+    <a class="blog-tags" href="/gobusiness-blog/gobusiness-how-to">GOBUSINESS HOW-TO</a>
+  </div>
+  <!-- TODO: Remove limit property if you want to get all posts; make limit optional -->
+
+  <!-- TODO: Create pagination UI and logic -->
+  {% assign postData = site.data.blogPostData | where: 'tag', 'GoBusiness How-To' %}
+  {% for i in postData %}
+  {% assign value = forloop.index0 %}
+  {% if value == 0 %}
+  <div id="blog-paginated-container-1" class="blog-paginated-container">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=0
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% elsif value == 9 %}
+  <div id="blog-paginated-container-2" class="blog-paginated-container" style="display: none;">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=9
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% elsif value == 18 %}
+  <div id="blog-paginated-container-3" class="blog-paginated-container" style="display: none;">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=18
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% elsif value == 27 %}
+  <div id="blog-paginated-container-4" class="blog-paginated-container" style="display: none;">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=27
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% elsif value == 36 %}
+  <div id="blog-paginated-container-4" class="blog-paginated-container" style="display: none;">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=36
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% elsif value == 45 %}
+  <div id="blog-paginated-container-4" class="blog-paginated-container" style="display: none;">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=45
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% elsif value == 56 %}
+  <div id="blog-paginated-container-4" class="blog-paginated-container" style="display: none;">
+    {% include blogCard-filtered.html blogPostData=site.data.blogPostData limit=9 offset=54
+    keyword='Business Tips & Tricks'%}
+  </div>
+  {% endif %}
+  {% endfor %}
+
+  <div class="blogpage-pagination">
+    <!-- <div class="blogpage-index"> <- </div> -->
+    {% for i in postData %}
+    {% assign value = forloop.index | minus:1 %}
+    {% if value == 0 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-1')">1</div>
+    {% elsif value == 9 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-2')">2</div>
+    {% elsif value == 18 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-3')">3</div>
+    {% elsif value == 27 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-4')">4</div>
+    {% elsif value == 36 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-5')">5</div>
+    {% elsif value == 45 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-6')">6</div>
+    {% elsif value == 54 %}
+    <div class="blogpage-index" onclick="display('blog-paginated-container-7')">7</div>
+    {% endif %}
+    {% endfor %}
+    <!-- <div class="blogpage-index"> -> </div> -->
+  </div>
+
+  <script
+    src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable"
+    async></script>
+  <script src="/jquery/jquery.min.js"></script>
+  <script src="/jquery/gobusiness-blog-page.js"></script>
+</body>
