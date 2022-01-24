@@ -1,0 +1,228 @@
+---
+layout: skeleton
+---
+<meta name="description" content="{{page.description}}">
+
+<body>
+  <style>
+    .resize-sensor {
+      pointer-events: none;
+      position: absolute;
+      inset: 0px;
+      overflow: hidden;
+      z-index: -1;
+      visibility: hidden;
+      max-width: 100%;
+    }
+
+    .resize-sensor-expand {
+      pointer-events: none;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      right: 0;
+      bottom: 0;
+      overflow: hidden;
+      z-index: -1;
+      visibility: hidden;
+      max-width: 100%;
+    }
+
+    .resize-sensor--expand-1 {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      transition: all 0s ease 0s;
+      width: 89px;
+      height: 282px;
+    }
+
+    .resize-sensor--expand-2 {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      transition: all 0s ease 0s;
+      width: 114px;
+      height: 444px;
+    }
+
+    .resize-sensor-shrink {
+      pointer-events: none;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      right: 0;
+      bottom: 0;
+      overflow: hidden;
+      z-index: -1;
+      visibility: hidden;
+      max-width: 100%;
+    }
+
+    .resize-sensor--shrink {
+      position: absolute;
+      left: 0;
+      top: 0;
+      transition: 0s;
+      width: 200%;
+      height: 200%;
+    }
+
+    .bp-breadcrumb {
+      overflow-x: hidden;
+    }
+  </style>
+  <div id="main-content" role="main">
+    <section class="bp-section is-small bp-section-pagetitle">
+
+      <div class="bp-container ">
+        <div class="row">
+          <div class="col">
+            <nav class="bp-breadcrumb" aria-label="breadcrumbs">
+              <ul>
+                <li>
+                  <a href="/">
+                    <small>HOME</small>
+                  </a>
+                </li>
+                <li>
+                  <a href="/gobusiness-blog/">
+                    <small>GOBUSINESS BLOG</small>
+                  </a>
+                </li>
+                <li>
+                  <a href="/gobusiness-blog/">
+                    <small>MERCHANT STORIES</small>
+                  </a>
+                </li>
+                <li>
+
+                  <a href="{{ page.permalink }}">
+                    <small>{{ page.title | upcase }}</small>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="bp-container">
+        <div class="row">
+          <div class="col">
+            <h1 class="has-text-white">
+              <b>{{page.title}}</b>
+            </h1>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <section class="bp-section">
+      <div class="bp-container content padding--top--lg padding--bottom--xl">
+        <div class="row">
+          <div class="col is-8 is-offset-2 print-content">
+            {{content}}
+          </div>
+          <div class="col is-1 has-float-btns is-position-relative is-hidden-touch">
+            <div class="float-buttons">
+              <div class="inner-wrapper-sticky" style="position: relative;">
+                <div class="actionbar__inner">
+                  <button class="bp-button" id="print-button" aria-label="Print" onclick="window.print()">
+                    <i class="sgds-icon sgds-icon-print is-size-4">
+                    </i>
+                  </button>
+                </div>
+
+                <div class="actionbar__inner padding--top--sm">
+                  <input type="text" value={{page.permalink}} id="clipboard" hidden>
+                  <button class="bp-button" id="copy-link" aria-label="Copy Link" onclick="copylink()">
+                    <i class="sgds-icon sgds-icon-link is-size-4">
+                    </i>
+                  </button>
+
+                  <input id="page-url" type="text" class="hide"
+                    value="{{permalink}}">
+                </div>
+                <div class="actionbar__inner padding--top--sm">
+
+                  {% capture mailto %}
+                  mailto:?Subject={{ page.permalink | remove:'/gobusiness-blog/' | upcase
+                  }}&amp;amp;Body=https://gobusiness.gov.sg/gobusiness-blog/merchant-stories/{{
+                  page.permalink
+                  | remove:'/gobusiness-blog/' }}
+                  {% endcapture %}
+
+                  <a href={{ mailto }}
+                    id="mail-anchor" aria-label="Mail">
+                    <button class="bp-button">
+                      <i class="sgds-icon sgds-icon-mail is-size-4">
+                      </i>
+                    </button>
+                  </a>
+                </div>
+                <div class="actionbar__inner padding--top--sm">
+                  <!-- TODO: Need to change href here -->
+
+                  {% capture facebook %}
+                  http://www.facebook.com/sharer.php?u=https://gobusiness.gov.sg/gobusiness-blog/merchant-stories/{{
+                  page.permalink | remove:'/gobusiness-blog/' }}
+                  {% endcapture %}
+
+                  <a
+                    href={{ facebook }}
+                    target="_blank" rel="noreferrer" id="fb-anchor" aria-label="Share in Facebook">
+                    <button class="bp-button">
+                      <i class="sgds-icon sgds-icon-facebook-alt is-size-4">
+                      </i>
+                    </button>
+                  </a>
+                </div>
+                <div class="actionbar__inner padding--top--sm">
+                  {% capture linkedin %}
+                  https://www.linkedin.com/sharing/share-offsite/?url=https://gobusiness.gov.sg/gobusiness-blog/merchant-stories/{{
+                  page.permalink | remove:'/gobusiness-blog/' }}&amp;title={{ page.permalink |
+                  remove:'/gobusiness-blog/' | upcase }}
+                  {% endcapture %}
+                  <a
+                    href={{ linkedin }}
+                    target="_blank" rel="noreferrer" id="li-anchor" aria-label="Share in LinkedIn">
+                    <button class="bp-button">
+                      <i class="sgds-icon sgds-icon-linkedin-alt is-size-4">
+                      </i>
+                    </button>
+                  </a>
+                </div>
+                <div dir="ltr" class="resize-sensor">
+                  <div class="resize-sensor-expand">
+                    <div class="resize-sensor--expand-1">
+                    </div>
+                  </div>
+                  <div class="resize-sensor-shrink">
+                    <div class="resize-sensor--shrink"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div dir="ltr" class="resize-sensor">
+              <div class="resize-sensor-expand">
+                <div class="resize-sensor--expand-2">
+                </div>
+              </div>
+              <div class="resize-sensor-shrink">
+                <div class="resize-sensor--shrink"></div>
+              </div>
+            </div>
+          </div>
+
+          <script src="/assets/js/print.js"></script>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
+  <script src="/jquery/jquery.min.js"></script>
+  <script src="/jquery/gobusiness-blog-post.js"></script>
+</body>

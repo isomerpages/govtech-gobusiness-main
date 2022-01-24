@@ -1,0 +1,189 @@
+<style>
+  .hpgCardContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+    height: auto;
+    align-items: center;
+    justify-content: unset;
+    position: relative;
+    top: -66px;
+    padding: 0 16px;
+  }
+
+  .hpgCard {
+    width: 100%;
+    height: fit-content;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+  }
+
+  .hpgCard__top1 {
+    display: grid;
+    padding: 0 16px;
+    margin: 16px 0;
+    grid-template-columns: 48px auto 14px;
+    column-gap: 8px;
+    align-items: center;
+  }
+
+  .hpgCard__title {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22.5px;
+  }
+
+
+  input[class="hpgCard__input"] {
+    display: none;
+  }
+
+  .hpgCard__dropdown {
+    background-image: url('/images/chevron.png');
+    width: 13px;
+    height: 7px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: block;
+    cursor: pointer;
+  }
+
+  .hpgCard .toggle-display {
+    display: none !important;
+  }
+
+  input[class="hpgCard__input"]:checked+.hpgCard__dropdown {
+    transform: rotateZ(180deg);
+  }
+
+  .hpgCard__top2 {
+    display: grid;
+    grid-template-rows: auto;
+    row-gap: 16px;
+    margin: 24px 0;
+    padding: 0 16px;
+  }
+
+  .hpgCard__link {
+    color: #2A6EBB;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: hknova-regular;
+    text-decoration: none;
+  }
+
+  .hpgCard__link:hover {
+    text-decoration-line: underline;
+    color: #084E8A;
+  }
+
+  .hpgCard__link:visited {
+    color: #89579B;
+  }
+
+  .hpgCard__link:visited:hover {
+    text-decoration-line: underline;
+    color: #521B88;
+  }
+
+  .hpgCard__bottom {
+    border-top: 1px solid #DBDFE4;
+  }
+
+  .hpgCard__cta-text {
+    font-family: hknova-regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: #647283;
+    text-decoration: none;
+  }
+
+  .hpgCard__cta-text:hover {
+    color: #4A5561;
+    text-decoration: underline;
+  }
+
+  .hpgCard__cta {
+    padding: 20px 24px;
+    display: grid;
+    grid-template-columns: auto 20px;
+    align-items: center;
+    column-gap: 10px;
+  }
+
+  .hpgCard__cta-img {
+    height: 15px;
+    width: 20px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .hpgCardContainer {
+      flex-direction: row;
+      column-gap: 24px;
+      align-items: unset;
+      justify-content: center;
+      padding: 0 24px;
+    }
+
+    .hpgCard {
+      display: grid;
+      align-content: space-between;
+      width: 267px;
+      min-height: 344px;
+      height: auto;
+    }
+
+    .hpgCard__dropdown {
+      display: none;
+    }
+
+    .hpgCard .toggle-display {
+      display: grid !important;
+      min-height: 64px;
+      height: auto;
+    }
+
+    .hpgCard__top1 {
+      grid-template-rows: auto auto;
+      grid-template-columns: 1fr;
+    }
+
+    .hpgCard__title {
+      margin-top: 8px;
+    }
+
+  }
+</style>
+
+<div class="hpgCardContainer">
+  {% for hpgCard in {{include.hpgCardData}} %}
+  <div class="hpgCard">
+    <div class="hpgCard__top">
+      <div class="hpgCard__top1">
+        <img class="hpgCard__image" src="{{hpgCard.icon}}" alt="{{hpgCard.alt}}" />
+        <h6 class="hpgCard__title">{{hpgCard.title}}</h6>
+        <div>
+          <input type="checkbox" name="hpgCard__dropdown" id="hpgCard__dropdown_{{hpgCard.id}}"
+            class="hpgCard__input">
+          <label for="hpgCard__dropdown_{{hpgCard.id}}" class="hpgCard__dropdown">
+          </label>
+        </div>
+      </div>
+      <div class="hpgCard__top2 toggle-display">
+        <a href="{{hpgCard.href_1}}" class="hpgCard__link">{{hpgCard.text_1}}</a>
+        <a href="{{hpgCard.href_2}}" class="hpgCard__link">{{hpgCard.text_2}}</a>
+        <a href="{{hpgCard.href_3}}" class="hpgCard__link">{{hpgCard.text_3}}</a>
+      </div>
+    </div>
+    <div class="hpgCard__bottom toggle-display">
+      <div class="hpgCard__cta">
+        <a href="{{hpgCard.cta_href}}" class="hpgCard__cta-text">{{hpgCard.cta_text}}</a>
+        <img class="hpgCard__cta-img" src="/images/next_arrow.svg" alt="right-arrow">
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<script src="/jquery/hpgCard.js"></script>

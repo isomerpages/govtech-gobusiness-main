@@ -3,7 +3,11 @@ layout: post
 title: 'Coming Soon: A New Home for Your Business Transactions'
 permalink: /news-and-updates/news/coming-soon-feature
 published: true
+preview: |
+  GoBusiness has launched e-Adviser for Events, a new feature to help event organisers find out which licences and permits they need to organise a physical event in Singapore.
 ---
+
+<!-- TODO: Check with YX on the actual "preview" property. Might need to remove for this particular tag -->
 
 ## Manage all your business licences and permits in one place
 
@@ -43,10 +47,9 @@ With a **single, personalised dashboard** to support users through the whole bus
 
 _Licence application forms now come with a summary of key information and required documents at the start, to ensure business users have what they need to apply._
 
-
 ### Personalised guidance
 
-To better cater to the unique needs of businesses, the new dashboard will also provide recommendations that are tailored to their individual business profiles. These include grants or licences that may be relevant for the business. 
+To better cater to the unique needs of businesses, the new dashboard will also provide recommendations that are tailored to their individual business profiles. These include grants or licences that may be relevant for the business.
 
 <p>
 <div class="bp-youtube">
@@ -58,7 +61,7 @@ _The e-Adviser for Starting a Business helps users check if their chosen busines
 
 ### Coming soon in early 2022
 
-The upcoming GoBusiness Dashboard has been featured on [The Straits Times](https://www.straitstimes.com/business/gobusiness-to-launch-one-stop-dashboard-for-business-owners-to-apply-for-grants-and){:target="_blank"}{:rel="noopener"}, [Channel 8](https://www.8world.com/singapore/gobusiness-1648721){:target="_blank"}{:rel="noopener"} and [Vulcan Post](https://vulcanpost.com/769410/how-gobusiness-helps-singapore-entrepreneurs/){:target="_blank"}{:rel="noopener"} — watch this space for more updates!
+The upcoming GoBusiness Dashboard has been featured on [The Straits Times](https://www.straitstimes.com/business/gobusiness-to-launch-one-stop-dashboard-for-business-owners-to-apply-for-grants-and){:target="\_blank"}{:rel="noopener"}, [Channel 8](https://www.8world.com/singapore/gobusiness-1648721){:target="\_blank"}{:rel="noopener"} and [Vulcan Post](https://vulcanpost.com/769410/how-gobusiness-helps-singapore-entrepreneurs/){:target="\_blank"}{:rel="noopener"} — watch this space for more updates!
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
