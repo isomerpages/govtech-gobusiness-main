@@ -396,7 +396,6 @@ $desktop: 960px + (2 * $gap) !default;
     a {
       font-family: hknova-semibold;
       font-weight: 600;
-      text-transform: capitalize !important;
     }
     .sub-link {
       font-family: hknova-regular;
@@ -674,6 +673,20 @@ img[src*="/images/covid/tracetogether_logo.png"] {
 img[src*="/images/covid/safeentry_logo_inline.png"] {
   display: inline;
   width: 240px;
+}
+
+img[src*="/images/gobusiness_licensing.png"] {
+  display: inline;
+  margin: auto;
+  width: 217px;
+  height: auto;
+}
+
+img[src*="/images/gobusiness_dashboard.png"] {
+  display: inline;
+  margin: auto;
+  width: 217px;
+  height: auto;
 }
 
 p > img[src*="/images/"] {

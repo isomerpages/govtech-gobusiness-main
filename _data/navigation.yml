@@ -39,7 +39,7 @@ links:
       - title: Overview
         url: /covid/
       - title: Time Limited RRT for Workplaces
-        url: /timelimitedrrt/
+        url: /timelimitedrrt/ 
       - title: Permitted Services
         url: /permittedlist/
       - title: Safe Management Requirements
@@ -60,11 +60,6 @@ links:
         url: /covid-19-faqs/
   - title: E-Services
     url: /e-services/
-  - title: Resources
-    url: #
-    sublinks:
-      - title: First
-        url: #
   - title: Who We Are
     url: /about-us/
     sublinks:
@@ -77,4 +72,4 @@ links:
       - title: FAQ
         url: /faqs/popular/
   - title: <div class="login-btn"></div>
-    url: /login/?src=top_nav
+    url: https://dashboard.gobusiness.gov.sg/login
