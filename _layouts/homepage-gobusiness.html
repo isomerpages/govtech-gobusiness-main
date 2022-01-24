@@ -4,8 +4,13 @@ layout: skeleton
 
 <body>
   <style>
-    /* TODO: Refactor and make it mobile first */
     /* Desktop */
+    .home-content .button-container {
+      width: fit-content;
+      width: -moz-fit-content;
+      margin: 40px auto 60px auto;
+    }
+
     .home-content .section-1 {
       position: relative;
       width: 100%;
@@ -48,8 +53,254 @@ layout: skeleton
       margin-bottom: 23px;
     }
 
-    .home-primary-btn-wrapper {
-      margin-top: 24px;
+    .home-content .services-container {
+      z-index: 1;
+      bottom: 0;
+      background-color: #ffffff;
+      display: grid;
+      grid-template-columns: repeat(6, 210px);
+      justify-content: center;
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+      box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03),
+        0px 10.367px 37.0249px rgba(22, 26, 29, 0.03),
+        0px 5.92398px 17.772px rgba(22, 26, 29, 0.03);
+      padding: 0 30px;
+      align-items: center;
+    }
+
+    .home-content .services-container>a {
+      height: 100%;
+    }
+
+    .home-content .service {
+      display: grid;
+      justify-items: center;
+      text-align: center;
+      padding: 20px 10px;
+      cursor: pointer;
+      grid-template-rows: auto auto;
+      height: 100%;
+      align-items: start;
+    }
+
+    .home-content .service>img {
+      align-self: center;
+    }
+
+    .home-content .service:hover {
+      background-color: #EEF0F2;
+    }
+
+    .home-content .service:active {
+      background-color: #DBDFE4;
+    }
+
+    .home-content .service:focus {
+      outline: 2px solid #1C8B95;
+      background-color: #DBDFE4;
+    }
+
+    .home-content .service>p {
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      letter-spacing: 0;
+      font-family: hknova-semibold;
+      text-align: center;
+      color: #161a1d;
+      margin-top: 11.75px;
+    }
+
+    .home-content .section-2 {
+      background-color: #f0f4f6;
+      width: 100%;
+      height: auto;
+      padding-bottom: 60px;
+    }
+
+    .home-content .popular-group {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 20px;
+    }
+
+    .home-content .popular-group>p:first-of-type {
+      font-family: hknova-semibold;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      color: #484848;
+    }
+
+    .home-content .popular-group>div {
+      margin: 5px 10px;
+    }
+
+    .home-content .popular-group>div>a>p {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #484848;
+    }
+
+    .home-content .popular-group>div>a::after {
+      color: #484848;
+    }
+
+    .home-content .business-container {
+      display: grid;
+      grid-template-columns: 580px 580px;
+      column-gap: 5%;
+      justify-content: center;
+      justify-items: center;
+      margin-top: 64px;
+    }
+
+    .home-content .business-container>div {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .home-content .business-container>div>h3 {
+      font-family: hknova-semibold;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 28px;
+      line-height: 35px;
+      letter-spacing: 0;
+      text-align: center;
+      color: #037e8a;
+      margin-top: 35.65px;
+      margin-bottom: 16px;
+    }
+
+    .home-content .business-container>div>p {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      text-align: center;
+      color: #484848;
+    }
+
+    .home-content .business-container>div>p>a {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      text-align: center;
+      margin: 0;
+      color: #2A6EBB;
+      text-decoration: underline;
+    }
+
+    .home-content .business-container>div>p>a:hover {
+      text-decoration-line: underline;
+      color: #084E8A;
+    }
+
+    .home-content .business-container>div>p>a:visited {
+      color: #89579B;
+    }
+
+    .home-content .business-container>div>p>a:visited:hover {
+      text-decoration-line: underline;
+      color: #521B88;
+    }
+
+    .home-content .section-3 {
+      width: 100%;
+      height: auto;
+    }
+
+    .home-content .e-service-header-container {
+      display: flex;
+      flex-direction: column;
+      width: fit-content;
+      width: -moz-fit-content;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .home-content .e-service-header-container>h1 {
+      font-size: 48px;
+      line-height: 52px;
+      text-align: center;
+      letter-spacing: -1px;
+      color: #037e8a;
+      padding-top: 60px;
+      font-weight: 600;
+    }
+
+    .home-content .e-service-header-container>p {
+      font-size: 18px;
+      line-height: 24px;
+      text-align: center;
+      color: #484848;
+      margin-top: 20px;
+      margin-bottom: 40px;
+    }
+
+    .home-content .panels-container {
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: repeat(3, 366px);
+      justify-content: center;
+      overflow: visible;
+      margin: 0 16px;
+    }
+
+    .home-content .section-4 {
+      width: 100vw;
+      height: auto;
+      display: grid;
+      background-color: #E5EFF9;
+      grid-template-columns: 2fr 3fr;
+      position: relative;
+      align-items: center;
+    }
+
+    .home-content .gobizmove-container {
+      margin-left: 100px;
+    }
+
+    .home-content .gobizmove-content {
+      display: grid;
+      justify-content: center;
+    }
+
+    .home-content .gobizmove-content>h1 {
+      font-family: hknova-bold;
+      font-size: 48px;
+      line-height: 52px;
+      letter-spacing: -1px;
+      color: #037e8a;
+    }
+
+    .home-content .gobizmove-content>ul {
+      list-style-type: disc;
+      list-style-position: inside;
+      margin: 20px 0 32px;
+    }
+
+    .home-content .gobizmove-content>ul>li {
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 27px;
+      color: #484848;
+      margin: 8px 0;
+    }
+
+    .home-content .gobizmove-button-container>a {
+      margin: 0 !important;
+    }
+
+    .home-content .gobizmov-img {
+      width: 100%;
     }
 
     .home-content .section-5 {
@@ -66,7 +317,8 @@ layout: skeleton
       padding: 28px 0 10px;
     }
 
-    .home-content .section-5>h4 {
+    .home-content .section-5>h4,
+    .home-content .section-6>h4 {
       margin-bottom: 16px;
     }
 
@@ -80,13 +332,38 @@ layout: skeleton
       margin: 30px 0 16px;
     }
 
-    .home-content .section-5>h1 {
+    .home-content .section-6 {
+      padding: 100px 0;
+      background-color: #F1F4F6;
+    }
+
+    .home-content .section-5>h1,
+    .home-content .section-6>h1 {
       font-weight: 600;
       font-size: 48px;
       line-height: 52px;
       text-align: center;
       letter-spacing: -1px;
       color: #037e8a;
+    }
+
+    .home-content .help-buttons-container {
+      display: flex;
+      width: fit-content;
+      width: -moz-fit-content;
+      margin: 40px auto;
+    }
+
+    .home-content .help-buttons-container>a {
+      margin: 10px !important;
+    }
+
+    .home-content #contact-helpdesk>a {
+      color: #037e8a;
+      background-color: #fafdfd;
+      border: 1px solid #b3d8dc;
+      box-sizing: border-box;
+      border-radius: 3px;
     }
 
     .home-content .col {
@@ -103,17 +380,11 @@ layout: skeleton
       position: relative;
     }
 
-    .home-content .blogCard__section {
-      display: flex;
-      flex-direction: column;
-      row-gap: 16px;
-      max-width: 1140px;
-      margin: 48px auto 96px;
-    }
-
-    .home-content.blogCard__buttonContainer {
-      padding: 16px 20px 0 20px;
-      margin-bottom: 96px;
+    @media (max-width: 1600px) {
+      .home-content .gobizmove-container {
+        background-size: contain;
+        background-position: top;
+      }
     }
 
     /* iPad */
@@ -121,6 +392,66 @@ layout: skeleton
     @media (max-width: 1279px) {
       .home-content .break-ipad {
         display: block;
+      }
+
+      .home-content .section-4 {
+        grid-template-columns: 1fr;
+      }
+
+      .home-content .gobizmove-container {
+        margin-left: 0;
+        margin-top: 80px;
+      }
+
+      .home-content .gobizmove-img {
+        width: 80%;
+        margin: 0 auto;
+      }
+
+      .home-content .service {
+        grid-template-rows: auto auto;
+      }
+
+      .home-content .service>p {
+        line-height: 18px;
+      }
+
+      .home-content .services-container {
+        grid-template-columns: repeat(6, 125px);
+        justify-content: space-around;
+        align-items: center;
+      }
+
+      .home-content .popular-group {
+        width: 90%;
+        margin: 0 auto;
+        flex-wrap: wrap;
+        padding: 20px 60px 0 60px;
+        justify-content: center;
+      }
+
+      .home-content .business-container {
+        margin-top: 64px;
+        padding: 0 30px;
+        grid-template-columns: 1fr;
+        row-gap: 60px;
+      }
+
+      .home-content .e-service-header-container {
+        text-align: center;
+        width: 80%;
+      }
+
+      .home-content .panels-container {
+        justify-content: start;
+        overflow: scroll;
+        margin: 0 40px;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+      }
+
+      .home-content .panels-container::-webkit-scrollbar {
+        display: none;
       }
     }
 
@@ -152,7 +483,96 @@ layout: skeleton
       }
 
       .home-content .section-1 {
-        height: 348px;
+        height: 384px;
+      }
+
+      .home-content .service {
+        grid-template-rows: 40px 44px;
+      }
+
+
+      .home-content .services-container {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .home-content .services-container>a {
+        height: 100%;
+        box-sizing: border-box;
+        border: 0.5px solid #DBDFE4;
+      }
+
+      .home-content .services-container>a:nth-child(2n+1) {
+        border-left: none;
+      }
+
+      .home-content .services-container>a:nth-child(2n) {
+        border-right: none;
+        margin-left: -1px;
+      }
+
+      .home-content .services-container>a:nth-child(1),
+      .home-content .services-container>a:nth-child(2) {
+        border-top: none;
+        border-bottom: none;
+      }
+
+      .home-content .services-container>a:nth-child(5),
+      .home-content .services-container>a:nth-child(6) {
+        border-top: none;
+        border-bottom: none;
+      }
+
+      .home-content .popular-group {
+        flex-direction: column;
+        padding: 20px 0 0 0;
+      }
+
+      .home-content .popular-group>* {
+        margin-bottom: 8px;
+      }
+
+      .home-content .business-container {
+        grid-template-columns: 1fr;
+        padding: 0 16px;
+        margin-top: 40px;
+        row-gap: 60px;
+      }
+
+      .home-content .e-service-header-container>h1 {
+        font-size: 40px;
+        line-height: 44px;
+        padding-right: 16px;
+        padding-left: 16px;
+      }
+
+      .home-content .e-service-header-container>p {
+        font-size: 18px;
+        line-height: 24px;
+        margin: 20px 16px 40px 16px;
+      }
+
+      .home-content .panels-container {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        margin: 0 auto;
+      }
+
+      .home-content .gobizmov-img {
+        width: 100%;
+      }
+
+      .home-content .gobizmove-content>ul {
+        list-style-position: outside;
+      }
+
+      .home-content .gobizmove-content>ul>li {
+        font-family: hknova-regular;
+        font-size: 16px;
+        letter-spacing: 0px;
+      }
+
+      .home-content .gobizmove-button-container>a {
+        margin: 0 auto !important;
       }
 
       .home-content .col {
@@ -160,43 +580,190 @@ layout: skeleton
         padding: 0.75em 0;
       }
 
+      .home-content .help-buttons-container {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .home-content .section-4 {
+        width: 100%;
+        height: auto;
+        padding-bottom: 60px;
+      }
+
+      .home-content .section-4>.break-mobile {
+        margin-top: 0;
+      }
+
+      .home-content .section-4>.break-mobile>img {
+        width: 100%;
+      }
+
       .home-content .section-5>h1 {
         font-size: 40px;
         line-height: 44px;
         text-align: center;
       }
+
+      .home-content .section-6>h1 {
+        font-size: 40px;
+        line-height: 44px;
+        width: 80%;
+        margin: 0 auto;
+      }
+
+      .home-content .services-container {
+        column-gap: 0;
+        padding: 0;
+      }
     }
   </style>
+
   <div class="home-content">
     <div class="section-1">
       <div class="hero-container"></div>
       <div class="cta-container">
         <h1>Government <br class="break-mobile" />e-Services<br class="break-desktop" /> for<br
             class="break-mobile" /> your business</h1>
-        <div class="home-primary-btn-wrapper">
-          {% include primary-btn.html href="/login/?src=hero_banner" text="Log In to GoBusiness" %}
-        </div>
-      </div>
-    </div>
-    {% include hpgCard.html hpgCardData=site.data.hpgCardData %}
-
-    <div class="blogCard__section">
-      <div class="blogCard__sectionHeader">
-        <h1 class="blogCard__title">Latest Stories</h1>
-        <div class="blogCard__buttonContainer">
-          {% include primary-btn.html href="/gobusiness-blog" text="More Stories" %}
-        </div>
-      </div>
-      {% include blogCard.html blogPostData=site.data.blogPostData limit=3 keyword='all' %}
-
-      <div class="home-content blogCard__buttonContainer">
-        {% include primary-btn.html href="/gobusiness-blog" text="More Stories" %}
+        <p>
+          Licences, permits, grants and other e-Services, now all in one place
+          on GoBusiness.
+        </p>
+        {% include primary-btn.html href="https://dashboard.gobusiness.gov.sg/login" text="Log In to GoBusiness" %}
       </div>
     </div>
 
-    {% include news-and-updates.html %}
+    <div class="services-container">
+      <a href="/start-a-business/">
+        <div class="service">
+          <img src="/images/start a business.svg" alt="start-a-business" />
+          <p>Starting a Business</p>
+        </div>
+      </a>
+      <a href="/gov-assist/">
+        <div class="service">
+          <img src="/images/govassist.svg" alt="gov-assist" />
+          <p>Government Assistance</p>
+        </div>
+      </a>
+      <a href="/licences/">
+        <div class="service">
+          <img src="/images/licences-40.svg" alt="licences-permits" />
+          <p>Licences and Permits</p>
+        </div>
+      </a>
+      <a href="/productivity-solutions-grant/">
+        <div class="service">
+          <img src="/images/psg.svg" alt="productivity-solutions-grant-listing" />
+          <p>Productivity Solutions Grant Listing</p>
+        </div>
+      </a>
+      <a href="/gebiz-alerts/">
+        <div class="service">
+          <img src="/images/gebiz alerts.svg" alt="gebiz-alerts" />
+          <p>GeBIZ Alerts</p>
+        </div>
+      </a>
+      <a href="/e-services/">
+        <div class="service">
+          <img src="/images/e-services.svg" alt="e-services" />
+          <p>All Business e-Services</p>
+        </div>
+      </a>
+    </div>
 
-    {% include goBizIntro.html %}
+    <div class="section-2">
+      <div class="popular-group">
+        <p>Popular:</p>
+        {% include popular-tag.html href="/gov-assist/budget-2021/" text="Budget 2021" %}
+        {% include popular-tag.html href="https://go.gov.sg/covidbusinessresumptions" target="_blank"
+        text="Permissions and Manpower Declaration" %}
+        {% include popular-tag.html href="https://go.gov.sg/covidbusinessresumptions"
+        target="_blank" text="General Exemptions" %}
+      </div>
+      <div class="business-container">
+        <div>
+          <img
+            src="/images/business-guidance.svg"
+            alt="local-business-guidance" />
+          <h3>Guidance for local businesses</h3>
+          <p>
+            Official information for <a href="/start-a-business/">starting a
+              business</a>, <a
+              href="/run-and-grow/">
+              growing its presence</a>, and navigating through <a
+              href="/covid/">Covid-19</a>
+          </p>
+        </div>
+        <div>
+          <img
+            src="/images/business-transactions.svg"
+            alt="business-transactions" />
+          <h3>Find the right resources with e-Adviser</h3>
+          <p>
+            Use our e-Advisers to <a
+            href="https://www.gobusiness.gov.sg/licences/" target="_blank">find suitable licences</a>, <a
+              href="https://eadviser.gobusiness.gov.sg/govassist/?src=homepage" target="_blank">government
+              assistance</a>, <a
+              href="https://eadviser.gobusiness.gov.sg/events?src=homepage" target="_blank">event licences and/or permits</a>
+            <a href="/e-services/guides-for-biz/"> and more</a>, tailored to your
+            business needs
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-3">
+      <div class="e-service-header-container">
+        <h1>Find the <br class="break-mobile" />e-Services<br class="break-desktop" /> you need</h1>
+        <p>
+          Find what you need fast and easily, with our one-stop directory of e-services across the Singapore Government
+        </p>
+      </div>
+
+      <div class="panels-container">
+        {% include hyp-panels.html panels=site.data.hyp-panels-home.panels %}
+      </div>
+
+      <div class="button-container">
+        {% include primary-btn.html href="/e-services/" text="View All e-Services" %}
+      </div>
+    </div>
+
+    <div class="section-4">
+      <div class="gobizmove-container">
+        <div class="gobizmove-content">
+          <h1>GoBusiness is the<br />new home for:</h1>
+          <ul>
+            <li>GoBusiness Licensing, Food Services Licensing</li>
+            <li>Gov Assist Portal</li>
+            <li>Covid-19 Portal</li>
+          </ul>
+          <div class="gobizmove-button-container">
+            {% include primary-btn.html href="/about-us/" text="Learn More" %}
+          </div>
+        </div>
+      </div>
+      <img class="gobizmov-img" src="/images/home_gobizmove-cutout@2x.jpg" alt="gobiz-move">
+    </div>
+
+    <div class="section-5">
+      <p class="uppercase-text">News And Updates</p>
+      <h1>Be in the know</h1>
+      {% include news-and-updates.html %}
+      <div class="view-more break-desktop">
+        {% include primary-btn.html href="/news-and-updates/" text="View More" %}
+      </div>
+    </div>
+
+    <div class="section-6">
+      <p class="uppercase-text">Contact Us</p>
+      <h1>Need business help?</h1>
+      <div class="help-buttons-container">
+        {% include primary-btn.html href="/faqs/popular/" text="View Our FAQ" %}
+        {% include secondary-btn.html href="/contact-us/" text="Contact Helpdesk" %}
+      </div>
+    </div>
   </div>
 
   <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
