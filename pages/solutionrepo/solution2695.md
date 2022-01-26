@@ -1,15 +1,16 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 4 Qrcode Ordering and CRM
-permalink: /productivity-solutions-grant/solutionrepo/solution1835
+title: Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack
+permalink: /productivity-solutions-grant/solutionrepo/solution2695
 ---
 
 ### Description
 
-Yumstone's Management System enables F&B operators and restaurants to empower their dining and takeaway customers to order their food and beverages by themselves using their own mobile devices - mobile phone or tablets.  The solution also allow F&B operators to register every customer in Yumstone CRM and run marketing campaigns and promotions to attract return customers which is the most important group of customers for operators.
+Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
+Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +32,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
+Web URL: https://www.gurusofttech.com/WMS <br>Contact Hotline: 62708083 <br>Contact Email: sales@gurusoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
