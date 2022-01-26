@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: Do i need to declare my onsite manpower details?
+    - title: Do I need to declare my onsite manpower details?
       content: |
         You are encouraged to declare your onsite manpower if you received an email notifying you to submit your onsite manpower details, or if there is a “MPSubmit” reference number in your company dashboard after you have logged into GoBusiness. 
         
