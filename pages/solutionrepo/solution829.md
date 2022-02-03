@@ -1,5 +1,5 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))
+title: Ellie Integrated System Version 2 - Package A (E-Waiter for 1 Users, KDS for 1 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution829
 ---
 
@@ -9,7 +9,7 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
+Company Name:Supply Ellie Pte Ltd <br>Web URL:www.supplyellie.com <br>Contact Hotline:91200059 <br>Contact Email:davidang@supplyellie.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
