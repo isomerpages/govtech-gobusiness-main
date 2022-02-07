@@ -8,6 +8,10 @@
 - accordion:
   letter: b
   data:
+    - title: My company commenced weekly testing late as we had pivoted to work-from-home arrangements. We wish to submit the test results for the kits received in Sep/Oct 2021, but am unable to access the results declaration link. What should I do?
+      content: |
+        Companies who wish to submit the test results under Round 1 of Time-Limited RRT (Sep/Oct 2021) may do so via the results link provided for Round 2 of Time-Limited RRT ([https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}), and indicate “Submission for Round 1” under the Remarks column.
+
     - title: What processes should my company have in place to ensure that we are compliant?
       content: |
         Companies should have processes in place to ensure that the weekly tests are conducted properly, test results are recorded, and appropriate follow-up actions are adhered to. 
@@ -20,15 +24,9 @@
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
         | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the question below on what to do when tested ART positive) <br>* Ensure that employees have adhered to the required follow-up actions by self-isolating for 72 hours if asymptomatic or getting a confirmatory PCR test if symptomatic.<SUP>*</SUP> <br>(<SUP>*</SUP> Note: This is valid for the period of weekly testing stipulated under the first round of kits distribution. From 6 Jan 2022, low-risk and mildly symptomatic individuals will be instructed to follow an expanded Protocol 2 by their primary care provider i.e. 5-day Medical Certificate will be given; individual to self-isolate at home for 72 hours and be allowed to leave home once tested negative thereafter.) |
 
-    - title: Does my company have to submit my employees’ test results to the government?
+    - title: My company has yet to complete testing because we shifted fully to WFH. Do I still need to submit the results declaration at the end of the 2-month cycle from the date of receipt of kits?  
       content: |
-        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration ](https://go.gov.sg/time-limited-rrt-art-results-declaration ){:target="_blank"}{:rel="noopener"} 
-
-        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain the test results up to 1 month after they have completed the 8-week testing, and be required to produce proof if audited by the government.
-
-    - title: My company has yet to commence testing because we shifted fully to WFH. Do I still need to submit the results declaration at the end of the 2-month cycle from the date of receipt of kits?  
-      content: |
-        For companies who have yet to commence testing due to the shift to full WFH, they should still submit the results declaration at the end of each one-month cycle (for 2 months) from the date of receipt of kits, by indicating the number of tests they have conducted. If the actual number of employees tested is lower than the number of onsite employees declared during application, companies should provide a reasonable explanation why this is so in the submission form (e.g. pivot to WFH). 
+        For companies who have yet to complete testing due to the shift to full WFH, they should still submit the results declaration at the end of each one-month cycle (for 2 months) from the date of receipt of kits, by indicating the number of tests they have conducted. If the actual number of employees tested is lower than the number of onsite employees declared during application, companies should provide a reasonable explanation why this is so in the submission form (e.g. pivot to WFH). 
 
         The company should also retain proof of communication sent to employees informing them that they will be working from home by default and the effective date of WFH implementation, which should be provided when audited by the Government. 
 

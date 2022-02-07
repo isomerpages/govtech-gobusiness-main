@@ -3,131 +3,40 @@
   data:
     - title: Why is MOH conducting a second round of ART kit distribution to workplaces?
       content: |
-        With more employees returning to the workplace from 1 Jan 2022, there could be higher risk of workplace transmission, particularly given the higher transmissibility of the Omicron variant. Regular testing is therefore important to ensure early detection and ringfencing of cases at the workplace. To support this practice, the Government is undertaking a second round of ART kit distribution which eligible companies can apply for. The application period will be from 3 Jan 2022 through to 31 Jan 2022.
+        With more employees returning to the workplace from 1 Jan 2022, there could be higher risk of workplace transmission, particularly given the higher transmissibility of the Omicron variant. Regular testing is therefore important to ensure early detection and ringfencing of cases at the workplace. To support this practice, the Government is undertaking a second round of ART kit distribution which eligible companies can apply for. Applications have closed on 31 Jan 2022.
 
-    - title: Which companies are eligible to apply for kits?
+    - title: My company has missed the application deadline. Can we still apply?
       content: |
-        Companies with <u>fully vaccinated*</u> employees who <u>work onsite</u> and who <u>are not already subject to the Government's mandatory PCR or FET RRT regime</u>, may apply for 8 ART kits per onsite fully vaccinated employee for weekly testing over a two-month period. This includes full-time, part-time employees, interns or vendors who will return to office at least once a week over a 2-month period. 
-
-        <i>*Note: employees who are (i) certified to be medically ineligible, or (ii) unvaccinated and recovered from COVID-19 infection within 180 days as of 31 March 2022, may apply for the ART kits as well.</i>
-
-    - title: Why is it that only fully vaccinated employees are eligible for the free ART kits?
-      content: |
-        Non-fully vaccinated staff are already subject to MOM’s Workforce Vaccination Measures from 1 Jan 2022, where they have to pay for their own PET before returning to the workplace. They will therefore not be eligible for the free ART kits issued by the Government to workplaces. From 15 Jan 2022, this concession for non-fully vaccinated persons to return to the workplace with a negative PET result will also be removed i.e. they will not be allowed to return to office at all.  
+        The application period is from 3 Jan to 31 Jan 2022, and applications have closed. Companies will not be able to apply after the application period.
 
     - title: If employees are working on a split-team arrangement and returning to office on alternate days or weeks, are they eligible for the kits? 
       content: |
         Companies may apply for staff who are returning to office on alternate days or weeks so long as they are fully vaccinated and not already under the mandatory RRT regime. These staff should continue to self-test on weeks when they are working from home over the 2-month period.  
 
-    - title: Are home-based business owner/self-employed persons eligible to apply for the ART kits?
-      content: |
-        Businesses which are UEN-registered and have a valid Corppass will be eligible to apply for kits for fully vaccinated employee(s) who work on-site and are not already under the mandatory RRT regime. 
-
-    - title: My employees are on FET RRT and we are running out of kits for this month. However, we have yet to receive additional kits for the next month. Can we apply for this second round of Time-Limited RRT to get the kits first?
-      content: |
-        Companies with employees on mandatory FET RRT should not obtain additional kits meant for mandatory testing by applying for this second round of Time-Limited RRT. For companies who are running out of kits, they should contact their respective FET RRT Sector Lead agencies for follow-up on the kits replenishment. 
-
-    - title: Can companies with employees that meet the eligibility criteria choose not to apply for the ART test kits?
-      content: |
-        Applying for the ART kits is voluntary. Nevertheless, companies are strongly encouraged to do so.  
-
-    - title: Can my company apply for additional kits, in case of invalid test results?
-      content: |
-        Invalid results are rare. If there are insufficient test kits arising from re-testing due to invalid results, your company may choose to purchase additional kits to complete the regime for the affected employee(s). Otherwise, if the kits issued by the Government are used for re-testing and this leads to fewer kits being available for employees, companies should indicate under the “Remarks” field when submitting the results declaration form to account for the lower number of staff tested. 
-
-    - title: I applied for the first round of kits distribution in Sep 2021. Am I still eligible to apply for this second round of kits distribution? 
-      content: |
-        Yes, your company may still apply for the ART kits for the employees who fulfill the eligibility criteria. , if you have finished utilising the test kits from first round of kits distribution. 
-
-        If your company still has test kits left from the first round of kits distribution, you may use them for weekly testing of onsite employees over the next 8 weeks. If the kits left are not sufficient, you may apply for this second round of kits distribution nearer to the end of January, to begin testing for this second round soon after receiving the kits. Please also note that you should finish utilising the test kits from the first round of distribution before using the test kits from this second round of distribution. You should also continue to submit the results declaration via the respective FormSG links for both rounds of kits distribution at the end of each month of testing.
-        
-        As part of the ongoing audit for the first round of kits distribution, there will be companies who are identified as non-compliant as they have failed to submit results and/or produce the proof of documents as required during audit. The Government therefore reserves the right to reject applications from such companies under this second round of kits distribution. 
-
-    - title: I missed the application period for the first round of kits distribution in Sep 2021. Can I apply for additional kits per onsite employee (up to 16 kits) for this second round of distribution? 
-      content: |
-        Applications for the first round of ART kits distribution has ended on 13 October 2021. Companies who participate in the second round of distribution should only apply for 8 kits per onsite employee.  
-
-    - title: I did not apply for the first round of kits distribution in Sep/Oct 2021, but am keen to apply for this second round of distribution. However, my company is still working from home and have no plans to return to office at this time. Can I still apply for kits?
-      content: |
-        If your company has no plans to return to office until March 2022, there is no need to apply for this second round of distribution. This is because the kits are meant for testing during a time-limited period in January and February, where we expect an uptick in the number of Omicron cases at workplaces. 
-
-        For companies who plan to return to office earlier than March e.g. in February, you may wish to apply for the test kits towards the end of the application period (i.e. end-Jan). This will allow you to begin testing as soon as possible after receiving the test kits, and facilitate your reporting requirements.
-
     - title: I have already applied for the second round of kits distribution, but my company is still working from home. Do I need to return the kits?
       content: |
-        You do not have to return the kits but your company will need to submit results twice over the next 8 weeks from the time of receipt of kits (i.e. once at the end of each month’s testing cycle), to indicate how many employees have been tested, and explain the shortfall if need be.
+        You do not have to return the kits but your company will need to submit results twice over the next 8 weeks from the time of receipt of kits (i.e. once at the end of each month's testing cycle), to indicate how many employees have been tested, and explain the shortfall if need be.
 
         Upon return to office, you will need to commence testing and continue submitting results on a monthly basis until testing is complete.
 
-    - title: I started my weekly voluntary testing regime, but have an employee who tested positive at a GP in the first week, and was subsequently given the ‘recovered’ status which exempts him from Pre-Event Testing. Will he also be exempted from the Time-Limited RRT when he comes back to work?
+    - title: I started my weekly voluntary testing regime, but have an employee who tested positive at a GP in the first week, and was subsequently given the 'recovered' status which exempts him from Pre-Event Testing. Will he also be exempted from the Time-Limited RRT when he comes back to work?
       content: |
         The employee may still use the test kits for weekly testing when he returns to the workplace. Companies may use the test kits for testing of onsite employees who are fully vaccinated (including those who have recovered), those certified to be medically ineligible, or unvaccinated and recovered from COVID-19 infection within 180 days. 
 
-- accordion:
-  letter: b
-  data:
-    - title: How do I submit my company's application?
-      content: |
-        Please note that your company would need to have a valid Corppass login to submit your application. The application link will be made available on this website by 3 Jan 2022. 
-
-        Please only submit one application form per company UEN. The application should include all on-site employees hired to work under this company UEN, even if they work in different office/outlet locations. 
-
-    - title: My company does not have a Corppass. What should I do?
-      content: |
-        You will need a Corppass login in order to apply for the ART kits. Find out how you can register for a Corppass at [https://www.corppass.gov.sg/](https://www.corppass.gov.sg/){:target="_blank"}{:rel="noopener"}
-
-    - title: I tried to submit an online application using my CorpPass but received an error message saying “Unauthorised. What should I do?
-      content: |
-        CorpPass Administrators need to first select digital services for the entity:
-
-        1. Login at www.corppass.gov.sg 
-
-        2. Go to 'e-Services' -> 'Select Entity e-Services'
-        
-        3. Type “Health Promotion Board” in the search bar 
-        
-        4. Tick the box on the left of “FormSG (Health Promotion Board)”, then click 'Next'
-        
-        5. Press 'Next' and 'Submit'
-        
-        6. A confirmation message will indicate that you have selected your entity's digital services. You may now assign these digital services to your users.
-
-        After adding FormSG (Health Promotion Board) for the entity, the Admin would then need to assign the digital service access to other users within the entity to carry out transactions.
-        
-        7. Go to 'e-Services' -> 'Assign selected e-Services'
-
-        8. Tick the box next to the appropriate staff's name and press 'Next'.
-
-        9. Select the digital services you wish to assign to the selected users. Or type “Health Promotion Board” in the search bar. Click 'Next' to proceed.
-
-        10. Tick the box on the left of “FormSG (Health Promotion Board)”, then click 'Next'
-
-            - “Authorization Effective Date” can be today.
-
-            - “Authorization Expiry Date” can be left blank.
-
-        11. Click 'Next' and 'Submit'
-
-        12. A confirmation message will indicate that you have successfully assigned digital service access to your selected users.
-
-    - title: How do I know that my application has been sent in successfully? 
-      content: |
-        Upon submitting your application, you should receive an auto-generated acknowledgement email. Do note that any duplicate submissions will be automatically considered as void, and we will not send rejection notifications for these submissions. 
-    
     - title: I have already submitted an application but realised that I have missed adding some new hires and part-timers. Can I submit another application?
       content: |
-        There can only be ONE (1) application submitted per company UEN. Subsequent submissions will be voided. Should additional kits be required after the first application, these should be purchased at your company’s own costs.  
+        There can only be ONE (1) application submitted per company UEN. Applications for Round 2 of the kits distribution have also closed. Should additional kits be required after the first application, these should be purchased at your company's own costs. 
 
     - title: Can I cancel my application after submitting? 
       content: |
-        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence RRT for their eligible employees upon receipt of the kits. 
+        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence weekly testing for their eligible employees upon receipt of the kits. 
 
 - accordion:
   letter: c
   data:
     - title: My company has submitted the application. When will my company receive the ART kits?
       content: |
-        Successful applicants will be informed of their delivery up to 10 working days from the time of application. However, for applications made after 21 Jan onwards, please expect a longer processing and delivery lead time as our delivery vendors are taking a scheduled break over the Chinese New Year period. Deliveries for applications made after 21 Jan onwards may only be fulfilled after the Chinese New Year period, from second week of February onwards.
+        Successful applicants will be informed of their delivery up to 10 working days from the time of complete application. However, for completed applications sent in after 21 Jan onwards, please expect a longer processing and delivery lead time as our delivery vendors are taking a scheduled break over the Chinese New Year period. Deliveries for applications made after 21 Jan onwards may only be fulfilled after the Chinese New Year period, from second week of February onwards.
 
     - title: How will the kits be delivered to my company?
       content: |
@@ -152,9 +61,9 @@
   data:
     - title: Does my company have to submit my employees' test results to the government?
       content: |
-        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month's testing cycle (i.e. twice across the two-month period) to the Government. The results declaration may be submitted via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}. Kindly note that this link will be made available only from February 2022 onwards.  
+        Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month's testing cycle (i.e. twice across the two-month period) to the Government. The results declaration may be submitted via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}. 
 
-        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain the test results up to 1 month after they have completed the 8-week testing, and be required to produce proof if audited by the government.
+        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain records of the test results till 30 Apr 2022, and to produce these as proof if audited by the government.
 
     - title: What processes should my company have in place to ensure that we are compliant?
       content: |
@@ -167,6 +76,10 @@
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
         | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the subsequent FAQs below on what to do when tested ART positive) <br>Ensure that employees have adhered to the required follow-up actions. |
+
+    - title: What actions will be taken if my company is found to be non-compliant?
+      content: |
+        The Government shall have the right to claw back the cost of any test kits should there be any late submission of results or required information, or if any of the information submitted in the application form or results declaration form is untrue, or if non-compliance to the testing requirements is found.
 
 - accordion:
   letter: e
