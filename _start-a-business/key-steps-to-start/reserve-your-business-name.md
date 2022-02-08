@@ -10,7 +10,7 @@ third_nav_title: Key Steps to Start
 
 Decide on a name for your business and use our e-Adviser for Starting a Business to:
 
-- Check if there are similar business names or trade marks, and if it's available as a username on Facebook/Instagram/YouTube/Twitter.
+- Check if there are similar business names or trade marks, and if it's available as domain name or a username on Facebook/Instagram/YouTube/Twitter.
 - Receive a guide and find out what additional approvals are required to get your business started.
 - Register a Sole Proprietorship/Partnership via GoBusiness Portal
 
