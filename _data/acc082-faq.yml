@@ -1,18 +1,19 @@
 accordion:
   - title: Why is Singapore an ideal place to start a business?
     content: |
-      Strong trade and investment makes Singapore the most competitive Asian country and the world's easiest place to do business. Singapore is famed for a smooth-running bureaucracy, which sees various government agencies working together seamlessly to help businesses grow.
+      Strong trade and investment makes Singapore the most competitive Asian country and the world’s easiest place to do business. Singapore is famed for a smooth-running bureaucracy, which sees various government agencies working together seamlessly to help businesses grow.
 
       You can refer to our [Start-up Guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: What is ACRA?
     content: |
       The Accounting and Corporate Regulatory Authority (ACRA) is the regulator of business registration, financial reporting, public accountants and corporate service providers; it also facilitates enterprise.
-  - title: What's the difference between BizFile+ and GoBusiness? Can I register my business with BizFile+ instead?
+  - title: What’s the difference between BizFile+ and GoBusiness? Can I register my business with GoBusiness?
     content: |
       BizFile+ is the business filing portal of ACRA, while GoBusiness is a portal for business owners to access relevant government e-services and get guidance in identifying the type of business they should register as.
 
-      Currently, you can only register your business with BizFile+. We are working towards adding this feature to GoBusiness in future.
-  - title: I am keen to start a business but I'm not sure what I should look out for. How do I get started?
+      To make the process of starting a business more seamless, the option to register a Sole Proprietorship or Partnership is now available on GoBusiness. When you register your business with GoBusiness, it will be automatically registered with ACRA. For all other business structure types, please register using ACRA’s Bizfile+.
+      
+  - title: I am keen to start a business but I’m not sure what I should look out for. How do I get started?
     content: |
       You can refer to our [Start-up Guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: Can I register a business if I am a foreigner?
@@ -23,7 +24,7 @@ accordion:
       You can refer to our [Start-up Guide](/start-a-business/) for general guidance on how to register and run a business in Singapore.
   - title: I am not sure which business structure to choose. How do I get started?
     content: |
-      The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_faq){:target="_blank"}{:rel="noopener"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 25Nov2021.pdf){:target="_blank"}.
+      The [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_faq){:target="_blank"}{:rel="noopener"} will help you identify which business structure(s) is most suitable, based on your business preferences and long-term needs. Alternatively, you can refer to our [Business Structure Comparison Table](/images/start/Types of Business Structures SG 30Apr2021.pdf){:target="_blank"}.
   - title: Where can I access the legislations for the registration of businesses?
     content: |
       You can find the information [ACRA's website](https://www.acra.gov.sg/legislation/legislation-under-acra-purview){:target="_blank"}{:rel="noopener"}.
