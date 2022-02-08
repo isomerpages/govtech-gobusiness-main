@@ -10,8 +10,9 @@ third_nav_title: Key Steps to Start
 
 Decide on a name for your business and use our e-Adviser for Starting a Business to:
 
-- Check if there are similar business names or trade marks, and if it's available as a username on Facebook/Instagram/YouTube/Twitter.
+- Check if there are similar business names or trade marks, and if it's available as domain name or a username on Facebook/Instagram/YouTube/Twitter.
 - Receive a guide and find out what additional approvals are required to get your business started.
+- Register a Sole Proprietorship/Partnership via GoBusiness Portal
 
 {% include button.html text="Go to e-Adviser for Starting a Business" src="https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname" type="primary" %}
 
@@ -43,11 +44,18 @@ When reserving your business name, you will need to provide the SSIC code(s) tha
 
 You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
 
-There are two ways to reserve your business name:
+There are three ways to reserve your business name:
 
-1. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} with your Singpass to submit the application online, or
+For Sole Proprietorship/Partnership:
 
-2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+<!-- Get login pass for gobusiness from Jon -->
+1. [Log in to GoBusiness Portal](https://dashboard.gobusiness.gov.sg/){:target="_blank"}{:rel="noopener"} with your Singpass to get a step-by-step guide on getting your business started and submit the application online; 
+
+For all types of Business Structures:
+
+2. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} with your Singpass to submit the application online, or
+
+3. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
