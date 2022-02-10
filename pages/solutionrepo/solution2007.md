@@ -26,7 +26,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

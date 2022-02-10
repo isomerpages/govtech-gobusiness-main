@@ -1,16 +1,11 @@
 ---
-title: Alpha eCommerce Booster Version Premium - ALPHA eCommerce BoosterPremium
+title: Alpha eCommerce Booster Version Premium - ALPHA eCommerce Booster Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution2012
 ---
 
 ### Description
 
-Online eStore
-Inventory Management
-Orders & Payments
-Content Management
-CRM & Social Media Integration
-Chatbot & Ai Recommendation
+Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
 
 ### Details of Solution
 

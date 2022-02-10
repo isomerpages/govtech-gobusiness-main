@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.rahtech.sg <br>Contact Hotline: 86995066 <br>Contact Email: sales@rahtech.sg <br>
+Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

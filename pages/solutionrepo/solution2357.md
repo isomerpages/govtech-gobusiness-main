@@ -9,7 +9,7 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

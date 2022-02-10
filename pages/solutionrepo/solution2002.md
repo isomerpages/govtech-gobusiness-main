@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2002
 
 ### Description
 
-Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQCOMS' Managed Security Service delivers operationally simple instant pre-breach proactive protection against the most sophisticated cyberattacks immediately, efficiently, and absolutely like no other. Combined with our 24x7 monitoring center, we provide businesses with round-the-clock visibility on the security of their machines.
+EQCOMS's Managed Security Service deliver operationally simple, proactive prevention unbound by the limits of detection and prediction. We partnering Morphisec - They protect businesses around the globe from the most dangerous and sophisticated cyberattacks immediately, efficiently and absolutely.
 
 ### Details of Solution
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1995
 
 ### Description
 
-SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one.
+Axxis Consulting is an SAP Platinum Partner in Singapore, providing leading expertise to support business transformations and related IT implementations. As a subsidiary of Nihon Unisys and a member of United VARS, Axxis supports customers in APJ and beyond with an experienced international SAP Consulting Team.
+
+SAP Business One is an ERP software designed for SMEs. It's a single, affordable solution for managing the entire company and pre-configured to meet the needs of specific industries.
 
 ### Details of Solution
 

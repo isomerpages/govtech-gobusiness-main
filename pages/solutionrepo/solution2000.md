@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2000
 
 ### Description
 
-Armfort VMS is an integrated solution that will assist you to effectively authenticate and pro-actively monitor the people coming in and out of the premises on a daily basis, as there is no foresee with absolute certainty where the visitors will go and whether they have any malicious intent.
+Armfort Visitor Management System is an integrated solution that will assist businesses to effectively authenticate and pro-actively monitor the people coming in and out of their premises on a daily basis.
 
 ### Details of Solution
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>

@@ -41,7 +41,7 @@ N.A. for non-SMEs
 Equipment must meet the following specifications: 
 1. Work Piece & Tool Setting Probe:
 - Approach Directions: +/-x, +/-y, -z
-- Repeatability: <=1um 2sigma
+- Repeatability: <Minimum 1um 2sigma
 
 2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts
 
