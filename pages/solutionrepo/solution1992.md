@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1992
 
 ### Description
 
-Accounting Consultancy Pte Ltd is a pre-approved vendor offering ABSS ABSS Premier provides advanced Accounting, inventory and business management capabilities to companies. Process foreign currency transactions, tax submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
+Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. ABSS is an accounting software to help businesses process sales and purchases, track receivables, payables and GST, email quotes and invoices and more.
 
 ### Details of Solution
 

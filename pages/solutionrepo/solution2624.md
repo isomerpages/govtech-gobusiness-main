@@ -1,5 +1,5 @@
 ---
-title: AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=50,000sqm)
+title: AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <Minimum 50,000sqm)
 permalink: /productivity-solutions-grant/solutionrepo/solution2624
 ---
 

@@ -5,7 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1972
 
 ### Description
 
-Microsoft Dynamics 365 Business Central (formerly known as Dynamics NAV or Navision) is an innovative Enterprise Resource Planning (ERP) system that automates and streamlines business processes. This comprehensive business application for small-to-midsize organizations is scalable, easy to configure, and simple to use. If your business outgrows your current financial software or legacy system, Microsoft Dynamics 365 Business Central will be an ideal replacement for your business.
+Microsoft Dynamics 365 Business Central is a business management ERP solution for small and mid-sized organizations that automates and streamlines business processes and helps SMEs to manage their business.
+R Systems is a global technology and analytics services company that helps businesses to achieve speed-to-market, overcome digital barriers, and create business value with their specialized service offerings and consultative business approach. 
 
 ### Details of Solution
 

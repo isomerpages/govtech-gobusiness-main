@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
+Web URL: https://proadvisor.intuit.com/app/accountant/search?searchIdMinimum angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

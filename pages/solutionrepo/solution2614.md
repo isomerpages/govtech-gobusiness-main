@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.xero.com/sg/?escape=true <br>Contact Hotline: 63093800 <br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br>
+Web URL: https://www.xero.com/sg/?escapeMinimum true <br>Contact Hotline: 63093800 <br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

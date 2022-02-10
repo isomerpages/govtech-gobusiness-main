@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1967
 
 ### Description
 
-One-Stop Document Access is a document management system, accessible via web browser and mobile. Documents are maintained in departmentalized teamsites with following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-Data tags information allowing quick retrieval. The system is also backed up to a secured cloud platform. With Prominds as a vendor, SMEs receive an all-rounded solution readily available for deployment.
+One-Stop Document Access is a document management system that offers browser and mobile access. The solution is crafted with Prominds' expertise in systems integration at the forefront. It boasts the following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-data tags allowing quick retrieval of documents. Backed up to a secure cloud platform and ready to deploy, SMEs can look forward to an all-rounded solution.
 
 ### Details of Solution
 
