@@ -16,9 +16,9 @@
   alt: licences
   title: Licences and Permits
   id: 2
-  href_1: '/licences/#apply-new-licence-anchor/?src=home_quicklinks'
+  href_1: '/licences/#apply-new-licence-anchor'
   text_1: Apply for new licence
-  href_2: '/licences/#renew-amend-licence-anchor/?src=home_quicklinks'
+  href_2: '/licences/#renew-amend-licence-anchor'
   text_2: Renew or amend licence
   href_3: '/licences/find-licence-by-sector/?src=home_quicklinks'
   text_3: Licence guides
