@@ -36,7 +36,7 @@ panels:
         target: _blank
   - title: For Covid-19
     image: /images/covid.png
-    alt: popular
+    alt: covid
     links:
       - text: Onsite Manpower Declaration
         href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
