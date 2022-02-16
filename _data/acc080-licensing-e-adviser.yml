@@ -1,33 +1,47 @@
 - accordion:
+  letter: aa
+  data:
+    - title: Events
+      content: |
+        - [e-Adviser for Events](https://eadviser.g2b.sg/events){:target="_blank"}
+          <br>Find out the licences and permits you need to organise an event with our new e-Adviser for Events.<br><br>
+
+
+    - title: Premise Use Check
+      content: |
+        - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}
+          <br>Find out the licences and permits you need to organise an event with our new e-Adviser for Events.<br><br>
+
+- accordion:
   letter: a
   data:
     - title: Air Transport
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Air traffic controller](https://eadviser.gobusiness.gov.sg/airtrafficcontroller){:target="_blank"}
 
-        - [Air traffic controller](https://eadviser.gobusiness.gov.sg/airtrafficcontroller){:target="_blank"}{:rel="noopener"}
+        - [Aircraft maintenance engineer (AME)](https://eadviser.gobusiness.gov.sg/aircraftmaintenanceengineer){:target="_blank"}
 
-        - [Aircraft maintenance engineer (AME)](https://eadviser.gobusiness.gov.sg/aircraftmaintenanceengineer){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
-        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}{:rel="noopener"}
+        - [Conducting an aerial activity](https://eadviser.gobusiness.gov.sg/conductinganaerialactivity){:target="_blank"}
 
-        - [Conducting an aerial activity](https://eadviser.gobusiness.gov.sg/conductinganaerialactivity){:target="_blank"}{:rel="noopener"}
+        - [Conducting an aerial photography or videography](https://eadviser.gobusiness.gov.sg/conductinganaerialphotographyorvideography){:target="_blank"}
 
-        - [Conducting an aerial photography or videography](https://eadviser.gobusiness.gov.sg/conductinganaerialphotographyorvideography){:target="_blank"}{:rel="noopener"}
+        - [Obstacle clearance](https://eadviser.gobusiness.gov.sg/obstacleclearance){:target="_blank"}
 
-        - [Obstacle clearance](https://eadviser.gobusiness.gov.sg/obstacleclearance){:target="_blank"}{:rel="noopener"}
+        - [Pilot, fly instructor, flight engineer, flight examiner](https://eadviser.gobusiness.gov.sg/pilotflyinstructorflightengineerflightexaminer){:target="_blank"}
 
-        - [Pilot, fly instructor, flight engineer, flight examiner](https://eadviser.gobusiness.gov.sg/pilotflyinstructorflightengineerflightexaminer){:target="_blank"}{:rel="noopener"}
+        - [Radio communication equipment in an airport area](https://eadviser.gobusiness.gov.sg/radiocommunicationequipmentinanairportarea){:target="_blank"}
 
-        - [Radio communication equipment in an airport area](https://eadviser.gobusiness.gov.sg/radiocommunicationequipmentinanairportarea){:target="_blank"}{:rel="noopener"}
+        - [Setting up air operator business](https://eadviser.gobusiness.gov.sg/settingupairoperatorbusiness){:target="_blank"}
 
-        - [Setting up air operator business](https://eadviser.gobusiness.gov.sg/settingupairoperatorbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up aircraft maintenance business](https://eadviser.gobusiness.gov.sg/settingupaircraftmaintenancebusiness){:target="_blank"}
 
-        - [Setting up aircraft maintenance business](https://eadviser.gobusiness.gov.sg/settingupaircraftmaintenancebusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up radio determination station](https://eadviser.gobusiness.gov.sg/settingupradiodeterminationstation){:target="_blank"}
 
-        - [Setting up radio determination station](https://eadviser.gobusiness.gov.sg/settingupradiodeterminationstation){:target="_blank"}{:rel="noopener"}
-
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
 - accordion:
   letter: b
@@ -35,24 +49,24 @@
     - title: Building & Construction
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
-        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Environmental health issues within construction site](https://eadviser.gobusiness.gov.sg/environmentalhealthissueswithinconstructionsite){:target="_blank"}
 
-        - [Environmental health issues within construction site](https://eadviser.gobusiness.gov.sg/environmentalhealthissueswithinconstructionsite){:target="_blank"}{:rel="noopener"}
+        - [Housing developer](https://eadviser.gobusiness.gov.sg/housingdeveloper){:target="_blank"}
 
-        - [Housing developer](https://eadviser.gobusiness.gov.sg/housingdeveloper){:target="_blank"}{:rel="noopener"}
+        - [Obstacle clearance](https://eadviser.gobusiness.gov.sg/obstacleclearance){:target="_blank"}
 
-        - [Obstacle clearance](https://eadviser.gobusiness.gov.sg/obstacleclearance){:target="_blank"}{:rel="noopener"}
+        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
 
-        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}{:rel="noopener"}
+        - [Provisioning of telecommunication internal wiring works](https://eadviser.gobusiness.gov.sg/provisioningoftelecommunicationinternalwiringworks){:target="_blank"}
 
-        - [Provisioning of telecommunication internal wiring works](https://eadviser.gobusiness.gov.sg/provisioningoftelecommunicationinternalwiringworks){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
-
-        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
 
 - accordion:
   letter: d
@@ -60,10 +74,10 @@
     - title: Dormitory Services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Operating dormitory for foreign employees](https://eadviser.gobusiness.gov.sg/operatingdormitoryforforeignemployees){:target="_blank"}
 
-        - [Operating dormitory for foreign employees](https://eadviser.gobusiness.gov.sg/operatingdormitoryforforeignemployees){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up lodging and boarding houses](https://eadviser.gobusiness.gov.sg/settinguplodgingandboardinghouses){:target="_blank"}{:rel="noopener"}
+        - [Setting up lodging and boarding houses](https://eadviser.gobusiness.gov.sg/settinguplodgingandboardinghouses){:target="_blank"}
 
 - accordion:
   letter: e
@@ -71,80 +85,80 @@
     - title: Education
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Any individual teaching Islam in singapore](https://eadviser.gobusiness.gov.sg/anyindividualteachingislaminsingapore){:target="_blank"}
 
-        - [Any individual teaching Islam in singapore](https://eadviser.gobusiness.gov.sg/anyindividualteachingislaminsingapore){:target="_blank"}{:rel="noopener"}
+        - [Proprietor conducting Islamic education centre or a provider](https://eadviser.gobusiness.gov.sg/proprietorconductingislamiceducationcentreoraprovider){:target="_blank"}
 
-        - [Proprietor conducting Islamic education centre or a provider](https://eadviser.gobusiness.gov.sg/proprietorconductingislamiceducationcentreoraprovider){:target="_blank"}{:rel="noopener"}
+        - [Quality assurance for private education institution](https://eadviser.gobusiness.gov.sg/qualityassuranceforprivateeducationinstitution){:target="_blank"}
 
-        - [Quality assurance for private education institution](https://eadviser.gobusiness.gov.sg/qualityassuranceforprivateeducationinstitution){:target="_blank"}{:rel="noopener"}
+        - [Recruiting foreign/international student(s)](https://eadviser.gobusiness.gov.sg/recruitingforeigninternationalstudents){:target="_blank"}
 
-        - [Recruiting foreign/international student(s)](https://eadviser.gobusiness.gov.sg/recruitingforeigninternationalstudents){:target="_blank"}{:rel="noopener"}
+        - [Setting up an early childhood development centre (ECDC)](https://eadviser.gobusiness.gov.sg/settingupanearlychildhooddevelopmentcentre){:target="_blank"}
 
-        - [Setting up an early childhood development centre (ECDC)](https://eadviser.gobusiness.gov.sg/settingupanearlychildhooddevelopmentcentre){:target="_blank"}{:rel="noopener"}
+        - [Setting up kindergarten](https://eadviser.gobusiness.gov.sg/settingupkindergarten){:target="_blank"}
 
-        - [Setting up kindergarten](https://eadviser.gobusiness.gov.sg/settingupkindergarten){:target="_blank"}{:rel="noopener"}
+        - [Setting up private school, private education institution](https://eadviser.gobusiness.gov.sg/settingupprivateschoolprivateeducationinstitution){:target="_blank"}
 
-        - [Setting up private school, private education institution](https://eadviser.gobusiness.gov.sg/settingupprivateschoolprivateeducationinstitution){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up private school/education institution/commercial school](https://eadviser.gobusiness.gov.sg/settingupprivateschooleducationinstitutioncommercialschool){:target="_blank"}{:rel="noopener"}
+        - [Setting up private school/education institution/commercial school](https://eadviser.gobusiness.gov.sg/settingupprivateschooleducationinstitutioncommercialschool){:target="_blank"}
 
     - title: Employment and Administrative Services
       content: |
         Explore licences you may require with the e-Advisers:
-
-        - [Setting up employment / recruitment / maid agency](https://eadviser.gobusiness.gov.sg/settingupemploymentrecruitmentmaidagency){:target="_blank"}{:rel="noopener"}
+        
+        - [Setting up employment / recruitment / maid agency](https://eadviser.gobusiness.gov.sg/settingupemploymentrecruitmentmaidagency){:target="_blank"}
 
     - title: Energy
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
-        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Setting up business to generate, retail, transmit electricity](https://eadviser.gobusiness.gov.sg/settingupbusinesstogenerateretailtransmitelectricity){:target="_blank"}
 
-        - [Setting up business to generate, retail, transmit electricity](https://eadviser.gobusiness.gov.sg/settingupbusinesstogenerateretailtransmitelectricity){:target="_blank"}{:rel="noopener"}
+        - [Setting up business to import, ship or retail gas](https://eadviser.gobusiness.gov.sg/settingupbusinesstoimportshiporretailgas){:target="_blank"}
 
-        - [Setting up business to import, ship or retail gas](https://eadviser.gobusiness.gov.sg/settingupbusinesstoimportshiporretailgas){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
-
-        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
 
     - title: Environmental Services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Application of fumigator licence](https://eadviser.gobusiness.gov.sg/applicationoffumigatorlicence){:target="_blank"}
 
-        - [Application of fumigator licence](https://eadviser.gobusiness.gov.sg/applicationoffumigatorlicence){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}
 
-        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
-        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}{:rel="noopener"}
+        - [Application of toxic industrial waste collector licence](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastecollectorlicence){:target="_blank"}
 
-        - [Application of toxic industrial waste collector licence](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastecollectorlicence){:target="_blank"}{:rel="noopener"}
+        - [Application of toxic industrial waste transport approval](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastetransportapproval){:target="_blank"}
 
-        - [Application of toxic industrial waste transport approval](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastetransportapproval){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Collect, transport and dispose of waste at disposal facilities](https://eadviser.gobusiness.gov.sg/collecttransportanddisposeofwasteatdisposalfacilities){:target="_blank"}
 
-        - [Collect, transport and dispose of waste at disposal facilities](https://eadviser.gobusiness.gov.sg/collecttransportanddisposeofwasteatdisposalfacilities){:target="_blank"}{:rel="noopener"}
+        - [Conducting or performing or supervising vector control work](https://eadviser.gobusiness.gov.sg/conductingorperformingorsupervisingvectorcontrolwork){:target="_blank"}
 
-        - [Conducting or performing or supervising vector control work](https://eadviser.gobusiness.gov.sg/conductingorperformingorsupervisingvectorcontrolwork){:target="_blank"}{:rel="noopener"}
+        - [Conducting or performing vector control work](https://eadviser.gobusiness.gov.sg/conductingorperformingvectorcontrolwork){:target="_blank"}
 
-        - [Conducting or performing vector control work](https://eadviser.gobusiness.gov.sg/conductingorperformingvectorcontrolwork){:target="_blank"}{:rel="noopener"}
+        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
 
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}{:rel="noopener"}
+        - [Operating or managing a vector control company](https://eadviser.gobusiness.gov.sg/operatingormanagingavectorcontrolcompany){:target="_blank"}
 
-        - [Operating or managing a vector control company](https://eadviser.gobusiness.gov.sg/operatingormanagingavectorcontrolcompany){:target="_blank"}{:rel="noopener"}
+        - [Setting up cleaning business](https://eadviser.gobusiness.gov.sg/settingupcleaningbusiness){:target="_blank"}
 
-        - [Setting up cleaning business](https://eadviser.gobusiness.gov.sg/settingupcleaningbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up toxic industrial waste collection business](https://eadviser.gobusiness.gov.sg/settinguptoxicindustrialwastecollectionbusiness){:target="_blank"}
 
-        - [Setting up toxic industrial waste collection business](https://eadviser.gobusiness.gov.sg/settinguptoxicindustrialwastecollectionbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up vector & pest control/fumigation business](https://eadviser.gobusiness.gov.sg/settingupvectorpestcontrolfumigationbusiness){:target="_blank"}
 
-        - [Setting up vector & pest control/fumigation business](https://eadviser.gobusiness.gov.sg/settingupvectorpestcontrolfumigationbusiness){:target="_blank"}{:rel="noopener"}
+        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
-
-        - [Vector control employee](https://eadviser.gobusiness.gov.sg/vectorcontrolemployee){:target="_blank"}{:rel="noopener"}
+        - [Vector control employee](https://eadviser.gobusiness.gov.sg/vectorcontrolemployee){:target="_blank"}
 
 - accordion:
   letter: f
@@ -152,69 +166,69 @@
     - title: Financial Services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Financial & insurance advisor](https://eadviser.gobusiness.gov.sg/financialinsuranceadvisor){:target="_blank"}
 
-        - [Financial & insurance advisor](https://eadviser.gobusiness.gov.sg/financialinsuranceadvisor){:target="_blank"}{:rel="noopener"}
+        - [Setting up capital market intermediaries](https://eadviser.gobusiness.gov.sg/settingupcapitalmarketintermediaries){:target="_blank"}
 
-        - [Setting up capital market intermediaries](https://eadviser.gobusiness.gov.sg/settingupcapitalmarketintermediaries){:target="_blank"}{:rel="noopener"}
+        - [Setting up commercial bank](https://eadviser.gobusiness.gov.sg/settingupcommercialbank){:target="_blank"}
 
-        - [Setting up commercial bank](https://eadviser.gobusiness.gov.sg/settingupcommercialbank){:target="_blank"}{:rel="noopener"}
+        - [Setting up insurance broking business](https://eadviser.gobusiness.gov.sg/settingupinsurancebrokingbusiness){:target="_blank"}
 
-        - [Setting up insurance broking business](https://eadviser.gobusiness.gov.sg/settingupinsurancebrokingbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up insurance company](https://eadviser.gobusiness.gov.sg/settingupinsurancecompany){:target="_blank"}
 
-        - [Setting up insurance company](https://eadviser.gobusiness.gov.sg/settingupinsurancecompany){:target="_blank"}{:rel="noopener"}
+        - [Setting up money changing business](https://eadviser.gobusiness.gov.sg/settingupmoneychangingbusiness){:target="_blank"}
 
-        - [Setting up money changing business](https://eadviser.gobusiness.gov.sg/settingupmoneychangingbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up moneylending business, shop](https://eadviser.gobusiness.gov.sg/settingupmoneylendingbusinessshop){:target="_blank"}
 
-        - [Setting up moneylending business, shop](https://eadviser.gobusiness.gov.sg/settingupmoneylendingbusinessshop){:target="_blank"}{:rel="noopener"}
+        - [Setting up pawnshop](https://eadviser.gobusiness.gov.sg/settinguppawnshop){:target="_blank"}
 
-        - [Setting up pawnshop](https://eadviser.gobusiness.gov.sg/settinguppawnshop){:target="_blank"}{:rel="noopener"}
+        - [Setting up securities crowdfunding business](https://eadviser.gobusiness.gov.sg/settingupsecuritiescrowdfundingbusiness){:target="_blank"}
 
-        - [Setting up securities crowdfunding business](https://eadviser.gobusiness.gov.sg/settingupsecuritiescrowdfundingbusiness){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up trust company](https://eadviser.gobusiness.gov.sg/settinguptrustcompany){:target="_blank"}{:rel="noopener"}
+        - [Setting up trust company](https://eadviser.gobusiness.gov.sg/settinguptrustcompany){:target="_blank"}
 
     - title: Food & Beverage (F&B)
       content: |
-        - [Guide to starting a new Food Service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licence_by_sector){:target="_blank"}{:rel="noopener"}
+        - [Guide to starting a new Food Service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licence_by_sector){:target="_blank"}
           <br>Use Food Services Guided Journey, a step-by-step beginner guide for helping you apply for the licences you need.
 
         Or explore licences you may require with the e-Advisers:
+        
+        - [Dealings with rice](https://eadviser.gobusiness.gov.sg/dealingswithrice){:target="_blank"}
 
-        - [Dealings with rice](https://eadviser.gobusiness.gov.sg/dealingswithrice){:target="_blank"}{:rel="noopener"}
+        - [Importing petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/importingpetroleumandflammablematerials){:target="_blank"}
 
-        - [Importing petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/importingpetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
+        - [Operating slaughter-house](https://eadviser.gobusiness.gov.sg/operatingslaughterhouse){:target="_blank"}
 
-        - [Operating slaughter-house](https://eadviser.gobusiness.gov.sg/operatingslaughterhouse){:target="_blank"}{:rel="noopener"}
+        - [Public consumption of liquor](https://eadviser.gobusiness.gov.sg/publicconsumptionofliquor){:target="_blank"}
 
-        - [Public consumption of liquor](https://eadviser.gobusiness.gov.sg/publicconsumptionofliquor){:target="_blank"}{:rel="noopener"}
+        - [Sale of food and or goods in temporary fair](https://eadviser.gobusiness.gov.sg/saleoffoodandorgoodsintemporaryfair){:target="_blank"}
 
-        - [Sale of food and or goods in temporary fair](https://eadviser.gobusiness.gov.sg/saleoffoodandorgoodsintemporaryfair){:target="_blank"}{:rel="noopener"}
+        - [Sales of liquor or sales for consumption of liquor](https://eadviser.gobusiness.gov.sg/salesofliquororsalesforconsumptionofliquor){:target="_blank"}
 
-        - [Sales of liquor or sales for consumption of liquor](https://eadviser.gobusiness.gov.sg/salesofliquororsalesforconsumptionofliquor){:target="_blank"}{:rel="noopener"}
+        - [Setting up bar/pub/cabaret/night club/discotheque/karaoke lounge](https://eadviser.gobusiness.gov.sg/settingupbarpubcabaretnightclubdiscothequekaraokelounge){:target="_blank"}
 
-        - [Setting up bar/pub/cabaret/night club/discotheque/karaoke lounge](https://eadviser.gobusiness.gov.sg/settingupbarpubcabaretnightclubdiscothequekaraokelounge){:target="_blank"}{:rel="noopener"}
+        - [Setting up coffee shop, canteen](https://eadviser.gobusiness.gov.sg/settingupcoffeeshopcanteen){:target="_blank"}
 
-        - [Setting up coffee shop, canteen](https://eadviser.gobusiness.gov.sg/settingupcoffeeshopcanteen){:target="_blank"}{:rel="noopener"}
+        - [Setting up cyber/internet cafe](https://eadviser.gobusiness.gov.sg/settingupcyberinternetcafe){:target="_blank"}
 
-        - [Setting up cyber/internet cafe](https://eadviser.gobusiness.gov.sg/settingupcyberinternetcafe){:target="_blank"}{:rel="noopener"}
+        - [Setting up food and beverages (food & beverage) outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}
 
-        - [Setting up food and beverages (food & beverage) outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}{:rel="noopener"}
+        - [Setting up food catering business](https://eadviser.gobusiness.gov.sg/settingupfoodcateringbusiness){:target="_blank"}
 
-        - [Setting up food catering business](https://eadviser.gobusiness.gov.sg/settingupfoodcateringbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up food delivery business](https://eadviser.gobusiness.gov.sg/settingupfooddeliverybusiness){:target="_blank"}
 
-        - [Setting up food delivery business](https://eadviser.gobusiness.gov.sg/settingupfooddeliverybusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up food stall in a private establishment](https://eadviser.gobusiness.gov.sg/settingupfoodstallinaprivateestablishment){:target="_blank"}
 
-        - [Setting up food stall in a private establishment](https://eadviser.gobusiness.gov.sg/settingupfoodstallinaprivateestablishment){:target="_blank"}{:rel="noopener"}
+        - [Setting up hawker stall](https://eadviser.gobusiness.gov.sg/settinguphawkerstall){:target="_blank"}
 
-        - [Setting up hawker stall](https://eadviser.gobusiness.gov.sg/settinguphawkerstall){:target="_blank"}{:rel="noopener"}
+        - [Setting up mobile food wagon / food truck](https://eadviser.gobusiness.gov.sg/settingupmobilefoodwagonfoodtruck){:target="_blank"}
 
-        - [Setting up mobile food wagon / food truck](https://eadviser.gobusiness.gov.sg/settingupmobilefoodwagonfoodtruck){:target="_blank"}{:rel="noopener"}
+        - [Setting up pet shop or café](https://eadviser.gobusiness.gov.sg/settinguppetshoporcafe){:target="_blank"}
 
-        - [Setting up pet shop or café](https://eadviser.gobusiness.gov.sg/settinguppetshoporcafe){:target="_blank"}{:rel="noopener"}
+        - [Setting up restaurant, cafe](https://eadviser.gobusiness.gov.sg/settinguprestaurantcafe){:target="_blank"}
 
-        - [Setting up restaurant, cafe](https://eadviser.gobusiness.gov.sg/settinguprestaurantcafe){:target="_blank"}{:rel="noopener"}
-
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
 - accordion:
   letter: h
@@ -222,40 +236,40 @@
     - title: Healthcare
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}
 
-        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
-        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Clinic/hospital/laboratory/school/institution/factory/NDT business](https://eadviser.gobusiness.gov.sg/clinichospitallaboratoryschoolinstitutionfactoryndtbusiness){:target="_blank"}
 
-        - [Clinic/hospital/laboratory/school/institution/factory/NDT business](https://eadviser.gobusiness.gov.sg/clinichospitallaboratoryschoolinstitutionfactoryndtbusiness){:target="_blank"}{:rel="noopener"}
+        - [Environmental health issues within construction site](https://eadviser.gobusiness.gov.sg/environmentalhealthissueswithinconstructionsite){:target="_blank"}
 
-        - [Environmental health issues within construction site](https://eadviser.gobusiness.gov.sg/environmentalhealthissueswithinconstructionsite){:target="_blank"}{:rel="noopener"}
+        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
 
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}{:rel="noopener"}
+        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
 
-        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}{:rel="noopener"}
+        - [Sale or distributing medical/industrial/research/veterinary device](https://eadviser.gobusiness.gov.sg/saleordistributingmedicalindustrialresearchveterinarydevice){:target="_blank"}
 
-        - [Sale or distributing medical/industrial/research/veterinary device](https://eadviser.gobusiness.gov.sg/saleordistributingmedicalindustrialresearchveterinarydevice){:target="_blank"}{:rel="noopener"}
+        - [Setting up a residential care facility](https://eadviser.gobusiness.gov.sg/settinguparesidentialcarefacility){:target="_blank"}
 
-        - [Setting up a residential care facility](https://eadviser.gobusiness.gov.sg/settinguparesidentialcarefacility){:target="_blank"}{:rel="noopener"}
+        - [Setting up clinical laboratory](https://eadviser.gobusiness.gov.sg/settingupclinicallaboratory){:target="_blank"}
 
-        - [Setting up clinical laboratory](https://eadviser.gobusiness.gov.sg/settingupclinicallaboratory){:target="_blank"}{:rel="noopener"}
+        - [Setting up community health centre](https://eadviser.gobusiness.gov.sg/settingupcommunityhealthcentre){:target="_blank"}
 
-        - [Setting up community health centre](https://eadviser.gobusiness.gov.sg/settingupcommunityhealthcentre){:target="_blank"}{:rel="noopener"}
+        - [Setting up home for the aged](https://eadviser.gobusiness.gov.sg/settinguphomefortheaged){:target="_blank"}
 
-        - [Setting up home for the aged](https://eadviser.gobusiness.gov.sg/settinguphomefortheaged){:target="_blank"}{:rel="noopener"}
+        - [Setting up medical or dental clinic](https://eadviser.gobusiness.gov.sg/settingupmedicalordentalclinic){:target="_blank"}
 
-        - [Setting up medical or dental clinic](https://eadviser.gobusiness.gov.sg/settingupmedicalordentalclinic){:target="_blank"}{:rel="noopener"}
+        - [Setting up nursing home](https://eadviser.gobusiness.gov.sg/settingupnursinghome){:target="_blank"}
 
-        - [Setting up nursing home](https://eadviser.gobusiness.gov.sg/settingupnursinghome){:target="_blank"}{:rel="noopener"}
+        - [Setting up private hospital](https://eadviser.gobusiness.gov.sg/settingupprivatehospital){:target="_blank"}
 
-        - [Setting up private hospital](https://eadviser.gobusiness.gov.sg/settingupprivatehospital){:target="_blank"}{:rel="noopener"}
-
-        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
 
 - accordion:
   letter: l
@@ -264,61 +278,61 @@
       content: |
         Explore licences you may require with the e-Advisers:
 
-        - [Bus attendant](https://eadviser.gobusiness.gov.sg/busattendant){:target="_blank"}{:rel="noopener"}
+        - [Bus attendant](https://eadviser.gobusiness.gov.sg/busattendant){:target="_blank"}
 
-        - [Bus driver](https://eadviser.gobusiness.gov.sg/busdriver){:target="_blank"}{:rel="noopener"}
+        - [Bus driver](https://eadviser.gobusiness.gov.sg/busdriver){:target="_blank"}
 
-        - [Issuing vocational licence(vl)](https://eadviser.gobusiness.gov.sg/issuingvocationallicence){:target="_blank"}{:rel="noopener"}
+        - [Issuing vocational licence(vl)](https://eadviser.gobusiness.gov.sg/issuingvocationallicence){:target="_blank"}
 
-        - [Operating a bus service](https://eadviser.gobusiness.gov.sg/operatingabusservice){:target="_blank"}{:rel="noopener"}
+        - [Operating a bus service](https://eadviser.gobusiness.gov.sg/operatingabusservice){:target="_blank"}
 
-        - [Taxi driver](https://eadviser.gobusiness.gov.sg/taxidriver){:target="_blank"}{:rel="noopener"}
+        - [Taxi driver](https://eadviser.gobusiness.gov.sg/taxidriver){:target="_blank"}
 
-        - [Ticket payment services in the transit arena](https://eadviser.gobusiness.gov.sg/ticketpaymentservicesinthetransitarena){:target="_blank"}{:rel="noopener"}
+        - [Ticket payment services in the transit arena](https://eadviser.gobusiness.gov.sg/ticketpaymentservicesinthetransitarena){:target="_blank"}
 
-        - [Transport company](https://eadviser.gobusiness.gov.sg/transportcompany){:target="_blank"}{:rel="noopener"}
+        - [Transport company](https://eadviser.gobusiness.gov.sg/transportcompany){:target="_blank"}
 
     - title: Logistics
       content: |
         Explore licences you may require with the e-Advisers:
 
-        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}
 
-        - [Application of hazardous substances transport approval](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancestransportapproval){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances transport approval](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancestransportapproval){:target="_blank"}
 
-        - [Application of toxic industrial waste transport approval](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastetransportapproval){:target="_blank"}{:rel="noopener"}
+        - [Application of toxic industrial waste transport approval](https://eadviser.gobusiness.gov.sg/applicationoftoxicindustrialwastetransportapproval){:target="_blank"}
+        
+        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Dealing with security equipment](https://eadviser.gobusiness.gov.sg/dealingwithsecurityequipment){:target="_blank"}
 
-        - [Dealing with security equipment](https://eadviser.gobusiness.gov.sg/dealingwithsecurityequipment){:target="_blank"}{:rel="noopener"}
+        - [Dealing, shipment or exporting of explosive precursor](https://eadviser.gobusiness.gov.sg/dealingshipmentorexportingofexplosiveprecursor){:target="_blank"}
 
-        - [Dealing, shipment or exporting of explosive precursor](https://eadviser.gobusiness.gov.sg/dealingshipmentorexportingofexplosiveprecursor){:target="_blank"}{:rel="noopener"}
+        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}
 
-        - [Handling and transporting of radioactive materials](https://eadviser.gobusiness.gov.sg/handlingandtransportingofradioactivematerials){:target="_blank"}{:rel="noopener"}
+        - [Import/export non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importexportnonionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Import/export non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importexportnonionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Importing or exporting of explosives](https://eadviser.gobusiness.gov.sg/importingorexportingofexplosives){:target="_blank"}
 
-        - [Importing or exporting of explosives](https://eadviser.gobusiness.gov.sg/importingorexportingofexplosives){:target="_blank"}{:rel="noopener"}
+        - [Importing petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/importingpetroleumandflammablematerials){:target="_blank"}
 
-        - [Importing petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/importingpetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
+        - [Importing, exporting and shipping of arms](https://eadviser.gobusiness.gov.sg/importingexportingandshippingofarms){:target="_blank"}
 
-        - [Importing, exporting and shipping of arms](https://eadviser.gobusiness.gov.sg/importingexportingandshippingofarms){:target="_blank"}{:rel="noopener"}
+        - [Importing/exporting ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importingexportingionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Importing/exporting ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/importingexportingionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Importing/exporting radioactive materials or devices](https://eadviser.gobusiness.gov.sg/importingexportingradioactivematerialsordevices){:target="_blank"}
 
-        - [Importing/exporting radioactive materials or devices](https://eadviser.gobusiness.gov.sg/importingexportingradioactivematerialsordevices){:target="_blank"}{:rel="noopener"}
+        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}
 
-        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Sale or distributing medical/industrial/research/veterinary device](https://eadviser.gobusiness.gov.sg/saleordistributingmedicalindustrialresearchveterinarydevice){:target="_blank"}
 
-        - [Sale or distributing medical/industrial/research/veterinary device](https://eadviser.gobusiness.gov.sg/saleordistributingmedicalindustrialresearchveterinarydevice){:target="_blank"}{:rel="noopener"}
+        - [Setting up import/export business](https://eadviser.gobusiness.gov.sg/setupimportexportbusiness){:target="_blank"}
 
-        - [Setting up import/export business](https://eadviser.gobusiness.gov.sg/setupimportexportbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}
 
-        - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
-
-        - [Transporting petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/transportingpetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
+        - [Transporting petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/transportingpetroleumandflammablematerials){:target="_blank"}
 
 - accordion:
   letter: m
@@ -326,76 +340,76 @@
     - title: Manufacturing & Engineering
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}
 
-        - [Application of hazardous substances licence](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstanceslicence){:target="_blank"}{:rel="noopener"}
+        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}
 
-        - [Application of hazardous substances permit](https://eadviser.gobusiness.gov.sg/applicationofhazardoussubstancespermit){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}
 
-        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Manufacturing and processing](https://eadviser.gobusiness.gov.sg/manufacturingandprocessing){:target="_blank"}
 
-        - [Manufacturing and processing](https://eadviser.gobusiness.gov.sg/manufacturingandprocessing){:target="_blank"}{:rel="noopener"}
+        - [Manufacturing explosives](https://eadviser.gobusiness.gov.sg/manufacturingexplosives){:target="_blank"}
 
-        - [Manufacturing explosives](https://eadviser.gobusiness.gov.sg/manufacturingexplosives){:target="_blank"}{:rel="noopener"}
+        - [Manufacturing of arms](https://eadviser.gobusiness.gov.sg/manufacturingofarms){:target="_blank"}
 
-        - [Manufacturing of arms](https://eadviser.gobusiness.gov.sg/manufacturingofarms){:target="_blank"}{:rel="noopener"}
+        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
 
-        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}{:rel="noopener"}
+        - [Physical trading of rubber in singapore](https://eadviser.gobusiness.gov.sg/physicaltradingofrubberinsingapore){:target="_blank"}
 
-        - [Physical trading of rubber in singapore](https://eadviser.gobusiness.gov.sg/physicaltradingofrubberinsingapore){:target="_blank"}{:rel="noopener"}
+        - [Providing engineering services](https://eadviser.gobusiness.gov.sg/providingengineeringservices){:target="_blank"}
 
-        - [Providing engineering services](https://eadviser.gobusiness.gov.sg/providingengineeringservices){:target="_blank"}{:rel="noopener"}
+        - [Setting up factory/manufacturing business](https://eadviser.gobusiness.gov.sg/settingupfactorymanufacturingbusiness){:target="_blank"}
 
-        - [Setting up factory/manufacturing business](https://eadviser.gobusiness.gov.sg/settingupfactorymanufacturingbusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}
 
-        - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
-
-        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
 
     - title: Maritime
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Operating radio-communication services of a ship station](https://eadviser.gobusiness.gov.sg/operatingradiocommunicationservicesofashipstation){:target="_blank"}
 
-        - [Operating radio-communication services of a ship station](https://eadviser.gobusiness.gov.sg/operatingradiocommunicationservicesofashipstation){:target="_blank"}{:rel="noopener"}
+        - [Setting up bunker surveying business](https://eadviser.gobusiness.gov.sg/settingupbunkersurveyingbusiness){:target="_blank"}
 
-        - [Setting up bunker surveying business](https://eadviser.gobusiness.gov.sg/settingupbunkersurveyingbusiness){:target="_blank"}{:rel="noopener"}
+        - [Ship station licence](https://eadviser.gobusiness.gov.sg/shipstationlicence){:target="_blank"}
 
-        - [Ship station licence](https://eadviser.gobusiness.gov.sg/shipstationlicence){:target="_blank"}{:rel="noopener"}
+        - [Steersman, helmsman, engine driver (marine)](https://eadviser.gobusiness.gov.sg/steersmanhelmsmanenginedrivermarine){:target="_blank"}
 
-        - [Steersman, helmsman, engine driver (marine)](https://eadviser.gobusiness.gov.sg/steersmanhelmsmanenginedrivermarine){:target="_blank"}{:rel="noopener"}
+        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
-        - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}{:rel="noopener"}
-
-        - [Supply bunkers to vessels](https://eadviser.gobusiness.gov.sg/supplybunkerstovessels){:target="_blank"}{:rel="noopener"}
+        - [Supply bunkers to vessels](https://eadviser.gobusiness.gov.sg/supplybunkerstovessels){:target="_blank"}
 
     - title: Media
       content: |
         Explore licences you may require with the e-Advisers:
 
-        - [Commercial printing (newspapers, magazines, newsletter)](https://eadviser.gobusiness.gov.sg/commercialprintingnewspapersmagazinesnewsletter){:target="_blank"}{:rel="noopener"}
+        - [Commercial printing (newspapers, magazines, newsletter)](https://eadviser.gobusiness.gov.sg/commercialprintingnewspapersmagazinesnewsletter){:target="_blank"}
+        
+        - [Providing nationwide TV services](https://eadviser.gobusiness.gov.sg/providingnationwidetvservices){:target="_blank"}
 
-        - [Providing nationwide TV services](https://eadviser.gobusiness.gov.sg/providingnationwidetvservices){:target="_blank"}{:rel="noopener"}
+        - [Providing radio services](https://eadviser.gobusiness.gov.sg/providingradioservices){:target="_blank"}
 
-        - [Providing radio services](https://eadviser.gobusiness.gov.sg/providingradioservices){:target="_blank"}{:rel="noopener"}
+        - [Providing television services](https://eadviser.gobusiness.gov.sg/providingtelevisionservices){:target="_blank"}
 
-        - [Providing television services](https://eadviser.gobusiness.gov.sg/providingtelevisionservices){:target="_blank"}{:rel="noopener"}
+        - [Publishing periodical, newspapers, magazines, newsletters](https://eadviser.gobusiness.gov.sg/publishingperiodicalnewspapersmagazinesnewsletters){:target="_blank"}
 
-        - [Publishing periodical, newspapers, magazines, newsletters](https://eadviser.gobusiness.gov.sg/publishingperiodicalnewspapersmagazinesnewsletters){:target="_blank"}{:rel="noopener"}
-
-        - [Sell/rent/distribute videos, screen movies and exhibit films](https://eadviser.gobusiness.gov.sg/sellrentdistributevideosscreenmoviesandexhibitfilms){:target="_blank"}{:rel="noopener"}
+        - [Sell/rent/distribute videos, screen movies and exhibit films](https://eadviser.gobusiness.gov.sg/sellrentdistributevideosscreenmoviesandexhibitfilms){:target="_blank"}
 
     - title: Membership services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Registering a society](https://eadviser.gobusiness.gov.sg/registeringasociety){:target="_blank"}
 
-        - [Registering a society](https://eadviser.gobusiness.gov.sg/registeringasociety){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up recreation club](https://eadviser.gobusiness.gov.sg/settinguprecreationclub){:target="_blank"}{:rel="noopener"}
+        - [Setting up recreation club](https://eadviser.gobusiness.gov.sg/settinguprecreationclub){:target="_blank"}
 
 - accordion:
   letter: p
@@ -403,48 +417,48 @@
     - title: Professional Services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Application of plumber licence](https://eadviser.gobusiness.gov.sg/applicationofplumberlicence){:target="_blank"}
 
-        - [Application of plumber licence](https://eadviser.gobusiness.gov.sg/applicationofplumberlicence){:target="_blank"}{:rel="noopener"}
+        - [Application of registering property](https://eadviser.gobusiness.gov.sg/applicationofregisteringproperty){:target="_blank"}
 
-        - [Application of registering property](https://eadviser.gobusiness.gov.sg/applicationofregisteringproperty){:target="_blank"}{:rel="noopener"}
+        - [Appraising lands and buildings in singapore under appraisers act](https://eadviser.gobusiness.gov.sg/appraisinglandsandbuildingsinsingaporeunderappraisersact){:target="_blank"}
 
-        - [Appraising lands and buildings in singapore under appraisers act](https://eadviser.gobusiness.gov.sg/appraisinglandsandbuildingsinsingaporeunderappraisersact){:target="_blank"}{:rel="noopener"}
+        - [Blasting operations using explosives](https://eadviser.gobusiness.gov.sg/blastingoperationsusingexplosives){:target="_blank"}
 
-        - [Blasting operations using explosives](https://eadviser.gobusiness.gov.sg/blastingoperationsusingexplosives){:target="_blank"}{:rel="noopener"}
+        - [Buy/sell/trade/import/export explosives](https://eadviser.gobusiness.gov.sg/buyselltradeimportexportexplosives){:target="_blank"}
 
-        - [Buy/sell/trade/import/export explosives](https://eadviser.gobusiness.gov.sg/buyselltradeimportexportexplosives){:target="_blank"}{:rel="noopener"}
+        - [Dealing in arms](https://eadviser.gobusiness.gov.sg/dealinginarms){:target="_blank"}
 
-        - [Dealing in arms](https://eadviser.gobusiness.gov.sg/dealinginarms){:target="_blank"}{:rel="noopener"}
+        - [Dealing in manufacture, store or usage of explosive precursors](https://eadviser.gobusiness.gov.sg/dealinginmanufacturestoreorusageofexplosiveprecursors){:target="_blank"}
 
-        - [Dealing in manufacture, store or usage of explosive precursors](https://eadviser.gobusiness.gov.sg/dealinginmanufacturestoreorusageofexplosiveprecursors){:target="_blank"}{:rel="noopener"}
+        - [Dealing in swords/daggers/bayonets/spears/spearheads](https://eadviser.gobusiness.gov.sg/dealinginswordsdaggersbayonetsspearsspearheads){:target="_blank"}
 
-        - [Dealing in swords/daggers/bayonets/spears/spearheads](https://eadviser.gobusiness.gov.sg/dealinginswordsdaggersbayonetsspearsspearheads){:target="_blank"}{:rel="noopener"}
+        - [Dealing, shipment or exporting of explosive precursor](https://eadviser.gobusiness.gov.sg/dealingshipmentorexportingofexplosiveprecursor){:target="_blank"}
 
-        - [Dealing, shipment or exporting of explosive precursor](https://eadviser.gobusiness.gov.sg/dealingshipmentorexportingofexplosiveprecursor){:target="_blank"}{:rel="noopener"}
+        - [Disposing of unwanted or expired explosives](https://eadviser.gobusiness.gov.sg/disposingofunwantedorexpiredexplosives){:target="_blank"}
 
-        - [Disposing of unwanted or expired explosives](https://eadviser.gobusiness.gov.sg/disposingofunwantedorexpiredexplosives){:target="_blank"}{:rel="noopener"}
+        - [Operating a veterinary centre](https://eadviser.gobusiness.gov.sg/operatingaveterinarycentre){:target="_blank"}
 
-        - [Operating a veterinary centre](https://eadviser.gobusiness.gov.sg/operatingaveterinarycentre){:target="_blank"}{:rel="noopener"}
+        - [Practising veterinary medicine in singapore](https://eadviser.gobusiness.gov.sg/practisingveterinarymedicineinsingapore){:target="_blank"}
 
-        - [Practising veterinary medicine in singapore](https://eadviser.gobusiness.gov.sg/practisingveterinarymedicineinsingapore){:target="_blank"}{:rel="noopener"}
+        - [Registering as patent agent](https://eadviser.gobusiness.gov.sg/registeringaspatentagent){:target="_blank"}
 
-        - [Registering as patent agent](https://eadviser.gobusiness.gov.sg/registeringaspatentagent){:target="_blank"}{:rel="noopener"}
+        - [Removal and conveyance of explosives](https://eadviser.gobusiness.gov.sg/removalandconveyanceofexplosives){:target="_blank"}
 
-        - [Removal and conveyance of explosives](https://eadviser.gobusiness.gov.sg/removalandconveyanceofexplosives){:target="_blank"}{:rel="noopener"}
+        - [Repairing of arms](https://eadviser.gobusiness.gov.sg/repairingofarms){:target="_blank"}
 
-        - [Repairing of arms](https://eadviser.gobusiness.gov.sg/repairingofarms){:target="_blank"}{:rel="noopener"}
+        - [Setting up animal research facilities](https://eadviser.gobusiness.gov.sg/settingupanimalresearchfacilities){:target="_blank"}
 
-        - [Setting up animal research facilities](https://eadviser.gobusiness.gov.sg/settingupanimalresearchfacilities){:target="_blank"}{:rel="noopener"}
+        - [Setting up architectural firm](https://eadviser.gobusiness.gov.sg/settinguparchitecturalfirm){:target="_blank"}
 
-        - [Setting up architectural firm](https://eadviser.gobusiness.gov.sg/settinguparchitecturalfirm){:target="_blank"}{:rel="noopener"}
+        - [Setting up research and development activity](https://eadviser.gobusiness.gov.sg/settingupresearchanddevelopmentactivity){:target="_blank"}
 
-        - [Setting up research and development activity](https://eadviser.gobusiness.gov.sg/settingupresearchanddevelopmentactivity){:target="_blank"}{:rel="noopener"}
+        - [Singapore patent agent](https://eadviser.gobusiness.gov.sg/singaporepatentagent){:target="_blank"}
 
-        - [Singapore patent agent](https://eadviser.gobusiness.gov.sg/singaporepatentagent){:target="_blank"}{:rel="noopener"}
+        - [Store explosive](https://eadviser.gobusiness.gov.sg/storeexplosive){:target="_blank"}
 
-        - [Store explosive](https://eadviser.gobusiness.gov.sg/storeexplosive){:target="_blank"}{:rel="noopener"}
-
-        - [Veterinary clinic/research laboratory/school/institution/factory](https://eadviser.gobusiness.gov.sg/veterinaryclinicresearchlaboratoryschoolinstitutionfactory){:target="_blank"}{:rel="noopener"}
+        - [Veterinary clinic/research laboratory/school/institution/factory](https://eadviser.gobusiness.gov.sg/veterinaryclinicresearchlaboratoryschoolinstitutionfactory){:target="_blank"}
 
 - accordion:
   letter: r
@@ -452,48 +466,48 @@
     - title: Real Estate
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Conducting estate agency / property work](https://eadviser.gobusiness.gov.sg/conductingestateagencypropertywork){:target="_blank"}
 
-        - [Conducting estate agency / property work](https://eadviser.gobusiness.gov.sg/conductingestateagencypropertywork){:target="_blank"}{:rel="noopener"}
+        - [Resale/transfer of HDB commercial properties](https://eadviser.gobusiness.gov.sg/resaletransferofhdbcommercialproperties){:target="_blank"}
 
-        - [Resale/transfer of HDB commercial properties](https://eadviser.gobusiness.gov.sg/resaletransferofhdbcommercialproperties){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up real estate/property business](https://eadviser.gobusiness.gov.sg/settinguprealestatepropertybusiness){:target="_blank"}{:rel="noopener"}
+        - [Setting up real estate/property business](https://eadviser.gobusiness.gov.sg/settinguprealestatepropertybusiness){:target="_blank"}
 
     - title: Retail
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Conducting regulated dealing or intermediary for regulated dealing](https://eadviser.gobusiness.gov.sg/conductingregulateddealingorintermediaryforregulateddealing){:target="_blank"}
 
-        - [Conducting regulated dealing or intermediary for regulated dealing](https://eadviser.gobusiness.gov.sg/conductingregulateddealingorintermediaryforregulateddealing){:target="_blank"}{:rel="noopener"}
+        - [Registering telecommunication equipment for sale and use](https://eadviser.gobusiness.gov.sg/registeringtelecommunicationequipmentforsaleanduse){:target="_blank"}
 
-        - [Registering telecommunication equipment for sale and use](https://eadviser.gobusiness.gov.sg/registeringtelecommunicationequipmentforsaleanduse){:target="_blank"}{:rel="noopener"}
+        - [Retail of tobacco products](https://eadviser.gobusiness.gov.sg/retailoftobaccoproducts){:target="_blank"}
 
-        - [Retail of tobacco products](https://eadviser.gobusiness.gov.sg/retailoftobaccoproducts){:target="_blank"}{:rel="noopener"}
+        - [Sale of food and or goods in temporary fair](https://eadviser.gobusiness.gov.sg/saleoffoodandorgoodsintemporaryfair){:target="_blank"}
 
-        - [Sale of food and or goods in temporary fair](https://eadviser.gobusiness.gov.sg/saleoffoodandorgoodsintemporaryfair){:target="_blank"}{:rel="noopener"}
+        - [Sale of telecommunication equipment](https://eadviser.gobusiness.gov.sg/saleoftelecommunicationequipment){:target="_blank"}
 
-        - [Sale of telecommunication equipment](https://eadviser.gobusiness.gov.sg/saleoftelecommunicationequipment){:target="_blank"}{:rel="noopener"}
+        - [Sale/distribution of non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/saledistributionofnonionisingradiationirradiatingapparatus){:target="_blank"}
 
-        - [Sale/distribution of non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/saledistributionofnonionisingradiationirradiatingapparatus){:target="_blank"}{:rel="noopener"}
+        - [Sales of liquor or sales for consumption of liquor](https://eadviser.gobusiness.gov.sg/salesofliquororsalesforconsumptionofliquor){:target="_blank"}
 
-        - [Sales of liquor or sales for consumption of liquor](https://eadviser.gobusiness.gov.sg/salesofliquororsalesforconsumptionofliquor){:target="_blank"}{:rel="noopener"}
+        - [Selling international/global SIM cards](https://eadviser.gobusiness.gov.sg/sellinginternationalglobalsimcards){:target="_blank"}
 
-        - [Selling international/global SIM cards](https://eadviser.gobusiness.gov.sg/sellinginternationalglobalsimcards){:target="_blank"}{:rel="noopener"}
+        - [Selling post-paid calling cards](https://eadviser.gobusiness.gov.sg/sellingpostpaidcallingcards){:target="_blank"}
 
-        - [Selling post-paid calling cards](https://eadviser.gobusiness.gov.sg/sellingpostpaidcallingcards){:target="_blank"}{:rel="noopener"}
+        - [Selling prepaid calling cards](https://eadviser.gobusiness.gov.sg/sellingprepaidcallingcards){:target="_blank"}
 
-        - [Selling prepaid calling cards](https://eadviser.gobusiness.gov.sg/sellingprepaidcallingcards){:target="_blank"}{:rel="noopener"}
+        - [Selling products with embedded SIM cards](https://eadviser.gobusiness.gov.sg/sellingproductswithembeddedsimcards){:target="_blank"}
 
-        - [Selling products with embedded SIM cards](https://eadviser.gobusiness.gov.sg/sellingproductswithembeddedsimcards){:target="_blank"}{:rel="noopener"}
+        - [Setting up a temporary fair](https://eadviser.gobusiness.gov.sg/settingupatemporaryfair){:target="_blank"}
 
-        - [Setting up a temporary fair](https://eadviser.gobusiness.gov.sg/settingupatemporaryfair){:target="_blank"}{:rel="noopener"}
+        - [Setting up flea market, secondhand goods stall, pasar malam](https://eadviser.gobusiness.gov.sg/settingupfleamarketsecondhandgoodsstallpasarmalam){:target="_blank"}
 
-        - [Setting up flea market, secondhand goods stall, pasar malam](https://eadviser.gobusiness.gov.sg/settingupfleamarketsecondhandgoodsstallpasarmalam){:target="_blank"}{:rel="noopener"}
+        - [Setting up luxury product retail shop / fashion house](https://eadviser.gobusiness.gov.sg/settingupluxuryproductretailshopfashionhouse){:target="_blank"}
 
-        - [Setting up luxury product retail shop / fashion house](https://eadviser.gobusiness.gov.sg/settingupluxuryproductretailshopfashionhouse){:target="_blank"}{:rel="noopener"}
+        - [Setting up secondhand goods business](https://eadviser.gobusiness.gov.sg/settingupsecondhandgoodsbusiness){:target="_blank"}
 
-        - [Setting up secondhand goods business](https://eadviser.gobusiness.gov.sg/settingupsecondhandgoodsbusiness){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up supermarket](https://eadviser.gobusiness.gov.sg/settingupsupermarket){:target="_blank"}{:rel="noopener"}
+        - [Setting up supermarket](https://eadviser.gobusiness.gov.sg/settingupsupermarket){:target="_blank"}
 
 - accordion:
   letter: s
@@ -501,94 +515,94 @@
     - title: Security
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Dealing with security equipment](https://eadviser.gobusiness.gov.sg/dealingwithsecurityequipment){:target="_blank"}
 
-        - [Dealing with security equipment](https://eadviser.gobusiness.gov.sg/dealingwithsecurityequipment){:target="_blank"}{:rel="noopener"}
+        - [Providing central alarm monitoring station (CAMS) service](https://eadviser.gobusiness.gov.sg/providingcentralalarmmonitoringstationservice){:target="_blank"}
 
-        - [Providing central alarm monitoring station (CAMS) service](https://eadviser.gobusiness.gov.sg/providingcentralalarmmonitoringstationservice){:target="_blank"}{:rel="noopener"}
+        - [Providing guarding services](https://eadviser.gobusiness.gov.sg/providingguardingservices){:target="_blank"}
 
-        - [Providing guarding services](https://eadviser.gobusiness.gov.sg/providingguardingservices){:target="_blank"}{:rel="noopener"}
+        - [Providing in house security services](https://eadviser.gobusiness.gov.sg/providinginhousesecurityservices){:target="_blank"}
 
-        - [Providing in house security services](https://eadviser.gobusiness.gov.sg/providinginhousesecurityservices){:target="_blank"}{:rel="noopener"}
+        - [Providing installation, selling, repairing of CCTV](https://eadviser.gobusiness.gov.sg/providinginstallationsellingrepairingofcctv){:target="_blank"}
 
-        - [Providing installation, selling, repairing of CCTV](https://eadviser.gobusiness.gov.sg/providinginstallationsellingrepairingofcctv){:target="_blank"}{:rel="noopener"}
+        - [Providing private investigation services](https://eadviser.gobusiness.gov.sg/providingprivateinvestigationservices){:target="_blank"}
 
-        - [Providing private investigation services](https://eadviser.gobusiness.gov.sg/providingprivateinvestigationservices){:target="_blank"}{:rel="noopener"}
+        - [Purchasing explosives](https://eadviser.gobusiness.gov.sg/purchasingexplosives){:target="_blank"}
 
-        - [Purchasing explosives](https://eadviser.gobusiness.gov.sg/purchasingexplosives){:target="_blank"}{:rel="noopener"}
+        - [Purchasing or dealing with firearms, air rifle, pistol or guns](https://eadviser.gobusiness.gov.sg/purchasingordealingwithfirearmsairriflepistolorguns){:target="_blank"}
 
-        - [Purchasing or dealing with firearms, air rifle, pistol or guns](https://eadviser.gobusiness.gov.sg/purchasingordealingwithfirearmsairriflepistolorguns){:target="_blank"}{:rel="noopener"}
+        - [Security/investigation officer/bodyguard/bouncer](https://eadviser.gobusiness.gov.sg/securityinvestigationofficerbodyguardbouncer){:target="_blank"}
 
-        - [Security/investigation officer/bodyguard/bouncer](https://eadviser.gobusiness.gov.sg/securityinvestigationofficerbodyguardbouncer){:target="_blank"}{:rel="noopener"}
+        - [Setting up private investigation agency](https://eadviser.gobusiness.gov.sg/settingupprivateinvestigationagency){:target="_blank"}
 
-        - [Setting up private investigation agency](https://eadviser.gobusiness.gov.sg/settingupprivateinvestigationagency){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up security agency providing security officers](https://eadviser.gobusiness.gov.sg/settingupsecurityagencyprovidingsecurityofficers){:target="_blank"}{:rel="noopener"}
+        - [Setting up security agency providing security officers](https://eadviser.gobusiness.gov.sg/settingupsecurityagencyprovidingsecurityofficers){:target="_blank"}
 
     - title: Services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Conducting play/performance/art exhibition/variety show/concert](https://eadviser.gobusiness.gov.sg/conductingplayperformanceartexhibitionvarietyshowconcert){:target="_blank"}
 
-        - [Conducting play/performance/art exhibition/variety show/concert](https://eadviser.gobusiness.gov.sg/conductingplayperformanceartexhibitionvarietyshowconcert){:target="_blank"}{:rel="noopener"}
+        - [Conducting private lottery](https://eadviser.gobusiness.gov.sg/conductingprivatelottery){:target="_blank"}
 
-        - [Conducting private lottery](https://eadviser.gobusiness.gov.sg/conductingprivatelottery){:target="_blank"}{:rel="noopener"}
+        - [Operating funeral parlour](https://eadviser.gobusiness.gov.sg/operatingfuneralparlour){:target="_blank"}
 
-        - [Operating funeral parlour](https://eadviser.gobusiness.gov.sg/operatingfuneralparlour){:target="_blank"}{:rel="noopener"}
+        - [Providing chiropody, light or vapour treatments](https://eadviser.gobusiness.gov.sg/providingchiropodylightorvapourtreatments){:target="_blank"}
 
-        - [Providing chiropody, light or vapour treatments](https://eadviser.gobusiness.gov.sg/providingchiropodylightorvapourtreatments){:target="_blank"}{:rel="noopener"}
+        - [Setting up dating / matchmaking agency](https://eadviser.gobusiness.gov.sg/settingupdatingmatchmakingagency){:target="_blank"}
 
-        - [Setting up dating / matchmaking agency](https://eadviser.gobusiness.gov.sg/settingupdatingmatchmakingagency){:target="_blank"}{:rel="noopener"}
+        - [Setting up foot reflexology/physiotherapy/traditional massage](https://eadviser.gobusiness.gov.sg/settingupfootreflexologyphysiotherapytraditionalmassage){:target="_blank"}
 
-        - [Setting up foot reflexology/physiotherapy/traditional massage](https://eadviser.gobusiness.gov.sg/settingupfootreflexologyphysiotherapytraditionalmassage){:target="_blank"}{:rel="noopener"}
+        - [Setting up home office](https://eadviser.gobusiness.gov.sg/settinguphomeoffice){:target="_blank"}
 
-        - [Setting up home office](https://eadviser.gobusiness.gov.sg/settinguphomeoffice){:target="_blank"}{:rel="noopener"}
+        - [Setting up manicure / pedicure outlet](https://eadviser.gobusiness.gov.sg/settingupmanicurepedicureoutlet){:target="_blank"}
 
-        - [Setting up manicure / pedicure outlet](https://eadviser.gobusiness.gov.sg/settingupmanicurepedicureoutlet){:target="_blank"}{:rel="noopener"}
+        - [Setting up massage establishment or parlour](https://eadviser.gobusiness.gov.sg/settingupmassageestablishmentorparlour){:target="_blank"}
 
-        - [Setting up massage establishment or parlour](https://eadviser.gobusiness.gov.sg/settingupmassageestablishmentorparlour){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up spa/baths/sauna outlet/beauty palour/tanning service](https://eadviser.gobusiness.gov.sg/settingupspabathssaunaoutletbeautypalourtanningservice){:target="_blank"}{:rel="noopener"}
+        - [Setting up spa/baths/sauna outlet/beauty palour/tanning service](https://eadviser.gobusiness.gov.sg/settingupspabathssaunaoutletbeautypalourtanningservice){:target="_blank"}
 
     - title: Social Services
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Conducting fundraising events](https://eadviser.gobusiness.gov.sg/conductingfundraisingevents){:target="_blank"}
 
-        - [Conducting fundraising events](https://eadviser.gobusiness.gov.sg/conductingfundraisingevents){:target="_blank"}{:rel="noopener"}
+        - [Conducting fundraising for foreign charitable purposes](https://eadviser.gobusiness.gov.sg/conductingfundraisingforforeigncharitablepurposes){:target="_blank"}
 
-        - [Conducting fundraising for foreign charitable purposes](https://eadviser.gobusiness.gov.sg/conductingfundraisingforforeigncharitablepurposes){:target="_blank"}{:rel="noopener"}
+        - [Fund-raising appeals/flag day for foreign charitable purpose](https://eadviser.gobusiness.gov.sg/fundraisingappealsflagdayforforeigncharitablepurpose){:target="_blank"}
 
-        - [Fund-raising appeals/flag day for foreign charitable purpose](https://eadviser.gobusiness.gov.sg/fundraisingappealsflagdayforforeigncharitablepurpose){:target="_blank"}{:rel="noopener"}
+        - [Raising funds](https://eadviser.gobusiness.gov.sg/raisingfunds){:target="_blank"}
 
-        - [Raising funds](https://eadviser.gobusiness.gov.sg/raisingfunds){:target="_blank"}{:rel="noopener"}
+        - [Setting up charity organization](https://eadviser.gobusiness.gov.sg/settingupcharityorganization){:target="_blank"}
 
-        - [Setting up charity organization](https://eadviser.gobusiness.gov.sg/settingupcharityorganization){:target="_blank"}{:rel="noopener"}
-
-        - [Setting up children and young persons home](https://eadviser.gobusiness.gov.sg/settingupchildrenandyoungpersonshome){:target="_blank"}{:rel="noopener"}
+        - [Setting up children and young persons home](https://eadviser.gobusiness.gov.sg/settingupchildrenandyoungpersonshome){:target="_blank"}
 
     - title: Sports & Recreation
       content: |
         Explore licences you may require with the e-Advisers:
 
-        - [Conducting an aerial activity](https://eadviser.gobusiness.gov.sg/conductinganaerialactivity){:target="_blank"}{:rel="noopener"}
+        - [Conducting an aerial activity](https://eadviser.gobusiness.gov.sg/conductinganaerialactivity){:target="_blank"}
+        
+        - [Event/exhibition/roadshow with entertainment activity to the public](https://eadviser.gobusiness.gov.sg/eventexhibitionroadshowwithentertainmentactivitytothepublic){:target="_blank"}
 
-        - [Event/exhibition/roadshow with entertainment activity to the public](https://eadviser.gobusiness.gov.sg/eventexhibitionroadshowwithentertainmentactivitytothepublic){:target="_blank"}{:rel="noopener"}
+        - [Holding a public event](https://eadviser.gobusiness.gov.sg/holdingapublicevent){:target="_blank"}
 
-        - [Holding a public event](https://eadviser.gobusiness.gov.sg/holdingapublicevent){:target="_blank"}{:rel="noopener"}
+        - [Holding an event or public talk](https://eadviser.gobusiness.gov.sg/holdinganeventorpublictalk){:target="_blank"}
 
-        - [Holding an event or public talk](https://eadviser.gobusiness.gov.sg/holdinganeventorpublictalk){:target="_blank"}{:rel="noopener"}
+        - [Operating a public swimming pool](https://eadviser.gobusiness.gov.sg/operatingapublicswimmingpool){:target="_blank"}
 
-        - [Operating a public swimming pool](https://eadviser.gobusiness.gov.sg/operatingapublicswimmingpool){:target="_blank"}{:rel="noopener"}
+        - [Operating amusement park](https://eadviser.gobusiness.gov.sg/operatingamusementpark){:target="_blank"}
 
-        - [Operating amusement park](https://eadviser.gobusiness.gov.sg/operatingamusementpark){:target="_blank"}{:rel="noopener"}
+        - [Organizing celebration for events, festival, carnivals](https://eadviser.gobusiness.gov.sg/organizingcelebrationforeventsfestivalcarnivals){:target="_blank"}
 
-        - [Organizing celebration for events, festival, carnivals](https://eadviser.gobusiness.gov.sg/organizingcelebrationforeventsfestivalcarnivals){:target="_blank"}{:rel="noopener"}
+        - [Organizing trade fair](https://eadviser.gobusiness.gov.sg/organizingtradefair){:target="_blank"}
 
-        - [Organizing trade fair](https://eadviser.gobusiness.gov.sg/organizingtradefair){:target="_blank"}{:rel="noopener"}
+        - [Setting up private lottery/business/tombola/jackpot/fruit machines](https://eadviser.gobusiness.gov.sg/settingupprivatelotterybusinesstombolajackpotfruitmachines){:target="_blank"}
 
-        - [Setting up private lottery/business/tombola/jackpot/fruit machines](https://eadviser.gobusiness.gov.sg/settingupprivatelotterybusinesstombolajackpotfruitmachines){:target="_blank"}{:rel="noopener"}
+        - [Setup providing entertainment activities to the public](https://eadviser.gobusiness.gov.sg/setupprovidingentertainmentactivitiestothepublic){:target="_blank"}
 
-        - [Setup providing entertainment activities to the public](https://eadviser.gobusiness.gov.sg/setupprovidingentertainmentactivitiestothepublic){:target="_blank"}{:rel="noopener"}
-
-        - [Sports, spearfishing, target practice](https://eadviser.gobusiness.gov.sg/sportsspearfishingtargetpractice){:target="_blank"}{:rel="noopener"}
+        - [Sports, spearfishing, target practice](https://eadviser.gobusiness.gov.sg/sportsspearfishingtargetpractice){:target="_blank"}
 
 - accordion:
   letter: t
@@ -596,69 +610,69 @@
     - title: Telecommunications
       content: |
         Explore licences you may require with the e-Advisers:
+        
+        - [Conducting test or experiment of telecommunication equipment](https://eadviser.gobusiness.gov.sg/conductingtestorexperimentoftelecommunicationequipment){:target="_blank"}
 
-        - [Conducting test or experiment of telecommunication equipment](https://eadviser.gobusiness.gov.sg/conductingtestorexperimentoftelecommunicationequipment){:target="_blank"}{:rel="noopener"}
+        - [Conduting proof of concept using radio frequency](https://eadviser.gobusiness.gov.sg/condutingproofofconceptusingradiofrequency){:target="_blank"}
 
-        - [Conduting proof of concept using radio frequency](https://eadviser.gobusiness.gov.sg/condutingproofofconceptusingradiofrequency){:target="_blank"}{:rel="noopener"}
+        - [Conduting proof of concept without using radio frequency](https://eadviser.gobusiness.gov.sg/condutingproofofconceptwithoutusingradiofrequency){:target="_blank"}
 
-        - [Conduting proof of concept without using radio frequency](https://eadviser.gobusiness.gov.sg/condutingproofofconceptwithoutusingradiofrequency){:target="_blank"}{:rel="noopener"}
+        - [Displaying telecommunication equipment during an exhibition](https://eadviser.gobusiness.gov.sg/displayingtelecommunicationequipmentduringanexhibition){:target="_blank"}
 
-        - [Displaying telecommunication equipment during an exhibition](https://eadviser.gobusiness.gov.sg/displayingtelecommunicationequipmentduringanexhibition){:target="_blank"}{:rel="noopener"}
+        - [Establishing and operating radio communication equipment](https://eadviser.gobusiness.gov.sg/establishingandoperatingradiocommunicationequipment){:target="_blank"}
 
-        - [Establishing and operating radio communication equipment](https://eadviser.gobusiness.gov.sg/establishingandoperatingradiocommunicationequipment){:target="_blank"}{:rel="noopener"}
+        - [Installing or operating satellite or earth station](https://eadviser.gobusiness.gov.sg/installingoroperatingsatelliteorearthstation){:target="_blank"}
 
-        - [Installing or operating satellite or earth station](https://eadviser.gobusiness.gov.sg/installingoroperatingsatelliteorearthstation){:target="_blank"}{:rel="noopener"}
+        - [Operating high power radio communication equipment on island wide](https://eadviser.gobusiness.gov.sg/operatinghighpowerradiocommunicationequipmentonislandwide){:target="_blank"}
 
-        - [Operating high power radio communication equipment on island wide](https://eadviser.gobusiness.gov.sg/operatinghighpowerradiocommunicationequipmentonislandwide){:target="_blank"}{:rel="noopener"}
+        - [Operating mobile radio communication equipment in an airport area](https://eadviser.gobusiness.gov.sg/operatingmobileradiocommunicationequipmentinanairportarea){:target="_blank"}
 
-        - [Operating mobile radio communication equipment in an airport area](https://eadviser.gobusiness.gov.sg/operatingmobileradiocommunicationequipmentinanairportarea){:target="_blank"}{:rel="noopener"}
+        - [Operating network using radio communication equipment](https://eadviser.gobusiness.gov.sg/operatingnetworkusingradiocommunicationequipment){:target="_blank"}
 
-        - [Operating network using radio communication equipment](https://eadviser.gobusiness.gov.sg/operatingnetworkusingradiocommunicationequipment){:target="_blank"}{:rel="noopener"}
+        - [Operating radio communication equipment (walkie talkies)](https://eadviser.gobusiness.gov.sg/operatingradiocommunicationequipmentwalkietalkies){:target="_blank"}
 
-        - [Operating radio communication equipment (walkie talkies)](https://eadviser.gobusiness.gov.sg/operatingradiocommunicationequipmentwalkietalkies){:target="_blank"}{:rel="noopener"}
+        - [Operating radio frequency on a temporary basis](https://eadviser.gobusiness.gov.sg/operatingradiofrequencyonatemporarybasis){:target="_blank"}
 
-        - [Operating radio frequency on a temporary basis](https://eadviser.gobusiness.gov.sg/operatingradiofrequencyonatemporarybasis){:target="_blank"}{:rel="noopener"}
+        - [Operating radio-communication services of a ship station](https://eadviser.gobusiness.gov.sg/operatingradiocommunicationservicesofashipstation){:target="_blank"}
 
-        - [Operating radio-communication services of a ship station](https://eadviser.gobusiness.gov.sg/operatingradiocommunicationservicesofashipstation){:target="_blank"}{:rel="noopener"}
+        - [Operating short range device](https://eadviser.gobusiness.gov.sg/operatingshortrangedevice){:target="_blank"}
 
-        - [Operating short range device](https://eadviser.gobusiness.gov.sg/operatingshortrangedevice){:target="_blank"}{:rel="noopener"}
+        - [Operating/possessing radio communication equipment](https://eadviser.gobusiness.gov.sg/operatingpossessingradiocommunicationequipment){:target="_blank"}
 
-        - [Operating/possessing radio communication equipment](https://eadviser.gobusiness.gov.sg/operatingpossessingradiocommunicationequipment){:target="_blank"}{:rel="noopener"}
+        - [Providing SMS services](https://eadviser.gobusiness.gov.sg/providingsmsservices){:target="_blank"}
 
-        - [Providing SMS services](https://eadviser.gobusiness.gov.sg/providingsmsservices){:target="_blank"}{:rel="noopener"}
+        - [Providing telecomm services](https://eadviser.gobusiness.gov.sg/providingtelecommservices){:target="_blank"}
 
-        - [Providing telecomm services](https://eadviser.gobusiness.gov.sg/providingtelecommservices){:target="_blank"}{:rel="noopener"}
+        - [Providing VOIP services](https://eadviser.gobusiness.gov.sg/providingvoipservices){:target="_blank"}
 
-        - [Providing VOIP services](https://eadviser.gobusiness.gov.sg/providingvoipservices){:target="_blank"}{:rel="noopener"}
+        - [Provisioning of telecommunication internal wiring works](https://eadviser.gobusiness.gov.sg/provisioningoftelecommunicationinternalwiringworks){:target="_blank"}
 
-        - [Provisioning of telecommunication internal wiring works](https://eadviser.gobusiness.gov.sg/provisioningoftelecommunicationinternalwiringworks){:target="_blank"}{:rel="noopener"}
+        - [Radio communication equipment in an airport area](https://eadviser.gobusiness.gov.sg/radiocommunicationequipmentinanairportarea){:target="_blank"}
 
-        - [Radio communication equipment in an airport area](https://eadviser.gobusiness.gov.sg/radiocommunicationequipmentinanairportarea){:target="_blank"}{:rel="noopener"}
+        - [Registering telecommunication equipment for sale and use](https://eadviser.gobusiness.gov.sg/registeringtelecommunicationequipmentforsaleanduse){:target="_blank"}
 
-        - [Registering telecommunication equipment for sale and use](https://eadviser.gobusiness.gov.sg/registeringtelecommunicationequipmentforsaleanduse){:target="_blank"}{:rel="noopener"}
+        - [Sale of telecommunication equipment](https://eadviser.gobusiness.gov.sg/saleoftelecommunicationequipment){:target="_blank"}
 
-        - [Sale of telecommunication equipment](https://eadviser.gobusiness.gov.sg/saleoftelecommunicationequipment){:target="_blank"}{:rel="noopener"}
+        - [Selling international/global SIM cards](https://eadviser.gobusiness.gov.sg/sellinginternationalglobalsimcards){:target="_blank"}
 
-        - [Selling international/global SIM cards](https://eadviser.gobusiness.gov.sg/sellinginternationalglobalsimcards){:target="_blank"}{:rel="noopener"}
+        - [Selling post-paid calling cards](https://eadviser.gobusiness.gov.sg/sellingpostpaidcallingcards){:target="_blank"}
 
-        - [Selling post-paid calling cards](https://eadviser.gobusiness.gov.sg/sellingpostpaidcallingcards){:target="_blank"}{:rel="noopener"}
+        - [Selling prepaid calling cards](https://eadviser.gobusiness.gov.sg/sellingprepaidcallingcards){:target="_blank"}
 
-        - [Selling prepaid calling cards](https://eadviser.gobusiness.gov.sg/sellingprepaidcallingcards){:target="_blank"}{:rel="noopener"}
+        - [Selling products with embedded SIM cards](https://eadviser.gobusiness.gov.sg/sellingproductswithembeddedsimcards){:target="_blank"}
 
-        - [Selling products with embedded SIM cards](https://eadviser.gobusiness.gov.sg/sellingproductswithembeddedsimcards){:target="_blank"}{:rel="noopener"}
+        - [Setting up radio determination station](https://eadviser.gobusiness.gov.sg/settingupradiodeterminationstation){:target="_blank"}
 
-        - [Setting up radio determination station](https://eadviser.gobusiness.gov.sg/settingupradiodeterminationstation){:target="_blank"}{:rel="noopener"}
-
-        - [Ship station licence](https://eadviser.gobusiness.gov.sg/shipstationlicence){:target="_blank"}{:rel="noopener"}
+        - [Ship station licence](https://eadviser.gobusiness.gov.sg/shipstationlicence){:target="_blank"}
 
     - title: Tourism
       content: |
         Explore licences you may require with the e-Advisers:
 
-        - [Setting up an accommodation for short-term stay](https://eadviser.gobusiness.gov.sg/settingupanaccommodationforshorttermstay){:target="_blank"}{:rel="noopener"}
+        - [Setting up an accommodation for short-term stay](https://eadviser.gobusiness.gov.sg/settingupanaccommodationforshorttermstay){:target="_blank"}
 
-        - [Setting up hotel](https://eadviser.gobusiness.gov.sg/settinguphotel){:target="_blank"}{:rel="noopener"}
+        - [Setting up hotel](https://eadviser.gobusiness.gov.sg/settinguphotel){:target="_blank"}
+        
+        - [Setting up travel / tour agency](https://eadviser.gobusiness.gov.sg/settinguptraveltouragency){:target="_blank"}
 
-        - [Setting up travel / tour agency](https://eadviser.gobusiness.gov.sg/settinguptraveltouragency){:target="_blank"}{:rel="noopener"}
-
-        - [Tourist guide](https://eadviser.gobusiness.gov.sg/touristguide){:target="_blank"}{:rel="noopener"}
+        - [Tourist guide](https://eadviser.gobusiness.gov.sg/touristguide){:target="_blank"}
