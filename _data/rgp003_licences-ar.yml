@@ -1,0 +1,8 @@
+- banner: <img src="/images/grow/renew_dashboard.jpg">
+  title: Renew and amend licence on GoBusiness Dashboard
+  is_new: true
+  description: Already have a licence? Log in directory to the GoBusiness Dashboard to manage your licences.
+  url: https://dashboard.gobusiness.gov.sg/login?src=run&grow_licences_fs
+  url-new-tab: true
+  text: Log In to GoBusiness Dashboard
+

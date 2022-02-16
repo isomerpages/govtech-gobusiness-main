@@ -1,0 +1,59 @@
+- index: 1
+  tag: Behind the Business
+  title: A stuntman's dream to level up the local stunt industry
+  body: Stuntman Peps Goh on his dream to transform the stunt industry with Sandbox Training Ground.
+  link: /gobusiness-blog/stuntman-dream
+  image: /images/blog/Stuntman 1.jpg
+  alt: Peps Goh sandbox training ground
+  date: 2022-02-16
+- index: 2
+  tag: Business Tips & Tricks
+  title: Three steps to creating a digital presence
+  body: A beginner's guide to help you create a digital presence for your business.
+  link: /gobusiness-blog/three-steps-to-digital-presence
+  image: /images/blog/DigiPresence Feature.jpg
+  alt: Business create digital presence
+  date: 2022-02-16
+- index: 3
+  tag: GoBusiness How-To 
+  title: The GoBusiness Guide to deciding your business structure
+  body: Managing Director of ZYRUP Media, Joel Lim, shares how GoBusiness helped him start his business. 
+  link: /gobusiness-blog/zyrup
+  image: /images/blog/Zyrup Feature.jpg
+  alt: Zyrup media Joel Lim
+  date: 2022-02-16
+- index: 4
+  tag: Behind the Business
+  title: 'Behind Puffs and Peaks: A childhood love for baking turned career'
+  body: Bakery owner Ong Jing Teng Kalyang shares about her journey of starting Puffs and Peaks.
+  link: /gobusiness-blog/puffs-and-peaks
+  image: /images/blog/PuffsPeaks Thumbnail.jpg
+  alt: puffs and peaks founders
+  date: 2022-02-16
+- index: 1
+  tag: Business Tips & Tricks
+  title: 'Beat WFH woes: staying productive and connected with your team'
+  body: Feeling distant and unproductive while telecommuting? Find out how you can boost efficiency and stay connected! 
+  link: /gobusiness-blog/beat-wfh-woes
+  image: /images/blog/WFH Feature.jpg
+  alt: Work from home increase efficiency
+  date: 2021-02-16
+- index: 2
+  tag: GoBusiness How-To
+  title: All you need to get started with GoBusiness 
+  body: Learn how GoBusiness can support your business with this step-by-step guide on navigating the platform.   
+  link: /gobusiness-blog/get-started
+  image: /images/blog/GetStarted Feature.jpg
+  alt: Get started with GoBusiness
+  date: 2021-02-16
+- index: 3
+  tag: Behind the Business
+  title: Planting the seeds of success for a homegrown floral business
+  body: Founder of The Florte Angeline Pang shares her entrepreneur journey, and her venture into floristry. 
+  link: /gobusiness-blog/Florte
+  image: /images/blog/Florte Feature.jpg
+  alt: Founder of The Florte Angeline Pang
+  date: 2021-02-16
+
+
+

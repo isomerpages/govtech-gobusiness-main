@@ -1,0 +1,62 @@
+<style>
+  div.spcp-container {
+    display: grid;
+    row-gap: 12px;
+    margin: 32px 0;
+  }
+
+  div.spcp-container>* {
+    margin: 0 !important;
+  }
+
+  img.spcp__image--sp {
+    height: 40px;
+    width: 36px;
+  }
+
+  img.spcp__image--cp {
+    height: 36px;
+    width: 36px;
+  }
+
+  h5.spcp__title {
+    font-size: 18px;
+    line-height: 27px;
+    color: #313840 !important;
+    font-family: hknova-bold;
+  }
+
+  p.spcp__description {
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  @media screen and (min-width: 768px) {
+    div.spcp-container {
+      grid-template-columns: 36px auto;
+      row-gap: 4px;
+      column-gap: 22px;
+    }
+
+    img[class*="spcp__image"] {
+      grid-row: 1 / span 2;
+      align-self: center;
+    }
+  }
+</style>
+
+{% if include.type == "sp" %}
+<div class="spcp-container">
+  <img class="spcp__image--sp" src="/images/licences/singpass.svg" alt="singpass_icon">
+  <h5 class="spcp__title">For Individual Users only</h5>
+  <p class="spcp__description">This licence is only for individuals with no Unique Entity Number (UEN).</p>
+</div>
+{% elsif include.type == "cp" %}
+<div class="spcp-container">
+  <img class="spcp__image--cp" src="/images/licences/corppass.svg" alt="corppass_icon">
+  <h5 class="spcp__title">For Business Users only</h5>
+  <p class="spcp__description">This licence is only for business users with a registered Unique Entity Number (UEN).</p>
+</div>
+{% else %}
+<div></div>
+{% endif %}

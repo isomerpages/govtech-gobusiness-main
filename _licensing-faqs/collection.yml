@@ -17,5 +17,7 @@ collections:
       - licences/petroleum-flammable-materials-storage-licence.md
       - licences/public-entertainment-licence.md
       - licences/tobacco-retail-licence.md
+      - payment/.keep
+      - payment/payment.md
       - post-application/.keep
-      - post-application/payment.md
+      - post-application/post-application.md

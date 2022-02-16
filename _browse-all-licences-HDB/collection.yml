@@ -1,0 +1,9 @@
+collections:
+  browse-all-licences-HDB:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Application-for-Changes--HDB-Commercial-Properties-.md
+      - Application-for-Resale-Transfer-of-HDB-Commercial-Properties.md
+      - Change-of-Company's-Name-for-HDB-Commercial-Tenants.md
+      - Home-Office-Scheme--HDB-.md

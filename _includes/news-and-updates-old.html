@@ -1,0 +1,92 @@
+<style>
+  .news-media-container {
+    display: grid;
+    grid-template-columns: repeat(3, 366px);
+    justify-content: center;
+    column-gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .news-media-container small {
+    font-size: 15px;
+    line-height: 23px;
+  }
+
+  .news-media-container h4 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    font-size: 24px;
+    line-height: 36px;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    height: 180px;
+  }
+
+  @media (max-width: 1279px) {
+    .news-media-container {
+      margin: 20px 30px;
+      overflow: scroll;
+      justify-content: start;
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    .news-media-container::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .news-media-container {
+      grid-template-columns: 1fr;
+    }
+
+    .news-media-container>.col {
+      margin: 0 !important;
+    }
+  }
+</style>
+
+<!-- change the bg-media-color to what is mapped in the _config.yml file -->
+<div class="news-media-container">
+  {% assign cats = "" | split: "," %}
+  {% for item in site.posts reversed %}
+  {% assign cats = cats | push: item.categories[1] %}
+  {% endfor %}
+  {% assign uniq_cats = cats | uniq %}
+  {% for post in site.posts limit:3 %}
+  <div class="col">
+    <a href="{{post.url}}">
+      <div
+        class="media-card-plain 
+        {% if post.categories[1] == uniq_cats[0] %}
+        bg-media-color-2
+        {% elsif post.categories[1] == uniq_cats[1] %}
+        bg-media-color-3
+        {% elsif post.categories[1] == uniq_cats[2] %}
+        bg-media-color-4
+        {% elsif post.categories[1] == uniq_cats[3] %}
+        bg-media-color-5
+        {% elsif post.categories[1] == uniq_cats[4] %}
+        bg-media-color-1
+        {% endif %}
+        padding--lg resources">
+        <div>
+          <small class="has-text-white padding--bottom">{{ post.permalink | remove:'/news-and-updates/' | split: '/' |
+            first | join: '' | replace: '-', ' ' | upcase
+            }}</small>
+          <h4 class="has-text-white padding--bottom--lg">{{ post.title }}</h4>
+        </div>
+        <div class="is-fluid padding--top--md description">
+          <small class="has-text-white">{{ post.date | date_to_string | upcase }}</small>
+        </div>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>

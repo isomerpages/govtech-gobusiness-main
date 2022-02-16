@@ -14,23 +14,9 @@ panels:
         href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
         target: _blank
       - text: e-Adviser for Government Assistance
-        href: https://eadviser.gobusiness.gov.sg/govassist/?src=quicklinks
+        href: https://gaeadviser.gobusiness.gov.sg/?src=quicklinks
         target: _blank
     info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
-  - title: Popular Resources
-    image: /images/popular.svg
-    alt: popular
-    links:
-      - text: Budget 2021
-        href: /gov-assist/budget-2021/
-      - text: General Exemptions Form (Covid-19)
-        href: https://go.gov.sg/covidbusinessresumptions
-        target: _blank
-      - text: Permissions and Manpower Exemption Form (Covid-19)
-        href: https://go.gov.sg/covidbusinessresumptions
-        target: _blank
-      - text: Productivity Solutions Grant Listing
-        href: /productivity-solutions-grant/
   - title: Licences and Permits
     image: /images/licences-80.svg
     alt: licences
@@ -41,14 +27,23 @@ panels:
         image: /images/login.svg
         alt: login
       - text: Cancel or renew licence
-        href: /licences/#amend-renew-licences
+        href: /licences/#renew-amend-licence
         imageClass: login
         image: /images/login.svg
         alt: login
-      - text: Browse by sector
-        href: /licences/find-licence-by-sector/
-      - text: Browse all licences
-        href: /licences/find-licence-by-agency/
-      - text: For new food service business owners
+      - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_licence&permits
+        target: _blank
+  - title: For Covid-19
+    image: /images/Covid.svg
+    alt: covid
+    links:
+      - text: Onsite Manpower Declaration
+        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
+        target: _blank
+      - text: Business Resumption/Exemption Status
+        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
+        target: _blank
+      - text: User Guides for Declarations and Applications
+        href: /guides/?src=eservices_covid
         target: _blank

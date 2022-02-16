@@ -71,13 +71,22 @@ navlinks:
         url: /e-services/about-cpf/
       - title: Growth and Expansion
         url: /e-services/business-opportunities/
-  - title: Who We Are
-    url: /about-us/
+  - title: Resources
+    url: /gobusiness-blog/
     sublinks:
-      - title: About Us
-        url: /about-us/
+      - title: Blog
+        url: /gobusiness-blog/
       - title: News and Updates
         url: /news-and-updates/
+      - title: FAQ
+        url: /faqs/popular/
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: Who We Are
+        url: /about-us/
+      - title: Contact Us
+        url: /contact-us/
     #  - title: Contact Us
     #    url: /contact-us/
     #  - title: FAQ

@@ -1,0 +1,13 @@
+collections:
+  browse-all-licences-MOH:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Clinical-Laboratory-Licence.md
+      - Clinical-X-Ray-Laboratory-Licence.md
+      - Community-Health-Centre.md
+      - Dental-Clinic-Licence.md
+      - Hospital-Licence.md
+      - Medical-Clinic-Licence.md
+      - Nursing-Home-Licence.md
+      - Termination-of-Pregnancy--TOP-.md

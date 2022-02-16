@@ -1,0 +1,46 @@
+collections:
+  browse-all-licences-SPF:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Apply-for-Public-Entertainment-Licence.md
+      - Approval-for-a-Blasting-Operation-.md
+      - Approval-to-conduct-a-Fireworks-Display-.md
+      - Class-5---Temporary-Liquor-Licence.md
+      - House-to-House-and-Street-Collections-Licence.md
+      - Licence-for-a-Shop--Store-or-Magazine-in-any-Blasting-Site-for-Explosives.md
+      - Licence-for-Explosives-Precursors--Deal-Manufacture-Possess-or-Control-Store-.md
+      - Licence-to-Deal-In-Arms.md
+      - Licence-to-Deal-in-Explosives--For-Blasting-and-Non-Blasting-Purposes-.md
+      - Licence-to-Deal-in-Swords--Daggers--Bayonets--Spears--Spearheads.md
+      - Licence-to-Do-Blasting.md
+      - Licence-to-Do-Disposal-of-Explosives.md
+      - Licence-to-Import-or-Export-Arms.md
+      - Licence-to-Import-or-Export-Explosive.md
+      - Licence-to-Import-or-Export-Explosive-Precursors.md
+      - Licence-to-Manufacture-Arms.md
+      - Licence-to-Manufacture-Explosives.md
+      - Licence-to-Possess-Arms.md
+      - Licence-to-Purchase-Arms.md
+      - Licence-to-Purchase-Explosives.md
+      - Licence-to-Remove-Explosives.md
+      - Licence-to-Repair-Arms.md
+      - Liquor-Consumption-Permit.md
+      - Liquor-Licence---Extension-of-Operating-Hours.md
+      - Liquor-Licence--Class-1A--1B--2A--2B--3A--3B--4-.md
+      - Massage-Establishment-Licence.md
+      - Massage-Establishment-Licence--Employee-Registration.md
+      - Notice-of-Intention-to-Organise-an-Event.md
+      - Notification-to-conduct-donation-lucky-draw.md
+      - Notification-to-Police-of-Exempted-Massage-Establishment.md
+      - Police-Permit-for-Assembly-or-Procession.md
+      - Police-Permit-for-Public-Talk.md
+      - Private-Investigation-Agency-Licence.md
+      - Private-Investigator's-Licence--PI-.md
+      - Public-Entertainment-Licence---Notification-to-Police-of-Exempted-Public-Entertainments-or-Arts-Entertainment.md
+      - Registration-for-In-House-Employer--RIHE-.md
+      - Road-Closure-Permit-for-Events.md
+      - Secondhand-Goods-and-Dealers-Licence.md
+      - Security-Agency-Licence.md
+      - Security-Officer's-Licence--SO-.md
+      - Security-Service-Provider-Licence.md

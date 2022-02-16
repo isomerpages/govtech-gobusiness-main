@@ -1,0 +1,17 @@
+collections:
+  browse-all-licences-CAAS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Air-Operator-Certificate.md
+      - Air-Traffic-Controller-Licence.md
+      - Aircraft-Maintenance-Engineer.md
+      - Aircraft-Maintenance-Organisation.md
+      - Clearance-for-Aerial-Photography-Videography.md
+      - Clearance-for-Erection-of-Cranes-and-Tall-Construction-Machinery.md
+      - Clearance-for-Ship-Crossing.md
+      - Flight-Crew-Licence.md
+      - Glare-and-or-Height-Control-Requirements-for-Rooftop-Solar-PV-Installation.md
+      - Permit-for-Aerial-Activities.md
+      - Permit-to-fly.md
+      - Permits-for-Carriage-of-Dangerous-Goods.md

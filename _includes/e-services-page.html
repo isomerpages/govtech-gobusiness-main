@@ -1,0 +1,93 @@
+---
+layout: skeleton
+---
+
+<body>
+  <style>
+    #main-content {
+      background-color: #f9fafa;
+    }
+
+    #main-content .bp-section {
+      padding-top: 32px;
+    }
+
+    .panels-title-container {
+      margin-top: 64px;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    .panels-title-container:nth-child(1) {
+      margin-top: 0;
+    }
+
+    .panels-title {
+      font-size: 48px;
+      line-height: 52px;
+      letter-spacing: -1px;
+    }
+
+    .panels {
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: repeat(3, 1fr);
+      max-width: fit-content;
+      max-width: -moz-fit-content;
+      margin: 0 auto;
+    }
+
+    .break-mobile {
+      display: none;
+      z-index: 2;
+      position: relative;
+    }
+
+
+    @media only screen and (max-width: 1279px) {
+      .panels {
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+      }
+
+      .break-mobile {
+        display: block;
+      }
+    }
+
+    @media only screen and (max-width: 799px) {
+      .panels {
+        grid-template-columns: 1fr;
+        justify-items: center;
+      }
+    }
+  </style>
+
+  <div id="main-content" role="main" onclick>
+    <section class="bp-section">
+      <div class="bp-container content padding--top--lg padding--bottom--xl">
+        <div class="row">
+          <div class="col print-content">
+            <div class="panels-title-container">
+              <h1 class="panels-title">GoBusiness e-Services</h1>
+            </div>
+            <div class="panels">
+              {% include hyp-panels.html panels=site.data.hyp-panels-quicklinks.panels %}
+            </div>
+
+            <div class="panels-title-container">
+              <h1 class="panels-title">Other e-Services for Businesses</h1>
+            </div>
+            <div class="panels">
+              {% include hyp-panels.html panels=site.data.hyp-panels-eservices.panels %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://connect.facebook.net/signals/config/199274315251589?v=2.9.39&amp;r=stable" async></script>
+  <script src="/jquery/jquery.min.js"></script>
+
+</body>
