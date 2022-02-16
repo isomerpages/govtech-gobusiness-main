@@ -8,7 +8,7 @@ crumbs: business-tips-&-tricks
 description: A beginner’s guide to help business owners kickstart their digitalisation journey. In three easy steps, learn how you can create a digital presence.
 ---
 
-![business create digital presence](/images/blog/DigiPresence Feature.jpg)
+![business create digital presence](/images/blog/content/DigiPresence Feature.jpg)
 ###### Digitalising your business can be a daunting task, but this guide for beginners can help you get started on the right foot
 
 When it comes to running a business these days, going digital is the name of the game. The Covid-19 pandemic has only emphasised the importance of having a digital presence in running a successful business. 
@@ -19,7 +19,7 @@ But the digital world is as wide as it is deep, and venturing into it without an
 
 ### 1. Google My Business
 
-![google my business](/images/blog/DigiPresence 1.jpg)
+![google my business](/images/blog/content/DigiPresence 1.jpg)
 ###### Get your business on the map (Google Maps that is), by registering for Google My Business
 
 When customers are looking for a product or service, there is one platform that can always be relied on to deliver: Google. In fact, nearly [70 per cent of all online searches](https://www.netmarketshare.com/search-engine-market-share.aspx?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22searchEngine%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22searchEnginesDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-11%22%2C%22dateEnd%22%3A%222020-10%22%2C%22segments%22%3A%22-1000%22%7D){:target="_blank"}{:rel="noopener"} start on Google. 
@@ -32,7 +32,7 @@ The business profile also allows you to engage with customers by responding to r
 
 ### 2. Understanding Search Engine Optimisation
 
-![search engine optimisation](/images/blog/DigiPresence 2.jpg)
+![search engine optimisation](/images/blog/content/DigiPresence 2.jpg)
 ###### Start gaining market presence by investing in Search Engine Optimisation, which helps you get on the front page of search engines
 
 While registering your business on Google My Business is necessary for you to show up on Google search, it doesn’t mean that your business will automatically appear on the front page. And that is certainly where you want to be, as it captures 95 per cent of all traffic. From page one to two, traffic drops a steep 140 per cent. 
@@ -45,7 +45,7 @@ While becoming a master in SEO is a tall order, there are plenty of [free resour
 
 ### 3. Establishing a social media presence
 
-![social media marketing](/images/blog/DigiPresence 3.jpg)
+![social media marketing](/images/blog/content/DigiPresence 3.jpg)
 ###### Social media has the potential to make your business go viral, if done right. These tips will help you map out your social media strategy
 
 Facebook, Instagram, Twitter, TikTok, LinkedIn – options are aplenty when it comes to social media; but how do you decide which platform you should be on? 

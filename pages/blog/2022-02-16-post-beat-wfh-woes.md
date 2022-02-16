@@ -8,7 +8,7 @@ crumbs: business-tips-&-tricks
 description: Four tips to get more productive and form a closer relationship with your team while working remotely
 ---
 
-![work from home increase efficiency](/images/blog/WFH Feature.jpg)
+![work from home increase efficiency](/images/blog/content/WFH Feature.jpg)
 
 The pandemic has taken a toll on productivity — after close to two years, workplaces are adjusting to the new normal. Along with these drastic shifts in the workplace comes the need to adjust working styles to fit workers’ evolving needs.
 
@@ -16,7 +16,7 @@ Here are four ways to boost efficiency and improve team morale while working rem
 
 ### 1. Use task management tools 
 
-![Asana task management tool productivity efficiency](/images/blog/WFH 1.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/WFH 1.jpg)
 ###### Task management tools, such as Asana, can help to optimise processes for a more efficient workflow (Source: Canva)
 
 In the age of working remotely, project management tools are all the rage, serving a wide variety of functions that help to enhance productivity, streamline work processes, communication channels, and much more!  
@@ -31,7 +31,7 @@ Using such tools helps to heighten efficiency across teams that take over one an
 
 ### 2. Help employees get the resources they need 
 
-![Work from home employee](/images/blog/WFH 2.jpg)
+![Work from home employee](/images/blog/content/WFH 2.jpg)
 ###### Employees can get oriented with telecommuting more quickly when resources and information are readily available for them (Source: Canva)
 
 While registering your business on Google My Business is necessary for you to show up on Google search, it doesn’t mean that your business will automatically appear on the front page. Don’t forget to help your team to get the information they need! Getting oriented to a remote workspace may be harder than it looks, as watercooler conversations have been replaced with email trails and Slack channels. This may be especially challenging for workers who are new to telecommuting. 
@@ -40,7 +40,7 @@ Factoring in adequate time for employees to get oriented should not be overlooke
 
 ### 3. Keep meetings short and sweet
 
-![Remote work team video meeting](/images/blog/WFH 3.jpg)
+![Remote work team video meeting](/images/blog/content/WFH 3.jpg)
 ###### Maximise efficiency by keeping meetings productive (Source: Canva)
 
 Virtual meetings have become a mainstay in the workplace. While it may be tempting to increase screen time, keeping meetings short and sweet may actually be more efficient for your employees, as [employees’ perception of effectiveness in meetings has been observed to influence overall workplace satisfaction](https://hbr.org/2017/07/stop-the-meeting-madness?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. 
@@ -51,7 +51,7 @@ There are always other ways to forge stronger bonds within the workplace.
 
 ### 4. Make time to hang out as a team
 
-![Care package team bonding employee](/images/blog/WFH 4.jpg)
+![Care package team bonding employee](/images/blog/content/WFH 4.jpg)
 ###### Care packages are a great way to maintain a closer relationship with your team (Source: Canva)
 
 Got a co-worker’s birthday coming up? Bolster team morale by organising virtual hangout sessions! The rise of the pandemic has seen the need for new ways to bond. What better way to do so than with online group games? Bring retro back with sites such as [skribbl io](https://skribbl.io/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, a drawing and guessing multiplayer game similar to Pictionary. 
