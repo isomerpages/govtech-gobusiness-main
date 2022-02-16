@@ -4,10 +4,10 @@
   id: 1
   href_1: '/start-a-business/?src=home_quicklinks'
   text_1: Steps to start a business
-  href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname/?src=home_quicklinks'
+  href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
   target_2: _blank
   text_2: Register a new business
-  href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure/?src=home_quicklinks'
+  href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
   text_3: Pick a business structure
   target_3: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
@@ -41,7 +41,7 @@
   alt: govassist
   title: Government Assistance
   id: 4
-  href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist/?src=home_quicklinks'
+  href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
   text_1: 'eAdviser: Find eligible schemes'
   target_1: _blank
   href_2: '/productivity-solutions-grant/?src=home_quicklinks'
