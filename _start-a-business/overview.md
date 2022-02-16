@@ -5,7 +5,7 @@ permalink: /start-a-business/
 
 ## Start-up Guide
 
-Before starting your business, you should have a game plan for success. Key decisions you need to make include:
+Before starting your business, it helps to have a clear idea of what you need to do. Key questions you will need to ask include:
 
 - Do you need to register your business? If yes, what business structure?
 
