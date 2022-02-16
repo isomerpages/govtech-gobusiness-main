@@ -396,6 +396,7 @@ $desktop: 960px + (2 * $gap) !default;
     a {
       font-family: hknova-semibold;
       font-weight: 600;
+      text-transform: none !important;
     }
     .sub-link {
       font-family: hknova-regular;
@@ -675,22 +676,46 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   width: 240px;
 }
 
-img[src*="/images/gobusiness_licensing.png"] {
+img[src*="/images/licences/cp-mini.png"] {
+  display: inline;
+  margin-right: 4px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  width: 16px;
+  height: 16px;
+}
+
+img[src*="/images/licences/sp-mini.png"] {
+  display: inline;
+  margin-right: 4px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  width: 16px;
+  height: 16px;
+}
+
+img[src*="/images/licences/sp.png"] {
   display: inline;
   margin: auto;
-  width: 217px;
+  width: 36px;
   height: auto;
 }
 
-img[src*="/images/gobusiness_dashboard.png"] {
+img[src*="/images/licences/cp.png"] {
   display: inline;
   margin: auto;
-  width: 217px;
+  width: 36px;
   height: auto;
 }
 
 p > img[src*="/images/"] {
   margin: 32px 0;
+}
+
+p > img[src*="/images/blog/"] {
+  margin: 32px 0 0 0;
 }
 
 .news-content {
@@ -791,6 +816,27 @@ p > img[src*="/images/"] {
   }
   &:focus {
     outline: 2px solid #1c8b95;
+  }
+}
+
+.btn{
+  font-family: hknova-semibold;
+  font-weight: 600;
+  padding: 12.5px 24px;
+  margin-bottom: 0;
+  text-decoration: none !important;
+  color: white !important;
+  background-color: #037e8a !important;
+  border-radius: 3px;
+  border: 1px solid #037e8a !important;
+  cursor: pointer;
+  width: fit-content;
+  width: -moz-fit-content;
+  font-size: 18px;
+  line-height: 27px;
+
+  &:hover {
+    background-color: #026770; 
   }
 }
 
