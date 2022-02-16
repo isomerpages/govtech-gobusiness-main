@@ -19,21 +19,15 @@
       content: |
         Guided Journey is being launched in phases, starting with food services businesses. We are currently working towards making it available for more industries.
 
-        In the meantime, you can use our [e-Advisers](/e-services/guides-for-biz/) for various business sectors to get recommendations on what to do next.
+        In the meantime, you can use our [e-Advisers](/e-services/guides-for-biz/?src=licences_faq) for various business sectors to get recommendations on what to do next.
 
     - title: I need help with using GoBusiness. Whom can I speak to?
       content: |
-        You can ask our chatbot for help! Click on the icon at the bottom right hand corner to start. Alternatively, here are our [contact details](/contact-us/).
+        You can ask our chatbot for help! Click on the icon at the bottom right hand corner to start. Alternatively, here are our [contact details](/contact-us/?src=licences_faq).
 
 - accordion:
   letter: b
   data:
-    - title: Why is GoBusiness Dashboard a preview? What does it mean?
-      content: |
-        The preview gives you a sneak peek of GoBusiness Dashboard to explore it and co-create it with us, as we introduce more exciting features in the coming months and improve it with your valuable feedback.
-
-        You will still able to track and manage your licences with the GoBusiness Dashboard preview.
-
     - title: What can I do on GoBusiness Dashboard?
       content: |
         You can use GoBusiness Dashboard to track and manage licence applications. By answering a few simple questions on the e-Advisers, you will also receive personalised recommendations for what to do next, based on your unique business profile. More features will be added soon.
@@ -46,7 +40,7 @@
 
     - title: Which browser should I use to view GoBusiness?
       content: |
-        GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or [contact us for help here](/contact-us/).
+        GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or [contact us for help here](/contact-us/?src=licences_faq).
 
 - accordion:
   letter: c
