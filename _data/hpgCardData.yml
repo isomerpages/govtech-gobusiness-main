@@ -24,7 +24,7 @@
   text_3: Licence guides
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
-- icon: '/images/Covid.svg'
+- icon: '/images/covid.png'
   alt: covid
   title: Covid-19
   id: 3
