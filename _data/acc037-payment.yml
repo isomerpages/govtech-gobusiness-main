@@ -1,8 +1,65 @@
 accordion:
+  - title: What payment modes do you accept?
+    content: |
+      GoBusiness Dashboard currently accepts VISA and MasterCard. We are working hard to add more payment methods in the future. 
+
+      GoBusiness Licensing accepts PayPal, VISA, MasterCard, American Express and Discover. Note: Internet Direct Debit (IDD) will no longer be available on GoBusiness Licensing.
+
+  - title: Why do some applications require more than one payment?
+    content: |
+      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application, while Stage 2 payment is required once the licence is approved.
+
+  - title: If my application is rejected, will I get a refund?
+    content: |
+      Whether you get a refund and the refunded amount varies across different licences. To find out, please contact the relevant government agency directly.
+
+  - title: If my application is cancelled, will I get a refund?
+    content: |
+      Whether you get a refund and the refunded amount varies across different licences. To find out, please contact the relevant government agency directly.
+
+  - title: I received an email saying that GoBusiness is retrying payment. What should I do?
+    content: |
+      If you've received this email, it means we are still trying to complete your payment with the relevant parties. We would appreciate your patience while we work to resolve the issue, and we will keep you updated on the outcome.
+
+  - title: A payment error has occurred. What should I do?
+    content: |
+      Please verify your payment details and try again. If you are still having issues, you can try the following:
+
+      - Make payment at a later time
+
+      - Make payment on a different browser
+
+      - Check your proxy settings
+      
+      - Reconnect to another network (e.g home/office network) and try again
+
+      If the error persists after 24 hours, please contact us with a screenshot and a description of the error you are facing.
+
   - title: Can I make payment for my licences at the respective government agency headquarters?
     content: |
       All payment must be made online, directly on GoBusiness Licensing.
 
-  - title: What is the difference between Stage 1 and Stage 2 payment?
+  - title: Where can I find the tax invoice for my application?
     content: |
-      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application while Stage 2 payment is required upon approval of your licence.
+      You can download your tax invoice immediatly after making the payment, at the payment success page.
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
