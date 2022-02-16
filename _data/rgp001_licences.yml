@@ -1,0 +1,11 @@
+- image: <img src="/images/grow/Shapequestion.png">
+  title: I'm not sure where to start
+  description: Get recommendations on what licences your beusiness might need.
+  url: /licences/find-licence-by-sector/?src=run&grow_licences_fs
+  text: View our Licence Guides
+
+- image: <img src="/images/grow/Shapefind.png">
+  title: I know what licence I need
+  description: Find specific licences, sorted by government agency.
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: Browse All Licences

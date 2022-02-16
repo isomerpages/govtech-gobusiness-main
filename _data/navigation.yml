@@ -39,7 +39,7 @@ links:
       - title: Overview
         url: /covid/
       - title: Time Limited RRT for Workplaces
-        url: /timelimitedrrt/ 
+        url: /timelimitedrrt/
       - title: Permitted Services
         url: /permittedlist/
       - title: Safe Management Requirements
@@ -58,18 +58,23 @@ links:
         url: /supportschemes/fnbsupport/
       - title: FAQ
         url: /covid-19-faqs/
-  - title: E-Services
+  - title: e-Services
     url: /e-services/
-  - title: Who We Are
-    url: /about-us/
+  - title: Resources
+    url: /gobusiness-blog/
     sublinks:
-      - title: About Us
-        url: /about-us/
+      - title: Blog
+        url: /gobusiness-blog/
       - title: News and Updates
         url: /news-and-updates/
-      - title: Contact Us
-        url: /contact-us/
       - title: FAQ
         url: /faqs/popular/
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: Who We Are
+        url: /about-us/
+      - title: Contact Us
+        url: /contact-us/
   - title: <div class="login-btn"></div>
-    url: https://dashboard.gobusiness.gov.sg/login
+    url: /login/?src=top_nav

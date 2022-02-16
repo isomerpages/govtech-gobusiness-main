@@ -1,0 +1,21 @@
+- banner: <img src="/images/grow/eventorganisers.jpg">
+  title: For event organisers
+  is_new: true
+  description: Find out the licences and permits you need to organise an event with our new e-Adviser for Events. 
+  url: https://eadviser.g2b.sg/events/?src=run&grow_licences_fs
+  url-new-tab: true
+  text: Go to e-Adviser for Events
+
+- banner: <img src="/images/grow/puc.jpg">
+  title: For checking premise use
+  description: Find out the licences and permits you need to organise an event with our new e-Adviser for Events
+  url: https://eadviser.gobusiness.gov.sg/premisesusecheck/?src=run&grow_licences_fs
+  url-new-tab: true
+  text: Go to e-Adviser for Premises Use
+
+- banner: <img src="/images/grow/foodservices.jpg">
+  title: For new food service business owners
+  description: If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
+  url: https://foodservices.gobusiness.gov.sg/licences/foodservices/?src=run&grow_licences_fs
+  url-new-tab: true
+  text: Log In to Guided Journey
