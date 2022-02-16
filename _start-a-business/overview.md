@@ -11,6 +11,8 @@ Before starting your business, it helps to have a clear idea of what you need to
 
 - Where will your business be located?
 
+- What will your business name be?
+
 GoBusiness Startup Guide will walk you through the questions above and more.
 
 {% include panels-overview.html spanels=site.data.ov001-start %}
