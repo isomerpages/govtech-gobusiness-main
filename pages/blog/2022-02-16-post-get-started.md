@@ -38,7 +38,7 @@ Got a question you can’t find an answer to? Visit our [helpdesk](/contact-us/?
 
 ### 2. Run And Grow A Business 
 
-![GoBusiness Run and Grow Overview](/images/blog/GetStarted 4.jpg)
+![GoBusiness Run and Grow Overview](/images/blog/GetStarted 3.jpg)
 ###### Take the next step to further your business through licences, government assistance schemes, and more
 
 So you’ve laid the foundation for your business. What’s next? 
