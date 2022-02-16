@@ -717,6 +717,9 @@ p > img[src*="/images/"] {
 p > img[src*="/images/blog/"] {
   margin: 32px 0 0 0;
 }
+p > img[src*="/images/blog/content/"] {
+  width: 800px;
+}
 
 .news-content {
   position: relative;
