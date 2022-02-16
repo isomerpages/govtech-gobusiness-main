@@ -1,0 +1,15 @@
+collections:
+  browse-all-licences-LTA:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Application-for-Change-of-Use-and-Parking-Layout-to-Existing-Developments.md
+      - Building-Works-&-Restricted-Activities-in-Railway-Protection-Zone.md
+      - Bus-Driver's-Vocational-Licence--BDVL----Bus-Attendant-Vocational-Licence--BAVL-.md
+      - Class-2-Bus-Service-Licence.md
+      - Display-of-Vertical-Banners-on-Public-Street-Lamp-Posts.md
+      - Notification-of-Road-Closure.md
+      - Omnibus-Driver's-Vocational-Licence.md
+      - Permit-for-Vehicle-Movement.md
+      - Permit-to-Work-on-Public-Streets.md
+      - Taxi-Driver's-Vocational-Licence--TDVL----Private-Hire-Car-Driver's-Vocational-Licence--PDVL-.md

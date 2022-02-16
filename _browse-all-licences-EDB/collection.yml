@@ -1,0 +1,7 @@
+collections:
+  browse-all-licences-EDB:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Certificate-of-Registration-Under-The-Control-of-Manufacture-Act.md
+      - Licence-Under-The-Manufacture-of-Optical-Discs-Act.md

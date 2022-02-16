@@ -1,0 +1,8 @@
+collections:
+  browse-all-licences-IPOS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Patent-Agent-Form-A--Registration-as-a-Singapore-Patent-Agent-.md
+      - Patent-Agent-Form-C--Application-for-a-Practising-Certificate-.md
+      - Patent-Agent-Form-H--Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent-.md

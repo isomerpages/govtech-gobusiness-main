@@ -1,0 +1,8 @@
+collections:
+  browse-all-licences-MUIS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Asatizah-Recognition-Scheme.md
+      - Halal-Certification.md
+      - Islamic-Education-Centres-and-Providers-Registration.md
