@@ -5,6 +5,19 @@ permalink: /start-a-business/
 
 ## Start-up Guide
 
+Before starting your business, you should have a game plan for success. Key decisions you need to make include:
+
+- Do you need to register your business? If yes, what business structure?
+
+- Where will your business be located?
+
+GoBusiness Startup Guide will walk you through the questions above and more.
+
+{% include panels-overview.html spanels=site.data.ov001-start %}
+
+---
+
+<a name="1-anchor"></a>
 ![Start Overview](/images/start/StartSJ_Overview_Main.jpg)
 
 If you're starting a business in Singapore, the first question to consider is whether you need to register it.
@@ -16,6 +29,8 @@ Anybody who intends to carry out any activity for profit on an ongoing basis mus
 
 Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions from registration and the full list can be found in the [Business Names Registration Act](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}{:rel="noopener"}.
 
+<hr>
+<a name="2-anchor"></a>
 ### Benefits of registering a business
 
 ![Start Benefits](/images/start/StartSJ_Overview_RegisteringBenefits.jpg)
@@ -29,14 +44,18 @@ There are several benefits of registering a business with ACRA. Here are some of
 
 In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
 
+<hr>
+<a name="3-anchor"></a>
 ### Key steps to start
 
 Now that you know whether to register the business, here are 6 key steps to guide you:
 
 {% include panels.html panels=site.data.startbiz_links %}
 
-After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/).
+After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/?src=startup_guide).
 
+<hr>
+<a name="4-anchor"></a>
 ### Setup cost calculator
 
-Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html){:target="_blank"}{:rel="noopener"}.
+Get an estimate of how much it costs to start and run a business in Singapore with our [Setup Cost Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/setup-cost-calculator.html?src=startup_guide){:target="_blank"}{:rel="noopener"}.
