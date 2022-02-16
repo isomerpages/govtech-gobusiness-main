@@ -1,7 +1,7 @@
 ---
 title: Payment
-permalink: /licensing-faqs/post-application/
-third_nav_title: Post-Application
+permalink: /licensing-faqs/payment/
+third_nav_title: Payment
 ---
 
 ### Payment
