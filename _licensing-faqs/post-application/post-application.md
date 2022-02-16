@@ -1,5 +1,5 @@
 ---
-title: Post-Application
+title: Payment
 permalink: /licensing-faqs/post-application/
 third_nav_title: Post-Application
 ---
