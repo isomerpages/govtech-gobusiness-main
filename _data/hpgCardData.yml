@@ -3,12 +3,12 @@
   title: New Business Owners
   id: 1
   href_1: '/start-a-business/?src=home_quicklinks'
-  text_1: Steps to start a business
+  text_1: How to start a business
   href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
   target_2: _blank
-  text_2: Register a new business
+  text_2: 'e-Adviser: Register new business'
   href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
-  text_3: Pick a business structure
+  text_3: 'e-Adviser: Pick a business structure'
   target_3: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
   cta_text: View Start-up Guide
