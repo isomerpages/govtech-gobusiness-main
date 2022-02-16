@@ -65,7 +65,7 @@ It’s a constant learning journey, she says. To better serve her customers, she
 While there will always be difficulties in running a business, Ong faces each one with gusto and passion. “Everything is just part of the journey,” she says. “It just feels good to do this as a job for the rest of my life.” 
 
 Today, the humble bakery constantly sells out of their bakes and receives rave reviews from customers and food bloggers alike. And while Ong hopes to eventually expand, her vision for the space goes back to how it all started – an environment that is close-knit, like family. 
-<br>– 
+
 
 Looking for guidance on how to set up your first F&B establishment? Check out GoBusiness’ [guide on starting a food service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. 
 
