@@ -11,7 +11,7 @@ With GoBusiness, you get easy and efficient access to over 100 government assist
 
 ---
 
-<a name="1-anchor"></a>
+<a name="gov-assist"></a>
 ### Government Assistance
 
 ![Gov Assist](/images/grow/RG-Overview-GovAssist-Banner.png)
@@ -40,7 +40,7 @@ https://gaeadviser.gobusiness.gov.sg/?src=rungrow_overview
 
 ---
 
-<a name="2-anchor"></a>
+<a name="licence-permit"></a>
 ### Licences and Permits
 
 ![Licences and Permits](/images/grow/RG-Overview-Licensing-Banner.png)
@@ -49,13 +49,13 @@ All businesses require licences to operate, depending on the nature of their bus
 
 - [Find a licence](/licences/find-licence-by-agency/?src=rungrow_overview)
 
-- [Renew or amend existing licence](/licences/#2-anchor)
+- [Renew or amend existing licence](/licences/#renew-amend-licence)
 
 - [Get recommendations for what licences to apply](/licences/find-licence-by-sector/?src=rungrow_overview)
 
 ---
 
-<a name="3-anchor"></a>
+<a name="tax-gst-customs"></a>
 ### Taxes, GST and Customs
 
 ![Taxes GST and Customs](/images/grow/RG-Overview-Taxes-Banner.png)
@@ -71,7 +71,7 @@ A simple guide to a business' responsibilities while operating in Singapore.
 
 ---
 
-<a name="4-anchor"></a>
+<a name="other-programmmes"></a>
 ### Other Programmes
 
 Here are more government programmes to support the growth and expansion of businesses:

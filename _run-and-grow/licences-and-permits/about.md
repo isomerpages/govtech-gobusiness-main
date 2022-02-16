@@ -12,7 +12,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ----
 
-<a name="1-anchor"></a>
+<a name="new-licence"></a>
 
 ### Apply for new licence
 
@@ -22,7 +22,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
 
-<a name="2-anchor"></a>
+<a name="renew-amend-licence"></a>
 
 ### Renew or amend licence
 

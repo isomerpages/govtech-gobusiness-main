@@ -27,7 +27,7 @@ panels:
         image: /images/login.svg
         alt: login
       - text: Cancel or renew licence
-        href: /licences/#2-anchor
+        href: /licences/#renew-amend-licence
         imageClass: login
         image: /images/login.svg
         alt: login
