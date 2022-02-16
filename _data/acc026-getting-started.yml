@@ -1,28 +1,100 @@
 accordion:
-  - title: How do I log in?
-    content: |
-      You will need to log in to GoBusiness via Singpass.
+  letter: a
+  data:
+    - title: How do I log in to GoBusiness?
+      content: |
+        Step 1: Click on the Log In button at the top right hand corner of the screen.
 
-      In order to use GoBusiness Licensing, your company's Corppass Administrator or Sub-Administrator will need to assign digital service access to GoBusiness. You can find out how to assign digital service access [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}.
+        Step 2: Log in as an Individual User or Business User.
 
-  - title: Which browser should I use to view GoBusiness Licensing?
-    content: |
-      GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or contact us for help [here](/contact-us/).
+        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
 
-  - title: I'm not sure which licences my business needs. How do I get started?
-    content: |
-      You can make use of our [e-Advisers for Licences](/licences/find-licence-by-sector/) to guide you through by answering a questionnaire. 
+    - title: Can I use GoBusiness Dashboard if I do not have a Singpass account?
+      content: |
+        No, you need a Singpass account to log in to your GoBusiness Dashboard. You can apply for a Singpass account on [Singpass' website](https://www.singpass.gov.sg/?src=licences_faq){:target="_blank"}{:rel="noopener"}.
 
-      If your business is in the food & beverage industry, you can also use our [Guided Journey feature](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licences_faq){:target="_blank"}{:rel="noopener"} for step-by-step guidance to find out the licences you need, and apply for them.
+    - title: Should I log in as an Individual User or Business User?
+      content: |
+        Log in as an Individual User if you are:
 
-  - title: I'm not sure how to use the Guided Journey feature. How do I begin?
-    content: |
-      You can refer to this [step-by-step guide](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licences_faq){:target="_blank"}{:rel="noopener"} for the Guided Journey feature. If you have further questions, you may [contact our helpdesk](/contact-us/) for assistance.
+        - registering a new company/entity
+        
+        - trading under your NRIC registered name
+        
+        - trading under an entity without a registered UEN
+        
+        - applying for a Corppass Admin account
 
-  - title: I'm familiar with the licensing process. Is there an option to do it on my own, without going through the step-by-step guide?
-    content: |
-      Yes, you can manually select and apply for the licences you want with [GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}.
-  
-  - title: How do I log out?
-    content: |
-      Click on the icon at the top right corner of your screen and select "Log Out". Do note that you will be automatically logged out after 20 minutes of inactivity.
+        Log in as a Business User if you are trading on behalf of a UEN-registered company.
+
+    - title: Why can't I log in as a Business User?
+      content: |
+        To log in as a Business User, your company's Corppass Administrator or Sub-Administrator will need to assign you digital service access to GoBusiness. You can find out how to do that on the [Corppass website](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"}.
+
+        Please note that from 11 April 2021, you will be required to log in to government digital services for businesses using Singpass instead of Corppass. For more information,  visit [go.gov.sg/corporate-login](http://go.gov.sg/corporate-login/?src=licences_faq){:target="_blank"}{:rel="noopener"}. "
+
+    - title: How do I log out?
+      content: |
+        Click on the icon at the top right corner of your screen and select “Log Out”. Do note that you will be automatically logged out after 20 minutes of inactivity.
+    
+    - title: Why did I get logged out of GoBusiness?
+      content: |
+        For security reasons, the system automatically logs you out if you are inactive for 20 minutes. 
+
+- accordion:
+  letter: b
+  data:
+    - title: How do I find the licence I want?
+      content: |
+        You can find it in the [Licences section](/licences/?src=licences_faq) of our website.
+        
+        If you know which government agency the licence is from, you can browse this [list of licences](/licences/find-licence-by-agency/?src=licences_faq) grouped by agency. If you're not sure which licences you need, our [e-Advisers](/licences/find-licence-by-sector/?src=licences_faq) can guide you with a simple questionnaire.
+
+    - title: I'm not sure which licences my business needs. How do I get started?
+      content: |
+        You can make use of our [e-Advisers for Licences](/licences/find-licence-by-sector/?src=licences_faq) to guide you through by answering a questionnaire. 
+
+        If your business is in the food & beverage industry, you can also use our [Guided Journey feature](/licences/foodservices/?src=licences_faq) for step-by-step guidance to find out the licences you need, and apply for them.
+    
+    - title: I'm not sure how to use the Guided Journey feature. How do I begin?
+      content: |
+        Step 1: Choose either the [Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness/?src=licences_faq){:target="_blank"}{:rel="noopener"} or [Food Service Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices/?src=licences_faq){:target="_blank"}{:rel="noopener"}.
+
+        Step 2: Log in via your Singpass account.
+
+        Step 3: Fill in the form.
+
+        Step 4: Submit form to get personalised recommendations for next steps.
+
+        Step 5: Click on Continue to save the recommendations to your GoBusiness Dashboard.
+    
+    - title: I'm familiar with the licensing process. Is there an option to do it on my own, without going through the step-by-step guide?
+      content: |
+        Yes, you can select and apply for the licences you want from this [list of licences](/licences/find-licence-by-agency/?src=licences_faq) or directly through [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/addtask?src=licences_faq){:target="_blank"}{:rel="noopener"}.
+
+- accordion:
+  letter: c
+  data:
+    - title: How do I find my existing approved licences?
+      content: |
+        After logging in to GoBusiness Dashboard, click on [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=licences_faq){:target="_blank"}{:rel="noopener"}.
+
+    - title: Why is my licence not shown on my GoBusiness Dashboard?
+      content: |
+        Only approved licences are found on your GoBusiness Dashboard. Drafts, rejected applications and application transaction history cannot be found here.
+
+    - title: I've tried but I still can't find my licence. What should I do?
+      content: |
+        If you need help, please [contact us](/contact-us/?src=licences_faq).
+
+    - title: How can i download my licence?
+      content: |
+        For licences applied through GoBusiness Licensing, the licence will be sent to your registered email address.
+
+        For licences applied through GoBusiness, you can download certain licences at [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=licences_faq){:target="_blank"}{:rel="noopener"} within one business day upon approval."
+
+    - title: Why can't I download my licence from the GoBusiness Dashboard?
+      content: |
+        It can take up to 1 business day after approval, for your licence to be available for download on the GoBusiness Dashboard.
+
+        Please contact the GoBusiness helpdesk at [+65 6336 3373](tel:+6563363373) or email us at [AskGoBiz@crimsonlogic.com.sg](mailto:AskGoBiz@crimsonlogic.com.sg) for further enquiries.
