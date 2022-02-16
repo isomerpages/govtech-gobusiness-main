@@ -1,4 +1,4 @@
-accordion:
+- accordion:
   letter: a
   data:
     - title: How do I log in to GoBusiness?
