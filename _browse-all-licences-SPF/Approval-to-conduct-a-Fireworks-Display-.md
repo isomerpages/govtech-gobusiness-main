@@ -23,9 +23,9 @@ Singapore Police Force (SPF)
 <ul>
 <li><strong>Engagement Letter from the Organiser of the Event</strong></li>
 <li><strong>Letter of no objection from venue owner</strong></li>
-<li><strong>Approval Letters from CAAS, RSAF, PUB and/or any relevant government agencies where applicable</strong></li>
+<li><strong>Approval Letters from CAAS, RSAF, PUB and/or any relavent government agencies where applicable</strong></li>
 <li><strong>Site Map and fireworks set up plan</strong></li>
 <li><strong>Safety Assessment</strong></li>
-<li><strong>Any other relevant documents to support the application</strong></li>
+<li><strong>Any other relavent documents to support the application</strong></li>
 </ul>
 
