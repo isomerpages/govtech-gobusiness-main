@@ -39,9 +39,9 @@ Applying for government assistance via GoBusiness is also a straightforward proc
 ![GoBusiness e-Adviser for Starting a Busines](/images/blog/content/Stitched 2.jpg)
 ###### The e-Adviser for Government Assistance is a free online tool to provide businesses with recommendations on relevant assistance schemes based on their business needs
 
-### Leveraging on a wealth of resources on GoBusiness
+### Leveraging on the wealth of resources on GoBusiness
 
-Joe Yee also appreciates the resources that have been consolidated for businesses on GoBusiness, such as information pertaining to prospective names of businesses and premise use for commercial purposes. 
+Joe Yee also appreciates the resources that have been consolidated for businesses on GoBusiness, such as information pertaining to prospective names of businesses and use of premises for commercial purposes. 
 
 Referring to the [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, he says, “[You can check the] premise that you're going to be using for the business, and if you’ll need a licence for it. That aspect is quite helpful.” 
 
