@@ -2,15 +2,15 @@
 title: Time Limited RRT for Workplaces
 permalink: /timelimitedrrt/
 ---
-## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
+## Time-Limited 8-weeks Weekly Routine Testing (RRT) for workplaces
 
-As more employees return to the workplace from 1 Jan 2022, there could be higher risk of workplace transmission, particularly given the higher transmissibility of the Omicron variant. To ensure early detection and ringfencing of COVID-19 infections, we encourage all firms to implement regular testing for all employees. The Government will therefore conduct <b>a second round of Antigen Rapid Test (ART) kit distribution to workplaces</b>. 
+<b>Please note that the application for Round 2 of the Time-Limited Kits Distribution has closed.</b> Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the Government via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}.
 
-Please note that the application for Round 2 of the Time-Limited RRT has closed. Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to submit the ART results declaration at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the Government via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}.
+Note: The stepdown of mandatory Rostered Routine Testing (RRT) for higher-risk workplaces (except sectors interacting with vulnerable population and essential services) as announced in the 16 Feb MTF Press Release <b>does not</b> apply to the time-limited 8-weeks weekly testing at workplaces i.e. companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
 
 ### Delivery of Kits
 
-Successful applicants will be informed of their delivery up to 10 working days from the time of complete application. However, please expect a longer processing and delivery lead time for your application as our delivery vendors are taking a scheduled break. <b>Deliveries for applications made after 21 Jan onwards may only be fulfilled after the Chinese New Year period, from second week of February onwards.</b>
+Successful applicants will be informed of their delivery up to 10 working days from the time of complete application. However, applications made after 21 Jan onwards may experience a longer processing and delivery lead time. For enquiries regarding delivery, you may send in an enquiry via this [form](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}.
 
 Companies are required to commence weekly testing with immediate effect, upon receipt of the ART kits. These tests can be self-administered by the employee either at home, or at the work premises. 
 
@@ -31,7 +31,7 @@ The Government shall have the right to claw back the cost of any test kits shoul
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 7 Feb 2022) for more information on application process for Round 2 of Time-Limited RRT.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 7 Feb 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
 
 ### More information about ART<sup>*</sup>
 Learn more about how to perform a self-test using ART:

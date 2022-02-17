@@ -36,7 +36,7 @@
   data:
     - title: My company has submitted the application. When will my company receive the ART kits?
       content: |
-        Successful applicants will be informed of their delivery up to 10 working days from the time of complete application. However, for completed applications sent in after 21 Jan onwards, please expect a longer processing and delivery lead time as our delivery vendors are taking a scheduled break over the Chinese New Year period. Deliveries for applications made after 21 Jan onwards may only be fulfilled after the Chinese New Year period, from second week of February onwards.
+        Successful applicants will be informed of their delivery up to 10 working days from the time of complete application. However, for completed applications sent in after 21 Jan onwards, please expect a longer processing and delivery lead time. . For enquiries regarding delivery, you may send in an enquiry via this [form](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}.
 
     - title: How will the kits be delivered to my company?
       content: |
@@ -65,6 +65,10 @@
 
         The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain records of the test results till 30 Apr 2022, and to produce these as proof if audited by the government.
 
+    - title: The MTF announced that from 18 Feb onwards, most sectors on mandatory Rostered Routine Testing (RRT) will not need to continue testing their employees. Does this also mean that my company can stop weekly testing from 18 Feb too?  
+      content: |
+        The mandatory RRT regime was implemented for higher-risk workplaces and is different from this time-limited 8-weeks kits distribution exercise. Therefore, the stepdown of mandatory RRT for higher-risk workplaces (except sectors interacting with vulnerable population and essential services) as announced in the 16 Feb MTF Press Release does not apply to this time-limited 8-weeks weekly testing at workplaces. Companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
+
     - title: What processes should my company have in place to ensure that we are compliant?
       content: |
         Companies should have processes in place to ensure that the weekly tests are conducted properly, test results are recorded, and appropriate follow-up actions are adhered to. 
@@ -80,6 +84,14 @@
     - title: What actions will be taken if my company is found to be non-compliant?
       content: |
         The Government shall have the right to claw back the cost of any test kits should there be any late submission of results or required information, or if any of the information submitted in the application form or results declaration form is untrue, or if non-compliance to the testing requirements is found.
+
+    - title: My company participated in the first round of kits distribution in Sep/Oct, but commenced weekly testing late as we had pivoted to work-from-home arrangements. We wish to submit the test results for the kits received in Sep/Oct 2021, but am unable to access the results declaration link for the first round of kits distribution. What should I do? 
+      content: |
+        Companies who wish to submit the test results under Round 1 of Time-Limited RRT (Sep/Oct 2021) may do so via the results link provided for Round 2 of Time-Limited RRT ([https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}), and indicate “Submission for Round 1” under the Remarks column.
+
+    - title: My company participated in the first round of kits distribution in Sep/Oct, but commenced weekly testing late as we had pivoted to work-from-home arrangements. How long do we need to retain proof of processes and test results for?
+      content: |
+        For companies who would still be conducting testing beyond 31 January 2022 due to various reasons, please retain all necessary proof/results for a duration of one month after the second round of results declaration. E.g. if testing ends on 15 February 2022, please retain the necessary proof/results until 15 March 2022.
 
 - accordion:
   letter: e
@@ -127,7 +139,7 @@
       content: |
         You should isolate yourself at home if you are well and test positive. 
 
-        After 72 hours, repeat an ART. You can resume daily activities if it tests negative. If it is positive, continue to self-isolate and repeat ARTs at least one day apart. You can stop self-isolation and resume daily activities when it tests negative.
+        After 72 hours, repeat an ART. You can resume daily activities if it tests negative. If it is positive, continue to self-isolate and self-test daily until you obtain a negative result OR until 12pm on Day 7 (for fully vaccinated individuals) or Day 14 (for non-fully vaccinated individuals aged 12 years and above), whichever comes earlier.
 
         If you feel unwell e.g. fever, cough, sore throat, please visit a primary care provider to be assessed medically.
 
