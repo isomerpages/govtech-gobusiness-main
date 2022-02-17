@@ -31,7 +31,7 @@ The Government shall have the right to claw back the cost of any test kits shoul
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 7 Feb 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 17 Feb 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
 
 ### More information about ART<sup>*</sup>
 Learn more about how to perform a self-test using ART:
