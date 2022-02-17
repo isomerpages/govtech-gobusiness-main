@@ -25,7 +25,7 @@ operation to take place before commencing the blasting operation</p>
 <li><strong>Letter of Appointment from main Contractor / Sub-Contractor</strong></li>
 <li><strong>Site Map / Plan showing exact location of the site</strong></li>
 <li><strong>List of Buildings, Structures and Services located within proximity of the Site and the estimated PPV</strong></li>
-<li><strong>Any other relevant documents to support the application</strong></li>
+<li><strong>Any other relavent documents to support the application</strong></li>
 </ul>
 
 
