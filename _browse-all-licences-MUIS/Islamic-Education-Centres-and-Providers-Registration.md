@@ -32,7 +32,3 @@ Majlis Ugama Islam Singapura (MUIS)
 
 <p>No supporting document required for online application submission. Agencies may contact applicant if any supporting documents are needed subsequently.</p>
 
-<H3>Requirements</H3>
-
-N.A.
-
