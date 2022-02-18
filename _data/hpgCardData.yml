@@ -41,12 +41,15 @@
   alt: govassist
   title: Government Assistance
   id: 4
-  href_1: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
-  text_1: 'eAdviser: Find eligible schemes'
-  target_1: _blank
-  href_2: '/productivity-solutions-grant/?src=home_quicklinks'
-  text_2: Productivity Solutions Grant
-  href_3: '/business-grants-portal/?src=home_quicklinks'
-  text_3: Business Grants Portal
+  href_1: /gov-assist/budget-announcement-for-businesses/
+  text_1: Budget 2022
+  is_new_1: true
+  href_2: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
+  text_2: 'eAdviser: Find eligible schemes'
+  target_2: _blank
+  href_3: '/productivity-solutions-grant/?src=home_quicklinks'
+  text_3: Productivity Solutions Grant
+  href_4: '/business-grants-portal/?src=home_quicklinks'
+  text_4: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
