@@ -18,6 +18,7 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 <b>Stay Tuned: More information related to Budget 2022 for Businesses will be updated here progressively.</b>
 
+---
 
 ## Budget 2021
 
