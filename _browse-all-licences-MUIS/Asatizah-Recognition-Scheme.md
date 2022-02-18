@@ -42,7 +42,3 @@ Kindly take note that the $10.00 application fee is waived until further notice.
 
 
 
-<H3>Requirements</H3>
-
-N.A.
-

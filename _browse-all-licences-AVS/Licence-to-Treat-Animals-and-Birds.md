@@ -58,7 +58,3 @@ Animal & Veterinary Service (AVS)
  <li><strong>Others</strong><br />Scanned copy of other Miscellaneous documents<br />File Format: BMP,CSV,DOC,DOCX,GIF,JPEG,JPG,MDB,MPEG,MSG,ONE,PDF,PNG,PPT,PPTX,RTF,TIF,TIFF,TXT,VSD,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
-<H3>Requirements</H3>
-
-N.A.
-
