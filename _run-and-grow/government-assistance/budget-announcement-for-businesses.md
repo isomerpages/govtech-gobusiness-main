@@ -12,7 +12,7 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 - Download the Budget 2022 Business Booklet. <b>(To be updated)</b>
 
-- Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget 2022/Budget Navigator Scheme Details 2022 for Businesses.pdf){:target="_blank"}.
+- Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget 2022/Budget Navigator - for Businesses.pdf){:target="_blank"}.
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2022.
 
