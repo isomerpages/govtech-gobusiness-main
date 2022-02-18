@@ -172,22 +172,21 @@
         </div>
       </div>
       <div class="hpgCard__top2 toggle-display">
-        <a href="{{hpgCard.href_1}}" class="hpgCard__link" target="{% if {{hpgCard.target_1}} %}{{hpgCard.target_1}}{% else %}_self{% endif %}" rel="noopener">{{hpgCard.text_1}}</a>
-        {% if {{hpgCard.is_new_1}} %}
-        <span style="background: #E6F2F3;
-        border-radius: 3px;
-        width: 49px;
-        height: 22px;
-        padding: 2px 8px;
-        font-family: hknova-regular;
-        font-size: 12px;
-        line-height: 18px;
-        color: #02737D;
-        display: inline-block;
-        vertical-align: middle;
-        margin-left: 8px;">
-        New!
-        </span>{% endif %}
+        <a href="{{hpgCard.href_1}}" class="hpgCard__link" target="{% if {{hpgCard.target_1}} %}{{hpgCard.target_1}}{% else %}_self{% endif %}" rel="noopener">        {% if {{hpgCard.is_new_1}} %}
+          <span style="background: #E6F2F3;
+          border-radius: 3px;
+          width: 49px;
+          height: 22px;
+          padding: 2px 8px;
+          font-family: hknova-regular;
+          font-size: 12px;
+          line-height: 18px;
+          color: #02737D;
+          display: inline-block;
+          vertical-align: middle;
+          margin-left: 8px;">
+          New!
+          </span>{% endif %}{{hpgCard.text_1}}</a>
         <a href="{{hpgCard.href_2}}" class="hpgCard__link" target="{% if {{hpgCard.target_2}} %}{{hpgCard.target_2}}{% else %}_self{% endif %}" rel="noopener">{{hpgCard.text_2}}</a>
         <a href="{{hpgCard.href_3}}" class="hpgCard__link" target="{% if {{hpgCard.target_3}} %}{{hpgCard.target_3}}{% else %}_self{% endif %}" rel="noopener">{{hpgCard.text_3}}</a>
         {% if {{hpgCard.href_4}} %}
