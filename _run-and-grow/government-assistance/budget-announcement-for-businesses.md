@@ -23,7 +23,7 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more. 
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
+{% include button.html text="Subscribe to GoBusiness Mailing List" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
 
 
 <script src="/jquery/jquery.min.js"></script>
