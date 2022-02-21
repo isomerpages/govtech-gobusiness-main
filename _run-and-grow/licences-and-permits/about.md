@@ -32,7 +32,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 Apply for licences, renew them, and more with your personal GoBusiness Dashboard.
 
-Find out what you can do with your Dashboard and its features in this [article](/news-and-updates/updates/eAdviser-for-events){:target="_blank"}.
+<!--Find out what you can do with your Dashboard and its features in this [article](/news-and-updates/updates/eAdviser-for-events){:target="_blank"}.-->
 
 For questions about GoBusiness Licensing, please refer to our [FAQ](/licensing-faqs/){:target="_blank"}.
 
