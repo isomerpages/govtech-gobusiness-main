@@ -29,7 +29,7 @@ But the licence application process was efficient with the GoBusiness platform. 
 
 “In the past, licence applications were rather tedious – we had to be at the government agency physically to apply,” he muses as he recounts his attempt to set up a cafe back in 2014. “We had to bring the whole plan down to the agency’s office for assessment, and even make a couple of trips. With GoBusiness, it is now much easier and we can save a lot of time.”
 
-![Customisable suit Stitched Custom](/images/blog/content/Stitched 1.jpg)
+![GoBusiness FoodServices Guided Journey](/images/blog/content/Stitched 1.jpg)
 ###### GoBusiness provides step-by-step guidance to help F&B businesses apply for the relevant licences in the correct order 
 
 Applying for government assistance via GoBusiness is also a straightforward process, says Joe Yee. 
@@ -47,6 +47,9 @@ Referring to the [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg
 
 Joe Yee also finds the comprehensive guide for starting a business on GoBusiness especially relevant for first time business owners, due to the ease of use of the platform’s interface, which he likens to a “step by step solution”. 
 
+![Stitched Custom and Seoul Shiok co-founders](/images/blog/content/Stitched 3.jpg)
+###### Joe Yee and his business partner Tan Qing Quan (left) have plans to venture into more businesses together
+
 ### A one-stop solution for business information and transactions 
 
 As an entrepreneur with multiple businesses, Joe Yee hopes to be able to access all the different companies registered under his name via a single login.
@@ -59,7 +62,7 @@ However, he believes that being able to access information for multiple business
 
 He adds that the [new GoBusiness dashboard](https://dashboard.gobusiness.gov.sg/login?src=gobiz_blog){:target="_blank"}{:rel="noopener"} is close to what he has envisioned. 
 
-![GoBusiness Dashboard](/images/blog/content/Stitched 3.jpg)
+![GoBusiness Dashboard](/images/blog/content/Stitched 4.jpg)
 ###### The newly launched GoBusiness dashboard allows businesses to apply and keep track of their licences in one place
 
 With the wide variety of functions available on GoBusiness, Joe Yee recommends the platform to aspiring business owners, and also advises them to have patience and remember the importance of differentiating their product in their quest for success. 

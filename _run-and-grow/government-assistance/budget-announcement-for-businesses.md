@@ -2,6 +2,7 @@
 title: Budget 2022
 permalink: /gov-assist/budget-announcement-for-businesses/
 third_nav_title: Government Assistance
+description: Budget 2022 for Businesses
 ---
 
 ## Budget 2022
