@@ -19,6 +19,12 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 <b>Stay Tuned: More information related to Budget 2022 for Businesses will be updated here progressively.</b>
 
+### Want to be notified when this page is updated?
+
+Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more. 
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
