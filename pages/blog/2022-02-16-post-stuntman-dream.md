@@ -71,6 +71,6 @@ In starting Sandbox, Peps has invested more than just money into a space. Instea
 “This Sandbox was not made just for me, it was made for us as a community,” he says. “We can only try to set an example, place ourselves out there, and hope everyone will follow along as we go.” 
 
 
-Are you a new business owner unsure of what grants you can apply for or premises you can use? GoBusiness is here to help with the [e-Adviser for Government Assistance](https://gaeadviser.gobusiness.gov.sg/?src=about_govassist?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck??src=gobiz_blog){:target="_blank"}{:rel="noopener"}. Receive recommendations tailored to your business needs just by answering a few questions on these e-Advisers.
+Are you a new business owner unsure of what grants you can apply for or premises you can use? GoBusiness is here to help with the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck??src=gobiz_blog){:target="_blank"}{:rel="noopener"}. Receive recommendations tailored to your business needs just by answering a few questions on these e-Advisers.
 
 ###### This article is accurate as at 16 Feb 2022
