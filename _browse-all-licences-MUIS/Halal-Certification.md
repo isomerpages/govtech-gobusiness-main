@@ -8,7 +8,7 @@ third_nav_title: Majlis Ugama Islam Singapura (MUIS)
 
 Majlis Ugama Islam Singapura (MUIS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239" type="primary" %}
 
 <H3>Application Details</H3>
 

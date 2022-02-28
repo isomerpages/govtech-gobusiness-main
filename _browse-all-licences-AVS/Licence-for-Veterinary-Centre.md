@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1708181600000042" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1708181600000042" type="primary" %}
 
 <H3>Application Details</H3>
 

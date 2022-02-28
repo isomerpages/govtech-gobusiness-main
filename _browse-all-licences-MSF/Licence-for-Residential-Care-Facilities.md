@@ -8,7 +8,7 @@ third_nav_title: Ministry of Social and Family Development (MSF)
 
 Ministry of Social and Family Development (MSF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063" type="primary" %}
 
 <H3>Application Details</H3>
 
