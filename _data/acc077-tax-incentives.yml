@@ -1,46 +1,74 @@
-accordion:
-  - title: Approved Contract Manufacturer and Trade Scheme (ACMT)
-    content: |
-      With ACMT, contract manufacturers and traders do not need to account for GST on value-added activities supplied to non-GST registered overseas customers or overseas persons registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
+- accordion:
+  letter: a
+  data:
+    - title: Bring My Business Overseas
+      content: |
+        **Double Tax Deduction for Internationalisation (DTDi)**
+        <br>Companies planning to expand overseas can benefit from the DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
 
-      <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-contract-manufacturer-and-trader-(acmt)-scheme" target="_blank" rel="noopener">Find Out More</a>
-  - title: Approved Import GST Suspension Scheme (AISS)
-    content: |
-      Under AISS, GST-registered businesses in the aerospace industry enjoy added import GST suspension benefits for qualifying aircraft parts.
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationalisation" target="_blank" rel="noopener">Find Out More</a>
 
-      <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-import-gst-suspension-scheme-(aiss)-(for-aerospace-players)" target="_blank" rel="noopener">Find Out More</a>
-  - title: Approved Third Party Logistics (3PL) Company Scheme
-    content: |
-      Under this scheme, approved logistics companies that provide logistics management services to overseas clients do not need to pay import GST or charge GST on the supplies of their overseas clients' goods under certain circumstances.
+        **Hand-Carried Exports Scheme (HCES)**
+        <br>HCES is applicable if you wish to zero-rate your supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport.
 
-      <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-third-party-logistics-(3pl)-company-scheme" target="_blank" rel="noopener">Find Out More</a>
-  - title: Automated Double Tax Deduction for Internationalisation Scheme (DTDi)
-    content: |
-      Companies can automatically claim 200% tax deduction on the first $150,000 of qualifying expenses incurred on the following activities for each year of assessment:
-      
-      a) Participation in overseas market development trip/mission; 
-      b) Participation in overseas investment study trip/mission; 
-      c) Participation in overseas trade fair; and 
-      d) Participation in local trade fair approved by ESG or STB; 
-      e) Product/service certification (primarily to increase buyer's acceptance in overseas markets) approved by ESG; 
-      f) Overseas advertising and promotional campaign; 
-      g) Design of packaging for overseas markets; 
-      h) Advertising in approved local trade publication; and 
-      i) Participation in a virtual trade fair approved by ESG.
+        <a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/" target="_blank" rel="noopener">Find Out More</a>
 
-      <a href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Double-Tax-Deduction-for-Internationalisation-Scheme/" target="_blank" rel="noopener">Find Out More</a>
-  - title: Double Tax Deduction for Internationalisation (DTDi)
-    content: |
-      Companies planning to expand overseas can benefit from DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
+        **Major Exporters' Scheme (MES)**
+        <br>Under MES, GST on non-dutiable goods is suspended at the point of import and also when the goods are removed from Zero GST warehouses.
 
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationalisation" target="_blank" rel="noopener">Find Out More</a>
-  - title: Hand-Carried Exports Scheme (HCES)
-    content: |
-      Under HCES, you may zero-rate your supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport.
+        <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/" target="_blank" rel="noopener">Find Out More</a>
 
-      <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/hand-carried-exports-scheme-(hces)" target="_blank" rel="noopener">Find Out More</a>
-  - title: Major Exporters' Scheme (MES)
-    content: |
-      Under MES, GST on non-dutiable goods is suspended at the point of import and when the goods are removed from Zero GST warehouses.
+    - title: Develop My Brand and Improve Brand Awareness
+      content: |
+        **Double Tax Deduction for Internationalisation (DTDi)**
+        <br>Companies planning to expand overseas can benefit from the DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
 
-      <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/major-exporter-scheme-(mes)" target="_blank" rel="noopener">Find Out More</a>
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationalisation" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Help My Business through COVID-19
+      content: |
+        **Corporate Income Tax Rebate for YA2020**
+        <br>No application is required. Companies will be granted a 25% Corporate Income Tax Rebate capped at $15,000.
+
+        <a href="https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/Corporate-Tax-Rates--Corporate-Income-Tax-Rebates-and-Tax-Exemption-Schemes/" target="_blank" rel="noopener">Find Out More</a>
+
+        **Deferment of Income Tax Payments**
+        <br>No application is required. Automatically defer corporate income tax payments for 3 months for companies and self-employed persons (SEPs). Tax due from April to June 2020 is payable only from July to September 2020.
+
+        <a href="https://www.iras.gov.sg/irashome/Businesses/Companies/Paying-Corporate-Income-Tax/Paying-Corporate-Income-Taxes/" target="_blank" rel="noopener">Find Out More</a>
+
+        **Property Tax Rebate 2020**
+        <br>No application is required. Owners of qualifying properties will be receive up to 100% of property tax rebates, to be fully passed on to their tenants, by reducing/offsetting rentals or through a payment.
+
+        <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/Working-out-your-taxes/Property-Tax-Reliefs/" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Improve My Financial Management
+      content: |
+        **Major Exporters' Scheme (MES)**
+        <br>Under MES, GST on non-dutiable goods is suspended at the point of import and also when the goods are removed from Zero GST warehouses.
+
+        <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/" target="_blank" rel="noopener">Find Out More</a>
+
+- accordion:
+  letter: b
+  data:
+    - title: Aerospace
+      content: |
+        **Approved Import GST Suspension Scheme**
+        <br>Under AISS, GST-registered businesses in the aerospace industry enjoy added import GST suspension benefits for qualifying aircraft parts.
+
+        <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Import-GST-Suspension-Scheme--AISS-/" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Logistics
+      content: |
+        **Approved Third Party Logistics (3PL) Company Scheme**
+        <br>Approved logistics companies that provide logistics management services to overseas clients do not need to pay import GST or charge GST on the supplies of their overseas clients' goods under certain circumstances.
+
+        <a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Approved-Third-Party-Logistics--3PL--Company-Scheme/" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Manufacturing and Engineering
+      content: |
+        **Approved Contract Manufacturer and Trade Scheme**
+        <br>Contract manufacturers and traders need not account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons registered under the OVR regime as a pay-only person.
+
+        <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank" rel="noopener">Find Out More</a>

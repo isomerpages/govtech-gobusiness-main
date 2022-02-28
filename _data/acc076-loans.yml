@@ -1,16 +1,65 @@
-accordion:
-  - title: Enterprise Financing Scheme (EFS)
-    content: |
-      EFS helps Singapore enterprises to access financing more readily. Enterprise Singapore (ESG) will share the loan default risk in the event of enterprise insolvency with the Participating Financial Institutions (PFIs).
+- accordion:
+  letter: a
+  data:
+    - title: Bring My Business Overseas
+      content: |
+        **Internationalisation Finance Scheme (IFS) - Non-Recourse**
+        <br>Mid-sized companies can access up to S$50 million in project financing for local and overseas development projects. ESG co-shares default risks with Participating FIs. 
 
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/overview" target="_blank" rel="noopener">Find Out More</a>
-  - title: Internationalisation Finance Scheme (IFS) - Non-Recourse
-    content: |
-      IFS gives mid-sized companies access to up to S$50 million in project financing for local and overseas development projects. Enterprise Singapore (ESG) co-shares default risks with Participating Financial Institutes (PFIs).
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank" rel="noopener">Find Out More</a>
 
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank" rel="noopener">Find Out More</a>
-  - title: Temporary Bridging Loan Programme (TBLP)
-    content: |
-      The TBLP provides access to working capital for business needs, at a maximum  loan quantum of S$3 million with 70% Government risk-share on loans for new applications initiated from 1 April 2020 - 31 March 2022.
+    - title: Help My Business through COVID-19
+      content: |
+        **Enhanced Enterprise Financing Scheme - SME Working Capital Loan**
+        <br>Receive greater financing support to bridge your working capital gaps. Maximum supported loan of $1m, with 90% Government risk-share. 
 
-      <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank" rel="noopener">Find Out More</a>
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/sme-working-capital/overview" target="_blank" rel="noopener">Find Out More</a>
+
+        **Enhanced Enterprise Financing Scheme - Trade Loan**
+        <br>Get better access to trade financing amidst the current environment of slower business activities and longer payment cycles. Maximum supported loan of $10m, with 90% Government risk-share. 
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/trade-loan/overview" target="_blank" rel="noopener">Find Out More</a>
+
+        **Temporary Bridging Loan Programme (TBLP) <img src="/images/budget2022/budget2022.png">**
+        <br>The TBLP provides access to working capital for business needs, at a maximum  loan quantum of S$3 million with 70% Government risk-share on loans for new applications initiated from 1 April 2020 - 30 September 2022.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Improve My Financial Management
+      content: |
+        **Enhanced Enterprise Financing Scheme - Trade Loan  <img src="/images/budget2022/budget2022.png">**
+        <br>Extension of enhanced support for trade financing needs from 1 April 2022 to 30 September 2022, to ease enterprises' access to credit to mitigate short-term cashflow pressures.
+
+        Enhanced support for enterprises trading in challenged markets to encourage internationalisation.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/trade-loan/overview" target="_blank" rel="noopener">Find Out More</a>
+
+        **Enterprise Financing Scheme (EFS)**
+        <br>The EFS helps Singapore enterprises to access financing more readily. ESG will share the loan default risk in the event of enterprise insolvency with the Participating Financial Institutions.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/overview" target="_blank" rel="noopener">Find Out More</a>
+
+        **Internationalisation Finance Scheme (IFS) - Non-Recourse**
+        <br>Mid-sized companies can access up to S$50 million in project financing for local and overseas development projects. ESG co-shares default risks with Participating FIs. 
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/internationalisation-finance-scheme---non-recourse" target="_blank" rel="noopener">Find Out More</a>
+
+        **Temporary Bridging Loan Programme (TBLP) <img src="/images/budget2022/budget2022.png">**
+        <br>The TBLP provides access to working capital for business needs, at a maximum  loan quantum of S$3 million with 70% Government risk-share on loans for new applications initiated from 1 April 2020 - 30 September 2022.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank" rel="noopener">Find Out More</a>
+
+- accordion:
+  letter: b
+  data:
+    - title: Building and Construction
+      content: |
+        **Enhanced Enterprise Financing Scheme - Merger & Acquisitions  <img src="/images/budget2022/budget2022.png">**
+        <br>Supports enterprises' M&A financing needs, including for domestic M&A deals from 1 April 2022 to 31 March 2026, to encourage restructuring and consolidation post-COVID.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/merger-and-acquisitions/overview" target="_blank" rel="noopener">Find Out More</a>
+
+        **Enhanced Enterprise Financing Scheme - Project Loan  <img src="/images/budget2022/budget2022.png">**
+        <br>Extension of support for domestic projects for construction sector from 1 April 2022 to 31 March 2023.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/project-loan/overview" target="_blank" rel="noopener">Find Out More</a>

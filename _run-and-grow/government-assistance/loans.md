@@ -16,7 +16,11 @@ https://eadviser.gobusiness.gov.sg/govassist/?src=govassist_loans
 
 ### For all sectors
 
-{% include accordion.html accordions=site.data.acc076-loans.accordion %}
+{% include letter-accordion.html accordions=site.data.acc076-loans letter="a" %}
+
+### For specific sectors
+
+{% include letter-accordion.html accordions=site.data.acc076-loans letter="b" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

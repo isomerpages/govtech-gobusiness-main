@@ -13,11 +13,23 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 - Download the Budget 2022 Business Booklet. <b>(coming soon)</b>
 
-- Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget 2022/Budget Navigator - for Businesses.pdf){:target="_blank"}.
+- Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget2022/Budget Navigator - for Businesses.pdf){:target="_blank"}.
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2022.
 
-<b>Stay Tuned: More information related to Budget 2022 for Businesses will be updated here progressively.</b>
+#### List of Government Assistance related schemes:
+
+#### Grants
+
+{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="a" %}
+
+#### Loans
+
+{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="b" %}
+
+#### Toolkits / Programmes
+
+{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="c" %}
 
 ### Want to be notified when this page is updated?
 

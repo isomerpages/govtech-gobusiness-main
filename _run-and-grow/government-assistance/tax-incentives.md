@@ -16,7 +16,11 @@ https://eadviser.gobusiness.gov.sg/govassist/?src=govassist_taxincentives
 
 ### For all sectors
 
-{% include accordion.html accordions=site.data.acc077-tax-incentives.accordion %}
+{% include letter-accordion.html accordions=site.data.acc077-tax-incentives letter="a" %}
+
+### For specific sectors
+
+{% include letter-accordion.html accordions=site.data.acc077-tax-incentives letter="b" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
