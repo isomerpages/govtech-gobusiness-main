@@ -10,7 +10,7 @@ Land Transport Authority (LTA)
 
 {% include spcp-text.html type="cp" %}
 
-[View Submission Guide]("https://www.lta.gov.sg/content/dam/ltaweb/corp/Industry/files/COP-Appendices/Submission_Guide_and_Technical_Requirements_09122020.pdf"){:target="_blank"}{:rel="noopener"} 
+[View Submission Guide](&quot;https://www.lta.gov.sg/content/dam/ltaweb/corp/Industry/files/COP-Appendices/Submission_Guide_and_Technical_Requirements_09122020.pdf&quot;){:target="_blank"}{:rel="noopener"}
 
 <H3>Application Details</H3>
 
