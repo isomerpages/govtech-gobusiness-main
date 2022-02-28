@@ -5,9 +5,9 @@ collections:
       - overview.md
       - government-assistance/.keep
       - government-assistance/about-government-assistance.md
-      - government-assistance/tax-incentives.md
-      - government-assistance/loans.md
       - government-assistance/grants.md
+      - government-assistance/loans.md
+      - government-assistance/tax-incentives.md
       - government-assistance/toolkits-programmes.md
       - government-assistance/budget-announcement-for-businesses.md
       - business-grants-portal.md

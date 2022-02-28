@@ -8,7 +8,7 @@ third_nav_title: Housing & Development Board (HDB)
 
 Housing & Development Board (HDB)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7" type="primary" %}
 
 <H3>Application Details</H3>
 
