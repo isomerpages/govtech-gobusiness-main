@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation Equipment/ System
+title: Digital quality testing equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2167
 ---
 
 ### Description
 
-Water efficient irrigation system (e.g. sprinkler)
+Quality testing equipment in measuring the produce quality and freshness
 
 ### Details of Solution
 

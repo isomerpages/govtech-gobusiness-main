@@ -1,15 +1,15 @@
 ---
-title: RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10
+title: Xero Accounting software - Standard Starter Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2191
 ---
 
 ### Description
 
-CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
+Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>
+Web URL: www.xero.com <br>Contact Hotline: 63104961 <br>Contact Email: enquiry@perfecten.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

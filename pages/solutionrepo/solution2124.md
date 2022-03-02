@@ -1,11 +1,11 @@
 ---
-title: Automatic Feeding/ Drinking System
+title: Closed Containment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2124
 ---
 
 ### Description
 
-A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ### Details of Solution
 

@@ -1,11 +1,11 @@
 ---
-title: Pelleting Machine
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
 ### Description
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 

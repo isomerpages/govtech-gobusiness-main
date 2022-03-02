@@ -1,17 +1,15 @@
 ---
-title: Redoc - Document Management & Transaction Records Version 1.0 - Package 2 (Up to 10 users)
+title: Eset Protect Entry - 10 Licenses (1 year)
 permalink: /productivity-solutions-grant/solutionrepo/solution2717
 ---
 
 ### Description
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
-
-The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
+Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co <br>
+Web URL: https://www.rentalworks.com.sg/curated-offers/ <br>Contact Hotline: 96119602 <br>Contact Email: psg@rentalworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

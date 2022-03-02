@@ -1,11 +1,11 @@
 ---
-title: Automatic case labelling machine
-permalink: /productivity-solutions-grant/solutionrepo/solution2123
+title: Solar Panels System and Energy Storage System
+permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
 ### Description
 
-Case printing system or pack labelling system which allow the user to fully customize their label.
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ### Details of Solution
 

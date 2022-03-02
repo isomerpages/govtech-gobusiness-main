@@ -1,15 +1,16 @@
 ---
-title: Xero by Book&Entries - Package C (Premium Package - Software + Setup)
+title: Fleet Safety Management System Version 7 - 8 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution2592
 ---
 
 ### Description
 
-Since 2015, Book&Entries has continued to serve and provide clients with our various advisory and compliance services.  Our partnership with Xero has enabled us to work with many small-medium enterprises on adopting and implementing the digital way of running the business.  We assist companies with a robust process review to convert tradition way of record keeping to maintaining records digitally.  Our business digital solutions packages are customized to meet your business needs.
+SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
+ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.bookentries.com.sg <br>Contact Hotline: 62214246 <br>Contact Email: support@bookentries.com.sg <br>
+Web URL: www.smartcomm.biz <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

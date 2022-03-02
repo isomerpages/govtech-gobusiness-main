@@ -1,15 +1,17 @@
 ---
-title: SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)
+title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite >150 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2204
 ---
 
 ### Description
 
-SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
+cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing. 
+
+The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello@skipqoo.io <br>
+Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

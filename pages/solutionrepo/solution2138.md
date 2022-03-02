@@ -1,11 +1,11 @@
 ---
-title: Farm Washing System
+title: Feed Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2138
 ---
 
 ### Description
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+A machine to mix and chop up the materials for animal feed. 
 
 ### Details of Solution
 

@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software - Xero Premium Subscription
+title: SAFE Post-Tension Suite - Package 2 (Perpetual License)
 permalink: /productivity-solutions-grant/solutionrepo/solution2458
 ---
 
 ### Description
 
-The Xero dashboard presents users with a clear and concise overview of their financial situation. It provides small business owners with a greater understanding of their cashflow by highlighting bank balances, outstanding invoices, upcoming bills and expense claims in a visually appealing way.
+SAFE is the ultimate tool for designing concrete floor and foundation systems. From framing layout to detail drawing production, SAFE integrates every aspect of the engineering design process in one easy and intuitive environment. SAFE provides unmatched productivity to the engineer with its truly unique combination of power, comprehensive capabilities, and ease-of-use.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International__20210049_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: WWW.ASSEMBLYWORK.CO <br>Contact Hotline: 90883183 <br>Contact Email: shining@assemblyworks.co <br>
+Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (3 Pax)
+title: Xero - Xero Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution2378
 ---
 
 ### Description
 
-Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs to digitalize the HR processes such as payroll, leave management, claims, and benefits, etc. With integration to QuickBooks Online and Xero, we can also help SMEs digitalize the sales, accounting, and payroll processes. Our clients can focus on building their business while leaving the hassle of back-end business processes to us.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+Web URL: www.budgetaccounts.com.sg <br>Contact Hotline: 97839675 <br>Contact Email: lynette@budgetaccounts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

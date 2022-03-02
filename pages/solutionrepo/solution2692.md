@@ -1,15 +1,16 @@
 ---
-title: Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 150/35
+title: Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2692
 ---
 
 ### Description
 
-Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
+A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,18 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
+Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

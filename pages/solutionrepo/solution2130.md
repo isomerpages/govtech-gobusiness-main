@@ -1,11 +1,11 @@
 ---
-title: Conveyor System for transporting materials
+title: Collection Systems
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
 ### Description
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ### Details of Solution
 

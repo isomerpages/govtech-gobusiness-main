@@ -1,11 +1,11 @@
 ---
-title: Automated Counter/ Biomass Estimation System
+title: Automated Slaughtering Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2117
 ---
 
 ### Description
 
-Automatic devices for measuring or estimating the number of produce in a period.
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ### Details of Solution
 

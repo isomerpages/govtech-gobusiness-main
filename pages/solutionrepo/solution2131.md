@@ -1,11 +1,11 @@
 ---
-title: Crate/ Tray washing machine
+title: Farm Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-A machine used to wash crates and trays used for farming.
+Integrated processing system to process produce into value-added products
 
 ### Details of Solution
 

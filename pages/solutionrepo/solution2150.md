@@ -1,11 +1,11 @@
 ---
-title: Multi-tier Cultivation System
+title: Robot Cleaner 
 permalink: /productivity-solutions-grant/solutionrepo/solution2150
 ---
 
 ### Description
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ### Details of Solution
 

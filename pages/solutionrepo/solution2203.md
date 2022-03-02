@@ -1,15 +1,15 @@
 ---
-title: SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)
+title: Xero Cloud Accounting Software - Premium Package - Software, Setup & Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2203
 ---
 
 ### Description
 
-SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
-Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello@skipqoo.io <br>
+Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 93891853 <br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

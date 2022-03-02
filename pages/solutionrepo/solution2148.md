@@ -1,11 +1,11 @@
 ---
-title: Manure Treatment System
+title: Pelleting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 
 ### Description
 
-A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ### Details of Solution
 

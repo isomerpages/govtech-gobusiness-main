@@ -1,17 +1,15 @@
 ---
-title: Liquid Filling Machine
+title: Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)
 permalink: /productivity-solutions-grant/solutionrepo/solution2076
 ---
 
 ### Description
 
-Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
-Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
-Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
+Xero offers a cloud-based accounting software platform for small and medium-sized businesses. Its key features include automatic bank feeds, invoicing, accounts payable, expense claims, fixed asset depreciation, purchase orders, bank reconciliations, and standard business and management reporting. Xero has more than 200 secure connections with banks and financial service partners around the world.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -33,17 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimally semi-automated
-- Minimally 1 unit/1 nozzle system to provide accurate filling into applicable units
-- Volumetric or weight based filling
-- Touchscreen display (optional)
-- Explosion proof (optional)
-- Installation/simple training costs can be supported.
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Contact Hotline: 91782021<br>Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

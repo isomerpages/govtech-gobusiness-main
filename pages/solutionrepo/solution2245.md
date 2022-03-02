@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (51- 100 Employees)
+title: Xero Cloud Accounting Version 10.5-Advante Package D (Xero Standard Full Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution2245
 ---
 
 ### Description
 
-Match Resources Pte Ltd is a full-service Human Resources consulting firm that uses an innovative SaaS HRSS ecosystem. The firm combines HR management expertise and cutting-edge cloud software to support local SMEs in digitizing and automating their crucial HR processes. The SaaS modules include Employment Information System, Leave Management, Expense Claims, Time Attendance, and Payroll Processing, all of which are conveniently accessible via a mobile application.
+Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br><br>
+Company Name:Advante Consulting Pte Ltd <br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

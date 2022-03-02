@@ -1,11 +1,11 @@
 ---
-title: Water Filtration System
+title: Automated Irrigation Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+Water efficient irrigation system (e.g. sprinkler)
 
 ### Details of Solution
 

@@ -1,11 +1,11 @@
 ---
-title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
+title: Packing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2166
 ---
 
 ### Description
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ### Details of Solution
 

@@ -1,17 +1,15 @@
 ---
-title: cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 50 Users
+title: Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2336
 ---
 
 ### Description
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing.
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Process Industry, mainly Engineering Service Providers (ESPs). It's to ensure project cost tracking with integrated procurement flow and allows the information to flow seamlessly between the office & project sites by allowing site manager to update project progress status remotely on mobile with photo evidence as well as maintenance task completion checklists to the clients.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
+Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

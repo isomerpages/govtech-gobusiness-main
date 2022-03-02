@@ -1,15 +1,16 @@
 ---
-title: InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users
+title: BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Single User License
 permalink: /productivity-solutions-grant/solutionrepo/solution2730
 ---
 
 ### Description
 
-InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
+BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
+BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +28,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.infomaster.com.sg <br>Contact Hotline: 67475665 <br>Contact Email: sales@ise.com.sg <br>
+Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br>Contact Hotline: 65361728 <br>Contact Email: enquiry@acapacific.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

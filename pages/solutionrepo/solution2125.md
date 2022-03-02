@@ -1,11 +1,11 @@
 ---
-title: Automatic Harvester
+title: Conveyor System for transporting materials
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 
 ### Description
 
-To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ### Details of Solution
 

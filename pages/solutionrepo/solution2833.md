@@ -1,5 +1,5 @@
 ---
-title: 3. Supply Chain Management
+title: 2. Conduct Risk Assessment and Business Impact Analysis
 permalink: /productivity-solutions-grant/solutionrepo/solution2833
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Conduct-Risk-Assessment-Business-Impact-Analysis-Classroom-Asynchronous-Elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

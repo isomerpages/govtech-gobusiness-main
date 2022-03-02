@@ -1,15 +1,17 @@
 ---
-title: Firewall Security Protection - Rah Tech Fortinet 100F - P4
+title: Redoc - Document Management & Transaction Records Version 1.0 - Package 4 (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2714
 ---
 
 ### Description
 
-Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation Firewall capabilities from corporate branch Offices to mid-sized business. Managed by a team of 24x7 specialist, Rah Tech will be able to provide flexibility to help businesses ease routine activities like alerting, monitoring, patching and updates of their firewall.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
+
+The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
+Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

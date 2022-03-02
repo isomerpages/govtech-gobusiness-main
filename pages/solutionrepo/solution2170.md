@@ -1,11 +1,11 @@
 ---
-title: Rainwater harvesting system and storage tank
+title: Fish fry quarantine tank system
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
 ### Description
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
 
 ### Details of Solution
 

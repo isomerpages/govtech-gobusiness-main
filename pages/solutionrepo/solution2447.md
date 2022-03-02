@@ -1,15 +1,15 @@
 ---
-title: LittleLives 4.5 - Thermal Basic
+title: Taidii SMART IT Solution for Preschool - Taidii School Management Smart  IT Solution (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution2447
 ---
 
 ### Description
 
-As an EduTech company, LittleLives facilitates day-to-day school operations through its core mobile applications: Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  We have created a holistic system that handles the full life cycle of a child's preschool journey. Our products are developed taking into consideration the needs of the entire network of caregivers - educators, parents, and leaders.
+Taidii SMART integrated preschool management system provides innovation solutions to streamline administrative process and foster better preschool services as its key services. Taidii helps to automate various tasks and stores data using a secured cloud based platform for easy access. Taidii hopes to bring greater efficiency and convenience to preschool management and ultimately, higher quality childcare for the young generation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelives_20200132_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +36,6 @@ Up to 50% for non-SMEs
 - Subject to internal funding caps.
 
 ### Contact Information
-Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
+Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

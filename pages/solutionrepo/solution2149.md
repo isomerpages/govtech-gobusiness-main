@@ -1,11 +1,11 @@
 ---
-title: Milking Machine
+title: Recirculating Aquaculture System
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
+A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
 ### Details of Solution
 

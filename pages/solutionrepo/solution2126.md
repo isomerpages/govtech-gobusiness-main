@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Plug Transplanter
+title: Crate/ Tray washing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
 ### Description
 
-A machine that completes transplantation.
+A machine used to wash crates and trays used for farming.
 
 ### Details of Solution
 

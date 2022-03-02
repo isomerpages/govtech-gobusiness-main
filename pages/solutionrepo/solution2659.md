@@ -1,15 +1,15 @@
 ---
-title: Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services
+title: Singtel Endpoint Security - Trend Micro Apex One - 150 Licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution2659
 ---
 
 ### Description
 
-Singtel Unified Threat Management (UTM) is a network perimeter security offering an effective information security program. Singtel UTM is a fully managed, automated threat management service that uses technologies designed to detect rogue devices and internal vulnerabilities. Businesses can expect to enjoy round-the-clock security coverage from experienced security experts and ensures that security policies offer maximum protection against threats you don't even know about.
+Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

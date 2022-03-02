@@ -1,15 +1,15 @@
 ---
-title: Taidii SMART IT Solution for Preschool (PMS + E-form) - Advance
+title: Firewalla Gold Package - Package C - 3 Sites
 permalink: /productivity-solutions-grant/solutionrepo/solution2604
 ---
 
 ### Description
 
-Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas. The solution covers most of the operational perspectives of the school such as attendance taking, parent-school communication, E-enrollment, E-form and finance. The product will help the schools to reduce 70% of administrative time and the overall time taken for parent-school communication can be reduced about 50%.
+Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,18 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
+Web URL: Cybersecurity Products and Services <br>Contact Hotline: 97520811 <br>Contact Email: info@anzenglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

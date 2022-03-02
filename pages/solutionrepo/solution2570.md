@@ -1,15 +1,15 @@
 ---
-title: Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)
+title: Alitec odooCRM and sales - odoo 10 Users AS4 (Sales)
 permalink: /productivity-solutions-grant/solutionrepo/solution2570
 ---
 
 ### Description
 
-Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
+Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technical teams have helped local SMEs for the past 5 years to successfully implement Odoo. Odoo is a suite of open source business apps that cover all your company needs: CRM, sales online quotation, increase sales person productivities and managing price-list for customer . Odoo's unique value proposition is to be at the same time very easy to use and fully integrated: No more painful to scale a CRM/sales to a full ERP.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,28 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 80
-% for SMEs <br>
-Up to 60
-% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-The Grantee shall submit the following documents for claims and verification:
-1. Invoice
-2. Bank statement showing payment to vendor
-3. Purchase order or signed acceptance of quotation / contract
-4. Receipt or cheque
-5. Pictures
-- licence number(s) of software
-6. Usage Report
-- at least 1 month
-7. GIRO Direct Credit Authorisation Form
-8. Declaration of Project's actual Local Business Spend (expenses paid to SG-registered biz) in the text box "if your projections have changed, please tell us why"
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://sugatitravel.com/ <br>Contact Hotline: 91273257 <br>Contact Email: hello@sugatitravel.com <br>
+Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

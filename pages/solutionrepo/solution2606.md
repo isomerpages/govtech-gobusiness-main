@@ -1,15 +1,15 @@
 ---
-title: Taidii Smart E-Form Solution - Top-up
+title: Enhanzcom - FITPRISE Sales & Inventory System - (5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2606
 ---
 
 ### Description
 
-Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
+FITPRISE Sales & Inventory System is a flexible business system platform for Sales and Stock Inventory operations. System provides tracking of sales leads through to quotation creation and/or management of the issuance, receipt and movement of stock inventory items. The solution provides the flexibility to create customized reports, fields, logic to meet the SMEs operations workflow. This helps with user system acceptance as system processes are more familiar to their daily operations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom_Inventory_20210029_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,18 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
+Web URL: www.enhanzcom.com <br>Contact Hotline: 62761128 <br>Contact Email: enquiries@enhanzcom.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

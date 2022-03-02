@@ -1,11 +1,11 @@
 ---
-title: Sterilizer Equipment
+title: Water Filtration System
 permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 
 ### Description
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ### Details of Solution
 

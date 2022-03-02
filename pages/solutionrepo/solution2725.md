@@ -1,15 +1,15 @@
 ---
-title: Eset Protect Entry - 100 Licenses (1 year)
+title: InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2725
 ---
 
 ### Description
 
-Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
+InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.rentalworks.com.sg/curated-offers/ <br>Contact Hotline: 96119602 <br>Contact Email: psg@rentalworks.com.sg <br>
+Web URL: www.infomaster.com.sg <br>Contact Hotline: 67475665 <br>Contact Email: sales@ise.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

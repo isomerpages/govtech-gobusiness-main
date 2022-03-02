@@ -1,11 +1,11 @@
 ---
-title: Hi-jack Cleaning Machinery
+title: Milking Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ### Details of Solution
 

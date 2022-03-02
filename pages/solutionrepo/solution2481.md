@@ -1,15 +1,16 @@
 ---
-title: Smart Glasses - InnoGlas - SE (6 sets) - Package 3
+title: FirstCRM - Lead Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution2481
 ---
 
 ### Description
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+Integrate and migrate all your offline leads and leads from Digital Marketing campaigns into one system. 
+Track the lead status and have clear overview of the performance of individual campaigns and sales personnel via various reports available.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_FirstCRM_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +28,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg <br>
+Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Sowing Machine
+title: Culture Tank System with Monitoring and Control System
 permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 
 ### Description
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+Cultivation system with monitoring and control system
 
 ### Details of Solution
 

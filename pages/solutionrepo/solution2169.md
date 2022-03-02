@@ -1,11 +1,11 @@
 ---
-title: LED grow lights
+title: Temperature montoring/ labelling device
 permalink: /productivity-solutions-grant/solutionrepo/solution2169
 ---
 
 ### Description
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ### Details of Solution
 

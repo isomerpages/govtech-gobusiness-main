@@ -1,15 +1,15 @@
 ---
-title: SAP2000 Ultimate Suite - Package 2 with Training (Perpetual)
+title: IT Infinity Sage 300  - Package A4 (Advanced Edition - 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2485
 ---
 
 ### Description
 
-The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and design tool for engineers working on all forms of structures including transportation, industrial, public works, sports, offshore and other facilities.  SAP2000 includes a complete set of finite elements like Frame, Shell, Solid, Cable and Tendons.  SAP2000 can perform Linear and Non-Linear analysis, Static and Dynamic analysis in both time and frequency domain.  There is no structure too complex for SAP2000.
+Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether businesses are growing locally or expanding globally, Sage 300 is a solution for every stage that's flexible and scalable to suit your business needs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@it8.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

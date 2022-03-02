@@ -1,15 +1,15 @@
 ---
-title: IT Infinity Sage 300  - Package A2 (Advanced Edition - 5 Users)
+title: XERO CLOUD APPLICATION - Xero Comprehensive Package B (Inclusive of set-up)
 permalink: /productivity-solutions-grant/solutionrepo/solution2488
 ---
 
 ### Description
 
-Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether businesses are growing locally or expanding globally, Sage 300 is a solution for every stage that's flexible and scalable to suit your business needs.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@it8.com.sg <br>
+Web URL: WWW.SMARTCURSORS.COM <br>Contact Hotline: 63365500 <br>Contact Email: CONTACT@SMARTCURSORS.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

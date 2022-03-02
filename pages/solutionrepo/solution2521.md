@@ -1,15 +1,15 @@
 ---
-title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 50xVPN Licences
+title: DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo
 permalink: /productivity-solutions-grant/solutionrepo/solution2521
 ---
 
 ### Description
 
-Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
+OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. [The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
+Web URL: https://www.oom.com.sg/ <br>Contact Hotline: 63910930 <br>Contact Email: support@oom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

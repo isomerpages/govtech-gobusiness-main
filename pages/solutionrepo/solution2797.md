@@ -1,5 +1,5 @@
 ---
-title: 3. Digital Workplace Business Process and Workflow Automation Design, Deploy and Manage
+title: 2. Higher Nitec in Security System Integration
 permalink: /productivity-solutions-grant/solutionrepo/solution2797
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Workplace-Business-Process-Workflow-Automation-Design-Deploy-Manage-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Higher-Nitec-Security-System-Integration-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

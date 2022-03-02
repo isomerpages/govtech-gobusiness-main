@@ -1,15 +1,15 @@
 ---
-title: KNOW Version 5 - Ultimate Package (up to 300 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution2087
+title: 2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework
+permalink: /productivity-solutions-grant/solutionrepo/solution2745
 ---
 
 ### Description
 
-Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

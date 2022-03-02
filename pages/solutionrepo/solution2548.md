@@ -1,16 +1,15 @@
 ---
-title: MIBC Ecommerce - MIBC E-Commerce (Optimised E-commerce solution)
+title: Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i
 permalink: /productivity-solutions-grant/solutionrepo/solution2548
 ---
 
 ### Description
 
-MIBC E-commerce is a powerful cross border platform that integrates with multiple channels like Lazada and Shoppe in Southeast Asia. MIBC helps transform e-store with various integration and simplify complex operations into a seamless experience platform that enables e-store to execute action plans entirely within one repository.
-Business owners save time to explore countless subscription-based Saas tools by learning of just 1 solution.
+Network Box is a Managed Security Service Provider, with a narrow scope. The focus is on Perimeter Protection, A cloud based SIEM+ Platform and Dark Web Scanning.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MIBC_20210224_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://mibc.sg/web-development/ <br>Contact Hotline: 63535152 <br>Contact Email: support@mibc.sg <br>
+Web URL: www.network-box.sg <br>Contact Hotline: 63395900 <br>Contact Email: enquiry@network-box.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

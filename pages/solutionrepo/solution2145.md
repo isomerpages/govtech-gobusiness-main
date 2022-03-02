@@ -1,11 +1,11 @@
 ---
-title: Humidifier Equipment
+title: Multi-tier Cultivation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ### Details of Solution
 

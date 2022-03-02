@@ -1,6 +1,6 @@
 ---
 title: Inoculation Cabinet (Laminar flow cabinet)
-permalink: /productivity-solutions-grant/solutionrepo/solution2146
+permalink: /productivity-solutions-grant/solutionrepo/solution2141
 ---
 
 ### Description

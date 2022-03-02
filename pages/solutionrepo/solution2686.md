@@ -1,15 +1,15 @@
 ---
-title: ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)
+title: Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 125/30
 permalink: /productivity-solutions-grant/solutionrepo/solution2686
 ---
 
 ### Description
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

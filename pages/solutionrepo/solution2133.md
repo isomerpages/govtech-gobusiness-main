@@ -1,11 +1,11 @@
 ---
-title: Dehusking Machine/ Shaker
+title: Farm Washing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
 ### Description
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ### Details of Solution
 

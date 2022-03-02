@@ -1,15 +1,15 @@
 ---
-title: Simplify Version 1 - Simplify - Business (Unlimited Users)
+title: Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2
 permalink: /productivity-solutions-grant/solutionrepo/solution2669
 ---
 
 ### Description
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobile based and hence, you don't have to install or download traditional software on your laptops or worry about operating-system compatibility. Your data are backs up automatically and meet the highest online security standards for data storage.  It allows you to access from any Internet-connected computer and you can specify permission levels to control what type of data your users can see or modify.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Subscription or Leasing
 
 ### Support Level
-Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: simplify.asia <br>Contact Hotline: 67344430 <br>Contact Email: hello@noid.com.sg <br>
+Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

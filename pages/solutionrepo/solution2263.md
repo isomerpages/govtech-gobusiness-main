@@ -1,15 +1,15 @@
 ---
-title: AdeptForms - Document Management Solution Version 1 - Package C (Up to 10 users - With OCR)
+title: Ecommflow Version 2.0 - Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution2263
 ---
 
 ### Description
 
-Document management is a module to help the users digitize and manage their digital forms or documents via AdeptForms web or mobile application.
+Spend more time on what matters. Ecommflow takes care of the rest, with a suite of powerful online selling features for every type of industry. Secure payments, configurable shipping options, subscriptions, and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact Email: contact@adeptforms.com <br>
+Web URL: https://calvinseng.com <br>Contact Hotline: +6592348807 <br>Contact Email: hello@calvinseng.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

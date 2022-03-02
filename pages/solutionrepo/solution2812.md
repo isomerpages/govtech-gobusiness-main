@@ -1,5 +1,5 @@
 ---
-title: 3. Manage Budgeting and Forecasting Processes for the Business Unit
+title: 2. Knowledge Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2812
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Budgeting-Forecasting-Processes-Business-Unit-5' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Knowledge-Management-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

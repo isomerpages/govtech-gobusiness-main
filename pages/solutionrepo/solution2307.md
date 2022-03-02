@@ -1,15 +1,15 @@
 ---
-title: Athena E-store Solution-Athena E Store Solution
+title: Fooyo Mini Shop Version 2.0-Premium Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2307
 ---
 
 ### Description
 
-Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
+Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps merchants set up digital ordering capability efficiently. It empowers F&B businesses to do QR-based food ordering for dine-in, takeaway and delivery. The solution supports both the web app and the WeChat mini-program, together with various payment methods such as PayNow, Credit Cards, and WeChat Pay.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://cleverly.sg/psg-e-commerce-solution/ <br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
+Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

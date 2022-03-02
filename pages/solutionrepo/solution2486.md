@@ -1,16 +1,15 @@
 ---
-title: FirstCRM - Lead Management System
+title: IT Infinity Sage 300  - Package B1 (Premium Edition - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2486
 ---
 
 ### Description
 
-Integrate and migrate all your offline leads and leads from Digital Marketing campaigns into one system. 
-Track the lead status and have clear overview of the performance of individual campaigns and sales personnel via various reports available.
+Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether businesses are growing locally or expanding globally, Sage 300 is a solution for every stage that's flexible and scalable to suit your business needs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_FirstCRM_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
+Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@it8.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

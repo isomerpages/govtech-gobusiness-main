@@ -1,15 +1,16 @@
 ---
-title: ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 50 Employees
+title: MIBC Ecommerce - MIBC E-Commerce (Optimised E-commerce solution)
 permalink: /productivity-solutions-grant/solutionrepo/solution2543
 ---
 
 ### Description
 
-Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs can entrust their payroll needs to our dedicated accounts manager who would deliver on monthly payroll processing, employee data management, benefits & claims, and more. With payroll outsourcing, they can contain cost, manage employer-related risk, reduce administrative burdens, and maintain information confidentially.
+MIBC E-commerce is a powerful cross border platform that integrates with multiple channels like Lazada and Shoppe in Southeast Asia. MIBC helps transform e-store with various integration and simplify complex operations into a seamless experience platform that enables e-store to execute action plans entirely within one repository.
+Business owners save time to explore countless subscription-based Saas tools by learning of just 1 solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MIBC_20210224_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br>Contact Hotline: 62225224 <br>Contact Email: service@aligngroup.asia <br>
+Web URL: https://mibc.sg/web-development/ <br>Contact Hotline: 63535152 <br>Contact Email: support@mibc.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

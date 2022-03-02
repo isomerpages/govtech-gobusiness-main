@@ -1,11 +1,11 @@
 ---
-title: Water Treatment System for Water Recirculation or Discharge
+title: HVAC system
 permalink: /productivity-solutions-grant/solutionrepo/solution2163
 ---
 
 ### Description
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ### Details of Solution
 

@@ -1,15 +1,16 @@
 ---
-title: eCommerce Masterplan Version 1.0 - Basic
+title: Quickbooks online solutions - AB Simple Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution2093
 ---
 
 ### Description
 
-Our Ecommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can allow their customers to shop via online 24/7 to generate higher sales revenue. Integrated with 3rd party marketplaces, allowing their products & services to be exposed to a larger group of audience both locally and globally. With our marketing & engagement tools, higher customer retention rates are increased.
+QuickBooks Online (QBOL) is a small business accounting software program businesses use to manage income and expenses and keep track of the financial health of their business. You can use it to invoice customers, pay bills, generate reports, and prepare for taxes. 
+The QBOL is IRAS Approved Online Accounting Software solutions
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
+Web URL: https://www.avenbill.com.sg/accounting-bookkeeping/ <br>Contact Hotline: 62353309 <br>Contact Email: admin@avenbill.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

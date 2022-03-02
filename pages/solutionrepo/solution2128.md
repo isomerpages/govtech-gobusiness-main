@@ -1,11 +1,11 @@
 ---
-title: Culture Tank System with Monitoring and Control System
-permalink: /productivity-solutions-grant/solutionrepo/solution2132
+title: Dehusking Machine/ Shaker
+permalink: /productivity-solutions-grant/solutionrepo/solution2128
 ---
 
 ### Description
 
-Cultivation system with monitoring and control system
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ### Details of Solution
 
