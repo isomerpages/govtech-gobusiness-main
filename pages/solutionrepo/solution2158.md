@@ -1,11 +1,11 @@
 ---
-title: Substrate Mixing and Packing Machine
+title: Water Treatment System for Water Recirculation or Discharge
 permalink: /productivity-solutions-grant/solutionrepo/solution2158
 ---
 
 ### Description
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ### Details of Solution
 

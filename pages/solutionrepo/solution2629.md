@@ -1,15 +1,15 @@
 ---
-title: RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 20
+title: A2000ERP SOLUTION Version 12.X - A2000ERP E-BUSINESSS System for 5 Users with Marketplace Integration (Cloud Based-1 Yr SAAS)
 permalink: /productivity-solutions-grant/solutionrepo/solution2629
 ---
 
 ### Description
 
-CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
+A2000ERP is a business management tool, integrated with components necessary for fast growing SMEs. With its real-time engine, all transactions will turn into critical information that supports better decisions. A2000ERP is developed in Singapore designed for SMEs with high level of security and a robust database. It is easy to implement, fast to go live, cost effective and bring highly scalable, high-end functions and reporting capabilities for SMEs
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>
+Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

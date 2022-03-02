@@ -1,11 +1,11 @@
 ---
-title: Pasteurisation Equipment/ Plant
+title: Sterilizer Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
 ### Description
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ### Details of Solution
 

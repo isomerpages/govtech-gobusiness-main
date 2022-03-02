@@ -1,11 +1,11 @@
 ---
-title: Recirculating Aquaculture System
+title: Vacuum Cooler Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
 ### Description
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ### Details of Solution
 

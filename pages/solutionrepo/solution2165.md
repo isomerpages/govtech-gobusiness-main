@@ -1,11 +1,11 @@
 ---
-title: Climate & Environment Monitoring Control Equipment/ System
+title: Rainwater harvesting system and storage tank
 permalink: /productivity-solutions-grant/solutionrepo/solution2165
 ---
 
 ### Description
 
-Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ### Details of Solution
 

@@ -1,11 +1,11 @@
 ---
-title: Farm Produce Washing Machine
+title: Climate & Environment Monitoring Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2160
 ---
 
 ### Description
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ### Details of Solution
 

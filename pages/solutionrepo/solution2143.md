@@ -1,11 +1,11 @@
 ---
-title: Feed Processing Machine
+title: Manure Treatment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
 ### Description
 
-A machine to mix and chop up the materials for animal feed. 
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ### Details of Solution
 

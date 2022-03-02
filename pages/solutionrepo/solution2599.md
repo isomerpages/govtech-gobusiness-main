@@ -1,16 +1,15 @@
 ---
-title: Fleet Safety Management System Version 7 - 14 vehicles
+title: Taidii SMART IT Solution for Preschool (PMS + E-form) - Advance
 permalink: /productivity-solutions-grant/solutionrepo/solution2599
 ---
 
 ### Description
 
-SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
-ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
+Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas. The solution covers most of the operational perspectives of the school such as attendance taking, parent-school communication, E-enrollment, E-form and finance. The product will help the schools to reduce 70% of administrative time and the overall time taken for parent-school communication can be reduced about 50%.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-Web URL: www.smartcomm.biz <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
+Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

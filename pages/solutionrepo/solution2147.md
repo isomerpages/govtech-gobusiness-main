@@ -1,11 +1,11 @@
 ---
-title: Live Pump
+title: Pasteurisation Equipment/ Plant
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
 ### Description
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ### Details of Solution
 

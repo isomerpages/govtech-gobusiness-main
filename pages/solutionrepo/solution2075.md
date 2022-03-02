@@ -1,15 +1,15 @@
 ---
-title: Automated Labelling Machine 
+title: Accounts101 - Xero Cloud Accounting Software - Package A (Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
 ### Description
 
-The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+Xero offers a cloud-based accounting software platform for small and medium-sized businesses. Its key features include automatic bank feeds, invoicing, accounts payable, expense claims, fixed asset depreciation, purchase orders, bank reconciliations, and standard business and management reporting. Xero has more than 200 secure connections with banks and financial service partners around the world.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,18 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimum 1 labelling position 
-- Auto self-adhesive labelling function 
-- Parameter setting for different label sizes
-- Adjustable production speed minimum 1-30 Metre /min
-- Touchscreen display (optional)
-- Explosion proof (optional) 
-- Installation/simple training costs can be supported 
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Contact Hotline: 91782021<br>Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

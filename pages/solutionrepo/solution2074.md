@@ -1,15 +1,15 @@
 ---
-title: CSG - Autodesk BIM Collaborate Pro - 25 Users Pack
+title: Battery-operated Torque Wrench
 permalink: /productivity-solutions-grant/solutionrepo/solution2074
 ---
 
 ### Description
 
-Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
+Battery-operated torque wrench or torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates the need of tedious manual torqing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, a single worker will be able to carry out torquing independently and in a shorter amount of time. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
-Up to 70% (80% from 1 April 2020 to 31 March 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Produce at least 1,000 N.m torquing force 
+- Battery pack and charger can be supported
+- Maintenance costs not supported
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
-Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

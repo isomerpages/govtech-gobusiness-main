@@ -1,25 +1,15 @@
 ---
-title: BIPO Human Resource Management System - BIPO LITE 100
+title: WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200
 permalink: /productivity-solutions-grant/solutionrepo/solution2371
 ---
 
 ### Description
 
-Global HR and Payroll Solutions
- 
-Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. Globally, we support over 1,600 clients across 87 countries and regions with: 
-
-(a) Employee master data management 
-(b) Time and attendance 
-(c) Payroll management
-(d) Expense claims and overtime 
-(e) Performance and training management
-
-BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and practices built in.
+WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -44,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
+Web URL: https://whyze.com.sg/escheduling/ <br>Contact Hotline: 68380161 <br>Contact Email: enquiry@whyze.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

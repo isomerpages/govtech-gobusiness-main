@@ -1,11 +1,11 @@
 ---
-title: Pest/ Disease Monitoring and Control Equipment/ System
+title: LED grow lights
 permalink: /productivity-solutions-grant/solutionrepo/solution2164
 ---
 
 ### Description
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ### Details of Solution
 

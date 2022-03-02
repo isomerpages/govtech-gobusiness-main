@@ -1,11 +1,11 @@
 ---
-title: Robot Cleaner 
+title: Farm Produce Washing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
 ### Description
 
-A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ### Details of Solution
 

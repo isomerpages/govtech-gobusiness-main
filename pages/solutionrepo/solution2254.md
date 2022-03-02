@@ -1,15 +1,15 @@
 ---
-title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package C with E-Invoicing & Training(1 User)
+title: SYNERGIX E1 Version TH6 - Package B  HRMS Standard with Staff Appraisal and Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2254
 ---
 
 ### Description
 
-ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
+Company Name:Synergix Technologies Pte Ltd <br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

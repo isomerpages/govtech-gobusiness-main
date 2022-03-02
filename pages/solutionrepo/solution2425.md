@@ -1,15 +1,15 @@
 ---
-title: Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - for Micro Business
+title: PORTNET - Portnet Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution2425
 ---
 
 ### Description
 
-Acc Pro (Singapore), a Xero Certified Partner is proud to offer Xero accounting solutions as part of our ever-growing cloud productivity suite. We are a team of qualified Accredited Digital & Chartered Accountants equipped with the necessary skillsets to make your business easier & better. Our clients can focus on building their business while leaving the hassle of back-end business processes such as accounting to us.
+PORTNET is the first nation-wide business-to-business (B2B) port community solution that empowers the shipping community to easily manage the complexity of cargo operations and the entire shipping process.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Portnet_20200827_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+Web URL: https://www.portnet.com/WWWPublic/products.html <br>Contact Hotline: 63211173 <br>Contact Email: csc@portnet.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

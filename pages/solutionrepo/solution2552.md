@@ -1,15 +1,16 @@
 ---
-title: Network Box Next Generation Managed Security Version 5.5 - Package IV - S-80i
+title: U Ventures XERO - Book Keeping Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2552
 ---
 
 ### Description
 
-Network Box is a Managed Security Service Provider, with a narrow scope. The focus is on Perimeter Protection, A cloud based SIEM+ Platform and Dark Web Scanning.
+XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
+is doing at any given time.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.network-box.sg <br>Contact Hotline: 63395900 <br>Contact Email: enquiry@network-box.sg <br>
+Web URL: www.uventures.com.sg <br>Contact Hotline: 67358135 <br>Contact Email: info@uventures.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Farm Processing Machine
-permalink: /productivity-solutions-grant/solutionrepo/solution2136
+title: Humidifier Equipment
+permalink: /productivity-solutions-grant/solutionrepo/solution2140
 ---
 
 ### Description
 
-Integrated processing system to process produce into value-added products
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ### Details of Solution
 

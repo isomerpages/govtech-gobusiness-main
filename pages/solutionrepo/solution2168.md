@@ -1,11 +1,11 @@
 ---
-title: HVAC system
+title: Underwater Camera 
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
 ### Description
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ### Details of Solution
 

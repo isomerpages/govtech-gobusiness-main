@@ -1,16 +1,16 @@
 ---
-title: Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack
+title: Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2695
 ---
 
 ### Description
 
-Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
-Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
+A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -32,9 +32,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.gurusofttech.com/WMS <br>Contact Hotline: 62708083 <br>Contact Email: sales@gurusoft.com.sg <br>
+Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

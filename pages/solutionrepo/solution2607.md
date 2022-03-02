@@ -1,15 +1,15 @@
 ---
-title: Firewalla Gold Package - Package A - 1 Site
+title: MMS - Xero Accounting Solution - A - Xero subscription only
 permalink: /productivity-solutions-grant/solutionrepo/solution2607
 ---
 
 ### Description
 
-Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
+At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: Cybersecurity Products and Services <br>Contact Hotline: 97520811 <br>Contact Email: info@anzenglobal.com <br>
+Web URL: https://www.xero.com/sg/?escape=true <br>Contact Hotline: 63093800 <br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

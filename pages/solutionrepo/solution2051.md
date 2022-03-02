@@ -1,16 +1,16 @@
 ---
-title: DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3-DIMMPS
+title: Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution2051
 ---
 
 ### Description
 
-DIMMPS is a marketing software platform based on the WeChat mobile app.
-The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
+Adventus Managed EndPoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic EndPoint Protection by providing managed service on top of the solution.
+With this all-rounded EndPoint Protection, threats are disrupted, contained, and neutralized. As a result, customers can rest assured that their servers and EndPoints are constantly being monitored by Adventus while they focus on their business needs and daily business operations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>
+Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

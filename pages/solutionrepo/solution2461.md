@@ -1,15 +1,17 @@
 ---
-title: Xero Cloud Accounting Software - Xero Deluxe Premium Subscription with Set up
+title: DM Corsiva Lab Digital Marketing Packages - Search Engine and Social Media Marketing & Photography/Videography [3 Months Package]
 permalink: /productivity-solutions-grant/solutionrepo/solution2461
 ---
 
 ### Description
 
-The Xero dashboard presents users with a clear and concise overview of their financial situation. It provides small business owners with a greater understanding of their cashflow by highlighting bank balances, outstanding invoices, upcoming bills and expense claims in a visually appealing way.
+At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
+
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_456.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: WWW.ASSEMBLYWORK.CO <br>Contact Hotline: 90883183 <br>Contact Email: shining@assemblyworks.co <br>
+Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: eBIS Version V1.0-eBIS (Basic Package -1 Project)
+title: Really Platform for PMs and FMs Version 2.4-Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution2297
 ---
 
 ### Description
 
-It's a powerful Mobile Application designed for Building and Construction industry. The Mobile Apps is built to replace pen and paper method of site inspections, site recording, follow-up, issues tracking, and reporting including e-Permit to Work (e-PTW) that makes it easy for everyone throughout the process of construction, hence ultimately transform the industry towards adopting Digital Technology, thereby skyrocket team's productivity.
+Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ Up to NA% for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ngt.com.sg <br>Contact Hotline: 68469334 <br>Contact Email: info@ngt.com.sg <br>
+Web URL: https://www.really.sg/project-management-features/ <br>Contact Hotline: 69507563 <br>Contact Email: info@really.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

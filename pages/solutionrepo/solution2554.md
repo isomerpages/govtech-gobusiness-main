@@ -1,15 +1,15 @@
 ---
-title: Qanvast Leads Management System - Package A - 12 months
+title: AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)
 permalink: /productivity-solutions-grant/solutionrepo/solution2554
 ---
 
 ### Description
 
-The Qanvast Leads Management System is a software platform that manages leads for renovation interior designers (ID companies) in Singapore. The platform consolidates all the customer leads for each ID company, and tracks all lead follow-ups. Using individual login information, each ID company can access the platform for information on their leads, which includes the potential customers' contact details, renovation needs, budget, and other details.
+AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.qanvast.com <br>Contact Hotline: 65898354 <br>Contact Email: heretohelp@qanvast.com <br>
+Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact Email: contact@adeptforms.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,18 @@
 ---
-title: A2000ERP SOLUTION Version 12.X - A2000ERP E-BUSINESSS System for 5 Users with Marketplace Integration (Cloud Based-1 Yr SAAS)
+title: aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501
 permalink: /productivity-solutions-grant/solutionrepo/solution2634
 ---
 
 ### Description
 
-A2000ERP is a business management tool, integrated with components necessary for fast growing SMEs. With its real-time engine, all transactions will turn into critical information that supports better decisions. A2000ERP is developed in Singapore designed for SMEs with high level of security and a robust database. It is easy to implement, fast to go live, cost effective and bring highly scalable, high-end functions and reporting capabilities for SMEs
+NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
+aiCARE Shield Managed Security comes with 8x5 Hotline Support.
+Support Day : Monday - Friday
+Support Time : 9am-6pm
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
+Web URL: WWW.NTC.COM.SG <br>Contact Hotline: 97805234 <br>Contact Email: keith@ntc.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

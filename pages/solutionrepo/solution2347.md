@@ -1,15 +1,15 @@
 ---
-title: ITAPS -iTaps HRMS Version 1.0 - Package 2 (45 employees)
+title: Simplr Warehouse Management Version 6 - Cloud Model ( 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2347
 ---
 
 ### Description
 
-iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
+The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.mindmaster.com.sg <br>Contact Hotline: 62505623 <br>Contact Email: info@mindmastersg.com <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

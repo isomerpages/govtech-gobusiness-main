@@ -1,15 +1,15 @@
 ---
-title: Enhanzcom - FITPRISE Sales & Inventory System - (5 users)
+title: MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2611
 ---
 
 ### Description
 
-FITPRISE Sales & Inventory System is a flexible business system platform for Sales and Stock Inventory operations. System provides tracking of sales leads through to quotation creation and/or management of the issuance, receipt and movement of stock inventory items. The solution provides the flexibility to create customized reports, fields, logic to meet the SMEs operations workflow. This helps with user system acceptance as system processes are more familiar to their daily operations.
+At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom_Inventory_20210029_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.enhanzcom.com <br>Contact Hotline: 62761128 <br>Contact Email: enquiries@enhanzcom.com <br>
+Web URL: https://www.xero.com/sg/?escape=true <br>Contact Hotline: 63093800 <br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

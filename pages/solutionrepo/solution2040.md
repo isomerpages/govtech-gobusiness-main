@@ -1,19 +1,15 @@
 ---
-title: Mobile Computer (Warehouse application)
+title: NetQ Management System - NetQ Management System(include SMS notification and Face Recognition Thermometer)
 permalink: /productivity-solutions-grant/solutionrepo/solution2040
 ---
 
 ### Description
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
-
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
-
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,20 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Installed with software for inventory data input.
-Withstand rough handling, meet min IP54 standards.
-Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
-Battery with min 3 hrs standby.
-Wireless LAN/Bluetooth/cellular connectivity.
-Support the common operating system e.g. Android, Windows.
-Maintenance cost is not supported.
-
-
-Additional criteria: >30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact Email: sales@arrowlogic.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

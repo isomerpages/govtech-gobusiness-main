@@ -1,15 +1,15 @@
 ---
-title: QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package
+title: HRSS & Payroll Processing with JustLogin - Package (16 - 25 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution2238
 ---
 
 ### Description
 
-Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accounting solution to help your business with accurate accounting, reconciliation and invoice management. Access your accounts in real-time, anytime and anywhere with our market-leading professional suite of solutions.
+Match Resources Pte Ltd is a full-service Human Resources consulting firm that uses an innovative SaaS HRSS ecosystem. The firm combines HR management expertise and cutting-edge cloud software to support local SMEs in digitizing and automating their crucial HR processes. The SaaS modules include Employment Information System, Leave Management, Expense Claims, Time Attendance, and Payroll Processing, all of which are conveniently accessible via a mobile application.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: matthew@tischglobal.com <br>
+Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>Contact Hotline: 6653 1198<br>Contact Email: jobs@matchresources.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automated Mixer/ Compacter for Growing Media
+title: Automatic Seed Plug Transplanter
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 
 ### Description
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+A machine that completes transplantation.
 
 ### Details of Solution
 

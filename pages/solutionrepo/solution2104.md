@@ -1,15 +1,15 @@
 ---
-title: Xero - Bamboo Sea Intermediate Package
+title: Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (25 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2104
 ---
 
 ### Description
 
-Xero simplifies business tasks so that Managers can focus on the business.
+Sophos Intercept X stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.bamboosea.sg <br>Contact Hotline: 69325288 <br>Contact Email: admin@bamboosea.sg <br>
+Web URL: www.netpluz.asia <br>Contact Hotline: 68058998 <br>Contact Email: contact@netpluz.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Aeration System/ Oxygenation System
+title: Automated Mixer/ Compacter for Growing Media
 permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ### Description
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
 ### Details of Solution
 

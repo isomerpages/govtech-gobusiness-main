@@ -1,15 +1,17 @@
 ---
-title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 30xVPN Licences
+title: Blast Chiller
 permalink: /productivity-solutions-grant/solutionrepo/solution2519
 ---
 
 ### Description
 
-Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products. 
+
+Grant support 80% of equipment cost, up to S$30,000 grant. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -31,9 +33,17 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum Specifications
+-	Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes. 
+
+-	Minimum 5 GN
+
+-	Installation and maintenance costs not supported. 
+
+-Support is given for 1 unit per deployment location
+-The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
-Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Automated Sorter/ Grader
+title: Automatic case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+Case printing system or pack labelling system which allow the user to fully customize their label.
 
 ### Details of Solution
 

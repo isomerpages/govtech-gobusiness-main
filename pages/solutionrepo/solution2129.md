@@ -1,11 +1,11 @@
 ---
-title: Closed Containment System
+title: Ear Tagging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2129
 ---
 
 ### Description
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+A machine used to place ear tags into the ears of livestocks to provide a means of identification.
 
 ### Details of Solution
 

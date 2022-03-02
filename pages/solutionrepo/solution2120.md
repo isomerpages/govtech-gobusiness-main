@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation & Dosing System
+title: Automatic Harvester
 permalink: /productivity-solutions-grant/solutionrepo/solution2120
 ---
 
 ### Description
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ### Details of Solution
 

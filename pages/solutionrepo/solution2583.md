@@ -1,19 +1,15 @@
 ---
-title: Zoho Workplace PSG Edition - 25 users
+title: QuickBooks Online - Acloud - QBO Quick Start - Set D
 permalink: /productivity-solutions-grant/solutionrepo/solution2583
 ---
 
 ### Description
 
-Zoho Workplace by Zoho Corporation.
-
-Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
-
-Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
+QuickBooks Online is an IRAS-registered cloud accounting software which helps small business owners to access their accounting data, send invoice & record expenses anytime & anywhere when they are online.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.zoho.com <br>Contact Hotline: 67231040 <br>Contact Email: sales@zohocorp.com <br>
+Web URL: https://www.acloud-b.com/our-price--services.html <br>Contact Hotline: 97942119 <br>Contact Email: ACloud.Sales@gmail.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

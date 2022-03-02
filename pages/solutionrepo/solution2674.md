@@ -1,15 +1,15 @@
 ---
-title: Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2
+title: JustLogin HR E-Scheduling - B (Up to 25 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2674
 ---
 
 ### Description
 
-QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobile based and hence, you don't have to install or download traditional software on your laptops or worry about operating-system compatibility. Your data are backs up automatically and meet the highest online security standards for data storage.  It allows you to access from any Internet-connected computer and you can specify permission levels to control what type of data your users can see or modify.
+JustLogin is an Employee First Human Resource (HR) cloud platform that provides innovative technologies for businesses to manage their people operations. JustLogin HR E-Scheduling allows tracking of employee attendance and roster scheduling, and is seamlessly integrated with Payroll and Leave software. The package includes SafeClock, an all-in-one employee attendance tracker, contactless temperature scanner, automated SafeEntry, visitor management and door access solution device.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br>Contact Hotline: 98894289 <br>Contact Email: angels@angelsbusiness.sg <br>
+Web URL: https://justlogin.com <br>Contact Hotline: 69099217 <br>Contact Email: info@justlogin.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

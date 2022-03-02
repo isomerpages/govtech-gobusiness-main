@@ -1,11 +1,11 @@
 ---
-title: Ear Tagging Machine
+title: Enhanced disinfection system
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
 ### Description
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ### Details of Solution
 

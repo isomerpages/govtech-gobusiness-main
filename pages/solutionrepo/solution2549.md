@@ -1,15 +1,15 @@
 ---
-title: Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload
+title: Qanvast Leads Management System - Package A - 12 months
 permalink: /productivity-solutions-grant/solutionrepo/solution2549
 ---
 
 ### Description
 
-Network Box is a Managed Security Service Provider, with a narrow scope. The focus is on Perimeter Protection, A cloud based SIEM+ Platform and Dark Web Scanning.
+The Qanvast Leads Management System is a software platform that manages leads for renovation interior designers (ID companies) in Singapore. The platform consolidates all the customer leads for each ID company, and tracks all lead follow-ups. Using individual login information, each ID company can access the platform for information on their leads, which includes the potential customers' contact details, renovation needs, budget, and other details.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.network-box.sg <br>Contact Hotline: 63395900 <br>Contact Email: enquiry@network-box.sg <br>
+Web URL: www.qanvast.com <br>Contact Hotline: 65898354 <br>Contact Email: heretohelp@qanvast.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
