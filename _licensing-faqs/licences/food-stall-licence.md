@@ -4,7 +4,7 @@ permalink: /licensing-faqs/food-stall-licence/
 third_nav_title: Licences
 ---
 
-### Public Entertainment Licence
+### Food Stall Licence
 
 {% include accordion.html accordions=site.data.acc030-food-stall-licence.accordion %}
 
