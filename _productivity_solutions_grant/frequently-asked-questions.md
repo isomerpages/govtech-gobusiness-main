@@ -34,3 +34,33 @@ For more information on PSG-JR, please refer to [https://www.wsg.gov.sg/producti
 ### 6. Is the Productivity Solutions Grant (PSG) taxable?
 
 PSG should be considered as revenue and is taxable for grant recipients. For more information on the tax treatment of PSG, you can contact IRAS via their online chatbox or email via myTax Mail in [myTax Portal](https://mytax.iras.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
+### 7. What solutions are eligible for enhanced support level of up to 80%?
+
+Under the Food Services & Retail Business Revitalisation Package, companies that fall under Food Services and Retail sectors can be supported for up to 80% from 1 April 2022 to 31 March 2023 for eligible pre-scoped solutions.
+
+This enhanced maximum support level applies to the following solution categories under the Food Services and Retail sectors.
+
+**Food Services**
+
+1. Digital/ Online Ordering and Payment
+
+2. Automated Reservation
+
+3. B2B Marketplace/E-Procurement System
+
+4. Queue Management
+
+5. E-Loyalty/ Customer Relationship Management
+
+6. General Food Services Equipment
+ 
+**Retail**
+
+1. Enhanced Retail Management System
+
+2. Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
+
+3. Retail Analytics
+
+4. E-Commerce - Online Shop (B2C)
