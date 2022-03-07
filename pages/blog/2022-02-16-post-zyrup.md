@@ -11,7 +11,7 @@ description: How Managing Director of ZYRUP Media Joel Lim, used GoBusiness to h
 ![zyrup media joel lim](/images/blog/content/zyrup Feature.jpg)
 ###### Joel Lim, Co-founder and Managing Director of ZYRUP Media, speaks on how GoBusiness helped him establish his business structure
 
-When Joel Lim and his two business partners first decided to convert his digital magazine venture into a full-fledged business with his two business partners, he had no idea where to begin. 
+When Joel Lim and his two business partners first decided to convert their digital magazine venture into a full-fledged business, they had no idea where to begin.
 
 “We were wondering, how do we even get started with the business? How do we start registering? How do we know what kind of things to look out for?” shares Joel. “All these things, we didn’t learn in school,” he adds. 
 
