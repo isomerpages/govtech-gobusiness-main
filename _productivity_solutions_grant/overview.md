@@ -11,6 +11,8 @@ PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy 
 
 The enhanced support level of 80% is time-limited and will lapse on 31 March 2022. The maximum support level will return to 70% from 1 April 2022.
 
+For eligible pre-scoped solutions, enhanced support level of up to 80% will be extended from 1 April 2022 to 31 March 2023 for Food Services and Retail sectors. Please refer to the [FAQs](/productivity-solutions-grant/faq/) for more details on the eligible solutions
+
 ### Who can apply?
 
 Business entities can apply for PSG if they meet the following criteria:
