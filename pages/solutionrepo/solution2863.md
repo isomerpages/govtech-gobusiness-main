@@ -1,5 +1,5 @@
 ---
-title: 2. Supply Chain Solutioning/Modelling/Planning/Strategising
+title: 1. Data-driven Customer Experience
 permalink: /productivity-solutions-grant/solutionrepo/solution2863
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Solutioning-Modelling-Planning-Strategising-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Datadriven-Customer-Experience-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

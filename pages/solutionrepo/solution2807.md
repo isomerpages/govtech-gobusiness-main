@@ -1,5 +1,5 @@
 ---
-title: 3. Manage Budgeting and Forecasting Processes for the Business Unit
+title: 1. Apply Knowledge of Accounting Related Concepts
 permalink: /productivity-solutions-grant/solutionrepo/solution2807
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Budgeting-Forecasting-Processes-Business-Unit-5' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Knowledge-AccountingRelated-Concepts-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
