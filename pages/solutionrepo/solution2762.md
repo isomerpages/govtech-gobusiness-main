@@ -1,15 +1,15 @@
 ---
-title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
+title: Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F
 permalink: /productivity-solutions-grant/solutionrepo/solution2762
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Level-4-Manage-Human-Resource-AnalyticsSynchronous-eLearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to % for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-
+Web URL: www.roycemedia.com/products.html <br>Contact Hotline: 63232139 <br>Contact Email: sales@roycemedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
