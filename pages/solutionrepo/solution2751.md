@@ -1,15 +1,15 @@
 ---
-title: ePSProfessional Version 1.7 - SME Premium
+title: 3b. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)
 permalink: /productivity-solutions-grant/solutionrepo/solution2751
 ---
 
 ### Description
 
-eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Start-Online-Business-Alibaba-Entrepreneur-Startup-Program-13-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.efusiontech.com <br>Contact Hotline: 62903086 <br>Contact Email: contact@efusiontech.com <br>
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
