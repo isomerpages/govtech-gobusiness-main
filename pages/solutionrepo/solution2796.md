@@ -1,5 +1,5 @@
 ---
-title: 1. WSQ Process Payments
+title: 1. Manpower Planning (Monitor and Review Security Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution2796
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payments-SSF-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manpower-Planning-Monitor-Review-Security-Operations-9' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

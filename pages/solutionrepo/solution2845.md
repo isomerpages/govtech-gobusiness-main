@@ -1,5 +1,5 @@
 ---
-title: 1. Production Planning & Scheduling
+title: 2. Align Human Resource Services with Business Needs (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution2845
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Production-Planning-Scheduling-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Align-Human-Resource-Services-Business-Needs-SFw-HR-1' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

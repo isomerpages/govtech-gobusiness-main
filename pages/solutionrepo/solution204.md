@@ -22,50 +22,6 @@ c) must not have:
 - Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
 
 Please refer to 'Things to Note' for additional requirements.
-<table>
-<tr>
-<th>No.</th>
-<th>Package Name</th>
-<th>Total Package Cost</th>
-<th>Total Qualifying Cost</th>
-<th>Package Details</th>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23.0 - Package A (Single User Licence full package)</td>
-<td>2750</td>
-<td>2750</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex 3_CR_wef_8May2020_Part_2.pdf' target='_blank' rel='noopener'>More Details</a></td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23.0 - Package B (Three User Licence full package </td>
-<td>3550</td>
-<td>3550</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex 3_CR_wef_8May2020_Part_2.pdf' target='_blank' rel='noopener'>More Details</a></td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)</td>
-<td>4250</td>
-<td>4250</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex 3_CR_wef_8May2020_Part_2.pdf' target='_blank' rel='noopener'>More Details</a></td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23.0 - Package D (Single User Licence product only)</td>
-<td>1850</td>
-<td>1850</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex 3_CR_wef_8May2020_Part_2.pdf' target='_blank' rel='noopener'>More Details</a></td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>ABSS Premier Version 23.0 - Package E (Three User Licence product only)</td>
-<td>2650</td>
-<td>2650</td>
-<td><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex 3_CR_wef_8May2020_Part_2.pdf' target='_blank' rel='noopener'>More Details</a></td>
-</tr>
-</table>
 
 ### Mode of Payment
 Direct Purchase
