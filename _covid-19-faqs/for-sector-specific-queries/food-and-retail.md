@@ -6,8 +6,6 @@ third_nav_title: For Sector-Specific Queries
 
 ### Food and retail 
 
-#### A.	Retail and F&B Establishments
-
 #### General
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="a" %}
@@ -27,19 +25,5 @@ third_nav_title: For Sector-Specific Queries
 #### Retail
 
 {% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="e" %}
-
-#### B. FET for F&B and Retail Establishments
-
-#### General
-
-{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="f" %}
-
-#### Collection of Test Kits
-
-{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="g" %}
-
-#### Recording of test results on Swab Registration System (SRS)
-
-{% include letter-accordion.html accordions=site.data.acc091-food-and-retail letter="h" %}
 
 [Back to Covid-19 Overview](/covid/)
