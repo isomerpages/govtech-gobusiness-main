@@ -19,7 +19,7 @@
 
         Upon return to office, you will need to commence testing and continue submitting results on a monthly basis until testing is complete.
 
-    - title: I started my weekly voluntary testing regime, but have an employee who tested positive at a GP in the first week, and was subsequently given the 'recovered' status which exempts him from Pre-Event Testing. Will he also be exempted from the Time-Limited RRT when he comes back to work?
+    - title: I started my weekly voluntary testing regime, but have an employee who tested positive at a GP in the first week, and was subsequently given the 'recovered' status which exempts him from Pre-Event Testing. Will he also be exempted from the Time-Limited 8-Weeks Testing when he comes back to work?
       content: |
         The employee may still use the test kits for weekly testing when he returns to the workplace. Companies may use the test kits for testing of onsite employees who are fully vaccinated (including those who have recovered), those certified to be medically ineligible, or unvaccinated and recovered from COVID-19 infection within 180 days. 
 
@@ -27,17 +27,9 @@
       content: |
         There can only be ONE (1) application submitted per company UEN. Applications for Round 2 of the kits distribution have also closed. Should additional kits be required after the first application, these should be purchased at your company's own costs. 
 
-    - title: Can I cancel my application after submitting? 
-      content: |
-        Applications that have already been submitted cannot be cancelled, and ART kits that have already been delivered cannot be returned. Companies are expected to commence weekly testing for their eligible employees upon receipt of the kits. 
-
 - accordion:
   letter: c
   data:
-    - title: My company has submitted the application. When will my company receive the ART kits?
-      content: |
-        Successful applicants will be informed of their delivery up to 10 working days from the time of complete application. However, for completed applications sent in after 21 Jan onwards, please expect a longer processing and delivery lead time. . For enquiries regarding delivery, you may send in an enquiry via this [form](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}.
-
     - title: How will the kits be delivered to my company?
       content: |
         To ensure that ART kits can be distributed to companies in a timely manner, we will only provide a one-time delivery to ONE (1) location per company UEN. If there are multiple offices/outlets registered under the same company UEN, your company should make your own arrangements to re-distribute the kits to other locations at your own cost.
@@ -46,11 +38,11 @@
 
     - title: I have not received the kits even after 10 working days. What can I do?
       content: |
-        For questions or issues regarding delivery, you may send in an enquiry via this [link](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}. We will contact you as soon as possible to resolve your enquiry.
-
-    - title: I was contacted by the delivery vendor on the date of delivery, but I will not be around to receive the kits. Is there a way for me to reschedule the date of delivery? 
-      content: |
-        For questions or issues regarding delivery, you may send in an enquiry via this [link](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}. We will contact you as soon as possible to resolve your enquiry.
+        All applications for the Time-Limited 8-Weeks Testing should have been processed, with delivery orders fulfilled by now, except for rejected orders or consistent failed deliveries. If you have further questions or issues, you may contact:   
+        
+        * Health Promotion Board (HPB) at [testingops@hpb.gov.sg](mailto:testingops@hpb.gov.sg), or [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm; Saturday, 8am to 1pm; closed on Public Holidays). 
+        
+        * Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"} or [6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
 
     - title: Can my company exchange the ART kits that we received for another brand? 
       content: |
@@ -63,7 +55,7 @@
       content: |
         Companies are required to declare the total number of employees tested, along with the number of Ag+ results recorded, in the ART results declaration form at the end of each month's testing cycle (i.e. twice across the two-month period) to the Government. The results declaration may be submitted via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}. 
 
-        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain records of the test results till 30 Apr 2022, and to produce these as proof if audited by the government.
+        The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain records of the test results till end-June 2022, and to produce these as proof if audited by the government.
 
     - title: The MTF announced that from 18 Feb onwards, most sectors on mandatory Rostered Routine Testing (RRT) will not need to continue testing their employees. Does this also mean that my company can stop weekly testing from 18 Feb too?  
       content: |
@@ -71,12 +63,13 @@
 
     - title: What processes should my company have in place to ensure that we are compliant?
       content: |
-        Companies should have processes in place to ensure that the weekly tests are conducted properly, test results are recorded, and appropriate follow-up actions are adhered to. 
+        Companies should have applied for test kits only for employees who meet the eligibility criteria (i.e. fully vaccinated, work onsite, and not under mandatory Rostered Routine Testing (RRT) regime), and have processes in place to ensure that the weekly tests are conducted properly, test results are recorded, and appropriate follow-up actions are adhered to. 
 
         If audited by the government, companies should be able to produce proof (e.g. email records, circulars, excel documents etc.) that such processes have been put in place and implemented. 
 
         |-|-|
         | Checklist of Processes | Suggested Practices|
+        | Applications were made only for employees who are eligible for the Time-Limited 8-weeks testing | * Have clear records of the list of staff on FET RRT and staff on time-limited 8-weeks testing. |
         | Tests are properly conducted every week | * Provide employees with links to the self-test instructions and self-help materials.<br>* Request that employees submit photos of their used test kits displaying the results.<br>* Remind employees to conduct their weekly testing on a timely basis e.g. via email, messaging etc. |
         | Test results are recorded and submitted | * Provide a mode for employees to report their results e.g. via email, excel, HR portal etc.<br>* Verify that their employees have submitted their test results. |
         | Appropriate actions are taken if tested ART positive | * Share with employees on follow ups if tested ART positive. (refer to the subsequent FAQs below on what to do when tested ART positive) <br>Ensure that employees have adhered to the required follow-up actions. |
@@ -87,7 +80,7 @@
 
     - title: My company participated in the first round of kits distribution in Sep/Oct, but commenced weekly testing late as we had pivoted to work-from-home arrangements. We wish to submit the test results for the kits received in Sep/Oct 2021, but am unable to access the results declaration link for the first round of kits distribution. What should I do? 
       content: |
-        Companies who wish to submit the test results under Round 1 of Time-Limited RRT (Sep/Oct 2021) may do so via the results link provided for Round 2 of Time-Limited RRT ([https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}), and indicate “Submission for Round 1” under the Remarks column.
+        Companies who wish to submit the test results under Round 1 of Time-Limited RRT (Sep/Oct 2021) may do so via the results link provided for Round 2 of Time-Limited RRT ([https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}), and indicate that your submission is meant for Round 1 via the option provided within the form.
 
     - title: My company participated in the first round of kits distribution in Sep/Oct, but commenced weekly testing late as we had pivoted to work-from-home arrangements. How long do we need to retain proof of processes and test results for?
       content: |
@@ -118,7 +111,7 @@
       content: |
         Negative: Even if you test negative, please stay vigilant. Do continue to observe safe distancing measures and practice good personal hygiene such as regular handwashing and wearing a mask when leaving your home. Continue to monitor your health and test yourself where necessary.
 
-        Positive: If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat antigen rapid tests at least one day apart. You can stop self-isolation and resume daily activities when it tests negative. If you feel unwell e.g. fever, cough, sore throat at any point in time, please visit a primary care doctor for further assessment. 
+        Positive:  If you are well and do not have symptoms, please isolate yourself and re-test yourself with further ART tests after 72 hours from the initial positive test. You may resume normal activities if you test negative. If it is positive, continue to self-isolate and repeat the ART test at least one day apart. You can stop self-isolation and resume daily activities when it tests negative, or at the end of Day 7 (for vaccinated individuals) or Day 14 (for non-fully vaccinated individuals) without a need to test, whichever is earlier. If you feel unwell e.g. fever, cough, sore throat at any point in time, please visit a primary care doctor for further assessment. 
 
         Invalid: An invalid test may mean that the test was not performed correctly, or the test kit was faulty. You should re-read the instructions on how to perform the test and repeat an ART with a new test kit until you get a valid ART result. You may also consider undergoing a self-paid ART which is supervised or done by a healthcare provider, such as at Quick Test Centres or medical clinics. 
 
