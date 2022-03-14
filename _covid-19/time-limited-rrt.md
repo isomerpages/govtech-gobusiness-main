@@ -24,7 +24,7 @@ The Government shall have the right to claw back the cost of any test kits shoul
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 17 Feb 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 14 Mar 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
 
 ### More information about ART<sup>*</sup>
 Learn more about how to perform a self-test using ART:
@@ -36,5 +36,5 @@ Learn more about how to perform a self-test using ART:
 <sup>*</sup> Only SD Biosensor kits are distributed under Round 2 of Time-Limited RRT.
 
 For further queries about Time-Limited 8-Weeks Testing, please contact:
-- Health Promotion Board (HPB) at [testingops@hpb.gov.sg](mailto:testingops@hpb.gov.sg){:target="_blank"}, or [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm; Saturday, 8am to 1pm; closed on Public Holidays). For enquiries regarding delivery, you may send in an enquiry via this [form](https://go.gov.sg/tlrrt-round-2-delivery-enquiry){:target="_blank"}{:rel="noopener"}.
+- Health Promotion Board (HPB) at [testingops@hpb.gov.sg](mailto:testingops@hpb.gov.sg){:target="_blank"}, or [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm; Saturday, 8am to 1pm; closed on Public Holidays). 
 - Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"} or 6898 1800 (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
