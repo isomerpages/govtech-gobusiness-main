@@ -6,28 +6,6 @@ third_nav_title: For Sector-Specific Queries
 
 ### Process Construction & Maintenance (PCM) sector
 
-#### General
-
-{% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="a" %}
-
-#### COVID-safe worksite
-
-{% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="b" %}
-
-#### COVID-safe workforce
-
-{% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="c" %}
-
-#### COVID-safe accommodation and transport
-
-{% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="d" %}
-
-#### Staggered rest day
-
-{% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="e" %}
-
-#### Assignment of staggered rest day
-
-{% include letter-accordion.html accordions=site.data.acc092-process-construction-Maintenance letter="f" %}
+Companies in the PCM sector may refer to EDB’s [website](https://www.edb.gov.sg/en/how-we-help/supporting-you-through-covid-19/central-covid19-operations/process-sector.html){:target="_blank"}{:rel="noopener"} for a list of frequently asked questions (FAQs).
 
 [Back to Covid-19 Overview](/covid/)
