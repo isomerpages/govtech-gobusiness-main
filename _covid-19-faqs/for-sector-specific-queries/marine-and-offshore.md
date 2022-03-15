@@ -6,32 +6,6 @@ third_nav_title: For Sector-Specific Queries
 
 ### Marine & offshore
 
-#### General
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="a" %}
-
-#### Application to resume M&O works
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="b" %}
-
-#### COVID-safe worksite
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="c" %}
-
-#### COVID-safe workforce
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="d" %}
-
-#### COVID-safe accommodation and transport
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="e" %}
-
-#### Staggered rest day
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="f" %}
-
-#### Assignment of Staggered rest day
-
-{% include letter-accordion.html accordions=site.data.acc089-marine-and-offshore letter="g" %}
+Companies in the M&O sector may refer to EDB’s [website](https://www.edb.gov.sg/en/how-we-help/supporting-you-through-covid-19/central-covid19-operations/marine-offshore-sector.html){:target="_blank"}{:rel="noopener"} for a list of frequently asked questions (FAQs).
 
 [Back to Covid-19 Overview](/covid/)
