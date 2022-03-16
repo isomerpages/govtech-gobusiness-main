@@ -10,7 +10,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable due to scheduled maintenance till 5 October 2021 12pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 12 Dec 2021 from 12am to 6am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 12 Dec 2021 from 12am to 7am. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will unavailable due to scheduled maintenance on 19 March 2022 from 12am to 4am and again on 19 March 2022 from 6pm to 20 March 2am. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 19 March 2022 from 12am to 4am, and on 19 March 2022 from 6pm to 20 March 2am. We apologise for the inconvenience caused."
   
 ];
 
