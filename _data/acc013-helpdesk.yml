@@ -1,53 +1,36 @@
 accordion:
-  - title: For matters related to starting a business, licences and permits
+  - title: Matters related to starting a business, licences and permits
     content:  |
       Get the relevant contact details with our list of [government agencies](/contact-us/agencies/).
-  - title: For SME Centres
+  - title: SME Centres
     content:  |
       Make an appointment or get contact details with our list of [SME Centres](/contact-us/sme-centres/).
-  - title: For enquiries on Government Assistance
+  - title: Government Assistance
     content:  |
       **Telephone**
       <br>[+65 6898 1800](tel:+6568981800)
 
-      **Online Contact Form**
-      <br>[https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"}
+      **Email**
+      <br>[enquiry@enterprisesg.gov.sg](mailto:enquiry@enterprisesg.gov.sg)
 
       **Helpdesk Operating Hours**
       <br>Monday - Friday: 8:30am - 5:30pm
       <br>Closed on weekends and public holidays
-  - title: For enquiries on COVID-related matters for businesses
+  - title: COVID-related matters for businesses
     content:  |
       **Telephone**
       <br>[+65 6898 1800](tel:+6568981800)
 
       **Email**
-      <br>Manpower declarations: [covid_gobusiness@mti.gov.sg](mailto:covid_gobusiness@mti.gov.sg)
-
-      **Enquiry Form**
-      <br>All other Safe Management Measures: [Form](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"}
+      <br>[enquiry@enterprisesg.gov.sg](mailto:enquiry@enterprisesg.gov.sg)
 
       **Helpdesk Operating Hours**
       <br>Monday - Friday: 8:30am - 5:30pm
       <br>Closed on weekends and public holidays  
-  - title: For enquiries on GoBusiness Licensing
+  - title: GoBusiness Dashboard, e-Adviser, or Guided Journey
     content:  |
-      <img src="/images/gobusiness_licensing.png">
-
-      **Telephone**
-      <br>[+65 6774 1430](tel:+6567741430)
-
-      **Email**
-      <br>[licences-helpdesk@crimsonlogic.com.sg](mailto:licences-helpdesk@crimsonlogic.com.sg)    
-
-      **Helpdesk Operating Hours**
-      <br>Monday - Friday: 8:00am - 8:00pm
-      <br>Saturdays: 8:00am - 2:00pm
-      <br>Closed on Sundays and public holidays
-  - title: For enquiries or technical issues with GoBusiness
-    content:  |
-      <img src="/images/gobusiness_dashboard.png">
-      <br>Including questions about GoBusiness Dashboard and other general matters
+      |--|--|
+      |![GoBusiness Dashboard Thumbnail](/images/gobusiness_dashboard.png)|**For enquires or technical issues on:** <br>&#8226; GoBusiness Dashboard<br>&#8226; All e-Advisers<br>&#8226; Food Services Guided Journey|
 
       **Telephone**
       <br>[+65 6336 3373](tel:+6563363373)
@@ -59,3 +42,19 @@ accordion:
       <br>Monday - Friday: 8:00am - 6:00pm
       <br>Saturdays: 8:00am - 1:00pm
       <br>Closed on Sundays and public holidays
+  - title: GoBusiness Licensing
+    content:  |
+      |--|--|
+      |![GoBusiness Licensing Thumbnail](/images/gobusiness_licensing.png)|**For enquiries or technical issues on:** <br>&#8226; GoBusiness Licensing|
+
+      **Telephone**
+      <br>[+65 6774 1430](tel:+6567741430)
+
+      **Email**
+      <br>[licences-helpdesk@crimsonlogic.com.sg](mailto:licences-helpdesk@crimsonlogic.com.sg)    
+
+      **Helpdesk Operating Hours**
+      <br>Monday - Friday: 8:00am - 8:00pm
+      <br>Saturdays: 8:00am - 2:00pm
+      <br>Closed on Sundays and public holidays
+
