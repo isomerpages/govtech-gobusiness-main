@@ -74,5 +74,5 @@ Accepting the Digital IC can give businesses a more convenient, secure, and cont
 **Ready to accept the Digital IC at your business? Download the “Singpass Digital IC Accepted Here” wobbler [here](https://api.singpass.gov.sg/library/digital-ic/introduction){:target="_blank"}{:rel="noopener"}, and let your customers know they can present their Digital IC as proof of identity.**
 
 
-###### This article is accurate as at 10 Mar 2022
+###### This article is accurate as at 22 Mar 2022
 
