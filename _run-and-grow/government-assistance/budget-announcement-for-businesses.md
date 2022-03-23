@@ -11,7 +11,7 @@ Minister for Finance, Mr Lawrence Wong, delivered Singapore's FY2022 Budget Stat
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the Budget 2022 Business Booklet. <b>(coming soon)</b>
+- Download the [Budget 2022 Business Booklet](/images/budget2022/MTI Business Budget Booklet 2022_Final.pdf){:target="_blank"}.
 
 - Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget2022/Budget Navigator - for Businesses.pdf){:target="_blank"}.
 
