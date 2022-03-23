@@ -1,16 +1,15 @@
 ---
-title: ABSS Premier Version 23 - PremierPlus 1U+Setup+Training
-permalink: /productivity-solutions-grant/solutionrepo/solution2507
+title: DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SEM
+permalink: /productivity-solutions-grant/solutionrepo/solution2802
 ---
 
 ### Description
 
-Dandelion Consulting is a ABSS Certified Partner for 10 years and has been fully trained and certified to provide a range of services including sales, installation and training.
-ABSS Premier is a leading SME business integrated simple and easy to use accounting solution. A digital ready accounting software that helps SME to manage and process sales and purchases, track receivable, payable, inventory and GST. Simplify desktop & cloud accounting management, ePayments, eInvoices and more
+Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.dandelion.com.sg <br>Contact Hotline: 89275811 <br>Contact Email: info@dandelion.com.sg <br>
+Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678935 <br>Contact Email: ernest@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

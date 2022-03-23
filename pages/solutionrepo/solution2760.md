@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2760
 
 ### Description
 
-FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ### Details of Solution
 

@@ -1,16 +1,15 @@
 ---
-title: ABSS Premier Version 23 - PremierPlus 1U+Setup+Training
-permalink: /productivity-solutions-grant/solutionrepo/solution2507
+title: iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 10 BWCs) Package 5
+permalink: /productivity-solutions-grant/solutionrepo/solution2814
 ---
 
 ### Description
 
-Dandelion Consulting is a ABSS Certified Partner for 10 years and has been fully trained and certified to provide a range of services including sales, installation and training.
-ABSS Premier is a leading SME business integrated simple and easy to use accounting solution. A digital ready accounting software that helps SME to manage and process sales and purchases, track receivable, payable, inventory and GST. Simplify desktop & cloud accounting management, ePayments, eInvoices and more
+iREP Security is a mobile reporting, maintenance and monitoring system which use GPS and Live Images to enable your security officers to log incident or occurrence reports on sites, take attendance and protect premises with Body worn cameras.  Smart phones to carry out duties on site for the security guards and feedback to agency operation or management of the MCST immediately.  The system gives you a transparent view of works completed on site, providing quality assurance to the clients.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.dandelion.com.sg <br>Contact Hotline: 89275811 <br>Contact Email: info@dandelion.com.sg <br>
+Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
