@@ -5,10 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2507
 
 ### Description
 
-ABSS Premier is a leading SME business integrated accounting solution
-- Formerly known as MYOB that provides simple and easy to use accounting support.
-- A digital ready accounting software that help owner-operators, accountant to manage and process sales and purchases, track receivable, payable, inventory and GST.  
-- A simplify desktop & cloud accounting management, ePayments, eInvoices and more.
+Dandelion Consulting is a ABSS Certified Partner for 10 years and has been fully trained and certified to provide a range of services including sales, installation and training.
+ABSS Premier is a leading SME business integrated simple and easy to use accounting solution. A digital ready accounting software that helps SME to manage and process sales and purchases, track receivable, payable, inventory and GST. Simplify desktop & cloud accounting management, ePayments, eInvoices and more
 
 ### Details of Solution
 
