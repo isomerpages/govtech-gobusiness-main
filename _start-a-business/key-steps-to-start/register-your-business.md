@@ -24,9 +24,9 @@ For Sole Proprietorship/Partnership:
 
     ii. Use Guided Journey to continue with the next step to register your Sole Proprietorship/Partnership
 
-For all types of Business Structures:
+For all types of business structures:
 
-1. Register directly through [BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"}; or
+1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"}; or
 
 2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
