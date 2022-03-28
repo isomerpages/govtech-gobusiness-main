@@ -1,12 +1,12 @@
 ---
-title: Time Limited RRT for Workplaces
+title: Time-Limited 8-Weeks Testing for Workplaces
 permalink: /timelimitedrrt/
 ---
 ## Time-Limited 8-weeks Weekly Testing for workplaces
 
 <b>Please note that the application for Round 2 of the Time-Limited 8-Weeks Testing (Jan’21) has closed.</b> Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the Government via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}.
 
-Note: The stepdown of mandatory Rostered Routine Testing (RRT) for higher-risk workplaces (except sectors interacting with vulnerable population and essential services) as announced in the 16 Feb MTF Press Release <b>does not</b> apply to the time-limited 8-weeks weekly testing at workplaces i.e. companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
+Note: The cessation of mandatory Rostered Routine Testing (RRT) for higher-risk workplaces (except sectors interacting with vulnerable population and essential services) as announced in the 24 Mar MTF Press Release <b>does not</b> apply to the time-limited 8-weeks weekly testing at workplaces i.e. companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
 
 ### Compliance & Results Declaration
 
@@ -24,7 +24,7 @@ The Government shall have the right to claw back the cost of any test kits shoul
 
 ### Frequently Asked Questions (FAQs)
 
-Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 14 Mar 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 28 Mar 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
 
 ### More information about ART<sup>*</sup>
 Learn more about how to perform a self-test using ART:

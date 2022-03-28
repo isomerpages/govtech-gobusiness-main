@@ -9,10 +9,6 @@ permalink: /covid-19-faqs/time-limited-rrt-for-workplaces-round2
 
 {% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="a" %}
 
-#### About delivery of ART kits
-
-{% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="c" %}
-
 #### About Compliance and Results Declaration 
 
 {% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="d" %}
