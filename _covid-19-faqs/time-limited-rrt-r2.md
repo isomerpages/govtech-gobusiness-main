@@ -1,5 +1,5 @@
 ---
-title: Round 2 of Time-Limited 8-Weeks
+title: Round 2 of Time-Limited 8-Weeks Testing 
 permalink: /covid-19-faqs/time-limited-rrt-for-workplaces-round2
 ---
 
