@@ -16,7 +16,7 @@ Once the name has been approved, you can proceed with business registration.
 
 There are three ways to register your business:
 
-For Sole Proprietorship/Partnership:
+**For Sole Proprietorship/Partnership:**
 
 1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reg){:target="_blank"}{:rel="noopener"};
 
@@ -24,7 +24,7 @@ For Sole Proprietorship/Partnership:
 
     ii. Use Guided Journey to continue with the next step to register your Sole Proprietorship/Partnership
 
-For all types of business structures:
+**For all types of business structures:**
 
 1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"}; or
 

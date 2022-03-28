@@ -46,7 +46,7 @@ You can reserve your desired name for up to 120 days before registering your bus
 
 There are three ways to reserve your business name:
 
-For Sole Proprietorship/Partnership:
+**For Sole Proprietorship/Partnership:**
 
 1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reserve){:target="_blank"}{:rel="noopener"};
 
@@ -56,7 +56,7 @@ For Sole Proprietorship/Partnership:
 
     iii. Apply for business name online
 
-For all types of business structures:
+**For all types of business structures:**
 
 1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} , or
 
