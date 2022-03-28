@@ -1,5 +1,5 @@
 ---
-title: Round 2 of Time-Limited 8-Weeks Rostered Routing Testing (RRT) 
+title: Round 2 of Time-Limited 8-Weeks
 permalink: /covid-19-faqs/time-limited-rrt-for-workplaces-round2
 ---
 
