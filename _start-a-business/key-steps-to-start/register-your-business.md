@@ -18,7 +18,7 @@ There are three ways to register your business:
 
 For Sole Proprietorship/Partnership:
 
-1. Register directly through GoBusiness;
+1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reg){:target="_blank"}{:rel="noopener"};
 
     i. Log in using your Singpass
 

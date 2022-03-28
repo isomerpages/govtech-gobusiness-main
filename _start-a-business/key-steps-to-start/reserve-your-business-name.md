@@ -48,7 +48,7 @@ There are three ways to reserve your business name:
 
 For Sole Proprietorship/Partnership:
 
-1. Register directly through GoBusiness;
+1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reserve){:target="_blank"}{:rel="noopener"};
 
     i. Log in using your Singpass
 
