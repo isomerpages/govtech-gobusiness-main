@@ -6,7 +6,7 @@ permalink: /timelimitedrrt/
 
 <b>Please note that the application for Round 2 of the Time-Limited 8-Weeks Testing (Jan’21) has closed.</b> Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the Government via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}.
 
-Note: The cessation of mandatory Rostered Routine Testing (RRT) for higher-risk workplaces (except sectors interacting with vulnerable population and essential services) as announced in the 24 Mar MTF Press Release <b>does not</b> apply to the time-limited 8-weeks weekly testing at workplaces i.e. companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
+Note: The cessation of mandatory Rostered Routine Testing (RRT) for higher-risk workplaces as announced in the 24 Mar MTF Press Release <b>does not</b> apply to the time-limited 8-weeks weekly testing at workplaces i.e. companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
 
 ### Compliance & Results Declaration
 
