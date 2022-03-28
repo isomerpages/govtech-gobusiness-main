@@ -52,7 +52,7 @@ For Sole Proprietorship/Partnership:
 
     i. Log in using your Singpass
 
-    ii. Use the **e-Adviser for Starting a Business to create a Guided Journey**
+    ii. Use the e-Adviser for Starting a Business to create a Guided Journey
 
     iii. Apply for business name online
 
