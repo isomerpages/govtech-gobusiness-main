@@ -1,5 +1,5 @@
 ---
-title: Round 2 of Time-Limited 8-Weeks Rostered Routing Testing (RRT) 
+title: Round 2 of Time-Limited 8-Weeks Testing 
 permalink: /covid-19-faqs/time-limited-rrt-for-workplaces-round2
 ---
 
@@ -8,10 +8,6 @@ permalink: /covid-19-faqs/time-limited-rrt-for-workplaces-round2
 #### About the application process and Scope of Testing
 
 {% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="a" %}
-
-#### About delivery of ART kits
-
-{% include letter-accordion.html accordions=site.data.acc101-time-limited-rrt-r2 letter="c" %}
 
 #### About Compliance and Results Declaration 
 

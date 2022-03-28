@@ -16,15 +16,19 @@ Once the name has been approved, you can proceed with business registration.
 
 There are three ways to register your business:
 
-For Sole Proprietorship/Partnership:
+**For Sole Proprietorship/Partnership:**
 
-1. [Log in to GoBusiness Portal](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reg){:target="_blank"}{:rel="noopener"} with your Singpass to get a step-by-step guide on getting your business started and submit the application online 
+1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reg){:target="_blank"}{:rel="noopener"};
 
-For all types of Business Structures:
+    i. Log in using your Singpass
 
-2. [Log in to BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} with your Singpass to submit the application online; or
+    ii. Use Guided Journey to continue with the next step to register your Sole Proprietorship/Partnership
 
-3. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+**For all types of business structures:**
+
+1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"}; or
+
+2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
 The pre-requisites, information and supporting documents needed for the application to register the business will vary, depending on the business structure type. Click on the respective business structure to find out more.
 

@@ -23,31 +23,6 @@
       content: |
         The employee may still use the test kits for weekly testing when he returns to the workplace. Companies may use the test kits for testing of onsite employees who are fully vaccinated (including those who have recovered), those certified to be medically ineligible, or unvaccinated and recovered from COVID-19 infection within 180 days. 
 
-    - title: I have already submitted an application but realised that I have missed adding some new hires and part-timers. Can I submit another application?
-      content: |
-        There can only be ONE (1) application submitted per company UEN. Applications for Round 2 of the kits distribution have also closed. Should additional kits be required after the first application, these should be purchased at your company's own costs. 
-
-- accordion:
-  letter: c
-  data:
-    - title: How will the kits be delivered to my company?
-      content: |
-        To ensure that ART kits can be distributed to companies in a timely manner, we will only provide a one-time delivery to ONE (1) location per company UEN. If there are multiple offices/outlets registered under the same company UEN, your company should make your own arrangements to re-distribute the kits to other locations at your own cost.
-
-        Companies will receive a pre-delivery notification via SMS/email and should ensure that there is someone present to receive the delivery. In the event of any failed delivery, the costs of re-delivery will be charged to the receiving company.
-
-    - title: I have not received the kits. What can I do?
-      content: |
-        All applications for the Time-Limited 8-Weeks Testing should have been processed, with delivery orders fulfilled by now, except for rejected orders or consistent failed deliveries. If you have further questions or issues, you may contact:   
-        
-        * Health Promotion Board (HPB) at [testingops@hpb.gov.sg](mailto:testingops@hpb.gov.sg), or [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm; Saturday, 8am to 1pm; closed on Public Holidays). 
-        
-        * Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"} or [6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
-
-    - title: Can my company exchange the ART kits that we received for another brand? 
-      content: |
-        No, we do not allow any exchanges for the kits that were issued.
-
 - accordion:
   letter: d
   data:
@@ -57,9 +32,9 @@
 
         The detailed results of each individual employee do not need to be submitted to the Government. However, companies are expected to retain records of the test results till end-June 2022, and to produce these as proof if audited by the government.
 
-    - title: The MTF announced that from 18 Feb onwards, most sectors on mandatory Rostered Routine Testing (RRT) will not need to continue testing their employees. Does this also mean that my company can stop weekly testing from 18 Feb too?  
+    - title: The MTF announced that from 29 Maronwards, all sectors on mandatory Rostered Routine Testing (RRT) will not need to continue testing their employees. Does this also mean that my company can stop weekly testing from 29 Mar too? 
       content: |
-        The mandatory RRT regime was implemented for higher-risk workplaces and is different from this time-limited 8-weeks kits distribution exercise. Therefore, the stepdown of mandatory RRT for higher-risk workplaces (except sectors interacting with vulnerable population and essential services) as announced in the 16 Feb MTF Press Release does not apply to this time-limited 8-weeks weekly testing at workplaces. Companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
+        The mandatory RRT regime was implemented for higher-risk workplaces and is different from this time-limited 8-weeks kits distribution exercise. Therefore, the cessation of mandatory RRT for higher-risk workplaces as announced in the 24 MarMTF Press Release does not apply to this time-limited 8-weeks weekly testing at workplaces. Companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
 
     - title: What processes should my company have in place to ensure that we are compliant?
       content: |
@@ -77,14 +52,6 @@
     - title: What actions will be taken if my company is found to be non-compliant?
       content: |
         The Government shall have the right to claw back the cost of any test kits should there be any late submission of results or required information, or if any of the information submitted in the application form or results declaration form is untrue, or if non-compliance to the testing requirements is found.
-
-    - title: My company participated in the first round of kits distribution in Sep/Oct, but commenced weekly testing late as we had pivoted to work-from-home arrangements. We wish to submit the test results for the kits received in Sep/Oct 2021, but am unable to access the results declaration link for the first round of kits distribution. What should I do? 
-      content: |
-        Companies who wish to submit the test results under Round 1 of Time-Limited RRT (Sep/Oct 2021) may do so via the results link provided for Round 2 of Time-Limited RRT ([https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}), and indicate that your submission is meant for Round 1 via the option provided within the form.
-
-    - title: My company participated in the first round of kits distribution in Sep/Oct, but commenced weekly testing late as we had pivoted to work-from-home arrangements. How long do we need to retain proof of processes and test results for?
-      content: |
-        For companies who would still be conducting testing beyond 31 January 2022 due to various reasons, please retain all necessary proof/results for a duration of one month after the second round of results declaration. E.g. if testing ends on 15 February 2022, please retain the necessary proof/results until 15 March 2022.
 
 - accordion:
   letter: e

@@ -6,7 +6,8 @@
   text_1: How to start a business
   href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
   target_2: _blank
-  text_2: 'e-Adviser: Register new business'
+  text_2: 'e-Adviser: Register a Sole Proprietorship/Partnership'
+  is_new_2: true
   href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
   text_3: 'e-Adviser: Pick a business structure'
   target_3: _blank

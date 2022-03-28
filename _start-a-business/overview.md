@@ -13,7 +13,7 @@ Before starting your business, it helps to have a clear idea of what you need to
 
 - What will your business name be?
 
-GoBusiness Startup Guide will walk you through the questions above and more.
+GoBusiness Start-up Guide will walk you through the questions above and more.
 
 {% include panels-overview.html spanels=site.data.ov001-start %}
 

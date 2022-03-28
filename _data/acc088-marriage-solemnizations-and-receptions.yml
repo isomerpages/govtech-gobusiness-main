@@ -1,28 +1,27 @@
 - accordion:
   letter: b
   data:
-    - title: What are the latest requirements for marriage solemnizations and wedding receptions?
+    - title: What are the latest requirements for marriage solemnisations and wedding receptions?
       content: |
-        The updated safe management measures (SMMs) for marriage solemnizations and wedding receptions are as follows:  
+        The updated safe management measures (SMMs) for marriage solemnisations and wedding receptions are as follows:  
 
-        ||**From 15 March 2022 onwards**|
-        |**Marriage Solemnizations**||
-        |Home|Up to 10 attendees or 5 visitors (whichever is higher), with Vaccination-Differentiated SMMs (VDS) requirement<sup>1</sup>|
-        |ROM/M Building|Up to 10 attendees, with VDS requirement<sup>1</sup>|
-        |External venues| * No limit on event size, which will be subject to the venue capacity. However, if there are more than 1,000 attendees, it will be subject to 50% of venue capacity<sup>2</sup><br> * With VDS requirement.<br> * As solemnization is a mask-on event, safe distancing is not required between masked individuals or groups<sup>3</sup>|
+        ||**From 29 March 2022 onwards**|
+        |**Marriage Solemnisations**||
+        |Home|Up to 10 visitors, with Vaccination-Differentiated SMMs (VDS) requirement<sup>1</sup>|
+        |ROM/M Building|Up to 16 attendees, with VDS requirement|
+        |External venues| <u>For indoor settings:</u><br>* If no food and beverage (F&B) is served, this will be a mask-on event, and there will be subject to the venue capacity.  However, if there are more than 1,000 attendees, it will be subject to 75% of venue capacity<sup>2</sup>.<br>* If F&B is served, this will be a mask-off event, similar to wedding receptions. Event size will be subject to venue capacity limit allowing safe distancing requirements to be met. Group size of up to 10 attendees and 1 metre safe distance between groups apply.<br><br><u>For outdoor settings:</u><br>* No limit on event size; subject to venue capacity limit allowing safe distancing requirements to be met.<br>* As mask wearing is optional for outdoor setting, group size of up to 10 attendees and 1 metre safe distance between groups apply if attendees are mask-off.<br><br>With VDS requirement.|
         |**Wedding Receptions**||
-        |Home and ROM/M Building|Not allowed|
-        |External venues (Excluding Places of Worship)| * No limit on event size; subject to new venue capacity limit allowing safe distancing requirements to be met.<br> * With VDS requirement.<br> * As wedding reception is a mask-off event, group size of up to 5 attendees, with 1 metre safe distance between groups.|
+        |ROM/M Building|Not allowed|
+        |Home|Up to 10 visitors at any one time (including vendors)|
+        |External venues (Excluding Places of Worship)| * •	No limit on event size; subject to venue capacity limit allowing safe distancing requirements to be met. Group size of up to 10 attendees and 1 metre safe distance between groups apply.<br>* With VDS requirement.|
 
-        These limits include the couple, but exclude the Licensed Solemnizer and any other vendors engaged to provide authorised services for the wedding event. The couples and all attendees (including the Licensed Solemnizer and vendors) will have to abide by VDS entry requirements.
+        These limits include the couple, but exclude the Licensed Solemniser and any other vendors engaged to provide authorised services for the wedding event, unless otherwise stated. The couples and all attendees (including the Licensed Solemniser and vendors) will have to abide by VDS entry requirements.
 
-        Marriage solemnizations are mask-on events, thus safe distance is not required between individuals or groups when masked. Should there be any attendee with legitimate reasons to unmask (e.g. under the special provisions), organiser must ensure that safe distance is being adhered to between the unmasked attendee and the other attendees.
-
-        As wedding receptions are events with food & beverage components, wedding receptions continue to be subject to the prevailing safe management measures, such as safe distancing rules and prevailing group size of up to 5 people. Please refer to the requirements [here](https://covid.gobusiness.gov.sg/safemanagement/sector/){:target="_blank"}{:rel="noopener"}. All wedding reception guests must strictly abide by the safe management measures, and in particular, maintain social distancing and avoid mingling with others beyond their own table. 
+        Please refer to the wedding-related requirements [here](/safemanagement/sector/). 
 
         Organisers must ensure that before entering the event, all attendees must check in to the event using TraceTogether-only SafeEntry, unless the event venue is already subject to SafeEntry and VDS checks separately. TraceTogether, the SEBizApp or HealthHub can be used to check the vaccination status of attendees.  The venue owner/operator or organisers should have a unique QR code for the event space, e.g. hotel ballroom or private room in a restaurant.
 
-        For home solemnizations, organisers are required to remind all attendees at least one hour before the start of the event that VDS applies to the event.
+        For home solemnisations, organisers are required to remind all attendees at least one hour before the start of the event that VDS applies to the event.
 
         For more information on SafeEntry, please refer to the link [here](https://www.gobusiness.gov.sg/safemanagement/safeentry/).
 
@@ -34,9 +33,7 @@
         c) is a child aged 12 years or below; or<br>
         d) is certified as medically ineligible for all vaccines under the National Vaccination Programme (NVP). To be certified as medically ineligible, individuals may visit a doctor familiar with their medical condition, or alternatively, any clinic or hospital.<br>
 
-        <sup>2</sup> For example, if an event venue's full capacity is 2,400 attendees (after compliance with fire safety requirement), the venue can take in solemnization of up to 1,200 attendees based on the 50% capacity limit. Venue operators should spread out the attendees evenly within the venue, to reduce crowding.
-
-        <sup>3</sup> Should there be any attendee with legitimate reasons to unmask (e.g. under the special provisions), organiser must ensure that safe distance is being adhered to between the unmasked attendee and the other attendees.
+        <sup>2</sup> For example, if an event venue’s full capacity is 2,000 attendees (after compliance with fire safety requirement), the venue can take in solemnisation of up to 1,500 attendees based on the 75% capacity limit. Venue operators should spread out the attendees evenly within the venue, to reduce crowding.
 
     - title: Why are measures changed so often?
       content: |
@@ -51,115 +48,82 @@
 
     - title: Are vendors (e.g. photographers, videographers) part of the attendee limit?
       content: |
-        Vendors engaged to provide authorised services for the marriage solemnization or wedding reception are excluded from the attendance limit for these events. (Vendors who are also invited guests are part of the attendee limit).
+        Vendors engaged to provide authorised services for the marriage solemnisation or wedding reception are excluded from the attendance limit for these events. (Vendors who are also invited guests are part of the attendee limit).
 
-    - title: Can the bride and groom remove face masks for the solemnization ceremony or wedding reception? Can the bride and groom use face shields in place of face masks? Can the rest of the attendees be unmasked for photo-taking?
+    - title: Can the bride and groom remove face masks for the solemnisation ceremony or wedding reception? Can the bride and groom use face shields in place of face masks? Can the rest of the attendees be unmasked for photo-taking?
       content: |
-        As a special provision, the bride and groom may be unmasked throughout the marriage solemnization (excluding ROM/M Building) or wedding reception event. To enjoy the unmasking provision, the wedding couple is required to (i) undergo an Antigen Rapid Test (ART) minimally supervised by the venue operator<sup>3</sup> (either in person or virtually); or (ii) have a valid Pre-Event Test (PET) within 24 hours prior to the end of the event. The bride and groom must maintain a 1-metre distance from the rest of the attendees of the marriage solemnization or wedding reception(with the exception of wedding party) whenever masks and face shields are removed.
+        As a special provision, the bride and groom may be unmasked throughout the marriage solemnisation (excluding ROM/M Building) or wedding reception event. To enjoy the unmasking provision, the wedding couple is required to (i) undergo an Antigen Rapid Test (ART) minimally supervised by the venue operator<sup>3</sup> (either in person or virtually); or (ii) have a valid Pre-Event Test (PET) within 24 hours prior to the end of the event. The bride and groom must maintain a 1-metre distance from the rest of the attendees of the marriage solemnisation or wedding reception (with the exception of the attendees in the same group as the bride and groom) whenever masks and face shields are removed.
 
         Should the bride and groom opt not to undergo the ART or PET, they may remove their face shields or mask for key moments only (e.g. when exchanging vows for rings, kiss, march-in/outs) and maintain a safe distance of at least 1 metre from others at such times.
 
-        All other attendees must wear their masks throughout the solemnization process or wedding reception<sup>4</sup> , but masks may be removed momentarily for photo-taking and must be worn immediately after.
+        Mask-wearing continues to be required for indoor settings but is optional in outdoor settings. However, we encourage individuals to wear their masks even when outdoors for personal protection and to protect others, especially in crowded areas<sup>4</sup>.  Masks may be removed momentarily for photo-taking and must be worn immediately after.
+
+        Should there be any attendee with legitimate reasons to unmask (e.g. under the special provisions), organiser must ensure that safe distance of at least 1 metre is being adhered to between the unmasked attendee and the other attendees.
 
         On the use of masks and face shield, please refer to the latest guidelines [here](https:/www.moh.gov.sg/news-highlights/details/guidance-for-use-of-masks-and-face-shields){:target="_blank"}{:rel="noopener"}.
 
         <sup>3</sup> Venue operator refers to the party that has charge, management or control of the room or place where the event takes place, during the period of the event.
-        <sup>4</sup> Children aged twelve years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time, may wear a face shield as indicated in MOH's Advisory of 1 Jun 2020 (“Guidance for Use of Masks and Face Shields”)
-    - title: As a wedding couple, I would like to be unmasked for my solemnization / reception, but my venue operator is not available to supervise my ART. What can I do?
+        <sup>4</sup> Children aged twelve years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time, may wear a face shield as indicated in MOM's Advisory of 1 Jun 2020 (“Guidance for Use of Masks and Face Shields”)
+
+    - title: As a wedding couple, I would like to be unmasked for my solemnisation / reception, but my venue operator is not available to supervise my ART. What can I do?
       content: |
         If you are unable to do an ART minimally supervised by the venue operator (either in person or virtually), you can opt to have a valid PET obtained within 24 hours prior to the end of the event. Otherwise, the wedding couples can choose to wear a face shield instead of a face mask, and to remove the face shield for the key moments (e.g. when exchanging vows for rings, kiss, march-in/outs). 
-
-    - title: Can I have more than 10 different guests remove their masks when giving speech at different timings during my marriage solemnization and/or wedding reception?
-      content: |
-        At any time during the marriage solemnization in external venues (i.e. in venues excluding place of residence and the ROM/M building) and wedding reception, there should be no more than 10 unmasked individuals engaged in public speaking. For example, you can have up to 6 guests giving speech at timing A and another 6 guests at timing B. During the speech, the unmasked individuals must maintain a distance of at least 1 metre from the audience and from each other unless the individuals are members of the wedding party.
 
     - title: Are pre-wedding photo shoots allowed to take place? Can face masks/ shields be removed for pre-wedding photo shoots?
       content: |
         Pre-wedding photo shoots must adhere to IMDA's Mandatory Safety Rules for the Resumption of Content Production. Please check directly with the wedding photographer on the Safe Management Measures that must be adhered to.
 
-    - title: What are the guidelines for the attendance limit of home solemnizations, if I have more than 10 residents in my household?
+    - title: What are the guidelines for the attendance limit of home solemnisations, if I have more than 10 residents in my household?
       content: |
-        For marriage solemnizations held in a place of residence, the maximum number of attendees for the home solemnization must not exceed 10 attendees or 5 visitors (whichever is higher). This limit includes the couple, but excludes the Licensed Solemnizer and vendors engaged to provide authorised services for the solemnization. Please note that from 1 February 2022, VDS requirement will be implemented for home solemnizations. 
+        For marriage solemnisations held in a place of residence, the maximum number of attendees for the home solemnisation must not exceed 10 visitors. This limit includes the couple, but excludes the Licensed Solemniser and vendors engaged to provide authorised services for the solemnisation. Please note that from 1 February 2022, VDS requirement has been implemented for home solemnisations. 
 
-        For example, if there are 6 attendees currently living in your household, the 6 residents and an additional 5 visitors can attend a solemnization in your home. The total of 11 attendees counts the wedding couple but excludes the Solemnizer and vendors. Or if you live alone, you and 9 other attendees, including the wedding couple, can attend a solemnization in your home, excluding the Solemnizer and vendors.
+        For example, if there are 6 residents currently living in your household, the 6 residents and an additional 10 visitors can attend a solemnisation in your home. The total of 16 attendees includes the wedding couple but excludes the Solemniser and vendors. Or if you live alone, you and 10 other attendees, including the wedding couple, can attend a solemnisation in your home, excluding the Solemniser and vendors.
 
-        Organisers should ensure that residents who are not attendees of the home solemnization do not physically interact or intermingle with the attendees at the solemnization.
+        Organisers should ensure that residents who are not attendees of the home solemnisation do not physically interact or intermingle with the attendees at the solemnisation.
 
-        For the safety of all who are attending your home solemnization, please ensure that you and your guests comply with the following measures:
+        For the safety of all who are attending your home solemnisation, please ensure that you and your guests comply with the following measures:
 
-        - The bride and groom may be unmasked throughout the home solemnization. The wedding couples are required to (i) undergo an ART minimally supervised by the venue operator (either in person or virtually); or (ii) have a valid PET within 24 hours prior to the end of the event. The bride and groom may opt out from the ART or PET and remove their face shields/masks for key moments such as to exchange vows, rings, to kiss and during march-ins/ outs. Other guests must maintain a 1-metre distance from the bride and groom when they are unmasked. 
+        - The bride and groom may be unmasked throughout the home solemnisation. The wedding couples are required to (i) undergo an ART minimally supervised by the venue operator (either in person or virtually); or (ii) have a valid PET within 24 hours prior to the end of the event. The bride and groom may opt out from the ART or PET and remove their face shields/masks for key moments such as to exchange vows, rings, to kiss and during march-ins/ outs. Other guests must maintain a 1-metre distance from the bride and groom when they are unmasked. 
 
-        - All guests must wear masks for the duration of the solemnization. They may remove their masks momentarily for photo-taking and must wear their masks immediately after the photos are taken.
-
-    - title: Can I provide takeaway food after the solemnization ceremony?
-      content: |
-        No food or drinks are to be supplied or consumed in the room or place during a solemnization event. Takeaway food may be provided only after the solemnization ceremony is over, and must not be consumed at the solemnization venue. Once the solemnization ceremony is over, social gatherings cannot exceed 5 individuals and organisers of a solemnization should ensure that guests do not crowd around or outside the event venue to consume their takeaway food.
-
-        Organisers of a solemnization must ensure that requirements for solemnization events are not breached. Rather than providing food for takeaway, you may wish to consider providing other tokens of appreciation such as vouchers or non-food gifts.
-
-    - title: Can I have children to be part of the “wedding party” for my wedding reception?
-      content: |
-        You can have up to 5 children aged 12 years and below in the wedding party for your wedding reception. The 5 children in the wedding party can be from multiple households.
+        - All guests must wear masks for the duration of the solemnisation. They may remove their masks momentarily for photo-taking and must wear their masks immediately after the photos are taken.
 
 - accordion:
   letter: e
   data:
-    - title: If we opt for solemnization via video link, what is the limit to the number of guests in the same venue? Can the bride, groom, witnesses and guests be in the same venue?
+    - title: If we opt for solemnisation via video link, what is the limit to the number of guests in the same venue? Can the bride, groom, witnesses and guests be in the same venue?
       content: |
-        For solemnizations via video-link, the prevailing home visit guidelines should be adhered to (i.e. up to 5 visitors to a home at any one time ). The bride, groom, witnesses, and guests can be in the same location if they belong to the same household or if they are within the prevailing home visit guidelines (i.e. up to 5 visitors to a home at any one time). Other guests exceeding the 5 visitors allowed may wish to join in through video-link instead. Such processes through video-link ensures marriage solemnizations take place in a safe manner.
+        For solemnisations via video-link, the prevailing home visit guidelines should be adhered to (i.e. up to 10 visitors to a home at any one time). The bride, groom, witnesses, and guests can be in the same location if they belong to the same household or if they are within the prevailing home visit guidelines (i.e. up to 10 visitors to a home at any one time). Other guests exceeding the 10 visitors allowed may wish to join in through video-link instead. Such processes through video-link ensures marriage solemnisations take place in a safe manner.
 
 - accordion:
   letter: f
   data:
-    - title: Can I perform other cultural rites such as the tea ceremony during the reception?
+    - title: Can I perform other cultural rites such as the tea ceremony at the solemnisation venue or during the wedding reception?
       content: |
-        Yes you may, subject to the safe management measures for receptions (e.g. no intermingling between the wedding party and other groups of guests or between groups of guests). For example, the tea ceremony can be held amongst the “wedding party” of up to 20 attendees as part of the wedding reception, and must take into account the safe management measures for wedding receptions.
+        Yes you may, subject to the safe management measures for receptions (e.g. attendees to be split into group size of up to 10 and keep 1m safe distance between groups). 
 
-    - title: Can we have our tea ceremony at the solemnization venue?
+    - title: Can we do our pre-wedding photo shoots on a separate day from our solemnisation?
       content: |
-        Food and drinks are not allowed during solemnization events. The tea ceremony may be held before or after the solemnization but must comply with requirements such as the social gathering size limit of 5 persons or the cap of 5 visitors at any one time to a place of residence. Nonetheless, the tea ceremony can be held as part of a wedding reception, amongst the “wedding party”, comprising the wedding couple and up to 18 other attendees, subject to safe management measures for wedding receptions.
-
-    - title: Can we do our pre-wedding photo shoots on a separate day from our solemnization?
-      content: |
-        You may do your pre-wedding photo shoots on a separate day from your solemnization. Please check directly with the wedding photographer on the safe management measures that must be adhered to.
+        You may do your pre-wedding photo shoots on a separate day from your solemnisation. Please check directly with the wedding photographer on the safe management measures that must be adhered to.
 
     - title: Can we hire a photographer to take photos of my wedding dinner/reception, and can the photographer take photos of guests at each table by adhering to the 1-metre distancing?
       content: |
         Yes, you can hire a photographer to take photos of the wedding reception. A 1-metre distance between the photographer and the subject(s) of photography must be maintained at all times. Masks may be removed momentarily for photo-taking, and must be worn immediately after the photos are taken. 
 
-    - title: Can the bride and groom stand/sit on the stage and take photos with the wedding party of 20?
-      content: |
-        Yes, they can mingle and take photos with one another within the wedding party of 20 attendees (including the bride and groom).  Masks may be removed momentarily for photo-taking, and must be worn immediately after the photos are taken.
-
     - title: Can we play video screenings and/or projections of our wedding photos during the reception?
       content: |
-        Yes, you can. However, there must be no activities involving live singing, cheering, loud toasting or shouting, or dancing during the reception (with the exception of special provisions for dancing and singing). Please refer to the safe management measures for all wedding-related activities on MTI's GoBusiness website (under Marriage Solemnizations and Receptions) – [https://go.gov.sg/weddingadvisory](https://go.gov.sg/weddingadvisory){:target="_blank"}
+        Yes, you can.
 
-    - title: Can weddings that are up to 20 attendees be considered a wedding party where the hosts and guests are allowed to interact as a group?
+    - title: If I have a small wedding reception after my solemnisation, can I have another wedding reception on another day?
       content: |
-        Yes, if the event size is kept at 20 attendees throughout the entire wedding reception.  All wedding events, irrespective of event size, must implement VDS in order to proceed.
-
-    - title: If I have a small wedding reception now, can I have another reception should the limits be increased subsequently?
-      content: |
-        The conditions for the holding of marriage solemnizations and wedding receptions during the COVID-19 situation will depend on the prevailing circumstances and policies. Based on the current limit of one reception per couple, a second reception is not allowed.
-
-    - title: If there are certain guests that attend the reception purely to meet and greet the couple and leave straightaway without sitting in to eat and drink, would they be counted as part of the attendee limit?
-      content: |
-        The total number of attendees includes those who attend the reception for a short duration without eating or drinking, and the relevant VDS requirements apply.
-
-    - title: Are there any duration limits or time restrictions for wedding reception/solemnization?
-      content: |
-        Couples may choose to hold their solemnization and wedding reception on a separate day, however, each of these events must be completed in the same calendar day. Within the calendar day of each event, there is no fixed time frame/duration limit. 
-
-        For solemnizations in other external venues, venue operators reserve the right to impose shorter time limits based on their capacity or ability to ensure safe management measures are implemented. For wedding receptions, please also note that liquor cannot be served or consumed after 10.30pm.
+        Yes, you may do so subject to the safe management measures for wedding receptions. 
 
     - title: Does the set-up of the ceremony allow for a stage, reception table, etc.?
       content: |
-        A stage can be set up as part of the ceremony. For wedding reception, there must be no intermingling between the wedding party and other groups of guests, or between groups of guests. A reception table is allowed, if it is to receive guests when they arrive. However, any interactions should be minimised. E-check-in or other contactless methods of registration should be adopted where possible.
+        A stage can be set up as part of the ceremony.A reception table is allowed, if it is to receive guests when they arrive. However, any interactions should be minimised. E-check-in or other contactless methods of registration should be adopted where possible. 
 
     - title: Is a food line able to be set-up with safe distancing queues and served by the servers at hand?
       content: |
-        Food lines are not permitted at wedding events. At wedding receptions, guests are to be served seated at their tables, instead of queuing at the food lines. This is to minimise mingling/crowding, and to reduce interaction amongst different groups of guests. Organisers can offer individually plated or packaged food, and should avoid shared platters or dishes. For marriage solemnizations, food and beverages are strictly not allowed.
+        Organisers can offer staff-served foodlines with food served in individual portions, individually plated or packaged food. 
 
     - title: Is onsite cooking allowed at my wedding reception?
       content: |
