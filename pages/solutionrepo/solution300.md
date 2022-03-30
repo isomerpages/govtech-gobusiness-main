@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution300
 
 ### Description
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material
+The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -31,7 +33,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 400 trays per hour
+- Minimum 400 trays per hour
+
+
 
 ### Contact Information
 N.A.

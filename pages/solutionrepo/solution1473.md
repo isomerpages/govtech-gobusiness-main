@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1473
 
 ### Description
 
-The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+
+Cost of equipment capped at $4,000 per unit 
 
 ### Details of Solution
 
@@ -31,11 +33,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Min. spreading force of 240KN
-Must be certified intrinsically safe (e.g. ATEX certified)
-It can be powered by a hydraulic/electric source
-Training costs can be supported
-Maintenance costs not supported
+- Min. spreading force of 140 KN
+- Must be certified intrinsically safe (e.g. ATEX certified)
+
+- 1 battery pack or power unit per equipment can be supported
+- Training costs can be supported
+
+
 
 ### Contact Information
 N.A.

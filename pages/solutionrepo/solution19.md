@@ -7,9 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution19
 
 The automated rice dispenser stores cooked rice is kept warm in a tub. The rice is then automatically dispensed in pre-set quantities 
 
-Min capacity: 9kg cooked rice
+Cost of equipment capped at $20,000 per unit 
 
-Grant support: 80% of cost of equipment, up to $16,000 grant
+
 
 ### Details of Solution
 
@@ -35,9 +35,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+Mandatory Specification:
+- Unit must be able to store minimally 9kg of cooked rice and automatically dispense rice in pre-set quantities. 
+- Minimum hooper capacity of 9kg. 
+
+
 
 ### Contact Information
 N.A.

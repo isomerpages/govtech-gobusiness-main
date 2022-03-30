@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2073
 
 ### Description
 
-The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. Time and manpower reliance can be reduced when using this equipment.
+The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -33,9 +35,8 @@ N.A. for non-SMEs
 ### Things to Note
 - Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
 - Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
-- Maintenance costs not supported
 
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+
 
 ### Contact Information
 N.A.

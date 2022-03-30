@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 
 
 ### Support Level
-Up to % for SMEs <br>
+Up to  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

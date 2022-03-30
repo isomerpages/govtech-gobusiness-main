@@ -5,9 +5,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2519
 
 ### Description
 
-By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products. 
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
 
-Grant support 80% of equipment cost, up to S$30,000 grant. 
+Cost of equipment capped at $37,500 per unit 
+
 
 ### Details of Solution
 
@@ -34,14 +35,12 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum Specifications
--	Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes. 
 
--	Minimum 5 GN
+Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.
 
--	Installation and maintenance costs not supported. 
+Minimum capacity of 5 GN 1/1
 
--Support is given for 1 unit per deployment location
--The purchase of pre-owned/used equipment is not supportable.
+
 
 ### Contact Information
 N.A.

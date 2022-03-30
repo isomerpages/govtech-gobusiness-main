@@ -9,6 +9,8 @@ An encrusting machine is typically used in bakeries/ confectionaries to automate
 The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
 It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
 
+Cost of equipment capped at $25,000 per unit 
+
 ### Details of Solution
 
 N.A.
@@ -33,7 +35,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum capacity of 1,000 pcs per hour
+- Minimum capacity of 1,000 pieces per hour.
+
 
 
 ### Contact Information

@@ -7,7 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2518
 
 An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
 
-Grant support 80% of equipment cost, up to S$3,200 grant. 
+Cost of equipment capped at $4,000 per unit 
+
 
 ### Details of Solution
 
@@ -33,18 +34,14 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum Specifications
+Minimum Specifications 
 -Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
 
--	Well capacity to be at least 5L 
+Well capacity to be at least 5L
 
--	Serving size and frying type should be customisable
-
--	Installation and maintenance costs not supported
+Serving size and frying type should be customisable
 
 
--Support is given for 1 unit per deployment location
--The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
 N.A.

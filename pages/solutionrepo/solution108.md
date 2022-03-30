@@ -6,7 +6,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution108
 ### Description
 
 Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accomodate scalability
+The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -32,8 +34,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Automatic cleaning
--Time and heating presetting function. Eg. 15 minutes cooking time, like a microwave
+- Automatic Cleaning 
+- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave
+
 
 
 ### Contact Information

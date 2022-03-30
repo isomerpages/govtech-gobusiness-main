@@ -27,10 +27,9 @@ Please refer to 'Things to Note' for additional requirements.
 Subscription or Leasing
 
 ### Support Level
-Up to 80
-% for SMEs <br>
-Up to 60
-% for non-SMEs
+Up to 80% for SMEs <br>
+Up to 60%
+ for non-SMEs
 
 ### Things to Note
 The Grantee shall submit the following documents for claims and verification:

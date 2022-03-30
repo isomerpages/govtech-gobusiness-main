@@ -9,6 +9,8 @@ Semi-automated or automated filling machine replaces manual filling of liquid in
 Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
 Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
 
+Cost of equipment capped at $37,500 per unit 
+
 ### Details of Solution
 
 N.A.
@@ -34,14 +36,12 @@ N.A. for non-SMEs
 
 ### Things to Note
 - Minimally semi-automated
-- Minimally 1 unit/1 nozzle system to provide accurate filling into applicable units
 - Volumetric or weight based filling
-- Touchscreen display (optional)
-- Explosion proof (optional)
-- Installation/simple training costs can be supported.
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
+- Touchscreen display can be supported
+- Explosion proof can be supported 
+- Installation/simple training costs can be supported
+- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported 
 
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
 N.A.

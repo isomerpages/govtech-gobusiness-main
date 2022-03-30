@@ -28,7 +28,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 8% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

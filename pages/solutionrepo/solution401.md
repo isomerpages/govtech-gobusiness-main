@@ -7,9 +7,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution401
 
 Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
 
-Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Cost of equipment capped at $37,500 per unit 
+
+
 
 ### Details of Solution
 
@@ -35,12 +37,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Equipment must meet the following:
--Have a minimum capacity of 5GN
+Mandatory Specification:
+- Unit is programmable for convection, steam, and combination cooking. 
+- Minimum capacity of 5GN
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-No change in vendor allowed
+
 
 ### Contact Information
 N.A.

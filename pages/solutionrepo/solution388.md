@@ -7,7 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution388
 
 Blast freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing.
 Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food.
-It is recommended for the blast freezer to be able to be loaded with a trolley for ease of operation
+It is recommended for the blast freezer to be able to be loaded with a trolley for ease of operation.
+
+Cost of equipment capped at $30,000 per unit
 
 ### Details of Solution
 
@@ -33,8 +35,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum of 10 trays
-Freezer must be able to reach -18?C
+- Minimum of 10 trays (GN 1/1)
+- Freezer must be able to reach -18?C
+
 
 ### Contact Information
 N.A.

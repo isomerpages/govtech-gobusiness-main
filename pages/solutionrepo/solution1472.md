@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1472
 
 ### Description
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120micron. Time is also saved during operation.
+The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
+
+Cost of equipment capped at $3,000 per unit 
 
 ### Details of Solution
 
@@ -31,11 +33,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Idle speed of at least 3200 rpm
-Belt diameter of at least 110 mm
-Additional bristle brushes (carbon steel or stainless steel) can be supported.
-Training costs can be supported
-Maintenance costs not supported
+- Idle speed of at least 2,700 rpm
+- Belt diameter of at least 110 mm
+- Additional bristle brushes (carbon steel or stainless steel) can be supported
+- 1 battery pack or power unit per equipment can be supported
+- Training costs can be supported
+
+
 
 ### Contact Information
 N.A.
