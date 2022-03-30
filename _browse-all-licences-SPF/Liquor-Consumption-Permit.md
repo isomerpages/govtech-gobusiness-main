@@ -24,7 +24,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information about the Consumption Permit?</strong><br>        
 More information can be found at the 
-<a href="www.police.gov.sg/e-services" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Licences" target="_blank" rel="noopener">SPF website</a>
   </li>
 
   <li>
@@ -49,7 +49,7 @@ The consumption of liquor in public places during restricted hours is exempted f
 i. People's Association or any grassroots organisation of the People's Association; or<br>
 ii. A registered society defined in the Society's Act;<br>
 <br>
-(d) Consumption of liquor in the immediate vicinity of a barbeque pit in a national park, the use in respect of which is authorised by a permit granted under the Parks and Trees Act (Cap. 216);<br>
+(d) Consumption of liquor in the immediate vicinity of a barbeque pit in a national park, the use in respect of which is authorised by a permit granted under the Parks and Trees Act 2005;<br>
 (e) Consumption of liquor regulated by a Liquor Licence issued by Police Licensing & Regulatory Board.<br>
   </li>
 

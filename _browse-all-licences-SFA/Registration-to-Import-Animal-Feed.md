@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Impo
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Registration to Import Animal Feed (to be merged into Food and Feed Trading Licence)
+## Apply for Registration to Import Animal Feed
 
 Singapore Food Agency (SFA)
 

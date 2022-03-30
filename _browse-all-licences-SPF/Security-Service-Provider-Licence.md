@@ -14,7 +14,7 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-<p>Only Companies with Security Service Provider (SSP) licence can provide security services or equipment.<br>The types of security services are defined in Section 18 of the Private Security Industry Act (PSI) Cap 250A. This includes installing, maintaining repairing, servicing, designing, selling, importing or exporting of any security equipment as spelt out in the PSI's schedule.</p>
+<p>Only Companies with Security Service Provider (SSP) licence can provide security services or equipment.<br>The types of security services are defined in Section 18 of the Private Security Industry Act (PSI) Cap 2007. This includes installing, maintaining repairing, servicing, designing, selling, importing or exporting of any security equipment as spelt out in the PSI's schedule.</p>
 
 <h3>FAQ</h3>
 
@@ -22,7 +22,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information for  Security Service Provider Agency Licence?</strong><br>        
 More information can be found at the 
-<a href="http://www.police.gov.sg/e-services/apply/licenses-and-permits" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Licences/Security-Service-Provider-Licence" target="_blank" rel="noopener">SPF website</a>
   </li>
   <li>
     <strong>Who can be an applicant?</strong><br>

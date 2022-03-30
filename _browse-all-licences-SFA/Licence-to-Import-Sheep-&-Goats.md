@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Sh
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence to Import Sheep & Goats (tp be merged into Food and Feed Trading Licence)
+## Apply for Licence to Import Sheep & Goats
 
 Singapore Food Agency (SFA)
 
