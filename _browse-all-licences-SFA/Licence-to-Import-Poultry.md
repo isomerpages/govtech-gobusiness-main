@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Po
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence to Import Poultry (to be merged into Food and Feed Trading Licence)
+## Apply for Licence to Import Poultry
 
 Singapore Food Agency (SFA)
 

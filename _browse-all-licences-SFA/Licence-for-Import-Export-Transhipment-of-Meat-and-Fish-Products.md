@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-E
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence for Import/Export/Transhipment of Meat and Fish Products (to be merged into Food and Feed Trading Licence)
+## Apply for Licence for Import/Export/Transhipment of Meat and Fish Products
 
 Singapore Food Agency (SFA)
 

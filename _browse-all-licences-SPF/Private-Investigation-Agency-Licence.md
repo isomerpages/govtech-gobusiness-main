@@ -14,7 +14,7 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-<p>Companies are required to have a Private Investigation Agency (PIA) Licence if they are providing private investigation services and taking on assignments as defined in Section 5 of the Private Security Industry Act Cap 250A. Only Companies with Private Investigation Agency (PIA) licence can accept assignments from clients.</p>
+<p>Companies are required to have a Private Investigation Agency (PIA) Licence if they are providing private investigation services and taking on assignments as defined in Section 5 of the Private Security Industry Act Cap 2007. Only Companies with Private Investigation Agency (PIA) licence can accept assignments from clients.</p>
 
 <h3>FAQ</h3>
 
@@ -22,7 +22,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information for Private Investigation Agency Licence?</strong><br>        
 More information can be found at the 
-<a href="http://www.police.gov.sg/e-services/apply/licenses-and-permits" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Licences/Private-Investigation-Agency-Licence" target="_blank" rel="noopener">SPF website</a>
   </li>
   <li>
     <strong>Who can be an applicant?</strong><br>

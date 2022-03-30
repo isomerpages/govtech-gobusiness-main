@@ -10,20 +10,7 @@ permalink: /e-services/guides-for-biz/
 Navigate the process of starting, running and growing a business with our handy e-Advisers and online guides. Simply answer a few questions about your business and get personalised recommendations for your next steps.
 
 ### e-Services
-- [e-Adviser for Events](https://eadviser.gobusiness.gov.sg/events?src=eservices_guidesforbiz){:target="_blank"} <span style="background: #E6F2F3;
-      border-radius: 3px;
-      width: 49px;
-      height: 22px;
-      padding: 2px 8px;
-      font-family: hknova-regular;
-      font-size: 12px;
-      line-height: 18px;
-      color: #02737D;
-      display: inline-block;
-      vertical-align: middle;
-      margin-left: 8px;">
-  New!
-  </span>
+- [e-Adviser for Events](https://eadviser.gobusiness.gov.sg/events?src=eservices_guidesforbiz){:target="_blank"} 
   <br>For event organisers to find out the licences and permits needed to organise a physical event.
 - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to check if their premises are currently approved for their intended use.

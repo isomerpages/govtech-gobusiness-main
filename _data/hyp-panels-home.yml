@@ -6,7 +6,6 @@ panels:
       - text: e-Adviser for Events
         href: https://eadviser.gobusiness.gov.sg/events?src=homepage
         target: _blank
-        is_new: true
       - text: e-Adviser for Premises Use
         href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=homepage
         target: _blank

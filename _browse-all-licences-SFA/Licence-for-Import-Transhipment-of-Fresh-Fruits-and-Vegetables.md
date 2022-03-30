@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-T
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence for Import/Transhipment of Fresh Fruits and Vegetables (to be merged into Food and Feed Trading Licence)
+## Apply for Licence for Import/Transhipment of Fresh Fruits and Vegetables
 
 Singapore Food Agency (SFA)
 

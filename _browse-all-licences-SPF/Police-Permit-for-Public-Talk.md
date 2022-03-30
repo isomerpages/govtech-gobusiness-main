@@ -21,7 +21,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information about the Police Permit for Public Talk?</strong><br>        
 More information can be found at the 
-<a href="www.police.gov.sg/e-services" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Permit" target="_blank" rel="noopener">SPF website</a>
   </li>
 
 
