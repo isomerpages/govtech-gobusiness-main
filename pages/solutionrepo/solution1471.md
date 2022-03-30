@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1471
 
 ### Description
 
-The electrically powered torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. Time is also saved during operation.
+The  torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. 
+
+Cost of equipment capped at $20,000 per unit 
 
 ### Details of Solution
 
@@ -31,10 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Produce at least 4,000 N.m torquing force 
-The lithium battery pack that powers the torque multiplier can be supported
-Training costs can be supported
-Maintenance costs not supported
+- Produce at least 2,000N.m torquing force 
+- 1 battery pack or power unit per equipment can be supported
+- Training costs can be supported
+
+
 
 ### Contact Information
 N.A.

@@ -7,7 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution56
 
 A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
 
-Grant support: 80% of cost of equipment, up to $8,000 grant
+Cost of equipment capped at $10,000 per unit 
+
 
 ### Details of Solution
 
@@ -34,11 +35,10 @@ N.A. for non-SMEs
 
 ### Things to Note
 Mandatory Specification:
--	Minimum wattage: 2,200W
+- Unit is programmed to combine different cooking technologies to achieve rapid cooking. It utilises radiant heat, high-speed air impingement and side-launched microwave.
+- Minimum wattage: 2,200W 
 
-Additional Criteria:
--	Min 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
--	The purchase of pre-owned/used equipment is not supportable
+
 
 ### Contact Information
 N.A.

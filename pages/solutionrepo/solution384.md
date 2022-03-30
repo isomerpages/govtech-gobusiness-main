@@ -5,8 +5,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution384
 
 ### Description
 
-Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. 
-Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
+Automated standalone washer for pots, trays and utensils that replaces manual dishwashing. Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
+
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -32,9 +34,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Automated washing that only requires loading, no need for handwashing. 
-Wash tank capacity of at least 15 litres.
-Does not include accessories
+- Automated washing that only requires loading, no need for handwashing. 
+- Wash tank capacity of at least 15 litres. 
+- Support does not include accessories
+
+
 
 ### Contact Information
 N.A.

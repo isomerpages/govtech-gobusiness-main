@@ -7,7 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution302
 
 Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. 
 They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
-It is recommended for the Inkjet Printer to be able to integrate with the production line for a smoother flow of operation
+It is recommended for the Inkjet Printer to be able to integrate with the production line for a smoother flow of operation. This does not include equipment such as handheld printers and laser printers.
+
+Cost of equipment capped at $16,000 per unit 
 
 ### Details of Solution
 
@@ -33,9 +35,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
+- Touchscreen interface, able to manually input datecode/expiry date for products
+- Can automatically print unique barcode for each product from the production line
 
-Touchscreen interface, able to manually input datecode/ expiry date for products
-Can automatically print unique barcode for each product from the production line
+
+
 
 ### Contact Information
 N.A.

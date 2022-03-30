@@ -5,14 +5,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution16
 
 ### Description
 
-The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. It comes with automated drain pump, detergent and rinse pumps.
-
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
 - A hood-type machine come with a vertical lift hood 
 - A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
 
-Min capacity: 15 litres tank capacity
+Support capped at $5,000 per unit 
 
-Grant support: 80% of cost of equipment, up to $4,000 grant
+
 
 ### Details of Solution
 
@@ -38,8 +37,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Additional criteria:
-Min tank capacity of 15 litres
+Mandatory Specification:
+- Unit comes with automated drain pump, detergent and rinse pumps. 
+- Minimum water tank capacity of 15 litres
+
 
 ### Contact Information
 N.A.

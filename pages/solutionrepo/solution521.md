@@ -12,7 +12,7 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

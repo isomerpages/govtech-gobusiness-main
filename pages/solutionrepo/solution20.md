@@ -7,9 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution20
 
 The automated rice washer has built-in sensors and allow water to flow through the rice consistently. It will cut the time spent washing rice by 60%. It comes with an automatic wastewater mechanism to retain rice when draining wash water. 
 
-Min throughput: 6kg
+Cost of equipment capped at $20,000 per unit 
 
-Grant support: 80% of cost of equipment, up to $16,000 grant
+
 
 ### Details of Solution
 
@@ -35,7 +35,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum capacity: 6kg cooked rice
+Mandatory Specification:
+- Unit automatically measure the pre-set quantity of rice to wash.  
+- Minimum hooper capacity of 6kg rice
+
+
 
 ### Contact Information
 N.A.

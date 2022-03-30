@@ -5,9 +5,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution303
 
 ### Description
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap loaded into the vacuum chambers, the product will be vacuum sealed
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
-It is recommended for the equipment to have a digital interface for ease of use
+The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
+The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
+
+Cost of equipment capped at $35,000 per unit 
 
 ### Details of Solution
 
@@ -33,7 +34,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum vacuum chamber surface area (Length x Width) of 2184cm2
+- Minimum vacuum chamber surface area (Length x Width) of 2184cm2
+
+
 
 ### Contact Information
 N.A.

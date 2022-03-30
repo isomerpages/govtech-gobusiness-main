@@ -5,7 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1470
 
 ### Description
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered. Time is saved during operation as there can be less rework.
+The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -31,9 +32,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Facing diameter must be >1m
-Training costs can be supported
-Maintenance costs not supported
+- Facing diameter must be >1m
+- 1 battery pack or power unit per equipment can be supported 
+- Training costs can be supported
+
+
+
 
 ### Contact Information
 N.A.

@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution955
 
 ### Description
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. Time and manpower is saved during operation.
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+
+Cost of equipment apped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -32,9 +34,10 @@ N.A. for non-SMEs
 
 ### Things to Note
 - Able to deliver at least 1000NM of torque
-- It can be powered pneumatically or electically through a power unit  . If it is electrically powered, 1 Power Unit can be supported.
+- 1 battery pack or power unit per  equipment can be supported
 - Training costs to be supported
-- Maintenance costs not supported
+
+
 
 ### Contact Information
 N.A.

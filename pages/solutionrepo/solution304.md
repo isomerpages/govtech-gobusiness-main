@@ -6,9 +6,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution304
 ### Description
 
 The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. 
-The machine allows for quick and accurate filling in a manufacturing line.
-It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation
+The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+
+Cost of equipment  capped at $20,500 per unit 
 
 ### Details of Solution
 
@@ -34,7 +34,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Temperature and speed control
+- Temperature and speed control
+
+
 
 ### Contact Information
 N.A.

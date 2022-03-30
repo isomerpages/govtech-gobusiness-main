@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2072
 
 ### Description
 
-The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. Time and manpower reliance can be reduced.
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
+
+Cost of equipment capped at $12,500 per unit 
 
 ### Details of Solution
 
@@ -34,9 +36,8 @@ N.A. for non-SMEs
 - Must be certified intrinsically safe (e.g. ATEX certified)
 - Contains an immersion separator as a filter 
 - Training costs can be supported
-- Maintenance costs not supported
 
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+
 
 ### Contact Information
 N.A.

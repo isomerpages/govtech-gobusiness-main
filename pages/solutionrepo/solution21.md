@@ -7,9 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution21
 
 The automated sushi making machine is a compact machine suitable for use  at outlet-level. It shapes and produces Nigiri rice balls / sushi rolls and dispenses them automatically. Once a nigiri is removed,  the next one will be dispensed automatically. The weight and hardness of the nigiri / rolls can be customised.
 
-Min capaity: 6kg cooked rice
+Cost of equipment capped at $20,000 per unit 
 
-Grant support: 80% of cost of equipment, up to $16,000 grant
 
 ### Details of Solution
 
@@ -35,7 +34,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum capacity: 6kg cooked rice
+Mandatory Specification:
+- Unit is programmable to shape nigiri rice balls/sushi rolls and dispense them automatically. 
+- Weight and hardness of nigiri/rolls should be customisable. 
+- Minimum hooper capacity of 6kg cooked rice
+
+
 
 ### Contact Information
 N.A.
