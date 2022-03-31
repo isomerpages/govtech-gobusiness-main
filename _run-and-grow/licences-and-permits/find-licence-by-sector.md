@@ -8,6 +8,10 @@ third_nav_title: Licences and Permits
 
 Find out which licences you need by answering a few questions, based on your business sector.
 
+## For all sectors
+
+{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="aa" %}
+
 ## A
 
 {% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="a" %}
