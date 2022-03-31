@@ -7,6 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2001
 
 An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
+Cost of equipment capped at $37,500 per unit
+
 ### Details of Solution
 
 N.A.
@@ -27,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
@@ -36,10 +38,6 @@ Specifications:
 - No harmful substance must be released into the environment E.g. Ozone
 - Can be used in storage and production facilities.
 - Installation and maintenance costs are not supported.
-
--Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
--No change in vendor allowed
--The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
 N.A.

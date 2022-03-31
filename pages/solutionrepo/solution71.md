@@ -7,7 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution71
 
 Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.
 
-Grant support: 80% of cost of equipment, up to $10,000 grant
+Cost of equipment capped at $12,500 per unit
+
 
 ### Details of Solution
 
@@ -29,7 +30,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

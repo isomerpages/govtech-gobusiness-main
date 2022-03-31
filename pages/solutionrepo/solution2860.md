@@ -1,11 +1,16 @@
 ---
-title: Wireless Tour Guide System 
-permalink: /productivity-solutions-grant/solutionrepo/solution2110
+title: Robotic arms
+permalink: /productivity-solutions-grant/solutionrepo/solution2860
 ---
 
 ### Description
 
-Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
@@ -27,14 +32,16 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-Up to 60% for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Operating time of >15 hours and talk range of 100-200 meters. 
+Mandatory: 
+- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) 
+- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) 
 
-Additional criteria for SMEs: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Support excludes end-effectors, sensors, programming and integration cost
+
 
 ### Contact Information
 N.A.

@@ -1,14 +1,13 @@
 ---
-title: Ozonised Water Sterilisation System
-permalink: /productivity-solutions-grant/solutionrepo/solution83
+title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+permalink: /productivity-solutions-grant/solutionrepo/solution2859
 ---
 
 ### Description
 
-An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation. 
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
-Purchase of pre-owned/used equipment not supportable
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -30,21 +29,14 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Equipment must meet the following:
-- Use ozonised tech with ozonised water concen.: 0.4-1.5ppm
-- Ozone flow rate: 0-3 Litres/min
-- Piped to water sources
-- Effective sterilisation & lower bacteria amt by 90%
-- Installation & maintenance not supported
-- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+- Able to deliver at least 1000NM of torque
+- 1 battery pack or power unit per  equipment can be supported
+- Training costs to be supported
+- Maintenance costs not supported
 
 ### Contact Information
 N.A.

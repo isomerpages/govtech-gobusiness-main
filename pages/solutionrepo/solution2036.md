@@ -15,7 +15,7 @@ Controls the issuing of tools per user's security access level
 2) Tool dispensing hardware
 Hardware can be in the form of a drawer or coil vending system.  
 
-Grant support: 80% of cost of equipment, up to $22,400 grant
+Cost of equipment capped at $28,000 per unit
 
 ### Details of Solution
 
@@ -37,7 +37,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
@@ -45,9 +45,6 @@ Unit is expandable, customizable to hold different types of tools, and fully sec
 
 Support only hardware and software.
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
 
 ### Contact Information
 N.A.

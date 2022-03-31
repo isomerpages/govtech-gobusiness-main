@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5-Ultimate
+title: PixelCommerce Version 5.2.5 - PixelCommerce Version 5.2.5 - Marketplace
 permalink: /productivity-solutions-grant/solutionrepo/solution712
 ---
 
@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

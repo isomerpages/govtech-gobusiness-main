@@ -7,6 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1987
 
 Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 
+Cost of equipment capped at $37,500 per unit
+
 ### Details of Solution
 
 N.A.
@@ -27,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
@@ -38,9 +40,6 @@ Specifications:
 - Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
 - Installation and maintenance costs are not supported.
 
--Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
--No change in vendor allowed
--The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
 N.A.

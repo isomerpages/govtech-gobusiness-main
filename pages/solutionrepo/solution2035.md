@@ -9,7 +9,7 @@ Mobile Computer transforms paper-based data recording and manually inventory cou
 
 Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
 
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Cost of equipment capped at $30,000 per unit
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
@@ -43,10 +43,6 @@ Wireless LAN/Bluetooth/cellular connectivity.
 Support the common operating system e.g. Android, Windows.
 Maintenance cost is not supported.
 
-
-Additional criteria: >30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
 
 ### Contact Information
 N.A.
