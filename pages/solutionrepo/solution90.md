@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution90
 
 The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
 
-Grant support: 80% of cost of equipment, up to $15,000 grant
+Cost of equipment capped at $18,750 per unit
 
 ### Details of Solution
 
@@ -29,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution128
 
 The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
 
-Grant support: 80% of cost of equipment, up to $10,000 grant
+Cost of equipment capped at $12,500 per unit
 
 ### Details of Solution
 
@@ -29,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

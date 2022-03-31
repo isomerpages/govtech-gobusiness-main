@@ -40,8 +40,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+Up to 70% for SMEs <br>
+Up to 70% for non-SMEs
 
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application

@@ -7,6 +7,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1986
 
 Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
+Cost of equipment capped at $37,500 per unit
+
 ### Details of Solution
 
 N.A.
@@ -27,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
@@ -37,9 +39,6 @@ Specifications:
 - Min. output capacity of 30 metres per minute.
 - Installation and maintenance costs are not supported.
 
--Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
--No change in vendor allowed
--The purchase of pre-owned/used equipment is not supportable
 
 ### Contact Information
 N.A.

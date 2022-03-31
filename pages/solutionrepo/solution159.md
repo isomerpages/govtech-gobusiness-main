@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution159
 
 Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -29,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

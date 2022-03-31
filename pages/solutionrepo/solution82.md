@@ -5,10 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution82
 
 ### Description
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation. The equipment can be in portable form, permanently installed units or distributed systems.
+An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
 
-Cost of equipment capped at $10,000 per unit 
-
+Cost of equipment capped at $10,000 per unit
 
 ### Details of Solution
 
@@ -30,20 +29,16 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Equipment must meet the following:
-
-Generate active oxygen at an output between 20mg - 1g/hr
-
-Emit negative ion at more than 2 million/cm3
-
-Area coverage at least 36.5 m2
-
-Effective sterilisation & reduce bacteria count by 90%
-
+- User ozonised tech generating active oxygen at output between 20mg - 1g/hr
+- Equipment should emit negative ion at more than 2 million/cubic centrimetres
+- Coverage area at least 36.5square meter
+- Effective sterilisation & reduce bacteria count by 90%
+- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
 
 
 ### Contact Information

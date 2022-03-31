@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution89
 
 Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
 
-Grant support: 80% of cost of equipment, up to $5,000 grant
+Cost of equipment capped at $6,250 per unit
 
 ### Details of Solution
 
@@ -29,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note

@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution38
 
 Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
 
-Grant support: 80% of cost of equipment, up to $15,000 grant
+Cost of equipment capped at $18,750 per unit 
 
 ### Details of Solution
 
@@ -29,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
