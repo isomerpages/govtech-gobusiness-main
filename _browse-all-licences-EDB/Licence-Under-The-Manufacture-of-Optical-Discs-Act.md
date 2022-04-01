@@ -10,8 +10,6 @@ Economic Development Board (EDB)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on EDB" src="https://sso.agc.gov.sg/Act/MODA2004" type="primary" %}
-
 <H3>Application Details</H3>
 
 <p>The Manufacture of Optical Discs Act serves to enhance our regulatory system for the manufacture of optical discs by introducing further safeguards to protect rights of intellectual property rights holders. Any person that intends to manufacture optical discs as defined under the Manufacture of Optical Discs Act "MODA" in Singapore, for sale or other commercial purpose, must first obtain a valid MODA license from the Registrar of Optical Discs.</p>
@@ -19,6 +17,6 @@ Economic Development Board (EDB)
  <h3>FAQ</h3>
  <ol>
  <li><strong>Where can I find out more about the Manufacture of Optical Discs Act?</strong><br />The Manufacture of Optical Discs Act can be accessed here: <a href="https://sso.agc.gov.sg/Act/MODA2004" target="_blank" rel="noopener">Manufacture of Optical Discs Act 2004</a></li>
- <li><strong>How can I apply for a license under the Manufacture of Optical Discs Act "MODA"?</strong><br />Please contact <a href="mailto:client_services@edb.gov.sg">EDB</a> for assistance</li>
+ <li><strong>How can I apply for a license under the Manufacture of Optical Discs Act "MODA"?</strong><br />Please contact <a title="" href="https://www.edb.gov.sg/en/contact/contact-us.html" target="_blank" rel="noopener">EDB</a> for assistance</li>
  </ol>
 
