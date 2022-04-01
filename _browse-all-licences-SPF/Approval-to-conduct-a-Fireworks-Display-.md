@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/3b84dd7a-85e1-4524-a8a6-3b2a0558e89b" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/6ac90465-6dcd-4b91-9573-cea561f2233e" type="primary" %}
 
 <H3>Application Details</H3>
 
