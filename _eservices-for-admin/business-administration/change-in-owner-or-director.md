@@ -12,6 +12,12 @@ If there are changes in business owners or authorised representatives, you will 
 
 Learn more about it at [ACRA's website](https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships/changes-in-business-information-and-appointments-of-business-owners-and-authorised-representatives){:target="_blank"}{:rel="noopener"}.
 
+### Updating your licences and grants
+
+Some business licences and grants may require up-to-date business ownership information in order to remain valid.
+
+Please check with the governing agencies for your licences if an update is required, and how the update should be made.
+
 ### e-Services for updating business ownership
 
 **Accounting and Corporate Regulatory Authority (ACRA)**
