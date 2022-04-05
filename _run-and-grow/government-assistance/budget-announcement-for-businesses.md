@@ -31,11 +31,17 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 {% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="c" %}
 
-### Want to be notified when this page is updated?
+### Find relevant schemes for your businesses
 
-Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more. 
+Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2022 support schemes and programmes.
 
-{% include button.html text="Subscribe to GoBusiness Mailing List" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
+{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_overview" type="primary" %}
+
+---
+
+### Budget 2022 for citizens
+
+{% include panels.html panels=site.data.budget_related_links %}
 
 
 <script src="/jquery/jquery.min.js"></script>
