@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<br>Tel: +65 6797 6787

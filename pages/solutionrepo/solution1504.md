@@ -34,7 +34,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:SINGAPORE DATA HUB PTE LTD <br>Web URL: WWW.SGDATAPOS.COM <br>Contact Hotline: +6566677093 <br>Contact Email: SALES@SGDATAHUB.COM <br>

@@ -1,5 +1,5 @@
 ---
-title: Automated tools management system
+title: Automated Tools Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution22
 ---
 
@@ -13,9 +13,10 @@ With customizable option to link to ERP or supplier online automated ordering pr
 Controls the issuing of tools per user's security access level
 
 2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
+Hardware can be in the form of a drawer or coil vending system. 
+ 
+Cost of equipment capped at $28,000 per unit
 
-Grant support: 80% of cost of equipment, up to $22,400 grant
 
 ### Details of Solution
 
@@ -41,13 +42,12 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
+Equipment must meet the following specifications: 
 
-Support only hardware and software.
+- Unit is expandable, customizable to hold different types of tools, and fully secured. 
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+- Support only hardware and software.
+
 
 ### Contact Information
 N.A.

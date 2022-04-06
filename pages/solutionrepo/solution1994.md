@@ -33,7 +33,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>

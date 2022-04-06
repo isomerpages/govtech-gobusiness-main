@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890

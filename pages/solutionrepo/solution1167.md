@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:Carddio Pte Ltd <br>Web URL: www.carddio.com.sg <br>Contact Hotline: 6258 9852 <br>Contact Email: psg@carddio.com.sg<br>

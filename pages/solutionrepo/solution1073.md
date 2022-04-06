@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com <br>Contact Hotline: 63850609 <br>Contact Email: elainelim@agere-ca.com <br>

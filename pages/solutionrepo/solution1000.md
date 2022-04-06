@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:WEB IMP PTE LTD <br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 93689672 <br>Contact Email: wilson@webimp.com.sg <br>

@@ -33,7 +33,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://www.xero.beaufort.sg/ <br>Contact Hotline: 88229376 <br>Contact Email: contact@beaufort.sg <br>

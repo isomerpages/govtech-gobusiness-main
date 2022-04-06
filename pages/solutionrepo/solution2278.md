@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name: DST Advertising (Singapore) Pte Ltd<br>Web URL: DSTadvertising.com<br>Contact Hotline: 8668 5292<br>Contact Email: Sales@dstadvertising.com

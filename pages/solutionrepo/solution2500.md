@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: www.asiacloud.com.sg <br>Contact Hotline: 64716179 <br>Contact Email: ES@asiacloud.com.sg <br>

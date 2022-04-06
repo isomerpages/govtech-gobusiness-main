@@ -33,7 +33,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://www.acebizservices.com/it-software <br>Contact Hotline: 62620402 <br>Contact Email: CARE@ACEBIZSERVICES.COM <br>

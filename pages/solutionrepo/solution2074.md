@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2074
 
 ### Description
 
-Battery-operated torque wrench or torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates the need of tedious manual torqing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, a single worker will be able to carry out torquing independently and in a shorter amount of time. 
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
+
+Cost of equipment capped at $11,250 per unit
 
 ### Details of Solution
 

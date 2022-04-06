@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net <br>

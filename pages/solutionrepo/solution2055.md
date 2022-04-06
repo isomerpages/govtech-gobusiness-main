@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>

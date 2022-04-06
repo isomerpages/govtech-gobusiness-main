@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br>Contact Hotline: 62951998 <br>Contact Email: sales@timesoftsg.com.sg <br>

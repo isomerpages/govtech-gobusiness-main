@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com

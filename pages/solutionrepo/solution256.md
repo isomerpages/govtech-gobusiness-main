@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:CalendarOne Pte Ltd <br>Web URL:www.calendarone.com <br>Contact Hotline:92485655 <br>Contact Email:francis@calendarone.com <br>

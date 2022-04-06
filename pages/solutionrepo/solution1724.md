@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:Qashier Pte Ltd <br>Web URL:qashier.co <br>Contact Hotline:94555108 <br>Contact Email:hello@qashier.co <br>

@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2073
 
 The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $8750 per unit 
 
 ### Details of Solution
 

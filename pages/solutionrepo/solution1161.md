@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com <br>

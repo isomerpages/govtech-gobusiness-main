@@ -5,11 +5,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2071
 
 ### Description
 
-Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
-Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
-Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 

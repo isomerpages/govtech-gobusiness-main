@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>96953417 <br>hans.paul@aigens.com <br>

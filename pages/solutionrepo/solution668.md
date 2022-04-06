@@ -32,7 +32,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@octopuspos.com<br>Tel: +65 6221 6601

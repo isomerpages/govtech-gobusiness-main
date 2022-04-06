@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name:Weebo Pte Ltd <br>Web URL: https://www.weebo.com.sg/shop/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg <br>

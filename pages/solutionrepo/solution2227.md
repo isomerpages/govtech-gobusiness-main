@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg <br>

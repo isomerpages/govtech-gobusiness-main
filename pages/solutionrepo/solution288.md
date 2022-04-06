@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 89491427<br>Contact Email: XERO@CFOSG.SG

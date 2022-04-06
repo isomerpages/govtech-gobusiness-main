@@ -9,8 +9,7 @@ The Autonomous Material Transportation Robot carries out repetitive handling pro
 
 Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
 
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Cost of equipment capped at $37,500 per unit. 
 
 ### Details of Solution
 
@@ -36,17 +35,13 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- No change in vendor allowed
-- The purchase of pre-owned/used equipment is not supportable
-
-Equipment must meet the following specifications: 
+Mandatory specifications: 
 - Transport materials between points
 - Manoeuvre safely around obstacles
 - Min. payload of 100kg
 - Equipped with a rechargeable battery
+- Accessories e.g. towing arm, mountable shelf are supportable
 - Installation and maintenance cost are not supported
-- [Optional] Accessories e.g. towing arm, mountable shelf
 
 ### Contact Information
 N.A.

@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
 Web URL: https://www.yoio-sg.com/#ourexpertise <br>Contact Hotline: 91793142 <br>Contact Email: hanz@yoio-sg.com <br>
