@@ -12,7 +12,8 @@ Tool Setting Probe: Tool setting, length, radius, breakage detection
 Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
 Implementation: Equipment configuration, training
 
-Grant support: 80% of cost of probing system, up to $30,000 grant cap
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -39,6 +40,7 @@ N.A. for non-SMEs
 
 ### Things to Note
 Equipment must meet the following specifications: 
+
 1. Work Piece & Tool Setting Probe:
 - Approach Directions: +/-x, +/-y, -z
 - Repeatability: <=1um 2sigma
@@ -47,9 +49,6 @@ Equipment must meet the following specifications:
 
 3. Implementation: Probe and software configuration and training
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
 
 ### Contact Information
 N.A.

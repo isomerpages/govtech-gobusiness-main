@@ -34,7 +34,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595

@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 01 BUSINESS SOLUTIONS PTE LTD<br>https://www.01businesssolutions.com/psg-grant/<br>Email: sales@01businesssolutions.com<br>Tel: +65 6220 3306

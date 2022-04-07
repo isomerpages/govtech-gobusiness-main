@@ -32,7 +32,7 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://mibc.sg/web-development/ <br>Contact Hotline: 63535152 <br>Contact Email: support@mibc.sg <br>

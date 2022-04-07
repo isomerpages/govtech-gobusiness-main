@@ -7,8 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution753
 
 The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
 
-Grant support: 80% of cost of equipment, up to $17,000 grant
-
+Cost of equipment capped at $21,250 per unit. 
 
 ### Details of Solution
 
@@ -41,9 +40,8 @@ Mandatory Specification
 - Stereometry accuracy within +/- 5mm
 - Throughput approx 400/hour
 - Data transmitted to a software/ERP via wireless/LAN connection
-
-Installation costs are supported.
-?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Installation cost is supported.
+- Maintenance cost is not supported
 
 ### Contact Information
 N.A.

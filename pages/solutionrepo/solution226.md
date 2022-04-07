@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name: Beautec Pte Ltd<br>Web URL: www.beau-tec.com<br>Contact Hotline: 67772703 ext 202<br>Contact Email: sales@beau-tec.com

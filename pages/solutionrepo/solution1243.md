@@ -31,7 +31,7 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com <br>

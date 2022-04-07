@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountsoft.com<br>Tel:+65 8321 9689

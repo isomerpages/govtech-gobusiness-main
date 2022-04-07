@@ -38,7 +38,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>

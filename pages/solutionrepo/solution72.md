@@ -5,11 +5,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution72
 
 ### Description
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+Mobile Computer transforms paper-based data recording and manual inventory counting into automated electronic data capture and transmission Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
 
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+Solution is highly recommended to be able to integrate with applicant's existing inventory or warehouse management system.
 
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Cost of equipment capped at $30,000 per unit. 
 
 ### Details of Solution
 
@@ -35,18 +35,14 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Installed with software for inventory data input.
-Withstand rough handling, meet min IP54 standards.
-Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
-Battery with min 3 hrs standby.
-Wireless LAN/Bluetooth/cellular connectivity.
-Support the common operating system e.g. Android, Windows.
-Maintenance cost is not supported.
-
-
-Additional criteria: >30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Mandatory specifications:
+- Installed with software for inventory data input.
+- Withstand rough handling, meet min IP54 standards.
+- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
+- Battery with min 3 hrs standby.
+- Wireless LAN/Bluetooth/cellular connectivity.
+- Support the common operating system e.g. Android, Windows.
+- Installation and Maintenance cost are not supported.
 
 ### Contact Information
 N.A.

@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:W.L.P PTE LTD <br>Web URL:https://www.wlp.com.sg/ <br>Contact Hotline:64932970 <br>Contact Email:info@wlp.com.sg <br>

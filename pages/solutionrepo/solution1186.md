@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Megasafe Technology Pte Ltd <br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
