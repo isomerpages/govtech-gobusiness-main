@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.com<br>Tel: +65 6745 0866

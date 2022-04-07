@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+ Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://www.avenbill.com.sg/accounting-bookkeeping/ <br>Contact Hotline: 62353309 <br>Contact Email: admin@avenbill.com.sg <br>
