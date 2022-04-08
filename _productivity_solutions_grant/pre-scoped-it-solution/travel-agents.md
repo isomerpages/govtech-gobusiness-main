@@ -8,6 +8,12 @@ third_nav_title: Pre-scoped IT Solution
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion.html accordions=site.data.acc071-travel-agents.accordion %}
+## Travel Agents Specific Solutions
+{% include letter-accordion.html accordions=site.data.acc071-travel-agents.accordion letter="a" %}
+
+## Generic Solution (for all sectors)
+Companies across all business sectors (including Travel Agents) are eligible for the solutions here.
+
+{% include letter-accordion.html accordions=site.data.acc071-travel-agents.accordion letter="b" %}
 
 _If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
