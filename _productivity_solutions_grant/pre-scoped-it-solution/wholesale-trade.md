@@ -8,12 +8,12 @@ third_nav_title: Pre-scoped IT Solution
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-##  Wholesale Trade Specific Solutions
-{% include letter-accordion.html accordions=site.data.acc073-wholesale-trade.accordion letter="a" %}
+**Wholesale Trade Specific Solutions**
+{% include letter-accordion.html accordions=site.data.acc073-wholesale-trade letter="a" %}
 
-## Generic Solution (for all sectors)
+**Generic Solution (for all sectors)**
 Companies across all business sectors (including  Wholesale Trade) are eligible for the solutions here.
 
-{% include letter-accordion.html accordions=site.data.acc073-wholesale-trade.accordion letter="b" %}
+{% include letter-accordion.html accordions=site.data.acc073-wholesale-trade letter="b" %}
 
 _If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
