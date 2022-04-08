@@ -52,14 +52,12 @@ The following list of venues must also institute TraceTogether-only SafeEntry ch
 
 - Banks and financial institutions
 
-- Retail, personal and food & beverage (F&B) services<Br>
+- Retail, personal and food & beverage (F&B) services<sup>3</sup><Br>
   a. Malls<Br>
-  b. Supermarkets<sup>3</sup><br>
-  c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>4</sup><br>
-  d. F&B outlets for dine-in customers<sup>5</sup><br>
-  e. Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<Br>
-  f. Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
-  g. Showrooms<Br>
+  b. Supermarkets<sup>4</sup><br>
+  c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>5</sup><br>
+  d. Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<Br>
+  e. Showrooms<Br>
 
 - Wet markets and hawker centres<sup>6</sup>
 
@@ -98,9 +96,9 @@ For avoidance of doubt, all permitted enterprises and event organisers, must sti
 
 <sup>1</sup> This includes event organisers who are not enterprises and who organise events such as funerals, weddings and solemnisations.<br>
 <sup>2</sup> This list will be updated as more activities and services resume.<br>
-<sup>3</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
-<sup>4</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
-<sup>5</sup> F&B outlets include food courts.<br>
+<sup>3</sup> From 28 Mar 2022, establishments located within premises (such as malls) that already require SafeEntry upon entry, need not conduct SafeEntry. However, they will need to do so if they operate outside the hours of the premises or have their own direct entrances separate from the mall entrance.<br>
+<sup>4</sup> From 28 Mar 2022, supermarkets that are standalone stores or located within premises covered by TraceTogether-only SafeEntry no longer need to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors. However, for those located in malls, they need to do so if they operate outside the hours of these premises or have their own direct entrances separate from the mall entrance.<br>
+<sup>5</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
 <sup>6</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
 
 ---
@@ -135,14 +133,12 @@ The following public-facing venues are required to deploy SafeEntry Gateway at t
 
 - Retail, personal and food & beverage (F&B) services<Br>
   a. Malls<Br>
-  b. Supermarkets<sup>7</sup><Br>
-  c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>8</sup><Br>
-  d. F&B outlets for dine-in customers<sup>9</sup><br>
+  b. Supermarkets<sup>3</sup><Br>
+  c. Large retail outlets (> 930 sqm or 10,000 sqft)<Br>
   e. Personal care services e.g. hairdressers, barbers, spas, beauty and wellness<br>
-  f. Facilities providing basic pet services (that do not function on a drop-off, pick-up basis)<br>
   g. Showrooms<br>
 
-- Wet markets and hawker centres<sup>10</sup>
+- Wet markets and hawker centres<sup>6</sup>
 
 - Tuition and enrichment and training centres
 
@@ -155,7 +151,7 @@ The following public-facing venues are required to deploy SafeEntry Gateway at t
 
 - Cultural and entertainment venues<br>
   a. Libraries<br>
-  b. Selected public and private museums, heritage institutions and galleries<sup>11</sup><br>
+  b. Selected public and private museums, heritage institutions and galleries<sup>7</sup><br>
   c. Cinemas<br>
   d. Ticketed attractions<br>
   e. Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
@@ -166,14 +162,12 @@ The following public-facing venues are required to deploy SafeEntry Gateway at t
 
 Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Business) App based on their business needs.
 
-In order to facilitate more precise contact tracing efforts, businesses are encouraged to facilitate check-out for their customers, clients and visitors. Businesses may do so by toggling to the SEGW check-out function within the SafeEntry (Business) App or by deploying the SafeEntry Gateway Check-Out Boxes<sup>12</sup>. Businesses need not enforce checking out but should encourage customers to do so as much as possible.
+In order to facilitate more precise contact tracing efforts, businesses are encouraged to facilitate check-out for their customers, clients and visitors. Businesses may do so by toggling to the SEGW check-out function within the SafeEntry (Business) App or by deploying the SafeEntry Gateway Check-Out Boxes<sup>8</sup>. Businesses need not enforce checking out but should encourage customers to do so as much as possible.
 
-<sup>7</sup> From 21 July 2021, supermarkets that are fully within malls and buildings covered by TraceTogether-only SafeEntry and have the same operating hours, are required to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors.<br>
-<sup>8</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
-<sup>9</sup> F&B outlets include food courts.<br>
-<sup>10</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
-<sup>11</sup> Selected museums will be informed by the National Heritage Board (NHB) <br>
-<sup>12</sup> The distribution of SEGW Check-Out Boxes is prioritised to venues with higher throughput of visitors, and places where people are likely to be in close proximity for prolonged periods with their masks off. Eligible businesses will be notified via email and SMS and receive the Check-Out Box via delivery. <br>
+<sup>3</sup> From 28 Mar 2022, establishments located within premises (such as malls) that already require SafeEntry upon entry, need not conduct SafeEntry. However, they will need to do so if they operate outside the hours of the premises or have their own direct entrances separate from the mall entrance.<br>
+<sup>6</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
+<sup>7</sup> Selected museums will be informed by the National Heritage Board (NHB) <br>
+<sup>8</sup> The distribution of SEGW Check-Out Boxes is prioritised to venues with higher throughput of visitors, and places where people are likely to be in close proximity for prolonged periods with their masks off. Eligible businesses will be notified via email and SMS and receive the Check-Out Box via delivery. <br>
 
 ---
 
