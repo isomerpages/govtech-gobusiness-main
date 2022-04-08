@@ -7,7 +7,7 @@ third_nav_title: Pre-scoped IT Solution
 ## Pre-scoped IT Solutions for Advanced Manufacturing
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
-<br>
+
 ### Advanced Manufacturing Specific Solutions
 {% include letter-accordion.html accordions=site.data.acc052-advanced-manufacturing letter="a" %}
 
