@@ -8,10 +8,10 @@ third_nav_title: Pre-scoped IT Solution
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-**Food Services Specific Solutions**
+### Food Services Specific Solutions
 {% include letter-accordion.html accordions=site.data.acc060-food-services letter="a" %}
 
-**Generic Solution (for all sectors)**
+### Generic Solution (for all sectors)
 Companies across all business sectors (including Food Services) are eligible for the solutions here.
 
 {% include letter-accordion.html accordions=site.data.acc060-food-services letter="b" %}

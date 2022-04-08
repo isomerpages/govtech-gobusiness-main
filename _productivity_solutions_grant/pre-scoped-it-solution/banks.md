@@ -8,10 +8,10 @@ third_nav_title: Pre-scoped IT Solution
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-**Banks Specific Solutions**
+### Banks Specific Solutions
 {% include letter-accordion.html accordions=site.data.acc053-banks letter="a" %}
 
-**Generic Solution (for all sectors)**
+### Generic Solution (for all sectors
 Companies across all business sectors (including Banks) are eligible for the solutions here.
 
 {% include letter-accordion.html accordions=site.data.acc053-banks letter="b" %}

@@ -7,11 +7,11 @@ third_nav_title: Pre-scoped IT Solution
 ## Pre-scoped IT Solutions for Advanced Manufacturing
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
-
-**Advanced Manufacturing Specific Solutions**
+<br>
+### Advanced Manufacturing Specific Solutions
 {% include letter-accordion.html accordions=site.data.acc052-advanced-manufacturing letter="a" %}
 
-**Generic Solution (for all sectors)**
+### Generic Solution (for all sectors)
 Companies across all business sectors (including Advanced Manufacturing) are eligible for the solutions here.
 
 {% include letter-accordion.html accordions=site.data.acc052-advanced-manufacturing letter="b" %}

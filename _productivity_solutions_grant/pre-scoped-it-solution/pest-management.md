@@ -8,10 +8,10 @@ third_nav_title: Pre-scoped IT Solution
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-**Pest Management Specific Solutions**
+### Pest Management Specific Solutions
 {% include letter-accordion.html accordions=site.data.acc067-pest-management letter="a" %}
 
-**Generic Solution (for all sectors)**
+### Generic Solution (for all sectors)
 Companies across all business sectors (including Pest Management) are eligible for the solutions here.
 
 {% include letter-accordion.html accordions=site.data.acc067-pest-management letter="b" %}
