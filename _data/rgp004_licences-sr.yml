@@ -1,4 +1,4 @@
-- banner: <img style="margin:29px 0 0 29px" src="/images/grow/submitreturns-icon.png">
+- image: <img style="margin:29px 0 0 29px" src="/images/grow/submitreturns-icon.png">
   title: Submit returns 
   description: Returns can be submitted by logging in to GoBusiness Licensing. 
   url: https://dashboard.gobusiness.gov.sg/login?src=run&grow_licences_fs
