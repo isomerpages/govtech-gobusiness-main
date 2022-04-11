@@ -14,7 +14,7 @@ You can submit them by logging in to GoBusiness Licensing.
 
 {% include button.html text="Submit Returns on GoBusiness Licensing" src="https://dashboard.gobusiness.gov.sg/login?src=submit-return" type="primary" %}
 
-After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency] directly.
+After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency](/contact-us/agencies/) directly.
 
 <!--For more questions about submitting returns, read our [Licensing FAQ].-->
 
@@ -24,7 +24,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 **Energy Market Authority (EMA)**
 
-Submit 'Compliance declarations' and 'Update contact list' for the following licences"
+Submit 'Compliance declarations' and 'Update contact list' for the following licences
 
 - Electricity Generation
 - Electricity Retailer
