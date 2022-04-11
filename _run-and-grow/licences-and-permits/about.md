@@ -42,7 +42,7 @@ The directory below will help you find out which platform to log in to.
 
 Returns are additional information you may need to submit for certain licences. Here is a [list of licences that require submission of returns](/licences/submit-returns/).
 
-After you apply, the relevant government agencies will advise you on submitting returns. For enquires, you can contact the [licensing agency](/contact-us/agencies/) directly.
+After you apply, the relevant government agencies will advise you on submitting returns. For enquires, you can [contact the licensing agency](/contact-us/agencies/) directly.
 
 {% include panels-featurelink.html panels=site.data.rgp004_licences-sr %}
 
