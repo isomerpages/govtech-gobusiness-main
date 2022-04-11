@@ -1,5 +1,5 @@
 ---
-title: Licence guides by sector
+title: Licence guides
 permalink: /licences/find-licence-by-sector/
 third_nav_title: Licences and Permits
 ---

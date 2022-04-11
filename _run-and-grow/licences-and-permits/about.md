@@ -22,19 +22,29 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
 
+----
+
 <a name="renew-amend-licence"></a>
 
 ### Renew or amend licence
 
+As we're still in the process of moving all licences over to GoBusiness Dashboard, you may have to log in to either GoBusiness Dashboard or GoBusiness Licensing to renew/amend them.
+
+The directory below will help you find out which platform to log in to.
+
 {% include panels-featurelink.html panels=site.data.rgp003_licences-ar %}
 
-### About GoBusiness Dashboard
+----
 
-Apply for licences, renew them, and more with your personal GoBusiness Dashboard.
+<a name="submit-returns"></a>
 
-<!--Find out what you can do with your Dashboard and its features in this [article](/news-and-updates/updates/eAdviser-for-events){:target="_blank"}.-->
+### Submit returns
 
-For questions about GoBusiness Licensing, please refer to our [FAQ](/licensing-faqs/){:target="_blank"}.
+Returns are additional information you may need to submit for certain licences. Here is a [list of licences that require submission of returns](/licences/submit-returns/).
+
+After you apply, the relevant government agencies will advise you on submitting returns. For enquires, you can [contact the licensing agency](/contact-us/agencies/) directly.
+
+{% include panels-featurelink.html panels=site.data.rgp004_licences-sr %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

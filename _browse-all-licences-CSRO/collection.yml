@@ -1,0 +1,7 @@
+collections:
+  browse-all-licences-CSRO:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Managed-Security-Operations-Centre--SOC--Monitoring-Service-Licence.md
+      - Penetration-Testing-Services-Licence--PTS-.md
