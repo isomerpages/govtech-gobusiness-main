@@ -24,7 +24,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 **Energy Market Authority (EMA)**
 
-Submit 'Compliance declarations' and 'Update contact list' for the following licences
+Submit 'Compliance declarations' and 'Update contact list' for the following licences:
 
 - Electricity Generation
 - Electricity Retailer
