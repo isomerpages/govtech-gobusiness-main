@@ -13,7 +13,6 @@
         border: 1px solid #dbdfe4;
         box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
         border-radius: 5px;
-        padding: 24px;
         word-break: break-word;
         grid-auto-rows: auto;
     }
@@ -30,12 +29,13 @@
         width: auto;
         height: auto;
         margin: 0;
+    
     }
 
     .content .panel .panel-image>img {
         width: auto;
         height: 100%;
-        margin: 0;
+        margin: 29px 0 0 29px;
     }
 
     .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
@@ -46,13 +46,13 @@
 
     .content .panel .panel-title {
         font-family: hknova-semibold;
-        margin: 0;
+        margin: 32px 29px 20px 29px;
     }
 
     .content .panel .panel-description,
     .content [class*="panel-"]>div {
         font-family: hknova-regular;
-        margin: 0;
+        margin: 0 29px 20px 29px;
     }
 
     .content .panel .panel-links-container {
@@ -66,7 +66,7 @@
         font-size: 18px;
         line-height: 27px;
         display: block;
-        margin: 0;
+        margin: 10px 0 5px 0;
     }
 
 
@@ -99,7 +99,7 @@
         <p class="panel-description">{{ panel.description }}</p>
         {% endif %}
         {% if panel.tel or panel.email or panel.url %}
-        <hr style="width:100%;text-align:left;margin-left:0">
+        <hr style="width:100%;text-align:left;margin:0">
         <div class="panel-links-container">
             {% if panel.tel %}
             <div class="panel-links-group">
