@@ -1,6 +1,126 @@
 - accordion:
   letter: a
   data:
+    - title: Why are patrons required to undertake a supervised Antigen Rapid Test (ART) for premises which provide dancing as an intended activity for customers?
+      content: |
+        The dance setting within nightlife establishments entails a large number of people coming into close contact for prolonged periods of time and in enclosed spaces. A negative ART supervised by an MOH-approved test provider is required to ensure that public health risks associated with COVID-19 are mitigated.
+
+    - title: Is supervised ART required for customers entering karaoke establishments?
+      content: |
+        ART supervised by an MOH-approved test provider is only required for establishments intending to offer dancing among patrons as an activity. This is not only limited to nightclubs and discotheques, but may also apply to any other establishments intending to offer such an activity.
+
+    - title: How do I determine if my establishment is required to implement supervised ART testing for patrons?
+      content: |
+        Supervised ART test for patrons is required as long as the premise offers dancing among patrons as an intended activity. This will apply mainly to nightclubs and discotheques, but will also apply to any other establishments, including F&B, bars/pubs and karaoke businesses, intending to offer dancing among patrons, for instance, by providing a common area or stage.
+
+        If your establishment intends to provide dancing among patrons as an activity, you will need to ensure that all patrons entering your premises have a cleared Pre-Event Test status on their TraceTogether mobile application or received a negative ART test result from a MOH-approved COVID-19 test provider over SMS/email. 
+
+        Establishments that do not wish to offer dancing among patrons as an activity despite holding a valid Category 1 PE licence to do so should ensure that no dancing among patrons takes place within your premises. If this is enforced by your establishment, no supervised ART testing will be required for patrons. 
+
+    - title: How long is the customer's ART test valid for?
+      content: |
+        Each ART test is valid for 24 hours from the time of testing. The supervised ART for patrons is to be administered no more than 24 hours prior to the event or activity's <u>end time</u>. Nightlife establishments must ensure that patrons' supervised ART tests remain valid for as long as the customer is in the premises, or throughout the duration of the nightlife event or activity at the premises, whichever is longer. 
+
+    - title: How do I ensure that patrons comply with Safe Management Measures (SMMs), such as ensuring safe distancing between groups and mask-wearing, if I wish to provide dancing as an activity in my premises?
+      content: |
+        Nightlife businesses may consider putting in place physical demarcations and/or have staff members present at the dancefloor, among other steps, to ensure SMMs are adhered to while dancing occurs among patrons.
+
+    - title: Is mask-wearing required when carrying out karaoke activities and/or dancing among patrons at nightlife premises?
+      content: |
+        In accordance with prevailing SMMs, mask-wearing will continue to be required for indoor settings, including karaoke establishments, nightclubs and discotheques. Masks may be removed for the consumption of food and beverages, and should be put back on immediately after eating or drinking.
+
+    - title: For karaoke establishments that allow customers to sing on stage, will such customers be required to unmask when singing?
+      content: |
+        No. Masking-wearing is required regardless of whether singing takes place on stage. Masks may be removed for the consumption of food and beverages, and should be put back on immediately after eating or drinking.
+
+    - title: Are Vaccination-Differentiated SMMs (VDS) checks required at the premises if the premises is located inside a building (e.g., shopping centre, hotel, etc.) and VDS checks are already carried out at the building entrance?
+      content: |
+        Given that nightlife activities generally carry a greater risk of COVID-19 transmission, nightlife businesses will still be required to ensure VDS are in place at their premises. In addition, nightlife businesses must also ensure capacity limits are adhered to prior to allowing patrons to enter their premises.
+
+    - title: How do I check if URA's planning permission has been granted for bar/ pub, nightclub/ karaoke lounge use at the subject premises?
+      content: |
+        You may do so via URA SPACE ([here](https://www.ura.gov.sg/maps/){:target="_blank"}{:rel="noopener"}), under the 'Download Planning Decisions' tab. For other licensing matters, please check directly with SPF and SFA.
+
+    - title: The planning permission for bar/ pub, nightclub /karaoke lounge use within my unit had lapsed. Can I apply to URA to renew it?
+      content: |
+        You can submit the Change of Use application via the GoBusiness Licensing Portal [here](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}{:rel="noopener"}. Applicants are to first obtain the land/property owner's written consent for the proposal before submitting the application. In the submission, the land/property owner's consent, business concept, food and drinks menu and a floor plan showing the layout of the premises must be included. The processing time of a Change of Use application is approximately 10 working days. More time may be required if the submission is incomplete.
+
+    - title: Can I still operate as a nightlife business (i.e., bar/ pub, nightclub/ karaoke lounge) if I do not have URA's planning permission?
+      content: |
+        No. You will first need to submit a Change of Use application to URA, and approval is not guaranteed. In evaluating the proposal, URA will consider the prevailing planning policies, site context, impact of the use on surrounding development and input from relevant agencies. There are locations where URA will not grant new approvals for such use due to dis-amenities caused by such nightlife businesses in the area (refer to the [URA website](https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business/~/link.aspx?_id=B3B45584F9414B3FAD9C8FB66310358F&_z=z){:target="_blank"}{:rel="noopener"} for more information). Operators who have obtained URA's approval may then proceed to apply to SPF and SFA for relevant licenses.
+
+    - title: Will the Change of Use application process be expedited?
+      content: |
+        It generally takes 10 working days for Change of Use applications to be assessed. More time may be required if the submission is incomplete.
+
+    - title: I am a new operator taking over the previous tenant who used to run a nightlife business at the premises. Can I just proceed with the same business?
+      content: |
+        Before you proceed, please ensure that you have the following valid approval/licences for the premises:
+
+        a)	URA's planning permission for bar/pub, nightclub/karaoke lounge use at the premises;
+
+        b)	Corresponding Liquor Licence / PE Licence from SPF (if applicable); and
+
+        c)	SFA's Foodshop (Pub/Bar/Nightclub/Disco) Licence
+
+    - title: The planning permission for the bar/pub, nightclub/karaoke lounge use is still valid. However, the name of applicant reflected on the planning permission is not mine. Do I need to submit a new application to URA?
+      content: |
+        Planning permissions are granted to the premises and not a specific operator. Hence, you do not have to submit a new application for a change in operator. Nonetheless, please ensure that the relevant planning conditions for the use are complied with. 
+
+    - title: My company received the financial support package that was offered by the Government to pivot to other operations or exit the industry. Can my company reopen as a nightlife business?
+      content: |
+        In line with the conditions for receiving the nightlife support package, the firm will not be allowed to reopen for 12 months upon receipt of either the exit or pivot support package. For firms receiving the exit grant, this will be from the date that firms obtain documented proof^ of commencement of business closure. For firms receiving the pivot grant, this will be from the date that the Letter of Offer was issued. For more clarification on the nightlife support packages, please reach out to ESG directly. 
+
+        ^This may include any one of the following: (i) Strike-off notice from ACRA; (ii) Proof of participation in the Simplified Insolvency Programme; (iii) Notice of Winding-up Order and proof of engaging liquidator(s) for companies undergoing compulsory winding up; or (iv) Proof of appointment of provisional liquidator for companies undergoing voluntary winding up.
+
+    - title: With the resumption of nightlife businesses and lifting of the 10.30pm alcohol restriction, will URA allow for the closure of roads in key precincts?
+      content: |
+        The resumption of road closures and pedestrianisation of roads in key precincts will be reviewed on a case-by-case basis. 
+
+- accordion:
+  letter: b
+  data:
+    - title: I am currently operating a temporary F&B outlet with MTI's conditional permit. Can I revert to my original nightlife business (i.e., bar/ pub, nightclub/ karaoke lounge)?
+      content: |
+        If you hold the following approval/licences which are still valid for the premises, you may proceed to resume operations as a bar/pub, nightclub/karaoke lounge:
+
+        a)	URA's planning permission for bar/pub, nightclub/karaoke lounge use at the premises;
+
+        b)	Corresponding SPF's Liquor Licence / PE Licence from SPF (if applicable); and
+
+        c)	SFA's Foodshop (Restaurant / Snack Counter) Licence. As per paragraph 7 of the advisory, SFA will convert your licence back to Foodshop (Pub/Bar/Nightclub/Disco) and keep you informed.
+
+    - title: With the resumption of nightlife businesses, will operators still be required to adhere to the additional Safe Management Measures (SMMs) set out in the conditional permit?
+      content: |
+        The conditional permit issued for the temporary resumption of F&B operations for pivoted nightlife establishments will be rescinded on 19 April 2022. Operators will no longer be required to obtain a conditional permit in order to resume nightlife activities. However, operators are reminded to adhere to the SMMs set out in paragraphs 2 and 3 of the advisory. Agencies will continue to monitor the compliance of SMMs and will take firm enforcement action against operators and individuals who flout SMMs, to which penalties include prosecution and the revocation of licences.
+
+    - title: Am I required to change my SSIC code before resuming operations as a nightlife establishment?
+      content: |
+        Operators should update their SSIC codes to reflect the correct business activity taking place at their premises.
+
+    - title: I am currently holding a Foodshop (Snack Counter) licence in order to temporarily operate as a F&B outlet. Will I be required to submit a new application to SFA to obtain a Foodshop (Bar/Pub/Nightclub/Disco) licence before I can revert to my usual nightlife operations?
+      content: |
+        SFA will be updating your licence to a Foodshop (Pub/Bar/Nightclub/Disco) licence automatically. No new application is required, but please print out your licence when you have received notification of the change. Please also ensure that you have the valid land-use approval and licences from URA and SPF respectively, prior to resuming nightlife operations. 
+
+    - title: I have URA's endorsement for a temporary conversion to pivot to F&B operations and not a Change of Use approval. Can I choose to retain my Foodshop (Snack Counter) licence if I wish to continue my existing F&B operations on a permanent basis?
+      content: |
+        If your firm intends to operate as a restaurant, you should apply [here](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}{:rel="noopener"} to change the use of your premises to a restaurant or snack counter. URA will consider the prevailing planning policies, site context, impact of the use on surrounding development and input from relevant agencies in evaluating your proposal. Subject to URA’s approval, you will then be required to make a fresh application for a Foodshop (Snack Counter) or Foodshop (Restaurant) licence with SFA.
+
+    - title: My company is classified as a nightlife establishment based on the land-use approval for the premise. Can my company continue to operate as a F&B outlet after the conditional permit has been rescinded?
+      content: |
+        The incidental sales and consumption of food to support the nightclub/bar operations is permitted and further planning permission is not required from URA. However, if your firm intends to operate as a full-fledged restaurant, you should apply [here](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}{:rel="noopener"} to change the use of your premises to a restaurant. URA will consider the prevailing planning policies, site context, impact of the use on surrounding development and input from relevant agencies in evaluating your proposal. If planning permission is obtained, you will then need to contact SFA via the online feedback form on its website to make a request and submit the approval.
+
+    - title: Establishments that have pivoted to F&B are currently not allowed to provide dart boards, dice games, karaoke machines, and pool tables. Will these restrictions continue to be applied to nightlife businesses when the nightlife sector reopens?
+      content: |
+        From 19 April 2022 onwards, nightlife establishments may provide public entertainment activities, which include dart boards, karaoke equipment, and pool tables, provided they possess the requisite PE licences. You may click [here](https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence){:target="_blank"}{:rel="noopener"} for information on PE licences and on activities requiring a PE licence.
+
+    - title: My company had previously breached SMMs whilst operating as a pivoted nightlife establishment and was not allowed to resume operations after the suspension. Is my company allowed to reopen as a nightlife business on 19 April 2022?
+      content: |
+        All nightlife establishments will be permitted to fully reopen from 19 April 2022, provided that they possess the valid land-use approvals and licences (e.g., SFA’s Foodshop, SPF’s liquor and PE licences) to do so. Nightlife operators are reminded to adhere to all prevailing SMMs that are applicable to your business activities. Agencies will continue to monitor the compliance of SMMs, and will take firm enforcement action against operators and individuals who flout SMMs, to which penalties include prosecution and the revocation of licences.
+
+- accordion:
+  letter: c
+  data:
     - title: Which pivoted nightlife establishments will not be allowed to reopen?
       content: |
         Operators which are not allowed to resume operations will be notified by agencies.  They had previously breached Safe Management Measures (SMMs), including failing to prevent large groups of patrons from intermingling; allowing live entertainment (e.g. live singing and dancing, playing of musical instruments) and games (e.g. dice and billiards); and failing to ensure 1 metre safe distancing between customers and staff.
@@ -44,7 +164,7 @@
         Operators which intend to operate F&B services after the expiry of the one-year food license will need to obtain a Change of Use approval from the URA to convert to a restaurant. Only proposals for full-fledged restaurants may be considered, subject to full compliance with the restaurant guidelines, including the provision of proper kitchens.
 
 - accordion:
-  letter: b
+  letter: d
   data:
     - title: How do I know if I'm classified as a non-permitted nightlife business and if the following FAQs apply to me?
       content: |
@@ -91,7 +211,7 @@
         The Simplified Insolvency Programme (SIP) aims to provide simpler, faster, and lower-cost proceedings to assist micro and small companies in need for winding up or restructuring. It comprises two separate programmes: (a) Simplified Debt Restructuring Programme for viable businesses; and (b) Simplified Winding Up Programme for non-viable businesses. Companies may apply for the programmes [here](https://eservices.mlaw.gov.sg/io/){:target="_blank"}{:rel="noopener"} before 28 July 2021.
 
 - accordion:
-  letter: c
+  letter: e
   data:
     - title: How can I change my nightlife operations to activities that are permitted today? What kind of licences are required?
       content: |
@@ -180,7 +300,7 @@
         In the event that the PEL is not renewed by the time of reversion, the smoking room must remain close until a valid PEL is obtained.
 
 - accordion:
-  letter: d
+  letter: f
   data:
     - title: Why did the Government only decide to support one month of retrenchment benefit? Would the one month of support fulfil employers' full obligations towards the retrenchment benefit?
       content: |
