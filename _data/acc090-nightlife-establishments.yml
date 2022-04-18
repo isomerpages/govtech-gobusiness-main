@@ -55,6 +55,16 @@
 
     - title: I am a new operator taking over the previous tenant who used to run a nightlife business at the premises. Can I just proceed with the same business?
       content: |
+        Before you proceed, please ensure that you have the valid approvals/licences for the premises. This would include, but not limited to the following:
+
+        a) URA's planning permission for bar/pub, nightclub/karaoke lounge use at the premises;
+
+        b) Corresponding Liquor Licence / PE Licence from SPF (if applicable); and
+
+        c) SFA's Foodshop (Pub/Bar/Nightclub/Disco) Licence
+
+    - title: I am a new operator taking over the previous tenant who used to run a nightlife business at the premises. Can I just proceed with the same business?
+      content: |
         Before you proceed, please ensure that you have the following valid approval/licences for the premises:
 
         a)	URA's planning permission for bar/pub, nightclub/karaoke lounge use at the premises;
@@ -82,13 +92,13 @@
   data:
     - title: I am currently operating a temporary F&B outlet with MTI's conditional permit. Can I revert to my original nightlife business (i.e., bar/ pub, nightclub/ karaoke lounge)?
       content: |
-        If you hold the following approval/licences which are still valid for the premises, you may proceed to resume operations as a bar/pub, nightclub/karaoke lounge:
+        If you hold the approvals/licences which are still valid for the premises, you may proceed to resume operations as a bar/pub, nightclub/karaoke lounge. These approvals/licences would include, but not limited to:
 
-        a)	URA's planning permission for bar/pub, nightclub/karaoke lounge use at the premises;
+        a) URA's planning permission for bar/pub, nightclub/karaoke lounge use at the premises;
 
-        b)	Corresponding SPF's Liquor Licence / PE Licence from SPF (if applicable); and
+        b) Corresponding SPF's Liquor Licence / PE Licence from SPF (if applicable); and
 
-        c)	SFA's Foodshop (Restaurant / Snack Counter) Licence. As per paragraph 7 of the advisory, SFA will convert your licence back to Foodshop (Pub/Bar/Nightclub/Disco) and keep you informed.
+        c) SFA's Foodshop (Restaurant / Snack Counter) Licence. As per paragraph 7 of the advisory, SFA will convert your licence back to Foodshop (Pub/Bar/Nightclub/Disco) and keep you informed.
 
     - title: With the resumption of nightlife businesses, will operators still be required to adhere to the additional Safe Management Measures (SMMs) set out in the conditional permit?
       content: |
@@ -100,7 +110,7 @@
 
     - title: I am currently holding a Foodshop (Snack Counter) licence in order to temporarily operate as a F&B outlet. Will I be required to submit a new application to SFA to obtain a Foodshop (Bar/Pub/Nightclub/Disco) licence before I can revert to my usual nightlife operations?
       content: |
-        SFA will be updating your licence to a Foodshop (Pub/Bar/Nightclub/Disco) licence automatically. No new application is required, but please print out your licence when you have received notification of the change. Please also ensure that you have the valid land-use approval and licences from URA and SPF respectively, prior to resuming nightlife operations. 
+        SFA will be updating your licence to a Foodshop (Pub/Bar/Nightclub/Disco) licence automatically. No new application is required, but please print out your licence when you have received notification of the change. Please also ensure that you have the valid approvals/licences, including, but not limited to the land-use approval and licences from URA and SPF respectively, prior to resuming nightlife operations. 
 
     - title: I have URA's endorsement for a temporary conversion to pivot to F&B operations and not a Change of Use approval. Can I choose to retain my Foodshop (Snack Counter) licence if I wish to continue my existing F&B operations on a permanent basis?
       content: |
