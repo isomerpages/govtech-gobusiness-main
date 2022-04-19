@@ -14,9 +14,5 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc090-nightlife-establishments letter="b" %}
 
-#### III. Resumption of Nightlife Establishments that Pivoted to F&B Operations
-
-{% include letter-accordion.html accordions=site.data.acc090-nightlife-establishments letter="c" %}
-
 
 [Back to Covid-19 Overview](/covid/)
