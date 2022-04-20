@@ -1,7 +1,7 @@
 ---
 title: On Behalf Application (Individual Users)
 permalink: /licensing-faqs/individual-users/
-third_nav_title: Third Party
+third_nav_title: Third-Party
 ---
 
 ### General

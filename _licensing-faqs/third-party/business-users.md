@@ -1,7 +1,7 @@
 ---
 title: On Behalf Application (Business Users)
 permalink: /licensing-faqs/business-users/
-third_nav_title: Third Party
+third_nav_title: Third-Party
 ---
 
 ### For Applicant
