@@ -21,3 +21,5 @@ collections:
       - payment/payment.md
       - post-application/.keep
       - post-application/post-application.md
+      - third-party/individual-users.md
+      - third-party/business-users.md
