@@ -12,7 +12,7 @@ third_nav_title: Pre-scoped IT Solution
 {% include letter-accordion.html accordions=site.data.acc067a-personal-care-services letter="a" %}
 
 ### Generic Solution (for all sectors)
-Companies across all business sectors (including Pest Management) are eligible for the solutions here.
+Companies across all business sectors (including Pest Management) are eligible for the solutions here. 
 
 {% include letter-accordion.html accordions=site.data.acc067a-personal-care-services letter="b" %}
 
