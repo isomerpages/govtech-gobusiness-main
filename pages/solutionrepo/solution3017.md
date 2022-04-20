@@ -1,5 +1,5 @@
 ---
-title: 3. Implement Manpower Planning Processes (SFw HR)
+title: 2. Strategic Procurement
 permalink: /productivity-solutions-grant/solutionrepo/solution3017
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Implement-Manpower-Planning-Processes-SFw-HR-1' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Strategic-Procurement-1' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

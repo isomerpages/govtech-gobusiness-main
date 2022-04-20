@@ -1,5 +1,5 @@
 ---
-title: 2. Guard and Patrol (Provide Guard and Patrol Services)
+title: 1. Xero Accounting System for Small and Medium Enterprises
 permalink: /productivity-solutions-grant/solutionrepo/solution3010
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Guard-Patrol-Provide-Guard-Patrol-Services-34' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Xero-Accounting-System-Small-Medium-Enterprises-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
