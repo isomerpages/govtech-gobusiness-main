@@ -31,9 +31,9 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://cleverly.sg/psg-e-commerce-solution/ <br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
+Web URL: https://cleverly.sg/<br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

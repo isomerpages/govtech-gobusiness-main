@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710

@@ -35,7 +35,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>

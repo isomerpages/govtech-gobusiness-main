@@ -1,5 +1,5 @@
 ---
-title: Xero Accounting software - Grow Package
+title: Xero Accounting software - PerfecTen Xero Grow Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2192
 ---
 
@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
 
 ### Contact Information
 Web URL: www.xero.com <br>Contact Hotline: 63104961 <br>Contact Email: enquiry@perfecten.com.sg <br>

@@ -31,7 +31,7 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 

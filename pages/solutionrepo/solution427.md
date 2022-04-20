@@ -32,7 +32,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +65 9761 9340

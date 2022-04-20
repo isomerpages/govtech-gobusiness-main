@@ -32,7 +32,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://vodich.com.sg/index.php/cloud-accounting/ <br>Contact Hotline: 67339196 <br>Contact Email: sales@vodich.com.sg <br>
