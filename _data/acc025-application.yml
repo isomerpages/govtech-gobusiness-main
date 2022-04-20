@@ -3,13 +3,15 @@
   data:
     - title: How do I apply for a licence?
       content: |
-        Step 1: Login to GoBusiness Dashboard and Click "[Find Licence](https://dashboard.gobusiness.gov.sg/add-tasks){:target="_blank"}{:rel="noopener"}".
-        
-        Step 2: Select the licence you wish to apply and you will be redirected to the application form (for migrated licences) or respective government website (for licences that have not been migrated) 
+        Step 1: Search for the licence you want.
+
+        Step 2: Add the licence as a Task.
 
         Step 3: Fill in the information required.
 
         Step 4: Declare information to be accurate and submit.
+
+        Step 5: Make payment.
 
         You will find your application under In Progress on your GoBusiness Dashboard.
 
@@ -23,43 +25,51 @@
 
         For licences that are still on LicenceOne, please log in to LicenceOne and amend it there.
 
-        ![Screenshot of withdraw an application](/images/FAQ/Tasks-Withdraw.png)
-
     - title: How do I amend an existing licence?
       content: |
-        Step 1: Log in to GoBusiness Dashboard
+        To amend licences on GoBusiness:
 
-        Step 2: Go to "My Licences"
+        Step 1: Click on the Active section under My Licences.
 
-        If you see a "..." icon in the row with your application, click on it and select "Amend".
+        Step 2: Search for the licence you want to amend.
 
-        If you see the "<b>Manage via GoBusiness Licensing</b>" button, click on it. You will be directed to GoBusiness Licensing, where you can amend the application.
+        Step 3: Click on the '...' button and select Amend.
 
-        ![Screenshot of amend existing licence](/images/FAQ/licence-amend.png)
+        Step 4: Amend the details you want, declare the information to be accurate and make payment (if any).
+
+        You will then be able to see your amended application under the In Progress section of your GoBusiness Dashboard. Once the amendment is approved, you will find your licence in the Active Licences section. Please note that amendments may only be made for some licences.
+
+        For licences that are still on LicenceOne, please log in to LicenceOne and amend it there.
 
     - title: How do I renew an existing licence?
       content: |
-        Step 1: Log in to GoBusiness Dashboard
+        To renew licences on GoBusiness:
 
-        Step 2: Go to "My Licences"
+        Step 1: Click on the Due For Renewal section under My Licences.
 
-        If you see a "..." icon in the row with your application, click on it and select the desired action.
+        Step 2: Search for the licence you want to renew.
 
-        If you see the "<b>Renew via GoBusiness Licensing</b>" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew, withdraw or cancel the licence.
+        Step 3: Click on the ... button and select Renew.
 
-        ![Screenshot of renew existing licence](/images/FAQ/licence-renew.png)
+        Step 4: Ensure and declare the information to be accurate and make payment (if any).
+
+        You will then be able to see your renewal application under the In Progress section of your GoBusiness Dashboard. Once the renewal is approved, you will find your licence in the Active Licences section.
+
+        For licences that are still on LicenceOne, please log in to LicenceOne and amend it there.
 
     - title: How do I cancel an existing licence?
       content: |
-        Step 1: Log in to GoBusiness Dashboard
+        To cancel licences on GoBusiness:
 
-        Step 2: Go to "My Licences"
+        Step 1: Click on My Licences.
 
-        If you see a "..." icon in the row with your application, click on it and select the desired action.
+        Step 2: Search for the licence you want to cancel.
 
-        If you see the "Manage via GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew, withdraw or cancel the licence.
+        Step 3: Click on the ... button and select Cancel.
 
-        ![Screenshot of amend existing licence](/images/FAQ/licence-amend.png)
+        You will then be able to see your application for cancellation under the In Progress section of your GoBusiness Dashboard. Once the cancellation is approved, you will no longer see the licence in the Active Licences section. Please note that not all licences can be cancelled.
+
+        For licences that are still on LicenceOne, please log in to LicenceOne and amend it there.
 
 - accordion:
   letter: b
