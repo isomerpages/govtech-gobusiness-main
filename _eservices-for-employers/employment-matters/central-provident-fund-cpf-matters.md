@@ -19,5 +19,5 @@ Know your obligations as an employer on [CPF Board's website](https://www.cpf.go
 - [Apply for CPF Submission Number](https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number){:target="_blank"}{:rel="noopener"}
   <br>Apply for a CPF Submission Number to start making CPF contributions.
 
-- [CPF EZpay](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}
+- [CPF EZPay](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}
   <br>Submit CPF contributions via CPF EZPay.
