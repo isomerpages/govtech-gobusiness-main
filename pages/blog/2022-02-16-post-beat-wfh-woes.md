@@ -4,7 +4,7 @@ title: 'Beat WFH woes: staying productive and connected with your team'
 permalink: /gobusiness-blog/beat-wfh-woes
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
-crumbs: business-tips-&-tricks
+crumbs: business-tips-and-tricks
 description: Four tips to get more productive and form a closer relationship with your team while working remotely
 ---
 

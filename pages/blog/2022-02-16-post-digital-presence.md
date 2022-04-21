@@ -4,7 +4,7 @@ title: Three steps to creating a digital presence
 permalink: /gobusiness-blog/three-steps-to-digital-presence
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
-crumbs: business-tips-&-tricks
+crumbs: business-tips-and-tricks
 description: A beginner’s guide to help business owners kickstart their digitalisation journey. In three easy steps, learn how you can create a digital presence.
 ---
 
