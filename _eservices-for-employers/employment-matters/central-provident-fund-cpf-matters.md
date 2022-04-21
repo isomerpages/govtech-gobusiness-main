@@ -8,19 +8,16 @@ third_nav_title: Employment Matters
 
 ![CPF matters](/images/eservices/eServices_About Central Provident Fund (CPF).jpg)
 
-As an employer, you are required to make CPF contributions for your employees. How much you need to contribute depends on the types of wage payments your employees receive.
+As an employer, you are required to pay CPF contributions for your employees who are Singapore Citizens or Singapore Permanent Residents and who are earning total wages of more than $50 per month.
 
-Learn more about it on [CPF's website](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/hiring-employees/cpf-contributions-for-your-employees){:target="_blank"}{:rel="noopener"}.
+Know your obligations as an employer on [CPF Board's website](https://www.cpf.gov.sg/employer/employer-obligations){:target="_blank"}{:rel="noopener"}.
 
 ### e-Services for CPF matters
 
 **Central Provident Fund Board**
 
-- [Apply for CPF Submission Number](https://www.cpf.gov.sg/eSvc/Web/AuthenticationProviderSelection/SelectSPCPProvider?returnAction=%2feSvc%2fWeb%2fSchemes%2fApplyforCPFSubmissionNumber%2fIndex&theme=Employer){:target="_blank"}{:rel="noopener"}
-  <br>Apply for a CPF Submission Number on BizFile+ to start making CPF contributions.
+- [Apply for CPF Submission Number](https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number){:target="_blank"}{:rel="noopener"}
+  <br>Apply for a CPF Submission Number to start making CPF contributions.
 
-- [CPF EZpay](https://www2.cpf.gov.sg/ert/publicMenu.action){:target="_blank"}{:rel="noopener"}
-  <br>Submit employees' CPF contribution details and make payment online.
-
-- [Submission of CPF contributions (via e-Submission and hardcopy form)](#){:target="_blank"}{:rel="noopener"}
-  <br>Submit employees' CPF contribution details, either online or in hardcopy, and make payment online.
+- [CPF EZPay](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}
+  <br>Submit CPF contributions via CPF EZPay.

@@ -45,10 +45,10 @@ Learn more about the Employment Act on [Ministry of Manpower's website](https://
 
 ### e-Services for managing employees
 
-**CPF Board**
+**Central Provident Fund (CPF) Board**
 
-- [Submission of CPF contributions (via e-submission and hardcopy form)](https://www2.cpf.gov.sg/ert/dsa/spcpSelection.action){:target="_blank"}{:rel="noopener"}
-  <br>Submit employees' CPF contribution details, either online or in hardcopy, and make payment online.
+- [CPF EZPay](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}
+  <br>Submit CPF contributions via CPF EZPay.
 
 **Ministry of Manpower (MOM)**
 
