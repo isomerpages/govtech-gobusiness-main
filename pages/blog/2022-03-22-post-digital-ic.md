@@ -4,7 +4,7 @@ title: 'Digital IC: An easy, secure way to verify customers’ identity'
 permalink: /gobusiness-blog/digitalic
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
-crumbs: business-tips-&-tricks
+crumbs: business-tips-and-tricks
 description: The Singpass Digital IC is a secure and convenient way to verify your customer’s identity in person, improving customer experience. 
 ---
 
