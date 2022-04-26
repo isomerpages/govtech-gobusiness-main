@@ -6,168 +6,36 @@ third_nav_title: Safe Management Requirements
 
 ## Contact tracing
 
-All permitted enterprises and event organiser<sup>1</sup> are subject to the following requirements for the implementation of SafeEntry, pursuant to Regulation 10(b) or otherwise of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (“Control Order”). Failure to comply with these requirements may result in a breach of the Control Order, for which upon conviction of a first offence the penalty is a fine of up to a maximum of $10,000, imprisonment of up to a maximum of 6 months, or both.
+From 26 April 2022, MOH will stop issuing Health Risk Notices (HRNs) to close contacts. However, persons should continue to exercise social responsibility. For example, COVID-19 positive persons should inform their close contacts so that the contacts can take the necessary precautions under Protocol 3, i.e. test themselves to be negative before leaving their homes, to prevent further spread.
 
-Please note that the methods for SafeEntry can and will change depending on the state of affairs in Singapore in the context of the COVID-19 pandemic. Permitted enterprises and event organisers are advised to stand ready to adapt entry arrangements at their premises to new methods if they want to be confident in meeting statutory requirements.
+Notwithstanding, the public is strongly encouraged to keep the TraceTogether application on their phones as well as their TraceTogether tokens, to enable us to rapidly step up contact tracing should we need to do so again in response to a new Variant of Concern. 
 
 ### 1. SafeEntry
 
 ![SafeEntry](/images/covid/SafeEntry_logo_inline.png 'SafeEntry')
 
-SafeEntry is the name of the national digital visitor registration system that logs the details and contact information of individuals visiting hotspots, workplaces of permitted enterprises, as well as selected public venues to prevent and control the transmission of COVID-19.
-
-**From 17 May 2021, contact tracing procedures will be further strengthened through the implementation of TraceTogether-only SafeEntry check-in, which replaces the previous SafeEntry check-in.** Under TraceTogether-only SafeEntry, check-ins must be performed using the TraceTogether App or TraceTogether Token by:
+From 26 April 2022, most venues will not be required to offer check-ins with the TT application or token, except larger events with more than 500 participants at any one time and certain nightlife establishments, where Vaccination-Differentiated Safe Management Measures (VDS) checks are still required at entry. To facilitate VDS checks, check-ins may be performed using the TraceTogether App or TraceTogether Token (as a default mode) by: 
 
 - Using one's TT App to scan the venue's QR code
-- Displaying one's TT Token so that a venue staff can scan the TT Token's QR code
-- Tapping one's TT App or TT Token at a SafeEntry Gateway device
+- Displaying one's TT Token so that a venue staff can scan the TT Token's QR code (with businesses’ SE Biz App)
 
-Using this system allows businesses to verify user identity with data from Government sources to facilitate their contact tracing work should the need arise. SafeEntry by only the methods above is presently regarded as the appropriate procedure and control that enables or facilitates contact tracing for the purpose of meeting the safe management measures required by the law, save in circumstances where certain particular methods are required pursuant to specific restrictions or conditions.
+Businesses may also accept other forms of checks for vaccination status, including but not limited to:
+-	Scanning of NRIC/FIN using the SE Biz App
+-	Displaying vaccination status through HealthHub
 
-From 17 May 2021, all workplaces that are allowed to be in operation (including offices, factories, etc) must institute TraceTogether-only SafeEntry check-in, which will replace SafeEntry check-in, to log the check-in of employees, contractors and visitors in order to meet the safe management measures required by the law.
+Businesses can find the full list of acceptable checks in the following two websites:
+-	Information on Vaccination-Differentiated Safe Management Measures http://go.gov.sg/vdsmminfo 
+-	Acceptable Documents for Verification of Eligibility for Vaccination-Differentiated Safe Management Measures (SMMs)  https://go.gov.sg/acceptabledocs 
 
-The following list of venues must also institute TraceTogether-only SafeEntry check-in for customers, clients, students and visitors entering their premises in order to meet the safe management measures required by the law<sup>2</sup>:
-
-- Solemnisations and weddings
-
-- Funeral events
-
-- Funerary memorial events
-
-- Funeral parlours with wake halls
-
-- Schools and educational institutes
-
-- Preschools and student care centres
-
-- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
-
-- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities
-
-- Vaccination centres, regional swab centres, quick test centres
-
-- Places of worship
-
-- Hotels and hostels
-
-- Banks and financial institutions
-
-- Retail, personal and food & beverage (F&B) services<sup>3</sup><Br>
-  a. Malls<Br>
-  b. Supermarkets<sup>4</sup><br>
-  c. Large retail outlets (> 930 sqm or 10,000 sqft)<sup>5</sup><br>
-  d. Personal care services e.g. hairdressers / barbers, spas, beauty and wellness centres<Br>
-  e. Showrooms<Br>
-
-- Wet markets and hawker centres<sup>6</sup>
-
-- Tuition and enrichment and training centres
-
-- Other training/ class venues<br>
-  a. Outdoor exercise classes<br>
-  b. Sports and fitness centres, including gyms, studios<Br>
-
-- Country and recreation clubs
-
-- Registered premises of other member clubs/societies
-
-- Cultural and entertainment venues<br>
-  a. Libraries<br>
-  b. Museums, exhibitions<br>
-  c. Cinemas <br>
-  d. Ticketed attractions<br>
-  e. Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
-
-- MICE event venues (e.g. convention centres)
-
-- Government public service centres
-
-- Construction and marine process worksites
-
-- Cruises
-
-Smaller retail outlets (i.e. ≤ 930sqm or 10,000sqft) where customers are unlikely to be in close proximity for a prolonged period of time, such as pharmacies, convenience stores and heartland provision shops are not required to implement SafeEntry for customers. Those that have voluntarily done so, should remove their SafeEntry check-ins.
-
-For large office buildings that have multiple floors and/or house different business entities, check-in is required for each business entity and at each floor. Businesses and building owners who wish to find out more can click [here](https://www.safeentry.gov.sg/){:target="_blank"}{:rel="noopener"}.
-
-To better support contact tracing efforts involving street-hail trips, all taxi commuters should scan the SafeEntry QR codes deployed in taxis when taking street-hail trips.
-
-For avoidance of doubt, all permitted enterprises and event organisers, must still adhere strictly to the other safe management measures, e.g. safe distancing.
-
-<sup>1</sup> This includes event organisers who are not enterprises and who organise events such as funerals, weddings and solemnisations.<br>
-<sup>2</sup> This list will be updated as more activities and services resume.<br>
-<sup>3</sup> From 28 Mar 2022, establishments located within premises (such as malls) that already require SafeEntry upon entry, need not conduct SafeEntry. However, they will need to do so if they operate outside the hours of the premises or have their own direct entrances separate from the mall entrance.<br>
-<sup>4</sup> From 28 Mar 2022, supermarkets that are standalone stores or located within premises covered by TraceTogether-only SafeEntry no longer need to implement TraceTogether-only SafeEntry for customers, clients and visitors, in addition to employees and contractors. However, for those located in malls, they need to do so if they operate outside the hours of these premises or have their own direct entrances separate from the mall entrance.<br>
-<sup>5</sup> Large retail outlets located inside buildings (e.g. malls or commercial buildings) that are already covered by TraceTogether-only SafeEntry and SafeEntry Gateway, will not be required to deploy both, if they have the same operating hours.<br>
-<sup>6</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
+For avoidance of doubt, all permitted enterprises and event organisers, must still adhere strictly to the prevailing safe management measures.
 
 ---
 
 ### 2. SafeEntry Gateway
 
-SafeEntry Gateway will be introduced as an additional mode of SafeEntry check-in.
+SafeEntry Gateway was introduced as an additional mode of SafeEntry check-in.
 
-The SafeEntry Gateway enables contactless detection of both the TraceTogether App and Token, and serves as an additional means of SE check-in that is quicker and more seamless. It also allows users to check if their Token has run out of battery or is not working.
-
-The SafeEntry Gateway is available both as a physical device and as an app function in the existing SafeEntry (Business) App. Both the device and app function by detecting Bluetooth signals from the TraceTogether App and TraceTogether Token for SafeEntry check-in. Visitors may bring their mobile phone with the TraceTogether App in the foreground or the TraceTogether Token close to the Gateway to check in. If the check-in is successful, the SafeEntry Gateway device will emit a green light and a beep sound to indicate a successful check-in, while the SafeEntry (Business) App will have a pop-out screen for a successful check-in.
-
-The following public-facing venues are required to deploy SafeEntry Gateway at their main entrances as an additional check-in mode to log the check-in of customers, clients and visitors:
-
-- Funeral parlours with wake halls
-
-- Schools and educational institutions
-
-- Preschools and student care centres
-
-- Healthcare facilities e.g. hospitals, clinics, TCM clinics, complementary healthcare facilities
-
-- Residential and community-based care facilities e.g. nursing homes, Senior Activity Centres, Senior Care Centres, Day Activity Centres for Persons with Disabilities
-
-- Vaccination centres, regional swab centres, quick test centres
-
-- Places of worship
-
-- Hotels and hostels
-
-- Retail bank branches and insurers with customer-facing locations
-
-- Retail, personal and food & beverage (F&B) services<Br>
-  a. Malls<Br>
-  b. Supermarkets<sup>3</sup><Br>
-  c. Large retail outlets (> 930 sqm or 10,000 sqft)<Br>
-  e. Personal care services e.g. hairdressers, barbers, spas, beauty and wellness<br>
-  g. Showrooms<br>
-
-- Wet markets and hawker centres<sup>6</sup>
-
-- Tuition and enrichment and training centres
-
-- Other training/ class venues<Br>
-  a. Sports and fitness centres, including gyms, studios<br>
-
-- Country and recreation clubs
-
-- Registered premises of other member clubs/societies
-
-- Cultural and entertainment venues<br>
-  a. Libraries<br>
-  b. Selected public and private museums, heritage institutions and galleries<sup>7</sup><br>
-  c. Cinemas<br>
-  d. Ticketed attractions<br>
-  e. Other entertainment venues: amusement centres, computer game centres, board game centres, billiard saloons, paintball game centres, axe-throwing centres<br>
-
-- MICE event venues (e.g. convention centres)
-
-- Government public service centres
-
-Businesses may deploy either the SafeEntry Gateway device or the SafeEntry (Business) App based on their business needs.
-
-In order to facilitate more precise contact tracing efforts, businesses are encouraged to facilitate check-out for their customers, clients and visitors. Businesses may do so by toggling to the SEGW check-out function within the SafeEntry (Business) App or by deploying the SafeEntry Gateway Check-Out Boxes<sup>8</sup>. Businesses need not enforce checking out but should encourage customers to do so as much as possible.
-
-<sup>3</sup> From 28 Mar 2022, establishments located within premises (such as malls) that already require SafeEntry upon entry, need not conduct SafeEntry. However, they will need to do so if they operate outside the hours of the premises or have their own direct entrances separate from the mall entrance.<br>
-<sup>6</sup> These premises will be informed by the National Environmental Agency and Housing Development Board.<br>
-<sup>7</sup> Selected museums will be informed by the National Heritage Board (NHB) <br>
-<sup>8</sup> The distribution of SEGW Check-Out Boxes is prioritised to venues with higher throughput of visitors, and places where people are likely to be in close proximity for prolonged periods with their masks off. Eligible businesses will be notified via email and SMS and receive the Check-Out Box via delivery. <br>
+However, the SE Gateway Box cannot check for vaccination status, and therefore cannot be used for VDS checks. With the removal of SE check-in requirements, there is no need to deploy the SE Gateway Box. Nevertheless, businesses should still keep the SE Gateway Box in preparation for future Variants of Concerns. We will provide further instructions for the SE Gateway Box in due course.
 
 ---
 
@@ -175,8 +43,8 @@ In order to facilitate more precise contact tracing efforts, businesses are enco
 
 ![TraceTogether](/images/covid/tracetogether_logo.png 'TraceTogether')
 
-The TraceTogether programme is a programme to enhance Singapore's efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
+The TraceTogether programme was a programme to enhance Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
 
-Both the TraceTogether App and the TraceTogether Token work by exchanging short-distance Bluetooth signals between other nearby TraceTogether devices. The TraceTogether devices estimate the distance between users, and the duration of such encounters. Records of these encounters are stored locally in the user's TraceTogether App or Token in encrypted form, for 25 days (covering the incubation period of the virus as well as time taken for individuals to seek treatment and to be tested for COVID-19), after which it is automatically deleted.
+From 26 April 2022, MOH will stop issuing Health Risk Notices (HRN) to close contacts. As HRNs will no longer be issued, COVID-19 cases need not upload their TraceTogether data. Their TraceTogether token will also not be collected for data extraction. 
 
-If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user's close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
+Notwithstanding, the public is strongly encouraged to keep the TraceTogether application on their phones as well as their TraceTogether tokens, to enable us to rapidly step up contact tracing should we need to do so again in response to a new Variant of Concern. 
