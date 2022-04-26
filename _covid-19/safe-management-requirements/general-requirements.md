@@ -10,11 +10,9 @@ To ensure a safe working environment, businesses are required to abide by the [n
 
 All businesses should take note of the following:
 
-- Employers must implement workforce vaccination measures to keep your workforce safe and minimise strain on our healthcare capacity. Only employees who are fully vaccinated, or recovered from COVID-19 in the past 180 days are allowed to enter the workplace.
+- All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.
 
-- Up to 75% of employees who can work from home are allowed to return to the workplace. Those who report to work onsite are encouraged to self-test when they feel unwell or had recent contact with an infected person.
-
-- For employees (and also contractors and vendors) who are physically onsite at the workplace, employers must ensure (a) Wear masks when indoors, except during activities that require masks to be removed. (b) In mask-off settings, there must be 1 metre between each group of up to 10 persons. Safe distancing is not required in mask-on settings (c) Social gatherings at the workplace are permitted, as long as the above requirements are adhered to.
+- For employees (and contractors and vendors) who are physically onsite at the workplace, mask wearing is required indoor except when (i) persons are not interacting with others and (ii) not in customer-facing areas where interaction is likely to happen. While this concession will provide some flexibility for employees as more return to the workplace, everyone is advised to exercise social responsibility and maintain an appropriate safe distance from others while unmasked.
 
 - Employers and employees can refer to the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"} for more details on work arrangements for unvaccinated employees. Employers may check their company's vaccination rate through [The Workforce Vaccination Checker](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} (Corppass login required).
 
