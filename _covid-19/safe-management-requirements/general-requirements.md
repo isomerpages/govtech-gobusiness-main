@@ -18,4 +18,4 @@ All businesses should take note of the following:
 
 - Any applicable sector-specific requirements
 
-![SMR](/images/covid/SMM-Updated 24 March 2022.jpg)
+![SMR](/images/covid/Updates to SMM infographic - Apr 2022_v3-01.jpg)
