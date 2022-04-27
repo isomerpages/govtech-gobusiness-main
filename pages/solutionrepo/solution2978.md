@@ -1,5 +1,5 @@
 ---
-title: 1. Apply Knowledge of Accounting Related Concepts
+title: 3. Service Challenges (Level 5)
 permalink: /productivity-solutions-grant/solutionrepo/solution2978
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Knowledge-AccountingRelated-Concepts-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

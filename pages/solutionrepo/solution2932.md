@@ -1,5 +1,5 @@
 ---
-title: Sophos Central Intercept X Advanced - With XDR and Managed Threat Response Standard - 100 Users
+title: Sophos Central Intercept X Advanced - With XDR - 50 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2932
 ---
 
@@ -10,7 +10,7 @@ It harnesses the power of a deep learning neural network, marking Intercept X sm
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

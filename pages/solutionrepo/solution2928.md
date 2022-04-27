@@ -1,16 +1,15 @@
 ---
-title: Sophos Central Intercept X Advanced - 25 Users
+title: Netiquette Cloud Business Suite - Package E (Saas for 35 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2928
 ---
 
 ### Description
 
-Rated number 1 protection in independent third-party testing, Sophos consistently blocks more malware and exploits than competing solutions.
-It harnesses the power of a deep learning neural network, marking Intercept X smarter, more scalable, and more effective against never-seen-before threats. Intercept X leverages deep learning to outperform endpoint security solutions that use traditional machine learning or signature-based detection alone.
+Netiquette Business Suite is a cloud based solutions designed for growth stage businesses that has advance features to ease off the growing day to day challenges. The solutions have a library of APIs to fit various business needs . Netiquette is one of the first few solutions in the market to offer "Seamless Filing" feature; Seamless Filing offer SMEs to file their annual statutory filing such as "Form CS", "Annual Return" and "Simplified XBRL" directly and thus saving hours of preparation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: swiz.com.sg <br>Contact Hotline: 62502661 <br>Contact Email: sales@swiz.com.sg <br>
+Web URL: www.netiquette.com.sg <br>Contact Hotline: 94882285 <br>Contact Email: enquiry@netiquette.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
