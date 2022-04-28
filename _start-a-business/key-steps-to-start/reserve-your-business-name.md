@@ -10,7 +10,7 @@ third_nav_title: Key Steps to Start
 
 Decide on a name for your business and use our e-Adviser for Starting a Business to:
 
-- Check if there are similar business names or trade marks, and if it's available as a domain name or a username on Facebook/Instagram/YouTube/Twitter.
+- Check if there are similar business names, and if it's available as a domain name or a username on Facebook/Instagram/YouTube/Twitter.
 - Create a Guided Journey to get your business started, step by step, and find out if additional approvals are needed.
 
 You can also check if there are similar trade marks [here](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
