@@ -13,6 +13,8 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 - Check if there are similar business names or trade marks, and if it's available as a domain name or a username on Facebook/Instagram/YouTube/Twitter.
 - Create a Guided Journey to get your business started, step by step, and find out if additional approvals are needed.
 
+You can also check if there are similar trade marks [here](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
+
 If you have decided on a business name for your Sole Proprietorship/Partnership, you may reserve the name on GoBusiness via this e-Adviser.
 {% include button.html text="Go to e-Adviser for Starting a Business" src="https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname" type="primary" %}
 
