@@ -1,5 +1,5 @@
 ---
-title: 2. Apply Knowledge of Accounting-Related Concepts
+title: 2. Implement Good Documentation Practices 
 permalink: /productivity-solutions-grant/solutionrepo/solution3008
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Knowledge-AccountingRelated-Concepts-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Implement-Good-Documentation-Practices-Blended-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
