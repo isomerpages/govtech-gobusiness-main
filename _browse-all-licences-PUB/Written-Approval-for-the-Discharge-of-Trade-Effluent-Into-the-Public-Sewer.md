@@ -45,7 +45,7 @@ to support your application.
 <li>
 <strong>How soon can my application be processed?</strong><br>
 Your application can be processed within 14 working days upon your submission of all the information and documents required by PUB.<br>
-We will inform you of the status of your application through email. You may also log on to <a href="http://www.business.gov.sg/licences" target="_blank" rel="noopener">GoBusiness Licensing</a> to check the status of your application under Check Application Status.
+We will inform you of the status of your application through email. You may also log on to <a href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action" target="_blank" rel="noopener">GoBusiness Licensing</a> to check the status of your application under Check Application Status.
 </li> 
 
 <li>
