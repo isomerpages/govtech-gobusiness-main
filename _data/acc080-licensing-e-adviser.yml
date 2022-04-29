@@ -118,9 +118,9 @@
 
         - [Non-Residential Consumer buying electricity at tariff and installing solar PV](https://eadviser.gobusiness.gov.sg/nonresidentialconsumerbuyingelectricityinstallingsolarpv){:target="_blank"}
 
-        - [Non-Residential Consumer buying electricity at retail price and installing solar PV of < 1 MWac](https://eadviser.gobusiness.gov.sg/nonresidentialconsumerbuyingelectricityinstallingsolarpvless1mwac){:target="_blank"}
+        - [Non-Residential Consumer buying electricity at retail price and installing solar PV of < 1 MWac](https://eadviser.gobusiness.gov.sg/nrcbuyelectricityinstallsolarpvless1mwac){:target="_blank"}
 
-        - [Non-Residential Consumer buying electricity at retail price and installing solar PV of >= 1 MWac](https://eadviser.gobusiness.gov.sg/nonresidentialconsumerbuyingelectricityinstallingsolarpvmore1mwac){:target="_blank"}
+        - [Non-Residential Consumer buying electricity at retail price and installing solar PV of >= 1 MWac](https://eadviser.gobusiness.gov.sg/nrcbuyelectricityinstallsolarpvmore1mwac){:target="_blank"}
 
         - [Residential Consumer buying electricity at tariff and installing solar PV](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpv){:target="_blank"}
 
@@ -281,6 +281,17 @@
         - [Setting up private hospital](https://eadviser.gobusiness.gov.sg/settingupprivatehospital){:target="_blank"}
 
         - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
+
+- accordion:
+  letter: I
+  data:
+    - title: Information Technology
+      content: |
+        Explore licences you may require with the e-Advisers:
+
+        - [Providing Penetration Testing Service](https://eadviser.gobusiness.gov.sg/providingpenetrationtestingservice){:target="_blank"}
+
+        - [Providing Managed SOC Monitoring Service](https://eadviser.gobusiness.gov.sg/providingmanagedsocmonitoringservice){:target="_blank"}
 
 - accordion:
   letter: l
