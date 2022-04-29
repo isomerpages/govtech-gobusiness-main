@@ -312,11 +312,11 @@
     - title: National Parks Board
       content: |
         | **Licence Name** | **Log In To** |
-        |CITES Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
-        |Non-CITES Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
-        |Phytosanitary Certification|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
-        |Pre-signed CITES Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
-        |Pre-signed non-CITES Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
+        |CITES Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
+        |Non-CITES Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
+        |Phytosanitary Certification|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
+        |Pre-signed CITES Permit|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
+        |Pre-signed non-CITES Certificate|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Usage of Premises in Parks|[NPARKS](https://www2.nparks.gov.sg/vbs/){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: p

@@ -18,8 +18,7 @@ Cybersecurity Services Regulation Office (CSRO)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<p>Individual licence: $500<br />Company licence: $1,000</p>
+<p><strong>Fee</strong><br />Individual licence: $500<br />Company licence: $1,000</p>
 <p>Both types of licences are valid for a period of 2 years.<br />Note: Due to the COVID-19 pandemic which has negatively impacted many businesses, a 50% wavier of the first cycle of licence fees will be granted for all applications lodged within the first 12 months from the commencement of licensing.</p>
 
 <H3>Documents Needed</H3>
