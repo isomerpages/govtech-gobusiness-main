@@ -36,9 +36,7 @@ Find out which licences you need by answering a few questions, based on your bus
 
 {% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="h" %}
 
-## I
 
-{% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="i" %}
 
 ## L
 
