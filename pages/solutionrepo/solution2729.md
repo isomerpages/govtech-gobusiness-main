@@ -9,7 +9,7 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Metro_ERP_20210373_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

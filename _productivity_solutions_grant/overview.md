@@ -9,7 +9,7 @@ The Productivity Solutions Grant (PSG) was launched on April 2018 to assist busi
 
 PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy services that improves productivity, aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs).
 
-The enhanced support level of 80% is time-limited and will lapse on 31 March 2022. The maximum support level will return to 70% from 1 April 2022.
+Receive up to 70% funding support for eligible costs.
 
 For eligible pre-scoped solutions, enhanced support level of up to 80% will be extended from 1 April 2022 to 31 March 2023 for Food Services and Retail sectors. Please refer to the [FAQs](/productivity-solutions-grant/faq/) for more details on the eligible solutions
 
