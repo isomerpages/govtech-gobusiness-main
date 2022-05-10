@@ -18,9 +18,6 @@ third_nav_title: For Sector-Specific Queries
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="e" %}
 
-#### IV. Mediation Programme
-
-{% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="f" %}
 
 [Back to Covid-19 Overview](/covid/)
 
