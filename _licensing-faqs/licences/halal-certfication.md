@@ -1,6 +1,6 @@
 ---
-title: Halal Certfication
-permalink: /licensing-faqs/halal-certfication/
+title: Halal Certification
+permalink: /licensing-faqs/halal-certification/
 third_nav_title: Licences
 ---
 
