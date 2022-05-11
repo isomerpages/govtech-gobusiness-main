@@ -1,5 +1,5 @@
 ---
-title: 2. Manage Human Resource Analytics (SFw HR)
+title: 1. Financial Acumen Level 4 Manage Budgets and Finances
 permalink: /productivity-solutions-grant/solutionrepo/solution3011
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Human-Resource-Analytics-SFw-HR-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Financial-Acumen-Level-4-Manage-Budgets-Finances-1
 
 ### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Human Resource Solutions
 
 ### Support Level
 Up to  for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 N.A.
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

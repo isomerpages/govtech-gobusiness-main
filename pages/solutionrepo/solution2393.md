@@ -1,15 +1,19 @@
 ---
-title: HubSpot - Package A Hubspot sales pro + marketing (1000 contacts)
+title: SmartCursors Human Resource Management System (HRMS) - Gold (up to 100 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2393
 ---
 
 ### Description
 
-Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
+HRMS software assists an organization's human resources department by automating manual tasks, keeping employee information organized, and creating data-driven reports. HRMS software can also serve employees and managers within an organization, assisting with tasks like time tracking, updating employee directories, and performance management.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Human Resource Solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

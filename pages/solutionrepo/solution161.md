@@ -27,20 +27,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Unit height: min. 2.5m
-Carrier tray width: min. 1.3m
-Load capacity per tray: min. 150kg
-With operator Interface (Console)
-With software linked to Inventory Management System
-
-
+N.A.
 
 ### Contact Information
 N.A.

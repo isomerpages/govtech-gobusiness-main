@@ -1,5 +1,5 @@
 ---
-title: OS Store E-Commerce - Premium
+title: OS Store E-Commerce - Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution2416
 ---
 
@@ -9,7 +9,11 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_34.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+E-Commerce solutions
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.orfeostory.com/psg/<br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

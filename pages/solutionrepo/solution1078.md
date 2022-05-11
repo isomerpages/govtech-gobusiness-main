@@ -1,15 +1,19 @@
 ---
-title: OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)
+title: AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup, Migration & Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1078
 ---
 
 ### Description
 
-An intuitive user interface designed for sales. A Dashboard for a better overview of the sales activities. Useful tips and best practices to configure and deploy your CRM and much more. Odoo CRM is part of Odoo, the #1 suite of business applications dedicated to SMEs. The strength of Odoo is its modularity and scalability. Start with CRM to track all your sales pipeline, and as your business grows, add the sales, inventory or the accounting module, all integrated, same data and easy to use.
+Xero is an online accounting software for SMEs, to be able to automate their everyday business tasks, get up-to-date financials and run their business in real-time. As Xero is cloud-based, business owners can access their finances right away from any internet-connected device - phone, tablet, or computer instead of waiting for their accountants to send them the information. Using Xero encompasses increased capabilities, better productivity, ease-of-use and better responsiveness.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Alitec Pte Ltd <br>Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

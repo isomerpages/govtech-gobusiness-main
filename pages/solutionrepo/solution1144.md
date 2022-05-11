@@ -1,13 +1,15 @@
 ---
-title: Laser Geometric Alignment System
+title: Battery-Powered Rope Ascender
 permalink: /productivity-solutions-grant/solutionrepo/solution1144
 ---
 
 ### Description
 
-Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
 
-Cost of equipment capped at $37,500 per unit
+The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
+
+Cost of equipment capped at $18,750 per unit
 
 ### Details of Solution
 
@@ -26,17 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
-Measuring errors: minimum +/- 1%
-Maintenance cost not supported
-Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
+N.A.
 
 ### Contact Information
 N.A.

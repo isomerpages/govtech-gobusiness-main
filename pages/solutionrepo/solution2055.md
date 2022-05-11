@@ -1,5 +1,5 @@
 ---
-title: FleetManager Version 5.0 - FleetManager Leasing Plan for 5 vehicles
+title: FleetManager Version 5.0 - FleetManager Leasing Plan for 1 vehicle
 permalink: /productivity-solutions-grant/solutionrepo/solution2055
 ---
 
@@ -9,7 +9,11 @@ FleetManager App software is a modern fleet management system offered by Logisfl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Logisfleet_Annex_3_CR_wef_25_Nov_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Logisfleet_Annex_3_CR_wef_25_Nov_2021_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Fleet Safety and Fleet Management System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

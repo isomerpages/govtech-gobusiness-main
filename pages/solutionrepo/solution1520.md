@@ -1,15 +1,20 @@
 ---
-title: SYSFREIGHT Version 8 - Standard 3 User
+title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 5 - (Up to 10 concurrent users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1520
 ---
 
 ### Description
 
-SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences). It aims to computerize and optimizes the operation and management by using of the latest technologies and complemented by our professional services.
+Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
+Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sysmagic_Software_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

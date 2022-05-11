@@ -1,5 +1,5 @@
 ---
-title: Automotive Tracking System-Package B (6 Vehicles)
+title: Automotive Tracking System-Package A (3 Vehicles) 
 permalink: /productivity-solutions-grant/solutionrepo/solution1458
 ---
 
@@ -9,7 +9,11 @@ Track 365 Automotive Tracking System is a cloud based telematics solution. Due t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Fleet Safety and Fleet Management System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

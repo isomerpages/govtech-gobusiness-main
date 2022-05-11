@@ -1,15 +1,21 @@
 ---
-title: Eset Protect Entry - 5 Licenses (1 year)
+title: Redoc - Document Management & Transaction Records Version 1.0 - Package 5 (Up to 40 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2716
 ---
 
 ### Description
 
-Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
+
+The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +30,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.rentalworks.com.sg/curated-offers/ <br>Contact Hotline: 96119602 <br>Contact Email: psg@rentalworks.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

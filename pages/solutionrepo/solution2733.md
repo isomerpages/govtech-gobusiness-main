@@ -1,5 +1,5 @@
 ---
-title: BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License
+title: BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Network License
 permalink: /productivity-solutions-grant/solutionrepo/solution2733
 ---
 
@@ -10,7 +10,11 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br>Contact Hotline: 65361728 <br>Contact Email: enquiry@acapacific.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,19 @@
 ---
-title: ABSS - Premier Version 23 - Single User with InvoiceNow
+title: DM 3D Digital Booster - Package 2 SEO / SEM (3 Months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2741
 ---
 
 ### Description
 
-ABSS Premier / Premier Plus is perfect for SMEs that require integrated accounting, advanced inventory, payroll and leave management software to manage transactions and other business areas.  
-
-SMEs can process foreign currency transactions, track GST, analyze business performance accurately with its built-in reports & stay compliant effortlessly with the latest tax requirements. Payrolls are also quickly processed and comply with IRAS AIS (Auto-Inclusion Scheme).
+3D Brand Agency's 3D Digital Booster is an online marketing solution that comprises SEO/5C Analysis, Digital Marketing Strategy, Marketing Campaign Planning and Execution, Digital Assets Creation, and Live Analytics Reporting, for Facebook/Instagram and SEM/SEO.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_34.pdf
 
 ### Eligibility Criteria
 
@@ -26,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Digital Marketing solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: sg.abssasia.com <br>Contact Hotline: +6565056582 <br>Contact Email: cs.sg@abssasia.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: BlueMeg Console - Package C (250 Entities)
+title: BlueMeg Console - Package B (100 Entities)
 permalink: /productivity-solutions-grant/solutionrepo/solution2183
 ---
 
@@ -9,7 +9,11 @@ The BlueMeg Console is a cloud-based entity management and document management s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Document Management and Mobile Access System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whitelabel@bluemeg.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Basic Pack (10 Users)
+title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Start Up Pack (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution964
 ---
 
@@ -12,7 +12,11 @@ It is built with a user definable workflow driven engine suitable for SMEs to ca
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -27,16 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

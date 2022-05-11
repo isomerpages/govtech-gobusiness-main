@@ -1,5 +1,5 @@
 ---
-title: Taidii Smart E-Form Solution - Top-up
+title: Taidii Smart E-Form Solution - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2601
 ---
 
@@ -9,7 +9,11 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,18 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
+N.A.
 
 ### Contact Information
-Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

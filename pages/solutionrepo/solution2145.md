@@ -1,11 +1,11 @@
 ---
-title: Multi-tier Cultivation System
+title: Milking Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
 ### Description
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

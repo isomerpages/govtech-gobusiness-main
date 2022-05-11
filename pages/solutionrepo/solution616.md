@@ -1,15 +1,19 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package A (5 Users with PEPPOL unlimited)
+title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (2 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution616
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive all-in-one business management solution integrated with ERP capabilities into applications that work seamlessly together with Office 365 across sales, operations, field service and financials for small and medium-sized businesses. The application helps your business transform and streamlines work processes to achieve the productivity of your work, reduce manual efforts and go paperless.
+SAP Business One is an ERP solution with built-in advanced analytical processing capabilities that includes predictive and graph analysis for the business users. With the SAP HANA data platform where both transactions and analytics are processed in memory, large volumes of data is able to be analyzed in real time and with speed. MPS Solutions is offering Accounting, Inventory, CRM & Sales Management on the SAP Business One platform, enhanced with Peppol E-Invoice integration.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.msc-consulting.com.sg <br>Contact Hotline: 63172050 <br>Contact Email: alex.goh@msc-consulting.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

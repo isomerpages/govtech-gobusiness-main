@@ -1,15 +1,19 @@
 ---
-title: Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F
+title: HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)
 permalink: /productivity-solutions-grant/solutionrepo/solution2397
 ---
 
 ### Description
 
-FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
+Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.care.biz <br>Contact Hotline: 67448022 <br>Contact Email: sales@sg.care.biz <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

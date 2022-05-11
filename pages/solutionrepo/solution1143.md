@@ -1,19 +1,19 @@
 ---
-title: Battery-Powered Rope Ascender
+title: LFSuite Version 6.0 -  Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution1143
 ---
 
 ### Description
 
-Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
-
-The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
-
-Cost of equipment capped at $18,750 per unit
+Optimize your F&B business productivity and operational efficiency with DinePlan, our integrated suite of solutions offered under LFSuite. Our cloud-hybrid POS encompasses digital ordering, waiter ordering, customer ordering and payment. Additional modules include procurement and inventory management, central kitchen management and catering capabilities. All data and configurations are centrally managed by DineConnect, where we will also provide intuitive sales and analytical reports for you.
 
 ### Details of Solution
 
 N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_910.pdf
 
 ### Eligibility Criteria
 
@@ -28,15 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Ascent speed: minimum 1 ft/s
-Maintenance cost not supported
+N.A.
 
 ### Contact Information
 N.A.

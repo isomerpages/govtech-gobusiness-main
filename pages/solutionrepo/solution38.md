@@ -26,18 +26,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Automatic rotating nozzle
-Cutting speed: min 0.2 rpm
-Adjustable bevel angle
-Maintenance costs not supported
-Optional components: relevant accessories e.g.gas hoses, cables
+N.A.
 
 ### Contact Information
 N.A.

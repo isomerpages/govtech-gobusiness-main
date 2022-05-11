@@ -1,15 +1,27 @@
 ---
-title: Dropbox Business - Dropbox Business 3 Users
+title: Dining Butler system - Dining Butler multi
 permalink: /productivity-solutions-grant/solutionrepo/solution998
 ---
 
 ### Description
 
-Dropbox is a file storage solution known to many individuals, but the business edition enables companies with more control. Dropbox Business has unlimited storage capacity that allows you to store your files securely in the cloud, shares easily with external parties, and collaborate conveniently with your team members. It is also effective for organization management & control. With Web Imp as your vendor, you get an additional advantage with an established tech firm providing local support.
+Dining Butler provides an end to end solution for F&B that covers the following modules
+1) mobile ordering
+2) POS operations
+3) kitchen management
+4) waiter management
+5) backend item management
+6) CRM
+7) inventory 
+8) reports
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +36,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:WEB IMP PTE LTD <br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 93689672 <br>Contact Email: wilson@webimp.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

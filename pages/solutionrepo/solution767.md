@@ -1,15 +1,20 @@
 ---
-title: Sage 300 - Package (Advanced Edition - 2 Users)
+title: SecureAPlus Version 6.x - (300 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution767
 ---
 
 ### Description
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
+SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Cyber Security solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Seg IT Services Pte Ltd<br>www.segit.com.sg<br>Email: sales@segit.com.sg<br>Tel: +65 6483 0950
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

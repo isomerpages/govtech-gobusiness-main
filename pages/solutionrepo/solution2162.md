@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation Equipment/ System
+title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 
 ### Description
 
-Water efficient irrigation system (e.g. sprinkler)
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

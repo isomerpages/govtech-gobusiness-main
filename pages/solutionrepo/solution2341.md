@@ -1,15 +1,19 @@
 ---
-title: ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					
+title: APEX - APEX Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution2341
 ---
 
 ### Description
 
-iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
+A fully integrated cloud-based information management solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/SIACAD_20210266_Desensitised_Annex_3_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.mindmaster.com.sg <br>Contact Hotline: 62505623 <br>Contact Email: info@mindmastersg.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

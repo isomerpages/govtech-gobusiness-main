@@ -1,5 +1,5 @@
 ---
-title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Multi Location)
+title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Single Location)
 permalink: /productivity-solutions-grant/solutionrepo/solution973
 ---
 
@@ -10,7 +10,11 @@ ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.com<br>Tel: +65 6745 0866
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

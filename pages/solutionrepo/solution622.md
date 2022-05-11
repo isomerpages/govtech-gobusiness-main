@@ -1,20 +1,22 @@
 ---
-title: MuRho Inventory Management & Sales Management System - STARTER PACK A - SAAS WITH HARDWARE
+title: MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud with hardware starter pack
 permalink: /productivity-solutions-grant/solutionrepo/solution622
 ---
 
 ### Description
 
-The MuRho Inventory Management & Sales Management System includes:
--	Store N Track (Inventory & Asset Management System)
--	Manufacture N Track (Inventory & Manufacturing Work In Progress Management System)
--	Sell N Track (Inventory & Sales Order Management System) 
--	Order N Track (Inventory & Online B2B / Mobile Sales Order Management System)
--	Connect N Track (API connector to link to 3rd party Marketplace / Software System)
+MuRho Inventory Management System includes:
+- Store N Track (inventory & asset management)
+- Sell N Track (inventory & sales order management)
+- Manufacture N Track (inventory & manufacturing work in progress management) 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_20200003_Annex_3_20200625142512_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -29,16 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-MuRho Pte Ltd <br>www.murho.com.sg<br>Email:sales@murho.com.sg<br>Tel:+65 6289 3802
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

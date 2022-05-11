@@ -26,15 +26,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-This solution uses AR technology to simulate welding processes on different test pieces
-Optional components: accessories e.g. work stand to secure workpiece, cables, material license
+N.A.
 
 ### Contact Information
 N.A.

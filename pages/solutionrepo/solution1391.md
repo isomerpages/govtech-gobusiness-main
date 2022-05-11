@@ -1,5 +1,5 @@
 ---
-title: 3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)
+title: 3D Omni Commerce Version 1.03 - PRO (Shopee Online Marketplace)
 permalink: /productivity-solutions-grant/solutionrepo/solution1391
 ---
 
@@ -9,7 +9,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1391
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+E-Commerce solutions
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

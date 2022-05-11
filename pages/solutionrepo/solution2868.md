@@ -1,5 +1,5 @@
 ---
-title: Eber Smart Members Solution - Premium Package with Professional Services
+title: Eber Smart Members Solution - Basic Package with Professional Services
 permalink: /productivity-solutions-grant/solutionrepo/solution2868
 ---
 
@@ -9,7 +9,11 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://eber.co <br>Contact Hotline: 31590888 <br>Contact Email: hello@eber.co <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

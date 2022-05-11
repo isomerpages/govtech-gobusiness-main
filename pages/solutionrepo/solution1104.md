@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Premium 10 Users
+title: Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Premium 6 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1104
 ---
 
@@ -11,7 +11,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1104
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -26,16 +30,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

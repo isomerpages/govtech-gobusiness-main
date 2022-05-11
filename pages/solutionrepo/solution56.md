@@ -27,18 +27,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Unit is programmed to combine different cooking technologies to achieve rapid cooking. It utilises radiant heat, high-speed air impingement and side-launched microwave.
-- Minimum wattage: 2,200W 
-
-
+N.A.
 
 ### Contact Information
 N.A.

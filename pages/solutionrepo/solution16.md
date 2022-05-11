@@ -30,17 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Unit comes with automated drain pump, detergent and rinse pumps. 
-- Minimum water tank capacity of 15 litres
-
+N.A.
 
 ### Contact Information
 N.A.

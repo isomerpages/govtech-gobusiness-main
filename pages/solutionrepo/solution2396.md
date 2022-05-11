@@ -1,5 +1,5 @@
 ---
-title: HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)
+title: HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)
 permalink: /productivity-solutions-grant/solutionrepo/solution2396
 ---
 
@@ -9,7 +9,11 @@ Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

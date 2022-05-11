@@ -1,5 +1,5 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)
+title: iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package B (3 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution695
 ---
 
@@ -9,7 +9,11 @@ USA Fleet Solutions offers top fleet management hardware and software products t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Fleet Safety and Fleet Management System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

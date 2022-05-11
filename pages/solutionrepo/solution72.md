@@ -28,21 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Mandatory specifications:
-- Installed with software for inventory data input.
-- Withstand rough handling, meet min IP54 standards.
-- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
-- Battery with min 3 hrs standby.
-- Wireless LAN/Bluetooth/cellular connectivity.
-- Support the common operating system e.g. Android, Windows.
-- Installation and Maintenance cost are not supported.
+N.A.
 
 ### Contact Information
 N.A.

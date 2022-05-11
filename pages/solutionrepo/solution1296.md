@@ -1,5 +1,5 @@
 ---
-title: Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package D (100 Vehicles)
+title: Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package C (50 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1296
 ---
 
@@ -9,7 +9,11 @@ Ascent's iSPOT FMS enable companies to transform their business with data-driven
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Fleet Safety and Fleet Management System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

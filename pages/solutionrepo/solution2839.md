@@ -1,5 +1,5 @@
 ---
-title: DST Inventory System Version 1.3 - Package B (Barcode)
+title: DST Inventory System Version 1.3 - Package A (QR Code)
 permalink: /productivity-solutions-grant/solutionrepo/solution2839
 ---
 
@@ -9,7 +9,11 @@ Inventory System uses different technologies such as barcode, QR and/or RFID ont
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

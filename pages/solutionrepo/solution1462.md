@@ -1,0 +1,43 @@
+---
+title: Automotive Tracking System-Package E (60 Vehicles)
+permalink: /productivity-solutions-grant/solutionrepo/solution1462
+---
+
+### Description
+
+Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
+
+### Details of Solution
+
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_5.pdf
+
+### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be registered in Singapore <br>
+b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
+c) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+
+Please refer to 'Things to Note' for additional requirements.
+
+### Mode of Payment
+Fleet Safety and Fleet Management System
+
+### Support Level
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
+
+### Things to Note
+N.A.
+
+### Contact Information
+N.A.
+
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

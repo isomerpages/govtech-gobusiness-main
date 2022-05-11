@@ -1,15 +1,19 @@
 ---
-title: Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners
+title: Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Comprehensive)
 permalink: /productivity-solutions-grant/solutionrepo/solution469
 ---
 
 ### Description
 
-Qornerstone Estate is an off-the-shelf solution to digitalize Property & Management (PM) operations. For property managers and single building owners looking to streamline operations and raise productivity levels, or who may wish to scale up but find themselves constrained by the escalating cost of manpower, the Qornerstone Estate is an end-to-end property, leasing, and facilities management platform to leverage on.
+Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful ecommerce store to sell their products online and receive payment via online payment gateway, QR Code payment, PayNow or PayLah.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+E-Commerce solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

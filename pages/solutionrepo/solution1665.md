@@ -1,15 +1,19 @@
 ---
-title: THEREFORE - Therefore-in-e-CLOUD Package 1 (5 users)
+title: TimeCentral Version 11 - TimeCentral 300
 permalink: /productivity-solutions-grant/solutionrepo/solution1665
 ---
 
 ### Description
 
-Therefore is a scalable Cloud Document Management Solution, that provides a central document repository for companies. It enables users to save, organize, share and access all vital business information instantly. Security is enhanced through simple permission controls and audit trails. Companies can also improve their productivity and optimize their business processes through Therefore's automated workflows. Simply improve security, productivity and traceability with Therefore.
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_People_Central_Timecentral_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Human Resource Solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

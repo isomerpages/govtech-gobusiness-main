@@ -1,5 +1,5 @@
 ---
-title: Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (5 Users)
+title: Salesforce Sales Cloud Professional Edition -Premier Success and Jumpstart Setup (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 
@@ -9,7 +9,11 @@ Salesforce is the #1 CRM, bringing companies and customers together in the digit
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

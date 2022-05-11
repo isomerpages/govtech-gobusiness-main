@@ -26,22 +26,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Equipment must meet the following specifications: 
-
-- Payload modules to lift trolleys Minimum  150kg load
-- Min. load surface: 720x600mm
-- 1-1.2m/s driving with spot turning
-- Battery: Min. 4h, ~8h standby, ~4h charging
-- Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller
-- Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet
-
+N.A.
 
 ### Contact Information
 N.A.

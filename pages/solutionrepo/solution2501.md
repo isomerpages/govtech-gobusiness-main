@@ -1,15 +1,19 @@
 ---
-title: Creative eShop - Creative eShop Package Lite
+title: Panda Adaptive Defense 360 - Watchguard Panda AD360 - 150 Licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution2501
 ---
 
 ### Description
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution for computers, laptops and servers that detects what traditional solutions can't even see.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Cyber Security solutions
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,16 +1,19 @@
 ---
-title: U Ventures XERO - Book Keeping Training
+title: E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Supreme)
 permalink: /productivity-solutions-grant/solutionrepo/solution2552
 ---
 
 ### Description
 
-XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
-is doing at any given time.
+Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_34.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+E-Commerce solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.uventures.com.sg <br>Contact Hotline: 67358135 <br>Contact Email: info@uventures.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

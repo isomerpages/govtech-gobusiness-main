@@ -1,15 +1,19 @@
 ---
-title: Hubble Safety Management System - Package (Up to 1 Project)
+title: Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution458
 ---
 
 ### Description
 
-Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
+Hubble Workforce Management System is a cloud solution on both web and mobile, that allows attendance tracking on-site, utilising biometric facial recognition, GPS tracking, and real time analytics. With these features, companies will be able to monitor and deploy their workforce efficiently.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Human Resource Solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

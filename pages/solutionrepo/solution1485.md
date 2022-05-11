@@ -1,5 +1,5 @@
 ---
-title: OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 2)
+title: OneSumX for Regulatory Reporting Version 3.1.0 -  Package (Tier 3)
 permalink: /productivity-solutions-grant/solutionrepo/solution1485
 ---
 
@@ -10,6 +10,10 @@ OneSumX solution is a modular end-to-end solution suite designed on an integrate
 ### Details of Solution
 
 N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,15 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+N.A.
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+N.A.
 
 ### Contact Information
 N.A.

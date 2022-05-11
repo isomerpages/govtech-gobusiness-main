@@ -1,22 +1,19 @@
 ---
-title: EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1)
+title: ePSProfessional Version 1.7 - SME Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution2752
 ---
 
 ### Description
 
-EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
-- Simple and easy to use for cashiers. 
-- Full-featured CRM
-- Powerful Promotions engine
-- Inventory management
-- Ecommerce integration 
-- Accounting integration 
-- E-payments, QR payment, credit card, NETS
+eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf
 
 ### Eligibility Criteria
 
@@ -31,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+E-Commerce solutions
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: SAP Business One SQL & HANA Version 10.0 - Package (2 Licenses)
+title: SAP Business One SQL & HANA Version 10.0 - Package (1 License)
 permalink: /productivity-solutions-grant/solutionrepo/solution2954
 ---
 
@@ -10,7 +10,11 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.mpssolutions.com.sg <br>Contact Hotline: 68469109 <br>Contact Email: kelvin@mclinkgroup.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,19 @@
 ---
-title: Beaufort-Xero Digital Solutions - Package A - Subscription Only
+title: Applivon - Odoo - App-Max
 permalink: /productivity-solutions-grant/solutionrepo/solution2772
 ---
 
 ### Description
 
-Beaufort provides Accounting & Tax Services to SME Businesses & Companies. Beaufort is the Partner Reseller of XERO, a Cloud Accounting Software.
-As Xero Certified Advisors the Xero account will be setup, and depending on the package choice, any customisations as stated. There are packages for Beaufort customised workflow training of best practices for users to do their daily Day-to-Day managing of their accounts. 
-Beaufort's range of 5 packages, allows a wide selection.
+Odoo is an integrated suite of business applications that have thousand of modules  and connectors available to cater for specific needs so that there's no more painful integration. A cloud-based and mobile enabled solution, it is designed for ease of use and scalability. It supports multi-company with automated inter-company transactions, multi-currency and multi-warehouse transfers for business operations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Applivon_20210515_Desensitised_Annex_3_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -26,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.xero.beaufort.sg/ <br>Contact Hotline: 88229376 <br>Contact Email: contact@beaufort.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

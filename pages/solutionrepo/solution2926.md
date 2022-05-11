@@ -1,5 +1,5 @@
 ---
-title: Netiquette Cloud Business Suite - Package C (Saas for 15 Users)
+title: Netiquette Cloud Business Suite - Package B (Saas for 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2926
 ---
 
@@ -9,7 +9,11 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.netiquette.com.sg <br>Contact Hotline: 94882285 <br>Contact Email: enquiry@netiquette.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

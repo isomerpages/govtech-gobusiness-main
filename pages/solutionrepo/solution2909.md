@@ -1,16 +1,19 @@
 ---
-title: Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences
+title: AZ Digital POS solution - Package (POSWORKS Premium Plus)
 permalink: /productivity-solutions-grant/solutionrepo/solution2909
 ---
 
 ### Description
 
-Cloudable Data Protection Suite-Advanced Security and Advanced Management is an all-in-one cyber protection solution that integrates, malware prevention, security controls, remote assistance, monitoring, and reporting.
-It protects your entire business through a layered protection approach, an innovative combination of proactive and active data protection technologies such as patch management, vulnerability assessment, behavior-based detection, and self-protection
+AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+N.A.
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.cloudable.com.sg <br>Contact Hotline: 83888759 <br>Contact Email: info@cloudable.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

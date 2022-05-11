@@ -1,5 +1,5 @@
 ---
-title: Synergix E1 Sales & Accounting - Package (10 users with InvoiceNow) - TH6
+title: Synergix E1 Sales & Accounting - Package (5 users with InvoiceNow) - TH6
 permalink: /productivity-solutions-grant/solutionrepo/solution2857
 ---
 
@@ -9,7 +9,11 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

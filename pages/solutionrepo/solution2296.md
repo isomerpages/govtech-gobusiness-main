@@ -1,15 +1,19 @@
 ---
-title: Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution
+title: eBIS Version V1.0- 	eBIS (Super Advanced Package -4 Projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution2296
 ---
 
 ### Description
 
-Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
+It's a powerful Mobile Application designed for Building and Construction industry. The Mobile Apps is built to replace pen and paper method of site inspections, site recording, follow-up, issues tracking, and reporting including e-Permit to Work (e-PTW) that makes it easy for everyone throughout the process of construction, hence ultimately transform the industry towards adopting Digital Technology, thereby skyrocket team's productivity.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.really.sg/project-management-features/ <br>Contact Hotline: 69507563 <br>Contact Email: info@really.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

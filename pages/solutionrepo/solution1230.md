@@ -1,5 +1,5 @@
 ---
-title: Vehicle Safety System - GridPlus VSS (8 Vehicle Package)
+title: Vehicle Safety System - GridPlus VSS (6 Vehicle Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1230
 ---
 
@@ -9,7 +9,11 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Fleet Safety and Fleet Management System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
