@@ -11,11 +11,16 @@ We will take 3 practical steps to help you to imagine, design and pilot job rede
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf
+1.Financial Services<br>
+2.Consumer FMCG<br>
+3.Telecommunications<br>
+4.Consumer Food Retail<br>
+5.Consumer - Agricultural Conglomerate<br>
+6.Consumer - Beverage
 
 ### Eligibility Criteria
 
@@ -30,16 +35,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+Up to 70% for non-SMEs
 
 ### Things to Note
-N.A.
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-N.A.
+Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

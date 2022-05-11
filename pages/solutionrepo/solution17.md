@@ -28,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Mandatory Specification:
+- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.
+- Digital timer: Each basket is programmed according to its own set timing.
+- Minimally capacity of 3 noodle baskets.
+
+
 
 ### Contact Information
 N.A.

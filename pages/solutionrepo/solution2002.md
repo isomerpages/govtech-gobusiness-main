@@ -26,14 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Specifications:
+- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.
+- No harmful substance must be released into the environment E.g. Ozone
+- Can be used in storage and production facilities.
+- Installation and maintenance costs are not supported.
 
 ### Contact Information
 N.A.

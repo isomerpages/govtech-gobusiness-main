@@ -26,14 +26,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+- Idle speed of at least 2,700 rpm
+- Belt diameter of at least 110 mm
+- Additional bristle brushes (carbon steel or stainless steel) can be supported
+- 1 battery pack or power unit per equipment can be supported
+- Training costs can be supported
+
+
 
 ### Contact Information
 N.A.

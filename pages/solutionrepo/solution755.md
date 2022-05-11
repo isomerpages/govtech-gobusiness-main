@@ -26,14 +26,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase,Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase,Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Mandatory Specification
+- Access controlled and tracked with RFID or other relevant technology
+- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
+- Hardware must be linked with a software/ERP system to access the logs and inventory information
+- Installation and maintenance fee are not supported.
+
 
 ### Contact Information
 N.A.

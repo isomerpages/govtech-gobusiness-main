@@ -9,11 +9,20 @@ EON was established in 1996 and specialises in providing human capital consultin
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
-https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf
+1.Early Childhood Care & Education<br>
+2.Training & Adult Education<br>
+3.Human Resources<br>
+4.Accountancy<br>
+5.Food & Beverage<br>
+6.Healthcare<br>
+7.Retail & Services<br>
+8.Construction<br>
+9.Food Manufacturing<br>
+10.Logistics/Supply Chain
 
 ### Eligibility Criteria
 
@@ -28,16 +37,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+Up to 70% for non-SMEs
 
 ### Things to Note
-N.A.
+Additional criteria: All participating companies must have at least three local employees at the point of application
 
 ### Contact Information
-N.A.
+Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

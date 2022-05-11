@@ -27,14 +27,24 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Equipment must meet the following:
+
+Generate active oxygen at an output between 20mg - 1g/hr
+
+Emit negative ion at more than 2 million/cm3
+
+Area coverage at least 36.5 m2
+
+Effective sterilisation & reduce bacteria count by 90%
+
+
 
 ### Contact Information
 N.A.

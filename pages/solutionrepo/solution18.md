@@ -28,14 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Mandatory Specification:
+- Unit must be able to fully automate the noodle making process, i.e., from raw materials (primarily flour and water) to dried noodles in serving portions which are ready to be cooked.
+- Serving size and noodle thickness should be customisable.
+- Time taken to make one serving of noodles (at least 80g) should not exceed 40s.
+
+
+
 
 ### Contact Information
 N.A.

@@ -26,14 +26,22 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Mandatory Specification
+- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together
+- Weigh parcel up to 30kg
+- Weighing accuracy of +/- 10g
+- Stereometry accuracy within +/- 5mm
+- Throughput approx 400/hour
+- Data transmitted to a software/ERP via wireless/LAN connection
+- Installation cost is supported.
+- Maintenance cost is not supported
 
 ### Contact Information
 N.A.
