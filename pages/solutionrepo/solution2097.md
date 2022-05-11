@@ -1,5 +1,5 @@
 ---
-title: Xero - Bamboo Sea Basic Package
+title: Xero - Bamboo Sea Software only
 permalink: /productivity-solutions-grant/solutionrepo/solution2097
 ---
 
@@ -9,7 +9,7 @@ Xero simplifies business tasks so that Managers can focus on the business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

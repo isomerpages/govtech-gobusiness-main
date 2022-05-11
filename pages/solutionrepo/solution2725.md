@@ -1,5 +1,5 @@
 ---
-title: InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users
+title: InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2725
 ---
 
@@ -9,7 +9,7 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

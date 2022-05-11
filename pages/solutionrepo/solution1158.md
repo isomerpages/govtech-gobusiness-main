@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Aba Xero Accounting Solution - Premium
+title: Xero Cloud Accounting Software - Aba Xero Accounting Solution - Essential
 permalink: /productivity-solutions-grant/solutionrepo/solution1158
 ---
 
@@ -9,7 +9,7 @@ Xero solution which is a cloud based solution which enable businesses to work fr
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

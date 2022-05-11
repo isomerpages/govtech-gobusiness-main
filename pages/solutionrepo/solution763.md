@@ -1,5 +1,5 @@
 ---
-title: SecureAPlus Version 6.x - (20 Pax)
+title: SecureAPlus Version 6.x - (60 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution763
 ---
 
@@ -10,7 +10,7 @@ SecureAPlus is an EndPoint protection solution that uses the right combination o
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

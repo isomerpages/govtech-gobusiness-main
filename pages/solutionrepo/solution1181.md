@@ -1,5 +1,5 @@
 ---
-title:  Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users) with Peppol e-invoicing
+title:  Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users) with Peppol e-invoicing
 permalink: /productivity-solutions-grant/solutionrepo/solution1181
 ---
 
@@ -9,7 +9,7 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

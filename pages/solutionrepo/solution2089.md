@@ -1,5 +1,5 @@
 ---
-title: eCommerce Masterplan Version 1.0 - Enterprise
+title: eCommerce Masterplan Version 1.0 - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2089
 ---
 
@@ -9,7 +9,7 @@ Our Ecommerce solutions are developed using WordPress WooCommerce technology, al
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

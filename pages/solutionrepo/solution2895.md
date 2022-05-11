@@ -1,5 +1,5 @@
 ---
-title: AM8ZE ERP VISTA - V25 (25 Users)
+title: AM8ZE ERP VISTA - V15 (15 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2895
 ---
 
@@ -9,7 +9,7 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

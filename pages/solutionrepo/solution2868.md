@@ -1,5 +1,5 @@
 ---
-title: Eber Smart Members Solution - Premium Package with Professional Services
+title: Eber Smart Members Solution - Basic Package with Professional Services
 permalink: /productivity-solutions-grant/solutionrepo/solution2868
 ---
 
@@ -9,7 +9,7 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

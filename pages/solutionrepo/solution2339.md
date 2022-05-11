@@ -1,5 +1,5 @@
 ---
-title: APEX - APEX SME
+title: APEX - APEX Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2339
 ---
 
@@ -9,7 +9,7 @@ A fully integrated cloud-based information management solution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SIACAD_20210266_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SIACAD_20210266_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

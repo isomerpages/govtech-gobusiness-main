@@ -1,5 +1,5 @@
 ---
-title: Firewall Security Protection -  Rah Tech Fortinet 80F with Managed Services - P3
+title: Firewall Security Protection - Rah Tech Fortinet 80F - P2
 permalink: /productivity-solutions-grant/solutionrepo/solution2708
 ---
 
@@ -9,7 +9,7 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

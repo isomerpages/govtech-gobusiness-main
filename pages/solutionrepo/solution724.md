@@ -1,5 +1,5 @@
 ---
-title: Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)
+title: Psoft Accounting Systems - Package (Web-Based Single User with PEPPOL)
 permalink: /productivity-solutions-grant/solutionrepo/solution724
 ---
 
@@ -9,7 +9,7 @@ Our company specializes in business software applications ie selling Psoft Accou
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

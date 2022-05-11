@@ -1,5 +1,5 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Small Engine)
+title: KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank)
 permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 

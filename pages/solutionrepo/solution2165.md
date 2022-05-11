@@ -1,11 +1,11 @@
 ---
-title: Rainwater harvesting system and storage tank
+title: LED grow lights
 permalink: /productivity-solutions-grant/solutionrepo/solution2165
 ---
 
 ### Description
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ### Details of Solution
 

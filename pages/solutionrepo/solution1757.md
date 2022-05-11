@@ -1,5 +1,5 @@
 ---
-title: iCoreSpec - Corporate User (C2 - 10 Users One Package)
+title: iCoreSpec - Corporate User (C1 - 5 Users Full Suite)
 permalink: /productivity-solutions-grant/solutionrepo/solution1757
 ---
 
@@ -9,7 +9,7 @@ The solution is a cloud-based, common digital platform - the Intelligent Nationa
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,18 +1,23 @@
 ---
-title: QuickBooks Online Version 1 - VCSG QBO subscription only
+title: Eminet Sophos XGS Firewall - XG 2300
 permalink: /productivity-solutions-grant/solutionrepo/solution2385
 ---
 
 ### Description
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+Sophos XG Cybersecurity Solution that provides :
+(i) Network Firewall
+(ii) Intrusion Detection/Prevention System
+(iii) Virtual Private Network (VPN)
+(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
+(v) Secure Email Gareway (e.g. anti-spam, content filtering)
+(vi) Anti-Virus/Anti-Malware
+(vii) Application Control
+(viii) Sandboxing
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +42,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
+Web URL: www.eminet.com.sg <br>Contact Hotline: 66019898 <br>Contact Email: charles@eminet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE)
+title: SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO PLUS)
 permalink: /productivity-solutions-grant/solutionrepo/solution1122
 ---
 
@@ -9,7 +9,7 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

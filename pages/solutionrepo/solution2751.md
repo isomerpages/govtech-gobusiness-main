@@ -1,15 +1,17 @@
 ---
-title: ePSProfessional Version 1.7 - SME Premium
+title: Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 8 Users with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution2751
 ---
 
 ### Description
 
-eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
+Dalstech is a Microsoft Partner comprising a team of Senior Consultants with over 10 years experience in the implementation of Dynamics 365 Business Central. The team truly understands the needs of the customers and has the necessary expertise in applying the best practices for various industries. 
+
+Microsoft Dynamics 365 Business Central is an ERP Solution that automates and streamlines business processes including Finance, Sales, Purchases, Inventory, Project, Services, Production and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.efusiontech.com <br>Contact Hotline: 62903086 <br>Contact Email: contact@efusiontech.com <br>
+Web URL: https://www.dalstech.com/dynamics-365-business-central <br>Contact Hotline: 69092088 <br>Contact Email: sales@dalstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)
+title: MuRho Inventory Management System - Starter Pack 2 (Perpetual license on cloud with hardware)
 permalink: /productivity-solutions-grant/solutionrepo/solution2784
 ---
 
@@ -9,7 +9,7 @@ MuRho is a leading home-grown provider of inventory management system since 2002
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_20210524_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

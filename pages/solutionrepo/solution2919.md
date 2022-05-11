@@ -1,15 +1,15 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontier - 25 Users
+title: EQuipPOS Retail Solutions Version 3 - Package E (Basic+Online Orders & Rewards App)
 permalink: /productivity-solutions-grant/solutionrepo/solution2919
 ---
 
 ### Description
 
-Frontier e-HR HRMS assists SMEs to improve the productivity of human resource operations through a user-friendly full cloud-based application. Through this platform, HR department will be able to record employee's details, strengthen policies and handle regular processes such as Payroll & Performance Appraisal.  Management team can retrieve reports to perform analysis conveniently. Employees have access to their HR information and perform HR related applications through web and mobile app.
+EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
-Up to 70 for SMEs <br>
+Up to 80 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.frontier-ehr.com/ <br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

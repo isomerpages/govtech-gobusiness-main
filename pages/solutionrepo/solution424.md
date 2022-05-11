@@ -1,5 +1,5 @@
 ---
-title: VEON@Experience Version 1.0 - Package B (VEON Basic (+ hardware))
+title: VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))
 permalink: /productivity-solutions-grant/solutionrepo/solution424
 ---
 
@@ -10,7 +10,7 @@ Designed for the next-generation salons, VEON@Experience is extremely visual and
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

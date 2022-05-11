@@ -1,5 +1,5 @@
 ---
-title: DM RHAD Digital Marketing Package Version 1 - Google Search Starter (6 months)
+title: DM RHAD Digital Marketing Package Version 1 - Web Starter (3 months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2793
 ---
 
@@ -9,7 +9,7 @@ With five different Digital Marketing Packages, RHAD helps businesses enhance br
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

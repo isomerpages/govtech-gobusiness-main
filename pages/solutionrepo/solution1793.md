@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Timcole Package 4 - Premium + Implementation
+title: Xero Cloud Accounting Software - Timcole Package 3 - Standard + Implementation
 permalink: /productivity-solutions-grant/solutionrepo/solution1793
 ---
 
@@ -9,7 +9,7 @@ Xero Implementation package is designed to help small businesses to improve thei
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_26_August_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_26_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

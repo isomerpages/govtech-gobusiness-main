@@ -1,11 +1,11 @@
 ---
-title: Hi-jack Cleaning Machinery
+title: Feed Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2139
 ---
 
 ### Description
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+A machine to mix and chop up the materials for animal feed. 
 
 ### Details of Solution
 

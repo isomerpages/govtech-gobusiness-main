@@ -1,5 +1,5 @@
 ---
-title: SmartCursors Human Resource Management System (HRMS) - Gold (up to 100 users)
+title: SmartCursors Human Resource Management System (HRMS) - Silver (up to 25 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2392
 ---
 
@@ -9,7 +9,7 @@ HRMS software assists an organization's human resources department by automating
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

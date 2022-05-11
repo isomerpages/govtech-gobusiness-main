@@ -1,11 +1,11 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 3 Bank)
+title: AxiomSL MAS 610 SaaS version 4 - Package (Custom Data Loading)
 permalink: /productivity-solutions-grant/solutionrepo/solution1478
 ---
 
 ### Description
 
-KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 

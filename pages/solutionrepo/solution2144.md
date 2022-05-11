@@ -1,11 +1,11 @@
 ---
-title: Milking Machine
+title: Manure Treatment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ### Details of Solution
 

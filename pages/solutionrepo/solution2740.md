@@ -1,5 +1,5 @@
 ---
-title: DM 3D Digital Booster - Package 2 SEO / SEM (3 Months)
+title: DM 3D Digital Booster - Package 1 Facebook / Instagram (3 Months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2740
 ---
 
@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2740
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

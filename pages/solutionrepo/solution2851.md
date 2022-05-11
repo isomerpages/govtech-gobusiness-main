@@ -1,5 +1,5 @@
 ---
-title: DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package B (6 months)
+title: DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2851
 ---
 
@@ -9,7 +9,7 @@ MediaOne brings the power of almost a decade's worth of experience servicing tho
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_456.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,19 +1,15 @@
 ---
-title: Electric Pedestrian Pallet Truck
+title: StaffAny Version 1.0-Package E (250 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1409
 ---
 
 ### Description
 
-This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
-
-The equipment can transport palletised goods of approximately 1000 to 2000 kg.
-
-Cost of equipment capped at $3,250 per unit. 
+StaffAny is a software-as-a-service that helps business owners reduce work dedicated to scheduling and time-tracking, as well as reduce the cost of operations by minimising time theft and overtime spend.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,23 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Mandatory Specifications:
--Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable
--Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load
--1 worker/unit
--Safety features eg emergency stop
--Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.
--Only 1 application per coy will be supported
-- Installation and maintenance fee are not supported.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.staffany.com <br>Contact Hotline: 9755 8195 <br>Contact Email: hello@staffany.com 
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

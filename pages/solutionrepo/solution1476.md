@@ -1,5 +1,5 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4 - Package (Standard Data Loading)
+title: AxiomSL MAS 610 SaaS version 4 - Package (Basic Data Loading)
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 

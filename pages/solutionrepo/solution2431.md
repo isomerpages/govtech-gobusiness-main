@@ -1,5 +1,5 @@
 ---
-title: Qoqolo School Management System Version 4 - Lite version
+title: Qoqolo School Management System Version 4 - 5-in-1  Modules + Private Label
 permalink: /productivity-solutions-grant/solutionrepo/solution2431
 ---
 
@@ -9,7 +9,7 @@ Qoqolo is a one-stop-shop preschool management system for centres to accelerate 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

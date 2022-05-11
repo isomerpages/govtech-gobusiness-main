@@ -1,5 +1,5 @@
 ---
-title: Autodesk BIM 360 - BIM Collaborate Pro - 10 User Package (Formerly BIM 360 Design)
+title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
 permalink: /productivity-solutions-grant/solutionrepo/solution1026
 ---
 
@@ -12,7 +12,7 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

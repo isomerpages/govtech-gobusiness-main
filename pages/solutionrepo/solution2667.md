@@ -1,5 +1,5 @@
 ---
-title: Xero - ACE XERO Cloud Accounting Software - Package C (Full Package)
+title: Xero - ACE XERO Cloud Accounting Software - Package B (Subscription + Implementation)
 permalink: /productivity-solutions-grant/solutionrepo/solution2667
 ---
 
@@ -11,7 +11,7 @@ XERO being a cloud based and IRAS approved accounting software, it allows compan
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

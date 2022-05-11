@@ -1,5 +1,5 @@
 ---
-title: QuickBooks Online - DigiAcc Basic
+title: QuickBooks Online - DigiAcc Advance
 permalink: /productivity-solutions-grant/solutionrepo/solution2542
 ---
 
@@ -9,7 +9,7 @@ QuickBooks is #1 rated globally and best-selling small business accounting softw
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

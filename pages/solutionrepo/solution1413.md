@@ -1,5 +1,5 @@
 ---
-title: GenicDocs - Document Management Software - Package D
+title: GenicDocs - Document Management Software - Package C
 permalink: /productivity-solutions-grant/solutionrepo/solution1413
 ---
 
@@ -9,7 +9,7 @@ GenicDocs is very user-friendly interface and secured Document Management Softwa
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_Annex_3_CR_wef_23_September_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_Annex_3_CR_wef_23_September_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.bthrust.com/field-service-management-software-solution.html <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com <br>
+Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

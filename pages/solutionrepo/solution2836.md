@@ -1,5 +1,5 @@
 ---
-title: Creative Sales and Order - Sales & Order Management System Lite
+title: Creative Sales and Order - Sales & Order Management System SMEZ
 permalink: /productivity-solutions-grant/solutionrepo/solution2836
 ---
 
@@ -9,7 +9,7 @@ Creative Sales and order management is an user friendly end-to end solution that
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

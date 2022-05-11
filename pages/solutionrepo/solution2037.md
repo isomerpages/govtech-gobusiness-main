@@ -1,13 +1,21 @@
 ---
-title: Automatic Nut Splitter
+title: Automated tools management system
 permalink: /productivity-solutions-grant/solutionrepo/solution2037
 ---
 
 ### Description
 
-The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
 
-Cost of equipment capped at $7,500 per unit 
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system.  
+
+Cost of equipment capped at $28,000 per unit
 
 ### Details of Solution
 
@@ -33,10 +41,10 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimum nut size: 12.7mm
-- 1 battery pack or power unit per  equipment can be supported
-- Training costs can be supported
-- Maintenance costs not supported
+Unit is expandable, customizable to hold different types of tools, and fully secured. 
+
+Support only hardware and software.
+
 
 ### Contact Information
 N.A.

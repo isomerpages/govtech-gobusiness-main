@@ -1,5 +1,5 @@
 ---
-title: Sophos Central Intercept X Advanced - 50 Users
+title: Sophos Central Intercept X Advanced - 25 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2930
 ---
 
@@ -10,7 +10,7 @@ It harnesses the power of a deep learning neural network, marking Intercept X sm
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

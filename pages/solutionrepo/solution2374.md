@@ -1,5 +1,5 @@
 ---
-title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)
+title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (3 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2374
 ---
 
@@ -9,7 +9,7 @@ Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

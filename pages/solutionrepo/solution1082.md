@@ -1,5 +1,5 @@
 ---
-title: OdooCRM -Alitec Starter (Unlimited Users, Alitec Hosted, CRM + Website Apps)
+title: OdooCRM -Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1082
 ---
 
@@ -9,7 +9,7 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

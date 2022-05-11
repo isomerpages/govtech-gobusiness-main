@@ -1,5 +1,5 @@
 ---
-title: LittleLives 4.5 - Thermal Pro
+title: LittleLives 4.5 - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2444
 ---
 
@@ -9,7 +9,7 @@ As an EduTech company, LittleLives facilitates day-to-day school operations thro
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelives_20200132_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelives_20200132_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

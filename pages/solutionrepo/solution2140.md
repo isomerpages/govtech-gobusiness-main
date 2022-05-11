@@ -1,11 +1,11 @@
 ---
-title: Humidifier Equipment
+title: Hi-jack Cleaning Machinery
 permalink: /productivity-solutions-grant/solutionrepo/solution2140
 ---
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ### Details of Solution
 

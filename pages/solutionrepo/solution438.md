@@ -1,5 +1,5 @@
 ---
-title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 3 (5D BIM For BQ Cost Management)
+title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)
 permalink: /productivity-solutions-grant/solutionrepo/solution438
 ---
 
@@ -9,7 +9,7 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

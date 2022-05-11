@@ -1,5 +1,5 @@
 ---
-title: Xero - Premier Subscription Only
+title: Xero - Premier with Set-Up and Training (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution1806
 ---
 
@@ -13,7 +13,7 @@ Xero  is Cloud based and beautifully addresses challenging times where working f
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

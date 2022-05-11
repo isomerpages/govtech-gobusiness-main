@@ -1,5 +1,5 @@
 ---
-title: Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F
+title: Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F
 permalink: /productivity-solutions-grant/solutionrepo/solution2400
 ---
 
@@ -9,7 +9,7 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

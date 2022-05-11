@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting Software Version 2.0-Professional Version 2.0 (5 Users)
+title: Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1356
 ---
 
@@ -9,7 +9,7 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

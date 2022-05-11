@@ -1,5 +1,5 @@
 ---
-title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit (Professional) - 12mths
+title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit (Business) - 12mths
 permalink: /productivity-solutions-grant/solutionrepo/solution1903
 ---
 
@@ -9,7 +9,7 @@ Auk Industries is a disruptive end-to-end technology provider for Industrial IoT
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: HReasily Online Payroll Version 5 - Package B - 10 Employees
+title: HReasily Online Payroll Version 5 - Package A - 5 Employees
 permalink: /productivity-solutions-grant/solutionrepo/solution2361
 ---
 
@@ -9,7 +9,7 @@ HReasily is a cloud-based HR solution that provides end-to-end employee data col
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

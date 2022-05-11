@@ -1,15 +1,15 @@
 ---
-title: Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update
+title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Scale-up Kit (Business) - 12mths
 permalink: /productivity-solutions-grant/solutionrepo/solution1907
 ---
 
 ### Description
 
-AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet FortiGate Next-generation firewalls (NGFW) to build the Cyber Security for SMEs. With the continual work from home arrangement and constantly evolving Cyber security facing the SMEs IT setup and work from home employees, Fortinet is well positioned for SMEs needs as a leader in Gartner Magic Quadrant for Network Firewalls.
+Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to "Fitbit-for- machines", our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Auk_Industries_Annex_3__CR_wef_30_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
+Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

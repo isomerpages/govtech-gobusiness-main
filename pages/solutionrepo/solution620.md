@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package E (5 Users with PEPPOL unlimited + Warehouse Management App 3 Users)
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)
 permalink: /productivity-solutions-grant/solutionrepo/solution620
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

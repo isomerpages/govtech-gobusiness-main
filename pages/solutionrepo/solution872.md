@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Version 2021 - Advance Edition (7 Users)
+title: Sage 300 Version 2021 - Peppol Ready- Advance Edition (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution872
 ---
 
@@ -9,7 +9,7 @@ Sage300 is a powerful accounting and financial management solution that allows S
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

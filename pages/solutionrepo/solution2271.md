@@ -1,5 +1,5 @@
 ---
-title: Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 136 Sophos Standard Protection - 12 Months
+title: Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months
 permalink: /productivity-solutions-grant/solutionrepo/solution2271
 ---
 
@@ -9,7 +9,7 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

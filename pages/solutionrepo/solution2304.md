@@ -1,5 +1,5 @@
 ---
-title: Fooyo Mini Shop Version 2.0-Basic Web Package
+title: Fooyo Mini Shop Version 2.0-Basic WeChat Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2304
 ---
 
@@ -9,7 +9,7 @@ Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps me
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

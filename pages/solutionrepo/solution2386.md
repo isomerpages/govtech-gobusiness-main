@@ -1,5 +1,5 @@
 ---
-title: QuickBooks Online Version 1 - VCSG QBO Starter Basic
+title: QuickBooks Online Version 1 - VCSG QBO subscription only
 permalink: /productivity-solutions-grant/solutionrepo/solution2386
 ---
 
@@ -12,7 +12,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2386
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_23.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

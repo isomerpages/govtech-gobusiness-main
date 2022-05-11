@@ -1,5 +1,5 @@
 ---
-title: ABSS Accounting Software Version 23.7 - Acc-Pro3 - (3) users Accounting Solutions with Setup, Training and Cloud Access
+title: ABSS Accounting Software Version 23.7 - Acc-Pro2 - (3) users Accounting Solutions with Setup, Training and Remote Access
 permalink: /productivity-solutions-grant/solutionrepo/solution2888
 ---
 
@@ -10,7 +10,7 @@ ABSS Premier is an accounting and inventory management system that integrates wi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,11 +1,11 @@
 ---
-title: OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 4)
+title: KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Medium Engine)
 permalink: /productivity-solutions-grant/solutionrepo/solution1483
 ---
 
 ### Description
 
-OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
+KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package B (3 Vehicles)
+title: iTrack Fleet Management Version 2.8.8-iTrack Fleet Management Package A (1 Vehicle)
 permalink: /productivity-solutions-grant/solutionrepo/solution694
 ---
 
@@ -9,7 +9,7 @@ USA Fleet Solutions offers top fleet management hardware and software products t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

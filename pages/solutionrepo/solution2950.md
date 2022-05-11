@@ -1,5 +1,5 @@
 ---
-title: BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 -  LITE 150
+title: BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 100
 permalink: /productivity-solutions-grant/solutionrepo/solution2950
 ---
 
@@ -11,7 +11,7 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

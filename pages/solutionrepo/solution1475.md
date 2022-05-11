@@ -1,11 +1,13 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4 - Package (Basic Data Loading)
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1475
 ---
 
 ### Description
 
-AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
+
+Cost of equipment capped at $7,500 per unit 
 
 ### Details of Solution
 
@@ -24,15 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
-Up to 30% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+- Minimum nut size: 12.7mm
+- 1 battery pack or power unit per  equipment can be supported
+- Training costs can be supported
+
+
 
 ### Contact Information
 N.A.

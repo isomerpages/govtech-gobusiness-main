@@ -1,5 +1,5 @@
 ---
-title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - PEPPOL Ready
+title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module)
 permalink: /productivity-solutions-grant/solutionrepo/solution1224
 ---
 
@@ -11,7 +11,7 @@ With the advancement of technology, Edgeworks Solutions is able to now use the b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Vehicle Safety System - GridPlus VSS (6 Vehicle Package)
+title: Vehicle Safety System - GridPlus VSS (4 Vehicle Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1229
 ---
 
@@ -9,7 +9,7 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

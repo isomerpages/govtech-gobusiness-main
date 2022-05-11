@@ -1,5 +1,5 @@
 ---
-title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 30xVPN Licences
+title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 10xVPN Licences
 permalink: /productivity-solutions-grant/solutionrepo/solution2514
 ---
 
@@ -9,7 +9,7 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

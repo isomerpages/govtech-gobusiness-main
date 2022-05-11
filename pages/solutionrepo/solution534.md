@@ -1,5 +1,5 @@
 ---
-title: (SaaS) JustLogin HR Cloud - E (Up to 200 pax)
+title: (SaaS) JustLogin HR Cloud - C (Up to 100 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution534
 ---
 
@@ -9,7 +9,7 @@ For happy HR, bosses and employees, you want a platform that can help your team 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

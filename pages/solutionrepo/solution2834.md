@@ -1,5 +1,5 @@
 ---
-title: Sophos Firewall - Manage Firewall - Standard Protection for XGS 3100 - 12 MOS  
+title: Sophos Firewall - Manage Firewall - Standard Protection for XGS 2300 - 12 MOS  
 permalink: /productivity-solutions-grant/solutionrepo/solution2834
 ---
 
@@ -9,7 +9,7 @@ The XGS Firewall Series offers next-generation firewall features that provide vi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

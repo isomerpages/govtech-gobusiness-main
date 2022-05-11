@@ -1,15 +1,15 @@
 ---
-title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic
+title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental
 permalink: /productivity-solutions-grant/solutionrepo/solution1886
 ---
 
 ### Description
 
-With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution, manufacturers can gain real-time visibility over their entire machines and equipment health allowing them to schedule recurring maintenance frequency and report on machine breakdowns to dispatch repairs. Leveraging the toolset, manufacturers are able to optimize equipment maintenance process remotely and automatically, while eliminating unscheduled production downtime.
+GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
+Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

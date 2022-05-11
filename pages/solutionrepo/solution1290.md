@@ -1,5 +1,5 @@
 ---
-title: PEOPLECENTRAL HRMS Version 11 - Professional 150
+title: PEOPLECENTRAL HRMS Version 11 - Professional 100
 permalink: /productivity-solutions-grant/solutionrepo/solution1290
 ---
 
@@ -9,7 +9,7 @@ PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering H
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Creative eShop - Creative eShop Package Standard
+title: Creative eShop - Creative eShop Package Lite
 permalink: /productivity-solutions-grant/solutionrepo/solution2502
 ---
 
@@ -9,7 +9,7 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

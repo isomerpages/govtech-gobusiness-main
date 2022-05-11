@@ -1,5 +1,5 @@
 ---
-title: Haulio Community System Version 2.0-20 Trucks
+title: Haulio Community System Version 2.0-10 Trucks
 permalink: /productivity-solutions-grant/solutionrepo/solution1432
 ---
 
@@ -9,7 +9,7 @@ Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Soft
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

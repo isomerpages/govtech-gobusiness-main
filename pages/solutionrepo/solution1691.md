@@ -1,5 +1,5 @@
 ---
-title: ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle
+title: ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle 
 permalink: /productivity-solutions-grant/solutionrepo/solution1691
 ---
 
@@ -9,7 +9,7 @@ ChopeQueues is a contactless queue management that is fully integrated with our 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

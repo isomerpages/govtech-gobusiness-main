@@ -1,5 +1,5 @@
 ---
-title: Ecommflow Version 2.0 - Pro
+title: Ecommflow Version 2.0 - Plus
 permalink: /productivity-solutions-grant/solutionrepo/solution2263
 ---
 
@@ -9,7 +9,7 @@ Spend more time on what matters. Ecommflow takes care of the rest, with a suite 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

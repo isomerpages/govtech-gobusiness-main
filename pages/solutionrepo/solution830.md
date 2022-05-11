@@ -1,5 +1,5 @@
 ---
-title: Ellie Integrated System Version 2 - Package B (E-Waiter for 2 Users, KDS for 3 Users)
+title: Ellie Integrated System Version 2 - Package A (E-Waiter for 1 Users, KDS for 1 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution830
 ---
 
@@ -9,7 +9,7 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

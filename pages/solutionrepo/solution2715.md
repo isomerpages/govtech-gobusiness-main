@@ -1,5 +1,5 @@
 ---
-title: Redoc - Document Management & Transaction Records Version 1.0 - Package 5 (Up to 40 users)
+title: Redoc - Document Management & Transaction Records Version 1.0 - Package 4 (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2715
 ---
 
@@ -11,7 +11,7 @@ The platform enables estate agents and salespersons to automate sales process an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

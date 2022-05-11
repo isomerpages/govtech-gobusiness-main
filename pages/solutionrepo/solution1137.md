@@ -1,5 +1,5 @@
 ---
-title: Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)
+title: Visual Optical Retail Management System Version 8 Software - Package (Business Pro)
 permalink: /productivity-solutions-grant/solutionrepo/solution1137
 ---
 
@@ -9,7 +9,7 @@ Visual Optical RMS is a retail management system specifically designed for an op
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

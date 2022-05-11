@@ -1,15 +1,16 @@
 ---
-title: Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite
+title: Sophos Central Intercept X Advanced - With XDR and Managed Threat Response Standard - 100 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2934
 ---
 
 ### Description
 
-Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaurant management system for food vendors (both restaurants and hawkers) who are eager to efficiently extend their business to an emerging digital F&B community that consists of diners, payment providers, advertisers, wholesalers, and other participants (e.g., government entity) in the F&B industry. Wecome ONE consists of ordering and payment management, cloud-connected services, and optional customizable accessories.
+Rated number 1 protection in independent third-party testing, Sophos consistently blocks more malware and exploits than competing solutions.
+It harnesses the power of a deep learning neural network, marking Intercept X smarter, more scalable, and more effective against never-seen-before threats. Intercept X leverages deep learning to outperform endpoint security solutions that use traditional machine learning or signature-based detection alone.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 80 for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://wecome.sg <br>Contact Hotline: 96824965 <br>Contact Email: wuhong@wecome.sg <br>
+Web URL: swiz.com.sg <br>Contact Hotline: 62502661 <br>Contact Email: sales@swiz.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

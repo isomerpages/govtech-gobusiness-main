@@ -1,5 +1,5 @@
 ---
-title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users
+title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User
 permalink: /productivity-solutions-grant/solutionrepo/solution477
 ---
 
@@ -9,7 +9,7 @@ Characterized by its easy-to-use, fast operated speed, complete business logic c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

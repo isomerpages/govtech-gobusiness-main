@@ -1,11 +1,11 @@
 ---
-title: Farm Produce Washing Machine
+title: Vacuum Cooler Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
 ### Description
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ### Details of Solution
 

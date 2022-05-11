@@ -1,5 +1,5 @@
 ---
-title: OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 2)
+title: OneSumX for Regulatory Reporting Version 3.1.0 -  Package (Tier 3)
 permalink: /productivity-solutions-grant/solutionrepo/solution1485
 ---
 

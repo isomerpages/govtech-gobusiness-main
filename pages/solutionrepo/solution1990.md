@@ -1,5 +1,5 @@
 ---
-title: ABSS - Accounting Consultancy - 1 user + Setup + Training
+title: ABSS - Accounting Consultancy - 3 users + Setup
 permalink: /productivity-solutions-grant/solutionrepo/solution1990
 ---
 
@@ -9,7 +9,7 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,18 +1,15 @@
 ---
-title: Stormshield UTM Firewall - SN210
+title: EndPoint Protection Platform - GZ Business Security Premium - 200 Licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution520
 ---
 
 ### Description
 
-Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
-
-Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
-
+Bitdefender GZ Advanced Business Security -- Guard against all threats and attack vectors with proven machine learning, behavioural analysis, advanced anti-exploit, continuous monitoring of running processes and risk assessment capabilities. The software blends machine learning and heuristics with signatures and other techniques to offer protection against all types of malware, plus threats such as phishing, ransomware.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br>Tel: +65 6659 1811
+Web URL: www.jussolve.com <br>Contact Hotline: 66591811 <br>Contact Email: sales@jussolve.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

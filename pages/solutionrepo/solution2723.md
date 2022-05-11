@@ -1,5 +1,5 @@
 ---
-title: BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Basic
+title: BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory + CRM
 permalink: /productivity-solutions-grant/solutionrepo/solution2723
 ---
 
@@ -9,7 +9,7 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

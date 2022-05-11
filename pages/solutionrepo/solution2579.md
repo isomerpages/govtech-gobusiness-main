@@ -1,5 +1,5 @@
 ---
-title: Zoho Workplace PSG Edition - 30 users
+title: Zoho Workplace PSG Edition - 25 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2579
 ---
 
@@ -13,7 +13,7 @@ Transform the way your team works together - give them a secure, shared workspac
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: One-Stop Document Access - Plus (5 Users)
+title: One-Stop Document Access - Lite (2 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1968
 ---
 
@@ -9,7 +9,7 @@ One-Stop Document Access is a document management system that offers browser and
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

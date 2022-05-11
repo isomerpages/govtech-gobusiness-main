@@ -1,5 +1,5 @@
 ---
-title: XERO CLOUD ACCOUNTING SOFTWARE-Xero Start-up Package
+title: XERO CLOUD ACCOUNTING SOFTWARE-Xero Premier Package
 permalink: /productivity-solutions-grant/solutionrepo/solution928
 ---
 
@@ -10,7 +10,7 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

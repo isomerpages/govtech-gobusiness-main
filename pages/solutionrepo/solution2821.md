@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Package B (Xero Premier Pro)
+title: Xero Cloud Accounting Software - Package A (Xero Premier full package with consultation)
 permalink: /productivity-solutions-grant/solutionrepo/solution2821
 ---
 
@@ -9,7 +9,7 @@ Xero is an online accounting software for small businesses that lets you share a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

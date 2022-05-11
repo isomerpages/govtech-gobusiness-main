@@ -1,15 +1,15 @@
 ---
-title: SQL Account Version 5 - Package A (1 User)
+title: Haulio Community System Version 2.0-20 Trucks
 permalink: /productivity-solutions-grant/solutionrepo/solution1433
 ---
 
 ### Description
 
-SQL Account includes full range of business Accounting features including AR, AP, GL, Inventory, Banking, GST, Reporting. It has user-friendly interface to help SMEs perform daily operation, organise and analyse finance data for accurate reporting, customisable to suit business workflow. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
+Company Name:Haulio Pte Ltd <br>Web URL: www.haulio.io <br>Contact Hotline: 85082327 <br>Contact Email: hello@haulio.io <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

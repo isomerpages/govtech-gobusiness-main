@@ -1,5 +1,5 @@
 ---
-title: Eset Protect Entry - 10 Licenses (1 year)
+title: Eset Protect Entry - 5 Licenses (1 year)
 permalink: /productivity-solutions-grant/solutionrepo/solution2717
 ---
 
@@ -9,7 +9,7 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

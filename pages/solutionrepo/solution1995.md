@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)
+title: SAP Business One Version 10 - SAP Business One on HANA - Package B (5 Cloud Subscription Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1995
 ---
 
@@ -11,7 +11,7 @@ SAP Business One is an ERP software designed for SMEs. It's a single, affordable
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

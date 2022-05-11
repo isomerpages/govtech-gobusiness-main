@@ -1,11 +1,11 @@
 ---
-title: Vacuum Cooler Equipment
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
 ### Description
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 

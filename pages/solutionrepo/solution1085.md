@@ -1,5 +1,5 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP
+title: BIZ POS Version 3.0 -BIZ POS VER 3.0 MOBILE
 permalink: /productivity-solutions-grant/solutionrepo/solution1085
 ---
 
@@ -9,7 +9,7 @@ BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 100 Licences (1 Year)
+title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)
 permalink: /productivity-solutions-grant/solutionrepo/solution1965
 ---
 
@@ -9,7 +9,7 @@ Sophos safeguards all users' devices under one management, either on premise or 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

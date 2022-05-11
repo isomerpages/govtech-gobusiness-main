@@ -1,11 +1,11 @@
 ---
-title: Automatic case labelling machine
+title: Automated Slaughtering Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Case printing system or pack labelling system which allow the user to fully customize their label.
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ### Details of Solution
 

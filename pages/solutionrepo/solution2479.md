@@ -1,15 +1,15 @@
 ---
-title: SAP2000 Ultimate Suite - Package 1 with Training (1 Year)
+title: Smart Glasses - InnoGlas - SE customization package (6 sets) - Package 5
 permalink: /productivity-solutions-grant/solutionrepo/solution2479
 ---
 
 ### Description
 
-The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and design tool for engineers working on all forms of structures including transportation, industrial, public works, sports, offshore and other facilities.  SAP2000 includes a complete set of finite elements like Frame, Shell, Solid, Cable and Tendons.  SAP2000 can perform Linear and Non-Linear analysis, Static and Dynamic analysis in both time and frequency domain.  There is no structure too complex for SAP2000.
+InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

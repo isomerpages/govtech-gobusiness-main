@@ -1,5 +1,5 @@
 ---
-title: BOTG Version 1.0 - Professional 
+title: BOTG Version 1.0 - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1723
 ---
 
@@ -9,7 +9,7 @@ Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg/<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
+Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

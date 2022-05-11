@@ -1,11 +1,11 @@
 ---
-title: Pest/ Disease Monitoring and Control Equipment/ System
+title: Water Treatment System for Water Recirculation or Discharge
 permalink: /productivity-solutions-grant/solutionrepo/solution2159
 ---
 
 ### Description
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ### Details of Solution
 
