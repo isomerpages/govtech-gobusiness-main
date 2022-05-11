@@ -1,5 +1,5 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4 - Package (Standard Data Loading)
+title: AxiomSL MAS 610 SaaS version 4 - Package (Basic Data Loading)
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 
@@ -10,6 +10,10 @@ AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks,
 ### Details of Solution
 
 N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,15 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+N.A.
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+N.A.
 
 ### Contact Information
 N.A.

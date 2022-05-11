@@ -1,5 +1,5 @@
 ---
-title: Carbonate HR Version 1 - Power 50
+title: Carbonate HR Version 1 - Power 20
 permalink: /productivity-solutions-grant/solutionrepo/solution2862
 ---
 
@@ -9,7 +9,11 @@ Carbonate HR is a web and mobile application based HR management system that foc
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Human Resource Solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.carbonateapp.com <br>Contact Hotline: 66791003 <br>Contact Email: info@carbonateapp.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Octopus Food Solution Version 7 - Package D (Bundle of 2 Self-Checkout Kiosk)
+title: Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution668
 ---
 
@@ -10,7 +10,11 @@ Octopus Food Solutions provides a complete suites of innovative and easy-to-use 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@octopuspos.com<br>Tel: +65 6221 6601
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

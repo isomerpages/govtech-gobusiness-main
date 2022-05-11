@@ -1,15 +1,19 @@
 ---
-title: LittleLives 4.5 - Thermal Basic
+title: HAVENCE Version 4 - HAVSMART ENTERPRISE
 permalink: /productivity-solutions-grant/solutionrepo/solution2442
 ---
 
 ### Description
 
-As an EduTech company, LittleLives facilitates day-to-day school operations through its core mobile applications: Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  We have created a holistic system that handles the full life cycle of a child's preschool journey. Our products are developed taking into consideration the needs of the entire network of caregivers - educators, parents, and leaders.
+A complete end-to-end software system tailor-made for centres where there are students/customers obtaining centre day services (e.g. preschools, tuition/enrichment centres and services/care centres). It consists of support hardware, a web portal and mobile applications for customers, managers and staff.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelives_20200132_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,18 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
+N.A.
 
 ### Contact Information
-Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

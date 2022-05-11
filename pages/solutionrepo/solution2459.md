@@ -1,15 +1,19 @@
 ---
-title: AIO CRM - AIO CRM 
+title: SAFE Post-Tension Suite - Package 2 (Perpetual License)
 permalink: /productivity-solutions-grant/solutionrepo/solution2459
 ---
 
 ### Description
 
-AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
+SAFE is the ultimate tool for designing concrete floor and foundation systems. From framing layout to detail drawing production, SAFE integrates every aspect of the engineering design process in one easy and intuitive environment. SAFE provides unmatched productivity to the engineer with its truly unique combination of power, comprehensive capabilities, and ease-of-use.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Otte_International__20210049_Desensitised_Annex_3_Part_2.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.aio-interactive.com <br>Contact Hotline: 96796966 <br>Contact Email: sales@aio-interactive.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

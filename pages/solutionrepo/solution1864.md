@@ -1,19 +1,19 @@
 ---
-title: T-Guard - Package (1 Vehicle)
+title: Second CRM Version 7.1 - Package E (20 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1864
 ---
 
 ### Description
 
-T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
-
--Advanced tracking technology providing greater fleet insights to improve business productivity and safety
--Driver behaviour insights and scoring to instil safe driving culture
--Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
+Second CRM is an easy to use cloud based business automation solution designed to improve productivity for small to medium businesses. Second CRM focuses on sales, customer services and operations, providing end to end streamlining of business functions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -28,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

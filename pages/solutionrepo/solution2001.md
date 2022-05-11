@@ -1,17 +1,19 @@
 ---
-title: Ethylene Removal System
+title: Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)
 permalink: /productivity-solutions-grant/solutionrepo/solution2001
 ---
 
 ### Description
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
-
-Cost of equipment capped at $37,500 per unit
+Armfort Visitor Management System is an integrated solution that will assist businesses to effectively authenticate and pro-actively monitor the people coming in and out of their premises on a daily basis.
 
 ### Details of Solution
 
 N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -26,18 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Specifications:
-- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.
-- No harmful substance must be released into the environment E.g. Ozone
-- Can be used in storage and production facilities.
-- Installation and maintenance costs are not supported.
+N.A.
 
 ### Contact Information
 N.A.

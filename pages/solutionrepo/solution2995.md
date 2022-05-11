@@ -1,5 +1,5 @@
 ---
-title: 3. Process human resource information (SFw HR)
+title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution2995
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Management-Level-2-Process-Human-Resource-Information-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Level-4-Manage-Human-Resource-AnalyticsSynchronous-eLearning-2
 
 ### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Human Resource Solutions
 
 ### Support Level
 Up to  for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 N.A.
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

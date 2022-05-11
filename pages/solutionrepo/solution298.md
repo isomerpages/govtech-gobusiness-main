@@ -28,16 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-- Equipment must be able to offer several options of hoppers with different volumes. 
-- Equipment must allow company to be able to change desired dough weight. 
-
+N.A.
 
 ### Contact Information
 N.A.

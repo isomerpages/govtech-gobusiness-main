@@ -1,11 +1,11 @@
 ---
-title: Digital quality testing equipment
+title: Packing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2167
 ---
 
 ### Description
 
-Quality testing equipment in measuring the produce quality and freshness
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

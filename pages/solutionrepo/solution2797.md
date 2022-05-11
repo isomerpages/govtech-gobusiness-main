@@ -1,16 +1,19 @@
 ---
-title: TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)
+title: DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2797
 ---
 
 ### Description
 
-Times Software Pte Ltd is an international software and consultancy company specializing in the development, implementation & systems support as well as the marketing of Times's proprietary suite of applications that include Payroll and Human Resource solutions built on leading technologies.
-Times Software Pte Ltd has a team of employees who are equipped with in-depth knowledge, technological skills, and business processes of the human resource industry standards.
+With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf
 
 ### Eligibility Criteria
 
@@ -25,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Digital Marketing solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br>Contact Hotline: 62951998 <br>Contact Email: sales@timesoftsg.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

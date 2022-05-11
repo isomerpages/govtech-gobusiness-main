@@ -1,13 +1,13 @@
 ---
-title: High Pressure Rotating Head
+title: High pressure industrial vacuum cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution2073
 ---
 
 ### Description
 
-The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
 
-Cost of equipment capped at $8750 per unit 
+Cost of equipment capped at $12,500 per unit 
 
 ### Details of Solution
 
@@ -26,17 +26,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
-- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
-
-
+N.A.
 
 ### Contact Information
 N.A.

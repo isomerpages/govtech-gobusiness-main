@@ -1,5 +1,5 @@
 ---
-title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1A
+title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Starter - 1A
 permalink: /productivity-solutions-grant/solutionrepo/solution2842
 ---
 
@@ -9,7 +9,11 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription or Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

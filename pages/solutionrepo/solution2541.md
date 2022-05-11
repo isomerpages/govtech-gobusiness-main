@@ -1,15 +1,19 @@
 ---
-title: QuickBooks Online - DigiAcc Advance
+title: ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 200 Employees
 permalink: /productivity-solutions-grant/solutionrepo/solution2541
 ---
 
 ### Description
 
-QuickBooks is #1 rated globally and best-selling small business accounting software. It has everything you need to save you time and keep you organized. QuickBooks is designed for those who are unfamiliar with accounting or bookkeeping. Simply enter your sales and expenses, and QuickBooks will do the rest. In a few clicks you can create invoices, estimates, statements, expense reports, and more. Keep all of your accounting data organized and at your fingertips with QuickBooks.
+Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs can entrust their payroll needs to our dedicated accounts manager who would deliver on monthly payroll processing, employee data management, benefits & claims, and more. With payroll outsourcing, they can contain cost, manage employer-related risk, reduce administrative burdens, and maintain information confidentially.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Human Resource Solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://quickbooks.intuit.com/sg <br>Contact Hotline: 68449633 <br>Contact Email: info@inbiz-solutions.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

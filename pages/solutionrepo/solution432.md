@@ -1,5 +1,5 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods) 
+title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
 permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 
@@ -11,7 +11,11 @@ Getz solution is a fully integrated platform that comprehensively resolves F&B's
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_1.pdf
 
 ### Eligibility Criteria
 
@@ -26,16 +30,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Subscription / Leasing for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

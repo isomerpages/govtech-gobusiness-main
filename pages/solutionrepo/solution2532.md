@@ -1,15 +1,19 @@
 ---
-title: Aggregate Cloud Accounting Software (Xero) - Package A (Starter)
+title: 2DFire online ordering and payment Version 5.8.98 - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution2532
 ---
 
 ### Description
 
-Aggregate Consultancy Services provides one stop digital solution to digitalise the sales, accounting, taxation, human resource management process. We address the challenges of limited resources and manpower faced by start-ups and SMEs so that their business owners and managers are able to spend more productive time growing the businesses instead of handling much of the back-office process. Supported by Xero, we aim to increase the odds of business success in the challenging environment.
+1-Smart Technologies provide the brand , 2DFire, which started in 2005, focusing on the creation and constant innovation of cloud-based software and systems as a long-term goal. With over 15 years of experience in serving restaurants worldwide from different verticals within the food & beverage industry - from single outlet bars and restaurants to chain stores. Our complete solutions range from frontend QR Ordering to backend Supply Chain Management with data analysis.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/1-Smart_Technologies_20200875_Desensitised_Annex_3.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://www.incorporateyour.com <br>Contact Hotline: 63349329 <br>Contact Email: sales@incorporateyour.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

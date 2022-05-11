@@ -1,5 +1,5 @@
 ---
-title: 3. Apply Workplace Safety and Health in Logistics and Transportation
+title: 2. Supply Chain Solutioning/Modelling/Planning/Strategising
 permalink: /productivity-solutions-grant/solutionrepo/solution3096
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Solutioning-Modelling-Planning-Strategising-2
 
 ### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Fleet Safety and Fleet Management System
 
 ### Support Level
 Up to  for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 N.A.
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

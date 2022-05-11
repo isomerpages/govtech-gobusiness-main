@@ -1,13 +1,15 @@
 ---
-title: High pressure industrial vacuum cleaner
+title: Liquid Filling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2072
 ---
 
 ### Description
 
-The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
 
-Cost of equipment capped at $12,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
@@ -26,18 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-- Must be certified intrinsically safe (e.g. ATEX certified)
-- Contains an immersion separator as a filter 
-- Training costs can be supported
-
-
+N.A.
 
 ### Contact Information
 N.A.

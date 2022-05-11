@@ -1,13 +1,13 @@
 ---
-title: Automatic Nut Splitter
+title: Automatic Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1474
 ---
 
 ### Description
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Cost of equipment capped at $7,500 per unit 
+Cost of equipment capped at $4,000 per unit 
 
 ### Details of Solution
 
@@ -26,18 +26,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-- Minimum nut size: 12.7mm
-- 1 battery pack or power unit per  equipment can be supported
-- Training costs can be supported
-
-
+N.A.
 
 ### Contact Information
 N.A.

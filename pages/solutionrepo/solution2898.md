@@ -1,5 +1,5 @@
 ---
-title: AM8ZE ERP VISTA - Manufacturing and Supply Chain V35 (35 Users)
+title: AM8ZE ERP VISTA - Manufacturing and Supply Chain V25 (25 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2898
 ---
 
@@ -9,7 +9,11 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_56.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Enterprise Resource Planning (ERP) and Standalone solutions
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: https://am8ze.com/erp/ <br>Contact Hotline: 96222206 <br>Contact Email: sales@am8ze.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

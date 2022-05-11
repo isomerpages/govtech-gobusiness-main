@@ -1,11 +1,11 @@
 ---
-title: Automatic Seed Sowing Machine
+title: Automatic Seed Plug Transplanter
 permalink: /productivity-solutions-grant/solutionrepo/solution2122
 ---
 
 ### Description
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+A machine that completes transplantation.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+N.A.
 
 ### Contact Information
 N.A.

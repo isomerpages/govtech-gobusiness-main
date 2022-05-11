@@ -1,5 +1,5 @@
 ---
-title: (A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)
+title: (A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)
 permalink: /productivity-solutions-grant/solutionrepo/solution1095
 ---
 
@@ -13,7 +13,11 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -28,16 +32,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Human Resource Solutions
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Info-Tech Systems Integrators Pte Ltd <br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

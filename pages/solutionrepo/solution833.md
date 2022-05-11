@@ -1,5 +1,5 @@
 ---
-title: Ellie Integrated System Version 2 - Package E (Online ordering, E-Waiter for 5 Users, KDS for 4 Users)
+title: Ellie Integrated System Version 2 - Package D (Online ordering, E-Waiter for 2 Users, KDS for 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution833
 ---
 
@@ -9,7 +9,11 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
+
+### Sector Specialisation
+
+https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Company Name:Supply Ellie Pte Ltd <br>Web URL:www.supplyellie.com <br>Contact Hotline:91200059 <br>Contact Email:davidang@supplyellie.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -28,20 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Mandatory specifications: 
-- Transport materials between points
-- Manoeuvre safely around obstacles
-- Min. payload of 100kg
-- Equipped with a rechargeable battery
-- Accessories e.g. towing arm, mountable shelf are supportable
-- Installation and maintenance cost are not supported
+N.A.
 
 ### Contact Information
 N.A.

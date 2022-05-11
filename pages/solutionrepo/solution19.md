@@ -28,18 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Unit must be able to store minimally 9kg of cooked rice and automatically dispense rice in pre-set quantities. 
-- Minimum hooper capacity of 9kg. 
-
-
+N.A.
 
 ### Contact Information
 N.A.

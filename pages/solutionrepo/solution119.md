@@ -28,20 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-Mandatory specifications:
-- Automate access request and provisioning
-- Physically secure spaces without the need for power supply to operate 
-- Provide traceability of all access into the secured spaces
-- Installed with Management software to administer access to users
-- Installation cost is supported
-- Maintenance cost is not supported
+N.A.
 
 ### Contact Information
 N.A.

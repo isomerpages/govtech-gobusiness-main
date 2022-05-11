@@ -1,13 +1,12 @@
 ---
-title: Torque Multiplier
+title: Flange Facer
 permalink: /productivity-solutions-grant/solutionrepo/solution1471
 ---
 
 ### Description
 
-The  torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. 
-
-Cost of equipment capped at $20,000 per unit 
+The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -26,18 +25,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+N.A.
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to  for SMEs <br>
+Up to Direct Purchase for non-SMEs
 
 ### Things to Note
-- Produce at least 2,000N.m torquing force 
-- 1 battery pack or power unit per equipment can be supported
-- Training costs can be supported
-
-
+N.A.
 
 ### Contact Information
 N.A.
