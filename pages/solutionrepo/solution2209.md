@@ -1,21 +1,15 @@
 ---
-title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 20 Users
+title: FITPRISE Job Inspection System - FITPRISE Job Inspection System - 10 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2209
 ---
 
 ### Description
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing. 
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+FITPRISE PMS is a web-based management system that manages the QA/QC project management of engineering work. It comprises of a back-end system and front-end mobile app. The back-end system supports the data processing of workers profiles, jobs, inspection procedure information. Job inspection details are captured on mobile apps or recorded manually by workers. Full benefits are derived from the system inspection reports detailing full traceability of end-to-end job operation status.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.enhanzcom.com <br>Contact Hotline: 62761128 <br>Contact Email: enquiries@enhanzcom.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

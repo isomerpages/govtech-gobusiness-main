@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package B (5 Cloud Subscription Users)
+title: SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1995
 ---
 
@@ -11,11 +11,7 @@ SAP Business One is an ERP software designed for SMEs. It's a single, affordable
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

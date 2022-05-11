@@ -1,20 +1,15 @@
 ---
-title: Revel Systems - Revel Essentials - Bundle 2 order license & 2 KDS
+title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2063
 ---
 
 ### Description
 
-Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations. For each transformation solutions development,  SCS provides Transformation Consultation, Integration Recommendations, Project Management, Implementation as well as Onsite Training and Technical Support.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email: enquiry@scs-cpa.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

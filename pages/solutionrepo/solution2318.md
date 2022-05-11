@@ -1,19 +1,15 @@
 ---
-title: vTrak Version 1.4 - 25 VEHICLES
+title: Fleet Management System - Pkg 1 - 2 vehicle
 permalink: /productivity-solutions-grant/solutionrepo/solution2318
 ---
 
 ### Description
 
-The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
+Track-Asia's FMS enable fleet owners the capability of tracking their fleet at any point of time with the assistance of software (web/mobile) together with GPS Tracker installed in the vehicle. Our solution is able to provide comprehensive data based on the collected data that is registered into the backend which will allow business owners to analyze & study. Not limiting the software capability for business owner, they can setup their own geo-fencing, scheduling maintenance & servicing.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Acecom20200635_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fleet Safety and Fleet Management System
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://track-asia.com/ <br>Contact Hotline: 91125883 <br>Contact Email: eugene_low@acecom.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

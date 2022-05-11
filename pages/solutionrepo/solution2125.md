@@ -1,11 +1,11 @@
 ---
-title: Closed Containment System
+title: Conveyor System for transporting materials
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 
 ### Description
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

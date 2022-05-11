@@ -1,19 +1,17 @@
 ---
-title: FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)
+title: Combi Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution400
 ---
 
 ### Description
 
-FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
+Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -28,14 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Mandatory Specification:
+- Unit is programmable for convection, steam, and combination cooking. 
+- Minimum capacity: 5 trays (GN 1/1)
+
+
 
 ### Contact Information
 N.A.

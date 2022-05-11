@@ -1,11 +1,11 @@
 ---
-title: Temperature montoring/ labelling device
+title: Fish fry quarantine tank system
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
 ### Description
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

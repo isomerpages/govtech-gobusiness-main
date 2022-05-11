@@ -1,11 +1,11 @@
 ---
-title: Solar Panels System and Energy Storage System
+title: Sterilizer Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
 ### Description
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

@@ -1,19 +1,15 @@
 ---
-title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)
+title: SYNERGIX E1 Version TH6 - Package A   HRMS Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution2253
 ---
 
 ### Description
 
-ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

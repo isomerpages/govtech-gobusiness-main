@@ -1,13 +1,13 @@
 ---
-title: Automated Deep Fryer
+title: Blast Chiller
 permalink: /productivity-solutions-grant/solutionrepo/solution2519
 ---
 
 ### Description
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
 
-Cost of equipment capped at $4,000 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 
 ### Details of Solution
@@ -27,14 +27,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum Specifications
+
+Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.
+
+Minimum capacity of 5 GN 1/1
+
+
 
 ### Contact Information
 N.A.

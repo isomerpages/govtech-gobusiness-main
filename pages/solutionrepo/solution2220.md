@@ -1,19 +1,15 @@
 ---
-title: Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users
+title: Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution2220
 ---
 
 ### Description
 
-Sage CRM is a customer relationship management solution designed to help small and midsize businesses optimize their customer experience and improve productivity.  The solution helps users to simplify the work processes such as quotes and orders, progressing leads and converting them to opportunities using sales workflow, shorten work process cycles.
+Detrack is a cloud-based real-time vehicle tracking and electronic proof of delivery (e-POD) solution with the use of just an Android or iPhone. Detrack not only offers full visibility of your delivery fleet, but it also lets you keep track of the status of every delivery job and helps you notify your customers of the progress in real-time, so they won't have to keep calling your customer hotline. Our solution has proven to help companies cut manpower and operations costs by up to 90%.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.detrack.com <br>Contact Hotline: 68440509 <br>Contact Email: sales@detrack.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

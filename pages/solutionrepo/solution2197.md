@@ -1,19 +1,15 @@
 ---
-title: WarelyEcom Version 1.3 - Premium
+title: SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in, Takeaway, & Delivery)
 permalink: /productivity-solutions-grant/solutionrepo/solution2197
 ---
 
 ### Description
 
-WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
+SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-E-Commerce solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello@skipqoo.io <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

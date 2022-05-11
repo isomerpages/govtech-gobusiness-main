@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0-Package C (Customer QR/Online Self Ordering)
+title: FoodZaps Version 4.0-Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)
 permalink: /productivity-solutions-grant/solutionrepo/solution1959
 ---
 
@@ -9,11 +9,7 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 8921 4028 <br>Contact Email: sales@foodzaps.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Farm Washing System
+title: Enhanced disinfection system
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
 ### Description
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

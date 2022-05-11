@@ -1,22 +1,15 @@
 ---
-title: aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003
+title: LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan
 permalink: /productivity-solutions-grant/solutionrepo/solution2637
 ---
 
 ### Description
 
-NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
-aiCARE Shield Managed Security comes with 8x5 Hotline Support.
-Support Day : Monday - Friday
-Support Time : 9am-6pm
+LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Cyber Security solutions
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

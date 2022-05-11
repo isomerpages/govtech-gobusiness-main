@@ -1,19 +1,15 @@
 ---
-title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental
+title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1886
 ---
 
 ### Description
 
-GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
+With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution, manufacturers can gain real-time visibility over their entire machines and equipment health allowing them to schedule recurring maintenance frequency and report on machine breakdowns to dispatch repairs. Leveraging the toolset, manufacturers are able to optimize equipment maintenance process remotely and automatically, while eliminating unscheduled production downtime.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

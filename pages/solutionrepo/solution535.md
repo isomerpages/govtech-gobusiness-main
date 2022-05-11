@@ -1,19 +1,17 @@
 ---
-title: (SaaS) JustLogin HR Cloud - E (Up to 200 pax)
+title: KEEPITAL Sales Management Business Solution Version 3 - Package (24 Product Showcase)
 permalink: /productivity-solutions-grant/solutionrepo/solution535
 ---
 
 ### Description
 
-For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
+Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
+To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized.
+
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Human Resource Solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Keep Pte Ltd<br>www.keepital.com<br>Email: ask@keepital.com<br>Tel: +65 9623 9126
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

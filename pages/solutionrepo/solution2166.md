@@ -1,11 +1,11 @@
 ---
-title: Rainwater harvesting system and storage tank
+title: Packing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2166
 ---
 
 ### Description
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

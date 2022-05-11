@@ -1,19 +1,18 @@
 ---
-title: Microsoft Dynamics 365 Business Central for Wholesale - Package D (15 On-Cloud Licenses) with  PEPPOL e-invoicing
+title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Start Up Pack (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution963
 ---
 
 ### Description
 
-An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
+"Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements."
+
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

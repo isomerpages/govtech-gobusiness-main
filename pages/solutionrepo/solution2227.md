@@ -1,21 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01 - Cloud Solution Package-Basic with Addon
+title: Xero Cloud Accounting Software-Harvest - Software
 permalink: /productivity-solutions-grant/solutionrepo/solution2227
 ---
 
 ### Description
 
-- Microsoft Dynamics 365 Business Central base Finance and Supply Chain Management (Inventory, Sales and Purchase)
-- Mobile Addon (Document Approval - PR, PO, Sales Quote, Sales Order)
-- Predefined Setup and Implementation
+Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DynamicSolutions20200274_Desensitised_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

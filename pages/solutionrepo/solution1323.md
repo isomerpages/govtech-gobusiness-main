@@ -1,5 +1,5 @@
 ---
-title: SentroWeb - Regular DJ 1000
+title: SentroWeb - Premium DJ 8K
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
@@ -9,11 +9,7 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

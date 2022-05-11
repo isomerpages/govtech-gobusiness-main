@@ -1,5 +1,5 @@
 ---
-title: vTrak Version 1.4 - 5 VEHICLES
+title: vTrak Version 1.4 - 10 VEHICLES
 permalink: /productivity-solutions-grant/solutionrepo/solution2314
 ---
 
@@ -9,11 +9,7 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fleet Safety and Fleet Management System
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: WWW.IDEE.SG <br>Contact Hotline: 62936461 <br>Contact Email: INFO@IDEE.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

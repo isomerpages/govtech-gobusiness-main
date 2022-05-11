@@ -1,11 +1,11 @@
 ---
-title: Underwater Camera 
+title: Temperature montoring/ labelling device
 permalink: /productivity-solutions-grant/solutionrepo/solution2169
 ---
 
 ### Description
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

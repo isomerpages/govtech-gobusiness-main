@@ -1,13 +1,14 @@
 ---
-title: 3D Intraoral Scanner
+title: Automated Deep Fryer
 permalink: /productivity-solutions-grant/solutionrepo/solution2518
 ---
 
 ### Description
 
-The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
 
-Grant support: 80% of cost of equipment, up to $20,000 grant per unit.
+Cost of equipment capped at $4,000 per unit 
+
 
 ### Details of Solution
 
@@ -26,14 +27,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum Specifications 
+-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
+
+Well capacity to be at least 5L
+
+Serving size and frying type should be customisable
+
+
 
 ### Contact Information
 N.A.

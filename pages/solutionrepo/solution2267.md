@@ -1,20 +1,15 @@
 ---
-title: TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -50 Licences
+title: KADDRA Mobile App Commerce Solution Version 1.9 - Starter
 permalink: /productivity-solutions-grant/solutionrepo/solution2267
 ---
 
 ### Description
 
-Endpoint Security
-Secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks
+Kaddra helps businesses turn loyalty into revenue, improve retention and accelerate growth through its cross-channel solution. With the useful end to end tools, it provides opportunities for SMEs to upsell, create targeted marketing, improve customer service and better understand customer trends through analytics.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Cyber Security solutions
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% (80% for Retail sector)  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact Email: Togi.Gouw@Kaddra.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

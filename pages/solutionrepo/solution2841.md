@@ -1,19 +1,15 @@
 ---
-title: DST Inventory System Version 1.3 - Package C (RFID)
+title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Starter - 1A
 permalink: /productivity-solutions-grant/solutionrepo/solution2841
 ---
 
 ### Description
 
-Inventory System uses different technologies such as barcode, QR and/or RFID onto Inbound and Outbound items for tracking and inventory stock take. The solution is used for store, warehouse, retail outlets and assets tracking.
+DashBod is a cloud accounting software that is one of the software listed on Inland Revenue Authority of Singapore (IRAS)'s Accounting Software Register ("ASR"), and is developed by SMECEN, a wholly-owned subsidiary of the Association of Small and Medium Enterprises (ASME).
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

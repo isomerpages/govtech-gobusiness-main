@@ -1,19 +1,15 @@
 ---
-title: Firewalla Gold Package - Package D - 4 Sites
+title: Enhanzcom - FITPRISE Sales & Inventory System - (5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2606
 ---
 
 ### Description
 
-Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
+FITPRISE Sales & Inventory System is a flexible business system platform for Sales and Stock Inventory operations. System provides tracking of sales leads through to quotation creation and/or management of the issuance, receipt and movement of stock inventory items. The solution provides the flexibility to create customized reports, fields, logic to meet the SMEs operations workflow. This helps with user system acceptance as system processes are more familiar to their daily operations.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom_Inventory_20210029_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Cyber Security solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.enhanzcom.com <br>Contact Hotline: 62761128 <br>Contact Email: enquiries@enhanzcom.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,22 @@
 ---
-title: Venue management software Version 2.0 - Regular
+title: Digital Welding Equipment 
 permalink: /productivity-solutions-grant/solutionrepo/solution1286
 ---
 
 ### Description
 
-Venuerific was founded in Singapore in 2013 with the goal of helping venue owners market and grow their business through the events industry. What we discovered soon after was that most venues did not have the proper tools & systems to effectively manage this business. Hence in 2015, Venuerific pivoted to developing a one-stop system that allows the venues to operate optimally and efficiently through relevant data and in return increase revenue & profitability of the business.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf
 
 ### Eligibility Criteria
 
@@ -28,14 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Consists of digital welding machines (hardware) and management software
+Current adjusting range: minimally +/- 150A
+Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
 
 ### Contact Information
 N.A.

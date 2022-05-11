@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Version 2021 - Advance Edition (10 Users)
+title: Sage 300 Version 2021 - Peppol Ready- Advance Edition (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution870
 ---
 
@@ -9,11 +9,7 @@ Sage300 is a powerful accounting and financial management solution that allows S
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name: The World Management Pte Ltd<br>Web URL: https://twm.com.sg/<br>Contact Hotline: 6741 9198<br>Contact Email: sales@twm.com.sg
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

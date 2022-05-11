@@ -1,19 +1,15 @@
 ---
-title: Sage 300 Advanced Edition - Cloud Basic Package P4 (2 Users)
+title: EasyBus Version 2.0 - EasyBus POS
 permalink: /productivity-solutions-grant/solutionrepo/solution1018
 ---
 
 ### Description
 
-Sage 300 takes the complexity out of managing your business finances across borders, in multiple currencies and locations. All processes work including financials, operations and inventory, sales could be integrated to other process work such as project and vendor management, HRMS and payroll, marketing and customer service efficiently, increasing work productivity between multi departments.
+EasyBus is a true all in one platform designed specifically for service industry, it most suitable for business include Laundry, Leather care, Alteration, Home service and other customer centric service business, platform include from customer Apps/Website to POS to logistic system to production system, no matter you are running a factory or a shop or doing business online or all of them, we provide a single place to helping you improve your productivity, sales and create great customer loyalty.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

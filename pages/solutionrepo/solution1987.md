@@ -1,11 +1,11 @@
 ---
-title: Automatic Flow Wrap Packaging Machine
+title: Automatic Shrink Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1987
 ---
 
 ### Description
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
+Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 
 Cost of equipment capped at $37,500 per unit
 
@@ -26,14 +26,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Specifications:
+- Able to pack products in round or odd shapes.
+- Must be able to run shrinking polyolefin films.
+- Min. output capacity of 15 metres per minute.
+- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
+- Installation and maintenance costs are not supported.
+
 
 ### Contact Information
 N.A.

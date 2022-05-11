@@ -1,11 +1,11 @@
 ---
-title: Sterilizer Equipment
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
 ### Description
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

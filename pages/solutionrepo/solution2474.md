@@ -1,19 +1,15 @@
 ---
-title: DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Creative Video Campaign
+title: Smart Glasses - InnoGlas - SE (2 sets) - Package 1
 permalink: /productivity-solutions-grant/solutionrepo/solution2474
 ---
 
 ### Description
 
-This package by Next Level SG is designed to help SMEs with increasing and accelerating their digital marketing presence. It is geared for companies that want expert help to grow and scale their online branding and sales.
+InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Digital Marketing solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

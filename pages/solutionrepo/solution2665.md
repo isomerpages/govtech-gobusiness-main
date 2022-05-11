@@ -1,19 +1,17 @@
 ---
-title: Simplify Version 1 - Simplify - Business (Unlimited Users)
+title: Xero - ACE XERO Cloud Accounting Software - Package A (Subscription Only)
 permalink: /productivity-solutions-grant/solutionrepo/solution2665
 ---
 
 ### Description
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+Ace is a value-added system integrator, focusing on providing customers with solutions that enhances their productivity and efficiency.
+
+XERO being a cloud based and IRAS approved accounting software, it allows companies to access their financials anytime, anywhere.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.acebizservices.com/it-software <br>Contact Hotline: 62620402 <br>Contact Email: CARE@ACEBIZSERVICES.COM <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

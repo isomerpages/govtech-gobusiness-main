@@ -1,20 +1,15 @@
 ---
-title: XERO CLOUD ACCOUNTING SOFTWARE-Xero Booming Package
+title: Shopcada Ecommerce and POS - Shopcada Premium Ecommerce with Grow Mobile Package
 permalink: /productivity-solutions-grant/solutionrepo/solution930
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
-By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% (80% for Retail sector)  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4 - Package (Custom Data Loading)
+title: KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 3 Bank)
 permalink: /productivity-solutions-grant/solutionrepo/solution1478
 ---
 
 ### Description
 
-AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_3.pdf
 
 ### Eligibility Criteria
 
@@ -28,14 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 30% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 ### Contact Information
 N.A.

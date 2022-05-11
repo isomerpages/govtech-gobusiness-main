@@ -1,5 +1,5 @@
 ---
-title: Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Emerald)
+title: Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)
 permalink: /productivity-solutions-grant/solutionrepo/solution1244
 ---
 
@@ -9,11 +9,7 @@ Verz Design is one of the key and leading players when it comes to providing Mag
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_VerzDesign_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VerzDesign_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-E-Commerce solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% (80% for Retail sector)  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

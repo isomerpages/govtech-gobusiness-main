@@ -1,20 +1,15 @@
 ---
-title: BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License
+title: WhyzeHR Version 12 - STANDARD 25
 permalink: /productivity-solutions-grant/solutionrepo/solution2734
 ---
 
 ### Description
 
-BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
-BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
+Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://whyze.com.sg/escheduling/ <br>Contact Hotline: 68380161 <br>Contact Email: enquiry@whyze.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

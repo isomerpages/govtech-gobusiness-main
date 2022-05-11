@@ -1,5 +1,5 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package B  HRMS Standard with Staff Appraisal and Training
+title: SYNERGIX E1 Version TH6 - Package C  HRMS Standard with Staff Appraisal , Training and Recruitment
 permalink: /productivity-solutions-grant/solutionrepo/solution2255
 ---
 
@@ -9,11 +9,7 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Human Resource Solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

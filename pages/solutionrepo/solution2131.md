@@ -1,11 +1,11 @@
 ---
-title: Collection Systems
+title: Farm Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+Integrated processing system to process produce into value-added products
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

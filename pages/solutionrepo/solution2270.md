@@ -1,19 +1,15 @@
 ---
-title: KADDRA Mobile App Commerce Solution Version 1.9 - Pro
+title: Netpluz Managed Firewall  - Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months
 permalink: /productivity-solutions-grant/solutionrepo/solution2270
 ---
 
 ### Description
 
-Kaddra helps businesses turn loyalty into revenue, improve retention and accelerate growth through its cross-channel solution. With the useful end to end tools, it provides opportunities for SMEs to upsell, create targeted marketing, improve customer service and better understand customer trends through analytics.
+Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Netpluz_Asia_Annex_3_CR_wef_28_Oct_21_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-E-Commerce solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.netpluz.asia <br>Contact Hotline: 68058998 <br>Contact Email: contact@netpluz.asia <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

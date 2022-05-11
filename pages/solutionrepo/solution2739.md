@@ -1,19 +1,15 @@
 ---
-title: WhyzeHR Version 12 - STANDARD PLUS 150
+title: DM 3D Digital Booster - Package 1 Facebook / Instagram (3 Months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2739
 ---
 
 ### Description
 
-Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
+3D Brand Agency's 3D Digital Booster is an online marketing solution that comprises SEO/5C Analysis, Digital Marketing Strategy, Marketing Campaign Planning and Execution, Digital Assets Creation, and Live Analytics Reporting, for Facebook/Instagram and SEM/SEO.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Human Resource Solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

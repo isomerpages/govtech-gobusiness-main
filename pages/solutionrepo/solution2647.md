@@ -1,5 +1,5 @@
 ---
-title: Royal Management Services XERO ACCOUNTING - Subscription+Setup
+title: Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration
 permalink: /productivity-solutions-grant/solutionrepo/solution2647
 ---
 
@@ -13,11 +13,7 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -32,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br>Contact Hotline: 63390111 <br>Contact Email: SALES@RMSGROUP.COM.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Service/E-commerce Package) - Hubspot
+title: Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution466
 ---
 
 ### Description
 
-The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationship Management & Reporting, Sales Management, Marketing Automation, Content Management and Customer Service Management software which function together to help businesses acquire and manage customers.
+Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful ecommerce store to sell their products online and receive payment via online payment gateway, QR Code payment, PayNow or PayLah.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% (80% for Retail sector)  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

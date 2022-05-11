@@ -1,23 +1,15 @@
 ---
-title: Zoho Workplace PSG Edition - 30 users
+title: QuickBooks Online - Acloud - QBO Quick Start - Set A
 permalink: /productivity-solutions-grant/solutionrepo/solution2580
 ---
 
 ### Description
 
-Zoho Workplace by Zoho Corporation.
-
-Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
-
-Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
+QuickBooks Online is an IRAS-registered cloud accounting software which helps small business owners to access their accounting data, send invoice & record expenses anytime & anywhere when they are online.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -32,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Document Management and Mobile Access System
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.acloud-b.com/our-price--services.html <br>Contact Hotline: 97942119 <br>Contact Email: ACloud.Sales@gmail.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

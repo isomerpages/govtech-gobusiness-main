@@ -1,5 +1,5 @@
 ---
-title: Teamcenter Version 13 - AutoCAD
+title: Teamcenter Version 13 - Creo
 permalink: /productivity-solutions-grant/solutionrepo/solution2704
 ---
 
@@ -9,11 +9,7 @@ Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the l
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_78.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://hitachisunway-solutions.sg <br>Contact Hotline: 91053811 <br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

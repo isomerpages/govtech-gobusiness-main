@@ -1,19 +1,17 @@
 ---
-title: FoodZaps Version 4.0-Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)
+title: Auto Welding Carriage
 permalink: /productivity-solutions-grant/solutionrepo/solution1961
 ---
 
 ### Description
 
-FoodZaps Technology is a Singapore company with the most comprehensive and integrated F&B system. Streamlines Customer Self-ordering, for Both online and on-premise, dine-in, takeaway and delivery, all integrated to FoodZaps. Includes cashier, ewaiter, payment processes and optimises operations, orders sent to the kitchen, cloud analytics portal providing insights on sales and product performance. Designed to increase productivity and build successful F&B business.
+Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
+
+Cost of equipment capped at $18,750 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -28,14 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Adjustable arm torch angle
+Maintenance not included
+Communication to link multiple sets (optional)
 
 ### Contact Information
 N.A.

@@ -1,19 +1,15 @@
 ---
-title: arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Customized
+title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1894
 ---
 
 ### Description
 
-With Arcstone's Manufacturing Quality Management solution, manufacturers can gain better control over the quality management processes. The solution delivers end-to-end capabilities to collect quality data, predict abnormalities, trigger alarms allowing them to avoid costly quality issues while eliminating non-compliance at every step.
+With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manufacturers gain better control over their process flows ensuring the maximum level of efficiency achieved with minimal chance of delays or potential interruptions occur. Leveraging the toolset, manufacturers are able to stay on top of their production processes through automatic and accurate resources planning, allocation and dynamic (re) scheduling capabilities.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

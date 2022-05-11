@@ -1,32 +1,15 @@
 ---
-title: Daisy XERO Accounting Software - Subscription + Implementation + Training + Migration
+title: PORTNET - Portnet Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution2425
 ---
 
 ### Description
 
-All-in-one online accounting software
-Run customer's business on Xero's fast, simple, powerful online accounting software.
-
-Everything in one place
-See the invoices, contacts and accounts online.
-
-Connect to the bank
-Easily sync bank and financial information.
-
-Collaborate in real time
-Invite customer's advisor in, and work together anywhere.
-
-Customise to suit customer's needs
-Xero can connect with other apps.
+PORTNET is the first nation-wide business-to-business (B2B) port community solution that empowers the shipping community to easily manage the complexity of cargo operations and the entire shipping process.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Portnet_20200827_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -41,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.portnet.com/WWWPublic/products.html <br>Contact Hotline: 63211173 <br>Contact Email: csc@portnet.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

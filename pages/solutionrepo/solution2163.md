@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation Equipment/ System
+title: HVAC system
 permalink: /productivity-solutions-grant/solutionrepo/solution2163
 ---
 
 ### Description
 
-Water efficient irrigation system (e.g. sprinkler)
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

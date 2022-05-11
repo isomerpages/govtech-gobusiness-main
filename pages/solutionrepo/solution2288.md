@@ -1,19 +1,15 @@
 ---
-title: KEGMIL FSM-Kegmil FSM Package E - 100 Users
+title: INNOCOM - ASSEMBLE-PROJECT - 1 YEAR 
 permalink: /productivity-solutions-grant/solutionrepo/solution2288
 ---
 
 ### Description
 
-Kegmil is on a mission to empower millions of deskless field service professionals with technology & data to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software intelligently automates & optimizes field activities for small to mid-sized maintenance firms who keep our world running across industries from elevator to data center equipment servicing.
+Assemble Systems provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

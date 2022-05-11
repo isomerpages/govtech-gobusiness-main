@@ -1,5 +1,5 @@
 ---
-title: HAVENCE Version 4 - HAVSMART ESSENTIAL
+title: HAVENCE Version 4 - HAVSMART ENRICHED
 permalink: /productivity-solutions-grant/solutionrepo/solution2438
 ---
 
@@ -9,11 +9,7 @@ A complete end-to-end software system tailor-made for centres where there are st
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_1.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desenstitised_Havence_20200647_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: WWW.HAVENCE.COM.SG <br>Contact Hotline: 90067620 <br>Contact Email: ENQUIRIES@HAVENCE.COM.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

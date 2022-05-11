@@ -1,19 +1,19 @@
 ---
-title: DST Inventory System Version 1.3 - Package D (RFID)
+title: Pepper Cloud CRM Version 14.0-Standard_3Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2279
 ---
 
 ### Description
 
-DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android App) to scan passive RFID tags attached onto Inbound and Outbound items for tracking and inventory stock take. The solution is used mainly for tracking of high value items such as Jewellery, Wines, Furniture, Laptops etc. by Rental, Movers and Event Companies.
+Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
+
+Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
+
+We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package E (5 Users with PEPPOL unlimited + Warehouse Management App 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution620
 ---
 
@@ -9,11 +9,7 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.msc-consulting.com.sg <br>Contact Hotline: 63172050 <br>Contact Email: alex.goh@msc-consulting.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

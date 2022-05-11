@@ -1,19 +1,19 @@
 ---
-title: Zeemart - Zeemart Buyer Hub (Upto 100 outlets w/integration) (Package 5)
+title: Mobile Computer (Warehouse application)
 permalink: /productivity-solutions-grant/solutionrepo/solution2035
 ---
 
 ### Description
 
-Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hotels, Restaurants, Catering) industry.  For Buyers, Zeemart provides a platform (mobile & web) to perform sourcing, procurement, inventory, financing & payment activities for their operations. For Suppliers, Zeemart provides an all-in-one solution (web) for their digital marketing, lead generation, order management, inventory, eInvoicing, and payment collection business activities.
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Cost of equipment capped at $30,000 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_5.pdf
 
 ### Eligibility Criteria
 
@@ -28,14 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Installed with software for inventory data input.
+Withstand rough handling, meet min IP54 standards.
+Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
+Battery with min 3 hrs standby.
+Wireless LAN/Bluetooth/cellular connectivity.
+Support the common operating system e.g. Android, Windows.
+Maintenance cost is not supported.
+
 
 ### Contact Information
 N.A.

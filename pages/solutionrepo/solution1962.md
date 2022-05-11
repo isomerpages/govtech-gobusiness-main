@@ -1,17 +1,15 @@
 ---
-title: Auto Welding Carriage
+title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)
 permalink: /productivity-solutions-grant/solutionrepo/solution1962
 ---
 
 ### Description
 
-Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
-
-Cost of equipment capped at $18,750 per unit
+Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.advancedatan.com <br>Contact Hotline: 65606228 <br>Contact Email: sales@advancedatan.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,17 @@
 ---
-title: NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)
+title: Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 25
 permalink: /productivity-solutions-grant/solutionrepo/solution2409
 ---
 
 ### Description
 
-NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
+With more than 10 years' experience in HR Time Attendance Solution, Flick understands the need of having a hassle-free Time Attendance Solution
+
+Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance software that is flexible and proven to work for everyday time management and attendance needs. Flick believes in working together with Clients towards a more efficient HR system and solution, which will in turn reduce Clients' workload significantly.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.flick.sg <br>Contact Hotline: 62768255 <br>Contact Email: sales@flick.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

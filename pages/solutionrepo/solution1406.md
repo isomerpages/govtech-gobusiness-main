@@ -1,5 +1,5 @@
 ---
-title: StaffAny Version 1.0-Package B (50 Users)
+title: StaffAny Version 1.0-Package C (100 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1406
 ---
 
@@ -9,11 +9,7 @@ StaffAny is a software-as-a-service that helps business owners reduce work dedic
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Human Resource Solutions
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.staffany.com <br>Contact Hotline: 9755 8195 <br>Contact Email: hello@staffany.com 
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

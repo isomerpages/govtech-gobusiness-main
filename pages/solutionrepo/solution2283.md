@@ -1,23 +1,15 @@
 ---
-title: Pepper Cloud CRM Version 14.0-Enterprise
+title: KEGMIL FSM-Kegmil FSM Package A - 10 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2283
 ---
 
 ### Description
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
-
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
-
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
+Kegmil is on a mission to empower millions of deskless field service professionals with technology & data to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software intelligently automates & optimizes field activities for small to mid-sized maintenance firms who keep our world running across industries from elevator to data center equipment servicing.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -32,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: CROSSTRACK GO - Fleet Management Package 5 - 5 Vehicles
+title: i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution2355
 ---
 
 ### Description
 
-CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
+Since 2014, HEXA Singapore has been building websites and applications from strategy and planning to design and development. We also provide data migration to extensive API integrations and anything in between for start-ups, small to mid-size businesses, enterprise organizations, and marketing agencies.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hexa_20200809_Desensitised_Annex_3_Part12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fleet Safety and Fleet Management System
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% (80% for Retail sector)  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://hexa.sg/products/ <br>Contact Hotline: 69777797 <br>Contact Email: howdy@hexa.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,13 +1,13 @@
 ---
-title: High Pressure Rotating Head
+title: Battery-operated Torque Wrench
 permalink: /productivity-solutions-grant/solutionrepo/solution2074
 ---
 
 ### Description
 
-The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
 
-Cost of equipment capped at $8750 per unit 
+Cost of equipment capped at $11,250 per unit
 
 ### Details of Solution
 
@@ -26,14 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+- Produce at least 1,000 N.m torquing force 
+- Battery pack and charger can be supported
+- Maintenance costs not supported
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
 N.A.

@@ -1,19 +1,15 @@
 ---
-title: FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 5 users
+title: Synergix - 3-in-1 ERP Solution (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2213
 ---
 
 ### Description
 
-FITPRISE PMS is a web-based management system that manages the QA/QC project management of engineering work. It comprises of a back-end system and front-end mobile app. The back-end system supports the data processing of workers profiles, jobs, inspection procedure information. Job inspection details are captured on mobile apps or recorded manually by workers. Full benefits are derived from the system inspection reports detailing full traceability of end-to-end job operation status.
+Synergix Marine & Offshore Solution provides a unique level of integration across all your business units, enabling efficient information sharing for quick management decision making. This improves operational reliability and helps company to avoid expensive mistakes and downtime during any phase of project.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_4.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

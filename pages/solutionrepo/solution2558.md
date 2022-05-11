@@ -1,19 +1,15 @@
 ---
-title: AdeptForms Security Operational Management Version 2 - Package E (Up to 10 Sites include Bodyworn)
+title: LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only 
 permalink: /productivity-solutions-grant/solutionrepo/solution2558
 ---
 
 ### Description
 
-AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
+LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

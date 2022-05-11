@@ -1,11 +1,11 @@
 ---
-title: Humidifier Equipment
+title: Inoculation Cabinet (Laminar flow cabinet)
 permalink: /productivity-solutions-grant/solutionrepo/solution2141
 ---
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

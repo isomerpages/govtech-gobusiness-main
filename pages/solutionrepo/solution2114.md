@@ -1,11 +1,11 @@
 ---
-title: Automated Sorter/ Grader
+title: Automated Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2114
 ---
 
 ### Description
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

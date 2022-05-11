@@ -1,19 +1,16 @@
 ---
-title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
 permalink: /productivity-solutions-grant/solutionrepo/solution1831
 ---
 
 ### Description
 
-COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
+AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
+The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf
 
 ### Eligibility Criteria
 
@@ -28,11 +25,11 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 30% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
 N.A.

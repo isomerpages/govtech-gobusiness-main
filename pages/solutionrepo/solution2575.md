@@ -1,19 +1,19 @@
 ---
-title: Profectant Xero - Premium Package (5 Users)
+title: Zoho Workplace PSG Edition - 10 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2575
 ---
 
 ### Description
 
-Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
+Zoho Workplace by Zoho Corporation.
+
+Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
+
+Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.zoho.com <br>Contact Hotline: 67231040 <br>Contact Email: sales@zohocorp.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

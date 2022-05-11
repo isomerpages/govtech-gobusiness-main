@@ -1,13 +1,16 @@
 ---
-title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+title: Robotic arms
 permalink: /productivity-solutions-grant/solutionrepo/solution2860
 ---
 
 ### Description
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
@@ -26,14 +29,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Mandatory: 
+- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) 
+- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) 
+
+Support excludes end-effectors, sensors, programming and integration cost
+
 
 ### Contact Information
 N.A.

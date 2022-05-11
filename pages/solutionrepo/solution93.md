@@ -32,14 +32,23 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Equipment must meet the following specifications: 
+
+1. Work Piece & Tool Setting Probe:
+- Approach Directions: +/-x, +/-y, -z
+- Repeatability: <=1um 2sigma
+
+2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts
+
+3. Implementation: Probe and software configuration and training
+
 
 ### Contact Information
 N.A.

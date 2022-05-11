@@ -1,11 +1,11 @@
 ---
-title: Aeration System/ Oxygenation System
+title: Automated Counter/ Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2112
 ---
 
 ### Description
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

@@ -1,19 +1,15 @@
 ---
-title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+title: SmartFM Version 1.0 - Basic (250 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution1731
 ---
 
 ### Description
 
-EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
+SmartFM is an integrated, cloud based, facility management solution. It is designed to be a common data collection interface where operators can perform their day to day operations on a single platform, allowing data to be easily shared between operational departments, digitally documenting day to day tasks and granting executives and managers critical oversight and analysis tools to modernize dormitory operations.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

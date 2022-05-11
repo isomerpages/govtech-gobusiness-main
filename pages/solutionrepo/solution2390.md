@@ -1,22 +1,15 @@
 ---
-title: QuickBooks Online Version 1 - VCSG QBO Existing Advance
+title: SmartCursors Human Resource Management System (HRMS) - Bronze (up to 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2390
 ---
 
 ### Description
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+HRMS software assists an organization's human resources department by automating manual tasks, keeping employee information organized, and creating data-driven reports. HRMS software can also serve employees and managers within an organization, assisting with tasks like time tracking, updating employee directories, and performance management.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_89.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -31,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: WWW.SMARTCURSORS.COM <br>Contact Hotline: 63365500 <br>Contact Email: CONTACT@SMARTCURSORS.COM <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

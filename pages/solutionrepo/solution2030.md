@@ -1,19 +1,15 @@
 ---
-title: WarelyPOS Version 1.1 - WarelyPOS Premium
+title: Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)
 permalink: /productivity-solutions-grant/solutionrepo/solution2030
 ---
 
 ### Description
 
-WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
+Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hotels, Restaurants, Catering) industry.  For Buyers, Zeemart provides a platform (mobile & web) to perform sourcing, procurement, inventory, financing & payment activities for their operations. For Suppliers, Zeemart provides an all-in-one solution (web) for their digital marketing, lead generation, order management, inventory, eInvoicing, and payment collection business activities.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription / Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

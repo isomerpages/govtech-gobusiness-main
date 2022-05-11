@@ -1,21 +1,15 @@
 ---
-title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - 2 License Bundle
+title: Vehicle Safety System - GridPlus VSS (2 Vehicle Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1227
 ---
 
 ### Description
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
-The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
-With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more. ADAS DSM with AI recognition software will improve driver safety, prevent and reduce the numbers of injuries and accidents.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -29,14 +29,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Equipment must meet the following specifications: 
+
+- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) 
+- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) 
+
+Support excludes end-effectors, sensors, programming and integration cost
+
 
 ### Contact Information
 N.A.

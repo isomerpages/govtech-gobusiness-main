@@ -1,11 +1,11 @@
 ---
-title: Water Filtration System
+title: Water Treatment System for Water Recirculation or Discharge
 permalink: /productivity-solutions-grant/solutionrepo/solution2158
 ---
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ### Details of Solution
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+Holding Period of 3 years
 
 ### Contact Information
 N.A.

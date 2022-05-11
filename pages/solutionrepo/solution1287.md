@@ -12,7 +12,7 @@ Consists of digital welding machines (hardware) and management software:
 - Monitor power consumption and consumables
 - User can pre-set/control welding parameters and optimise voltage applied
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment  capped at $37,500 per unit
 
 ### Details of Solution
 
@@ -31,14 +31,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Consists of digital welding machines (hardware) and management software
+Current adjusting range: minimally +/- 150A
+Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+
+
 
 ### Contact Information
 N.A.

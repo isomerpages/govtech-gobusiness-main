@@ -1,19 +1,17 @@
 ---
-title: CSG - Autodesk BIM Collaborate Pro - 25 Users Pack
+title: Automated Labelling Machine 
 permalink: /productivity-solutions-grant/solutionrepo/solution2070
 ---
 
 ### Description
 
-Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf
 
 ### Eligibility Criteria
 
@@ -28,14 +26,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription / Leasing for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+- Auto self-adhesive labelling function
+- Parameter setting for different label sizes
+
+- Touchscreen display can be supported
+- Explosion proof can be supported
+- Installation/simple training costs can be supported
+- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported
 
 ### Contact Information
 N.A.

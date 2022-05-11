@@ -1,5 +1,5 @@
 ---
-title: AGERE - Xero Cloud Accounting Software  - (Xero Premium, Subscription only)
+title: AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup)
 permalink: /productivity-solutions-grant/solutionrepo/solution1074
 ---
 
@@ -9,11 +9,7 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_1.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enterprise Resource Planning (ERP) and Standalone solutions
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Direct Purchase for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com <br>Contact Hotline: 63850609 <br>Contact Email: elainelim@agere-ca.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

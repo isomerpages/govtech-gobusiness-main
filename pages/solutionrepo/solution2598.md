@@ -1,5 +1,5 @@
 ---
-title: Taidii SMART IT Solution for Preschool (PMS + E-form) - Economy
+title: Taidii SMART IT Solution for Preschool (PMS + E-form) - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2598
 ---
 
@@ -9,11 +9,7 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_3.pdf
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-N.A.
+Subscription or Leasing
 
 ### Support Level
-Up to  for SMEs <br>
-Up to Subscription or Leasing for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
