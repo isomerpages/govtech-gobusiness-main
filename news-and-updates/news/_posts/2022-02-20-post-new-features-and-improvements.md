@@ -3,9 +3,6 @@ layout: post
 title: 'New features launched on GoBusiness'
 permalink: /news-and-updates/news/2022Q1-new-features
 published: true
-preview: |
-  Enjoy an even more integrated and seamless experience on GoBusiness with a brand new GoBusiness Dashboard, new and improved e-Advisers, and more! These are what you can expect.
-image: /images/news/GoBusiness Dashboard Official Launch.jpg
 ---
 
 <!-- TODO: Check with YX on the actual "preview" property. Might need to remove for this particular tag -->
