@@ -5,19 +5,20 @@ permalink: /gobusiness-blog/beat-wfh-woes
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
 crumbs: business-tips-and-tricks
-description: Four tips to get more productive and form a closer relationship with your team while working remotely
+description: Four tips to become more productive and form a closer relationship with your team while working remotely
 ---
 
 ![work from home increase efficiency](/images/blog/content/WFH Feature.jpg)
+###### With the rise in popularity of remote working arrangements, making changes to working styles has become more important than ever to ensure job satisfaction for remote workers. (Source: Canva)
 
 The pandemic has taken a toll on productivity — after close to two years, workplaces are adjusting to the new normal. Along with these drastic shifts in the workplace comes the need to adjust working styles to fit workers’ evolving needs.
 
-Here are four ways to boost efficiency and improve team morale while working remotely, for a more conducive work environment! 
+Here are four ways to boost productivity and improve team morale while working remotely, for a more conducive work environment! 
 
 ### 1. Use task management tools 
 
 ![Asana task management tool productivity efficiency](/images/blog/content/WFH 1.jpg)
-###### Task management tools, such as Asana, can help to optimise processes for a more efficient workflow (Source: Canva)
+###### Task management tools, such as Asana, can help to optimise processes for a more efficient workflow (Source: Asana)
 
 In the age of working remotely, project management tools are all the rage, serving a wide variety of functions that help to enhance productivity, streamline work processes, communication channels, and much more!  
 
@@ -34,7 +35,7 @@ Using such tools helps to heighten efficiency across teams that take over one an
 ![Work from home employee](/images/blog/content/WFH 2.jpg)
 ###### Employees can get oriented with telecommuting more quickly when resources and information are readily available for them (Source: Canva)
 
-While registering your business on Google My Business is necessary for you to show up on Google search, it doesn’t mean that your business will automatically appear on the front page. Don’t forget to help your team to get the information they need! Getting oriented to a remote workspace may be harder than it looks, as watercooler conversations have been replaced with email trails and Slack channels. This may be especially challenging for workers who are new to telecommuting. 
+Don’t forget to help your team to get the information they need! Getting oriented to a remote workspace may be harder than it looks, as watercooler conversations have been replaced with email trails and Slack channels. This may be especially challenging for workers who are new to telecommuting jobs. 
 
 Factoring in adequate time for employees to get oriented should not be overlooked. This may mean going the extra mile to set up a centralised location for them to get the resources they’re looking for, or creating a guide for new employees to refer to, which can help to ease their transition to their role! 
 
@@ -47,14 +48,14 @@ Virtual meetings have become a mainstay in the workplace. While it may be tempti
 
 Meeting duration has also been linked to productivity: a [recent survey](https://blog.otter.ai/meeting-statistics/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} conducted by Otter.ai suggested that managers and professionals indicated having lost 30% of their time which could have been allocated to other productive tasks.  
 
-There are always other ways to forge stronger bonds within the workplace.
+Even with work from home arrangements there are always other ways to forge stronger bonds within the workplace.
 
 ### 4. Make time to hang out as a team
 
 ![Care package team bonding employee](/images/blog/content/WFH 4.jpg)
 ###### Care packages are a great way to maintain a closer relationship with your team (Source: Canva)
 
-Got a co-worker’s birthday coming up? Bolster team morale by organising virtual hangout sessions! The rise of the pandemic has seen the need for new ways to bond. What better way to do so than with online group games? Bring retro back with sites such as [skribbl io](https://skribbl.io/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, a drawing and guessing multiplayer game similar to Pictionary. 
+Got a co-worker’s birthday coming up? Bolster team morale by organising virtual hangout sessions! The rise of the pandemic has seen the need for new ways to bond. What better way to do so than with online group games? Bring retro back with sites such as [skribbl io](https://skribbl.io/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, a drawing and guessing multiplayer game similar to Pictionary. This provides more opportunities for your team to connect, enhancing employee engagement in the workplace.
 
 Care packages are yet another way to show appreciation for your team - think fresh bakes, snack boxes, and wellness products such as tea, candles and essential oils. It’s a great mood booster to beat the Monday blues, while reminding your team that you’re there in spirit, even if you’re working from home! 
 
