@@ -48,7 +48,7 @@ Virtual meetings have become a mainstay in the workplace. While it may be tempti
 
 Meeting duration has also been linked to productivity: a [recent survey](https://blog.otter.ai/meeting-statistics/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} conducted by Otter.ai suggested that managers and professionals indicated having lost 30% of their time which could have been allocated to other productive tasks.  
 
-Even with work from home arrangements there are always other ways to forge stronger bonds within the workplace.
+Even with work from home arrangements, there are always other ways to forge stronger bonds within the workplace.
 
 ### 4. Make time to hang out as a team
 
