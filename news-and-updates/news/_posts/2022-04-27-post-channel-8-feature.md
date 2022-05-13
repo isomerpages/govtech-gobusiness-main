@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Channel 8 News: How has GoBusiness supported businesses in their transformation'
+title: 'Channel 8 News: How GoBusiness supported businesses in their transformation'
 permalink: /news-and-updates/news/ch8-feature
 published: true
 preview: |
