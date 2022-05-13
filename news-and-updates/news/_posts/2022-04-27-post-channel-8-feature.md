@@ -17,7 +17,7 @@ Ann Huat & Company is an industrial gas and aluminum supplier established in the
 
 Joel Lim, Manager Director of Zyrup Media, a newly incorporated digital publication and media house, leveraged GoBusiness to facilitate the company’s start-up process. Joel said that the GoBusiness start-up guide served as a playbook for him as he just had to follow the steps listed in the guide to get the company registered.  
 
-Watch the full broadcast on Read the full article [8 World](https://www.8world.com/stories/morning-express/spotlight-govtech-gobusiness-1793171){:target="\_blank"}{:rel="noopener"}
+Watch the full broadcast on [8 World](https://www.8world.com/stories/morning-express/spotlight-govtech-gobusiness-1793171){:target="\_blank"}{:rel="noopener"}
 
 
 <script src="/jquery/jquery.min.js"></script>
