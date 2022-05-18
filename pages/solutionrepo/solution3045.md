@@ -1,5 +1,5 @@
 ---
-title: 2. Knowledge Management
+title: 3. Manage Quality System and Processes
 permalink: /productivity-solutions-grant/solutionrepo/solution3045
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Knowledge-Management-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Quality-Systems-Processes-3' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

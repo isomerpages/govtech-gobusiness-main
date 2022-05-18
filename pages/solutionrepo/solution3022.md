@@ -1,5 +1,5 @@
 ---
-title: 3. E-commerce Logistics
+title: 1. Warehouse Performance Measurement
 permalink: /productivity-solutions-grant/solutionrepo/solution3022
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Ecommerce-Logistics-1' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Warehouse-Performance-Measurement-1' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678935 <br>Contact Email: ernest@cleverly.sg <br>
+URL: https://cleverly.sg/psg-digital-marketing-sem-seo-sm-grant/<br>Contact 8866 3438<br>Email hello@cleverly.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
