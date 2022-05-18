@@ -1,5 +1,5 @@
 ---
-title: 3. Effective Digital Asset and File Management
+title: 1. Digital Transformation -Emerging Technology Synthesis
 permalink: /productivity-solutions-grant/solutionrepo/solution3106
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Transformation-Emerging-Technology-Synthesis-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 N.A.
 
 ### Contact Information
-N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

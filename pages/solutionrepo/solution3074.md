@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 2. Analyse Consumer Behaviour
 permalink: /productivity-solutions-grant/solutionrepo/solution3074
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Consumer-Behaviour-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
