@@ -81,5 +81,5 @@ As tedious as finances can be, they are necessary and unavoidable. But with prop
 
 **Are you an aspiring entrepreneur looking to start your very first business? Use the GoBusiness [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname){:target="_blank"}{:rel="noopener"} to take you through your first steps!**
 
-###### This article is accurate as at 19 May 2022
+###### This article is accurate as at 20 May 2022
 
