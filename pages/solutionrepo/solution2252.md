@@ -1,19 +1,15 @@
 ---
-title: 199609132G
+title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package D with E-Invoicing & Training(3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2252
 ---
 
 ### Description
 
-Synergix Technologies Pte Ltd
+ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 3937 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-22200
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Synergix Technologies Pte Ltd
-www.synergixtech.com
-Email: marketing@synergixtech.com
-Tel: +65 6664 3030
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

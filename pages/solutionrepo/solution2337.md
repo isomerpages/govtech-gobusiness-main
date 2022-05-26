@@ -1,19 +1,15 @@
 ---
-title: 200009228G
+title: Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2337
 ---
 
 ### Description
 
-SIACAD Pte Ltd
+Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Process Industry, mainly Engineering Service Providers (ESPs). It's to ensure project cost tracking with integrated procurement flow and allows the information to flow seamlessly between the office & project sites by allowing site manager to update project progress status remotely on mobile with photo evidence as well as maintenance task completion checklists to the clients.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 36200 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2600
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Web URL: http://www.siacad.com/ 
-Contact Hotline: 62253823 
-Contact Email: apex15@siacad.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

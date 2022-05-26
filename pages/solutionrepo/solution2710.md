@@ -1,19 +1,15 @@
 ---
-title: 201729826Z
+title: Firewall Security Protection - Rah Tech Fortinet 100F - P4
 permalink: /productivity-solutions-grant/solutionrepo/solution2710
 ---
 
 ### Description
 
-Real Estate Doc Pte Ltd
+Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation Firewall capabilities from corporate branch Offices to mid-sized business. Managed by a team of 24x7 specialist, Rah Tech will be able to provide flexibility to help businesses ease routine activities like alerting, monitoring, patching and updates of their firewall.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5200 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.realestatedoc.co 
-Contact Hotline: 91801197 
-Contact Email: admin@realestatedoc.co 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

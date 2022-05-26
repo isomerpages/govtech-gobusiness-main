@@ -1,19 +1,15 @@
 ---
-title: 197903098R
+title: TimeCentral Version 11 - TimeCentral 200
 permalink: /productivity-solutions-grant/solutionrepo/solution1664
 ---
 
 ### Description
 
-CANON SINGAPORE PTE. LTD
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 16000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_People_Central_Timecentral_Annex_3_CR_wef_4_Nov_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2400
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://sg.canon/en/business/therefore-online/product 
-Contact Hotline: 68622666 
-Contact Email: Documentsolutions@canon.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.timecentral.co<br>Contact Hotline: 68372336<br>Contact Email: business@peoplecentral.co <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

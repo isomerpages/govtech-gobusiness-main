@@ -1,19 +1,17 @@
 ---
-title: 200603587Z
+title: Laser Geometric Alignment System
 permalink: /productivity-solutions-grant/solutionrepo/solution1145
 ---
 
 ### Description
 
-Rockbell International Software Pte Ltd
+Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,19 +26,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3969
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Rockbell International Software Pte Ltd 
-Web URL: www.rockbell.sg 
-Contact Hotline: 64697720 
-Contact Email: sales@rockbell.com.sg 
-
+The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
+Measuring errors: minimum +/- 1%
+Maintenance cost not supported
+Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
 
 ### Contact Information
 N.A.

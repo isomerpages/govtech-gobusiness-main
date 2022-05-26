@@ -1,19 +1,17 @@
 ---
-title: 201119905W
+title: Combi Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution401
 ---
 
 ### Description
 
-Firstcom Solutions Pte Ltd
+Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-37500
 
 ### Eligibility Criteria
 
@@ -28,18 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-8000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Firstcom Solutions Pte Ltd 
-Web URL: www.firstcom.com.sg 
-Contact Hotline: 68484984 
-Contact Email: sales@firstcom.com.sg 
+Mandatory Specification:
+- Unit is programmable for convection, steam, and combination cooking. 
+- Minimum capacity: 5 trays (GN 1/1)
+
+
 
 ### Contact Information
 N.A.

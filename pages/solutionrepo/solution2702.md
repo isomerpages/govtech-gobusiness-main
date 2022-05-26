@@ -1,19 +1,15 @@
 ---
-title: 200001198K
+title: Teamcenter Version 13 - Multi-CAD
 permalink: /productivity-solutions-grant/solutionrepo/solution2702
 ---
 
 ### Description
 
-Hitachi Sunway Information Systems (Singapore) Pte. Ltd.
+Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the leading ICT and Digital Solutions & Services Integrator in ASEAN. Hitachi Sunway specialises in implementing, supporting and providing consultancy for Product Lifecycle Management (PLM) solutions. The Siemens Teamcenter software offering reaches beyond traditional PLM to include more people and processes, and unifies product lifecycle with a digital thread to connect ideation, realization and utilization.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 28240 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-26584
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://hitachisunway-solutions.sg 
-Contact Hotline: 91053811 
-Contact Email: enquiryplm-sg@hitachi-sunway-is.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://hitachisunway-solutions.sg <br>Contact Hotline: 91053811 <br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

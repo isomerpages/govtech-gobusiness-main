@@ -1,19 +1,23 @@
 ---
-title: 201614842W
+title: OCi Sales & Accounting Management System (SAM) Version 11 -Package (5 Concurrent Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution660
 ---
 
 ### Description
 
-Octopus Retail Management Pte Ltd
+OCi Sales and Accounting Management system is a straight-forward and comprehensive system in serving the needs in the following:
+ 
+-        Pre-Sales Management
+-        Post-Sales Fulfillment Management
+-        Accounts Receivable Management
+-        Accounts Payable Management
+-        Inventory Management
+-        Project Management
+-        Management Accounting & Compliance
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10220 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +32,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-8499
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Octopus Retail Management Pte Ltd
-https://octopuspos.com
-Email: solutions@octopuspos.com
-Tel: +65 6221 6601
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:OCi System Pte Ltd <br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

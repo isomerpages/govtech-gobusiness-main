@@ -1,19 +1,15 @@
 ---
-title: 201600202R
+title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (Advance - 3 Days training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1216
 ---
 
 ### Description
 
-CSG Software Pte Ltd
+Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 3990 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-1590
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Company Name:CSG Software Pte Ltd 
-Web URL: www.csglobal-group.com 
-Contact Hotline: 65882378 
-Contact Email: marketing@csglobal-group.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

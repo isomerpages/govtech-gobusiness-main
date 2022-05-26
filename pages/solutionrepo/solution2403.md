@@ -1,19 +1,15 @@
 ---
-title: 201803300E
+title: ETABS Ultimate Suite Version 19 - Package 1 with Training (1 Year Subscription)
 permalink: /productivity-solutions-grant/solutionrepo/solution2403
 ---
 
 ### Description
 
-Engage Nova Pte Ltd
+ETABS Ultimate Suite is an integrated 3D finite element software package for the structural analysis, design and detailing of building systems. Using ETABS advanced and friendly GUI, engineer can perform object-based modelling and design building using linear, non-linear, static and dynamic analysis. ETABS includes many advanced tools like Sequential Constructions, P-delta with Large-Displacement, Performance Based Design tool to cater for advanced and complex building design.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 8500 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_20210040_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-11800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.engagenova.com/novavision 
-Contact Hotline: 88492042 
-Contact Email: contact@engagenova.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

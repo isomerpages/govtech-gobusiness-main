@@ -1,19 +1,15 @@
 ---
-title: 198000012M
+title: SAP BUSINESS ONE - 5 Perpetual Pro Users SQL on Premise with Remote Desktop License
 permalink: /productivity-solutions-grant/solutionrepo/solution2877
 ---
 
 ### Description
 
-The World Management Pte Ltd
+SAP Business One application offers an affordable way to manage the entire business - from accounting and financials, purchasing, inventory, sales and customer relationships, and project management, to operations and human resources. SAP Business One helps the company to streamline processes, gain a greater insight into the business, allows decision maker to act fast and make decisions based on real time information, to help the company drive profitable growth.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-34800
+Click <a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-34800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.twm.com.sg 
-Contact Hotline: 67419198 
-Contact Email: sales@twm.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

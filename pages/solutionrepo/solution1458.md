@@ -1,19 +1,15 @@
 ---
-title: 201022639R
+title: Automotive Tracking System-Package A (3 Vehicles) 
 permalink: /productivity-solutions-grant/solutionrepo/solution1458
 ---
 
 ### Description
 
-Track 365 Pte Ltd
+Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2097 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6291
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.track365.com.sg 
-Contact Hotline: 98253334 
-Contact Email: sales@track365.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

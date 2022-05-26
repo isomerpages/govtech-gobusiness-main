@@ -1,19 +1,16 @@
 ---
-title: 201323996K
+title: ABSS Accounting Software Version 23.7 - Acc-Pro3 - (3) users Accounting Solutions with Setup, Training and Cloud Access
 permalink: /productivity-solutions-grant/solutionrepo/solution2889
 ---
 
 ### Description
 
-Adaptive Cloud Systems Pte Ltd
+Acc-Pro Business Links Pte Ltd has been ABSS certified Partner since 2003 and implemented at least 300+ ABSS projects to-date.
+ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-5424.26
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5500
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.adaptivebizapp.com 
-Contact Hotline: 67089398 
-Contact Email: info@adaptivebizapp.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.acc-pro.com.sg <br>Contact Hotline: 61006388 <br>Contact Email: johnny@acc-pro.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

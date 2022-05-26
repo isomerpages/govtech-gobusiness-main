@@ -1,19 +1,15 @@
 ---
-title: 201502174C
+title: Xero by Book&Entries - Package C (Premium Package - Software + Setup)
 permalink: /productivity-solutions-grant/solutionrepo/solution2588
 ---
 
 ### Description
 
-Book&Entries Pte Ltd
+Since 2015, Book&Entries has continued to serve and provide clients with our various advisory and compliance services.  Our partnership with Xero has enabled us to work with many small-medium enterprises on adopting and implementing the digital way of running the business.  We assist companies with a robust process review to convert tradition way of record keeping to maintaining records digitally.  Our business digital solutions packages are customized to meet your business needs.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2220 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3580
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.bookentries.com.sg 
-Contact Hotline: 62214246 
-Contact Email: support@bookentries.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.bookentries.com.sg <br>Contact Hotline: 62214246 <br>Contact Email: support@bookentries.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

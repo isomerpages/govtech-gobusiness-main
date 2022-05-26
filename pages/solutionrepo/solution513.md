@@ -1,19 +1,16 @@
 ---
-title: 201115750M
+title: NinjaOS - Package C (NinjaEnterprise - 2 Modules)
 permalink: /productivity-solutions-grant/solutionrepo/solution513
 ---
 
 ### Description
 
-Jankosoft Pte Ltd
+We help build online e commerce stores for F&B merchants so that they can grow their brand & business by being able to save on commissions, deliver islandwide, gather and grow a loyal customer base.
+
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10700 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-27900
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Jankosoft Pte Ltd
-https://www.jankosoft.com/
-Email: sales@ninjaos.com
-Tel: +65 9001 3157
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Jankosoft Pte Ltd<br>https://www.jankosoft.com/<br>Email: sales@ninjaos.com<br>Tel: +65 9001 3157
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

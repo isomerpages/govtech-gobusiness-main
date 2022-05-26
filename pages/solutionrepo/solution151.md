@@ -1,19 +1,15 @@
 ---
-title: 202138250K
+title: ABSS Premier Version 23 - Package A with E-Invoicing (1-User)
 permalink: /productivity-solutions-grant/solutionrepo/solution151
 ---
 
 ### Description
 
-Apscom Solutions Pte Ltd
+APSCOM Solutions provides ABSS Premier, formerly known as MYOB, includes Accounting features to help business process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2800 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.sqlaccounting.sg 
-Contact Hotline: 97206813 
-Contact Email: carol.kok@apscomsolutions.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

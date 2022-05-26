@@ -1,19 +1,15 @@
 ---
-title: 201923176K
+title: Taidii Smart E-Form Solution - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2601
 ---
 
 ### Description
 
-Anzen Global Pte Ltd
+Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-1380
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Web URL: Cybersecurity Products and Services 
-Contact Hotline: 97520811 
-Contact Email: info@anzenglobal.com 
+ - Add up to 10 centres for each application.
 
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 201539815G
+title: Intuit Quickbooks Online Full Transformation Package -  Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package
 permalink: /productivity-solutions-grant/solutionrepo/solution60
 ---
 
 ### Description
 
-Acc Pro (Singapore) Pte. Ltd.
+Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is proud to offer QuickBooks accounting solutions as part of our ever-growing cloud productivity suite. We are a team of qualified of Accredited Digital & Chartered Accountants equipped with the necessary skillsets to make your business easier & better. Our clients can focus on building their business while leaving the hassle of back-end business processes such as accounting to us.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9978 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5478
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Acc Pro (Singapore) Pte. Ltd. 
-Web URL: www.accprosingapore.com 
-Contact Hotline: 63520103 
-Contact Email: sales@accprosingapore.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Acc Pro (Singapore) Pte. Ltd. <br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

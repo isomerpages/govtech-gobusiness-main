@@ -1,19 +1,15 @@
 ---
-title: 200200017N
+title: Panda Adaptive Defense 360 - Watchguard Panda AD360 - 150 Licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution2501
 ---
 
 ### Description
 
-Creative E-World Pte Ltd
+Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution for computers, laptops and servers that detects what traditional solutions can't even see.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10050 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.creaworld.com.sg 
-Contact Hotline: 63922857 
-Contact Email: enquiry@creaworld.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.asiacloud.com.sg <br>Contact Hotline: 64716179 <br>Contact Email: ES@asiacloud.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

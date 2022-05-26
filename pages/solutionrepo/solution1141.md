@@ -1,19 +1,15 @@
 ---
-title: 200816700E
+title: LFSuite Version 6.0 - Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution1141
 ---
 
 ### Description
 
-LEVELFIVE SOLUTIONS PTE LTD
+Optimize your F&B business productivity and operational efficiency with DinePlan, our integrated suite of solutions offered under LFSuite. Our cloud-hybrid POS encompasses digital ordering, waiter ordering, customer ordering and payment. Additional modules include procurement and inventory management, central kitchen management and catering capabilities. All data and configurations are centrally managed by DineConnect, where we will also provide intuitive sales and analytical reports for you.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 11800 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-16170
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:LEVELFIVE PTE LTD 
-Web URL: HTTPS://LFSOLUTIONS.NET 
-Contact Hotline: 63417144 
-Contact Email: SHAWN@LFSOLUTIONS.NET 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

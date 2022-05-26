@@ -1,19 +1,15 @@
 ---
-title: 199204792N
+title: SAP2000 Ultimate Suite - Package 2 with Training (Perpetual)
 permalink: /productivity-solutions-grant/solutionrepo/solution2481
 ---
 
 ### Description
 
-IT Infinity Pte Ltd
+The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and design tool for engineers working on all forms of structures including transportation, industrial, public works, sports, offshore and other facilities.  SAP2000 includes a complete set of finite elements like Frame, Shell, Solid, Cable and Tendons.  SAP2000 can perform Linear and Non-Linear analysis, Static and Dynamic analysis in both time and frequency domain.  There is no structure too complex for SAP2000.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 8500 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-30209.9
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ 
-Contact Hotline: 63461511 
-Contact Email: sales@it8.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

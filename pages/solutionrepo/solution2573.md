@@ -1,19 +1,15 @@
 ---
-title: 201016773D
+title: Profectant Xero - Starter Package (2 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2573
 ---
 
 ### Description
 
-PROFECTANT CORPORATE SERVICES PTE LTD
+Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2368 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4125
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.profectant.com 
-Contact Hotline: 69746718 
-Contact Email: enquiry@profectant.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.profectant.com <br>Contact Hotline: 69746718 <br>Contact Email: enquiry@profectant.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

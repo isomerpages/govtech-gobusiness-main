@@ -1,19 +1,15 @@
 ---
-title: 201540114E
+title: iCoreSpec - Single User (Full Suite)
 permalink: /productivity-solutions-grant/solutionrepo/solution1755
 ---
 
 ### Description
 
-iNPQS Pte Ltd
+The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5600 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-13000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.inpqs.com 
-Contact Hotline: 62260881 
-Contact Email: sales@inpqs.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.inpqs.com <br>Contact Hotline: 62260881 <br>Contact Email: sales@inpqs.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

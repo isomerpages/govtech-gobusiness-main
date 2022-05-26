@@ -1,19 +1,18 @@
 ---
-title: 201621104R
+title: DM Impossible Marketing Digital Marketing Packages - Ads Focus - 3 Months
 permalink: /productivity-solutions-grant/solutionrepo/solution2468
 ---
 
 ### Description
 
-Impossible Marketing Services Pte Ltd
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
+
+
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.impossible.sg/ 
-Contact Hotline: 62088111 
-Contact Email: hello@impossible.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

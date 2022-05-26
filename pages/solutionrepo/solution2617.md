@@ -1,19 +1,15 @@
 ---
-title: 201727676C
+title: School Bus Management System Version SBMS.V2 - 5 Vehicle Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2617
 ---
 
 ### Description
 
-Airsquire Pte. Ltd.
+SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 16800 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-15300
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.airsquire.ai 
-Contact Hotline: 91190708 
-Contact Email: hello@airsquire.ai 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: NA <br>Contact Hotline: 84991007 <br>Contact Email: TASDAVID90@GMAIL.COM <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

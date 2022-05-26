@@ -1,19 +1,15 @@
 ---
-title: 200804595N
+title: Payboy HRMS - Package E (200 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution2820
 ---
 
 ### Description
 
-361 Degree Consultancy Pte Ltd
+Payboy is a Payroll and HR Management Software which automates the essential HR processes such as benefits, leaves, and attendance, so that businesses can focus on bringing out the best in their people.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 29600 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-9995
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://361dc.com/xero-cloud-accounting/ 
-Contact Hotline: 65157906 
-Contact Email: enquiry@361dc.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://payboy.biz <br>Contact Hotline: 91876425 <br>Contact Email: nigel.lim@payboy.biz <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,16 @@
 ---
-title: 201334715D
+title: XERO CLOUD ACCOUNTING SOFTWARE - Start-up Package
 permalink: /productivity-solutions-grant/solutionrepo/solution3003
 ---
 
 ### Description
 
-W.L.P PTE LTD
+Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
+By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 4725 
 
 ### Eligibility Criteria
 
@@ -28,18 +25,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-7925
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.wlp.com.sg/ 
-Contact Hotline: 64932970 
-Contact Email: info@wlp.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.

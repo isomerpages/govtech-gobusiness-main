@@ -1,19 +1,15 @@
 ---
-title: 201708347K
+title: Ecommflow Version 2.0 - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2262
 ---
 
 ### Description
 
-Calvin Seng Co Pte Ltd
+Spend more time on what matters. Ecommflow takes care of the rest, with a suite of powerful online selling features for every type of industry. Secure payments, configurable shipping options, subscriptions, and more.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 4599 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://calvinseng.com 
-Contact Hotline: +6592348807 
-Contact Email: hello@calvinseng.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://calvinseng.com <br>Contact Hotline: +6592348807 <br>Contact Email: hello@calvinseng.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

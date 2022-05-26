@@ -1,19 +1,15 @@
 ---
-title: 200919057R
+title: vTrak Version 1.4 - 10 VEHICLES
 permalink: /productivity-solutions-grant/solutionrepo/solution2315
 ---
 
 ### Description
 
-IDEE INFOCOM PTE LTD
+The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 15889 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6457
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: WWW.IDEE.SG 
-Contact Hotline: 62936461 
-Contact Email: INFO@IDEE.SG 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: WWW.IDEE.SG <br>Contact Hotline: 62936461 <br>Contact Email: INFO@IDEE.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

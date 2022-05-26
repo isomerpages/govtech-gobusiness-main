@@ -1,19 +1,15 @@
 ---
-title: 200512160W
+title: TrackSYNQ - Package A - Basic GPS 5
 permalink: /productivity-solutions-grant/solutionrepo/solution2962
 ---
 
 ### Description
 
-Quantum Inventions Pte Ltd
+TrackSYNQ is a ready-to-deploy platform that provides track & trace functionality, fleet visibility and geo-fencing, amongst other features. The easy-to-use comprehensive user interface provides real-time monitoring of fleet and drivers from any device. ?TrackSYNQ video solution- MDVR and ADAS- allows users to monitor their fleet operation via live video streaming to see what is happening in real-time, and enables fleet owners to lower accident risk and increase driver awareness on road safety.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2250 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Quantum_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-7800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.quantuminventions.com/ 
-Contact Hotline: 68371582 
-Contact Email: sales@qi.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.quantuminventions.com/ <br>Contact Hotline: 68371582 <br>Contact Email: sales@qi.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

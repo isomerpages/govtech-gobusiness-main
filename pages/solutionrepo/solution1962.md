@@ -1,19 +1,17 @@
 ---
-title: 200407405Z
+title: Auto Welding Carriage
 permalink: /productivity-solutions-grant/solutionrepo/solution1962
 ---
 
 ### Description
 
-Advancedata Network Pte Ltd
+Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
+
+Cost of equipment capped at $18,750 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 18750 
 
 ### Eligibility Criteria
 
@@ -28,18 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-730
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.advancedatan.com 
-Contact Hotline: 65606228 
-Contact Email: sales@advancedatan.com 
-
+Adjustable arm torch angle
+Maintenance not included
+Communication to link multiple sets (optional)
 
 ### Contact Information
 N.A.

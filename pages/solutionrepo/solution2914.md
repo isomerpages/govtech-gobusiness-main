@@ -1,19 +1,16 @@
 ---
-title: 201002583D
+title: Cloudable Data Protection Suite-Powered by Acronis - Package E- Advanced Security + Advanced Management 200 Licences
 permalink: /productivity-solutions-grant/solutionrepo/solution2914
 ---
 
 ### Description
 
-Edgeworks Solutions Pte Ltd
+Cloudable Data Protection Suite-Advanced Security and Advanced Management is an all-in-one cyber protection solution that integrates, malware prevention, security controls, remote assistance, monitoring, and reporting.
+It protects your entire business through a layered protection approach, an innovative combination of proactive and active data protection technologies such as patch management, vulnerability assessment, behavior-based detection, and self-protection
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-14000
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6250
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.edgeworks.com.sg 
-Contact Hotline: 67504498 
-Contact Email: sales@edgeworks.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.cloudable.com.sg <br>Contact Hotline: 83888759 <br>Contact Email: info@cloudable.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

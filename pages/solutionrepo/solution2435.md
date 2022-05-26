@@ -1,19 +1,17 @@
 ---
-title: 200209919N
+title: BridgED Version 2.0 - BridgED 100/25
 permalink: /productivity-solutions-grant/solutionrepo/solution2435
 ---
 
 ### Description
 
-Cyberland Consultancy Pte Ltd
+BridgED is developed specifically for preschool centres to facilitate the management day to day activities and communication between staff and parents.  
+
+It is capable of capturing the profiles of students and staff, allowing for the management of centres' logs and records, and publishing of vetted information to the parents to keep them notified.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9350 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cyberland_20200637_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-11930
+Subscription or Leasing
 
 ### Support Level
-Up to  - Add up to 10 centres for each application.
-
-- Subject to internal funding caps. for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Web URL: cyberland.edu.sg/bridged 
-Contact Hotline: 65666601 
-Contact Email: casey@cyberland.edu.sg 
+ - Add up to 10 centres for each application.
 
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

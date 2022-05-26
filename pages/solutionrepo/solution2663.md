@@ -1,19 +1,15 @@
 ---
-title: 201612131Z
+title: Simplify Version 1 - Simplify - Standard (50 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2663
 ---
 
 ### Description
 
-Noid Singapore Pte Ltd
+Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 24300 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-32300
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Web URL: simplify.asia 
-Contact Hotline: 67344430 
-Contact Email: hello@noid.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: simplify.asia <br>Contact Hotline: 67344430 <br>Contact Email: hello@noid.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

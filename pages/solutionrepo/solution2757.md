@@ -1,19 +1,22 @@
 ---
-title: 200005376W
+title: EPOS Enhanced POS Version 2.0 - Package (Enhanced POS with Smart Inventory with Integration, Tablet)
 permalink: /productivity-solutions-grant/solutionrepo/solution2757
 ---
 
 ### Description
 
-Roycemedia Technologies Pte Ltd
+EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
+- Simple and easy to use for cashiers. 
+- Full-featured CRM
+- Powerful Promotions engine
+- Inventory management
+- Ecommerce integration 
+- Accounting integration 
+- E-payments, QR payment, credit card, NETS
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10623 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4865
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.roycemedia.com/products.html 
-Contact Hotline: 63232139 
-Contact Email: sales@roycemedia.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

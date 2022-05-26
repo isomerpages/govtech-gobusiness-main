@@ -1,19 +1,15 @@
 ---
-title: 201309369Z
+title: Yumstone F&B Solutions Version 5.0 - Package 2 Mobile and Emenu Ordering
 permalink: /productivity-solutions-grant/solutionrepo/solution1834
 ---
 
 ### Description
 
-Yumstone Esolutions Pte Ltd
+Yumstone's Management System enables F&B operators and restaurants to empower their dining and takeaway customers to order their food and beverages by themselves using their own mobile devices - mobile phone or tablets.  The solution also allow F&B operators to register every customer in Yumstone CRM and run marketing campaigns and promotions to attract return customers which is the most important group of customers for operators.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 6640 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-8840
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.yumstone.sg 
-Contact Hotline: 82226621 
-Contact Email: sales@yumstone.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 201100789H
+title: LittleLives 4.5 - PMS Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2444
 ---
 
 ### Description
 
-LittleLives Inc Pte. Ltd.
+As an EduTech company, LittleLives facilitates day-to-day school operations through its core mobile applications: Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  We have created a holistic system that handles the full life cycle of a child's preschool journey. Our products are developed taking into consideration the needs of the entire network of caregivers - educators, parents, and leaders.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9770 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-14110
+Subscription or Leasing
 
 ### Support Level
-Up to  - Add up to 10 centres for each application.
-
-- Subject to internal funding caps. for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Web URL: littlelives.com 
-Contact Hotline: 89296707 
-Contact Email: sales@littlelives.com 
+ - Add up to 10 centres for each application.
 
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

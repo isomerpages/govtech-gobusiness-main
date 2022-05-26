@@ -1,19 +1,20 @@
 ---
-title: 200208117Z
+title: MuRho Inventory Management & Sales Management System - STARTER PACK A - SAAS WITH HARDWARE
 permalink: /productivity-solutions-grant/solutionrepo/solution623
 ---
 
 ### Description
 
-MuRho Pte. Ltd.
+The MuRho Inventory Management & Sales Management System includes:
+-	Store N Track (Inventory & Asset Management System)
+-	Manufacture N Track (Inventory & Manufacturing Work In Progress Management System)
+-	Sell N Track (Inventory & Sales Order Management System) 
+-	Order N Track (Inventory & Online B2B / Mobile Sales Order Management System)
+-	Connect N Track (API connector to link to 3rd party Marketplace / Software System)
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 6000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-MuRho Pte Ltd 
-www.murho.com.sg
-Email:sales@murho.com.sg
-Tel:+65 6289 3802
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+MuRho Pte Ltd <br>www.murho.com.sg<br>Email:sales@murho.com.sg<br>Tel:+65 6289 3802
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

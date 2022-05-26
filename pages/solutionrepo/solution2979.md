@@ -1,19 +1,17 @@
 ---
-title: 201512065D
+title: DM MediaPlus Digital Marketing Package - Accelerate DM Package (SEO/SEM/SMA) [3 Months]
 permalink: /productivity-solutions-grant/solutionrepo/solution2979
 ---
 
 ### Description
 
-Hrm Labs Pte Ltd
+Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
+
+With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9995 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-8660
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.hrmlabs.com 
-Contact Hotline: 90255587 
-Contact Email: contact@hrmlabs.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: mediaplus.com.sg <br>Contact Hotline: 68163168 <br>Contact Email: wow@mediaplus.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

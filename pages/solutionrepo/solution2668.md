@@ -1,19 +1,17 @@
 ---
-title: 201424942D
+title: Xero - ACE XERO Cloud Accounting Software - Package C (Full Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution2668
 ---
 
 ### Description
 
-Angels Business Consulting Pte. Ltd.
+Ace is a value-added system integrator, focusing on providing customers with solutions that enhances their productivity and efficiency.
+
+XERO being a cloud based and IRAS approved accounting software, it allows companies to access their financials anytime, anywhere.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 3525 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2528
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim 
-Contact Hotline: 98894289 
-Contact Email: angels@angelsbusiness.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.acebizservices.com/it-software <br>Contact Hotline: 62620402 <br>Contact Email: CARE@ACEBIZSERVICES.COM <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

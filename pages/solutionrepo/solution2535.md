@@ -1,19 +1,15 @@
 ---
-title: 201217491G
+title: Aggregate Cloud Accounting Software (Xero) - Package C (Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution2535
 ---
 
 ### Description
 
-Align Group of Companies Pte Ltd
+Aggregate Consultancy Services provides one stop digital solution to digitalise the sales, accounting, taxation, human resource management process. We address the challenges of limited resources and manpower faced by start-ups and SMEs so that their business owners and managers are able to spend more productive time growing the businesses instead of handling much of the back-office process. Supported by Xero, we aim to increase the odds of business success in the challenging environment.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5520 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-9800
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.aligngroup.asia/hr-business-partnering/ 
-Contact Hotline: 62225224 
-Contact Email: service@aligngroup.asia 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.incorporateyour.com <br>Contact Hotline: 63349329 <br>Contact Email: sales@incorporateyour.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

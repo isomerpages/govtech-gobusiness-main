@@ -1,19 +1,15 @@
 ---
-title: 201009691D
+title: SAGE 300Cloud Version 2021 - Distribution A1 - 3 Users with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution65
 ---
 
 ### Description
 
-ACSOLV CONSULT PTE. LTD.
+Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9240 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acsolv_Consult_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-26800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:ACSOLV CONSULT PTE. LTD. 
-Web URL: https://www.acsolv.com/ 
-Contact Hotline: 67489123 
-Contact Email: acsolv@acsolv.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:ACSOLV CONSULT PTE. LTD. <br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

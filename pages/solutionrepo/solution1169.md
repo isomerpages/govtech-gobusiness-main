@@ -1,19 +1,15 @@
 ---
-title: 201324947N
+title: Carddio Version 1 - Pro Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1169
 ---
 
 ### Description
 
-Enable Business Pte Ltd
+The One Stop Mobile App for Business Contact Data Storage & Salesman Management with Lead Exchange
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3500
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Enable Business Pte Ltd 
-Web URL: www.quickhr.co 
-Contact Hotline: 69088158 
-Contact Email: business@quickhr.co 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Carddio Pte Ltd <br>Web URL: www.carddio.com.sg <br>Contact Hotline: 6258 9852 <br>Contact Email: psg@carddio.com.sg<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

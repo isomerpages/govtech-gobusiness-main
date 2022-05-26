@@ -1,19 +1,17 @@
 ---
-title: 200102135C
+title: Ethylene Removal System
 permalink: /productivity-solutions-grant/solutionrepo/solution2002
 ---
 
 ### Description
 
-EQCOMS Technology Pte Ltd
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,18 +26,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5900
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.eqcoms.com 
-Contact Hotline: 67453177 
-Contact Email: salesadmin@eqcoms.com 
-
+Specifications:
+- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.
+- No harmful substance must be released into the environment E.g. Ozone
+- Can be used in storage and production facilities.
+- Installation and maintenance costs are not supported.
 
 ### Contact Information
 N.A.

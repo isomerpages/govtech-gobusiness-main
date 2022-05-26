@@ -1,19 +1,15 @@
 ---
-title: 201329629H
+title: Cub3commerce - Premium Ecommerce with Global Marketplace Integration + POS
 permalink: /productivity-solutions-grant/solutionrepo/solution2974
 ---
 
 ### Description
 
-MediaPlus Digital Pte Ltd
+CUB3COMMERCE covers the development of an online shopping website with comprehensive functionality to automate and perform sales transactions, manage orders, track statistics on product performance in a way that is both insightful as well as easy. The solution will assist in marketing products more effectively by taking advantage of a wide range of data tracking capabilities which enables a better insight into customers' behaviour.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9800 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DUCB3_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6890
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% (80% for Retail sector) for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: mediaplus.com.sg 
-Contact Hotline: 68163168 
-Contact Email: wow@mediaplus.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.dcub3.com.sg <br>Contact Hotline: 97346544 <br>Contact Email: armstrong@dcub3.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

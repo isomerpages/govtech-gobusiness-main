@@ -1,19 +1,17 @@
 ---
-title: 201009353K
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1475
 ---
 
 ### Description
 
-AxiomSL Pte Ltd
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
+
+Cost of equipment capped at $7,500 per unit 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 7500 
 
 ### Eligibility Criteria
 
@@ -28,18 +26,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-402000
+Direct Purchase
 
 ### Support Level
-Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200.  for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name: AxiomSL Pte Ltd
-Web URL:www.axiomsl.com
-Contact Hotline: 69557660
-Contact Email: sdatta@axiomsl.com
+- Minimum nut size: 12.7mm
+- 1 battery pack or power unit per  equipment can be supported
+- Training costs can be supported
+
 
 
 ### Contact Information

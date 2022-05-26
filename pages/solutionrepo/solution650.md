@@ -1,19 +1,16 @@
 ---
-title: 201230283H
+title: NMTODOO - ERP  - Package Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution650
 ---
 
 ### Description
 
-Nspire Group Pte Ltd
+NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Management System. Registered on the IRAS Accounting Software Register (ASR), the solution provides the essential features for Small to Medium Enterprise to manage sales, customer relations, and financial accounting.
+
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 24900 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-12750
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Nspire Group Pte Ltd
-https://www.RavenPOS.com
-Email: ravenpos@gmail.com
-Tel: +65 6100 2628
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediatechnology.com<br>Tel: +65 6701 8203
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

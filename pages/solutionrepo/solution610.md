@@ -1,19 +1,15 @@
 ---
-title: 201008943H
+title: MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution610
 ---
 
 ### Description
 
-MPS Solutions Pte Ltd
+A specialized solution for wholesalers to optimize their order fulfilment to customers in both Lower and Upper Trade. The solution helps wholesalers streamline the process from customers' order taking (for both Lower and Upper Trade) to delivery.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 32000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MEVO_Annex_3_CR_wef_30_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-36150
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Company Name:MPS Solutions Pte Ltd 
-Web URL:www.mpssolutions.com.sg 
-Contact Hotline:68469109 
-Contact Email:kelvin@mclinkgroup.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:MEVO Pte Ltd <br>Web URL: www.mevo.com.sg <br>Contact Hotline: 67739048 <br>Contact Email: enquiries@mevo.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

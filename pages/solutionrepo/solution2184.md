@@ -1,19 +1,15 @@
 ---
-title: 201006799R
+title: BlueMeg Console - Package C (250 Entities)
 permalink: /productivity-solutions-grant/solutionrepo/solution2184
 ---
 
 ### Description
 
-CommercePromote Pte Ltd
+The BlueMeg Console is a cloud-based entity management and document management software as a service solution. It is a collaborative tool that enables the secure sharing of company information and documents with authorised company stakeholders. The BlueMeg Console enables users to interact and transact digitally, adding a new degree of efficiency, enforcement, and governance - all while decreasing the cost of doing business.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 20000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4740
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://commercepromote.com/agency-management 
-Contact Hotline: 97508889 
-Contact Email: cpsales@commercepromote.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whitelabel@bluemeg.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

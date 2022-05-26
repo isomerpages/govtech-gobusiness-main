@@ -1,19 +1,17 @@
 ---
-title: 200603625R
+title: Steel Plate Butt Joint Welding Alignment Tool
 permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 
 ### Description
 
-AG Net Pte Ltd
+The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
+
+Cost of equipment capped at $12,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-12500
 
 ### Eligibility Criteria
 
@@ -28,19 +26,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-14400
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Company Name: AG Net Pte Ltd 
-Web URL: https://web.aghrm.com/index.php/solutions/ 
-Contact Hotline: 68448712 
-Contact Email: sales@aghrm.com 
-
+Magnetic force: minimum 800kgf
+Maintenance costs not supported
 
 ### Contact Information
 N.A.

@@ -1,19 +1,18 @@
 ---
-title: 200100911R
+title: Vertical Carousel
 permalink: /productivity-solutions-grant/solutionrepo/solution161
 ---
 
 ### Description
 
-Archer Logic (S) Pte Ltd
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,18 +27,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-7680
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Archer Logic (S) Pte Ltd
-https://www.archerlogic.com/studio-manager/
-Email: sales_marketing@archerlogic.com
-Tel: +65 6785 9007
+Unit height: min. 2.5m
+Carrier tray width: min. 1.3m
+Load capacity per tray: min. 150kg
+With operator Interface (Console)
+With software linked to Inventory Management System
+
+
 
 ### Contact Information
 N.A.

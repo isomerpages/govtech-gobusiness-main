@@ -1,19 +1,16 @@
 ---
-title: 201433500N
+title: BonaERP - Package (For Ecommerce & Point of Sales)
 permalink: /productivity-solutions-grant/solutionrepo/solution246
 ---
 
 ### Description
 
-Bona Technologies Systems Pte Ltd
+BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.
+Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 32600 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_67.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Bona Technologies Systems Pte Ltd 
-Web URL: bona.com.sg 
-Contact Hotline: 90470443 
-Contact Email: it@bona.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

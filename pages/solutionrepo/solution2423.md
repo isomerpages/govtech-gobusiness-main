@@ -1,19 +1,28 @@
 ---
-title: 201820495R
+title: Daisy XERO Accounting Software - Subscription Only
 permalink: /productivity-solutions-grant/solutionrepo/solution2423
 ---
 
 ### Description
 
-Daisy Consultants Pte Ltd
+All-in-one online accounting software
+Run customer's business on Xero's fast, simple, powerful online accounting software.
+
+Everything in one place
+See the invoices, contacts and accounts online.
+
+Connect to the bank
+Easily sync bank and financial information.
+
+Collaborate in real time
+Invite customer's advisor in, and work together anywhere.
+
+Customise to suit customer's needs
+Xero can connect with other apps.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 725 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +37,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3145
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.daisy.sg 
-Contact Hotline: 92736613 
-Contact Email: kate@daisy.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.daisy.sg <br>Contact Hotline: 92736613 <br>Contact Email: kate@daisy.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

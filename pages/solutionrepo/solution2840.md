@@ -1,19 +1,15 @@
 ---
-title: 201300570R
+title: DST Inventory System Version 1.3 - Package B (Barcode)
 permalink: /productivity-solutions-grant/solutionrepo/solution2840
 ---
 
 ### Description
 
-EBOS SG PTE. LTD.
+Inventory System uses different technologies such as barcode, QR and/or RFID onto Inbound and Outbound items for tracking and inventory stock take. The solution is used for store, warehouse, retail outlets and assets tracking.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 7795 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2740
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.ebos-sg.com 
-Contact Hotline: 96954688 
-Contact Email: ask@ebos-sg.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

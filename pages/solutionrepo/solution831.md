@@ -1,19 +1,15 @@
 ---
-title: 201025900M
+title: Ellie Integrated System Version 2 - Package B (E-Waiter for 2 Users, KDS for 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution831
 ---
 
 ### Description
 
-Supply Ellie Pte Ltd
+The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 7500 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SupplyEllie_Annex_3_CR_wef_3_Feb_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-13700
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Supply Ellie Pte Ltd 
-Web URL:www.supplyellie.com 
-Contact Hotline:91200059 
-Contact Email:davidang@supplyellie.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Supply Ellie Pte Ltd <br>Web URL:www.supplyellie.com <br>Contact Hotline:91200059 <br>Contact Email:davidang@supplyellie.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

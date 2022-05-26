@@ -1,19 +1,18 @@
 ---
-title: 201104295K
+title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 8 Vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution1556
 ---
 
 ### Description
 
-The Chope Group Pte Ltd
+Designed for all fleet size and management. 
+Includes 4 cameras and a mobile digital video recorder with gps which provides real-time video and gps information to allow fleet managers to better manage and monitor. This will help with more efficient operation, lowering cost and better productivity.   
+
+The system is also able to add in a variety of Telematics smart sensors to meet certain industrial mandatory safety requirements.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 16882 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4350
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: restaurants.chope.co 
-Contact Hotline: 62256612 
-Contact Email: sales.sg@chope.co 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

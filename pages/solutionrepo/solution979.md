@@ -1,19 +1,15 @@
 ---
-title: 198901360G
+title: Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)
 permalink: /productivity-solutions-grant/solutionrepo/solution979
 ---
 
 ### Description
 
-AZ DIGITAL PTE LTD
+Singapore Food & Beverage is running out of manpower. Aigens aspire to bring innovation to the traditional Food & Beverage (F&B) industry, which lags behind in adopting technology. In the food service industry, convenience is king. Customers want to experience quick, efficient service with no obstacles. This is even more important for quick service and casual dining restaurants. With Aigens, you can implement innovative solutions that will see your customers returning time and time again.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 22020 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_67.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6500
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:AZ DIGITAL PTE LTD 
-Web URL: www.azdigital.net 
-Contact Hotline: 67451147 
-Contact Email: sales@azdigital.net 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>96953417 <br>hans.paul@aigens.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 201807430D
+title: Wealthbridge - Xero  - Premium Training Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2531
 ---
 
 ### Description
 
-Aggregate Consultancy Services Pte. Ltd.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 1025 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-720
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.incorporateyour.com 
-Contact Hotline: 63349329 
-Contact Email: sales@incorporateyour.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.wealthbridgecs.com/ <br>Contact Hotline: 66816635 <br>Contact Email: contact@wealthbridgecs.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

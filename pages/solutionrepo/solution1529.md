@@ -1,19 +1,15 @@
 ---
-title: 201916665K
+title: Zoho One-11 Users + Free Online Tutorials
 permalink: /productivity-solutions-grant/solutionrepo/solution1529
 ---
 
 ### Description
 
-Zolution Pte Ltd
+With advanced CRM features like workflow management, advanced analytics, territory management, sales and marketing automation, Zoho One helps reduce the time salespeople spend on mundane tasks, have more time to concentrate on customers and unify operations across multiple geographic locations. The CRM system helps companies cover every aspect of their business cycle with an increase in sales and marketing returns, all while helping them reduce operating costs.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5480 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-9160
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.zolution.co 
-Contact Hotline: 31385268 
-Contact Email: team@zolution.co 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.zolution.co <br>Contact Hotline: 31385268 <br>Contact Email: team@zolution.co <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

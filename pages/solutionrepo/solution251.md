@@ -1,19 +1,19 @@
 ---
-title: 201433500N
+title: BonaForce-bonaFORCE Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution251
 ---
 
 ### Description
 
-Bona Technologies Systems Pte Ltd
+bonaFORCE is a CRM created specially for the SMEs.
+
+Consolidating feedback, issues & suggestions over the past decade as well as with a view to the future and in light of the current economical challenges, Bona Technologies is proud to present bonaFORCE with specialized features to support SMEs in terms of economical marketing, tasks & issues follow up, customer surveys, digital name-card and brochure & more.
+
+Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. #SGUnited
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 4300 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4700
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Bona Technologies Systems Pte Ltd 
-Web URL: bona.com.sg 
-Contact Hotline: 90470443 
-Contact Email: it@bona.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

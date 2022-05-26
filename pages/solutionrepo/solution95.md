@@ -1,19 +1,15 @@
 ---
-title: 199204515R
+title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only
 permalink: /productivity-solutions-grant/solutionrepo/solution95
 ---
 
 ### Description
 
-Advanced Micro Control Pte Ltd
+MoneyWorks was built from the ground up for the needs of business, finance and accounting professionals. A powerful, feature rich platform that unlocks your company's accounting data to help you run a better business. With Integration, Moneyworks connects to your POS, E-commerce and third party solutions to keep your accounting solutions lean yet scalable.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 895 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4792
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Advanced Micro Control Pte Ltd 
-Web URL:http://www.amc.com.sg 
-Contact Hotline:65898818 
-Contact Email:sales@amc.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Advanced Micro Control Pte Ltd <br>Web URL:http://www.amc.com.sg <br>Contact Hotline:65898818 <br>Contact Email:sales@amc.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

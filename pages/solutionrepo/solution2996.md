@@ -1,19 +1,15 @@
 ---
-title: 199905895D
+title: MEVO DMS 8.3 - MEVO B2B Standard (1 User Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution2996
 ---
 
 ### Description
 
-MEVO Pte Ltd
+Since 2004, MEVO is a solution that specializes in helping wholesalers optimize their sales operation. With MEVO, wholesalers are able to sell more and capture orders more effectively with leaner manpower.
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 7300 
 
 ### Eligibility Criteria
 
@@ -28,18 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-24500
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.mevo.com.sg 
-Contact Hotline: 67739048 
-Contact Email: enquiries@mevo.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.

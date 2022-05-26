@@ -1,19 +1,28 @@
 ---
-title: 200005018Z
+title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 100
 permalink: /productivity-solutions-grant/solutionrepo/solution1739
 ---
 
 ### Description
 
-Frontier e-HR Pte Ltd 
+HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
+1. HRSS via Frontier e-HR
+Personnel Management
+Leave Module
+Mobile Attendance Module
+Payroll Module
+Benefit and Claim Module
+2. HR Admin Support & Payroll Processing
+Process Leave encashment & No Pay Leave via Payroll
+Process Claim Reimbursement
+Prepare Payroll reports for approval
+Prepare GIRO bank file for approval
+Prepare CPF file and submit to CPF Website
+One Payroll process run per month
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 31400 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +37,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-42800
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL:https://www.frontier-ehr.com/
-Contact Hotline: 63910921 
-Contact Email: enquiry@frontier-ehr.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

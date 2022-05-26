@@ -1,19 +1,18 @@
 ---
-title: 200617554M
+title: Blast Chiller
 permalink: /productivity-solutions-grant/solutionrepo/solution2520
 ---
 
 ### Description
 
-OOM PTE LTD
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,17 +27,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.oom.com.sg/ 
-Contact Hotline: 63910930 
-Contact Email: support@oom.com.sg 
+Minimum Specifications
+
+Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.
+
+Minimum capacity of 5 GN 1/1
+
 
 
 ### Contact Information

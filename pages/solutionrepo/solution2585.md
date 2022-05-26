@@ -1,19 +1,15 @@
 ---
-title: 201502174C
+title: QuickBooks Online - Acloud - QBO Quick Start - Set E
 permalink: /productivity-solutions-grant/solutionrepo/solution2585
 ---
 
 ### Description
 
-Book&Entries Pte Ltd
+QuickBooks Online is an IRAS-registered cloud accounting software which helps small business owners to access their accounting data, send invoice & record expenses anytime & anywhere when they are online.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 3961 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-1720
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.bookentries.com.sg 
-Contact Hotline: 62214246 
-Contact Email: support@bookentries.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.acloud-b.com/our-price--services.html <br>Contact Hotline: 97942119 <br>Contact Email: ACloud.Sales@gmail.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

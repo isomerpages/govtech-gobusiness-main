@@ -1,19 +1,15 @@
 ---
-title: 200207681Z
+title: OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 4)
 permalink: /productivity-solutions-grant/solutionrepo/solution1484
 ---
 
 ### Description
 
-Wolters Kluwer Financial Services Singapore Pte Ltd
+OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 536000 
 
 ### Eligibility Criteria
 
@@ -28,19 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-830000
+Subscription / Leasing
 
 ### Support Level
-Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200.  for SMEs <br>
+Up to 30% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Wolters Kluwer Financial Services Singapore Pte Ltd
-Web URL:www.wolterskluwerfs.com
-Contact Hotline: 63808000
-Contact Email: Anurag.Seth@wolterskluwer.com
-
+For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 ### Contact Information
 N.A.

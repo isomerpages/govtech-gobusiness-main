@@ -1,19 +1,15 @@
 ---
-title: 201334715D
+title: MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution2999
 ---
 
 ### Description
 
-W.L.P PTE LTD
+Since 2004, MEVO is a solution that specializes in helping wholesalers optimize their sales operation. With MEVO, wholesalers are able to sell more and capture orders more effectively with leaner manpower.
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 32000 
 
 ### Eligibility Criteria
 
@@ -28,18 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-1525
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.wlp.com.sg/ 
-Contact Hotline: 64932970 
-Contact Email: info@wlp.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.

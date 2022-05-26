@@ -1,19 +1,15 @@
 ---
-title: 200706434C
+title: Wealthbridge - Xero  - Premium Full Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2530
 ---
 
 ### Description
 
-1-Smart Technologies Pte Ltd
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 1825 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6600
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.2dfire.sg 
-Contact Hotline: 83210776 
-Contact Email: cocowang@1-smart.com.sg
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.wealthbridgecs.com/ <br>Contact Hotline: 66816635 <br>Contact Email: contact@wealthbridgecs.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

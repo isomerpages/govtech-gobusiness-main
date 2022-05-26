@@ -1,19 +1,15 @@
 ---
-title: 200604587R
+title: SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution1348
 ---
 
 ### Description
 
-AVELOGIC PTE LTD
+Administrator manage the company's HR requirements, payroll, schedule, Leave and Appraisal. Staff can go online to apply leave, submit claims and view their documents online. Appraisal system allows managers to quick appraise their staff online. Work Schedule module allows management to better manage and plan their manpower and monitor attendance of their staff real time. Update and complies to regulatory requirements.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 8000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-16200
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:AVELOGIC PTE LTD 
-Web URL: www.avelogic.com 
-Contact Hotline: 63671128 
-Contact Email: sales@avelogic.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:AVELOGIC PTE LTD <br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

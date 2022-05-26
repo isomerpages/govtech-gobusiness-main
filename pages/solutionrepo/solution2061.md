@@ -1,19 +1,16 @@
 ---
-title: 201533706M
+title: Revel Systems - Revel Essentials - Quick Service & Coffeeshop
 permalink: /productivity-solutions-grant/solutionrepo/solution2061
 ---
 
 ### Description
 
-Revel Systems Global Pte Ltd
+Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
+The Revel Enterprise solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 6314 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-8970
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.revelsystems.com 
-Contact Hotline: +6531633097 
-Contact Email: sales@revelsystems.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

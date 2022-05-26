@@ -1,19 +1,15 @@
 ---
-title: 200101511N
+title: Managed Firewall Solution - Fortigate 200F
 permalink: /productivity-solutions-grant/solutionrepo/solution1280
 ---
 
 ### Description
 
-V3 Smart Technologies Pte Ltd
+LGA's Managed Firewall Service provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 LGA support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance due to our fully managed service.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 7540 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4680
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:V3 Smart Technologies Pte Ltd 
-Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ 
-Contact Hotline: 64884176 
-Contact Email: sales@v3smarttech.com 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

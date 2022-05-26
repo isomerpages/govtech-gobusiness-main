@@ -1,19 +1,15 @@
 ---
-title: 200005376W
+title: Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F
 permalink: /productivity-solutions-grant/solutionrepo/solution2760
 ---
 
 ### Description
 
-Roycemedia Technologies Pte Ltd
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5620 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-11363
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.roycemedia.com/products.html 
-Contact Hotline: 63232139 
-Contact Email: sales@roycemedia.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.roycemedia.com/products.html <br>Contact Hotline: 63232139 <br>Contact Email: sales@roycemedia.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

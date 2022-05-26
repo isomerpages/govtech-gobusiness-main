@@ -1,19 +1,17 @@
 ---
-title: 201216251K
+title: Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution2750
 ---
 
 ### Description
 
-Efusion Technology Pte Ltd
+Dalstech is a Microsoft Partner comprising a team of Senior Consultants with over 10 years experience in the implementation of Dynamics 365 Business Central. The team truly understands the needs of the customers and has the necessary expertise in applying the best practices for various industries. 
+
+Microsoft Dynamics 365 Business Central is an ERP Solution that automates and streamlines business processes including Finance, Sales, Purchases, Inventory, Project, Services, Production and more.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 34800 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.efusiontech.com 
-Contact Hotline: 62903086 
-Contact Email: contact@efusiontech.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.dalstech.com/dynamics-365-business-central <br>Contact Hotline: 69092088 <br>Contact Email: sales@dalstech.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

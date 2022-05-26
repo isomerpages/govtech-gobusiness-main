@@ -1,19 +1,15 @@
 ---
-title: 201001234K
+title: FleetManager Version 5.0 - FleetManager Leasing Plan for 1 vehicle
 permalink: /productivity-solutions-grant/solutionrepo/solution2055
 ---
 
 ### Description
 
-LOGISFLEET PTE LTD
+FleetManager App software is a modern fleet management system offered by Logisfleet Pte Ltd since 2010. With more than a decade of experience helping Singapore companies digitize their fleet operations, our capabilities and strengths are constantly evolving to match our customers' high expectations. We have equipped ourselves with our own in-house automotive technicians, constantly innovate with our own R&D team, and own a dedicated 3000 square feet workshop for vehicle drive-in installation.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 480 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Logisfleet_Annex_3_CR_wef_25_Nov_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3000
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.logisfleet.com 
-Contact Hotline: 65520668 
-Contact Email: support@logisfleet.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

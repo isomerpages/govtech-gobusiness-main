@@ -1,19 +1,15 @@
 ---
-title: 201912702K
+title: Adaptive Pay Version 2022 - Package 4
 permalink: /productivity-solutions-grant/solutionrepo/solution2893
 ---
 
 ### Description
 
-AM8ZE PTE LTD
+Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. It comes with a complete suite to cater HR needs of a company. Modules include comprehensive Personnel Management, Payroll Management, Leave Management, Claim Management, Attendance System and Appraisal System. The Adaptive Pay mobile app for employees to manage their attendance, leave, claim & payslips. The Adaptive Admin Mobile app helps the manager approve their employee request for leave & claims.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-11700
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-18200
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://am8ze.com/erp/ 
-Contact Hotline: 96222206 
-Contact Email: sales@am8ze.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.adaptivebizapp.com <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

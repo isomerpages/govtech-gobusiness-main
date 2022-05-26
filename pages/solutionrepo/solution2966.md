@@ -1,19 +1,15 @@
 ---
-title: 200100911R
+title: Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2966
 ---
 
 ### Description
 
-ARCHER LOGIC (S) PTE LTD
+Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web ordering application tailored for F&B businesses. It offers QR based ordering methods for an efficient self-ordering process for in-store and takeaway. The platform runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides web-based backend management software with functions such as CRM, Inventory and Kitchen management.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 3500 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-11280
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 0.8 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.studiomanager.asia 
-Contact Hotline: 67859007 
-Contact Email: ISAAC.GOH@ARCHERLOGIC.COM 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: WWW.SUNTOYO.COM.SG <br>Contact Hotline: 65533855 <br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 201016773D
+title: Alitec odooCRM and sales - odoo 15 Users AS5 (Sales)
 permalink: /productivity-solutions-grant/solutionrepo/solution2572
 ---
 
 ### Description
 
-PROFECTANT CORPORATE SERVICES PTE LTD
+Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technical teams have helped local SMEs for the past 5 years to successfully implement Odoo. Odoo is a suite of open source business apps that cover all your company needs: CRM, sales online quotation, increase sales person productivities and managing price-list for customer . Odoo's unique value proposition is to be at the same time very easy to use and fully integrated: No more painful to scale a CRM/sales to a full ERP.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 17437 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3360
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.profectant.com 
-Contact Hotline: 69746718 
-Contact Email: enquiry@profectant.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

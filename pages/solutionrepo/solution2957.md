@@ -1,19 +1,16 @@
 ---
-title: 201733481D
+title: SAP Business One SQL & HANA Version 10.0 - Package (4 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution2957
 ---
 
 ### Description
 
-ONE X GROUP PTE. LTD.
+Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
+SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 40600 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-15000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.onextech.com.sg/work 
-Contact Hotline: 91198609 
-Contact Email: info@onextech.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.mpssolutions.com.sg <br>Contact Hotline: 68469109 <br>Contact Email: kelvin@mclinkgroup.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

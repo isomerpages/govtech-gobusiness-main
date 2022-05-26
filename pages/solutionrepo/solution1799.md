@@ -1,19 +1,16 @@
 ---
-title: 200508212K
+title: Adventus Managed Firewall - Fortinet  - FortiGate-60F 24x7 - 1 Year
 permalink: /productivity-solutions-grant/solutionrepo/solution1799
 ---
 
 ### Description
 
-Adventus Singapore Pte. Ltd.
+Adventus Managed Firewall leverages on the Fortigate appliance to provide a holistic approach by providing managed service for network perimeter security monitoring on top of the solution.
+With this all-rounded Firewall Network Perimeter Protection, a proper firewall configuration is ensured, and there is also constant monitoring of firewall threats.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 4264.7 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6638.55
+Subscription / Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://adventus.com/ 
-Contact Hotline: 61003310 
-Contact Email: info@adventus.com
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

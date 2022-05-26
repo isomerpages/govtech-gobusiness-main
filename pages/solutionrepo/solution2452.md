@@ -1,19 +1,15 @@
 ---
-title: 201812332G
+title: Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Economy)
 permalink: /productivity-solutions-grant/solutionrepo/solution2452
 ---
 
 ### Description
 
-Assembly Works Pte. Ltd.
+Taidii SMART integrated preschool management system provides innovation solutions to streamline administrative process and foster better preschool services as its key services. Taidii helps to automate various tasks and stores data using a secured cloud based platform for easy access. Taidii hopes to bring greater efficiency and convenience to preschool management and ultimately, higher quality childcare for the young generation.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 6900 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-725
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Web URL: WWW.ASSEMBLYWORK.CO 
-Contact Hotline: 90883183 
-Contact Email: shining@assemblyworks.co 
+ - Add up to 10 centres for each application.
 
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

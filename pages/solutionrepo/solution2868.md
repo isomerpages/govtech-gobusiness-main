@@ -1,19 +1,15 @@
 ---
-title: 200603587Z
+title: Eber Smart Members Solution - Basic Package with Professional Services
 permalink: /productivity-solutions-grant/solutionrepo/solution2868
 ---
 
 ### Description
 
-Rockbell International Software Pte Ltd
+Eber Smart Member Solution is a smart member system that comes with comprehensive loyalty & rewards system, CRM, marketing, gift card and analytic tool. Businesses can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
-2228
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Eber_Smart_20210502_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4899
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.rockbell.sg 
-Contact Hotline: 64697720 
-Contact Email: sales@rockbell.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://eber.co <br>Contact Hotline: 31590888 <br>Contact Email: hello@eber.co <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 52946643X
+title: MEGAPOS - MEGAPOS Pro on Tablet
 permalink: /productivity-solutions-grant/solutionrepo/solution1187
 ---
 
 ### Description
 
-Serixx Business Solutions
+A cost-effective POS solution that comes with sleek hardware, feature-rich software and top service.   MEGAPOS offers you an opportunity to upgrade to a modern productivity tool engineered and tested for the new retail economy in this post-Covid CB period.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5528 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6110
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Serixx Business Solutions 
-Web URL: www.serixx.com 
-Contact Hotline: 91092480 
-Contact Email: info@serixx.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Megasafe Technology Pte Ltd <br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

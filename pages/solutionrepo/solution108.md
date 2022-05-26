@@ -1,19 +1,18 @@
 ---
-title: 201613142Z
+title: Rotary Wok Fryer
 permalink: /productivity-solutions-grant/solutionrepo/solution108
 ---
 
 ### Description
 
-Advocado Pte. Ltd.
+Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
+The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,18 +27,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2350
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
-Up to Active for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Advocado Pte Ltd
-https://www.advocadoapp.com
-Email: hello@advocado.me
-Tel: +65 6444 9556
+- Automatic Cleaning 
+- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave
+
+
 
 ### Contact Information
 N.A.

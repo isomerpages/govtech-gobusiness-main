@@ -1,19 +1,15 @@
 ---
-title: 201215396N
+title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Service/E-commerce Package) - Hubspot
 permalink: /productivity-solutions-grant/solutionrepo/solution466
 ---
 
 ### Description
 
-I Concept Innovation Pte Ltd
+The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationship Management & Reporting, Sales Management, Marketing Automation, Content Management and Customer Service Management software which function together to help businesses acquire and manage customers.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 5700 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:I Concept Innovation Pte Ltd 
-Web URL: https://i-concept.com.sg/e-commerce-singapore/ 
-Contact Hotline: 69043751 
-Contact Email: info@i-concept.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email: imdagrant@hubspot.com<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

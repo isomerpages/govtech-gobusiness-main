@@ -1,19 +1,17 @@
 ---
-title: 201307933K
+title: NetSuite - Retail Limited Cloud Services
 permalink: /productivity-solutions-grant/solutionrepo/solution1858
 ---
 
 ### Description
 
-Soft Solvers Solutions Pte Ltd
+For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
+
+Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10800 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Oracle_Annex_3_CR_wef_5_May_2022_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4925
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.secondcrm.com 
-Contact Hotline: 63048022 
-Contact Email: sales@secondcrm.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

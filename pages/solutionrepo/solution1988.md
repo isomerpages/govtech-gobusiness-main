@@ -1,19 +1,17 @@
 ---
-title: 201200009H
+title: Automatic Shrink Wrap Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution1988
 ---
 
 ### Description
 
-Accounting Consultancy Pte. Ltd.
+Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+
+Cost of equipment capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,17 +26,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3745
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://accountingconsultancy.com 
-Contact Hotline: 63888378 
-Contact Email: enquiry@accountingconsultancy.com 
+Specifications:
+- Able to pack products in round or odd shapes.
+- Must be able to run shrinking polyolefin films.
+- Min. output capacity of 15 metres per minute.
+- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
+- Installation and maintenance costs are not supported.
 
 
 ### Contact Information

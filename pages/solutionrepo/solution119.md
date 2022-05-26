@@ -1,19 +1,19 @@
 ---
-title: 201000125W
+title: Secure Locking System for Access Control
 permalink: /productivity-solutions-grant/solutionrepo/solution119
 ---
 
 ### Description
 
-AFON Technologies Pte Ltd
+The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. 
+
+The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.
+
+Cost of equipment capped at $20,000 per unit. 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 20000 
 
 ### Eligibility Criteria
 
@@ -28,19 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-35880
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:AFON Technologies Pte Ltd 
-Web URL: https://www.afon.com.sg/erp 
-Contact Hotline: 63230901 
-Contact Email: sales@afon.com.sg 
-
+Mandatory specifications:
+- Automate access request and provisioning
+- Physically secure spaces without the need for power supply to operate 
+- Provide traceability of all access into the secured spaces
+- Installed with Management software to administer access to users
+- Installation cost is supported
+- Maintenance cost is not supported
 
 ### Contact Information
 N.A.

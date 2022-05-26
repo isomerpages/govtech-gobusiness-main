@@ -1,19 +1,17 @@
 ---
-title: 201904063K
+title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 permalink: /productivity-solutions-grant/solutionrepo/solution2860
 ---
 
 ### Description
 
-Carbonate Pte Ltd
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 37500 
 
 ### Eligibility Criteria
 
@@ -28,18 +26,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-4320
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.carbonateapp.com 
-Contact Hotline: 66791003 
-Contact Email: info@carbonateapp.com 
-
+- Able to deliver at least 1000NM of torque
+- 1 battery pack or power unit per  equipment can be supported
+- Training costs to be supported
+- Maintenance costs not supported
 
 ### Contact Information
 N.A.

@@ -1,19 +1,15 @@
 ---
-title: 201805298E
+title: Cybots AMDR - Standard Package Solution-3
 permalink: /productivity-solutions-grant/solutionrepo/solution2808
 ---
 
 ### Description
 
-Cybots Pte. Ltd
+Cybots ensures cyber resilience for all sectors, from SMEs to large multinational organisations. Our AI-driven security operations include managed detection and response (MDR), threat hunting, cyber threat intelligence (CTI), and incidence response (IR). Powered by deep learning, adversarial and reinforced learning, our company's proprietary artificial intelligence engines enables our customers and partners to rapidly perform security threat analysis on a scalable, user-friendly platform.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 25650 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-38900
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ 
-Contact Hotline: 69835690 
-Contact Email: contactus@cybotsai.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br>Contact Hotline: 69835690 <br>Contact Email: contactus@cybotsai.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

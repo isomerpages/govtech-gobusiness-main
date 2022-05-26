@@ -1,19 +1,15 @@
 ---
-title: 199602373D
+title: RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 60
 permalink: /productivity-solutions-grant/solutionrepo/solution2627
 ---
 
 ### Description
 
-A2000 Solutions Pte Ltd
+CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 24719 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-21400
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.a2000erp.com 
-Contact Hotline: 67202000 
-Contact Email: info@a2000.net 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 97508889 <br>Contact Email: cpsales@commercepromote.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 201402872W
+title: QuickBooks Online - DigiAcc Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2543
 ---
 
 ### Description
 
-Network Box (Sin) Pte Ltd
+QuickBooks is #1 rated globally and best-selling small business accounting software. It has everything you need to save you time and keep you organized. QuickBooks is designed for those who are unfamiliar with accounting or bookkeeping. Simply enter your sales and expenses, and QuickBooks will do the rest. In a few clicks you can create invoices, estimates, statements, expense reports, and more. Keep all of your accounting data organized and at your fingertips with QuickBooks.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 1128 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6441
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.network-box.sg 
-Contact Hotline: 63395900 
-Contact Email: enquiry@network-box.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://quickbooks.intuit.com/sg <br>Contact Hotline: 68449633 <br>Contact Email: info@inbiz-solutions.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 199905781M
+title: Qoqolo School Management System Version 4 - 4-in-1 Modules + Private Label
 permalink: /productivity-solutions-grant/solutionrepo/solution2430
 ---
 
 ### Description
 
-CommonTown Pte Ltd
+Qoqolo is a one-stop-shop preschool management system for centres to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: student management, parents' engagement, e-portfolio, centre operations management, staff management, fee management, learning and more.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 9888 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5488
+Subscription or Leasing
 
 ### Support Level
-Up to  - Add up to 10 centres for each application.
-
-- Subject to internal funding caps. for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Web URL: www.commontown.com 
-Contact Hotline: 68488900 
-Contact Email: biz@commontown.com 
+ - Add up to 10 centres for each application.
 
+- Subject to internal funding caps.
 
 ### Contact Information
-N.A.
+Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

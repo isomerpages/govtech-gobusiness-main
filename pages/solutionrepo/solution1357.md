@@ -1,19 +1,15 @@
 ---
-title: 201836351D
+title: Autocount Accounting Software Version 2.0-Professional Version 2.0 (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1357
 ---
 
 ### Description
 
-I SOFT BUSINESS SOLUTIONS PTE LTD
+Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledged of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 8500 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-16800
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD 
-Web URL: http://isoft.my/products 
-Contact Hotline: 68179011 
-Contact Email: isoft.bs@gmail.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

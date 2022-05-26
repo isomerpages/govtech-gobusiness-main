@@ -1,19 +1,18 @@
 ---
-title: 200617554M
+title: Ozonised Air + Surface Sterilization System
 permalink: /productivity-solutions-grant/solutionrepo/solution2521
 ---
 
 ### Description
 
-OOM PTE LTD
+An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation. The equipment can be in portable form, permanently installed units or distributed systems.
+
+Cost of equipment capped at $10,000 per unit 
+
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 10000 
 
 ### Eligibility Criteria
 
@@ -28,17 +27,23 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.oom.com.sg/ 
-Contact Hotline: 63910930 
-Contact Email: support@oom.com.sg 
+Equipment must meet the following:
+
+Generate active oxygen at an output between 20mg - 1g/hr
+
+Emit negative ion at more than 2 million/cm3
+
+Area coverage at least 36.5 m2
+
+Effective sterilisation & reduce bacteria count by 90%
+
 
 
 ### Contact Information

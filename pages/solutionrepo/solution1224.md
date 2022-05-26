@@ -1,19 +1,17 @@
 ---
-title: 201002583D
+title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module)
 permalink: /productivity-solutions-grant/solutionrepo/solution1224
 ---
 
 ### Description
 
-Edgeworks Solutions Pte Ltd
+EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
+The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
+With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 7858 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10858
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Edgeworks Solutions Pte Ltd 
-Web URL: www.edgeworks.com.sg 
-Contact Hotline: 67504498 
-Contact Email: sales@edgeworks.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

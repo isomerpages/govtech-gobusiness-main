@@ -1,19 +1,15 @@
 ---
-title: 201614842W
+title: OpenCart E-Commerce Website Deployment - eCommerce Revamp
 permalink: /productivity-solutions-grant/solutionrepo/solution1447
 ---
 
 ### Description
 
-Octopus Retail Management Pte Ltd
+OpenCart is the world's top three open source e-commerce software. It has everything needed to create, scale and run a business. Equotix is OpenCart's sole partner based in Singapore. Equotix assist companies in customising and deploying their own OpenCart e-commerce website on the cloud. It is simple to use and cost friendly to businesses.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 10000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-7784
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://octopuspos.com/ 
-Contact Hotline: 62216601 
-Contact Email: solutions@octopuspos.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Contact Email: contact@equotix.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

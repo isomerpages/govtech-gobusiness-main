@@ -1,19 +1,15 @@
 ---
-title: 201611466Z
+title: Stendard Solution  Version 1.6.1 - Starter
 permalink: /productivity-solutions-grant/solutionrepo/solution1004
 ---
 
 ### Description
 
-YNL 360 Pte Ltd
+Stendard Solution  is a cloud-based document management system that allows you to easily store, maintain, review and sign-off documents electronically. Published documents are automatically maintained with version controlling, enabling access to the latest version of documents at all time. With our workflow module, you can easily create, customise and simply tailor a fool-proof to-do list for your teams and everyone involved in any project. We put quality at the centre of your business.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 7000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-34000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:YNL 360 Pte Ltd 
-Web URL: www.stendard.io/features 
-Contact Hotline: 87671969 
-Contact Email: contact@stendard.io 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

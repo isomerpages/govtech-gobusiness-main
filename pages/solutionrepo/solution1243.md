@@ -1,19 +1,15 @@
 ---
-title: 200908223H
+title: Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Amber)
 permalink: /productivity-solutions-grant/solutionrepo/solution1243
 ---
 
 ### Description
 
-Verz Design Pte Ltd
+Verz Design is one of the key and leading players when it comes to providing Magento/WooCommerce eCommerce solutions. Magento/WooCommerce offers a comprehensive backend with customisable plug-ins for your business. Highly suitable for companies with complex operations, Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 8000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VerzDesign_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-10000
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name:Verz Design Pte Ltd 
-Web URL: https://www.verzdesign.com/our-services 
-Contact Hotline: 68411680 
-Contact Email: enquiry@verzdesign.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

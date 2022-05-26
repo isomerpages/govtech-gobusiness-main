@@ -1,19 +1,15 @@
 ---
-title: 201701817K
+title: AIO CRM - AIO CRM 
 permalink: /productivity-solutions-grant/solutionrepo/solution2460
 ---
 
 ### Description
 
-Corsiva Lab Pte Ltd
+AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 11000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-6600
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.corsivalab.com 
-Contact Hotline: +6581127835 
-Contact Email: contact@corsivalab.com 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.aio-interactive.com <br>Contact Hotline: 96796966 <br>Contact Email: sales@aio-interactive.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

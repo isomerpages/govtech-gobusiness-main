@@ -1,19 +1,17 @@
 ---
-title: 201009353K
+title: Automatic Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1474
 ---
 
 ### Description
 
-AxiomSL Pte Ltd
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+
+Cost of equipment capped at $4,000 per unit 
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
- 4000 
 
 ### Eligibility Criteria
 
@@ -28,18 +26,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-304000
+Direct Purchase
 
 ### Support Level
-Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200.  for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Company Name: AxiomSL Pte Ltd
-Web URL:www.axiomsl.com
-Contact Hotline: 69557660
-Contact Email: sdatta@axiomsl.com
+- Min. spreading force of 140 KN
+- Must be certified intrinsically safe (e.g. ATEX certified)
+
+- 1 battery pack or power unit per equipment can be supported
+- Training costs can be supported
+
 
 
 ### Contact Information

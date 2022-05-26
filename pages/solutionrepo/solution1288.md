@@ -1,19 +1,22 @@
 ---
-title: 200100439R
+title: Digital Welding Equipment 
 permalink: /productivity-solutions-grant/solutionrepo/solution1288
 ---
 
 ### Description
 
-PEOPLE CENTRAL PTE LTD
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
+
+Cost of equipment  capped at $37,500 per unit
 
 ### Details of Solution
 
 N.A.
-
-### Sector Specialisation
-
-37500
 
 ### Eligibility Criteria
 
@@ -28,18 +31,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-$10,000.00
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
+Consists of digital welding machines (hardware) and management software
+Current adjusting range: minimally +/- 150A
+Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
 
-Web URL: www.peoplecentral.co 
-Contact Hotline: 68372336 
-Contact Email: business@peoplecentral.co
 
 
 ### Contact Information

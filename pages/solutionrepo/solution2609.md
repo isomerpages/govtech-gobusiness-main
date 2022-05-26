@@ -1,19 +1,15 @@
 ---
-title: 200801162R
+title: MMS - Xero Accounting Solution - B - Xero Premium Training Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2609
 ---
 
 ### Description
 
-METROPOLITAN MANAGEMENT SERVICES PTE. LTD.
+At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 2020 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3320
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: https://www.xero.com/sg/?escape=true 
-Contact Hotline: 63093800 
-Contact Email: ACCOUNTS@METROCORP.COM.SG 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.xero.com/sg/?escape=true <br>Contact Hotline: 63093800 <br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

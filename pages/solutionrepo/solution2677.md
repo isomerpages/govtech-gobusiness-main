@@ -1,19 +1,15 @@
 ---
-title: 200603587Z
+title: JustLogin HR E-Scheduling - D (Up to 125 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2677
 ---
 
 ### Description
 
-Rockbell International Software Pte Ltd
+JustLogin is an Employee First Human Resource (HR) cloud platform that provides innovative technologies for businesses to manage their people operations. JustLogin HR E-Scheduling allows tracking of employee attendance and roster scheduling, and is seamlessly integrated with Payroll and Leave software. The package includes SafeClock, an all-in-one employee attendance tracker, contactless temperature scanner, automated SafeEntry, visitor management and door access solution device.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 13500 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-5399
+Subscription or Leasing
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.rockbell.sg 
-Contact Hotline: 64697720 
-Contact Email: sales@rockbell.com.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://justlogin.com <br>Contact Hotline: 69099217 <br>Contact Email: info@justlogin.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,15 @@
 ---
-title: 201310568H
+title: SmartCursors Human Resource Management System (HRMS) - Bronze (up to 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2391
 ---
 
 ### Description
 
-SMARTCURSORS PTE. LTD.
+HRMS software assists an organization's human resources department by automating manual tasks, keeping employee information organized, and creating data-driven reports. HRMS software can also serve employees and managers within an organization, assisting with tasks like time tracking, updating employee directories, and performance management.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 3000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-16600
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: WWW.SMARTCURSORS.COM 
-Contact Hotline: 63365500 
-Contact Email: CONTACT@SMARTCURSORS.COM 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: WWW.SMARTCURSORS.COM <br>Contact Hotline: 63365500 <br>Contact Email: CONTACT@SMARTCURSORS.COM <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

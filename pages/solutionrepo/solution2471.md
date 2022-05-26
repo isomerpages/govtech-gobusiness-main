@@ -1,19 +1,15 @@
 ---
-title: 201727485N
+title: DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Paid Advertising
 permalink: /productivity-solutions-grant/solutionrepo/solution2471
 ---
 
 ### Description
 
-Next Level SG Pte Ltd
+This package by Next Level SG is designed to help SMEs with increasing and accelerating their digital marketing presence. It is geared for companies that want expert help to grow and scale their online branding and sales.
 
 ### Details of Solution
 
-N.A.
-
-### Sector Specialisation
-
- 7000 
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,20 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-9900
+Direct Purchase
 
 ### Support Level
-Up to Additional criteria: 
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Web URL: www.Nextlevel.sg 
-Contact Hotline: 83765715 
-Contact Email: info@nextlevel.sg 
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.Nextlevel.sg <br>Contact Hotline: 83765715 <br>Contact Email: info@nextlevel.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
