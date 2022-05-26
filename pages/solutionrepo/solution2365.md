@@ -1,15 +1,15 @@
 ---
-title: HReasily Online Payroll Version 5 - Package E - 50 Employees
+title: 201410040G
 permalink: /productivity-solutions-grant/solutionrepo/solution2365
 ---
 
 ### Description
 
-HReasily is a cloud-based HR solution that provides end-to-end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.
+BIPO Service Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='361 Degree Consultancy Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-HReasily Online Payroll Version 5 - Package E - 50 Employees
+15500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: www.biposervice.com 
+Contact Hotline: 68130610 
+Contact Email: hello@biposervice.com 
+
 
 ### Contact Information
-4600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

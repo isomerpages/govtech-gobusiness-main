@@ -1,15 +1,15 @@
 ---
-title: TimeCentral Version 11 - TimeCentral 50
+title: 200100439R
 permalink: /productivity-solutions-grant/solutionrepo/solution1662
 ---
 
 ### Description
 
-TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+PEOPLE CENTRAL PTE LTD
 
 ### Details of Solution
 
-Click <a href='PEOPLE CENTRAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-TimeCentral Version 11 - TimeCentral 50
+16000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource E-scheduling System
+Web URL: www.timecentral.co
+Contact Hotline: 68372336
+Contact Email: business@peoplecentral.co 
+
 
 ### Contact Information
-5000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

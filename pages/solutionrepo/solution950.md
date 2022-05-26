@@ -1,16 +1,15 @@
 ---
-title: WhyzeHR Workforce Management System Version 12 - Package D (50 Standard Package)
+title: 201224387N
 permalink: /productivity-solutions-grant/solutionrepo/solution950
 ---
 
 ### Description
 
-Companies in wholesale sector used our fully web based system to manage all the movement of their staffs from office, warehouse to delivery of the goods to their distributors / retailers. They planned schedules of their staff using our system, check the attendance of each staff and their respective locations. Their employees' working hours, OT and attendance allowances will be sent over to payroll for payroll computation, assisting them to analyse on the full labour costing reports.
-
+WINAPP SOLUTIONS PTE LTD
 
 ### Details of Solution
 
-Click <a href='Whyze Solutions Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WhyzeHR Workforce Management System Version 12 - Package D (50 Standard Package)
+12580
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Workforce Management
+Company Name:WINAPP SOLUTIONS PTE LTD 
+Web URL: WWW.WINAPP.COM.SG 
+Contact Hotline: 98593960 
+Contact Email: ARAFA@WINAPP.COM.SG 
+
 
 ### Contact Information
-9850
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

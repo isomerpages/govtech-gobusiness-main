@@ -1,15 +1,15 @@
 ---
-title: 3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)
+title: 201407340G
 permalink: /productivity-solutions-grant/solutionrepo/solution1392
 ---
 
 ### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
+Cynopsis Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='3D BRAND AGENCY PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)
+2488
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.cynopsis.co 
+Contact Hotline: 68162740 
+Contact Email: sales@cynopsis.co 
+
 
 ### Contact Information
-12000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

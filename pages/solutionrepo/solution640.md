@@ -1,15 +1,15 @@
 ---
-title: Netiquette Cloud Business Suite - Package A (Saas for 5 Users)
+title: 200706402C
 permalink: /productivity-solutions-grant/solutionrepo/solution640
 ---
 
 ### Description
 
-Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
+Netiquette Software
 
 ### Details of Solution
 
-Click <a href='Netiquette Software' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Netiquette Cloud Business Suite - Package A (Saas for 5 Users)
+6340
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Netiquette Software Pte Ltd
+www.netiquette.com.sg
+Email: enquiry@netiquette.com.sg
+Tel: +65 6223 1157
 
 ### Contact Information
-4340
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: One-Stop Document Access - Lite (2 Users)
+title: 200408845E
 permalink: /productivity-solutions-grant/solutionrepo/solution1968
 ---
 
 ### Description
 
-One-Stop Document Access is a document management system that offers browser and mobile access. The solution is crafted with Prominds' expertise in systems integration at the forefront. It boasts the following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-data tags allowing quick retrieval of documents. Backed up to a secure cloud platform and ready to deploy, SMEs can look forward to an all-rounded solution.
+PROMINDS PTE LTD
 
 ### Details of Solution
 
-Click <a href='PROMINDS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-One-Stop Document Access - Lite (2 Users)
+10152
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management and Mobile Access System
+Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess
+Contact Hotline: 64418406 
+Contact Email: info@prominds.com.sg 
+
 
 ### Contact Information
-3336
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

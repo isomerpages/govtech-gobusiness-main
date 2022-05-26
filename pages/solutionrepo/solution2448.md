@@ -1,15 +1,15 @@
 ---
-title: Taidii SMART IT Solution for Preschool - Taidii School Management Smart  IT Solution (Basic)
+title: 201304337W
 permalink: /productivity-solutions-grant/solutionrepo/solution2448
 ---
 
 ### Description
 
-Taidii SMART integrated preschool management system provides innovation solutions to streamline administrative process and foster better preschool services as its key services. Taidii helps to automate various tasks and stores data using a secured cloud based platform for easy access. Taidii hopes to bring greater efficiency and convenience to preschool management and ultimately, higher quality childcare for the young generation.
+Taidii Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Taidii Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Taidii SMART IT Solution for Preschool - Taidii School Management Smart  IT Solution (Basic)
+9900
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Pre-School Management System
+Web URL: https://www.taidii.com/en/product 
+Contact Hotline: 66357641 
+Contact Email: service@taidii.com 
+
 
 ### Contact Information
-4100
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

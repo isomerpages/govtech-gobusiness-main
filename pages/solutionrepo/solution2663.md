@@ -1,15 +1,15 @@
 ---
-title: Simplify Version 1 - Simplify - Standard (50 users)
+title: 201612131Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2663
 ---
 
 ### Description
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+Noid Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Noid Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Simplify Version 1 - Simplify - Standard (50 users)
+32300
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Web URL: simplify.asia 
+Contact Hotline: 67344430 
+Contact Email: hello@noid.com.sg 
+
 
 ### Contact Information
-27500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

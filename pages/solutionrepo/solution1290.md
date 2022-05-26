@@ -1,15 +1,15 @@
 ---
-title: PEOPLECENTRAL HRMS Version 11 - Professional 100
+title: 200100439R
 permalink: /productivity-solutions-grant/solutionrepo/solution1290
 ---
 
 ### Description
 
-PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
+PEOPLE CENTRAL PTE LTD
 
 ### Details of Solution
 
-Click <a href='PEOPLE CENTRAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-PEOPLECENTRAL HRMS Version 11 - Professional 100
+20000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+
+Web URL: www.peoplecentral.co 
+Contact Hotline: 68372336 
+Contact Email: business@peoplecentral.co
+
 
 ### Contact Information
-$10,000.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

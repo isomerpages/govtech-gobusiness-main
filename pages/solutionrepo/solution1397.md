@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version SAAS-Small Business
+title: 201608167D
 permalink: /productivity-solutions-grant/solutionrepo/solution1397
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for: Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
+Illum (9) Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Illum (9) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central Version SAAS-Small Business
+20270
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Web URL: www.9itgroup.com 
+Contact Hotline: 62918020 
+Contact Email: sales@9itgroup.com 
+
 
 ### Contact Information
-25750
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: HAVENCE Version 4 - HAVSMART ENRICHED
+title: T14LL1727F
 permalink: /productivity-solutions-grant/solutionrepo/solution2439
 ---
 
 ### Description
 
-A complete end-to-end software system tailor-made for centres where there are students/customers obtaining centre day services (e.g. preschools, tuition/enrichment centres and services/care centres). It consists of support hardware, a web portal and mobile applications for customers, managers and staff.
+HAVENCE PORTAL LLP
 
 ### Details of Solution
 
-Click <a href='HAVENCE PORTAL LLP' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-HAVENCE Version 4 - HAVSMART ENRICHED
+12660
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Pre-School Management System
+Web URL: WWW.HAVENCE.COM.SG 
+Contact Hotline: 90067620 
+Contact Email: ENQUIRIES@HAVENCE.COM.SG 
+
 
 ### Contact Information
-10620
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: CSG - Matterport Pro2 3D Solution - Matterport Business
+title: 201332959N
 permalink: /productivity-solutions-grant/solutionrepo/solution2882
 ---
 
 ### Description
 
-The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
+Oak Consulting Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='CSG Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-CSG - Matterport Pro2 3D Solution - Matterport Business
+5000
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Web URL: www.oakconsulting.com.sg/ECDA-analytics-solutions 
+Contact Hotline: 67444792 
+Contact Email: sales@oakconsulting.com.sg 
+
 
 ### Contact Information
-30652
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

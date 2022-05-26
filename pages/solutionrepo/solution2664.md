@@ -1,15 +1,15 @@
 ---
-title: Simplify Version 1 - Simplify - Standard Plus (50 users)
+title: 201427894D
 permalink: /productivity-solutions-grant/solutionrepo/solution2664
 ---
 
 ### Description
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+ACE BUSINESS PTE LTD
 
 ### Details of Solution
 
-Click <a href='Noid Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Simplify Version 1 - Simplify - Standard Plus (50 users)
+725
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Web URL: https://www.acebizservices.com/it-software 
+Contact Hotline: 62620402 
+Contact Email: CARE@ACEBIZSERVICES.COM 
+
 
 ### Contact Information
-33500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

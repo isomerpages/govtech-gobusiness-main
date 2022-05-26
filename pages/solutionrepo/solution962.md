@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central for Wholesale - Package C (7 On-Cloud Licenses) with  PEPPOL e-invoicing
+title: 200910491M
 permalink: /productivity-solutions-grant/solutionrepo/solution962
 ---
 
 ### Description
 
-An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
+Xintesys Consultancy Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Winspire Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central for Wholesale - Package C (7 On-Cloud Licenses) with  PEPPOL e-invoicing
+13200
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enterprise Resource Planning (ERP) Software for Wholesale
+Xintesys Consultancy Pte Ltd
+www.xintesys.com
+Email: solutions@xintesys.com
+Tel: +65 9011 5595
 
 ### Contact Information
-43348.8
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

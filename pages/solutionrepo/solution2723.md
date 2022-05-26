@@ -1,15 +1,15 @@
 ---
-title: BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory + CRM
+title: 198701334E
 permalink: /productivity-solutions-grant/solutionrepo/solution2723
 ---
 
 ### Description
 
-CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store ordering system for F&B businesses.  This solution will enable F&B businesses to streamline their operations and reduce their queue time. The API is in place to make it possible to further integrate and synchronize to solutions like Point-of-sale system ,HR, CRM and Accounting software without the hassle of manual data entry
+Integrated Software Engineering Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Coobiz IT Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory + CRM
+21400
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Web URL: www.infomaster.com.sg 
+Contact Hotline: 67475665 
+Contact Email: sales@ise.com.sg 
+
 
 ### Contact Information
-13580
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+title: 201543300G
 permalink: /productivity-solutions-grant/solutionrepo/solution1731
 ---
 
 ### Description
 
-EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
+CHIMERIC TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='EON Consulting & Training Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,15 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+26400
 
 ### Support Level
-Up to All Sectors for SMEs <br>
-Up to Consultancy for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Job Redesign Consultancy
+Web URL: www.smart-dorm.com 
+Contact Hotline: 62531108 
+Contact Email: support@chimeric.sg 
+
 
 ### Contact Information
+N.A.
 
-
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

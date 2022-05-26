@@ -1,15 +1,15 @@
 ---
-title: InSight QSE - Insight QSE Safety PTW System (Starter)
+title: 201114849R
 permalink: /productivity-solutions-grant/solutionrepo/solution274
 ---
 
 ### Description
 
-Insight QSE Safety PTW System alleviates the current paper-based method of routing PTWs for approvals which is time-consuming and an administrative headache to store all paper-based PTWs properly for accountability and checks. The System will help to establish Control, Coordination and Communication for PTW applications among the participating stakeholders through both web and mobile application.
+Capps Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Capps Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-InSight QSE - Insight QSE Safety PTW System (Starter)
+28800
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-e-Permit-to-work (e-PTW)
+Capps Solutions Pte Ltd
+www.capps.com.sg
+Email: contact@capps.com.sg
+Tel: +65 6509 0309
 
 ### Contact Information
-18800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

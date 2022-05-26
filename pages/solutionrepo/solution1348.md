@@ -1,15 +1,15 @@
 ---
-title: SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)
+title: 200604587R
 permalink: /productivity-solutions-grant/solutionrepo/solution1348
 ---
 
 ### Description
 
-Administrator manage the company's HR requirements, payroll, schedule, Leave and Appraisal. Staff can go online to apply leave, submit claims and view their documents online. Appraisal system allows managers to quick appraise their staff online. Work Schedule module allows management to better manage and plan their manpower and monitor attendance of their staff real time. Update and complies to regulatory requirements.
+AVELOGIC PTE LTD
 
 ### Details of Solution
 
-Click <a href='AVELOGIC PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)
+16200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Company Name:AVELOGIC PTE LTD 
+Web URL: www.avelogic.com 
+Contact Hotline: 63671128 
+Contact Email: sales@avelogic.com 
+
 
 ### Contact Information
-8000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

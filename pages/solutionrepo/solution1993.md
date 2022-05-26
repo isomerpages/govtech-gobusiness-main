@@ -1,15 +1,15 @@
 ---
-title: ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access
+title: 201309175Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1993
 ---
 
 ### Description
 
-Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. ABSS is an accounting software to help businesses process sales and purchases, track receivables, payables and GST, email quotes and invoices and more.
+Axxis Consulting (S) Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Accounting Consultancy Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access
+31260
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Web URL: https://axxis-consulting.com/sap-business-one/ 
+Contact Hotline: +6567497069 
+Contact Email: info@axxis-consulting.com 
+
 
 ### Contact Information
-5945
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

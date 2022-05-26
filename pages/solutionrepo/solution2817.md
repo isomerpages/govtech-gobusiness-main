@@ -1,15 +1,15 @@
 ---
-title: Payboy HRMS - Package B (45 Employees)
+title: 201333659G
 permalink: /productivity-solutions-grant/solutionrepo/solution2817
 ---
 
 ### Description
 
-Payboy is a Payroll and HR Management Software which automates the essential HR processes such as benefits, leaves, and attendance, so that businesses can focus on bringing out the best in their people.
+Payboy Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Payboy Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Payboy HRMS - Package B (45 Employees)
+20000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: https://payboy.biz 
+Contact Hotline: 91876425 
+Contact Email: nigel.lim@payboy.biz 
+
 
 ### Contact Information
-10200
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

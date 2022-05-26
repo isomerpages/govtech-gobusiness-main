@@ -1,15 +1,15 @@
 ---
-title: Haulio Community System Version 2.0-5 Trucks
+title: 201634944K
 permalink: /productivity-solutions-grant/solutionrepo/solution1431
 ---
 
 ### Description
 
-Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
+Haulio Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Haulio Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Haulio Community System Version 2.0-5 Trucks
+$31,940.00
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Transport Management
+Company Name:Haulio Pte Ltd 
+Web URL: www.haulio.io 
+Contact Hotline: 85082327 
+Contact Email: hello@haulio.io 
+
 
 ### Contact Information
-$8,585.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

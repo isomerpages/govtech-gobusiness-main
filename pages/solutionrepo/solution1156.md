@@ -1,15 +1,15 @@
 ---
-title: Novade - Package 5 Novade Safety (3 Projects, up to 1 year)
+title: 201333490K
 permalink: /productivity-solutions-grant/solutionrepo/solution1156
 ---
 
 ### Description
 
-Novade provides an enterprise platform for site operations. Novade leverages mobile technology to streamline site processes, facilitate collaboration and improve productivity. The data captured provides insights to improve operations.
+Abundant Accounting Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='CSG Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Novade - Package 5: Novade Safety (3 Projects, up to 1 year)
+3600
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-e-Permit-to-work (e-PTW)
+Company Name:Abundant Accounting Pte Ltd  
+Web URL: www.aba.com.sg 
+Contact Hotline: 90181833 
+Contact Email: sales@aba.com.sg 
+
 
 ### Contact Information
-36500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

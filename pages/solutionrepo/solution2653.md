@@ -1,15 +1,15 @@
 ---
-title: Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services
+title: 199201624D
 permalink: /productivity-solutions-grant/solutionrepo/solution2653
 ---
 
 ### Description
 
-Singtel Unified Threat Management (UTM) is a network perimeter security offering an effective information security program. Singtel UTM is a fully managed, automated threat management service that uses technologies designed to detect rogue devices and internal vulnerabilities. Businesses can expect to enjoy round-the-clock security coverage from experienced security experts and ensures that security policies offer maximum protection against threats you don't even know about.
+Singapore Telecommunications Limited
 
 ### Details of Solution
 
-Click <a href='Singapore Telecommunications Limited' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services
+11644
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: g-segmentict@singtel.com 
+Contact Hotline: 68385510 
+Contact Email: g-segmentict@singtel.com 
+
 
 ### Contact Information
-5817
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

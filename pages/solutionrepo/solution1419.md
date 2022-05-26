@@ -1,15 +1,15 @@
 ---
-title: Freight Master Version 8.1 (18 Licenses)
+title: 201209520R
 permalink: /productivity-solutions-grant/solutionrepo/solution1419
 ---
 
 ### Description
 
-The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of four core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low cost solution, thereby providing a more level playing field for the SMEs.
+SIMPLR SOLUTIONS PTE LTD
 
 ### Details of Solution
 
-Click <a href='Innosys Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Freight Master Version 8.1 (18 Licenses)
+40000
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Freight Management
+Web URL: https://simplr.net/solutions/ 
+Contact Hotline: 93801127 
+Contact Email: ram@simplr.net 
+
 
 ### Contact Information
-30160
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

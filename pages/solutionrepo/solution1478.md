@@ -1,11 +1,11 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4 - Package (Custom Data Loading)
+title: 200003956G
 permalink: /productivity-solutions-grant/solutionrepo/solution1478
 ---
 
 ### Description
 
-AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+KPMG Services Pte Ltd
 
 ### Details of Solution
 
@@ -28,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AxiomSL MAS 610 SaaS version 4 - Package (Custom Data Loading)
+830000
 
 ### Support Level
-Up to Banks for SMEs <br>
-Up to IT Solution  for non-SMEs
+Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200.  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Regulatory Reporting for Banks
+Company Name:KPMG Services Pte Ltd
+Web URL:Home.kpmg.com/sg/en/home.html
+Contact Hotline: 62133388
+Contact Email: grace_tan@kpmg.com.sg
+
 
 ### Contact Information
 N.A.

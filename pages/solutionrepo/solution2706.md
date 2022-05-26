@@ -1,15 +1,15 @@
 ---
-title: WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)
+title: 201309957M
 permalink: /productivity-solutions-grant/solutionrepo/solution2706
 ---
 
 ### Description
 
-The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
+Rah Tech Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Quality Zone Technologies Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)
+3600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Web URL: www.rahtech.com 
+Contact Hotline: 8766 5066
+Contact Email: PSG@RAHTECH.COM
+
 
 ### Contact Information
-9000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

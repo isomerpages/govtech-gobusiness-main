@@ -1,15 +1,15 @@
 ---
-title: eBIS Version V1.0- 	eBIS (Super Advanced Package -4 Projects)
+title: 201916534G
 permalink: /productivity-solutions-grant/solutionrepo/solution2296
 ---
 
 ### Description
 
-It's a powerful Mobile Application designed for Building and Construction industry. The Mobile Apps is built to replace pen and paper method of site inspections, site recording, follow-up, issues tracking, and reporting including e-Permit to Work (e-PTW) that makes it easy for everyone throughout the process of construction, hence ultimately transform the industry towards adopting Digital Technology, thereby skyrocket team's productivity.
+Really Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='NEWGENE TECHNOLOGIES PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-eBIS Version V1.0- 	eBIS (Super Advanced Package -4 Projects)
+12960
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Integrated and Smart Worksite Monitoring and Inspection
+Web URL: https://www.really.sg/project-management-features/ 
+Contact Hotline: 69507563 
+Contact Email: info@really.sg 
+
 
 ### Contact Information
-61900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Advocado Cloud Loyalty CRM Software - Package (Standard)
+title: 201613142Z
 permalink: /productivity-solutions-grant/solutionrepo/solution111
 ---
 
 ### Description
 
-Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
+Advocado Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Advocado Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Advocado Cloud Loyalty CRM Software - Package (Standard)
+9400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Advocado Pte Ltd
+https://www.advocadoapp.com
+Email: hello@advocado.me
+Tel: +65 6444 9556
 
 ### Contact Information
-5500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

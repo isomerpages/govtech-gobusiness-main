@@ -1,15 +1,15 @@
 ---
-title: SYSFREIGHT Version 8 - Standard 9 User
+title: 200103109D
 permalink: /productivity-solutions-grant/solutionrepo/solution1523
 ---
 
 ### Description
 
-SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences). It aims to computerize and optimizes the operation and management by using of the latest technologies and complemented by our professional services.
+SYSMAGIC SOFTWARE SOLUTION PTE LTD
 
 ### Details of Solution
 
-Click <a href='SYSMAGIC SOFTWARE SOLUTION PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SYSFREIGHT Version 8 - Standard 9 User
+39000
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Freight Management
+Web URL: www.sysfreight.com 
+Contact Hotline: 91097978 
+Contact Email: lina@sysfreight.com 
+
 
 ### Contact Information
-29840
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

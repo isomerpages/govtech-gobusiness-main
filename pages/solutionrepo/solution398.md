@@ -1,16 +1,15 @@
 ---
-title: FacilityBot - Mid-Sized Facilities
+title: 201938906W
 permalink: /productivity-solutions-grant/solutionrepo/solution398
 ---
 
 ### Description
 
-FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
-
+FacilityBot Pte Ltd
 
 ### Details of Solution
 
-Click <a href='FacilityBot Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-FacilityBot - Mid-Sized Facilities
+37500
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Company Name:FacilityBot Pte Ltd 
+Web URL: facilitybot.co 
+Contact Hotline: 97480484 
+Contact Email: sales@facilitybot.co 
+
 
 ### Contact Information
-6000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

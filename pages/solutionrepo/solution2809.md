@@ -1,15 +1,15 @@
 ---
-title: Cybots AMDR - Standard Package Solution-4
+title: 201228495E
 permalink: /productivity-solutions-grant/solutionrepo/solution2809
 ---
 
 ### Description
 
-Cybots ensures cyber resilience for all sectors, from SMEs to large multinational organisations. Our AI-driven security operations include managed detection and response (MDR), threat hunting, cyber threat intelligence (CTI), and incidence response (IR). Powered by deep learning, adversarial and reinforced learning, our company's proprietary artificial intelligence engines enables our customers and partners to rapidly perform security threat analysis on a scalable, user-friendly platform.
+Gabkotech Innovations Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Cybots Pte. Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Cybots AMDR - Standard Package Solution-4
+22500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Managed Detection and Response
+Web URL: http://www.gabkotech.com 
+Contact Hotline: 66844419 
+Contact Email: info@gabkotech.com 
+
 
 ### Contact Information
-30500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

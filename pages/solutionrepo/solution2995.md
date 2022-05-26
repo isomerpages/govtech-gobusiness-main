@@ -1,15 +1,15 @@
 ---
-title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
+title: 199905895D
 permalink: /productivity-solutions-grant/solutionrepo/solution2995
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+MEVO Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Epoint Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EPOINT Version 9 - eKiosk - Advance
+12300
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT SOLUTION for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Web URL: www.mevo.com.sg 
+Contact Hotline: 67739048 
+Contact Email: enquiries@mevo.com.sg 
+
 
 ### Contact Information
-11800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

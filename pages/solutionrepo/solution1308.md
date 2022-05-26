@@ -1,15 +1,15 @@
 ---
-title: Vehicle Support System - Vehicle Support System (18 Vehicles Package)
+title: 201400612Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1308
 ---
 
 ### Description
 
-VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning system for Vehicle Tracking System that stream live location with video and much more. Video cameras installed on 2 sides of the vehicle, the system is able to monitor and record the vehicle front and back in a real-time basis. Providing an enhanced visibility for blind spot in accident prevention. Video footage and GPS data is stored on MDVR/Cloud based for ease of viewing, retrieving and playback.
+Ingenique Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='GRID PLUS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Vehicle Support System - Vehicle Support System (18 Vehicles Package)
+500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Company Name:Ingenique Solutions Pte Ltd 
+Web URL: https://www.ingenique.net/sentroweb-djx/ 
+Contact Hotline: 97374694 
+Contact Email: martin.lim@ingenique.net 
+
 
 ### Contact Information
-36100
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

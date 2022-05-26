@@ -1,15 +1,15 @@
 ---
-title: Netpluz Managed Firewall  -  Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months
+title: 201606824H
 permalink: /productivity-solutions-grant/solutionrepo/solution2275
 ---
 
 ### Description
 
-Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+DST Advertising (Singapore) Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Netpluz Asia Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Netpluz Managed Firewall  -  Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months
+6000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Company Name: DST Advertising (Singapore) Pte Ltd
+Web URL: DSTadvertising.com
+Contact Hotline: 8668 5292
+Contact Email: Sales@dstadvertising.com
 
 ### Contact Information
-7774
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)
+title: 200604587R
 permalink: /productivity-solutions-grant/solutionrepo/solution1345
 ---
 
 ### Description
 
-TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media Integration - a unique Cloud-based system that empowers SMEs to manage both new & loyal customers while automating the overall business processes. This business intelligence tool allows businesses to link up their current CRM contact base to social media accounts, streamlining the overall marketing and business management-combining sales, customer relations, and social media handling all into one system.
+AVELOGIC PTE LTD
 
 ### Details of Solution
 
-Click <a href='Active Interactions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)
+10000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Company Name:AVELOGIC PTE LTD 
+Web URL: www.avelogic.com 
+Contact Hotline: 63671128 
+Contact Email: sales@avelogic.com 
+
 
 ### Contact Information
-5800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

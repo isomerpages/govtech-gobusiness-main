@@ -1,15 +1,15 @@
 ---
-title: Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (10 Users)
+title: 200410660N
 permalink: /productivity-solutions-grant/solutionrepo/solution1513
 ---
 
 ### Description
 
-Salesforce is the #1 CRM, bringing companies and customers together in the digital age. It's an integrated CRM platform that gives teams a single, shared view of their customers so they can deliver the intelligent, personalized experiences their customers have come to expect from every brand and build lasting, trusted relationships.
+SALESFORCE.COM SINGAPORE PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='SALESFORCE.COM SINGAPORE PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (10 Users)
+23632.5
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Web URL: https://sfdc.co/smes-go-digital
+Contact Hotline: 800 1301 448
+Contact Email: apacemarketing@salesforce.com
 
 ### Contact Information
-17947
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: XERO CLOUD APPLICATION - Xero Comprehensive Package B (Inclusive of set-up)
+title: 201310568H
 permalink: /productivity-solutions-grant/solutionrepo/solution2489
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
+SMARTCURSORS PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='SMARTCURSORS PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-XERO CLOUD APPLICATION - Xero Comprehensive Package B (Inclusive of set-up)
+3225
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: WWW.SMARTCURSORS.COM 
+Contact Hotline: 63365500 
+Contact Email: CONTACT@SMARTCURSORS.COM 
+
 
 ### Contact Information
-1800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

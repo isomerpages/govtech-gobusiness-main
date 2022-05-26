@@ -1,15 +1,15 @@
 ---
-title: Swingvy-Swingvy - Swingvy Full suite for 25 users
+title: 201635071C
 permalink: /productivity-solutions-grant/solutionrepo/solution1455
 ---
 
 ### Description
 
-Swingvy is the modern HR platform for small and mid-sized businesses. By seamlessly connecting all HR information, Swingvy automates every administrative work - HR, claims, payroll and benefits - without hassle. Swingvy aims to replace paperwork or spreadsheets and help SMEs to manage all their HR in one place. Swingvy serves over 8,000 companies and has offices in Singapore, Kuala Lumpur, Taiwan and Seoul.
+Swingvy Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='Swingvy Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Swingvy-Swingvy - Swingvy Full suite for 25 users
+9600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: http://swingvy.com/ 
+Contact Hotline: +6591877655 
+Contact Email: support@swingvy.com 
+
 
 ### Contact Information
-3000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

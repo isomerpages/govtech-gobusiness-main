@@ -1,15 +1,15 @@
 ---
-title: GenicDocs - Document Management Software - Package C
+title: 201410722E
 permalink: /productivity-solutions-grant/solutionrepo/solution1413
 ---
 
 ### Description
 
-GenicDocs is very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. It is the smart and flexible choice with a user-friendly.
+Business Thrust Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Business Thrust Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-GenicDocs - Document Management Software - Package C
+25000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management and Mobile Access System
+Web URL: https://www.bthrust.com/document-management-software.html
+Contact Hotline: 68343026 
+Contact Email: sales@bthrust.com
+
 
 ### Contact Information
-10000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

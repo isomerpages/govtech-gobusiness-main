@@ -1,15 +1,15 @@
 ---
-title: Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F
+title: 200005376W
 permalink: /productivity-solutions-grant/solutionrepo/solution2759
 ---
 
 ### Description
 
-FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
+Roycemedia Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Roycemedia Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F
+6373
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: www.roycemedia.com/products.html 
+Contact Hotline: 63232139 
+Contact Email: sales@roycemedia.com 
+
 
 ### Contact Information
-4865
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: AdeptForms - Document Management Solution Version 1 - Package E (Up to 25 users - With OCR)
+title: 201708347K
 permalink: /productivity-solutions-grant/solutionrepo/solution2261
 ---
 
 ### Description
 
-Document management is a module to help the users digitize and manage their digital forms or documents via AdeptForms web or mobile application.
+Calvin Seng Co Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Adept Ventures Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AdeptForms - Document Management Solution Version 1 - Package E: (Up to 25 users - With OCR)
+7599
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management and Mobile Access System
+Web URL: https://calvinseng.com 
+Contact Hotline: +6592348807 
+Contact Email: hello@calvinseng.com 
+
 
 ### Contact Information
-25000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

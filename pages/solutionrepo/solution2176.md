@@ -1,15 +1,15 @@
 ---
-title: Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)
+title: 200001459N
 permalink: /productivity-solutions-grant/solutionrepo/solution2176
 ---
 
 ### Description
 
-Powerful & speedy cloud-based digital ordering system, accelerate your business with Popcorn that is specially designed for cafes and restaurants of all sizes. With powerful features to keep your business operations run flawlessly, we can help transform your business like never before!
+LGA Telecom Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Rockbell International Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)
+$5,800.00
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Company Name:LGA Telecom Pte Ltd 
+Web URL: https://www.lgatelecom.net 
+Contact Hotline: 68922308 
+Contact Email: sales@lgatelecom.net 
+
 
 ### Contact Information
-8440
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

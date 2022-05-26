@@ -1,15 +1,15 @@
 ---
-title: Smart Glasses - InnoGlas - SE (2 sets) - Package 1
+title: 201921960R
 permalink: /productivity-solutions-grant/solutionrepo/solution2475
 ---
 
 ### Description
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+Innowave Tech Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Innowave Tech Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Smart Glasses - InnoGlas - SE (2 sets) - Package 1
+18060
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Digital Wearables for Workers' Health and Safety
+Web URL: https://innowave.com.sg/innoglas/ 
+Contact Hotline: 88313613 
+Contact Email: hello@innowave.com.sg 
+
 
 ### Contact Information
-8420
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

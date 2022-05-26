@@ -1,16 +1,15 @@
 ---
-title: BonaERP - Package (For Startups)
+title: 201433500N
 permalink: /productivity-solutions-grant/solutionrepo/solution243
 ---
 
 ### Description
 
-BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.
-Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways.
+Bona Technologies Systems Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Bona Technologies Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BonaERP - Package (For Startups)
+41900
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Company Name:Bona Technologies Systems Pte Ltd 
+Web URL: bona.com.sg 
+Contact Hotline: 90470443 
+Contact Email: it@bona.com.sg 
+
 
 ### Contact Information
-17000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

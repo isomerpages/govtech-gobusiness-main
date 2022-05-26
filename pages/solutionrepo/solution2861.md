@@ -1,16 +1,11 @@
 ---
-title: Robotic arms
+title: 201904063K
 permalink: /productivity-solutions-grant/solutionrepo/solution2861
 ---
 
 ### Description
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
-
-Cost of equipment capped at $37,500 per unit
+Carbonate Pte Ltd
 
 ### Details of Solution
 
@@ -33,14 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Robotic arms
+9600
 
 ### Support Level
-Up to Marine & Offshore for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General M&O Equipment
+Web URL: www.carbonateapp.com 
+Contact Hotline: 66791003 
+Contact Email: info@carbonateapp.com 
+
 
 ### Contact Information
 N.A.

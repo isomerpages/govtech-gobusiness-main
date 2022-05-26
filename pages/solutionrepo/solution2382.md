@@ -1,23 +1,15 @@
 ---
-title: Eminet Sophos XGS Firewall - XG 116
+title: 200615031H
 permalink: /productivity-solutions-grant/solutionrepo/solution2382
 ---
 
 ### Description
 
-Sophos XG Cybersecurity Solution that provides :
-(i) Network Firewall
-(ii) Intrusion Detection/Prevention System
-(iii) Virtual Private Network (VPN)
-(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
-(v) Secure Email Gareway (e.g. anti-spam, content filtering)
-(vi) Anti-Virus/Anti-Malware
-(vii) Application Control
-(viii) Sandboxing
+EMINET PTE LTD
 
 ### Details of Solution
 
-Click <a href='EMINET PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -36,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Eminet Sophos XGS Firewall - XG 116
+3862
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: www.eminet.com.sg 
+Contact Hotline: 66019898 
+Contact Email: charles@eminet.com.sg 
+
 
 ### Contact Information
-1670
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

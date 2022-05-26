@@ -1,15 +1,15 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0  - Express E-Commerce Website Development Package
+title: 201701817K
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
 ### Description
 
-Extend your business online and generate higher sales revenue with our scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
+Corsiva Lab Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Corsiva Lab Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Corsiva Lab - E-Commerce Website Development Version 1.0  - Express E-Commerce Website Development Package
+$10,000.00
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Company Name:Corsiva Lab Pte Ltd 
+Web URL: www.corsivalab.com 
+Contact Hotline: +6581127835 
+Contact Email: contact@corsivalab.com 
+
 
 ### Contact Information
-$6,000.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,15 @@
 ---
-title: Beaufort-Xero Digital Solutions - Package C - Subscription + Set Up + Training (B)
+title: 200900564D
 permalink: /productivity-solutions-grant/solutionrepo/solution2775
 ---
 
 ### Description
 
-Beaufort provides Accounting & Tax Services to SME Businesses & Companies. Beaufort is the Partner Reseller of XERO, a Cloud Accounting Software.
-As Xero Certified Advisors the Xero account will be setup, and depending on the package choice, any customisations as stated. There are packages for Beaufort customised workflow training of best practices for users to do their daily Day-to-Day managing of their accounts. 
-Beaufort's range of 5 packages, allows a wide selection.
+Beaufort Tax Consultants Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Beaufort Tax Consultants Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Beaufort-Xero Digital Solutions - Package C - Subscription + Set Up + Training (B)
+9792.2
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.xero.beaufort.sg/ 
+Contact Hotline: 88229376 
+Contact Email: contact@beaufort.sg 
+
 
 ### Contact Information
-2452
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

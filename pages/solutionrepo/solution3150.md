@@ -1,5 +1,5 @@
 ---
-title: 2. Manage Budgeting and Forecasting Processes for the Business Unit
+title: 2. Adapt to Change - Digitalization for Hawkers
 permalink: /productivity-solutions-grant/solutionrepo/solution3150
 ---
 

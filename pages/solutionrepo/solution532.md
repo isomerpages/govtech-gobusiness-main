@@ -1,15 +1,15 @@
 ---
-title: (SaaS) JustLogin HR Cloud - A (Up to 15 pax)
+title: 200000956W
 permalink: /productivity-solutions-grant/solutionrepo/solution532
 ---
 
 ### Description
 
-For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
+JUSTLOGIN PTE LTD
 
 ### Details of Solution
 
-Click <a href='JUSTLOGIN PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-(SaaS) JustLogin HR Cloud - A (Up to 15 pax)
+19200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+JustLogin Pte Ltd
+https://justlogin.com
+Email: info@justlogin.com
+Contact Hotline: +65 6909 9217
 
 ### Contact Information
-4560
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

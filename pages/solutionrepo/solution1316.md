@@ -1,15 +1,15 @@
 ---
-title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 50 x GR with Cyber Essential Course 1 Year Package
+title: 201214085K
 permalink: /productivity-solutions-grant/solutionrepo/solution1316
 ---
 
 ### Description
 
-The GRmail removes the email threats even before it reaches the email server and GRisolation protects the users, by opening any malicious links in a sandbox so that it does not affect their computers. This solution also detects and filters away Chinese characters emails. Our solution works with all kinds of email platforms - Office 365, Gsuite or Cpanel. We will assist to migrate the domain name and help with the setup of the email security solution on the DNS record level.  
+Nucleo Consulting Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Nucleo Consulting Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WFH Email Security with Cyber Essentials Online Course Package Version 1 - 50 x GR with Cyber Essential Course 1 Year Package
+25597.5
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Managed Detection and Response
+Company Name:Nucleo Consulting Pte Ltd 
+Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection 
+Contact Hotline: 69110533 
+Contact Email: contact@nucleoconsulting.com 
+
 
 ### Contact Information
-10950
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

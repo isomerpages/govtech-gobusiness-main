@@ -1,16 +1,15 @@
 ---
-title: Vodich- Xero Cloud Accounting - Package A - Software Subscription
+title: 200600763K
 permalink: /productivity-solutions-grant/solutionrepo/solution1979
 ---
 
 ### Description
 
-Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. 
-On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
+Vodich Management Services Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Vodich Management Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Vodich- Xero Cloud Accounting - Package A - Software Subscription
+3200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://vodich.com.sg/index.php/cloud-accounting/ 
+Contact Hotline: 67339196 
+Contact Email: sales@vodich.com.sg 
+
 
 ### Contact Information
-700
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

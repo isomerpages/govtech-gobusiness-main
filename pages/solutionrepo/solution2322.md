@@ -1,15 +1,15 @@
 ---
-title: Fleet Management System - Pkg 4 - 8 vehicle
+title: 202013665N
 permalink: /productivity-solutions-grant/solutionrepo/solution2322
 ---
 
 ### Description
 
-Track-Asia's FMS enable fleet owners the capability of tracking their fleet at any point of time with the assistance of software (web/mobile) together with GPS Tracker installed in the vehicle. Our solution is able to provide comprehensive data based on the collected data that is registered into the backend which will allow business owners to analyze & study. Not limiting the software capability for business owner, they can setup their own geo-fencing, scheduling maintenance & servicing.
+Shopline Commerce Pte Ltd
 
 ### Details of Solution
 
-Click <a href='AceCom Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fleet Management System - Pkg 4 - 8 vehicle
+3369
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Web URL: www.shoplineapp.sg 
+Contact Hotline: 93855186 
+Contact Email: support.sg@shoplineapp.com 
+
 
 ### Contact Information
-4144
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

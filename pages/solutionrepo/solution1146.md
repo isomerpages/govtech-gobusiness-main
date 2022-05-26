@@ -1,11 +1,11 @@
 ---
-title: Auto Welding Carriage
+title: 200603587Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1146
 ---
 
 ### Description
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+Rockbell International Software Pte Ltd
 
 ### Details of Solution
 
@@ -28,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Auto Welding Carriage
+4969
 
 ### Support Level
-Up to Marine & Offshore for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General M&O Equipment
+Company Name:Rockbell International Software Pte Ltd 
+Web URL: www.rockbell.sg 
+Contact Hotline: 64697720 
+Contact Email: sales@rockbell.com.sg 
+
 
 ### Contact Information
 N.A.

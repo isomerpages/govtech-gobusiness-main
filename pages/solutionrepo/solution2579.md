@@ -1,19 +1,15 @@
 ---
-title: Zoho Workplace PSG Edition - 25 users
+title: 201930659Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2579
 ---
 
 ### Description
 
-Zoho Workplace by Zoho Corporation.
-
-Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
-
-Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
+ACloud Bookkeeping Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Zoho Corporation Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -32,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Zoho Workplace PSG Edition - 25 users
+471
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management and Mobile Access System
+Web URL: https://www.acloud-b.com/our-price--services.html 
+Contact Hotline: 97942119 
+Contact Email: ACloud.Sales@gmail.com 
+
 
 ### Contact Information
-2394
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  
+title: 201313056K
 permalink: /productivity-solutions-grant/solutionrepo/solution2833
 ---
 
 ### Description
 
-The XGS Firewall Series offers next-generation firewall features that provide visibility and protection across an increasingly complex IT infrastructure. Sophos Firewalls meet the latest threats with a scalable gateway architecture. The Sophos Firewall Xstream architecture is engineered to deliver extreme levels of visibility, protection, and performance to help address some of the greatest challenges facing network administrators.
+Centrics Networks Ptd Ltd 
 
 ### Details of Solution
 
-Click <a href='Centrics Networks Ptd Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  
+8275
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: www.centricsnetworks.com.sg 
+Contact Hotline: 68337898 
+Contact Email: sales@centricsnetworks.com.sg 
+
 
 ### Contact Information
-3809
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

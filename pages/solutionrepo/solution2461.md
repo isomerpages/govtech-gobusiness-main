@@ -1,17 +1,15 @@
 ---
-title: DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]
+title: 201701817K
 permalink: /productivity-solutions-grant/solutionrepo/solution2461
 ---
 
 ### Description
 
-At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
-
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+Corsiva Lab Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Corsiva Lab Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]
+9000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital Marketing Packages
+Web URL: www.corsivalab.com 
+Contact Hotline: +6581127835 
+Contact Email: contact@corsivalab.com 
+
 
 ### Contact Information
-6000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

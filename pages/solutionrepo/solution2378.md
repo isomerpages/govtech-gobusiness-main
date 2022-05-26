@@ -1,15 +1,15 @@
 ---
-title: HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission for SMEs (20 Pax)
+title: 201104002N
 permalink: /productivity-solutions-grant/solutionrepo/solution2378
 ---
 
 ### Description
 
-Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs to digitalize the HR processes such as payroll, leave management, claims, and benefits, etc. With integration to QuickBooks Online and Xero, we can also help SMEs digitalize the sales, accounting, and payroll processes. Our clients can focus on building their business while leaving the hassle of back-end business processes to us.
+Budget Accounts Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Acc Pro (Singapore) Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission for SMEs (20 Pax)
+1510
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
+Web URL: www.budgetaccounts.com.sg 
+Contact Hotline: 97839675 
+Contact Email: lynette@budgetaccounts.com.sg 
+
 
 ### Contact Information
-10680
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

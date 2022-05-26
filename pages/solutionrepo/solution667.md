@@ -1,16 +1,15 @@
 ---
-title: Octopus Food Solution Version 7 - Package A (Single Store Mobile Ordering)
+title: 201614842W
 permalink: /productivity-solutions-grant/solutionrepo/solution667
 ---
 
 ### Description
 
-Octopus Food Solutions provides a complete suites of innovative and easy-to-use food management solutions, designed to help food businesses be smarter and more personal. Our solutions are suited to various verticals within the food industry including quick service counters, seated restaurant, bars and bistros. From small too large multi store operations. We help food business owners run sales and promotions, track inventory, manage operations and engage customers.
-
+Octopus Retail Management Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Octopus Retail Management Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Octopus Food Solution Version 7 - Package A (Single Store Mobile Ordering)
+6598
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 1)
+Octopus Retail Management Pte Ltd
+https://octopuspos.com
+Email: solutions@octopuspos.com
+Tel: +65 6221 6601
 
 ### Contact Information
-4298
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

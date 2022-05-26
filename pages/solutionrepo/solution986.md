@@ -1,15 +1,15 @@
 ---
-title: FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)
+title: 200820049M
 permalink: /productivity-solutions-grant/solutionrepo/solution986
 ---
 
 ### Description
 
-FocusGuard Fleet Management System is designed as the process of controlling, monitoring and tracking all the vehicles. Locate vehicles using detailed maps round the clock. Access the web-based fleet management portal or Mobile App to view real time location and information of the vehicles and generate up-to-date reports.
+FocusGuard Pte Ltd
 
 ### Details of Solution
 
-Click <a href='FocusGuard Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)
+4800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Company Name:FocusGuard Pte Ltd 
+Web URL: www.focusguard.com 
+Contact Hotline: 67666081 
+Contact Email: info@focusguard.sg 
+
 
 ### Contact Information
-3400
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

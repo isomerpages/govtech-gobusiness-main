@@ -1,15 +1,15 @@
 ---
-title: OdooCRM -Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)
+title: 200709074D
 permalink: /productivity-solutions-grant/solutionrepo/solution1082
 ---
 
 ### Description
 
-An intuitive user interface designed for sales. A Dashboard for a better overview of the sales activities. Useful tips and best practices to configure and deploy your CRM and much more. Odoo CRM is part of Odoo, the #1 suite of business applications dedicated to SMEs. The strength of Odoo is its modularity and scalability. Start with CRM to track all your sales pipeline, and as your business grows, add the sales, inventory or the accounting module, all integrated, same data and easy to use.
+Coobiz IT Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Alitec Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-OdooCRM -Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)
+5000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Company Name:Coobiz IT Solutions Pte Ltd 
+Web URL: www.coobizit.com 
+Contact Hotline: +6592709558 
+Contact Email: admin@COOBIZIT.COM 
+
 
 ### Contact Information
-6500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,13 +1,11 @@
 ---
-title: Automatic Flow Wrap Packaging Machine
+title: 201200009H
 permalink: /productivity-solutions-grant/solutionrepo/solution1987
 ---
 
 ### Description
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
-
-Cost of equipment capped at $37,500 per unit
+Accounting Consultancy Pte. Ltd.
 
 ### Details of Solution
 
@@ -30,14 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Automatic Flow Wrap Packaging Machine
+4545
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General Wholesale Trade Equipment
+Web URL: https://accountingconsultancy.com 
+Contact Hotline: 63888378 
+Contact Email: enquiry@accountingconsultancy.com 
+
 
 ### Contact Information
 N.A.

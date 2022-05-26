@@ -1,15 +1,15 @@
 ---
-title: Sage 300 Version 2021 - Peppol Ready- Advance Edition (3 Users)
+title: 198000012M
 permalink: /productivity-solutions-grant/solutionrepo/solution871
 ---
 
 ### Description
 
-Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
+The World Management Pte Ltd
 
 ### Details of Solution
 
-Click <a href='The World Management Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sage 300 Version 2021 - Peppol Ready- Advance Edition (3 Users)
+36027
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name: The World Management Pte Ltd
+Web URL: https://twm.com.sg/
+Contact Hotline: 6741 9198
+Contact Email: sales@twm.com.sg
 
 ### Contact Information
-29093
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

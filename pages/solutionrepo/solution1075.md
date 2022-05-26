@@ -1,15 +1,15 @@
 ---
-title: AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup)
+title: 201529234R
 permalink: /productivity-solutions-grant/solutionrepo/solution1075
 ---
 
 ### Description
 
-Xero is an online accounting software for SMEs, to be able to automate their everyday business tasks, get up-to-date financials and run their business in real-time. As Xero is cloud-based, business owners can access their finances right away from any internet-connected device - phone, tablet, or computer instead of waiting for their accountants to send them the information. Using Xero encompasses increased capabilities, better productivity, ease-of-use and better responsiveness.
+Agere Accounting & Advisory Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Agere Accounting & Advisory Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup)
+2325
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 2)
+Company Name:Agere Accounting & Advisory Pte Ltd 
+Web URL: www.agere-ca.com 
+Contact Hotline: 63850609 
+Contact Email: elainelim@agere-ca.com 
+
 
 ### Contact Information
-1580
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

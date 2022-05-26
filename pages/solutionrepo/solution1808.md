@@ -1,15 +1,15 @@
 ---
-title: Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)
+title: 200312912E
 permalink: /productivity-solutions-grant/solutionrepo/solution1808
 ---
 
 ### Description
 
-Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified Threat Protection (UTP) solution. It provides a fast and secure SD-WAN solution in a compact fanless desktop form factor for enterprise branch offices and mid-sized businesses to protects against cyber threats with system-on-a-chip acceleration and industry-leading secure SD-WAN in a simple, affordable, and easy to deploy solution.
+DATA CONNECT TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='DATA CONNECT TECHNOLOGIES PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)
+2069
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: WWW.D-CONNECT.NET 
+Contact Hotline: 8001014209 
+Contact Email: SALES@D-CONNECT.NET 
+
 
 ### Contact Information
-5582
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

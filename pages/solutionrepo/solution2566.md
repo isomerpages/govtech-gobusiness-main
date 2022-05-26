@@ -1,15 +1,15 @@
 ---
-title: Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)
+title: 201621525K
 permalink: /productivity-solutions-grant/solutionrepo/solution2566
 ---
 
 ### Description
 
-Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
+Alitec Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Sugati Travel CRM Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)
+8200
 
 ### Support Level
-Up to Travel Agents for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Travel Management System (Operations)
+Web URL: alitec.sg 
+Contact Hotline: 62622001 
+Contact Email: sales@alitec.sg 
+
 
 ### Contact Information
-20520
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

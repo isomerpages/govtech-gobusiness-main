@@ -1,15 +1,15 @@
 ---
-title: DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo
+title: 200617554M
 permalink: /productivity-solutions-grant/solutionrepo/solution2523
 ---
 
 ### Description
 
-OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. [The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+OOM PTE LTD
 
 ### Details of Solution
 
-Click <a href='OOM PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo
-
-### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
-
-### Things to Note
-Digital Marketing Packages
-
-### Contact Information
 10000
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Support Level
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Web URL: https://www.oom.com.sg/ 
+Contact Hotline: 63910930 
+Contact Email: support@oom.com.sg 
+
+
+### Contact Information
+N.A.
+
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

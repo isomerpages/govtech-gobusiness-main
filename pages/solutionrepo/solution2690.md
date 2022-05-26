@@ -1,16 +1,15 @@
 ---
-title: Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack
+title: 200303427W
 permalink: /productivity-solutions-grant/solutionrepo/solution2690
 ---
 
 ### Description
 
-Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
-Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
+Gurusoft Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Gurusoft Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack
+43000
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Warehouse Management
+Web URL: https://www.gurusofttech.com/WMS 
+Contact Hotline: 62708083 
+Contact Email: sales@gurusoft.com.sg 
+
 
 ### Contact Information
-25800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Creative eShop - Creative eShop Package Lite
+title: 200200017N
 permalink: /productivity-solutions-grant/solutionrepo/solution2502
 ---
 
 ### Description
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+Creative E-World Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Creative E-World Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Creative eShop - Creative eShop Package Lite
+10000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.creaworld.com.sg 
+Contact Hotline: 63922857 
+Contact Email: enquiry@creaworld.com.sg 
+
 
 ### Contact Information
-9800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,17 +1,15 @@
 ---
-title: Roubler - Roubler 31- 60 Users 
+title: 201527082R
 permalink: /productivity-solutions-grant/solutionrepo/solution2009
 ---
 
 ### Description
 
-Roubler's all-in-one cloud-based system combines essential workforce management tasks with a simple, easy-to-use interface to give your employees the power to manage their working lives.
-
-Your team has the freedom to check rosters, accept and decline shifts, request leave, view payslips, and update their personal details, all from the convenience of our employee self-service mobile app.
+Roubler PTE LTD 
 
 ### Details of Solution
 
-Click <a href='Roubler PTE LTD ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Roubler - Roubler 31- 60 Users 
+11400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource E-scheduling System
+Web URL: www.roubler.com 
+Contact Hotline: 31636786 
+Contact Email: info@roubler.com 
+
 
 ### Contact Information
-5820
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

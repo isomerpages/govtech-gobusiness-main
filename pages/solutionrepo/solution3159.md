@@ -1,5 +1,5 @@
 ---
-title: 2. WSQ Perform Delivery Operations
+title: 2. Discover Sales Opportunities and Track Prospects
 permalink: /productivity-solutions-grant/solutionrepo/solution3159
 ---
 

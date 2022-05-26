@@ -1,17 +1,15 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
+title: 200700588E
 permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 
 ### Description
 
-Getz solution is a fully integrated platform that comprehensively resolves F&B's real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B's fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
-
-
+Globalsoft Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Getz Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
+$10728.00
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment and Online Food Delivery
+Globalsoft Solutions Pte Ltd
+www.mng-solutions.com
+Email: enquiries@mng-solutions.com
+Tel: +65 6570 5012
 
 ### Contact Information
-12600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Really Platform for PMs and FMs Version 2.4-Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)
+title: 201734623N
 permalink: /productivity-solutions-grant/solutionrepo/solution2300
 ---
 
 ### Description
 
-Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
+Cleverly SG Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Really Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Really Platform for PMs and FMs Version 2.4-Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)
+8050
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Web URL: https://cleverly.sg/
+Contact Hotline: 8866 3438 
+Contact Email: hello@cleverly.sg 
+
 
 ### Contact Information
-34600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, XSmall
+title: 201934203W
 permalink: /productivity-solutions-grant/solutionrepo/solution2510
 ---
 
 ### Description
 
-Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering Solution. Made local with a globally experienced team, our proprietary solution transforms your outlet to the industry's best practice level for efficiency and execution.
+Lunchbox Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Lunchbox Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, XSmall
+13250
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Web URL: www.mylunchbox.app 
+Contact Hotline: 81298905 
+Contact Email: office@mylunchbox.app 
+
 
 ### Contact Information
-2550
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

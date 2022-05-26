@@ -1,15 +1,15 @@
 ---
-title: ChopeBook - ChopeBook with Phone Line Mgmt Software Only 
+title: 201104295K
 permalink: /productivity-solutions-grant/solutionrepo/solution1559
 ---
 
 ### Description
 
-ChopeBook is a Table Management System (TMS) designed to make the most of a restaurant's revenue generating assets - tables and seats. Manage the inflow of online and offline reservations with user-friendly functions synced across multiple devices.
+The Chope Group Pte Ltd
 
 ### Details of Solution
 
-Click <a href='The Chope Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ChopeBook - ChopeBook with Phone Line Mgmt Software Only 
+7250
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Automated Reservation
+Web URL: restaurants.chope.co 
+Contact Hotline: 62256612 
+Contact Email: sales.sg@chope.co 
+
 
 ### Contact Information
-6750
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

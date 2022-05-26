@@ -1,15 +1,15 @@
 ---
-title: Xero accounting software - ASL Advisory - Xero setup & subscription
+title: 201706917G
 permalink: /productivity-solutions-grant/solutionrepo/solution1163
 ---
 
 ### Description
 
-Xero is an accounting software for small business that lives in the cloud and works anywhere you do. This means that you can automate everyday business tasks, get up to date financials and run your business from wherever you are. Xero also connects to the Peppol E-invoicing network launched by IMDA to speed up your invoicing process. It can get you paid faster by your customers and help you maintain healthy cash flow in your business.
+ASL Advisory Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='ASL Advisory Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero accounting software - ASL Advisory - Xero setup & subscription
+4005
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 2)
+Company Name:ASL Advisory Pte. Ltd. 
+Web URL: www.asladvisory.com 
+Contact Hotline: 96607769 
+Contact Email: Contact@asladvisory.com 
+
 
 ### Contact Information
-2060
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

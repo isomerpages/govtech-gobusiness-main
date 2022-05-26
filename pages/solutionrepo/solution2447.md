@@ -1,15 +1,15 @@
 ---
-title: LittleLives 4.5 - Thermal Lite
+title: 201304337W
 permalink: /productivity-solutions-grant/solutionrepo/solution2447
 ---
 
 ### Description
 
-As an EduTech company, LittleLives facilitates day-to-day school operations through its core mobile applications: Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  We have created a holistic system that handles the full life cycle of a child's preschool journey. Our products are developed taking into consideration the needs of the entire network of caregivers - educators, parents, and leaders.
+Taidii Pte Ltd
 
 ### Details of Solution
 
-Click <a href='LittleLives Inc Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-LittleLives 4.5 - PMS Intro + Thermal Scanner
+8700
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Pre-School Management System
+Web URL: https://www.taidii.com/en/product 
+Contact Hotline: 66357641 
+Contact Email: service@taidii.com 
+
 
 ### Contact Information
-4800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

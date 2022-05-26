@@ -1,17 +1,15 @@
 ---
-title: BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 100
+title: 201410040G
 permalink: /productivity-solutions-grant/solutionrepo/solution2950
 ---
 
 ### Description
 
-BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
-
-BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
+BIPO Service Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='BIPO Service Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 100
+42800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
+Web URL: www.biposervice.com 
+Contact Hotline: 68130610 
+Contact Email: hello@biposervice.com 
+
 
 ### Contact Information
-28800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

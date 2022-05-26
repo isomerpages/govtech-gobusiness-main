@@ -1,15 +1,15 @@
 ---
-title: Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise
+title: 200415297M
 permalink: /productivity-solutions-grant/solutionrepo/solution1012
 ---
 
 ### Description
 
-As system implementation consultant and accounting firm, we explore and assist clients to digitalise their operation processes from the purchase order, sales quotation, invoices, inventory tracking to accounting and GST reporting using a digital solution like Quickbooks Online. We have encountered SMEs who spent significant time and effort to prepare manual sales invoices, store client database in excel or word documents.
+COMPTRAC SYSTEMS TECHNOLOGY PTE LTD
 
 ### Details of Solution
 
-Click <a href='Abundant Accounting Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise
+34653
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 1)
+Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD 
+Web URL: www.comptrac.com.sg 
+Contact Hotline: 68481273 
+Contact Email: itgrants@comptrac.com.sg 
+
 
 ### Contact Information
-9900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

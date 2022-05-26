@@ -1,15 +1,15 @@
 ---
-title: Globe3 ERP V5.6 - Package (8 Users)(PEPPOL Ready)
+title: 199700712E
 permalink: /productivity-solutions-grant/solutionrepo/solution1240
 ---
 
 ### Description
 
-Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
+TNO Systems Pte Ltd
 
 ### Details of Solution
 
-Click <a href='TNO Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Globe3 ERP V5.6 - Package (8 Users)(PEPPOL Ready)
+21300
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Company Name:TNO Systems Pte Ltd 
+Web URL: www.globe3.com 
+Contact Hotline: 67498823 
+Contact Email: sales@globe3.com 
+
 
 ### Contact Information
-49300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

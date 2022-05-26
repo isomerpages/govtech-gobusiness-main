@@ -1,15 +1,15 @@
 ---
-title: Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)
+title: 201525600G
 permalink: /productivity-solutions-grant/solutionrepo/solution2031
 ---
 
 ### Description
 
-Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hotels, Restaurants, Catering) industry.  For Buyers, Zeemart provides a platform (mobile & web) to perform sourcing, procurement, inventory, financing & payment activities for their operations. For Suppliers, Zeemart provides an all-in-one solution (web) for their digital marketing, lead generation, order management, inventory, eInvoicing, and payment collection business activities.
+Zeemart Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Zeemart Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)
+11200
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-B2B Marketplace/E-Procurement System
+Web URL: www.zeemart.asia 
+Contact Hotline: +6565198064 
+Contact Email: enquiry@zeemart.asia 
+
 
 ### Contact Information
-3500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

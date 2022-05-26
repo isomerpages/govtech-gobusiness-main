@@ -1,15 +1,15 @@
 ---
-title: WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200
+title: 201539815G
 permalink: /productivity-solutions-grant/solutionrepo/solution2372
 ---
 
 ### Description
 
-WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
+Acc Pro (Singapore) Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Whyze Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200
+2622
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource E-scheduling System
+Web URL: www.accprosingapore.com 
+Contact Hotline: 63520103 
+Contact Email: sales@accprosingapore.com 
+
 
 ### Contact Information
-8900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=5,000sqm)
+title: 201727676C
 permalink: /productivity-solutions-grant/solutionrepo/solution2618
 ---
 
 ### Description
 
-Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360- street view" simply and quickly. Our platform has helped extend progress supervision, enable faster site documentation & progress claims, and provide evidence to reduce costly variation orders & disputes. In this pandemic, we help teams overcome communication gaps caused by restricted physical site access.
+Airsquire Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Airsquire Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=5,000sqm)
+17700
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Integrated and Smart Worksite Monitoring and Inspection
+Web URL: www.airsquire.ai 
+Contact Hotline: 91190708 
+Contact Email: hello@airsquire.ai 
+
 
 ### Contact Information
-11700
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

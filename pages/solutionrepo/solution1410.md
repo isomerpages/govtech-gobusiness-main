@@ -1,15 +1,11 @@
 ---
-title: Electric Pedestrian Pallet Truck
+title: 201410722E
 permalink: /productivity-solutions-grant/solutionrepo/solution1410
 ---
 
 ### Description
 
-This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
-
-The equipment can transport palletised goods of approximately 1000 to 2000 kg.
-
-Cost of equipment capped at $3,250 per unit. 
+Business Thrust Pte Ltd
 
 ### Details of Solution
 
@@ -32,14 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Electric Pedestrian Pallet Truck
+7000
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General Logistics Equipment
+Web URL: https://www.bthrust.com/document-management-software.html
+Contact Hotline: 68343026 
+Contact Email: sales@bthrust.com
+
 
 ### Contact Information
 N.A.

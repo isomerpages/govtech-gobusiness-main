@@ -1,17 +1,15 @@
 ---
-title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - eCommerce Integration
+title: 201737281Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1226
 ---
 
 ### Description
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
-The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
-With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+GRID PLUS PTE LTD
 
 ### Details of Solution
 
-Click <a href='Edgeworks Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - eCommerce Integration
+6500
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Inventory Management System
+Company Name:GRID PLUS PTE LTD 
+Web URL: WWW.GRIDPLUS.COM.SG 
+Contact Hotline: 63841151 
+Contact Email: enquiry@gridplus.com.sg 
+
 
 ### Contact Information
-11158
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

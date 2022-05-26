@@ -1,15 +1,15 @@
 ---
-title: CROSSTRACK GO - Fleet Management Package 4 - 4 Vehicles
+title: 201824287C
 permalink: /productivity-solutions-grant/solutionrepo/solution2354
 ---
 
 ### Description
 
-CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
+HEXA Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='CROSSTRACK PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-CROSSTRACK GO - Fleet Management Package 4 - 4 Vehicles
+10000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Web URL: https://hexa.sg/products/ 
+Contact Hotline: 69777797 
+Contact Email: howdy@hexa.sg 
+
 
 ### Contact Information
-5268
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

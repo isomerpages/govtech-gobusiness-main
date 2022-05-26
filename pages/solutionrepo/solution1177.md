@@ -1,15 +1,15 @@
 ---
-title: Frontwave Cloud Version 8 - Package (Cloud Starter)
+title: 200610863D
 permalink: /productivity-solutions-grant/solutionrepo/solution1177
 ---
 
 ### Description
 
-Frontwave Cloud is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
+Madsoft Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Frontwave Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Frontwave Cloud Version 8 - Package (Cloud Starter)
+13759
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Company Name:Madsoft Solutions Pte Ltd 
+Web URL: www.madsoft.com.sg 
+Contact Hotline: 62969919 
+Contact Email: sales@madsoft.com.sg 
+
 
 ### Contact Information
-4360
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

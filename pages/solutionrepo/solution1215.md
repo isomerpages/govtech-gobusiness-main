@@ -1,15 +1,15 @@
 ---
-title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)
+title: 201600202R
 permalink: /productivity-solutions-grant/solutionrepo/solution1215
 ---
 
 ### Description
 
-Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
+CSG Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='BIMAGE Consulting Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)
+1590
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Company Name:CSG Software Pte Ltd 
+Web URL: www.csglobal-group.com 
+Contact Hotline: 65882378 
+Contact Email: marketing@csglobal-group.com 
+
 
 ### Contact Information
-11280
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

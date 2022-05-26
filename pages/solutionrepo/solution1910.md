@@ -1,15 +1,15 @@
 ---
-title: Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update
+title: 201300674N
 permalink: /productivity-solutions-grant/solutionrepo/solution1910
 ---
 
 ### Description
 
-AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet FortiGate Next-generation firewalls (NGFW) to build the Cyber Security for SMEs. With the continual work from home arrangement and constantly evolving Cyber security facing the SMEs IT setup and work from home employees, Fortinet is well positioned for SMEs needs as a leader in Gartner Magic Quadrant for Network Firewalls.
+AWECREATION PTE LTD
 
 ### Details of Solution
 
-Click <a href='AWECREATION PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update
+7700
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: WWW.AWECREATION.COM 
+Contact Hotline: 66319770 
+Contact Email: SALES@AWECREATION.COM 
+
 
 ### Contact Information
-5477
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: 1. Cyber Security Incident Handling and Response
+title: 1. WSQ Retail (Sf) Inventory Control (Perform Stock Control for Retail Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution3182
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go 3 Users)
+title: 200700588E
 permalink: /productivity-solutions-grant/solutionrepo/solution434
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick to implement, simple-to-use business solution with the power to support your business ambitions.
+Globalsoft Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Globalsoft Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go: 3 Users)
+$29,235.00
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 1)
+Globalsoft Solutions Pte Ltd
+www.mng-solutions.com
+Email: enquiries@mng-solutions.com
+Tel: +65 6570 5012
 
 ### Contact Information
-$11,628.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

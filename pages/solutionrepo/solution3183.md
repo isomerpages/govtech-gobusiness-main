@@ -1,5 +1,5 @@
 ---
-title: 2. Big Data Analytics and AI / Machine Learning with Python Coding / Programming
+title: 2. WSQ Retail (Sf) Sales Closure (Perform Point of Sale Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution3183
 ---
 

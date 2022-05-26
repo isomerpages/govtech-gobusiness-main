@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+title: 198901141D
 permalink: /productivity-solutions-grant/solutionrepo/solution1828
 ---
 
 ### Description
 
-Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
+Aon Solutions Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Mercer (Singapore) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,15 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+
 
 ### Support Level
-Up to All Sectors for SMEs <br>
-Up to Consultancy for non-SMEs
+Up to Additional criteria: All participating companies must have at least three local employees at the point of application for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Job Redesign Consultancy
+Company Name: Aon Solutions Singapore Pte Ltd
+Web URL: humancapital.aon.com/ 
+Contact Name: Sylvia Lim, Senior Consultant
+Contact Email: sylvia.lim@aon.com 
+Contact Number:  8113 8650
 
 ### Contact Information
+N.A.
 
-
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

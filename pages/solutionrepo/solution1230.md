@@ -1,15 +1,15 @@
 ---
-title: Vehicle Safety System - GridPlus VSS (6 Vehicle Package)
+title: 201737281Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1230
 ---
 
 ### Description
 
-VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more. ADAS DSM with AI recognition software will improve driver safety, prevent and reduce the numbers of injuries and accidents.
+GRID PLUS PTE LTD
 
 ### Details of Solution
 
-Click <a href='GRID PLUS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Vehicle Safety System - GridPlus VSS (6 Vehicle Package)
+32100
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Safety Management System
+Company Name:GRID PLUS PTE LTD 
+Web URL: WWW.GRIDPLUS.COM.SG 
+Contact Hotline: 63841151 
+Contact Email: enquiry@gridplus.com.sg 
+
 
 ### Contact Information
-19300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

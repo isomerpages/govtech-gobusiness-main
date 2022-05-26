@@ -1,15 +1,15 @@
 ---
-title: EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS
+title: 200601747E
 permalink: /productivity-solutions-grant/solutionrepo/solution1361
 ---
 
 ### Description
 
-EZ Accounting and Inventory Management System started since 1999 developed by EZ Accounting based in Singapore. It is able to generate all accounting reporting such as Profit and Loss, GST report, project reporting and also full set of Inventory Management System to compute stock costing and location stock details.
+USER BASIC SOFTWARE PTE LTD
 
 ### Details of Solution
 
-Click <a href='USER BASIC SOFTWARE PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS
+13473
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Company Name:USER BASIC SOFTWARE PTE LTD 
+Web URL: www.userbasicsoftware.com 
+Contact Hotline: 62271797 
+Contact Email: info@userbasicsoftware.com 
+
 
 ### Contact Information
-5853
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

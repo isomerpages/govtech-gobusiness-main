@@ -1,15 +1,15 @@
 ---
-title: LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan
+title: 201119905W
 permalink: /productivity-solutions-grant/solutionrepo/solution2638
 ---
 
 ### Description
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
+Firstcom Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='LittleLives Inc Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan
+10000
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Data Analytics for Centre Operations
+Web URL: www.firstcom.com.sg 
+Contact Hotline: 68484984 
+Contact Email: sales@firstcom.com.sg 
+
 
 ### Contact Information
-6537
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

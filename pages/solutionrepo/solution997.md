@@ -1,23 +1,15 @@
 ---
-title: Dining Butler system - Dining Butler API
+title: 201402351H
 permalink: /productivity-solutions-grant/solutionrepo/solution997
 ---
 
 ### Description
 
-Dining Butler provides an end to end solution for F&B that covers the following modules
-1) mobile ordering
-2) POS operations
-3) kitchen management
-4) waiter management
-5) backend item management
-6) CRM
-7) inventory 
-8) reports
+WEB IMP PTE LTD
 
 ### Details of Solution
 
-Click <a href='Singapore Dining Butler Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -36,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Dining Butler system - Dining Butler API
+1360
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Company Name:WEB IMP PTE LTD 
+Web URL: https://www.webimp.com.sg/ 
+Contact Hotline: 93689672 
+Contact Email: wilson@webimp.com.sg 
+
 
 ### Contact Information
-10788
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

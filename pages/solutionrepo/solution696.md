@@ -1,15 +1,15 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)
+title: 201136382G
 permalink: /productivity-solutions-grant/solutionrepo/solution696
 ---
 
 ### Description
 
-USA Fleet Solutions offers top fleet management hardware and software products to improve vehicle and asset tracking. GPS fleet tracking devices work with businesses and government entities that have fleets of vehicles and other mobile assets.
+Pivotal Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Pivotal Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)
+8000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Company Name:Pivotal Pte Ltd 
+Web URL: www.itrack.com.sg 
+Contact Hotline: 67276060 
+Contact Email: sales@itrack.com.sg 
+
 
 ### Contact Information
-4080
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

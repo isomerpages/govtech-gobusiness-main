@@ -1,15 +1,15 @@
 ---
-title: MEGAPOS - MEGAPOS Pro on Tablet
+title: 52946643X
 permalink: /productivity-solutions-grant/solutionrepo/solution1187
 ---
 
 ### Description
 
-A cost-effective POS solution that comes with sleek hardware, feature-rich software and top service.   MEGAPOS offers you an opportunity to upgrade to a modern productivity tool engineered and tested for the new retail economy in this post-Covid CB period.
+Serixx Business Solutions
 
 ### Details of Solution
 
-Click <a href='Megasafe Technology Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MEGAPOS - MEGAPOS Pro on Tablet
+6110
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management and Inventory Management
+Company Name:Serixx Business Solutions 
+Web URL: www.serixx.com 
+Contact Hotline: 91092480 
+Contact Email: info@serixx.com 
+
 
 ### Contact Information
-5990
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

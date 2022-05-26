@@ -1,16 +1,15 @@
 ---
-title: Sophos Central Intercept X Advanced - 25 Users
+title: 201206794H
 permalink: /productivity-solutions-grant/solutionrepo/solution2930
 ---
 
 ### Description
 
-Rated number 1 protection in independent third-party testing, Sophos consistently blocks more malware and exploits than competing solutions.
-It harnesses the power of a deep learning neural network, marking Intercept X smarter, more scalable, and more effective against never-seen-before threats. Intercept X leverages deep learning to outperform endpoint security solutions that use traditional machine learning or signature-based detection alone.
+SWIZ Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='SWIZ Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sophos Central Intercept X Advanced - 25 Users
+2800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: swiz.com.sg 
+Contact Hotline: 62502661 
+Contact Email: sales@swiz.com.sg 
+
 
 ### Contact Information
-2100
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

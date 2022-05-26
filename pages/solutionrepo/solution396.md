@@ -1,15 +1,15 @@
 ---
-title: Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)
+title: 201938906W
 permalink: /productivity-solutions-grant/solutionrepo/solution396
 ---
 
 ### Description
 
-Eurostop Provides a full and complete retail POS solution to enable our retail customers to better manage their day to day retail process workflow to all their outlets and warehouses. The system provides a full set of sales transaction that consists of the sales and payment mode information, and attaches members and sales persons to the transaction. This allows the retailer to view and analyze their customer spending behaviours, product sales performance and stock inventory level.
+FacilityBot Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Eurostop Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)
+6000
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 1)
+FacilityBot Pte Ltd
+http://facilitybot.co
+Email: sales@facilitybot.co
+Tel: +65 9748 0484
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

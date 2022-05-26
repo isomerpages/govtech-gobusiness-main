@@ -1,15 +1,15 @@
 ---
-title: Creative Sales and Order - Sales & Order Management System Standard
+title: 201606824H
 permalink: /productivity-solutions-grant/solutionrepo/solution2838
 ---
 
 ### Description
 
-Creative Sales and order management is an user friendly end-to end solution that enable companies to request for quote to confirmation of their products or services easily. This solution provide SMEs in Wholesales industry an opportunity to broaden their reach, stay competitive, increase the sales, streamline operation and optimize resources.
+DST Advertising (Singapore) Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Creative E-World Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Creative Sales and Order - Sales & Order Management System Standard
+7795
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Sales Management
+Web URL: www.dstadvertising.com 
+Contact Hotline: 86685292 
+Contact Email: sales@dstadvertising.com 
+
 
 ### Contact Information
-15000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Enhanced 100
+title: 201324947N
 permalink: /productivity-solutions-grant/solutionrepo/solution378
 ---
 
 ### Description
 
-QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+Enable Business Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Enable Business Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2020 QuickHR Version 9 - Cloud HRMS - Enhanced 100
+26000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 1)
+Enable Business Pte Ltd
+www.quickhr.co
+Email: business@quickhr.co
+Tel: +65 6908 8158
 
 ### Contact Information
-14000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

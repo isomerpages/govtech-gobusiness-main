@@ -1,15 +1,15 @@
 ---
-title: DROPBOX - DROPBOX BUSINESS - 3 USERS
+title: 201309957M
 permalink: /productivity-solutions-grant/solutionrepo/solution1546
 ---
 
 ### Description
 
-The Advanced plan on Dropbox Business gives teams as much space as they need, along with sophisticated admin, audit, security, and integration capabilities.
+Rah Tech Pte Ltd
 
 ### Details of Solution
 
-Click <a href='INNOCOM TECHNOLOGIES PTE LTD ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DROPBOX - DROPBOX BUSINESS - 3 USERS
+2000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management and Mobile Access System
+Web URL: www.rahtech.com 
+Contact Hotline: 8766 5066
+Contact Email: PSG@RAHTECH.COM
+
 
 ### Contact Information
-999
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

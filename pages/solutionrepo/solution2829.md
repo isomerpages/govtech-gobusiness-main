@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier Version 23 - Package D (Three User Licence Full Package)
+title: 201313056K
 permalink: /productivity-solutions-grant/solutionrepo/solution2829
 ---
 
 ### Description
 
-Andre Corporate is a software company specializing in accounting software providing sales, training and after sales support. Andre Corporate's competitive advantage is that all provided services can all be done remotely. Integrated accounting solution with modules Statement of financial position, comprehensive income, and cash flow), Account Receivable/Payable, Billing and Invoicing, Inventory, Multiple Currencies, General Ledger, Purchase Order and Sales Order and Data Analytics capabilities.
+Centrics Networks Ptd Ltd 
 
 ### Details of Solution
 
-Click <a href='Andre Corporate Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ABSS Premier Version 23 - Package D (Three User Licence Full Package)
+1735
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Web URL: www.centricsnetworks.com.sg 
+Contact Hotline: 68337898 
+Contact Email: sales@centricsnetworks.com.sg 
+
 
 ### Contact Information
-3550
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

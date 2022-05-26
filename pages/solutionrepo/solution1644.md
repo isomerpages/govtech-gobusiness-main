@@ -1,15 +1,15 @@
 ---
-title: Smart Estate Management System - Contractors Pack
+title: 200405971E
 permalink: /productivity-solutions-grant/solutionrepo/solution1644
 ---
 
 ### Description
 
-SEMS Smart FM solution enables organizations to manage their estate(s) at ease. It is designed to help save time & money by managing workflows intelligently across their estate(s)/buildings thus processes become efficient & effective. SEMS enables contractors/officers to perform ongoing maintenance and repair, including asset management, contractor/workers management, service fulfilment and scheduling. It empowers FM teams to adequately track job status and analyse working patterns over time.
+Combuilder FMIT Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Combuilder FMIT Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Smart Estate Management System - Contractors Pack
+30500
 
 ### Support Level
-Up to Building & Construction  for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Web URL: www.combuilder.com.sg 
+Contact Hotline: 63238100 
+Contact Email: enquiry@combuilder.com.sg 
+
 
 ### Contact Information
-$10440
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

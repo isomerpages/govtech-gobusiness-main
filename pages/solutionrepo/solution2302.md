@@ -1,15 +1,15 @@
 ---
-title: Athena E-store Solution-Athena E Store Lite Version
+title: 201433220R
 permalink: /productivity-solutions-grant/solutionrepo/solution2302
 ---
 
 ### Description
 
-Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
+Fooyo Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Cleverly SG Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Athena E-store Solution-Athena E Store Lite Version
+6188
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ 
+Contact Hotline: 97129446 
+Contact Email: hi@fooyo.sg 
+
 
 ### Contact Information
-8050
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

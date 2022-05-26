@@ -1,18 +1,15 @@
 ---
-title: QuickBooks Online Version 1 - VCSG QBO Existing Advance
+title: 201310568H
 permalink: /productivity-solutions-grant/solutionrepo/solution2390
 ---
 
 ### Description
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+SMARTCURSORS PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='Value Consultancy (Singapore) Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-QuickBooks Online Version 1 - VCSG QBO Existing Advance
+5200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: WWW.SMARTCURSORS.COM 
+Contact Hotline: 63365500 
+Contact Email: CONTACT@SMARTCURSORS.COM 
+
 
 ### Contact Information
-6380
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

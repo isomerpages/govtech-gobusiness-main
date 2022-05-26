@@ -1,15 +1,15 @@
 ---
-title: Swipetask PRO - Swipetask Facility-OPS
+title: 200804595N
 permalink: /productivity-solutions-grant/solutionrepo/solution2359
 ---
 
 ### Description
 
-Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
+361 Degree Consultancy Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Swipetask Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Swipetask PRO - Swipetask Facility-OPS
+900
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Web URL: https://361dc.com/software/hr-easily/
+Contact Hotline: 65157906 
+Contact Email: enquiry@361dc.com 
+
 
 ### Contact Information
-36388
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

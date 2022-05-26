@@ -1,15 +1,15 @@
 ---
-title: MMS - Xero Accounting Solution - D - Xero Premium Full Package
+title: 201500394D
 permalink: /productivity-solutions-grant/solutionrepo/solution2611
 ---
 
 ### Description
 
-At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
+SSTA Technology Development Pte Ltd
 
 ### Details of Solution
 
-Click <a href='METROPOLITAN MANAGEMENT SERVICES PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MMS - Xero Accounting Solution - D - Xero Premium Full Package
+3520
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: NA 
+Contact Hotline: 84991007 
+Contact Email: TASDAVID90@GMAIL.COM 
+
 
 ### Contact Information
-3320
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,18 +1,15 @@
 ---
-title: Creative Sales & Order Management - Package (SMEZ)
+title: 200200017N
 permalink: /productivity-solutions-grant/solutionrepo/solution319
 ---
 
 ### Description
 
-Creative Sales and Order Management System is a B2B ecommerce platform that facilitates efficient procurement process through a centralized and secure application hosting. It comes with various modules such as procurement, quotation, invoice, news & events to allow better management of SMEs product catalogue and streamlining of business workflows.
-
-
-
+Creative e-World Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Creative e-World Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Creative Sales & Order Management - Package (SMEZ)
+15000
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Sales Management
+Creative eWorld Pte Ltd
+www.creaworld.com.sg
+Email: enquiry@creaworld.com.sg
+Tel: +65 6392 2857
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

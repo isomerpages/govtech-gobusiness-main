@@ -1,15 +1,15 @@
 ---
-title: Eset Protect Entry - 50 Licenses (1 year)
+title: 200709074D
 permalink: /productivity-solutions-grant/solutionrepo/solution2720
 ---
 
 ### Description
 
-Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
+Coobiz IT Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Rentalworks (SG) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Eset Protect Entry - 50 Licenses (1 year)
+10424
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: www.coobizit.com 
+Contact Hotline: +6592709558 
+Contact Email: admin@COOBIZIT.COM 
+
 
 ### Contact Information
-2025
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

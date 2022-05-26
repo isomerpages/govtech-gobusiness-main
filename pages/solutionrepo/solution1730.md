@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - CET Global Pte Ltd 
+title: 201543300G
 permalink: /productivity-solutions-grant/solutionrepo/solution1730
 ---
 
 ### Description
 
-CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+CHIMERIC TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='CET Global Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,15 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Job Redesign Consultancy - CET Global Pte Ltd 
+14000
 
 ### Support Level
-Up to All Sectors for SMEs <br>
-Up to Consultancy for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Job Redesign Consultancy
+Web URL: www.smart-dorm.com 
+Contact Hotline: 62531108 
+Contact Email: support@chimeric.sg 
+
 
 ### Contact Information
+N.A.
 
-
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

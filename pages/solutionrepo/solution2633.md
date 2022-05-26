@@ -1,18 +1,15 @@
 ---
-title: aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10
+title: 199405327E
 permalink: /productivity-solutions-grant/solutionrepo/solution2633
 ---
 
 ### Description
 
-NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
-aiCARE Shield Managed Security comes with 8x5 Hotline Support.
-Support Day : Monday - Friday
-Support Time : 9am-6pm
+NTC INTEGRATION PTE LTD
 
 ### Details of Solution
 
-Click <a href='NTC INTEGRATION PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10
+6590
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: WWW.NTC.COM.SG 
+Contact Hotline: 97805234 
+Contact Email: keith@ntc.com.sg 
+
 
 ### Contact Information
-1220
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

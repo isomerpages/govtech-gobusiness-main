@@ -1,15 +1,15 @@
 ---
-title: SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in, Takeaway, & Delivery)
+title: 201731885M
 permalink: /productivity-solutions-grant/solutionrepo/solution2198
 ---
 
 ### Description
 
-SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
+SkipQoo Pte Ltd
 
 ### Details of Solution
 
-Click <a href='SkipQoo Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in, Takeaway, & Delivery)
+7400
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Web URL: www.skipqoo.io 
+Contact Hotline: 88460000 
+Contact Email: hello@skipqoo.io 
+
 
 ### Contact Information
-5800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

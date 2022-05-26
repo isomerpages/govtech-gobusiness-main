@@ -1,15 +1,15 @@
 ---
-title: Sage 300 - Package (Advanced Edition - 5 Users)
+title: 200507412D
 permalink: /productivity-solutions-grant/solutionrepo/solution769
 ---
 
 ### Description
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
+Seg IT Services Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Seg IT Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sage 300 - Package (Advanced Edition - 5 Users)
+30994
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Seg IT Services Pte Ltd
+www.segit.com.sg
+Email: sales@segit.com.sg
+Tel: +65 6483 0950
 
 ### Contact Information
-25411
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

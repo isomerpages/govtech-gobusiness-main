@@ -1,15 +1,15 @@
 ---
-title: Smart Glasses - InnoGlas - SE with Facial Recognition function (4 sets) - Package 4
+title: 200402669G
 permalink: /productivity-solutions-grant/solutionrepo/solution2478
 ---
 
 ### Description
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+OTTE INTERNATIONAL PTE LTD
 
 ### Details of Solution
 
-Click <a href='Innowave Tech Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Smart Glasses - InnoGlas - SE with Facial Recognition function (4 sets) - Package 4
+8500
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Digital Wearables for Workers' Health and Safety
+Web URL: www.ottegroup.com 
+Contact Hotline: 66842268 
+Contact Email: sgsales@ottegroup.com 
+
 
 ### Contact Information
-15240
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

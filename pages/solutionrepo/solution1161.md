@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software - Xero Accounting Solution _Enterprise
+title: 201706917G
 permalink: /productivity-solutions-grant/solutionrepo/solution1161
 ---
 
 ### Description
 
-Xero solution which is a cloud based solution which enable businesses to work from home and enhance processes from purchase order, sales quotation, invoices and e-peppol invoices , inventory tracking to accounting and GST reporting
+ASL Advisory Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Abundant Accounting Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero Cloud Accounting Software - Xero Accounting Solution _Enterprise
+2005
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 2)
+Company Name:ASL Advisory Pte. Ltd. 
+Web URL: www.asladvisory.com 
+Contact Hotline: 96607769 
+Contact Email: Contact@asladvisory.com 
+
 
 ### Contact Information
-9900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

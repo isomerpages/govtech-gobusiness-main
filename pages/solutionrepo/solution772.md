@@ -1,15 +1,15 @@
 ---
-title: Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)
+title: 196000089G
 permalink: /productivity-solutions-grant/solutionrepo/solution772
 ---
 
 ### Description
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
+SHELL EASTERN PETROLEUM (PTE) LTD
 
 ### Details of Solution
 
-Click <a href='Seg IT Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)
+2435
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:SHELL EASTERN PETROLEUM (PTE) LTD 
+Web URL: https://www.shell.com.sg/business-customers/shell-fuel-card/shell-telematics-get-started.html 
+Contact Hotline: 6562615322 
+Contact Email: generalcardrequests-sg@shell.com 
+
 
 ### Contact Information
-50559
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

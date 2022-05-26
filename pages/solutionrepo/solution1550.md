@@ -1,15 +1,15 @@
 ---
-title: Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users
+title: 201309957M
 permalink: /productivity-solutions-grant/solutionrepo/solution1550
 ---
 
 ### Description
 
-Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
+Rah Tech Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Rah Tech Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users
+10400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: www.rahtech.com 
+Contact Hotline: 8766 5066
+Contact Email: PSG@RAHTECH.COM
+
 
 ### Contact Information
-4800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

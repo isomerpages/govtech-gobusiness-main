@@ -1,16 +1,15 @@
 ---
-title: SAP Business One SQL & HANA Version 10.0 - Package (1 License)
+title: 201008943H
 permalink: /productivity-solutions-grant/solutionrepo/solution2954
 ---
 
 ### Description
 
-Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
-SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
+MPS Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='MPS Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP Business One SQL & HANA Version 10.0 - Package (1 License)
+34950
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Web URL: www.mpssolutions.com.sg 
+Contact Hotline: 68469109 
+Contact Email: kelvin@mclinkgroup.com 
+
 
 ### Contact Information
-14850
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

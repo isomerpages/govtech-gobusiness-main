@@ -1,15 +1,15 @@
 ---
-title: Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15
+title: 200209919N
 permalink: /productivity-solutions-grant/solutionrepo/solution2684
 ---
 
 ### Description
 
-Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
+Cyberland Consultancy Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Cyberland Consultancy Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15
+10300
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Pre-School Management System and e-Enrolment Forms for Preschools
+Web URL: cyberland.edu.sg/bridged 
+Contact Hotline: 65666601 
+Contact Email: casey@cyberland.edu.sg 
+
 
 ### Contact Information
-7720
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

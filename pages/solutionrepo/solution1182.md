@@ -1,15 +1,15 @@
 ---
-title:  Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users) with Peppol e-invoicing
+title: 200503951K
 permalink: /productivity-solutions-grant/solutionrepo/solution1182
 ---
 
 ### Description
 
-Madsoft Solutions is an integrated order processing, inventory and accounting solution to meet the operational and financial reporting needs of SMEs. Easy user interface allows non-account person to manage the finances. Real-time updating and powerful inquiry function provide up-to-date information for management. It is able to track receiving and ordering, management of inventory turnover, handle project costing, multiple locations, simple item assembly.  It has on-line or on premise versions.
+Megasafe Technology Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Madsoft Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
- Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users) with Peppol e-invoicing
+5180
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Company Name:Megasafe Technology Pte Ltd 
+Web URL: www.megapos.com.sg 
+Contact Hotline: 62245788 
+Contact Email: sales@megasafe.com.sg 
+
 
 ### Contact Information
-19239
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

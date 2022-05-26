@@ -1,15 +1,15 @@
 ---
-title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)
+title: 201102124D
 permalink: /productivity-solutions-grant/solutionrepo/solution438
 ---
 
 ### Description
 
-A Digital costing platform, for the QS fraternity, whereby measurements of element components indicates geometry with attributes and information required by QS. Providing Detailed & Accurate Quantities during quantification of elements through the consideration of Industry Standard Calculation Rules & Settings based on Singapore Measurement Standards. Bringing a Visual Reality of a 2D Plan Drawing to a 3D Visualization Model.
+Glodon International Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Glodon International Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)
+11500
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Quantity Surveying and Valuation
+Glodon International Pte Ltd
+https://www.glodon.com/en/
+Email: SG@GLOBAL.GLODON.COM
+Tel: +65 6567 1648
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,18 +1,15 @@
 ---
-title: DM Impossible Marketing Digital Marketing Packages - Social Focus - 3 Months
+title: 201727485N
 permalink: /productivity-solutions-grant/solutionrepo/solution2469
 ---
 
 ### Description
 
-Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
-
-
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+Next Level SG Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Impossible Marketing Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM Impossible Marketing Digital Marketing Packages - Social Focus - 3 Months
+7000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital Marketing Packages
+Web URL: www.Nextlevel.sg 
+Contact Hotline: 83765715 
+Contact Email: info@nextlevel.sg 
+
 
 ### Contact Information
-10000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

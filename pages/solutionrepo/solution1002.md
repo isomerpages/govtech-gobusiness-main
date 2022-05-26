@@ -1,15 +1,15 @@
 ---
-title: Dropbox Business - Dropbox Business 15 Users
+title: 201611466Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1002
 ---
 
 ### Description
 
-Dropbox is a file storage solution known to many individuals, but the business edition enables companies with more control. Dropbox Business has unlimited storage capacity that allows you to store your files securely in the cloud, shares easily with external parties, and collaborate conveniently with your team members. It is also effective for organization management & control. With Web Imp as your vendor, you get an additional advantage with an established tech firm providing local support.
+YNL 360 Pte Ltd
 
 ### Details of Solution
 
-Click <a href='WEB IMP PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Dropbox Business - Dropbox Business: 15 Users
+7000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management and Mobile Access System
+Company Name:YNL 360 Pte Ltd 
+Web URL: www.stendard.io/features 
+Contact Hotline: 87671969 
+Contact Email: contact@stendard.io 
+
 
 ### Contact Information
-5500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

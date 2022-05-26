@@ -1,15 +1,15 @@
 ---
-title: ZettApps Finance & Order Processing Version 4.2 - Package A - SME
+title: 201206718K
 permalink: /productivity-solutions-grant/solutionrepo/solution1875
 ---
 
 ### Description
 
-ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Management Solution. Listed in the IRAS Accouting Software Register, ZETTAPPS is GST compliant and a Business Management Software that helps businesses to streamline their Accounting procedures.  Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, reduction in cost and gain access to new financial options.
+Zetta Solution Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Zetta Solution Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ZettApps Finance & Order Processing Version 4.2 - Package A - SME
+19800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Web URL: www.zetta-solution.com 
+Contact Hotline: 67450866 
+Contact Email: sales@zetta-solution.com 
+
 
 ### Contact Information
-13800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

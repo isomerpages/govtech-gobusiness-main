@@ -1,18 +1,15 @@
 ---
-title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 6 Vehicles
+title: 200815588H
 permalink: /productivity-solutions-grant/solutionrepo/solution1555
 ---
 
 ### Description
 
-Designed for all fleet size and management. 
-Includes 4 cameras and a mobile digital video recorder with gps which provides real-time video and gps information to allow fleet managers to better manage and monitor. This will help with more efficient operation, lowering cost and better productivity.   
-
-The system is also able to add in a variety of Telematics smart sensors to meet certain industrial mandatory safety requirements.
+SMARTCOMM ELECTRONICS PTE LTD
 
 ### Details of Solution
 
-Click <a href='SMARTCOMM ELECTRONICS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 6 Vehicles
+20490
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Web URL: WWW.SMARTCOMM.BIZ 
+Contact Hotline: 65132389 
+Contact Email: ask@smartcomm.biz 
+
 
 ### Contact Information
-18074
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

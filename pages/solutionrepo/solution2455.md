@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software - Xero Standard Subscription with Set Up
+title: 201812332G
 permalink: /productivity-solutions-grant/solutionrepo/solution2455
 ---
 
 ### Description
 
-The Xero dashboard presents users with a clear and concise overview of their financial situation. It provides small business owners with a greater understanding of their cashflow by highlighting bank balances, outstanding invoices, upcoming bills and expense claims in a visually appealing way.
+Assembly Works Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Assembly Works Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero Cloud Accounting Software - Xero Standard Subscription with Set Up
+3585
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: WWW.ASSEMBLYWORK.CO 
+Contact Hotline: 90883183 
+Contact Email: shining@assemblyworks.co 
+
 
 ### Contact Information
-2600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users
+title: 201313398G
 permalink: /productivity-solutions-grant/solutionrepo/solution2220
 ---
 
 ### Description
 
-Sage CRM is a customer relationship management solution designed to help small and midsize businesses optimize their customer experience and improve productivity.  The solution helps users to simplify the work processes such as quotes and orders, progressing leads and converting them to opportunities using sales workflow, shorten work process cycles.
+Detrack Systems Pte. Ltd.
 
 ### Details of Solution
 
-Coming soon.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+6375
 
 ### Support Level
-Up to  for SMEs <br>
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Web URL: https://www.detrack.com 
+Contact Hotline: 68440509 
+Contact Email: sales@detrack.com 
+
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

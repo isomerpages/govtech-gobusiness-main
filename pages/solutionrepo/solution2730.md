@@ -1,15 +1,15 @@
 ---
-title: MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)
+title: 198600936N
 permalink: /productivity-solutions-grant/solutionrepo/solution2730
 ---
 
 ### Description
 
-MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
+ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='METRO GROUP PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)
+2800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys 
+Contact Hotline: 65361728 
+Contact Email: enquiry@acapacific.com.sg 
+
 
 ### Contact Information
-13800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)
+title: 200208117Z
 permalink: /productivity-solutions-grant/solutionrepo/solution620
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive all-in-one business management solution integrated with ERP capabilities into applications that work seamlessly together with Office 365 across sales, operations, field service and financials for small and medium-sized businesses. The application helps your business transform and streamlines work processes to achieve the productivity of your work, reduce manual efforts and go paperless.
+MuRho Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='MSC Consulting (S) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package D (5 Users with PEPPOL unlimited + Customer Self Ordering App)
+5000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+MuRho Pte Ltd 
+www.murho.com.sg
+Email:sales@murho.com.sg
+Tel:+65 6289 3802
 
 ### Contact Information
-47587
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

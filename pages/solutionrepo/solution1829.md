@@ -1,17 +1,15 @@
 ---
-title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
+title: 198905395E
 permalink: /productivity-solutions-grant/solutionrepo/solution1829
 ---
 
 ### Description
 
-At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
-
-We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
+Ernst & Young Advisory Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='Deloitte Consulting Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -26,15 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Job Redesign Consultancy - Deloitte Consulting Pte Ltd
+
 
 ### Support Level
-Up to All Sectors for SMEs <br>
-Up to Consultancy for non-SMEs
+Up to Additional criteria: All participating companies must have at least three local employees at the point of application for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Job Redesign Consultancy
+Company Name: Ernst & Young Advisory Pte Ltd 
+Web URL: www.ey.com
+Contact Name: Goh Jia Yong, Partner, EY People Advisory Services
+Contact Email: ey.psg.jr@sg.ey.com
+Contact Number: 6309 6552
 
 ### Contact Information
+N.A.
 
-
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

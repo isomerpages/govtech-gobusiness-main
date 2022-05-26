@@ -1,17 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01 - Cloud Solution Package-Basic
+title: 201828446N
 permalink: /productivity-solutions-grant/solutionrepo/solution2226
 ---
 
 ### Description
 
-- Microsoft Dynamics 365 Business Central base Finance and Supply Chain Management (Inventory, Sales and Purchase)
-- Mobile Addon (Document Approval - PR, PO, Sales Quote, Sales Order)
-- Predefined Setup and Implementation
+Harvest Accounting Pte. Ltd.
 
 ### Details of Solution
 
-Coming soon.
+N.A.
 
 ### Eligibility Criteria
 
@@ -26,16 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+560
 
 ### Support Level
-Up to  for SMEs <br>
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Web URL: https://www.harvestaccounting.com.sg/ 
+Contact Hotline: 88609408
+Contact Email: ask@harvestaccounting.com.sg 
+
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

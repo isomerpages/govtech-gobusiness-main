@@ -1,16 +1,15 @@
 ---
-title: VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))
+title: 201013329W
 permalink: /productivity-solutions-grant/solutionrepo/solution424
 ---
 
 ### Description
 
-VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
-Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand.
+Gamurai Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Gamurai Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))
+8785
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 1)
+Gamurai Pte Ltd
+www.gamuraitech.com
+Email: veon@gamuraitech.com
+Tel: +65 9761 9340
 
 ### Contact Information
-5168
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: vTrak Version 1.4 - 15 VEHICLES
+title: 200919057R
 permalink: /productivity-solutions-grant/solutionrepo/solution2316
 ---
 
 ### Description
 
-The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
+IDEE INFOCOM PTE LTD
 
 ### Details of Solution
 
-Click <a href='IDEE INFOCOM PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-vTrak Version 1.4 - 15 VEHICLES
+37074
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Web URL: WWW.IDEE.SG 
+Contact Hotline: 62936461 
+Contact Email: INFO@IDEE.SG 
+
 
 ### Contact Information
-26184
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

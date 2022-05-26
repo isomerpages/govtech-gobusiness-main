@@ -1,15 +1,15 @@
 ---
-title: ETABS Ultimate Suite Version 19 - Package 2 with Training (Perpetual License)
+title: 201803300E
 permalink: /productivity-solutions-grant/solutionrepo/solution2404
 ---
 
 ### Description
 
-ETABS Ultimate Suite is an integrated 3D finite element software package for the structural analysis, design and detailing of building systems. Using ETABS advanced and friendly GUI, engineer can perform object-based modelling and design building using linear, non-linear, static and dynamic analysis. ETABS includes many advanced tools like Sequential Constructions, P-delta with Large-Displacement, Performance Based Design tool to cater for advanced and complex building design.
+Engage Nova Pte Ltd
 
 ### Details of Solution
 
-Click <a href='OTTE INTERNATIONAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ETABS Ultimate Suite Version 19 - Package 2 with Training (Perpetual License)
+17200
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Web URL: https://www.engagenova.com/novavision 
+Contact Hotline: 88492042 
+Contact Email: contact@engagenova.com 
+
 
 ### Contact Information
-37400
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

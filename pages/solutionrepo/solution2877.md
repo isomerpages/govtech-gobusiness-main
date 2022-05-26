@@ -1,15 +1,15 @@
 ---
-title: SAP BUSINESS ONE - 5 Perpetual Pro Users SQL on Premise with Remote Desktop License
+title: 198000012M
 permalink: /productivity-solutions-grant/solutionrepo/solution2877
 ---
 
 ### Description
 
-SAP Business One application offers an affordable way to manage the entire business - from accounting and financials, purchasing, inventory, sales and customer relationships, and project management, to operations and human resources. SAP Business One helps the company to streamline processes, gain a greater insight into the business, allows decision maker to act fast and make decisions based on real time information, to help the company drive profitable growth.
+The World Management Pte Ltd
 
 ### Details of Solution
 
-Click <a href='The World Management Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP BUSINESS ONE - 5 Perpetual Pro Users SQL on Premise with Remote Desktop License
+34800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Web URL: www.twm.com.sg 
+Contact Hotline: 67419198 
+Contact Email: sales@twm.com.sg 
+
 
 ### Contact Information
-39160
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

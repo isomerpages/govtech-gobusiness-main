@@ -1,15 +1,15 @@
 ---
-title: iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1
+title: 201228495E
 permalink: /productivity-solutions-grant/solutionrepo/solution2811
 ---
 
 ### Description
 
-iREP Security is a mobile reporting, maintenance and monitoring system which use GPS and Live Images to enable your security officers to log incident or occurrence reports on sites, take attendance and protect premises with Body worn cameras.  Smart phones to carry out duties on site for the security guards and feedback to agency operation or management of the MCST immediately.  The system gives you a transparent view of works completed on site, providing quality assurance to the clients.
+Gabkotech Innovations Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Gabkotech Innovations Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1
+27500
 
 ### Support Level
-Up to Security for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Mobile-Enabled Patrol and Incident Management
+Web URL: http://www.gabkotech.com 
+Contact Hotline: 66844419 
+Contact Email: info@gabkotech.com 
+
 
 ### Contact Information
-22500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

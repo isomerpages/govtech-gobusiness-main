@@ -1,19 +1,15 @@
 ---
-title: Xero - Premier Subscription Only
+title: 200312912E
 permalink: /productivity-solutions-grant/solutionrepo/solution1807
 ---
 
 ### Description
 
-Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
-
-Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
-
-Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
+DATA CONNECT TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='Central Management Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -32,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero - Premier Subscription Only
+4982
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 2)
+Web URL: WWW.D-CONNECT.NET 
+Contact Hotline: 8001014209 
+Contact Email: SALES@D-CONNECT.NET 
+
 
 ### Contact Information
-696
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

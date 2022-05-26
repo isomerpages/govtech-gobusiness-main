@@ -1,19 +1,15 @@
 ---
-title: T-Guard - Package (1 Vehicle)
+title: 201130424H
 permalink: /productivity-solutions-grant/solutionrepo/solution1865
 ---
 
 ### Description
 
-T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
-
--Advanced tracking technology providing greater fleet insights to improve business productivity and safety
--Driver behaviour insights and scoring to instil safe driving culture
--Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
+TNT Surveillance Pte Ltd
 
 ### Details of Solution
 
-Click <a href='TNT Surveillance Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -32,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-T-Guard - Package (1 Vehicle)
+19540
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Safety Management System
+Web URL: www.tnts.com.sg 
+Contact Hotline: 98338687 
+Contact Email: ivy_lee@tnts.com.sg 
+
 
 ### Contact Information
-5538
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

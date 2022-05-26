@@ -1,15 +1,15 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package A   HRMS Standard
+title: 199609132G
 permalink: /productivity-solutions-grant/solutionrepo/solution2254
 ---
 
 ### Description
 
-Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
+Synergix Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Synergix Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SYNERGIX E1 Version TH6 - Package A :  HRMS Standard
+31200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Synergix Technologies Pte Ltd
+www.synergixtech.com
+Email: marketing@synergixtech.com
+Tel: +65 6664 3030
 
 ### Contact Information
-35790
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

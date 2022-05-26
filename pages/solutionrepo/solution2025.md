@@ -1,15 +1,15 @@
 ---
-title: A2000ERP Version 12.X - Package (B) - A2000ERP Wholesale System for 10 Users + 8 Mobile Users Annual Subscription
+title: 199602373D
 permalink: /productivity-solutions-grant/solutionrepo/solution2025
 ---
 
 ### Description
 
-A2000 Solutions Pte. Ltd. is an established ERP business software development company in Singapore with more than 24 years of industry experience in its pocket. We provide enterprise solutions that cover financial management, analytics, mobile solutions, sales & distribution, POS, inventory & warehouse system. A2000 Solutions simplifies your business processes, empowers people, and helps SMEs to create dynamic responses to market changes for small and medium-sized industries.
+A2000 Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='A2000 Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-A2000ERP Version 12.X - Package (B) - A2000ERP Wholesale System for 10 Users + 8 Mobile Users Annual Subscription
+33400
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enterprise Resource Planning (ERP) Software for Wholesale 
+Web URL: www.a2000erp.com 
+Contact Hotline: 67202000 
+Contact Email: info@a2000.net 
+
 
 ### Contact Information
-33568
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

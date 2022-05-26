@@ -1,5 +1,5 @@
 ---
-title: 1. WSQ Retail (Sf) Inventory Control (Perform Stock Control for Retail Operations)
+title: 1. Demonstrate Secure Use of IT
 permalink: /productivity-solutions-grant/solutionrepo/solution3179
 ---
 

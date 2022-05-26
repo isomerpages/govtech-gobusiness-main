@@ -1,15 +1,15 @@
 ---
-title: Mobile Responsive E-Commerce Version 1 - Standard
+title: 201916665K
 permalink: /productivity-solutions-grant/solutionrepo/solution1526
 ---
 
 ### Description
 
-Web Imp is an award winning SG tech firm with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. Their strong ties with reputable tech companies enable seamless integration with solutions such as B2C Loyalty CRM, payment gateways, and multi-channel marketplace. They ensure scalability and continuity of your digitalization with their Client Support team and digital marketing capabilities.
+Zolution Pte Ltd
 
 ### Details of Solution
 
-Click <a href='WEB IMP PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Mobile Responsive E-Commerce Version 1 - Standard
+3840
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.zolution.co 
+Contact Hotline: 31385268 
+Contact Email: team@zolution.co 
+
 
 ### Contact Information
-10000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

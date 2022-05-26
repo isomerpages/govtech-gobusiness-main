@@ -1,16 +1,15 @@
 ---
-title: ONE LOGON - ONE LOGistics Online - Package 1 (iWMS SaaS)
+title: 200307927R
 permalink: /productivity-solutions-grant/solutionrepo/solution544
 ---
 
 ### Description
 
-ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules.
-KEYfields leverages on technology, developing IT Solutions that are versatile and cost effective. The solutions can easily integrate into and across other business centric modules. In addition, they can be deployed independently to cater to different business needs.
+KEYfields Pte Ltd
 
 ### Details of Solution
 
-Click <a href='KEYfields Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ONE LOGON - ONE LOGistics Online - Package 1 (iWMS SaaS)
+35000
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Networked Trade Platform Value Added Services
+KEYfields Pte. Ltd.
+www.keyfields.com
+Email: kenny@keyfields.com
+Tel: +65 6842 7886
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

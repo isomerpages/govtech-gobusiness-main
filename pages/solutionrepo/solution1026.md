@@ -1,18 +1,15 @@
 ---
-title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
+title: 201014126M
 permalink: /productivity-solutions-grant/solutionrepo/solution1026
 ---
 
 ### Description
 
-BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design - For real time design collaboration, work sharing and change management.
-BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+BIMAGE Consulting Pte Ltd
 
 ### Details of Solution
 
-Click <a href='BIMAGE Consulting Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
+$13000
 
 ### Support Level
-Up to Building & Construction  for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Coordination Tools and Collaboration Platform
+Company Name:BIMAGE Consulting Pte Ltd 
+Web URL: https://www.bimageconsulting.com/autodesk-bim-tools 
+Contact Hotline: 62717875 
+Contact Email: enquiry@bimageconsulting.com 
+
 
 ### Contact Information
-$1,200.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

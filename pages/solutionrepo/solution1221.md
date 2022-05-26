@@ -1,15 +1,15 @@
 ---
-title: VRcollab LITE - BIM VDC VR FULL BUNDLE
+title: 201002583D
 permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 
 ### Description
 
-VRcollab is a next generation VDC software solution for the construction industry which provides BIM interrogation, Stakeholder collaboration and use of Virtual Reality in BIM coordination sessions. BIM interrogation capabilities includes Full BIM Meta Data Inspection and Precise Model Measurements. The software also allows the users to annotate and comment directly on VR models for the purpose of issue creation, tracking, and coordination reporting.
+Edgeworks Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='VRCOLLAB PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-VRcollab LITE - BIM VDC VR FULL BUNDLE
+5858
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Company Name:Edgeworks Solutions Pte Ltd 
+Web URL: www.edgeworks.com.sg 
+Contact Hotline: 67504498 
+Contact Email: sales@edgeworks.com.sg 
+
 
 ### Contact Information
-5650
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

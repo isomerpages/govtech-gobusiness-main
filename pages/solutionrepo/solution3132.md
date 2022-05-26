@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2. Apply Project Management Skills
+2. Supply Chain Solutioning/Modelling/Planning/Strategising
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
+Up to Generic for SMEs <br>
 Up to IT Solution for non-SMEs
 
 ### Things to Note
-Enterprise Resource Planning (ERP) Software for Wholesale
+Fleet Management System
 
 ### Contact Information
 N.A.

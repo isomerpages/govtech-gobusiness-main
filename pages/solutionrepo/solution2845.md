@@ -1,15 +1,15 @@
 ---
-title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1C
+title: 200801526G
 permalink: /productivity-solutions-grant/solutionrepo/solution2845
 ---
 
 ### Description
 
-DashBod is a cloud accounting software that is one of the software listed on Inland Revenue Authority of Singapore (IRAS)'s Accounting Software Register ("ASR"), and is developed by SMECEN, a wholly-owned subsidiary of the Association of Small and Medium Enterprises (ASME).
+MATCH RESOURCES PTE LTD
 
 ### Details of Solution
 
-Click <a href='EBOS SG PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1C
+11300
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: www.matchresources.co 
+Contact Hotline: 66531198 
+Contact Email: jobs@matchresources.co 
+
 
 ### Contact Information
-6790
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

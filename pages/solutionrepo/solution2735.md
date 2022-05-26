@@ -1,15 +1,15 @@
 ---
-title: WhyzeHR Version 12 - STANDARD 25
+title: 200818854Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2735
 ---
 
 ### Description
 
-Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
+Whyze Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Whyze Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WhyzeHR Version 12 - STANDARD 25
+9200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: https://whyze.com.sg/escheduling/ 
+Contact Hotline: 68380161 
+Contact Email: enquiry@whyze.com.sg 
+
 
 ### Contact Information
-4600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

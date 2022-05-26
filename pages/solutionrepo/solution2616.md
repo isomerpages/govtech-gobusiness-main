@@ -1,15 +1,15 @@
 ---
-title: School Bus Management System Version SBMS.V2 - 4 Vehicle Package
+title: 201727676C
 permalink: /productivity-solutions-grant/solutionrepo/solution2616
 ---
 
 ### Description
 
-SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
+Airsquire Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='SSTA Technology Development Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-School Bus Management System Version SBMS.V2 - 4 Vehicle Package
+11700
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Fleet Safety Management System
+Web URL: www.airsquire.ai 
+Contact Hotline: 91190708 
+Contact Email: hello@airsquire.ai 
+
 
 ### Contact Information
-16200
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

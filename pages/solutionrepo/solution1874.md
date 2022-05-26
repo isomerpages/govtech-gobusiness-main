@@ -1,17 +1,15 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) Internet & Malware Defence Large SME with 24 x 7 Managed Support
+title: 201206718K
 permalink: /productivity-solutions-grant/solutionrepo/solution1874
 ---
 
 ### Description
 
-TOFFS MSSP for ABCD provides 24 x7 outsourced monitoring & management of security devices & systems. Services include acting as the SME's inhouse IT security department to monitor & assess the IT security posture
-
-We provide EndPoint protection, vulnerability assessment, network threat hunting & AI-based anomaly, network & system behavioural analytics to detect malware, data infiltration, data extradition and remediate in real-time any malware attacks that is threatening the organisation.
+Zetta Solution Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Toffs Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) Internet & Malware Defence Large SME with 24 x 7 Managed Support
+16800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Managed Detection and Response
+Web URL: www.zetta-solution.com 
+Contact Hotline: 67450866 
+Contact Email: sales@zetta-solution.com 
+
 
 ### Contact Information
-42800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)
+title: 201014126M
 permalink: /productivity-solutions-grant/solutionrepo/solution1023
 ---
 
 ### Description
 
-EasyBus is a true all in one platform designed specifically for service industry, it most suitable for business include Laundry, Leather care, Alteration, Home service and other customer centric service business, platform include from customer Apps/Website to POS to logistic system to production system, no matter you are running a factory or a shop or doing business online or all of them, we provide a single place to helping you improve your productivity, sales and create great customer loyalty.
+BIMAGE Consulting Pte Ltd
 
 ### Details of Solution
 
-Click <a href='TrustyTech Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)
+8400
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Company Name:BIMAGE Consulting Pte Ltd 
+Web URL: https://www.bimageconsulting.com/autodesk-bim-tools 
+Contact Hotline: 62717875 
+Contact Email: enquiry@bimageconsulting.com 
+
 
 ### Contact Information
-18000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

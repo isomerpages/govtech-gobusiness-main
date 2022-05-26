@@ -1,15 +1,15 @@
 ---
-title: Psoft Accounting Systems - Package (Cloud-Based Three Users - Peppol Ready)
+title: 201705995K
 permalink: /productivity-solutions-grant/solutionrepo/solution722
 ---
 
 ### Description
 
-Our company specializes in business software applications ie selling Psoft Accounting software for SME in Singapore to help them keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Our software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow. All these to help SME company to perform better.
+Psoft Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Psoft Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Psoft Accounting Systems - Package (Cloud-Based Three Users - Peppol Ready)
+2110
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 1)
+Psoft Pte. Ltd.
+http://www.psoftaccounting.com
+Email: psoft@singnet.com.sg
+Tel: +65 6295 3292
 
 ### Contact Information
-4560
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

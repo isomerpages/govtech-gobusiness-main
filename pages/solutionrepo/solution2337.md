@@ -1,15 +1,15 @@
 ---
-title: Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)
+title: 200009228G
 permalink: /productivity-solutions-grant/solutionrepo/solution2337
 ---
 
 ### Description
 
-Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Process Industry, mainly Engineering Service Providers (ESPs). It's to ensure project cost tracking with integrated procurement flow and allows the information to flow seamlessly between the office & project sites by allowing site manager to update project progress status remotely on mobile with photo evidence as well as maintenance task completion checklists to the clients.
+SIACAD Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Synergix Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)
+2600
 
 ### Support Level
-Up to Engineering Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-3-in-1 ERP solution
+Web URL: http://www.siacad.com/ 
+Contact Hotline: 62253823 
+Contact Email: apex15@siacad.com 
+
 
 ### Contact Information
-70860
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

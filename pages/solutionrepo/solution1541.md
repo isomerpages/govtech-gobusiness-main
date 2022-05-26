@@ -1,15 +1,15 @@
 ---
-title: D365 Business Central (Microsoft) - Package A (5 Subscription Licences)
+title: 200615630E
 permalink: /productivity-solutions-grant/solutionrepo/solution1541
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
+Winspire Solutions Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='Winspire Solutions Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-D365 Business Central (Microsoft) - Package A (5 Subscription Licences)
+31708.8
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Company Name: Winspire Solutions Pte Ltd
+Web URL: www.winspiresolutions.com
+Contact Hotline: 67440324
+Contact Email: jkulkarni@winspiresolutions.com
 
 ### Contact Information
-31478.4
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

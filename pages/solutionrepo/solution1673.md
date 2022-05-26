@@ -1,15 +1,15 @@
 ---
-title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - TRAFFIC 2.0
+title: 201835591G
 permalink: /productivity-solutions-grant/solutionrepo/solution1673
 ---
 
 ### Description
 
-RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technologies to intelligently measure shoppers' behavior. Shoppers' behavioral data are anonymously captured and sent to the platform directly from the "Aurora V2" sensors. Retailers can have a wider perspective of where the possible areas to work on increasing revenue are. RetailNext is a proven platform used by more than 450 retailers in over 85 countries to increase sales, reduce theft and eliminate unnecessary costs.
+RetailDDS Asia Pte Ltd
 
 ### Details of Solution
 
-Click <a href='RetailDDS Asia Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - TRAFFIC 2.0
+5776
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Retail Analytics
+Web URL: www.retaildds.com 
+Contact Hotline: 69881039 
+Contact Email: transform@retaildds.com 
+
 
 ### Contact Information
-3956
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

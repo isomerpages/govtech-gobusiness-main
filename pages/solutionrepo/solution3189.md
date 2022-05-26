@@ -1,5 +1,5 @@
 ---
-title: 2. Apply Knowledge of Accounting-Related Concepts
+title: 2. Digital Customer Experience Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3189
 ---
 

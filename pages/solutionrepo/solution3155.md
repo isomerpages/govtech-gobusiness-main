@@ -1,5 +1,5 @@
 ---
-title: 1. Manage Cost and Quality Controls (M)
+title: 1. NICF - CRM - Sales Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3155
 ---
 

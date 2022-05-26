@@ -1,15 +1,15 @@
 ---
-title: RealtyPromote Version 3.2 - RealtyPromote Package 3 up to 20
+title: 201006799R
 permalink: /productivity-solutions-grant/solutionrepo/solution2188
 ---
 
 ### Description
 
-CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
+CommercePromote Pte Ltd
 
 ### Details of Solution
 
-Click <a href='CommercePromote Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-RealtyPromote Version 3.2 - RealtyPromote Package 3 up to 20
+23499
 
 ### Support Level
-Up to Estate Agency for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management for Estate Agents
+Web URL: https://commercepromote.com/agency-management 
+Contact Hotline: 97508889 
+Contact Email: cpsales@commercepromote.com 
+
 
 ### Contact Information
-9360
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

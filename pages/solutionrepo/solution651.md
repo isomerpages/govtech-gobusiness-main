@@ -1,16 +1,15 @@
 ---
-title: NMTODOO - ERP  - Package Premium
+title: 201230283H
 permalink: /productivity-solutions-grant/solutionrepo/solution651
 ---
 
 ### Description
 
-NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Management System. Registered on the IRAS Accounting Software Register (ASR), the solution provides the essential features for Small to Medium Enterprise to manage sales, customer relations, and financial accounting.
-
+Nspire Group Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Neu Media Technology LLP' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-NMTODOO - ERP  - Package Premium
+4950
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM) and Sales Management System
+Nspire Group Pte Ltd
+https://www.RavenPOS.com
+Email: ravenpos@gmail.com
+Tel: +65 6100 2628
 
 ### Contact Information
-30000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

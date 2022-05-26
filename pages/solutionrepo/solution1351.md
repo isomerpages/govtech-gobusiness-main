@@ -1,15 +1,15 @@
 ---
-title: FingerBooth POS System Version 1 - POS System Lite
+title: 201204044K
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 
 ### Description
 
-FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
+BIG MOUTH MARKETING PTE LTD
 
 ### Details of Solution
 
-Click <a href='BIG MOUTH MARKETING PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-FingerBooth POS System Version 1 - POS System Lite
+16200
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management and Inventory Management
+Company Name:BIG MOUTH MARKETING PTE LTD 
+Web URL: WWW.FINGERBOOTH.COM 
+Contact Hotline: 90604096 
+Contact Email: SALES@FINGERBOOTH.COM 
+
 
 ### Contact Information
-6500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

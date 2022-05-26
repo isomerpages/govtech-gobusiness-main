@@ -1,5 +1,5 @@
 ---
-title: 3. Effective Digital Marketing and Sales
+title: 3. RETSF-Applied Data Analytics
 permalink: /productivity-solutions-grant/solutionrepo/solution3151
 ---
 

@@ -1,16 +1,15 @@
 ---
-title: TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)
+title: 199804415D
 permalink: /productivity-solutions-grant/solutionrepo/solution2798
 ---
 
 ### Description
 
-Times Software Pte Ltd is an international software and consultancy company specializing in the development, implementation & systems support as well as the marketing of Times's proprietary suite of applications that include Payroll and Human Resource solutions built on leading technologies.
-Times Software Pte Ltd has a team of employees who are equipped with in-depth knowledge, technological skills, and business processes of the human resource industry standards.
+Times Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Times Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)
+21600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: https://www.timesoftsg.com.sg/timesepayroll/ 
+Contact Hotline: 62951998 
+Contact Email: sales@timesoftsg.com.sg 
+
 
 ### Contact Information
-10400
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

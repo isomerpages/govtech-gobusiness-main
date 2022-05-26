@@ -1,15 +1,15 @@
 ---
-title: Simplr Warehouse Management and Simplr Sales Management Version 6 - Cloud Model (3 Users)
+title: 201209520R
 permalink: /productivity-solutions-grant/solutionrepo/solution1422
 ---
 
 ### Description
 
-Simplr is an easy-to-use, intuitive mobility solution for distribution management, distributor management and warehouse management. The comprehensive field sales-force automation solution optimises productivity, efficiency and provide management with real-time information and visibility in the sales distribution. The solution integrates your distribution network with data capture at every node to optimise resource utilization and provide a macro view of the supply chain.
+SIMPLR SOLUTIONS PTE LTD
 
 ### Details of Solution
 
-Click <a href='SIMPLR SOLUTIONS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Simplr Warehouse Management and Simplr Sales Management Version 6 - Cloud Model (3 Users)
+32400
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Sales Management
+Web URL: https://simplr.net/solutions/ 
+Contact Hotline: 93801127 
+Contact Email: ram@simplr.net 
+
 
 ### Contact Information
-25200
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

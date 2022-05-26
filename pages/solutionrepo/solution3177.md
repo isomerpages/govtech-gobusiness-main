@@ -1,5 +1,5 @@
 ---
-title: 2. Fundamentals of Cyber Security
+title: 2. Align Human Resource Services with Business Needs (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3177
 ---
 

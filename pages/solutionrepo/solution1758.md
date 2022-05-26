@@ -1,15 +1,15 @@
 ---
-title: iCoreSpec - Corporate User (C2 - 10 Users One Package)
+title: 201200009H
 permalink: /productivity-solutions-grant/solutionrepo/solution1758
 ---
 
 ### Description
 
-The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
+Accounting Consultancy Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='iNPQS Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iCoreSpec - Corporate User (C2 - 10 Users One Package)
+2400
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Intelligent National Productivity and Quality Specification (iNPQS)
+Web URL: www.accountingconsultancy.com
+Contact Hotline: 6388 8378
+Contact Email: enquiry@accountingconsultancy.com
 
 ### Contact Information
-9600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

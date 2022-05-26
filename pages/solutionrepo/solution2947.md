@@ -1,15 +1,15 @@
 ---
-title: EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)
+title: 201410040G
 permalink: /productivity-solutions-grant/solutionrepo/solution2947
 ---
 
 ### Description
 
-EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
+BIPO Service Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Edgeworks Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)
+19600
 
 ### Support Level
-Up to Personal Care Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Salon Management System
+Web URL: www.biposervice.com 
+Contact Hotline: 68130610 
+Contact Email: hello@biposervice.com 
+
 
 ### Contact Information
-5050
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

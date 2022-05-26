@@ -1,15 +1,15 @@
 ---
-title: E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Elite)
+title: 201005817K
 permalink: /productivity-solutions-grant/solutionrepo/solution2551
 ---
 
 ### Description
 
-Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
+U Ventures Pte Ltd
 
 ### Details of Solution
 
-Click <a href='SUNPRO INNO APPS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Elite)
+3000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.uventures.com.sg 
+Contact Hotline: 67358135 
+Contact Email: info@uventures.com.sg 
+
 
 ### Contact Information
-7960
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

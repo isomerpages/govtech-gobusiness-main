@@ -1,15 +1,15 @@
 ---
-title: StaffAny Version 1.0-Package A (25 Users)
+title: 201801640G
 permalink: /productivity-solutions-grant/solutionrepo/solution1405
 ---
 
 ### Description
 
-StaffAny is a software-as-a-service that helps business owners reduce work dedicated to scheduling and time-tracking, as well as reduce the cost of operations by minimising time theft and overtime spend.
+Staffany Private Limited
 
 ### Details of Solution
 
-Click <a href='Staffany Private Limited' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-StaffAny Version 1.0-Package A (25 Users)
+10400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource E-scheduling System
+Web URL: https://www.staffany.com 
+Contact Hotline: 9755 8195 
+Contact Email: hello@staffany.com 
 
 ### Contact Information
-3200
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

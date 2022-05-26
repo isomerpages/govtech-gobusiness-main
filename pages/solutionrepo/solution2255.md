@@ -1,15 +1,15 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package B  HRMS Standard with Staff Appraisal and Training
+title: 201400916G
 permalink: /productivity-solutions-grant/solutionrepo/solution2255
 ---
 
 ### Description
 
-Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
+Adept Ventures Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Synergix Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SYNERGIX E1 Version TH6 - Package B : HRMS Standard with Staff Appraisal and Training
+2400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: https://www.adeptforms.com/ 
+Contact Hotline: 90255587 
+Contact Email: contact@adeptforms.com 
+
 
 ### Contact Information
-42770
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

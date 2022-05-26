@@ -1,15 +1,15 @@
 ---
-title: DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEM SM
+title: 201805298E
 permalink: /productivity-solutions-grant/solutionrepo/solution2805
 ---
 
 ### Description
 
-Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
+Cybots Pte. Ltd
 
 ### Details of Solution
 
-Click <a href='Cleverly SG Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEM SM
+20400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital Marketing Packages
+Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ 
+Contact Hotline: 69835690 
+Contact Email: contactus@cybotsai.com 
+
 
 ### Contact Information
-10500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

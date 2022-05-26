@@ -1,15 +1,15 @@
 ---
-title: SAP BUSINESS ONE - 3 Perpetual Pro Users Hana on Cloud
+title: 201600202R
 permalink: /productivity-solutions-grant/solutionrepo/solution2878
 ---
 
 ### Description
 
-SAP Business One application offers an affordable way to manage the entire business - from accounting and financials, purchasing, inventory, sales and customer relationships, and project management, to operations and human resources. SAP Business One helps the company to streamline processes, gain a greater insight into the business, allows decision maker to act fast and make decisions based on real time information, to help the company drive profitable growth.
+CSG Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='The World Management Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP BUSINESS ONE - 3 Perpetual Pro Users Hana on Cloud
+4500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Web URL: www.csglobal-group.com 
+Contact Hotline: 65882378 
+Contact Email: marketing@csglobal-group.com 
+
 
 ### Contact Information
-36180
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

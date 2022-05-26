@@ -1,15 +1,15 @@
 ---
-title: Tableau Visualization - Tableau Starter Pack 2
+title: 200300709H
 permalink: /productivity-solutions-grant/solutionrepo/solution2885
 ---
 
 ### Description
 
-The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help pre-school centre operators with their data mining and data analytics needs in areas such as parent management analysis, staff management analysis, health and safety management analysis, and finance management analysis.  As part of the package, Oak Consulting will also develop a dashboard in Tableau that display up to 4 data sources provided by the pre-school centre operators.
+Acc-Pro Business Links Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Oak Consulting Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Tableau Visualization - Tableau Starter Pack 2
+3503.26
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Data Analytics for Centre Operations
+Web URL: www.acc-pro.com.sg 
+Contact Hotline: 61006388 
+Contact Email: johnny@acc-pro.com.sg 
+
 
 ### Contact Information
-8720
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

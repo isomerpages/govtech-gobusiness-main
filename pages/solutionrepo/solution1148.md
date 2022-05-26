@@ -1,17 +1,15 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package B (2 Users)
+title: 200603587Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1148
 ---
 
 ### Description
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
-
-Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
+Rockbell International Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Rockbell International Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Million Accounting and Stock Control System Version 3 - Package B (2 Users)
+7269
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Company Name:Rockbell International Software Pte Ltd 
+Web URL: www.rockbell.sg 
+Contact Hotline: 64697720 
+Contact Email: sales@rockbell.com.sg 
+
 
 ### Contact Information
-4969
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

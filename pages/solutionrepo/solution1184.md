@@ -1,15 +1,15 @@
 ---
-title: MEGAPOS - MEGAPOS Standard+
+title: 200503951K
 permalink: /productivity-solutions-grant/solutionrepo/solution1184
 ---
 
 ### Description
 
-A cost-effective POS solution that comes with sleek hardware, feature-rich software and top service.   MEGAPOS offers you an opportunity to upgrade to a modern productivity tool engineered and tested for the new retail economy in this post-Covid CB period.
+Megasafe Technology Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Megasafe Technology Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MEGAPOS - MEGAPOS Standard+
+6730
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management and Inventory Management
+Company Name:Megasafe Technology Pte Ltd 
+Web URL: www.megapos.com.sg 
+Contact Hotline: 62245788 
+Contact Email: sales@megasafe.com.sg 
+
 
 ### Contact Information
-5480
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

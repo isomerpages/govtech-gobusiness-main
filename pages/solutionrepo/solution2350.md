@@ -1,15 +1,15 @@
 ---
-title: Simplr Warehouse Management Version 6 - On Premise (5 Users)
+title: 201317320R
 permalink: /productivity-solutions-grant/solutionrepo/solution2350
 ---
 
 ### Description
 
-The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
+CROSSTRACK PTE LTD
 
 ### Details of Solution
 
-Click <a href='SIMPLR SOLUTIONS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Simplr Warehouse Management Version 6 - On Premise (5 Users)
+2164
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Warehouse Management
+Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf 
+Contact Hotline: 91733775 
+Contact Email: psg@crosstrack.sg 
+
 
 ### Contact Information
-56000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

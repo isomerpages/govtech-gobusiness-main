@@ -1,20 +1,15 @@
 ---
-title: Q-DAS - Smart Quality Software - SME QDAS Package 2
+title: 200001198K
 permalink: /productivity-solutions-grant/solutionrepo/solution2699
 ---
 
 ### Description
 
-Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
-Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
-Key features:
-1) Realtime data collection from all brands of measurement equipment
-2) Fast inspection program created from CAD
-3) Full SPC analysis
+Hitachi Sunway Information Systems (Singapore) Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Hexagon Metrology Asia Pacific Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -33,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Q-DAS - Smart Quality Software - SME QDAS Package 2
+20308
 
 ### Support Level
-Up to Advanced Manufacturing for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Manufacturing Quality Management
+Web URL: https://hitachisunway-solutions.sg 
+Contact Hotline: 91053811 
+Contact Email: enquiryplm-sg@hitachi-sunway-is.com 
+
 
 ### Contact Information
-34000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

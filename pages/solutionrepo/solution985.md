@@ -1,17 +1,15 @@
 ---
-title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( Mobile APP Ordering Solution Package )
+title: 200820049M
 permalink: /productivity-solutions-grant/solutionrepo/solution985
 ---
 
 ### Description
 
-AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with .........
-1) Customer self-ordering kiosk providing a less face to face interaction and to ease the queue 
-2) Mobility device via QR / App Ordering to enhance their ordering process .
+FocusGuard Pte Ltd
 
 ### Details of Solution
 
-Click <a href='AZ DIGITAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( Mobile APP Ordering Solution Package )
+4100
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Company Name:FocusGuard Pte Ltd 
+Web URL: www.focusguard.com 
+Contact Hotline: 67666081 
+Contact Email: info@focusguard.sg 
+
 
 ### Contact Information
-10000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

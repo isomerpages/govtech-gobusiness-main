@@ -1,15 +1,15 @@
 ---
-title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental
+title: 201314580M
 permalink: /productivity-solutions-grant/solutionrepo/solution1886
 ---
 
 ### Description
 
-GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
+Arcstone Pte ltd
 
 ### Details of Solution
 
-Click <a href='Graphisoft Asia Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental
+31220
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Coordination Tools and Collaboration Platform
+Web URL: arcstone.co 
+Contact Hotline: +6568156825 
+Contact Email: contact@arcstone.co 
+
 
 ### Contact Information
-3900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

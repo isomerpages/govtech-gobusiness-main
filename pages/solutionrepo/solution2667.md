@@ -1,17 +1,15 @@
 ---
-title: Xero - ACE XERO Cloud Accounting Software - Package B (Subscription + Implementation)
+title: 201424942D
 permalink: /productivity-solutions-grant/solutionrepo/solution2667
 ---
 
 ### Description
 
-Ace is a value-added system integrator, focusing on providing customers with solutions that enhances their productivity and efficiency.
-
-XERO being a cloud based and IRAS approved accounting software, it allows companies to access their financials anytime, anywhere.
+Angels Business Consulting Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='ACE BUSINESS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero - ACE XERO Cloud Accounting Software - Package B (Subscription + Implementation)
+1528
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim 
+Contact Hotline: 98894289 
+Contact Email: angels@angelsbusiness.sg 
+
 
 ### Contact Information
-1830
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

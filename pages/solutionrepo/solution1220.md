@@ -1,15 +1,15 @@
 ---
-title: INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years
+title: 201632956M
 permalink: /productivity-solutions-grant/solutionrepo/solution1220
 ---
 
 ### Description
 
-AEC Collection consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
+VRCOLLAB PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='INNOCOM TECHNOLOGIES PTE LTD ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years
+3000
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Company Name:VRCOLLAB PTE. LTD. 
+Web URL: https://vrcollab.com/lite/ 
+Contact Hotline: +6591008417 
+Contact Email: INFO@VRCOLLAB.COM 
+
 
 ### Contact Information
-8880
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

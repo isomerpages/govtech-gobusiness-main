@@ -1,15 +1,15 @@
 ---
-title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM
+title: 200601493C
 permalink: /productivity-solutions-grant/solutionrepo/solution655
 ---
 
 ### Description
 
-RavenPOS offers standard to full scale business enterprise software automation solution covering all major business trades with integration to our cloud based HQ system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level plus full cloud based accounting suite to assist business owners to gain holistic view of company financial health.
+OCi System Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Nspire Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM
+4220
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 1)
+Company Name:OCi System Pte Ltd 
+Web URL: www.ocisystem.com/accounting-system/ 
+Contact Hotline: 62955177 
+Contact Email: sales@ocisg.com 
+
 
 ### Contact Information
-11860
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

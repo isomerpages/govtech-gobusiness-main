@@ -1,15 +1,15 @@
 ---
-title: Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)
+title: 201911739H
 permalink: /productivity-solutions-grant/solutionrepo/solution2565
 ---
 
 ### Description
 
-Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
+Sugati Travel CRM Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Sugati Travel CRM Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,29 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)
+20000
 
 ### Support Level
-Up to Travel Agents for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to The Grantee shall submit the following documents for claims and verification:
+1. Invoice
+2. Bank statement showing payment to vendor
+3. Purchase order or signed acceptance of quotation / contract
+4. Receipt or cheque
+5. Pictures
+- licence number(s) of software
+6. Usage Report
+- at least 1 month
+7. GIRO Direct Credit Authorisation Form
+8. Declaration of Project's actual Local Business Spend (expenses paid to SG-registered biz) in the text box "if your projections have changed, please tell us why" for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Travel Management System (Operations)
+Web URL: https://sugatitravel.com/ 
+Contact Hotline: 91273257 
+Contact Email: hello@sugatitravel.com 
+
 
 ### Contact Information
-10260
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

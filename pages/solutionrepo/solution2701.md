@@ -1,15 +1,15 @@
 ---
-title: Teamcenter Version 13 - NX
+title: 200001198K
 permalink: /productivity-solutions-grant/solutionrepo/solution2701
 ---
 
 ### Description
 
-Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the leading ICT and Digital Solutions & Services Integrator in ASEAN. Hitachi Sunway specialises in implementing, supporting and providing consultancy for Product Lifecycle Management (PLM) solutions. The Siemens Teamcenter software offering reaches beyond traditional PLM to include more people and processes, and unifies product lifecycle with a digital thread to connect ideation, realization and utilization.
+Hitachi Sunway Information Systems (Singapore) Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Hitachi Sunway Information Systems (Singapore) Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Teamcenter Version 13 - NX
+26584
 
 ### Support Level
-Up to Advanced Manufacturing for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Product and Manufacturing Process Configuration
+Web URL: https://hitachisunway-solutions.sg 
+Contact Hotline: 91053811 
+Contact Email: enquiryplm-sg@hitachi-sunway-is.com 
+
 
 ### Contact Information
-21708
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

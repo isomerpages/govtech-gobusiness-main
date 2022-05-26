@@ -1,15 +1,15 @@
 ---
-title: Revel Systems POS Version 2 - Package C Revel 6 device license w/ e-Menu Ordering
+title: 200508212K
 permalink: /productivity-solutions-grant/solutionrepo/solution1797
 ---
 
 ### Description
 
-Revel Systems iPad Point of Sale is the most versatile solution in the market today-a feature-rich POS platform that offers business owners and operators complete control of their business.
+Adventus Singapore Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Revel Systems Holdings Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Revel Systems POS Version 2 - Package C: Revel 6 device license w/ e-Menu Ordering
+4264.7
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Web URL: https://adventus.com/ 
+Contact Hotline: 61003310 
+Contact Email: info@adventus.com
+
 
 ### Contact Information
-16598.16
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

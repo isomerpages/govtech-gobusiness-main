@@ -1,17 +1,15 @@
 ---
-title: BridgED Version 2.0 - BridgED 150/35
+title: T14LL1727F
 permalink: /productivity-solutions-grant/solutionrepo/solution2437
 ---
 
 ### Description
 
-BridgED is developed specifically for preschool centres to facilitate the management day to day activities and communication between staff and parents.  
-
-It is capable of capturing the profiles of students and staff, allowing for the management of centres' logs and records, and publishing of vetted information to the parents to keep them notified.
+HAVENCE PORTAL LLP
 
 ### Details of Solution
 
-Click <a href='Cyberland Consultancy Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BridgED Version 2.0 - BridgED 150/35
+10620
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Pre-School Management System
+Web URL: WWW.HAVENCE.COM.SG 
+Contact Hotline: 90067620 
+Contact Email: ENQUIRIES@HAVENCE.COM.SG 
+
 
 ### Contact Information
-12030
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

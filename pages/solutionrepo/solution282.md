@@ -1,15 +1,15 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC
+title: 200010264E
 permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 
 ### Description
 
-Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
+Lumen Technologies
 
 ### Details of Solution
 
-Click <a href='Lumen Technologies' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC
+11270
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Managed Detection and Response
+Company Name:Lumen Technologies
+Web URL:https://www.lumen.com/en-sg/home.html
+Contact Hotline:67688000
+Contact Email: ABCDservice@lumen.com
+
 
 ### Contact Information
-2700
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

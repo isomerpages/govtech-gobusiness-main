@@ -1,15 +1,15 @@
 ---
-title: DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)
+title: 201718726K
 permalink: /productivity-solutions-grant/solutionrepo/solution2795
 ---
 
 ### Description
 
-With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
+RHAD Pte. Ltd
 
 ### Details of Solution
 
-Click <a href='RHAD Pte. Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)
-
-### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
-
-### Things to Note
-Digital Marketing Packages
-
-### Contact Information
 9000
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Support Level
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Web URL: https://rhad.agency/ 
+Contact Hotline: 66791003 
+Contact Email: hello@rhad.agency 
+
+
+### Contact Information
+N.A.
+
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

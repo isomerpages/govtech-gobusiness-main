@@ -1,15 +1,15 @@
 ---
-title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)
+title: 199609132G
 permalink: /productivity-solutions-grant/solutionrepo/solution2253
 ---
 
 ### Description
 
-ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+Synergix Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='E-Click Solutions' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)
+27200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:Synergix Technologies Pte Ltd 
+Web URL: www.synergixtech.com 
+Contact Hotline: 62755775 
+Contact Email: marketing@synergixtech.com 
+
 
 ### Contact Information
-4956
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

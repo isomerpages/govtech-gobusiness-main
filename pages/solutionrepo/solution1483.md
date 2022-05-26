@@ -1,11 +1,11 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Medium Engine)
+title: 200207681Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1483
 ---
 
 ### Description
 
-KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+Wolters Kluwer Financial Services Singapore Pte Ltd
 
 ### Details of Solution
 
@@ -28,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Medium Engine)
+749920
 
 ### Support Level
-Up to Banks for SMEs <br>
-Up to IT Solution  for non-SMEs
+Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200.  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Regulatory Reporting for Banks
+Company Name:Wolters Kluwer Financial Services Singapore Pte Ltd
+Web URL:www.wolterskluwerfs.com
+Contact Hotline: 63808000
+Contact Email: Anurag.Seth@wolterskluwer.com
+
 
 ### Contact Information
 N.A.

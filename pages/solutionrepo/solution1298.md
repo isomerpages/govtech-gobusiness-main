@@ -1,15 +1,15 @@
 ---
-title: Ascent iSPOT Fleet Management System - iSPOT FMS Tracking with CAN Bus/BLE Sensor Integration - Package E (35 Sets)
+title: 201206280Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1298
 ---
 
 ### Description
 
-Ascent's iSPOT FMS enable companies to transform their business with data-driven actions on a simple managed platform from the day that they start their fleet. Ascent's positioning in the market on iSPOT FMS has always been cost leadership, commoditizing our solutions and making it available to all companies operating fleets. Installation, guided adoption walkthrough and business hours support flattens the learning curve and allow SME to exact benefits immediately after signing up with us
+Cartrack Technologies South East Asia Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Ascent Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Ascent iSPOT Fleet Management System - iSPOT FMS Tracking with CAN Bus/BLE Sensor Integration - Package E (35 Sets)
+$1,800.00
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Company Name:Cartrack Technologies South East Asia Pte Ltd 
+Web URL: www.cartrack.sg 
+Contact Hotline: 62554151 
+Contact Email: info@cartrack.sg 
+
 
 ### Contact Information
-14700
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

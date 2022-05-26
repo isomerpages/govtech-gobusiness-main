@@ -1,15 +1,15 @@
 ---
-title: Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)
+title: 198901360G
 permalink: /productivity-solutions-grant/solutionrepo/solution979
 ---
 
 ### Description
 
-Singapore Food & Beverage is running out of manpower. Aigens aspire to bring innovation to the traditional Food & Beverage (F&B) industry, which lags behind in adopting technology. In the food service industry, convenience is king. Customers want to experience quick, efficient service with no obstacles. This is even more important for quick service and casual dining restaurants. With Aigens, you can implement innovative solutions that will see your customers returning time and time again.
+AZ DIGITAL PTE LTD
 
 ### Details of Solution
 
-Click <a href='Aigens Technology (Singapore) Pte. Ltd. ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)
+6500
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Company Name:AZ DIGITAL PTE LTD 
+Web URL: www.azdigital.net 
+Contact Hotline: 67451147 
+Contact Email: sales@azdigital.net 
+
 
 ### Contact Information
-25220
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

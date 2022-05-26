@@ -1,15 +1,15 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE
+title: 200709074D
 permalink: /productivity-solutions-grant/solutionrepo/solution1084
 ---
 
 ### Description
 
-BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer/inventory management. Daily sales operation are equipped with many promotions/discount setup abilities, this software also bundles with membership features to monitor customers spending, rewards and redemption. The inventory features will track each stocks in and out of the store and report balance of the stock quantities.
+Coobiz IT Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Coobiz IT Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE
-
-### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
-
-### Things to Note
-Enhanced Retail Management System (Part 2)
-
-### Contact Information
 5000
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Support Level
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Company Name:Coobiz IT Solutions Pte Ltd 
+Web URL: www.coobizit.com 
+Contact Hotline: +6592709558 
+Contact Email: admin@COOBIZIT.COM 
+
+
+### Contact Information
+N.A.
+
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

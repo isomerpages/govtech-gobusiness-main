@@ -1,15 +1,15 @@
 ---
-title: WarelyEcom Version 1.3 - Premium
+title: 201731885M
 permalink: /productivity-solutions-grant/solutionrepo/solution2197
 ---
 
 ### Description
 
-WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
+SkipQoo Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Plus 65 Marketing Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WarelyEcom Version 1.3 - Premium
+6600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.skipqoo.io 
+Contact Hotline: 88460000 
+Contact Email: hello@skipqoo.io 
+
 
 ### Contact Information
-9000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

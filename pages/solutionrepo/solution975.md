@@ -1,16 +1,15 @@
 ---
-title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - With Consignment Module)
+title: 201718128E
 permalink: /productivity-solutions-grant/solutionrepo/solution975
 ---
 
 ### Description
 
-ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order.  For Distributor or Retailers, there are functions that enable them to track their Inventory levels before placing reorder with their suppliers.  This enables them to keep warehousing and storage cost low.
-
+Aigens Technology (Singapore) Pte. Ltd. 
 
 ### Details of Solution
 
-Click <a href='Zetta Solution Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - With Consignment Module)
+11460
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Aigens Technology (Singapore) Pte. Ltd.  
+https://www.aigens.com/ 
+96953417 
+hans.paul@aigens.com 
+
 
 ### Contact Information
-16500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

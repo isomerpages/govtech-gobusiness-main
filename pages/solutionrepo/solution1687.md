@@ -1,15 +1,15 @@
 ---
-title: SoloTracking Version 2 - Package A (40 vehicles)
+title: 201013506H
 permalink: /productivity-solutions-grant/solutionrepo/solution1687
 ---
 
 ### Description
 
-SoloTracking is an industry-proven, advanced and productivity-oriented fleet management system. It makes it unprecedentedly easy to take your fleet's pulse, from location tracking and fleet management to job dispatching and fleet optimization. Besides its "track and trace" capability, SoloTracking provides true digital readiness to your fleet's daily operation.
+Solo Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Solo Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SoloTracking Version 2 - Package A (40 vehicles)
+17394
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Web URL: https://www.solo.com.sg/safepass-facial-recognition-fever-screening-with-attendance-and-access-control-system/ 
+Contact Hotline: 65158803 
+Contact Email: sales@solo.com.sg 
+
 
 ### Contact Information
-31612
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

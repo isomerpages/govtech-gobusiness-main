@@ -1,18 +1,11 @@
 ---
-title: Probing System
+title: 199204515R
 permalink: /productivity-solutions-grant/solutionrepo/solution94
 ---
 
 ### Description
 
-A probing system consists of the following attached to CNC machining center:
-
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-
+Advanced Micro Control Pte Ltd
 
 ### Details of Solution
 
@@ -35,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Probing System
+3995
 
 ### Support Level
-Up to Engineering Services for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General Engineering Services Equipment
+Company Name:Advanced Micro Control Pte Ltd 
+Web URL:http://www.amc.com.sg 
+Contact Hotline:65898818 
+Contact Email:sales@amc.com.sg 
+
 
 ### Contact Information
 N.A.

@@ -1,19 +1,11 @@
 ---
-title: Probing System
+title: 199204515R
 permalink: /productivity-solutions-grant/solutionrepo/solution93
 ---
 
 ### Description
 
-A probing system consists of the following attached to CNC machining center:
-
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-
-Cost of equipment capped at $37,500 per unit 
+Advanced Micro Control Pte Ltd
 
 ### Details of Solution
 
@@ -36,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Probing System
+895
 
 ### Support Level
-Up to Advanced Manufacturing for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General Advanced Manufacturing Equipment
+Company Name:Advanced Micro Control Pte Ltd 
+Web URL:http://www.amc.com.sg 
+Contact Hotline:65898818 
+Contact Email:sales@amc.com.sg 
+
 
 ### Contact Information
 N.A.

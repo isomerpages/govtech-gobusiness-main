@@ -1,15 +1,15 @@
 ---
-title: Intuit Quickbooks Online Full Transformation Package -  Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package
+title: 201539815G
 permalink: /productivity-solutions-grant/solutionrepo/solution60
 ---
 
 ### Description
 
-Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is proud to offer QuickBooks accounting solutions as part of our ever-growing cloud productivity suite. We are a team of qualified of Accredited Digital & Chartered Accountants equipped with the necessary skillsets to make your business easier & better. Our clients can focus on building their business while leaving the hassle of back-end business processes such as accounting to us.
+Acc Pro (Singapore) Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Acc Pro (Singapore) Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Intuit Quickbooks Online Full Transformation Package -  Intuit Quickbooks Online - Full Digital Transformation for Medium Business Package
+5478
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Company Name:Acc Pro (Singapore) Pte. Ltd. 
+Web URL: www.accprosingapore.com 
+Contact Hotline: 63520103 
+Contact Email: sales@accprosingapore.com 
+
 
 ### Contact Information
-9978
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

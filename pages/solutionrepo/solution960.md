@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing
+title: 200615630E
 permalink: /productivity-solutions-grant/solutionrepo/solution960
 ---
 
 ### Description
 
-An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
+Winspire Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Winspire Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing
+30148.8
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enterprise Resource Planning (ERP) Software for Wholesale
+Winspire Solutions Pte Ltd
+www.winspiresolutions.com
+Email: jkulkarni@winspiresolutions.com
+Tel: +65 9835 7900 (mobile) / +65 6744 0324
 
 ### Contact Information
-47038.56
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

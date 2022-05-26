@@ -1,18 +1,11 @@
 ---
-title: Digital Welding Equipment 
+title: 200100439R
 permalink: /productivity-solutions-grant/solutionrepo/solution1287
 ---
 
 ### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
-
-Cost of equipment capped at $37,500 per unit
+PEOPLE CENTRAL PTE LTD
 
 ### Details of Solution
 
@@ -35,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Digital Welding Equipment 
+$5,000.00
 
 ### Support Level
-Up to Marine & Offshore for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General M&O Equipment
+
+Web URL: www.peoplecentral.co 
+Contact Hotline: 68372336 
+Contact Email: business@peoplecentral.co
+
 
 ### Contact Information
 N.A.

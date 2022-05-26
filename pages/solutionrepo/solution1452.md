@@ -1,17 +1,15 @@
 ---
-title: Octopus Retail Solution - Package E (Multi Terminal + CRM + eCommerce)
+title: 201635071C
 permalink: /productivity-solutions-grant/solutionrepo/solution1452
 ---
 
 ### Description
 
-Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal. 
-
-Our solutions help retail owners run sales and promotions, track inventory, manage operations and engage customers. Applicable to small businesses and larger multi-store operations. Our solutions have been deployed in thousands of retail in Singapore and internationally.
+Swingvy Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='Octopus Retail Management Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Octopus Retail Solution - Package E (Multi Terminal + CRM + eCommerce)
+1200
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management and Inventory Management
+Web URL: http://swingvy.com/ 
+Contact Hotline: +6591877655 
+Contact Email: support@swingvy.com 
+
 
 ### Contact Information
-23758
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

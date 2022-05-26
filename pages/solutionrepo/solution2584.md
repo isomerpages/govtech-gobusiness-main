@@ -1,15 +1,15 @@
 ---
-title: QuickBooks Online - Acloud - QBO Quick Start - Set D
+title: 201502174C
 permalink: /productivity-solutions-grant/solutionrepo/solution2584
 ---
 
 ### Description
 
-QuickBooks Online is an IRAS-registered cloud accounting software which helps small business owners to access their accounting data, send invoice & record expenses anytime & anywhere when they are online.
+Book&Entries Pte Ltd
 
 ### Details of Solution
 
-Click <a href='ACloud Bookkeeping Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-QuickBooks Online - Acloud - QBO Quick Start - Set D
+720
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: www.bookentries.com.sg 
+Contact Hotline: 62214246 
+Contact Email: support@bookentries.com.sg 
+
 
 ### Contact Information
-2999
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

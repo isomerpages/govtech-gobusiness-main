@@ -1,19 +1,15 @@
 ---
-title: Pepper Cloud CRM Version 14.0-Standard_5Users
+title: 201702434C
 permalink: /productivity-solutions-grant/solutionrepo/solution2281
 ---
 
 ### Description
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
-
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
-
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
+Pepper Cloud Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Pepper Cloud Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -32,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Pepper Cloud CRM Version 14.0-Standard_5Users
+20500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Web URL: https://peppercloud.com/ 
+Contact Hotline: 97510475 
+Contact Email: sales@peppercloud.com 
+
 
 ### Contact Information
-6600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

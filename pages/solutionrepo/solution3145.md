@@ -1,5 +1,5 @@
 ---
-title: 3. E-Commerce Campaign Management (ICDL Digital Marketing)
+title: 3. Effective Project Documentation
 permalink: /productivity-solutions-grant/solutionrepo/solution3145
 ---
 

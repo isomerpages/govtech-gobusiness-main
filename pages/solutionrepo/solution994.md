@@ -1,15 +1,15 @@
 ---
-title: iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium + Online Ordering)
+title: 201618962D
 permalink: /productivity-solutions-grant/solutionrepo/solution994
 ---
 
 ### Description
 
-iCHEF is an integrated digital ordering solution to help small F&B businesses operate efficiently on a single platform. With iCHEF, business can digitally place order on tablet devices or on customer's phone, directly into the kitchen stations, manage orders and payment, track regular customer visits, create loyalty programs, manage inventory, analyses their business through the same simple solution.
+Singapore Dining Butler Pte Ltd
 
 ### Details of Solution
 
-Click <a href='iCHEF SG PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium + Online Ordering)
+7288
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Company Name:Singapore Dining Butler Pte Ltd 
+Web URL: diningbutler.com 
+Contact Hotline: 63392800 
+Contact Email: enquiry@diningbutler.com 
+
 
 ### Contact Information
-8471
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

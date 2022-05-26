@@ -1,22 +1,15 @@
 ---
-title: EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)
+title: 201529028W
 permalink: /productivity-solutions-grant/solutionrepo/solution2754
 ---
 
 ### Description
 
-EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
-- Simple and easy to use for cashiers. 
-- Full-featured CRM
-- Powerful Promotions engine
-- Inventory management
-- Ecommerce integration 
-- Accounting integration 
-- E-payments, QR payment, credit card, NETS
+EPOS Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='EPOS Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -35,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)
+4649
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Web URL: https://www.epos.com.sg/ 
+Contact Hotline: 68718833 
+Contact Email: sales@epos.com.sg 
+
 
 ### Contact Information
-7520
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

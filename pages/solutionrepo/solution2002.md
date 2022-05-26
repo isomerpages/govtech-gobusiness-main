@@ -1,13 +1,11 @@
 ---
-title: Ethylene Removal System
+title: 200102135C
 permalink: /productivity-solutions-grant/solutionrepo/solution2002
 ---
 
 ### Description
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
-
-Cost of equipment capped at $37,500 per unit
+EQCOMS Technology Pte Ltd
 
 ### Details of Solution
 
@@ -30,14 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Ethylene Removal System
+5900
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General Wholesale Trade Equipment
+Web URL: www.eqcoms.com 
+Contact Hotline: 67453177 
+Contact Email: salesadmin@eqcoms.com 
+
 
 ### Contact Information
 N.A.

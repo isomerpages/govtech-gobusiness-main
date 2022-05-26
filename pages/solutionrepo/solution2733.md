@@ -1,16 +1,15 @@
 ---
-title: BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Network License
+title: 200818854Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2733
 ---
 
 ### Description
 
-BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
-BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
+Whyze Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Network License
+4600
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Web URL: https://whyze.com.sg/escheduling/ 
+Contact Hotline: 68380161 
+Contact Email: enquiry@whyze.com.sg 
+
 
 ### Contact Information
-5300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

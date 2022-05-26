@@ -1,15 +1,15 @@
 ---
-title: Flavor Customer Relationship Management System Version 1 - Advanced Mode 2
+title: 202039751G
 permalink: /productivity-solutions-grant/solutionrepo/solution2643
 ---
 
 ### Description
 
-Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
+FLAVOR PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='FLAVOR PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Flavor Customer Relationship Management System Version 1 - Advanced Mode 2
+10600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Web URL: www.flavorcrm.com 
+Contact Hotline: 66791003 
+Contact Email: info@flavorcrm.com 
+
 
 ### Contact Information
-10400
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

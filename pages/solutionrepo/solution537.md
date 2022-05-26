@@ -1,17 +1,15 @@
 ---
-title: KEEPITAL Sales Management Business Solution Version 3 - Package (48 Product Showcase)
+title: 201308767Z
 permalink: /productivity-solutions-grant/solutionrepo/solution537
 ---
 
 ### Description
 
-Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
-To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized.
-
+KEEP Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='KEEP Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-KEEPITAL Sales Management Business Solution Version 3 - Package (48 Product Showcase)
+29700
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Sales Management
+Keep Pte Ltd
+www.keepital.com
+Email: ask@keepital.com
+Tel: +65 9623 9126
 
 ### Contact Information
-4500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

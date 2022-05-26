@@ -1,15 +1,15 @@
 ---
-title: Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)
+title: 200415297M
 permalink: /productivity-solutions-grant/solutionrepo/solution1016
 ---
 
 ### Description
 
-Sage 300 takes the complexity out of managing your business finances across borders, in multiple currencies and locations. All processes work including financials, operations and inventory, sales could be integrated to other process work such as project and vendor management, HRMS and payroll, marketing and customer service efficiently, increasing work productivity between multi departments.
+COMPTRAC SYSTEMS TECHNOLOGY PTE LTD
 
 ### Details of Solution
 
-Click <a href='COMPTRAC SYSTEMS TECHNOLOGY PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)
+27951
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD 
+Web URL: www.comptrac.com.sg 
+Contact Hotline: 68481273 
+Contact Email: itgrants@comptrac.com.sg 
+
 
 ### Contact Information
-43092
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

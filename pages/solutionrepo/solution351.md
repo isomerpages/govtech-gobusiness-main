@@ -1,15 +1,15 @@
 ---
-title: Deskera People Version 10.0 - Package C (People - 30 Users)
+title: 200820807R 
 permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 
 ### Description
 
-Deskera HRMS is a comprehensive HRMS solution which includes payroll management, performance appraisal, statutory compliance, recruitment management, timesheet management and others. The solution also comes with e-Leave and e-Claim features which allows a complete view of employees' leaves, attendance and claims submission details.
+Deskera Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Deskera Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Deskera People Version 10.0 - Package C (People - 30 Users)
+$16320.00
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 1)
+Company Name: Deskera Singapore Pte Ltd
+Web URL: https://www.deskera.com/
+Contact Hotline: (+65) 62021350
+Contact Email: hello@deskera.com
 
 ### Contact Information
-$10500.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

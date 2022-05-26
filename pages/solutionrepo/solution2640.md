@@ -1,15 +1,15 @@
 ---
-title: DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation
+title: 202039751G
 permalink: /productivity-solutions-grant/solutionrepo/solution2640
 ---
 
 ### Description
 
-Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! [The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+FLAVOR PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='Firstcom Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation
+10400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital Marketing Packages
+Web URL: www.flavorcrm.com 
+Contact Hotline: 66791003 
+Contact Email: info@flavorcrm.com 
+
 
 ### Contact Information
-10000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

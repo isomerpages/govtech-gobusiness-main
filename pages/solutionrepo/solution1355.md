@@ -1,15 +1,15 @@
 ---
-title: Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 1 User)
+title: 201836351D
 permalink: /productivity-solutions-grant/solutionrepo/solution1355
 ---
 
 ### Description
 
-Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledged of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs
+I SOFT BUSINESS SOLUTIONS PTE LTD
 
 ### Details of Solution
 
-Click <a href='I SOFT BUSINESS SOLUTIONS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 1 User)
+8500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD 
+Web URL: http://isoft.my/products 
+Contact Hotline: 68179011 
+Contact Email: isoft.bs@gmail.com 
+
 
 ### Contact Information
-4300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

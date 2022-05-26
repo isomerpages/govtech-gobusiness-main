@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+title: 200206632K
 permalink: /productivity-solutions-grant/solutionrepo/solution1830
 ---
 
 ### Description
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED
 
 ### Details of Solution
 
-Click <a href='Aon Solutions Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,15 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+459200
 
 ### Support Level
-Up to All Sectors for SMEs <br>
-Up to Consultancy for non-SMEs
+Up to  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Job Redesign Consultancy
+Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED
+Web URL: www.vermeg.com
+Contact Hotline: 6720 1012
+Contact Email: info@vermeg.com
+
 
 ### Contact Information
+N.A.
 
-
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

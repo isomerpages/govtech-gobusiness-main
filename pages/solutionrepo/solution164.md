@@ -1,16 +1,15 @@
 ---
-title: STUDIO MANAGER Version 7 - Package B (Professional)
+title: 200100911R
 permalink: /productivity-solutions-grant/solutionrepo/solution164
 ---
 
 ### Description
 
-Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
-For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
+Archer Logic (S) Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Archer Logic (S) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-STUDIO MANAGER Version 7 - Package B (Professional)
+5380
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 1)
+Archer Logic (S) Pte Ltd
+https://www.archerlogic.com/studio-manager/
+Email: sales_marketing@archerlogic.com
+Tel: +65 6785 9007
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

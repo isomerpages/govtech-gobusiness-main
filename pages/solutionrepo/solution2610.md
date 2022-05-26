@@ -1,15 +1,15 @@
 ---
-title: MMS - Xero Accounting Solution - C - Xero Premium Setup Package
+title: 200801162R
 permalink: /productivity-solutions-grant/solutionrepo/solution2610
 ---
 
 ### Description
 
-At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
+METROPOLITAN MANAGEMENT SERVICES PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='METROPOLITAN MANAGEMENT SERVICES PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MMS - Xero Accounting Solution - C - Xero Premium Setup Package
+4620
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.xero.com/sg/?escape=true 
+Contact Hotline: 63093800 
+Contact Email: ACCOUNTS@METROCORP.COM.SG 
+
 
 ### Contact Information
-2020
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

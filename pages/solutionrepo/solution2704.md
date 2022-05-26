@@ -1,15 +1,15 @@
 ---
-title: Teamcenter Version 13 - AutoCAD
+title: 201435966G
 permalink: /productivity-solutions-grant/solutionrepo/solution2704
 ---
 
 ### Description
 
-Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the leading ICT and Digital Solutions & Services Integrator in ASEAN. Hitachi Sunway specialises in implementing, supporting and providing consultancy for Product Lifecycle Management (PLM) solutions. The Siemens Teamcenter software offering reaches beyond traditional PLM to include more people and processes, and unifies product lifecycle with a digital thread to connect ideation, realization and utilization.
+Quality Zone Technologies Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Hitachi Sunway Information Systems (Singapore) Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Teamcenter Version 13 - AutoCAD
+9000
 
 ### Support Level
-Up to Advanced Manufacturing for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Product and Manufacturing Process Configuration
+Web URL: https://qzonetech.com/ 
+Contact Hotline: 93958688 
+Contact Email: info@qzonetech.com 
+
 
 ### Contact Information
-27984
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Novade - Package 1 Novade Safety (1 Project, up to 1 year)
+title: 201600202R
 permalink: /productivity-solutions-grant/solutionrepo/solution1152
 ---
 
 ### Description
 
-Novade provides an enterprise platform for site operations. Novade leverages mobile technology to streamline site processes, facilitate collaboration and improve productivity. The data captured provides insights to improve operations.
+CSG Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='CSG Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Novade - Package 1: Novade Safety (1 Project, up to 1 year)
+15800
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-e-Permit-to-work (e-PTW)
+Company Name:CSG Software Pte Ltd 
+Web URL: www.csglobal-group.com 
+Contact Hotline: 65882378 
+Contact Email: marketing@csglobal-group.com 
+
 
 ### Contact Information
-18000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

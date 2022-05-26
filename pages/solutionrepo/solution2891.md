@@ -1,15 +1,15 @@
 ---
-title: Adaptive Pay Version 2022 - Package 2
+title: 201323996K
 permalink: /productivity-solutions-grant/solutionrepo/solution2891
 ---
 
 ### Description
 
-Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. It comes with a complete suite to cater HR needs of a company. Modules include comprehensive Personnel Management, Payroll Management, Leave Management, Claim Management, Attendance System and Appraisal System. The Adaptive Pay mobile app for employees to manage their attendance, leave, claim & payslips. The Adaptive Admin Mobile app helps the manager approve their employee request for leave & claims.
+Adaptive Cloud Systems Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Adaptive Cloud Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Adaptive Pay Version 2022 - Package 2
+11700
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: www.adaptivebizapp.com 
+Contact Hotline: 67089398 
+Contact Email: info@adaptivebizapp.com 
+
 
 ### Contact Information
-5700
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

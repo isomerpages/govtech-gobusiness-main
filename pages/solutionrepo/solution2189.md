@@ -1,15 +1,15 @@
 ---
-title: RealtyPromote Version 3.2 - RealtyPromote Package 4 up to 40
+title: 201622158Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2189
 ---
 
 ### Description
 
-CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
+Perfecten Corporate Services Pte Ltd
 
 ### Details of Solution
 
-Click <a href='CommercePromote Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-RealtyPromote Version 3.2 - RealtyPromote Package 4 up to 40
+2160
 
 ### Support Level
-Up to Estate Agency for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Document Management for Estate Agents
+Web URL: www.xero.com 
+Contact Hotline: 63104961 
+Contact Email: enquiry@perfecten.com.sg 
+
 
 ### Contact Information
-16199
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

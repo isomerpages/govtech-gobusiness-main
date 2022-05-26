@@ -1,17 +1,15 @@
 ---
-title: Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Essential 6 Users
+title: 201117204M
 permalink: /productivity-solutions-grant/solutionrepo/solution1102
 ---
 
 ### Description
 
--	Dynamics 365 Business Central is an ERP Solution designed to automate the majority of their transactions from CRM to Quoting, Ordering, producing, shipping and Invoicing on the sales side, to Purchasing, Receiving, Paying and Inventorying on the supply side.
--	Assembly function are also available to cater to their mini-manufacturing needs 
--	This would eliminate redundant processes and tasks and give the management a better perspective of the current state of affairs in the company.
+Microlabs Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Microlabs Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Essential 6 Users
-
-### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
-
-### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-
-### Contact Information
 35200
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+### Support Level
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
+
+### Things to Note
+Company Name:Microlabs Pte Ltd 
+Web URL: http://www.microlabs.com.sg/microsoft-business-central/ 
+Contact Hotline: 68440558 
+Contact Email: businesscentralgodigital@microlabs.com.sg 
+
+
+### Contact Information
+N.A.
+
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

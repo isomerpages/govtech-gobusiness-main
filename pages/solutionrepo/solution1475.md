@@ -1,13 +1,11 @@
 ---
-title: Automatic Nut Splitter
+title: 201009353K
 permalink: /productivity-solutions-grant/solutionrepo/solution1475
 ---
 
 ### Description
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
-
-Cost of equipment capped at $7,500 per unit 
+AxiomSL Pte Ltd
 
 ### Details of Solution
 
@@ -30,14 +28,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Automatic Nut Splitter
+402000
 
 ### Support Level
-Up to Engineering Services for SMEs <br>
-Up to Equipment for non-SMEs
+Up to For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200.  for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-General Engineering Services Equipment
+Company Name: AxiomSL Pte Ltd
+Web URL:www.axiomsl.com
+Contact Hotline: 69557660
+Contact Email: sdatta@axiomsl.com
+
 
 ### Contact Information
 N.A.

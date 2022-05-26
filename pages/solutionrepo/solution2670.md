@@ -1,15 +1,15 @@
 ---
-title: Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2
+title: 201424942D
 permalink: /productivity-solutions-grant/solutionrepo/solution2670
 ---
 
 ### Description
 
-QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobile based and hence, you don't have to install or download traditional software on your laptops or worry about operating-system compatibility. Your data are backs up automatically and meet the highest online security standards for data storage.  It allows you to access from any Internet-connected computer and you can specify permission levels to control what type of data your users can see or modify.
+Angels Business Consulting Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Angels Business Consulting Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2
+6028
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim 
+Contact Hotline: 98894289 
+Contact Email: angels@angelsbusiness.sg 
+
 
 ### Contact Information
-2600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

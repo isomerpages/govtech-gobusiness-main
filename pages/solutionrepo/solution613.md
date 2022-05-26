@@ -1,16 +1,15 @@
 ---
-title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (5 Licenses)
+title: 201008943H
 permalink: /productivity-solutions-grant/solutionrepo/solution613
 ---
 
 ### Description
 
-SAP Business One is an ERP solution with built-in advanced analytical processing capabilities that includes predictive and graph analysis for the business users. With the SAP HANA data platform where both transactions and analytics are processed in memory, large volumes of data is able to be analyzed in real time and with speed. MPS Solutions is offering Accounting, Inventory, CRM & Sales Management on the SAP Business One platform, enhanced with Peppol E-Invoice integration.
-
+MPS Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='MPS Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (5 Licenses)
+26050
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 1)
+Company Name:MPS Solutions Pte Ltd 
+Web URL:www.mpssolutions.com.sg 
+Contact Hotline:68469109 
+Contact Email:kelvin@mclinkgroup.com 
+
 
 ### Contact Information
-70250
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

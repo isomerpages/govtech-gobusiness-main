@@ -1,17 +1,15 @@
 ---
-title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 100 Users
+title: 201700241Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2207
 ---
 
 ### Description
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing. 
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+Cutech Infocomm Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Cutech Infocomm Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 100 Users
+11400
 
 ### Support Level
-Up to Marine & Offshore for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Workforce Optimiser
+Web URL: www.cutechgroup.com/it 
+Contact Hotline: 69042340 
+Contact Email: jnaveen@cutechgroup.com 
+
 
 ### Contact Information
-17600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

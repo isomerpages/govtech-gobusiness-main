@@ -1,15 +1,15 @@
 ---
-title: OpensoftHR Version 18 - Enterprise (25 pax)
+title: 200612880H
 permalink: /productivity-solutions-grant/solutionrepo/solution2788
 ---
 
 ### Description
 
-Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
+Opensoft Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Opensoft Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-OpensoftHR Version 18 - Enterprise (25 pax)
+13900
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: https://www.opensofthr.com/products/ 
+Contact Hotline: 63461511 
+Contact Email: sales@opensofthr.com 
+
 
 ### Contact Information
-7400
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

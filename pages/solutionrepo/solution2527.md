@@ -1,15 +1,15 @@
 ---
-title: Wealthbridge - Xero  - Standard Subscription Only
+title: 201712766D
 permalink: /productivity-solutions-grant/solutionrepo/solution2527
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
+Wealthbridge Corporate Services Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Wealthbridge Corporate Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Wealthbridge - Xero  - Standard Subscription Only
+1525
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.wealthbridgecs.com/ 
+Contact Hotline: 66816635 
+Contact Email: contact@wealthbridgecs.com 
+
 
 ### Contact Information
-560
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

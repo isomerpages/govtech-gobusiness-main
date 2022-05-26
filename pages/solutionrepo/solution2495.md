@@ -1,16 +1,15 @@
 ---
-title: Kaspersky Endpoint Security Version 11.6.0 - 	Kaspersky Endpoint Security Cloud Plus (100 License)
+title: 197800982R
 permalink: /productivity-solutions-grant/solutionrepo/solution2495
 ---
 
 ### Description
 
-Kaspersky Endpoint Security is the world's most tested, most awarded security application powered by next-generation technologies to protect all endpoints - and the data on them.
-It combines multi-layered, next-generation threat protection with additional proactive technologies such as Application, Web and Device controls, vulnerability and patch management and data encryption into an EDR-ready endpoint agent to protect your sensitive data on every endpoint.
+Asiacloud Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Techfount Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Kaspersky Endpoint Security Version 11.6.0 - 	Kaspersky Endpoint Security Cloud Plus (100 License)
+850
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: www.asiacloud.com.sg 
+Contact Hotline: 64716179 
+Contact Email: ES@asiacloud.com.sg 
+
 
 ### Contact Information
-4800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

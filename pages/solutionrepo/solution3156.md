@@ -1,5 +1,5 @@
 ---
-title: 2. Discover Sales Opportunities and Track Prospects
+title: 2. Analyse Consumer Behaviour
 permalink: /productivity-solutions-grant/solutionrepo/solution3156
 ---
 

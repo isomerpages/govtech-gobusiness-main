@@ -1,15 +1,15 @@
 ---
-title: i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)
+title: 201501069M
 permalink: /productivity-solutions-grant/solutionrepo/solution2356
 ---
 
 ### Description
 
-Since 2014, HEXA Singapore has been building websites and applications from strategy and planning to design and development. We also provide data migration to extensive API integrations and anything in between for start-ups, small to mid-size businesses, enterprise organizations, and marketing agencies.
+Swipetask Pte Ltd
 
 ### Details of Solution
 
-Click <a href='HEXA Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-i3 E-Commerce Store - E-Commerce Store Development (Customized WooCommerce)
+15700
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.swipetask.com 
+Contact Hotline: +6596391259 
+Contact Email: info@swipetask.com 
+
 
 ### Contact Information
-10000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

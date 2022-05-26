@@ -1,15 +1,15 @@
 ---
-title: eCommerce Masterplan Version 1.0 - Basic
+title: 201717043E
 permalink: /productivity-solutions-grant/solutionrepo/solution2089
 ---
 
 ### Description
 
-Our Ecommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can allow their customers to shop via online 24/7 to generate higher sales revenue. Integrated with 3rd party marketplaces, allowing their products & services to be exposed to a larger group of audience both locally and globally. With our marketing & engagement tools, higher customer retention rates are increased.
+Aura Partners (Singapore) Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Aks Tech Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-eCommerce Masterplan Version 1.0 - Basic
+1529
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: https://www.xero.com/sg/ 
+Contact Hotline: 62211768 
+Contact Email: APSmarketing@aura.co 
+
 
 ### Contact Information
-6000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

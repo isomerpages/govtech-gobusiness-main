@@ -1,15 +1,15 @@
 ---
-title: SentroWeb - Regular DJ 1000
+title: 201214085K
 permalink: /productivity-solutions-grant/solutionrepo/solution1313
 ---
 
 ### Description
 
-Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that you can take the complexities out of AML/CFT compliance, and get straight to business.
+Nucleo Consulting Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Ingenique Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SentroWeb - Regular DJ 1000
+7170
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
+Company Name:Nucleo Consulting Pte Ltd 
+Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection 
+Contact Hotline: 69110533 
+Contact Email: contact@nucleoconsulting.com 
+
 
 ### Contact Information
-2600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

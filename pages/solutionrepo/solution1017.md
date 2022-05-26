@@ -1,15 +1,15 @@
 ---
-title: Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)
+title: 201807539R
 permalink: /productivity-solutions-grant/solutionrepo/solution1017
 ---
 
 ### Description
 
-Sage 300 takes the complexity out of managing your business finances across borders, in multiple currencies and locations. All processes work including financials, operations and inventory, sales could be integrated to other process work such as project and vendor management, HRMS and payroll, marketing and customer service efficiently, increasing work productivity between multi departments.
+TrustyTech Pte Ltd
 
 ### Details of Solution
 
-Click <a href='COMPTRAC SYSTEMS TECHNOLOGY PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)
+9500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:TrustyTech Pte Ltd 
+Web URL: https://www.easybus.app/ 
+Contact Hotline: 90999564 
+Contact Email: business@trustytechgroup.com 
+
 
 ### Contact Information
-23980
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

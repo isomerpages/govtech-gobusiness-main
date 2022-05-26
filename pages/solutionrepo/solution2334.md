@@ -1,15 +1,15 @@
 ---
-title: FITPRISE Project Management System - PCM - Package 1 (5 users)
+title: 199609132G
 permalink: /productivity-solutions-grant/solutionrepo/solution2334
 ---
 
 ### Description
 
-FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
+Synergix Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Enhanzcom Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-FITPRISE Project Management System - PCM - Package 1 (5 users)
+36200
 
 ### Support Level
-Up to Engineering Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Project Management System
+Web URL: www.synergixtech.com 
+Contact Hotline: 62755775 
+Contact Email: marketing@synergixtech.com 
+
 
 ### Contact Information
-27500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

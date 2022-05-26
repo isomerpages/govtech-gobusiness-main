@@ -1,15 +1,15 @@
 ---
-title: ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)
+title: 200209919N
 permalink: /productivity-solutions-grant/solutionrepo/solution2682
 ---
 
 ### Description
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+Cyberland Consultancy Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Rockbell International Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)
+7720
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: cyberland.edu.sg/bridged 
+Contact Hotline: 65666601 
+Contact Email: casey@cyberland.edu.sg 
+
 
 ### Contact Information
-8999
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

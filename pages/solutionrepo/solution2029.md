@@ -1,15 +1,15 @@
 ---
-title: WarelyPOS Version 1.1 - WarelyPOS Express
+title: 201525600G
 permalink: /productivity-solutions-grant/solutionrepo/solution2029
 ---
 
 ### Description
 
-WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
+Zeemart Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Plus 65 Marketing Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WarelyPOS Version 1.1 - WarelyPOS Express
+3500
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment and Online Food Delivery
+Web URL: www.zeemart.asia 
+Contact Hotline: +6565198064 
+Contact Email: enquiry@zeemart.asia 
+
 
 ### Contact Information
-8300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: SAFE Post-Tension Suite - Package 1 (1 Year subscription)
+title: 201400012M
 permalink: /productivity-solutions-grant/solutionrepo/solution2458
 ---
 
 ### Description
 
-SAFE is the ultimate tool for designing concrete floor and foundation systems. From framing layout to detail drawing production, SAFE integrates every aspect of the engineering design process in one easy and intuitive environment. SAFE provides unmatched productivity to the engineer with its truly unique combination of power, comprehensive capabilities, and ease-of-use.
+AIO Interactive Pte Ltd
 
 ### Details of Solution
 
-Click <a href='OTTE INTERNATIONAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAFE Post-Tension Suite - Package 1 (1 Year subscription)
+11000
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Web URL: www.aio-interactive.com 
+Contact Hotline: 96796966 
+Contact Email: sales@aio-interactive.com 
+
 
 ### Contact Information
-10300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

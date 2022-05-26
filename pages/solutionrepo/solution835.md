@@ -1,15 +1,15 @@
 ---
-title: Synergix E1 Sales & Accounting - Package (10 users) - TH6
+title: 199609132G
 permalink: /productivity-solutions-grant/solutionrepo/solution835
 ---
 
 ### Description
 
-Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking. 
+Synergix Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Synergix Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Synergix E1 Sales & Accounting - Package (10 users) - TH6
+42800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 1)
+Synergix Technologies Pte Ltd
+www.synergixtech.com
+Email: marketing@synergixtech.com
+Tel: +65 6664 3030
 
 ### Contact Information
-61305
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

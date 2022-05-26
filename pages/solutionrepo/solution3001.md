@@ -1,15 +1,15 @@
 ---
-title: 3. Process human resource information (SFw HR)
+title: 201334715D
 permalink: /productivity-solutions-grant/solutionrepo/solution3001
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+W.L.P PTE LTD
 
 ### Details of Solution
 
-Click <a href='W.L.P PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-XERO CLOUD ACCOUNTING SOFTWARE - Basic Package
+4725
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT SOLUTION for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.wlp.com.sg/ 
+Contact Hotline: 64932970 
+Contact Email: info@wlp.com.sg 
+
 
 ### Contact Information
-1525
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: 2. Customer Experience Innovation
+title: 2. Knowledge Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3144
 ---
 

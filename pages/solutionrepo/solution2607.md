@@ -1,15 +1,15 @@
 ---
-title: Enhanzcom - FITPRISE Sales & Inventory System - (5 users)
+title: 200801162R
 permalink: /productivity-solutions-grant/solutionrepo/solution2607
 ---
 
 ### Description
 
-FITPRISE Sales & Inventory System is a flexible business system platform for Sales and Stock Inventory operations. System provides tracking of sales leads through to quotation creation and/or management of the issuance, receipt and movement of stock inventory items. The solution provides the flexibility to create customized reports, fields, logic to meet the SMEs operations workflow. This helps with user system acceptance as system processes are more familiar to their daily operations.
+METROPOLITAN MANAGEMENT SERVICES PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='Enhanzcom Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Enhanzcom - FITPRISE Sales & Inventory System - (5 users)
+2020
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Web URL: https://www.xero.com/sg/?escape=true 
+Contact Hotline: 63093800 
+Contact Email: ACCOUNTS@METROCORP.COM.SG 
+
 
 ### Contact Information
-26900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

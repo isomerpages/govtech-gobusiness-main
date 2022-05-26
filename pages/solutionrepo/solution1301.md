@@ -1,15 +1,15 @@
 ---
-title: Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package B)
+title: 201206280Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1301
 ---
 
 ### Description
 
-Cartrack Fleet offers companies the visibility of their fleet, enabling better control and efficiency management in achieving greater productivity. Cartrack Fleet includes provision of a proven in-house developed platform and installation of advanced telematics devices. Cartrack platform provides our customers with real-time actionable business intelligence, based on advanced technology and reliable data.
+Cartrack Technologies South East Asia Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Cartrack Technologies South East Asia Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package B)
+$8,460.00
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Company Name:Cartrack Technologies South East Asia Pte Ltd 
+Web URL: www.cartrack.sg 
+Contact Hotline: 62554151 
+Contact Email: info@cartrack.sg 
+
 
 ### Contact Information
-$3,000.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

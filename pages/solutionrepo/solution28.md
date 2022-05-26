@@ -1,14 +1,11 @@
 ---
-title: Autonomous Mobile Robot
+title: 200804595N
 permalink: /productivity-solutions-grant/solutionrepo/solution28
 ---
 
 ### Description
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-
-Cost of equipment capped at $37,500 per unit 
-
+361 Degree Consultancy Pte Ltd
 
 ### Details of Solution
 
@@ -31,14 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Autonomous Mobile Robot
+2744.86
 
 ### Support Level
-Up to Engineering Services for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-General Engineering Services Equipment
+361 Degree Consultancy Pte Ltd
+www.361dc.com
+Email: enquiry@361dc.com
+Tel: +65 6515 7906
 
 ### Contact Information
 N.A.

@@ -1,15 +1,15 @@
 ---
-title: Xero - Bamboo Sea Basic+ Package
+title: 201426811M
 permalink: /productivity-solutions-grant/solutionrepo/solution2099
 ---
 
 ### Description
 
-Xero simplifies business tasks so that Managers can focus on the business.
+Bamboo Sea Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Bamboo Sea Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero - Bamboo Sea Basic+ Package
+5900
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: www.bamboosea.sg 
+Contact Hotline: 69325288 
+Contact Email: admin@bamboosea.sg 
+
 
 ### Contact Information
-2900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

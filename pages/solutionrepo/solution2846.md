@@ -1,15 +1,15 @@
 ---
-title: HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3
+title: 200801526G
 permalink: /productivity-solutions-grant/solutionrepo/solution2846
 ---
 
 ### Description
 
-Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize in HR & Payroll management combining with (SaaS) Cloud HR software for SMEs in the Asia-Pacific region. In our HR shared services ecosystem, we use an entire suite of (SaaS) cloud HR software such as Employee Information System, Leave system, Expense (claims), Time Attendance (with facial recognition & geofencing features) and Payroll which combines our HR expertise such as payroll processing services to SMEs.
+MATCH RESOURCES PTE LTD
 
 ### Details of Solution
 
-Click <a href='MATCH RESOURCES PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3
+20900
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
+Web URL: www.matchresources.co 
+Contact Hotline: 66531198 
+Contact Email: jobs@matchresources.co 
+
 
 ### Contact Information
-7020
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

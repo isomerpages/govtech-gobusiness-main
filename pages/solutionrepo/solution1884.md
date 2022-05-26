@@ -1,15 +1,15 @@
 ---
-title: iREP FM - FM (Mobile Inspection) Full
+title: T11FC0171H
 permalink: /productivity-solutions-grant/solutionrepo/solution1884
 ---
 
 ### Description
 
-Gabkotech recognises the need for the digital transformation of the Facilities Management industry, and has proposed iREP FM for this transformation.  Components within the iREP FM solution will improve and transform the industry to be future-ready with Smart IOT Built Environment Solutions.  These solutions will improve workflow automation for the Built Environment Industry.
+Graphisoft Asia Ltd
 
 ### Details of Solution
 
-Click <a href='Gabkotech Innovations Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iREP FM - FM (Mobile Inspection) Full
+3400
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-FM Workflow Automation
+Web URL: www.graphisoft.com.sg 
+Contact Hotline: 67107720 
+Contact Email: mail@graphisoft.com.sg 
+
 
 ### Contact Information
-44100
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

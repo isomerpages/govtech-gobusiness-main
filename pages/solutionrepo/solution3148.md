@@ -1,5 +1,5 @@
 ---
-title: 3. RETSF-Applied Data Analytics
+title: 3. E-Commerce Campaign Management (ICDL Digital Marketing)
 permalink: /productivity-solutions-grant/solutionrepo/solution3148
 ---
 

@@ -1,16 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central - Essentials - 3 Users
+title: 200715700E
 permalink: /productivity-solutions-grant/solutionrepo/solution1971
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is a business management ERP solution for small and mid-sized organizations that automates and streamlines business processes and helps SMEs to manage their business.
-R Systems is a global technology and analytics services company that helps businesses to achieve speed-to-market, overcome digital barriers, and create business value with their specialized service offerings and consultative business approach. 
+R Systems IBIZCS PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='R Systems IBIZCS PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central - Essentials - 3 Users
+28940
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Web URL: https://www.ibizcs.com/ 
+Contact Hotline: 64307341 
+Contact Email: SALES@IBIZCS.COM 
+
 
 ### Contact Information
-26302
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

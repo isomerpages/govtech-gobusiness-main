@@ -1,15 +1,15 @@
 ---
-title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+title: 201309369Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1831
 ---
 
 ### Description
 
-COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
+Yumstone Esolutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Ernst & Young Advisory Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -24,15 +24,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+3180
 
 ### Support Level
-Up to All Sectors for SMEs <br>
-Up to Consultancy for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Job Redesign Consultancy
+Web URL: www.yumstone.sg 
+Contact Hotline: 82226621 
+Contact Email: sales@yumstone.sg 
+
 
 ### Contact Information
+N.A.
 
-
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

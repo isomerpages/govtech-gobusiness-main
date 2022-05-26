@@ -1,28 +1,15 @@
 ---
-title: Daisy XERO Accounting Software - Subscription + Implementation + Training + Migration
+title: 200002935N
 permalink: /productivity-solutions-grant/solutionrepo/solution2425
 ---
 
 ### Description
 
-All-in-one online accounting software
-Run customer's business on Xero's fast, simple, powerful online accounting software.
-
-Everything in one place
-See the invoices, contacts and accounts online.
-
-Connect to the bank
-Easily sync bank and financial information.
-
-Collaborate in real time
-Invite customer's advisor in, and work together anywhere.
-
-Customise to suit customer's needs
-Xero can connect with other apps.
+PORTNET.COM PTE LTD 
 
 ### Details of Solution
 
-Click <a href='Daisy Consultants Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -41,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Daisy XERO Accounting Software - Subscription + Implementation + Training + Migration
+3350
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.portnet.com/WWWPublic/products.html 
+Contact Hotline: 63211173 
+Contact Email: csc@portnet.com 
+
 
 ### Contact Information
-3200
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

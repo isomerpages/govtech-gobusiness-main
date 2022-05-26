@@ -1,15 +1,15 @@
 ---
-title: Visual Optical Retail Management System Version 8 Software - Package (Business Starter)
+title: 201319020E
 permalink: /productivity-solutions-grant/solutionrepo/solution1136
 ---
 
 ### Description
 
-Visual Optical RMS is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
+Frontwave Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Frontwave Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Visual Optical Retail Management System Version 8 Software - Package (Business Starter)
+8900
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Company Name:Frontwave Software Pte Ltd 
+Web URL: https://www.frontwave.com.sg/frontwave-cloud 
+Contact Hotline: 62899125 
+Contact Email: info@frontwave.com.sg 
+
 
 ### Contact Information
-4500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

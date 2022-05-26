@@ -1,15 +1,15 @@
 ---
-title: DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Live Streaming
+title: 201921960R
 permalink: /productivity-solutions-grant/solutionrepo/solution2473
 ---
 
 ### Description
 
-This package by Next Level SG is designed to help SMEs with increasing and accelerating their digital marketing presence. It is geared for companies that want expert help to grow and scale their online branding and sales.
+Innowave Tech Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Next Level SG Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Live Streaming
+7420
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Digital Marketing Packages
+Web URL: https://innowave.com.sg/innoglas/ 
+Contact Hotline: 88313613 
+Contact Email: hello@innowave.com.sg 
+
 
 ### Contact Information
-9900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: VersaFleet Version 6-W
+title: 200818854Z
 permalink: /productivity-solutions-grant/solutionrepo/solution946
 ---
 
 ### Description
 
-VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
+Whyze Solutions Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='VersaFleet Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-VersaFleet Version 6-W
+6300
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Distribution Management System
+Whyze Solutions Pte Ltd
+http://www.whyze.com.sg/hrms/
+Email: enquiry@whyze.com.sg
+Tel: +65 6838 0161
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim
+title: 201708433H
 permalink: /productivity-solutions-grant/solutionrepo/solution1574
 ---
 
 ### Description
 
-Sleek provides a fully digital solution for accounting, tax, HR and sales management for SMEs and Startups in Singapore backed up by quality local support.
+SLEEK TECH (PTE. LTD.)
 
 ### Details of Solution
 
-Click <a href='SLEEK TECH (PTE. LTD.)' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim
+1800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 2)
+Web URL: www.sleek.com 
+Contact Hotline: +6569092214 
+Contact Email: sales@sleek.sg 
+
 
 ### Contact Information
-900
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

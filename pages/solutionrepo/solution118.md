@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud-Premium - 10 Users with PEPPOL (Unlimited Invoices)
+title: 201000125W
 permalink: /productivity-solutions-grant/solutionrepo/solution118
 ---
 
 ### Description
 
-Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-one enterprise resource planning (ERP) solution designed for small to midsize businesses. The solution has the functionalities that manages finance, operations, customer service, inventory, procurement, sales and marketing.
+AFON Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='AFON Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Microsoft Dynamics 365 Business Central Version Cloud-Premium - 10 Users with PEPPOL (Unlimited Invoices)
+29368
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Company Name:AFON Technologies Pte Ltd 
+Web URL: https://www.afon.com.sg/erp 
+Contact Hotline: 63230901 
+Contact Email: sales@afon.com.sg 
+
 
 ### Contact Information
-63000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

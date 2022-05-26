@@ -1,15 +1,15 @@
 ---
-title: MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)
+title: 200208117Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2785
 ---
 
 ### Description
 
-MuRho is a leading home-grown provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Order N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
+MuRho Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='MuRho Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)
+10000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Web URL: www.murho.com.sg 
+Contact Hotline: 62893802 
+Contact Email: sales@murho.com.sg 
+
 
 ### Contact Information
-6000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

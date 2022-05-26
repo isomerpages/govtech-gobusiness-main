@@ -1,15 +1,15 @@
 ---
-title: Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses
+title: 199201624D
 permalink: /productivity-solutions-grant/solutionrepo/solution2656
 ---
 
 ### Description
 
-Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
+Singapore Telecommunications Limited
 
 ### Details of Solution
 
-Click <a href='Singapore Telecommunications Limited' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses
+3233
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: g-segmentict@singtel.com 
+Contact Hotline: 68385510 
+Contact Email: g-segmentict@singtel.com 
+
 
 ### Contact Information
-625
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

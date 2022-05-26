@@ -1,5 +1,5 @@
 ---
-title: 2. Knowledge Management
+title: 2. Digital Customer Experience Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3141
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Gravis - Enterprise Plan (Up to 30 users)
+title: 200512160W
 permalink: /productivity-solutions-grant/solutionrepo/solution2961
 ---
 
 ### Description
 
-Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
+Quantum Inventions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='ONE X GROUP PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Gravis - Enterprise Plan (Up to 30 users)
+4260
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM) + Sales Management System
+Web URL: https://www.quantuminventions.com/ 
+Contact Hotline: 68371582 
+Contact Email: sales@qi.sg 
+
 
 ### Contact Information
-22000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

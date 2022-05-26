@@ -1,15 +1,15 @@
 ---
-title: MyRetailer Android POS - Package D with Dashboard & Unified Payments
+title: 200820807R 
 permalink: /productivity-solutions-grant/solutionrepo/solution347
 ---
 
 ### Description
 
-MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
+Deskera Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='DCS Synthesis Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MyRetailer Android POS - Package D with Dashboard & Unified Payments
+$28800.00
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Company Name: Deskera Singapore Pte Ltd
+Web URL: https://www.deskera.com/
+Contact Hotline: (+65) 62021350
+Contact Email: hello@deskera.com
 
 ### Contact Information
-3160
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: 3. Effective Project Documentation
+title: 3. NICF-CRM Sales Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3142
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 2. Conduct Risk Assessment and Business Impact Analysis
+title: 2. WSQ Perform Delivery Operations
 permalink: /productivity-solutions-grant/solutionrepo/solution3162
 ---
 

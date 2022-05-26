@@ -1,15 +1,15 @@
 ---
-title: Alitec odooCRM and sales - odoo 10 Users AS4 (Sales)
+title: 201016773D
 permalink: /productivity-solutions-grant/solutionrepo/solution2571
 ---
 
 ### Description
 
-Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technical teams have helped local SMEs for the past 5 years to successfully implement Odoo. Odoo is a suite of open source business apps that cover all your company needs: CRM, sales online quotation, increase sales person productivities and managing price-list for customer . Odoo's unique value proposition is to be at the same time very easy to use and fully integrated: No more painful to scale a CRM/sales to a full ERP.
+PROFECTANT CORPORATE SERVICES PTE LTD
 
 ### Details of Solution
 
-Click <a href='Alitec Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Alitec odooCRM and sales - odoo 10 Users AS4 (Sales)
+2368
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM) and Sales Management System
+Web URL: www.profectant.com 
+Contact Hotline: 69746718 
+Contact Email: enquiry@profectant.com 
+
 
 ### Contact Information
-14037
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

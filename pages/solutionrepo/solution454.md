@@ -1,15 +1,15 @@
 ---
-title: HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (350)
+title: 201606906Z
 permalink: /productivity-solutions-grant/solutionrepo/solution454
 ---
 
 ### Description
 
-HRMLABS helps to digitalize the manual process of HR administrative data with ease of access to the centralized information. The base modules cover the Dashboard, Employee Management, Leave Management, Benefits & Claims Management, Payroll Management, Contract Management, Attendance Management and Performance Appraisal Management.
+Hubble Pte Ltd
 
 ### Details of Solution
 
-Click <a href='HRM Labs Pte. Ltd. ' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (350)
+15600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Hubble Pte Ltd
+www.hubble.sg
+Email: sales@hubble.sg
+Tel: +65 6816 7890
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

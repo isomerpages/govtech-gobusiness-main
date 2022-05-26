@@ -1,12 +1,11 @@
 ---
-title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
+title: 201309369Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1832
 ---
 
 ### Description
 
-AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
-The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+Yumstone Esolutions Pte Ltd
 
 ### Details of Solution
 
@@ -29,14 +28,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
+6640
 
 ### Support Level
-Up to Banks for SMEs <br>
-Up to IT Solution  for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Regulatory Reporting for Banks
+Web URL: www.yumstone.sg 
+Contact Hotline: 82226621 
+Contact Email: sales@yumstone.sg 
+
 
 ### Contact Information
 N.A.

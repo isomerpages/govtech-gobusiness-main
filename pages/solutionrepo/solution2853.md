@@ -1,15 +1,15 @@
 ---
-title: DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)
+title: 198701343G
 permalink: /productivity-solutions-grant/solutionrepo/solution2853
 ---
 
 ### Description
 
-MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM. Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry.
+SATO Asia Pacific Pte Ltd
 
 ### Details of Solution
 
-Click <a href='MediaOne Business Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)
+14012.5
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital Marketing Packages
+Web URL: https://satoasiapacific.com/ 
+Contact Hotline: 62762722 
+Contact Email: salesorder-sap@sato-global.com 
+
 
 ### Contact Information
-11888
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User
+title: 201020197E
 permalink: /productivity-solutions-grant/solutionrepo/solution477
 ---
 
 ### Description
 
-Characterized by its easy-to-use, fast operated speed, complete business logic coverage, and accurate information provided; AutoCount system stands out as one of the best accounting software for today business requirements. With minimal of accounting knowledge, user can start using AutoCount system.With its advanced technology such as Microsoft .Net Framework, SQL Server 2012,AutoCount system able to operate in ultra-fast speed and provides strong and stable database for every type of business.
+Ingenious Business Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Ingenious Business Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User
+10699
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:Ingenious Business Software Pte Ltd 
+Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ 
+Contact Hotline: 62234385 
+Contact Email: enquiry@ingenious.sg 
+
 
 ### Contact Information
-3999
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

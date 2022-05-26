@@ -1,15 +1,15 @@
 ---
-title: EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)
+title: 201002583D
 permalink: /productivity-solutions-grant/solutionrepo/solution2917
 ---
 
 ### Description
 
-EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
+Edgeworks Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Edgeworks Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)
+9600
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Web URL: www.edgeworks.com.sg 
+Contact Hotline: 67504498 
+Contact Email: sales@edgeworks.com.sg 
+
 
 ### Contact Information
-7048
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

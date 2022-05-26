@@ -1,5 +1,5 @@
 ---
-title: 1. Digital Customer Experience Management
+title: 1. User Interface and User Experience Optimisation
 permalink: /productivity-solutions-grant/solutionrepo/solution3146
 ---
 

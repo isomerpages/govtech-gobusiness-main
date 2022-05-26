@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software - Package E (Xero Subscription only)
+title: 200918692D
 permalink: /productivity-solutions-grant/solutionrepo/solution2825
 ---
 
 ### Description
 
-Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
+Andre Corporate Pte Ltd
 
 ### Details of Solution
 
-Click <a href='361 Degree Consultancy Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Xero Cloud Accounting Software - Package E (Xero Subscription only)
+2650
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.andrecorpl.com/abss-accounting-software/ 
+Contact Hotline: 92258858 
+Contact Email: consultants@andre.com.sg 
+
 
 ### Contact Information
-729
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

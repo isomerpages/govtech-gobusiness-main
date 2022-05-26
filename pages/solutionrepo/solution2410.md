@@ -1,17 +1,15 @@
 ---
-title: Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 25
+title: 201018942R
 permalink: /productivity-solutions-grant/solutionrepo/solution2410
 ---
 
 ### Description
 
-With more than 10 years' experience in HR Time Attendance Solution, Flick understands the need of having a hassle-free Time Attendance Solution
-
-Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance software that is flexible and proven to work for everyday time management and attendance needs. Flick believes in working together with Clients towards a more efficient HR system and solution, which will in turn reduce Clients' workload significantly.
+Flick Solutions Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Flick Solutions Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 25
+8500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource E-scheduling System
+Web URL: www.flick.sg 
+Contact Hotline: 62768255 
+Contact Email: sales@flick.sg 
+
 
 ### Contact Information
-3000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

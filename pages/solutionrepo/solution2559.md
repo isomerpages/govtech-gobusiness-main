@@ -1,15 +1,15 @@
 ---
-title: LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only 
+title: 201100789H
 permalink: /productivity-solutions-grant/solutionrepo/solution2559
 ---
 
 ### Description
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
+LittleLives Inc Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='LittleLives Inc Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only 
+11650
 
 ### Support Level
-Up to Early Childhood for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to  - Add up to 10 centres for each application.
+
+- Subject to internal funding caps. for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-enrolment Form
+Web URL: littlelives.com 
+Contact Hotline: 89296707 
+Contact Email: sales@littlelives.com 
+
 
 ### Contact Information
-1340
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle
+title: 200311122E
 permalink: /productivity-solutions-grant/solutionrepo/solution1692
 ---
 
 ### Description
 
-ChopeQueues is a contactless queue management that is fully integrated with our Table Management System ChopeBook. Diners join the queue at a restaurant's entrance by scanning a QR code and restaurant staff can inform them once a table becomes available at the touch of a button.
+TNB GLOBAL OUTSOURCE PTE LTD
 
 ### Details of Solution
 
-Click <a href='The Chope Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle
+3980
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Queue Management
+Web URL: www.tnbgo.com 
+Contact Hotline: 98580687 
+Contact Email: enquiries@tnbgo.com 
+
 
 ### Contact Information
-4500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: 2. Align Human Resource Services with Business Needs (SFw HR)
+title: 2. Guard and Patrol (Provide Guard and Patrol Services)
 permalink: /productivity-solutions-grant/solutionrepo/solution3171
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)
+title: 201328632H
 permalink: /productivity-solutions-grant/solutionrepo/solution1999
 ---
 
 ### Description
 
-Armfort Visitor Management System is an integrated solution that will assist businesses to effectively authenticate and pro-actively monitor the people coming in and out of their premises on a daily basis.
+ONE THIRD TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='ONE THIRD TECHNOLOGIES PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)
+5200
 
 ### Support Level
-Up to Security for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Automated Visitor Management
+Web URL: www.onethird.co 
+Contact Hotline: 96497552 
+Contact Email: hello@onethird.co 
+
 
 ### Contact Information
-3250
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

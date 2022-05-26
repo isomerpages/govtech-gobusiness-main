@@ -1,25 +1,15 @@
 ---
-title: BIPO Human Resource Management System - BIPO LITE 50
+title: 201410040G
 permalink: /productivity-solutions-grant/solutionrepo/solution2366
 ---
 
 ### Description
 
-Global HR and Payroll Solutions
- 
-Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. Globally, we support over 1,600 clients across 87 countries and regions with: 
-
-(a) Employee master data management 
-(b) Time and attendance 
-(c) Payroll management
-(d) Expense claims and overtime 
-(e) Performance and training management
-
-BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and practices built in.
+BIPO Service Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='BIPO Service Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -38,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-BIPO Human Resource Management System - BIPO LITE 50
+20700
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource Management System (HRMS) (Part 2)
+Web URL: www.biposervice.com 
+Contact Hotline: 68130610 
+Contact Email: hello@biposervice.com 
+
 
 ### Contact Information
-11500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

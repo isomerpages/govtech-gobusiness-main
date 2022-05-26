@@ -1,15 +1,15 @@
 ---
-title: eBIS Version V1.0-eBIS (Basic Package -1 Project)
+title: 201108438C
 permalink: /productivity-solutions-grant/solutionrepo/solution2293
 ---
 
 ### Description
 
-It's a powerful Mobile Application designed for Building and Construction industry. The Mobile Apps is built to replace pen and paper method of site inspections, site recording, follow-up, issues tracking, and reporting including e-Permit to Work (e-PTW) that makes it easy for everyone throughout the process of construction, hence ultimately transform the industry towards adopting Digital Technology, thereby skyrocket team's productivity.
+NEWGENE TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='NEWGENE TECHNOLOGIES PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-eBIS Version V1.0-eBIS (Basic Package -1 Project)
+52900
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Integrated and Smart Worksite Monitoring and Inspection
+Web URL: www.ngt.com.sg 
+Contact Hotline: 68469334 
+Contact Email: info@ngt.com.sg 
+
 
 ### Contact Information
-30100
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

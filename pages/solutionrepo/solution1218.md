@@ -1,15 +1,15 @@
 ---
-title: CSG - Autodesk AEC Collection - Single User 3-year Subscription
+title: 199400358M
 permalink: /productivity-solutions-grant/solutionrepo/solution1218
 ---
 
 ### Description
 
-The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and AutoCAD, enabling designers, engineers, and contractors to efficiently deliver high quality building and infrastructure projects. With the AEC Collection, teams can create in new ways, explore what's possible, and build with confidence.
+INNOCOM TECHNOLOGIES PTE LTD 
 
 ### Details of Solution
 
-Click <a href='CSG Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-CSG - Autodesk AEC Collection - Single User 3-year Subscription
+1590
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Company Name:INNOCOM TECHNOLOGIES PTE LTD  
+Web URL: https://innocomholding.com/psg-grant/ 
+Contact Hotline: 66035438 
+Contact Email: sales@innocom.com.sg 
+
 
 ### Contact Information
-8880
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

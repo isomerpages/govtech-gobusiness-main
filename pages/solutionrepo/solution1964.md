@@ -1,15 +1,15 @@
 ---
-title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 20 Licences (1 Year)
+title: 200407405Z
 permalink: /productivity-solutions-grant/solutionrepo/solution1964
 ---
 
 ### Description
 
-Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
+Advancedata Network Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Advancedata Network Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Sophos Endpoint - ADV Sophos Central Intercept X Advanced (10 Licenses)
+1000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Endpoint Protection Platform
+Web URL: www.advancedatan.com 
+Contact Hotline: 65606228 
+Contact Email: sales@advancedatan.com 
+
 
 ### Contact Information
-730
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

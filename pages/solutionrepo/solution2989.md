@@ -1,15 +1,15 @@
 ---
-title: 2. Mathematics for Data Analytics
+title: 200200170H
 permalink: /productivity-solutions-grant/solutionrepo/solution2989
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+Epoint Systems Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Refine Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment
+8100
 
 ### Support Level
-Up to Personal Care Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Salon Management System
+Web URL: www.epoint.com.sg 
+Contact Hotline: 61006300 
+Contact Email: darren.sim@epointpos.com 
+
 
 ### Contact Information
-10200
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,16 +1,15 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 1 - Single User System
+title: 201425638H
 permalink: /productivity-solutions-grant/solutionrepo/solution1516
 ---
 
 ### Description
 
-Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
-Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
+Highnix Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Highnix Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Highnix ERP Plus 2 Version 4-3-30 - Standard Package 1 - Single User System
+14200
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Web URL: https://www.highnix.com/product-plan-2/ 
+Contact Hotline: 62141157 
+Contact Email: sales@highnix.com 
+
 
 ### Contact Information
-8600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Basic
+title: 201606513C
 permalink: /productivity-solutions-grant/solutionrepo/solution1901
 ---
 
 ### Description
 
-Arcstone's Product and Manufacturing Process Configuration solution empowers manufacturers to get a head start on manufacturing digitalization by streamlining the heavy manual-based production processes to the fully automated ones. With the toolset, manufacturers can significantly reduce time spent on deployment to rapidly optimize productivity and product traceability
+AUK INDUSTRIES PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='Arcstone Pte ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Basic
+19800
 
 ### Support Level
-Up to Advanced Manufacturing for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Product and Manufacturing Process Configuration
+Web URL: https://auk.industries 
+Contact Hotline: 68163655 
+Contact Email: sales.web@auk.industries 
+
 
 ### Contact Information
-38420
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

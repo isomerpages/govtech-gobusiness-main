@@ -1,23 +1,15 @@
 ---
-title: OCi Sales & Accounting Management System (SAM) Version 11 -Package (3 Concurrent Users)
+title: 200601493C
 permalink: /productivity-solutions-grant/solutionrepo/solution659
 ---
 
 ### Description
 
-OCi Sales and Accounting Management system is a straight-forward and comprehensive system in serving the needs in the following:
- 
--        Pre-Sales Management
--        Post-Sales Fulfillment Management
--        Accounts Receivable Management
--        Accounts Payable Management
--        Inventory Management
--        Project Management
--        Management Accounting & Compliance
+OCi System Pte Ltd
 
 ### Details of Solution
 
-Click <a href='OCi System Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -36,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-OCi Sales & Accounting Management System (SAM) Version 11 -Package (3 Concurrent Users)
+16420
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:OCi System Pte Ltd 
+Web URL: www.ocisystem.com/accounting-system/ 
+Contact Hotline: 62955177 
+Contact Email: sales@ocisg.com 
+
 
 ### Contact Information
-8020
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

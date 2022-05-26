@@ -1,5 +1,5 @@
 ---
-title: 2. Guard and Patrol (Provide Guard and Patrol Services)
+title: 2. Conduct Risk Assessment and Business Impact Analysis
 permalink: /productivity-solutions-grant/solutionrepo/solution3168
 ---
 

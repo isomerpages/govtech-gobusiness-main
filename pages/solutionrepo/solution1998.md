@@ -1,17 +1,15 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package E (7 Perpetual Licenses)
+title: 201328632H
 permalink: /productivity-solutions-grant/solutionrepo/solution1998
 ---
 
 ### Description
 
-Axxis Consulting is an SAP Platinum Partner in Singapore, providing leading expertise to support business transformations and related IT implementations. As a subsidiary of Nihon Unisys and a member of United VARS, Axxis supports customers in APJ and beyond with an experienced international SAP Consulting Team.
-
-SAP Business One is an ERP software designed for SMEs. It's a single, affordable solution for managing the entire company and pre-configured to meet the needs of specific industries.
+ONE THIRD TECHNOLOGIES PTE LTD
 
 ### Details of Solution
 
-Click <a href='Axxis Consulting (S) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP Business One Version 10 - SAP Business One on HANA - Package E (7 Perpetual Licenses)
+2800
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Web URL: www.onethird.co 
+Contact Hotline: 96497552 
+Contact Email: hello@onethird.co 
+
 
 ### Contact Information
-61904.7
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

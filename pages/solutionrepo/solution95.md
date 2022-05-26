@@ -1,15 +1,15 @@
 ---
-title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only
+title: 199204515R
 permalink: /productivity-solutions-grant/solutionrepo/solution95
 ---
 
 ### Description
 
-MoneyWorks was built from the ground up for the needs of business, finance and accounting professionals. A powerful, feature rich platform that unlocks your company's accounting data to help you run a better business. With Integration, Moneyworks connects to your POS, E-commerce and third party solutions to keep your accounting solutions lean yet scalable.
+Advanced Micro Control Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Advanced Micro Control Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only
+4792
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 1)
+Company Name:Advanced Micro Control Pte Ltd 
+Web URL:http://www.amc.com.sg 
+Contact Hotline:65898818 
+Contact Email:sales@amc.com.sg 
+
 
 ### Contact Information
-895
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package B
+title: 200101511N
 permalink: /productivity-solutions-grant/solutionrepo/solution1282
 ---
 
 ### Description
 
-V3Nity-FMS Fleet Management System is a Web based Telematics system powered by V3 Smart Technologies V3Nity proprietary software engine that empower users of our system to effectively monitor and manage its fleet of vehicles in real time using V3 designed small and IMDA/SIRIM approved GPS/3G enabled Smart Tracking device, ranging from tracking and location, asset security to optimising asset utilization, vehicle health status, and safety by measuring driving variables and driver behaviour.
+V3 Smart Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='V3 Smart Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package B
+11700
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Fleet Management System
+Company Name:V3 Smart Technologies Pte Ltd 
+Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ 
+Contact Hotline: 64884176 
+Contact Email: sales@v3smarttech.com 
 
 ### Contact Information
-5280
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Small + Online Ordering)
+title: 201606474N
 permalink: /productivity-solutions-grant/solutionrepo/solution992
 ---
 
 ### Description
 
-iCHEF is an integrated digital ordering solution to help small F&B businesses operate efficiently on a single platform. With iCHEF, business can digitally place order on tablet devices or on customer's phone, directly into the kitchen stations, manage orders and payment, track regular customer visits, create loyalty programs, manage inventory, analyses their business through the same simple solution.
+iCHEF SG PTE LTD
 
 ### Details of Solution
 
-Click <a href='iCHEF SG PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Small + Online Ordering)
+8471
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Company Name:iCHEF SG PTE LTD 
+Web URL: https://www.ichefpos.com/ 
+Contact Hotline: 69096149 
+Contact Email: Jay@ichefpos.sg 
+
 
 ### Contact Information
-7132
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

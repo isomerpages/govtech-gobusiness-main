@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier V23 Version 23 - Package B with E-Invoicing (3 User)
+title: 200804595N
 permalink: /productivity-solutions-grant/solutionrepo/solution30
 ---
 
 ### Description
 
-ABSS Premier provides advanced inventory, and business management capabilities to medium-sized companies. Process foreign currency transactions, GST submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
+361 Degree Consultancy Pte Ltd
 
 ### Details of Solution
 
-Click <a href='361 Degree Consultancy Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-ABSS Premier V23 Version 23 - Package B with E-Invoicing (3 User)
+5943.86
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 1)
+361 Degree Consultancy Pte Ltd
+www.361dc.com
+Email: enquiry@361dc.com
+Tel: +65 6515 7906
 
 ### Contact Information
+N.A.
 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

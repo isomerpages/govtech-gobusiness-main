@@ -1,15 +1,15 @@
 ---
-title: 1. WSQ Retail Inventory Control (Perform Stock Control)
+title: 199905895D
 permalink: /productivity-solutions-grant/solutionrepo/solution2997
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+MEVO Pte Ltd
 
 ### Details of Solution
 
-Click <a href='MEVO Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MEVO DMS 8.3 - MEVO B2B Standard (3 Users Bundle)
+32000
 
 ### Support Level
-Up to Wholesale Trade for SMEs <br>
-Up to IT SOLUTION for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Sales Management
+Web URL: www.mevo.com.sg 
+Contact Hotline: 67739048 
+Contact Email: enquiries@mevo.com.sg 
+
 
 ### Contact Information
-12300
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

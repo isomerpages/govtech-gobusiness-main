@@ -1,17 +1,15 @@
 ---
-title: NetSuite - SuiteSuccess Starter with Implementation (5 Users)
+title: 198801539M
 permalink: /productivity-solutions-grant/solutionrepo/solution1857
 ---
 
 ### Description
 
-For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
-
-Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
+Oracle Corporation Singapore Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Oracle Corporation Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -30,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-NetSuite - SuiteSuccess Starter with Implementation (5 Users)
+9960
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Web URL: www.netsuite.com.sg 
+Contact Hotline: +6562631300 
+Contact Email: infoAPAC@netsuite.com 
+
 
 ### Contact Information
-23005
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: EndPoint Standard - 200 EndPoints
+title: 201915150N
 permalink: /productivity-solutions-grant/solutionrepo/solution2180
 ---
 
 ### Description
 
-Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's EndPoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
+BlueMeg Technologies Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='LGA Telecom Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-EndPoint Standard - 200 EndPoints
+7500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-EndPoint Protection Platform
+Web URL: www.bluemeg.com 
+Contact Hotline: 69316733 
+Contact Email: whitelabel@bluemeg.com 
+
 
 ### Contact Information
-$20,000.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

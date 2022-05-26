@@ -1,15 +1,15 @@
 ---
-title: AM8ZE ERP VISTA - Manufacturing and Supply Chain V35 (35 Users)
+title: 201026975M
 permalink: /productivity-solutions-grant/solutionrepo/solution2899
 ---
 
 ### Description
 
-AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
+Axiom IT Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='AM8ZE PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AM8ZE ERP: VISTA - Manufacturing and Supply Chain V35 (35 Users)
+5500
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ 
+Contact Hotline: 62857288 
+Contact Email: sales@axiomitsolns.com 
+
 
 ### Contact Information
-39800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: SAP Business One Version Cloud-HANA Cloud - 5 Subscription Users with PEPPOL (Unlimited Invoices)
+title: 201000125W
 permalink: /productivity-solutions-grant/solutionrepo/solution121
 ---
 
 ### Description
 
-SAP Business One is an enterprise resource planning (ERP) software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources. SAP Business One currently has over 60,000 customers worldwide.
+AFON Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='AFON Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP Business One Version Cloud-HANA Cloud - 5 Subscription Users with PEPPOL (Unlimited Invoices)
+41600
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+Company Name:AFON Technologies Pte Ltd 
+Web URL: https://www.afon.com.sg/erp 
+Contact Hotline: 63230901 
+Contact Email: sales@afon.com.sg 
+
 
 ### Contact Information
-43980
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

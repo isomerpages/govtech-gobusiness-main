@@ -1,11 +1,11 @@
 ---
-title: Temperature montoring/ labelling device
+title: 200603587Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
 ### Description
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+Rockbell International Software Pte Ltd
 
 ### Details of Solution
 
@@ -24,14 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Temperature montoring/ labelling device
+3200
 
 ### Support Level
-Up to Food for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Food
+Web URL: www.rockbell.sg 
+Contact Hotline: 64697720 
+Contact Email: sales@rockbell.com.sg 
+
 
 ### Contact Information
 N.A.

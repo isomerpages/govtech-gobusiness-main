@@ -1,11 +1,11 @@
 ---
-title: Fish fry quarantine tank system
+title: 200603587Z
 permalink: /productivity-solutions-grant/solutionrepo/solution2171
 ---
 
 ### Description
 
-A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
+Rockbell International Software Pte Ltd
 
 ### Details of Solution
 
@@ -24,14 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Fish fry quarantine tank system
+4450
 
 ### Support Level
-Up to Food for SMEs <br>
-Up to Equipment for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Food
+Web URL: www.rockbell.sg 
+Contact Hotline: 64697720 
+Contact Email: sales@rockbell.com.sg 
+
 
 ### Contact Information
 N.A.

@@ -1,5 +1,5 @@
 ---
-title: 3. Supply Chain Management
+title: 3. Effective Digital Marketing and Sales
 permalink: /productivity-solutions-grant/solutionrepo/solution3157
 ---
 

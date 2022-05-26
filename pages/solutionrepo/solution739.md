@@ -1,15 +1,15 @@
 ---
-title: REACH MOIBOO Version 1.8 - Plan B
+title: 200809939C
 permalink: /productivity-solutions-grant/solutionrepo/solution739
 ---
 
 ### Description
 
-Moiboo is an automobile business software which helps auto workshops, auto dealers, auto rentals, auto spare parts business and Transporter to automate the entire business end to end
+Refine Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='REACH PROCESS OUTSOURCING PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-REACH MOIBOO Version 1.8 - Plan B
+2100
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Company Name:Refine Solutions Pte Ltd 
+Web URL: www.wessconnect.com 
+Contact Hotline: 66028212 
+Contact Email: contactus@wessconnect.com 
+
 
 ### Contact Information
-10800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

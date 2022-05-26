@@ -1,15 +1,15 @@
 ---
-title: Shortcuts Version 8 - Shortcuts Fusion + SMART
+title: 52946643X
 permalink: /productivity-solutions-grant/solutionrepo/solution1190
 ---
 
 ### Description
 
-Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
+Serixx Business Solutions
 
 ### Details of Solution
 
-Click <a href='Serixx Business Solutions' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Shortcuts Version 8 - Shortcuts Fusion + SMART
+8420
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 2)
+Company Name:Serixx Business Solutions 
+Web URL: www.serixx.com 
+Contact Hotline: 91092480 
+Contact Email: info@serixx.com 
+
 
 ### Contact Information
-7720
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

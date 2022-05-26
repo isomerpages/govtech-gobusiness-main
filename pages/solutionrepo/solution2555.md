@@ -1,15 +1,15 @@
 ---
-title: AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)
+title: 201400916G
 permalink: /productivity-solutions-grant/solutionrepo/solution2555
 ---
 
 ### Description
 
-AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
+Adept Ventures Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Adept Ventures Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)
+15000
 
 ### Support Level
-Up to Security for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Mobile-Enabled Patrol and Incident Management
+Web URL: https://www.adeptforms.com/ 
+Contact Hotline: 90255587 
+Contact Email: contact@adeptforms.com 
+
 
 ### Contact Information
-25000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

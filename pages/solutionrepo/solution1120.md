@@ -1,15 +1,15 @@
 ---
-title: SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)
+title: 198204281M
 permalink: /productivity-solutions-grant/solutionrepo/solution1120
 ---
 
 ### Description
 
-Our POS solution is customizable to use in multiple business sectors, which are Retail, F&B and SPA business models. We have almost developed most of the commonly used functionalities which are using in the above-mentioned areas. We do have a prominent in-house development and support team to full fill our client requirements.
+SUNTOYO TECHNOLOGY PTE LTD
 
 ### Details of Solution
 
-Click <a href='SUNTOYO TECHNOLOGY PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)
+$6,800.00
 
 ### Support Level
-Up to Retail for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Enhanced Retail Management System (Part 1)
+Company Name:SUNTOYO TECHNOLOGY PTE LTD 
+Web URL: WWW.SUNTOYO.COM.SG 
+Contact Hotline: 65533855 
+Contact Email: SUNTOYO@SUNTOYO.COM.SG 
+
 
 ### Contact Information
-$4,000.00
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

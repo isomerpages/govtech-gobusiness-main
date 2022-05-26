@@ -1,18 +1,15 @@
 ---
-title: MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud with hardware starter pack
+title: 200208117Z
 permalink: /productivity-solutions-grant/solutionrepo/solution622
 ---
 
 ### Description
 
-MuRho Inventory Management System includes:
-- Store N Track (inventory & asset management)
-- Sell N Track (inventory & sales order management)
-- Manufacture N Track (inventory & manufacturing work in progress management) 
+MuRho Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='MuRho Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -31,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud with hardware starter pack
+8000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Inventory Management System
+MuRho Pte Ltd 
+www.murho.com.sg
+Email:sales@murho.com.sg
+Tel:+65 6289 3802
 
 ### Contact Information
-5000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

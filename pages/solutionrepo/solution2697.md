@@ -1,16 +1,15 @@
 ---
-title: Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users
+title: 200306971W
 permalink: /productivity-solutions-grant/solutionrepo/solution2697
 ---
 
 ### Description
 
-A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
-AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
+Hexagon Metrology Asia Pacific Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Creative E-World Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -29,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users
+29000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 3)
+Web URL: https://www.hexagonmi.com 
+Contact Hotline: 64636242 
+Contact Email: contact.sg.mi@hexagon.com 
+
 
 ### Contact Information
-13520
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

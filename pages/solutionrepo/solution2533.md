@@ -1,15 +1,15 @@
 ---
-title: Aggregate Cloud Accounting Software (Xero) - Package A (Starter)
+title: 201807430D
 permalink: /productivity-solutions-grant/solutionrepo/solution2533
 ---
 
 ### Description
 
-Aggregate Consultancy Services provides one stop digital solution to digitalise the sales, accounting, taxation, human resource management process. We address the challenges of limited resources and manpower faced by start-ups and SMEs so that their business owners and managers are able to spend more productive time growing the businesses instead of handling much of the back-office process. Supported by Xero, we aim to increase the odds of business success in the challenging environment.
+Aggregate Consultancy Services Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Aggregate Consultancy Services Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Aggregate Cloud Accounting Software (Xero) - Package A (Starter)
+5520
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management and Sales Management System (Part 3)
+Web URL: https://www.incorporateyour.com 
+Contact Hotline: 63349329 
+Contact Email: sales@incorporateyour.com 
+
 
 ### Contact Information
-720
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

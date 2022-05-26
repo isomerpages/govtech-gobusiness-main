@@ -1,15 +1,15 @@
 ---
-title: (eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250
+title: 201319020E
 permalink: /productivity-solutions-grant/solutionrepo/solution1174
 ---
 
 ### Description
 
-QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workforce Management solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of eScheduling and Workforce Management. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+Frontwave Software Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Enable Business Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250
+6260
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Human Resource E-scheduling System
+Company Name:Frontwave Software Pte Ltd 
+Web URL: https://www.frontwave.com.sg/frontwave-cloud 
+Contact Hotline: 62899125 
+Contact Email: info@frontwave.com.sg 
+
 
 ### Contact Information
-23000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

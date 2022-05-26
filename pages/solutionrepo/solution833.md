@@ -1,15 +1,15 @@
 ---
-title: Ellie Integrated System Version 2 - Package D (Online ordering, E-Waiter for 2 Users, KDS for 3 Users)
+title: 199609132G
 permalink: /productivity-solutions-grant/solutionrepo/solution833
 ---
 
 ### Description
 
-The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
+Synergix Technologies Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Supply Ellie Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Ellie Integrated System Version 2 - Package D (Online ordering, E-Waiter for 2 Users, KDS for 3 Users)
+42800
 
 ### Support Level
-Up to Food Services for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Digital/ Online Ordering and Payment (Part 2)
+Synergix Technologies Pte Ltd
+www.synergixtech.com
+Email: marketing@synergixtech.com
+Tel: +65 6664 3030
 
 ### Contact Information
-14700
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

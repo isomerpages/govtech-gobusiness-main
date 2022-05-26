@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 1. Performance Management (Lead and Manage a Team of Security Officers)
 permalink: /productivity-solutions-grant/solutionrepo/solution3170
 ---
 

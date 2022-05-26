@@ -1,15 +1,15 @@
 ---
-title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit (Professional) - 12mths
+title: 201606513C
 permalink: /productivity-solutions-grant/solutionrepo/solution1904
 ---
 
 ### Description
 
-Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to "Fitbit-for- machines", our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.
+AUK INDUSTRIES PTE. LTD.
 
 ### Details of Solution
 
-Click <a href='AUK INDUSTRIES PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit (Professional) - 12mths
+41800
 
 ### Support Level
-Up to Advanced Manufacturing for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Equipment Monitoring and Manufacturing Data Collection
+Web URL: https://auk.industries 
+Contact Hotline: 68163655 
+Contact Email: sales.web@auk.industries 
+
 
 ### Contact Information
-21800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

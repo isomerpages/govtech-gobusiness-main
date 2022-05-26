@@ -1,15 +1,15 @@
 ---
-title: Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles
+title: 201313398G
 permalink: /productivity-solutions-grant/solutionrepo/solution2221
 ---
 
 ### Description
 
-Detrack is a cloud-based real-time vehicle tracking and electronic proof of delivery (e-POD) solution with the use of just an Android or iPhone. Detrack not only offers full visibility of your delivery fleet, but it also lets you keep track of the status of every delivery job and helps you notify your customers of the progress in real-time, so they won't have to keep calling your customer hotline. Our solution has proven to help companies cut manpower and operations costs by up to 90%.
+Detrack Systems Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Detrack Systems Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles
+10125
 
 ### Support Level
-Up to Logistics for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Transport Management
+Web URL: https://www.detrack.com 
+Contact Hotline: 68440509 
+Contact Email: sales@detrack.com 
+
 
 ### Contact Information
-4125
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

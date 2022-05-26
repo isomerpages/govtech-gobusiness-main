@@ -1,15 +1,15 @@
 ---
-title: APEX - APEX Basic
+title: 200009228G
 permalink: /productivity-solutions-grant/solutionrepo/solution2339
 ---
 
 ### Description
 
-A fully integrated cloud-based information management solution.
+SIACAD Pte Ltd
 
 ### Details of Solution
 
-Click <a href='SIACAD Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-APEX - APEX Basic
+13000
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Coordination Tools and Collaboration Platform
+Web URL: http://www.siacad.com/ 
+Contact Hotline: 62253823 
+Contact Email: apex15@siacad.com 
+
 
 ### Contact Information
-2600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

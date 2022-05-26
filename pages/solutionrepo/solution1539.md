@@ -1,15 +1,15 @@
 ---
-title: Tekla Solutions - Tekla 3D Modelling Basic with Training
+title: 200615630E
 permalink: /productivity-solutions-grant/solutionrepo/solution1539
 ---
 
 ### Description
 
-Tekla Solutions is a suite of 3D modelling software for Contractors to create and manage Detailing and Fabrication digital information with the capability to create as built drawings for easy submission in buildings and infrastructure projects. Within Tekla Solutions, Tekla Structural Designer is a Design software that gives engineers the power to Analyze and Design buildings efficiently and profitably.
+Winspire Solutions Pte Ltd 
 
 ### Details of Solution
 
-Click <a href='Trimble Solutions SEA Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Tekla Solutions - Tekla 3D Modelling Basic with Training
+27478.4
 
 ### Support Level
-Up to Building & Construction for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-3D Modelling, Immersive Visualisation & Analysis
+Company Name: Winspire Solutions Pte Ltd
+Web URL: www.winspiresolutions.com
+Contact Hotline: 67440324
+Contact Email: jkulkarni@winspiresolutions.com
 
 ### Contact Information
-5375
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

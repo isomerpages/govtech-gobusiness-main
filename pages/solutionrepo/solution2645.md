@@ -1,15 +1,15 @@
 ---
-title: Flavor Customer Relationship Management System Version 1 - Expert Mode 1
+title: 199303979C
 permalink: /productivity-solutions-grant/solutionrepo/solution2645
 ---
 
 ### Description
 
-Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
+ROYAL MANAGEMENT SERVICES (S) PTE LTD
 
 ### Details of Solution
 
-Click <a href='FLAVOR PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Flavor Customer Relationship Management System Version 1 - Expert Mode 1
+1925
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ 
+Contact Hotline: 63390111 
+Contact Email: SALES@RMSGROUP.COM.SG 
+
 
 ### Contact Information
-10600
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

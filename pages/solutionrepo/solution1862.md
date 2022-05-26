@@ -1,15 +1,15 @@
 ---
-title: Second CRM Version 7.1 - Package C (10 Users)
+title: 201307933K
 permalink: /productivity-solutions-grant/solutionrepo/solution1862
 ---
 
 ### Description
 
-Second CRM is an easy to use cloud based business automation solution designed to improve productivity for small to medium businesses. Second CRM focuses on sales, customer services and operations, providing end to end streamlining of business functions.
+Soft Solvers Solutions Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Soft Solvers Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Second CRM Version 7.1 - Package C (10 Users)
+17300
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM) and Sales Management System
+Web URL: https://www.secondcrm.com 
+Contact Hotline: 63048022 
+Contact Email: sales@secondcrm.com 
+
 
 ### Contact Information
-9125
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

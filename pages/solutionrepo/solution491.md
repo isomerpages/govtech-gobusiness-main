@@ -1,15 +1,15 @@
 ---
-title: SAP Business One 9.3 Package - Package (2 Starter Users on Cloud)
+title: 201109918E
 permalink: /productivity-solutions-grant/solutionrepo/solution491
 ---
 
 ### Description
 
-The SAP Business One application offers a single, affordable way to manage your entire business - from sales and customer relationships to financials and operations. Designed specifically for small businesses, it helps you streamline processes, act on timely information, and accelerate profitable growth.
+Integrated Information Systems Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Integrated Information Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-SAP Business One 9.3 Package - Package (2 Starter Users on Cloud)
+37392
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Accounting Management, Customer Relationship Management (CRM) and Sales Management System
+Integrated Information Systems Pte Ltd
+www.integratedinfosystem.com
+Email: William.lee@integratedinfosystem.com
+Tel: +65 9171 9828
 
 ### Contact Information
-11630
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: iFoundries E-commerce Jump Start Package Version 1 - Premium
+title: 201835591G
 permalink: /productivity-solutions-grant/solutionrepo/solution1672
 ---
 
 ### Description
 
-The amount of trade conducted electronically in Singapore and globally has already grown tremendously with the wide-spread of Internet usage. Those who have viewed e-commerce as a secondary channel now need to re-orient every aspect of their business towards a e-commerce mindset. There exists an opportunity to double-down on e-commerce, augmenting existing offerings and creating new lines of product with our E-commerce Jump Start solutions.
+RetailDDS Asia Pte Ltd
 
 ### Details of Solution
 
-Click <a href='iFoundries (Asia Pacific) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-iFoundries E-commerce Jump Start Package Version 1 - Premium
+3476
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-E-Commerce - Online Shop (B2C)
+Web URL: www.retaildds.com 
+Contact Hotline: 69881039 
+Contact Email: transform@retaildds.com 
+
 
 ### Contact Information
-12000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

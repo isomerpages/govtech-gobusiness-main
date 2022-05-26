@@ -1,15 +1,15 @@
 ---
-title: CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)
+title: 201808241N
 permalink: /productivity-solutions-grant/solutionrepo/solution322
 ---
 
 ### Description
 
-Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
+Ctrl Alt Del Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Ctrl Alt Del Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)
+10110
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+Up to Active for non-SMEs
 
 ### Things to Note
-Inventory Management and Sales Management System
+Ctrl Alt Del Pte Ltd
+www.cad.sg
+Email: business@cad.sg
+Tel: +65 9859 7714
 
 ### Contact Information
-6500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

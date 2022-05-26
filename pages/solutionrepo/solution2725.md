@@ -1,15 +1,15 @@
 ---
-title: InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users
+title: 200617554M
 permalink: /productivity-solutions-grant/solutionrepo/solution2725
 ---
 
 ### Description
 
-InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
+OOm Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Integrated Software Engineering Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users
+8000
 
 ### Support Level
-Up to Marine & Offshore for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Asset Monitoring and Management System
+Web URL: https://www.oom.com.sg/ 
+Contact Hotline: 63910930 
+Contact Email: support@oom.com.sg 
+
 
 ### Contact Information
-27000
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

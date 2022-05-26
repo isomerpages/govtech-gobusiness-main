@@ -1,15 +1,15 @@
 ---
-title: Carddio Version 1 - Plus Package
+title: 201718654M
 permalink: /productivity-solutions-grant/solutionrepo/solution1168
 ---
 
 ### Description
 
-The One Stop Mobile App for Business Contact Data Storage & Salesman Management with Lead Exchange
+Carddio Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Carddio Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Carddio Version 1 - Plus Package
+10400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Company Name:Carddio Pte Ltd 
+Web URL: www.carddio.com.sg 
+Contact Hotline: 6258 9852 
+Contact Email: psg@carddio.com.sg
+
 
 ### Contact Information
-7800
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

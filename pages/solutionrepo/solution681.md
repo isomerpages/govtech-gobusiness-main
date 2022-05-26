@@ -1,15 +1,15 @@
 ---
-title: Moneyworks Version 9 - Now (3 users)
+title: 201222896R
 permalink: /productivity-solutions-grant/solutionrepo/solution681
 ---
 
 ### Description
 
-Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
+Ostendo Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Ostendo Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Moneyworks Version 9 - Now (3 users)
+9435
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Accounting Management, Inventory Management and Sales Management System (Part 2)
+Company Name:Ostendo Pte Ltd 
+Web URL: www.ostendoasia.com 
+Contact Hotline: 6983 6783 
+Contact Email: info.sg@ostendoasia.com 
+
 
 ### Contact Information
-5740
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

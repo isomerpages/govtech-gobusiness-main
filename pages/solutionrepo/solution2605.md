@@ -1,15 +1,15 @@
 ---
-title: Firewalla Gold Package - Package C - 3 Sites
+title: 200707356K
 permalink: /productivity-solutions-grant/solutionrepo/solution2605
 ---
 
 ### Description
 
-Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
+Enhanzcom Pte Ltd
 
 ### Details of Solution
 
-Click <a href='Anzen Global Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Firewalla Gold Package - Package C - 3 Sites
+21400
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Unified Threat Management
+Web URL: www.enhanzcom.com 
+Contact Hotline: 62761128 
+Contact Email: enquiries@enhanzcom.com 
+
 
 ### Contact Information
-4020
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

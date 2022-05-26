@@ -1,15 +1,15 @@
 ---
-title: Zoho CRM - Zoho CRM - PROFESSIONAL edition, 15 users
+title: 201108056G
 permalink: /productivity-solutions-grant/solutionrepo/solution1919
 ---
 
 ### Description
 
-Build everlasting customer relationships with the world's favorite CRM. Zoho CRM empowers a global network of over 150,000 businesses in 180 countries to convert more leads, engage with customers, and grow their revenue. Transform your business with the world's favorite customer relationship management software.
+Zoho Corporation Pte. Ltd.
 
 ### Details of Solution
 
-Click <a href='Zoho Corporation Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Sector Specialisation
 
@@ -28,16 +28,20 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Zoho CRM - Zoho CRM - PROFESSIONAL edition, 15 users
+5000
 
 ### Support Level
-Up to Generic for SMEs <br>
-Up to IT Solution for non-SMEs
+Up to Additional criteria: 
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Customer Relationship Management (CRM)
+Web URL: www.zoho.com 
+Contact Hotline: 67231040
+Contact Email: sales@zohocorp.com
+
 
 ### Contact Information
-4500
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
