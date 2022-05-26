@@ -15,6 +15,10 @@ Cost of equipment capped at $10,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 10000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -28,19 +32,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Noodle Boiler
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.
-- Digital timer: Each basket is programmed according to its own set timing.
-- Minimally capacity of 3 noodle baskets.
-
-
+General Food Services Equipment
 
 ### Contact Information
 N.A.

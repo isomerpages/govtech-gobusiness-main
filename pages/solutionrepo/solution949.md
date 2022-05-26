@@ -10,7 +10,11 @@ Companies in wholesale sector used our fully web based system to manage all the 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Whyze Solutions Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 7400 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+WhyzeHR Workforce Management System Version 12 - Package C (25 Standard Package)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Wholesale Trade for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Workforce Management
 
 ### Contact Information
-Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze.com.sg<br>Tel: +65 6838 0161
+7900
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

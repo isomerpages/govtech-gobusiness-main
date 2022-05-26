@@ -9,7 +9,11 @@ This managed security service leverages the power of Microsoft's integrated thre
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Axiom_20210465_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Axiom IT Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+39200
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Microsoft Cybersecurity Package - 80 Users Pack
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Managed Detection and Response
 
 ### Contact Information
-Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br>Contact Hotline: 62857288 <br>Contact Email: sales@axiomitsolns.com <br>
+39200
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

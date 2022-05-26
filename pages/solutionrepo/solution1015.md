@@ -9,7 +9,11 @@ Sage 300 takes the complexity out of managing your business finances across bord
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='COMPTRAC SYSTEMS TECHNOLOGY PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 42370 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Sage 300 Advanced Edition - Cloud Basic Package P2 (10 Users)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Inventory Management and Sales Management System (Part 2)
 
 ### Contact Information
-Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD <br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
+43423
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

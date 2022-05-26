@@ -9,7 +9,11 @@ FocusGuard Fleet Management System is designed as the process of controlling, mo
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='FocusGuard Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6200 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (6 Vehicles)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Fleet Management System
 
 ### Contact Information
-Company Name:FocusGuard Pte Ltd <br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
+6200
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -18,6 +18,10 @@ Cost of equipment  capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+37500
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -31,18 +35,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Digital Welding Equipment 
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Consists of digital welding machines (hardware) and management software
-Current adjusting range: minimally +/- 150A
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

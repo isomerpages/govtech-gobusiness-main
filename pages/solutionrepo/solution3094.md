@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 3. Analyse the Impact of Customer Behaviour on Sales & Marketing Strategies
 permalink: /productivity-solutions-grant/solutionrepo/solution3094
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+3. Supply Chain Management
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+B2B Marketplace/E-Procurement System
 
 ### Contact Information
 

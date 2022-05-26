@@ -10,7 +10,11 @@ The solution aims to provide SME the opportunity to create an online presence. I
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='DODOCA INFORMATION TECHNOLOGY (S) PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 9600 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3-DIMMPS
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic  for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+E-Commerce - Online Shop (B2C)
 
 ### Contact Information
-Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>
+9600
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

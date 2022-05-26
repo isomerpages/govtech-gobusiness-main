@@ -1,5 +1,5 @@
 ---
-title: 2. Mathematics for Data Analytics
+title: 2. Perform Inventory and Stock Control Operations
 permalink: /productivity-solutions-grant/solutionrepo/solution3006
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Mathematics-Data-Analytics-Asynchronous-Elearning' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Webcada Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 3998 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Shopcada POS Version 2 - Annual License
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT SOLUTION for non-SMEs
 
 ### Things to Note
-N.A.
+Enhanced Retail Management System (Part 2)
 
 ### Contact Information
-
+4100
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

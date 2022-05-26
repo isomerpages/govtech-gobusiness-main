@@ -14,6 +14,10 @@ Cost of equipment capped at $35,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 35000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -27,16 +31,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Vacuum Packing and Sealing Machine
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Manufacturing for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Minimum vacuum chamber surface area (Length x Width) of 2184cm2
-
-
+General Food Manufacturing Equipment
 
 ### Contact Information
 N.A.

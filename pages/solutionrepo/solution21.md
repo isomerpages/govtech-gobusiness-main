@@ -14,6 +14,10 @@ Cost of equipment capped at $20,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 20000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -27,19 +31,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Sushi Making Machine
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Unit is programmable to shape nigiri rice balls/sushi rolls and dispense them automatically. 
-- Weight and hardness of nigiri/rolls should be customisable. 
-- Minimum hooper capacity of 6kg cooked rice
-
-
+General Food Services Equipment
 
 ### Contact Information
 N.A.

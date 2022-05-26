@@ -9,16 +9,7 @@ Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign proje
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-1.Accounting<br>
-2.Healthcare<br>
-3.Hotels & Accommodation<br>
-4.Retail<br>
-5.Consumer Goods<br>
-6.Other sectors of strength: Education and Lifesciences
+Click <a href='Mercer (Singapore) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -33,15 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 70% for non-SMEs
+Up to All Sectors for SMEs <br>
+Up to Consultancy for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Job Redesign Consultancy
 
 ### Contact Information
-Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
+
 

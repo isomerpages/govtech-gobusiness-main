@@ -13,6 +13,10 @@ Grant support: 80% of cost of equipment, up to $20,000 grant per unit.
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,28 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+3D Intraoral Scanner
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Healthcare for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Hardware
-- Scanner wand
-- Autoclavable/single-use sleeves
-
-Functionality
-- Open system format - .stl/.ply files etc.
-- Treatment simulation 
-- CAD/CAM software
-
-Supportable costs: 
-- Hardware (incl. software), 1 set of tips/sleeves, Training, 1st yr subscription, 3 yr warranty
-
-*Support is only granted for 1 unit per clinic location.
-Basic equipment costs (e.g. laptop) unsupportable
-Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+General Healthcare Equipment
 
 ### Contact Information
 N.A.

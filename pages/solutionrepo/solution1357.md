@@ -9,7 +9,11 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='I SOFT BUSINESS SOLUTIONS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 8500 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Autocount Accounting Software Version 2.0-Professional Version 2.0 (5 Users)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Inventory Management and Sales Management System (Part 3)
 
 ### Contact Information
-Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
+8500
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

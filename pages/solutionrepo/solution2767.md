@@ -14,7 +14,11 @@ APM Smart Access Solutions enables users to automate access control for various 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='APM Global Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 19350 
 
 ### Eligibility Criteria
 
@@ -29,16 +33,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+APM Smart Access System Version 1.0 - Dual Lanes Turnstiles Solution-Pkg 4
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Building & Construction for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+FM Workflow Automation
 
 ### Contact Information
-Web URL: http://www.apmglobal.com.sg <br>Contact Hotline: 67104938 <br>Contact Email: bella@apmglobal.com.sg <br>
+28000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

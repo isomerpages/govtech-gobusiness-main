@@ -17,7 +17,11 @@ Full Integrated solution that can also be used individually without changing POS
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Getz_Group_Annex_3-CR_wef_10_Sept_2020.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Getz Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 7300 
 
 ### Eligibility Criteria
 
@@ -32,16 +36,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Getz F&B Integrated Instore Transformation Version 2 - Package C (Instore Transformation Only - 2 Mods)
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment (Part 1)
 
 ### Contact Information
-Company Name:Getz Group Pte Ltd <br>Web URL:http://www.getz.co/ <br>Contact Hotline: :  WhatsApp: +WhatsApp: +65 8540 6590 <br>Contact Email:hello@getz.co <br>
+8000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

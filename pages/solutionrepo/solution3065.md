@@ -1,5 +1,5 @@
 ---
-title: 2. Customer Experience Innovation
+title: 1. Analyse risk management data through the effective use of risk tools
 permalink: /productivity-solutions-grant/solutionrepo/solution3065
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Customer-Experience-Innovation-SF-Supervisor' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+1. Equipment and Inventory Management (Level 3)
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Inventory Management System
 
 ### Contact Information
 

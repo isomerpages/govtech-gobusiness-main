@@ -9,7 +9,11 @@ An easily adaptable enterprise resource planning (ERP) solution, it helps small 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Winspire Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 42800 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Microsoft Dynamics 365 Business Central for Wholesale - Package B (15 Perpetual Licenses) with  PEPPOL e-invoicing
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Wholesale Trade for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Enterprise Resource Planning (ERP) Software for Wholesale
 
 ### Contact Information
-Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
+59770.72
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

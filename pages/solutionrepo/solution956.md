@@ -13,6 +13,10 @@ Cost of equipment apped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+37500
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,18 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Able to deliver at least 1000NM of torque
-- 1 battery pack or power unit per  equipment can be supported
-- Training costs to be supported
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

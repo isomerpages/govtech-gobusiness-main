@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+3. Apply Workplace Safety and Health in Logistics and Transportation
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Fleet Management System
 
 ### Contact Information
 N.A.

@@ -9,7 +9,11 @@ Deskera HRMS is a comprehensive HRMS solution which includes payroll management,
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Deskera Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+$12000.00
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Deskera People Version 10.0 - Package D (People - 50 Users)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Human Resource Management System (HRMS) (Part 1)
 
 ### Contact Information
-Company Name: Deskera Singapore Pte Ltd<br>Web URL: https://www.deskera.com/<br>Contact Hotline: (+65) 62021350<br>Contact Email: hello@deskera.com
+$17100.00
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

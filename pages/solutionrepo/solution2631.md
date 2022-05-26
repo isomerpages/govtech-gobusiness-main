@@ -9,7 +9,11 @@ A2000ERP is a business management tool, integrated with components necessary for
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='A2000 Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 26700 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+A2000ERP SOLUTION Version 12.X - A2000ERP MOBILE System for 5 Users, Mobile Suite for 5-Devices (Cloud Based-1 Yr SAAS)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Inventory Management and Sales Management System (Part 3)
 
 ### Contact Information
-Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
+27600
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

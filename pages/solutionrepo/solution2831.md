@@ -9,7 +9,11 @@ The XGS Firewall Series offers next-generation firewall features that provide vi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Centrics Networks Ptd Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 1735 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Sophos Firewall - Manage Firewall - Standard Protection for XGS 126 - 12 MOS
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Unified Threat Management
 
 ### Contact Information
-Web URL: www.centricsnetworks.com.sg <br>Contact Hotline: 68337898 <br>Contact Email: sales@centricsnetworks.com.sg <br>
+1735
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: 3. Implement Manpower Planning Processes (SFw HR)
+title: 2. Supply Chain Solutioning/Modelling/Planning/Strategising
 permalink: /productivity-solutions-grant/solutionrepo/solution3096
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Implement-Manpower-Planning-Processes-SFw-HR-1' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+2. WSQ Perform Delivery Operations
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Fleet Safety Management System
 
 ### Contact Information
 

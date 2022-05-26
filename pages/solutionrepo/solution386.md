@@ -15,6 +15,10 @@ Cost of equipment capped at $10,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 10000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -28,21 +32,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Planetary or Spiral Mixer
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Manufacturing for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Minimum bowl capacity of 20 liters
-- Minimally 3 speed options for Planetary Mixer
-- Minimally 2 speed options for Spiral Mixer 
-- Speeds range from 100 to 500 rpm for smaller mixers (less than 100 liters)
-- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)
-
-
-
+General Food Manufacturing Equipment
 
 ### Contact Information
 N.A.

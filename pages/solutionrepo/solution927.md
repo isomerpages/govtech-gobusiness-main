@@ -10,7 +10,11 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='W.L.P PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+$1,529
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+XERO CLOUD ACCOUNTING SOFTWARE-Xero Basic Package
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management and Sales Management System (Part 3)
 
 ### Contact Information
-Company Name:W.L.P PTE LTD <br>Web URL:https://www.wlp.com.sg/ <br>Contact Hotline:64932970 <br>Contact Email:info@wlp.com.sg <br>
+$1,529
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

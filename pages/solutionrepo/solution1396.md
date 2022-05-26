@@ -9,7 +9,11 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Cynopsis Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 3988 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Artemis-3000 searches for 1 year
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
 
 ### Contact Information
-Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
+3988
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

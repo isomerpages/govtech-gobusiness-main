@@ -9,7 +9,11 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='FoodZaps Technology Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 4980 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+FoodZaps Version 4.0-Package B (eMenu with eWaiter)
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment (Part 2)
 
 ### Contact Information
-Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 8921 4028 <br>Contact Email: sales@foodzaps.com <br>
+4980
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

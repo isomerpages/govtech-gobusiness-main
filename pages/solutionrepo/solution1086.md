@@ -9,7 +9,11 @@ BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Coobiz IT Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 5000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Enhanced Retail Management System (Part 2)
 
 ### Contact Information
-Company Name:Coobiz IT Solutions Pte Ltd <br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
+5000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

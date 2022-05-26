@@ -9,7 +9,11 @@ With COVID-19 hitting many companies, bringing a business online is more critica
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Right_Company_20210209_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='The Right Company Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 10000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+TRC e-Commerce Solutions - Complete
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+E-Commerce - Online Shop (B2C)
 
 ### Contact Information
-Web URL: www.therightcompany.com.sg <br>Contact Hotline: 97376168 <br>Contact Email: admin@therightcompany.com.sg <br>
+10000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -9,7 +9,11 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Detrack Systems Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6375 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 10 Vehicles
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Logistics for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Transport Management
 
 ### Contact Information
-Web URL: https://www.detrack.com <br>Contact Hotline: 68440509 <br>Contact Email: sales@detrack.com <br>
+6375
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

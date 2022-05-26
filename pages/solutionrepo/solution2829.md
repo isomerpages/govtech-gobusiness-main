@@ -9,7 +9,11 @@ Andre Corporate is a software company specializing in accounting software provid
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Andre Corporate Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 3550 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+ABSS Premier Version 23 - Package D (Three User Licence Full Package)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Inventory Management and Sales Management System (Part 3)
 
 ### Contact Information
-Web URL: https://www.andrecorpl.com/abss-accounting-software/ <br>Contact Hotline: 92258858 <br>Contact Email: consultants@andre.com.sg <br>
+3550
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

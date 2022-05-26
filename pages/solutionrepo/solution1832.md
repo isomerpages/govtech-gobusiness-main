@@ -12,6 +12,10 @@ The solution is able to comply with the revised MAS 610 regulatory reporting req
 
 N.A.
 
+### Sector Specialisation
+
+ 459200 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -25,14 +29,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to Banks for SMEs <br>
+Up to IT Solution  for non-SMEs
 
 ### Things to Note
-N.A.
+Regulatory Reporting for Banks
 
 ### Contact Information
 N.A.

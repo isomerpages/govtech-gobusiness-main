@@ -15,6 +15,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -28,20 +32,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Noodle Maker
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Unit must be able to fully automate the noodle making process, i.e., from raw materials (primarily flour and water) to dried noodles in serving portions which are ready to be cooked.
-- Serving size and noodle thickness should be customisable.
-- Time taken to make one serving of noodles (at least 80g) should not exceed 40s.
-
-
-
+General Food Services Equipment
 
 ### Contact Information
 N.A.

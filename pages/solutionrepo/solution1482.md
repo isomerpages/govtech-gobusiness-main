@@ -11,6 +11,10 @@ KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on 
 
 N.A.
 
+### Sector Specialisation
+
+ 830000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -24,15 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Small Engine)
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to Banks for SMEs <br>
+Up to IT Solution  for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+Regulatory Reporting for Banks
 
 ### Contact Information
 N.A.

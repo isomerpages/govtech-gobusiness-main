@@ -13,6 +13,10 @@ Cost of equipment capped at $3,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 3000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,20 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Bristle Blaster / Cup Brush / Power Brush
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Idle speed of at least 2,700 rpm
-- Belt diameter of at least 110 mm
-- Additional bristle brushes (carbon steel or stainless steel) can be supported
-- 1 battery pack or power unit per equipment can be supported
-- Training costs can be supported
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

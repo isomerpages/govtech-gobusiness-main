@@ -9,7 +9,11 @@ FingerBooth POS System is an one stop solution for retail and beauty industry sh
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='BIG MOUTH MARKETING PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 11200 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+FingerBooth POS System Version 1 - POS System Pro With Hardware
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Enhanced Retail Management and Inventory Management
 
 ### Contact Information
-Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
+11800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

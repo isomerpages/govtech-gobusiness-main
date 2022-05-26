@@ -9,7 +9,11 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='SINGAPORE E-BUSINESS PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 4950 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Ezyprocure Version 2.0-Package 1
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+B2B Marketplace/E-Procurement System
 
 ### Contact Information
-Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel: +65 6200 8021
+5000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

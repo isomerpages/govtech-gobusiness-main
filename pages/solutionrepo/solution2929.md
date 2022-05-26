@@ -9,7 +9,11 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Netiquette Software Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+9400
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Netiquette Cloud Business Suite - Package E (Saas for 35 Users)
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Inventory Management and Sales Management System (Part 3)
 
 ### Contact Information
-Web URL: www.netiquette.com.sg <br>Contact Hotline: 94882285 <br>Contact Email: enquiry@netiquette.com.sg <br>
+9400
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

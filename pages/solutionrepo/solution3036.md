@@ -1,5 +1,5 @@
 ---
-title: 3. Human Resource Systems Management Level 2 Operate Human Resource Information Systems
+title: 2. Manage Inventory 
 permalink: /productivity-solutions-grant/solutionrepo/solution3036
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Systems-Management-Level-2-Operate-Human-Resource-Information-Systems-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+2. Business Forecasting
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Fleet Management System
 
 ### Contact Information
 

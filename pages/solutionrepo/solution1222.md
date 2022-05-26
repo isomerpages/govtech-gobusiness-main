@@ -9,7 +9,11 @@ VRcollab is a next generation VDC software solution for the construction industr
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='VRCOLLAB PTE. LTD.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 3000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+VRcollab LITE - LICENSE ONLY
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Building & Construction for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+3D Modelling, Immersive Visualisation & Analysis
 
 ### Contact Information
-Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
+3900
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

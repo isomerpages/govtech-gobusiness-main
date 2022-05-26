@@ -12,7 +12,11 @@ Impossible Marketing, a Google and Facebook partner company, is one of the leadi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Impossible Marketing Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 10000 
 
 ### Eligibility Criteria
 
@@ -27,16 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+DM Impossible Marketing Digital Marketing Packages - Ads Focus - 3 Months
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital Marketing Packages
 
 ### Contact Information
-Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
+10000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

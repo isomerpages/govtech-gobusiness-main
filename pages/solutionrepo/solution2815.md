@@ -9,7 +9,11 @@ iREP Security is a mobile reporting, maintenance and monitoring system which use
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Gabkotech Innovations Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 33000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 10 BWCs) Package 5
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Security for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Mobile-Enabled Patrol and Incident Management
 
 ### Contact Information
-Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
+34500
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

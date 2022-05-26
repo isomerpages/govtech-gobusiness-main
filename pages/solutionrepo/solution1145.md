@@ -13,6 +13,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,17 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Laser Geometric Alignment System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
-Measuring errors: minimum +/- 1%
-Maintenance cost not supported
-Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
+General M&O Equipment
 
 ### Contact Information
 N.A.

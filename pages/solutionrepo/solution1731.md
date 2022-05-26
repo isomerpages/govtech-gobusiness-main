@@ -9,20 +9,7 @@ EON was established in 1996 and specialises in providing human capital consultin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-1.Early Childhood Care & Education<br>
-2.Training & Adult Education<br>
-3.Human Resources<br>
-4.Accountancy<br>
-5.Food & Beverage<br>
-6.Healthcare<br>
-7.Retail & Services<br>
-8.Construction<br>
-9.Food Manufacturing<br>
-10.Logistics/Supply Chain
+Click <a href='EON Consulting & Training Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -37,15 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 70% for non-SMEs
+Up to All Sectors for SMEs <br>
+Up to Consultancy for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Job Redesign Consultancy
 
 ### Contact Information
-Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
+
 

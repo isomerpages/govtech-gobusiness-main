@@ -10,7 +10,11 @@ SecureAPlus is an EndPoint protection solution that uses the right combination o
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='SecureAge Technology Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 2000 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+SecureAPlus Version 6.x - (60 Pax)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+EndPoint Protection Platform
 
 ### Contact Information
-SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

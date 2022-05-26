@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+1. Evaluate and Interpret Financial Reports
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Accounting Management, Customer Relationship Management (CRM) and Sales Management System
 
 ### Contact Information
 N.A.

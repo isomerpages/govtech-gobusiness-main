@@ -9,7 +9,11 @@ Optimize your F&B business productivity and operational efficiency with DinePlan
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='LEVELFIVE SOLUTIONS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 11800 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+LFSuite Version 6.0 - Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment (Part 2)
 
 ### Contact Information
-Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
+12100
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

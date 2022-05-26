@@ -9,7 +9,11 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Cyberland Consultancy Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 10300 
 
 ### Eligibility Criteria
 
@@ -24,18 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 100/25
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
+Up to Early Childhood for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
+Pre-School Management System and e-Enrolment Forms for Preschools
 
 ### Contact Information
-Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
+10300
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

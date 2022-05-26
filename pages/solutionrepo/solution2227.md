@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2227
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DynamicSolutions20200274_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -26,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 ### Contact Information
-Web URL: www.dynsln.com.sg <br>Contact Hotline: 62617881 <br>Contact Email: info@dynsln.com.sg <br>
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

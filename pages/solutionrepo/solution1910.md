@@ -9,7 +9,11 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='AWECREATION PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 5477 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Unified Threat Management
 
 ### Contact Information
-Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
+5477
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

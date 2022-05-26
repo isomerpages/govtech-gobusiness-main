@@ -9,7 +9,11 @@ Going digital is not only about moving to cloud-based accounting software but al
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Singapore Corporate Services Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 4541 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management and Sales Management System (Part 3)
 
 ### Contact Information
-Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email: enquiry@scs-cpa.com <br>
+5341
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

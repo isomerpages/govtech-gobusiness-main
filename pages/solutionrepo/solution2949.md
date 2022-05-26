@@ -11,7 +11,11 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='BIPO Service Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 19600 
 
 ### Eligibility Criteria
 
@@ -26,16 +30,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 50
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
 
 ### Contact Information
-Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
+18600
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -9,7 +9,11 @@ Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Acc Pro (Singapore) Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 20160 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - Digital Payroll Processing and Year-end Payroll Submission Services (40 Pax)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
 
 ### Contact Information
-Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+20160
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

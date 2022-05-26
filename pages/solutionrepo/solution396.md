@@ -9,7 +9,11 @@ Eurostop Provides a full and complete retail POS solution to enable our retail c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Eurostop Singapore Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 13200 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Enhanced Retail Management System (Part 1)
 
 ### Contact Information
-Eurostop Singapore Pte Ltd<br>https://www.eurostop.com/<br>Email: sgsales@eurostop.com<br>Tel: +65 6561 1411
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

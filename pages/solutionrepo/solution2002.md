@@ -13,6 +13,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,18 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Ethylene Removal System
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Wholesale Trade for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Specifications:
-- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.
-- No harmful substance must be released into the environment E.g. Ozone
-- Can be used in storage and production facilities.
-- Installation and maintenance costs are not supported.
+General Wholesale Trade Equipment
 
 ### Contact Information
 N.A.

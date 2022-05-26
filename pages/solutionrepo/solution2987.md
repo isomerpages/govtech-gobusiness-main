@@ -1,17 +1,19 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 - Professional with Payment
+title: 3. Develop and Establish Financial Budget and Plans
 permalink: /productivity-solutions-grant/solutionrepo/solution2987
 ---
 
 ### Description
 
-WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
-A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
-From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Refine Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 7300 
 
 ### Eligibility Criteria
 
@@ -26,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+WESS - Wellness Management Software Version 2.0 - Professional with Payment
 
 ### Support Level
-Up to 0.7 for SMEs <br>
-N.A. for non-SMEs
+Up to Personal Care Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Salon Management System
 
 ### Contact Information
-Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
+7300
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

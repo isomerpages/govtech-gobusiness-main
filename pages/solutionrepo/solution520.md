@@ -9,7 +9,11 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Juss Solutions Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 8434 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+EndPoint Protection Platform - GZ Business Security Premium - 200 Licenses
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Endpoint Protection Platform
 
 ### Contact Information
-Web URL: www.jussolve.com <br>Contact Hotline: 66591811 <br>Contact Email: sales@jussolve.com <br>
+8434
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

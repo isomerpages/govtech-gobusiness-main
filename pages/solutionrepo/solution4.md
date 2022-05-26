@@ -10,7 +10,11 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='01 Business Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 4694 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management and Sales Management System (Part 1)
 
 ### Contact Information
-01 BUSINESS SOLUTIONS PTE LTD<br>https://www.01businesssolutions.com/psg-grant/<br>Email: sales@01businesssolutions.com<br>Tel: +65 6220 3306
+4694
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

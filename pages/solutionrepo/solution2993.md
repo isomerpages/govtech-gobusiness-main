@@ -1,5 +1,5 @@
 ---
-title: 3. Service Challenges (Level 5)
+title: 3. Process human resource information (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution2993
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Epoint Systems Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 5300 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+EPOINT Version 9 - eWaiter - Lite
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT SOLUTION for non-SMEs
 
 ### Things to Note
-N.A.
+Digital/ Online Ordering and Payment (Part 2)
 
 ### Contact Information
-
+5531
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

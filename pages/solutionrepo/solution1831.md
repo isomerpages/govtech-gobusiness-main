@@ -9,11 +9,7 @@ COVID-19 has accelerated the need for companies to embark on digital transformat
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-All Sectors
+Click <a href='Ernst & Young Advisory Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,15 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 70% for non-SMEs
+Up to All Sectors for SMEs <br>
+Up to Consultancy for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Job Redesign Consultancy
 
 ### Contact Information
-Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
+
 

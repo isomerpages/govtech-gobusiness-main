@@ -9,7 +9,11 @@ Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified T
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='DATA CONNECT TECHNOLOGIES PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 2069 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP (With SOC) - Package (FG-60F)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Unified Threat Management
 
 ### Contact Information
-Web URL: WWW.D-CONNECT.NET <br>Contact Hotline: 8001014209 <br>Contact Email: SALES@D-CONNECT.NET <br>
+2069
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: 3b. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)
+title: 3. Process human resource information (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3001
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Start-Online-Business-Alibaba-Entrepreneur-Startup-Program-13-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='W.L.P PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 1525 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+XERO CLOUD ACCOUNTING SOFTWARE - Basic Package
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT SOLUTION for non-SMEs
 
 ### Things to Note
-N.A.
+Accounting Management and Sales Management System (Part 3)
 
 ### Contact Information
-
+1525
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

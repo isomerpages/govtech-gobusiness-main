@@ -9,7 +9,11 @@ MyDoc's Telemedicine Solution for providers is a bundled package that providers 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='MyDoc Private Limited' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+$1510.00
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+MyDoc Telemedicine Solution - Package 1 (1 Doctor)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Healthcare for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Teleconsultation(Video)
 
 ### Contact Information
-Company Name: MyDoc Private Limited<br>Web URL: www.my-doc.com<br>Contact Hotline: 8309 2948<br>Contact Email: Zoe.bergin@my-doc.com
+$1510.00
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

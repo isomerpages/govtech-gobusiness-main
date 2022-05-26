@@ -13,6 +13,10 @@ Cost of equipment capped at $8750 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 8750 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,17 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+High Pressure Rotating Head
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)
-- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

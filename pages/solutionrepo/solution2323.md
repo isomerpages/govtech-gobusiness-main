@@ -9,7 +9,11 @@ Track-Asia's FMS enable fleet owners the capability of tracking their fleet at a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Acecom20200635_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='AceCom Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 5180 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Fleet Management System - Pkg 5 - 10 vehicle
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Fleet Management System
 
 ### Contact Information
-Web URL: https://track-asia.com/ <br>Contact Hotline: 91125883 <br>Contact Email: eugene_low@acecom.com.sg <br>
+5180
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

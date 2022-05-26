@@ -13,6 +13,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,20 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automatic Shrink Wrap Packaging Machine
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Wholesale Trade for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Specifications:
-- Able to pack products in round or odd shapes.
-- Must be able to run shrinking polyolefin films.
-- Min. output capacity of 15 metres per minute.
-- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
-- Installation and maintenance costs are not supported.
-
+General Wholesale Trade Equipment
 
 ### Contact Information
 N.A.

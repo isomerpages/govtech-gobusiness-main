@@ -14,6 +14,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+37500
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -27,21 +31,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Autonomous Mobile Robot
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Payload modules to lift trolleys Minimum  150kg load
-Min. load surface: 720x600mm
-1-1.2m/s driving with spot turning
-Battery: Min. 4h, ~8h standby, ~4h charging
-Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller
-Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

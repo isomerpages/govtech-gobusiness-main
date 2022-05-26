@@ -16,6 +16,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -29,20 +33,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Robotic arms
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Precision Engineering for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Equipment must meet the following specifications: 
-
-- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) 
-- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) 
-
-Support excludes end-effectors, sensors, programming and integration cost
-
+General Precision Engineering Equipment
 
 ### Contact Information
 N.A.

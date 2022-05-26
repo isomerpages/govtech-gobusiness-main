@@ -13,6 +13,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,18 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Vertical Carousel
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Unit height: min. 2.5m
-Carrier tray width: min. 1.3m
-Load capacity per tray: min. 150kg
-With operator Interface (Console)
-With software linked to Inventory Management System
+General M&O Equipment
 
 ### Contact Information
 N.A.

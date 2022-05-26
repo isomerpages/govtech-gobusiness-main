@@ -17,6 +17,10 @@ Support capped at $5,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 5000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -30,17 +34,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Dishwasher
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory Specification:
-- Unit comes with automated drain pump, detergent and rinse pumps. 
-- Minimum water tank capacity of 15 litres
-
+General Food Services Equipment
 
 ### Contact Information
 N.A.

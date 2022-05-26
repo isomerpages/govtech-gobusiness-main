@@ -13,6 +13,10 @@ Cost of equipment capped at $7,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 7500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,18 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automatic Nut Splitter
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Minimum nut size: 12.7mm
-- 1 battery pack or power unit per  equipment can be supported
-- Training costs can be supported
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

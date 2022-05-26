@@ -9,7 +9,11 @@ SmartWeb is one of the unique solutions in the market which allows online orderi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='TabSquare Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6800 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+SmartWeb V3 Version V3 - Smartweb V3 (License & Implementation Support)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment, Online Food Delivery and Data Mining and Analytics
 
 ### Contact Information
-Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com <br>
+6800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -11,6 +11,10 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 
 N.A.
 
+### Sector Specialisation
+
+ 18750 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -24,16 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Auto Welding Carriage
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Adjustable arm torch angle
-Maintenance not included
-Communication to link multiple sets (optional)
+General M&O Equipment
 
 ### Contact Information
 N.A.

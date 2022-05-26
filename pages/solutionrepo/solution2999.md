@@ -1,5 +1,5 @@
 ---
-title: 2b. Social Commerce Fundamentals
+title: 3. Supply Chain Management
 permalink: /productivity-solutions-grant/solutionrepo/solution2999
 ---
 
@@ -9,7 +9,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='MEVO Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 32000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Wholesale Trade for SMEs <br>
+Up to IT SOLUTION for non-SMEs
 
 ### Things to Note
-N.A.
+Sales Management
 
 ### Contact Information
-
+32000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

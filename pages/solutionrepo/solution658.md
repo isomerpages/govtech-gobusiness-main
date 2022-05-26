@@ -17,7 +17,11 @@ OCi Sales and Accounting Management system is a straight-forward and comprehensi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='OCi System Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6020 
 
 ### Eligibility Criteria
 
@@ -32,16 +36,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+OCi Sales & Accounting Management System (SAM) Version 11 -Package (2 Concurrent Users)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Inventory Management and Sales Management System (Part 2)
 
 ### Contact Information
-Company Name:OCi System Pte Ltd <br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com <br>
+6120
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

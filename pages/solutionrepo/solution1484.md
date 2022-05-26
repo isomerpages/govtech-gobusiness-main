@@ -11,6 +11,10 @@ OneSumX solution is a modular end-to-end solution suite designed on an integrate
 
 N.A.
 
+### Sector Specialisation
+
+ 536000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -24,15 +28,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 4)
 
 ### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
+Up to Banks for SMEs <br>
+Up to IT Solution  for non-SMEs
 
 ### Things to Note
-For MAS Notice 610 and Notice 1003 Regulatory Reporting.
-Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
+Regulatory Reporting for Banks
 
 ### Contact Information
 N.A.

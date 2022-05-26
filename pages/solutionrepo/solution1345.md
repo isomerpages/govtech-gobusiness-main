@@ -9,7 +9,11 @@ TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media I
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Active Interactions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 5800 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Customer Relationship Management (CRM)
 
 ### Contact Information
-Company Name:Active Interactions Pte Ltd <br>Web URL: trueblu.co <br>Contact Hotline: 91697979 <br>Contact Email: joel@activeinteractions.com <br>
+5800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

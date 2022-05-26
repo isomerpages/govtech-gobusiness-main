@@ -1,5 +1,5 @@
 ---
-title: 3. Enterprise Risk Management Programme Module 1 Risk and Opportunity in Business Model
+title: 2. WSQ Retail (Sf) Sales Closure (Perform Point of Sale Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution3084
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Enterprise-Risk-Management-Programme-Module-1-Risk-Opportunity-Business-Model-Synchronous-ELearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+2. Adapt to Change - Digitalization for Hawkers
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Digital/ Online Ordering and Payment, Online Food Delivery and Data Mining and Analytics
 
 ### Contact Information
 

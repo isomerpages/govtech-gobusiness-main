@@ -12,7 +12,11 @@ The system is also able to add in a variety of Telematics smart sensors to meet 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='SMARTCOMM ELECTRONICS PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 8666 
 
 ### Eligibility Criteria
 
@@ -27,16 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 4 Vehicles
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Fleet Management System
 
 ### Contact Information
-Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
+12266
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

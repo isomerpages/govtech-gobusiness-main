@@ -9,7 +9,11 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='AIO Interactive Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 11000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+AIO CRM - AIO CRM 
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Customer Relationship Management (CRM) and Sales Management System
 
 ### Contact Information
-Web URL: www.aio-interactive.com <br>Contact Hotline: 96796966 <br>Contact Email: sales@aio-interactive.com <br>
+12000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

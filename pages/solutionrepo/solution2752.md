@@ -9,7 +9,11 @@ eFusion Technology are specialists in building ecommerce websites with 18 years'
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Efusion Technology Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 10000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+ePSProfessional Version 1.7 - SME Premium
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+E-Commerce - Online Shop (B2C)
 
 ### Contact Information
-Web URL: https://www.efusiontech.com <br>Contact Hotline: 62903086 <br>Contact Email: contact@efusiontech.com <br>
+10000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

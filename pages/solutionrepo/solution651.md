@@ -10,7 +10,11 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Neu Media Technology LLP' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 30000 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+NMTODOO - ERP  - Package Premium
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Customer Relationship Management (CRM) and Sales Management System
 
 ### Contact Information
-Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediatechnology.com<br>Tel: +65 6701 8204
+30000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

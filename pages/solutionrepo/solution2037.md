@@ -21,6 +21,10 @@ Cost of equipment capped at $28,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 28000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -34,17 +38,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated tools management system
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
-
-Support only hardware and software.
-
+General M&O Equipment
 
 ### Contact Information
 N.A.

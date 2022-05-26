@@ -11,16 +11,7 @@ We will take 3 practical steps to help you to imagine, design and pilot job rede
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-1.Financial Services<br>
-2.Consumer FMCG<br>
-3.Telecommunications<br>
-4.Consumer Food Retail<br>
-5.Consumer - Agricultural Conglomerate<br>
-6.Consumer - Beverage
+Click <a href='Deloitte Consulting Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -35,15 +26,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Job Redesign Consultancy - Deloitte Consulting Pte Ltd
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 70% for non-SMEs
+Up to All Sectors for SMEs <br>
+Up to Consultancy for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Job Redesign Consultancy
 
 ### Contact Information
-Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting<br>Contact Email: rwisastra@deloitte.com <br>Contact Number: +65 6232 7428<br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
+
 

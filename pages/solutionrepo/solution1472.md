@@ -13,6 +13,10 @@ Cost of equipment capped at $20,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 20000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,18 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Torque Multiplier
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Produce at least 2,000N.m torquing force 
-- 1 battery pack or power unit per equipment can be supported
-- Training costs can be supported
-
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

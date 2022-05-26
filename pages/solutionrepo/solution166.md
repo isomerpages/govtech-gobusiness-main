@@ -10,7 +10,11 @@ For clinic operation, the solution offers capturing of NRIC records and health d
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Archer Logic (S) Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 5380 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+STUDIO MANAGER Version 7 - Package D (Branch License)
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Enhanced Retail Management System (Part 1)
 
 ### Contact Information
-Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email: sales_marketing@archerlogic.com<br>Tel: +65 6785 9007
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

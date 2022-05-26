@@ -10,7 +10,11 @@ For happy HR, bosses and employees, you want a platform that can help your team 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='JUSTLOGIN PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 25000 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+(SaaS) JustLogin HR Cloud - D (Up to 150 pax)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Human Resource Management System (HRMS) (Part 2)
 
 ### Contact Information
-JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Contact Hotline: +65 6909 9217
+25800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

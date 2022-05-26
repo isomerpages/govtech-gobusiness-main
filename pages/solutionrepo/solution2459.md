@@ -9,7 +9,11 @@ SAFE is the ultimate tool for designing concrete floor and foundation systems. F
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International__20210049_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='OTTE INTERNATIONAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 8500 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+SAFE Post-Tension Suite - Package 2 (Perpetual License)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Building & Construction for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+3D Modelling, Immersive Visualisation & Analysis
 
 ### Contact Information
-Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+23700
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

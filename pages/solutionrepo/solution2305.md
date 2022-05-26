@@ -9,7 +9,11 @@ Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps me
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Fooyo Pte. Ltd.' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6188 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Fooyo Mini Shop Version 2.0-Basic Web Package
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment (Part 2)
 
 ### Contact Information
-Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
+6188
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

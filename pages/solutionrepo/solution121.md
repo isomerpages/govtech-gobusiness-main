@@ -9,7 +9,11 @@ SAP Business One is an enterprise resource planning (ERP) software designed for 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='AFON Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 35880 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+SAP Business One Version Cloud-HANA Cloud - 5 Subscription Users with PEPPOL (Unlimited Invoices)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
 
 ### Contact Information
-Company Name:AFON Technologies Pte Ltd <br>Web URL: https://www.afon.com.sg/erp <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
+43980
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

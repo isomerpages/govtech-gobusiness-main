@@ -10,7 +10,11 @@ It protects your entire business through a layered protection approach, an innov
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Cloudable Solutions Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+1200
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+EndPoint Protection Platform
 
 ### Contact Information
-Web URL: www.cloudable.com.sg <br>Contact Hotline: 83888759 <br>Contact Email: info@cloudable.com.sg <br>
+1200
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

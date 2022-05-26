@@ -13,6 +13,10 @@ Cost of equipment capped at $11,250 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 11250 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,18 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Battery-operated Torque Wrench
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Produce at least 1,000 N.m torquing force 
-- Battery pack and charger can be supported
-- Maintenance costs not supported
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+General M&O Equipment
 
 ### Contact Information
 N.A.

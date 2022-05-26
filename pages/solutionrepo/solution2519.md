@@ -14,6 +14,10 @@ Cost of equipment capped at $4,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 4000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -27,21 +31,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Deep Fryer
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Minimum Specifications 
--Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
-
-Well capacity to be at least 5L
-
-Serving size and frying type should be customisable
-
-
+General Food Services Equipment
 
 ### Contact Information
 N.A.

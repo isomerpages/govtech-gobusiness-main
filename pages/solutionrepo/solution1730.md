@@ -9,11 +9,7 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
-
-### Sector Specialisation
-
-All sectors
+Click <a href='CET Global Pte Ltd ' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,15 +24,15 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Job Redesign Consultancy - CET Global Pte Ltd 
 
 ### Support Level
-Up to 70% for SMEs <br>
-Up to 70% for non-SMEs
+Up to All Sectors for SMEs <br>
+Up to Consultancy for non-SMEs
 
 ### Things to Note
-Additional criteria: All participating companies must have at least three local employees at the point of application
+Job Redesign Consultancy
 
 ### Contact Information
-Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 63982800 (Mobile: 9657 5085)
+
 

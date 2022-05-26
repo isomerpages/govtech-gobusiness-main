@@ -9,7 +9,11 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='YMC ACCOUNTING PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 688 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Xero Cloud Accounting Software - Premium Package - Software Only
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management and Sales Management System (Part 3)
 
 ### Contact Information
-Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 93891853 <br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br>
+688
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

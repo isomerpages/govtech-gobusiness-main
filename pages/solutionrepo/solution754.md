@@ -13,6 +13,10 @@ Cost of equipment capped at $21,250 per unit.
 
 N.A.
 
+### Sector Specialisation
+
+ 21250 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,22 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Static Parcel Dimension, Weight and Scan Equipment
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Logistics for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory Specification
-- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together
-- Weigh parcel up to 30kg
-- Weighing accuracy of +/- 10g
-- Stereometry accuracy within +/- 5mm
-- Throughput approx 400/hour
-- Data transmitted to a software/ERP via wireless/LAN connection
-- Installation cost is supported.
-- Maintenance cost is not supported
+General Logistics Equipment
 
 ### Contact Information
 N.A.

@@ -9,7 +9,11 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Synergix Technologies Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 27200 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+SYNERGIX E1 Version TH6 - Package B : HRMS Standard with Staff Appraisal and Training
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Human Resource Management System (HRMS) (Part 2)
 
 ### Contact Information
-Company Name:Synergix Technologies Pte Ltd <br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+42770
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

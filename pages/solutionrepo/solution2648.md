@@ -13,7 +13,11 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='ROYAL MANAGEMENT SERVICES (S) PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 2525 
 
 ### Eligibility Criteria
 
@@ -28,16 +32,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Accounting Management and Sales Management System (Part 3)
 
 ### Contact Information
-Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br>Contact Hotline: 63390111 <br>Contact Email: SALES@RMSGROUP.COM.SG <br>
+2528
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

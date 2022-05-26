@@ -13,6 +13,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,16 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Tray Sealer
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Manufacturing for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Minimum 400 trays per hour
-
-
+General Food Manufacturing Equipment
 
 ### Contact Information
 N.A.

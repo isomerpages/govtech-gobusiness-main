@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+1. Data Analytics for Business Professionals
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Wholesale Trade for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Enterprise Resource Planning (ERP) Software for Wholesale
 
 ### Contact Information
 N.A.

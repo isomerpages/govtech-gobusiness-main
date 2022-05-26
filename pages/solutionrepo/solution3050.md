@@ -1,5 +1,5 @@
 ---
-title: 2. Manage Inventory 
+title: 1. Digital Customer Experience Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3050
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Inventory-SF-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+1. Xero Accounting System for Small and Medium Enterprises
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic  for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+Accounting Management and Human Resource Management System
 
 ### Contact Information
 

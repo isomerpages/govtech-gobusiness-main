@@ -15,6 +15,10 @@ Cost of equipment capped at $25,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 25000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -28,16 +32,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Automated Dough Filler/Depositor
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Manufacturing for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Equipment must be able to offer several options of hoppers with different volumes. 
-- Equipment must allow company to be able to change desired dough weight. 
-
+General Food Manufacturing Equipment
 
 ### Contact Information
 N.A.

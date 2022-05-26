@@ -15,6 +15,10 @@ Cost of equipment capped at $37,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -28,20 +32,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Liquid Filling Machine
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Engineering Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-- Minimally semi-automated
-- Volumetric or weight based filling
-- Touchscreen display can be supported
-- Explosion proof can be supported 
-- Installation/simple training costs can be supported
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported 
-
+General Engineering Services Equipment
 
 ### Contact Information
 N.A.

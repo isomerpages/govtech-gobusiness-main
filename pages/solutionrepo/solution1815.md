@@ -12,7 +12,11 @@ Vue tech build long term business channel for you!
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='VUE TECH PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6000 
 
 ### Eligibility Criteria
 
@@ -27,16 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Basic)
 
 ### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+E-Commerce - Online Shop (B2C)
 
 ### Contact Information
-Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com <br>
+6000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

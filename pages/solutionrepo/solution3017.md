@@ -1,5 +1,5 @@
 ---
-title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
+title: 1. Xero Accounting System for Small and Medium Enterprises
 permalink: /productivity-solutions-grant/solutionrepo/solution3017
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Level-4-Manage-Human-Resource-AnalyticsSynchronous-eLearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Coming soon.
 
 ### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+3b. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)
 
 ### Support Level
-Up to  for SMEs <br>
-N.A. for non-SMEs
+Up to Generic for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-N.A.
+E-Commerce - Online Shop (B2C)
 
 ### Contact Information
 

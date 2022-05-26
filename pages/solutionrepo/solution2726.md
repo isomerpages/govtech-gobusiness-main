@@ -9,7 +9,11 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Integrated Software Engineering Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 28000 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Asset Monitoring and Management System
 
 ### Contact Information
-Web URL: www.infomaster.com.sg <br>Contact Hotline: 67475665 <br>Contact Email: sales@ise.com.sg <br>
+36000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -14,6 +14,10 @@ Cost of equipment capped at $12,500 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 12500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -27,18 +31,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Portable Automatic Pipe Gas Cutter
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Marine & Offshore for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Automatic travelling gas cutting operations
-Cutting speed: minimum 50 mm/min
-Adjustable bevel angle
-Maintenance costs not supported
-Optional components: relevant accessories e.g. gas hoses, cables, rail/track
+General M&O Equipment
 
 ### Contact Information
 N.A.

@@ -11,7 +11,11 @@ AZ Digital ordering solution provides an up scaling process in engaging customer
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='AZ DIGITAL PTE LTD' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 6800 
 
 ### Eligibility Criteria
 
@@ -26,16 +30,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( Mobile QR Web Ordering Solution Package )
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment (Part 2)
 
 ### Contact Information
-Company Name:AZ DIGITAL PTE LTD <br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net <br>
+6800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

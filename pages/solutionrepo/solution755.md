@@ -13,6 +13,10 @@ Cost of equipment capped at $26,250 per unit (Direct Purchase) and $10,000 per u
 
 N.A.
 
+### Sector Specialisation
+
+Up to 26250
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -26,19 +30,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase,Subscription / Leasing
+Smart Cabinet
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Logistics for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory Specification
-- Access controlled and tracked with RFID or other relevant technology
-- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
-- Hardware must be linked with a software/ERP system to access the logs and inventory information
-- Installation and maintenance fee are not supported.
-
+General Logistics Equipment
 
 ### Contact Information
 N.A.

@@ -9,7 +9,11 @@ RavenPOS offers standard to full scale business enterprise software automation s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Nspire Group Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 12750 
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Retail for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Enhanced Retail Management System (Part 1)
 
 ### Contact Information
-Nspire Group Pte Ltd<br>https://www.RavenPOS.com<br>Email: ravenpos@gmail.com<br>Tel: +65 6100 2628
+15410
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

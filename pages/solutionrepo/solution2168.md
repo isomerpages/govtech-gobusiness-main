@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Digital quality testing equipment
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to Food for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+Food
 
 ### Contact Information
 N.A.

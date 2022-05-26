@@ -9,7 +9,11 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Wecome Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+7750
 
 ### Eligibility Criteria
 
@@ -24,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced Extended
 
 ### Support Level
-Up to 80 for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Digital/ Online Ordering and Payment (Part 2)
 
 ### Contact Information
-Web URL: https://wecome.sg <br>Contact Hotline: 96824965 <br>Contact Email: wuhong@wecome.sg <br>
+7750
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -10,7 +10,11 @@ KEYfields leverages on technology, developing IT Solutions that are versatile an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='KEYfields Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 35000 
 
 ### Eligibility Criteria
 
@@ -25,16 +29,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+ONE LOGON - ONE LOGistics Online - Package 1 (iWMS SaaS)
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Logistics for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Networked Trade Platform Value Added Services
 
 ### Contact Information
-KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

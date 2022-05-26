@@ -11,7 +11,11 @@ The IFS Platform is manned by a team of three highly trained security profession
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='Concorde Security Pte Ltd' target='_blank' rel='noopener'>here</a> to view details of solution.
+
+### Sector Specialisation
+
+ 30000 
 
 ### Eligibility Criteria
 
@@ -26,16 +30,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Security for SMEs <br>
+Up to IT Solution for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Surveillance and Analytics
 
 ### Contact Information
-Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
+30000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

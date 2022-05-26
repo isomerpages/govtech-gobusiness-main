@@ -14,6 +14,10 @@ Cost of equipment capped at $10,000 per unit
 
 N.A.
 
+### Sector Specialisation
+
+ 10000 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -27,24 +31,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Ozonised Air + Surface Sterilization System
 
 ### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to Food Services for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Equipment must meet the following:
-
-Generate active oxygen at an output between 20mg - 1g/hr
-
-Emit negative ion at more than 2 million/cm3
-
-Area coverage at least 36.5 m2
-
-Effective sterilisation & reduce bacteria count by 90%
-
-
+General Food Services Equipment
 
 ### Contact Information
 N.A.

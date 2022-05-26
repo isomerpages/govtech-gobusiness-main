@@ -15,6 +15,10 @@ Cost of equipment capped at $37,500 per unit.
 
 N.A.
 
+### Sector Specialisation
+
+ 37500 
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -28,20 +32,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Autonomous Material Transportation Robot
 
 ### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to Logistics for SMEs <br>
+Up to Equipment for non-SMEs
 
 ### Things to Note
-Mandatory specifications: 
-- Transport materials between points
-- Manoeuvre safely around obstacles
-- Min. payload of 100kg
-- Equipped with a rechargeable battery
-- Accessories e.g. towing arm, mountable shelf are supportable
-- Installation and maintenance cost are not supported
+General Logistics Equipment
 
 ### Contact Information
 N.A.
