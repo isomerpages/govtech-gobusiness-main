@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 3. Implement Manpower Planning Processes (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3177
 ---
 

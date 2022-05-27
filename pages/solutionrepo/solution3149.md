@@ -1,5 +1,5 @@
 ---
-title: 3. E-Commerce Campaign Management (ICDL Digital Marketing)
+title: 2. Customer Experience Innovation
 permalink: /productivity-solutions-grant/solutionrepo/solution3149
 ---
 

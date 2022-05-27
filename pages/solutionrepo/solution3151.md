@@ -1,5 +1,5 @@
 ---
-title: 2. Adapt to Change - Digitalization for Hawkers
+title: 1. Digital Customer Experience Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3151
 ---
 

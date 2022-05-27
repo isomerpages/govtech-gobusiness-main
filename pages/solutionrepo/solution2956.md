@@ -1,5 +1,5 @@
 ---
-title: SAP Business One SQL & HANA Version 10.0 - Package (3 Licenses)
+title: SAP Business One SQL & HANA Version 10.0 - Package (2 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution2956
 ---
 
@@ -10,7 +10,7 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

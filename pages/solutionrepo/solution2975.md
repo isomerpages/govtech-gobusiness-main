@@ -1,17 +1,15 @@
 ---
-title: DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]
+title: Cub3commerce - Premium Ecommerce with Global Marketplace Integration + POS
 permalink: /productivity-solutions-grant/solutionrepo/solution2975
 ---
 
 ### Description
 
-Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
-
-With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
+CUB3COMMERCE covers the development of an online shopping website with comprehensive functionality to automate and perform sales transactions, manage orders, track statistics on product performance in a way that is both insightful as well as easy. The solution will assist in marketing products more effectively by taking advantage of a wide range of data tracking capabilities which enables a better insight into customers' behaviour.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DUCB3_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 0.7 for SMEs <br>
+Up to 70% (80% for Retail sector) for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: mediaplus.com.sg <br>Contact Hotline: 68163168 <br>Contact Email: wow@mediaplus.com.sg <br>
+Web URL: www.dcub3.com.sg <br>Contact Hotline: 97346544 <br>Contact Email: armstrong@dcub3.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

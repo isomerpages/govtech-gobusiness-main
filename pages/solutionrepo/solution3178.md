@@ -1,5 +1,5 @@
 ---
-title: 2. Align Human Resource Services with Business Needs (SFw HR)
+title: 1. Human Resource Analytics and Insights
 permalink: /productivity-solutions-grant/solutionrepo/solution3178
 ---
 

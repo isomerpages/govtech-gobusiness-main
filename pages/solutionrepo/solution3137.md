@@ -1,5 +1,5 @@
 ---
-title: 3. Inventory Control
+title: 2. Manage Inventory 
 permalink: /productivity-solutions-grant/solutionrepo/solution3137
 ---
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-3. Driving Trade & Business with Enterprise Resource Planning
+2. Apply Project Management Skills
 
 ### Support Level
 Up to Wholesale Trade for SMEs <br>

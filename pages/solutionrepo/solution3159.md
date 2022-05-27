@@ -1,5 +1,5 @@
 ---
-title: 1. Manage Cost and Quality Controls (M)
+title: 3. Effective Digital Marketing and Sales
 permalink: /productivity-solutions-grant/solutionrepo/solution3159
 ---
 

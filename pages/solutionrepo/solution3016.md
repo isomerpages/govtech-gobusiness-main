@@ -1,5 +1,5 @@
 ---
-title: 2b. Social Commerce Fundamentals
+title: 2a. Social Commerce Fundamentals
 permalink: /productivity-solutions-grant/solutionrepo/solution3016
 ---
 

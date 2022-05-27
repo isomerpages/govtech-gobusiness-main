@@ -1,5 +1,5 @@
 ---
-title: 2. Digital Customer Experience Management
+title: 1. Digital Transformation -Emerging Technology Synthesis
 permalink: /productivity-solutions-grant/solutionrepo/solution3190
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 3. Enterprise Risk Management Programme Module 1 Risk and Opportunity in Business Model
+title: 2. Conduct Risk Assessment and Business Impact Analysis
 permalink: /productivity-solutions-grant/solutionrepo/solution3170
 ---
 
