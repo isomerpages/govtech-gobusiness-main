@@ -1,5 +1,5 @@
 ---
-title: 2. Manage Budgeting and Forecasting Processes for the Business Unit
+title: 3. E-Commerce Campaign Management (ICDL Digital Marketing)
 permalink: /productivity-solutions-grant/solutionrepo/solution3150
 ---
 

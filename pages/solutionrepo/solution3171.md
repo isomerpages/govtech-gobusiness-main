@@ -1,5 +1,5 @@
 ---
-title: 2. Align Human Resource Services with Business Needs (SFw HR)
+title: 3. Enterprise Risk Management Programme Module 1 Risk and Opportunity in Business Model
 permalink: /productivity-solutions-grant/solutionrepo/solution3171
 ---
 

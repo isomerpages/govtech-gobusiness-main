@@ -1,5 +1,5 @@
 ---
-title: 1. NICF - CRM - Sales Management
+title: 2. Adapt to Change - Digitalization for Hawkers
 permalink: /productivity-solutions-grant/solutionrepo/solution3152
 ---
 

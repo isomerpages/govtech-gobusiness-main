@@ -1,5 +1,5 @@
 ---
-title: 1. Human Resource Analytics and Insights
+title: 2. Conduct Risk Assessment and Business Impact Analysis
 permalink: /productivity-solutions-grant/solutionrepo/solution3170
 ---
 

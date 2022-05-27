@@ -1,5 +1,5 @@
 ---
-title: 2. Apply Project Management Skills
+title: 3. Analyse the Impact of Customer Behaviour on Sales & Marketing Strategies
 permalink: /productivity-solutions-grant/solutionrepo/solution3195
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 3. Effective Digital Marketing and Sales
+title: 1. Digital Customer Experience Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3151
 ---
 

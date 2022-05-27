@@ -1,5 +1,5 @@
 ---
-title: 2. Adapt to Change - Digitalization for Hawkers
+title: 3. Effective Project Documentation
 permalink: /productivity-solutions-grant/solutionrepo/solution3147
 ---
 

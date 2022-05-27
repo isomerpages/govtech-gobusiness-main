@@ -11,7 +11,7 @@ third_nav_title: Pre-scoped IT Solution
 ### Retail Specific Solutions
 {% include letter-accordion.html accordions=site.data.acc068-retail letter="a" %}
 
-### ## ### Generic Solution (for all sectors)
+### Generic Solution (for all sectors)
 Companies across all business sectors (including Retail) are eligible for the solutions here.
 
 {% include letter-accordion.html accordions=site.data.acc068-retail letter="b" %}

@@ -1,5 +1,5 @@
 ---
-title: 2. WSQ Retail (Sf) Sales Closure (Perform Point of Sale Operations)
+title: 3. Implement Manpower Planning Processes (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3180
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 3. E-Commerce Campaign Management (ICDL Digital Marketing)
+title: 1. Knowledge Management (Level 4) 
 permalink: /productivity-solutions-grant/solutionrepo/solution3145
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01 - Cloud Solution Package-Basic
-permalink: /productivity-solutions-grant/solutionrepo/solution2226
+title: BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 200
+permalink: /productivity-solutions-grant/solutionrepo/solution2953
 ---
 
 ### Description
 
-- Microsoft Dynamics 365 Business Central base Finance and Supply Chain Management (Inventory, Sales and Purchase)
-- Mobile Addon (Document Approval - PR, PO, Sales Quote, Sales Order)
-- Predefined Setup and Implementation
+BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
+
+BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DynamicSolutions20200274_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.dynsln.com.sg <br>Contact Hotline: 62617881 <br>Contact Email: info@dynsln.com.sg <br>
+Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

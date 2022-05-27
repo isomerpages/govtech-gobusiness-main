@@ -1,5 +1,5 @@
 ---
-title: 2. WSQ Perform Delivery Operations
+title: 3. Effective Digital Marketing and Sales
 permalink: /productivity-solutions-grant/solutionrepo/solution3159
 ---
 

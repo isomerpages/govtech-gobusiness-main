@@ -1,5 +1,5 @@
 ---
-title: 1. Cyber Security Incident Handling and Response
+title: 2. Fundamentals of Cyber Security
 permalink: /productivity-solutions-grant/solutionrepo/solution3182
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 2. Supply Chain Solutioning/Modelling/Planning/Strategising
+title: 3. Practical Approach to Cloud Computing
 permalink: /productivity-solutions-grant/solutionrepo/solution3192
 ---
 

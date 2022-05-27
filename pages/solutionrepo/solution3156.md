@@ -1,5 +1,5 @@
 ---
-title: 2. Discover Sales Opportunities and Track Prospects
+title: 3. Effective Digital Marketing and Sales
 permalink: /productivity-solutions-grant/solutionrepo/solution3156
 ---
 

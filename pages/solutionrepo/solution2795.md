@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2795
 
 ### Description
 
-With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
+The maximum application quota for this Digital Marketing vendor has been reached. You may consider applying for Digital Marketing packages from another vendor instead."  
 
 ### Details of Solution
 

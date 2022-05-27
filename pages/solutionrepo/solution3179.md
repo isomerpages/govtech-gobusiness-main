@@ -1,5 +1,5 @@
 ---
-title: 1. WSQ Retail (Sf) Inventory Control (Perform Stock Control for Retail Operations)
+title: 2. Align Human Resource Services with Business Needs (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3179
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 1. Demonstrate Secure Use of IT
+title: 2. Align Human Resource Services with Business Needs (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3176
 ---
 

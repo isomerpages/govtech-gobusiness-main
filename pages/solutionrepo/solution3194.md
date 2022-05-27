@@ -1,5 +1,5 @@
 ---
-title: 1. Data Analytics for Business Professionals
+title: 2. Apply Knowledge of Accounting-Related Concepts
 permalink: /productivity-solutions-grant/solutionrepo/solution3194
 ---
 

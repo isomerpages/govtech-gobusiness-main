@@ -1,5 +1,5 @@
 ---
-title: 1. Digital Transformation -Emerging Technology Synthesis
+title: 2. WSQ Retail (Sf) Sales Closure (Perform Point of Sale Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution3185
 ---
 

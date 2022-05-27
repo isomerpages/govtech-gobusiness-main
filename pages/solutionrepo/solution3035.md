@@ -1,5 +1,5 @@
 ---
-title: 2. Human Resource Analytics and Insights Level 4 Manage Human Resource Analytics 
+title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution3035
 ---
 
