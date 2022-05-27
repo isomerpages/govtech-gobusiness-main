@@ -1,5 +1,5 @@
 ---
-title: 2. Discover Sales Opportunities and Track Prospects
+title: 1. Manage Cost and Quality Controls (M)
 permalink: /productivity-solutions-grant/solutionrepo/solution3093
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Discover-Sales-Opportunities-Track-Prospects-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Cost-Quality-Controls-M-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: 1. Performance Management (Lead and Manage a Team of Security Officers)
+title: 3. Enterprise Risk Management Programme Module 1 Risk and Opportunity in Business Model
 permalink: /productivity-solutions-grant/solutionrepo/solution3170
 ---
 

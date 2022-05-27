@@ -1,5 +1,5 @@
 ---
-title: 3. Effective Project Documentation
+title: 2. Knowledge Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3145
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 1. Digital Transformation -Emerging Technology Synthesis
+title: 3. Fundamentals of Cyber Security
 permalink: /productivity-solutions-grant/solutionrepo/solution3122
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Transformation-Emerging-Technology-Synthesis-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Fundamentals-Cyber-Security-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

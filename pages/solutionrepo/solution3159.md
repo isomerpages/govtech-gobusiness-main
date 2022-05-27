@@ -1,5 +1,5 @@
 ---
-title: 2. Discover Sales Opportunities and Track Prospects
+title: 1. Manage Cost and Quality Controls (M)
 permalink: /productivity-solutions-grant/solutionrepo/solution3159
 ---
 

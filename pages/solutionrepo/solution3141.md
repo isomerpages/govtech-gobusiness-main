@@ -1,5 +1,5 @@
 ---
-title: 2. Digital Customer Experience Management
+title: 1. Data-driven Customer Experience
 permalink: /productivity-solutions-grant/solutionrepo/solution3141
 ---
 

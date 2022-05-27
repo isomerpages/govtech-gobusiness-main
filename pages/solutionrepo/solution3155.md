@@ -1,5 +1,5 @@
 ---
-title: 1. NICF - CRM - Sales Management
+title: 3. Effective Digital Marketing and Sales
 permalink: /productivity-solutions-grant/solutionrepo/solution3155
 ---
 

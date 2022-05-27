@@ -1,5 +1,5 @@
 ---
-title: 2. Apply Project Management Skills
+title: 1. Data Analytics for Business Professionals
 permalink: /productivity-solutions-grant/solutionrepo/solution3198
 ---
 

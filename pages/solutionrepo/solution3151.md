@@ -1,5 +1,5 @@
 ---
-title: 3. RETSF-Applied Data Analytics
+title: 2. Adapt to Change - Digitalization for Hawkers
 permalink: /productivity-solutions-grant/solutionrepo/solution3151
 ---
 

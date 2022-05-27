@@ -1,5 +1,5 @@
 ---
-title: 2. Manage Inventory 
+title: 1. Equipment and Inventory Management (Level 3)
 permalink: /productivity-solutions-grant/solutionrepo/solution3135
 ---
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-2. Apply Project Management Skills
+1. Data Analytics for Business Professionals
 
 ### Support Level
 Up to Wholesale Trade for SMEs <br>

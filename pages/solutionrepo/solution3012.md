@@ -1,5 +1,5 @@
 ---
-title: 3. Service Challenges (Level 5)
+title: 2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework
 permalink: /productivity-solutions-grant/solutionrepo/solution3012
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
