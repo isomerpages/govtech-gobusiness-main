@@ -29,9 +29,7 @@ Singapore Food Agency (SFA)
 <li>For applicants with existing GIRO arrangement with SFA, you may start business after receiving SFA's email approval</li>
 <li>For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.</li>
 </ul>
-<p>SFA will post out the hardcopy licences within 7 working days upon successful payment.</p>
-<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at<a href="https://csp.sfa.gov.sg/feedback"> https://csp.sfa.gov.sg/feedback</a> to request for a replacement copy.</p>
-</li>
+<li>Licensees can <a href="https://www.sfa.gov.sg/docs/default-source/food-retailing/licence-self-print-guide.pdf" target="_blank" rel="noopener">print their own licences</a> upon successful payment made <strong>on or after 1 January 2022.</strong></li>
 </ul>
 <h3>FAQs</h3>
 <ol>
@@ -41,9 +39,7 @@ Singapore Food Agency (SFA)
 <li>
 <p><strong>How soon will my application be approved?<br /></strong>Refer to Step 2. SFA will approve the application within 5 working days upon applicant's full compliance to licensing requirements and submission of required documents.</p>
 </li>
-<li>
-<p><strong>When can I commence business? Do I need to wait for the hardcopy licence before I start operations? What do I do if I do not receive the hardcopy licence?<br /></strong>Refer to Step 2 on when you may commence business.<br />SFA will post out the hardcopy licences within 7 working days upon successful payment.<br />You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at <a href="https://www.sfa.gov.sg/feedback" target="_blank" rel="noopener">https://www.sfa.gov.sg/feedback</a> to request for a replacement copy.</p>
-</li>
+<li><strong>When can I commence business? <br /></strong>Refer to Step 2 on when you may commence business.</li>
 <li>
 <p><strong>How much does this licence cost and how long is it valid?<br /></strong>The Food Stall Licence costs S$32.00 and is valid for one year except for those foodstalls in primary, secondary and junior college school canteens. Licensees are given the option to pay $64.00 for a food stall licence that is valid for two years.<br />Please note that no refund of fees will be allowed once payment has been made.</p>
 </li>
