@@ -6,7 +6,7 @@
   .mailer__container {
     display: flex;
     flex-direction: column;
-    padding: 0px 16px 64px 16px;
+    padding: 0px 0px 0px 0px;
     background-color: #ffffff;
   }
 
@@ -100,10 +100,16 @@
       grid-template-areas:
         "content-3 content-4";
       margin: 0 auto;
-      grid-template-columns: 660px 460px;
+      grid-template-columns: 660px 180px;
       justify-items: center;
       justify-content: center;
 
+    }
+
+    @media (max-width: auto) {
+        .content .spanels {
+            grid-template-columns: 1fr;
+        }
     }
 
     .mailer__left-bottom {
