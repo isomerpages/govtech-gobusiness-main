@@ -10,6 +10,8 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels-overview.html spanels=site.data.ov002-licence %}
 
+{% include advertising-banner.html %}
+
 ----
 
 <a name="new-licence"></a>
