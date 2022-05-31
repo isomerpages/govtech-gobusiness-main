@@ -8,7 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=23" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/50c36fd9-8a27-4815-b586-7fee3efbe20c" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -17,7 +17,7 @@ Singapore Civil Defence Force (SCDF)
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
-Application Fee: $80
+Application Fee: $60
 </p>
 
 <H3>Documents Needed</H3>
