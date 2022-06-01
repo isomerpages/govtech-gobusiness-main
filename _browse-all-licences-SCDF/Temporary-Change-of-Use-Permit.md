@@ -27,11 +27,11 @@ Application Fee: $60
 File format: pdf,doc,docx,tif,jpg<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Land owner's approval letter</strong>br>
+<li><strong>Land owner's approval letter</strong><br>
 File format: pdf,doc,docx,tif,jpg<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Photo of the Venue/Location</strong>br>
+<li><strong>Photo of the Venue/Location</strong><br>
 File format: pdf,doc,docx,tif,jpg<br>
 Maximum upload per application: 2 MB
 </li>
