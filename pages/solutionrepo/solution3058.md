@@ -1,5 +1,5 @@
 ---
-title: 1. Production Planning & Scheduling
+title: 2a. Social Commerce Fundamentals
 permalink: /productivity-solutions-grant/solutionrepo/solution3058
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Production-Planning-Scheduling-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

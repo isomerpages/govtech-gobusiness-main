@@ -1,5 +1,5 @@
 ---
-title: HRM Labs Shared Service - For Up to 30 Headcount
+title: HRM Labs Shared Service - For Up to 50 Headcount
 permalink: /productivity-solutions-grant/solutionrepo/solution2982
 ---
 
@@ -9,7 +9,7 @@ HRM Labs helps companies to handle their human resource administration and payro
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

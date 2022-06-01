@@ -1,5 +1,5 @@
 ---
-title: EQuipPOS Beauty Solutions Version 3 - Package (Lite)
+title: EQuipPOS Beauty Solutions Version 3 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution2944
 ---
 
@@ -9,7 +9,7 @@ EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

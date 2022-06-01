@@ -1,17 +1,15 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment
+title: Swipetask PRO - Swipetask Plus ERP
 permalink: /productivity-solutions-grant/solutionrepo/solution2990
 ---
 
 ### Description
 
-WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
-A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
-From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
+Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
+Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
