@@ -1,5 +1,5 @@
 ---
-title: 1. WSQ Retail (Sf) Inventory Control (Perform Stock Control for Retail Operations)
+title: 2. WSQ Retail (Sf) Sales Closure (Perform Point of Sale Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution3184
 ---
 

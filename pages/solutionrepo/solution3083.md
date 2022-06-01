@@ -1,5 +1,5 @@
 ---
-title: 2. Customer Experience Innovation
+title: 2. Perform Inventory and Stock Control Operations
 permalink: /productivity-solutions-grant/solutionrepo/solution3083
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Customer-Experience-Innovation-SF-Supervisor' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Inventory-Stock-Control-Operations' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
