@@ -69,19 +69,19 @@ Once you have an idea of what kind of content does well on different platforms, 
 To help you kickstart your social media journey, here’s a list of free content creation tools: 
 
 **Design**
-- [Canva](https://www.canva.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-- [Figma](https://www.figma.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-- [Piktochart](https://piktochart.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Canva](https://www.canva.com/){:target="_blank"}{:rel="noopener"}
+- [Figma](https://www.figma.com/){:target="_blank"}{:rel="noopener"}
+- [Piktochart](https://piktochart.com/){:target="_blank"}{:rel="noopener"}
 
 **Video editing**
-- [Headliner](https://www.headliner.app/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-- [Typito](https://typito.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-- [Biteable](https://biteable.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [Headliner](https://www.headliner.app/){:target="_blank"}{:rel="noopener"}
+- [Typito](https://typito.com/){:target="_blank"}{:rel="noopener"}
+- [Biteable](https://biteable.com/){:target="_blank"}{:rel="noopener"}
 
 **Photo editing**
-- [GIMP](https://www.gimp.org/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-- [Pixlr X](https://pixlr.com/x/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-- [Photoscape X](http://x.photoscape.org/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- [GIMP](https://www.gimp.org/){:target="_blank"}{:rel="noopener"}
+- [Pixlr X](https://pixlr.com/x/){:target="_blank"}{:rel="noopener"}
+- [Photoscape X](http://x.photoscape.org/){:target="_blank"}{:rel="noopener"}
 
 ###### This article is accurate as at 16 Feb 2022
 
