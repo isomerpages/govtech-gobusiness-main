@@ -1,5 +1,5 @@
 ---
-title: 3. RETSF-Applied Data Analytics
+title: 3. Effective Digital Asset and File Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3087
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/RETSFApplied-Data-Analytics-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Effective-Digital-Asset-File-Management-level-2-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
