@@ -1,5 +1,5 @@
 ---
-title: Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite Extended
+title: Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite
 permalink: /productivity-solutions-grant/solutionrepo/solution2936
 ---
 
@@ -9,7 +9,7 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

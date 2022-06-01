@@ -1,5 +1,5 @@
 ---
-title: 3. Effective Digital Marketing and Sales
+title: 3. Driving Trade & Business with Enterprise Resource Planning
 permalink: /productivity-solutions-grant/solutionrepo/solution3135
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Effective-Digital-Marketing-Sales-Synchronous-elearning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Driving-Trade-Business-Enterprise-Resource-Planning-2' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

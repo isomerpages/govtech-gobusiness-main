@@ -1,15 +1,15 @@
 ---
-title: Revel Systems Version 2 - Package D Revel 8 device license w/ e-Menu Ordering
+title: Shopcada POS Version 2 - Annual License
 permalink: /productivity-solutions-grant/solutionrepo/solution3007
 ---
 
 ### Description
 
-Revel Systems iPad Point of Sale is the most versatile solution in the market today-a feature-rich POS platform that offers business owners and operators complete control of their business.
+Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offering omni-channel support to integrate offline stores with online sales within a centralized backend dashboard. The integrated CRM tools such as membership system, discounts, loyalty points offer better omni-channel shopping experience.  With a single backend, synchronizing products, inventory, and customers between outlets, and accessing management reports is made easier.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 0.8 for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg <br>
+Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

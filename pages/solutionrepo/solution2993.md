@@ -1,5 +1,5 @@
 ---
-title: EPOINT Version 9 - eWaiter - Lite
+title: EPOINT Version 9 - eWaiter - Basic+
 permalink: /productivity-solutions-grant/solutionrepo/solution2993
 ---
 
@@ -9,7 +9,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

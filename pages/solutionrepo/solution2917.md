@@ -1,5 +1,5 @@
 ---
-title: EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)
+title: EQuipPOS Retail Solutions Version 3 - Package B (Basic+Multi Outlet Control)
 permalink: /productivity-solutions-grant/solutionrepo/solution2917
 ---
 
@@ -9,7 +9,7 @@ EQuip POS Retail Solutions display real-time and offline capabilities at the sam
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
