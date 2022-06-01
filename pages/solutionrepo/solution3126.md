@@ -1,5 +1,5 @@
 ---
-title: 3. E-Commerce Campaign Management (ICDL Digital Marketing)
+title: 3. Practical Approach to Cloud Computing
 permalink: /productivity-solutions-grant/solutionrepo/solution3126
 ---
 
@@ -9,7 +9,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ### Details of Solution
 
-Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/ECommerce-Campaign-Management-ICDL-Digital-Marketing-2' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Practical-Approach-Cloud-Computing-4' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

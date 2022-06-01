@@ -1,5 +1,5 @@
 ---
-title: Iorderla Digital Ordering BYOD Solution Version 1.0 - Standard
+title: Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2967
 ---
 
@@ -9,7 +9,7 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

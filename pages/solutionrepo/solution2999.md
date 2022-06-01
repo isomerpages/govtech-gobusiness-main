@@ -1,5 +1,5 @@
 ---
-title: MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)
+title: MEVO DMS 8.3 - MEVO B2B Enterprise (5 Users Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution2999
 ---
 
@@ -9,7 +9,7 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: www.mevo.com.sg <br>Contact Hotline: 67739048 <br>Contact Email: enquiries@mevo.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

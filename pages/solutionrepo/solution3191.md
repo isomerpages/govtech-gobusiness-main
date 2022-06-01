@@ -1,5 +1,5 @@
 ---
-title: 3. Practical Approach to Cloud Computing
+title: 2. Digital Customer Experience Management
 permalink: /productivity-solutions-grant/solutionrepo/solution3191
 ---
 

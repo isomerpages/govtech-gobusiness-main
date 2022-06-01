@@ -1,5 +1,5 @@
 ---
-title: Gravis - Premium Plan (Up to 10 users)
+title: Gravis - Basic Plan (Up to 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2960
 ---
 
@@ -9,7 +9,7 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/OneXGroup_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/OneXGroup_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

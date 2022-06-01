@@ -1,5 +1,5 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontier - 200 Users
+title: Frontier e-HR Version 8 - AutomateHR eFrontier - 150 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2924
 ---
 
@@ -9,7 +9,7 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of human resource op
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
