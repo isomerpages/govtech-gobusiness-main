@@ -1,152 +1,105 @@
 <style>
-  [class*="mailer"] {
-    font-family: hknova-regular;
-  }
+.campaigncard__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border: 1px solid #dbdfe4;
+  border-radius: 5px;
+  padding: 24px;
+  max-width: 1140px;
+  margin: auto;
+  font-family: 'HK Nova';
+}
 
-  .mailer__container {
-    display: flex;
+.campaigncard__contents {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .campaigncard__container {
     flex-direction: column;
-    padding: 0px 0px 0px 0px;
-    background-color: #ffffff;
+    align-items: flex-start;
   }
-
-
-  .mailer__header {
-    line-height: 45px;
-    color: #037e8a;
+  .campaigncard__contents {
+    flex-direction: column;
+    align-items: flex-start;
   }
+}
 
-  .mailer_url {
-    text-decoration-line: underline;
-  }
+.campaigncard__img {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
 
-  .mailer__title {
-    text-align: center;
-  }
+.campaigncard__img img {
+  width: 100%;
+}
 
-  .mailer__contents {
-    display: grid;
-    grid-template-areas:
-      "content-3"
-      "content-4";
-    grid-gap: 0px;
-    border-bottom: 1px solid #dbdfe4;
-    border-top: 1px solid #dbdfe4;
-    border-left: 1px solid #dbdfe4;
-    border-right: 1px solid #dbdfe4;
-    border-radius: 5px;
-    row-gap: 8px;
-    height: auto;
-    width: fit-content;
-  }
+.campaigncard__text {
+  max-width: 640px;
+}
 
-  .mailer__left-bottom {
-    grid-area: content-3;
-    display: flex;
-    flex-wrap: nowrap;
-    border-radius: 5px;
-    row-gap: 8px;
-    height: auto;
-  }
+.campaigncard__title {
+  color: #037e8a;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
 
-  .mailer__title {
+.campaigncard__body {
+  color: #313840;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.primary-btn {
     font-family: hknova-semibold;
-    font-size: 24px;
-    line-height: 30px;
-    color: #037E8A;
-    text-align: left;
-  }
-
-  .mailer__right-bottom {
-    grid-area: content-4;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
     display: flex;
-    flex-wrap: nowrap;
-    background: #ffffff;
-
-  }
-
-  .mailer__logoWrapper {
-    padding: 24px;
-    margin-top: 10px;
-  }
-
-  .mailer__logo {
-    width: 130px;
-    height: auto;
-  }
-
-  .mailer__Rcard--body {
-    font-size: 16px;
-    line-height: 24px;
-    color: #313840;
-    padding: 0 0 0 0px;
-    margin: 16px 0;
-    
-  }
-
-  .mailer__Lcard--body {
-    font-size: 16px;
-    line-height: 24px;
-    color: #313840;
-    text-align: center;
     justify-content: center;
-    margin: auto;
-    width: 100%;
-  }
-
-  @media screen and (min-width: 768px) {
-    .mailer__contents {
-      display: grid;
-      grid-template-areas:
-        "content-3 content-4";
-      margin: 0 auto;
-      grid-template-columns: 660px 180px;
-      justify-items: center;
-      justify-content: center;
-
-    }
-
-    @media (max-width: auto) {
-        .content .spanels {
-            grid-template-columns: 1fr;
-        }
-    }
-
-    .mailer__left-bottom {
-      height: 100%;
-      width: auto;
-      max-width: 638px;
-    }
-    .mailer__right-bottom {
-      height: 100%;
-      width: auto;
-      max-width: 438px;
-    }
-    .mailer__logoWrapper {
-      padding: 0 24px;
-    }
-    .mailer__logo {
-      width: auto;
-    }
-  }
+    align-items: center;
+    padding: 12.5px 24px;
+    border: 1px solid #037e8a;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #037e8a;
+    font-size: 18px;
+    line-height: 27px;
+/*     height: 52px; */
+    width: fit-content;
+    width: -moz-fit-content;
+    margin: 0 auto;
+    cursor: pointer;
+  /*--- NEW ---*/
+  text-align: center;
+}
 </style>
-<div class="mailer__container">
-  <div class="mailer__header">
-    <div class="mailer__contents">
-      <div class="mailer__left-bottom">
-        <div class="mailer__logoWrapper">
-          <img class="mailer__logo" src="/images/mazeUT.png" alt=""/>
-        </div>
-        <div class="mailer__Rcard--body">
-          <div class="mailer__title">Take part in GoBusiness' research</div>
-          Help us test a few ideas to make it easier to apply for and manage licences on GoBusiness. This activity will take just 5 - 10 minutes.
-        </div>
-      </div>
-      <div class="mailer__right-bottom">
-        <div class="mailer__Lcard--body">
-          {% include primary-btn.html href="https://go.gov.sg/db-short-q" text="Start" target="_blank" %}
-        </div>
-      </div>
+<div class="campaigncard__container">
+  <div class="campaigncard__contents">
+    <div class="campaigncard__img">
+      <img src="/images/mazeUT.png" alt="">
     </div>
+    <div class="campaigncard__text">
+      <h4 class="campaigncard__title">Take part in GoBusiness' research</h4>
+      <p class="campaigncard__body">Help us test a few ideas to make it easier to apply for and manage licences on GoBusiness. This activity will take just 5 - 10 minutes.
+      </p>
+    </div>
+  </div>
+  <div class="campaigncard__CTA">
+    <a class="primary-btn" href="https://go.gov.sg/db-short-q" target="_blank">Start</a>
   </div>
 </div>
