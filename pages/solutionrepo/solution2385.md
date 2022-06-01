@@ -1,5 +1,5 @@
 ---
-title: Eminet Sophos XGS Firewall - XG 2300
+title: Eminet Sophos XGS Firewall - XG 2100
 permalink: /productivity-solutions-grant/solutionrepo/solution2385
 ---
 
@@ -17,7 +17,7 @@ Sophos XG Cybersecurity Solution that provides :
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

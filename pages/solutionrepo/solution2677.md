@@ -1,5 +1,5 @@
 ---
-title: JustLogin HR E-Scheduling - D (Up to 125 pax)
+title: JustLogin HR E-Scheduling - C (Up to 75 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2677
 ---
 
@@ -9,7 +9,7 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

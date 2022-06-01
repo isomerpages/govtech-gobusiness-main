@@ -1,5 +1,5 @@
 ---
-title: AM8ZE ERP VISTA - Manufacturing and Supply Chain V25 (25 Users)
+title: AM8ZE ERP VISTA - Supply Chain V35 (35 Users) 
 permalink: /productivity-solutions-grant/solutionrepo/solution2898
 ---
 
@@ -9,7 +9,7 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

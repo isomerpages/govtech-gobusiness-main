@@ -1,11 +1,11 @@
 ---
-title: Farm Washing System
-permalink: /productivity-solutions-grant/solutionrepo/solution2134
+title: Automatic Seed Sowing Machine
+permalink: /productivity-solutions-grant/solutionrepo/solution2124
 ---
 
 ### Description
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
 ### Details of Solution
 

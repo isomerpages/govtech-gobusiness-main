@@ -1,11 +1,11 @@
 ---
-title: Closed Containment System
-permalink: /productivity-solutions-grant/solutionrepo/solution2125
+title: Farm Produce Washing Machine
+permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 
 ### Description
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ### Details of Solution
 

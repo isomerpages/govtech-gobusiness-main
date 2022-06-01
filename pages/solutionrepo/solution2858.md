@@ -1,5 +1,5 @@
 ---
-title: Synergix E1 Sales & Accounting - Package (10 users with InvoiceNow) - TH6
+title: Synergix E1 Sales & Accounting - Package (5 users with InvoiceNow) - TH6
 permalink: /productivity-solutions-grant/solutionrepo/solution2858
 ---
 
@@ -9,7 +9,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

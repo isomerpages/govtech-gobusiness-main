@@ -1,5 +1,5 @@
 ---
-title: Beaufort-Xero Digital Solutions - Package D - Subscription + Set Up + Training (B,I) + Custom + Data (Opening)
+title: Beaufort-Xero Digital Solutions - Package C - Subscription + Set Up + Training (B)
 permalink: /productivity-solutions-grant/solutionrepo/solution2776
 ---
 
@@ -11,7 +11,7 @@ Beaufort's range of 5 packages, allows a wide selection.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_45.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Beaufort-Xero_20210237_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

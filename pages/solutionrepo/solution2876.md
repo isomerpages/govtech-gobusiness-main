@@ -1,5 +1,5 @@
 ---
-title: SAP BUSINESS ONE - 5 Perpetual Starter Users SQL on Premise with Remote Desktop License
+title: SAP BUSINESS ONE - 3 Perpetual Starter Users SQL on Premise with Remote Desktop License
 permalink: /productivity-solutions-grant/solutionrepo/solution2876
 ---
 
@@ -9,7 +9,7 @@ SAP Business One application offers an affordable way to manage the entire busin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

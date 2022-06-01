@@ -1,15 +1,15 @@
 ---
-title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME mini
+title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro
 permalink: /productivity-solutions-grant/solutionrepo/solution2004
 ---
 
 ### Description
 
-Morphisec is designed to protect critical applications from threat actors and evasive techniques that hide from detection-based solutions without prior knowledge. Made easy for SMEs with lean IT teams, EQCOMS' Managed Security Service delivers operationally simple, instant pre-breach proactive protection against the most sophisticated  cyberattacks. Combined with their 24x7 monitoring centre, EQCOMS provides businesses with round-the-clock visibility on the security of their machines.
+EQCOMS's Managed Security Service deliver operationally simple, proactive prevention unbound by the limits of detection and prediction. We partnering Morphisec - They protect businesses around the globe from the most dangerous and sophisticated cyberattacks immediately, efficiently and absolutely.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

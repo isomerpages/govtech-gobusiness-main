@@ -1,5 +1,5 @@
 ---
-title: Firewalla Gold Package - Package C - 3 Sites
+title: Firewalla Gold Package - Package B - 2 Sites
 permalink: /productivity-solutions-grant/solutionrepo/solution2605
 ---
 
@@ -9,7 +9,7 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

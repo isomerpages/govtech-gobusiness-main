@@ -1,5 +1,5 @@
 ---
-title: DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEM SM
+title: DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SM
 permalink: /productivity-solutions-grant/solutionrepo/solution2805
 ---
 
@@ -9,7 +9,7 @@ Cleverly's Digital Marketing package is created to help businesses create brand 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

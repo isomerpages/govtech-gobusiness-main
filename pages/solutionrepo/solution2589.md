@@ -1,5 +1,5 @@
 ---
-title: Xero by Book&Entries - Package D (Premium Full Package)
+title: Xero by Book&Entries - Package C (Premium Package - Software + Setup)
 permalink: /productivity-solutions-grant/solutionrepo/solution2589
 ---
 
@@ -9,7 +9,7 @@ Since 2015, Book&Entries has continued to serve and provide clients with our var
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

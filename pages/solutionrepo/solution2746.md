@@ -1,5 +1,5 @@
 ---
-title: ABSS - Premier Plus Version 23 - 3 Users with InvoiceNow
+title: ABSS - Premier Plus Version 23 - Single User with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution2746
 ---
 
@@ -11,7 +11,7 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

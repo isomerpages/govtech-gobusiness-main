@@ -1,16 +1,16 @@
 ---
-title: SAP Business One SQL & HANA Version 10.0 - Package (1 License)
-permalink: /productivity-solutions-grant/solutionrepo/solution2954
+title: Microsoft Dynamics 365 Business Central - Essentials - 10 Users
+permalink: /productivity-solutions-grant/solutionrepo/solution1974
 ---
 
 ### Description
 
-Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
-SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
+Microsoft Dynamics 365 Business Central is a business management ERP solution for small and mid-sized organizations that automates and streamlines business processes and helps SMEs to manage their business.
+R Systems is a global technology and analytics services company that helps businesses to achieve speed-to-market, overcome digital barriers, and create business value with their specialized service offerings and consultative business approach. 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -28,13 +28,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70 for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.mpssolutions.com.sg <br>Contact Hotline: 68469109 <br>Contact Email: kelvin@mclinkgroup.com <br>
+Web URL: https://www.ibizcs.com/ <br>Contact Hotline: 64307341 <br>Contact Email: SALES@IBIZCS.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Adaptive Pay Version 2022 - Package 4
+title: Adaptive Pay Version 2022 - Package 3
 permalink: /productivity-solutions-grant/solutionrepo/solution2893
 ---
 
@@ -9,7 +9,7 @@ Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. I
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

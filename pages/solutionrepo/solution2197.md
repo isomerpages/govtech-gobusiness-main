@@ -1,5 +1,5 @@
 ---
-title: WarelyEcom Version 1.3 - Premium
+title: WarelyEcom Version 1.3 - Express
 permalink: /productivity-solutions-grant/solutionrepo/solution2197
 ---
 
@@ -9,7 +9,7 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 10 Vehicles
+title: Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution2222
 ---
 
@@ -9,7 +9,7 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

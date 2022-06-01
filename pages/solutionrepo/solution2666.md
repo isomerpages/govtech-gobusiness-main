@@ -1,17 +1,15 @@
 ---
-title: Xero - ACE XERO Cloud Accounting Software - Package A (Subscription Only)
+title: Simplify Version 1 - Simplify - Business (Unlimited Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2666
 ---
 
 ### Description
 
-Ace is a value-added system integrator, focusing on providing customers with solutions that enhances their productivity and efficiency.
-
-XERO being a cloud based and IRAS approved accounting software, it allows companies to access their financials anytime, anywhere.
+Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACE_Business_20210364_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.acebizservices.com/it-software <br>Contact Hotline: 62620402 <br>Contact Email: CARE@ACEBIZSERVICES.COM <br>
+Web URL: simplify.asia <br>Contact Hotline: 67344430 <br>Contact Email: hello@noid.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
+title: Climate & Environment Monitoring Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2162
 ---
 
 ### Description
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ### Details of Solution
 

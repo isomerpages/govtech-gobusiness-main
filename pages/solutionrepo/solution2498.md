@@ -1,5 +1,5 @@
 ---
-title: Panda Adaptive Defense 360 - Watchguard Panda AD360 - 30 Licenses
+title: Panda Adaptive Defense 360 - Watchguard Panda AD360 - 10 Licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution2498
 ---
 
@@ -9,7 +9,7 @@ Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

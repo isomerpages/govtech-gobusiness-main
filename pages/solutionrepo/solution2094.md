@@ -1,17 +1,16 @@
 ---
-title: NetSuite - SuiteSuccess Starter with Implementation (2 users)
-permalink: /productivity-solutions-grant/solutionrepo/solution1855
+title: Xero Accounting Software - PREMIUM 3
+permalink: /productivity-solutions-grant/solutionrepo/solution2094
 ---
 
 ### Description
 
-For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
-
-Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
+Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
+Xero's online accounting platform provides the foundation on which businesses can build a complete business solution. It connects businesses with their bank, accounting tools, their accountant, payment services and third-party apps, so everything is securely available at any time, on any device.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Oracle_Annex_3_CR_wef_5_May_2022_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Subscription / Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -36,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
+Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62211768 <br>Contact Email: APSmarketing@aura.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

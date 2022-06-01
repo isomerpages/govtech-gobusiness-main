@@ -1,15 +1,15 @@
 ---
-title: iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1
+title: Cybots AMDR - Standard Package Solution-5
 permalink: /productivity-solutions-grant/solutionrepo/solution2811
 ---
 
 ### Description
 
-iREP Security is a mobile reporting, maintenance and monitoring system which use GPS and Live Images to enable your security officers to log incident or occurrence reports on sites, take attendance and protect premises with Body worn cameras.  Smart phones to carry out duties on site for the security guards and feedback to agency operation or management of the MCST immediately.  The system gives you a transparent view of works completed on site, providing quality assurance to the clients.
+Cybots ensures cyber resilience for all sectors, from SMEs to large multinational organisations. Our AI-driven security operations include managed detection and response (MDR), threat hunting, cyber threat intelligence (CTI), and incidence response (IR). Powered by deep learning, adversarial and reinforced learning, our company's proprietary artificial intelligence engines enables our customers and partners to rapidly perform security threat analysis on a scalable, user-friendly platform.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
+Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br>Contact Hotline: 69835690 <br>Contact Email: contactus@cybotsai.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: IT Infinity Sage 300  - Package A2 (Advanced Edition - 5 Users)
+title: IT Infinity Sage 300  - Package A1 (Advanced Edition - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2484
 ---
 
@@ -9,7 +9,7 @@ Sage has more than 30 years of experience helping millions of small and medium c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

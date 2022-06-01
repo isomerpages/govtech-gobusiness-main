@@ -1,15 +1,15 @@
 ---
-title: Xero Cloud Accounting Software - Xero Standard Subscription
+title: Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Economy)
 permalink: /productivity-solutions-grant/solutionrepo/solution2453
 ---
 
 ### Description
 
-The Xero dashboard presents users with a clear and concise overview of their financial situation. It provides small business owners with a greater understanding of their cashflow by highlighting bank balances, outstanding invoices, upcoming bills and expense claims in a visually appealing way.
+Taidii SMART integrated preschool management system provides innovation solutions to streamline administrative process and foster better preschool services as its key services. Taidii helps to automate various tasks and stores data using a secured cloud based platform for easy access. Taidii hopes to bring greater efficiency and convenience to preschool management and ultimately, higher quality childcare for the young generation.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
-N.A. for non-SMEs
+Up to 50% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-Web URL: WWW.ASSEMBLYWORK.CO <br>Contact Hotline: 90883183 <br>Contact Email: shining@assemblyworks.co <br>
+Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

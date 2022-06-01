@@ -1,17 +1,15 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package A (Starter Package) (5 Cloud Subscription Users)
+title: ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access
 permalink: /productivity-solutions-grant/solutionrepo/solution1994
 ---
 
 ### Description
 
-Axxis Consulting is an SAP Platinum Partner in Singapore, providing leading expertise to support business transformations and related IT implementations. As a subsidiary of Nihon Unisys and a member of United VARS, Axxis supports customers in APJ and beyond with an experienced international SAP Consulting Team.
-
-SAP Business One is an ERP software designed for SMEs. It's a single, affordable solution for managing the entire company and pre-configured to meet the needs of specific industries.
+Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. ABSS is an accounting software to help businesses process sales and purchases, track receivables, payables and GST, email quotes and invoices and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
+Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

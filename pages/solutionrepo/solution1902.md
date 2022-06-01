@@ -1,5 +1,5 @@
 ---
-title: arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Customized
+title: arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1902
 ---
 
@@ -9,7 +9,7 @@ Arcstone's Product and Manufacturing Process Configuration solution empowers man
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

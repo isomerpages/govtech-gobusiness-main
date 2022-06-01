@@ -1,5 +1,5 @@
 ---
-title: Xero Accounting System - Xero Accounting System - Go EBOS - All In One Booming - 2C
+title: Xero Accounting System - Xero Accounting System - Go EBOS - All In One Booming - 2B
 permalink: /productivity-solutions-grant/solutionrepo/solution2781
 ---
 
@@ -11,7 +11,7 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

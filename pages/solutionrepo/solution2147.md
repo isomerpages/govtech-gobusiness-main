@@ -1,11 +1,11 @@
 ---
-title: Water Filtration System
-permalink: /productivity-solutions-grant/solutionrepo/solution2158
+title: Multi-tier Cultivation System
+permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 2 (16-25 employee) Version 21-3
+title: HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3
 permalink: /productivity-solutions-grant/solutionrepo/solution2847
 ---
 
@@ -9,7 +9,7 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

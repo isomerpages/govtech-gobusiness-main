@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0-Package B (eMenu with eWaiter)
+title: FoodZaps Version 4.0-Package A (eMenu)
 permalink: /productivity-solutions-grant/solutionrepo/solution1958
 ---
 
@@ -9,7 +9,7 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

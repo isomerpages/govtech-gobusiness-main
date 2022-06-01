@@ -1,5 +1,5 @@
 ---
-title: OpensoftHR Version 18 - Enterprise (50 pax)
+title: OpensoftHR Version 18 - Enterprise (25 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2789
 ---
 
@@ -9,7 +9,7 @@ Opensoft is a provider of Payroll and Human Resources Management System (HRMS) s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

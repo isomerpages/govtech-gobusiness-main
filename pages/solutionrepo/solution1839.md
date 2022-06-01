@@ -1,5 +1,5 @@
 ---
-title: HeartVoice Telehealth Platform - Package (2 Doctors)
+title: HeartVoice Telehealth Platform - Package (1 Doctor)
 permalink: /productivity-solutions-grant/solutionrepo/solution1839
 ---
 
@@ -9,7 +9,7 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

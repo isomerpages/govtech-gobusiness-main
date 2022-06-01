@@ -1,11 +1,11 @@
 ---
-title: Fish fry quarantine tank system
+title: Temperature montoring/ labelling device
 permalink: /productivity-solutions-grant/solutionrepo/solution2171
 ---
 
 ### Description
 
-A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ### Details of Solution
 

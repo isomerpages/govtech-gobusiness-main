@@ -1,11 +1,11 @@
 ---
-title: Ear Tagging Machine
+title: Dehusking Machine/ Shaker
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
 ### Description
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ### Details of Solution
 

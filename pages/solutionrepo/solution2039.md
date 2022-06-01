@@ -1,11 +1,13 @@
 ---
-title: Aeration System/ Oxygenation System
-permalink: /productivity-solutions-grant/solutionrepo/solution2112
+title: Automatic Nut Splitter
+permalink: /productivity-solutions-grant/solutionrepo/solution2039
 ---
 
 ### Description
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
+
+Cost of equipment capped at $7,500 per unit 
 
 ### Details of Solution
 
@@ -27,11 +29,14 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+- Minimum nut size: 12.7mm
+- 1 battery pack or power unit per  equipment can be supported
+- Training costs can be supported
+- Maintenance costs not supported
 
 ### Contact Information
 N.A.

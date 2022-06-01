@@ -1,5 +1,5 @@
 ---
-title: OS Store E-Commerce - Premium
+title: OS Store E-Commerce - Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution2417
 ---
 
@@ -9,7 +9,7 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

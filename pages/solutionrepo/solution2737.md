@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Version 12 - STANDARD 100
+title: WhyzeHR Version 12 - STANDARD 50
 permalink: /productivity-solutions-grant/solutionrepo/solution2737
 ---
 
@@ -9,7 +9,7 @@ Whyze Solutions is a HR & Payroll solution provider based in Singapore since 200
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

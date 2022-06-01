@@ -1,5 +1,5 @@
 ---
-title: Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)
+title: Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (25 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution2052
 ---
 
@@ -10,7 +10,7 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

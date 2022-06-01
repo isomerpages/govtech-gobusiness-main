@@ -1,15 +1,15 @@
 ---
-title: ETABS Ultimate Suite Version 19 - Package 1 with Training (1 Year Subscription)
+title: Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F
 permalink: /productivity-solutions-grant/solutionrepo/solution2403
 ---
 
 ### Description
 
-ETABS Ultimate Suite is an integrated 3D finite element software package for the structural analysis, design and detailing of building systems. Using ETABS advanced and friendly GUI, engineer can perform object-based modelling and design building using linear, non-linear, static and dynamic analysis. ETABS includes many advanced tools like Sequential Constructions, P-delta with Large-Displacement, Performance Based Design tool to cater for advanced and complex building design.
+FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_20210040_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.ottegroup.com <br>Contact Hotline: 66842268 <br>Contact Email: sgsales@ottegroup.com <br>
+Web URL: www.care.biz <br>Contact Hotline: 67448022 <br>Contact Email: sales@sg.care.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Cybersecurity Package - 90 Users Pack
+title: Microsoft Cybersecurity Package - 50 Users Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution2904
 ---
 
@@ -9,7 +9,7 @@ This managed security service leverages the power of Microsoft's integrated thre
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

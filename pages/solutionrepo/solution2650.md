@@ -1,5 +1,5 @@
 ---
-title: Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration
+title: Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2650
 ---
 
@@ -13,7 +13,7 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Simplify Version 1 - Simplify - Standard (50 users)
+title: Simplify Version 1 - Simplify - Basic Plus (15 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2663
 ---
 
@@ -9,7 +9,7 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

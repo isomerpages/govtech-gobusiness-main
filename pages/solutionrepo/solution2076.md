@@ -1,11 +1,13 @@
 ---
-title: Pasteurisation Equipment/ Plant
-permalink: /productivity-solutions-grant/solutionrepo/solution2148
+title: Battery-operated Torque Wrench
+permalink: /productivity-solutions-grant/solutionrepo/solution2076
 ---
 
 ### Description
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
+
+Cost of equipment capped at $11,250 per unit
 
 ### Details of Solution
 
@@ -27,11 +29,15 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 50% for SMEs <br>
-Up to 50% for non-SMEs
+Up to 70% for SMEs <br>
+N.A. for non-SMEs
 
 ### Things to Note
-Holding Period of 3 years
+- Produce at least 1,000 N.m torquing force 
+- Battery pack and charger can be supported
+- Maintenance costs not supported
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 ### Contact Information
 N.A.

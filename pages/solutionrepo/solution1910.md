@@ -1,5 +1,5 @@
 ---
-title: Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update
+title: Fortinet Fortigate (Next Generation Firewall) - 100F
 permalink: /productivity-solutions-grant/solutionrepo/solution1910
 ---
 
@@ -9,7 +9,7 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

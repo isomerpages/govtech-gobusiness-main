@@ -1,5 +1,5 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) Internet & Malware Defence Large SME with 24 x 7 Managed Support
+title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Medium with 24 x 7 Managed security support 
 permalink: /productivity-solutions-grant/solutionrepo/solution1874
 ---
 
@@ -11,7 +11,7 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
