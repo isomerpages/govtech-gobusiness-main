@@ -1,5 +1,5 @@
 ---
-title: Network Box Next Generation Managed Security Version 5.5 - Package II - Medium Workload
+title: Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload
 permalink: /productivity-solutions-grant/solutionrepo/solution2546
 ---
 
@@ -9,7 +9,7 @@ Network Box is a Managed Security Service Provider, with a narrow scope. The foc
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

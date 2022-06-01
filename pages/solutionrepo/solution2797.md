@@ -1,5 +1,5 @@
 ---
-title: DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)
+title: DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2797
 ---
 
@@ -9,7 +9,7 @@ The maximum application quota for this Digital Marketing vendor has been reached
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)
+title: Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2337
 ---
 
@@ -9,7 +9,7 @@ Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Pro
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

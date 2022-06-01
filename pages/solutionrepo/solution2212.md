@@ -1,5 +1,5 @@
 ---
-title: FITPRISE Job Inspection System - FITPRISE Job Inspection System - 5 users
+title: FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 10 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2212
 ---
 
@@ -9,7 +9,7 @@ FITPRISE PMS is a web-based management system that manages the QA/QC project man
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,17 +1,15 @@
 ---
-title: cuteOffice ERP for PCM Version 2.0 - HRM Suite >150 Users
+title: SHOPLINE e-Commerce Solution - Customized eCommerce Website Development Package + Digital Marketing (Advanced)
 permalink: /productivity-solutions-grant/solutionrepo/solution2329
 ---
 
 ### Description
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing.
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+SHOPLINE provides extensive e-commerce support: inventory management, payment and logistics services, and marketing and CRM tools. We also provide analytics and reports and connect to a variety of digital marketing tools and platforms so that merchants can visualize their performance. Apart from online services, SHOPLINE offers an effective omni-channel retail solution for merchants to build a digital customer experience on top of their physical business.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -29,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
+Web URL: www.shoplineapp.sg <br>Contact Hotline: 93855186 <br>Contact Email: support.sg@shoplineapp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

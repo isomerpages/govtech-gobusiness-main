@@ -1,5 +1,5 @@
 ---
-title: HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)
+title: HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding
 permalink: /productivity-solutions-grant/solutionrepo/solution2396
 ---
 
@@ -9,7 +9,7 @@ Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, b
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

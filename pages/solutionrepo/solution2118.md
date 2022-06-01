@@ -1,11 +1,11 @@
 ---
-title: Automated Slaughtering Equipment
+title: Automated Mixer/ Compacter for Growing Media
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
 ### Details of Solution
 

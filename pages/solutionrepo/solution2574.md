@@ -1,5 +1,5 @@
 ---
-title: Profectant Xero - Standard Package (5 Users)
+title: Profectant Xero - Starter Package (2 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2574
 ---
 
@@ -9,7 +9,7 @@ Profectant has established a sound track record in simplifying and implementing 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

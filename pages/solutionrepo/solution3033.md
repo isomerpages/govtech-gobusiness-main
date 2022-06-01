@@ -1,15 +1,17 @@
 ---
-title: 2. Business Forecasting
+title: SGDATAPOS Digital Ordering - Package D, Delta On-line ordering with CRM, MOS, QMS and KDS)
 permalink: /productivity-solutions-grant/solutionrepo/solution3033
 ---
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+SGDATAPOS Digital Ordering is designed with a simple interface, yet powerful functions to ease operations.
+Backed with cloud back office, configurations such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
+SGDATAPOS Digital Ordering is easily integrated to other SGDATA add-on modules such as CRM, e-commerce, kitchen display system & POS system.
 
 ### Details of Solution
 
-Click <a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-
+Direct Purchase
 
 ### Support Level
-Up to  for SMEs <br>
+Up to 0.8 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-
+Web URL: www.sgdatapos.com <br>Contact Hotline: +6566677093 <br>Contact Email: sales@sgdatahub.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

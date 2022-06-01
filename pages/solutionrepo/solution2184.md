@@ -1,5 +1,5 @@
 ---
-title: BlueMeg Console - Package C (250 Entities)
+title: BlueMeg Console - Package B (100 Entities)
 permalink: /productivity-solutions-grant/solutionrepo/solution2184
 ---
 
@@ -9,7 +9,7 @@ The BlueMeg Console is a cloud-based entity management and document management s
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,21 +1,15 @@
 ---
-title: Automated tools management system
+title: Mobile Computer (Warehouse application)
 permalink: /productivity-solutions-grant/solutionrepo/solution2037
 ---
 
 ### Description
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
 
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
 
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Cost of equipment capped at $28,000 per unit
+Cost of equipment capped at $30,000 per unit
 
 ### Details of Solution
 
@@ -41,9 +35,13 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
-
-Support only hardware and software.
+Installed with software for inventory data input.
+Withstand rough handling, meet min IP54 standards.
+Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
+Battery with min 3 hrs standby.
+Wireless LAN/Bluetooth/cellular connectivity.
+Support the common operating system e.g. Android, Windows.
+Maintenance cost is not supported.
 
 
 ### Contact Information

@@ -1,15 +1,16 @@
 ---
-title: Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, XSmall
+title: ABSS Premier Version 23 - PremierPlus 3U+Remote+Setup+Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2510
 ---
 
 ### Description
 
-Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering Solution. Made local with a globally experienced team, our proprietary solution transforms your outlet to the industry's best practice level for efficiency and execution.
+Dandelion Consulting is a ABSS Certified Partner for 10 years and has been fully trained and certified to provide a range of services including sales, installation and training.
+ABSS Premier is a leading SME business integrated simple and easy to use accounting solution. A digital ready accounting software that helps SME to manage and process sales and purchases, track receivable, payable, inventory and GST. Simplify desktop & cloud accounting management, ePayments, eInvoices and more
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Lunchbox_20200960_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +28,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.mylunchbox.app <br>Contact Hotline: 81298905 <br>Contact Email: office@mylunchbox.app <br>
+Web URL: www.dandelion.com.sg <br>Contact Hotline: 89275811 <br>Contact Email: info@dandelion.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

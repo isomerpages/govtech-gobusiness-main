@@ -1,5 +1,5 @@
 ---
-title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1C
+title: Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1B
 permalink: /productivity-solutions-grant/solutionrepo/solution2845
 ---
 
@@ -9,7 +9,7 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

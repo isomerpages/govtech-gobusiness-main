@@ -1,15 +1,13 @@
 ---
-title: Liquid Filling Machine
+title: Automated Labelling Machine 
 permalink: /productivity-solutions-grant/solutionrepo/solution2072
 ---
 
 ### Description
 
-A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
-Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
-Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -35,13 +33,13 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Minimally semi-automated
-- Volumetric or weight based filling
-- Touchscreen display can be supported
-- Explosion proof can be supported 
-- Installation/simple training costs can be supported
-- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported 
+- Auto self-adhesive labelling function
+- Parameter setting for different label sizes
 
+- Touchscreen display can be supported
+- Explosion proof can be supported
+- Installation/simple training costs can be supported
+- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported
 
 ### Contact Information
 N.A.

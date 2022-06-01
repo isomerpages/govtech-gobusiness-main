@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow
+title: Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users with InvoiceNow
 permalink: /productivity-solutions-grant/solutionrepo/solution2750
 ---
 
@@ -11,7 +11,7 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

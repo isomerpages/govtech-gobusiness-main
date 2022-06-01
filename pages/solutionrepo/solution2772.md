@@ -1,5 +1,5 @@
 ---
-title: Applivon - Odoo - App-Max
+title: Applivon - Odoo - App15
 permalink: /productivity-solutions-grant/solutionrepo/solution2772
 ---
 
@@ -9,7 +9,7 @@ Odoo is an integrated suite of business applications that have thousand of modul
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Applivon_20210515_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Applivon_20210515_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

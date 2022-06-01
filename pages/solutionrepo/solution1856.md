@@ -1,5 +1,5 @@
 ---
-title: NetSuite- SuiteSuccess Starter Products with implementation
+title: NetSuite - SuiteSuccess Starter with Implementation (2 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1856
 ---
 
@@ -11,7 +11,7 @@ Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Oracle_Annex_3_CR_wef_5_May_2022_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Oracle_Annex_3_CR_wef_5_May_2022_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

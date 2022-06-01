@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Premium Package - Software & Setup
+title: Xero Cloud Accounting Software - Premium Package - Software & Training
 permalink: /productivity-solutions-grant/solutionrepo/solution2203
 ---
 
@@ -9,7 +9,7 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

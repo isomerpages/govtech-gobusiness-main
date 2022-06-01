@@ -1,5 +1,5 @@
 ---
-title: Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Premium)
+title: Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Advance)
 permalink: /productivity-solutions-grant/solutionrepo/solution2451
 ---
 
@@ -9,7 +9,7 @@ Taidii SMART integrated preschool management system provides innovation solution
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

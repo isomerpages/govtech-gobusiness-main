@@ -1,5 +1,5 @@
 ---
-title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 50 Users
+title: cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 100 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2208
 ---
 
@@ -11,7 +11,7 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

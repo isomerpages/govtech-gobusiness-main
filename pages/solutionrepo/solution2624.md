@@ -1,5 +1,5 @@
 ---
-title: RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 10
+title: RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote  up to 5
 permalink: /productivity-solutions-grant/solutionrepo/solution2624
 ---
 
@@ -9,7 +9,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

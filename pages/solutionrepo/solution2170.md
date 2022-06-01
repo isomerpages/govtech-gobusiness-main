@@ -1,11 +1,11 @@
 ---
-title: Temperature montoring/ labelling device
+title: Underwater Camera 
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
 ### Description
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ### Details of Solution
 

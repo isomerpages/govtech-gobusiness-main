@@ -1,13 +1,13 @@
 ---
-title: Ozonised Air + Surface Sterilization System
+title: Blast Chiller
 permalink: /productivity-solutions-grant/solutionrepo/solution2521
 ---
 
 ### Description
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation. The equipment can be in portable form, permanently installed units or distributed systems.
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
 
-Cost of equipment capped at $10,000 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 
 ### Details of Solution
@@ -34,15 +34,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Equipment must meet the following:
+Minimum Specifications
 
-Generate active oxygen at an output between 20mg - 1g/hr
+Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.
 
-Emit negative ion at more than 2 million/cm3
-
-Area coverage at least 36.5 m2
-
-Effective sterilisation & reduce bacteria count by 90%
+Minimum capacity of 5 GN 1/1
 
 
 

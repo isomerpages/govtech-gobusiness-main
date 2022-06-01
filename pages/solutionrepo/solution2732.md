@@ -1,5 +1,5 @@
 ---
-title: BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License
+title: BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Single User License
 permalink: /productivity-solutions-grant/solutionrepo/solution2732
 ---
 
@@ -10,7 +10,7 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

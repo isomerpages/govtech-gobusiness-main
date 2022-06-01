@@ -1,5 +1,5 @@
 ---
-title: Revel Systems - Revel Essentials - Bundle 2 order license & 2 KDS
+title: Revel Systems - Revel Essentials -  Modern Restaurant 
 permalink: /productivity-solutions-grant/solutionrepo/solution2063
 ---
 
@@ -10,7 +10,7 @@ The Revel Enterprise solution is tailored for large chains and leads the industr
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

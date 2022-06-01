@@ -1,5 +1,5 @@
 ---
-title: Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise 
+title: Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution2692
 ---
 
@@ -10,7 +10,7 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

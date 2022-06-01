@@ -1,5 +1,5 @@
 ---
-title: 3. NICF - CND - Certified Network Defender
+title: 1. WSQ Retail (Sf) Inventory Control (Perform Stock Control for Retail Operations)
 permalink: /productivity-solutions-grant/solutionrepo/solution3183
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Million Stock Control System Version 3 - (7 Users)
+title: Million Stock Control System Version 3 - (6 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2873
 ---
 
@@ -9,7 +9,7 @@ Million Stock Control System helps to reduce the cost of holding stocks, allowin
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

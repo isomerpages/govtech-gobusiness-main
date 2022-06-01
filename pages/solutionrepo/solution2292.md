@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - ASSEMBLE-OFFICE -3 YEARS
+title: INNOCOM - ASSEMBLE-OFFICE -1 YEAR
 permalink: /productivity-solutions-grant/solutionrepo/solution2292
 ---
 
@@ -9,7 +9,7 @@ Assemble Systems provides a SaaS platform that consumes BIM models, drawings, an
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

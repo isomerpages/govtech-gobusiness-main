@@ -1,5 +1,5 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 2 Mobile and Emenu Ordering
+title: Yumstone F&B Solutions Version 5.0 - Package 1 Mobile Ordering
 permalink: /productivity-solutions-grant/solutionrepo/solution1834
 ---
 
@@ -9,7 +9,7 @@ Yumstone's Management System enables F&B operators and restaurants to empower th
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

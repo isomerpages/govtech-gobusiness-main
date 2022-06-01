@@ -1,5 +1,5 @@
 ---
-title: APM Smart Access System Version 1.0 - Single Lane Turnstile Solution-Pkg 3
+title: APM Smart Access System Version 1.0 - Access System Upgrading-Pkg 2
 permalink: /productivity-solutions-grant/solutionrepo/solution2766
 ---
 
@@ -14,7 +14,7 @@ APM Smart Access Solutions enables users to automate access control for various 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

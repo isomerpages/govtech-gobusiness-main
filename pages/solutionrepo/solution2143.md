@@ -1,11 +1,11 @@
 ---
-title: Live Pump
+title: Inoculation Cabinet (Laminar flow cabinet)
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
 ### Description
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
 
 ### Details of Solution
 

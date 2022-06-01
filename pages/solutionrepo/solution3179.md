@@ -1,5 +1,5 @@
 ---
-title: 2. Align Human Resource Services with Business Needs (SFw HR)
+title: 3. Implement Manpower Planning Processes (SFw HR)
 permalink: /productivity-solutions-grant/solutionrepo/solution3179
 ---
 

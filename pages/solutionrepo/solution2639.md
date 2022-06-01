@@ -1,5 +1,5 @@
 ---
-title: LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)
+title: LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan
 permalink: /productivity-solutions-grant/solutionrepo/solution2639
 ---
 
@@ -9,7 +9,7 @@ LittleLives is a holistic school management system built to simplify complex sch
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

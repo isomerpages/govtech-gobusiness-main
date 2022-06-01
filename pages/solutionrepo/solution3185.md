@@ -1,5 +1,5 @@
 ---
-title: 2. WSQ Retail (Sf) Sales Closure (Perform Point of Sale Operations)
+title: 3. RETSF Sales Analytics
 permalink: /productivity-solutions-grant/solutionrepo/solution3185
 ---
 

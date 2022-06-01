@@ -71,7 +71,7 @@ This is important as companies may undergo audits by professional accountants to
 
 Business owners can consider using tools like [QuickBooks](https://quickbooks.intuit.com/sg/){:target="_blank"}{:rel="noopener"}, which is available on both web browsers and mobile apps to keep track of their financial transactions. For e-commerce platforms, tools like Xero have inbuilt payment collection functions on top of bookkeeping capabilities. 
 
-Accounting softwares may also be eligible for the [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} to help business owners offset initial costs.  
+Accounting softwares may also be eligible for the [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} to help business owners offset initial costs. Check out this [GoBusiness article](/gobusiness-blog/psg/?src=blog){:target="_blank"}{:rel="noopener"} for more information about the grant and how to apply.  
 
 For a more budget or free option, good ole’ Excel can also come in handy! 
 

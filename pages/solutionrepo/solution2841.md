@@ -1,5 +1,5 @@
 ---
-title: DST Inventory System Version 1.3 - Package C (RFID)
+title: DST Inventory System Version 1.3 - Package B (Barcode)
 permalink: /productivity-solutions-grant/solutionrepo/solution2841
 ---
 
@@ -9,7 +9,7 @@ Inventory System uses different technologies such as barcode, QR and/or RFID ont
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

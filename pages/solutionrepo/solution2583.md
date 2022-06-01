@@ -1,5 +1,5 @@
 ---
-title: QuickBooks Online - Acloud - QBO Quick Start - Set C
+title: QuickBooks Online - Acloud - QBO Quick Start - Set B
 permalink: /productivity-solutions-grant/solutionrepo/solution2583
 ---
 
@@ -9,7 +9,7 @@ QuickBooks Online is an IRAS-registered cloud accounting software which helps sm
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

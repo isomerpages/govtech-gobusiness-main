@@ -1,11 +1,11 @@
 ---
-title: Collection Systems
+title: Ear Tagging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+A machine used to place ear tags into the ears of livestocks to provide a means of identification.
 
 ### Details of Solution
 

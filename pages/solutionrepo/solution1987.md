@@ -1,17 +1,17 @@
 ---
-title: Automatic Flow Wrap Packaging Machine
+title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1987
 ---
 
 ### Description
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
+Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
 
-Cost of equipment capped at $37,500 per unit
+The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,21 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Specifications:
-- Able to pack products in round or odd shapes or with a tray.
-- Uses heat sealing with films to automatically wrap products.
-- Min. output capacity of 30 metres per minute.
-- Installation and maintenance costs are not supported.
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
