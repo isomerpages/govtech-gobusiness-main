@@ -1,12 +1,12 @@
 ---
 title: Rice Licence
-permalink: /browse-all-licences/Enterprise-Singapore-(ESG)/Rice-Licence
-third_nav_title: Enterprise Singapore (ESG)
+permalink: /browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rice-Licence
+third_nav_title: Enterprise Singapore (EnterpriseSG)
 ---
 
 ## Apply for Rice Licence
 
-Enterprise Singapore (ESG)
+Enterprise Singapore (EnterpriseSG)
 
 {% include spcp-text.html type="cp" %}
 

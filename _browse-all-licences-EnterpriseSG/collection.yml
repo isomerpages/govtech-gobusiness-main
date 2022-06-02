@@ -1,5 +1,5 @@
 collections:
-  browse-all-licences-ESG:
+  browse-all-licences-EnterpriseSG:
     output: true
     order:
       - back-to-all-licences.md
