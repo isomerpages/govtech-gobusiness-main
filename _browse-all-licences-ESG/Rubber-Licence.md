@@ -1,12 +1,12 @@
 ---
 title: Rubber Licence
-permalink: /browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence
-third_nav_title: Enterprise Singapore (EnterpriseSG)
+permalink: /browse-all-licences/Enterprise-Singapore-(ESG)/Rubber-Licence
+third_nav_title: Enterprise Singapore (ESG)
 ---
 
 ## Apply for Rubber Licence
 
-Enterprise Singapore (EnterpriseSG)
+Enterprise Singapore (ESG)
 
 {% include spcp-text.html type="cp" %}
 

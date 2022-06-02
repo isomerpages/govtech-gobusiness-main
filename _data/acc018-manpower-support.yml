@@ -1,4 +1,14 @@
 accordion:
+  - title: Jobs growth incentive (JGI)
+    content: |
+      As announced on 17 August 2020 Ministerial Statement, to support hiring in sectors that are doing well – such as the biomedical sciences, financial services, and ICT sectors –  the Jobs Growth Incentive (JGI) was launched.
+
+      The JGI supports firms in hiring of local workers, with a special focus on mature workers.
+      * The Government will co-pay up to 25% of salaries of all new local hires for one year, subject to a cap.
+      * For those aged 40 and above, the co-payment to firms will be up to 50%.
+
+      Find out more about JGI at <a href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Jobs-Growth-Incentive--JGI-/" target="_blank" rel="noopener">Inland Revenue Authority of Singapore (IRAS)</a>.
+
   - title: Workforce Singapore (WSG) Programmes
     content: |
       The Ministry of Manpower (MOM) and Workforce Singapore (WSG), in collaboration with the Public Service Division (PSD) and various government agencies, launched the SGUnited Jobs Initiative and SGUnited Traineeships Programme to create jobs.
@@ -38,6 +48,12 @@ accordion:
 
       Find out more about the partnership at <a href="https://www.tal.sg/tafep/Getting-Started/Exemplary/HCP-Programme?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
       " target="_blank">Tripartite Alliance for Fair & Progressive Employment Practices (TAFEP)</a>.
+
+  - title: Job Redesign
+    content: |
+      Use resources and toolkits to help businesses redesign jobs to drive business transformation and improve processes.
+
+      Find out more at <a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/index.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank" rel="noopener">Enterprise Singapore (ESG)</a>.
 
   - title: Lean Enterprise Development (LED) Scheme
     content: |
