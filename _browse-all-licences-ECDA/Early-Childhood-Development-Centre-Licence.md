@@ -10,7 +10,7 @@ Early Childhood Development Agency (ECDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/login" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/c652c95e-3d1d-43da-b07d-ae78931c29a0" type="primary" %}
 
 <H3>Application Details</H3>
 
