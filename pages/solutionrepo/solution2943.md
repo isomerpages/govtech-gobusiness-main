@@ -1,5 +1,5 @@
 ---
-title: Counto DIY Version 1 - Counto DIY 15S
+title: Counto DIY Version 1 - Counto DIY Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution2943
 ---
 
@@ -11,7 +11,7 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

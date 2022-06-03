@@ -1,11 +1,11 @@
 ---
-title: Multi-tier Cultivation System
+title: Manure Treatment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
 ### Description
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ### Details of Solution
 

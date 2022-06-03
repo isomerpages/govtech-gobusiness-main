@@ -1,11 +1,11 @@
 ---
-title: Humidifier Equipment
+title: Feed Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2142
 ---
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+A machine to mix and chop up the materials for animal feed. 
 
 ### Details of Solution
 

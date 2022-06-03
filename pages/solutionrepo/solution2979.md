@@ -1,5 +1,5 @@
 ---
-title: DM MediaPlus Digital Marketing Package - Advanced Social DM Package (SMM/SMA) [6 Months]
+title: DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]
 permalink: /productivity-solutions-grant/solutionrepo/solution2979
 ---
 
@@ -11,7 +11,7 @@ With a deep understanding of clients, Mediaplus digital customizes solutions bas
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

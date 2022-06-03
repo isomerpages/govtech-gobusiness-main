@@ -1,5 +1,5 @@
 ---
-title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)
+title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package B with E-Invoicing (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2254
 ---
 
@@ -9,7 +9,7 @@ ABSS Premier is an Accounting & Sales Management Software that is fully integrat
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

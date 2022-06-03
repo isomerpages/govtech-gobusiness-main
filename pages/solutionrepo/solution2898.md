@@ -1,15 +1,15 @@
 ---
-title: AM8ZE ERP VISTA - Supply Chain V35 (35 Users) 
+title: Adaptive Pay Version 2022 - Package 5
 permalink: /productivity-solutions-grant/solutionrepo/solution2898
 ---
 
 ### Description
 
-AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
+Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. It comes with a complete suite to cater HR needs of a company. Modules include comprehensive Personnel Management, Payroll Management, Leave Management, Claim Management, Attendance System and Appraisal System. The Adaptive Pay mobile app for employees to manage their attendance, leave, claim & payslips. The Adaptive Admin Mobile app helps the manager approve their employee request for leave & claims.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AM8ZE_20210335_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://am8ze.com/erp/ <br>Contact Hotline: 96222206 <br>Contact Email: sales@am8ze.com <br>
+Web URL: www.adaptivebizapp.com <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

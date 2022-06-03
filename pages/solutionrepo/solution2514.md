@@ -1,15 +1,15 @@
 ---
-title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 2xVPN Licences
+title: Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, XSmall
 permalink: /productivity-solutions-grant/solutionrepo/solution2514
 ---
 
 ### Description
 
-Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
+Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering Solution. Made local with a globally experienced team, our proprietary solution transforms your outlet to the industry's best practice level for efficiency and execution.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Lunchbox_20200960_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
+Web URL: www.mylunchbox.app <br>Contact Hotline: 81298905 <br>Contact Email: office@mylunchbox.app <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

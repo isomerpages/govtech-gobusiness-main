@@ -1,16 +1,15 @@
 ---
-title: U Ventures XERO - Book Keeping Training
+title: Qanvast Leads Management System - Package A - 12 months
 permalink: /productivity-solutions-grant/solutionrepo/solution2554
 ---
 
 ### Description
 
-XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
-is doing at any given time.
+The Qanvast Leads Management System is a software platform that manages leads for renovation interior designers (ID companies) in Singapore. The platform consolidates all the customer leads for each ID company, and tracks all lead follow-ups. Using individual login information, each ID company can access the platform for information on their leads, which includes the potential customers' contact details, renovation needs, budget, and other details.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.uventures.com.sg <br>Contact Hotline: 67358135 <br>Contact Email: info@uventures.com.sg <br>
+Web URL: www.qanvast.com <br>Contact Hotline: 65898354 <br>Contact Email: heretohelp@qanvast.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

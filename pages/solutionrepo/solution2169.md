@@ -1,11 +1,11 @@
 ---
-title: Digital quality testing equipment
+title: Rainwater harvesting system and storage tank
 permalink: /productivity-solutions-grant/solutionrepo/solution2169
 ---
 
 ### Description
 
-Quality testing equipment in measuring the produce quality and freshness
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ### Details of Solution
 

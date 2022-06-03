@@ -1,5 +1,5 @@
 ---
-title: Smart Glasses - InnoGlas - SE with Facial Recognition function (4 sets) - Package 4
+title: Smart Glasses - InnoGlas - SE (2 sets) - Package 1
 permalink: /productivity-solutions-grant/solutionrepo/solution2479
 ---
 
@@ -9,7 +9,7 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

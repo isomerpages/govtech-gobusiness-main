@@ -1,17 +1,15 @@
 ---
-title: BridgED Version 2.0 - BridgED 100/25
+title: Qoqolo School Management System Version 4 - Lite version
 permalink: /productivity-solutions-grant/solutionrepo/solution2436
 ---
 
 ### Description
 
-BridgED is developed specifically for preschool centres to facilitate the management day to day activities and communication between staff and parents.  
-
-It is capable of capturing the profiles of students and staff, allowing for the management of centres' logs and records, and publishing of vetted information to the parents to keep them notified.
+Qoqolo is a one-stop-shop preschool management system for centres to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: student management, parents' engagement, e-portfolio, centre operations management, staff management, fee management, learning and more.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cyberland_20200637_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -38,6 +36,6 @@ Up to 50% for non-SMEs
 - Subject to internal funding caps.
 
 ### Contact Information
-Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
+Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

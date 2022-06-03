@@ -1,13 +1,13 @@
 ---
-title: High pressure industrial vacuum cleaner
+title: Automated Labelling Machine 
 permalink: /productivity-solutions-grant/solutionrepo/solution2074
 ---
 
 ### Description
 
-The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Cost of equipment capped at $12,500 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 ### Details of Solution
 
@@ -33,11 +33,13 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-- Must be certified intrinsically safe (e.g. ATEX certified)
-- Contains an immersion separator as a filter 
-- Training costs can be supported
+- Auto self-adhesive labelling function
+- Parameter setting for different label sizes
 
-
+- Touchscreen display can be supported
+- Explosion proof can be supported
+- Installation/simple training costs can be supported
+- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported
 
 ### Contact Information
 N.A.

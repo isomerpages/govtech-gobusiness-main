@@ -1,5 +1,5 @@
 ---
-title: A2000ERP SOLUTION Version 12.X - A2000ERP WAREHOUSE System for 5 Users, Mobile Sales/Warehouse for 10 Devices (Cloud Based-1 Yr SAAS)
+title: A2000ERP SOLUTION Version 12.X - A2000ERP STANDARD System for 5 Users (Cloud Based-1 Yr SAAS)
 permalink: /productivity-solutions-grant/solutionrepo/solution2633
 ---
 
@@ -9,7 +9,7 @@ A2000ERP is a business management tool, integrated with components necessary for
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

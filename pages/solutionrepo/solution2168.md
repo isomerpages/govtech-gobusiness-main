@@ -1,11 +1,11 @@
 ---
-title: Packing machine
+title: LED grow lights
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
 ### Description
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ### Details of Solution
 

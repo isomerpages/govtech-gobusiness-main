@@ -1,16 +1,15 @@
 ---
-title: ABSS Accounting Software Version 23.7 - Acc-Pro2 - (3) users Accounting Solutions with Setup, Training and Remote Access
+title: Tableau Visualization - Tableau Starter Pack 2
 permalink: /productivity-solutions-grant/solutionrepo/solution2889
 ---
 
 ### Description
 
-Acc-Pro Business Links Pte Ltd has been ABSS certified Partner since 2003 and implemented at least 300+ ABSS projects to-date.
-ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help pre-school centre operators with their data mining and data analytics needs in areas such as parent management analysis, staff management analysis, health and safety management analysis, and finance management analysis.  As part of the package, Oak Consulting will also develop a dashboard in Tableau that display up to 4 data sources provided by the pre-school centre operators.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,16 +24,18 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 70 for SMEs <br>
-N.A. for non-SMEs
+Up to 70% for SMEs <br>
+Up to 50% for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ - Add up to 10 centres for each application.
+
+- Subject to internal funding caps.
 
 ### Contact Information
-Web URL: www.acc-pro.com.sg <br>Contact Hotline: 61006388 <br>Contact Email: johnny@acc-pro.com.sg <br>
+Web URL: www.oakconsulting.com.sg/ECDA-analytics-solutions <br>Contact Hotline: 67444792 <br>Contact Email: sales@oakconsulting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

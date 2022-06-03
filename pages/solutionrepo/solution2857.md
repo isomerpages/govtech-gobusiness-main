@@ -1,15 +1,15 @@
 ---
-title: RFID Inventory Management System - STANDARD
+title: DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2857
 ---
 
 ### Description
 
-Many SMEs manage, track and stock take their inventory and assets manually. Long manual processing time repeatedly leads to inefficiency and errors that slows down the speed of operation and increases the cost of business. SATO's RFID-based Inventory Management System(ITS) helps businesses to better manage, track and audit their inventory and assets. This will lead to improvement in productivity and traceability, and minimizing of errors in the operation.
+MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM. Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://satoasiapacific.com/ <br>Contact Hotline: 62762722 <br>Contact Email: salesorder-sap@sato-global.com <br>
+Web URL: mediaone.co <br>Contact Hotline: 67899852 <br>Contact Email: contact@mediaone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

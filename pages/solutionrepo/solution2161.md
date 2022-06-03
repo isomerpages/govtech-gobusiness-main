@@ -1,11 +1,11 @@
 ---
-title: Pest/ Disease Monitoring and Control Equipment/ System
+title: Water Filtration System
 permalink: /productivity-solutions-grant/solutionrepo/solution2161
 ---
 
 ### Description
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: AdeptForms - Document Management Solution Version 1 - Package D (Up to 15 users - With OCR)
+title: AdeptForms - Document Management Solution Version 1 - Package B (Up to 8 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2261
 ---
 
@@ -9,7 +9,7 @@ Document management is a module to help the users digitize and manage their digi
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

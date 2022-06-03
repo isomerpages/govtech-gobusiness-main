@@ -1,5 +1,5 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package C  HRMS Standard with Staff Appraisal , Training and Recruitment
+title: SYNERGIX E1 Version TH6 - Package A   HRMS Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution2257
 ---
 
@@ -9,7 +9,7 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

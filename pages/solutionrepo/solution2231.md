@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software-Harvest - Software, Setup and Training
+title: Xero Cloud Accounting Software-Harvest - Software
 permalink: /productivity-solutions-grant/solutionrepo/solution2231
 ---
 
@@ -9,7 +9,7 @@ Xero is a cloud-based online accounting solution that can handle tasks that used
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingAnnex3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

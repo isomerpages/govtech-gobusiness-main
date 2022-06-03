@@ -1,11 +1,11 @@
 ---
-title: Farm Washing System
+title: Farm Processing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
 ### Description
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+Integrated processing system to process produce into value-added products
 
 ### Details of Solution
 

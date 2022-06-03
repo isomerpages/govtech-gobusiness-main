@@ -1,5 +1,5 @@
 ---
-title: ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 100 Employees
+title: ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 20 Employees
 permalink: /productivity-solutions-grant/solutionrepo/solution2541
 ---
 
@@ -9,7 +9,7 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

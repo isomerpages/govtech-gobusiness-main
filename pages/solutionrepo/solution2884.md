@@ -1,5 +1,5 @@
 ---
-title: CSG - Matterport Pro2 3D Solution - Matterport Business Plus
+title: CSG - Matterport Pro2 3D Solution - Matterport Professional
 permalink: /productivity-solutions-grant/solutionrepo/solution2884
 ---
 
@@ -9,7 +9,7 @@ The Matterport Pro2 Camera together with the Cloud platform is the gold standard
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

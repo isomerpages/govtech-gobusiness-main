@@ -1,11 +1,11 @@
 ---
-title: Pasteurisation Equipment/ Plant
+title: Multi-tier Cultivation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
 ### Description
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ### Details of Solution
 

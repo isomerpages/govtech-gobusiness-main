@@ -1,11 +1,11 @@
 ---
-title: Automated Mixer/ Compacter for Growing Media
+title: Automated Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
 ### Description
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
 
 ### Details of Solution
 

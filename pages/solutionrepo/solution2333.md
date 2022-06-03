@@ -1,5 +1,5 @@
 ---
-title: cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 50 Users
+title: cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 150 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2333
 ---
 
@@ -11,7 +11,7 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
