@@ -1,15 +1,17 @@
 ---
-title: EPOINT Version 9 - eWaiter - Basic+
+title: WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment
 permalink: /productivity-solutions-grant/solutionrepo/solution2993
 ---
 
 ### Description
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
+A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
+From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
-Up to 0.8 for SMEs <br>
+Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.epoint.com.sg <br>Contact Hotline: 61006300 <br>Contact Email: darren.sim@epointpos.com <br>
+Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

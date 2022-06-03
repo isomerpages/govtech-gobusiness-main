@@ -1,11 +1,11 @@
 ---
-title: Farm Processing Machine
+title: Ear Tagging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
 ### Description
 
-Integrated processing system to process produce into value-added products
+A machine used to place ear tags into the ears of livestocks to provide a means of identification.
 
 ### Details of Solution
 

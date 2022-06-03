@@ -1,11 +1,11 @@
 ---
-title: Water Filtration System
+title: Farm Produce Washing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2159
 ---
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ### Details of Solution
 

@@ -1,15 +1,15 @@
 ---
-title: AIO CRM - AIO CRM 
+title: Xero Cloud Accounting Software - Xero Deluxe Premium Subscription with Set up
 permalink: /productivity-solutions-grant/solutionrepo/solution2461
 ---
 
 ### Description
 
-AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
+The Xero dashboard presents users with a clear and concise overview of their financial situation. It provides small business owners with a greater understanding of their cashflow by highlighting bank balances, outstanding invoices, upcoming bills and expense claims in a visually appealing way.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.aio-interactive.com <br>Contact Hotline: 96796966 <br>Contact Email: sales@aio-interactive.com <br>
+Web URL: WWW.ASSEMBLYWORK.CO <br>Contact Hotline: 90883183 <br>Contact Email: shining@assemblyworks.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

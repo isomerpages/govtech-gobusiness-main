@@ -1,15 +1,15 @@
 ---
-title: DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)
+title: OpensoftHR Version 18 - Enterprise (200 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2796
 ---
 
 ### Description
 
-The maximum application quota for this Digital Marketing vendor has been reached. You may consider applying for Digital Marketing packages from another vendor instead."  
+Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://rhad.agency/ <br>Contact Hotline: 66791003 <br>Contact Email: hello@rhad.agency <br>
+Web URL: https://www.opensofthr.com/products/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@opensofthr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,20 +1,16 @@
 ---
-title: Q-DAS - Smart Quality Software - SME QDAS Package 3
+title: Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2701
 ---
 
 ### Description
 
-Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
-Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
-Key features:
-1) Realtime data collection from all brands of measurement equipment
-2) Fast inspection program created from CAD
-3) Full SPC analysis
+A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -39,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.hexagonmi.com <br>Contact Hotline: 64636242 <br>Contact Email: contact.sg.mi@hexagon.com <br>
+Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

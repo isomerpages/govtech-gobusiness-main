@@ -1,11 +1,11 @@
 ---
-title: Fish fry quarantine tank system
+title: Underwater Camera 
 permalink: /productivity-solutions-grant/solutionrepo/solution2172
 ---
 
 ### Description
 
-A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ### Details of Solution
 

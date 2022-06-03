@@ -1,15 +1,15 @@
 ---
-title: Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload
+title: QuickBooks Online - DigiAcc Advance
 permalink: /productivity-solutions-grant/solutionrepo/solution2546
 ---
 
 ### Description
 
-Network Box is a Managed Security Service Provider, with a narrow scope. The focus is on Perimeter Protection, A cloud based SIEM+ Platform and Dark Web Scanning.
+QuickBooks is #1 rated globally and best-selling small business accounting software. It has everything you need to save you time and keep you organized. QuickBooks is designed for those who are unfamiliar with accounting or bookkeeping. Simply enter your sales and expenses, and QuickBooks will do the rest. In a few clicks you can create invoices, estimates, statements, expense reports, and more. Keep all of your accounting data organized and at your fingertips with QuickBooks.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/InBusiness_Solutions_20200762_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.network-box.sg <br>Contact Hotline: 63395900 <br>Contact Email: enquiry@network-box.sg <br>
+Web URL: https://quickbooks.intuit.com/sg <br>Contact Hotline: 68449633 <br>Contact Email: info@inbiz-solutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

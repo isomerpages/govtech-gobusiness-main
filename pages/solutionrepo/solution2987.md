@@ -1,17 +1,15 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 - Professional
+title: HRM Labs Shared Service - For Up to 100 Headcount
 permalink: /productivity-solutions-grant/solutionrepo/solution2987
 ---
 
 ### Description
 
-WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
-A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
-From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
+HRM Labs helps companies to handle their human resource administration and payroll processing work, and helps companies save time and money so they can focus more on business development success. Companies adopting HRM Labs Outsource service, no longer need to manage manual and complicated HR tasks. HRM Labs service automates processes from managing attendance, leave and payroll calculation to payslip release. HRM Labs addresses the problem faced by companies and helps employees to be more produ
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -26,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 0.7 for SMEs <br>
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
+Web URL: www.hrmlabs.com <br>Contact Hotline: 90255587 <br>Contact Email: contact@hrmlabs.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

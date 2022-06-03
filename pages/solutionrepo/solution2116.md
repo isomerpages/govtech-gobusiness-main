@@ -1,11 +1,11 @@
 ---
-title: Automated Vaccination
+title: Automated Counter/ Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2116
 ---
 
 ### Description
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ### Details of Solution
 

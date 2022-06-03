@@ -1,15 +1,16 @@
 ---
-title: Panda Adaptive Defense 360 - Watchguard Panda AD360 - 50 Licenses
+title: Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (200 License)
 permalink: /productivity-solutions-grant/solutionrepo/solution2500
 ---
 
 ### Description
 
-Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution for computers, laptops and servers that detects what traditional solutions can't even see.
+Kaspersky Endpoint Security is the world's most tested, most awarded security application powered by next-generation technologies to protect all endpoints - and the data on them.
+It combines multi-layered, next-generation threat protection with additional proactive technologies such as Application, Web and Device controls, vulnerability and patch management and data encryption into an EDR-ready endpoint agent to protect your sensitive data on every endpoint.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.asiacloud.com.sg <br>Contact Hotline: 64716179 <br>Contact Email: ES@asiacloud.com.sg <br>
+Web URL: http://www.techfount.com <br>Contact Hotline: 65478900 <br>Contact Email: info@techfount.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

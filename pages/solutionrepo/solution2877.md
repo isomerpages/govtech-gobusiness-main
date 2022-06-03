@@ -1,15 +1,15 @@
 ---
-title: SAP BUSINESS ONE - 5 Perpetual Starter Users SQL on Premise with Remote Desktop License
+title: Million Stock Control System Version 3 - (7 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2877
 ---
 
 ### Description
 
-SAP Business One application offers an affordable way to manage the entire business - from accounting and financials, purchasing, inventory, sales and customer relationships, and project management, to operations and human resources. SAP Business One helps the company to streamline processes, gain a greater insight into the business, allows decision maker to act fast and make decisions based on real time information, to help the company drive profitable growth.
+Million Stock Control System helps to reduce the cost of holding stocks, allowing businesses to meet their customer's demands by making sure there are enough materials for production.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
+Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

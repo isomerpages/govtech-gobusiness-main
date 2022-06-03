@@ -1,5 +1,5 @@
 ---
-title: TIMES SOFTWARE HRMS Version 18 - Cloud-based package 5 (up to 200 pax)
+title: TIMES SOFTWARE HRMS Version 18 - Cloud-based package 2 (up to 50 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2803
 ---
 
@@ -10,7 +10,7 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,11 +1,11 @@
 ---
-title: Underwater Camera 
+title: Packing machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
 ### Description
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ### Details of Solution
 

@@ -1,15 +1,18 @@
 ---
-title: DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo
+title: Automated Deep Fryer
 permalink: /productivity-solutions-grant/solutionrepo/solution2523
 ---
 
 ### Description
 
-OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. [The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+
+Cost of equipment capped at $4,000 per unit 
+
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+N.A.
 
 ### Eligibility Criteria
 
@@ -27,13 +30,20 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum Specifications 
+-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
+
+Well capacity to be at least 5L
+
+Serving size and frying type should be customisable
+
+
 
 ### Contact Information
-Web URL: https://www.oom.com.sg/ <br>Contact Hotline: 63910930 <br>Contact Email: support@oom.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

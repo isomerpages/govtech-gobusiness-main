@@ -1,11 +1,11 @@
 ---
-title: Automated Irrigation Equipment/ System
+title: Climate & Environment Monitoring Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2164
 ---
 
 ### Description
 
-Water efficient irrigation system (e.g. sprinkler)
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ### Details of Solution
 

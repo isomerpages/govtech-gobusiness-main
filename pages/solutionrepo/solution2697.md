@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users
+title: Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2697
 ---
 
@@ -10,7 +10,7 @@ AutoCount Accounting stands out as one of the best accounting software for today
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

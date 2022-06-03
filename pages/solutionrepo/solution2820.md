@@ -1,5 +1,5 @@
 ---
-title: Payboy HRMS - Package D (120 Employees)
+title: Payboy HRMS - Package A (20 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution2820
 ---
 
@@ -9,7 +9,7 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Simplr Warehouse Management Version 6 - On Premise (5 Users)
+title: Simplr Warehouse Management Version 6 - Cloud Model ( 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2351
 ---
 
@@ -9,7 +9,7 @@ The end-to-end warehouse management solution helps improve efficiency of warehou
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: LittleLives 4.5 - PMS Basic + Cashless Payment + Thermal Scanner
+title: LittleLives 4.5 - PMS Lite
 permalink: /productivity-solutions-grant/solutionrepo/solution2447
 ---
 
@@ -9,7 +9,7 @@ As an EduTech company, LittleLives facilitates day-to-day school operations thro
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

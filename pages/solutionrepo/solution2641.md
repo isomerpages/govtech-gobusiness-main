@@ -1,15 +1,18 @@
 ---
-title: DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation
+title: aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003
 permalink: /productivity-solutions-grant/solutionrepo/solution2641
 ---
 
 ### Description
 
-Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! [The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
+aiCARE Shield Managed Security comes with 8x5 Hotline Support.
+Support Day : Monday - Friday
+Support Time : 9am-6pm
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
+Web URL: WWW.NTC.COM.SG <br>Contact Hotline: 97805234 <br>Contact Email: keith@ntc.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

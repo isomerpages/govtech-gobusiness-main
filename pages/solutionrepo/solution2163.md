@@ -1,11 +1,11 @@
 ---
-title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
+title: Pest/ Disease Monitoring and Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2163
 ---
 
 ### Description
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
 
 ### Details of Solution
 

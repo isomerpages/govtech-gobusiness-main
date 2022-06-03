@@ -1,16 +1,15 @@
 ---
-title: TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)
+title: DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)
 permalink: /productivity-solutions-grant/solutionrepo/solution2799
 ---
 
 ### Description
 
-Times Software Pte Ltd is an international software and consultancy company specializing in the development, implementation & systems support as well as the marketing of Times's proprietary suite of applications that include Payroll and Human Resource solutions built on leading technologies.
-Times Software Pte Ltd has a team of employees who are equipped with in-depth knowledge, technological skills, and business processes of the human resource industry standards.
+The maximum application quota for this Digital Marketing vendor has been reached. You may consider applying for Digital Marketing packages from another vendor instead."  
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br>Contact Hotline: 62951998 <br>Contact Email: sales@timesoftsg.com.sg <br>
+Web URL: https://rhad.agency/ <br>Contact Hotline: 66791003 <br>Contact Email: hello@rhad.agency <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

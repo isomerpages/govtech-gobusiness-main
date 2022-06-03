@@ -1,20 +1,15 @@
 ---
-title: APM Smart Access System Version 1.0 - Single Lane Turnstile Solution-Pkg 3
+title: Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F
 permalink: /productivity-solutions-grant/solutionrepo/solution2767
 ---
 
 ### Description
 
-APM Smart Access Solutions enables users to automate access control for various scenarios. Our solutions cover 
-1)	simple door access control, 
-2)	current access system upgrading to latest technology,  
-3)	single lane turnstile with SafeEntry, Facial Recognition and Crowd Control VMS
-4)	dual lane turnstiles for heavy human traffic with SafeEntry, Facial Recognition and Crowd Control VMS
-5)	mobile platform container with guardhouse for use in construction sites and/or outdoor events
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -39,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: http://www.apmglobal.com.sg <br>Contact Hotline: 67104938 <br>Contact Email: bella@apmglobal.com.sg <br>
+Web URL: www.roycemedia.com/products.html <br>Contact Hotline: 63232139 <br>Contact Email: sales@roycemedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

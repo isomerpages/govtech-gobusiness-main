@@ -1,15 +1,15 @@
 ---
-title: ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 30 Employees)
+title: JustLogin HR E-Scheduling - B (Up to 25 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution2679
 ---
 
 ### Description
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+JustLogin is an Employee First Human Resource (HR) cloud platform that provides innovative technologies for businesses to manage their people operations. JustLogin HR E-Scheduling allows tracking of employee attendance and roster scheduling, and is seamlessly integrated with Payroll and Leave software. The package includes SafeClock, an all-in-one employee attendance tracker, contactless temperature scanner, automated SafeEntry, visitor management and door access solution device.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+Web URL: https://justlogin.com <br>Contact Hotline: 69099217 <br>Contact Email: info@justlogin.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

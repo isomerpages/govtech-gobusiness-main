@@ -1,5 +1,5 @@
 ---
-title: EndPoint Standard - 30 EndPoints
+title: EndPoint Standard - 100 EndPoints
 permalink: /productivity-solutions-grant/solutionrepo/solution2182
 ---
 
@@ -9,7 +9,7 @@ Relying on signatures alone to detect today's threats is insufficient; Zero-day 
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

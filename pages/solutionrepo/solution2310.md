@@ -1,15 +1,15 @@
 ---
-title: XERO - Cloud Accounting Software- Aspire Starter Plan A
+title: Fooyo Mini Shop Version 2.0-Standard Web Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2310
 ---
 
 ### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
+Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps merchants set up digital ordering capability efficiently. It empowers F&B businesses to do QR-based food ordering for dine-in, takeaway and delivery. The solution supports both the web app and the WeChat mini-program, together with various payment methods such as PayNow, Credit Cards, and WeChat Pay.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.xero.com <br>Contact Hotline: 97592364 <br>Contact Email: info@clooudconsulting.com <br>
+Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

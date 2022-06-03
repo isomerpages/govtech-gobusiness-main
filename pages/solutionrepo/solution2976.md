@@ -1,17 +1,15 @@
 ---
-title: DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]
+title: Studio Manager Version 8 - Package E (Branch)
 permalink: /productivity-solutions-grant/solutionrepo/solution2976
 ---
 
 ### Description
 
-Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
-
-With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
+Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. Since 2002, the software is designed for beauty operators like spa, aesthetic clinic and salons. It is a beauty POS & CRM solution designed for small to large global chains. For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: mediaplus.com.sg <br>Contact Hotline: 68163168 <br>Contact Email: wow@mediaplus.com.sg <br>
+Web URL: www.studiomanager.asia <br>Contact Hotline: 67859007 <br>Contact Email: ISAAC.GOH@ARCHERLOGIC.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

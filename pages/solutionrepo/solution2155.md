@@ -1,11 +1,11 @@
 ---
-title: Substrate Mixing and Packing Machine
+title: Solar Panels System and Energy Storage System
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
 ### Description
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ### Details of Solution
 

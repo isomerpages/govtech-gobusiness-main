@@ -1,11 +1,11 @@
 ---
-title: LED grow lights
+title: Automated Irrigation Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2166
 ---
 
 ### Description
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+Water efficient irrigation system (e.g. sprinkler)
 
 ### Details of Solution
 

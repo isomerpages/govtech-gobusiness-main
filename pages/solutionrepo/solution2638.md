@@ -1,5 +1,5 @@
 ---
-title: aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003
+title: aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25
 permalink: /productivity-solutions-grant/solutionrepo/solution2638
 ---
 
@@ -12,7 +12,7 @@ Support Time : 9am-6pm
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

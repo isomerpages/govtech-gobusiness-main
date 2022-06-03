@@ -1,15 +1,15 @@
 ---
-title: ABSS Premier Version 23 - Package C (Single User Licence Full Package)
+title: Xero Cloud Accounting Software - Package E (Xero Subscription only)
 permalink: /productivity-solutions-grant/solutionrepo/solution2829
 ---
 
 ### Description
 
-Andre Corporate is a software company specializing in accounting software providing sales, training and after sales support. Andre Corporate's competitive advantage is that all provided services can all be done remotely. Integrated accounting solution with modules Statement of financial position, comprehensive income, and cash flow), Account Receivable/Payable, Billing and Invoicing, Inventory, Multiple Currencies, General Ledger, Purchase Order and Sales Order and Data Analytics capabilities.
+Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_20220008_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.andrecorpl.com/abss-accounting-software/ <br>Contact Hotline: 92258858 <br>Contact Email: consultants@andre.com.sg <br>
+Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

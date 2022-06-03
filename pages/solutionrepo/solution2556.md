@@ -1,15 +1,15 @@
 ---
-title: AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)
+title: E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Supreme)
 permalink: /productivity-solutions-grant/solutionrepo/solution2556
 ---
 
 ### Description
 
-AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
+Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact Email: contact@adeptforms.com <br>
+Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

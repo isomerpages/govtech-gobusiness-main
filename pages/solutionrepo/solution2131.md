@@ -1,11 +1,11 @@
 ---
-title: Ear Tagging Machine
+title: Culture Tank System with Monitoring and Control System
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
 ### Description
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+Cultivation system with monitoring and control system
 
 ### Details of Solution
 

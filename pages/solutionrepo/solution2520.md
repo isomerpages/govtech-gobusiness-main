@@ -1,18 +1,15 @@
 ---
-title: Automated Deep Fryer
+title: Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 2xVPN Licences
 permalink: /productivity-solutions-grant/solutionrepo/solution2520
 ---
 
 ### Description
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
-
-Cost of equipment capped at $4,000 per unit 
-
+Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
 
 ### Details of Solution
 
-N.A.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -30,20 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum Specifications 
--Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing
-
-Well capacity to be at least 5L
-
-Serving size and frying type should be customisable
-
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-N.A.
+Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

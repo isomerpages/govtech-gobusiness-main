@@ -1,14 +1,13 @@
 ---
-title: Ozonised Air + Surface Sterilization System
+title: 3D Intraoral Scanner
 permalink: /productivity-solutions-grant/solutionrepo/solution2522
 ---
 
 ### Description
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation. The equipment can be in portable form, permanently installed units or distributed systems.
+The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
 
-Cost of equipment capped at $10,000 per unit 
-
+Grant support: 80% of cost of equipment, up to $20,000 grant per unit.
 
 ### Details of Solution
 
@@ -30,21 +29,25 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Equipment must meet the following:
+Hardware
+- Scanner wand
+- Autoclavable/single-use sleeves
 
-Generate active oxygen at an output between 20mg - 1g/hr
+Functionality
+- Open system format - .stl/.ply files etc.
+- Treatment simulation 
+- CAD/CAM software
 
-Emit negative ion at more than 2 million/cm3
+Supportable costs: 
+- Hardware (incl. software), 1 set of tips/sleeves, Training, 1st yr subscription, 3 yr warranty
 
-Area coverage at least 36.5 m2
-
-Effective sterilisation & reduce bacteria count by 90%
-
-
+*Support is only granted for 1 unit per clinic location.
+Basic equipment costs (e.g. laptop) unsupportable
+Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 N.A.

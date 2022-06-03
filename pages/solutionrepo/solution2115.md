@@ -1,11 +1,11 @@
 ---
-title: Automated Sorter/ Grader
+title: Aeration System/ Oxygenation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2115
 ---
 
 ### Description
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ### Details of Solution
 

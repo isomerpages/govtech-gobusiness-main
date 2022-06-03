@@ -1,5 +1,5 @@
 ---
-title: ITAPS -iTaps HRMS Version 1.0 - Package 3 (75 employees)					
+title: ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					
 permalink: /productivity-solutions-grant/solutionrepo/solution2345
 ---
 
@@ -9,7 +9,7 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

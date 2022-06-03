@@ -1,5 +1,5 @@
 ---
-title: Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F
+title: Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F
 permalink: /productivity-solutions-grant/solutionrepo/solution2764
 ---
 
@@ -9,7 +9,7 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

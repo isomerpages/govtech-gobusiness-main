@@ -1,11 +1,11 @@
 ---
-title: Temperature montoring/ labelling device
+title: Digital quality testing equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2171
 ---
 
 ### Description
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+Quality testing equipment in measuring the produce quality and freshness
 
 ### Details of Solution
 

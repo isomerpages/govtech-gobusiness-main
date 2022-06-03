@@ -1,11 +1,11 @@
 ---
-title: HVAC system
+title: Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 permalink: /productivity-solutions-grant/solutionrepo/solution2165
 ---
 
 ### Description
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ### Details of Solution
 

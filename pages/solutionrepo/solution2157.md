@@ -1,11 +1,11 @@
 ---
-title: Farm Produce Washing Machine
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 
 ### Description
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ### Details of Solution
 

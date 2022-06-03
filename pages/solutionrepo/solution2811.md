@@ -1,5 +1,5 @@
 ---
-title: Cybots AMDR - Standard Package Solution-5
+title: Cybots AMDR - Standard Package Solution-2
 permalink: /productivity-solutions-grant/solutionrepo/solution2811
 ---
 
@@ -9,7 +9,7 @@ Cybots ensures cyber resilience for all sectors, from SMEs to large multinationa
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

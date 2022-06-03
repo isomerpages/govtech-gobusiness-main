@@ -1,15 +1,15 @@
 ---
-title: Studio Manager Version 8 - Package A (Standard)
+title: TrackSYNQ - Package D - Basic GPS 50
 permalink: /productivity-solutions-grant/solutionrepo/solution2969
 ---
 
 ### Description
 
-Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. Since 2002, the software is designed for beauty operators like spa, aesthetic clinic and salons. It is a beauty POS & CRM solution designed for small to large global chains. For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
+TrackSYNQ is a ready-to-deploy platform that provides track & trace functionality, fleet visibility and geo-fencing, amongst other features. The easy-to-use comprehensive user interface provides real-time monitoring of fleet and drivers from any device. ?TrackSYNQ video solution- MDVR and ADAS- allows users to monitor their fleet operation via live video streaming to see what is happening in real-time, and enables fleet owners to lower accident risk and increase driver awareness on road safety.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Quantum_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 0.7 for SMEs <br>
+Up to 70 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: www.studiomanager.asia <br>Contact Hotline: 67859007 <br>Contact Email: ISAAC.GOH@ARCHERLOGIC.COM <br>
+Web URL: https://www.quantuminventions.com/ <br>Contact Hotline: 68371582 <br>Contact Email: sales@qi.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

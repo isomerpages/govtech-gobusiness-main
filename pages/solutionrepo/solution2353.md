@@ -1,15 +1,15 @@
 ---
-title: CROSSTRACK GO - Fleet Management Package 2 - 2 Vehicles
+title: Simplr Warehouse Management Version 6 - On Premise (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2353
 ---
 
 ### Description
 
-CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
+The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_2.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 ### Support Level
 Up to 70% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br>Contact Hotline: 91733775 <br>Contact Email: psg@crosstrack.sg <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

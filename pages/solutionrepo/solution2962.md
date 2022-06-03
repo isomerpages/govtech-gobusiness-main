@@ -1,15 +1,16 @@
 ---
-title: Gravis - Enterprise Plan (Up to 30 users)
+title: SAP Business One SQL & HANA Version 10.0 - Package (5 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution2962
 ---
 
 ### Description
 
-Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
+Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
+SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/OneXGroup_Desensitised_Annex_3_Part_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/MPS_Desensitised_Annex_3_Part_5.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 ### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 ### Support Level
 Up to 70 for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://www.onextech.com.sg/work <br>Contact Hotline: 91198609 <br>Contact Email: info@onextech.com <br>
+Web URL: www.mpssolutions.com.sg <br>Contact Hotline: 68469109 <br>Contact Email: kelvin@mclinkgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

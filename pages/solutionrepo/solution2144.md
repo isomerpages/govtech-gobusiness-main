@@ -1,11 +1,11 @@
 ---
-title: Live Pump
+title: Humidifier Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
 ### Description
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ### Details of Solution
 
