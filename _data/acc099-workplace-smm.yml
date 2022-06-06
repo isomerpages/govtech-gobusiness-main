@@ -5,17 +5,9 @@
       content: |
         All businesses allowed to operate are required to have implemented Safe Management Measures.
 
-        For companies resuming operations after the circuit breaker period, all Safe Management Measures should be in place before operations can be resumed at the workplace.
-
-    - title: Do I have to apply to resume operations at my company's workplace premises?
-      content: |
-        The Multi-Ministry Task Force has announced that selected activities and services are allowed to resume operations. Companies that fall under the list of activities and services do not need to apply before resuming operations. Please go to [https://www.gobusiness.gov.sg/covid/](https://www.gobusiness.gov.sg/covid/) for more details.
-
     - title: Are the requirements mandatory, and what enforcement actions will MOM take against businesses that do not implement Safe Management Measures?
       content: |
-        MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. For workplaces that severely lack Safe Management Measures, we will direct employers to stop operations at the workplace. Employers will have to take steps to ensure that Safe Management Measures are in place before operations can resume.
-
-        Failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both. Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
+        MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. Failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both. Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
 
     - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace?
       content: |
@@ -33,7 +25,7 @@
 
         When inspected by any government agency, businesses must be prepared to show that they have fulfilled the requirements listed.
 
-    - title: Are there specific Safe Management Measures for each sector (e.g. construction, F&B, retail)?
+    - title: Are there specific Safe Management Measures for each sector (e.g. F&B, retail)?
       content: |
         The requirements on Safe Management Measures at the workplace released by MOM is for general workplace settings. For specific workplace settings or sector requirements, please refer to [guidelines issued by the respective sector agencies](https://www.gobusiness.gov.sg/safemanagement/sector).
 
@@ -47,111 +39,34 @@
 
         Companies that have employees deployed to other sites should ensure that their employees comply with the Safe Management Measures put in place at these sites. In fact, some of the Safe Management Measures can be implemented by employers regardless of where employees are deployed, such as health monitoring.
 
-    - title: If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?
-      content: |
-        Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their list of business activity falls within the [permitted list](htps://www.gobusiness.gov.sg/faq/resumption/resumption/) allowed to operate from 2 June 2020.
-
-        Employers whose business operations are not in the list of permitted services may still return to their business facility to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. No application for exemption is required.
-
-        However, if employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead.
-
-    - title: My company is currently operating under a General Exemption, as our business activities are currently not listed in the permitted services list. Can our employees who are currently working from home return to the workplace?
-      content: |
-        Companies operating under a General Exemption must submit an application for additional manpower via the GoBusiness portal, to allow more employees to return to the workplace.
-
-    - title: What should I do if I see a business that is not in the permitted services list continuing to operate even though it is not supposed to?
-      content: |
-        Please report the incident to <u>covid_gobusiness@mti.gov.sg</u> and include relevant details such as company name, address and relevant evidence (e.g. photographs).
-
     - title: What should I do if my employer refuses to implement Safe Management Measures in the workplace?
       content: |
         If you notice any breach of Safe Management Measures or poor practices at the workplace, you can [report it to MOM](https://www.mom.gov.sg/report-WSH-issues){:target="_blank"}{:rel="noopener"}.
 
         MOM will treat each report seriously and will keep your identity strictly confidential.
 
-    - title: Is there a limit to the number of migrant workers a company can deploy at each renovation site?
-      content: |
-        Contractors should deploy a minimal number of workers at renovation workplaces and must ensure that Ministry of Manpower's Safe Management Measures at workplaces are complied with at renovation workplaces to mitigate the risk of community transmission. All personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups.
-
-    - title: If my renovation project involves more than one team of contractors, are they allowed to work at the same renovation site at the same time?
-      content: |
-        Different teams of contractors (main or sub-contractors) can carry out their respective work within the same renovation site, at the same time and day. However, all personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups. 
-
-        The application of safe management measures will vary depending on the renovation site. Employers should assess and evaluate the measures that must be taken to ensure safe distancing and ensure that the risk of COVID-19 spread at workplaces is minimised for their workers. This may include additional measures such as having staggered rest, arrival and exit timings to minimise interactions between workers from different companies.
-
-    - title: My office is on a 5-day week. Can all my employees work at the office for 3 days a week, and then work from home for 2 days?
-      content: |
-        No. From <b>1 January 2022</b>, up to 50% of employees who are able to work from home are allowed to return to the workplace at any point in time. You can consider other arrangements that will meet this requirement, for instance:
-        
-        * Divide your employees into 2 groups, with 1 group working from home for any given week.
-        * Divide your employees into 2 groups, with a different group working from home for each day Monday to Thursday, and both groups working from home on Friday.
-        
-        Additionally, only the following individuals can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.
-
-    - title: Can my employee work at a co-working space instead of working from home?
-      content: |
-        From <b>1 January 2022</b>, up to 50% of employees who are able to work from home are allowed to return to the co-working space, if this is their workplace.
-
-        Companies operating co-working spaces should communicate this clearly to their clients and clients should ensure that no more than 50% of employees who are able to work from home are working in the co-working space at any point in time.
-
-    - title: I am an essential services provider. From 1 January 2022 onwards, can all my employees return to work on-site, including those who are able to work from home?
-      content: |
-        No. From <b>1 January 2022</b>, only up to 50% of employees who are able to work from home are allowed to return to the workplace.
-
-        Additionally, only the following individuals can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.
-
-    - title: My company has more than one workplace. How does the 50% limit on employees who can return to the workplace apply?
-      content: |
-        The 50% limit on employees who can return to workplace applies to each workplace.
-
-        For example, if your company has 3 workplaces, only up to 50% of employees who are able to work from home can be at each workplace at any point in time. 
-
-        Additionally, only the following individuals can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.
-
     - title: Can my employers continue to dine in staff canteens?
       content: |
-        For staff canteens that are open only to employees and regular contractors' staff who work at the premises, employees should dine individually.
-        
-        Staff canteens that are open to visitors are subject to the same requirements as other F&B establishments, including Vaccination-Differentiated SMMs.
+        Yes. As this is a mask-off setting, safe distancing is encouraged. 
 
 - accordion:
   letter: b
   data:
-    - title: Are companies that have resumed operations required to ensure that their employees work-from-home?
-      content: |
-        From 1 January 2022, up to 50% of employees who are able to work from home can be at the workplace at any point in time. 
-
-        Additionally, only the following employees can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.are not to return to the workplace, even with a negative Pre-Event Test (PET) result.
-
-        Employees who report to work onsite are encouraged to self-test weekly via an Antigen Rapid Test (ART). 
-
-    - title: Do employees who are unable to work from home need to get tested?
-      content: |
-        Employers are strongly encouraged to make plans for employees, contractors, and vendors who report to the workplace to self-test weekly via an Antigen Rapid Test. 
-
     - title: Should my employees be masked at all times? What if my worker has medical condition?
       content: |
-        Every individual should put on a mask at all times, except when eating, drinking or consuming medication, or engaging in strenuous physical exercise.  However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask. 
+        Every individual should put on a mask at all times when indoors, except when:
 
-    - title: What should I do if my employees are unwilling to work from home because their home is not conducive for work?
-      content: |
-        The overarching objective of these regulations is to reduce physical interactions in order to prevent spread of COVID-19. Employers can consider different ways to implement working arrangements that comply with the Safe Management Measures for the workplace, while taking business and employee preferences into account. 
-
-        From <b>1 January 2022</b>, up to 50% of employees who are able to work from home are allowed to return to the workplace at any point in time. Employers can prioritise such employees to return to the workplace. 
-
-    - title: As most of my employees are either doing frontline work or fieldwork operations, it is not feasible for me to rearrange the work such that they can work-from-home. Will I be penalised for not providing such work arrangements?
-      content: |
-        Employers must demonstrate the business or operational reasons why the workers working at the workplace are unable to work-from-home despite review and redesign of work processes. Our inspectors will assess the efforts put in by companies to implement work-from-home arrangements based on the practicality of whether the workers can work-from-home given the nature of the job.
-
-        For the safety of workers at the workplace, employers should put in place other Safe Management Measures at the workplace (e.g. ensuring safe distancing, ensuring use of SafeEntry, etc) to provide a safe working environment and minimise risk of further outbreaks.
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
+        However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask.
+        
+        Mask wearing in outdoor settings, e.g. worksites that are not sheltered is optional.
 
     - title: Are there any available resources to help my business review work processes to enable employees to work-from-home?
       content: |
@@ -159,111 +74,85 @@
 
         Eligible businesses can also apply for the [Productivity Solutions Grant (PSG)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} to support business transformation and put in place flexible work arrangements to minimise spread of COVID-19 (e.g. work-from-home, staggered hours).
 
-    - title: What would be considered a work-related event?
-      content: |
-        Some examples of work-related events are as follows:
-
-        - Work meetings (e.g. among colleagues, or with external parties)
-        - Training
-        - Board meetings
-        - HR talks (e.g. onboarding, retrenchment exercises)
-        - Townhalls
-        - Seminars
-        - Corporate retreats
-        - Conferences on business strategies, workplaces and reviews
-        - Annual General Meeting or Extraordinary General Meetings
-        - Tender briefings to vendors
-        - Award ceremonies
-        - Training sessions
-
-    - title: Who counts towards the cap allowed at work-related events?    
-      content: |
-        The cap includes all persons who will be in the event venue at any one time, including emcees, security officers, public officers overseeing the ceremony, etc. 
-
-        Persons providing services related to the event venue, and do not stay on for the event can be excluded from the cap. For example:
-
-        * Staff providing decoration, lighting, sound or other equipment for hire.
-        
-        * Those who are involved in event setup only. 
-
-    - title: Are companies required to ensure staggered start times for employers at the workplace?
-      content: |
-        Employers are encouraged to stagger the start times for all employees who are unable to work from home (due to the nature of their work, or their work can only be done with equipment that is confined to the workplace) such that at least half of all employees arrive at the workplace at or after 10am, as far as possible. This would enable more employees to avoid peak-hour travel, especially if employees require the use of public transport. Timings of lunch and other breaks should also be staggered accordingly.
-
     - title: Are employees and visitors required to wear a mask at all times at the workplace?
       content: |
-        For general office workplaces, employers must ensure that employees and visitors wear a mask at all times at the workplace, except during activities that require masks to be removed or when individuals are alone in their own office. Supplementary personal protective equipment is encouraged, whenever relevant (more guidelines can be found in sector-specific guidelines). This is in addition to other safe management measures (e.g. safe distancing) that must be in place at the workplace. 
-
-        Some examples of activities where the requirement for masks to be worn can be waived include mealtimes, or where other equipment must be worn during the course of work (e.g. motorcycle helmets). 
-
-        The requirement for masks to be worn can also be waived for individuals who are alone in their own office, and when no one other than the individual enters the room. If there is any physical contact with people, or if anyone else enters the room, the mask must be put on.
-
-        Where possible, employers should consider improving the working environment for employees to enable them to wear their masks.
-
-    - title: What are the vaccination measures on visitors at the workplace?
-      content: |
-        From 1 January 2022, only the following individuals can visit the workplace: (i) individuals who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) individuals who have recovered from COVID-19 within the past 180 days, (iii) individuals who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider. 
+        For general office workplaces that are indoors, employers must ensure that employees and visitors wear a mask at all times at the workplace, except when:
         
-        From 15 January 2022, individuals who are not fully vaccinated are not to visit the workplace, even with a negative Pre-Event Test (PET) result. 
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
+        Notwithstanding the above, employees are encouraged to exercise social responsibility and maintain an appropriate safe distance from others when unmasking.
+        
+        Mask-wearing in outdoor setting, e.g. worksites that are not sheltered is optional. 
+
+    - title: What are considered physical interactions settings that still require individuals to put on masks?
+      content: |
+        Settings with physical interactions may include meetings where participants are engaged in conversations. 
+
+    - title: Can employees seated apart at meetings be unmasked?
+      content: |
+        No. Employees are likely to be engaged in conversations during meetings. Therefore, they are likely to be interacting in person with another individual, even though they may be seated apart. Hence, they are required to wear mask.
+
+    - title: Do my employees have to wear a mask when they are not attending to customers in customer-facing areas in the workplace?
+      content: |
+        Yes. Employees have to wear a mask in customer-facing areas as these are areas where interaction is likely to happen. Beyond the operating hours when customers are not expected to enter the area, mask wearing can be made optional. 
+      
+        Some examples of customer-facing areas include reception area, showrooms, building lobby, etc. 
+
+    - title: Can employers impose mask-wearing rules beyond prevailing requirements in their workplaces?
+      content: |
+        Yes. Employers can impose mask-wearing rules above and beyond existing requirements with consideration to workplace safety and health and operational needs.
+
+        Conversely, employees may also choose to continue wearing masks if they prefer or feel uncomfortable being unmasked while working indoors.
 
     - title: What forms of personal protective equipment should my employees use? Can employees wear other forms of PPEs (e.g. face shields) instead of surgical masks?
       content: |
-        A mask that closely and completely covers the nose and mouth (i.e. without leaving a gap between the mask and the face) must be worn at all times when persons go out of their homes, including while at the workplace.
+        A mask that closely and completely covers the nose and mouth (i.e. without leaving a gap between the mask and the face) should be worn in indoor settings while at the workplace, except when:
 
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
         The following specific groups of persons may use a face shield, in place of masks:
-        1.  Children 12 years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time; 
-        2.  Persons who have health conditions that may result in breathing or other medical difficulties when a mask is worn for a prolonged period of time; and
-        3.  Persons who are speaking to a group in a classroom or lecture-style setting, where they largely remain at the spot from which they are speaking, and are able to maintain a safe distance away from any other persons. 
+        
+        1. Children 12 years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time; 
+        
+        2. Persons who have health conditions that may result in breathing or other medical difficulties when a mask is worn for a prolonged period of time; and
+        
+        3. Persons who are speaking to a group in a classroom or lecture-style setting, where they largely remain at the spot from which they are speaking, and are able to maintain a safe distance away from any other persons. 
 
         A face shield has to be must be worn properly so that it covers the entire face, from the forehead to below the chin, wrapping around the sides of the face.
-
+        
         Plastic spit guards predominantly cover the mouth and are not considered as masks. Face coverings such as neck gaiters, bandannas, scarves or handkerchiefs are not considered as masks.
-
+        
         If the risk of encountering an infectious person is high (e.g. personnel has sustained contact with many other individuals throughout the course of their work), then surgical masks and other relevant PPEs should be used instead.
 
     - title: Can my employees use employer-provided recreational facilities which are not located at the workplace?
       content: |
-        Access to standalone recreational facilities which are located away from employees' workplaces will depend on the re-opening plans for relevant permitted enterprises. These facilities will also be subject to stricter safe management measures (e.g. maintaining a distance of at least 2 – 3 metres from each other when engaging in any sporting activity or physical exercise). When visiting such facilities, employees will still have to comply with the relevant safe management measures put in place for that setting.
-
-    - title: Are there any approval or notification required for work-related events with up to 50 participants?
-      content: |
-        No. The work related event can proceed with the following safe management measures in place.
-        
-        a. Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
-        
-        b. Meals should not be the main feature of the event, i.e. food or drinks should only be served if incidental to the workplace event (e.g. the meeting or conference extends over lunchtime). In addition, the food must be served individually with the participants seated while consuming. Participants should minimise the time that they are unmasked while eating.
-        
-        c. Work-related events held at third-party venues will also be subject to any additional premises owners' safe management policies such as Vaccination Differentiated SMMs.
-        
-        d. High risk activities such as singing and the playing of wind or brass instruments are not allowed to resume at work-related events.
-
-    - title: Do I need to wait for any approval after I submit the notification for work related event Work-related events with 51-1000 participants?
-      content: |
-        No, the event can proceed with the following safe management measures in place, after the notification is submitted.
-
-        a. Attendees must maintain at least 1 metre safe distance between one another. Attendees must be in zones of up to 100 persons per zone, with 2 metres between zones.
-
-        b. There must be no mask-off activities during the event, such as the consumption of food and beverage.
-        
-        c. The event must be static, with participants predominantly seated or standing in a fixed position (e.g. meetings, conferences, award ceremonies).
-        
-        All attendees must be subject to Vaccination-Differentiated Safe Management Measures (VDS), i.e. every attendee must be fully vaccinated, recovered from COVID-19 within the past 180 days, or medically ineligible for vaccines under the National Vaccination Programme.
-
-    - title: When does the new requirement on work related events take effect?
-      content: |
-        The new requirements will take effect for work related events happening on or after 3 Jan 2022.
-
-    - title: Can unvaccinated attendees attend work related event with a negative Pre-Event Test (PET) result. Pre-Event Test (PET) at an MOH-approved COVID-19 test provider before 15 January 2022?
-      content: |
-        No, all attendees of work-related events involving 51-1000 participants must be fully vaccinated, recovered from COVID-19 within the past 180 days, or medically ineligible for vaccines under the National Vaccination Programme.
-
-    - title: How long in advance do I need to submit the notification for work related events with 51 to 1000 attendees?
-      content: |
-        The notification must be submitted before the start of the event.
+        Access to standalone recreational facilities which are located away from employees’ workplaces will depend on the re-opening plans for relevant permitted enterprises. These facilities will also be subject to stricter safe management measures. When visiting such facilities, employees will still have to comply with the relevant safe management measures in place for that setting.
 
     - title: Can I be unmasked while giving a speech during a work-related event?
       content: |
-        Yes. You must deliver the speech from a fixed position that is at least 2 metres away from the audience.
+        Yes. You must deliver the speech from a fixed position that is at least 1 metre away from the audience.
+
+    - title: What settings are considered indoors?
+      content: |
+        All buildings and places with clearly defined entrances/exits are considered indoor places (e.g. office building). Areas with open access are generally considered outdoors (e.g. office courtyard). 
+
+        Mask-wearing is required in indoor settings, and optional in outdoor settings.
+	
+    - title: Can I organise social gatherings at the workplace?
+      content: |
+        Yes. 
 
 - accordion:
   letter: d
