@@ -224,6 +224,10 @@
         All buildings and places with clearly defined entrances/exits are considered indoor places (e.g. office building). Areas with open access are generally considered outdoors (e.g. office courtyard). 
 
         Mask-wearing is required in indoor settings, and optional in outdoor settings.
+    
+    - title: Can I organise social gatherings at the workplace?
+      content: |
+        Yes.
         
 - accordion:
   letter: d
