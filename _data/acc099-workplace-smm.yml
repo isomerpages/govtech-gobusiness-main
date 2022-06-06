@@ -232,56 +232,9 @@
 - accordion:
   letter: d
   data:
-    - title: What constitutes as ‘authorised visitors' allowed to visit the workplace?
-      content: |
-        This refers to visitors who are visiting the workplace for official reasons, including but not limited to:
-
-        - Suppliers or contractors who need to be physically onsite to deliver their goods and services
-        - Buyers who are onsite to collect their goods and services
-        - Visitors who need to attend a physical meeting within the workplace premises
-
-        This excludes visitors who may visit the workplace for leisure purposes.
-
-    - title: Can I use an alternative visitor management system instead of SafeEntry?
-      content: |
-        Businesses must use Trace-Together-only SafeEntry to collect entry information of all employees and visitors on their premises. Businesses that need to use their current systems to collect additional data, e.g. employees' ID, must ensure Trace-Together-only SafeEntry is implemented on top of their existing systems. 
-
-    - title: Trace-Together-only SafeEntry is already implemented for my building (e.g. malls), do tenants within the building have to implement it as well?
-      content: |
-        As part of safe workplace measures, all venues and facilities found listed on [https://www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment){:target="_blank"}{:rel="noopener"} will have to implement Trace-Together-only SafeEntry for employees and visitors. 
-
-        This includes office tenants/workplaces where there is a Trace-Together-only SafeEntry checkpoint at the main building entrance. 
-
-        Please go to [https://www.support.safeentry.gov.sg/hc/en-us](https://www.support.safeentry.gov.sg/hc/en-us){:target="_blank"}{:rel="noopener"} for more details.
-
-    - title: Where can I find more information on SafeEntry?
-      content: |
-        You may go to [https://www.safeentry.gov.sg/](https://www.safeentry.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on the implementation and usage of SafeEntry.
-
-    - title: In an office setting, would leaving an empty desk marked (e.g. with a cross) suffice for safe distancing? For barriers between workstations, are there guidelines for how high they need to be?
-      content: |
-        Employers must ensure clear physical spacing of at least 1m between persons at all times and demarcate safe physical distances (at least 1m apart) with visual indicators or physical means such as barriers between work stations. If leaving an empty desk and demarcating clearly with visual indicators allows for at least 1m distancing between employees, such an approach can be considered. For barriers between workstations, while there are no specific height guidelines, the barriers should also facilitate the required safe physical distance of 1m apart.
-
     - title: How frequently should I clean my workplace, i.e. what is considered regular cleaning?
       content: |
         As the recommended frequency and intensity may differ by sector, businesses should refer to the sanitation and hygiene advisories disseminated by the National Environmental Agency (NEA) [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines){:target="_blank"}{:rel="noopener"}.
-
-- accordion:
-  letter: e
-  data:
-    - title: Do employees who are working from home need to undergo regular temperature screening and declarations?
-      content: |
-        Employees who are working from home do not need to submit their temperatures or declarations. However, they should continue to monitor their health conditions and see a doctor if needed.
-
-    - title: How can we prevent incipient outbreaks at the workplace?
-      content: |
-        You can do your part to guard against incipient outbreaks at the workplace through the following:
-
-        - Adherence to Safe Management Measures at the workplace 
-        - Ensuring employees at the workplace who have visited a clinic submit to you records of their Medical Certificates (MCs) and diagnoses provided (only for COVID-19-related symptoms, including acute respiratory infections), and if they were tested for COVID-19 and the results of their tests
-        - Advising employees who are unwell to stay home and consult a doctor rather than going to the workplace
-        - Requiring employees on MCs to closely monitor their health before returning to the workplace
-        - Requiring close contacts of employees on MCs to monitor their health more regularly
 
 - accordion:
   letter: f
@@ -303,16 +256,6 @@
     - title: How do I ensure that my employees adhere to Safe Management Measures?
       content: |
         Employers are responsible for ensuring that Safe Management Measures are in place, communicated and explained to employees prior to resuming work. Signs should also be put up to remind employers and visitors to observe all measures in place.
-
-    - title: Can my company be exempted from Safe Management Measures when my employees are vaccinated?
-      content: |
-        We are still monitoring the duration of the vaccine's protection and its effectiveness in preventing transmission of COVID-19.
-
-        Until enough people are vaccinated, you should continue to practise public health measures such as [Workplace Safe Management Measures](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures){:target="_blank"}{:rel="noopener"}. This will help to continue protect ourselves and our loved ones
-
-    - title: 	Do I need to implement temperature screening for my employees?
-      content: |
-        No. This requirement was lifted on 19 August 2021.
 
     - title: What should I take into consideration when engaging employees on returning to the workplace?
       content: |
@@ -337,45 +280,20 @@
 
         It is important that employers ensure that the risk of transmission at the workplace is reduced to as low as possible even as we transit to an endemic situation. Otherwise, employers may face severe disruption to their operations if more workers are infected.
 
-- accordion:
-  letter: g
-  data:
-    - title: Who are included in the computation of my company's vaccination rate at https://go.gov.sg/percentvaccinated?
+    - title: Do I need to maintain 1m safe distance during a business meeting?
       content: |
-        All your employees are included in the computation of your company's vaccination rate. This generally includes interns, temporary staff, and part-time staff. 
+        Safe distancing will no longer be required between individuals or between groups.
+
+    - title: Vaccination-Differentiated SMMs (VDS), has been lifted in most settings. Which settings are the exception and do employees working in such settings need to be vaccinated? 
+      content: |
+        VDS has been lifted in most settings <b>except</b>:
+
+        - Events with >500 participants at any one time.
         
-        Persons who are not employees, such as vendors, contractors, and consultants, are not included in the computation of your company's vaccination rate.
-
-    - title: When is an employee considered vaccinated?
-      content: |
-        An employee is considered vaccinated if he/ she has been: a) fully vaccinated, i.e. has received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective, and had their vaccination records ingested in MOH's national IT systems ; b) recovered from COVID-19 and within 270 days from the date of COVID-19 infection. 
-
-    - title: Are employees who recovered from COVID-19 but unvaccinated counted towards the vaccination rate of the company?
-      content: |
-        Yes. Employees who recovered from COVID-19 will be counted to the vaccination rate if they are within 270 days from the date of COVID-19 infection. 
-
-    - title: How do I check a specific employee's vaccination status? 
-      content: |
-        MOM is not able to provide the details of vaccinated and unvaccinated employees. As stated in the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"}, employers may ask employees for their vaccination status for the purpose of planning deployment at the workplace.
-
-    - title: Some employees joined my company recently. Is the information on the portal updated?
-      content: |
-        Your results at the portal will be updated 2-3 months after your new employees join.
-
-    - title: The vaccination rate of my company is different than what is reflected at https://go.gov.sg/percentvaccinated. Why is this so?
-      content: |
-        There is a time lag for government administrative data to be updated. Employers may refer to their own records when this happens.
-
-    - title: My employees are vaccinated with the Sinovac-Coronavac vaccine. Are they considered vaccinated? 
-      content: |
-        The Multi-Ministry Taskforce will include the Sinovac-CoronaVac COVID-19 vaccine in the National Vaccination Programme, following the interim authorisation of the vaccine by the Health Sciences Authority. Those who have taken two doses of Sinovac-Coronavac will be regarded as fully vaccinated for four months after the second dose, or 31 December 2021, whichever is later. (from [Updated advisory on COVID-19 vaccination at the workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"})
-
-    - title: I tried to login to the web service – https://go.gov.sg/percentvaccinated but was informed that I am not an authorised user. What can I do?
-      content: |
-        Please inform your Corppass admin or sub-admin to assign “GoBusiness Portal” under “Ministry of Trade and Industry” as one of your company's eServices and assign it to your Corppass account.
+        - Nightlife establishments where dancing among patrons is one of the intended activities.
         
-        The account could be updated here: 
-        [https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"}
+        - Food and beverage (F&B) establishments, including restaurants, coffee shops and hawker centres.
         
-        A user guide could be found here:
-        [https://www.corppass.gov.sg/corppass/common/userguides](https://www.corppass.gov.sg/corppass/common/userguides){:target="_blank"}{:rel="noopener"}
+        Employees in these settings are generally exempted from VDS requirements if they are present at these premises to work.
+
+
