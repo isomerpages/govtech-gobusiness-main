@@ -3,7 +3,7 @@ title: Resumption of business activities and safe management measures
 permalink: /covid-19-faqs/workplace-safe-management-measures
 ---
 
-### Safe management measures at the workplace after Circuit Breaker period [UPDATED ON 22 APR 2022]
+### Safe management measures at the workplace after Circuit Breaker period [UPDATED ON 22 APR 2022] 
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="a" %}
 
