@@ -123,19 +123,27 @@
 - accordion:
   letter: b
   data:
-    - title: Are companies that have resumed operations required to ensure that their employees work-from-home?
+    - title: Should my employees be masked at all times? What if my worker has medical condition?
       content: |
-        From 1 January 2022, up to 50% of employees who are able to work from home can be at the workplace at any point in time. 
+        Every individual should put on a mask at all times when indoors, except when:
 
-        Additionally, only the following employees can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
+        However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask.
+        
+        Mask wearing in outdoor settings, e.g. worksites that are not sheltered is optional.
 
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.are not to return to the workplace, even with a negative Pre-Event Test (PET) result.
-
-        Employees who report to work onsite are encouraged to self-test weekly via an Antigen Rapid Test (ART). 
-
-    - title: Do employees who are unable to work from home need to get tested?
+    - title: Are there any available resources to help my business review work processes to enable employees to work-from-home?
       content: |
-        Employers are strongly encouraged to make plans for employees, contractors, and vendors who report to the workplace to self-test weekly via an Antigen Rapid Test. 
+        Yes, the Infocomm Media Development Authority (IMDA) provides a list of [digital solutions and resources](https://www.imda.gov.sg/bizgodigital){:target="_blank"}{:rel="noopener"} that aims to make business continuity essential more accessible to businesses.
+
+        Eligible businesses can also apply for the [Productivity Solutions Grant (PSG)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} to support business transformation and put in place flexible work arrangements to minimise spread of COVID-19 (e.g. work-from-home, staggered hours).
 
     - title: Should my employees be masked at all times? What if my worker has medical condition?
       content: |
