@@ -5,17 +5,9 @@
       content: |
         All businesses allowed to operate are required to have implemented Safe Management Measures.
 
-        For companies resuming operations after the circuit breaker period, all Safe Management Measures should be in place before operations can be resumed at the workplace.
-
-    - title: Do I have to apply to resume operations at my company's workplace premises?
-      content: |
-        The Multi-Ministry Task Force has announced that selected activities and services are allowed to resume operations. Companies that fall under the list of activities and services do not need to apply before resuming operations. Please go to [https://www.gobusiness.gov.sg/covid/](https://www.gobusiness.gov.sg/covid/) for more details.
-
     - title: Are the requirements mandatory, and what enforcement actions will MOM take against businesses that do not implement Safe Management Measures?
       content: |
-        MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. For workplaces that severely lack Safe Management Measures, we will direct employers to stop operations at the workplace. Employers will have to take steps to ensure that Safe Management Measures are in place before operations can resume.
-
-        Failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both. Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
+        MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. Failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both. Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
 
     - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace?
       content: |
@@ -33,7 +25,7 @@
 
         When inspected by any government agency, businesses must be prepared to show that they have fulfilled the requirements listed.
 
-    - title: Are there specific Safe Management Measures for each sector (e.g. construction, F&B, retail)?
+    - title: Are there specific Safe Management Measures for each sector (e.g. F&B, retail)?
       content: |
         The requirements on Safe Management Measures at the workplace released by MOM is for general workplace settings. For specific workplace settings or sector requirements, please refer to [guidelines issued by the respective sector agencies](https://www.gobusiness.gov.sg/safemanagement/sector).
 
@@ -47,78 +39,15 @@
 
         Companies that have employees deployed to other sites should ensure that their employees comply with the Safe Management Measures put in place at these sites. In fact, some of the Safe Management Measures can be implemented by employers regardless of where employees are deployed, such as health monitoring.
 
-    - title: If my business activities are not listed in the permitted services list, can I apply for an exemption to resume business activities?
-      content: |
-        Businesses should suspend operations in their premises from 7 April 2020 onwards until they are approved by MTI to continue operations or their list of business activity falls within the [permitted list](htps://www.gobusiness.gov.sg/faq/resumption/resumption/) allowed to operate from 2 June 2020.
-
-        Employers whose business operations are not in the list of permitted services may still return to their business facility to take care of crucial tasks that cannot be done remotely or to retrieve necessary materials or documents. No application for exemption is required.
-
-        However, if employees have to be activated to return to the workplace for short periods of time (i.e. less than a day), employers are required to apply to MTI for a time-limited exemption to do so. If employers need to maintain a skeletal workforce at the workplace for longer periods, an application for a general exemption should be submitted instead.
-
-    - title: My company is currently operating under a General Exemption, as our business activities are currently not listed in the permitted services list. Can our employees who are currently working from home return to the workplace?
-      content: |
-        Companies operating under a General Exemption must submit an application for additional manpower via the GoBusiness portal, to allow more employees to return to the workplace.
-
-    - title: What should I do if I see a business that is not in the permitted services list continuing to operate even though it is not supposed to?
-      content: |
-        Please report the incident to <u>covid_gobusiness@mti.gov.sg</u> and include relevant details such as company name, address and relevant evidence (e.g. photographs).
-
     - title: What should I do if my employer refuses to implement Safe Management Measures in the workplace?
       content: |
         If you notice any breach of Safe Management Measures or poor practices at the workplace, you can [report it to MOM](https://www.mom.gov.sg/report-WSH-issues){:target="_blank"}{:rel="noopener"}.
 
         MOM will treat each report seriously and will keep your identity strictly confidential.
 
-    - title: Is there a limit to the number of migrant workers a company can deploy at each renovation site?
+    - title: Can my employees continue to dine in staff canteens? 
       content: |
-        Contractors should deploy a minimal number of workers at renovation workplaces and must ensure that Ministry of Manpower's Safe Management Measures at workplaces are complied with at renovation workplaces to mitigate the risk of community transmission. All personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups.
-
-    - title: If my renovation project involves more than one team of contractors, are they allowed to work at the same renovation site at the same time?
-      content: |
-        Different teams of contractors (main or sub-contractors) can carry out their respective work within the same renovation site, at the same time and day. However, all personnel on site must observe safe management measures such as clear physical distancing, wearing of masks and must avoid socialising or congregating in groups. 
-
-        The application of safe management measures will vary depending on the renovation site. Employers should assess and evaluate the measures that must be taken to ensure safe distancing and ensure that the risk of COVID-19 spread at workplaces is minimised for their workers. This may include additional measures such as having staggered rest, arrival and exit timings to minimise interactions between workers from different companies.
-
-    - title: My office is on a 5-day week. Can all my employees work at the office for 3 days a week, and then work from home for 2 days?
-      content: |
-        No. From <b>1 January 2022</b>, up to 50% of employees who are able to work from home are allowed to return to the workplace at any point in time. You can consider other arrangements that will meet this requirement, for instance:
-        
-        * Divide your employees into 2 groups, with 1 group working from home for any given week.
-        * Divide your employees into 2 groups, with a different group working from home for each day Monday to Thursday, and both groups working from home on Friday.
-        
-        Additionally, only the following individuals can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.
-
-    - title: Can my employee work at a co-working space instead of working from home?
-      content: |
-        From <b>1 January 2022</b>, up to 50% of employees who are able to work from home are allowed to return to the co-working space, if this is their workplace.
-
-        Companies operating co-working spaces should communicate this clearly to their clients and clients should ensure that no more than 50% of employees who are able to work from home are working in the co-working space at any point in time.
-
-    - title: I am an essential services provider. From 1 January 2022 onwards, can all my employees return to work on-site, including those who are able to work from home?
-      content: |
-        No. From <b>1 January 2022</b>, only up to 50% of employees who are able to work from home are allowed to return to the workplace.
-
-        Additionally, only the following individuals can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.
-
-    - title: My company has more than one workplace. How does the 50% limit on employees who can return to the workplace apply?
-      content: |
-        The 50% limit on employees who can return to workplace applies to each workplace.
-
-        For example, if your company has 3 workplaces, only up to 50% of employees who are able to work from home can be at each workplace at any point in time. 
-
-        Additionally, only the following individuals can return to the workplace: (i) workers who are fully vaccinated with a vaccine under the National Vaccination Programme or WHO Emergency Use Listing and their respective post-vaccination duration, (ii) workers who have recovered from COVID-19 within the past 180 days, (iii) workers who are not fully vaccinated who have tested negative for COVID-19 within 24 hours of returning to the workplace, via a Pre-Event Test (PET) at an MOH-approved COVID-19 test provider, (iv) workers who are medically ineligible for all the vaccines under the National Vaccination Programme.
-
-        From 15 January 2022, workers who are not fully vaccinated are not to enter the workplace, even with a negative Pre-Event Test (PET) result. A grace period until 31 January 2022 will be granted for partially vaccinated individuals (i.e. those who have taken at least 1 dose of vaccine but not yet fully vaccinated) to complete their vaccination regime. During this grace period, they will continue to be able to enter the workplace with a negative PET result.
-
-    - title: Can my employers continue to dine in staff canteens?
-      content: |
-        For staff canteens that are open only to employees and regular contractors' staff who work at the premises, employees should dine individually.
-        
-        Staff canteens that are open to visitors are subject to the same requirements as other F&B establishments, including Vaccination-Differentiated SMMs.
+        Yes. As this is a mask-off setting, safe distancing is encouraged. 
 
 - accordion:
   letter: b
