@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name: MyDoc Private Limited<br>Web URL: www.my-doc.com<br>Contact Hotline: 8309 2948<br>Contact Email: Zoe.bergin@my-doc.com

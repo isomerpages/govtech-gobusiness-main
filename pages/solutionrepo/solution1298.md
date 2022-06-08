@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com <br>

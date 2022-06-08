@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>

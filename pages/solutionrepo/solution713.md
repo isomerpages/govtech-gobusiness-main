@@ -31,7 +31,7 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:PIXEL MECHANICS PTE LTD <br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg <br>

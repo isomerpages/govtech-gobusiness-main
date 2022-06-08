@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.flavorcrm.com <br>Contact Hotline: 66791003 <br>Contact Email: info@flavorcrm.com <br>

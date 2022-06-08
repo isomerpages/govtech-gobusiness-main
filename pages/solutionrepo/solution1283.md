@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com 

@@ -31,7 +31,7 @@ Up to 0.8 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: WWW.SUNTOYO.COM.SG <br>Contact Hotline: 65533855 <br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br>

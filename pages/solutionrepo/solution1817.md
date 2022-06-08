@@ -34,7 +34,7 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266<br>Contact Email: godigital@vuetechsg.com <br>
