@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2798
 
 ### Description
 
-The maximum application quota for this Digital Marketing vendor has been reached. You may consider applying for Digital Marketing packages from another vendor instead."  
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://rhad.agency/ <br>Contact Hotline: 66791003 <br>Contact Email: hello@rhad.agency <br>

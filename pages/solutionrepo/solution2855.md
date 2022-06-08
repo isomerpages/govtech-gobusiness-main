@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2855
 
 ### Description
 
-MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM. Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry.
+Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry. MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM.
 
 ### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: mediaone.co <br>Contact Hotline: 67899852 <br>Contact Email: contact@mediaone.co <br>

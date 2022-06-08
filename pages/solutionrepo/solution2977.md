@@ -31,7 +31,7 @@ Up to 70% (80% for Retail sector) for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.dcub3.com.sg <br>Contact Hotline: 97346544 <br>Contact Email: armstrong@dcub3.com.sg <br>

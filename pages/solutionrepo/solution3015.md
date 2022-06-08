@@ -31,7 +31,7 @@ Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>

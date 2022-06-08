@@ -39,7 +39,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:OCi System Pte Ltd <br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com <br>

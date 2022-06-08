@@ -39,7 +39,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Getz Group Pte Ltd <br>Web URL:http://www.getz.co/ <br>Contact Hotline: :  WhatsApp: +WhatsApp: +65 8540 6590 <br>Contact Email:hello@getz.co <br>
