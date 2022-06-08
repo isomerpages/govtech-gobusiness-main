@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2801
 
 ### Description
 
-The maximum application quota for this Digital Marketing vendor has been reached. You may consider applying for Digital Marketing packages from another vendor instead."  
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
 
 ### Details of Solution
 

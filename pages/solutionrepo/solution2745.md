@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2745
 
 ### Description
 
-3D Brand Agency's 3D Digital Booster is an online marketing solution that comprises SEO/5C Analysis, Digital Marketing Strategy, Marketing Campaign Planning and Execution, Digital Assets Creation, and Live Analytics Reporting, for Facebook/Instagram and SEM/SEO.  The maximum application quota for this solution has reached currently. You may wish to apply for this solution in the future.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  3D Brand Agency's 3D Digital Booster is an online marketing solution that comprises SEO/5C Analysis, Digital Marketing Strategy, Marketing Campaign Planning and Execution, Digital Assets Creation, and Live Analytics Reporting, for Facebook/Instagram and SEM/SEO.  
 
 ### Details of Solution
 

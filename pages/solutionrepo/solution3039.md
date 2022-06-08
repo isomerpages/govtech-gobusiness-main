@@ -1,15 +1,15 @@
 ---
-title: DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)
-permalink: /productivity-solutions-grant/solutionrepo/solution2800
+title: RavenPOS Personal Wellness Management System Version 12 - Basic
+permalink: /productivity-solutions-grant/solutionrepo/solution3039
 ---
 
 ### Description
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
+RAVENPOS wellness management system helps to manage and automate crucial business operation in the beauty and wellness industry. From session and credit packages, commission, inventory, appointment to customer management; the solution frees up resources, boosts revenue and increases productivity to scale the business
 
 ### Details of Solution
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+Click <a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 ### Support Level
-Up to 70% for SMEs <br>
+Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
-Web URL: https://rhad.agency/ <br>Contact Hotline: 66791003 <br>Contact Email: hello@rhad.agency <br>
+Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

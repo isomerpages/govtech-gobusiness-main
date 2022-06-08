@@ -5,9 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2465
 
 ### Description
 
-At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
-
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
 
 ### Details of Solution
 
