@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
