@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg <br>

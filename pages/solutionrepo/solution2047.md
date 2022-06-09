@@ -33,7 +33,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 69836445<br>Whatsapp: 87776207<br>Contact Email: enquiries@hashmicro.com <br>

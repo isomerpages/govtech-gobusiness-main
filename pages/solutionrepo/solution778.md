@@ -31,7 +31,7 @@ Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Company Name:SHELL EASTERN PETROLEUM (PTE) LTD <br>Web URL: https://www.shell.com.sg/business-customers/shell-fuel-card/shell-telematics-get-started.html <br>Contact Hotline: 6562615322 <br>Contact Email: generalcardrequests-sg@shell.com <br>

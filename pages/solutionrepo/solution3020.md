@@ -31,7 +31,7 @@ Up to 0.7 for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>

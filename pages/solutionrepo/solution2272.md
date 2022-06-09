@@ -31,7 +31,7 @@ Up to 70% (80% for Retail sector)  for SMEs <br>
 N.A. for non-SMEs
 
 ### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 ### Contact Information
 Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact Email: Togi.Gouw@Kaddra.com <br>
