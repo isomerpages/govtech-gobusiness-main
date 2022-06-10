@@ -81,5 +81,5 @@ Today, Michelle is keeping her head up as Singapore enters an endemic state.
 
 **With restrictions easing and events once again sprouting up across the island, use GoBusiness’ [e-Adviser for Events](https://www.gobusiness.gov.sg/licences/?src=home_quicklinks){:target="_blank"}{:rel="noopener"} to find out what the regulations are surrounding large-scale business-related events.**
 
-###### This article is accurate as at 1 Jun 2022
+###### This article is accurate as at 10 Jun 2022
 
