@@ -11,7 +11,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Business Grant Portal will be undergoing scheduled maintenance on 8 April 2022 from 6:00 PM to 9:00 PM. We apologise for any inconvenience.",
 
   //[**ACRA DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 12 Jun 2022 12am to 10am. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 12 Jun 2022 12am to 10am. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 30 Apr 2022 from 2am to 8am<br>(2) 7 May 2022 from 12am to 3am",
 
   //[**LICENCEONE DOWNTIME**]
