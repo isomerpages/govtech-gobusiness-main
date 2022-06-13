@@ -28,36 +28,36 @@ T-Guard is a complete system that provides utmost safe driving management system
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (1 Vehicle)</td>
-<td style='padding: 10px;'>5538</td>
-<td style='padding: 10px;'>3908</td>
+<td style='padding: 10px;'>$5,538</td>
+<td style='padding: 10px;'>$3,908</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (3 Vehicles)</td>
-<td style='padding: 10px;'>16614</td>
-<td style='padding: 10px;'>11724</td>
+<td style='padding: 10px;'>$16,614</td>
+<td style='padding: 10px;'>$11,724</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (5 Vehicles)</td>
-<td style='padding: 10px;'>27690</td>
-<td style='padding: 10px;'>19540</td>
+<td style='padding: 10px;'>$27,690</td>
+<td style='padding: 10px;'>$19,540</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (7 Vehicles)</td>
-<td style='padding: 10px;'>38766</td>
-<td style='padding: 10px;'>27356</td>
+<td style='padding: 10px;'>$38,766</td>
+<td style='padding: 10px;'>$27,356</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (9 Vehicles)</td>
-<td style='padding: 10px;'>49842</td>
-<td style='padding: 10px;'>35172</td>
+<td style='padding: 10px;'>$49,842</td>
+<td style='padding: 10px;'>$35,172</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

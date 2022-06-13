@@ -27,7 +27,7 @@ Cost of equipment capped at $37,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>$37,500</td>
 <td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity of 5GN<br><br><br></td>
 </tr>
 </table>

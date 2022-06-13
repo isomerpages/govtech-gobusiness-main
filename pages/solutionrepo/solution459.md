@@ -25,35 +25,35 @@ Hubble Safety Management System helps you manage and monitor the safety of your 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 1 Project)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'>$15,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 2 Projects)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>22900</td>
+<td style='padding: 10px;'>$22,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 3 Projects)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>26600</td>
+<td style='padding: 10px;'>$26,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 4 Projects)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>29000</td>
+<td style='padding: 10px;'>$29,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 1 Project, 2 years)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'>$15,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -24,36 +24,36 @@ Sophos safeguards all users' devices under one management, either on premise or 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced (5 Licenses)</td>
-<td style='padding: 10px;'>490</td>
-<td style='padding: 10px;'>490</td>
+<td style='padding: 10px;'>$490</td>
+<td style='padding: 10px;'>$490</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced (10 Licenses)</td>
-<td style='padding: 10px;'>730</td>
-<td style='padding: 10px;'>730</td>
+<td style='padding: 10px;'>$730</td>
+<td style='padding: 10px;'>$730</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced (20 Licenses) </td>
-<td style='padding: 10px;'>1210</td>
-<td style='padding: 10px;'>1210</td>
+<td style='padding: 10px;'>$1,210</td>
+<td style='padding: 10px;'>$1,210</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced w XDR (10 Licenses)</td>
-<td style='padding: 10px;'>1000</td>
-<td style='padding: 10px;'>1000</td>
+<td style='padding: 10px;'>$1,000</td>
+<td style='padding: 10px;'>$1,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced w XDR (20 Licenses) </td>
-<td style='padding: 10px;'>1750</td>
-<td style='padding: 10px;'>1750</td>
+<td style='padding: 10px;'>$1,750</td>
+<td style='padding: 10px;'>$1,750</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

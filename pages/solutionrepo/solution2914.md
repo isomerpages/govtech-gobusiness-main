@@ -25,36 +25,36 @@ It protects your entire business through a layered protection approach, an innov
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences</td>
-<td style='padding: 10px;'>1200</td>
-<td style='padding: 10px;'>1200</td>
+<td style='padding: 10px;'>$1,200</td>
+<td style='padding: 10px;'>$1,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package B- Advanced Security + Advanced Management 25 Licences</td>
-<td style='padding: 10px;'>2400</td>
-<td style='padding: 10px;'>2400</td>
+<td style='padding: 10px;'>$2,400</td>
+<td style='padding: 10px;'>$2,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package C- Advanced Security + Advanced Management 50 Licences</td>
-<td style='padding: 10px;'>4500</td>
-<td style='padding: 10px;'>4500</td>
+<td style='padding: 10px;'>$4,500</td>
+<td style='padding: 10px;'>$4,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package D- Advanced Security + Advanced Management 100 Licences</td>
-<td style='padding: 10px;'>8000</td>
-<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>$8,000</td>
+<td style='padding: 10px;'>$8,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package E- Advanced Security + Advanced Management 200 Licences</td>
-<td style='padding: 10px;'>14000</td>
-<td style='padding: 10px;'>14000</td>
+<td style='padding: 10px;'>$14,000</td>
+<td style='padding: 10px;'>$14,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

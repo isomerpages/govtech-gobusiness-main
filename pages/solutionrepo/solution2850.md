@@ -24,36 +24,36 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3</td>
-<td style='padding: 10px;'>7020</td>
-<td style='padding: 10px;'>7020</td>
+<td style='padding: 10px;'>$7,020</td>
+<td style='padding: 10px;'>$7,020</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 2 (16-25 employee) Version 21-3</td>
-<td style='padding: 10px;'>11300</td>
-<td style='padding: 10px;'>11300</td>
+<td style='padding: 10px;'>$11,300</td>
+<td style='padding: 10px;'>$11,300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 3 (26-50 employee) Version 21-3</td>
-<td style='padding: 10px;'>20900</td>
-<td style='padding: 10px;'>20900</td>
+<td style='padding: 10px;'>$20,900</td>
+<td style='padding: 10px;'>$20,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 4(51-100 employee) Version 21-3</td>
-<td style='padding: 10px;'>33800</td>
-<td style='padding: 10px;'>33800</td>
+<td style='padding: 10px;'>$33,800</td>
+<td style='padding: 10px;'>$33,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions -Package 5(101-200 employee) Version 21-3</td>
-<td style='padding: 10px;'>63000</td>
-<td style='padding: 10px;'>42800</td>
+<td style='padding: 10px;'>$63,000</td>
+<td style='padding: 10px;'>$42,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

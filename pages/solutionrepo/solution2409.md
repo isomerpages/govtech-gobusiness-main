@@ -24,36 +24,36 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)</td>
-<td style='padding: 10px;'>14872</td>
-<td style='padding: 10px;'>11800</td>
+<td style='padding: 10px;'>$14,872</td>
+<td style='padding: 10px;'>$11,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)</td>
-<td style='padding: 10px;'>23344</td>
-<td style='padding: 10px;'>17200</td>
+<td style='padding: 10px;'>$23,344</td>
+<td style='padding: 10px;'>$17,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
-<td style='padding: 10px;'>31816</td>
-<td style='padding: 10px;'>22600</td>
+<td style='padding: 10px;'>$31,816</td>
+<td style='padding: 10px;'>$22,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package D - 1 Year (8 Units)</td>
-<td style='padding: 10px;'>40288</td>
-<td style='padding: 10px;'>28000</td>
+<td style='padding: 10px;'>$40,288</td>
+<td style='padding: 10px;'>$28,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)</td>
-<td style='padding: 10px;'>48760</td>
-<td style='padding: 10px;'>33400</td>
+<td style='padding: 10px;'>$48,760</td>
+<td style='padding: 10px;'>$33,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

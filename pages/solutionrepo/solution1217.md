@@ -24,15 +24,15 @@ The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk AEC Collection - Single User Annual Subscription</td>
-<td style='padding: 10px;'>3200</td>
-<td style='padding: 10px;'>1590</td>
+<td style='padding: 10px;'>$3,200</td>
+<td style='padding: 10px;'>$1,590</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk AEC Collection - Single User 3-year Subscription</td>
-<td style='padding: 10px;'>8880</td>
-<td style='padding: 10px;'>1590</td>
+<td style='padding: 10px;'>$8,880</td>
+<td style='padding: 10px;'>$1,590</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

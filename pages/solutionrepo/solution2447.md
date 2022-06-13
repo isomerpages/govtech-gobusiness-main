@@ -24,36 +24,36 @@ As an EduTech company, LittleLives facilitates day-to-day school operations thro
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS Lite</td>
-<td style='padding: 10px;'>6518</td>
-<td style='padding: 10px;'>6518</td>
+<td style='padding: 10px;'>$6,518</td>
+<td style='padding: 10px;'>$6,518</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS Basic</td>
-<td style='padding: 10px;'>9770</td>
-<td style='padding: 10px;'>9770</td>
+<td style='padding: 10px;'>$9,770</td>
+<td style='padding: 10px;'>$9,770</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + Cashless Payment</td>
-<td style='padding: 10px;'>10310</td>
-<td style='padding: 10px;'>10310</td>
+<td style='padding: 10px;'>$10,310</td>
+<td style='padding: 10px;'>$10,310</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS Basic + Cashless Payment + Thermal Scanner</td>
-<td style='padding: 10px;'>15110</td>
-<td style='padding: 10px;'>14110</td>
+<td style='padding: 10px;'>$15,110</td>
+<td style='padding: 10px;'>$14,110</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS Intro + Thermal Scanner</td>
-<td style='padding: 10px;'>4800</td>
-<td style='padding: 10px;'>3800</td>
+<td style='padding: 10px;'>$4,800</td>
+<td style='padding: 10px;'>$3,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Littlelive_4.5_Annex_3_CR_wef_19_May_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

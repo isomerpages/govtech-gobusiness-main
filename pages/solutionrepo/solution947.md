@@ -25,36 +25,36 @@ Companies in wholesale sector used our fully web based system to manage all the 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package A (25 Entry Package)</td>
-<td style='padding: 10px;'>4900</td>
-<td style='padding: 10px;'>4400</td>
+<td style='padding: 10px;'>$4,900</td>
+<td style='padding: 10px;'>$4,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package B (100 Entry Package)</td>
-<td style='padding: 10px;'>6800</td>
-<td style='padding: 10px;'>6300</td>
+<td style='padding: 10px;'>$6,800</td>
+<td style='padding: 10px;'>$6,300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package C (25 Standard Package)</td>
-<td style='padding: 10px;'>7900</td>
-<td style='padding: 10px;'>7400</td>
+<td style='padding: 10px;'>$7,900</td>
+<td style='padding: 10px;'>$7,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package D (50 Standard Package)</td>
-<td style='padding: 10px;'>9850</td>
-<td style='padding: 10px;'>9350</td>
+<td style='padding: 10px;'>$9,850</td>
+<td style='padding: 10px;'>$9,350</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package E (200 Standard Package)</td>
-<td style='padding: 10px;'>19500</td>
-<td style='padding: 10px;'>19000</td>
+<td style='padding: 10px;'>$19,500</td>
+<td style='padding: 10px;'>$19,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

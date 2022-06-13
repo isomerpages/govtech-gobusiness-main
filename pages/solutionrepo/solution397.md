@@ -25,29 +25,29 @@ FacilityBot is the first-to-market omni-channel AI-powered facilities management
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - Small Facilities</td>
-<td style='padding: 10px;'>3600</td>
-<td style='padding: 10px;'>3600</td>
+<td style='padding: 10px;'>$3,600</td>
+<td style='padding: 10px;'>$3,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - Mid-Sized Facilities</td>
-<td style='padding: 10px;'>6000</td>
-<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - Large Facilities</td>
-<td style='padding: 10px;'>12000</td>
-<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>$12,000</td>
+<td style='padding: 10px;'>$12,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</td>
-<td style='padding: 10px;'>37500</td>
-<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>$37,500</td>
+<td style='padding: 10px;'>$37,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

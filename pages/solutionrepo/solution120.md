@@ -24,36 +24,36 @@ SAP Business One is an enterprise resource planning (ERP) software designed for 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>31968</td>
-<td style='padding: 10px;'>29368</td>
+<td style='padding: 10px;'>$31,968</td>
+<td style='padding: 10px;'>$29,368</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 5 Subscription Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>43980</td>
-<td style='padding: 10px;'>35880</td>
+<td style='padding: 10px;'>$43,980</td>
+<td style='padding: 10px;'>$35,880</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>55716</td>
-<td style='padding: 10px;'>41600</td>
+<td style='padding: 10px;'>$55,716</td>
+<td style='padding: 10px;'>$41,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>67210</td>
-<td style='padding: 10px;'>41600</td>
+<td style='padding: 10px;'>$67,210</td>
+<td style='padding: 10px;'>$41,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 10 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>81801</td>
-<td style='padding: 10px;'>42800</td>
+<td style='padding: 10px;'>$81,801</td>
+<td style='padding: 10px;'>$42,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

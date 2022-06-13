@@ -26,7 +26,7 @@ Cost of equipment capped at $20,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>$20,000</td>
 <td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>

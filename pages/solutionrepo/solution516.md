@@ -24,36 +24,36 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - GZ Business Security Premium - 10 Licenses</td>
-<td style='padding: 10px;'>580.9</td>
-<td style='padding: 10px;'>580.9</td>
+<td style='padding: 10px;'>$581</td>
+<td style='padding: 10px;'>$581</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - GZ Business Security Premium - 25 licenses</td>
-<td style='padding: 10px;'>1311.25</td>
-<td style='padding: 10px;'>1311.25</td>
+<td style='padding: 10px;'>$1,311</td>
+<td style='padding: 10px;'>$1,311</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - GZ Business Security Premium - 50 Licenses</td>
-<td style='padding: 10px;'>2341.5</td>
-<td style='padding: 10px;'>2341.5</td>
+<td style='padding: 10px;'>$2,342</td>
+<td style='padding: 10px;'>$2,342</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - GZ Business Security Premium - 100 Licenses</td>
-<td style='padding: 10px;'>4455</td>
-<td style='padding: 10px;'>4455</td>
+<td style='padding: 10px;'>$4,455</td>
+<td style='padding: 10px;'>$4,455</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - GZ Business Security Premium - 200 Licenses</td>
-<td style='padding: 10px;'>8434</td>
-<td style='padding: 10px;'>8434</td>
+<td style='padding: 10px;'>$8,434</td>
+<td style='padding: 10px;'>$8,434</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

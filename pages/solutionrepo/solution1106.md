@@ -24,36 +24,36 @@ AutoCount Accounting stands out as one of the best accounting software for today
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System Version 2.0-Basic (1 User)</td>
-<td style='padding: 10px;'>4140</td>
-<td style='padding: 10px;'>4140</td>
+<td style='padding: 10px;'>$4,140</td>
+<td style='padding: 10px;'>$4,140</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System Version 2.0-Basic (3 Users)</td>
-<td style='padding: 10px;'>5340</td>
-<td style='padding: 10px;'>5340</td>
+<td style='padding: 10px;'>$5,340</td>
+<td style='padding: 10px;'>$5,340</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System Version 2.0-Pro (3 Users)</td>
-<td style='padding: 10px;'>6840</td>
-<td style='padding: 10px;'>6840</td>
+<td style='padding: 10px;'>$6,840</td>
+<td style='padding: 10px;'>$6,840</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System Version 2.0-Premium (3 Users)</td>
-<td style='padding: 10px;'>9040</td>
-<td style='padding: 10px;'>9040</td>
+<td style='padding: 10px;'>$9,040</td>
+<td style='padding: 10px;'>$9,040</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System Version 2.0-Premium (5 Users)</td>
-<td style='padding: 10px;'>10240</td>
-<td style='padding: 10px;'>10240</td>
+<td style='padding: 10px;'>$10,240</td>
+<td style='padding: 10px;'>$10,240</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

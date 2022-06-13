@@ -24,7 +24,7 @@ Cost of equipment capped at $12,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Pipe Gas Cutter</td>
-<td style='padding: 10px;'>12500</td>
+<td style='padding: 10px;'>$12,500</td>
 <td style='padding: 10px;'>Automatic travelling gas cutting operations<br>Cutting speed: minimum 50 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
 </tr>
 </table>

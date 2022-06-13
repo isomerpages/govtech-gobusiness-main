@@ -25,36 +25,36 @@ It harnesses the power of a deep learning neural network, marking Intercept X sm
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central Intercept X Advanced - 25 Users</td>
-<td style='padding: 10px;'>2100</td>
-<td style='padding: 10px;'>2100</td>
+<td style='padding: 10px;'>$2,100</td>
+<td style='padding: 10px;'>$2,100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central Intercept X Advanced - 50 Users</td>
-<td style='padding: 10px;'>3100</td>
-<td style='padding: 10px;'>3100</td>
+<td style='padding: 10px;'>$3,100</td>
+<td style='padding: 10px;'>$3,100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central Intercept X Advanced - With XDR - 25 Users</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>$2,800</td>
+<td style='padding: 10px;'>$2,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central Intercept X Advanced - With XDR - 50 Users</td>
-<td style='padding: 10px;'>4200</td>
-<td style='padding: 10px;'>4200</td>
+<td style='padding: 10px;'>$4,200</td>
+<td style='padding: 10px;'>$4,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Central Intercept X Advanced - With XDR and Managed Threat Response Standard - 100 Users</td>
-<td style='padding: 10px;'>18500</td>
-<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'>$18,500</td>
+<td style='padding: 10px;'>$15,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swiz_20210239_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

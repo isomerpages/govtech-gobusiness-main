@@ -24,36 +24,36 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2465
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]</td>
-<td style='padding: 10px;'>6000</td>
-<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_123.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Search Engine and Social Media Marketing & Photography/Videography [3 Months Package]</td>
-<td style='padding: 10px;'>6600</td>
-<td style='padding: 10px;'>6600</td>
+<td style='padding: 10px;'>$6,600</td>
+<td style='padding: 10px;'>$6,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_456.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (20 Keywords) & Search Engine Marketing [6 Months Package]</td>
-<td style='padding: 10px;'>9000</td>
-<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>$9,000</td>
+<td style='padding: 10px;'>$9,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_789.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (20 Keywords) & Social Media Advertising [6 Months Package]</td>
-<td style='padding: 10px;'>9000</td>
-<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>$9,000</td>
+<td style='padding: 10px;'>$9,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_101112.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Social Media Marketing & Photography/Videography [6 Months Package]</td>
-<td style='padding: 10px;'>9600</td>
-<td style='padding: 10px;'>9600</td>
+<td style='padding: 10px;'>$9,600</td>
+<td style='padding: 10px;'>$9,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_1314.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

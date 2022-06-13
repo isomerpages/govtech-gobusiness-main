@@ -24,36 +24,36 @@ Dropbox is a file storage solution known to many individuals, but the business e
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 3 Users</td>
-<td style='padding: 10px;'>1360</td>
-<td style='padding: 10px;'>1360</td>
+<td style='padding: 10px;'>$1,360</td>
+<td style='padding: 10px;'>$1,360</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 5 Users</td>
-<td style='padding: 10px;'>2000</td>
-<td style='padding: 10px;'>2000</td>
+<td style='padding: 10px;'>$2,000</td>
+<td style='padding: 10px;'>$2,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 10 Users</td>
-<td style='padding: 10px;'>3900</td>
-<td style='padding: 10px;'>3900</td>
+<td style='padding: 10px;'>$3,900</td>
+<td style='padding: 10px;'>$3,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 15 Users</td>
-<td style='padding: 10px;'>5500</td>
-<td style='padding: 10px;'>5500</td>
+<td style='padding: 10px;'>$5,500</td>
+<td style='padding: 10px;'>$5,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 20 Users</td>
-<td style='padding: 10px;'>7100</td>
-<td style='padding: 10px;'>7100</td>
+<td style='padding: 10px;'>$7,100</td>
+<td style='padding: 10px;'>$7,100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

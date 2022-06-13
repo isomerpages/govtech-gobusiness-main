@@ -24,36 +24,36 @@ StaffAny is a software-as-a-service that helps business owners reduce work dedic
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>StaffAny Version 1.0-Package A (25 Users)</td>
-<td style='padding: 10px;'>3200</td>
-<td style='padding: 10px;'>3200</td>
+<td style='padding: 10px;'>$3,200</td>
+<td style='padding: 10px;'>$3,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>StaffAny Version 1.0-Package B (50 Users)</td>
-<td style='padding: 10px;'>5300</td>
-<td style='padding: 10px;'>5300</td>
+<td style='padding: 10px;'>$5,300</td>
+<td style='padding: 10px;'>$5,300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>StaffAny Version 1.0-Package C (100 Users)</td>
-<td style='padding: 10px;'>10600</td>
-<td style='padding: 10px;'>10400</td>
+<td style='padding: 10px;'>$10,600</td>
+<td style='padding: 10px;'>$10,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>StaffAny Version 1.0-Package D (150 Users)</td>
-<td style='padding: 10px;'>14800</td>
-<td style='padding: 10px;'>14600</td>
+<td style='padding: 10px;'>$14,800</td>
+<td style='padding: 10px;'>$14,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>StaffAny Version 1.0-Package E (250 Users)</td>
-<td style='padding: 10px;'>23200</td>
-<td style='padding: 10px;'>23000</td>
+<td style='padding: 10px;'>$23,200</td>
+<td style='padding: 10px;'>$23,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

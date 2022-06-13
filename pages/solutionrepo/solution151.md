@@ -24,36 +24,36 @@ APSCOM Solutions provides ABSS Premier, formerly known as MYOB, includes Account
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package A with E-Invoicing (1-User)</td>
-<td style='padding: 10px;'>2800</td>
-<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>$2,800</td>
+<td style='padding: 10px;'>$2,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package B Software Only with E-Invoicing (3-Users)</td>
-<td style='padding: 10px;'>2500</td>
-<td style='padding: 10px;'>2500</td>
+<td style='padding: 10px;'>$2,500</td>
+<td style='padding: 10px;'>$2,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package C with E-Invoicing (3-Users)</td>
-<td style='padding: 10px;'>3800</td>
-<td style='padding: 10px;'>3800</td>
+<td style='padding: 10px;'>$3,800</td>
+<td style='padding: 10px;'>$3,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package D Advanced with E-Invoicing (3-Users)</td>
-<td style='padding: 10px;'>4800</td>
-<td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'>$4,800</td>
+<td style='padding: 10px;'>$4,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package E Advanced with E-Invoicing (5-Users)</td>
-<td style='padding: 10px;'>6000</td>
-<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

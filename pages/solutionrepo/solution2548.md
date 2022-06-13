@@ -25,8 +25,8 @@ Business owners save time to explore countless subscription-based Saas tools by 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MIBC Ecommerce - MIBC E-Commerce (Optimised E-commerce solution)</td>
-<td style='padding: 10px;'>10996</td>
-<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>$10,996</td>
+<td style='padding: 10px;'>$10,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MIBC_20210224_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

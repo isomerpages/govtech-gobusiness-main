@@ -24,36 +24,36 @@ We established in 2003 and provide one stop service company included software so
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit QBO - QUICKBOOKS ONLINE START-UP</td>
-<td style='padding: 10px;'>2080</td>
-<td style='padding: 10px;'>2080</td>
+<td style='padding: 10px;'>$2,080</td>
+<td style='padding: 10px;'>$2,080</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit QBO - QUICKBOOKS ONLINE  ESSENTIAL</td>
-<td style='padding: 10px;'>3980</td>
-<td style='padding: 10px;'>3980</td>
+<td style='padding: 10px;'>$3,980</td>
+<td style='padding: 10px;'>$3,980</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit QBO - QUICKBOOKS ONLINE  PREMIUM</td>
-<td style='padding: 10px;'>5580</td>
-<td style='padding: 10px;'>5580</td>
+<td style='padding: 10px;'>$5,580</td>
+<td style='padding: 10px;'>$5,580</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit QBO - QUICKBOOKS ONLINE  ENTERPRISE</td>
-<td style='padding: 10px;'>6380</td>
-<td style='padding: 10px;'>6380</td>
+<td style='padding: 10px;'>$6,380</td>
+<td style='padding: 10px;'>$6,380</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit QBO - QUICKBOOKS ONLINE CUSTOMISED SYSTEM</td>
-<td style='padding: 10px;'>8280</td>
-<td style='padding: 10px;'>8280</td>
+<td style='padding: 10px;'>$8,280</td>
+<td style='padding: 10px;'>$8,280</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -23,7 +23,7 @@ Cost of equipment capped at $4,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
-<td style='padding: 10px;'>4000</td>
+<td style='padding: 10px;'>$4,000</td>
 <td style='padding: 10px;'>- Min. spreading force of 140 KN<br>- Must be certified intrinsically safe (e.g. ATEX certified)<br><br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>

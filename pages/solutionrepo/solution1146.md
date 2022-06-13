@@ -21,7 +21,7 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>18750</td>
+<td style='padding: 10px;'>$18,750</td>
 <td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>

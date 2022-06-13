@@ -24,36 +24,36 @@ RavenPOS offers standard to full scale business enterprise software automation s
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting</td>
-<td style='padding: 10px;'>15410</td>
-<td style='padding: 10px;'>12750</td>
+<td style='padding: 10px;'>$15,410</td>
+<td style='padding: 10px;'>$12,750</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale</td>
-<td style='padding: 10px;'>5450</td>
-<td style='padding: 10px;'>4950</td>
+<td style='padding: 10px;'>$5,450</td>
+<td style='padding: 10px;'>$4,950</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Mobile Order Management</td>
-<td style='padding: 10px;'>7300</td>
-<td style='padding: 10px;'>6648</td>
+<td style='padding: 10px;'>$7,300</td>
+<td style='padding: 10px;'>$6,648</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</td>
-<td style='padding: 10px;'>11860</td>
-<td style='padding: 10px;'>9200</td>
+<td style='padding: 10px;'>$11,860</td>
+<td style='padding: 10px;'>$9,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with QR Ordering</td>
-<td style='padding: 10px;'>14960</td>
-<td style='padding: 10px;'>12300</td>
+<td style='padding: 10px;'>$14,960</td>
+<td style='padding: 10px;'>$12,300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

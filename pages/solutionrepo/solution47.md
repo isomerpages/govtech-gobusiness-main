@@ -25,7 +25,7 @@ Cost of equipment capped at $25,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>25000</td>
+<td style='padding: 10px;'>$25,000</td>
 <td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
 </tr>
 </table>

@@ -27,36 +27,36 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall - SN210</td>
-<td style='padding: 10px;'>2354</td>
-<td style='padding: 10px;'>2354</td>
+<td style='padding: 10px;'>$2,354</td>
+<td style='padding: 10px;'>$2,354</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall - SN310</td>
-<td style='padding: 10px;'>3888</td>
-<td style='padding: 10px;'>3888</td>
+<td style='padding: 10px;'>$3,888</td>
+<td style='padding: 10px;'>$3,888</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall - SN510</td>
-<td style='padding: 10px;'>5950</td>
-<td style='padding: 10px;'>5950</td>
+<td style='padding: 10px;'>$5,950</td>
+<td style='padding: 10px;'>$5,950</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall - SN710</td>
-<td style='padding: 10px;'>9430</td>
-<td style='padding: 10px;'>9430</td>
+<td style='padding: 10px;'>$9,430</td>
+<td style='padding: 10px;'>$9,430</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall - SN710 (Twin Pack)</td>
-<td style='padding: 10px;'>18860</td>
-<td style='padding: 10px;'>18860</td>
+<td style='padding: 10px;'>$18,860</td>
+<td style='padding: 10px;'>$18,860</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

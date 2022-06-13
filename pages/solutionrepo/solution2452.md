@@ -24,36 +24,36 @@ Taidii SMART integrated preschool management system provides innovation solution
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool - Taidii School Management Smart  IT Solution (Basic)</td>
-<td style='padding: 10px;'>4100</td>
-<td style='padding: 10px;'>4100</td>
+<td style='padding: 10px;'>$4,100</td>
+<td style='padding: 10px;'>$4,100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Standard)</td>
-<td style='padding: 10px;'>8700</td>
-<td style='padding: 10px;'>8700</td>
+<td style='padding: 10px;'>$8,700</td>
+<td style='padding: 10px;'>$8,700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Advance)</td>
-<td style='padding: 10px;'>9900</td>
-<td style='padding: 10px;'>9900</td>
+<td style='padding: 10px;'>$9,900</td>
+<td style='padding: 10px;'>$9,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Premium)</td>
-<td style='padding: 10px;'>11700</td>
-<td style='padding: 10px;'>11700</td>
+<td style='padding: 10px;'>$11,700</td>
+<td style='padding: 10px;'>$11,700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool - Taidii School Management Smart IT Solution (Economy)</td>
-<td style='padding: 10px;'>6900</td>
-<td style='padding: 10px;'>6900</td>
+<td style='padding: 10px;'>$6,900</td>
+<td style='padding: 10px;'>$6,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Taidii_20200641_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

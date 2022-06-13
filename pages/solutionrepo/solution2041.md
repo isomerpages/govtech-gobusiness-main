@@ -23,7 +23,7 @@ Cost of equipment capped at $7,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>$7,500</td>
 <td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br>- Maintenance costs not supported</td>
 </tr>
 </table>

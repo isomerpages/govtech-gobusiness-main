@@ -24,36 +24,36 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla Structural Designer with Training</td>
-<td style='padding: 10px;'>4192</td>
-<td style='padding: 10px;'>3620</td>
+<td style='padding: 10px;'>$4,192</td>
+<td style='padding: 10px;'>$3,620</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla Structural Design Suite with Training </td>
-<td style='padding: 10px;'>5482</td>
-<td style='padding: 10px;'>4070</td>
+<td style='padding: 10px;'>$5,482</td>
+<td style='padding: 10px;'>$4,070</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla Structural Design Suite (3 years) with Training</td>
-<td style='padding: 10px;'>13276</td>
-<td style='padding: 10px;'>4070</td>
+<td style='padding: 10px;'>$13,276</td>
+<td style='padding: 10px;'>$4,070</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla 3D Modelling Basic with Training</td>
-<td style='padding: 10px;'>5375</td>
-<td style='padding: 10px;'>3620</td>
+<td style='padding: 10px;'>$5,375</td>
+<td style='padding: 10px;'>$3,620</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla 3D Modelling for Drawing Production with Training</td>
-<td style='padding: 10px;'>8590.4</td>
-<td style='padding: 10px;'>3620</td>
+<td style='padding: 10px;'>$8,590</td>
+<td style='padding: 10px;'>$3,620</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

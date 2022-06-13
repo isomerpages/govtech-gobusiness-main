@@ -24,36 +24,36 @@ OPS Sales Order Management Solution is a user-friendly B2C and B2B order managem
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro Pack</td>
-<td style='padding: 10px;'>17100</td>
-<td style='padding: 10px;'>16100</td>
+<td style='padding: 10px;'>$17,100</td>
+<td style='padding: 10px;'>$16,100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHS_Asia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro with Go International Pack</td>
-<td style='padding: 10px;'>35200</td>
-<td style='padding: 10px;'>33300</td>
+<td style='padding: 10px;'>$35,200</td>
+<td style='padding: 10px;'>$33,300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHS_Asia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Multi-Store Pack</td>
-<td style='padding: 10px;'>25351</td>
-<td style='padding: 10px;'>24351</td>
+<td style='padding: 10px;'>$25,351</td>
+<td style='padding: 10px;'>$24,351</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHS_Asia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite Pack</td>
-<td style='padding: 10px;'>16245</td>
-<td style='padding: 10px;'>15245</td>
+<td style='padding: 10px;'>$16,245</td>
+<td style='padding: 10px;'>$15,245</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHS_Asia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite with Go International Pack</td>
-<td style='padding: 10px;'>34345</td>
-<td style='padding: 10px;'>32445</td>
+<td style='padding: 10px;'>$34,345</td>
+<td style='padding: 10px;'>$32,445</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHS_Asia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

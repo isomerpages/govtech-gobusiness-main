@@ -24,36 +24,36 @@ Administrator manage the company's HR requirements, payroll, schedule, Leave and
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)</td>
-<td style='padding: 10px;'>6000</td>
-<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE B (100 Employees)</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)</td>
-<td style='padding: 10px;'>8000</td>
-<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>$8,000</td>
+<td style='padding: 10px;'>$8,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)</td>
-<td style='padding: 10px;'>12000</td>
-<td style='padding: 10px;'>12000</td>
+<td style='padding: 10px;'>$12,000</td>
+<td style='padding: 10px;'>$12,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE E (150 Employees)</td>
-<td style='padding: 10px;'>16200</td>
-<td style='padding: 10px;'>16200</td>
+<td style='padding: 10px;'>$16,200</td>
+<td style='padding: 10px;'>$16,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

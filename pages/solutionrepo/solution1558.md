@@ -24,29 +24,29 @@ ChopeBook is a Table Management System (TMS) designed to make the most of a rest
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook Software Only </td>
-<td style='padding: 10px;'>4350</td>
-<td style='padding: 10px;'>4350</td>
+<td style='padding: 10px;'>$4,350</td>
+<td style='padding: 10px;'>$4,350</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook with Phone Line Mgmt Software Only </td>
-<td style='padding: 10px;'>6750</td>
-<td style='padding: 10px;'>6750</td>
+<td style='padding: 10px;'>$6,750</td>
+<td style='padding: 10px;'>$6,750</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook Software & Hardware</td>
-<td style='padding: 10px;'>4850</td>
-<td style='padding: 10px;'>4850</td>
+<td style='padding: 10px;'>$4,850</td>
+<td style='padding: 10px;'>$4,850</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</td>
-<td style='padding: 10px;'>7250</td>
-<td style='padding: 10px;'>7250</td>
+<td style='padding: 10px;'>$7,250</td>
+<td style='padding: 10px;'>$7,250</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

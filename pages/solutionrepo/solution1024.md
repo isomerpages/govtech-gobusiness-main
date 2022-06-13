@@ -27,36 +27,36 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - Autodesk Docs - 10 User Package (Formerly BIM 360 Docs) </td>
-<td style='padding: 10px;'>4300</td>
-<td style='padding: 10px;'>4100</td>
+<td style='padding: 10px;'>$4,300</td>
+<td style='padding: 10px;'>$4,100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - Autodesk Docs - 25 User Package (Formerly BIM 360 Docs) </td>
-<td style='padding: 10px;'>8600</td>
-<td style='padding: 10px;'>8400</td>
+<td style='padding: 10px;'>$8,600</td>
+<td style='padding: 10px;'>$8,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$1,200</td>
+<td style='padding: 10px;'>$900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - BIM Collaborate Pro - 10 User Package (Formerly BIM 360 Design)</td>
-<td style='padding: 10px;'>$12000</td>
-<td style='padding: 10px;'>$9800</td>
+<td style='padding: 10px;'>$12,000</td>
+<td style='padding: 10px;'>$9,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - Build (10 User Package)</td>
-<td style='padding: 10px;'>$14100</td>
-<td style='padding: 10px;'>$13000</td>
+<td style='padding: 10px;'>$14,100</td>
+<td style='padding: 10px;'>$13,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

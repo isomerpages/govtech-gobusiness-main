@@ -24,22 +24,22 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
-<td style='padding: 10px;'>10260</td>
-<td style='padding: 10px;'>10260</td>
+<td style='padding: 10px;'>$10,260</td>
+<td style='padding: 10px;'>$10,260</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)</td>
-<td style='padding: 10px;'>20520</td>
-<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>$20,520</td>
+<td style='padding: 10px;'>$20,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 3 - Sugati Travel CRM (upto 20 users)</td>
-<td style='padding: 10px;'>41040</td>
-<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>$41,040</td>
+<td style='padding: 10px;'>$20,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

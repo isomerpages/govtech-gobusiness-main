@@ -24,36 +24,36 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-CLOUD Package 1 (5 users)</td>
-<td style='padding: 10px;'>2400</td>
-<td style='padding: 10px;'>2400</td>
+<td style='padding: 10px;'>$2,400</td>
+<td style='padding: 10px;'>$2,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 2 (Up to 10 users)</td>
-<td style='padding: 10px;'>4800</td>
-<td style='padding: 10px;'>4800</td>
+<td style='padding: 10px;'>$4,800</td>
+<td style='padding: 10px;'>$4,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 3 (Up to 15 users)</td>
-<td style='padding: 10px;'>8700</td>
-<td style='padding: 10px;'>8700</td>
+<td style='padding: 10px;'>$8,700</td>
+<td style='padding: 10px;'>$8,700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 4 (Up to 25 users)</td>
-<td style='padding: 10px;'>18500</td>
-<td style='padding: 10px;'>18500</td>
+<td style='padding: 10px;'>$18,500</td>
+<td style='padding: 10px;'>$18,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 5 (Up to 30 users)</td>
-<td style='padding: 10px;'>25500</td>
-<td style='padding: 10px;'>25500</td>
+<td style='padding: 10px;'>$25,500</td>
+<td style='padding: 10px;'>$25,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

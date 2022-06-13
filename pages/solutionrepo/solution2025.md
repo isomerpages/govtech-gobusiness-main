@@ -24,36 +24,36 @@ A2000 Solutions Pte. Ltd. is an established ERP business software development co
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP Version 12.X - Package (A) - A2000ERP Wholesale System for 10 Users Annual Subscription</td>
-<td style='padding: 10px;'>28000</td>
-<td style='padding: 10px;'>28000</td>
+<td style='padding: 10px;'>$28,000</td>
+<td style='padding: 10px;'>$28,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP Version 12.X - Package (B) - A2000ERP Wholesale System for 10 Users + 8 Mobile Users Annual Subscription</td>
-<td style='padding: 10px;'>33568</td>
-<td style='padding: 10px;'>32200</td>
+<td style='padding: 10px;'>$33,568</td>
+<td style='padding: 10px;'>$32,200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP Version 12.X - Package (C) - A2000ERP Wholesale System for 3 Users + 5 Mobile Users Annual Subscription</td>
-<td style='padding: 10px;'>23140</td>
-<td style='padding: 10px;'>23140</td>
+<td style='padding: 10px;'>$23,140</td>
+<td style='padding: 10px;'>$23,140</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP Version 12.X - Package (D) - A2000ERP Wholesale System 10 Users + 8 Mobile Users + E-Commerce Annual Subscription</td>
-<td style='padding: 10px;'>37168</td>
-<td style='padding: 10px;'>33400</td>
+<td style='padding: 10px;'>$37,168</td>
+<td style='padding: 10px;'>$33,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP Version 12.X - Package (E) - A2000ERP Wholesale System 15 Users +10 Mobile Users + ECommerce Annual Subscription</td>
-<td style='padding: 10px;'>44560</td>
-<td style='padding: 10px;'>33400</td>
+<td style='padding: 10px;'>$44,560</td>
+<td style='padding: 10px;'>$33,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_ERP_Annex_3_CR_wef_21_Oct_21_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

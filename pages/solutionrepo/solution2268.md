@@ -25,22 +25,22 @@ Secures Windows (desktops and servers), Mac, iOS, and Android devices by infusin
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -10 Licences</td>
-<td style='padding: 10px;'>499</td>
-<td style='padding: 10px;'>499</td>
+<td style='padding: 10px;'>$499</td>
+<td style='padding: 10px;'>$499</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -25 Licences</td>
-<td style='padding: 10px;'>1099</td>
-<td style='padding: 10px;'>1099</td>
+<td style='padding: 10px;'>$1,099</td>
+<td style='padding: 10px;'>$1,099</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -50 Licences</td>
-<td style='padding: 10px;'>2099</td>
-<td style='padding: 10px;'>2099</td>
+<td style='padding: 10px;'>$2,099</td>
+<td style='padding: 10px;'>$2,099</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

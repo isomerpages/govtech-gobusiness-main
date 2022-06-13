@@ -24,36 +24,36 @@ Acc Pro (Singapore), a Xero Certified Partner is proud to offer Xero accounting 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Subscription Only</td>
-<td style='padding: 10px;'>725</td>
-<td style='padding: 10px;'>725</td>
+<td style='padding: 10px;'>$725</td>
+<td style='padding: 10px;'>$725</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - Basic </td>
-<td style='padding: 10px;'>2825</td>
-<td style='padding: 10px;'>2825</td>
+<td style='padding: 10px;'>$2,825</td>
+<td style='padding: 10px;'>$2,825</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - Essential</td>
-<td style='padding: 10px;'>4525</td>
-<td style='padding: 10px;'>4525</td>
+<td style='padding: 10px;'>$4,525</td>
+<td style='padding: 10px;'>$4,525</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - for Micro Business</td>
-<td style='padding: 10px;'>5425</td>
-<td style='padding: 10px;'>5425</td>
+<td style='padding: 10px;'>$5,425</td>
+<td style='padding: 10px;'>$5,425</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Transformation Packages for SMEs Version 2021 - Xero Premium - Full Digital Transformation Package - for Small Business</td>
-<td style='padding: 10px;'>6025</td>
-<td style='padding: 10px;'>6025</td>
+<td style='padding: 10px;'>$6,025</td>
+<td style='padding: 10px;'>$6,025</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc_Pro_Xero_20210222_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

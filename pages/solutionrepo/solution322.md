@@ -24,22 +24,22 @@ Cadstudio is a comprehensive enterprise resource planning (ERP) software made up
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)</td>
-<td style='padding: 10px;'>6500</td>
-<td style='padding: 10px;'>6500</td>
+<td style='padding: 10px;'>$6,500</td>
+<td style='padding: 10px;'>$6,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Advance Edition)</td>
-<td style='padding: 10px;'>8410</td>
-<td style='padding: 10px;'>8410</td>
+<td style='padding: 10px;'>$8,410</td>
+<td style='padding: 10px;'>$8,410</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)</td>
-<td style='padding: 10px;'>10110</td>
-<td style='padding: 10px;'>10110</td>
+<td style='padding: 10px;'>$10,110</td>
+<td style='padding: 10px;'>$10,110</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

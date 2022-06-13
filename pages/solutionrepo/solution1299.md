@@ -24,8 +24,8 @@ This 6-in-1 platform provides each F&B establishment with their exclusive websit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ACE e-commerce solution - Ace Online Ordering System</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>$5,000</td>
+<td style='padding: 10px;'>$5,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

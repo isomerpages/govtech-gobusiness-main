@@ -25,36 +25,36 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Mobile Ordering (Subscription for 5 users)</td>
-<td style='padding: 10px;'>4580</td>
-<td style='padding: 10px;'>4580</td>
+<td style='padding: 10px;'>$4,580</td>
+<td style='padding: 10px;'>$4,580</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Mobile Ordering (Direct Purchase) </td>
-<td style='padding: 10px;'>6980</td>
-<td style='padding: 10px;'>6980</td>
+<td style='padding: 10px;'>$6,980</td>
+<td style='padding: 10px;'>$6,980</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Digital & QR Ordering Standard with Analytics</td>
-<td style='padding: 10px;'>7980</td>
-<td style='padding: 10px;'>7980</td>
+<td style='padding: 10px;'>$7,980</td>
+<td style='padding: 10px;'>$7,980</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - F&B Full Digitalisation with Analytics</td>
-<td style='padding: 10px;'>13480</td>
-<td style='padding: 10px;'>13480</td>
+<td style='padding: 10px;'>$13,480</td>
+<td style='padding: 10px;'>$13,480</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - 2 x Kiosks + KDS & Number Display with Analytics</td>
-<td style='padding: 10px;'>17580</td>
-<td style='padding: 10px;'>16980</td>
+<td style='padding: 10px;'>$17,580</td>
+<td style='padding: 10px;'>$16,980</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

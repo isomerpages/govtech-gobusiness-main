@@ -25,29 +25,29 @@ The Revel Enterprise solution is tailored for large chains and leads the industr
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Lite</td>
-<td style='padding: 10px;'>3710</td>
-<td style='padding: 10px;'>3211</td>
+<td style='padding: 10px;'>$3,710</td>
+<td style='padding: 10px;'>$3,211</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Quick Service & Coffeeshop</td>
-<td style='padding: 10px;'>7312</td>
-<td style='padding: 10px;'>6314</td>
+<td style='padding: 10px;'>$7,312</td>
+<td style='padding: 10px;'>$6,314</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials -  Modern Restaurant </td>
-<td style='padding: 10px;'>11067</td>
-<td style='padding: 10px;'>8844</td>
+<td style='padding: 10px;'>$11,067</td>
+<td style='padding: 10px;'>$8,844</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Bundle: 2 order license & 2 KDS</td>
-<td style='padding: 10px;'>9168</td>
-<td style='padding: 10px;'>8970</td>
+<td style='padding: 10px;'>$9,168</td>
+<td style='padding: 10px;'>$8,970</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

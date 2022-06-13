@@ -24,36 +24,36 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup + Training</td>
-<td style='padding: 10px;'>4545</td>
-<td style='padding: 10px;'>4545</td>
+<td style='padding: 10px;'>$4,545</td>
+<td style='padding: 10px;'>$4,545</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup</td>
-<td style='padding: 10px;'>3745</td>
-<td style='padding: 10px;'>3745</td>
+<td style='padding: 10px;'>$3,745</td>
+<td style='padding: 10px;'>$3,745</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 1 user + Setup + Training</td>
-<td style='padding: 10px;'>3700</td>
-<td style='padding: 10px;'>3700</td>
+<td style='padding: 10px;'>$3,700</td>
+<td style='padding: 10px;'>$3,700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 1 user + Setup</td>
-<td style='padding: 10px;'>2900</td>
-<td style='padding: 10px;'>2900</td>
+<td style='padding: 10px;'>$2,900</td>
+<td style='padding: 10px;'>$2,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access</td>
-<td style='padding: 10px;'>5945</td>
-<td style='padding: 10px;'>5945</td>
+<td style='padding: 10px;'>$5,945</td>
+<td style='padding: 10px;'>$5,945</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

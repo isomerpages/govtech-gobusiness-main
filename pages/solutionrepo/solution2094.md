@@ -25,57 +25,57 @@ Xero's online accounting platform provides the foundation on which businesses ca
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 1</td>
-<td style='padding: 10px;'>1529</td>
-<td style='padding: 10px;'>1529</td>
+<td style='padding: 10px;'>$1,529</td>
+<td style='padding: 10px;'>$1,529</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 2</td>
-<td style='padding: 10px;'>3399</td>
-<td style='padding: 10px;'>3399</td>
+<td style='padding: 10px;'>$3,399</td>
+<td style='padding: 10px;'>$3,399</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 3</td>
-<td style='padding: 10px;'>4199</td>
-<td style='padding: 10px;'>4199</td>
+<td style='padding: 10px;'>$4,199</td>
+<td style='padding: 10px;'>$4,199</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Software only</td>
-<td style='padding: 10px;'>700</td>
-<td style='padding: 10px;'>700</td>
+<td style='padding: 10px;'>$700</td>
+<td style='padding: 10px;'>$700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Basic Package</td>
-<td style='padding: 10px;'>2500</td>
-<td style='padding: 10px;'>2500</td>
+<td style='padding: 10px;'>$2,500</td>
+<td style='padding: 10px;'>$2,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Basic+ Package</td>
-<td style='padding: 10px;'>2900</td>
-<td style='padding: 10px;'>2500</td>
+<td style='padding: 10px;'>$2,900</td>
+<td style='padding: 10px;'>$2,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Intermediate Package</td>
-<td style='padding: 10px;'>3900</td>
-<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>$3,900</td>
+<td style='padding: 10px;'>$3,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Application Integration</td>
-<td style='padding: 10px;'>5900</td>
-<td style='padding: 10px;'>5900</td>
+<td style='padding: 10px;'>$5,900</td>
+<td style='padding: 10px;'>$5,900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

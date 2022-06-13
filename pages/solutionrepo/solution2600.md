@@ -24,36 +24,36 @@ Taidii is a company providing integrated solution to all the educational institu
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Premium</td>
-<td style='padding: 10px;'>13400</td>
-<td style='padding: 10px;'>13400</td>
+<td style='padding: 10px;'>$13,400</td>
+<td style='padding: 10px;'>$13,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Standard</td>
-<td style='padding: 10px;'>10400</td>
-<td style='padding: 10px;'>10400</td>
+<td style='padding: 10px;'>$10,400</td>
+<td style='padding: 10px;'>$10,400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Economy</td>
-<td style='padding: 10px;'>8600</td>
-<td style='padding: 10px;'>8600</td>
+<td style='padding: 10px;'>$8,600</td>
+<td style='padding: 10px;'>$8,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Basic</td>
-<td style='padding: 10px;'>5800</td>
-<td style='padding: 10px;'>5800</td>
+<td style='padding: 10px;'>$5,800</td>
+<td style='padding: 10px;'>$5,800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Advance</td>
-<td style='padding: 10px;'>11600</td>
-<td style='padding: 10px;'>11600</td>
+<td style='padding: 10px;'>$11,600</td>
+<td style='padding: 10px;'>$11,600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

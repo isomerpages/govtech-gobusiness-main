@@ -24,36 +24,36 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>3627.5</td>
-<td style='padding: 10px;'>3627.5</td>
+<td style='padding: 10px;'>$3,628</td>
+<td style='padding: 10px;'>$3,628</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 10xVPN Licences</td>
-<td style='padding: 10px;'>4032.5</td>
-<td style='padding: 10px;'>4032.5</td>
+<td style='padding: 10px;'>$4,033</td>
+<td style='padding: 10px;'>$4,033</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 30xVPN Licences</td>
-<td style='padding: 10px;'>4410.5</td>
-<td style='padding: 10px;'>4410.5</td>
+<td style='padding: 10px;'>$4,411</td>
+<td style='padding: 10px;'>$4,411</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>6059</td>
-<td style='padding: 10px;'>6059</td>
+<td style='padding: 10px;'>$6,059</td>
+<td style='padding: 10px;'>$6,059</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 50xVPN Licences</td>
-<td style='padding: 10px;'>7346</td>
-<td style='padding: 10px;'>7346</td>
+<td style='padding: 10px;'>$7,346</td>
+<td style='padding: 10px;'>$7,346</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

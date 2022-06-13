@@ -23,7 +23,7 @@ Cost of equipment capped at $8750 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Pressure Rotating Head</td>
-<td style='padding: 10px;'>8750</td>
+<td style='padding: 10px;'>$8,750</td>
 <td style='padding: 10px;'>- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)<br>- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)<br><br></td>
 </tr>
 </table>

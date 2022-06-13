@@ -24,36 +24,36 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)</td>
-<td style='padding: 10px;'>5300</td>
-<td style='padding: 10px;'>5300</td>
+<td style='padding: 10px;'>$5,300</td>
+<td style='padding: 10px;'>$5,300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Enterprise (3 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</td>
-<td style='padding: 10px;'>5100</td>
-<td style='padding: 10px;'>4940</td>
+<td style='padding: 10px;'>$5,100</td>
+<td style='padding: 10px;'>$4,940</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Enterprise (5 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</td>
-<td style='padding: 10px;'>5500</td>
-<td style='padding: 10px;'>5340</td>
+<td style='padding: 10px;'>$5,500</td>
+<td style='padding: 10px;'>$5,340</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps w/ Professional Services & Training)</td>
-<td style='padding: 10px;'>6500</td>
-<td style='padding: 10px;'>6340</td>
+<td style='padding: 10px;'>$6,500</td>
+<td style='padding: 10px;'>$6,340</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Starter (Unlimited Users, Alitec Hosted, CRM + Website Apps)</td>
-<td style='padding: 10px;'>3500</td>
-<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>$3,500</td>
+<td style='padding: 10px;'>$3,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -26,71 +26,71 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Starter</td>
-<td style='padding: 10px;'>1580</td>
-<td style='padding: 10px;'>1525</td>
+<td style='padding: 10px;'>$1,580</td>
+<td style='padding: 10px;'>$1,525</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
-<td style='padding: 10px;'>2580</td>
-<td style='padding: 10px;'>2525</td>
+<td style='padding: 10px;'>$2,580</td>
+<td style='padding: 10px;'>$2,525</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
-<td style='padding: 10px;'>3080</td>
-<td style='padding: 10px;'>3025</td>
+<td style='padding: 10px;'>$3,080</td>
+<td style='padding: 10px;'>$3,025</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
-<td style='padding: 10px;'>4980</td>
-<td style='padding: 10px;'>4925</td>
+<td style='padding: 10px;'>$4,980</td>
+<td style='padding: 10px;'>$4,925</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
-<td style='padding: 10px;'>6180</td>
-<td style='padding: 10px;'>6125</td>
+<td style='padding: 10px;'>$6,180</td>
+<td style='padding: 10px;'>$6,125</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package A (Xero Premier full package with consultation)</td>
-<td style='padding: 10px;'>5527</td>
-<td style='padding: 10px;'>5523</td>
+<td style='padding: 10px;'>$5,527</td>
+<td style='padding: 10px;'>$5,523</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package B (Xero Premier Pro)</td>
-<td style='padding: 10px;'>9999</td>
-<td style='padding: 10px;'>9995</td>
+<td style='padding: 10px;'>$9,999</td>
+<td style='padding: 10px;'>$9,995</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package C (Xero Premier with Training)</td>
-<td style='padding: 10px;'>2328</td>
-<td style='padding: 10px;'>2324</td>
+<td style='padding: 10px;'>$2,328</td>
+<td style='padding: 10px;'>$2,324</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package D (Xero Premier with Setup)</td>
-<td style='padding: 10px;'>1928</td>
-<td style='padding: 10px;'>1924</td>
+<td style='padding: 10px;'>$1,928</td>
+<td style='padding: 10px;'>$1,924</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</td>
-<td style='padding: 10px;'>729</td>
-<td style='padding: 10px;'>725</td>
+<td style='padding: 10px;'>$729</td>
+<td style='padding: 10px;'>$725</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Xero_20210480_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

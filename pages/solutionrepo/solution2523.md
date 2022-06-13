@@ -24,7 +24,7 @@ Cost of equipment capped at $4,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
-<td style='padding: 10px;'>4000</td>
+<td style='padding: 10px;'>$4,000</td>
 <td style='padding: 10px;'>Minimum Specifications <br>-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br><br>Well capacity to be at least 5L<br><br>Serving size and frying type should be customisable<br><br></td>
 </tr>
 </table>

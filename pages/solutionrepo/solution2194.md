@@ -24,36 +24,36 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Refresher Package</td>
-<td style='padding: 10px;'>2250</td>
-<td style='padding: 10px;'>2160</td>
+<td style='padding: 10px;'>$2,250</td>
+<td style='padding: 10px;'>$2,160</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Standard Starter Package</td>
-<td style='padding: 10px;'>3750</td>
-<td style='padding: 10px;'>3660</td>
+<td style='padding: 10px;'>$3,750</td>
+<td style='padding: 10px;'>$3,660</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Grow Package</td>
-<td style='padding: 10px;'>4050</td>
-<td style='padding: 10px;'>3960</td>
+<td style='padding: 10px;'>$4,050</td>
+<td style='padding: 10px;'>$3,960</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Premium Starter Package</td>
-<td style='padding: 10px;'>4150</td>
-<td style='padding: 10px;'>4025</td>
+<td style='padding: 10px;'>$4,150</td>
+<td style='padding: 10px;'>$4,025</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Premium Package</td>
-<td style='padding: 10px;'>4450</td>
-<td style='padding: 10px;'>4325</td>
+<td style='padding: 10px;'>$4,450</td>
+<td style='padding: 10px;'>$4,325</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

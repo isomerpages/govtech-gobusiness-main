@@ -27,14 +27,14 @@ Bona Technologies is a proud partner of Wordpress.com
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaEcom - Standard</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>$6,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaEcom_20200152_Annex_3_20200625151725_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaEcom - Premium</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>$10,000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaEcom_20200152_Annex_3_20200625151725_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

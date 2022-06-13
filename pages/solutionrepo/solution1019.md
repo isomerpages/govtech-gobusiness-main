@@ -24,8 +24,8 @@ EasyBus is a true all in one platform designed specifically for service industry
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EasyBus Version 2.0 - EasyBus POS</td>
-<td style='padding: 10px;'>9500</td>
-<td style='padding: 10px;'>9500</td>
+<td style='padding: 10px;'>$9,500</td>
+<td style='padding: 10px;'>$9,500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
