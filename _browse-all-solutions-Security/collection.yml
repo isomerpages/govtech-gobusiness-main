@@ -1,0 +1,8 @@
+collections:
+  browse-all-solutions-Security:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Surveillance-and-Analytics.md
+      - Automated-Visitor-Management.md
+      - Mobile-Enabled-Patrol-and-Incident-Management.md

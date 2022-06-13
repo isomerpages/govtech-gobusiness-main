@@ -3,43 +3,5 @@ collections:
     output: true
     order:
       - overview.md
-      - pre-scoped-it-solution/.keep
-      - pre-scoped-it-solution/advanced-manufacturing.md
-      - pre-scoped-it-solution/banks.md
-      - pre-scoped-it-solution/building-construction.md
-      - pre-scoped-it-solution/cleaning.md
-      - pre-scoped-it-solution/early-childhood.md
-      - pre-scoped-it-solution/engineering-services.md
-      - pre-scoped-it-solution/estate-agency.md
-      - pre-scoped-it-solution/food-manufacturing.md
-      - pre-scoped-it-solution/food-services.md
-      - pre-scoped-it-solution/healthcare.md
-      - pre-scoped-it-solution/legal.md
-      - pre-scoped-it-solution/logistics.md
-      - pre-scoped-it-solution/marine-offshore.md
-      - pre-scoped-it-solution/personal-care-services.md
-      - pre-scoped-it-solution/pest-management.md
-      - pre-scoped-it-solution/retail.md
-      - pre-scoped-it-solution/security.md
-      - pre-scoped-it-solution/travel-agents.md
-      - pre-scoped-it-solution/waste-management.md
-      - pre-scoped-it-solution/wholesale-trade.md
-      - pre-scoped-it-solution/others.md
-      - pre-scoped-equipment/.keep
-      - pre-scoped-equipment/advanced-manufacturing.md
-      - pre-scoped-equipment/cleaning.md
-      - pre-scoped-equipment/engineering-services.md
-      - pre-scoped-equipment/food-manufacturing.md
-      - pre-scoped-equipment/food.md
-      - pre-scoped-equipment/food-services.md
-      - pre-scoped-equipment/healthcare.md
-      - pre-scoped-equipment/logistics.md
-      - pre-scoped-equipment/marine-offshore.md
-      - pre-scoped-equipment/pest-management.md
-      - pre-scoped-equipment/precision-engineering.md
-      - pre-scoped-equipment/travel-agents.md
-      - pre-scoped-equipment/waste-management.md
-      - pre-scoped-equipment/wholesale-trade.md
-      - pre-scoped-consultancy-service/.keep
-      - pre-scoped-consultancy-service/job-redesign.md
-      - frequently-asked-questions.md
+      - all-psg-solutions.md
+      - faq.md

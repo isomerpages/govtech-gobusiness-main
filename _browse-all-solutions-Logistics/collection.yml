@@ -1,0 +1,10 @@
+collections:
+  browse-all-solutions-Logistics:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Networked-Trade-Platform-Value-Added-Services.md
+      - E-Freight-Management.md
+      - Transport-Management.md
+      - Warehouse-Management.md
+      - General-Logistics-Equipment.md
