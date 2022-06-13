@@ -1,45 +1,36 @@
 ---
-title: Flange Facer
+title: 'Flange Facer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1471
 ---
 
-### Description
+## Flange Facer
+
+## Overview
+
+**Description**
 
 The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
 Cost of equipment capped at $37,500 per unit 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
+<td style='padding: 10px;'>$37,500</td>
+<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-- Facing diameter must be >1m
-- 1 battery pack or power unit per equipment can be supported 
-- Training costs can be supported
-
-
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

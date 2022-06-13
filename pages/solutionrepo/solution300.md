@@ -1,43 +1,37 @@
 ---
-title: Automated Tray Sealer
+title: 'Automated Tray Sealer'
 permalink: /productivity-solutions-grant/solutionrepo/solution300
 ---
 
-### Description
+## Automated Tray Sealer
+
+## Overview
+
+**Description**
 
 The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
 
 Cost of equipment capped at $37,500 per unit 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>- Minimum 400 trays per hour<br><br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-- Minimum 400 trays per hour
-
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

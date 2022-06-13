@@ -1,41 +1,43 @@
 ---
-title: LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only 
+title: 'LittleLives School Management System (e-form)'
 permalink: /productivity-solutions-grant/solutionrepo/solution2563
 ---
 
-### Description
+## LittleLives School Management System (e-form)
+
+## Overview
+
+**Description**
 
 LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
+<td style='padding: 10px;'>1340</td>
+<td style='padding: 10px;'>1340</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription or Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
 
-### Mode of Payment
-Subscription or Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
-
-### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
-
-### Contact Information
-Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,9 +1,13 @@
 ---
-title: Probing System
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution93
 ---
 
-### Description
+## Probing System
+
+## Overview
+
+**Description**
 
 A probing system consists of the following attached to CNC machining center:
 
@@ -15,42 +19,25 @@ Implementation: Equipment configuration, training
 
 Cost of equipment capped at $37,500 per unit 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Equipment must meet the following specifications: 
-
-1. Work Piece & Tool Setting Probe:
-- Approach Directions: +/-x, +/-y, -z
-- Repeatability: <=1um 2sigma
-
-2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts
-
-3. Implementation: Probe and software configuration and training
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,39 +1,71 @@
 ---
-title: Sophos Firewall - Manage Firewall - Standard Protection for XGS 126 - 12 MOS
+title: 'Sophos Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution2835
 ---
 
-### Description
+## Sophos Firewall
+
+## Overview
+
+**Description**
 
 The XGS Firewall Series offers next-generation firewall features that provide visibility and protection across an increasingly complex IT infrastructure. Sophos Firewalls meet the latest threats with a scalable gateway architecture. The Sophos Firewall Xstream architecture is engineered to deliver extreme levels of visibility, protection, and performance to help address some of the greatest challenges facing network administrators.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 126 - 12 MOS</td>
+<td style='padding: 10px;'>1735</td>
+<td style='padding: 10px;'>1735</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 136 - 12 MOS</td>
+<td style='padding: 10px;'>2310</td>
+<td style='padding: 10px;'>2310</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  </td>
+<td style='padding: 10px;'>3809</td>
+<td style='padding: 10px;'>3809</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2300 - 12 MOS  </td>
+<td style='padding: 10px;'>5035</td>
+<td style='padding: 10px;'>5035</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 3100 - 12 MOS  </td>
+<td style='padding: 10px;'>8475</td>
+<td style='padding: 10px;'>8275</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.centricsnetworks.com.sg <br><br>Contact Hotline: 68337898 <br><br>Contact Email: sales@centricsnetworks.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.centricsnetworks.com.sg <br>Contact Hotline: 68337898 <br>Contact Email: sales@centricsnetworks.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

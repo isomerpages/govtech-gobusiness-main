@@ -1,40 +1,72 @@
 ---
-title: BonaERP - Package (For Startups)
+title: 'BonaERP'
 permalink: /productivity-solutions-grant/solutionrepo/solution243
 ---
 
-### Description
+## BonaERP
+
+## Overview
+
+**Description**
 
 BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.
 Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Startups)</td>
+<td style='padding: 10px;'>17000</td>
+<td style='padding: 10px;'>17000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For SMEs)</td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Sales & Supply Chain)</td>
+<td style='padding: 10px;'>42000</td>
+<td style='padding: 10px;'>41900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Ecommerce & Point of Sales)</td>
+<td style='padding: 10px;'>33000</td>
+<td style='padding: 10px;'>32600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaERP - Package (For Ecommerce)</td>
+<td style='padding: 10px;'>22500</td>
+<td style='padding: 10px;'>22500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_20190049_BONAERP_Annex_3_Part_8.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:Bona Technologies Systems Pte Ltd <br><br>Web URL: bona.com.sg <br><br>Contact Hotline: 90470443 <br><br>Contact Email: it@bona.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

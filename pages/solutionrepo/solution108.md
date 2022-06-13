@@ -1,45 +1,38 @@
 ---
-title: Rotary Wok Fryer
+title: 'Rotary Wok Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution108
 ---
 
-### Description
+## Rotary Wok Fryer
+
+## Overview
+
+**Description**
 
 Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
 The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
 
 Cost of equipment capped at $37,500 per unit 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-- Automatic Cleaning 
-- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave
-
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

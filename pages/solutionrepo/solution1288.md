@@ -1,9 +1,13 @@
 ---
-title: Digital Welding Equipment 
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1288
 ---
 
-### Description
+## Digital Welding Equipment
+
+## Overview
+
+**Description**
 
 Consists of digital welding machines (hardware) and management software:
 - Compute actual real-time output of voltage, reducing manual recording and computing
@@ -14,37 +18,25 @@ Consists of digital welding machines (hardware) and management software:
 
 Cost of equipment  capped at $37,500 per unit
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box<br><br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Consists of digital welding machines (hardware) and management software
-Current adjusting range: minimally +/- 150A
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
-
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

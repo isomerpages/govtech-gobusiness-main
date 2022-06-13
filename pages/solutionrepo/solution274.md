@@ -1,39 +1,61 @@
 ---
-title: InSight QSE - Insight QSE Safety PTW System (Starter)
+title: 'InSight QSE'
 permalink: /productivity-solutions-grant/solutionrepo/solution274
 ---
 
-### Description
+## InSight QSE
+
+## Overview
+
+**Description**
 
 Insight QSE Safety PTW System alleviates the current paper-based method of routing PTWs for approvals which is time-consuming and an administrative headache to store all paper-based PTWs properly for accountability and checks. The System will help to establish Control, Coordination and Communication for PTW applications among the participating stakeholders through both web and mobile application.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InSight QSE - Insight QSE Safety PTW System (Starter)</td>
+<td style='padding: 10px;'>18800</td>
+<td style='padding: 10px;'>15400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> InSight QSE - Insight QSE Safety PTW System (Premium)
 
-### Eligibility Criteria
+ </td>
+<td style='padding: 10px;'>27600</td>
+<td style='padding: 10px;'>26800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InSight QSE - Insight QSE Safety PTW System (Enterprise)
 
-Applicants must meet the following eligibility criteria at the point of application:
+ </td>
+<td style='padding: 10px;'>37600</td>
+<td style='padding: 10px;'>28800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Mode and Schedule of Payment
 
-Please refer to 'Things to Note' for additional requirements.
+ - Subscription / Leasing
 
-### Mode of Payment
-Subscription / Leasing
+## Vendor Information
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
+ Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
 
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Contact Information
-Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

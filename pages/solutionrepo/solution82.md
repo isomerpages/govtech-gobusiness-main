@@ -1,47 +1,37 @@
 ---
-title: Ozonised Air + Surface Sterilization System
+title: 'Ozonised Air + Surface Sterilization System'
 permalink: /productivity-solutions-grant/solutionrepo/solution82
 ---
 
-### Description
+## Ozonised Air + Surface Sterilization System
+
+## Overview
+
+**Description**
 
 An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
 
 Cost of equipment capped at $10,000 per unit
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>Equipment must meet the following:<br>- User ozonised tech generating active oxygen at output between 20mg - 1g/hr<br>- Equipment should emit negative ion at more than 2 million/cubic centrimetres<br>- Coverage area at least 36.5square meter<br>- Effective sterilisation & reduce bacteria count by 90%<br>- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.<br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Equipment must meet the following:
-- User ozonised tech generating active oxygen at output between 20mg - 1g/hr
-- Equipment should emit negative ion at more than 2 million/cubic centrimetres
-- Coverage area at least 36.5square meter
-- Effective sterilisation & reduce bacteria count by 90%
-- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

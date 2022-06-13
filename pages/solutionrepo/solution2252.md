@@ -1,39 +1,71 @@
 ---
-title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package A with E-Invoicing(1 User)
+title: 'ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23'
 permalink: /productivity-solutions-grant/solutionrepo/solution2252
 ---
 
-### Description
+## ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23
+
+## Overview
+
+**Description**
 
 ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package A with E-Invoicing(1 User)</td>
+<td style='padding: 10px;'>2037</td>
+<td style='padding: 10px;'>2037</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package C with E-Invoicing & Training(1 User)</td>
+<td style='padding: 10px;'>2757</td>
+<td style='padding: 10px;'>2757</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package B with E-Invoicing (3 Users)</td>
+<td style='padding: 10px;'>3217</td>
+<td style='padding: 10px;'>3217</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package D with E-Invoicing & Training(3 Users)</td>
+<td style='padding: 10px;'>3937</td>
+<td style='padding: 10px;'>3937</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)</td>
+<td style='padding: 10px;'>4956</td>
+<td style='padding: 10px;'>4956</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Contact Hotline:97921964 <br>Contact Email:evelyn@e-clicksolutions.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

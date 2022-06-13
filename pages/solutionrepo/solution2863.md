@@ -1,39 +1,43 @@
 ---
-title: TRC e-Commerce Solutions - Complete
+title: 'TRC e-Commerce Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution2863
 ---
 
-### Description
+## TRC e-Commerce Solutions
+
+## Overview
+
+**Description**
 
 With COVID-19 hitting many companies, bringing a business online is more critical than ever, where customers are moving into various online websites and platforms to make their purchases. The Right Company is one of the leading agencies for E-Commerce web development in Singapore with an experienced in-house team that will design & develop a unique website to give any business a competitive advantage in the digital space.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Right_Company_20210209_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRC e-Commerce Solutions - Complete</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Right_Company_20210209_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.therightcompany.com.sg <br><br>Contact Hotline: 97376168 <br><br>Contact Email: admin@therightcompany.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.therightcompany.com.sg <br>Contact Hotline: 97376168 <br>Contact Email: admin@therightcompany.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

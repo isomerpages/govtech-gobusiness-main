@@ -1,39 +1,50 @@
 ---
-title: Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)
+title: 'Synergix Process Construction and Maintenance'
 permalink: /productivity-solutions-grant/solutionrepo/solution2339
 ---
 
-### Description
+## Synergix Process Construction and Maintenance
+
+## Overview
+
+**Description**
 
 Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Process Industry, mainly Engineering Service Providers (ESPs). It's to ensure project cost tracking with integrated procurement flow and allows the information to flow seamlessly between the office & project sites by allowing site manager to update project progress status remotely on mobile with photo evidence as well as maintenance task completion checklists to the clients.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)</td>
+<td style='padding: 10px;'>49860</td>
+<td style='padding: 10px;'>36200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)</td>
+<td style='padding: 10px;'>70860</td>
+<td style='padding: 10px;'>36200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

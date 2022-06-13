@@ -1,9 +1,13 @@
 ---
-title: Automated tools management system
+title: 'Automated tools management system'
 permalink: /productivity-solutions-grant/solutionrepo/solution2040
 ---
 
-### Description
+## Automated tools management system
+
+## Overview
+
+**Description**
 
 Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
 
@@ -17,36 +21,25 @@ Hardware can be in the form of a drawer or coil vending system.
 
 Cost of equipment capped at $28,000 per unit
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
+<td style='padding: 10px;'>28000</td>
+<td style='padding: 10px;'>Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>Support only hardware and software.<br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Unit is expandable, customizable to hold different types of tools, and fully secured. 
-
-Support only hardware and software.
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,39 +1,64 @@
 ---
-title: Netiquette Cloud Business Suite - Package A (Saas for 5 Users)
+title: 'Netiquette Cloud Business Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution640
 ---
 
-### Description
+## Netiquette Cloud Business Suite
+
+## Overview
+
+**Description**
 
 Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
+<td style='padding: 10px;'>4340</td>
+<td style='padding: 10px;'>4340</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
+<td style='padding: 10px;'>5540</td>
+<td style='padding: 10px;'>5540</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
+<td style='padding: 10px;'>6340</td>
+<td style='padding: 10px;'>6340</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
+<td style='padding: 10px;'>7240</td>
+<td style='padding: 10px;'>7240</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquette.com.sg<br>Tel: +65 6223 1157
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquette.com.sg<br>Tel: +65 6223 1157
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

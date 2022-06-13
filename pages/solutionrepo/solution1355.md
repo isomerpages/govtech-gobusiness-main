@@ -1,39 +1,71 @@
 ---
-title: Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 1 User)
+title: 'Autocount Accounting Software Version 20'
 permalink: /productivity-solutions-grant/solutionrepo/solution1355
 ---
 
-### Description
+## Autocount Accounting Software Version 20
+
+## Overview
+
+**Description**
 
 Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledged of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 1 User)</td>
+<td style='padding: 10px;'>4300</td>
+<td style='padding: 10px;'>4300</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 3 Users)</td>
+<td style='padding: 10px;'>5500</td>
+<td style='padding: 10px;'>5500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Professional Version 2.0 (5 Users)</td>
+<td style='padding: 10px;'>8500</td>
+<td style='padding: 10px;'>8500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Premium Version 2.0 (10 Users)</td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'>13800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Premium Version 2.0 ( 15 Users</td>
+<td style='padding: 10px;'>16800</td>
+<td style='padding: 10px;'>16800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br><br>Web URL: http://isoft.my/products <br><br>Contact Hotline: 68179011 <br><br>Contact Email: isoft.bs@gmail.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

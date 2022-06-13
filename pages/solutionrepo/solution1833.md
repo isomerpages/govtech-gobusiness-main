@@ -1,40 +1,44 @@
 ---
-title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
+title: 'AgileREPORTER Version 193'
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 
-### Description
+## AgileREPORTER Version 193
+
+## Overview
+
+**Description**
 
 AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
 The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)</td>
+<td style='padding: 10px;'>459200</td>
+<td style='padding: 10px;'>459200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 30% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-N.A.
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

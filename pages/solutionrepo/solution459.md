@@ -1,39 +1,71 @@
 ---
-title: Hubble Safety Management System - Package (Up to 1 Project)
+title: 'Hubble Safety Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution459
 ---
 
-### Description
+## Hubble Safety Management System
+
+## Overview
+
+**Description**
 
 Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 1 Project)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 2 Projects)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>22900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 3 Projects)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>26600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 4 Projects)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>29000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble Safety Management System - Package (Up to 1 Project, 2 years)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>15000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

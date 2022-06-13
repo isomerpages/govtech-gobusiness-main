@@ -1,47 +1,37 @@
 ---
-title: Automatic Shrink Wrap Packaging Machine
+title: 'Automatic Shrink Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1989
 ---
 
-### Description
+## Automatic Shrink Wrap Packaging Machine
+
+## Overview
+
+**Description**
 
 Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 
 Cost of equipment capped at $37,500 per unit
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
+<td style='padding: 10px;'>37500</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes.<br>- Must be able to run shrinking polyolefin films.<br>- Min. output capacity of 15 metres per minute.<br>- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.<br>- Installation and maintenance costs are not supported.<br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Specifications:
-- Able to pack products in round or odd shapes.
-- Must be able to run shrinking polyolefin films.
-- Min. output capacity of 15 metres per minute.
-- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.
-- Installation and maintenance costs are not supported.
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

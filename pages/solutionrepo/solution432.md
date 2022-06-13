@@ -1,41 +1,52 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
+title: 'Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 
-### Description
+## Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2
+
+## Overview
+
+**Description**
 
 Getz solution is a fully integrated platform that comprehensively resolves F&B's real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B's fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
 
 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)</td>
+<td style='padding: 10px;'>12600</td>
+<td style='padding: 10px;'>10900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2-Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods) </td>
+<td style='padding: 10px;'>10800</td>
+<td style='padding: 10px;'>9100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,0 +1,13 @@
+collections:
+  browse-all-solutions-Food-Services:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Digital--Online-Ordering-and-Payment-and-Online-Food-Delivery.md
+      - Digital--Online-Ordering-and-Payment.md
+      - B2B-Marketplace-E-Procurement-System.md
+      - Digital--Online-Ordering-and-Payment--Online-Food-Delivery-and-Data-Mining-and-Analytics.md
+      - E-Loyalty---Customer-Relationship-Management.md
+      - Automated-Reservation.md
+      - Queue-Management.md
+      - General-Food-Services-Equipment.md

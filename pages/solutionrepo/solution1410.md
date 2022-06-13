@@ -1,9 +1,13 @@
 ---
-title: Electric Pedestrian Pallet Truck
+title: 'Electric Pedestrian Pallet Truck'
 permalink: /productivity-solutions-grant/solutionrepo/solution1410
 ---
 
-### Description
+## Electric Pedestrian Pallet Truck
+
+## Overview
+
+**Description**
 
 This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
 
@@ -11,40 +15,25 @@ The equipment can transport palletised goods of approximately 1000 to 2000 kg.
 
 Cost of equipment capped at $3,250 per unit. 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric Pedestrian Pallet Truck</td>
+<td style='padding: 10px;'>3250</td>
+<td style='padding: 10px;'>Mandatory Specifications:<br>-Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable<br>-Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load<br>-1 worker/unit<br>-Safety features eg emergency stop<br>-Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.<br>-Only 1 application per coy will be supported<br>- Installation and maintenance fee are not supported.</td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Mandatory Specifications:
--Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable
--Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load
--1 worker/unit
--Safety features eg emergency stop
--Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.
--Only 1 application per coy will be supported
-- Installation and maintenance fee are not supported.
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

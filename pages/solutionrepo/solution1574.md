@@ -1,39 +1,71 @@
 ---
-title: A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim
+title: 'A-Class Accounting Sales Management by Sleek Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1574
 ---
 
-### Description
+## A-Class Accounting Sales Management by Sleek Version 1
+
+## Overview
+
+**Description**
 
 Sleek provides a fully digital solution for accounting, tax, HR and sales management for SMEs and Startups in Singapore backed up by quality local support.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</td>
+<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - B - Start Up</td>
+<td style='padding: 10px;'>1200</td>
+<td style='padding: 10px;'>1200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - C - SME</td>
+<td style='padding: 10px;'>1800</td>
+<td style='padding: 10px;'>1800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - D - Supreme</td>
+<td style='padding: 10px;'>3000</td>
+<td style='padding: 10px;'>3000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - E - Growth</td>
+<td style='padding: 10px;'>4200</td>
+<td style='padding: 10px;'>4200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.sleek.com <br><br>Contact Hotline: +6569092214 <br><br>Contact Email: sales@sleek.sg <br><br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>
