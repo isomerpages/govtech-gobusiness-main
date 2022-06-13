@@ -1,9 +1,0 @@
-collections:
-  browse-all-solutions-Engineering-Services:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Workforce-Management.md
-      - Project-Management-System.md
-      - 3-in-1-ERP-solution.md
-      - General-Engineering-Services-Equipment.md
