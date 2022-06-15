@@ -32,6 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution1092' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1346' target='_blank'>SMARTHRMS Version 1</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>Swingvy</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2257' target='_blank'>SYNERGIX E1 Version TH6</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2258' target='_blank'>SYNERGIX E1 Version TH7</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2345' target='_blank'>ITAPS</a><br>
