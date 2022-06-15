@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--
 
 Up to 70% (80% for Retail sector)  for SMEs, N.A. for non-SMEs
 
-This solution is supported by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
+This solution is supported by  Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
@@ -30,12 +30,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution709' target='_blank'>PixelCommerce Version 5.2.5</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Shopmatic</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution931' target='_blank'>Shopcada Ecommerce and POS</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution1088' target='_blank'>Ecommerce Web Development</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1243' target='_blank'>Magento and Woo Commerce Solutions for Retail</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1390' target='_blank'>3D Omni Commerce Version 1.03</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1446' target='_blank'>OpenCart E-Commerce Website Deployment</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1526' target='_blank'>Mobile Responsive E-Commerce Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1671' target='_blank'>iFoundries E-commerce Jump Start Package Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1816' target='_blank'>Ecommerce Online Shop + SEO and Digital Marketing Setup</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2014' target='_blank'>Alpha eCommerce Booster Version Premium</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2050' target='_blank'>DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2092' target='_blank'>eCommerce Masterplan Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2105' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2113' target='_blank'>Ecommerce Web Development (WooCommerce) Version 0.8</a><br>
@@ -53,3 +56,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2756' target='_blank'>ePSProfessional Version 1.7</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2863' target='_blank'>TRC e-Commerce Solutions</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2977' target='_blank'>Cub3commerce</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3052' target='_blank'>A2000 WebShop (B2C) Version 2</a><br>
