@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Marine-Offshore/3-in-1-ERP-Solution-for-Marine-
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
+This solution is supported by  Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 

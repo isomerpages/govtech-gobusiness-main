@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Man
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}
+This solution is supported by  Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
