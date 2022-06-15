@@ -1,39 +1,71 @@
 ---
-title: Swingvy-Swingvy - Swingvy Full suite for 5 users
+title: 'Swingvy'
 permalink: /productivity-solutions-grant/solutionrepo/solution1453
 ---
 
-### Description
+## Swingvy
+
+## Overview
+
+**Description**
 
 Swingvy is the modern HR platform for small and mid-sized businesses. By seamlessly connecting all HR information, Swingvy automates every administrative work - HR, claims, payroll and benefits - without hassle. Swingvy aims to replace paperwork or spreadsheets and help SMEs to manage all their HR in one place. Swingvy serves over 8,000 companies and has offices in Singapore, Kuala Lumpur, Taiwan and Seoul.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy-Swingvy - Swingvy Full suite for 5 users</td>
+<td style='padding: 10px;'>$600</td>
+<td style='padding: 10px;'>$600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy-Swingvy - Swingvy Full suite for 10 users</td>
+<td style='padding: 10px;'>$1,200</td>
+<td style='padding: 10px;'>$1,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy-Swingvy - Swingvy Full suite for 25 users</td>
+<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy-Swingvy - Swingvy Full suite for 50 users</td>
+<td style='padding: 10px;'>$5,400</td>
+<td style='padding: 10px;'>$5,400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy-Swingvy - Swingvy Full suite for 100 users</td>
+<td style='padding: 10px;'>$9,600</td>
+<td style='padding: 10px;'>$9,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: http://swingvy.com/ <br><br>Contact Hotline: +6591877655 <br><br>Contact Email: support@swingvy.com <br><br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: http://swingvy.com/ <br>Contact Hotline: +6591877655 <br>Contact Email: support@swingvy.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

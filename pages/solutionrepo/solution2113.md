@@ -1,39 +1,43 @@
 ---
-title: Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)
+title: 'Ecommerce Web Development (WooCommerce) Version 08'
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 
-### Description
+## Ecommerce Web Development (WooCommerce) Version 08
+
+## Overview
+
+**Description**
 
 Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</td>
+<td style='padding: 10px;'>$8,500</td>
+<td style='padding: 10px;'>$8,500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% (80% for Retail sector)  for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

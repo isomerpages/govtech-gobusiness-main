@@ -5,47 +5,40 @@ permalink: /productivity-solutions-grant/
 
 ## Productivity Solutions Grant
 
-The Productivity Solutions Grant (PSG) was launched on April 2018 to assist businesses in their transformation journey.
+![Productivity Solutions Grant Overview](/images/grow/psg/psg_overview_banner.jpg)
 
-PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy services that improves productivity, aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs).
+The Productivity Solutions Grant (PSG) was launched on April 2018 to help businesses enhance their processes with technology. 
 
-Receive up to 70% funding support for eligible costs.
+It provides financial support for business owners to adopt pre-scoped IT solutions, equipment and consultancy services to improve productivity. These solutions are aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
 
-For eligible pre-scoped solutions, enhanced support level of up to 80% will be extended from 1 April 2022 to 31 March 2023 for Food Services and Retail sectors. Please refer to the [FAQs](/productivity-solutions-grant/faq/) for more details on the eligible solutions
+{% include panels-overview.html spanels=site.data.ov004-grow-psg %}
 
-### Who can apply?
+----
 
-Business entities can apply for PSG if they meet the following criteria:
+<a name="psg-eligibility"></a>
 
-- Registered and operating in Singapore
-- Purchase/lease/subscription of the IT solutions/equipment/consultancy service must be used in Singapore
-- (**For selected solutions only**) Have a minimum of 30% local shareholding
-- (**For consultancy service solutions only**) Have at least three local employees at the point of application
+### PSG eligibility
 
-### How to apply?
+{% include accordion.html accordions=site.data.acc039a-psg-overview.accordion %}
 
-### 3 steps:
+**Note:**
+- From 1 April 2022 onwards, the maximum support level will be up to 70%. For eligible pre-scoped solutions, enhanced support level of up to 80% will be extended from 1 April 2022 to 31 March 2023 for Food Services and Retail sectors. Please refer to the [FAQ](/productivity-solutions-grant/faq/) for more details on the eligible solutions.
 
-1. Access the list of supportable solutions eligible for your sector and identify relevant solutions that best suit your business needs.
-2. For **IT solutions:** Get a quotation from the pre-approved vendor
-   <br>For **Equipment:** Source for the equipment and get a quotation from the vendor
-   <br> For **Consultancy Service:** Get a quotation from the pre-approved consultant
-3. Submit an application on the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
-   <br>You will need to register for a Corppass account to transact on the portal.
-4. Submit your grant claim on the BGP before your claim due date.
+- This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the Corppass with their vendors to carry out submission of any grant application or claims
 
-### Supportable solutions
+<a name="type-of-psg-soln"></a>
 
-PSG covers sector-specific solutions including the Retail, Food, Logistics, Precision Engineering, Wholesale, Building and Construction, Financial Service, and Landscaping industries. PSG also supports businesses' adoption of broad-based solutions that cut across all industries, such as Customer Relationship Management and Human Resource Management systems.
+### Types of PSG solutions
 
-Businesses can choose from a list of pre-scoped solutions eligible to their sectors.
+|-|-|
+| **Sector-specific solutions** | Sector-specific solutions are eligible for companies within the respective sectors only. These solutions are specially curated by sector lead agencies, aligned to industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). |
+| **Generic solutions** | Generic solutions are for all companies, across business sectors and industries. Solutions are intended to improve companies' productivity in managing general business functions and processes. |
 
-Use the navigation menu to access the IT solutions/equipment/consultancy service pre-scoped for your sector.
+{% include button.html text="View All Solutions" src="/productivity-solutions-grant/all-psg-solutions/" target="_self" %}
 
-This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the Corppass with their vendors to carry out submission of any grant application or claims
+<a name="be-psg-vendor"></a>
 
-Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+### Be a PSG vendor
+If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"} to find out more.
 
-_If you'd like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"}{:rel="noopener"} to find out more._
-
----
+<script src="/jquery/resize-tables.js"></script>

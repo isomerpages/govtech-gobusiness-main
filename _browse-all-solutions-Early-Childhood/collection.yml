@@ -1,0 +1,9 @@
+collections:
+  browse-all-solutions-Early-Childhood:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Pre-School-Management-System.md
+      - E-enrolment-Form.md
+      - Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools.md
+      - Data-Analytics-for-Centre-Operations.md

@@ -1,39 +1,71 @@
 ---
-title: MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC
+title: 'MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 
-### Description
+## MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)
+
+## Overview
+
+**Description**
 
 Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC</td>
+<td style='padding: 10px;'>$2,700</td>
+<td style='padding: 10px;'>$2,700</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 1 server agents and 10 endpoint agents with 24/7 SOC</td>
+<td style='padding: 10px;'>$5,870</td>
+<td style='padding: 10px;'>$5,870</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 1 server agents and 30 endpoint agents with 24/7 SOC</td>
+<td style='padding: 10px;'>$11,270</td>
+<td style='padding: 10px;'>$11,270</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 70 endpoint agents with 24/7 SOC</td>
+<td style='padding: 10px;'>$18,200</td>
+<td style='padding: 10px;'>$18,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 5 server agents and 50 endpoint agents with 24/7 SOC</td>
+<td style='padding: 10px;'>$29,350</td>
+<td style='padding: 10px;'>$29,350</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

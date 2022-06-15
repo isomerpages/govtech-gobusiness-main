@@ -1,39 +1,71 @@
 ---
-title: Nett VMS Version 4 - Nett Basic  
+title: 'Nett VMS Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution3020
 ---
 
-### Description
+## Nett VMS Version 4
+
+## Overview
+
+**Description**
 
 Nett VMS is an integration of visitor management system + license plate recognition + pre invitation registration APP. It allows resident to pre invite their guest by whitelist the vehicle and barricade will auto open. Visitor registration will send a phone SMS QR code and this will allow phone authentication. It allows security guard to eliminate the manual writing, compliance with PDPA and auto record of all vehicle. Enhance support remote access and QR code door access
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Basic  </td>
+<td style='padding: 10px;'>$32,140</td>
+<td style='padding: 10px;'>$22,740</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Advance </td>
+<td style='padding: 10px;'>$33,340</td>
+<td style='padding: 10px;'>$23,940</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Intermediate </td>
+<td style='padding: 10px;'>$36,940</td>
+<td style='padding: 10px;'>$27,540</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Expert</td>
+<td style='padding: 10px;'>$40,100</td>
+<td style='padding: 10px;'>$29,940</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Revolution </td>
+<td style='padding: 10px;'>$46,300</td>
+<td style='padding: 10px;'>$30,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 0.7 for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

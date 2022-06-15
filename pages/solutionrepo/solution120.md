@@ -1,39 +1,71 @@
 ---
-title: SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)
+title: 'SAP Business One Version Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution120
 ---
 
-### Description
+## SAP Business One Version Cloud
+
+## Overview
+
+**Description**
 
 SAP Business One is an enterprise resource planning (ERP) software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources. SAP Business One currently has over 60,000 customers worldwide.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$31,968</td>
+<td style='padding: 10px;'>$29,368</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 5 Subscription Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$43,980</td>
+<td style='padding: 10px;'>$35,880</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$55,716</td>
+<td style='padding: 10px;'>$41,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$67,210</td>
+<td style='padding: 10px;'>$41,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 10 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$81,801</td>
+<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:AFON Technologies Pte Ltd <br><br>Web URL: https://www.afon.com.sg/erp <br><br>Contact Hotline: 63230901 <br><br>Contact Email: sales@afon.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:AFON Technologies Pte Ltd <br>Web URL: https://www.afon.com.sg/erp <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

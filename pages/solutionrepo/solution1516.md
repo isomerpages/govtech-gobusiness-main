@@ -1,40 +1,72 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 1 - Single User System
+title: 'Highnix ERP Plus 2 Version 4-3-30'
 permalink: /productivity-solutions-grant/solutionrepo/solution1516
 ---
 
-### Description
+## Highnix ERP Plus 2 Version 4-3-30
+
+## Overview
+
+**Description**
 
 Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
 Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 1 - Single User System</td>
+<td style='padding: 10px;'>$8,600</td>
+<td style='padding: 10px;'>$8,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 2 - (Up to 3 concurrent users)</td>
+<td style='padding: 10px;'>$11,000</td>
+<td style='padding: 10px;'>$11,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 3 - (Up to 5 concurrent users)</td>
+<td style='padding: 10px;'>$14,200</td>
+<td style='padding: 10px;'>$14,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 4 - (Up to 8 concurrent users)</td>
+<td style='padding: 10px;'>$17,800</td>
+<td style='padding: 10px;'>$17,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 5 - (Up to 10 concurrent users)</td>
+<td style='padding: 10px;'>$20,200</td>
+<td style='padding: 10px;'>$20,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.highnix.com/product-plan-2/ <br><br>Contact Hotline: 62141157 <br><br>Contact Email: sales@highnix.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

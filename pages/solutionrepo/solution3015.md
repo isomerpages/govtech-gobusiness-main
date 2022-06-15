@@ -1,39 +1,71 @@
 ---
-title: DM APEC Solutions Digital Marketing Packages - Package 1 - SEM & SEO (3 Months)
+title: 'DM APEC Solutions Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution3015
 ---
 
-### Description
+## DM APEC Solutions Digital Marketing Packages
+
+## Overview
+
+**Description**
 
 APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 1 - SEM & SEO (3 Months)</td>
+<td style='padding: 10px;'>$7,300</td>
+<td style='padding: 10px;'>$7,300</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 2 - SEO & SMM & SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,630</td>
+<td style='padding: 10px;'>$9,630</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 3 - SMM & SEM (3 Months)</td>
+<td style='padding: 10px;'>$10,960</td>
+<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 4- SMA & SEM (6 Months)</td>
+<td style='padding: 10px;'>$11,440</td>
+<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 5 - SEM & SEO (6 Months)</td>
+<td style='padding: 10px;'>$12,100</td>
+<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 0.7 for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

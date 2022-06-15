@@ -1,39 +1,71 @@
 ---
-title: Salesforce Sales Cloud Professional Edition -Premier Success and Jumpstart Setup (3 Users)
+title: 'Salesforce Sales Cloud Professional Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 
-### Description
+## Salesforce Sales Cloud Professional Edition
+
+## Overview
+
+**Description**
 
 Salesforce is the #1 CRM, bringing companies and customers together in the digital age. It's an integrated CRM platform that gives teams a single, shared view of their customers so they can deliver the intelligent, personalized experiences their customers have come to expect from every brand and build lasting, trusted relationships.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition -Premier Success and Jumpstart Setup (3 Users)</td>
+<td style='padding: 10px;'>$11,289</td>
+<td style='padding: 10px;'>$8,837</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (5 Users)</td>
+<td style='padding: 10px;'>$14,248</td>
+<td style='padding: 10px;'>$11,796</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (10 Users)</td>
+<td style='padding: 10px;'>$17,947</td>
+<td style='padding: 10px;'>$15,495</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (15 Users)</td>
+<td style='padding: 10px;'>$22,386</td>
+<td style='padding: 10px;'>$19,934</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (20 Users)</td>
+<td style='padding: 10px;'>$26,085</td>
+<td style='padding: 10px;'>$23,633</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

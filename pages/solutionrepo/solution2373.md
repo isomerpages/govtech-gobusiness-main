@@ -1,39 +1,71 @@
 ---
-title: WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 25
+title: 'WhyzeHR eScheduling'
 permalink: /productivity-solutions-grant/solutionrepo/solution2373
 ---
 
-### Description
+## WhyzeHR eScheduling
+
+## Overview
+
+**Description**
 
 WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 25</td>
+<td style='padding: 10px;'>$4,900</td>
+<td style='padding: 10px;'>$4,900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 50</td>
+<td style='padding: 10px;'>$5,900</td>
+<td style='padding: 10px;'>$5,900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 100</td>
+<td style='padding: 10px;'>$6,800</td>
+<td style='padding: 10px;'>$6,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200</td>
+<td style='padding: 10px;'>$8,900</td>
+<td style='padding: 10px;'>$8,900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Pro 200</td>
+<td style='padding: 10px;'>$15,000</td>
+<td style='padding: 10px;'>$15,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://whyze.com.sg/escheduling/ <br><br>Contact Hotline: 68380161 <br><br>Contact Email: enquiry@whyze.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://whyze.com.sg/escheduling/ <br>Contact Hotline: 68380161 <br>Contact Email: enquiry@whyze.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

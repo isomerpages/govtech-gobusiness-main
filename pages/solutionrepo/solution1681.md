@@ -1,39 +1,71 @@
 ---
-title: A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A
+title: 'A-Class HRSS Payroll Processing by Sleek Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1681
 ---
 
-### Description
+## A-Class HRSS Payroll Processing by Sleek Version 1
+
+## Overview
+
+**Description**
 
 Sleek provides fully digital, secure and hassle-free HR admin & payroll services for SMEs and Startups in Singapore. Sleek's HR service covers everything that a growing SME will need from monthly payroll reporting (including payslips), leave management, employee expenses submission and tracking, annual IR8A preparation, IR21 Tax Clearance, Central Provident Fund (CPF) submissions and Skills Development Levy (SDL) processing all delivered through a user-friendly and digital experience.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A</td>
+<td style='padding: 10px;'>$280</td>
+<td style='padding: 10px;'>$280</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan B</td>
+<td style='padding: 10px;'>$561</td>
+<td style='padding: 10px;'>$561</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan C</td>
+<td style='padding: 10px;'>$841</td>
+<td style='padding: 10px;'>$841</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan D</td>
+<td style='padding: 10px;'>$1,122</td>
+<td style='padding: 10px;'>$1,122</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan E</td>
+<td style='padding: 10px;'>$1,402</td>
+<td style='padding: 10px;'>$1,402</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.sleek.com <br><br>Contact Hotline: +6569092214 <br><br>Contact Email: sales@sleek.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

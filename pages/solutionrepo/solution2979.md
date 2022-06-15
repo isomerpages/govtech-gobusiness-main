@@ -1,41 +1,73 @@
 ---
-title: DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]
+title: 'DM MediaPlus Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2979
 ---
 
-### Description
+## DM MediaPlus Digital Marketing Package
+
+## Overview
+
+**Description**
 
 Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
 
 With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]</td>
+<td style='padding: 10px;'>$6,890</td>
+<td style='padding: 10px;'>$6,890</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Social DM Package (SMA/SMM) [3 Months]</td>
+<td style='padding: 10px;'>$6,890</td>
+<td style='padding: 10px;'>$6,890</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Search DM Package (SEM/SEO) [6 Months]</td>
+<td style='padding: 10px;'>$9,880</td>
+<td style='padding: 10px;'>$9,880</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Social DM Package (SMM/SMA) [6 Months]</td>
+<td style='padding: 10px;'>$9,880</td>
+<td style='padding: 10px;'>$9,880</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Accelerate DM Package (SEO/SEM/SMA) [3 Months]</td>
+<td style='padding: 10px;'>$9,995</td>
+<td style='padding: 10px;'>$9,995</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: mediaplus.com.sg <br><br>Contact Hotline: 68163168 <br><br>Contact Email: wow@mediaplus.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 0.7 for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: mediaplus.com.sg <br>Contact Hotline: 68163168 <br>Contact Email: wow@mediaplus.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

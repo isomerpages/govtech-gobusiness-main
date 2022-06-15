@@ -1,46 +1,38 @@
 ---
-title: Standalone Automated Industrial Utensil Washer
+title: 'Standalone Automated Industrial Utensil Washer'
 permalink: /productivity-solutions-grant/solutionrepo/solution384
 ---
 
-### Description
+## Standalone Automated Industrial Utensil Washer
+
+## Overview
+
+**Description**
 
 Automated standalone washer for pots, trays and utensils that replaces manual dishwashing. Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
 
 
 Cost of equipment capped at $37,500 per unit 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standalone Automated Industrial Utensil Washer</td>
+<td style='padding: 10px;'>$37,500</td>
+<td style='padding: 10px;'>- Automated washing that only requires loading, no need for handwashing. <br>- Wash tank capacity of at least 15 litres. <br>- Support does not include accessories<br><br></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-- Automated washing that only requires loading, no need for handwashing. 
-- Wash tank capacity of at least 15 litres. 
-- Support does not include accessories
-
-
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

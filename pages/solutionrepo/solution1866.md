@@ -1,9 +1,13 @@
 ---
-title: T-Guard - Package (1 Vehicle)
+title: 'T-Guard'
 permalink: /productivity-solutions-grant/solutionrepo/solution1866
 ---
 
-### Description
+## T-Guard
+
+## Overview
+
+**Description**
 
 T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
 
@@ -11,33 +15,61 @@ T-Guard is a complete system that provides utmost safe driving management system
 -Driver behaviour insights and scoring to instil safe driving culture
 -Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (1 Vehicle)</td>
+<td style='padding: 10px;'>$5,538</td>
+<td style='padding: 10px;'>$3,908</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (3 Vehicles)</td>
+<td style='padding: 10px;'>$16,614</td>
+<td style='padding: 10px;'>$11,724</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (5 Vehicles)</td>
+<td style='padding: 10px;'>$27,690</td>
+<td style='padding: 10px;'>$19,540</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (7 Vehicles)</td>
+<td style='padding: 10px;'>$38,766</td>
+<td style='padding: 10px;'>$27,356</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (9 Vehicles)</td>
+<td style='padding: 10px;'>$49,842</td>
+<td style='padding: 10px;'>$35,172</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.tnts.com.sg <br><br>Contact Hotline: 98338687 <br><br>Contact Email: ivy_lee@tnts.com.sg <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

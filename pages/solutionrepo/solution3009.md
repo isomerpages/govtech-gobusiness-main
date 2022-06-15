@@ -1,39 +1,43 @@
 ---
-title: Shopcada POS Version 2 - Annual License
+title: 'Shopcada POS Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution3009
 ---
 
-### Description
+## Shopcada POS Version 2
+
+## Overview
+
+**Description**
 
 Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offering omni-channel support to integrate offline stores with online sales within a centralized backend dashboard. The integrated CRM tools such as membership system, discounts, loyalty points offer better omni-channel shopping experience.  With a single backend, synchronizing products, inventory, and customers between outlets, and accessing management reports is made easier.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada POS Version 2 - Annual License</td>
+<td style='padding: 10px;'>$4,100</td>
+<td style='padding: 10px;'>$3,998</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.shopcada.com <br><br>Contact Hotline: 63343168 <br><br>Contact Email: sales@webcada.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 0.8 for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

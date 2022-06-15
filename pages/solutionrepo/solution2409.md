@@ -1,39 +1,71 @@
 ---
-title: NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)
+title: 'NovaVision Remote Assist Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution2409
 ---
 
-### Description
+## NovaVision Remote Assist Version 10
+
+## Overview
+
+**Description**
 
 NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)</td>
+<td style='padding: 10px;'>$14,872</td>
+<td style='padding: 10px;'>$11,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)</td>
+<td style='padding: 10px;'>$23,344</td>
+<td style='padding: 10px;'>$17,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
+<td style='padding: 10px;'>$31,816</td>
+<td style='padding: 10px;'>$22,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package D - 1 Year (8 Units)</td>
+<td style='padding: 10px;'>$40,288</td>
+<td style='padding: 10px;'>$28,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)</td>
+<td style='padding: 10px;'>$48,760</td>
+<td style='padding: 10px;'>$33,400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.engagenova.com/novavision <br><br>Contact Hotline: 88492042 <br><br>Contact Email: contact@engagenova.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

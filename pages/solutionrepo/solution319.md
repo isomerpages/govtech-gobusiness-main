@@ -1,42 +1,60 @@
 ---
-title: Creative Sales & Order Management - Package (SMEZ)
+title: 'Creative Sales Order Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution319
 ---
 
-### Description
+## Creative Sales Order Management
+
+## Overview
+
+**Description**
 
 Creative Sales and Order Management System is a B2B ecommerce platform that facilitates efficient procurement process through a centralized and secure application hosting. It comes with various modules such as procurement, quotation, invoice, news & events to allow better management of SMEs product catalogue and streamlining of business workflows.
 
 
 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales & Order Management - Package (SMEZ)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>$9,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales & Order Management - Package (Lite)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>$12,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales & Order Management - Package (Standard)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>$15,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

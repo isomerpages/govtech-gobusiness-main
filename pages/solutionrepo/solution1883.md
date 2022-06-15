@@ -1,39 +1,57 @@
 ---
-title: iREP FM - FM (Mobile Inspection) Basic
+title: 'iREP FM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1883
 ---
 
-### Description
+## iREP FM
+
+## Overview
+
+**Description**
 
 Gabkotech recognises the need for the digital transformation of the Facilities Management industry, and has proposed iREP FM for this transformation.  Components within the iREP FM solution will improve and transform the industry to be future-ready with Smart IOT Built Environment Solutions.  These solutions will improve workflow automation for the Built Environment Industry.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Basic</td>
+<td style='padding: 10px;'>$28,600</td>
+<td style='padding: 10px;'>$28,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Standard</td>
+<td style='padding: 10px;'>$36,100</td>
+<td style='padding: 10px;'>$36,100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Full</td>
+<td style='padding: 10px;'>$44,100</td>
+<td style='padding: 10px;'>$42,500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: http://www.gabkotech.com <br><br>Contact Hotline: 66844419 <br><br>Contact Email: info@gabkotech.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

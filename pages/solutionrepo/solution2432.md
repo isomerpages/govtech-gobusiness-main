@@ -1,41 +1,71 @@
 ---
-title: Qoqolo School Management System Version 4 - 4-in-1 Modules
+title: 'Qoqolo School Management System Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution2432
 ---
 
-### Description
+## Qoqolo School Management System Version 4
+
+## Overview
+
+**Description**
 
 Qoqolo is a one-stop-shop preschool management system for centres to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: student management, parents' engagement, e-portfolio, centre operations management, staff management, fee management, learning and more.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 4-in-1 Modules</td>
+<td style='padding: 10px;'>$8,688</td>
+<td style='padding: 10px;'>$8,688</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 5-in-1 Modules</td>
+<td style='padding: 10px;'>$10,688</td>
+<td style='padding: 10px;'>$10,688</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 4-in-1 Modules + Private Label</td>
+<td style='padding: 10px;'>$9,888</td>
+<td style='padding: 10px;'>$9,888</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 5-in-1  Modules + Private Label</td>
+<td style='padding: 10px;'>$11,888</td>
+<td style='padding: 10px;'>$11,888</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - Lite version</td>
+<td style='padding: 10px;'>$5,488</td>
+<td style='padding: 10px;'>$5,488</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription or Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.commontown.com <br><br>Contact Hotline: 68488900 <br><br>Contact Email: biz@commontown.com <br><br>
 
-### Mode of Payment
-Subscription or Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-Up to 50% for non-SMEs
-
-### Things to Note
- - Add up to 10 centres for each application.
-
-- Subject to internal funding caps.
-
-### Contact Information
-Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

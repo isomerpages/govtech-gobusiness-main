@@ -1,40 +1,93 @@
 ---
-title: Xero Accounting Software - PREMIUM 1
+title: 'Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution2094
 ---
 
-### Description
+## Xero Accounting Software
+
+## Overview
+
+**Description**
 
 Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
 Xero's online accounting platform provides the foundation on which businesses can build a complete business solution. It connects businesses with their bank, accounting tools, their accountant, payment services and third-party apps, so everything is securely available at any time, on any device.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 1</td>
+<td style='padding: 10px;'>$1,529</td>
+<td style='padding: 10px;'>$1,529</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 2</td>
+<td style='padding: 10px;'>$3,399</td>
+<td style='padding: 10px;'>$3,399</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 3</td>
+<td style='padding: 10px;'>$4,199</td>
+<td style='padding: 10px;'>$4,199</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Software only</td>
+<td style='padding: 10px;'>$700</td>
+<td style='padding: 10px;'>$700</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Basic Package</td>
+<td style='padding: 10px;'>$2,500</td>
+<td style='padding: 10px;'>$2,500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Basic+ Package</td>
+<td style='padding: 10px;'>$2,900</td>
+<td style='padding: 10px;'>$2,500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Intermediate Package</td>
+<td style='padding: 10px;'>$3,900</td>
+<td style='padding: 10px;'>$3,500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Bamboo Sea Application Integration</td>
+<td style='padding: 10px;'>$5,900</td>
+<td style='padding: 10px;'>$5,900</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.xero.com/sg/ <br><br>Contact Hotline: 62211768 <br><br>Contact Email: APSmarketing@aura.co <br><br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62211768 <br>Contact Email: APSmarketing@aura.co <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,40 +1,72 @@
 ---
-title: (SaaS) JustLogin HR Cloud - D (Up to 150 pax)
+title: '(SaaS) JustLogin HR Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution531
 ---
 
-### Description
+## (SaaS) JustLogin HR Cloud
+
+## Overview
+
+**Description**
 
 For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
 
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_4.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
+<td style='padding: 10px;'>$25,800</td>
+<td style='padding: 10px;'>$25,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</td>
+<td style='padding: 10px;'>$4,560</td>
+<td style='padding: 10px;'>$4,560</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - B (Up to 50 pax)</td>
+<td style='padding: 10px;'>$10,800</td>
+<td style='padding: 10px;'>$10,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</td>
+<td style='padding: 10px;'>$19,200</td>
+<td style='padding: 10px;'>$19,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</td>
+<td style='padding: 10px;'>$31,200</td>
+<td style='padding: 10px;'>$29,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Contact Hotline: +65 6909 9217
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Contact Hotline: +65 6909 9217
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

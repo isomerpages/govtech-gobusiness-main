@@ -1,9 +1,13 @@
 ---
-title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (5 User Pack)
+title: 'INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )'
 permalink: /productivity-solutions-grant/solutionrepo/solution1584
 ---
 
-### Description
+## INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )
+
+## Overview
+
+**Description**
 
 INNOCOM - Autodesk BIM 360
 - Single platform that connects design and construction processes and project team at one place.
@@ -11,33 +15,61 @@ INNOCOM - Autodesk BIM 360
 - Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
 - Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (5 User Pack)</td>
+<td style='padding: 10px;'>$7,000</td>
+<td style='padding: 10px;'>$6,100</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (10 User Pack)</td>
+<td style='padding: 10px;'>$11,600</td>
+<td style='padding: 10px;'>$11,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (25 User Pack)</td>
+<td style='padding: 10px;'>$26,000</td>
+<td style='padding: 10px;'>$26,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (2 User Pack)</td>
+<td style='padding: 10px;'>$2,900</td>
+<td style='padding: 10px;'>$2,600</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Autodesk Docs (10 User Pack)</td>
+<td style='padding: 10px;'>$4,455</td>
+<td style='padding: 10px;'>$4,455</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,39 +1,43 @@
 ---
-title: Qanvast Leads Management System - Package A - 12 months
+title: 'Qanvast Leads Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2554
 ---
 
-### Description
+## Qanvast Leads Management System
+
+## Overview
+
+**Description**
 
 The Qanvast Leads Management System is a software platform that manages leads for renovation interior designers (ID companies) in Singapore. The platform consolidates all the customer leads for each ID company, and tracks all lead follow-ups. Using individual login information, each ID company can access the platform for information on their leads, which includes the potential customers' contact details, renovation needs, budget, and other details.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qanvast Leads Management System - Package A - 12 months</td>
+<td style='padding: 10px;'>$10,200</td>
+<td style='padding: 10px;'>$6,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qanvast_20210257_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription or Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.qanvast.com <br><br>Contact Hotline: 65898354 <br><br>Contact Email: heretohelp@qanvast.com <br><br>
 
-### Mode of Payment
-Subscription or Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.qanvast.com <br>Contact Hotline: 65898354 <br>Contact Email: heretohelp@qanvast.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

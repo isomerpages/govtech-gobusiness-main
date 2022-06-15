@@ -1,39 +1,71 @@
 ---
-title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 30 x GR with Cyber Essential Course 1 Year Package
+title: 'WFH Email Security with Cyber Essentials Online Course Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1315
 ---
 
-### Description
+## WFH Email Security with Cyber Essentials Online Course Package Version 1
+
+## Overview
+
+**Description**
 
 The GRmail removes the email threats even before it reaches the email server and GRisolation protects the users, by opening any malicious links in a sandbox so that it does not affect their computers. This solution also detects and filters away Chinese characters emails. Our solution works with all kinds of email platforms - Office 365, Gsuite or Cpanel. We will assist to migrate the domain name and help with the setup of the email security solution on the DNS record level.  
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 30 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'>$7,170</td>
+<td style='padding: 10px;'>$7,170</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 50 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'>$10,950</td>
+<td style='padding: 10px;'>$10,950</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 100 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'>$18,510</td>
+<td style='padding: 10px;'>$18,510</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 150 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'>$25,598</td>
+<td style='padding: 10px;'>$25,598</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 200 x GR with Cyber Essential Course 1 Year Package</td>
+<td style='padding: 10px;'>$31,740</td>
+<td style='padding: 10px;'>$31,740</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:Nucleo Consulting Pte Ltd <br><br>Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br><br>Contact Hotline: 69110533 <br><br>Contact Email: contact@nucleoconsulting.com <br><br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Nucleo Consulting Pte Ltd <br>Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

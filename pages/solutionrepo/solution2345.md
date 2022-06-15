@@ -1,39 +1,71 @@
 ---
-title: ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					
+title: 'ITAPS'
 permalink: /productivity-solutions-grant/solutionrepo/solution2345
 ---
 
-### Description
+## ITAPS
+
+## Overview
+
+**Description**
 
 iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					</td>
+<td style='padding: 10px;'>$6,400</td>
+<td style='padding: 10px;'>$6,400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 2 (45 employees)</td>
+<td style='padding: 10px;'>$10,200</td>
+<td style='padding: 10px;'>$10,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 3 (75 employees)					</td>
+<td style='padding: 10px;'>$13,700</td>
+<td style='padding: 10px;'>$13,700</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 4 (120 employees)					</td>
+<td style='padding: 10px;'>$19,360</td>
+<td style='padding: 10px;'>$19,360</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 5 (200 employees)					</td>
+<td style='padding: 10px;'>$26,400</td>
+<td style='padding: 10px;'>$26,400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: www.mindmaster.com.sg <br><br>Contact Hotline: 62505623 <br><br>Contact Email: info@mindmastersg.com <br><br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.mindmaster.com.sg <br>Contact Hotline: 62505623 <br>Contact Email: info@mindmastersg.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

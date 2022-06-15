@@ -1,43 +1,37 @@
 ---
-title: Power Jack for Steel Plates Adjustment (Perpendicular)
+title: 'Power Jack for Steel Plates Adjustment (Perpendicular)'
 permalink: /productivity-solutions-grant/solutionrepo/solution90
 ---
 
-### Description
+## Power Jack for Steel Plates Adjustment (Perpendicular)
+
+## Overview
+
+**Description**
 
 The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
 
 Cost of equipment capped at $18,750 per unit
 
-### Details of Solution
+## Solution Packages Option(s)
 
-N.A.
+<table>
+<tr>
+<td><b>Equipment Name</b></td>
+<td><b>Cost Cap</b></td>
+<td><b>Mandatory Specifications</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Power Jack for Steel Plates Adjustment (Perpendicular)</td>
+<td style='padding: 10px;'>$18,750</td>
+<td style='padding: 10px;'>Hydraulic capacity: Min. 5 tonnes<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. pump, hydraulic hose</td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-Please refer to 'Things to Note' for additional requirements.
-
-### Mode of Payment
-Direct Purchase
-
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Hydraulic capacity: Min. 5 tonnes
-Maintenance costs not supported
-Optional components: relevant accessories e.g. pump, hydraulic hose
-
-### Contact Information
-N.A.
-
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

@@ -1,39 +1,71 @@
 ---
-title: LFSuite Version 6.0 - Package A [Automate] - (QR Ordering Lite + KDS + Analytics)
+title: 'LFSuite Version 60'
 permalink: /productivity-solutions-grant/solutionrepo/solution1139
 ---
 
-### Description
+## LFSuite Version 60
+
+## Overview
+
+**Description**
 
 Optimize your F&B business productivity and operational efficiency with DinePlan, our integrated suite of solutions offered under LFSuite. Our cloud-hybrid POS encompasses digital ordering, waiter ordering, customer ordering and payment. Additional modules include procurement and inventory management, central kitchen management and catering capabilities. All data and configurations are centrally managed by DineConnect, where we will also provide intuitive sales and analytical reports for you.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_12.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</td>
+<td style='padding: 10px;'>$7,780</td>
+<td style='padding: 10px;'>$7,480</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_12.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)</td>
+<td style='padding: 10px;'>$9,860</td>
+<td style='padding: 10px;'>$9,560</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_34.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</td>
+<td style='padding: 10px;'>$12,100</td>
+<td style='padding: 10px;'>$11,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</td>
+<td style='padding: 10px;'>$15,860</td>
+<td style='padding: 10px;'>$10,360</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_78.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 -  Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</td>
+<td style='padding: 10px;'>$19,340</td>
+<td style='padding: 10px;'>$16,170</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_910.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:LEVELFIVE PTE LTD <br><br>Web URL: HTTPS://LFSOLUTIONS.NET <br><br>Contact Hotline: 63417144 <br><br>Contact Email: SHAWN@LFSOLUTIONS.NET <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

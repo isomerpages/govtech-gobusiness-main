@@ -1,39 +1,57 @@
 ---
-title: One-Stop Document Access - Lite (2 Users)
+title: 'One-Stop Document Access'
 permalink: /productivity-solutions-grant/solutionrepo/solution1969
 ---
 
-### Description
+## One-Stop Document Access
+
+## Overview
+
+**Description**
 
 One-Stop Document Access is a document management system that offers browser and mobile access. The solution is crafted with Prominds' expertise in systems integration at the forefront. It boasts the following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-data tags allowing quick retrieval of documents. Backed up to a secure cloud platform and ready to deploy, SMEs can look forward to an all-rounded solution.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>One-Stop Document Access - Lite (2 Users)</td>
+<td style='padding: 10px;'>$3,336</td>
+<td style='padding: 10px;'>$2,112</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>One-Stop Document Access - Plus (5 Users)</td>
+<td style='padding: 10px;'>$6,381</td>
+<td style='padding: 10px;'>$5,280</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>One-Stop Document Access - Pro (10 Users)</td>
+<td style='padding: 10px;'>$10,152</td>
+<td style='padding: 10px;'>$10,152</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

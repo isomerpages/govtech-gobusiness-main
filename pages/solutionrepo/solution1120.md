@@ -1,39 +1,71 @@
 ---
-title: SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)
+title: 'SUNTOYO POS SOLUTION Version 81'
 permalink: /productivity-solutions-grant/solutionrepo/solution1120
 ---
 
-### Description
+## SUNTOYO POS SOLUTION Version 81
+
+## Overview
+
+**Description**
 
 Our POS solution is customizable to use in multiple business sectors, which are Retail, F&B and SPA business models. We have almost developed most of the commonly used functionalities which are using in the above-mentioned areas. We do have a prominent in-house development and support team to full fill our client requirements.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)</td>
+<td style='padding: 10px;'>$4,000</td>
+<td style='padding: 10px;'>$4,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO)</td>
+<td style='padding: 10px;'>$5,000</td>
+<td style='padding: 10px;'>$5,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO PLUS)</td>
+<td style='padding: 10px;'>$6,800</td>
+<td style='padding: 10px;'>$6,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE)</td>
+<td style='padding: 10px;'>$10,600</td>
+<td style='padding: 10px;'>$9,400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</td>
+<td style='padding: 10px;'>$12,400</td>
+<td style='padding: 10px;'>$11,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:SUNTOYO TECHNOLOGY PTE LTD <br><br>Web URL: WWW.SUNTOYO.COM.SG <br><br>Contact Hotline: 65533855 <br><br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:SUNTOYO TECHNOLOGY PTE LTD <br>Web URL: WWW.SUNTOYO.COM.SG <br>Contact Hotline: 65533855 <br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

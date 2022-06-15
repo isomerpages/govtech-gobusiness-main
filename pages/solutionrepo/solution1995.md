@@ -1,41 +1,73 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package A (Starter Package) (5 Cloud Subscription Users)
+title: 'SAP Business One Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1995
 ---
 
-### Description
+## SAP Business One Version 10
+
+## Overview
+
+**Description**
 
 Axxis Consulting is an SAP Platinum Partner in Singapore, providing leading expertise to support business transformations and related IT implementations. As a subsidiary of Nihon Unisys and a member of United VARS, Axxis supports customers in APJ and beyond with an experienced international SAP Consulting Team.
 
 SAP Business One is an ERP software designed for SMEs. It's a single, affordable solution for managing the entire company and pre-configured to meet the needs of specific industries.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version 10 - SAP Business One on HANA - Package A (Starter Package) (5 Cloud Subscription Users)</td>
+<td style='padding: 10px;'>$26,400</td>
+<td style='padding: 10px;'>$26,400</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version 10 - SAP Business One on HANA - Package B (5 Cloud Subscription Users)</td>
+<td style='padding: 10px;'>$34,060</td>
+<td style='padding: 10px;'>$31,260</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)</td>
+<td style='padding: 10px;'>$46,840</td>
+<td style='padding: 10px;'>$39,240</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version 10 - SAP Business One on HANA - Package D (15 Cloud Subscription Users)</td>
+<td style='padding: 10px;'>$54,820</td>
+<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version 10 - SAP Business One on HANA - Package E (7 Perpetual Licenses)</td>
+<td style='padding: 10px;'>$61,905</td>
+<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Direct Purchase
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Web URL: https://axxis-consulting.com/sap-business-one/ <br><br>Contact Hotline: +6567497069 <br><br>Contact Email: info@axxis-consulting.com <br><br>
 
-### Mode of Payment
-Direct Purchase
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>

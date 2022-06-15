@@ -1,39 +1,64 @@
 ---
-title: FingerBooth POS System Version 1 - POS System Lite
+title: 'FingerBooth POS System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 
-### Description
+## FingerBooth POS System Version 1
+
+## Overview
+
+**Description**
 
 FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
 
-### Details of Solution
+## Solution Packages Option(s)
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank' rel='noopener'>here</a> to view details of solution.
+<table>
+<tr>
+<td><b>No.</b></td>
+<td><b>Package Name</b></td>
+<td><b>Total Package Cost</b></td>
+<td><b>Total Qualifying Cost</b></td>
+<td><b>Solution Details</b></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Lite</td>
+<td style='padding: 10px;'>$6,500</td>
+<td style='padding: 10px;'>$6,500</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro</td>
+<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro + Online Appointment</td>
+<td style='padding: 10px;'>$16,800</td>
+<td style='padding: 10px;'>$16,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro With Hardware</td>
+<td style='padding: 10px;'>$11,800</td>
+<td style='padding: 10px;'>$11,200</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
 
-### Eligibility Criteria
+## Mode and Schedule of Payment
 
-Applicants must meet the following eligibility criteria at the point of application:
+ - Subscription / Leasing
 
-a) must be registered in Singapore <br>
-b) purchase/lease of the IT solution or equipment or consultancy service must be used in Singapore <br>
-c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment or consultancy service
+## Vendor Information
 
-Please refer to 'Things to Note' for additional requirements.
+ Company Name:BIG MOUTH MARKETING PTE LTD <br><br>Web URL: WWW.FINGERBOOTH.COM <br><br>Contact Hotline: 90604096 <br><br>Contact Email: SALES@FINGERBOOTH.COM <br><br>
 
-### Mode of Payment
-Subscription / Leasing
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
-### Support Level
-Up to 70% for SMEs <br>
-N.A. for non-SMEs
-
-### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' rel='noopener' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+<script src="/jquery/resize-tables.js"></script>
