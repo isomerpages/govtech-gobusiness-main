@@ -2,8 +2,6 @@ button: true
 title: "Announcement:"
 content: |
   <p>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.</p>
-
-  <p>For further queries, please email us at <a href="mailto:covid_gobusiness@mti.gov.sg">covid_gobusiness@mti.gov.sg</a> or contact <a href="tel:+6568981800">6898 1800</a>. Answers to questions relating to the submission of onsite manpower numbers can be found in our <a href="/guides/">Covid Guides</a>.</p>
   
 text: Log In to Declare Onsite Manpower Details
 href: https://go.gov.sg/covidbusinessresumptions
