@@ -18,7 +18,7 @@ Animal & Veterinary Service (AVS)
  <h3>FAQs</h3>
  <ol>
  <li><strong>What is the validity of the licence?</strong><br />1 year<br /><br /></li>
- <li><strong>Where can I get the FAQ for Veterinary Biologics?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a><br /><br /></li>
+ <li><strong>Where can I get the FAQ for Veterinary Biologics?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/veterinary-biologics/licence-to-possess-veterinary-biologics">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/veterinary-biologics/licence-to-possess-veterinary-biologics</a><br /><br /></li>
  <li><strong>Supporting documents required for submission?<br /></strong>The following documents are required for the submission:<br />1) Standard Operation Procedures (Handling and disposal of bio hazardous materials)</li>
  </ol>
 

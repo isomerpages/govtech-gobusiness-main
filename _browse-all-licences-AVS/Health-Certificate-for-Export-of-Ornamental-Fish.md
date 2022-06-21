@@ -15,7 +15,7 @@ Animal & Veterinary Service (AVS)
 <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Health Certificate for Export of Ornamental Fish?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
+ <li><strong>Where can I get the FAQ for Health Certificate for Export of Ornamental Fish?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish</a></li>
  </ol>
 
 <strong>Additional Information</strong>

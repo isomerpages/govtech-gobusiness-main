@@ -19,7 +19,7 @@ Animal & Veterinary Service (AVS)
  <ol>
  <li><strong>What is the validity of the licence?</strong><br />1 year<br /><br /></li>
  <li><strong>Supporting documents required for submission?<br /></strong>The following documents are required for the submission.<br />1) Floor plan/layout of facility<br />2) Facility Organizational Chart (indicating reporting channel between the CEO, applicant, management, IACUC, veterinarian, staff and researchers)<br />3) Approval from other relevant authorities for the facility<br />4) IACUC Appointment Letter<br />5) Accreditation Certificate (Mandatory only when the applicant is an accredited member such as AAALAC.)<br /><br /></li>
- <li><strong>Where can I get the FAQ for Animal Research Facility?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
+ <li><strong>Where can I get the FAQ for Animal Research Facility?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.nparks.gov.sg/avs/animals/animals-in-scientific-research/naclar-guidelines/naclar-guidelines" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animals-in-scientific-research/naclar-guidelines/naclar-guidelines/faq</a></li>
  </ol>
 
 <strong>Additional Information</strong>

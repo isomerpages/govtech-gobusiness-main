@@ -17,7 +17,7 @@ Animal & Veterinary Service (AVS)
 <p>The Free Sale Certificate for Vaccine allows exporters to get Animal and Veterinary Service endorsement for their vaccine intended for export.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Free Sale Certificate for Animal (Veterinary) vaccines?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
+ <li><strong>Where can I get the FAQ for Free Sale Certificate for Animal (Veterinary) vaccines?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/</a></li>
  </ol>
 
 <strong>Additional Information</strong>
