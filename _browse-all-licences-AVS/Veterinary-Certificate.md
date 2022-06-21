@@ -15,7 +15,7 @@ Animal & Veterinary Service (AVS)
 <p>The Veterinary Certificate may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Veterinary Certificate?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/exporting-dogs-and-cats/preparing-to-leave-singapore" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/exporting-dogs-and-cats/preparing-to-leave-singapore</a></li>
+ <li><strong>Where can I get the FAQ for Veterinary Certificate?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
 <strong>Additional Information</strong>

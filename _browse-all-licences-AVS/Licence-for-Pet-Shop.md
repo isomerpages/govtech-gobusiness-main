@@ -17,7 +17,7 @@ Animal & Veterinary Service (AVS)
 <p>The Licence for Pet Shop is issued by Animal & Veterinary Service to use a premise to keep or display pets for sale.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Licence for Pet Shop?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/animals/animal-related-businesses/pet-shops/starting-a-pet-shop" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animal-related-businesses/pet-shops/starting-a-pet-shop/faq</a></li>
+ <li><strong>Where can I get the FAQ for Licence for Pet Shop?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
 <strong>Additional Information</strong>

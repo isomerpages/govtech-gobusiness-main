@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <p>Phytosanitary Certificates (PCs) are issued by the National Parks Board (NParks) of Singapore. They certify that plants and plant products exported from Singapore are free from injurious pests and diseases and meet the import requirements of the importing countries/regions.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Phytosanitary Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx" target="_blank" rel="noopener">https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx</a></li>
+ <li><strong>Where can I get the FAQ for Phytosanitary Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
 <strong>Additional Information</strong>

@@ -74,7 +74,7 @@ Singapore Food Agency (SFA)
 <p><strong>Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?<br /></strong>Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</p>
 </li>
 <li>
-<p><strong>What are the challenges of operating a F & B business?<br /></strong>Please refer to the <a href="https://www.sfa.gov.sg/docs/default-source/food-retailing/guidebook_turning_passion_into_profits.pdf">"Turning Passion into Profit" guide</a> to understand the challenges faced by the F and B industry and managing your business.</p>
+<p><strong>What are the challenges of operating a F & B business?<br /></strong>Please refer to the <a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">"Turning Passion into Profit" guide</a> to understand the challenges faced by the F and B industry and managing your business.</p>
 </li>
 </ol>
 

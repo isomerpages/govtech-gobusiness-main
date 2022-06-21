@@ -15,7 +15,7 @@ Animal & Veterinary Service (AVS)
 <p>The Licence for Animal Exhibition is issued by Animal & Veterinary Service to use a premise for animal display, exhibition, performance or distribution.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Licence for Animal Exhibition?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/animals/animal-related-businesses/animal-exhibitions/general-information" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animal-related-businesses/animal-exhibitions/general-information</a></li>
+ <li><strong>Where can I get the FAQ for Licence for Animal Exhibition?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
 <strong>Additional Information</strong>

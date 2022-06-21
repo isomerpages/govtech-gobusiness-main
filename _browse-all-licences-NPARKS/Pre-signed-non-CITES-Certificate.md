@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products etc.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Pre-signed Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx" target="_blank" rel="noopener">https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx</a></li>
+ <li><strong>Where can I get the FAQ for Pre-signed Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx</a></li>
  </ol>
 
 <strong>Additional Information</strong>

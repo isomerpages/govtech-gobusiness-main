@@ -1,0 +1,44 @@
+---
+title: Environmental Control Officer Certificate
+permalink: /browse-all-licences/National-Environment-Agency-(NEA)/Environmental-Control-Officer-Certificate
+third_nav_title: National Environment Agency (NEA)
+---
+
+## Apply for Environmental Control Officer Certificate
+
+National Environment Agency (NEA)
+
+{% include spcp-text.html type="sp" %}
+
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10079" type="primary" %}
+
+<H3>Application Details</H3>
+
+<p>For the application of certificate of registration for:<br />a) Environmental Control Officer (Specified Construction Sites) [ECO(SCS)]<br />b) Environmental Control Officer (Specified Premises) [ECO(SP)]<br />c) Environmental Control Coordinator</p>
+<h3>FAQ</h3>
+<ol>
+<li><strong>What documents do I need before submitting my application online?</strong><br />The following documents are required for Environmental Control Officer (SCS):<br />a) NRIC/Employment Pass/Work Permit (also required for renewal)<br />b) a recent coloured passport size photo (with white background) (also required for renewal)<br />c) qualifications to meet the licensing requirements and relevant working experience: -<br />   (i) a degree from acceptable universities or institution of higher learning; OR<br />   (ii) a diploma from acceptable polytechnics or other educational institutions AND documentary proof (Testimonial) that states at least two years of working experience in environmental health, pest control, estate management, building construction, workplace health & safety or other similar work which is relevant to the work of ECO(SCS); OR<br />   (iii) at least Workplace Literacy and Numeracy (WPLN) L7 across all 5 assessments (Reading, Listening, Speaking, Writing and Numeracy); OR<br />   (iv) at least Workplace Literacy and Numeracy (WPLN) L6 across all 5 assessments (Reading, Listening, Speaking, Writing and Numeracy) AND<br />   (v) documentary proof (Testimonial) that states at least two years of working experience in environmental engineering, pest control, estate management, environmental health or other work which is relevant to the work of ECO(SCS).<br />d) Environmental Control Officer (SCS)'s Course Certificate(s)<br />e) For returning applicant, you are also required to submit a certificate of participation in a training course/seminar on a list of topics relevant to the work of ECO(SCS).<br /><br />The following documents are required for Environmental Control Officer (SP):<br />a) NRIC/Employment Pass/Work Permit (also required for renewal)<br />b) a recent coloured passport size photo (with white background) (also required for renewal)<br />c) qualifications to meet the licensing requirements and relevant working experience: -<br />   (i) a degree from acceptable universities or institution of higher learning; OR<br />   (ii) a diploma from acceptable polytechnics or other educational institutions AND documentary proof (Testimonial) that states at least two years of working experience in environmental health, pest control, estate management, building construction, workplace health & safety or other similar work which is relevant to the work of ECO(SP); OR<br />   (iii) at least Workplace Literacy and Numeracy (WPLN) L7 across all 5 assessments (Reading, Listening, Speaking, Writing and Numeracy); OR<br />   (iv) at least Workplace Literacy and Numeracy (WPLN) L6 across all 5 assessments (Reading, Listening, Speaking, Writing and Numeracy) AND<br />   (v) documentary proof (Testimonial) that states at least two years of working experience in environmental engineering, pest control, estate management, environmental health or other work which is relevant to the work of ECO(SP)<br />d) Environmental Control Officer (SP)'s Course Certificate(s)<br />e) For returning applicant, you are also required to submit a certificate of participation in a training course/seminar on a list of topics relevant to the work of ECO(SP).<br /><br />The following documents are required for Environmental Control Coordinator:<br />a) NRIC/Employment Pass/Work Permit (also required for renewal)<br />b) a recent coloured passport size photo (with white background) (also required for renewal)<br />c) qualifications to meet the licensing requirements and relevant working experience: -<br />   (i) a N-level certificate; OR<br />   (ii) at least Workplace Literacy and Numeracy (WPLN) L5 across 4 assessments (Reading, Listening, Speaking and Writing)<br />d) Environmental Control Coordinator's Course Certificate Documents can be uploaded in the "Supporting Documents" section towards the end of the online application.<br /><br /></li>
+<li><strong>What are the payment modes for this certificate of registration?</strong><br />Payment can be made via the following channels:<br />a) PayPal (Credit card and PayPal wallet) in the LicenceOne Portal<br />b) AXS kiosks<br />c) e-Stations<br />d) m-Stations<br /><br /></li>
+<li><strong>When can I make payment?</strong><br />Payment can be made after the application has been approved.<br /><br /></li>
+<li><strong>How can I receive my Certificate of Registration?</strong><br />The electronic Certificate of Registration will be emailed to you. Please provide a valid and updated email address. There shall be no responsibility on the part of NEA should there be any loss/damage of the Certificate of Registration in the transition.<br /><br /></li>
+<li><strong>What should I do if my computer hangs while I am making payment?</strong><br />If your computer hangs before reaching the acknowledgement page, your payment is considered unsuccessful. You may verify that no deduction was made from your Bank Account through Internet Banking. Thereafter, please proceed to make payment again. You can contact NEA at <a href="mailto:NEA_VC_Licences@nea.gov.sg" target="_blank" rel="noopener">NEA_VC_Licences@nea.gov.sg</a> to confirm if your payment is successful.</li>
+</ol>
+
+<strong>Additional Information</strong>
+
+<p><strong>Fees</strong><br />Licence Fees: $120</p>
+
+<H3>Documents Needed</H3>
+
+<ul>
+<li><strong>Front and back copies of NRIC/Employment Pass/ S Pass / Work Permit</strong><br />Front and Back of identity card</li>
+<li><strong>Environmental Control Officer (Specified Construction Sites) (ECO(SCS)) Course Certificate</strong><br />The ECO(SCS) Course Certificate must be recent and obtained within the last 5 years from date of application. Applicants may opt to re-take the course or a Refresher Exam to obtain a new course certificate. Please check with the training course provider for more information.</li>
+<li><strong>Highest Educational Qualifications/WPLN Certificates</strong></li>
+<li><strong>Testimonials from Previous Employers/Letter of Appointments</strong><br />Testimonials/Letters of Appointments issued by employers have to clearly indicate job designation.</li>
+<li><strong>Passport Size Photo</strong><br />Photo must be recent coloured digital photograph with white background; dimension of 35 mm wide by 45 mm high; showing full face with visible upper shoulders and uniform lighting exposure; no filter or modification of the face.</li>
+<li><strong>Additional Training Course/Seminar Certificate</strong><br />If you are a returning applicant for ECO(SCS) or ECO(SP) Certificate of Registration, please attach the certificate of participation in a training course/seminar on a list of topics relevant to the work of ECO(SCS) and ECO(SP). The course/seminar must have been attended in the last 3 years from date of application.</li>
+<li><strong>Environmental Control Officer (Specified Premises) [ECO(SP)] Course Certificate</strong><br />The ECO(SP) Course Certificate must be recent and obtained within the last 5 years from date of application. Applicants may opt to re-take the course or a Refresher Exam to obtain a new course certificate. Please check with the training course provider for more information.</li>
+<li><strong>Environmental Control Coordinator (ECC) Course Certificate</strong><br />The ECC Course Certificate must be recent and obtained within the last 5 years from date of application. Applicants may opt to re-take the course or a Refresher Exam to obtain a new course certificate. Please check with the training course provider for more information.</li>
+<li><strong>ECO Foundation Module Course Certificate</strong><br />Please upload a copy of your ECO Foundation Module Course Certificate in this Supporting Document section if you attained it after 30 September 2021. The ECO Foundation Module Course Certificate must be recent and obtained within the last 5 years from date of application. Applicants may opt to re-take the course or a Refresher Exam to obtain a new course certificate. Please check with the training course provider for more information.</li>
+</ul>
+

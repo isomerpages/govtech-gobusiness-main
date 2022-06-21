@@ -36,7 +36,7 @@ Animal & Veterinary Service (AVS)
  <li>Continuing Professional Education (CPE) Documents (applicable only for renewal)<br /><br /></li>
  </ol>
  </li>
- <li><strong>Where can I get the FAQ for Veterinary Surgeon?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.nparks.gov.sg/avs/animals/animal-health-and-veterinarians/veterinary-licensing/licensing-policies" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animal-health-and-veterinarians/veterinary-licensing/licensing-policies</a></li>
+ <li><strong>Where can I get the FAQ for Veterinary Surgeon?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
  </ol>
 
 <strong>Additional Information</strong>
