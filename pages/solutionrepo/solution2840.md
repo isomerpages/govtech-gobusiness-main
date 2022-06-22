@@ -24,57 +24,57 @@ Creative Sales and order management is an user friendly end-to end solution that
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SMEZ</td>
-<td style='padding: 10px;'>$9,800</td>
-<td style='padding: 10px;'>$9,800</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Lite</td>
-<td style='padding: 10px;'>$12,800</td>
-<td style='padding: 10px;'>$12,800</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Standard</td>
-<td style='padding: 10px;'>$15,000</td>
-<td style='padding: 10px;'>$15,000</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (1 User Bundle)</td>
-<td style='padding: 10px;'>$7,300</td>
-<td style='padding: 10px;'>$7,300</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (3 Users Bundle)</td>
-<td style='padding: 10px;'>$12,300</td>
-<td style='padding: 10px;'>$12,300</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'>$12,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (5 Users Bundle)</td>
-<td style='padding: 10px;'>$24,500</td>
-<td style='padding: 10px;'>$24,500</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'>$24,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000</td>
-<td style='padding: 10px;'>$32,000</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO Sales Enterprise (10 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000</td>
-<td style='padding: 10px;'>$32,000</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -24,36 +24,36 @@ Sage 300 takes the complexity out of managing your business finances across bord
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)</td>
-<td style='padding: 10px;'>$34,753</td>
-<td style='padding: 10px;'>$34,653</td>
+<td style='padding: 10px;'>$34,753.00</td>
+<td style='padding: 10px;'>$34,653.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Basic Package P2 (10 Users)</td>
-<td style='padding: 10px;'>$43,423</td>
-<td style='padding: 10px;'>$42,370</td>
+<td style='padding: 10px;'>$43,423.00</td>
+<td style='padding: 10px;'>$42,370.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)</td>
-<td style='padding: 10px;'>$43,092</td>
-<td style='padding: 10px;'>$37,435</td>
+<td style='padding: 10px;'>$43,092.00</td>
+<td style='padding: 10px;'>$37,435.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)</td>
-<td style='padding: 10px;'>$23,980</td>
-<td style='padding: 10px;'>$23,480</td>
+<td style='padding: 10px;'>$23,980.00</td>
+<td style='padding: 10px;'>$23,480.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Basic Package P4 (2 Users)</td>
-<td style='padding: 10px;'>$27,951</td>
-<td style='padding: 10px;'>$27,951</td>
+<td style='padding: 10px;'>$27,951.00</td>
+<td style='padding: 10px;'>$27,951.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -25,36 +25,36 @@ Highnix ERP has APIs which allow integration of third party applications. It wil
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 1 - Single User System</td>
-<td style='padding: 10px;'>$8,600</td>
-<td style='padding: 10px;'>$8,600</td>
+<td style='padding: 10px;'>$8,600.00</td>
+<td style='padding: 10px;'>$8,600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 2 - (Up to 3 concurrent users)</td>
-<td style='padding: 10px;'>$11,000</td>
-<td style='padding: 10px;'>$11,000</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 3 - (Up to 5 concurrent users)</td>
-<td style='padding: 10px;'>$14,200</td>
-<td style='padding: 10px;'>$14,200</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 4 - (Up to 8 concurrent users)</td>
-<td style='padding: 10px;'>$17,800</td>
-<td style='padding: 10px;'>$17,800</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'>$17,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Highnix ERP Plus 2 Version 4-3-30 - Standard Package 5 - (Up to 10 concurrent users)</td>
-<td style='padding: 10px;'>$20,200</td>
-<td style='padding: 10px;'>$20,200</td>
+<td style='padding: 10px;'>$20,200.00</td>
+<td style='padding: 10px;'>$20,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_Annex_3_CR_wef_9_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

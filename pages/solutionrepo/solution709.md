@@ -24,36 +24,36 @@ PixelCommerce is a complete e-Store solution that enables SMEs to boost business
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 - Essentials</td>
-<td style='padding: 10px;'>$8,900</td>
-<td style='padding: 10px;'>$8,900</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$8,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 -  Advanced</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 - AI</td>
-<td style='padding: 10px;'>$11,970</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$11,970.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 - B2B</td>
-<td style='padding: 10px;'>$12,500</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 - PixelCommerce Version 5.2.5 - Marketplace</td>
-<td style='padding: 10px;'>$15,500</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

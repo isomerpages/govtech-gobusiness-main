@@ -28,36 +28,36 @@ Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. #SGUnited
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaForce-bonaFORCE SMEs</td>
-<td style='padding: 10px;'>$4,000</td>
-<td style='padding: 10px;'>$4,000</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaForce-bonaFORCE Premium</td>
-<td style='padding: 10px;'>$4,300</td>
-<td style='padding: 10px;'>$4,300</td>
+<td style='padding: 10px;'>$4,300.00</td>
+<td style='padding: 10px;'>$4,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaForce-bonaFORCE Events</td>
-<td style='padding: 10px;'>$4,700</td>
-<td style='padding: 10px;'>$4,700</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'>$4,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaForce-bonaFORCE Agencies</td>
-<td style='padding: 10px;'>$4,700</td>
-<td style='padding: 10px;'>$4,700</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'>$4,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BonaForce-bonaFORCE Portal</td>
-<td style='padding: 10px;'>$4,700</td>
-<td style='padding: 10px;'>$4,700</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'>$4,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

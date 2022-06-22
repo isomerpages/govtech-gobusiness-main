@@ -24,36 +24,36 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 1 User)</td>
-<td style='padding: 10px;'>$4,300</td>
-<td style='padding: 10px;'>$4,300</td>
+<td style='padding: 10px;'>$4,300.00</td>
+<td style='padding: 10px;'>$4,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 3 Users)</td>
-<td style='padding: 10px;'>$5,500</td>
-<td style='padding: 10px;'>$5,500</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Professional Version 2.0 (5 Users)</td>
-<td style='padding: 10px;'>$8,500</td>
-<td style='padding: 10px;'>$8,500</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Premium Version 2.0 (10 Users)</td>
-<td style='padding: 10px;'>$13,800</td>
-<td style='padding: 10px;'>$13,800</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Premium Version 2.0 ( 15 Users</td>
-<td style='padding: 10px;'>$16,800</td>
-<td style='padding: 10px;'>$16,800</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

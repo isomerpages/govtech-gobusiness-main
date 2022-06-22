@@ -24,22 +24,22 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - LITE</td>
-<td style='padding: 10px;'>$13,500</td>
-<td style='padding: 10px;'>$11,013</td>
+<td style='padding: 10px;'>$13,500.00</td>
+<td style='padding: 10px;'>$11,013.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - PROFESSIONAL</td>
-<td style='padding: 10px;'>$39,000</td>
-<td style='padding: 10px;'>$14,013</td>
+<td style='padding: 10px;'>$39,000.00</td>
+<td style='padding: 10px;'>$14,013.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - STANDARD</td>
-<td style='padding: 10px;'>$24,000</td>
-<td style='padding: 10px;'>$13,513</td>
+<td style='padding: 10px;'>$24,000.00</td>
+<td style='padding: 10px;'>$13,513.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

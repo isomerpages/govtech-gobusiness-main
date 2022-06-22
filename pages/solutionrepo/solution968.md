@@ -24,36 +24,36 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard Package</td>
-<td style='padding: 10px;'>$600</td>
-<td style='padding: 10px;'>$561</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$561.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up Package</td>
-<td style='padding: 10px;'>$1,250</td>
-<td style='padding: 10px;'>$1,211</td>
+<td style='padding: 10px;'>$1,250.00</td>
+<td style='padding: 10px;'>$1,211.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up Package</td>
-<td style='padding: 10px;'>$1,430</td>
-<td style='padding: 10px;'>$1,379</td>
+<td style='padding: 10px;'>$1,430.00</td>
+<td style='padding: 10px;'>$1,379.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up, Training Package</td>
-<td style='padding: 10px;'>$2,050</td>
-<td style='padding: 10px;'>$2,011</td>
+<td style='padding: 10px;'>$2,050.00</td>
+<td style='padding: 10px;'>$2,011.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up, Training Package</td>
-<td style='padding: 10px;'>$2,230</td>
-<td style='padding: 10px;'>$2,179</td>
+<td style='padding: 10px;'>$2,230.00</td>
+<td style='padding: 10px;'>$2,179.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -32,22 +32,22 @@ Dining Butler provides an end to end solution for F&B that covers the following 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler system - Dining Butler</td>
-<td style='padding: 10px;'>$7,288</td>
-<td style='padding: 10px;'>$7,288</td>
+<td style='padding: 10px;'>$7,288.00</td>
+<td style='padding: 10px;'>$7,288.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler system - Dining Butler API</td>
-<td style='padding: 10px;'>$10,788</td>
-<td style='padding: 10px;'>$8,488</td>
+<td style='padding: 10px;'>$10,788.00</td>
+<td style='padding: 10px;'>$8,488.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler system - Dining Butler multi</td>
-<td style='padding: 10px;'>$7,788</td>
-<td style='padding: 10px;'>$7,788</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$7,788.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

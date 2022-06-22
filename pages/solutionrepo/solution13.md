@@ -25,35 +25,35 @@ ABSS Premier provides advanced inventory, and business management capabilities t
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier V23 Version 23 - Package A with E-Invoicing (1 User)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$1,904</td>
+<td style='padding: 10px;'>$1,904.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier V23 Version 23 - Package B with E-Invoicing (3 User)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$2,745</td>
+<td style='padding: 10px;'>$2,745.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier V23 Version 23 - Package C with E-Invoicing and setup (1 User)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$3,503</td>
+<td style='padding: 10px;'>$3,503.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier V23 Version 23 - Package D with E-Invoicing, Setup and Training (3 Users)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$5,944</td>
+<td style='padding: 10px;'>$5,944.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier V23 Version 23 - Package E with E-Invoicing, Setup, Training and Cloud Terminal (3 Users)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$7,243</td>
+<td style='padding: 10px;'>$7,243.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

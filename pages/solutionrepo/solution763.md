@@ -26,35 +26,35 @@ SecureAPlus is an EndPoint protection solution that uses the right combination o
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (60 Pax)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$2,000</td>
+<td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (20 Pax)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$600</td>
+<td style='padding: 10px;'>$600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (100 Pax)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (150 Pax)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$4,500</td>
+<td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (300 Pax)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$7,700</td>
+<td style='padding: 10px;'>$7,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

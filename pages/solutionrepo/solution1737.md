@@ -37,36 +37,36 @@ One Payroll process run per month
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 25</td>
-<td style='padding: 10px;'>$10,800</td>
-<td style='padding: 10px;'>$10,800</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50</td>
-<td style='padding: 10px;'>$17,400</td>
-<td style='padding: 10px;'>$17,400</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 100</td>
-<td style='padding: 10px;'>$31,400</td>
-<td style='padding: 10px;'>$31,400</td>
+<td style='padding: 10px;'>$31,400.00</td>
+<td style='padding: 10px;'>$31,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 150</td>
-<td style='padding: 10px;'>$41,000</td>
-<td style='padding: 10px;'>$41,000</td>
+<td style='padding: 10px;'>$41,000.00</td>
+<td style='padding: 10px;'>$41,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 200</td>
-<td style='padding: 10px;'>$49,000</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$49,000.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

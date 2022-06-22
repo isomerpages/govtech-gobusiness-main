@@ -24,36 +24,36 @@ ABSS premier is an on-premise full fledge and integrated accounting, sales, inve
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package A (Single User Licence full package)</td>
-<td style='padding: 10px;'>$2,750</td>
-<td style='padding: 10px;'>$2,750</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'>$2,750.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package B (Three User Licence full package)</td>
-<td style='padding: 10px;'>$3,550</td>
-<td style='padding: 10px;'>$3,550</td>
+<td style='padding: 10px;'>$3,550.00</td>
+<td style='padding: 10px;'>$3,550.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)</td>
-<td style='padding: 10px;'>$4,250</td>
-<td style='padding: 10px;'>$4,250</td>
+<td style='padding: 10px;'>$4,250.00</td>
+<td style='padding: 10px;'>$4,250.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package D (Single User Licence product only)</td>
-<td style='padding: 10px;'>$1,850</td>
-<td style='padding: 10px;'>$1,850</td>
+<td style='padding: 10px;'>$1,850.00</td>
+<td style='padding: 10px;'>$1,850.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package E (Three User Licence product only)</td>
-<td style='padding: 10px;'>$2,650</td>
-<td style='padding: 10px;'>$2,650</td>
+<td style='padding: 10px;'>$2,650.00</td>
+<td style='padding: 10px;'>$2,650.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

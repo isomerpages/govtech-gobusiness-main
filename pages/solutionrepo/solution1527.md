@@ -24,36 +24,36 @@ With advanced CRM features like workflow management, advanced analytics, territo
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho One-3 Users + Free Online Tutorials</td>
-<td style='padding: 10px;'>$1,920</td>
-<td style='padding: 10px;'>$1,920</td>
+<td style='padding: 10px;'>$1,920.00</td>
+<td style='padding: 10px;'>$1,920.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho One-7 Users + Free Online Tutorials</td>
-<td style='padding: 10px;'>$3,840</td>
-<td style='padding: 10px;'>$3,840</td>
+<td style='padding: 10px;'>$3,840.00</td>
+<td style='padding: 10px;'>$3,840.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho One-11 Users + Free Online Tutorials</td>
-<td style='padding: 10px;'>$5,760</td>
-<td style='padding: 10px;'>$5,480</td>
+<td style='padding: 10px;'>$5,760.00</td>
+<td style='padding: 10px;'>$5,480.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho One-7 Users + Onboarding Services</td>
-<td style='padding: 10px;'>$8,160</td>
-<td style='padding: 10px;'>$7,520</td>
+<td style='padding: 10px;'>$8,160.00</td>
+<td style='padding: 10px;'>$7,520.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho One-11 Users + Onboarding Services</td>
-<td style='padding: 10px;'>$10,080</td>
-<td style='padding: 10px;'>$9,160</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'>$9,160.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zolution_Annex_3_CR_wef_22_July_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

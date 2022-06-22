@@ -24,15 +24,15 @@ The Advanced plan on Dropbox Business gives teams as much space as they need, al
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DROPBOX - DROPBOX BUSINESS - 3 USERS</td>
-<td style='padding: 10px;'>$999</td>
-<td style='padding: 10px;'>$999</td>
+<td style='padding: 10px;'>$999.00</td>
+<td style='padding: 10px;'>$999.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DROPBOX - DROPBOX BUSINESS - 10 USERS </td>
-<td style='padding: 10px;'>$3,199</td>
-<td style='padding: 10px;'>$3,199</td>
+<td style='padding: 10px;'>$3,199.00</td>
+<td style='padding: 10px;'>$3,199.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -26,28 +26,28 @@ For clinic operation, the solution offers capturing of NRIC records and health d
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STUDIO MANAGER Version 7 - Package A (Standard)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$7,680</td>
+<td style='padding: 10px;'>$7,680.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STUDIO MANAGER Version 7 - Package B (Professional)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$15,300</td>
+<td style='padding: 10px;'>$15,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STUDIO MANAGER Version 7 - Package C (Premium)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$17,440</td>
+<td style='padding: 10px;'>$17,440.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STUDIO MANAGER Version 7 - Package D (Branch License)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$5,380</td>
+<td style='padding: 10px;'>$5,380.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -26,29 +26,29 @@ To Digitize all SME products and services into a single platform, all hardcopy p
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (24 Product Showcase)</td>
-<td style='padding: 10px;'>$3,000</td>
-<td style='padding: 10px;'>$2,700</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (48 Product Showcase)</td>
-<td style='padding: 10px;'>$4,500</td>
-<td style='padding: 10px;'>$4,200</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)</td>
-<td style='padding: 10px;'>$11,000</td>
-<td style='padding: 10px;'>$10,700</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (1000 Product Showcase)</td>
-<td style='padding: 10px;'>$30,000</td>
-<td style='padding: 10px;'>$29,700</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$29,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--Inve
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 

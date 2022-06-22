@@ -26,36 +26,36 @@ Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 25</td>
-<td style='padding: 10px;'>$3,000</td>
-<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 50</td>
-<td style='padding: 10px;'>$4,500</td>
-<td style='padding: 10px;'>$4,500</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 100</td>
-<td style='padding: 10px;'>$8,500</td>
-<td style='padding: 10px;'>$8,500</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 150</td>
-<td style='padding: 10px;'>$11,500</td>
-<td style='padding: 10px;'>$11,500</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$11,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 200</td>
-<td style='padding: 10px;'>$14,500</td>
-<td style='padding: 10px;'>$14,500</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$14,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

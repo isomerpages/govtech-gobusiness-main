@@ -24,36 +24,36 @@ Swingvy is the modern HR platform for small and mid-sized businesses. By seamles
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Core HRMS with Mobile for 10 users</td>
-<td style='padding: 10px;'>1640</td>
-<td style='padding: 10px;'>1640</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'>$1,640.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Core HRMS with Mobile for 25 users</td>
-<td style='padding: 10px;'>4100</td>
-<td style='padding: 10px;'>4100</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Core HRMS with Mobile for 50 users</td>
-<td style='padding: 10px;'>8020</td>
-<td style='padding: 10px;'>8020</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$8,020.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Full HRMS with Mobile for 75 users</td>
-<td style='padding: 10px;'>11445</td>
-<td style='padding: 10px;'>11445</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'>$11,445.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Full HRMS with Mobile for 100 users</td>
-<td style='padding: 10px;'>14480</td>
-<td style='padding: 10px;'>14480</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

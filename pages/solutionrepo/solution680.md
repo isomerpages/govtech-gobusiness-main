@@ -24,36 +24,36 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Gold (1 user)</td>
-<td style='padding: 10px;'>$1,395</td>
-<td style='padding: 10px;'>$1,295</td>
+<td style='padding: 10px;'>$1,395.00</td>
+<td style='padding: 10px;'>$1,295.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Now (3 users)</td>
-<td style='padding: 10px;'>$5,740</td>
-<td style='padding: 10px;'>$5,440</td>
+<td style='padding: 10px;'>$5,740.00</td>
+<td style='padding: 10px;'>$5,440.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - DataCentre (3 users)</td>
-<td style='padding: 10px;'>$7,235</td>
-<td style='padding: 10px;'>$6,935</td>
+<td style='padding: 10px;'>$7,235.00</td>
+<td style='padding: 10px;'>$6,935.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (3 users with integration and automation)</td>
-<td style='padding: 10px;'>$9,735</td>
-<td style='padding: 10px;'>$9,435</td>
+<td style='padding: 10px;'>$9,735.00</td>
+<td style='padding: 10px;'>$9,435.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (6 users with integration and automation) </td>
-<td style='padding: 10px;'>$11,385</td>
-<td style='padding: 10px;'>$11,085</td>
+<td style='padding: 10px;'>$11,385.00</td>
+<td style='padding: 10px;'>$11,085.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

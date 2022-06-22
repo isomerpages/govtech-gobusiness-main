@@ -24,71 +24,71 @@ Sage has more than 30 years of experience helping millions of small and medium c
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A1 (Advanced Edition - 3 Users)</td>
-<td style='padding: 10px;'>$30,310</td>
-<td style='padding: 10px;'>$30,210</td>
+<td style='padding: 10px;'>$30,310.00</td>
+<td style='padding: 10px;'>$30,210.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A2 (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$33,789</td>
-<td style='padding: 10px;'>$33,689</td>
+<td style='padding: 10px;'>$33,789.00</td>
+<td style='padding: 10px;'>$33,689.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A3 (Advanced Edition - 7 Users)</td>
-<td style='padding: 10px;'>$37,267</td>
-<td style='padding: 10px;'>$37,167</td>
+<td style='padding: 10px;'>$37,267.00</td>
+<td style='padding: 10px;'>$37,167.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A4 (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$42,485</td>
-<td style='padding: 10px;'>$42,385</td>
+<td style='padding: 10px;'>$42,485.00</td>
+<td style='padding: 10px;'>$42,385.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package B1 (Premium Edition - 5 Users)</td>
-<td style='padding: 10px;'>$41,790</td>
-<td style='padding: 10px;'>$41,690</td>
+<td style='padding: 10px;'>$41,790.00</td>
+<td style='padding: 10px;'>$41,690.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 1U+Setup+Training</td>
-<td style='padding: 10px;'>$3,180</td>
-<td style='padding: 10px;'>$3,180</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,180.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 3U+Setup+Training</td>
-<td style='padding: 10px;'>$4,130</td>
-<td style='padding: 10px;'>$4,130</td>
+<td style='padding: 10px;'>$4,130.00</td>
+<td style='padding: 10px;'>$4,130.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$5,680</td>
-<td style='padding: 10px;'>$5,680</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'>$5,680.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - PremierPlus 1U+Setup+Training</td>
-<td style='padding: 10px;'>$5,990</td>
-<td style='padding: 10px;'>$5,990</td>
+<td style='padding: 10px;'>$5,990.00</td>
+<td style='padding: 10px;'>$5,990.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - PremierPlus 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$7,550</td>
-<td style='padding: 10px;'>$7,550</td>
+<td style='padding: 10px;'>$7,550.00</td>
+<td style='padding: 10px;'>$7,550.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

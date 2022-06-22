@@ -25,10 +25,8 @@ Singapore Food Agency (SFA)
 <ul>
 <li>
 <p>Upon full compliance to licensing requirements and submission of required documents, SFA will approve the application. You will receive a notification via email and GoBusiness within 5 working days.<br />Service standard: 5 working days if application is complete and in order</p>
-<ul>
-<li>For applicants with existing GIRO arrangement with SFA, you may start business after receiving SFA's email approval</li>
-<li>For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.</li>
-</ul>
+- For applicants with existing GIRO arrangement with SFA, you may start business after receiving SFA's email approval<br>
+- For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.<br></li>
 <li>Licensees can <a href="https://www.sfa.gov.sg/docs/default-source/food-retailing/licence-self-print-guide.pdf" target="_blank" rel="noopener">print their own licences</a> upon successful payment made <strong>on or after 1 January 2022.</strong></li>
 </ul>
 <h3>FAQs</h3>

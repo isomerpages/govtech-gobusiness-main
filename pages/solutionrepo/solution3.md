@@ -24,36 +24,36 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)</td>
-<td style='padding: 10px;'>$3,553</td>
-<td style='padding: 10px;'>$3,553</td>
+<td style='padding: 10px;'>$3,553.00</td>
+<td style='padding: 10px;'>$3,553.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)</td>
-<td style='padding: 10px;'>$4,694</td>
-<td style='padding: 10px;'>$4,694</td>
+<td style='padding: 10px;'>$4,694.00</td>
+<td style='padding: 10px;'>$4,694.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)</td>
-<td style='padding: 10px;'>$1,903</td>
-<td style='padding: 10px;'>$1,903</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)</td>
-<td style='padding: 10px;'>$2,744</td>
-<td style='padding: 10px;'>$2,744</td>
+<td style='padding: 10px;'>$2,744.00</td>
+<td style='padding: 10px;'>$2,744.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)</td>
-<td style='padding: 10px;'>$4,353</td>
-<td style='padding: 10px;'>$4,353</td>
+<td style='padding: 10px;'>$4,353.00</td>
+<td style='padding: 10px;'>$4,353.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

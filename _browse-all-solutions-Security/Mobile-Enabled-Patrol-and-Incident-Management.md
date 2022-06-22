@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Man
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
@@ -27,3 +27,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>AdeptForms Security Operational Management Version 2</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2815' target='_blank'>iREP Security System Version 4.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3065' target='_blank'>Armfort Security Workforce</a><br>

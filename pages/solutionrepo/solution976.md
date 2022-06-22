@@ -24,36 +24,36 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk  & BYOD - Digital Order Channel Package Lite</td>
-<td style='padding: 10px;'>$5,780</td>
-<td style='padding: 10px;'>$5,780</td>
+<td style='padding: 10px;'>$5,780.00</td>
+<td style='padding: 10px;'>$5,780.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk  & BYOD - Digital Order Channel Package Plus</td>
-<td style='padding: 10px;'>$11,460</td>
-<td style='padding: 10px;'>$11,460</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,460.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk  & BYOD - Kiosk Package with Hardware</td>
-<td style='padding: 10px;'>$16,060</td>
-<td style='padding: 10px;'>$12,860</td>
+<td style='padding: 10px;'>$16,060.00</td>
+<td style='padding: 10px;'>$12,860.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)</td>
-<td style='padding: 10px;'>$25,220</td>
-<td style='padding: 10px;'>$22,020</td>
+<td style='padding: 10px;'>$25,220.00</td>
+<td style='padding: 10px;'>$22,020.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk  & BYOD - Digital Order Channel Package with CRM</td>
-<td style='padding: 10px;'>$10,200</td>
-<td style='padding: 10px;'>$10,200</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_8.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

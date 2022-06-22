@@ -25,36 +25,36 @@ SAP Business One is an ERP solution with built-in advanced analytical processing
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (3 Licenses)</td>
-<td style='padding: 10px;'>$48,550</td>
-<td style='padding: 10px;'>$36,150</td>
+<td style='padding: 10px;'>$48,550.00</td>
+<td style='padding: 10px;'>$36,150.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (5 Licenses)</td>
-<td style='padding: 10px;'>$70,250</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$70,250.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (10 Licenses)</td>
-<td style='padding: 10px;'>$14,500</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (1 License)</td>
-<td style='padding: 10px;'>$28,450</td>
-<td style='padding: 10px;'>$26,050</td>
+<td style='padding: 10px;'>$28,450.00</td>
+<td style='padding: 10px;'>$26,050.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (2 Licenses)</td>
-<td style='padding: 10px;'>$32,900</td>
-<td style='padding: 10px;'>$30,500</td>
+<td style='padding: 10px;'>$32,900.00</td>
+<td style='padding: 10px;'>$30,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

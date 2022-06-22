@@ -24,36 +24,36 @@ Cloud-Based POS System with product management, inventory management, promotion 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Package (Basic)</td>
-<td style='padding: 10px;'>$4,380</td>
-<td style='padding: 10px;'>$4,300</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'>$4,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Package (Basic + Inventory Management)</td>
-<td style='padding: 10px;'>$6,880</td>
-<td style='padding: 10px;'>$6,778</td>
+<td style='padding: 10px;'>$6,880.00</td>
+<td style='padding: 10px;'>$6,778.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Package (Basic + Multi Software)</td>
-<td style='padding: 10px;'>$10,080</td>
-<td style='padding: 10px;'>$9,980</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'>$9,980.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Version 3.0.9.3Package (Basic - Mobile)               </td>
-<td style='padding: 10px;'>$2,572</td>
-<td style='padding: 10px;'>$2,572</td>
+<td style='padding: 10px;'>$2,572.00</td>
+<td style='padding: 10px;'>$2,572.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Package (POS - Lite)</td>
-<td style='padding: 10px;'>$2,988</td>
-<td style='padding: 10px;'>$2,900</td>
+<td style='padding: 10px;'>$2,988.00</td>
+<td style='padding: 10px;'>$2,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

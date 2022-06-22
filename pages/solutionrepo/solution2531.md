@@ -24,36 +24,36 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wealthbridge - Xero  - Standard Subscription Only</td>
-<td style='padding: 10px;'>$560</td>
-<td style='padding: 10px;'>$560</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'>$560.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wealthbridge - Xero  - Premium Subscription Only</td>
-<td style='padding: 10px;'>$725</td>
-<td style='padding: 10px;'>$725</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'>$725.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wealthbridge - Xero  - Premium Basic Package</td>
-<td style='padding: 10px;'>$1,525</td>
-<td style='padding: 10px;'>$1,525</td>
+<td style='padding: 10px;'>$1,525.00</td>
+<td style='padding: 10px;'>$1,525.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wealthbridge - Xero  - Premium Full Package</td>
-<td style='padding: 10px;'>$1,825</td>
-<td style='padding: 10px;'>$1,825</td>
+<td style='padding: 10px;'>$1,825.00</td>
+<td style='padding: 10px;'>$1,825.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wealthbridge - Xero  - Premium Training Package</td>
-<td style='padding: 10px;'>$1,025</td>
-<td style='padding: 10px;'>$1,025</td>
+<td style='padding: 10px;'>$1,025.00</td>
+<td style='padding: 10px;'>$1,025.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wealthbridge_20210012_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

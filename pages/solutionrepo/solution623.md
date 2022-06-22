@@ -29,22 +29,22 @@ The MuRho Inventory Management & Sales Management System includes:
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - STARTER PACK A - SAAS WITH HARDWARE</td>
-<td style='padding: 10px;'>$6,000</td>
-<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - STARTER PACK B - PERPETUAL LICENSE ON CLOUD WITH HARDWARE</td>
-<td style='padding: 10px;'>$8,000</td>
-<td style='padding: 10px;'>$8,000</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - STARTER PACK C - PERPETUAL LICENSE ON CLOUD WITH HARDWARE</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

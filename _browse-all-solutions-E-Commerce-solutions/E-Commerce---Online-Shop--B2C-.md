@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--
 
 Up to 70% (80% for Retail sector)  for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
@@ -57,3 +57,4 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2863' target='_blank'>TRC e-Commerce Solutions</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2977' target='_blank'>Cub3commerce</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3052' target='_blank'>A2000 WebShop (B2C) Version 2</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3064' target='_blank'>Lemonade eCommerce Solution</a><br>

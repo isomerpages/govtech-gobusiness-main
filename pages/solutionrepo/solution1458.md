@@ -24,36 +24,36 @@ Track 365 Automotive Tracking System is a cloud based telematics solution. Due t
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automotive Tracking System-Package A (3 Vehicles) </td>
-<td style='padding: 10px;'>$2,097</td>
-<td style='padding: 10px;'>$2,097</td>
+<td style='padding: 10px;'>$2,097.00</td>
+<td style='padding: 10px;'>$2,097.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automotive Tracking System-Package B (6 Vehicles)</td>
-<td style='padding: 10px;'>$4,194</td>
-<td style='padding: 10px;'>$4,194</td>
+<td style='padding: 10px;'>$4,194.00</td>
+<td style='padding: 10px;'>$4,194.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automotive Tracking System-Package C (9 Vehicles)</td>
-<td style='padding: 10px;'>$6,291</td>
-<td style='padding: 10px;'>$6,291</td>
+<td style='padding: 10px;'>$6,291.00</td>
+<td style='padding: 10px;'>$6,291.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automotive Tracking System-Package D (12 Vehicles)</td>
-<td style='padding: 10px;'>$8,388</td>
-<td style='padding: 10px;'>$8,388</td>
+<td style='padding: 10px;'>$8,388.00</td>
+<td style='padding: 10px;'>$8,388.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automotive Tracking System-Package E (60 Vehicles)</td>
-<td style='padding: 10px;'>$41,940</td>
-<td style='padding: 10px;'>$41,940</td>
+<td style='padding: 10px;'>$41,940.00</td>
+<td style='padding: 10px;'>$41,940.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

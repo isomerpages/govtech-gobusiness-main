@@ -24,36 +24,36 @@ Qoqolo is a one-stop-shop preschool management system for centres to accelerate 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 4-in-1 Modules</td>
-<td style='padding: 10px;'>$8,688</td>
-<td style='padding: 10px;'>$8,688</td>
+<td style='padding: 10px;'>$8,688.00</td>
+<td style='padding: 10px;'>$8,688.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 5-in-1 Modules</td>
-<td style='padding: 10px;'>$10,688</td>
-<td style='padding: 10px;'>$10,688</td>
+<td style='padding: 10px;'>$10,688.00</td>
+<td style='padding: 10px;'>$10,688.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 4-in-1 Modules + Private Label</td>
-<td style='padding: 10px;'>$9,888</td>
-<td style='padding: 10px;'>$9,888</td>
+<td style='padding: 10px;'>$9,888.00</td>
+<td style='padding: 10px;'>$9,888.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - 5-in-1  Modules + Private Label</td>
-<td style='padding: 10px;'>$11,888</td>
-<td style='padding: 10px;'>$11,888</td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'>$11,888.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qoqolo School Management System Version 4 - Lite version</td>
-<td style='padding: 10px;'>$5,488</td>
-<td style='padding: 10px;'>$5,488</td>
+<td style='padding: 10px;'>$5,488.00</td>
+<td style='padding: 10px;'>$5,488.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Commontown_20200083_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

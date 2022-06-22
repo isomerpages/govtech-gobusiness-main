@@ -24,22 +24,22 @@ MyDoc's Telemedicine Solution for providers is a bundled package that providers 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 1 (1 Doctor)</td>
-<td style='padding: 10px;'>$1,510</td>
-<td style='padding: 10px;'>$1,510</td>
+<td style='padding: 10px;'>$1,510.00</td>
+<td style='padding: 10px;'>$1,510.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 2 (2 Doctors)</td>
-<td style='padding: 10px;'>$2,570</td>
-<td style='padding: 10px;'>$2,570</td>
+<td style='padding: 10px;'>$2,570.00</td>
+<td style='padding: 10px;'>$2,570.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 3 (3 Doctors)</td>
-<td style='padding: 10px;'>$3,630</td>
-<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'>$3,630.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

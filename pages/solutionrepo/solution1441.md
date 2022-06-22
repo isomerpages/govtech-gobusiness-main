@@ -24,36 +24,36 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Start-up)</td>
-<td style='padding: 10px;'>$3,207</td>
-<td style='padding: 10px;'>$3,207</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Grow)</td>
-<td style='padding: 10px;'>$4,803</td>
-<td style='padding: 10px;'>$4,803</td>
+<td style='padding: 10px;'>$4,803.00</td>
+<td style='padding: 10px;'>$4,803.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</td>
-<td style='padding: 10px;'>$8,106</td>
-<td style='padding: 10px;'>$7,156</td>
+<td style='padding: 10px;'>$8,106.00</td>
+<td style='padding: 10px;'>$7,156.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Self-order Kiosk)</td>
-<td style='padding: 10px;'>$9,130</td>
-<td style='padding: 10px;'>$8,580</td>
+<td style='padding: 10px;'>$9,130.00</td>
+<td style='padding: 10px;'>$8,580.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)</td>
-<td style='padding: 10px;'>$7,589</td>
-<td style='padding: 10px;'>$7,289</td>
+<td style='padding: 10px;'>$7,589.00</td>
+<td style='padding: 10px;'>$7,289.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

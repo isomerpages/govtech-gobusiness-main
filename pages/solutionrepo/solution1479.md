@@ -24,36 +24,36 @@ KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 3 Bank)</td>
-<td style='padding: 10px;'>$1,836,000</td>
-<td style='padding: 10px;'>$830,000</td>
+<td style='padding: 10px;'>$1,836,000.00</td>
+<td style='padding: 10px;'>$830,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 3 Bank with Auto ETL)</td>
-<td style='padding: 10px;'>$2,036,000</td>
-<td style='padding: 10px;'>$830,000</td>
+<td style='padding: 10px;'>$2,036,000.00</td>
+<td style='padding: 10px;'>$830,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank)</td>
-<td style='padding: 10px;'>$2,726,000</td>
-<td style='padding: 10px;'>$830,000</td>
+<td style='padding: 10px;'>$2,726,000.00</td>
+<td style='padding: 10px;'>$830,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Small Engine)</td>
-<td style='padding: 10px;'>$2,926,000</td>
-<td style='padding: 10px;'>$830,000</td>
+<td style='padding: 10px;'>$2,926,000.00</td>
+<td style='padding: 10px;'>$830,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KPMG Regulatory Integrated Solution Version 1.0 - Package (Tier 2 Bank with Auto ETL - Medium Engine)</td>
-<td style='padding: 10px;'>$3,174,000</td>
-<td style='padding: 10px;'>$830,000</td>
+<td style='padding: 10px;'>$3,174,000.00</td>
+<td style='padding: 10px;'>$830,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

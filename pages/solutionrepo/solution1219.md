@@ -24,15 +24,15 @@ AEC Collection consists of a set of BIM and CAD tools that support projects from
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 1 Year</td>
-<td style='padding: 10px;'>$3,200</td>
-<td style='padding: 10px;'>$1,590</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years</td>
-<td style='padding: 10px;'>$8,880</td>
-<td style='padding: 10px;'>$1,590</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -24,15 +24,15 @@ ChopeQueues is a contactless queue management that is fully integrated with our 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle </td>
-<td style='padding: 10px;'>$5,700</td>
-<td style='padding: 10px;'>$5,700</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle</td>
-<td style='padding: 10px;'>$4,500</td>
-<td style='padding: 10px;'>$4,500</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

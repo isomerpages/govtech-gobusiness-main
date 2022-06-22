@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Managem
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
@@ -25,7 +25,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution521' target='_blank'>Stormshield UTM Firewall</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1276' target='_blank'>Managed Firewall Solution</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1800' target='_blank'>Adventus Managed Firewall - Fortinet </a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1809' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F</a><br>

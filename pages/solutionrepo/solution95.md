@@ -24,36 +24,36 @@ MoneyWorks was built from the ground up for the needs of business, finance and a
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package A Moneyworks Gold - 1 User Software Only</td>
-<td style='padding: 10px;'>$895</td>
-<td style='padding: 10px;'>$895</td>
+<td style='padding: 10px;'>$895.00</td>
+<td style='padding: 10px;'>$895.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package B Moneyworks Gold - 1 User</td>
-<td style='padding: 10px;'>$3,995</td>
-<td style='padding: 10px;'>$3,995</td>
+<td style='padding: 10px;'>$3,995.00</td>
+<td style='padding: 10px;'>$3,995.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package C Moneyworks NOW (3 User)</td>
-<td style='padding: 10px;'>$5,692</td>
-<td style='padding: 10px;'>$4,792</td>
+<td style='padding: 10px;'>$5,692.00</td>
+<td style='padding: 10px;'>$4,792.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package D Moneyworks Datacentre (3 User)</td>
-<td style='padding: 10px;'>$7,187</td>
-<td style='padding: 10px;'>$6,287</td>
+<td style='padding: 10px;'>$7,187.00</td>
+<td style='padding: 10px;'>$6,287.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 9 - Package E Moneyworks Datacentre (5 User)</td>
-<td style='padding: 10px;'>$13,787</td>
-<td style='padding: 10px;'>$12,387</td>
+<td style='padding: 10px;'>$13,787.00</td>
+<td style='padding: 10px;'>$12,387.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advanced_Micro_Control_Annex_3_CR_wef_9_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

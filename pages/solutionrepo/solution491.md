@@ -24,37 +24,37 @@ The SAP Business One application offers a single, affordable way to manage your 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package - Package (2 Starter Users on Cloud)</td>
-<td style='padding: 10px;'>$11,630</td>
-<td style='padding: 10px;'>$11,630</td>
+<td style='padding: 10px;'>$11,630.00</td>
+<td style='padding: 10px;'>$11,630.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package - Package (5 Starter Users on Cloud)</td>
-<td style='padding: 10px;'>$20,075</td>
-<td style='padding: 10px;'>$20,075</td>
+<td style='padding: 10px;'>$20,075.00</td>
+<td style='padding: 10px;'>$20,075.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package - Package (6 Professional Users on Cloud)</td>
-<td style='padding: 10px;'>$38,292</td>
-<td style='padding: 10px;'>$37,392</td>
+<td style='padding: 10px;'>$38,292.00</td>
+<td style='padding: 10px;'>$37,392.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package - Package (8 Professional Users on Cloud with Peppol Einvoicing)</td>
-<td style='padding: 10px;'>$53,856</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$53,856.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package -  Package (11 Professional Users on
 Cloud with Peppol Einvoicing)</td>
-<td style='padding: 10px;'>$62,017</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$62,017.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

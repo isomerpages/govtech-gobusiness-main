@@ -24,36 +24,36 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 5 VEHICLES</td>
-<td style='padding: 10px;'>$10,294</td>
-<td style='padding: 10px;'>$9,994</td>
+<td style='padding: 10px;'>$10,294.00</td>
+<td style='padding: 10px;'>$9,994.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 10 VEHICLES</td>
-<td style='padding: 10px;'>$16,489</td>
-<td style='padding: 10px;'>$15,889</td>
+<td style='padding: 10px;'>$16,489.00</td>
+<td style='padding: 10px;'>$15,889.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 15 VEHICLES</td>
-<td style='padding: 10px;'>$26,184</td>
-<td style='padding: 10px;'>$25,284</td>
+<td style='padding: 10px;'>$26,184.00</td>
+<td style='padding: 10px;'>$25,284.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 2 VEHICLES</td>
-<td style='padding: 10px;'>$6,577</td>
-<td style='padding: 10px;'>$6,457</td>
+<td style='padding: 10px;'>$6,577.00</td>
+<td style='padding: 10px;'>$6,457.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 25 VEHICLES</td>
-<td style='padding: 10px;'>$38,574</td>
-<td style='padding: 10px;'>$37,074</td>
+<td style='padding: 10px;'>$38,574.00</td>
+<td style='padding: 10px;'>$37,074.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

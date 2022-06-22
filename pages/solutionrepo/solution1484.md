@@ -24,22 +24,22 @@ OneSumX solution is a modular end-to-end solution suite designed on an integrate
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 4)</td>
-<td style='padding: 10px;'>$536,000</td>
-<td style='padding: 10px;'>$536,000</td>
+<td style='padding: 10px;'>$536,000.00</td>
+<td style='padding: 10px;'>$536,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OneSumX for Regulatory Reporting Version 3.1.0 -  Package (Tier 3)</td>
-<td style='padding: 10px;'>$749,920</td>
-<td style='padding: 10px;'>$749,920</td>
+<td style='padding: 10px;'>$749,920.00</td>
+<td style='padding: 10px;'>$749,920.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OneSumX for Regulatory Reporting Version 3.1.0 - Package (Tier 2)</td>
-<td style='padding: 10px;'>$1,149,920</td>
-<td style='padding: 10px;'>$830,000</td>
+<td style='padding: 10px;'>$1,149,920.00</td>
+<td style='padding: 10px;'>$830,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
