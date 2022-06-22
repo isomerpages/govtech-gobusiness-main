@@ -16,9 +16,9 @@ National Parks Board (NPARKS)
  <h3>FAQs</h3>
  <ol>
  <li>
- <div><strong>How to apply for this?<br /></strong>Apply via internet, via counter, using filer<br /><br /></div>
+ <div><strong>How to apply for this?<br /></strong>Apply via GoBusiness portal at <a href="https://licence1.business.gov.sg/licence1/authentication/mainLogin.action" target="_blank" rel="noopener">https://licence1.business.gov.sg/licence1/authentication/mainLogin.action</a><br /><br /></div>
  </li>
- <li><strong>Where can I get the FAQ for Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">http://www.ifaq.gov.sg/NPARKS/apps/fcd_faqmain.aspx</a></li>
+ <li><strong>Where can I get the FAQ for Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx" target="_blank" rel="noopener">https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx</a></li>
  </ol>
 
 <strong>Additional Information</strong>
