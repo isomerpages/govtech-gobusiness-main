@@ -25,8 +25,8 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>10400</td>
+<td style='padding: 10px;'>10400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ AutoCount Accounting stands out as one of the best accounting software for today
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System Version 2.0-Basic (1 User)</td>
-<td style='padding: 10px;'>$4,140.00</td>
-<td style='padding: 10px;'>$4,140.00</td>
+<td style='padding: 10px;'>4140</td>
+<td style='padding: 10px;'>4140</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

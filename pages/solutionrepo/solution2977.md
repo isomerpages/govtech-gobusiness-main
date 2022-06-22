@@ -24,8 +24,8 @@ CUB3COMMERCE covers the development of an online shopping website with comprehen
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cub3commerce - Standard Ecommerce</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DUCB3_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

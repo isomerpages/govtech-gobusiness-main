@@ -25,8 +25,8 @@ With this all-rounded Firewall Network Perimeter Protection, a proper firewall c
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed Firewall - Fortinet  - FortiGate-60F 24x7 - 1 Year</td>
-<td style='padding: 10px;'>$4,265.00</td>
-<td style='padding: 10px;'>$4,265.00</td>
+<td style='padding: 10px;'>4265</td>
+<td style='padding: 10px;'>4265</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic</td>
-<td style='padding: 10px;'>$8,331.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'>8331</td>
+<td style='padding: 10px;'>8100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

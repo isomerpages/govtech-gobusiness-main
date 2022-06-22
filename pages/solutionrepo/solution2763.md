@@ -24,8 +24,8 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F</td>
-<td style='padding: 10px;'>$4,865.00</td>
-<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'>4865</td>
+<td style='padding: 10px;'>4865</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

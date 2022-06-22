@@ -25,8 +25,8 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE-Xero Subscription Only</td>
-<td style='padding: 10px;'>$729.00</td>
-<td style='padding: 10px;'>$729.00</td>
+<td style='padding: 10px;'>729</td>
+<td style='padding: 10px;'>729</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedW.L.PAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

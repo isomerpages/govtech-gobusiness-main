@@ -26,8 +26,8 @@ The IFS Platform is manned by a team of three highly trained security profession
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>30000</td>
+<td style='padding: 10px;'>30000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

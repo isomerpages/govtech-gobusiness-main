@@ -24,8 +24,8 @@ Document management is a module to help the users digitize and manage their digi
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms - Document Management Solution Version 1 - Package A: (Up to 3 users)</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>2400</td>
+<td style='padding: 10px;'>2400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

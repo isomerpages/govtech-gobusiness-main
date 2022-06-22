@@ -26,8 +26,8 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 50</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>18600</td>
+<td style='padding: 10px;'>19600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

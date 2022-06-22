@@ -24,8 +24,8 @@ Salesforce is the #1 CRM, bringing companies and customers together in the digit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Salesforce Sales Cloud Professional Edition -Premier Success and Jumpstart Setup (3 Users)</td>
-<td style='padding: 10px;'>$11,289.00</td>
-<td style='padding: 10px;'>$8,837.00</td>
+<td style='padding: 10px;'>11289</td>
+<td style='padding: 10px;'>8837</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

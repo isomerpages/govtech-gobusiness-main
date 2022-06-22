@@ -28,8 +28,8 @@ Transform the way your team works together - give them a secure, shared workspac
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 10 users</td>
-<td style='padding: 10px;'>$958.00</td>
-<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'>958</td>
+<td style='padding: 10px;'>958</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

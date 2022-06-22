@@ -26,8 +26,8 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME Mini with Next Business Day Security Support</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Toffs_Technologies_20200279_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

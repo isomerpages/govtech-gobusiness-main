@@ -24,8 +24,8 @@ Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Soft
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Haulio Community System Version 2.0-15 Trucks</td>
-<td style='padding: 10px;'>$25,755.00</td>
-<td style='padding: 10px;'>$25,755.00</td>
+<td style='padding: 10px;'>25755</td>
+<td style='padding: 10px;'>25755</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Haulio_20200180_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

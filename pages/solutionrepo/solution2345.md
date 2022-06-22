@@ -24,8 +24,8 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>6400</td>
+<td style='padding: 10px;'>6400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

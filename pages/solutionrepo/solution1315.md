@@ -24,8 +24,8 @@ The GRmail removes the email threats even before it reaches the email server and
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 30 x GR with Cyber Essential Course 1 Year Package</td>
-<td style='padding: 10px;'>$7,170.00</td>
-<td style='padding: 10px;'>$7,170.00</td>
+<td style='padding: 10px;'>7170</td>
+<td style='padding: 10px;'>7170</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

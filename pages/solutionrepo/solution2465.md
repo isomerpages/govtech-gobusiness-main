@@ -24,8 +24,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2465
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Corsiva Lab Digital Marketing Packages - Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>6000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DM_Corsiva_Lab_Annex_3_CR_wef_25_Nov_2021_Part_123.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

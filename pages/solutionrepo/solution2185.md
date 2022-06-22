@@ -24,8 +24,8 @@ The BlueMeg Console is a cloud-based entity management and document management s
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console - Package A (50 Entities)</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>7500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

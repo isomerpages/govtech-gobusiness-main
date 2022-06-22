@@ -24,8 +24,8 @@ This Digital Marketing Package aims to help SMEs rapidly grow their business onl
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 1 - [SEO, Facebook Ads & 1 SEO Content]-[2 Months]</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>8000</td>
+<td style='padding: 10px;'>8000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RootDigital_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - A - Xero subscription only</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'>600</td>
+<td style='padding: 10px;'>560</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

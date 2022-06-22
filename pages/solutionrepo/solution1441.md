@@ -24,8 +24,8 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Start-up)</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'>3207</td>
+<td style='padding: 10px;'>3207</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

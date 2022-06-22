@@ -24,8 +24,8 @@ SAFE is the ultimate tool for designing concrete floor and foundation systems. F
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAFE Post-Tension Suite - Package 1 (1 Year subscription)</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>10300</td>
+<td style='padding: 10px;'>8500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Otte_International__20210049_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

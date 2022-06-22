@@ -26,8 +26,8 @@ With a deep understanding of clients, Mediaplus digital customizes solutions bas
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'>6890</td>
+<td style='padding: 10px;'>6890</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

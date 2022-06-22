@@ -24,8 +24,8 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Starter - 1A</td>
-<td style='padding: 10px;'>$2,790.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
+<td style='padding: 10px;'>2790</td>
+<td style='padding: 10px;'>2740</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

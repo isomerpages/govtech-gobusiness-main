@@ -24,8 +24,8 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium, Subscription only)</td>
-<td style='padding: 10px;'>$780.00</td>
-<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'>780</td>
+<td style='padding: 10px;'>725</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

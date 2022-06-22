@@ -24,8 +24,8 @@ ABSS premier is an on-premise full fledge and integrated accounting, sales, inve
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23.0 - Package A (Single User Licence full package)</td>
-<td style='padding: 10px;'>$2,750.00</td>
-<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'>2750</td>
+<td style='padding: 10px;'>2750</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

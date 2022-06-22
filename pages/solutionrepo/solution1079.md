@@ -24,8 +24,8 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>5300</td>
+<td style='padding: 10px;'>5300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

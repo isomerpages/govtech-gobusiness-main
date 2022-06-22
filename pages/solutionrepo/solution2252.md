@@ -24,8 +24,8 @@ ABSS Premier is an Accounting & Sales Management Software that is fully integrat
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package A with E-Invoicing(1 User)</td>
-<td style='padding: 10px;'>$2,037.00</td>
-<td style='padding: 10px;'>$2,037.00</td>
+<td style='padding: 10px;'>2037</td>
+<td style='padding: 10px;'>2037</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_E_Click_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

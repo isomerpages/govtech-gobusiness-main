@@ -24,8 +24,8 @@ Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and re
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shortcuts Version 8 - Shortcuts Fusion Live</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
+<td style='padding: 10px;'>2210</td>
+<td style='padding: 10px;'>2210</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ Shell Telematics is designed to help business owners get the best performance fr
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shell Telematics - Shell Telematics (5 vehicles)</td>
-<td style='padding: 10px;'>$2,435.00</td>
-<td style='padding: 10px;'>$2,435.00</td>
+<td style='padding: 10px;'>2435</td>
+<td style='padding: 10px;'>2435</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

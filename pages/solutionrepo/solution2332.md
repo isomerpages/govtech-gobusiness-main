@@ -26,8 +26,8 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite >150 Users</td>
-<td style='padding: 10px;'>$29,400.00</td>
-<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'>29400</td>
+<td style='padding: 10px;'>24400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

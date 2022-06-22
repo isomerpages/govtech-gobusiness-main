@@ -24,8 +24,8 @@ SoloTracking is an industry-proven, advanced and productivity-oriented fleet man
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SoloTracking Version 2 - Package A (5 vehicles)</td>
-<td style='padding: 10px;'>$4,039.00</td>
-<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'>4039</td>
+<td style='padding: 10px;'>4039</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_tracking_Annex_3_CR_wef_21_Oct_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

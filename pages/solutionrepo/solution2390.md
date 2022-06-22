@@ -27,8 +27,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2390
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO subscription only</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'>$888.00</td>
+<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'>888</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

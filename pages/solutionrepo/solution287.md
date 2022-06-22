@@ -24,8 +24,8 @@ Xero is an universal accounting software that provides a complete list of accoun
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution A</td>
-<td style='padding: 10px;'>$3,979.00</td>
-<td style='padding: 10px;'>$3,979.00</td>
+<td style='padding: 10px;'>3979</td>
+<td style='padding: 10px;'>3979</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

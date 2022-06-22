@@ -24,8 +24,8 @@ Acc Pro (Singapore), a Top-recommended Pro-Advisor for QuickBooks Online is prou
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Package - Intuit Quickbooks Online - Basic Plan</td>
-<td style='padding: 10px;'>$2,778.00</td>
-<td style='padding: 10px;'>$2,778.00</td>
+<td style='padding: 10px;'>2778</td>
+<td style='padding: 10px;'>2778</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAccProAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

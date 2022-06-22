@@ -24,8 +24,8 @@ Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-o
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud-Essentials - 3 Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'>24300</td>
+<td style='padding: 10px;'>22500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAfonSystemsAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

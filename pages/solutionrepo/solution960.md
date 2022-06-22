@@ -24,8 +24,8 @@ An easily adaptable enterprise resource planning (ERP) solution, it helps small 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing</td>
-<td style='padding: 10px;'>$47,039.00</td>
-<td style='padding: 10px;'>$32,316.00</td>
+<td style='padding: 10px;'>47039</td>
+<td style='padding: 10px;'>32316</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

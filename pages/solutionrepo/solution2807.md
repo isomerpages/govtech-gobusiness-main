@@ -24,8 +24,8 @@ Cleverly's Digital Marketing package is created to help businesses create brand 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SEM</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>9000</td>
+<td style='padding: 10px;'>9000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

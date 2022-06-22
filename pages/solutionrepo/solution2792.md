@@ -24,8 +24,8 @@ Opensoft is a provider of Payroll and Human Resources Management System (HRMS) s
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (25 pax)</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'>7400</td>
+<td style='padding: 10px;'>6300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

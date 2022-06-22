@@ -24,8 +24,8 @@ Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps me
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Basic WeChat Package</td>
-<td style='padding: 10px;'>$6,188.00</td>
-<td style='padding: 10px;'>$6,188.00</td>
+<td style='padding: 10px;'>6188</td>
+<td style='padding: 10px;'>6188</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

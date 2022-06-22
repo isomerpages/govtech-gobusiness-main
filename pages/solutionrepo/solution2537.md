@@ -24,8 +24,8 @@ Aggregate Consultancy Services provides one stop digital solution to digitalise 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package A (Starter)</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>720</td>
+<td style='padding: 10px;'>720</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

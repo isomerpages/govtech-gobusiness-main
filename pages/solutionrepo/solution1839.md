@@ -24,8 +24,8 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (1 Doctor)</td>
-<td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'>$2,780.00</td>
+<td style='padding: 10px;'>2780</td>
+<td style='padding: 10px;'>2780</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

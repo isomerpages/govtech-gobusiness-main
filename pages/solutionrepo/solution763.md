@@ -25,8 +25,8 @@ SecureAPlus is an EndPoint protection solution that uses the right combination o
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SecureAPlus Version 6.x - (60 Pax)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>0</td>
+<td style='padding: 10px;'>2000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

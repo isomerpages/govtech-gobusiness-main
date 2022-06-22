@@ -24,8 +24,8 @@ The Matterport Pro2 Camera together with the Cloud platform is the gold standard
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Matterport Pro2 3D Solution - Matterport Professional</td>
-<td style='padding: 10px;'>$7,788.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>7788</td>
+<td style='padding: 10px;'>4500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -25,8 +25,8 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'>$20,260.00</td>
+<td style='padding: 10px;'>20260</td>
+<td style='padding: 10px;'>20260</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

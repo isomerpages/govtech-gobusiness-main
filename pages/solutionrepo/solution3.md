@@ -24,8 +24,8 @@ ABSS Premier is an integrated accounting, sales, inventory and multiple-currency
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)</td>
-<td style='padding: 10px;'>$3,553.00</td>
-<td style='padding: 10px;'>$3,553.00</td>
+<td style='padding: 10px;'>3553</td>
+<td style='padding: 10px;'>3553</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

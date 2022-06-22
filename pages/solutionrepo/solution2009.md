@@ -26,8 +26,8 @@ Your team has the freedom to check rosters, accept and decline shifts, request l
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roubler - Roubler 1 - 30 Users </td>
-<td style='padding: 10px;'>$3,220.00</td>
-<td style='padding: 10px;'>$3,220.00</td>
+<td style='padding: 10px;'>3220</td>
+<td style='padding: 10px;'>3220</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roubler20200690_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

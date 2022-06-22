@@ -27,8 +27,8 @@ Creative Sales and Order Management System is a B2B ecommerce platform that faci
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales & Order Management - Package (SMEZ)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>0</td>
+<td style='padding: 10px;'>9800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - LITE</td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'>$11,013.00</td>
+<td style='padding: 10px;'>13500</td>
+<td style='padding: 10px;'>11013</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ Moiboo is an automobile business software which helps auto workshops, auto deale
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>REACH MOIBOO Version 1.8 - Plan A</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>5400</td>
+<td style='padding: 10px;'>5400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

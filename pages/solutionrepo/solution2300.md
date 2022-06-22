@@ -24,8 +24,8 @@ Really provides the state-of-the-art platform that helps property & facilities m
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>3900</td>
+<td style='padding: 10px;'>3800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

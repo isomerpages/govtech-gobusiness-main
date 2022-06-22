@@ -26,8 +26,8 @@ Our solutions help retail owners run sales and promotions, track inventory, mana
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package A (Single terminal)</td>
-<td style='padding: 10px;'>$3,179.00</td>
-<td style='padding: 10px;'>$3,178.00</td>
+<td style='padding: 10px;'>3179</td>
+<td style='padding: 10px;'>3178</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

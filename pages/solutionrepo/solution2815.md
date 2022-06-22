@@ -24,8 +24,8 @@ iREP Security is a mobile reporting, maintenance and monitoring system which use
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'>22500</td>
+<td style='padding: 10px;'>22500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

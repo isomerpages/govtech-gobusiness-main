@@ -24,8 +24,8 @@ It's a powerful Mobile Application designed for Building and Construction indust
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eBIS Version V1.0-eBIS (Basic Package -1 Project)</td>
-<td style='padding: 10px;'>$30,100.00</td>
-<td style='padding: 10px;'>$19,660.00</td>
+<td style='padding: 10px;'>30100</td>
+<td style='padding: 10px;'>19660</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

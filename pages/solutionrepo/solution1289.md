@@ -24,8 +24,8 @@ PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering H
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 50</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

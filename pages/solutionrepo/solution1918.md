@@ -24,8 +24,8 @@ Build everlasting customer relationships with the world's favorite CRM. Zoho CRM
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - STANDARD edition, 5 users</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'>900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

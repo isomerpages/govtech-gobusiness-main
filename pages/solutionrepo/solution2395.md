@@ -24,8 +24,8 @@ HRMS software assists an organization's human resources department by automating
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartCursors Human Resource Management System (HRMS) - Bronze (up to 10 Users)</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>3200</td>
+<td style='padding: 10px;'>3000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Smartcursors_HRMS_20200638_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

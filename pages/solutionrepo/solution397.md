@@ -25,8 +25,8 @@ FacilityBot is the first-to-market omni-channel AI-powered facilities management
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FacilityBot - Small Facilities</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>3600</td>
+<td style='padding: 10px;'>3600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 5 Licenses (1 year)</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'>$300.00</td>
+<td style='padding: 10px;'>300</td>
+<td style='padding: 10px;'>300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

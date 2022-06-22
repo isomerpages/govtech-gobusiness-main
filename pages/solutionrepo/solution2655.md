@@ -24,8 +24,8 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-60F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'>$2,754.00</td>
+<td style='padding: 10px;'>2754</td>
+<td style='padding: 10px;'>2754</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask PRO - Standard Workforce & Task-Management solution</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'>$9,968.00</td>
+<td style='padding: 10px;'>9968</td>
+<td style='padding: 10px;'>9968</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

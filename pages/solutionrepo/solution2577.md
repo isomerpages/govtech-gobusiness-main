@@ -24,8 +24,8 @@ Profectant has established a sound track record in simplifying and implementing 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'>2368</td>
+<td style='padding: 10px;'>2368</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

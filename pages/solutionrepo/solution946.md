@@ -24,8 +24,8 @@ VersaFleet Transport Management Software (TMS) automates logistics processes for
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VersaFleet Version 6-W</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$35,150.00</td>
+<td style='padding: 10px;'>0</td>
+<td style='padding: 10px;'>35150</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Versafleet-WS_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

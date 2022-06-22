@@ -24,8 +24,8 @@ Sage300 is a powerful accounting and financial management solution that allows S
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Version 2021 - Advance Edition (Single User)</td>
-<td style='padding: 10px;'>$8,693.00</td>
-<td style='padding: 10px;'>$8,693.00</td>
+<td style='padding: 10px;'>8693</td>
+<td style='padding: 10px;'>8693</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

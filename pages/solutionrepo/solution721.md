@@ -24,8 +24,8 @@ Our company specializes in business software applications ie selling Psoft Accou
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Psoft Accounting Systems - Package (Cloud-Based Single User - Peppol Ready)</td>
-<td style='padding: 10px;'>$1,520.00</td>
-<td style='padding: 10px;'>$1,170.00</td>
+<td style='padding: 10px;'>1520</td>
+<td style='padding: 10px;'>1170</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PSoft_Annex_3_CR_wef_4_Nov_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

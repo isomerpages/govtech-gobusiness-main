@@ -24,8 +24,8 @@ PixelCommerce is a complete e-Store solution that enables SMEs to boost business
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.2.5 - Essentials</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>8900</td>
+<td style='padding: 10px;'>8900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

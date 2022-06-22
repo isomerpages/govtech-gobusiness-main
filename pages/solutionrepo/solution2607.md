@@ -24,8 +24,8 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package A - 1 Site</td>
-<td style='padding: 10px;'>$1,380.00</td>
-<td style='padding: 10px;'>$1,380.00</td>
+<td style='padding: 10px;'>1380</td>
+<td style='padding: 10px;'>1380</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

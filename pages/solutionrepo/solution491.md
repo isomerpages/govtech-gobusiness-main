@@ -24,8 +24,8 @@ The SAP Business One application offers a single, affordable way to manage your 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One 9.3 Package - Package (2 Starter Users on Cloud)</td>
-<td style='padding: 10px;'>$11,630.00</td>
-<td style='padding: 10px;'>$11,630.00</td>
+<td style='padding: 10px;'>11630</td>
+<td style='padding: 10px;'>11630</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedIntegratedInfoSystemsAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

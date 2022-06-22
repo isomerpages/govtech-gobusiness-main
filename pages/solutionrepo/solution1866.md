@@ -28,8 +28,8 @@ T-Guard is a complete system that provides utmost safe driving management system
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard - Package (1 Vehicle)</td>
-<td style='padding: 10px;'>$5,538.00</td>
-<td style='padding: 10px;'>$3,908.00</td>
+<td style='padding: 10px;'>5538</td>
+<td style='padding: 10px;'>3908</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_Surveillance_Annex_3_CR_wef_14_Oct_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

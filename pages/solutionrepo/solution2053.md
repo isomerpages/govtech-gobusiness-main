@@ -25,8 +25,8 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (10 Units)</td>
-<td style='padding: 10px;'>$1,370.00</td>
-<td style='padding: 10px;'>$1,370.00</td>
+<td style='padding: 10px;'>1370</td>
+<td style='padding: 10px;'>1370</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

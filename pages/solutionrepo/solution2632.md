@@ -24,8 +24,8 @@ A2000ERP is a business management tool, integrated with components necessary for
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP SOLUTION Version 12.X - A2000ERP LITE System for 2 Users(Cloud Based-1yr SAAS) </td>
-<td style='padding: 10px;'>$13,040.00</td>
-<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'>13040</td>
+<td style='padding: 10px;'>13040</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/A2000ERP_(Generic__20210321_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

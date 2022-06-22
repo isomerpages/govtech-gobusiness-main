@@ -24,8 +24,8 @@ WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We bel
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Express</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>8300</td>
+<td style='padding: 10px;'>8300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

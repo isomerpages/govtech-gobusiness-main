@@ -26,8 +26,8 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Xero Accounting System - Go EBOS - All In One Starter</td>
-<td style='padding: 10px;'>$1,580.00</td>
-<td style='padding: 10px;'>$1,525.00</td>
+<td style='padding: 10px;'>1580</td>
+<td style='padding: 10px;'>1525</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_20210353_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

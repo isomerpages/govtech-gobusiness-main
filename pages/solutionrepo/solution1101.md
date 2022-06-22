@@ -26,8 +26,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1101
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 BC Essential 3 Users</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$23,600.00</td>
+<td style='padding: 10px;'>27600</td>
+<td style='padding: 10px;'>23600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

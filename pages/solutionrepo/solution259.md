@@ -25,8 +25,8 @@ PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile@HRM Version 3 - Package (Tier 1 - 25 user)</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'>5900</td>
+<td style='padding: 10px;'>5100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

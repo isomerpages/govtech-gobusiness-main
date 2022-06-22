@@ -24,8 +24,8 @@ SHOPLINE provides extensive e-commerce support: inventory management, payment an
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Advanced Ecommerce (SCALE) + Digital Marketing (Basic)</td>
-<td style='padding: 10px;'>$3,649.00</td>
-<td style='padding: 10px;'>$3,369.00</td>
+<td style='padding: 10px;'>3649</td>
+<td style='padding: 10px;'>3369</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Shopline20200902_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

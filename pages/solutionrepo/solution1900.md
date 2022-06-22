@@ -24,8 +24,8 @@ Arcstone's Product and Manufacturing Process Configuration solution empowers man
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>arc.lite and arc.ops - Process Configuration (arc.link Module) - Annual Subscription License - Basic</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>5000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

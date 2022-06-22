@@ -24,8 +24,8 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision Remote Assist Version 1.0 - NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)</td>
-<td style='padding: 10px;'>$14,872.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'>14872</td>
+<td style='padding: 10px;'>11800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

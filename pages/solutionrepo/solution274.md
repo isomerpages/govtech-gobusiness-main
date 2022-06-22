@@ -24,8 +24,8 @@ Insight QSE Safety PTW System alleviates the current paper-based method of routi
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InSight QSE - Insight QSE Safety PTW System (Starter)</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'>$15,400.00</td>
+<td style='padding: 10px;'>18800</td>
+<td style='padding: 10px;'>15400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

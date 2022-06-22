@@ -24,8 +24,8 @@ EQCOMS's Managed Security Service deliver operationally simple, proactive preven
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>2800</td>
+<td style='padding: 10px;'>2800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

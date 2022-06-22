@@ -24,8 +24,8 @@ APEC Solutions is a full-stack digital marketing agency dedicated to helping bus
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 1 - SEM & SEO (3 Months)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>7300</td>
+<td style='padding: 10px;'>7300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Apec_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

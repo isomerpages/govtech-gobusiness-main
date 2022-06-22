@@ -24,8 +24,8 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>4000</td>
+<td style='padding: 10px;'>4000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ EZ Accounting and Inventory Management System started since 1999 developed by EZ
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'>$4,033.00</td>
+<td style='padding: 10px;'>4033</td>
+<td style='padding: 10px;'>4033</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ RAVENPOS wellness management system helps to manage and automate crucial busines
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Basic</td>
-<td style='padding: 10px;'>$5,450.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>5450</td>
+<td style='padding: 10px;'>5300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

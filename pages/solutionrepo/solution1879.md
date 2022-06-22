@@ -24,8 +24,8 @@ Optimize your retail business productivity and efficiency with RetailPlan, our i
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSUITE Version 6.0 - Package Basic</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>5040</td>
+<td style='padding: 10px;'>5040</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

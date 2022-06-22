@@ -24,8 +24,8 @@ One-Stop Document Access is a document management system that offers browser and
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>One-Stop Document Access - Lite (2 Users)</td>
-<td style='padding: 10px;'>$3,336.00</td>
-<td style='padding: 10px;'>$2,112.00</td>
+<td style='padding: 10px;'>3336</td>
+<td style='padding: 10px;'>2112</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

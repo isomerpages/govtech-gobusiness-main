@@ -24,8 +24,8 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>vTrak Version 1.4 - 5 VEHICLES</td>
-<td style='padding: 10px;'>$10,294.00</td>
-<td style='padding: 10px;'>$9,994.00</td>
+<td style='padding: 10px;'>10294</td>
+<td style='padding: 10px;'>9994</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Idee_Infocomm_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

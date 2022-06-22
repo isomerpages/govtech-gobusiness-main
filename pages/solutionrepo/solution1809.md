@@ -24,8 +24,8 @@ Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified T
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)</td>
-<td style='padding: 10px;'>$5,582.00</td>
-<td style='padding: 10px;'>$5,582.00</td>
+<td style='padding: 10px;'>5582</td>
+<td style='padding: 10px;'>5582</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

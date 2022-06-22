@@ -24,8 +24,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2470
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Search Accelerated - 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>10000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

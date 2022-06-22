@@ -24,8 +24,8 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote  up to 5</td>
-<td style='padding: 10px;'>$4,980.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>4980</td>
+<td style='padding: 10px;'>4900</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

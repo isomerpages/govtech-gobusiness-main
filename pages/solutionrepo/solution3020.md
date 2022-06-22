@@ -24,8 +24,8 @@ Nett VMS is an integration of visitor management system + license plate recognit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Basic  </td>
-<td style='padding: 10px;'>$32,140.00</td>
-<td style='padding: 10px;'>$22,740.00</td>
+<td style='padding: 10px;'>32140</td>
+<td style='padding: 10px;'>22740</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nettbox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

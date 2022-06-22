@@ -24,8 +24,8 @@ FocusGuard Fleet Management System is designed as the process of controlling, mo
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>3400</td>
+<td style='padding: 10px;'>3400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

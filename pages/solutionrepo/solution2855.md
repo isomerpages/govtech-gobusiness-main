@@ -24,8 +24,8 @@ Benefit from MediaOne's digital marketing solutions that bring results to client
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'>8888</td>
+<td style='padding: 10px;'>8888</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

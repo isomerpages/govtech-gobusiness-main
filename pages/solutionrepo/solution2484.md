@@ -24,8 +24,8 @@ The SAP2000 Ultimate Suite is the most advanced 3D finite element analysis and d
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP2000 Ultimate Suite - Package 1 with Training (1 Year)</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>15900</td>
+<td style='padding: 10px;'>8500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Otte_International_SAP_2000_20210048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

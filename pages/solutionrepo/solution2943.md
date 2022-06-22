@@ -26,8 +26,8 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'>920</td>
+<td style='padding: 10px;'>920</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

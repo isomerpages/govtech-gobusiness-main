@@ -24,8 +24,8 @@ Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. I
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 1</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,560.00</td>
+<td style='padding: 10px;'>3000</td>
+<td style='padding: 10px;'>2560</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

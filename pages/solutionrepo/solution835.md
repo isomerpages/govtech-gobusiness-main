@@ -24,8 +24,8 @@ Synergix E1 is a comprehensive ERP solution that helps to integrate and link up 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix E1 Sales & Accounting - Package (10 users) - TH6</td>
-<td style='padding: 10px;'>$61,305.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'>61305</td>
+<td style='padding: 10px;'>42800</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

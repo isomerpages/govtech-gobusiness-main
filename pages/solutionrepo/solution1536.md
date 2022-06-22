@@ -24,8 +24,8 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tekla Solutions - Tekla Structural Designer with Training</td>
-<td style='padding: 10px;'>$4,192.00</td>
-<td style='padding: 10px;'>$3,620.00</td>
+<td style='padding: 10px;'>4192</td>
+<td style='padding: 10px;'>3620</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desentitised_Trimble_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

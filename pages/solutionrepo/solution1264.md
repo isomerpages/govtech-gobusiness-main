@@ -24,8 +24,8 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Plus Version 4 - Package A</td>
-<td style='padding: 10px;'>$4,450.00</td>
-<td style='padding: 10px;'>$3,170.00</td>
+<td style='padding: 10px;'>4450</td>
+<td style='padding: 10px;'>3170</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPLUSAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

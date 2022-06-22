@@ -24,8 +24,8 @@ Assemble Systems provides a SaaS platform that consumes BIM models, drawings, an
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - ASSEMBLE-PROJECT - 1 YEAR </td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'>$13,500.00</td>
+<td style='padding: 10px;'>13500</td>
+<td style='padding: 10px;'>13500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

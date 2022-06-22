@@ -24,8 +24,8 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update</td>
-<td style='padding: 10px;'>$1,967.00</td>
-<td style='padding: 10px;'>$1,967.00</td>
+<td style='padding: 10px;'>1967</td>
+<td style='padding: 10px;'>1967</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ SAP Business One is an enterprise resource planning (ERP) software designed for 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$31,968.00</td>
-<td style='padding: 10px;'>$29,368.00</td>
+<td style='padding: 10px;'>31968</td>
+<td style='padding: 10px;'>29368</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAFONTECH_Annex_3_CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

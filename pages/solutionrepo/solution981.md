@@ -26,8 +26,8 @@ AZ Digital ordering solution provides an up scaling process in engaging customer
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 15.6" Customer Self Ordering Station Package )</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>6500</td>
+<td style='padding: 10px;'>6500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex_3_CR_wef_11_Nov_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

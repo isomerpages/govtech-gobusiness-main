@@ -24,8 +24,8 @@ Taidii is a company providing integrated solution to all the educational institu
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Premium</td>
-<td style='padding: 10px;'>$13,400.00</td>
-<td style='padding: 10px;'>$13,400.00</td>
+<td style='padding: 10px;'>13400</td>
+<td style='padding: 10px;'>13400</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

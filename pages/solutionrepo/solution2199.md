@@ -24,8 +24,8 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Express</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'>6300</td>
+<td style='padding: 10px;'>6300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

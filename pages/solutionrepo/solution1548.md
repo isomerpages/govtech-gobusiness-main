@@ -24,8 +24,8 @@ Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed pl
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 25 users</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>2000</td>
+<td style='padding: 10px;'>2000</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

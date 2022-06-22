@@ -24,8 +24,8 @@ Kaddra helps businesses turn loyalty into revenue, improve retention and acceler
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KADDRA Mobile App Commerce Solution Version 1.9 - Starter</td>
-<td style='padding: 10px;'>$1,388.00</td>
-<td style='padding: 10px;'>$1,388.00</td>
+<td style='padding: 10px;'>1388</td>
+<td style='padding: 10px;'>1388</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

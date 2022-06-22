@@ -26,8 +26,8 @@ With the advancement of technology, Edgeworks Solutions is able to now use the b
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Equip Wholesale Solutions Version 3 - Package (Basic)</td>
-<td style='padding: 10px;'>$6,158.00</td>
-<td style='padding: 10px;'>$5,858.00</td>
+<td style='padding: 10px;'>6158</td>
+<td style='padding: 10px;'>5858</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -27,8 +27,8 @@ The system is also able to add in a variety of Telematics smart sensors to meet 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 2 Vehicles</td>
-<td style='padding: 10px;'>$6,458.00</td>
-<td style='padding: 10px;'>$4,558.00</td>
+<td style='padding: 10px;'>6458</td>
+<td style='padding: 10px;'>4558</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

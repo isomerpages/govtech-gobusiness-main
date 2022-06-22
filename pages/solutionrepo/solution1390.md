@@ -24,8 +24,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1390
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Omni Commerce Version 1.03 - STANDARD</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>2500</td>
+<td style='padding: 10px;'>2500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

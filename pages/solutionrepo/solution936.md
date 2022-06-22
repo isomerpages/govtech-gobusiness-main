@@ -24,8 +24,8 @@ Cloud-Based POS System with product management, inventory management, promotion 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KYBIO Version 3.0.9.3 - Package (Basic)</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'>$4,300.00</td>
+<td style='padding: 10px;'>4380</td>
+<td style='padding: 10px;'>4300</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

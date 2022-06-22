@@ -24,8 +24,8 @@ Dropbox is a file storage solution known to many individuals, but the business e
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - Dropbox Business: 3 Users</td>
-<td style='padding: 10px;'>$1,360.00</td>
-<td style='padding: 10px;'>$1,360.00</td>
+<td style='padding: 10px;'>1360</td>
+<td style='padding: 10px;'>1360</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

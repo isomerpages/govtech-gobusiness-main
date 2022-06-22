@@ -26,8 +26,8 @@ SGDATAPOS Digital Ordering is easily integrated to other SGDATA add-on modules s
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package A, Basic On-line ordering</td>
-<td style='padding: 10px;'>$4,420.00</td>
-<td style='padding: 10px;'>$4,420.00</td>
+<td style='padding: 10px;'>4420</td>
+<td style='padding: 10px;'>4420</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

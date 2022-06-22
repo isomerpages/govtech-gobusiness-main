@@ -24,8 +24,8 @@ Bitdefender GZ Advanced Business Security -- Guard against all threats and attac
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EndPoint Protection Platform - GZ Business Security Premium - 10 Licenses</td>
-<td style='padding: 10px;'>$581.00</td>
-<td style='padding: 10px;'>$581.00</td>
+<td style='padding: 10px;'>581</td>
+<td style='padding: 10px;'>581</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Solutions_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

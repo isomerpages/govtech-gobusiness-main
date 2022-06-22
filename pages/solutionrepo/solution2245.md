@@ -24,8 +24,8 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Version 10.5-Advante Package A (Xero Standard Subscription Only)</td>
-<td style='padding: 10px;'>$670.00</td>
-<td style='padding: 10px;'>$670.00</td>
+<td style='padding: 10px;'>670</td>
+<td style='padding: 10px;'>670</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

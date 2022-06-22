@@ -24,8 +24,8 @@ Powerful & speedy cloud-based digital ordering system, accelerate your business 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (1 Waiter)</td>
-<td style='padding: 10px;'>$3,248.00</td>
-<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>3248</td>
+<td style='padding: 10px;'>3200</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

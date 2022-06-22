@@ -24,8 +24,8 @@ Aptsys online CRM, marketing and advertising capabilities will propel businesses
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package A</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>3600</td>
+<td style='padding: 10px;'>3600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

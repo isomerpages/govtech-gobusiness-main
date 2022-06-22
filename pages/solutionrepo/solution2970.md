@@ -24,8 +24,8 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>3500</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

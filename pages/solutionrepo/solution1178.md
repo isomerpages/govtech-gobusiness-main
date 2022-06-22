@@ -24,8 +24,8 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package A (Madsoft Business 2 users) with Peppol e-invoicing </td>
-<td style='padding: 10px;'>$8,339.00</td>
-<td style='padding: 10px;'>$8,339.00</td>
+<td style='padding: 10px;'>8339</td>
+<td style='padding: 10px;'>8339</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

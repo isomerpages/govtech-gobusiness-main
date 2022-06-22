@@ -24,8 +24,8 @@ Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs t
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advocado Cloud Loyalty CRM Software - Package (Starter)</td>
-<td style='padding: 10px;'>$2,350.00</td>
-<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'>2350</td>
+<td style='padding: 10px;'>2350</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

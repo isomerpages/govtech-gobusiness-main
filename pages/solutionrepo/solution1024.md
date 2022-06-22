@@ -27,8 +27,8 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk BIM 360 - Autodesk Docs - 10 User Package (Formerly BIM 360 Docs) </td>
-<td style='padding: 10px;'>$4,300.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>4300</td>
+<td style='padding: 10px;'>4100</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Bimage_Consulting_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

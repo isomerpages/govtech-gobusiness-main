@@ -28,8 +28,8 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>5700</td>
+<td style='padding: 10px;'>5700</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

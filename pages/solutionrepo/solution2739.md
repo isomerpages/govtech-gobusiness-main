@@ -24,8 +24,8 @@ Whyze Solutions is a HR & Payroll solution provider based in Singapore since 200
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 25</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>4600</td>
+<td style='padding: 10px;'>4600</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

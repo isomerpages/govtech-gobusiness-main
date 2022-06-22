@@ -24,8 +24,8 @@ EQuip POS Retail Solutions display real-time and offline capabilities at the sam
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package A (Basic)</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>4875</td>
+<td style='padding: 10px;'>4875</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

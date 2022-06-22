@@ -24,8 +24,8 @@ LGA's Managed Firewall Service provides robust next-generation firewall protecti
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Firewall Solution - Fortigate 40F</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'>$2,440.00</td>
+<td style='padding: 10px;'>2440</td>
+<td style='padding: 10px;'>2440</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

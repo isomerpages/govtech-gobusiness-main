@@ -24,8 +24,8 @@ Singtel Endpoint Security provides comprehensive protection for your endpoints-f
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses</td>
-<td style='padding: 10px;'>$625.00</td>
-<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'>625</td>
+<td style='padding: 10px;'>625</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
