@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management-System
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 

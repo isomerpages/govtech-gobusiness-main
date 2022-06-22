@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-Sys
 
 Up to 80% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 

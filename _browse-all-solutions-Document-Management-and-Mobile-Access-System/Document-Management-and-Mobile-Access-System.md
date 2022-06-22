@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Document-Management-and-Mobile-Access-System/Do
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 

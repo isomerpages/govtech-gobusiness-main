@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Job-Redesign/Job-Redesign-Consultancy
 
 Up to 70% for SMEs, 70% for non-SMEs
 
-This solution is supported by Workforce Singapore (WSG).
+This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 
 ## Pre-Approved Solutions
 

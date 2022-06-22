@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-S
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by  Enterprise Singapore (EnterpriseSG).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
@@ -54,3 +54,4 @@ This solution is supported by  Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2846' target='_blank'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2943' target='_blank'>Counto DIY Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3010' target='_blank'>Moneyworks</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3077' target='_blank'>FidCorp Xero Accounting Software</a><br>
