@@ -25,8 +25,8 @@ The solution aims to provide SME the opportunity to create an online presence. I
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3-DIMMPS</td>
-<td style='padding: 10px;'>9600</td>
-<td style='padding: 10px;'>9600</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

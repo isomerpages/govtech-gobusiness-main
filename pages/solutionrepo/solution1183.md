@@ -24,36 +24,36 @@ A cost-effective POS solution that comes with sleek hardware, feature-rich softw
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - MEGAPOS Standard</td>
-<td style='padding: 10px;'>4990</td>
-<td style='padding: 10px;'>4680</td>
+<td style='padding: 10px;'>$4,990.00</td>
+<td style='padding: 10px;'>$4,680.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - MEGAPOS Standard+</td>
-<td style='padding: 10px;'>$5,480</td>
-<td style='padding: 10px;'>$5,180</td>
+<td style='padding: 10px;'>$5,480.00</td>
+<td style='padding: 10px;'>$5,180.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - MEGAPOS Professional</td>
-<td style='padding: 10px;'>$6,530</td>
-<td style='padding: 10px;'>$6,230</td>
+<td style='padding: 10px;'>$6,530.00</td>
+<td style='padding: 10px;'>$6,230.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - MEGAPOS Professional+</td>
-<td style='padding: 10px;'>$7,030</td>
-<td style='padding: 10px;'>$6,730</td>
+<td style='padding: 10px;'>$7,030.00</td>
+<td style='padding: 10px;'>$6,730.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - MEGAPOS Pro on Tablet</td>
-<td style='padding: 10px;'>$5,990</td>
-<td style='padding: 10px;'>$5,528</td>
+<td style='padding: 10px;'>$5,990.00</td>
+<td style='padding: 10px;'>$5,528.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

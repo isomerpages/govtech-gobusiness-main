@@ -24,22 +24,22 @@ RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technolog
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - TRAFFIC 2.0</td>
-<td style='padding: 10px;'>3956</td>
-<td style='padding: 10px;'>3476</td>
+<td style='padding: 10px;'>$3,956.00</td>
+<td style='padding: 10px;'>$3,476.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PRODUCT ENGAGEMENT</td>
-<td style='padding: 10px;'>$3,956</td>
-<td style='padding: 10px;'>$3,476</td>
+<td style='padding: 10px;'>$3,956.00</td>
+<td style='padding: 10px;'>$3,476.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - PATH TO PURCHASE</td>
-<td style='padding: 10px;'>$6,912</td>
-<td style='padding: 10px;'>$5,776</td>
+<td style='padding: 10px;'>$6,912.00</td>
+<td style='padding: 10px;'>$5,776.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

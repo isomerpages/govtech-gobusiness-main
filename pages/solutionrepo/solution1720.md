@@ -24,8 +24,8 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>4670</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,670.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

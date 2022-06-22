@@ -24,36 +24,36 @@ Cartrack Fleet offers companies the visibility of their fleet, enabling better c
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package A)</td>
-<td style='padding: 10px;'>1800</td>
-<td style='padding: 10px;'>1800</td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'>$1,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package B)</td>
-<td style='padding: 10px;'>$3,000</td>
-<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package C)</td>
-<td style='padding: 10px;'>$6,000</td>
-<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package D)</td>
-<td style='padding: 10px;'>$8,460</td>
-<td style='padding: 10px;'>$8,460</td>
+<td style='padding: 10px;'>$8,460.00</td>
+<td style='padding: 10px;'>$8,460.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package E)</td>
-<td style='padding: 10px;'>$11,280</td>
-<td style='padding: 10px;'>$11,280</td>
+<td style='padding: 10px;'>$11,280.00</td>
+<td style='padding: 10px;'>$11,280.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_Annex_3_CR_wef_29_Oct_2020_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

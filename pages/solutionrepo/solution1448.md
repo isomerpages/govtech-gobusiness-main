@@ -26,36 +26,36 @@ Our solutions help retail owners run sales and promotions, track inventory, mana
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package A (Single terminal)</td>
-<td style='padding: 10px;'>3179</td>
-<td style='padding: 10px;'>3178</td>
+<td style='padding: 10px;'>$3,179.00</td>
+<td style='padding: 10px;'>$3,178.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package B (Multi Terminal)</td>
-<td style='padding: 10px;'>$7,837</td>
-<td style='padding: 10px;'>$7,784</td>
+<td style='padding: 10px;'>$7,837.00</td>
+<td style='padding: 10px;'>$7,784.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package C (Multi Terminal + CRM)</td>
-<td style='padding: 10px;'>$14,258</td>
-<td style='padding: 10px;'>$13,456</td>
+<td style='padding: 10px;'>$14,258.00</td>
+<td style='padding: 10px;'>$13,456.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package D (Multi Terminal + eCommerce)</td>
-<td style='padding: 10px;'>$13,058</td>
-<td style='padding: 10px;'>$12,256</td>
+<td style='padding: 10px;'>$13,058.00</td>
+<td style='padding: 10px;'>$12,256.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Octopus Retail Solution - Package E (Multi Terminal + CRM + eCommerce)</td>
-<td style='padding: 10px;'>$23,758</td>
-<td style='padding: 10px;'>$19,196</td>
+<td style='padding: 10px;'>$23,758.00</td>
+<td style='padding: 10px;'>$19,196.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

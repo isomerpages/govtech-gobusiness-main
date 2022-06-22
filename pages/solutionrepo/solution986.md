@@ -24,36 +24,36 @@ FocusGuard Fleet Management System is designed as the process of controlling, mo
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)</td>
-<td style='padding: 10px;'>3400</td>
-<td style='padding: 10px;'>3400</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (3 Vehicles)</td>
-<td style='padding: 10px;'>$4,100</td>
-<td style='padding: 10px;'>$4,100</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (4 Vehicles)</td>
-<td style='padding: 10px;'>$4,800</td>
-<td style='padding: 10px;'>$4,800</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (6 Vehicles)</td>
-<td style='padding: 10px;'>$6,200</td>
-<td style='padding: 10px;'>$6,200</td>
+<td style='padding: 10px;'>$6,200.00</td>
+<td style='padding: 10px;'>$6,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (10 Vehicles)</td>
-<td style='padding: 10px;'>$9,000</td>
-<td style='padding: 10px;'>$8,800</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

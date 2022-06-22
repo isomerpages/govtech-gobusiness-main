@@ -24,36 +24,36 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2526
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/SEM Advanced Combo</td>
-<td style='padding: 10px;'>$11,500</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_20210359_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

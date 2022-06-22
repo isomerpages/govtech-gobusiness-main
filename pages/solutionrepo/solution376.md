@@ -24,36 +24,36 @@ QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of b
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Essential 25</td>
-<td style='padding: 10px;'>4400</td>
-<td style='padding: 10px;'>4400</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Enhanced 50</td>
-<td style='padding: 10px;'>$8,000</td>
-<td style='padding: 10px;'>$8,000</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Enhanced 100</td>
-<td style='padding: 10px;'>$14,000</td>
-<td style='padding: 10px;'>$14,000</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Enterprise 150</td>
-<td style='padding: 10px;'>$20,000</td>
-<td style='padding: 10px;'>$20,000</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Enterprise 200</td>
-<td style='padding: 10px;'>$26,000</td>
-<td style='padding: 10px;'>$26,000</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$26,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

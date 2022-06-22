@@ -24,29 +24,29 @@ An easily adaptable enterprise resource planning (ERP) solution, it helps small 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing</td>
-<td style='padding: 10px;'>47039</td>
-<td style='padding: 10px;'>32316</td>
+<td style='padding: 10px;'>$47,039.00</td>
+<td style='padding: 10px;'>$32,316.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central for Wholesale - Package B (15 Perpetual Licenses) with  PEPPOL e-invoicing</td>
-<td style='padding: 10px;'>$59,771</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$59,771.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central for Wholesale - Package C (7 On-Cloud Licenses) with  PEPPOL e-invoicing</td>
-<td style='padding: 10px;'>$43,349</td>
-<td style='padding: 10px;'>$30,149</td>
+<td style='padding: 10px;'>$43,349.00</td>
+<td style='padding: 10px;'>$30,149.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central for Wholesale - Package D (15 On-Cloud Licenses) with  PEPPOL e-invoicing</td>
-<td style='padding: 10px;'>$51,715</td>
-<td style='padding: 10px;'>$38,515</td>
+<td style='padding: 10px;'>$51,715.00</td>
+<td style='padding: 10px;'>$38,515.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

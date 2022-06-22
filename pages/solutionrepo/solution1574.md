@@ -24,36 +24,36 @@ Sleek provides a fully digital solution for accounting, tax, HR and sales manage
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</td>
-<td style='padding: 10px;'>900</td>
-<td style='padding: 10px;'>900</td>
+<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - B - Start Up</td>
-<td style='padding: 10px;'>$1,200</td>
-<td style='padding: 10px;'>$1,200</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - C - SME</td>
-<td style='padding: 10px;'>$1,800</td>
-<td style='padding: 10px;'>$1,800</td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'>$1,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - D - Supreme</td>
-<td style='padding: 10px;'>$3,000</td>
-<td style='padding: 10px;'>$3,000</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Accounting & Sales Management by Sleek Version 1 - E - Growth</td>
-<td style='padding: 10px;'>$4,200</td>
-<td style='padding: 10px;'>$4,200</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

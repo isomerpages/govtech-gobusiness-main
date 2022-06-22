@@ -24,36 +24,36 @@ Shell Telematics is designed to help business owners get the best performance fr
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shell Telematics - Shell Telematics (5 vehicles)</td>
-<td style='padding: 10px;'>2435</td>
-<td style='padding: 10px;'>2435</td>
+<td style='padding: 10px;'>$2,435.00</td>
+<td style='padding: 10px;'>$2,435.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shell Telematics - Shell Telematics (10 vehicles)</td>
-<td style='padding: 10px;'>$4,870</td>
-<td style='padding: 10px;'>$4,870</td>
+<td style='padding: 10px;'>$4,870.00</td>
+<td style='padding: 10px;'>$4,870.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shell Telematics - Shell Telematics (20 vehicles)</td>
-<td style='padding: 10px;'>$9,740</td>
-<td style='padding: 10px;'>$9,740</td>
+<td style='padding: 10px;'>$9,740.00</td>
+<td style='padding: 10px;'>$9,740.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shell Telematics - Shell Telematics (30 vehicles)</td>
-<td style='padding: 10px;'>$14,610</td>
-<td style='padding: 10px;'>$14,610</td>
+<td style='padding: 10px;'>$14,610.00</td>
+<td style='padding: 10px;'>$14,610.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shell Telematics - Shell Telematics (40 vehicles)</td>
-<td style='padding: 10px;'>$19,480</td>
-<td style='padding: 10px;'>$19,480</td>
+<td style='padding: 10px;'>$19,480.00</td>
+<td style='padding: 10px;'>$19,480.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedShellEasternAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

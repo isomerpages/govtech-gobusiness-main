@@ -24,36 +24,36 @@ Xero is an universal accounting software that provides a complete list of accoun
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution A</td>
-<td style='padding: 10px;'>3979</td>
-<td style='padding: 10px;'>3979</td>
+<td style='padding: 10px;'>$3,979.00</td>
+<td style='padding: 10px;'>$3,979.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution B</td>
-<td style='padding: 10px;'>$4,529</td>
-<td style='padding: 10px;'>$4,529</td>
+<td style='padding: 10px;'>$4,529.00</td>
+<td style='padding: 10px;'>$4,529.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution C</td>
-<td style='padding: 10px;'>$729</td>
-<td style='padding: 10px;'>$729</td>
+<td style='padding: 10px;'>$729.00</td>
+<td style='padding: 10px;'>$729.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution D</td>
-<td style='padding: 10px;'>$3,129</td>
-<td style='padding: 10px;'>$3,129</td>
+<td style='padding: 10px;'>$3,129.00</td>
+<td style='padding: 10px;'>$3,129.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CFOsg Xero Cloud Accounting Solution E</td>
-<td style='padding: 10px;'>$5,929</td>
-<td style='padding: 10px;'>$5,929</td>
+<td style='padding: 10px;'>$5,929.00</td>
+<td style='padding: 10px;'>$5,929.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Revised_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

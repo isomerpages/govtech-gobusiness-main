@@ -24,36 +24,36 @@ SQL Account includes full range of business Accounting features including AR, AP
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package A (1 User)</td>
-<td style='padding: 10px;'>3500</td>
-<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package B (Advance - 1 User)</td>
-<td style='padding: 10px;'>$4,500</td>
-<td style='padding: 10px;'>$4,500</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package C (Advance - 3 Users)</td>
-<td style='padding: 10px;'>$7,500</td>
-<td style='padding: 10px;'>$7,500</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package D (Advance - 5 Users)</td>
-<td style='padding: 10px;'>$8,700</td>
-<td style='padding: 10px;'>$8,700</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'>$8,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SQL Account Version 5 - Package E (Advance - 8 Users)</td>
-<td style='padding: 10px;'>$10,500</td>
-<td style='padding: 10px;'>$10,500</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_SQL_Annex_3_CR_wef_31_Mar_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -24,71 +24,71 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium, Subscription only)</td>
-<td style='padding: 10px;'>780</td>
-<td style='padding: 10px;'>725</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup)</td>
-<td style='padding: 10px;'>$1,580</td>
-<td style='padding: 10px;'>$1,525</td>
+<td style='padding: 10px;'>$1,580.00</td>
+<td style='padding: 10px;'>$1,525.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup & Migration)</td>
-<td style='padding: 10px;'>$2,180</td>
-<td style='padding: 10px;'>$2,125</td>
+<td style='padding: 10px;'>$2,180.00</td>
+<td style='padding: 10px;'>$2,125.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup & Training)</td>
-<td style='padding: 10px;'>$2,380</td>
-<td style='padding: 10px;'>$2,325</td>
+<td style='padding: 10px;'>$2,380.00</td>
+<td style='padding: 10px;'>$2,325.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGERE - Xero Cloud Accounting Software  - (Xero Premium w/Setup, Migration & Training)</td>
-<td style='padding: 10px;'>$2,980</td>
-<td style='padding: 10px;'>$2,925</td>
+<td style='padding: 10px;'>$2,980.00</td>
+<td style='padding: 10px;'>$2,925.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Agere_Annex_3_CR_wef_21_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting solution - Starter</td>
-<td style='padding: 10px;'>$2,300</td>
-<td style='padding: 10px;'>$2,300</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Essential</td>
-<td style='padding: 10px;'>$3,600</td>
-<td style='padding: 10px;'>$3,600</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Premium</td>
-<td style='padding: 10px;'>$4,900</td>
-<td style='padding: 10px;'>$4,900</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Accounting Solution - Inventory</td>
-<td style='padding: 10px;'>$6,900</td>
-<td style='padding: 10px;'>$6,900</td>
+<td style='padding: 10px;'>$6,900.00</td>
+<td style='padding: 10px;'>$6,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Accounting Solution _Enterprise</td>
-<td style='padding: 10px;'>$9,900</td>
-<td style='padding: 10px;'>$9,900</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

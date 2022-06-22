@@ -24,36 +24,36 @@ EZ Accounting and Inventory Management System started since 1999 developed by EZ
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER</td>
-<td style='padding: 10px;'>4033</td>
-<td style='padding: 10px;'>4033</td>
+<td style='padding: 10px;'>$4,033.00</td>
+<td style='padding: 10px;'>$4,033.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS</td>
-<td style='padding: 10px;'>$5,853</td>
-<td style='padding: 10px;'>$5,853</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'>$5,853.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 5 USERS</td>
-<td style='padding: 10px;'>$8,073</td>
-<td style='padding: 10px;'>$8,073</td>
+<td style='padding: 10px;'>$8,073.00</td>
+<td style='padding: 10px;'>$8,073.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE v10.1 - UNLIMITED USERS</td>
-<td style='padding: 10px;'>$13,473</td>
-<td style='padding: 10px;'>$13,473</td>
+<td style='padding: 10px;'>$13,473.00</td>
+<td style='padding: 10px;'>$13,473.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE PLUS v10.1 - UNLIMITED USERS</td>
-<td style='padding: 10px;'>$13,873</td>
-<td style='padding: 10px;'>$13,873</td>
+<td style='padding: 10px;'>$13,873.00</td>
+<td style='padding: 10px;'>$13,873.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Annex_3_CR_wef_30_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

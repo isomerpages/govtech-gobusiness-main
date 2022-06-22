@@ -24,36 +24,36 @@ Sage 300 is a business accounting software that provides accounting software for
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Advanced Edition - 2 Users)</td>
-<td style='padding: 10px;'>12319</td>
-<td style='padding: 10px;'>10750</td>
+<td style='padding: 10px;'>$12,319.00</td>
+<td style='padding: 10px;'>$10,750.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$25,411</td>
-<td style='padding: 10px;'>$22,450</td>
+<td style='padding: 10px;'>$25,411.00</td>
+<td style='padding: 10px;'>$22,450.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$34,344</td>
-<td style='padding: 10px;'>$29,425</td>
+<td style='padding: 10px;'>$34,344.00</td>
+<td style='padding: 10px;'>$29,425.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Premium Edition - 5 Users)</td>
-<td style='padding: 10px;'>$36,194</td>
-<td style='padding: 10px;'>$30,994</td>
+<td style='padding: 10px;'>$36,194.00</td>
+<td style='padding: 10px;'>$30,994.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)</td>
-<td style='padding: 10px;'>$50,559</td>
-<td style='padding: 10px;'>$42,800</td>
+<td style='padding: 10px;'>$50,559.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -24,36 +24,36 @@ Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed pl
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 25 users</td>
-<td style='padding: 10px;'>2000</td>
-<td style='padding: 10px;'>2000</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 60 users</td>
-<td style='padding: 10px;'>$3,340</td>
-<td style='padding: 10px;'>$3,340</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'>$3,340.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users</td>
-<td style='padding: 10px;'>$4,800</td>
-<td style='padding: 10px;'>$4,800</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 60 users</td>
-<td style='padding: 10px;'>$6,360</td>
-<td style='padding: 10px;'>$6,360</td>
+<td style='padding: 10px;'>$6,360.00</td>
+<td style='padding: 10px;'>$6,360.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 100 users</td>
-<td style='padding: 10px;'>$10,400</td>
-<td style='padding: 10px;'>$10,400</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

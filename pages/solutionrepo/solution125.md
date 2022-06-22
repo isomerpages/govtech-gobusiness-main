@@ -31,36 +31,36 @@ In addition, we provide mobile apps for employees to manage their HR matters on 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM - AGHRM 30</td>
-<td style='padding: 10px;'>3500</td>
-<td style='padding: 10px;'>3500</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM - AGHRM 50</td>
-<td style='padding: 10px;'>$4,500</td>
-<td style='padding: 10px;'>$4,500</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM - AGHRM 100</td>
-<td style='padding: 10px;'>$7,200</td>
-<td style='padding: 10px;'>$7,200</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'>$7,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM - AGHRM 250</td>
-<td style='padding: 10px;'>$14,400</td>
-<td style='padding: 10px;'>$14,400</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'>$14,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM - AGHRM 250 + eRequest</td>
-<td style='padding: 10px;'>$17,500</td>
-<td style='padding: 10px;'>$17,500</td>
+<td style='padding: 10px;'>$17,500.00</td>
+<td style='padding: 10px;'>$17,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

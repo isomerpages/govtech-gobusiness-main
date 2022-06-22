@@ -24,36 +24,36 @@ HRMLABS helps to digitalize the manual process of HR administrative data with ea
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Human Resource Management System - HRM Labs Basic Package (30)</td>
-<td style='padding: 10px;'>0</td>
-<td style='padding: 10px;'>3800</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>$3,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Human Resource Management System - HRM Labs Basic Package (75)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$8,500</td>
+<td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (120)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$9,750</td>
+<td style='padding: 10px;'>$9,750.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (250)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$18,500</td>
+<td style='padding: 10px;'>$18,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (350)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$23,800</td>
+<td style='padding: 10px;'>$23,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

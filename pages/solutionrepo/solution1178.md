@@ -24,36 +24,36 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package A (Madsoft Business 2 users) with Peppol e-invoicing </td>
-<td style='padding: 10px;'>8339</td>
-<td style='padding: 10px;'>8339</td>
+<td style='padding: 10px;'>$8,339.00</td>
+<td style='padding: 10px;'>$8,339.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package B (Madsoft Business 5 users) with Peppol e-invoicing </td>
-<td style='padding: 10px;'>$13,759</td>
-<td style='padding: 10px;'>$13,759</td>
+<td style='padding: 10px;'>$13,759.00</td>
+<td style='padding: 10px;'>$13,759.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package C (Madsoft Enterprise 3 users with RFID Hardware) with Peppol e-invoicing</td>
-<td style='padding: 10px;'>$17,829</td>
-<td style='padding: 10px;'>$17,829</td>
+<td style='padding: 10px;'>$17,829.00</td>
+<td style='padding: 10px;'>$17,829.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users) with Peppol e-invoicing</td>
-<td style='padding: 10px;'>$23,469</td>
-<td style='padding: 10px;'>$23,469</td>
+<td style='padding: 10px;'>$23,469.00</td>
+<td style='padding: 10px;'>$23,469.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users) with Peppol e-invoicing</td>
-<td style='padding: 10px;'>$19,239</td>
-<td style='padding: 10px;'>$19,239</td>
+<td style='padding: 10px;'>$19,239.00</td>
+<td style='padding: 10px;'>$19,239.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_Solutions_Annex_3_CR_wef_19_August_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

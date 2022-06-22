@@ -24,29 +24,29 @@ The BlueMeg Console is a cloud-based entity management and document management s
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console - Package A (50 Entities)</td>
-<td style='padding: 10px;'>7500</td>
-<td style='padding: 10px;'>7500</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console - Package B (100 Entities)</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console - Package C (250 Entities)</td>
-<td style='padding: 10px;'>$20,000</td>
-<td style='padding: 10px;'>$20,000</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console - Package D (500 Entities)</td>
-<td style='padding: 10px;'>$30,000</td>
-<td style='padding: 10px;'>$30,000</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

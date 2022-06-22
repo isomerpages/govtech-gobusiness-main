@@ -24,15 +24,15 @@ Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Pro
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)</td>
-<td style='padding: 10px;'>49860</td>
-<td style='padding: 10px;'>36200</td>
+<td style='padding: 10px;'>$49,860.00</td>
+<td style='padding: 10px;'>$36,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)</td>
-<td style='padding: 10px;'>$70,860</td>
-<td style='padding: 10px;'>$36,200</td>
+<td style='padding: 10px;'>$70,860.00</td>
+<td style='padding: 10px;'>$36,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

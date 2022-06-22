@@ -24,36 +24,36 @@ Optimize your F&B business productivity and operational efficiency with DinePlan
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</td>
-<td style='padding: 10px;'>7780</td>
-<td style='padding: 10px;'>7480</td>
+<td style='padding: 10px;'>$7,780.00</td>
+<td style='padding: 10px;'>$7,480.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)</td>
-<td style='padding: 10px;'>$9,860</td>
-<td style='padding: 10px;'>$9,560</td>
+<td style='padding: 10px;'>$9,860.00</td>
+<td style='padding: 10px;'>$9,560.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$12,100</td>
-<td style='padding: 10px;'>$11,800</td>
+<td style='padding: 10px;'>$12,100.00</td>
+<td style='padding: 10px;'>$11,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 - Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$15,860</td>
-<td style='padding: 10px;'>$10,360</td>
+<td style='padding: 10px;'>$15,860.00</td>
+<td style='padding: 10px;'>$10,360.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LFSuite Version 6.0 -  Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$19,340</td>
-<td style='padding: 10px;'>$16,170</td>
+<td style='padding: 10px;'>$19,340.00</td>
+<td style='padding: 10px;'>$16,170.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_3_Feb_2022_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

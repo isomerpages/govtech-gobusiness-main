@@ -24,36 +24,36 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package A Standalone</td>
-<td style='padding: 10px;'>1800</td>
-<td style='padding: 10px;'>1590</td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package B with Dashboard</td>
-<td style='padding: 10px;'>$2,800</td>
-<td style='padding: 10px;'>$2,590</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package C with Unified Payments</td>
-<td style='padding: 10px;'>$2,360</td>
-<td style='padding: 10px;'>$2,150</td>
+<td style='padding: 10px;'>$2,360.00</td>
+<td style='padding: 10px;'>$2,150.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package D with Dashboard & Unified Payments</td>
-<td style='padding: 10px;'>$3,160</td>
-<td style='padding: 10px;'>$2,950</td>
+<td style='padding: 10px;'>$3,160.00</td>
+<td style='padding: 10px;'>$2,950.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyRetailer Android POS - Package E with Unified Payments & Web Store</td>
-<td style='padding: 10px;'>$3,860</td>
-<td style='padding: 10px;'>$3,650</td>
+<td style='padding: 10px;'>$3,860.00</td>
+<td style='padding: 10px;'>$3,650.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDCSSynthesisRetailerPOSAnnex3CRwef12August2021-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

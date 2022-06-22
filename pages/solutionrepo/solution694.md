@@ -24,36 +24,36 @@ USA Fleet Solutions offers top fleet management hardware and software products t
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iTrack Fleet Management Version 2.8.8-iTrack Fleet Management Package A (1 Vehicle)</td>
-<td style='padding: 10px;'>680</td>
-<td style='padding: 10px;'>680</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'>$680.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package B (3 Vehicles)</td>
-<td style='padding: 10px;'>$2,040</td>
-<td style='padding: 10px;'>$2,040</td>
+<td style='padding: 10px;'>$2,040.00</td>
+<td style='padding: 10px;'>$2,040.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)</td>
-<td style='padding: 10px;'>$4,080</td>
-<td style='padding: 10px;'>$4,080</td>
+<td style='padding: 10px;'>$4,080.00</td>
+<td style='padding: 10px;'>$4,080.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package D (9 Vehicles)</td>
-<td style='padding: 10px;'>$6,120</td>
-<td style='padding: 10px;'>$6,120</td>
+<td style='padding: 10px;'>$6,120.00</td>
+<td style='padding: 10px;'>$6,120.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)</td>
-<td style='padding: 10px;'>$8,160</td>
-<td style='padding: 10px;'>$8,000</td>
+<td style='padding: 10px;'>$8,160.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -24,36 +24,36 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2470
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Search Accelerated - 3 Months</td>
-<td style='padding: 10px;'>10000</td>
-<td style='padding: 10px;'>10000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Diversification - 3 Months</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Ads Focus - 3 Months</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Social Focus - 3 Months</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Impossible Marketing Digital Marketing Packages - Organic Growth - 3 Months</td>
-<td style='padding: 10px;'>$10,360</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,360.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Impossible_Marketing_DM_Annex_3_CR_wef_25_Nov_2021_Part_9.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

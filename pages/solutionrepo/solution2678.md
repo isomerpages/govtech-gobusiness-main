@@ -24,29 +24,29 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - A (Up to 10 pax)</td>
-<td style='padding: 10px;'>3100</td>
-<td style='padding: 10px;'>2740</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'>$2,740.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - B (Up to 25 pax)</td>
-<td style='padding: 10px;'>$4,850</td>
-<td style='padding: 10px;'>$4,400</td>
+<td style='padding: 10px;'>$4,850.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - C (Up to 75 pax)</td>
-<td style='padding: 10px;'>$10,150</td>
-<td style='padding: 10px;'>$8,800</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - D (Up to 125 pax)</td>
-<td style='padding: 10px;'>$15,850</td>
-<td style='padding: 10px;'>$13,500</td>
+<td style='padding: 10px;'>$15,850.00</td>
+<td style='padding: 10px;'>$13,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

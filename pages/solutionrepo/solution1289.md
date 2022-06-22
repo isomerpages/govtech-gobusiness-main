@@ -24,36 +24,36 @@ PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering H
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 50</td>
-<td style='padding: 10px;'>5000</td>
-<td style='padding: 10px;'>5000</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 100</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 150</td>
-<td style='padding: 10px;'>$15,000</td>
-<td style='padding: 10px;'>$15,000</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 200</td>
-<td style='padding: 10px;'>$20,000</td>
-<td style='padding: 10px;'>$20,000</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PEOPLECENTRAL HRMS Version 11 - Professional 250</td>
-<td style='padding: 10px;'>$25,000</td>
-<td style='padding: 10px;'>$24,850</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,850.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PeopleCentral_HRMS_Annex_3_CR_wef_4_Nov_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

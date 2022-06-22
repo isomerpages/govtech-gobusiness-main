@@ -24,22 +24,22 @@ As system implementation consultant and accounting firm, we explore and assist c
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QuickBooks Online Accounting Solution - Inventory</td>
-<td style='padding: 10px;'>6000</td>
-<td style='padding: 10px;'>6000</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise</td>
-<td style='padding: 10px;'>$9,900</td>
-<td style='padding: 10px;'>$9,900</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Premium</td>
-<td style='padding: 10px;'>$4,600</td>
-<td style='padding: 10px;'>$4,600</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

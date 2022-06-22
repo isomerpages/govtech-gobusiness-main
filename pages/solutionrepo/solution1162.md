@@ -24,36 +24,36 @@ Xero is an accounting software for small business that lives in the cloud and wo
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory- Xero subscription</td>
-<td style='padding: 10px;'>780</td>
-<td style='padding: 10px;'>725</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory - Xero setup & subscription</td>
-<td style='padding: 10px;'>$2,060</td>
-<td style='padding: 10px;'>$2,005</td>
+<td style='padding: 10px;'>$2,060.00</td>
+<td style='padding: 10px;'>$2,005.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory - Xero setup, subscription & training</td>
-<td style='padding: 10px;'>$3,060</td>
-<td style='padding: 10px;'>$3,005</td>
+<td style='padding: 10px;'>$3,060.00</td>
+<td style='padding: 10px;'>$3,005.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, opening balance input</td>
-<td style='padding: 10px;'>$4,060</td>
-<td style='padding: 10px;'>$4,005</td>
+<td style='padding: 10px;'>$4,060.00</td>
+<td style='padding: 10px;'>$4,005.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data</td>
-<td style='padding: 10px;'>$5,060</td>
-<td style='padding: 10px;'>$5,005</td>
+<td style='padding: 10px;'>$5,060.00</td>
+<td style='padding: 10px;'>$5,005.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

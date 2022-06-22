@@ -25,22 +25,22 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Basic</td>
-<td style='padding: 10px;'>20000</td>
-<td style='padding: 10px;'>20000</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Standard</td>
-<td style='padding: 10px;'>$24,900</td>
-<td style='padding: 10px;'>$24,900</td>
+<td style='padding: 10px;'>$24,900.00</td>
+<td style='padding: 10px;'>$24,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO - ERP  - Package Premium</td>
-<td style='padding: 10px;'>$30,000</td>
-<td style='padding: 10px;'>$30,000</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNeuMediaAnnex3CRwef12August2021-_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

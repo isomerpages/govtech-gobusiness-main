@@ -24,36 +24,36 @@ The Freight Master software is a suite of integrated and comprehensive software 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Freight Master Version 8.1 (5 Licenses)</td>
-<td style='padding: 10px;'>14000</td>
-<td style='padding: 10px;'>14000</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Freight Master Version 8.1 (8 Licenses)</td>
-<td style='padding: 10px;'>$18,080</td>
-<td style='padding: 10px;'>$18,080</td>
+<td style='padding: 10px;'>$18,080.00</td>
+<td style='padding: 10px;'>$18,080.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Freight Master Version 8.1 (12 Licenses)</td>
-<td style='padding: 10px;'>$22,880</td>
-<td style='padding: 10px;'>$22,880</td>
+<td style='padding: 10px;'>$22,880.00</td>
+<td style='padding: 10px;'>$22,880.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Freight Master Version 8.1 (18 Licenses)</td>
-<td style='padding: 10px;'>$30,160</td>
-<td style='padding: 10px;'>$30,160</td>
+<td style='padding: 10px;'>$30,160.00</td>
+<td style='padding: 10px;'>$30,160.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Freight Master Version 8.1 (25 Licenses)</td>
-<td style='padding: 10px;'>$37,200</td>
-<td style='padding: 10px;'>$37,200</td>
+<td style='padding: 10px;'>$37,200.00</td>
+<td style='padding: 10px;'>$37,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

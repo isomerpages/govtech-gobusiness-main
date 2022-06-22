@@ -25,36 +25,36 @@ Designed for the next-generation salons, VEON@Experience is extremely visual and
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))</td>
-<td style='padding: 10px;'>5168</td>
-<td style='padding: 10px;'>5168</td>
+<td style='padding: 10px;'>$5,168.00</td>
+<td style='padding: 10px;'>$5,168.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package B (VEON Basic (+ hardware))</td>
-<td style='padding: 10px;'>$7,820</td>
-<td style='padding: 10px;'>$5,946</td>
+<td style='padding: 10px;'>$7,820.00</td>
+<td style='padding: 10px;'>$5,946.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package C (VEON Basic (no hardware) + 5 Stylist, Assistant, Freelancer tool + 2 Software powerpacks)</td>
-<td style='padding: 10px;'>$8,785</td>
-<td style='padding: 10px;'>$8,785</td>
+<td style='padding: 10px;'>$8,785.00</td>
+<td style='padding: 10px;'>$8,785.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package D (VEON Basic (+ hardware) + 5 Stylist, Assistant, Freelancer tool + 2 Software powerpacks)</td>
-<td style='padding: 10px;'>$11,437</td>
-<td style='padding: 10px;'>$9,563</td>
+<td style='padding: 10px;'>$11,437.00</td>
+<td style='padding: 10px;'>$9,563.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VEON@Experience Version 1.0 - Package E (VEON Basic (+ hardware) + 10 Stylist, Assistant, Freelancer tool + 3 Software powerpacks)</td>
-<td style='padding: 10px;'>$13,546</td>
-<td style='padding: 10px;'>$11,478</td>
+<td style='padding: 10px;'>$13,546.00</td>
+<td style='padding: 10px;'>$11,478.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_67.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

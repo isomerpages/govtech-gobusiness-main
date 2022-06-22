@@ -24,36 +24,36 @@ V3Nity-FMS Fleet Management System is a Web based Telematics system powered by V
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package A</td>
-<td style='padding: 10px;'>2640</td>
-<td style='padding: 10px;'>2340</td>
+<td style='padding: 10px;'>$2,640.00</td>
+<td style='padding: 10px;'>$2,340.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package B</td>
-<td style='padding: 10px;'>$5,280</td>
-<td style='padding: 10px;'>$4,680</td>
+<td style='padding: 10px;'>$5,280.00</td>
+<td style='padding: 10px;'>$4,680.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package C</td>
-<td style='padding: 10px;'>$7,920</td>
-<td style='padding: 10px;'>$7,020</td>
+<td style='padding: 10px;'>$7,920.00</td>
+<td style='padding: 10px;'>$7,020.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package D</td>
-<td style='padding: 10px;'>$13,200</td>
-<td style='padding: 10px;'>$11,700</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'>$11,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package E</td>
-<td style='padding: 10px;'>$26,400</td>
-<td style='padding: 10px;'>$23,400</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'>$23,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

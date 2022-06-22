@@ -24,22 +24,22 @@ AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks,
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Basic Data Loading)</td>
-<td style='padding: 10px;'>434000</td>
-<td style='padding: 10px;'>304000</td>
+<td style='padding: 10px;'>$434,000.00</td>
+<td style='padding: 10px;'>$304,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Standard Data Loading)</td>
-<td style='padding: 10px;'>$532,000</td>
-<td style='padding: 10px;'>$402,000</td>
+<td style='padding: 10px;'>$532,000.00</td>
+<td style='padding: 10px;'>$402,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Custom Data Loading)</td>
-<td style='padding: 10px;'>$757,000</td>
-<td style='padding: 10px;'>$552,000</td>
+<td style='padding: 10px;'>$757,000.00</td>
+<td style='padding: 10px;'>$552,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

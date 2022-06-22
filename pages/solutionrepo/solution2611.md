@@ -24,8 +24,8 @@ FITPRISE Sales & Inventory System is a flexible business system platform for Sal
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanzcom - FITPRISE Sales & Inventory System - (5 users)</td>
-<td style='padding: 10px;'>26900</td>
-<td style='padding: 10px;'>21400</td>
+<td style='padding: 10px;'>$26,900.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom_Inventory_20210029_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

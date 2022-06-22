@@ -24,64 +24,64 @@ DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package A (Simple)</td>
-<td style='padding: 10px;'>2500</td>
-<td style='padding: 10px;'>2300</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package B (QR Code)</td>
-<td style='padding: 10px;'>$6,000</td>
-<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package C (Barcode)</td>
-<td style='padding: 10px;'>$7,500</td>
-<td style='padding: 10px;'>$7,300</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package D (RFID)</td>
-<td style='padding: 10px;'>$14,000</td>
-<td style='padding: 10px;'>$12,898</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$12,898.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - Starter Pack 1  (SaaS with hardware)</td>
-<td style='padding: 10px;'>$5,000</td>
-<td style='padding: 10px;'>$5,000</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_20210524_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - Starter Pack 2 (Perpetual license on cloud with hardware)</td>
-<td style='padding: 10px;'>$6,000</td>
-<td style='padding: 10px;'>$6,000</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_20210524_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package A (QR Code)</td>
-<td style='padding: 10px;'>$5,900</td>
-<td style='padding: 10px;'>$5,900</td>
+<td style='padding: 10px;'>$5,900.00</td>
+<td style='padding: 10px;'>$5,900.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package B (Barcode)</td>
-<td style='padding: 10px;'>$8,020</td>
-<td style='padding: 10px;'>$7,795</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$7,795.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package C (RFID)</td>
-<td style='padding: 10px;'>$12,550</td>
-<td style='padding: 10px;'>$11,425</td>
+<td style='padding: 10px;'>$12,550.00</td>
+<td style='padding: 10px;'>$11,425.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

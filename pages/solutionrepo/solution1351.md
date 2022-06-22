@@ -24,29 +24,29 @@ FingerBooth POS System is an one stop solution for retail and beauty industry sh
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Lite</td>
-<td style='padding: 10px;'>6500</td>
-<td style='padding: 10px;'>6500</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro + Online Appointment</td>
-<td style='padding: 10px;'>$16,800</td>
-<td style='padding: 10px;'>$16,200</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FingerBooth POS System Version 1 - POS System Pro With Hardware</td>
-<td style='padding: 10px;'>$11,800</td>
-<td style='padding: 10px;'>$11,200</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'>$11,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

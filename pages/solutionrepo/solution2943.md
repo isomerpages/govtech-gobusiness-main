@@ -26,64 +26,64 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>920</td>
-<td style='padding: 10px;'>920</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'>$920.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
-<td style='padding: 10px;'>$2,000</td>
-<td style='padding: 10px;'>$2,000</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
-<td style='padding: 10px;'>$3,100</td>
-<td style='padding: 10px;'>$3,100</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'>$3,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
-<td style='padding: 10px;'>$4,400</td>
-<td style='padding: 10px;'>$4,400</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Basic Package</td>
-<td style='padding: 10px;'>$1,525</td>
-<td style='padding: 10px;'>$1,525</td>
+<td style='padding: 10px;'>$1,525.00</td>
+<td style='padding: 10px;'>$1,525.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Premier Package</td>
-<td style='padding: 10px;'>$2,325</td>
-<td style='padding: 10px;'>$2,325</td>
+<td style='padding: 10px;'>$2,325.00</td>
+<td style='padding: 10px;'>$2,325.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Start-up Package</td>
-<td style='padding: 10px;'>$4,725</td>
-<td style='padding: 10px;'>$4,725</td>
+<td style='padding: 10px;'>$4,725.00</td>
+<td style='padding: 10px;'>$4,725.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Booming Package</td>
-<td style='padding: 10px;'>$5,525</td>
-<td style='padding: 10px;'>$5,525</td>
+<td style='padding: 10px;'>$5,525.00</td>
+<td style='padding: 10px;'>$5,525.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Ultimate Package</td>
-<td style='padding: 10px;'>$7,925</td>
-<td style='padding: 10px;'>$7,925</td>
+<td style='padding: 10px;'>$7,925.00</td>
+<td style='padding: 10px;'>$7,925.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

@@ -28,36 +28,36 @@ INNOCOM - Autodesk BIM 360
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (5 User Pack)</td>
-<td style='padding: 10px;'>7000</td>
-<td style='padding: 10px;'>6100</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$6,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (10 User Pack)</td>
-<td style='padding: 10px;'>$11,600</td>
-<td style='padding: 10px;'>$11,000</td>
+<td style='padding: 10px;'>$11,600.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (25 User Pack)</td>
-<td style='padding: 10px;'>$26,000</td>
-<td style='padding: 10px;'>$26,000</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$26,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate Pro (2 User Pack)</td>
-<td style='padding: 10px;'>$2,900</td>
-<td style='padding: 10px;'>$2,600</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Autodesk Docs (10 User Pack)</td>
-<td style='padding: 10px;'>$4,455</td>
-<td style='padding: 10px;'>$4,455</td>
+<td style='padding: 10px;'>$4,455.00</td>
+<td style='padding: 10px;'>$4,455.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Tech_BIM_Collab_PRO_Annex_3_CR_wef_26_August_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
