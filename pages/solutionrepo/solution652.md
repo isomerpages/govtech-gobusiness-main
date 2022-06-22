@@ -14,18 +14,18 @@ RavenPOS offers standard to full scale business enterprise software automation s
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting</td>
-<td style='padding: 10px;'>$15,410</td>
-<td style='padding: 10px;'>$12,750</td>
+<td style='padding: 10px;'>$15,410.00</td>
+<td style='padding: 10px;'>$12,750.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

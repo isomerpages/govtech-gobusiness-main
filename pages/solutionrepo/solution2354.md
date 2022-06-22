@@ -14,18 +14,18 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 1 - 1 Vehicle</td>
-<td style='padding: 10px;'>$1,335</td>
-<td style='padding: 10px;'>$1,100</td>
+<td style='padding: 10px;'>$1,335.00</td>
+<td style='padding: 10px;'>$1,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -14,18 +14,18 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Gold (1 user)</td>
-<td style='padding: 10px;'>$1,395</td>
-<td style='padding: 10px;'>$1,295</td>
+<td style='padding: 10px;'>$1,395.00</td>
+<td style='padding: 10px;'>$1,295.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo-Moneywork-Annex_3_CR_wef_28_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

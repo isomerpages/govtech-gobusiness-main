@@ -14,18 +14,18 @@ MoneyWorks family of accounting solutions provides a range of feature rich yet e
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package A - Moneyworks Gold (1 User) Software Only</td>
-<td style='padding: 10px;'>$895</td>
-<td style='padding: 10px;'>$895</td>
+<td style='padding: 10px;'>$895.00</td>
+<td style='padding: 10px;'>$895.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advanced_micro_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -14,18 +14,18 @@ CalendarOne CRM is a cloud based solution that integrates and automates your ent
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution Ver 2.0-Standard CRM Package (incl Peppol E-Invoice) - 50 Users License</td>
-<td style='padding: 10px;'>$21,800</td>
-<td style='padding: 10px;'>$21,300</td>
+<td style='padding: 10px;'>$21,800.00</td>
+<td style='padding: 10px;'>$21,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCalendarOneAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

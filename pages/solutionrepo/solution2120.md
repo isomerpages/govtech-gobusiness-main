@@ -14,11 +14,11 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
 <td style='padding: 10px;'></td>

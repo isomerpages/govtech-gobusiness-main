@@ -15,18 +15,18 @@ Companies in wholesale sector used our fully web based system to manage all the 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Workforce Management System Version 12 - Package A (25 Entry Package)</td>
-<td style='padding: 10px;'>$4,900</td>
-<td style='padding: 10px;'>$4,400</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

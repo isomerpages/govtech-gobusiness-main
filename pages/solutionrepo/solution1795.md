@@ -14,18 +14,18 @@ Revel Systems iPad Point of Sale is the most versatile solution in the market to
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package A1: Revel 1 device license w/ e-Menu Ordering</td>
-<td style='padding: 10px;'>$6,881</td>
-<td style='padding: 10px;'>$6,881</td>
+<td style='padding: 10px;'>$6,881.00</td>
+<td style='padding: 10px;'>$6,881.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

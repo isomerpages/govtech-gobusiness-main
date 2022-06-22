@@ -14,18 +14,18 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory</td>
-<td style='padding: 10px;'>$11,580</td>
-<td style='padding: 10px;'>$10,424</td>
+<td style='padding: 10px;'>$11,580.00</td>
+<td style='padding: 10px;'>$10,424.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

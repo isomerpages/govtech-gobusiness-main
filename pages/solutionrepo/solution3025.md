@@ -14,18 +14,18 @@ OPS Sales Order Management Solution is a user-friendly B2C and B2B order managem
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro Pack</td>
-<td style='padding: 10px;'>$17,100</td>
-<td style='padding: 10px;'>$16,100</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$16,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHS_Asia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

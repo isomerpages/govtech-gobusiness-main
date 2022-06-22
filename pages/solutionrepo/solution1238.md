@@ -14,18 +14,18 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP V5.6 - Package (3 Users) (PEPPOL Ready)</td>
-<td style='padding: 10px;'>$32,800</td>
-<td style='padding: 10px;'>$31,200</td>
+<td style='padding: 10px;'>$32,800.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTNOSystemsAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

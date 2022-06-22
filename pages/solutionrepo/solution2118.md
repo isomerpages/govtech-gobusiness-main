@@ -14,11 +14,11 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
 <td style='padding: 10px;'></td>

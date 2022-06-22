@@ -14,18 +14,18 @@ Shopmatic is a SaaS solution that offers an integrated business solutions for SM
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic - Shopmatic Pro Concierge</td>
-<td style='padding: 10px;'>$3,000</td>
-<td style='padding: 10px;'>$2,250</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,250.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

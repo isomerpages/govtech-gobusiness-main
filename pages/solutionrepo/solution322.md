@@ -14,18 +14,18 @@ Cadstudio is a comprehensive enterprise resource planning (ERP) software made up
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)</td>
-<td style='padding: 10px;'>$6,500</td>
-<td style='padding: 10px;'>$6,500</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

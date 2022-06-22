@@ -14,11 +14,11 @@ Case printing system or pack labelling system which allow the user to fully cust
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
 <td style='padding: 10px;'></td>

@@ -22,18 +22,18 @@ OCi Sales and Accounting Management system is a straight-forward and comprehensi
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OCi Sales & Accounting Management System (SAM) Version 11 -Package (1 Concurrent User)</td>
-<td style='padding: 10px;'>$4,270</td>
-<td style='padding: 10px;'>$4,220</td>
+<td style='padding: 10px;'>$4,270.00</td>
+<td style='padding: 10px;'>$4,220.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

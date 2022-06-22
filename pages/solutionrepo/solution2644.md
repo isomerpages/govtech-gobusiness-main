@@ -14,18 +14,18 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2644
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation</td>
-<td style='padding: 10px;'>$10,000</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

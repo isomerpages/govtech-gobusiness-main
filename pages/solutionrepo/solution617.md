@@ -14,18 +14,18 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package A (5 Users with PEPPOL unlimited)</td>
-<td style='padding: 10px;'>$39,700</td>
-<td style='padding: 10px;'>$23,400</td>
+<td style='padding: 10px;'>$39,700.00</td>
+<td style='padding: 10px;'>$23,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMSCConsultingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -14,18 +14,18 @@ Yumstone's Management System enables F&B operators and restaurants to empower th
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 1: Mobile Ordering</td>
-<td style='padding: 10px;'>$3,805</td>
-<td style='padding: 10px;'>$3,180</td>
+<td style='padding: 10px;'>$3,805.00</td>
+<td style='padding: 10px;'>$3,180.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

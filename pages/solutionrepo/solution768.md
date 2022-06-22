@@ -14,18 +14,18 @@ Sage 300 is a business accounting software that provides accounting software for
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 - Package (Advanced Edition - 2 Users)</td>
-<td style='padding: 10px;'>$12,319</td>
-<td style='padding: 10px;'>$10,750</td>
+<td style='padding: 10px;'>$12,319.00</td>
+<td style='padding: 10px;'>$10,750.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSEGITServicesAnnex3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

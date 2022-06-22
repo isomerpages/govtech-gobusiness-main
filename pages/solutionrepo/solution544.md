@@ -15,18 +15,18 @@ KEYfields leverages on technology, developing IT Solutions that are versatile an
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ONE LOGON - ONE LOGistics Online - Package 1 (iWMS SaaS)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$35,000</td>
+<td style='padding: 10px;'>$35,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

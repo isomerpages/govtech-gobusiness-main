@@ -14,18 +14,18 @@ Solution which leverages asset information and behavioral analytics to identify,
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 10 endpoint agents with 24/7 SOC</td>
-<td style='padding: 10px;'>$2,700</td>
-<td style='padding: 10px;'>$2,700</td>
+<td style='padding: 10px;'>$2,700.00</td>
+<td style='padding: 10px;'>$2,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Tech_Annex_3_CR_wef_14_Oct_21_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

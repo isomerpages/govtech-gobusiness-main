@@ -14,18 +14,18 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 1 (5D BIM Takeoff for Architecture & Structure)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>$13,070</td>
+<td style='padding: 10px;'>$13,070.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

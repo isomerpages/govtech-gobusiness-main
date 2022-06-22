@@ -14,18 +14,18 @@ Sleek offers a fully digital experience for the effortless management of corpora
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan A</td>
-<td style='padding: 10px;'>$561</td>
-<td style='padding: 10px;'>$561</td>
+<td style='padding: 10px;'>$561.00</td>
+<td style='padding: 10px;'>$561.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

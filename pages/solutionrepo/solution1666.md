@@ -14,18 +14,18 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-CLOUD Package 1 (5 users)</td>
-<td style='padding: 10px;'>$2,400</td>
-<td style='padding: 10px;'>$2,400</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$2,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

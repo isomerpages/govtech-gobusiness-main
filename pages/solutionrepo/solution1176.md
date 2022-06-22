@@ -14,18 +14,18 @@ Frontwave Cloud is a retail management system specifically designed for an optic
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontwave Cloud Version 8 -  Package (Cloud Enterprise)</td>
-<td style='padding: 10px;'>$6,560</td>
-<td style='padding: 10px;'>$6,260</td>
+<td style='padding: 10px;'>$6,560.00</td>
+<td style='padding: 10px;'>$6,260.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

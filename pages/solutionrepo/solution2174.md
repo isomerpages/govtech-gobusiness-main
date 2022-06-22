@@ -14,11 +14,11 @@ A quarantine tank system for isolating and medicating sick fish fry, separating 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
 <td style='padding: 10px;'></td>

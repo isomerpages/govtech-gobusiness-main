@@ -14,18 +14,18 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles</td>
-<td style='padding: 10px;'>$4,125</td>
-<td style='padding: 10px;'>$4,125</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

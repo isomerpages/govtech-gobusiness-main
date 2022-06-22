@@ -14,18 +14,18 @@ ChopeQueues is a contactless queue management that is fully integrated with our 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle </td>
-<td style='padding: 10px;'>$5,700</td>
-<td style='padding: 10px;'>$5,700</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

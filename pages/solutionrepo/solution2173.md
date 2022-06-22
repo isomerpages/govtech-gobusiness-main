@@ -14,11 +14,11 @@ Accurate infrared temperature monitoring and labelling devices that improves pro
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
 <td style='padding: 10px;'></td>

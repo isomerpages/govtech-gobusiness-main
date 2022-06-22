@@ -14,18 +14,18 @@ Sage 300 takes the complexity out of managing your business finances across bord
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)</td>
-<td style='padding: 10px;'>$34,753</td>
-<td style='padding: 10px;'>$34,653</td>
+<td style='padding: 10px;'>$34,753.00</td>
+<td style='padding: 10px;'>$34,653.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Comptrac_Annex_3_CR_wef_30_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

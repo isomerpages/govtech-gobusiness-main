@@ -14,18 +14,18 @@ Established since 2005, TheAsiaMedia provides decades of digital marketing exper
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 1 - SMM + Google Ads  [2 Months]</td>
-<td style='padding: 10px;'>6500</td>
-<td style='padding: 10px;'>6500</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

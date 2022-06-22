@@ -14,18 +14,18 @@ SEMS Smart FM solution enables organizations to manage their estate(s) at ease. 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Estate Management System - Contractors Pack</td>
-<td style='padding: 10px;'>$10,440</td>
-<td style='padding: 10px;'>$10,100</td>
+<td style='padding: 10px;'>$10,440.00</td>
+<td style='padding: 10px;'>$10,100.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

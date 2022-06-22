@@ -14,18 +14,18 @@ QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of b
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2020 QuickHR Version 9 - Cloud HRMS - Essential 25</td>
-<td style='padding: 10px;'>$4,400</td>
-<td style='padding: 10px;'>$4,400</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

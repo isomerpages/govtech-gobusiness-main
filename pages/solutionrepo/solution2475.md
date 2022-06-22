@@ -14,18 +14,18 @@ This package by Next Level SG is designed to help SMEs with increasing and accel
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Paid Advertising</td>
-<td style='padding: 10px;'>$7,000</td>
-<td style='padding: 10px;'>$7,000</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

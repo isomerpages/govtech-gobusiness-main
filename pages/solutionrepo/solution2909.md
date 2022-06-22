@@ -14,18 +14,18 @@ AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sa
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Basic)</td>
-<td style='padding: 10px;'>$3,200</td>
-<td style='padding: 10px;'>$2,800</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

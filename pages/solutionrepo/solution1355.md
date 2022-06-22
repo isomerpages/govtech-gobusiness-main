@@ -14,18 +14,18 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Software Version 2.0-Basic Version 2.0 ( 1 User)</td>
-<td style='padding: 10px;'>$4,300</td>
-<td style='padding: 10px;'>$4,300</td>
+<td style='padding: 10px;'>$4,300.00</td>
+<td style='padding: 10px;'>$4,300.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedISOFT_Annex_3CRwef12August2021-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -14,18 +14,18 @@ Sage 300 accounting software is widely used by SMEs businesses across various in
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAGE 300Cloud Version 2021 - Distribution A1 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$9,240</td>
-<td style='padding: 10px;'>$9,240</td>
+<td style='padding: 10px;'>$9,240.00</td>
+<td style='padding: 10px;'>$9,240.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acsolv_Consult_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

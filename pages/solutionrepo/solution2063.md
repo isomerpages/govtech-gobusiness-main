@@ -15,18 +15,18 @@ The Revel Enterprise solution is tailored for large chains and leads the industr
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Lite</td>
-<td style='padding: 10px;'>$3,710</td>
-<td style='padding: 10px;'>$3,211</td>
+<td style='padding: 10px;'>$3,710.00</td>
+<td style='padding: 10px;'>$3,211.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

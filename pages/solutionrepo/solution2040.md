@@ -24,11 +24,11 @@ Cost of equipment capped at $28,000 per unit
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
 <td style='padding: 10px;'>$28,000</td>

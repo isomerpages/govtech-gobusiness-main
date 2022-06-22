@@ -14,18 +14,18 @@ APSCOM Solutions provides ABSS Premier, formerly known as MYOB, includes Account
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - Package A with E-Invoicing (1-User)</td>
-<td style='padding: 10px;'>$2,800</td>
-<td style='padding: 10px;'>$2,800</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_ABSS_Annex_3_CR_wef_31_Mar_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

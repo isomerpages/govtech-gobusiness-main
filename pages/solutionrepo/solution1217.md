@@ -14,18 +14,18 @@ The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CSG - Autodesk AEC Collection - Single User Annual Subscription</td>
-<td style='padding: 10px;'>$3,200</td>
-<td style='padding: 10px;'>$1,590</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

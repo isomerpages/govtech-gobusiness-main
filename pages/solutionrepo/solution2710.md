@@ -14,18 +14,18 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
-<td style='padding: 10px;'>$9,000</td>
-<td style='padding: 10px;'>$9,000</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

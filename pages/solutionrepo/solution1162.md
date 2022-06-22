@@ -14,18 +14,18 @@ Xero is an accounting software for small business that lives in the cloud and wo
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero accounting software - ASL Advisory- Xero subscription</td>
-<td style='padding: 10px;'>$780</td>
-<td style='padding: 10px;'>$725</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

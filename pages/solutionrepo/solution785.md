@@ -14,18 +14,18 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ezyprocure Version 2.0-Package 1</td>
-<td style='padding: 10px;'>$5,000</td>
-<td style='padding: 10px;'>$4,950</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,950.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

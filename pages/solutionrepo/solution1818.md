@@ -14,18 +14,18 @@ Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 1 (Up to 5 users)</td>
-<td style='padding: 10px;'>$4,800</td>
-<td style='padding: 10px;'>$4,800</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

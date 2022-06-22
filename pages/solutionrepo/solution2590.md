@@ -14,18 +14,18 @@ Since 2015, Book&Entries has continued to serve and provide clients with our var
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package A (Premium Package - Software only)</td>
-<td style='padding: 10px;'>$720</td>
-<td style='padding: 10px;'>$720</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>$720.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

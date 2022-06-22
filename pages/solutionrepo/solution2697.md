@@ -15,18 +15,18 @@ AutoCount Accounting stands out as one of the best accounting software for today
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users</td>
-<td style='padding: 10px;'>$5,000</td>
-<td style='padding: 10px;'>$5,000</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

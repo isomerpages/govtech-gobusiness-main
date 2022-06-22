@@ -14,18 +14,18 @@ Deskera HRMS is a comprehensive HRMS solution which includes payroll management,
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Deskera People Version 10.0 - Package A (Enterprise Package for unlimited users)</td>
-<td style='padding: 10px;'>$42,600</td>
-<td style='padding: 10px;'>$28,800</td>
+<td style='padding: 10px;'>$42,600.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

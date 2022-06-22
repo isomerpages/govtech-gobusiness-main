@@ -14,18 +14,18 @@ SAP Business One application offers an affordable way to manage the entire busin
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
-<td style='padding: 10px;'>$17,985</td>
-<td style='padding: 10px;'>$17,985</td>
+<td style='padding: 10px;'>$17,985.00</td>
+<td style='padding: 10px;'>$17,985.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

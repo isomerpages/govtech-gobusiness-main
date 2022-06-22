@@ -14,18 +14,18 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in, Takeaway, & Delivery)</td>
-<td style='padding: 10px;'>$5,800</td>
-<td style='padding: 10px;'>$5,600</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

@@ -14,18 +14,18 @@ Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering 
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, XSmall</td>
-<td style='padding: 10px;'>$2,550</td>
-<td style='padding: 10px;'>$2,550</td>
+<td style='padding: 10px;'>$2,550.00</td>
+<td style='padding: 10px;'>$2,550.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Lunchbox_20200960_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

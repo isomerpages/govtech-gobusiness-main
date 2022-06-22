@@ -14,18 +14,18 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 ## Solution Packages Option(s)
 
 <table>
-<tr>
+<th>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</tr>
+</th>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5</td>
-<td style='padding: 10px;'>$4,740</td>
-<td style='padding: 10px;'>$4,740</td>
+<td style='padding: 10px;'>$4,740.00</td>
+<td style='padding: 10px;'>$4,740.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CommercePromote_Annex_3_CR_wef_10_March_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
