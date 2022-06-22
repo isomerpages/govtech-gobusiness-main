@@ -17,7 +17,7 @@ Singapore Food Agency (SFA)
 <p>The Licence to Import Poultry is issued to importers by Singapore Food Agency to import Broiler Chickens and Broiler Ducks</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Licence to Import Domestic Birds?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ <li><strong>Where can I get the FAQ for Licence to Import Domestic Birds?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.sfa.gov.sg/food-import-export/import-export-transshipment-of-live-poultry-livestock">https://www.sfa.gov.sg/food-import-export/import-export-transshipment-of-live-poultry-livestock</a></li>
  </ol>
 
 <strong>Additional Information</strong>

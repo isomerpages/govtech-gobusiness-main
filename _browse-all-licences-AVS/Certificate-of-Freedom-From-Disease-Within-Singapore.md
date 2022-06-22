@@ -15,7 +15,7 @@ Animal & Veterinary Service (AVS)
 <p>A Certificate of Freedom from Disease within Singapore from Animal and Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
  <h3>FAQs</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Certificate for Freedom from Diseases?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.avs.gov.sg/faq" target="_blank" rel="noopener">https://www.avs.gov.sg/faq</a></li>
+ <li><strong>Where can I get the FAQ for Certificate for Freedom from Diseases?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/</a></li>
  </ol>
 
 <strong>Additional Information</strong>
