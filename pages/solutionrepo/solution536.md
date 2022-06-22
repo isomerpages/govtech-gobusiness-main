@@ -16,13 +16,13 @@ To Digitize all SME products and services into a single platform, all hardcopy p
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (24 Product Showcase)</td>

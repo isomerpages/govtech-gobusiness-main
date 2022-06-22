@@ -14,13 +14,13 @@ Sunpro provides excellent web application development solutions for companies in
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Elite)</td>

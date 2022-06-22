@@ -14,13 +14,13 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OdooCRM -Alitec Standard (Unlimited Users, Alitec Hosted, CRM + Website Apps w/ Prof. Services & Training)</td>

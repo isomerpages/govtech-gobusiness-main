@@ -14,13 +14,13 @@ The GRmail removes the email threats even before it reaches the email server and
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WFH Email Security with Cyber Essentials Online Course Package Version 1 - 30 x GR with Cyber Essential Course 1 Year Package</td>

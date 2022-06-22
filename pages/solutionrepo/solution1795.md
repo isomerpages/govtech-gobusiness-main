@@ -14,13 +14,13 @@ Revel Systems iPad Point of Sale is the most versatile solution in the market to
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package A1: Revel 1 device license w/ e-Menu Ordering</td>

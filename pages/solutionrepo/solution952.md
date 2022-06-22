@@ -14,13 +14,13 @@ Winapp EzySalesOrder V 2.0  simplifies your organization, to do day to day opera
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (2 Devices)</td>

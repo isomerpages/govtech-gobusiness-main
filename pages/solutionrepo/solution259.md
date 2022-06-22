@@ -15,13 +15,13 @@ PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile@HRM Version 3 - Package (Tier 1 - 25 user)</td>

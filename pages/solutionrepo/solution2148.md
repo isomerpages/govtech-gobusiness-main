@@ -14,11 +14,11 @@ A machine that provides an efficient and convenient way of milking livestocks, w
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
 <td style='padding: 10px;'></td>

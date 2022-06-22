@@ -14,11 +14,11 @@ A production system with reduced water exchange and use of biofiltration / envir
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
 <td style='padding: 10px;'></td>

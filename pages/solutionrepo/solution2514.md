@@ -14,13 +14,13 @@ Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering 
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Restaurant Solution Version 1.1.0 - Lunchbox Smart Ordering Solution, XSmall</td>

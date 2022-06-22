@@ -16,11 +16,11 @@ Cost of equipment capped at $10,000 per unit
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
 <td style='padding: 10px;'>$10,000</td>

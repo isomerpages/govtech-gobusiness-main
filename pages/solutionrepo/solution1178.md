@@ -14,13 +14,13 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Madsoft Solutions IAF Version 320 - Package A (Madsoft Business 2 users) with Peppol e-invoicing </td>

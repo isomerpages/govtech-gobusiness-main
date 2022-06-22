@@ -14,11 +14,11 @@ Animal feed pellet machine also known as feed pelletizer machine; it allows you 
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'></td>

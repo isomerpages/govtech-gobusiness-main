@@ -14,11 +14,11 @@ Cultivation system with monitoring and control system
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
 <td style='padding: 10px;'></td>

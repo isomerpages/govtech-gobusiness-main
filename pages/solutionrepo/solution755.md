@@ -16,11 +16,11 @@ Cost of equipment capped at $26,250 per unit (Direct Purchase) and $10,000 per u
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Cabinet</td>
 <td style='padding: 10px;'>Up to $26,250</td>

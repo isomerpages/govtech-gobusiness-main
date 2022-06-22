@@ -14,13 +14,13 @@ With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manuf
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>No.</b></td>
 <td><b>Package Name</b></td>
 <td><b>Total Package Cost</b></td>
 <td><b>Total Qualifying Cost</b></td>
 <td><b>Solution Details</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic</td>

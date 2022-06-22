@@ -16,11 +16,11 @@ Cost of equipment capped at $21,250 per unit.
 ## Solution Packages Option(s)
 
 <table>
-<th>
+<tr>
 <td><b>Equipment Name</b></td>
 <td><b>Cost Cap</b></td>
 <td><b>Mandatory Specifications</b></td>
-</th>
+</tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
 <td style='padding: 10px;'>$21,250</td>
