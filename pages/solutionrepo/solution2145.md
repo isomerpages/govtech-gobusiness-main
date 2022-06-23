@@ -15,9 +15,9 @@ For cultivation of mushrooms and other fungi. The laminar flow cabinet provides 
 
 <table>
 <tr>
-<td><b>Equipment Name</b></td>
-<td><b>Cost Cap</b></td>
-<td><b>Mandatory Specifications</b></td>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>

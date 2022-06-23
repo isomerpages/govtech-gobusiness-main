@@ -203,11 +203,11 @@
         Please note that each business entity may only be supported for one application under the Enterprise Resource Planning (ERP) System solution category.  For example, a company who purchased an 'Accounting, CRM and Sales' solution will not be supported again if they apply for an 'Accounting and Sales' solution.<br>
         <table>
         <tr>
-        <td><b>Accounting Management</b></td>
-        <td><b>Customer Relationship Management</b></td>
-        <td><b>Inventory Management</b></td>
-        <td><b>Sales Management</b></td>
-        <td><b>Solutions</b></td>
+        <th><b>Accounting Management</b></th>
+        <th><b>Customer Relationship Management</b></th>
+        <th><b>Inventory Management</b></th>
+        <th><b>Sales Management</b></th>
+        <th><b>Solutions</b></th>
         </tr>
         <tr>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
@@ -256,11 +256,11 @@
         <b>Standalone Solutions</b><br>
         <table>
         <tr>
-        <td><b>Accounting Management</b></td>
-        <td><b>Customer Relationship Management</b></td>
-        <td><b>Inventory Management</b></td>
-        <td><b>Sales Management</b></td>
-        <td><b>Solutions</b></td>
+        <th><b>Accounting Management</b></th>
+        <th><b>Customer Relationship Management</b></th>
+        <th><b>Inventory Management</b></th>
+        <th><b>Sales Management</b></th>
+        <th><b>Solutions</b></th>
         </tr>
         <tr>
         <td></td>
