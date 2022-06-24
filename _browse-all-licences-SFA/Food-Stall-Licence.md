@@ -18,7 +18,8 @@ Singapore Food Agency (SFA)
 <li>For complete application with layout plan and tenancy agreement attached, SFA will process the application within 5 working days.</li>
 <li>For incomplete application and without layout plan or tenancy agreement, SFA will reject the application.</li>
 <li>Service standard: 5 working days if application is complete and in order
-<p><u>Existing Licensed Premises<br /></u>If you are taking over a food stall, you should engage the main operator to ensure the previous licensee has cancelled the licence to avoid delays. Otherwise, SFA will require 2 weeks to engage the food stall licensee for cancellation of the licence.</p></li>
+<p><u>Existing Licensed Premises<br /></u>If you are taking over a food stall, you should engage the main operator to ensure the previous licensee has cancelled the licence to avoid delays. Otherwise, SFA will require 2 weeks to engage the food stall licensee for cancellation of the licence.</p>
+</li>
 </ul>
 <p><strong>Step 2: Make payment after licence approval</strong></p>
 <ul>
