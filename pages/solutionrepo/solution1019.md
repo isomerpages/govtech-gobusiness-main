@@ -28,6 +28,34 @@ EasyBus is a true all in one platform designed specifically for service industry
 <td style='padding: 10px;'>$9,500.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EasyBus Version 2.0 - EasyBus Online (Lite)</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EasyBus Version 2.0 - EasyBus Online (Standard)</td>
+<td style='padding: 10px;'>$21,000.00</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EasyBus Version 2.0 - EasyBus Factory (Retail)</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
