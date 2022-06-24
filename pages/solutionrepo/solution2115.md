@@ -15,9 +15,9 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 
 <table>
 <tr>
-<td><b>Equipment Name</b></td>
-<td><b>Cost Cap</b></td>
-<td><b>Mandatory Specifications</b></td>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>

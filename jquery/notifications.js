@@ -10,13 +10,14 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 1 May 2022 from 12am to 8am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Business Grant Portal will be undergoing scheduled maintenance on 8 April 2022 from 6:00 PM to 9:00 PM. We apologise for any inconvenience.",
 
-  //[**ACRA DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 12 Jun 2022 12am to 10am. We apologise for the inconvenience caused.",
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 30 Apr 2022 from 2am to 8am<br>(2) 7 May 2022 from 12am to 3am",
 
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 9 Jun 2022 10pm to 10 Jun 2022 4am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 22 Jun 2022 10pm to 23 Jun 2022 2am<br>(2) From 24 Jun 2022 10pm to 25 Jun 2022 8am"
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 22 Jun 2022 10pm to 23 Jun 2022 2am<br>(2) From 24 Jun 2022 10pm to 25 Jun 2022 8am<br>(3) From 26 Jun 2022 10pm to 27 Jun 2022 6am<br>(4) From 27 Jun 2022 10pm to 28 Jun 2022 6am",
+
+  //[**ACRA DOWNTIME**]
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 25 Jun 2022 6pm to 26 Jun 2022 2am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 30 Apr 2022 from 2am to 8am<br>(2) 7 May 2022 from 12am to 3am",  
   
   //[**APEX**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 19 Jun 2022 from 12am to 8am. We apologise for the inconvenience caused.",
