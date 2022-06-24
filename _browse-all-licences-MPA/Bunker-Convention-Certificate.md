@@ -10,7 +10,7 @@ Maritime and Port Authority (MPA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/singapore-registry-of-ships/register-with-srs/statutory-certificates" type="primary" %}
+{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg" type="primary" %}
 
 <H3>Application Details</H3>
 

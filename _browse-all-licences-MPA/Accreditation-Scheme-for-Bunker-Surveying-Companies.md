@@ -10,7 +10,7 @@ Maritime and Port Authority (MPA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines" type="primary" %}
+{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg" type="primary" %}
 
 <H3>Application Details</H3>
 
