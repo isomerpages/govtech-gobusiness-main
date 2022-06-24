@@ -13,7 +13,7 @@ const custom_notifications = [
 
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 9 Jun 2022 10pm to 10 Jun 2022 4am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 24 Jun 2022 10pm to 25 Jun 2022 6am<br>(2) From 25 Jun 2022 10pm to 26 Jun 2022 6am<br>(3) From 26 Jun 2022 10pm to 27 Jun 2022 6am<br>(4) From 27 Jun 2022 10pm to 28 Jun 2022 6am",
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 24 Jun 2022 10pm to 25 Jun 2022 6am<br>(2) From 25 Jun 2022 10pm to 26 Jun 2022 6am<br>(3) From 26 Jun 2022 8pm to 27 Jun 2022 6am<br>(4) From 27 Jun 2022 10pm to 28 Jun 2022 6am",
 
   //[**ACRA DOWNTIME**]
   "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 25 Jun 2022 6pm to 26 Jun 2022 2am. We apologise for the inconvenience caused."
