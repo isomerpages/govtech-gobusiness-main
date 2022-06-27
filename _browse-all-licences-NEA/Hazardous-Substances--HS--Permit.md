@@ -27,7 +27,7 @@ National Environment Agency (NEA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />Licence Fees: $160, valid for one year.</p>
+<p><strong>Fees</strong><br />Licence Fees: $160, valid for one year.</p><p><strong>BizSAFE programme<br /></strong>bizSAFE is a nationally recognised capability building programme designed to help companies build workplace safety and health capabilities. This programme is offered by Workplace Safety and Health Council and you can learn more about bizSAFE <a href="https://www.tal.sg/wshc/programmes/bizsafe/about-bizsafe" target="_blank">here</a>.</p>
 
 <H3>Documents Needed</H3>
 
