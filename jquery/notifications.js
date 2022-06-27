@@ -34,7 +34,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
 
   //[**GCC Migration**]
-  "[Attention: System Maintenance] Guided Journey and eAdvisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Guided Journey and eAdvisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused."
 
 ];
 
