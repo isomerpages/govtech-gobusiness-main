@@ -46,10 +46,10 @@ SGDATAPOS Digital Ordering is easily integrated to other SGDATA add-on modules s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package D, Delta On-line ordering with CRM, MOS, QMS and KDS)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package D, Delta On-line ordering with CRM, MOS and KDS)</td>
 <td style='padding: 10px;'>$11,020.00</td>
 <td style='padding: 10px;'>$10,020.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

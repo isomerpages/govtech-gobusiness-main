@@ -39,3 +39,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2994' target='_blank'>EPOINT Version 9</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3030' target='_blank'>SGDATAPOS Digital Ordering</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3034' target='_blank'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3098' target='_blank'>WhyQ VendorOS Version 13.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3104' target='_blank'>FirstCom Online Food Ordering & Payment System</a><br>
