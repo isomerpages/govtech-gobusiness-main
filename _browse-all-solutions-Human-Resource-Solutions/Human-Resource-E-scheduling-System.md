@@ -22,3 +22,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2414' target='_blank'>Flick Time Management System Enterprise Enhanced (TMSEE)</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2678' target='_blank'>JustLogin HR E-Scheduling</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3072' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br>
+
+{% include banner-psg-survey.html %}

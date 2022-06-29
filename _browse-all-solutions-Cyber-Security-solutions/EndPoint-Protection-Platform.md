@@ -40,3 +40,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2721' target='_blank'>Eset Protect Entry</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2914' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2934' target='_blank'>Sophos Central Intercept X Advanced</a><br>
+
+{% include banner-psg-survey.html %}

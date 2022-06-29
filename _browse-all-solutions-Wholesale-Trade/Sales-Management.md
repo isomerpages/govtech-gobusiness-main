@@ -29,3 +29,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution1421' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2840' target='_blank'>Creative Sales and Order</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3025' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br>
+
+{% include banner-psg-survey.html %}

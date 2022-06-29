@@ -23,3 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1223' target='_blank'>Equip Wholesale Solutions Version 3</a><br>
+
+{% include banner-psg-survey.html %}

@@ -29,3 +29,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2850' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2953' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2984' target='_blank'>HRM Labs Shared Service</a><br>
+
+{% include banner-psg-survey.html %}

@@ -19,3 +19,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2430' target='_blank'>PORTNET</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2966' target='_blank'>TrackSYNQ</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3063' target='_blank'>iLOGON (iTMS)</a><br>
+
+{% include banner-psg-survey.html %}

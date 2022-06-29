@@ -48,3 +48,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2894' target='_blank'>Adaptive Pay Version 2022</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2924' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3086' target='_blank'>SYNERGIX Version TH6</a><br>
+
+{% include banner-psg-survey.html %}

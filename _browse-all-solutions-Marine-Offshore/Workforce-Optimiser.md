@@ -15,3 +15,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2208' target='_blank'>cuteOffice ERP Version 2.0</a><br>
+
+{% include banner-psg-survey.html %}

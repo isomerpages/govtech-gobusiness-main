@@ -17,3 +17,5 @@ This solution is supported by Building and Construction Authority (BCA).
 - <a href='/productivity-solutions-grant/solutionrepo/solution274' target='_blank'>InSight QSE</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution459' target='_blank'>Hubble Safety Management System</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1152' target='_blank'>Novade</a><br>
+
+{% include banner-psg-survey.html %}

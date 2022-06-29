@@ -18,3 +18,5 @@ This solution is supported by Monetary Authority of Singapore (MAS).
 - <a href='/productivity-solutions-grant/solutionrepo/solution1479' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1484' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1833' target='_blank'>AgileREPORTER Version 19.3</a><br>
+
+{% include banner-psg-survey.html %}

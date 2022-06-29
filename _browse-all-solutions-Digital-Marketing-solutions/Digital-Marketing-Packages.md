@@ -29,3 +29,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution3047' target='_blank'>DM TheAsiaMedia Digital Marketing Packages</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3058' target='_blank'>DM Roots Digital Marketing Packages</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3069' target='_blank'>DM Ice Cube Predictable Leads Generation Program</a><br>
+
+{% include banner-psg-survey.html %}

@@ -67,3 +67,5 @@ This solution is supported by Singapore Food Agency (SFA).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2172' target='_blank'>Underwater Camera </a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2173' target='_blank'>Temperature montoring/ labelling device</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2174' target='_blank'>Fish fry quarantine tank system</a><br>
+
+{% include banner-psg-survey.html %}

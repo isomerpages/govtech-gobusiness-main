@@ -16,3 +16,5 @@ This solution is supported by Building and Construction Authority (BCA).
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2296' target='_blank'>eBIS Version V1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2622' target='_blank'>AirGo 360- Virtual Sites platform</a><br>
+
+{% include banner-psg-survey.html %}

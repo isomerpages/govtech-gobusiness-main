@@ -16,3 +16,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1673' target='_blank'>RetailNext In-Store Analytics Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1720' target='_blank'>Intelli-Signage Version 3.1.4</a><br>
+
+{% include banner-psg-survey.html %}

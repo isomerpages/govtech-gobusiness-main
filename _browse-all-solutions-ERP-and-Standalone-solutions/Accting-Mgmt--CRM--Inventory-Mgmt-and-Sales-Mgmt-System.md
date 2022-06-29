@@ -23,3 +23,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2879' target='_blank'>SAP BUSINESS ONE</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2899' target='_blank'>AM8ZE ERP: VISTA</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2958' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br>
+
+{% include banner-psg-survey.html %}

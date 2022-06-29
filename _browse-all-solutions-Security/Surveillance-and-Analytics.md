@@ -23,3 +23,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1987' target='_blank'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)</a><br>
+
+{% include banner-psg-survey.html %}

@@ -46,3 +46,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2697' target='_blank'>Autocount Accounting Version 2.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2746' target='_blank'>ABSS</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2891' target='_blank'>ABSS Accounting Software Version 23.7</a><br>
+
+{% include banner-psg-survey.html %}

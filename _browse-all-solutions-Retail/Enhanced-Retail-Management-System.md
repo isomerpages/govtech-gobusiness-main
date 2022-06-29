@@ -48,3 +48,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2919' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3009' target='_blank'>Shopcada POS Version 2</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3100' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br>
+
+{% include banner-psg-survey.html %}

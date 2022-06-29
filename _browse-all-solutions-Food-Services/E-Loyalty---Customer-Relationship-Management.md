@@ -15,3 +15,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1262' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme)</a><br>
+
+{% include banner-psg-survey.html %}

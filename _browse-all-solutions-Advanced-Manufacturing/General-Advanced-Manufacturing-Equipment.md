@@ -17,3 +17,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution27' target='_blank'>Autonomous Mobile Robot</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution93' target='_blank'>Probing System</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution160' target='_blank'>Vertical Carousel</a><br>
+
+{% include banner-psg-survey.html %}

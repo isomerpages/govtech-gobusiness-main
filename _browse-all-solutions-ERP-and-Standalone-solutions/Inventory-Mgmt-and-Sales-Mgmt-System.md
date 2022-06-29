@@ -23,3 +23,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2611' target='_blank'>Enhanzcom - FITPRISE Sales & Inventory System</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2732' target='_blank'>MetroERP Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2773' target='_blank'>Applivon - Odoo</a><br>
+
+{% include banner-psg-survey.html %}
