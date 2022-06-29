@@ -12,15 +12,12 @@ const custom_notifications = [
 
 
   //[**LICENCEONE DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 27 Jun 2022 10pm to 28 Jun 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 27 Jun 2022 10pm to 28 Jun 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 24 Jun 2022 10pm to 25 Jun 2022 6am<br>(2) From 25 Jun 2022 10pm to 26 Jun 2022 6am<br>(3) From 26 Jun 2022 8pm to 27 Jun 2022 6am<br>(4) From 27 Jun 2022 10pm to 28 Jun 2022 6am",
 
   //[**ACRA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 25 Jun 2022 6pm to 26 Jun 2022 2am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 30 Apr 2022 from 2am to 8am<br>(2) 7 May 2022 from 12am to 3am",  
-  
-  //[**APEX**]
-  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 19 Jun 2022 from 12am to 8am. We apologise for the inconvenience caused.",
 
   //[**LICENSING AGENCY DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable due to scheduled maintenance till 5 October 2021 12pm. We apologise for the inconvenience caused.",
@@ -34,7 +31,10 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
 
   //[**GCC Migration**]
-  "<b>[Attention: System Maintenance]</b> Guided Journey and eAdvisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Guided Journey and eAdvisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
+
+  //[**APEX**]
+  "<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 3 Jul 2022 from 1am to 8am. We apologise for the inconvenience caused."
 
 ];
 
