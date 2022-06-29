@@ -24,3 +24,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Redoc Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2189' target='_blank'>RealtyPromote Version 3.2</a><br>
+
+{% include banner-psg-survey.html %}

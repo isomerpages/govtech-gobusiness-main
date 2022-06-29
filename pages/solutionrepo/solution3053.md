@@ -28,7 +28,7 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN210</td>
 <td style='padding: 10px;'>$2,540.00</td>
 <td style='padding: 10px;'>$2,540.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Juss_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Juss_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>

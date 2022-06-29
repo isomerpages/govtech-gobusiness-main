@@ -29,3 +29,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2075' target='_blank'>Liquid Filling Machine</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2076' target='_blank'>High pressure industrial vacuum cleaner</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2077' target='_blank'>High Pressure Rotating Head</a><br>
+
+{% include banner-psg-survey.html %}

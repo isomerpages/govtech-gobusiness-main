@@ -18,3 +18,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution1988' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1989' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2003' target='_blank'>Ethylene Removal System</a><br>
+
+{% include banner-psg-survey.html %}

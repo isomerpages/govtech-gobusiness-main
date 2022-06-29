@@ -33,3 +33,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2078' target='_blank'>Battery-operated Torque Wrench</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2864' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2865' target='_blank'>Robotic arms</a><br>
+
+{% include banner-psg-survey.html %}

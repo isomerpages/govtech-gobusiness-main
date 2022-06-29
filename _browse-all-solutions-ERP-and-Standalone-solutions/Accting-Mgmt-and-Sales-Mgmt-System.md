@@ -55,3 +55,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2943' target='_blank'>Counto DIY Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3010' target='_blank'>Moneyworks</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3077' target='_blank'>FidCorp Xero Accounting Software</a><br>
+
+{% include banner-psg-survey.html %}

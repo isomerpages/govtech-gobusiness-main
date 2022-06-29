@@ -20,3 +20,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution754' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution755' target='_blank'>Smart Cabinet</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1410' target='_blank'>Electric Pedestrian Pallet Truck</a><br>
+
+{% include banner-psg-survey.html %}

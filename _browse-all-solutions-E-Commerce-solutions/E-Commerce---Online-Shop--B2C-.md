@@ -58,3 +58,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2977' target='_blank'>Cub3commerce</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3052' target='_blank'>A2000 WebShop (B2C) Version 2</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3064' target='_blank'>Lemonade eCommerce Solution</a><br>
+
+{% include banner-psg-survey.html %}

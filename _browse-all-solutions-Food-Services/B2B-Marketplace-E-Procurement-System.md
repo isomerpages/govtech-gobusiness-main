@@ -25,3 +25,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution785' target='_blank'>Ezyprocure Version 2.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2034' target='_blank'>Zeemart</a><br>
+
+{% include banner-psg-survey.html %}

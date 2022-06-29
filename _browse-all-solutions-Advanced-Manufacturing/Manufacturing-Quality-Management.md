@@ -24,3 +24,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1892' target='_blank'>arc.ops - Manufacturing Quality Management</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2702' target='_blank'>Q-DAS - Smart Quality Software</a><br>
+
+{% include banner-psg-survey.html %}

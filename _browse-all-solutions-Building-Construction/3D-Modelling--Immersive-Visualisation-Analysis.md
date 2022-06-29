@@ -24,3 +24,5 @@ This solution is supported by Building and Construction Authority (BCA).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2484' target='_blank'>SAP2000 Ultimate Suite</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2735' target='_blank'>BricsCAD A.I Design Technologies</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2884' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br>
+
+{% include banner-psg-survey.html %}

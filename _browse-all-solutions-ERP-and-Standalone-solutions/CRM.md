@@ -30,3 +30,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2645' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2710' target='_blank'>WEB360 Version 2.0.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2871' target='_blank'>Eber Smart Members Solution</a><br>
+
+{% include banner-psg-survey.html %}

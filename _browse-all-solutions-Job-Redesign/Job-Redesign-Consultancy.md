@@ -20,3 +20,5 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 - <a href='/productivity-solutions-grant/solutionrepo/solution1830' target='_blank'>Job Redesign Consultancy - Deloitte Consulting Pte Ltd</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1831' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1832' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br>
+
+{% include banner-psg-survey.html %}

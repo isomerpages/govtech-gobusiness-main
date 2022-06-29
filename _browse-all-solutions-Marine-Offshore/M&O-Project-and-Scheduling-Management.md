@@ -15,3 +15,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2213' target='_blank'>FITPRISE Job Inspection System</a><br>
+
+{% include banner-psg-survey.html %}

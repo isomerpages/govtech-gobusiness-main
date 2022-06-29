@@ -15,3 +15,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1896' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking</a><br>
+
+{% include banner-psg-survey.html %}

@@ -19,3 +19,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution91' target='_blank'>Probing System</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution102' target='_blank'>Robotic arms</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution158' target='_blank'>Vertical Carousel</a><br>
+
+{% include banner-psg-survey.html %}

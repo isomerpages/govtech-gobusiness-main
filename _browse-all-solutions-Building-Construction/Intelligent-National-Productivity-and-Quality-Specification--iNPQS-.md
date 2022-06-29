@@ -15,3 +15,5 @@ This solution is supported by Building and Construction Authority (BCA).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1754' target='_blank'>iCoreSpec</a><br>
+
+{% include banner-psg-survey.html %}

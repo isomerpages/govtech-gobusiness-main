@@ -21,3 +21,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2523' target='_blank'>Automated Deep Fryer</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2524' target='_blank'>Blast Chiller</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2525' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
+
+{% include banner-psg-survey.html %}

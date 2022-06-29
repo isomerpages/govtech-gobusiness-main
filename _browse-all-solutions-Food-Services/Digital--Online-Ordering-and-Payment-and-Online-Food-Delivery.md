@@ -27,3 +27,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution1134' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>iMakan</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>WarelyPOS Version 1.1</a><br>
+
+{% include banner-psg-survey.html %}

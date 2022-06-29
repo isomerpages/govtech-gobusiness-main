@@ -26,3 +26,5 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution387' target='_blank'>Dough Sheeter</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution388' target='_blank'>Blast Freezer</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution401' target='_blank'>Combi Oven</a><br>
+
+{% include banner-psg-survey.html %}
