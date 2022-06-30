@@ -27,8 +27,8 @@ National Environment Agency (NEA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees<br /></strong></p>
-<br>Environmental Control Officer (Specified Construction Sites) Certificate: $160.00</br>
-<br>Environmental Control Officer (Specified Premises) Certificate: $160.00</br>
-<br>Environmental Control Coordinator Certificate: $120.00</br>
+<p><strong>Fees</strong></p><br>
+<br>Environmental Control Officer (Specified Construction Sites) Certificate: $160.00<br>
+<br>Environmental Control Officer (Specified Premises) Certificate: $160.00<br>
+<br>Environmental Control Coordinator Certificate: $120.00<br>
 
