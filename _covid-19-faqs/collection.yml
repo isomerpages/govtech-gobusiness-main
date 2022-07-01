@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - manpower-declarations.md
       - workplace-smm.md
       - for-sector-specific-queries/.keep
       - for-sector-specific-queries/food-and-retail.md
@@ -20,5 +19,4 @@ collections:
       - for-sector-specific-queries/attractions.md
       - for-sector-specific-queries/tours.md
       - support-and-relief-measures.md
-      - app-procedure-for-services.md
       - time-limited-rrt-r2.md
