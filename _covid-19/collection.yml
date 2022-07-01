@@ -10,7 +10,6 @@ collections:
       - safe-management-requirements/contact-tracing.md
       - sector-specific-requirements.md
       - digital-solutions-for-safe-reopening.md
-      - guides.md
       - financial-support/.keep
       - financial-support/immediate-support.md
       - financial-support/financial-schemes.md
