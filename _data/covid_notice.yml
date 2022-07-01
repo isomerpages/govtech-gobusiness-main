@@ -1,4 +1,4 @@
-button: true
+button: false
 title: "Announcement:"
 content: |
   <p>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.</p>
