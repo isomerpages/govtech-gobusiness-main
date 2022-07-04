@@ -13,7 +13,7 @@ const custom_notifications = [
 
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 27 Jun 2022 10pm to 28 Jun 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 1 Jul 2022 10pm to 2 Jul 2022 6am<br>(2) From 2 Jul 2022 10pm to 3 Jul 2022 10am",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 1 Jul 2022 10pm to 2 Jul 2022 6am<br>(2) From 2 Jul 2022 10pm to 3 Jul 2022 10am",
 
   //[**ACRA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 25 Jun 2022 6pm to 26 Jun 2022 2am. We apologise for the inconvenience caused."
@@ -34,7 +34,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Guided Journey and eAdvisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
   //[**APEX**]
-  "<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 3 Jul 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 3 Jul 2022 from 12am to 8am. We apologise for the inconvenience caused."
 
 ];
 
