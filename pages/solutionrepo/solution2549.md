@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2549
 
 **Description**
 
-Network Box is a Managed Security Service Provider, with a narrow scope. The focus is on Perimeter Protection, A cloud based SIEM+ Platform and Dark Web Scanning.
+Network Box is a Managed Security Service Provider, protecting it's clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's UTM (Unified Threat Management), SME's no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 

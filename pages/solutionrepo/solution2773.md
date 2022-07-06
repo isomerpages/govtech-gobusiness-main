@@ -49,27 +49,6 @@ Odoo is an integrated suite of business applications that have thousand of modul
 <td style='padding: 10px;'>$20,400.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Applivon_20210515_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack B  (Perpetual license on cloud with hardware)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack C (Perpetual license on cloud with hardware)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

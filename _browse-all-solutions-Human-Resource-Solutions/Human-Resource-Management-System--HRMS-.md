@@ -23,18 +23,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution125' target='_blank'>AGHRM</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution259' target='_blank'>PayAdvisorMobile@HRM Version 3</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution349' target='_blank'>Deskera People Version 10.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution376' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution450' target='_blank'>HRM Human Resource Management System</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution455' target='_blank'>Hubble Workforce Management System Version 2.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution531' target='_blank'>(SaaS) JustLogin HR Cloud</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1092' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1346' target='_blank'>SMARTHRMS Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>Swingvy</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2257' target='_blank'>SYNERGIX E1 Version TH6</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2258' target='_blank'>SYNERGIX E1 Version TH7</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2345' target='_blank'>ITAPS</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2365' target='_blank'>HReasily Online Payroll Version 5</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2370' target='_blank'>BIPO Human Resource Management System</a><br>
@@ -48,5 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 - <a href='/productivity-solutions-grant/solutionrepo/solution2894' target='_blank'>Adaptive Pay Version 2022</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2924' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3086' target='_blank'>SYNERGIX Version TH6</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3111' target='_blank'>(SaaS) JustLogin HR Cloud</a><br>
 
 {% include banner-psg-survey.html %}

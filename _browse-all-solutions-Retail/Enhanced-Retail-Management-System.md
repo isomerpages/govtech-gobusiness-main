@@ -25,14 +25,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution163' target='_blank'>STUDIO MANAGER Version 7</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution225' target='_blank'>Beautec Version 3 centralized version</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution344' target='_blank'>MyRetailer Android POS</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution396' target='_blank'>Eurostop EPOS and E-retail Inventory Management Version 10</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution424' target='_blank'>VEON@Experience Version 1.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution652' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution741' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution936' target='_blank'>KYBIO Version 3.0.9.3</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1019' target='_blank'>EasyBus Version 2.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>BIZ POS Version 3.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1120' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br>

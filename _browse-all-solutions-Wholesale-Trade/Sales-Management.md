@@ -22,12 +22,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution319' target='_blank'>Creative Sales & Order Management</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution536' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution606' target='_blank'>MEVO DMS 8.3</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution952' target='_blank'>EZYSALESORDER Version 2.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1421' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2840' target='_blank'>Creative Sales and Order</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2999' target='_blank'>MEVO DMS 8.3</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3025' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3105' target='_blank'>EzyProcure Version 2.0</a><br>
 
 {% include banner-psg-survey.html %}

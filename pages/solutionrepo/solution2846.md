@@ -49,20 +49,6 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 <td style='padding: 10px;'>$5,240.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix E1 Sales & Accounting - Package (5 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$51,740.00</td>
-<td style='padding: 10px;'>$37,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix E1 Sales & Accounting - Package (10 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$72,740.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

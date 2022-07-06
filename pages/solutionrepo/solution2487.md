@@ -56,41 +56,6 @@ Sage has more than 30 years of experience helping millions of small and medium c
 <td style='padding: 10px;'>$41,690.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 1U+Setup+Training</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 3U+Setup+Training</td>
-<td style='padding: 10px;'>$4,130.00</td>
-<td style='padding: 10px;'>$4,130.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - PremierPlus 1U+Setup+Training</td>
-<td style='padding: 10px;'>$5,990.00</td>
-<td style='padding: 10px;'>$5,990.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Premier Version 23 - PremierPlus 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Dandelion_Annex_3_CR_wef_3_Feb_2022_Part_56.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

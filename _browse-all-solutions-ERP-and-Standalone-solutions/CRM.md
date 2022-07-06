@@ -14,7 +14,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution110' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution250' target='_blank'>BonaForce</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution464' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1079' target='_blank'>OdooCRM </a><br>
