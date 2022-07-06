@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3015
 
 **Description**
 
-APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
+APEC Solutions is a full-stack digital marketing company which is wholly owned by a corporation listed on the Singapore Exchange (SGX) dedicated to helping businesses innovate and flourish through our suite of digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - To help businesses create brand awareness, build social currency, drive site traffic, and increase value proposition across multiple digital channels.
 
 ## Solution Packages Option(s)
 

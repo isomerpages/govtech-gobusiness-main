@@ -50,7 +50,7 @@ MTWO Construction Cloud is an enterprise level platform aiming to help companies
 
 ## Vendor Information
 
- Web URL: www.mtwocloud.com/demo-request <br><br>Contact Hotline: 81239954 <br><br>Contact Email: joshua.schrijvers@rib-software.com <br><br>
+ Web URL: www.mtwocloud.com/demo-request <br>Contact Hotline: 81239954 <br>Contact Email: mtwocloud@rib-software.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

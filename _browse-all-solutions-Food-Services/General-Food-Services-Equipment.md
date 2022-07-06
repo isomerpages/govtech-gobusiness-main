@@ -14,8 +14,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution16' target='_blank'>Automated Dishwasher</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution17' target='_blank'>Automated Noodle Boiler</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution56' target='_blank'>High Speed Oven</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>Combi Oven</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2523' target='_blank'>Automated Deep Fryer</a><br>

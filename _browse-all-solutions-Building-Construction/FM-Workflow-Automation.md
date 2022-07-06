@@ -14,8 +14,6 @@ This solution is supported by Building and Construction Authority (BCA).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution397' target='_blank'>FacilityBot</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution470' target='_blank'>Qornerstone Estate Management System</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1644' target='_blank'>Smart Estate Management System</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1732' target='_blank'>SmartFM Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1883' target='_blank'>iREP FM</a><br>

@@ -25,8 +25,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution516' target='_blank'>EndPoint Protection Platform</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution763' target='_blank'>SecureAPlus Version 6.x</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1548' target='_blank'>Sophos EndPoint Protection</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1964' target='_blank'>Sophos Endpoint</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2053' target='_blank'>Adventus Managed EndPoint Protection</a><br>

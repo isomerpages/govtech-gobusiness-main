@@ -43,7 +43,7 @@ VRcollab is a next generation VDC software solution for the construction industr
 
 ## Vendor Information
 
- Company Name:VRCOLLAB PTE. LTD. <br><br>Web URL: https://vrcollab.com/lite/ <br><br>Contact Hotline: +6591008417 <br><br>Contact Email: INFO@VRCOLLAB.COM <br><br>
+ Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/<br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
