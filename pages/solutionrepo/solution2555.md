@@ -43,7 +43,7 @@ Sunpro provides excellent web application development solutions for companies in
 
 ## Vendor Information
 
- Web URL: www.sunpro.com.sg <br><br>Contact Hotline: 67504786 <br><br>Contact Email: jiya@sunpro.com.sg <br><br>
+ Company Name: SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br><br>Contact Hotline: 67504786 <br><br>Contact Email: jiya@sunpro.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

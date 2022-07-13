@@ -68,7 +68,7 @@ Xero  is Cloud based and beautifully addresses challenging times where working f
 
 ## Vendor Information
 
- Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
+ Company Name: Central Management Services Pte Ltd<br>Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

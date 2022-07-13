@@ -64,7 +64,7 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 
 ## Vendor Information
 
- Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>96953417 <br>hans.paul@aigens.com <br>
+ Company Name: Aigens Technology (Singapore) Pte. Ltd. <br>Web URL: https://www.aigens.com/ <br>Contact Hotline: 96953417 <br>Contact Email: hans.paul@aigens.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

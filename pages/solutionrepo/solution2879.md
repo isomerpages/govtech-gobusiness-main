@@ -64,7 +64,7 @@ SAP Business One application offers an affordable way to manage the entire busin
 
 ## Vendor Information
 
- Web URL: www.twm.com.sg <br><br>Contact Hotline: 67419198 <br><br>Contact Email: sales@twm.com.sg <br><br>
+ Company Name: The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br><br>Contact Hotline: 67419198 <br><br>Contact Email: sales@twm.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

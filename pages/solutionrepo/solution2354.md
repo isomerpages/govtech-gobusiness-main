@@ -64,7 +64,7 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 
 ## Vendor Information
 
- Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br><br>Contact Hotline: 91733775 <br><br>Contact Email: psg@crosstrack.sg <br><br>
+ Company Name: CROSSTRACK PTE LTD<br>Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br><br>Contact Hotline: 91733775 <br><br>Contact Email: psg@crosstrack.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

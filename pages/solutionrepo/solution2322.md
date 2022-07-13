@@ -64,7 +64,7 @@ Track-Asia's FMS enable fleet owners the capability of tracking their fleet at a
 
 ## Vendor Information
 
- Web URL: https://track-asia.com/ <br><br>Contact Hotline: 91125883 <br><br>Contact Email: eugene_low@acecom.com.sg <br><br>
+ Company Name: AceCom Technologies Pte Ltd<br>Web URL: https://track-asia.com/ <br><br>Contact Hotline: 91125883 <br><br>Contact Email: eugene_low@acecom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

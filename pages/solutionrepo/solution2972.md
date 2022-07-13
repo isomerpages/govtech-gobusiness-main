@@ -64,7 +64,7 @@ Studio Manager is an enterprise retail POS and CRM solution that integrates mark
 
 ## Vendor Information
 
- Web URL: www.studiomanager.asia <br><br>Contact Hotline: 67859007 <br><br>Contact Email: ISAAC.GOH@ARCHERLOGIC.COM <br><br>
+ Company Name: ARCHER LOGIC (S) PTE LTD<br>Web URL: www.studiomanager.asia <br><br>Contact Hotline: 67859007 <br><br>Contact Email: ISAAC.GOH@ARCHERLOGIC.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

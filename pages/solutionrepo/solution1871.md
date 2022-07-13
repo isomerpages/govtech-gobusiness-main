@@ -66,7 +66,7 @@ We provide EndPoint protection, vulnerability assessment, network threat hunting
 
 ## Vendor Information
 
- Web URL: www.toffstech.com <br><br>Contact Hotline: 63861260 <br><br>Contact Email: marketing@toffstech.com <br><br>
+ Company Name: Toffs Technologies Pte Ltd<br>Web URL: www.toffstech.com <br><br>Contact Hotline: 63861260 <br><br>Contact Email: marketing@toffstech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

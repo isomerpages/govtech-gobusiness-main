@@ -57,7 +57,7 @@ A fully integrated cloud-based information management solution.
 
 ## Vendor Information
 
- Web URL: http://www.siacad.com/ <br><br>Contact Hotline: 62253823 <br><br>Contact Email: apex15@siacad.com <br><br>
+ Company Name: SIACAD Pte Ltd<br>Web URL: http://www.siacad.com/ <br><br>Contact Hotline: 62253823 <br><br>Contact Email: apex15@siacad.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

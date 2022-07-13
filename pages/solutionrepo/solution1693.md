@@ -64,7 +64,7 @@ We established in 2003 and provide one stop service company included software so
 
 ## Vendor Information
 
- Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
+ Company Name: TNB GLOBAL OUTSOURCE PTE LTD<br>Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -51,7 +51,7 @@ R Systems is a global technology and analytics services company that helps busin
 
 ## Vendor Information
 
- Web URL: https://www.ibizcs.com/ <br><br>Contact Hotline: 64307341 <br><br>Contact Email: SALES@IBIZCS.COM <br><br>
+ Company Name: R Systems IBIZCS PTE. LTD.<br>Web URL: https://www.ibizcs.com/ <br><br>Contact Hotline: 64307341 <br><br>Contact Email: SALES@IBIZCS.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

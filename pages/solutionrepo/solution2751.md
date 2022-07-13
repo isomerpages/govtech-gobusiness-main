@@ -66,7 +66,7 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 
 ## Vendor Information
 
- Web URL: https://www.dalstech.com/dynamics-365-business-central <br><br>Contact Hotline: 69092088 <br><br>Contact Email: sales@dalstech.com <br><br>
+ Company Name: Dalstech Pte Ltd<br>Web URL: https://www.dalstech.com/dynamics-365-business-central <br><br>Contact Hotline: 69092088 <br><br>Contact Email: sales@dalstech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

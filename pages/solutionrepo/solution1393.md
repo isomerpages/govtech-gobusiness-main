@@ -57,7 +57,7 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 
 ## Vendor Information
 
- Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
+ Company Name: Cynopsis Solutions Pte Ltd<br>Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -50,7 +50,7 @@ One-Stop Document Access is a document management system that offers browser and
 
 ## Vendor Information
 
- Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
+ Company Name: PROMINDS PTE LTD<br>Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -50,7 +50,7 @@ Kaddra helps businesses turn loyalty into revenue, improve retention and acceler
 
 ## Vendor Information
 
- Web URL: www.kaddra.com/#solutions <br><br>Contact Hotline: 68776928 <br><br>Contact Email: Togi.Gouw@Kaddra.com <br><br>
+ Company Name: KADDRA PTE LTD <br>Web URL: www.kaddra.com/#solutions <br><br>Contact Hotline: 68776928 <br><br>Contact Email: Togi.Gouw@Kaddra.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

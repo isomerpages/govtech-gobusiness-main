@@ -64,7 +64,7 @@ FleetManager App software is a modern fleet management system offered by Logisfl
 
 ## Vendor Information
 
- Web URL: www.logisfleet.com <br><br>Contact Hotline: 65520668 <br><br>Contact Email: support@logisfleet.com <br><br>
+ Company Name: LOGISFLEET PTE LTD<br>Web URL: www.logisfleet.com <br><br>Contact Hotline: 65520668 <br><br>Contact Email: support@logisfleet.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

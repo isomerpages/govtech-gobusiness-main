@@ -64,7 +64,7 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 
 ## Vendor Information
 
- Web URL: www.zeemart.asia <br><br>Contact Hotline: +6565198064 <br><br>Contact Email: enquiry@zeemart.asia <br><br>
+ Company Name: Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br><br>Contact Hotline: +6565198064 <br><br>Contact Email: enquiry@zeemart.asia <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

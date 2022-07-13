@@ -64,7 +64,7 @@ Sophos safeguards all users' devices under one management, either on premise or 
 
 ## Vendor Information
 
- Web URL: www.advancedatan.com <br><br>Contact Hotline: 65606228 <br><br>Contact Email: sales@advancedatan.com <br><br>
+ Company Name: Advancedata Network Pte Ltd<br>Web URL: www.advancedatan.com <br><br>Contact Hotline: 65606228 <br><br>Contact Email: sales@advancedatan.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

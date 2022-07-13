@@ -43,7 +43,7 @@ ChopeQueues is a contactless queue management that is fully integrated with our 
 
 ## Vendor Information
 
- Web URL: restaurants.chope.co <br><br>Contact Hotline: 62256612 <br><br>Contact Email: sales.sg@chope.co <br><br>
+ Company Name: The Chope Group Pte Ltd<br>Web URL: restaurants.chope.co <br><br>Contact Hotline: 62256612 <br><br>Contact Email: sales.sg@chope.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

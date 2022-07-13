@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3100
 
 **Description**
 
-RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company's financial health
+RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company’s financial health
 
 ## Solution Packages Option(s)
 
@@ -57,7 +57,7 @@ RavenPOS offers enhanced retail management solution for the retail sector with f
 
 ## Vendor Information
 
- Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
+ Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

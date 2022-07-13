@@ -36,7 +36,7 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 
 ## Vendor Information
 
- Web URL: www.aio-interactive.com <br><br>Contact Hotline: 96796966 <br><br>Contact Email: sales@aio-interactive.com <br><br>
+ Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br><br>Contact Hotline: 96796966 <br><br>Contact Email: sales@aio-interactive.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

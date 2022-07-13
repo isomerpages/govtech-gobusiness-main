@@ -64,7 +64,7 @@ Salesforce is the #1 CRM, bringing companies and customers together in the digit
 
 ## Vendor Information
 
- Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
+ Company Name: SALESFORCE.COM SINGAPORE PTE. LTD.<br>Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Contact Email: apacemarketing@salesforce.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

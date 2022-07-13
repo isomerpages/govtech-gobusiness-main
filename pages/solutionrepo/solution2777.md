@@ -66,7 +66,7 @@ Beaufort's range of 5 packages, allows a wide selection.
 
 ## Vendor Information
 
- Web URL: https://www.xero.beaufort.sg/ <br><br>Contact Hotline: 88229376 <br><br>Contact Email: contact@beaufort.sg <br><br>
+ Company Name: Beaufort Tax Consultants Pte Ltd<br>Web URL: https://www.xero.beaufort.sg/ <br><br>Contact Hotline: 88229376 <br><br>Contact Email: contact@beaufort.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

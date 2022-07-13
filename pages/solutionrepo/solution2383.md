@@ -50,7 +50,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Vendor Information
 
- Web URL: www.budgetaccounts.com.sg <br><br>Contact Hotline: 97839675 <br><br>Contact Email: lynette@budgetaccounts.com.sg <br><br>
+ Company Name: Budget Accounts Pte Ltd<br>Web URL: www.budgetaccounts.com.sg <br><br>Contact Hotline: 97839675 <br><br>Contact Email: lynette@budgetaccounts.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -64,7 +64,7 @@ Revel Systems iPad Point of Sale is the most versatile solution in the market to
 
 ## Vendor Information
 
- Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br><br>Contact Hotline: 62936275 <br><br>Contact Email: sales@revelsystems.com.sg <br><br>
+ Company Name: Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br><br>Contact Hotline: 62936275 <br><br>Contact Email: sales@revelsystems.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

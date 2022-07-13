@@ -50,7 +50,7 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 
 ## Vendor Information
 
- Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
+ Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

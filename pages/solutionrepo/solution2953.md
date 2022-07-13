@@ -59,7 +59,7 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 
 ## Vendor Information
 
- Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
+ Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

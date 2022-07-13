@@ -64,7 +64,7 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 
 ## Vendor Information
 
- Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
+ Company Name: Rentalworks (SG) Pte Ltd<br>Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
