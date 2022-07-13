@@ -64,7 +64,7 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 
 ## Vendor Information
 
- Web URL: www.airsquire.ai <br><br>Contact Hotline: 91190708 <br><br>Contact Email: hello@airsquire.ai <br><br>
+ Company Name: Airsquire Pte. Ltd.<br>Web URL: www.airsquire.ai <br><br>Contact Hotline: 91190708 <br><br>Contact Email: hello@airsquire.ai <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

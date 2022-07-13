@@ -59,7 +59,7 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 
 ## Vendor Information
 
- Web URL:www.onethird.co<br>Contact Hotline: 96497552<br>Contact Email: hello@onethird.co
+ Company Name: ONE THIRD TECHNOLOGIES PTE LTD<br>Web URL:www.onethird.co<br>Contact Hotline: 96497552<br>Contact Email: hello@onethird.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

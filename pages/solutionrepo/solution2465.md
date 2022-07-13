@@ -64,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2465
 
 ## Vendor Information
 
- Web URL: www.corsivalab.com <br><br>Contact Hotline: +6581127835 <br><br>Contact Email: contact@corsivalab.com <br><br>
+ Company Name: Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br><br>Contact Hotline: +6581127835 <br><br>Contact Email: contact@corsivalab.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

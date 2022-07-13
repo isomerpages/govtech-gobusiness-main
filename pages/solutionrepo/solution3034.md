@@ -64,7 +64,7 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 
 ## Vendor Information
 
- Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
+ Company Name: AppsPOS Pte Ltd<br>Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

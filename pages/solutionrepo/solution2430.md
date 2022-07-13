@@ -43,7 +43,7 @@ PORTNET is the first nation-wide business-to-business (B2B) port community solut
 
 ## Vendor Information
 
- Web URL: https://www.portnet.com/WWWPublic/products.html <br><br>Contact Hotline: 63211173 <br><br>Contact Email: csc@portnet.com <br><br>
+ Company Name: PORTNET.COM PTE LTD <br>Web URL: https://www.portnet.com/WWWPublic/products.html <br><br>Contact Hotline: 63211173 <br><br>Contact Email: csc@portnet.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

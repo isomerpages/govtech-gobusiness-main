@@ -67,7 +67,7 @@ The system is also able to add in a variety of Telematics smart sensors to meet 
 
 ## Vendor Information
 
- Web URL: WWW.SMARTCOMM.BIZ <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
+ Company Name: SMARTCOMM ELECTRONICS PTE LTD<br>Web URL: WWW.SMARTCOMM.BIZ <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

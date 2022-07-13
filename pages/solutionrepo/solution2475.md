@@ -57,7 +57,7 @@ This package by Next Level SG is designed to help SMEs with increasing and accel
 
 ## Vendor Information
 
- Web URL: www.Nextlevel.sg <br><br>Contact Hotline: 83765715 <br><br>Contact Email: info@nextlevel.sg <br><br>
+ Company Name: Next Level SG Pte Ltd<br>Web URL: www.Nextlevel.sg <br><br>Contact Hotline: 83765715 <br><br>Contact Email: info@nextlevel.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

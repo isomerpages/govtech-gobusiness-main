@@ -64,7 +64,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Vendor Information
 
- Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
+ Company Name: Accounting Consultancy Pte. Ltd.<br>Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

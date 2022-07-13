@@ -36,7 +36,7 @@ Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offerin
 
 ## Vendor Information
 
- Web URL: https://www.shopcada.com <br><br>Contact Hotline: 63343168 <br><br>Contact Email: sales@webcada.com <br><br>
+ Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br><br>Contact Hotline: 63343168 <br><br>Contact Email: sales@webcada.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

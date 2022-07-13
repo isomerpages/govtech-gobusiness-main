@@ -64,7 +64,7 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 
 ## Vendor Information
 
- Web URL: https://sg.canon/en/business/therefore-online/product <br><br>Contact Hotline: 68622666 <br><br>Contact Email: Documentsolutions@canon.com.sg <br><br>
+ Company Name: CANON SINGAPORE PTE. LTD<br>Web URL: https://sg.canon/en/business/therefore-online/product <br><br>Contact Hotline: 68622666 <br><br>Contact Email: Documentsolutions@canon.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

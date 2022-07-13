@@ -64,7 +64,7 @@ Track 365 Automotive Tracking System is a cloud based telematics solution. Due t
 
 ## Vendor Information
 
- Web URL: www.track365.com.sg <br><br>Contact Hotline: 98253334 <br><br>Contact Email: sales@track365.com.sg <br><br>
+ Company Name: Track 365 Pte Ltd<br>Web URL: www.track365.com.sg <br><br>Contact Hotline: 98253334 <br><br>Contact Email: sales@track365.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

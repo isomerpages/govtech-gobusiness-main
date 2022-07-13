@@ -64,7 +64,7 @@ Sage has more than 30 years of experience helping millions of small and medium c
 
 ## Vendor Information
 
- Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br><br>Contact Hotline: 63461511 <br><br>Contact Email: sales@it8.com.sg <br><br>
+ Company Name: IT Infinity Pte Ltd<br>Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@it8.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

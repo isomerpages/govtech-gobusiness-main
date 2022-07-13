@@ -66,7 +66,7 @@ Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, a
 
 ## Vendor Information
 
- Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 87776207<br>Whatsapp: 87776207<br>Contact Email: enquiries@hashmicro.com <br>
+ Company Name: Hashmicro Pte Ltd<br>Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 87776207<br>Whatsapp: 87776207<br>Contact Email: enquiries@hashmicro.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

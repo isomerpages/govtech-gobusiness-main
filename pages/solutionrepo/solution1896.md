@@ -57,7 +57,7 @@ With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manuf
 
 ## Vendor Information
 
- Web URL: arcstone.co <br><br>Contact Hotline: +6568156825 <br><br>Contact Email: contact@arcstone.co <br><br>
+ Company Name: Arcstone Pte ltd<br>Web URL: arcstone.co <br><br>Contact Hotline: +6568156825 <br><br>Contact Email: contact@arcstone.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

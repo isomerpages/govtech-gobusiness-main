@@ -64,7 +64,7 @@ Yumstone's Management System enables F&B operators and restaurants to empower th
 
 ## Vendor Information
 
- Web URL: www.yumstone.sg <br><br>Contact Hotline: 82226621 <br><br>Contact Email: sales@yumstone.sg <br><br>
+ Company Name: Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br><br>Contact Hotline: 82226621 <br><br>Contact Email: sales@yumstone.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

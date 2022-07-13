@@ -57,7 +57,7 @@ TrackSYNQ is a ready-to-deploy platform that provides track & trace functionalit
 
 ## Vendor Information
 
- Web URL: https://www.quantuminventions.com/ <br><br>Contact Hotline: 68371582 <br><br>Contact Email: sales@qi.sg <br><br>
+ Company Name: Quantum Inventions Pte Ltd<br>Web URL: https://www.quantuminventions.com/ <br><br>Contact Hotline: 68371582 <br><br>Contact Email: sales@qi.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

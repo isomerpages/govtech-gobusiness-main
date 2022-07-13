@@ -64,7 +64,7 @@ Auk Industries is a disruptive end-to-end technology provider for Industrial IoT
 
 ## Vendor Information
 
- Web URL: https://auk.industries <br><br>Contact Hotline: 68163655 <br><br>Contact Email: sales.web@auk.industries <br><br>
+ Company Name: AUK INDUSTRIES PTE. LTD.<br>Web URL: https://auk.industries <br><br>Contact Hotline: 68163655 <br><br>Contact Email: sales.web@auk.industries <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

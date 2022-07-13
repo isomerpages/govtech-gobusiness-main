@@ -115,6 +115,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3104' target='_blank'>FirstCom Online Food Ordering & Payment System</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3134' target='_blank'>Qashier Digital Ordering Version 2022.01</a><br></td>
+<td>Qashier Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -64,7 +64,7 @@ Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution 
 
 ## Vendor Information
 
- Web URL: www.asiacloud.com.sg <br><br>Contact Hotline: 64716179 <br><br>Contact Email: ES@asiacloud.com.sg <br><br>
+ Company Name: Asiacloud Solutions Pte Ltd<br>Web URL: www.asiacloud.com.sg <br><br>Contact Hotline: 64716179 <br><br>Contact Email: ES@asiacloud.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
