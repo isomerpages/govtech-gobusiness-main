@@ -64,7 +64,7 @@ This managed security service leverages the power of Microsoft's integrated thre
 
 ## Vendor Information
 
- Company Name: Axiom IT Solutions Pte Ltd<br>Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
+ Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

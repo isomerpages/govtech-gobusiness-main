@@ -82,10 +82,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2934' target='_blank'>Sophos Central Intercept X Advanced</a><br></td>
 <td>SWIZ Technologies Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3138' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
-<td>Juss Solutions Group Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -50,6 +50,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1088' target='_blank'>Ecommerce Web Development</a><br></td>
+<td>Firstcom Solutions Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1243' target='_blank'>Magento and Woo Commerce Solutions for Retail</a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
@@ -160,10 +164,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3116' target='_blank'>FirstCom Ecommerce Web Development</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3122' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
-<td>MediaPlus Digital Pte Ltd</td>
 </tr>
 </table>
 

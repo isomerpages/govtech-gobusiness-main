@@ -37,7 +37,7 @@ The solution aims to provide SME the opportunity to create an online presence. I
 
 ## Vendor Information
 
- Company Name: DODOCA INFORMATION TECHNOLOGY (S) PTE LTD<br>Web URL: DIMMPS SOLUTIONS <br><br>Contact Hotline: 97363622 <br><br>Contact Email: MAIN@DODOCA.COM.SG <br><br>
+ Web URL: DIMMPS SOLUTIONS <br><br>Contact Hotline: 97363622 <br><br>Contact Email: MAIN@DODOCA.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

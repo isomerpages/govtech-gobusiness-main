@@ -90,10 +90,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3053' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3130' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
-<td>SPTEL PTE LTD</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

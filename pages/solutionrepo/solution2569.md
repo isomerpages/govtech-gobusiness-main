@@ -50,7 +50,7 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 
 ## Vendor Information
 
- Company Name: Sugati Travel CRM Pte Ltd<br>Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
+ Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -64,7 +64,7 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 
 ## Vendor Information
 
- Company Name: Glodon International Pte Ltd<br>Web URL: https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
+ Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

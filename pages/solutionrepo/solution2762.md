@@ -36,7 +36,7 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 
 ## Vendor Information
 
- Company Name: Quest Business Advisory Pte Ltd<br>Web URL: https://.qbo.intuit.com/ <br><br>Contact Hotline: 69802981 <br><br>Contact Email: cksoo@qba.com.sg <br><br>
+ Web URL: https://.qbo.intuit.com/ <br><br>Contact Hotline: 69802981 <br><br>Contact Email: cksoo@qba.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

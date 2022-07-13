@@ -64,7 +64,7 @@ Cybots ensures cyber resilience for all sectors, from SMEs to large multinationa
 
 ## Vendor Information
 
- Company Name: Cybots Pte. Ltd<br>Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br><br>Contact Hotline: 69835690 <br><br>Contact Email: contactus@cybotsai.com <br><br>
+ Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br><br>Contact Hotline: 69835690 <br><br>Contact Email: contactus@cybotsai.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

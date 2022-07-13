@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3087
 
 **Description**
 
-Green Radar grMail™ is a next-generation cloud-based email security platform with artificial intelligence capability, to discover any unprecedented email threats. The primary aim is to maximize the client’s business productivity and to minimize downtime by using unified AI & human monitoring SOC and behavioral detection engines. This provides the most comprehensive email protection that blocks bulk spam, viruses, malware, spoofing emails, phishing, CEO fraud, and other email-borne attacks.
+Green Radar grMail is a next-generation cloud-based email security platform with artificial intelligence capability, to discover any unprecedented email threats. The primary aim is to maximize the client's business productivity and to minimize downtime by using unified AI & human monitoring SOC and behavioral detection engines. This provides the most comprehensive email protection that blocks bulk spam, viruses, malware, spoofing emails, phishing, CEO fraud, and other email-borne attacks.
 
 ## Solution Packages Option(s)
 
@@ -64,7 +64,7 @@ Green Radar grMail™ is a next-generation cloud-based email security platform wit
 
 ## Vendor Information
 
- Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
+ Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

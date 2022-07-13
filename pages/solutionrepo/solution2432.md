@@ -64,7 +64,7 @@ Qoqolo is a one-stop-shop preschool management system for centres to accelerate 
 
 ## Vendor Information
 
- Company Name: CommonTown Pte Ltd<br>Web URL: www.commontown.com <br><br>Contact Hotline: 68488900 <br><br>Contact Email: biz@commontown.com <br><br>
+ Web URL: www.commontown.com <br><br>Contact Hotline: 68488900 <br><br>Contact Email: biz@commontown.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

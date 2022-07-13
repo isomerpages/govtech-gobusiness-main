@@ -64,7 +64,7 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ## Vendor Information
 
- Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
+ Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
