@@ -14,7 +14,19 @@ This solution is supported by Building and Construction Authority (BCA).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution274' target='_blank'>InSight QSE</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1152' target='_blank'>Novade</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution274' target='_blank'>InSight QSE</a><br></td>
+<td>Capps Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1152' target='_blank'>Novade</a><br></td>
+<td>CSG Software Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

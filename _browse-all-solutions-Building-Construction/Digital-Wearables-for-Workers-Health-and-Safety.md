@@ -14,7 +14,19 @@ This solution is supported by Building and Construction Authority (BCA).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution2409' target='_blank'>NovaVision Remote Assist Version 1.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2479' target='_blank'>Smart Glasses - InnoGlas</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2409' target='_blank'>NovaVision Remote Assist Version 1.0</a><br></td>
+<td>Engage Nova Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2479' target='_blank'>Smart Glasses - InnoGlas</a><br></td>
+<td>Innowave Tech Pte. Ltd.</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

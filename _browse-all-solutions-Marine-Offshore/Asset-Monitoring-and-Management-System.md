@@ -14,6 +14,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution2729' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2729' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br></td>
+<td>Integrated Software Engineering Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

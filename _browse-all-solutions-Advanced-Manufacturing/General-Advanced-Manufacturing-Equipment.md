@@ -14,8 +14,23 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution27' target='_blank'>Autonomous Mobile Robot</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution93' target='_blank'>Probing System</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution160' target='_blank'>Vertical Carousel</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution27' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution93' target='_blank'>Probing System</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution160' target='_blank'>Vertical Carousel</a><br></td>
+<td>Others</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

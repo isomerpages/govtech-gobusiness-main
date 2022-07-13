@@ -25,9 +25,27 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1228' target='_blank'>Vehicle Safety System</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1866' target='_blank'>T-Guard</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2595' target='_blank'>Fleet Safety Management System Version 7</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2617' target='_blank'>School Bus Management System Version SBMS.V2</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1228' target='_blank'>Vehicle Safety System</a><br></td>
+<td>GRID PLUS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1866' target='_blank'>T-Guard</a><br></td>
+<td>TNT Surveillance Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2595' target='_blank'>Fleet Safety Management System Version 7</a><br></td>
+<td>SmartComm Electronics Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2617' target='_blank'>School Bus Management System Version SBMS.V2</a><br></td>
+<td>SSTA Technology Development Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

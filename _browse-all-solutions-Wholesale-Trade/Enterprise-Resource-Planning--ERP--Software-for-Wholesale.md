@@ -25,6 +25,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution2025' target='_blank'>A2000ERP Version 12.X</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2025' target='_blank'>A2000ERP Version 12.X</a><br></td>
+<td>A2000 Solutions Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

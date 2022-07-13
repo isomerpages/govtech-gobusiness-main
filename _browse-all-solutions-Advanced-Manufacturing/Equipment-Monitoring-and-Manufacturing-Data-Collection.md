@@ -22,7 +22,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1888' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1904' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1888' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection</a><br></td>
+<td>Arcstone Pte ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1904' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br></td>
+<td>AUK INDUSTRIES PTE. LTD.</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

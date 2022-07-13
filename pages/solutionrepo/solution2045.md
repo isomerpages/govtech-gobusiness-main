@@ -58,41 +58,6 @@ Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, a
 <td style='padding: 10px;'>$40,800.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$41,200.00</td>
-<td style='padding: 10px;'>$32,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$46,000.00</td>
-<td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$56,800.00</td>
-<td style='padding: 10px;'>$36,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

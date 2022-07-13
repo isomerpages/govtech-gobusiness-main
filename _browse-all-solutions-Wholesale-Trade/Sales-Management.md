@@ -22,11 +22,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution952' target='_blank'>EZYSALESORDER Version 2.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1421' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2840' target='_blank'>Creative Sales and Order</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2999' target='_blank'>MEVO DMS 8.3</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3025' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3105' target='_blank'>EzyProcure Version 2.0</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution952' target='_blank'>EZYSALESORDER Version 2.0</a><br></td>
+<td>WINAPP SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1421' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br></td>
+<td>SIMPLR SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2840' target='_blank'>Creative Sales and Order</a><br></td>
+<td>Creative E-World Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2999' target='_blank'>MEVO DMS 8.3</a><br></td>
+<td>MEVO Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3025' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br></td>
+<td>RHS Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3105' target='_blank'>EzyProcure Version 2.0</a><br></td>
+<td>Singapore E-Business Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}
