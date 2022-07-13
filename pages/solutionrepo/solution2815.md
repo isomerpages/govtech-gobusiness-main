@@ -64,7 +64,7 @@ iREP Security is a mobile reporting, maintenance and monitoring system which use
 
 ## Vendor Information
 
- Web URL: http://www.gabkotech.com <br><br>Contact Hotline: 66844419 <br><br>Contact Email: info@gabkotech.com <br><br>
+ Company Name: Gabkotech Innovations Pte Ltd<br>Web URL: http://www.gabkotech.com <br><br>Contact Hotline: 66844419 <br><br>Contact Email: info@gabkotech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

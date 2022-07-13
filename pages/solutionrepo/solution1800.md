@@ -58,7 +58,7 @@ With this all-rounded Firewall Network Perimeter Protection, a proper firewall c
 
 ## Vendor Information
 
- Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
+ Company Name: Adventus Singapore Pte. Ltd.<br>Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

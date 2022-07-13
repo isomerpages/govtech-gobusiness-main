@@ -50,7 +50,7 @@ RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technolog
 
 ## Vendor Information
 
- Web URL: www.retaildds.com <br><br>Contact Hotline: 69881039 <br><br>Contact Email: transform@retaildds.com <br><br>
+ Company Name: RetailDDS Asia Pte Ltd<br>Web URL: www.retaildds.com <br><br>Contact Hotline: 69881039 <br><br>Contact Email: transform@retaildds.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

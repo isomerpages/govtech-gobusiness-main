@@ -22,10 +22,27 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution403' target='_blank'>Online Ordering & Payment System Version 0.9</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution432' target='_blank'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1134' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>iMakan</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>WarelyPOS Version 1.1</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution432' target='_blank'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2</a><br></td>
+<td>Getz Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1134' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0</a><br></td>
+<td>Aptsys Technology Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>iMakan</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>WarelyPOS Version 1.1</a><br></td>
+<td>Plus 65 Marketing Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

@@ -22,7 +22,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1892' target='_blank'>arc.ops - Manufacturing Quality Management</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2702' target='_blank'>Q-DAS - Smart Quality Software</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1892' target='_blank'>arc.ops - Manufacturing Quality Management</a><br></td>
+<td>Arcstone Pte ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2702' target='_blank'>Q-DAS - Smart Quality Software</a><br></td>
+<td>Hexagon Metrology Asia Pacific Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

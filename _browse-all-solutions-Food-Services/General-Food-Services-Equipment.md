@@ -14,10 +14,31 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution56' target='_blank'>High Speed Oven</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>Combi Oven</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2523' target='_blank'>Automated Deep Fryer</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2524' target='_blank'>Blast Chiller</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2525' target='_blank'>Ozonised Air + Surface Sterilization System</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution56' target='_blank'>High Speed Oven</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>Combi Oven</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2523' target='_blank'>Automated Deep Fryer</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2524' target='_blank'>Blast Chiller</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2525' target='_blank'>Ozonised Air + Surface Sterilization System</a><br></td>
+<td>Others</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

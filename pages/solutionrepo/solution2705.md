@@ -64,7 +64,7 @@ Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the l
 
 ## Vendor Information
 
- Web URL: https://hitachisunway-solutions.sg <br><br>Contact Hotline: 91053811 <br><br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br><br>
+ Company Name: Hitachi Sunway Information Systems (Singapore) Pte. Ltd.<br>Web URL: https://hitachisunway-solutions.sg <br><br>Contact Hotline: 91053811 <br><br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

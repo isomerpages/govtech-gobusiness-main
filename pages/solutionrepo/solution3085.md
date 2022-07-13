@@ -36,7 +36,7 @@ KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cros
 
 ## Vendor Information
 
- Web URL: http://www.keyfields.com/solution/ <br><br>Contact Hotline: 68427886 <br><br>Contact Email: info@keyfields.com <br><br>
+ Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br><br>Contact Hotline: 68427886 <br><br>Contact Email: info@keyfields.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

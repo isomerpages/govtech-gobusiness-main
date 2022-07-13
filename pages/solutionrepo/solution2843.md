@@ -50,7 +50,7 @@ Inventory System uses different technologies such as barcode, QR and/or RFID ont
 
 ## Vendor Information
 
- Web URL: www.dstadvertising.com <br><br>Contact Hotline: 86685292 <br><br>Contact Email: sales@dstadvertising.com <br><br>
+ Company Name: DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br><br>Contact Hotline: 86685292 <br><br>Contact Email: sales@dstadvertising.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

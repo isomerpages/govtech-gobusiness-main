@@ -43,7 +43,7 @@ OpenCart is the world's top three open source e-commerce software. It has everyt
 
 ## Vendor Information
 
- Web URL: www.equotix.com/web-development <br><br>Contact Hotline: 68022697 <br><br>Contact Email: contact@equotix.com <br><br>
+ Company Name: Equotix Pte Ltd<br>Web URL: www.equotix.com/web-development <br><br>Contact Hotline: 68022697 <br><br>Contact Email: contact@equotix.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

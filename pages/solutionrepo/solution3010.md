@@ -64,7 +64,7 @@ MoneyWorks family of accounting solutions provides a range of feature rich yet e
 
 ## Vendor Information
 
- Web URL: https://amcpro.asia <br><br>Contact Hotline: 65898878 <br><br>Contact Email: sales@amc.com.sg <br><br>
+ Company Name: Advanced Micro Control Pte Ltd<br>Web URL: https://amcpro.asia <br><br>Contact Hotline: 65898878 <br><br>Contact Email: sales@amc.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

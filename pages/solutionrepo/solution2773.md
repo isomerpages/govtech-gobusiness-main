@@ -57,7 +57,7 @@ Odoo is an integrated suite of business applications that have thousand of modul
 
 ## Vendor Information
 
- Web URL: https://applivon.com/odoo/ <br><br>Contact Hotline: 65898939 <br><br>Contact Email: team@applivon.com <br><br>
+ Company Name: Applivon Pte Ltd<br>Web URL: https://applivon.com/odoo/ <br><br>Contact Hotline: 65898939 <br><br>Contact Email: team@applivon.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

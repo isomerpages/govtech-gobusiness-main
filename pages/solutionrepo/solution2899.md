@@ -64,7 +64,7 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 
 ## Vendor Information
 
- Web URL: https://am8ze.com/erp/ <br><br>Contact Hotline: 96222206 <br><br>Contact Email: sales@am8ze.com <br><br>
+ Company Name: AM8ZE PTE LTD<br>Web URL: https://am8ze.com/erp/ <br><br>Contact Hotline: 96222206 <br><br>Contact Email: sales@am8ze.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

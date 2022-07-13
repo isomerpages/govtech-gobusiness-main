@@ -46,7 +46,7 @@ Vue tech build long term business channel for you!
 
 ## Vendor Information
 
- Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com <br>
+ Company Name: VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

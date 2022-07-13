@@ -188,8 +188,6 @@
   data:
     - title: Human Resource Solutions
       content: |
-        
-        **IT Solution**
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
@@ -279,34 +277,25 @@
         Standalone solutions may be supported on top of any ERP solution category that does not contain similar features.  For example, a company who purchased an 'Accounting, CRM and Sales' solution can be supported if they apply for a standalone 'Inventory Management' solution. However, they will not be supported if they apply for a standalone CRM solution.<br>
     - title: Fleet Safety and Fleet Management System
       content: |
-        
-        **IT Solution**
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>
     - title: Document Management and Mobile Access System
       content: |
-        
-        **IT Solution**
         - <a href='/browse-all-solutions-Document-Management-and-Mobile-Access-System/Document-Management-and-Mobile-Access-System'>Document Management and Mobile Access System</a>
     - title: Digital Marketing solutions
       content: |
-        
-        **IT Solution**
         - <a href='/browse-all-solutions-Digital-Marketing-solutions/Digital-Marketing-Packages'>Digital Marketing Packages</a>
     - title: E-Commerce solutions
       content: |
-        
-        **IT Solution**
         - <a href='/browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--B2C-'>E-Commerce - Online Shop (B2C)</a>
-    - title: Job Redesign
-      content: |
-        
-        **Consultancy**
-        - <a href='/browse-all-solutions-Job-Redesign/Job-Redesign-Consultancy'>Job Redesign Consultancy</a>
     - title: Cyber Security solutions
       content: |
-        
-        **IT Solution**
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
+- accordion:
+  letter: c
+  data:
+    - title: Job Redesign Solutions
+      content: |
+        - <a href='/browse-all-solutions-Job-Redesign-Solutions/Job-Redesign-Consultancy'>Job Redesign Consultancy</a>

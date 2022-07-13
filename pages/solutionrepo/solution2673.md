@@ -56,13 +56,6 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 <td style='padding: 10px;'>$9,028.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QBA Simple</td>
-<td style='padding: 10px;'>$2,288.00</td>
-<td style='padding: 10px;'>$2,076.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -71,7 +64,7 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 
 ## Vendor Information
 
- Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br><br>Contact Hotline: 98894289 <br><br>Contact Email: angels@angelsbusiness.sg <br><br>
+ Company Name: Angels Business Consulting Pte. Ltd.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br><br>Contact Hotline: 98894289 <br><br>Contact Email: angels@angelsbusiness.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

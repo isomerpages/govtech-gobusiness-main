@@ -64,7 +64,7 @@ SQL Account includes full range of business Accounting features including AR, AP
 
 ## Vendor Information
 
- Web URL: www.sqlaccounting.sg <br><br>Contact Hotline: 97206813 <br><br>Contact Email: carol.kok@apscomsolutions.com <br><br>
+ Company Name: Apscom Solutions Pte Ltd<br>Web URL: www.sqlaccounting.sg <br><br>Contact Hotline: 97206813 <br><br>Contact Email: carol.kok@apscomsolutions.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

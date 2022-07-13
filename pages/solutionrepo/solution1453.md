@@ -64,7 +64,7 @@ Swingvy is the modern HR platform for small and mid-sized businesses. By seamles
 
 ## Vendor Information
 
- Web URL: http://swingvy.com/ <br><br>Contact Hotline: +6591877655 <br><br>Contact Email: support@swingvy.com <br><br>
+ Company Name: Swingvy Pte Ltd <br>Web URL: http://swingvy.com/ <br><br>Contact Hotline: +6591877655 <br><br>Contact Email: support@swingvy.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

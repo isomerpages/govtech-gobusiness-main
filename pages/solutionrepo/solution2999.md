@@ -64,7 +64,7 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 
 ## Vendor Information
 
- Web URL: www.mevo.com.sg <br><br>Contact Hotline: 67739048 <br><br>Contact Email: enquiries@mevo.com.sg <br><br>
+ Company Name: MEVO Pte Ltd<br>Web URL: www.mevo.com.sg <br><br>Contact Hotline: 67739048 <br><br>Contact Email: enquiries@mevo.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

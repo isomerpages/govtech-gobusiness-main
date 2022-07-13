@@ -36,7 +36,7 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 
 ## Vendor Information
 
- Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Email: sales@anewtech.com.sg <br>
+ Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

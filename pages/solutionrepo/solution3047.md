@@ -64,7 +64,7 @@ Established since 2005, TheAsiaMedia provides decades of digital marketing exper
 
 ## Vendor Information
 
- Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
+ Company Name: TheAsiaMedia Pte Ltd<br>Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

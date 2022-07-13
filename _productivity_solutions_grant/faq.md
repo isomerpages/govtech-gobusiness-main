@@ -28,3 +28,31 @@ As part of the enhancement to the existing PSG, job redesign under PSG (PSG-JR) 
 PSG-JR is open for application since 1 December 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on Business Grant portal. Companies will need to register for a Corppass account to transact on the portal.
  
 For more information on PSG-JR, please refer to [https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"} or to contact SNEF at psgjr@snef.org.sg or +65 6827 6910.
+
+### 6. What solution sub-categories are eligible for enhanced support level of up to 80%?
+
+Under the Food Services & Retail Business Revitalisation Package, companies that fall under Food Services and Retail sectors can be supported for up to 80% from 1 April 2022 to 31 March 2023 for eligible pre-scoped solutions. This enhanced maximum support level applies to the following solution sub-categories under the Food Services and Retail sectors.
+
+**Food Services**
+
+1. Digital/ Online Ordering and Payment
+
+2. Automated Reservation
+
+3. B2B Marketplace/E-Procurement System
+
+4. Queue Management
+
+5. E-Loyalty/ Customer Relationship Management
+
+6. General Food Services Equipment
+
+**Retail**
+
+1. Enhanced Retail Management System
+
+2. Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
+
+3. Retail Analytics
+
+4. E-Commerce - Online Shop (B2C)

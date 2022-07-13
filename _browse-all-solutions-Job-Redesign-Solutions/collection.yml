@@ -1,5 +1,5 @@
 collections:
-  browse-all-solutions-Job-Redesign:
+  browse-all-solutions-Job-Redesign-Solutions:
     output: true
     order:
       - back-to-all-psg-solutions.md

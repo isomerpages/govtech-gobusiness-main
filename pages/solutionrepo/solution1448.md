@@ -66,7 +66,7 @@ Our solutions help retail owners run sales and promotions, track inventory, mana
 
 ## Vendor Information
 
- Web URL: https://octopuspos.com/ <br><br>Contact Hotline: 62216601 <br><br>Contact Email: solutions@octopuspos.com <br><br>
+ Company Name: Octopus Retail Management Pte Ltd<br>Web URL: https://octopuspos.com/ <br><br>Contact Hotline: 62216601 <br><br>Contact Email: solutions@octopuspos.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

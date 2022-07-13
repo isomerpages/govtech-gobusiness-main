@@ -64,7 +64,7 @@ Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified T
 
 ## Vendor Information
 
- Web URL: WWW.D-CONNECT.NET <br><br>Contact Hotline: 8001014209 <br><br>Contact Email: SALES@D-CONNECT.NET <br><br>
+ Company Name: DATA CONNECT TECHNOLOGIES PTE LTD<br>Web URL: WWW.D-CONNECT.NET <br><br>Contact Hotline: 8001014209 <br><br>Contact Email: SALES@D-CONNECT.NET <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

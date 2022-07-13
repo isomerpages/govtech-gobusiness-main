@@ -14,6 +14,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution2337' target='_blank'>FITPRISE Project Management System - PCM</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2337' target='_blank'>FITPRISE Project Management System - PCM</a><br></td>
+<td>Enhanzcom Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

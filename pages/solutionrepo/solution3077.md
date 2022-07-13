@@ -64,7 +64,7 @@ FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is com
 
 ## Vendor Information
 
- Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
+ Company Name: FidCorp Services Private Limited<br>Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

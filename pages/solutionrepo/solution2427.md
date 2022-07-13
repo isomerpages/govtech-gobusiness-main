@@ -55,41 +55,6 @@ Xero can connect with other apps.
 <td style='padding: 10px;'>$3,145.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Standard Subscription</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Premium Subscription</td>
-<td style='padding: 10px;'>$780.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Standard Subscription with Set Up</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Premium Subscription with Set Up</td>
-<td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'>$2,725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Xero Deluxe Premium Subscription with Set up</td>
-<td style='padding: 10px;'>$3,609.00</td>
-<td style='padding: 10px;'>$3,585.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Assembly_Works_20200948_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
@@ -98,7 +63,7 @@ Xero can connect with other apps.
 
 ## Vendor Information
 
- Web URL: www.daisy.sg <br><br>Contact Hotline: 92736613 <br><br>Contact Email: kate@daisy.sg <br><br>
+ Company Name: Daisy Consultants Pte Ltd<br>Web URL: www.daisy.sg <br><br>Contact Hotline: 92736613 <br><br>Contact Email: kate@daisy.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -22,7 +22,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Redoc Version 1.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2189' target='_blank'>RealtyPromote Version 3.2</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Redoc Version 1.0</a><br></td>
+<td>Real Estate Doc Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2189' target='_blank'>RealtyPromote Version 3.2</a><br></td>
+<td>CommercePromote Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

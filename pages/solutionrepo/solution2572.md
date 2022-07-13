@@ -64,7 +64,7 @@ Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technic
 
 ## Vendor Information
 
- Web URL: alitec.sg <br><br>Contact Hotline: 62622001 <br><br>Contact Email: sales@alitec.sg <br><br>
+ Company Name: Alitec Pte Ltd<br>Web URL: alitec.sg <br><br>Contact Hotline: 62622001 <br><br>Contact Email: sales@alitec.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

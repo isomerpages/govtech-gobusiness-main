@@ -22,12 +22,39 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1681' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution1737' target='_blank'>FeHR HRSS and Payroll Processing Version 8</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2378' target='_blank'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2541' target='_blank'>ALIGN HRSS - PAYROLL OUTSOURCING</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2850' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2953' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2984' target='_blank'>HRM Labs Shared Service</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1681' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1</a><br></td>
+<td>SLEEK TECH (PTE. LTD.)</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1737' target='_blank'>FeHR HRSS and Payroll Processing Version 8</a><br></td>
+<td>Frontier e-HR Pte Ltd </td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2378' target='_blank'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2541' target='_blank'>ALIGN HRSS - PAYROLL OUTSOURCING</a><br></td>
+<td>Align Group of Companies Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2850' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
+<td>MATCH RESOURCES PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2953' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2984' target='_blank'>HRM Labs Shared Service</a><br></td>
+<td>Hrm Labs Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

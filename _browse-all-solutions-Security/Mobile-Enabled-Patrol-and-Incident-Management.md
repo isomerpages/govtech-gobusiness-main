@@ -25,8 +25,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>AdeptForms Security Operational Management Version 2</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution2815' target='_blank'>iREP Security System Version 4.0</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution3065' target='_blank'>Armfort Security Workforce</a><br>
+<table>
+<tr>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>AdeptForms Security Operational Management Version 2</a><br></td>
+<td>Adept Ventures Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2815' target='_blank'>iREP Security System Version 4.0</a><br></td>
+<td>Gabkotech Innovations Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3065' target='_blank'>Armfort Security Workforce</a><br></td>
+<td>ONE THIRD TECHNOLOGIES PTE LTD</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}
