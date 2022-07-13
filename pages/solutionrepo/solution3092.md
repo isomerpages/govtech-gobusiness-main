@@ -36,7 +36,7 @@ Tracee Inventory allows high visibility & accessibility of products, & easy mana
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93956988 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93956988 <br><br>Contact Email: info@qzonetech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

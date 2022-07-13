@@ -64,7 +64,7 @@ TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software deve
 
 ## Vendor Information
 
- Company Name: TIME ACCESS INTERNATIONAL<br>Web URL: https://timeaccessworld.com/services?service=software<br>Contact Hotline: 62980012<br>Contact Email: info@timeaccessworld.com
+ Web URL: https://timeaccessworld.com/services?service=software<br>Contact Hotline: 62980012<br>Contact Email: info@timeaccessworld.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

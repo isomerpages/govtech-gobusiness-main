@@ -64,7 +64,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Vendor Information
 
- Company Name: Wealthbridge Corporate Services Pte Ltd<br>Web URL: https://www.wealthbridgecs.com/ <br><br>Contact Hotline: 66816635 <br><br>Contact Email: contact@wealthbridgecs.com <br><br>
+ Web URL: https://www.wealthbridgecs.com/ <br><br>Contact Hotline: 66816635 <br><br>Contact Email: contact@wealthbridgecs.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -50,7 +50,7 @@ Cleverly's Digital Marketing package is created to help businesses create brand 
 
 ## Vendor Information
 
- Company Name: Cleverly SG Pte. Ltd.<br>URL: https://cleverly.sg/psg-digital-marketing-sem-seo-sm-grant/<br>Contact 8866 3438<br>Email hello@cleverly.sg
+ URL: https://cleverly.sg/psg-digital-marketing-sem-seo-sm-grant/<br>Contact 8866 3438<br>Email hello@cleverly.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

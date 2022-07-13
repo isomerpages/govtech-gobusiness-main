@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2549
 
 **Description**
 
-Network Box is a Managed Security Service Provider, protecting it’s clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's UTM (Unified Threat Management), SME’s no longer need to allocate resources for security issues and can focus on running their businesses.
+Network Box is a Managed Security Service Provider, protecting it's clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's UTM (Unified Threat Management), SME's no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 
@@ -64,7 +64,7 @@ Network Box is a Managed Security Service Provider, protecting it’s clients thro
 
 ## Vendor Information
 
- Company Name: Network Box (Sin) Pte Ltd<br>Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
+ Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

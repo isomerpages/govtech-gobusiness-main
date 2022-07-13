@@ -64,7 +64,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ## Vendor Information
 
- Company Name: CommercePromote Pte Ltd<br>Web URL: https://commercepromote.com/agency-management <br><br>Contact Hotline: 97508889 <br><br>Contact Email: cpsales@commercepromote.com <br><br>
+ Web URL: https://commercepromote.com/agency-management <br><br>Contact Hotline: 97508889 <br><br>Contact Email: cpsales@commercepromote.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

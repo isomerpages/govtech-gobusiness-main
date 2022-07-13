@@ -36,7 +36,7 @@ The Qanvast Leads Management System is a software platform that manages leads fo
 
 ## Vendor Information
 
- Company Name: Qanvast Pte Ltd <br>Web URL: www.qanvast.com <br><br>Contact Hotline: 65898354 <br><br>Contact Email: heretohelp@qanvast.com <br><br>
+ Web URL: www.qanvast.com <br><br>Contact Hotline: 65898354 <br><br>Contact Email: heretohelp@qanvast.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

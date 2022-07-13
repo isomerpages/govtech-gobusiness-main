@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3058
 
 **Description**
 
-This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today’s market – Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
+This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
 
 ## Solution Packages Option(s)
 
@@ -64,7 +64,7 @@ This Digital Marketing Package aims to help SMEs rapidly grow their business onl
 
 ## Vendor Information
 
- Company Name: Roots Digital Pte. Ltd.<br>Web URL: https://www.rootsdigital.com.sg/psg-grant<br>Contact Hotline: 88751638<br>Contact Email: psg@rootsdigital.com.sg <br>
+ Web URL: https://www.rootsdigital.com.sg/psg-grant<br>Contact Hotline: 88751638<br>Contact Email: psg@rootsdigital.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

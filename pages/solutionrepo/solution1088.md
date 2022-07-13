@@ -1,9 +1,9 @@
 ---
-title: 'FirstCom Ecommerce Web Development'
-permalink: /productivity-solutions-grant/solutionrepo/solution3116
+title: 'Ecommerce Web Development'
+permalink: /productivity-solutions-grant/solutionrepo/solution1088
 ---
 
-## FirstCom Ecommerce Web Development
+## Ecommerce Web Development
 
 ## Overview
 
@@ -23,10 +23,10 @@ Development of an online shopping website with comprehensive functionalities to 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Ecommerce Web Development - Firstcom Ecommerce</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Web Development - Firstcom Ecommerce Web Development</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/firstcom_desensitised_annex3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_Ecommerce_Web_Development_Annex_3_CR_wef_17_Feb_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Development of an online shopping website with comprehensive functionalities to 
 
 ## Vendor Information
 
- Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
+ Company Name:Firstcom Solutions Pte Ltd <br><br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
