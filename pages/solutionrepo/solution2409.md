@@ -64,7 +64,7 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 
 ## Vendor Information
 
- Web URL: https://www.engagenova.com/novavision <br><br>Contact Hotline: 88492042 <br><br>Contact Email: contact@engagenova.com <br><br>
+ Company Name: Engage Nova Pte Ltd<br>Web URL: https://www.engagenova.com/novavision <br><br>Contact Hotline: 88492042 <br><br>Contact Email: contact@engagenova.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

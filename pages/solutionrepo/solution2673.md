@@ -64,7 +64,7 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 
 ## Vendor Information
 
- Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br><br>Contact Hotline: 98894289 <br><br>Contact Email: angels@angelsbusiness.sg <br><br>
+ Company Name: Angels Business Consulting Pte. Ltd.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br><br>Contact Hotline: 98894289 <br><br>Contact Email: angels@angelsbusiness.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

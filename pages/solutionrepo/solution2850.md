@@ -64,7 +64,7 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 
 ## Vendor Information
 
- Web URL: www.matchresources.co <br><br>Contact Hotline: 66531198 <br><br>Contact Email: jobs@matchresources.co <br><br>
+ Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br><br>Contact Hotline: 66531198 <br><br>Contact Email: jobs@matchresources.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

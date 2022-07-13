@@ -50,7 +50,7 @@ Microsoft Dynamics 365 Business Central delivers integrated functionality to pro
 
 ## Vendor Information
 
- Web URL: www.9itgroup.com <br><br>Contact Hotline: 62918020 <br><br>Contact Email: sales@9itgroup.com <br><br>
+ Company Name: Illum (9) Pte Ltd<br>Web URL: www.9itgroup.com <br><br>Contact Hotline: 62918020 <br><br>Contact Email: sales@9itgroup.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

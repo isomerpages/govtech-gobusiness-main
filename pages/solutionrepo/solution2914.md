@@ -65,7 +65,7 @@ It protects your entire business through a layered protection approach, an innov
 
 ## Vendor Information
 
- Web URL: www.cloudable.com.sg <br><br>Contact Hotline: 83888759 <br><br>Contact Email: info@cloudable.com.sg <br><br>
+ Company Name: Cloudable Solutions Pte Ltd<br>Web URL: www.cloudable.com.sg <br><br>Contact Hotline: 83888759 <br><br>Contact Email: info@cloudable.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

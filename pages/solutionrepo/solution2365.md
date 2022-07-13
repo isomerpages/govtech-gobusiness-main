@@ -64,7 +64,7 @@ HReasily is a cloud-based HR solution that provides end-to-end employee data col
 
 ## Vendor Information
 
- Web URL: https://361dc.com/software/hr-easily/<br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
+ Company Name: 361 Degree Consultancy Pte Ltd<br>Web URL: https://361dc.com/software/hr-easily/<br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

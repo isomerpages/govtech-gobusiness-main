@@ -59,7 +59,7 @@ Your team has the freedom to check rosters, accept and decline shifts, request l
 
 ## Vendor Information
 
- Web URL: www.roubler.com <br><br>Contact Hotline: 31636786 <br><br>Contact Email: info@roubler.com <br><br>
+ Company Name: Roubler PTE LTD <br>Web URL: www.roubler.com <br><br>Contact Hotline: 31636786 <br><br>Contact Email: info@roubler.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

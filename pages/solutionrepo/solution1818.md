@@ -64,7 +64,7 @@ Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document 
 
 ## Vendor Information
 
- Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
+ Company Name: Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

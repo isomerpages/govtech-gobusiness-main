@@ -70,7 +70,7 @@ a complete business solution.
 
 ## Vendor Information
 
- Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com <br>
+ Company Name: MFP Pte. Ltd.<br>Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <br>Contact Email: contact@accountingsuperhero.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

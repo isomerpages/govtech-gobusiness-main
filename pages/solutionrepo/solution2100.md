@@ -64,7 +64,7 @@ Xero simplifies business tasks so that Managers can focus on the business.
 
 ## Vendor Information
 
- Web URL: www.bamboosea.sg <br><br>Contact Hotline: 69325288 <br><br>Contact Email: admin@bamboosea.sg <br><br>
+ Company Name: Bamboo Sea Pte Ltd<br>Web URL: www.bamboosea.sg <br><br>Contact Hotline: 69325288 <br><br>Contact Email: admin@bamboosea.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -64,7 +64,7 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 
 ## Vendor Information
 
- Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br><br>Contact Hotline: 62225224 <br><br>Contact Email: service@aligngroup.asia <br><br>
+ Company Name: Align Group of Companies Pte Ltd<br>Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br><br>Contact Hotline: 62225224 <br><br>Contact Email: service@aligngroup.asia <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

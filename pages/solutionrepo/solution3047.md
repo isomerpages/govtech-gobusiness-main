@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3047
 
 **Description**
 
-Established since 2005, TheAsiaMedia provides decades of digital marketing experience to help businesses increase brand and product awareness, generate leads, and drive sales. TheAsiaMedia's digital marketing solutions encompass research and planning to target-setting and creating and implementing effective online marketing campaigns. Depending on the companies' objectives, TheAsiaMedia's Digital Marketing solutions are aimed at maximizing ROIs through continuous optimization and insights.
+Established since 2005, TheAsiaMedia provides decades of digital marketing experience to help businesses increase brand and product awareness, generate leads, and drive sales. TheAsiaMedia’s digital marketing solutions encompass research and planning to target-setting and creating and implementing effective online marketing campaigns. Depending on the companies’ objectives, TheAsiaMedia’s Digital Marketing solutions are aimed at maximizing ROIs through continuous optimization and insights.
 
 ## Solution Packages Option(s)
 
@@ -64,7 +64,7 @@ Established since 2005, TheAsiaMedia provides decades of digital marketing exper
 
 ## Vendor Information
 
- Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
+ Company Name: TheAsiaMedia Pte Ltd<br>Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

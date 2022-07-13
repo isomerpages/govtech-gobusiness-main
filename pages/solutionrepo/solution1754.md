@@ -64,7 +64,7 @@ The solution is a cloud-based, common digital platform - the Intelligent Nationa
 
 ## Vendor Information
 
- Web URL: www.inpqs.com <br><br>Contact Hotline: 62260881 <br><br>Contact Email: sales@inpqs.com <br><br>
+ Company Name: iNPQS Pte Ltd<br>Web URL: www.inpqs.com <br><br>Contact Hotline: 62260881 <br><br>Contact Email: sales@inpqs.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

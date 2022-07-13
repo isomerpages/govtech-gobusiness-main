@@ -58,7 +58,7 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 
 ## Vendor Information
 
- Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
+ Company Name: ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.<br>Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

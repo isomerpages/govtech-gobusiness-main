@@ -64,7 +64,7 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ## Vendor Information
 
- Web URL: https://www.really.sg/project-management-features/ <br><br>Contact Hotline: 69507563 <br><br>Contact Email: info@really.sg <br><br>
+ Company Name: Really Pte. Ltd.<br>Web URL: https://www.really.sg/project-management-features/ <br><br>Contact Hotline: 69507563 <br><br>Contact Email: info@really.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

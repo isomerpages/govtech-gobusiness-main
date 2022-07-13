@@ -50,7 +50,7 @@ ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Mana
 
 ## Vendor Information
 
- Web URL: www.zetta-solution.com <br><br>Contact Hotline: 67450866 <br><br>Contact Email: sales@zetta-solution.com <br><br>
+ Company Name: Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br><br>Contact Hotline: 67450866 <br><br>Contact Email: sales@zetta-solution.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

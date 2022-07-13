@@ -66,7 +66,7 @@ Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance 
 
 ## Vendor Information
 
- Web URL: www.flick.sg <br><br>Contact Hotline: 62768255 <br><br>Contact Email: sales@flick.sg <br><br>
+ Company Name: Flick Solutions Pte. Ltd.<br>Web URL: www.flick.sg <br><br>Contact Hotline: 62768255 <br><br>Contact Email: sales@flick.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

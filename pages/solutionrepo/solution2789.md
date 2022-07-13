@@ -50,7 +50,7 @@ MuRho is a leading home-grown provider of inventory management system since 2002
 
 ## Vendor Information
 
- Web URL: www.murho.com.sg <br><br>Contact Hotline: 62893802 <br><br>Contact Email: sales@murho.com.sg <br><br>
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br><br>Contact Hotline: 62893802 <br><br>Contact Email: sales@murho.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

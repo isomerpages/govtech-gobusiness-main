@@ -64,7 +64,7 @@ QuickBooks Online is an IRAS-registered cloud accounting software which helps sm
 
 ## Vendor Information
 
- Web URL: https://www.acloud-b.com/our-price--services.html <br><br>Contact Hotline: 97942119 <br><br>Contact Email: ACloud.Sales@gmail.com <br><br>
+ Company Name: ACloud Bookkeeping Pte Ltd<br>Web URL: https://www.acloud-b.com/our-price--services.html <br><br>Contact Hotline: 97942119 <br><br>Contact Email: ACloud.Sales@gmail.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

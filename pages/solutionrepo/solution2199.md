@@ -43,7 +43,7 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 
 ## Vendor Information
 
- Web URL: https://warelycorp.com/<br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
+ Company Name: Plus 65 Marketing Pte Ltd<br>Web URL: https://warelycorp.com/<br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

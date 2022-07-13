@@ -64,7 +64,7 @@ SSTA Technology Development Pte Ltd is a Singapore-based company since January 2
 
 ## Vendor Information
 
- Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
+ Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

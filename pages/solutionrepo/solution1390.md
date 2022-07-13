@@ -50,7 +50,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1390
 
 ## Vendor Information
 
- Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+ Company Name: 3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

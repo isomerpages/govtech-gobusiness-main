@@ -52,7 +52,7 @@ XERO being a cloud based and IRAS approved accounting software, it allows compan
 
 ## Vendor Information
 
- Web URL: https://www.acebizservices.com/it-software <br><br>Contact Hotline: 62620402 <br><br>Contact Email: CARE@ACEBIZSERVICES.COM <br><br>
+ Company Name: ACE BUSINESS PTE LTD<br>Web URL: https://www.acebizservices.com/it-software <br><br>Contact Hotline: 62620402 <br><br>Contact Email: CARE@ACEBIZSERVICES.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

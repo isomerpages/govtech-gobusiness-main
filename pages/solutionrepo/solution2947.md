@@ -64,7 +64,7 @@ EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care
 
 ## Vendor Information
 
- Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

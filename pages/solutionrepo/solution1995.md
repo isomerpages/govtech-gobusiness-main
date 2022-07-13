@@ -66,7 +66,7 @@ SAP Business One is an ERP software designed for SMEs. It's a single, affordable
 
 ## Vendor Information
 
- Web URL: https://axxis-consulting.com/sap-business-one/ <br><br>Contact Hotline: +6567497069 <br><br>Contact Email: info@axxis-consulting.com <br><br>
+ Company Name: Axxis Consulting (S) Pte Ltd<br>Web URL: https://axxis-consulting.com/sap-business-one/ <br><br>Contact Hotline: +6567497069 <br><br>Contact Email: info@axxis-consulting.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

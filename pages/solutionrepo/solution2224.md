@@ -64,7 +64,7 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 
 ## Vendor Information
 
- Web URL: https://www.detrack.com <br><br>Contact Hotline: 68440509 <br><br>Contact Email: sales@detrack.com <br><br>
+ Company Name: Detrack Systems Pte. Ltd.<br>Web URL: https://www.detrack.com <br><br>Contact Hotline: 68440509 <br><br>Contact Email: sales@detrack.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

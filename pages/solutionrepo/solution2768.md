@@ -69,7 +69,7 @@ APM Smart Access Solutions enables users to automate access control for various 
 
 ## Vendor Information
 
- Web URL: http://www.apmglobal.com.sg <br><br>Contact Hotline: 67104938 <br><br>Contact Email: bella@apmglobal.com.sg <br><br>
+ Company Name: APM Global Pte Ltd<br>Web URL: http://www.apmglobal.com.sg <br><br>Contact Hotline: 67104938 <br><br>Contact Email: bella@apmglobal.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

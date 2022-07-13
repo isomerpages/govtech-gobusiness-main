@@ -65,7 +65,7 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 
 ## Vendor Information
 
- Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br><br>Contact Hotline: 62951998 <br><br>Contact Email: sales@timesoftsg.com.sg <br><br>
+ Company Name: Times Software Pte Ltd<br>Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br><br>Contact Hotline: 62951998 <br><br>Contact Email: sales@timesoftsg.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
