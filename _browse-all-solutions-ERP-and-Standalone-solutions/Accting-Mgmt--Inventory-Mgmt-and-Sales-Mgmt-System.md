@@ -103,10 +103,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2929' target='_blank'>Netiquette Cloud Business Suite</a><br></td>
 <td>Netiquette Software Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3143' target='_blank'>SAGE 300</a><br></td>
-<td>SEG IT Services Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

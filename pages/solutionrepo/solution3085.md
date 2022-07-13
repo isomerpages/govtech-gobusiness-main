@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3085
 
 **Description**
 
-KEYfields’ iLOGON iFMS is a web-based solution that supports Air, Ocean and Cross border operations. System features include, multiple sales quotation & billing, LCL and FCL handling, import & export detail booking & operations, job P&L and contains an extensive list of configurable documents printouts such as Arrival Shipping Note, Delivery Note, Waybill, etc. Management Reports & Dashboard are readily available for freight forwarders to analyse & perform critical business decisions.
+KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cross border operations. System features include, multiple sales quotation & billing, LCL and FCL handling, import & export detail booking & operations, job P&L and contains an extensive list of configurable documents printouts such as Arrival Shipping Note, Delivery Note, Waybill, etc. Management Reports & Dashboard are readily available for freight forwarders to analyse & perform critical business decisions.
 
 ## Solution Packages Option(s)
 
@@ -36,7 +36,7 @@ KEYfields’ iLOGON iFMS is a web-based solution that supports Air, Ocean and Cros
 
 ## Vendor Information
 
- Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br><br>Contact Hotline: 68427886 <br><br>Contact Email: info@keyfields.com <br><br>
+ Web URL: http://www.keyfields.com/solution/ <br><br>Contact Hotline: 68427886 <br><br>Contact Email: info@keyfields.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

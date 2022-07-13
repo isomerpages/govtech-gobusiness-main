@@ -63,7 +63,7 @@ Xero can connect with other apps.
 
 ## Vendor Information
 
- Company Name: Daisy Consultants Pte Ltd<br>Web URL: www.daisy.sg <br><br>Contact Hotline: 92736613 <br><br>Contact Email: kate@daisy.sg <br><br>
+ Web URL: www.daisy.sg <br><br>Contact Hotline: 92736613 <br><br>Contact Email: kate@daisy.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

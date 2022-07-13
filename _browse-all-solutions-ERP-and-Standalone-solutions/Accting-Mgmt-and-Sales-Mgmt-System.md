@@ -223,14 +223,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3117' target='_blank'>Moneyworks Version 9</a><br></td>
 <td>Ostendo Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3125' target='_blank'>AutoCount Accounting</a><br></td>
-<td>Autocount (S) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3148' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

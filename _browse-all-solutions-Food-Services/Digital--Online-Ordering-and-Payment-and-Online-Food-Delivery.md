@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution403' target='_blank'>Online Ordering & Payment System Version 0.9</a><br></td>
+<td>Firstcom Solutions Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution432' target='_blank'>Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
 </tr>

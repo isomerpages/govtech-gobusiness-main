@@ -43,7 +43,7 @@ The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help p
 
 ## Vendor Information
 
- Company Name: Oak Consulting Pte. Ltd.<br>Web URL: www.oakconsulting.com.sg/ECDA-analytics-solutions <br><br>Contact Hotline: 67444792 <br><br>Contact Email: sales@oakconsulting.com.sg <br><br>
+ Web URL: www.oakconsulting.com.sg/ECDA-analytics-solutions <br><br>Contact Hotline: 67444792 <br><br>Contact Email: sales@oakconsulting.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

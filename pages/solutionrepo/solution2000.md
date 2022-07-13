@@ -50,7 +50,7 @@ Armfort Visitor Management System is an integrated solution that will assist bus
 
 ## Vendor Information
 
- Company Name: ONE THIRD TECHNOLOGIES PTE LTD<br>Web URL: www.onethird.co <br><br>Contact Hotline: 96497552 <br><br>Contact Email: hello@onethird.co <br><br>
+ Web URL: www.onethird.co <br><br>Contact Hotline: 96497552 <br><br>Contact Email: hello@onethird.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
