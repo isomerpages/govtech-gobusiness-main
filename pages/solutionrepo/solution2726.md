@@ -50,7 +50,7 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 
 ## Vendor Information
 
- Web URL: www.coobizit.com <br><br>Contact Hotline: +6592709558 <br><br>Contact Email: admin@COOBIZIT.COM <br><br>
+ Company Name: Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br><br>Contact Hotline: +6592709558 <br><br>Contact Email: admin@COOBIZIT.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

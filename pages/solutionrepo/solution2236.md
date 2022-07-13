@@ -64,7 +64,7 @@ Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accountin
 
 ## Vendor Information
 
- Web URL: www.tischglobal.com <br><br>Contact Hotline: 89212060 <br><br>Contact Email: matthew@tischglobal.com <br><br>
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br><br>Contact Hotline: 89212060 <br><br>Contact Email: matthew@tischglobal.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

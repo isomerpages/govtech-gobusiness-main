@@ -43,7 +43,7 @@ QuickBooks is #1 rated globally and best-selling small business accounting softw
 
 ## Vendor Information
 
- Web URL: https://quickbooks.intuit.com/sg <br><br>Contact Hotline: 68449633 <br><br>Contact Email: info@inbiz-solutions.com <br><br>
+ Company Name: InBusiness Solutions Pte Ltd<br>Web URL: https://quickbooks.intuit.com/sg <br><br>Contact Hotline: 68449633 <br><br>Contact Email: info@inbiz-solutions.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

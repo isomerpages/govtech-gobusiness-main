@@ -64,7 +64,7 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 
 ## Vendor Information
 
- Web URL: www.swipetask.com <br><br>Contact Hotline: +6596391259 <br><br>Contact Email: info@swipetask.com <br><br>
+ Company Name: Swipetask Pte Ltd<br>Web URL: www.swipetask.com <br><br>Contact Hotline: +6596391259 <br><br>Contact Email: info@swipetask.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

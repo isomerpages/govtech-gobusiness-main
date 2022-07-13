@@ -64,7 +64,7 @@ SmartFM is an integrated, cloud based, facility management solution. It is desig
 
 ## Vendor Information
 
- Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
+ Company Name: CHIMERIC TECHNOLOGIES PTE LTD<br>Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

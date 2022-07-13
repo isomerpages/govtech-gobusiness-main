@@ -64,7 +64,7 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 
 ## Vendor Information
 
- Web URL: www.flavorcrm.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@flavorcrm.com <br><br>
+ Company Name: FLAVOR PTE. LTD.<br>Web URL: www.flavorcrm.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@flavorcrm.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

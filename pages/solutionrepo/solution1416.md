@@ -64,7 +64,7 @@ The Freight Master software is a suite of integrated and comprehensive software 
 
 ## Vendor Information
 
- Web URL: www.innosys.com.sg <br><br>Contact Hotline: +6567443002 <br><br>Contact Email: pflam@innosys.com.sg <br><br>
+ Company Name: Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br><br>Contact Hotline: +6567443002 <br><br>Contact Email: pflam@innosys.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

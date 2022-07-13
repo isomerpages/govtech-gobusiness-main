@@ -37,7 +37,7 @@ Business owners save time to explore countless subscription-based Saas tools by 
 
 ## Vendor Information
 
- Web URL: https://mibc.sg/web-development/ <br><br>Contact Hotline: 63535152 <br><br>Contact Email: support@mibc.sg <br><br>
+ Company Name: MIBC PTE LTD<br>Web URL: https://mibc.sg/web-development/ <br><br>Contact Hotline: 63535152 <br><br>Contact Email: support@mibc.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

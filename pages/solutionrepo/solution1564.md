@@ -65,7 +65,7 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 
 ## Vendor Information
 
- Web URL: www.megapos.com.sg <br><br>Contact Hotline: 62245788 <br><br>Contact Email: sales@megasafe.com.sg <br><br>
+ Company Name: Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br><br>Contact Hotline: 62245788 <br><br>Contact Email: sales@megasafe.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

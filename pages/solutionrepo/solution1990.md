@@ -64,7 +64,7 @@ Accounting Consultancy Pte Ltd offers ABSS Accounting, formerly known as MYOB. A
 
 ## Vendor Information
 
- Web URL: https://accountingconsultancy.com <br><br>Contact Hotline: 63888378 <br><br>Contact Email: enquiry@accountingconsultancy.com <br><br>
+ Company Name: Accounting Consultancy Pte. Ltd.<br>Web URL: https://accountingconsultancy.com <br><br>Contact Hotline: 63888378 <br><br>Contact Email: enquiry@accountingconsultancy.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

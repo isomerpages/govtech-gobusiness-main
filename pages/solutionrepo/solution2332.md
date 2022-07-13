@@ -66,7 +66,7 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 
 ## Vendor Information
 
- Web URL: www.cutechgroup.com/it <br><br>Contact Hotline: 69042340 <br><br>Contact Email: jnaveen@cutechgroup.com <br><br>
+ Company Name: Cutech Infocomm Solutions Pte Ltd<br>Web URL: www.cutechgroup.com/it <br><br>Contact Hotline: 69042340 <br><br>Contact Email: jnaveen@cutechgroup.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

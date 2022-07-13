@@ -64,7 +64,7 @@ The XGS Firewall Series offers next-generation firewall features that provide vi
 
 ## Vendor Information
 
- Web URL: www.centricsnetworks.com.sg <br><br>Contact Hotline: 68337898 <br><br>Contact Email: sales@centricsnetworks.com.sg <br><br>
+ Company Name: Centrics Networks Ptd Ltd <br>Web URL: www.centricsnetworks.com.sg <br><br>Contact Hotline: 68337898 <br><br>Contact Email: sales@centricsnetworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

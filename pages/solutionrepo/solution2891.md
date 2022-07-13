@@ -51,7 +51,7 @@ ABSS Premier is an accounting and inventory management system that integrates wi
 
 ## Vendor Information
 
- Web URL: www.acc-pro.com.sg <br><br>Contact Hotline: 61006388 <br><br>Contact Email: johnny@acc-pro.com.sg <br><br>
+ Company Name: Acc-Pro Business Links Pte Ltd<br>Web URL: www.acc-pro.com.sg <br><br>Contact Hotline: 61006388 <br><br>Contact Email: johnny@acc-pro.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

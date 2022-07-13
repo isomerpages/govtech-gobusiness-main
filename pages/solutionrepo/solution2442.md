@@ -64,7 +64,7 @@ A complete end-to-end software system tailor-made for centres where there are st
 
 ## Vendor Information
 
- Web URL: WWW.HAVENCE.COM.SG <br><br>Contact Hotline: 90067620 <br><br>Contact Email: ENQUIRIES@HAVENCE.COM.SG <br><br>
+ Company Name: HAVENCE PORTAL LLP<br>Web URL: WWW.HAVENCE.COM.SG <br><br>Contact Hotline: 90067620 <br><br>Contact Email: ENQUIRIES@HAVENCE.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

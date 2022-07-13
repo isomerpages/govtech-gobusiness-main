@@ -68,7 +68,7 @@ T-Guard is a complete system that provides utmost safe driving management system
 
 ## Vendor Information
 
- Web URL: www.tnts.com.sg <br>Contact Hotline: 63338687<br>Contact Email: info@tnts.com.sg 
+ Company Name: TNT Surveillance Pte Ltd<br>Web URL: www.tnts.com.sg <br>Contact Hotline: 63338687<br>Contact Email: info@tnts.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

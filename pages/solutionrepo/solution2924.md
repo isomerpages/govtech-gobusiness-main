@@ -64,7 +64,7 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of human resource op
 
 ## Vendor Information
 
- Web URL: https://www.frontier-ehr.com/ <br><br>Contact Hotline: 63910921 <br><br>Contact Email: enquiry@frontier-ehr.com <br><br>
+ Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br><br>Contact Hotline: 63910921 <br><br>Contact Email: enquiry@frontier-ehr.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

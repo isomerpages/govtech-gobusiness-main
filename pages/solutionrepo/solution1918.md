@@ -64,7 +64,7 @@ Build everlasting customer relationships with the world's favorite CRM. Zoho CRM
 
 ## Vendor Information
 
- Web URL: www.zoho.com <br>Contact Hotline: 67231040<br>Contact Email: sales@zohocorp.com<br>
+ Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br>Contact Hotline: 67231040<br>Contact Email: sales@zohocorp.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

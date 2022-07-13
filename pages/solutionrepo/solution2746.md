@@ -66,7 +66,7 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 
 ## Vendor Information
 
- Web URL: sg.abssasia.com <br><br>Contact Hotline: +6565056582 <br><br>Contact Email: cs.sg@abssasia.com <br><br>
+ Company Name: Asian Business Software Solutions Pte Ltd<br>Web URL: sg.abssasia.com <br><br>Contact Hotline: +6565056582 <br><br>Contact Email: cs.sg@abssasia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

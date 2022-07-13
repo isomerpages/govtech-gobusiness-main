@@ -64,7 +64,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ## Vendor Information
 
- Web URL: www.epoint.com.sg <br><br>Contact Hotline: 61006300 <br><br>Contact Email: darren.sim@epointpos.com <br><br>
+ Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br><br>Contact Hotline: 61006300 <br><br>Contact Email: darren.sim@epointpos.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -36,7 +36,7 @@ Since 2014, HEXA Singapore has been building websites and applications from stra
 
 ## Vendor Information
 
- Web URL: https://hexa.sg/products/ <br><br>Contact Hotline: 69777797 <br><br>Contact Email: howdy@hexa.sg <br><br>
+ Company Name: HEXA Singapore Pte Ltd<br>Web URL: https://hexa.sg/products/ <br><br>Contact Hotline: 69777797 <br><br>Contact Email: howdy@hexa.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

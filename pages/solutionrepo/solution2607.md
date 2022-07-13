@@ -57,7 +57,7 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 
 ## Vendor Information
 
- Web URL: Cybersecurity Products and Services <br><br>Contact Hotline: 97520811 <br><br>Contact Email: info@anzenglobal.com <br><br>
+ Company Name: Anzen Global Pte Ltd<br>Web URL: Cybersecurity Products and Services <br><br>Contact Hotline: 97520811 <br><br>Contact Email: info@anzenglobal.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
