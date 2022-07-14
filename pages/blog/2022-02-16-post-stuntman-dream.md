@@ -32,7 +32,7 @@ It is with this ideal in mind that Sandbox Training Ground was born – a safe s
 
 Space has always been a hurdle for the stunt industry, explains Peps. The need for dedicated equipment and padded floors means that training space for stunt actors are limited, and oftentimes expensive. 
 
-![business premise use](/images/blog/content/Stuntman 2.jpg)
+![business premises use](/images/blog/content/Stuntman 2.jpg)
 ###### Stunt training requires padded floors and mats, which makes finding a space to train difficult and expensive (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})
 
 To train, stunt actors often resorted to common areas such as the streets and grass fields. Yet, the hard ground meant they were unable to practice for higher level stunts. Peps realised that to improve the quality of action scenes in Singapore, having a dedicated training space is a non-negotiable. 
