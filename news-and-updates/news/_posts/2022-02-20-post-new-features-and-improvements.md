@@ -37,7 +37,7 @@ For users looking to start a new business, these features can help ensure a smoo
 
 **Wide range of e-Advisers available** GoBusiness has e-Advisers to guide new business owners at every step of the way. Users can start out by finding out the most suitable business structure for their business using the [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure/?src=news){:target="\_blank"}{:rel="noopener"} before embarking on the business registration process<sup>*</sup> using the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness/?src=news){:target="\_blank"}{:rel="noopener"}.
 
-They can also use the [e-Adviser for Premise Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space/?src=news){:target="\_blank"}{:rel="noopener"} to check if their premises are currently approved for the intended use, or even find out which licences to apply for with this directory of [e-Advisers for Licences](/licences/find-licence-by-sector/?src=news){:target="\_blank"}{:rel="noopener"}.
+They can also use the [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space/?src=news){:target="\_blank"}{:rel="noopener"} to check if their premises are currently approved for the intended use, or even find out which licences to apply for with this directory of [e-Advisers for Licences](/licences/find-licence-by-sector/?src=news){:target="\_blank"}{:rel="noopener"}.
 
 ###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
