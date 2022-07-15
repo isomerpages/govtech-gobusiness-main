@@ -36,6 +36,8 @@ const custom_notifications = [
   //[**APEX**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 3 Jul 2022 from 12am to 8am. We apologise for the inconvenience caused."
 
+  //[**SINGPASS**]
+  "<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance from 15 Jul 2022 10pm to 16 Jul 2022 3am. We apologise for the inconvenience caused."
 ];
 
 // Do not edit the following code
