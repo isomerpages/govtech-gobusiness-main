@@ -34,6 +34,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1558' target='_blank'>ChopeBook</a><br></td>
 <td>The Chope Group Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3170' target='_blank'>Weeloy Reservation System & Table Management Suite</a><br></td>
+<td>Weeloy Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

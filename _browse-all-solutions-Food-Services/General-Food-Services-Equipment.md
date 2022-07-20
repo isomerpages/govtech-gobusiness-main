@@ -39,6 +39,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2525' target='_blank'>Ozonised Air + Surface Sterilization System</a><br></td>
 <td>Others</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3157' target='_blank'>Automated Dishwasher</a><br></td>
+<td>Others</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3158' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td>Others</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

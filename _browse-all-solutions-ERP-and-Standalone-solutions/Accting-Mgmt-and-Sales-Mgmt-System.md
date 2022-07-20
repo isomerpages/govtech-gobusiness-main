@@ -20,20 +20,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution59' target='_blank'>Intuit Quickbooks Online Full Transformation Package</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1009' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution</a><br></td>
 <td>Abundant Accounting Pte Ltd </td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1011' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution </a><br></td>
 <td>Abundant Accounting Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1074' target='_blank'>AGERE - Xero Cloud Accounting Software </a><br></td>
-<td>Agere Accounting & Advisory Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1157' target='_blank'>Xero Cloud Accounting Software</a><br></td>
@@ -102,10 +94,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2236' target='_blank'>QuickBooks Online</a><br></td>
 <td>Tisch Global Private Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2245' target='_blank'>Xero Cloud Accounting Version 10.5</a><br></td>
-<td>Advante Consulting Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2312' target='_blank'>XERO</a><br></td>
@@ -230,6 +218,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3148' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3164' target='_blank'>ABSS(MYOB) Premier</a><br></td>
+<td>E-Click Solutions</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3181' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
+<td>Cloud Accounting & Consultancy Pte Ltd</td>
 </tr>
 </table>
 

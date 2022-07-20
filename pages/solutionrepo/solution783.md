@@ -36,7 +36,7 @@ Shopmatic is a SaaS solution that offers an integrated business solutions for SM
 
 ## Vendor Information
 
- Company Name:Shopmatic Pte Ltd <br><br>Web URL: www.goshopmatic.com <br><br>Contact Hotline: 69569202 <br><br>Contact Email: shopsupportsg@goshopmatic.com <br><br>
+ Company Name:Shopmatic Pte Ltd <br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: 69776922<br>Contact Email: shopsupportsg@goshopmatic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

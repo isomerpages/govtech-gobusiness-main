@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution125' target='_blank'>AGHRM</a><br></td>
-<td>AG Net Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1092' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
-<td>Info-Tech Systems Integrators Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
@@ -102,6 +94,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3111' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
 <td>JustLogin Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3159' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
+<td>Capps Solutions Pte Ltd</td>
 </tr>
 </table>
 

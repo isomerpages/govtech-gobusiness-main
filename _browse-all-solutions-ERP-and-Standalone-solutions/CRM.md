@@ -24,14 +24,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution464' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub</a><br></td>
-<td>Hubspot Asia Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1079' target='_blank'>OdooCRM </a><br></td>
-<td>Alitec Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1167' target='_blank'>Carddio Version 1 </a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
@@ -78,10 +70,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2871' target='_blank'>Eber Smart Members Solution</a><br></td>
 <td>Eber Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3153' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
-<td>Advocado Pte Ltd</td>
 </tr>
 </table>
 

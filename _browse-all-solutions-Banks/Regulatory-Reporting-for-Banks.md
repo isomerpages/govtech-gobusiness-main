@@ -35,6 +35,10 @@ This solution is supported by Monetary Authority of Singapore (MAS).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1833' target='_blank'>AgileREPORTER Version 19.3</a><br></td>
 <td>VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3190' target='_blank'>Digital Fund Manager Compliance powered by Palmyra</a><br></td>
+<td>Vermeg International Singapore Pte. Limited</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

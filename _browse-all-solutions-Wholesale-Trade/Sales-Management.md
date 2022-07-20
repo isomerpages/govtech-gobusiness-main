@@ -51,6 +51,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3105' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>Singapore E-Business Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3174' target='_blank'>Zeemart Supplier Hub</a><br></td>
+<td>Zeemart Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

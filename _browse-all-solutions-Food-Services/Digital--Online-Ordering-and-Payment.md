@@ -36,8 +36,16 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Singapore Dining Butler Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1134' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0</a><br></td>
+<td>Aptsys Technology Solutions Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1139' target='_blank'>LFSuite Version 6.0</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br></td>
+<td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1299' target='_blank'>ACE e-commerce solution</a><br></td>
@@ -48,6 +56,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>EISOL Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>iMakan</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1795' target='_blank'>Revel Systems Version 2</a><br></td>
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
@@ -56,8 +68,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1958' target='_blank'>FoodZaps Version 4.0</a><br></td>
-<td>FoodZaps Technology Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>WarelyPOS Version 1.1</a><br></td>
+<td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2063' target='_blank'>Revel Systems</a><br></td>

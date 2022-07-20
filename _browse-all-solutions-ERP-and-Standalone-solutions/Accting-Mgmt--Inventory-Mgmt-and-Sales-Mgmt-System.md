@@ -20,16 +20,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution657' target='_blank'>OCi Sales & Accounting Management System (SAM) Version 11 </a><br></td>
-<td>OCi System Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1014' target='_blank'>Sage 300 Advanced Edition</a><br></td>
 <td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1106' target='_blank'>Autocount Accounting System Version 2.0 </a><br></td>
-<td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1147' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
