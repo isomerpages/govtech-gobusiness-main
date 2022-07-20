@@ -20,10 +20,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution738' target='_blank'>REACH MOIBOO Version 1.8</a><br></td>
-<td>REACH PROCESS OUTSOURCING PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2611' target='_blank'>Enhanzcom - FITPRISE Sales & Inventory System</a><br></td>
 <td>Enhanzcom Pte Ltd</td>
 </tr>

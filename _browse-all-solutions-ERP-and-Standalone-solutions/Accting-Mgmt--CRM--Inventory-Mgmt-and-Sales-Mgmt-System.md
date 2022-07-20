@@ -24,14 +24,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution120' target='_blank'>SAP Business One Version Cloud</a><br></td>
-<td>AFON Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1101' target='_blank'>Dynamics 365 Business Central with E-invoicing Version 15 </a><br></td>
-<td>Microlabs Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>NetSuite</a><br></td>
 <td>Oracle Corporation Singapore Pte Ltd</td>
 </tr>

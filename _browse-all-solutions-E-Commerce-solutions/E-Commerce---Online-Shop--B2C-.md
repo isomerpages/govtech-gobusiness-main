@@ -34,20 +34,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution467' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 </a><br></td>
-<td>I Concept Innovation Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution709' target='_blank'>PixelCommerce Version 5.2.5</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Shopmatic</a><br></td>
 <td>Shopmatic Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution931' target='_blank'>Shopcada Ecommerce and POS</a><br></td>
-<td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1243' target='_blank'>Magento and Woo Commerce Solutions for Retail</a><br></td>
@@ -76,10 +68,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2014' target='_blank'>Alpha eCommerce Booster Version Premium</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2050' target='_blank'>DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3</a><br></td>
-<td>DODOCA INFORMATION TECHNOLOGY (S) PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2092' target='_blank'>eCommerce Masterplan Version 1.0</a><br></td>

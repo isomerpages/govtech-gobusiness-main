@@ -14,8 +14,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+Qashier provides smart point-of-sale and digital payment solutions to retailers. Qashier's full suite of integrated solutions includes point-of-sale hardware, software, payment acceptance, inventory management, customer loyalty, and integrations to 3rd party apps including e-commerce and accounting software.
 
+<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_1.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Pro</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_2.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Pro + Basic Setup</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_3.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Growth + Advanced Setup</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_4.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Growth + Full Setup + Training</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payments-SSF-2'  target='_blank' rel='noopener'>1. WSQ Process Payments</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2'  target='_blank' rel='noopener'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
@@ -43,14 +47,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TrustyTech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>BIZ POS Version 3.0</a><br></td>
-<td>Coobiz IT Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1120' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
-<td>SUNTOYO TECHNOLOGY PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1136' target='_blank'>Visual Optical Retail Management System Version 8</a><br></td>
 <td>Frontwave Software Pte Ltd</td>
 </tr>
@@ -65,10 +61,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1264' target='_blank'>MyRetailer Plus Version 4</a><br></td>
 <td>DCS Synthesis Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1501' target='_blank'>SGDATAPOS Version 5.1</a><br></td>
-<td>SINGAPORE DATA HUB PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1723' target='_blank'>BOTG Version 1.0</a><br></td>

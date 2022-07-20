@@ -14,8 +14,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
 
+<a href='https://www.gobusiness.gov.sg/images/psg/Keyfields_Desensitised_Annex_3_21July2022.pdf'  target='_blank' rel='noopener'>iLOGON (iWMS) - SaaS</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Warehouse-Performance-Measurement-1'  target='_blank' rel='noopener'>1. Warehouse Performance Measurement</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Inventory-Stock-Control-Operations'  target='_blank' rel='noopener'>2. Perform Inventory and Stock Control Operations</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Perform-Warehouse-Management'  target='_blank' rel='noopener'>3. Perform Warehouse Management</a><br>
