@@ -14,12 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-Qashier provides smart point-of-sale and digital payment solutions to retailers. Qashier's full suite of integrated solutions includes point-of-sale hardware, software, payment acceptance, inventory management, customer loyalty, and integrations to 3rd party apps including e-commerce and accounting software.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_1.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Pro</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_2.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Pro + Basic Setup</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_3.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Growth + Advanced Setup</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Desensitised_Annex_3_21_July_2022_Part_4.pdf'  target='_blank' rel='noopener'>Qashier Smart POS Version 2022.01 - Growth + Full Setup + Training</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payments-SSF-2'  target='_blank' rel='noopener'>1. WSQ Process Payments</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2'  target='_blank' rel='noopener'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
@@ -89,6 +85,10 @@ Qashier provides smart point-of-sale and digital payment solutions to retailers.
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3100' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3177' target='_blank'>Qashier Smart POS Version 2022.01</a><br></td>
+<td>Qashier Pte Ltd</td>
 </tr>
 </table>
 

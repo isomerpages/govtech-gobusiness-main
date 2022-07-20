@@ -14,11 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_3.pdf'  target='_blank' rel='noopener'>PayAdvisorMobile HRMS - Tier 3 (up to 100 users)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_4.pdf'  target='_blank' rel='noopener'>PayAdvisorMobile HRMS - Tier 4 (up to 150 users)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_5.pdf'  target='_blank' rel='noopener'>PayAdvisorMobile HRMS - Tier 5 (up to 200 users)</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Synchronous-elearning-2'  target='_blank' rel='noopener'>1. Human Resource Analytics and Insights</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Analytics-Insights-Level-4-Manage-Human-Resource-AnalyticsSynchronous-eLearning-2'  target='_blank' rel='noopener'>2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Management-Level-2-Process-Human-Resource-Information-Synchronous-elearning-2'  target='_blank' rel='noopener'>3. Process human resource information (SFw HR)</a><br>

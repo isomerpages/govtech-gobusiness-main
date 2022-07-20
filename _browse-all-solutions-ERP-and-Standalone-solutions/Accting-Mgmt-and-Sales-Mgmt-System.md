@@ -219,6 +219,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3148' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3164' target='_blank'>ABSS(MYOB) Premier</a><br></td>
+<td>E-Click Solutions</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3181' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
+<td>Cloud Accounting & Consultancy Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

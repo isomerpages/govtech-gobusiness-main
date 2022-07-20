@@ -12,14 +12,6 @@ Up to 30% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Monetary Authority of Singapore (MAS).
 
-**Recommended courses**
-
-Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for fund management companies. DFMC helps automate, organize, manage and keep up with regulatory requirements for efficient and comprehensive compliance.
-
-<a href='https://www.gobusiness.gov.sg/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf'  target='_blank' rel='noopener'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf'  target='_blank' rel='noopener'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf'  target='_blank' rel='noopener'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </a><br>
-
 ## Pre-Approved Solutions
 
 <table>
@@ -42,6 +34,10 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1833' target='_blank'>AgileREPORTER Version 19.3</a><br></td>
 <td>VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3190' target='_blank'>Digital Fund Manager Compliance powered by Palmyra</a><br></td>
+<td>Vermeg International Singapore Pte. Limited</td>
 </tr>
 </table>
 

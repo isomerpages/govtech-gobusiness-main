@@ -14,11 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf'  target='_blank' rel='noopener'>Zeemart Supplier Hub - Lite</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf'  target='_blank' rel='noopener'>Zeemart Supplier Hub - Pro</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf'  target='_blank' rel='noopener'>Zeemart Supplier Hub - Enterprise</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/RETSF-Sales-Analytics-2'  target='_blank' rel='noopener'>1. RETSF Sales Analytics</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Budgeting-Forecasting-Processes-Business-Unit-5'  target='_blank' rel='noopener'>2. Manage Budgeting and Forecasting Processes for the Business Unit</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Effective-Digital-Marketing-Sales-Synchronous-elearning-2'  target='_blank' rel='noopener'>3. Effective Digital Marketing and Sales</a><br>
@@ -53,6 +50,10 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3105' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>Singapore E-Business Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3174' target='_blank'>Zeemart Supplier Hub</a><br></td>
+<td>Zeemart Pte Ltd</td>
 </tr>
 </table>
 
