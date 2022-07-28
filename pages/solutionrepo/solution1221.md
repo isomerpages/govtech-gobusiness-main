@@ -1,9 +1,9 @@
 ---
-title: 'VRcollab LITE'
+title: 'VRcollab Coordinate'
 permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 
-## VRcollab LITE
+## VRcollab Coordinate
 
 ## Overview
 
@@ -23,17 +23,17 @@ VRcollab is a next generation VDC software solution for the construction industr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VRcollab LITE - BIM VDC VR FULL BUNDLE</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VRcollab Coordinate - BIM VDC VR FULL BUNDLE</td>
 <td style='padding: 10px;'>$5,650.00</td>
 <td style='padding: 10px;'>$4,499.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_Annex3_CR_wef_28_July_(BCA)Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VRcollab LITE - LICENSE ONLY</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VRcollab Coordinate - LICENSE ONLY</td>
 <td style='padding: 10px;'>$3,900.00</td>
 <td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_Annex3_CR_wef_28_July_(BCA)Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ VRcollab is a next generation VDC software solution for the construction industr
 
 ## Vendor Information
 
- Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/<br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
+ Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/en/product/coordinate/<br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -24,7 +24,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2470' target='_blank'>DM Impossible Marketing Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2470' target='_blank'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing</a><br></td>
 <td>Impossible Marketing Services Pte Ltd</td>
 </tr>
 <tr>

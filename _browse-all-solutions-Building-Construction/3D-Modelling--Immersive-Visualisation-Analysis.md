@@ -32,7 +32,7 @@ This solution is supported by Building and Construction Authority (BCA).
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1221' target='_blank'>VRcollab LITE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1221' target='_blank'>VRcollab Coordinate</a><br></td>
 <td>VRCOLLAB PTE. LTD.</td>
 </tr>
 <tr>

@@ -43,6 +43,13 @@ Xero's online accounting platform provides the foundation on which businesses ca
 <td style='padding: 10px;'>$4,199.00</td>
 <td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Partners_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting Software - PREMIUM 4</td>
+<td style='padding: 10px;'>$729.00</td>
+<td style='padding: 10px;'>$729.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aura_Annex3_wef_28July2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
