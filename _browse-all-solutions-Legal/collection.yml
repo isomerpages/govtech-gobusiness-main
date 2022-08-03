@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Legal:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Matter-Management-and-Collaboration-Tool.md

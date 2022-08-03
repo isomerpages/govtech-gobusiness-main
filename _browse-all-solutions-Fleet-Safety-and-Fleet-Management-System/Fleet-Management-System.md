@@ -37,10 +37,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution694' target='_blank'>iTrack Fleet Management Version 2.8.8</a><br></td>
-<td>Pivotal Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution774' target='_blank'>Shell Telematics</a><br></td>
 <td>SHELL EASTERN PETROLEUM (PTE) LTD</td>
 </tr>

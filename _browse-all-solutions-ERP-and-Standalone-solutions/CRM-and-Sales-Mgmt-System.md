@@ -39,6 +39,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2963' target='_blank'>Gravis</a><br></td>
 <td>ONE X GROUP PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3212' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td>CalendarOne Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
