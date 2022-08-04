@@ -20,10 +20,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution282' target='_blank'>MSSP for CSA Asset Based Cyber Defense - Security-as-a-Service (SaaS)</a><br></td>
-<td>Lumen Technologies</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1315' target='_blank'>WFH Email Security with Cyber Essentials Online Course Package Version 1</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
@@ -46,6 +42,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3087' target='_blank'>Green Radar Email Security</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3207' target='_blank'>Microsoft 365 Defender</a><br></td>
+<td>ACLOUD PTE LTD</td>
 </tr>
 </table>
 

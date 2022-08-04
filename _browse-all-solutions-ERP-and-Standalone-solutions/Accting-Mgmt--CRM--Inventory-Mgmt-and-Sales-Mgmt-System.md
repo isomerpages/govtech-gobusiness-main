@@ -20,10 +20,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution114' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
-<td>AFON Systems Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>NetSuite</a><br></td>
 <td>Oracle Corporation Singapore Pte Ltd</td>
 </tr>

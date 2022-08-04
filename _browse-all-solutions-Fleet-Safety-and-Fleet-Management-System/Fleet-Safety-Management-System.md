@@ -50,6 +50,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3186' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
 <td>Solaris CES Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3226' target='_blank'>Proximity Sensor Safety Solution Version 4</a><br></td>
+<td>NettBox Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

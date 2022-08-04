@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/ECommerce-Campaign-Management-ICDL-Digital-Marketing-2'  target='_blank' rel='noopener'>1. E-Commerce Campaign Management (ICDL Digital Marketing) </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Digital-Marketing-Strategy-2'  target='_blank' rel='noopener'>2. Develop Digital Marketing Strategy</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Marketing-Search-Engine-Marketing-Synchronous-eLearning-2'  target='_blank' rel='noopener'>3. Digital Marketing - Search Engine Marketing (Synchronous Learning)</a><br>
+
 ## Pre-Approved Solutions
 
 <table>

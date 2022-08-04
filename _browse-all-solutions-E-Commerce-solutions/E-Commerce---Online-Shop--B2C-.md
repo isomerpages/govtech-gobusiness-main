@@ -30,14 +30,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution307' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 </a><br></td>
-<td>Corsiva Lab Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution709' target='_blank'>PixelCommerce Version 5.2.5</a><br></td>
-<td>PIXEL MECHANICS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Shopmatic</a><br></td>
 <td>Shopmatic Pte Ltd</td>
 </tr>

@@ -227,6 +227,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3181' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
 <td>Cloud Accounting & Consultancy Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3216' target='_blank'>AutoCount Accounting Software Version 2.0</a><br></td>
+<td>Ingenious Business Software Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

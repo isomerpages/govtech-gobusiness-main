@@ -20,10 +20,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution250' target='_blank'>BonaForce</a><br></td>
-<td>Bona Technologies Systems Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1167' target='_blank'>Carddio Version 1 </a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>

@@ -103,6 +103,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3197' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
 <td>Databit Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3221' target='_blank'>SAP Business One Version 10</a><br></td>
+<td>Integrated Information Systems Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

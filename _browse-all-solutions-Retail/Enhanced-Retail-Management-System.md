@@ -31,14 +31,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution344' target='_blank'>MyRetailer Android POS</a><br></td>
-<td>DCS Synthesis Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution741' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
-<td>Refine Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1019' target='_blank'>EasyBus Version 2.0</a><br></td>
 <td>TrustyTech Pte Ltd</td>
 </tr>
@@ -51,12 +43,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Frontwave Software Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1183' target='_blank'>MEGAPOS </a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1188' target='_blank'>Shortcuts Version 8</a><br></td>
 <td>Serixx Business Solutions</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1264' target='_blank'>MyRetailer Plus Version 4</a><br></td>
 <td>DCS Synthesis Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1351' target='_blank'>FingerBooth POS System Version 1 </a><br></td>
+<td>BIG MOUTH MARKETING PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Octopus Retail Solution</a><br></td>
+<td>Octopus Retail Management Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1723' target='_blank'>BOTG Version 1.0</a><br></td>
@@ -89,6 +93,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3177' target='_blank'>Qashier Smart POS Version 2022.01</a><br></td>
 <td>Qashier Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3236' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
+<td>Weebo Pte Ltd</td>
 </tr>
 </table>
 
