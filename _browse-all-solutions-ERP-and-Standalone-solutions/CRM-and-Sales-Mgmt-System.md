@@ -12,14 +12,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
-
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/NICFCRM-Sales-Management-SF-1'  target='_blank' rel='noopener'>1. NICF - CRM - Sales Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Consumer-Behaviour-Synchronous-elearning-2'  target='_blank' rel='noopener'>2. Analyse Consumer Behaviour</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Effective-Digital-Marketing-Sales-Synchronous-elearning-2'  target='_blank' rel='noopener'>3. Effective Digital Marketing and Sales</a><br>
-
 ## Pre-Approved Solutions
 
 <table>

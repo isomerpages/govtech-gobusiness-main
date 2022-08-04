@@ -12,17 +12,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
-
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Knowledge-AccountingRelated-Concepts-2'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting Related Concepts</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Mathematics-Data-Analytics-Asynchronous-Elearning'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Establish-Financial-Budget-Plans-4'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Establish-Financial-Budget-Plans-4'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting Related Concepts</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Mathematics-Data-Analytics-Asynchronous-Elearning'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Establish-Financial-Budget-Plans-4'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
-
 ## Pre-Approved Solutions
 
 <table>
