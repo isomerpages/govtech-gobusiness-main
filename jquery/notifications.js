@@ -25,7 +25,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
   
   //[**SPF DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Aug 2022 from 6pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Aug 2022 from 6pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
 
   //[**ADHOC**]
   //IPOS DOWNTIME
@@ -36,6 +36,7 @@ const custom_notifications = [
 
   //[**APEX**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 3 Jul 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  "<b>[Announcement]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 7 Aug 2022 from 12am to 8am. We apologise for the inconvenience caused."
 
   //[**SINGPASS**]
   //"<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance from 15 Jul 2022 10pm to 16 Jul 2022 3am. We apologise for the inconvenience caused."
