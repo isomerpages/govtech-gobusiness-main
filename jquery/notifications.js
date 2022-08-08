@@ -17,7 +17,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 29 Jul 2022 8pm to 30 Jul 2022 8am<br>(2) From 30 Jul 2022 10pm to 31 Jul 2022 6am",
   
   //[**ACRA DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 2 Aug 2022 12pm to 2pm. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 12 Aug 2022 12am to 5am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 30 Apr 2022 from 2am to 8am<br>(2) 7 May 2022 from 12am to 3am",  
 
   //[**LICENSING AGENCY DOWNTIME**]
@@ -25,7 +25,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
   
   //[**SPF DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Aug 2022 from 6pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Aug 2022 from 6pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
 
   //[**ADHOC**]
   //IPOS DOWNTIME
@@ -36,7 +36,7 @@ const custom_notifications = [
 
   //[**APEX**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 3 Jul 2022 from 12am to 8am. We apologise for the inconvenience caused."
-  "<b>[Announcement]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 7 Aug 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  //"<b>[Announcement]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 7 Aug 2022 from 12am to 8am. We apologise for the inconvenience caused."
 
   //[**SINGPASS**]
   //"<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance from 15 Jul 2022 10pm to 16 Jul 2022 3am. We apologise for the inconvenience caused."
