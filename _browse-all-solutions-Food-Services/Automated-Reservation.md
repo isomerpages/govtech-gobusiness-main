@@ -19,9 +19,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Transformation-Emerging-Technology-Synthesis-2'  target='_blank' rel='noopener'>1. Digital Transformation -Emerging Technology Synthesis</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Customer-Experience-Management-2'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Practical-Approach-Cloud-Computing-4'  target='_blank' rel='noopener'>3. Practical Approach to Cloud Computing</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Transformation-Emerging-Technology-Synthesis-2'  target='_blank' rel='noopener'>1. Digital Transformation -Emerging Technology Synthesis</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Customer-Experience-Management-2'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Practical-Approach-Cloud-Computing-4'  target='_blank' rel='noopener'>3. Practical Approach to Cloud Computing</a><br>
 
 ## Pre-Approved Solutions
 

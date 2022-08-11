@@ -19,9 +19,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-risk-management-data-effective-use-risk-tools-2'  target='_blank' rel='noopener'>1. Analyse risk management data through the effective use of risk tools</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Conduct-Risk-Assessment-Business-Impact-Analysis-Classroom-Asynchronous-Elearning-2'  target='_blank' rel='noopener'>2. Conduct Risk Assessment and Business Impact Analysis</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Enterprise-Risk-Management-Programme-Module-1-Risk-Opportunity-Business-Model-Synchronous-ELearning-2'  target='_blank' rel='noopener'>3. Enterprise Risk Management Programme Module 1: Risk and Opportunity in Business Model</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-risk-management-data-effective-use-risk-tools-2'  target='_blank' rel='noopener'>1. Analyse risk management data through the effective use of risk tools</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Conduct-Risk-Assessment-Business-Impact-Analysis-Classroom-Asynchronous-Elearning-2'  target='_blank' rel='noopener'>2. Conduct Risk Assessment and Business Impact Analysis</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Enterprise-Risk-Management-Programme-Module-1-Risk-Opportunity-Business-Model-Synchronous-ELearning-2'  target='_blank' rel='noopener'>3. Enterprise Risk Management Programme Module 1: Risk and Opportunity in Business Model</a><br>
 
 ## Pre-Approved Solutions
 

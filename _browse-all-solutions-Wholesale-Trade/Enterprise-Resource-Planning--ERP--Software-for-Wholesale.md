@@ -19,9 +19,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Analytics-Business-Professionals'  target='_blank' rel='noopener'>1. Data Analytics for Business Professionals</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Apply-Project-Management-Skills-2'  target='_blank' rel='noopener'>2. Apply Project Management Skills</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Driving-Trade-Business-Enterprise-Resource-Planning-2'  target='_blank' rel='noopener'>3. Driving Trade & Business with Enterprise Resource Planning</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Analytics-Business-Professionals'  target='_blank' rel='noopener'>1. Data Analytics for Business Professionals</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Apply-Project-Management-Skills-2'  target='_blank' rel='noopener'>2. Apply Project Management Skills</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Driving-Trade-Business-Enterprise-Resource-Planning-2'  target='_blank' rel='noopener'>3. Driving Trade & Business with Enterprise Resource Planning</a><br>
 
 ## Pre-Approved Solutions
 

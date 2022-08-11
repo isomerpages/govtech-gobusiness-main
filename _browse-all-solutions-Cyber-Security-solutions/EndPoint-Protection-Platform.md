@@ -19,9 +19,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/SF-Cyber-Security-Incident-Handling-Response-2'  target='_blank' rel='noopener'>1. Cyber Security Incident Handling and Response</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Big-Data-Analytics-AI-Machine-Learning-Python-Coding-Programming-Beginner-Intermediate-2'  target='_blank' rel='noopener'>2. Big Data Analytics and AI / Machine Learning with Python Coding / Programming</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Fundamentals-Cyber-Security-2'  target='_blank' rel='noopener'>3. Fundamentals of Cyber Security</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/SF-Cyber-Security-Incident-Handling-Response-2'  target='_blank' rel='noopener'>1. Cyber Security Incident Handling and Response</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Big-Data-Analytics-AI-Machine-Learning-Python-Coding-Programming-Beginner-Intermediate-2'  target='_blank' rel='noopener'>2. Big Data Analytics and AI / Machine Learning with Python Coding / Programming</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Fundamentals-Cyber-Security-2'  target='_blank' rel='noopener'>3. Fundamentals of Cyber Security</a><br>
 
 ## Pre-Approved Solutions
 
