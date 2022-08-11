@@ -19,9 +19,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payments-SSF-2'  target='_blank' rel='noopener'>1. WSQ Process Payments</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2'  target='_blank' rel='noopener'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payments-SSF-2'  target='_blank' rel='noopener'>1. WSQ Process Payments</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2'  target='_blank' rel='noopener'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
 
 ## Pre-Approved Solutions
 
