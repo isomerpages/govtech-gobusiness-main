@@ -145,6 +145,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3122' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3253' target='_blank'>Shopcada Ecommerce</a><br></td>
+<td>Webcada Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
