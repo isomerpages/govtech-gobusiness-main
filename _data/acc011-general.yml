@@ -1,24 +1,56 @@
 accordion:
   - title: What is the Productivity Solutions Grant (PSG)?
     content: |
-      The Productivity Solutions Grant supports businesses in the adoption of solutions and/or equipment that improve productivity. Businesses can choose from a list of pre-scoped solutions.
+      The Productivity Solutions Grant supports businesses in the adoption of pre-scoped IT Solutions and/or Equipment that improve productivity. List of supportable solutions can be found 
 
   - title: How do I apply for the Productivity Solutions Grant (PSG)?
     content: |
-      1. Find a supported solution from the list of pre-scoped solutions.
+      1. Find a supported solution from the [list of pre-scoped solutions](/productivity-solutions-grant/all-psg-solutions/).
 
       2. For IT Solutions, you can contact the pre-approved vendor and request a quotation. For equipment, you can engage any vendor and request a quotation as long as the equipment is supported under PSG. You may wish to clarify with your processing agency on any technical specifications required.
 
-      3. Log in to the Business Grants Portal and submit and application.
+      3. Log in to the [Business Grants Portal](http://businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} and submit and application.
 
-  - title: What are the equipment and IT solutions supported under PSG?
+  - title: What industries can apply for PSG?
     content: |
-      Please refer to the [full list](/productivity-solutions-grant/){:target="_blank"} of supportable equipment and IT solutions under PSG.
+      PSG covers sector-specific solutions including the retail, food, logistics, precision engineering, and construction industries. PSG also supports the adoption of generic solutions such as in areas of customer management, digital marketing, sales management and inventory tracking. Thus, all industries can apply.
+
+  - title: Can I apply for PSG if my business is registered overseas but I would like to expand to Singapore?
+    content: |
+      No, applicants must be registered as a business entity in Singapore to apply for PSG.
+
+  - title: Could unlisted IT solutions and equipment be supported under PSG?
+    content: |
+      PSG aims to facilitate quick adoption of proven productivity solutions recommended by sector-lead agencies. New productivity solutions are constantly being reviewed and included into the list.
 
   - title: Is there an expiry date for equipment and IT solutions?
     content: |
       Equipment and IT solutions are refreshed regularly, depending on vendors' contracts with PSG participating agencies.
 
-  - title: Can I apply for PSG if my business is registered overseas but I would like to expand to Singapore?
+  - title: What solution sub-categories are eligible for enhanced support level of up to 80%?
     content: |
-      No, applicants must be registered as a business entity in Singapore to apply for PSG.
+      Under the Food Services & Retail Business Revitalisation Package, companies that fall under Food Services and Retail sectors can be supported for up to 80% from 1 April 2022 to 31 March 2023 for eligible pre-scoped solutions. This enhanced maximum support level applies to the following solution sub-categories under the Food Services and Retail sectors.
+      
+      Food Services
+      1. Digital/ Online Ordering and Payment
+      2. Automated Reservation
+      3. B2B Marketplace/E-Procurement System
+      4. Queue Management
+      5. E-Loyalty/ Customer Relationship Management
+      6. General Food Services Equipment 
+      
+      Retail
+      1. Enhanced Retail Management System
+      2. Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
+      3. Retail Analytics
+      4. E-Commerce - Online Shop (B2C)
+
+  - title: It was announced in Budget 2020 on PSG expansion to include job redesign consultancy services. Where can I find out more information on this?
+    content: |
+      The PSG has expanded beyond the adoption of IT solutions and equipment, to include consultancy services. Firms are able to tap on PSG for job redesign consultancy support, funded at up to 70% of qualifying cost, capped at $30,000 per company.
+      
+      As part of the enhancement to the existing PSG, job redesign under PSG (PSG-JR) aims to make redesigning jobs easier by providing enterprises with JR consultancy support to complement and drive both their business and workforce transformation.
+      
+      PSG-JR has been open for application since 1 December 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on Business Grants Portal. Companies will need to register for a Corppass account to transact on the portal.
+      
+      For more information on PSG-JR, please click [here](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"} or contact SNEF at psgjr@snef.org.sg or +65 6827 6910.
