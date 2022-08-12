@@ -21,19 +21,22 @@ Find them in our list of [grants](/gov-assist/grants/).
 
 **SkillsFuture Singapore (SSG)**
 
-- [Apply for SkillsFuture Work-Study Programme](https://www.enterprisejobskills.gov.sg/content/recruit-talent/skillsfuture-work-study-programme.html){:target="_blank"}{:rel="noopener"}
+- [Apply for Earn and Learn Programme](https://www.enterprisejobskills.gov.sg/content/recruit-talent/skillsfuture-work-study-programme.html){:target="_blank"}{:rel="noopener"}
   <br>Recruit fresh graduates from polytechnics and the Institute of Technical Education (ITE) and register them for this work-study programme to prepare them for suitable job roles within your business.
-
-- [Claim Absentee Payroll (AP) Funding](https://psgsfts.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Submit a claim for AP when your employees complete the course.
 
 **SkillsFuture Singapore-Workforce Singapore (SSG-WSG)**
 
-- [Check SkillsFuture Enterprise Credit (SFEC) Balance](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Find out your SFEC balance. Utilise your$10,000 credit when embarking on business and workforce transformation (i.e. training).
+- [Apply for training grants](https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do){:target="_blank"}{:rel="noopener"}
+  <br>Apply for training grants when you enrol employees in courses approved by SSG for funding.
 
-- [SME Declaration](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Submit a declaration to be eligible for enhanced course fee funding if there is a change to your organisation’s status to an SME.
+- [Claim training grants](https://psgsfts.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
+  <br>Submit a claim for training grants when your employees complete the course.
+
+- [Apply for SkillsFuture Qualification Award](https://programmes.myskillsfuture.gov.sg/QualificationAward/ProgrammeDetails.aspx){:target="_blank"}{:rel="noopener"}
+  <br>Apply for this award as recognition of a full Singapore Workforce Skills Qualifications (WSQ) qualification, and receive a cash award of $200 or $1,000.
+
+- [Access Singapore Workforce Skills Qualifications (WSQ) Professional Documents](https://www.skillsconnect.gov.sg/sop/portal/Help&Resources/WSQ%20Resource%20Library/WSQ%20Professional%20Documents/cs.jsp){:target="_blank"}{:rel="noopener"}
+  <br>View and download the latest WSQ Competency Standard documents.
 
 ### e-Services for sector-specific training
 
