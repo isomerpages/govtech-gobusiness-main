@@ -27,10 +27,8 @@ Find them in our list of [grants](/gov-assist/grants/).
 - [Claim Absentee Payroll (AP) Funding](https://psgsfts.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
   <br>Submit a claim for AP when your employees complete the course.
 
-**SkillsFuture Singapore-Workforce Singapore (SSG-WSG)**
-
 - [Check SkillsFuture Enterprise Credit (SFEC) Balance](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Find out your SFEC balance. Utilise your$10,000 credit when embarking on business and workforce transformation (i.e. training).
+  <br>Find out your SFEC balance. Utilise your $10,000 credit when embarking on business and workforce transformation (i.e. training).
 
 - [SME Declaration](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
   <br>Submit a declaration to be eligible for enhanced course fee funding if there is a change to your organisation’s status to an SME.
