@@ -12,12 +12,12 @@ const custom_notifications = [
 
   //[**ACRA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 12 Aug 2022 12am to 5am. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 12 Aug 2022 12am to 5am<br>(2) 14 Aug 2022 from 12am to 1pm",
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 12 Aug 2022 12am to 5am<br>(2) 14 Aug 2022 from 12am to 1pm",
 
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance from 27 Jul 2022 10pm to 28 Jul 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 27 Jul 2022 10pm to 28 Jul 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 13 Aug 2022 12am to 13 Aug 2022 6am<br>(2) From 13 Aug 2022 10pm to 14 Aug 2022 8am"
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 13 Aug 2022 12am to 13 Aug 2022 6am<br>(2) From 13 Aug 2022 10pm to 14 Aug 2022 8am"
 
   //[**LICENSING AGENCY DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable due to scheduled maintenance till 5 October 2021 12pm. We apologise for the inconvenience caused.",
