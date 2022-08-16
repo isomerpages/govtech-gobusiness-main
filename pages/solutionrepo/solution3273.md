@@ -64,7 +64,7 @@ Psoft Accounting software help SMEs keep up to date bookkeeping for their compan
 
 ## Vendor Information
 
- 
+ Company Name: Psoft Pte Ltd<br>Web URL: www.psoftaccounting.com <br>Contact Hotline: 62382140 <br>Contact Email: psoft@singnet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

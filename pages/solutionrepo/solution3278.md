@@ -64,7 +64,7 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 
 ## Vendor Information
 
- 
+ Company Name: Techtown Pte Ltd<br>Web URL: https://techtown.com.sg <br>Contact Hotline: 66368215 <br>Contact Email: info@techtown.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

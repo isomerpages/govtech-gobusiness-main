@@ -8,7 +8,9 @@ permalink: /browse-all-solutions-Legal/Practice-Management-System--PMS-
 
 **Support Level and Conditions**
 
-Up to  for SMEs, N.A. for non-SMEs
+Up to 70% for SMEs, N.A. for non-SMEs
+
+This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 

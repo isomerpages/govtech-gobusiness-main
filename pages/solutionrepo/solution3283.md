@@ -57,7 +57,7 @@ W360 Group is one of the leading digital agencies in Singapore with a proven tra
 
 ## Vendor Information
 
- 
+ Company Name: W360 Group Pte Ltd<br>Web URL: www.w360.asia <br>Contact Hotline: 69702808 <br>Contact Email: hello@w360.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

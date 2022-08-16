@@ -64,7 +64,7 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 
 ## Vendor Information
 
- 
+ Company name:Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

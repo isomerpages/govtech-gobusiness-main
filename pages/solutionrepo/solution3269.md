@@ -57,7 +57,7 @@ Asurix Accounting Software is a comprehensive and fully customisable cloud based
 
 ## Vendor Information
 
- 
+ Company Name: NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
