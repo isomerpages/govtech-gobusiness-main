@@ -19,9 +19,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Perform-Delivery-Operations-2'  target='_blank' rel='noopener'>2. WSQ Perform Delivery Operations</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Transport-Operations-2'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Perform-Delivery-Operations-2'  target='_blank' rel='noopener'>2. WSQ Perform Delivery Operations</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Transport-Operations-2'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
 
 ## Pre-Approved Solutions
 

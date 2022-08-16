@@ -12,6 +12,16 @@ Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+FoodZaps is a Singapore-made All-In-One integrated Restaurant Management Solution since 2014.Streamline all orders and operation activities from the front-of-house to the back-of-house through the use of our Singapore patented Fail-Safe Hybride(online and offline)technology. A SaaS based Android software that is flexible with any Android hardware and easy to use. The solution offers on-premise ordering features and online ordering. With advanced analytics to support further business decisions.
+
+<a href='https://www.gobusiness.gov.sg/images/psg/Foodzap_20220151_Desensitised_Annex_3__Part_1.pdf'  target='_blank' rel='noopener'>Package A (eMenu)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Foodzap_20220151_Desensitised_Annex_3__Part_2.pdf'  target='_blank' rel='noopener'>Package B (eMenu with eWaiter)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Foodzap_20220151_Desensitised_Annex_3__Part_3.pdf'  target='_blank' rel='noopener'>Package C (Customer QR/Online Self Ordering)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Foodzap_20220151_Desensitised_Annex_3__Part_4.pdf'  target='_blank' rel='noopener'>Package D (eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Foodzap_20220151_Desensitised_Annex_3__Part_5.pdf'  target='_blank' rel='noopener'>Package E (eMenu with Customer QR/Online Self Ordering Contactless Ordering Self Ordering)</a><br>
+
 ## Pre-Approved Solutions
 
 <table>

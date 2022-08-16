@@ -14,8 +14,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+W360 Group is one of the leading digital agencies in Singapore with a proven track record in delivering digital marketing success across Asia. Powered by their digital marketing proficiency, extensive experience and robust technologies, the digital marketing power packs are designed to help businesses strengthen their digital presence and grow their business online.
 
+<a href='https://www.gobusiness.gov.sg/images/psg/W360_20210487_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Package 1 - SMA & Facebook Marketing (3 Months)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/W360_20210487_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Package 2 - Facebook & Google Advertising (3 Months)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/W360_20210487_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Package 3 - SMA + SEO (3 Months)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/W360_20210487_Desensitised_Annex_3_Part_4.pdf'  target='_blank' rel='noopener'>Package 4 - SEO & SEM (3 Months)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/ECommerce-Campaign-Management-ICDL-Digital-Marketing-2'  target='_blank' rel='noopener'>1. E-Commerce Campaign Management (ICDL Digital Marketing) </a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Digital-Marketing-Strategy-2'  target='_blank' rel='noopener'>2. Develop Digital Marketing Strategy</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Marketing-Search-Engine-Marketing-Synchronous-eLearning-2'  target='_blank' rel='noopener'>3. Digital Marketing - Search Engine Marketing (Synchronous Learning)</a><br>

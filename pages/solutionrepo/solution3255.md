@@ -1,0 +1,43 @@
+---
+title: 'ABSS Premier Software V23'
+permalink: /productivity-solutions-grant/solutionrepo/solution3255
+---
+
+## ABSS Premier Software V23
+
+## Overview
+
+**Description**
+
+ABSS Premier provides advanced business and inventory management system capabilities to medium-sized companies. Process foreign currency transactions , GST submissions and analyse business accurately. Businesses can manage even the most complex business with ease using the multi-user ABSS Premier.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A with E-Invoicing (1 User)</td>
+<td style='padding: 10px;'>$1,904.68</td>
+<td style='padding: 10px;'>$1,904.20</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/361_20220073_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Direct Purchase
+
+## Vendor Information
+
+ 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+
+<script src="/jquery/resize-tables.js"></script>
