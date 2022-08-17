@@ -19,15 +19,9 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-Synchronous-elearning-2'  target='_blank' rel='noopener'>1. WSQ Retail: Inventory Control (Perform Stock Control)</a><br>
 <a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939'  target='_blank' rel='noopener'>2. Business Forecasting</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6'  target='_blank' rel='noopener'>3. Supply Chain Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-Synchronous-elearning-2'  target='_blank' rel='noopener'>1. WSQ Retail: Inventory Control (Perform Stock Control)</a><br>
-<a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939'  target='_blank' rel='noopener'>2. Business Forecasting</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6'  target='_blank' rel='noopener'>3. Supply Chain Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Solutioning-Modelling-Planning-Strategising-2'  target='_blank' rel='noopener'>2. Supply Chain Solutioning/Modelling/Planning/Strategising</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7'  target='_blank' rel='noopener'>3. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Solutioning-Modelling-Planning-Strategising-2'  target='_blank' rel='noopener'>2. Supply Chain Solutioning/Modelling/Planning/Strategising</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7'  target='_blank' rel='noopener'>3. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>4. Digitalisation and Transformation of Transportation Management</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Solutioning-Modelling-Planning-Strategising-2'  target='_blank' rel='noopener'>5. Supply Chain Solutioning/Modelling/Planning/Strategising</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7'  target='_blank' rel='noopener'>6. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
 
 ## Pre-Approved Solutions
 

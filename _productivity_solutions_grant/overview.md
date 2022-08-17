@@ -3,7 +3,7 @@ title: Overview
 permalink: /productivity-solutions-grant/
 ---
 
-## Productivity Solutions Grant
+## Productivity Solutions Grant (PSG)
 
 ![Productivity Solutions Grant Overview](/images/grow/psg/psg_overview_banner.jpg)
 

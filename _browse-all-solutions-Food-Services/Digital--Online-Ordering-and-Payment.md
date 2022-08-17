@@ -139,6 +139,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3231' target='_blank'>Ellie Integrated System Version 2</a><br></td>
 <td>Supply Ellie Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3264' target='_blank'>FoodZaps</a><br></td>
+<td>FoodZaps Technology Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

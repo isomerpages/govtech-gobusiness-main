@@ -1,9 +1,9 @@
 ---
-title: 'E-loyalty Marketing Automation'
-permalink: /browse-all-solutions-Cyber-Security-solutions/E-loyalty-Marketing-Automation
+title: 'Practice Management System (PMS)'
+permalink: /browse-all-solutions-Legal/Practice-Management-System--PMS-
 ---
 
-## E-loyalty Marketing Automation
+## Practice Management System (PMS)
 ## Overview
 
 **Support Level and Conditions**
@@ -20,8 +20,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3153' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
-<td>Advocado Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3287' target='_blank'>Tessaract Practice Management Solution</a><br></td>
+<td>Tessaract Technologies Private Limited</td>
 </tr>
 </table>
 

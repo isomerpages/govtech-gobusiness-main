@@ -239,6 +239,22 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3216' target='_blank'>AutoCount Accounting Software Version 2.0</a><br></td>
 <td>Ingenious Business Software Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3255' target='_blank'>ABSS Premier Software V23</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3260' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
+<td>Everyday Corporate Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3269' target='_blank'>ASURIX</a><br></td>
+<td>NET SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3273' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
+<td>Psoft Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
