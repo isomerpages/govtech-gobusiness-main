@@ -1,5 +1,5 @@
 collections:
-  productivity_solutions_grant:
+  productivity_solutions_grant_(PSG):
     output: true
     order:
       - overview.md
