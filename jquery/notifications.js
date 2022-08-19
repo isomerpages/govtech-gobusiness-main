@@ -9,9 +9,9 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Business Grant Portal will be undergoing scheduled maintenance on 8 April 2022 from 6:00 PM to 9:00 PM. We apologise for any inconvenience.",
 
   //[**LICENCEONE DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance from 19 Aug 2022 10pm to 20 Aug 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance from 19 Aug 2022 10pm to 20 Aug 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 27 Jul 2022 10pm to 28 Jul 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 19 Aug 2022 10pm to 20 Aug 2022 6am<br>(2) From 13 Aug 2022 10pm to 14 Aug 2022 8am"
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 19 Aug 2022 10pm to 20 Aug 2022 6am<br>(2) From 20 Aug 2022 10pm to 21 Aug 2022 6am"
 
   //[**ACRA DOWNTIME**]
   "<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
