@@ -59,7 +59,7 @@ Xero can connect with other apps.
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

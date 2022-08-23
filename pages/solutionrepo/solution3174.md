@@ -46,7 +46,7 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

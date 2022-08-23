@@ -60,7 +60,7 @@ A2000ERP is a business management tool, integrated with components necessary for
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

@@ -64,7 +64,7 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

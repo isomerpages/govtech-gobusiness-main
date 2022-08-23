@@ -32,7 +32,7 @@ A2000 E-Commerce enables SMEs to extend their business online. With this solutio
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

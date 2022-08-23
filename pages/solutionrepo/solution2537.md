@@ -53,7 +53,7 @@ Aggregate Consultancy Services provides one stop digital solution to digitalise 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

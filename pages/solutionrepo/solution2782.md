@@ -62,7 +62,7 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
