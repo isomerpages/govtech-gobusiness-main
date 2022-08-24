@@ -66,7 +66,7 @@
   description: Located at North West Community<br>Development Council<br>Woodlands Civic Centre<br>900, South Woodlands Drive<br>#06-01, Singapore 730900
   tel: +65 6826 3020
   email: northwest@smecentre-smf.sg
-  url: www.smecentre-smf.sg
+  url: http://www.smecentre-smf.sg
   url-new-tab: true
   protocol: https
 
@@ -82,6 +82,6 @@
   description: Located at South West Community<br>Development Council<br>The JTC Summit<br>8, Jurong Town Hall Road<br>#26-06, Singapore 609434
   tel: +65 6316 1616
   email: southwest@smecentre-smf.sg
-  url: www.smecentre-smf.sg
+  url: http://www.smecentre-smf.sg
   url-new-tab: true
   protocol: https
