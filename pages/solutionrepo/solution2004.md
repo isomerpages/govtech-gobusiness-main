@@ -60,7 +60,7 @@ EQCOMS's Managed Security Service deliver operationally simple, proactive preven
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

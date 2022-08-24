@@ -32,7 +32,7 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

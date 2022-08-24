@@ -53,7 +53,7 @@ Qashier provides a full suite of affordable and easy-to-use digital ordering sol
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

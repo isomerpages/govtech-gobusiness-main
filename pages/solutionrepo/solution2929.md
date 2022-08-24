@@ -60,7 +60,7 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

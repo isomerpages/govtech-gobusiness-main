@@ -53,7 +53,7 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

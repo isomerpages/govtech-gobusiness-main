@@ -39,7 +39,7 @@ The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help p
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

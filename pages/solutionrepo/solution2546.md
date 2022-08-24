@@ -39,7 +39,7 @@ QuickBooks is #1 rated globally and best-selling small business accounting softw
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

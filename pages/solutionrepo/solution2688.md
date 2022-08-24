@@ -60,7 +60,7 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

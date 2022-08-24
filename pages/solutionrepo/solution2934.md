@@ -61,7 +61,7 @@ It harnesses the power of a deep learning neural network, marking Intercept X sm
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

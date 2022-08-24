@@ -32,7 +32,7 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

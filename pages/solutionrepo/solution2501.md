@@ -60,7 +60,7 @@ Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

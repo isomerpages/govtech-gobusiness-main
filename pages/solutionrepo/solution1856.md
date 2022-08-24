@@ -62,7 +62,7 @@ Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

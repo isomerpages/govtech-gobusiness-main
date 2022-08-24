@@ -196,10 +196,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>EBOS SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2861' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
-<td>Synergix Technologies Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2943' target='_blank'>Counto DIY Version 1</a><br></td>
 <td>Xion.AI Pte Ltd</td>
 </tr>
@@ -254,6 +250,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3273' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
 <td>Psoft Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3294' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
+<td>Synergix Technologies Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3307' target='_blank'>ABSS Premier - Accounting and Sales Management System Version 23</a><br></td>
+<td>01 Business Solutions Pte Ltd</td>
 </tr>
 </table>
 

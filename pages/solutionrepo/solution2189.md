@@ -60,7 +60,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

@@ -46,7 +46,7 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

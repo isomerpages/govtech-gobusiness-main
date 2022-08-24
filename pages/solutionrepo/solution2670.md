@@ -48,7 +48,7 @@ XERO being a cloud based and IRAS approved accounting software, it allows compan
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

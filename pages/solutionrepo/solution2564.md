@@ -60,7 +60,7 @@ LittleLives is a holistic school management system built to simplify complex sch
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

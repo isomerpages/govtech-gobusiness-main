@@ -60,7 +60,7 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
