@@ -39,7 +39,7 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

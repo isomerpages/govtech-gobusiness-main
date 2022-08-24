@@ -55,7 +55,7 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

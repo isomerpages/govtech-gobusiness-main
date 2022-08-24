@@ -32,7 +32,7 @@ The Qanvast Leads Management System is a software platform that manages leads fo
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

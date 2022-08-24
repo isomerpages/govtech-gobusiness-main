@@ -53,7 +53,7 @@ Qashier provides smart point-of-sale and digital payment solutions to retailers.
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

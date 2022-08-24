@@ -60,7 +60,7 @@ A complete end-to-end software system tailor-made for centres where there are st
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

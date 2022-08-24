@@ -32,7 +32,7 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

@@ -39,7 +39,7 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

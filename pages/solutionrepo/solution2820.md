@@ -60,7 +60,7 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

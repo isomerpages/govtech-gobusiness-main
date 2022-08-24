@@ -60,7 +60,7 @@ Cybots ensures cyber resilience for all sectors, from SMEs to large multinationa
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

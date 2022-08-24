@@ -46,7 +46,7 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

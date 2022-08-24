@@ -60,7 +60,7 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
