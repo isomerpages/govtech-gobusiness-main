@@ -54,7 +54,7 @@ On the other hand, users will also be able to see the money that is coming in an
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

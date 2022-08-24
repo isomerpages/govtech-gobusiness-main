@@ -60,7 +60,7 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

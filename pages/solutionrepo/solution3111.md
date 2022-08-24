@@ -60,7 +60,7 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

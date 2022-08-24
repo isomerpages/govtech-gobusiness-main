@@ -60,7 +60,7 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

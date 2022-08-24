@@ -103,10 +103,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3245' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3312' target='_blank'>YUVO</a><br></td>
-<td>YUVO PTE LTD</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

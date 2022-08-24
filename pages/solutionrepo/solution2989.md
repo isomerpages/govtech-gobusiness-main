@@ -62,7 +62,7 @@ From customer booking to sale and payment, marketing to customer loyalty, employ
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

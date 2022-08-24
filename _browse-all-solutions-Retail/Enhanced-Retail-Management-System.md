@@ -95,10 +95,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3236' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
 <td>Weebo Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3302' target='_blank'>BIZ POS VER 3.5</a><br></td>
-<td>Coobiz IT Solutions Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

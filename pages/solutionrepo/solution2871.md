@@ -46,7 +46,7 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

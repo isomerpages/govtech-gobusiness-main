@@ -46,7 +46,7 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

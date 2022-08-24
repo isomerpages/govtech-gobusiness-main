@@ -60,7 +60,7 @@ As an EduTech company, LittleLives facilitates day-to-day school operations thro
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

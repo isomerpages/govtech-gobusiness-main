@@ -55,7 +55,7 @@ Your team has the freedom to check rosters, accept and decline shifts, request l
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

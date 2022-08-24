@@ -62,7 +62,7 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

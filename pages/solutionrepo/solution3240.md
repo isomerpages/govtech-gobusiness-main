@@ -60,7 +60,7 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

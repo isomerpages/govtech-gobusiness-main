@@ -60,7 +60,7 @@ GenicDocs is very user-friendly interface and secured Document Management Softwa
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

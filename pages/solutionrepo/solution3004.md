@@ -61,7 +61,7 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

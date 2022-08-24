@@ -60,7 +60,7 @@ Qoqolo is a one-stop-shop preschool management system for centres to accelerate 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

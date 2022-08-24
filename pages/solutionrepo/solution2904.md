@@ -60,7 +60,7 @@ This managed security service leverages the power of Microsoft's integrated thre
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

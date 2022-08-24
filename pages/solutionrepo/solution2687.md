@@ -34,7 +34,7 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

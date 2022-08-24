@@ -46,7 +46,7 @@ Qashier provides smart point-of-sale and e-payment solutions to the Beauty and S
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

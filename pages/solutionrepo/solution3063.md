@@ -32,7 +32,7 @@ KEYfields' iLOGON iTMS is an operational centric and easy to implement transport
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

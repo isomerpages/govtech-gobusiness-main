@@ -60,7 +60,7 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of human resource op
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

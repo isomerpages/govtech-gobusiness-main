@@ -53,7 +53,7 @@ Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, b
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

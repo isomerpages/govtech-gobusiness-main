@@ -53,7 +53,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

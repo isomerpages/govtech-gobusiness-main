@@ -60,7 +60,7 @@ Swingvy is the modern HR platform for small and mid-sized businesses. By seamles
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

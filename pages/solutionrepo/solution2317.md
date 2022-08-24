@@ -60,7 +60,7 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

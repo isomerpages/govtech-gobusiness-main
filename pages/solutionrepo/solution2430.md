@@ -39,7 +39,7 @@ PORTNET is the first nation-wide business-to-business (B2B) port community solut
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

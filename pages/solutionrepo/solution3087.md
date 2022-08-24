@@ -60,7 +60,7 @@ Green Radar grMail is a next-generation cloud-based email security platform with
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

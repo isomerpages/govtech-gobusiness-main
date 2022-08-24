@@ -32,7 +32,7 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

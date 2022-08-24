@@ -32,7 +32,7 @@ Tracee Inventory allows high visibility & accessibility of products, & easy mana
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

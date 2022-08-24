@@ -19,6 +19,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Cost-Quality-Controls-M-2'  target='_blank' rel='noopener'>1. Manage Cost and Quality Controls (M)</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Discover-Sales-Opportunities-Track-Prospects-2'  target='_blank' rel='noopener'>2. Discover Sales Opportunities and Track Prospects</a><br>
 <a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6'  target='_blank' rel='noopener'>3. Supply Chain Management</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6'  target='_blank' rel='noopener'>3. Supply Chain Management</a><br>
 
 ## Pre-Approved Solutions
 

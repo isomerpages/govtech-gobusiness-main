@@ -60,7 +60,7 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

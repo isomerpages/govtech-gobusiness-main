@@ -53,7 +53,7 @@ Weeloy Reservation System and Table Management Suite is an integrated solution a
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

@@ -46,7 +46,7 @@ Armfort Visitor Management System is an integrated solution that will assist bus
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

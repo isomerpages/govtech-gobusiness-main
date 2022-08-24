@@ -46,7 +46,7 @@ Profectant has established a sound track record in simplifying and implementing 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

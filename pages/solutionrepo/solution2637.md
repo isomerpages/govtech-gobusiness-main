@@ -63,7 +63,7 @@ Support Time : 9am-6pm
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

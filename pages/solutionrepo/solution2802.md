@@ -61,7 +61,7 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

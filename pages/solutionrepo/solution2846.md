@@ -53,7 +53,7 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

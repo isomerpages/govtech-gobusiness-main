@@ -61,7 +61,7 @@ It protects your entire business through a layered protection approach, an innov
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

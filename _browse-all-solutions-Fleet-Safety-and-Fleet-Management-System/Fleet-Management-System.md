@@ -82,10 +82,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2354' target='_blank'>CROSSTRACK GO</a><br></td>
 <td>CROSSTRACK PTE LTD</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3301' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
-<td>Pivotal Pte. Ltd.</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

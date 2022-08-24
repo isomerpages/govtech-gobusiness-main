@@ -60,7 +60,7 @@ A2000 Solutions Pte. Ltd. is an established ERP business software development co
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

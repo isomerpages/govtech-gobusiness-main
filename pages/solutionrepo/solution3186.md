@@ -57,7 +57,7 @@ Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensure
 
 ## Vendor Information
 
- Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
+ Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com/9 <br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

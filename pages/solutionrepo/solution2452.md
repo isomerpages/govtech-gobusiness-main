@@ -60,7 +60,7 @@ Taidii SMART integrated preschool management system provides innovation solution
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

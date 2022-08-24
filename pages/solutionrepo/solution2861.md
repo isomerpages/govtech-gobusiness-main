@@ -1,6 +1,6 @@
 ---
 title: 'Synergix E1 Sales Accounting'
-permalink: /productivity-solutions-grant/solutionrepo/solution3294
+permalink: /productivity-solutions-grant/solutionrepo/solution2861
 ---
 
 ## Synergix E1 Sales Accounting
@@ -23,17 +23,17 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$48,770.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix E1 Sales & Accounting - Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$51,740.00</td>
 <td style='padding: 10px;'>$37,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$69,770.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix E1 Sales & Accounting - Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$72,740.00</td>
 <td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Synergix_E1_Sales__Acc_20210526_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ## Vendor Information
 
- Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

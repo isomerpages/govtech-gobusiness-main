@@ -62,7 +62,7 @@ It is capable of capturing the profiles of students and staff, allowing for the 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

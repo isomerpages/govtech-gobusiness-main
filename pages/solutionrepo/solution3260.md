@@ -53,7 +53,7 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

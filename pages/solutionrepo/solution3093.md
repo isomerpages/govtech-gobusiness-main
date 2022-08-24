@@ -60,7 +60,7 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

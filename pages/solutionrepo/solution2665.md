@@ -60,7 +60,7 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

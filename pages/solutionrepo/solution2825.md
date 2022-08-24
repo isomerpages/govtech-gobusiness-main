@@ -60,7 +60,7 @@ Xero is an online accounting software for small businesses that lets you share a
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

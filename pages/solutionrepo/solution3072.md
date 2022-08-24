@@ -60,7 +60,7 @@ TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software deve
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

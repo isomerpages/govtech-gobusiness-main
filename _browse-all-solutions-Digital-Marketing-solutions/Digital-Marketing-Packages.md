@@ -91,10 +91,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3283' target='_blank'>DM W360 Digital Power Pack Version 1.0</a><br></td>
 <td>W360 Group Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3317' target='_blank'>DM TAM Digital Marketing Packages</a><br></td>
-<td>The Assets Management Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -1,9 +1,9 @@
 ---
-title: 'Practice Management System'
-permalink: /browse-all-solutions-Legal/Practice-Management-System
+title: 'Practice Management System (PMS)'
+permalink: /browse-all-solutions-Legal/Practice-Management-System--PMS-
 ---
 
-## Practice Management System
+## Practice Management System (PMS)
 ## Overview
 
 **Support Level and Conditions**
@@ -22,10 +22,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3287' target='_blank'>Tessaract Practice Management Solution</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3296' target='_blank'>CLIO</a><br></td>
-<td>Bizibody Technology Pte. Ltd.</td>
 </tr>
 </table>
 

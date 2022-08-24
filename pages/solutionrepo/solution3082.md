@@ -46,7 +46,7 @@ MTWO Construction Cloud is an enterprise level platform aiming to help companies
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

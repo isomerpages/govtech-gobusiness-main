@@ -32,7 +32,7 @@ KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cros
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

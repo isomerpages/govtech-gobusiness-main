@@ -60,7 +60,7 @@ FoodZaps is a Singapore-made All-In-One integrated Restaurant Management Solutio
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 

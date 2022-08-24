@@ -60,7 +60,7 @@ goTruck!Hub is an internet-based Transport Management System, specifically tailo
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 
