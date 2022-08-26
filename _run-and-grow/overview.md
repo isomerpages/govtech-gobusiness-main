@@ -28,8 +28,6 @@ To help businesses expand and transform, the government provides support in vari
 
 Additional support programmes are also available:
 
-- [Covid-19 Support](/supportschemes/immediateschemes/?src=rungrow_overview)
-
 - [Budget 2022](/gov-assist/budget-announcement-for-businesses/)
 
 Want help navigating all the available schemes? Use our e-Adviser for Government Assistance to see what support schemes your company is eligible for:

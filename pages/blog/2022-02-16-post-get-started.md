@@ -57,10 +57,6 @@ With COVID-19’s arrival having upturned business operations, adapting and adju
 
 - The latest news and regulations regarding [safe management requirements](/safemanagement/general/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [permitted services](/permittedlist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
 
-- Available [financial support](/supportschemes/immediateschemes/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for your business, including financial schemes and grants you can apply for
-
-- [Sector-specific support](/supportschemes/fnbsupport/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for selected industries
-
 - [User guides](/guides/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for additional administrative processes such as manpower declaration and exemption applications
 
 
