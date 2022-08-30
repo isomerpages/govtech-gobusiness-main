@@ -1,19 +1,15 @@
 accordion:
   - title: What payment modes do you accept?
     content: |
-      GoBusiness currently accepts VISA and MasterCard for Dashboard and Food Services Guided Journey. We are working to add more payment methods in the future. 
+      GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
 
-      GoBusiness Licensing accepts PayPal, VISA, MasterCard, American Express and Discover. Note: Internet Direct Debit (IDD) will no longer be available on GoBusiness Licensing.
+      Check with the licensing agency if you are able to make payment for your licences at the respective government agency headquarters, if you prefer.
 
   - title: Why do some applications require more than one payment?
     content: |
       Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application, while Stage 2 payment is required after the licence is processing. You will be notified via email when Stage 2 payment is required.
 
   - title: If my application is rejected, will I get a refund?
-    content: |
-      To find out whether you get a refund, please contact the relevant government agencies directly, as refund amounts vary according to the licences.
-
-  - title: If my application is cancelled, will I get a refund?
     content: |
       To find out whether you get a refund, please contact the relevant government agencies directly, as refund amounts vary according to the licences.
 
@@ -30,7 +26,7 @@ accordion:
       - Check your proxy settings
       - Reconnect to another network (e.g home/office network) and try again
 
-      If the error persists after 24 hours, please email us at AskGoBiz@crimsonlogic.com.sg with a screenshot and a description of the error you are facing.
+      If the error persists after 24 hours, please email us at [AskGoBiz@crimsonlogic.com.sg](mailto:AskGoBiz@crimsonlogic.com.sg) with a screenshot and a description of the error you are facing.
 
   - title: Can I make payment for my licences at the respective government agency headquarters?
     content: |

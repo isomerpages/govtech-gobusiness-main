@@ -12,6 +12,8 @@ third_nav_title: General
 
 {% include letter-accordion.html accordions=site.data.acc024-about letter="b" %}
 
+{% include banner-db-faq.html %}
+
 ### About GoBusiness Licensing
 
 {% include letter-accordion.html accordions=site.data.acc024-about letter="c" %}

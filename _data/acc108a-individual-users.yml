@@ -1,0 +1,64 @@
+- accordion:
+  letter: a
+  data:
+    - title: What is an "on behalf of" application?
+      content: |
+        "On behalf of" applications are made by another Individual User on your behalf. 
+
+- accordion:
+  letter: b
+  data:
+    - title: Someone has applied for a licence on my behalf. Where can I find it?
+      content: |
+        If the application has not been approved yet, you can find it on your dashboard under [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_ind_thirdparty). 
+
+        If it's been approved, you can find the licence under [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_ind_thirdparty).
+
+    - title: Can I withdraw an application submitted on my behalf?
+      content: |
+        Yes, you can. Log in to GoBusiness Dashboard and click on [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_ind_thirdparty). If you see a Select Action button in the row with your application, click on it and select Withdraw.
+
+        If you see the "Manage on GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can withdraw the application.
+
+        ![Screenshot of withdraw an application](/images/FAQ/db/Withdraw.jpg)
+
+- accordion:
+  letter: c
+  data:
+    - title: How do I apply for a licence on behalf of another user?
+      content: |
+        For Individual Users:
+
+        Step 1: Log in to GoBusiness using your Singpass
+
+        Step 2: Select the licence that you want
+
+        Step 3: Indicate in the application form that you are applying on behalf of another party
+
+    - title: Where can I find licences I've applied for, on behalf of another Individual User?
+      content: |
+        If the application has not been approved yet, you can find it on your dashboard under [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_ind_thirdparty). 
+
+        If it's been approved, you can find the licence under [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_ind_thirdparty).
+
+        For applications made on GoBusiness Licensing, you can also log in to [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"} to view the licence.
+
+    - title: Can an Individual User apply for or manage a licence on behalf of a Business User?
+      content: |
+        No, an Individual User can only apply for licences on behalf of other Individual Users.
+
+        To apply for a licence on behalf of a business entity with a UEN, please read the FAQ for [Business Users](/licensing-faqs/business-users/)
+
+    - title: How do I amend, renew or cancel a licence on behalf of another Individual User?
+      content: |
+        Log in to GoBusiness Dashboard and click on [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_ind_thirdparty). If you see a Select Action button in the row with your application, click on it and select the desired action.
+
+        If you see the 'Renew/Manage via GoBusiness Licensing' button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew or cancel the licence.
+
+        You can only amend, renew or cancel a licence on behalf of another Individual User, if you were the one who submitted the application.
+
+        ![Screenshot of amend, renew or cancel existing licence](/images/FAQ/db/ARC.jpg)
+
+    - title: There's been an application / amendment / renewal / cancellation for a licence that I was not aware of. What should I do?
+      content: |
+        Log in to GoBusiness Dashboard and go to [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_ind_thirdparty). Click on Select Action -> View to see the user who made this transaction.
