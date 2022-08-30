@@ -1,0 +1,112 @@
+- accordion:
+  letter: a
+  data:
+    - title: Why did the Government develop the Energy Efficiency Grant (EEG)?
+      content: |
+        As part of the Singapore Green Plan 2030, the Government is actively encouraging enterprises to adopt solutions that would enable them to be more sustainable and energy efficient. Rising energy costs in recent months have made the transition towards energy efficiency more urgent than before.  
+        
+        Therefore, the Government has developed the Energy Efficiency Grant for the Food Manufacturing, Food Services and Retail sectors as these sectors have been significantly affected by higher electricity prices, in terms of the impact on their overall business costs. These sectors are also recovering from the significant impact of COVID-19, as a result of the cutback in domestic consumption amidst the strict safe distancing measures.
+
+    - title: What is the objective of the EEG?
+      content: |
+        The EEG will provide local SMEs in the Food Services, Food Manufacturing and Retail sectors with up to 70% support to adopt energy-efficient equipment in pre-scoped categories. 
+
+        This grant complements other energy efficiency initiatives such as NEA's Energy Efficiency Fund, which currently provides grant support for businesses in the manufacturing sector, including SMEs, for adoption of energy-efficient equipment or technologies, as well as BCA’s upcoming Green Mark Incentive Scheme for Existing Buildings 2.0.
+
+    - title: Will the Government consider expanding the Energy Efficiency Grant to more sectors?
+      content: |
+        There are currently no plans to expand the Energy Efficiency Grant to more sectors. 
+
+        The grant is meant to complement other energy efficiency initiatives such as NEA's E2F, which supports the manufacturing sector, and BCA's GMIS-EB 2.0, which supports building owners. The Energy Efficiency Grant is therefore meant to cover sectors that have been significantly affected by higher electricity prices, in terms of the impact on their overall business costs.
+
+    - title: What is supported under the EEG?
+      content: |
+        Support will be provided for following energy-efficient equipment with the following technical requirements:
+
+        **LED lighting:**
+        
+        - LED self-ballasted lamps
+        
+        - Direct LED replacements for compact fluorescent lamps (CFL) or linear fluorescent lamps (LFL)
+        
+        - LED tube and strip lights
+        
+        - LED circular tube
+        
+        **Air-conditioner:**
+
+        - Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) ≤ 750 for split unit models (up to 10kW cooling capacity)
+        
+        - Minimum 3-ticks and using refrigerant with GWP ≤ 750 (if available) for split unit models (above 10kW cooling capacity)
+        
+        - Minimum 3-ticks and using refrigerant with GWP ≤ 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+        
+        **Refrigerator:**
+        
+        - Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
+        
+        - Commercial refrigerator: Inverter technology
+        
+        **Cooking hob:**
+        
+        - Induction technology
+        
+        **Water heater:**
+        
+        - Heat pump technology 
+        
+        **Clothes dryer:**
+        
+        - Heat pump technology
+        
+        The grant support provided will be up to 70% of qualifying costs, capped at S$30,000 per company per year.
+
+    - title: Will the Government consider expanding the types of equipment categories supported, to other equipment such as ovens or dishwashers?
+      content: |
+        There are no plans to expand the types of equipment categories supported currently, as the intent is to focus on equipment categories with clearly identified energy-efficient technologies.
+
+    - title: How does the Government determine what equipment is energy-efficient and able to be supported under the EEG? 
+      content: |
+        The supported equipment are identified based on the following considerations:
+
+          - involve technologies that have been identified as energy efficient (for example, induction cooking hobs are more energy-efficient than gas or ceramic cooking hobs); and/or
+          - high energy efficiency ratings under NEA's Mandatory Energy Labelling Scheme (MELS)
+
+        However, applicants may submit for consideration other technologies within the supportable categories that are of similar or higher levels of energy efficiency compared to those that the Government has identified under the EEG. 
+
+        The applicant should submit an application for review at [EEG@enterprisesg.gov.sg](mailto:EEG@enterprisesg.gov.sg)
+
+        The application will be reviewed by the Government only if supplemented with reliable and clear technical information on the energy efficiency of the technology for review.
+
+    - title: What is the duration of the EEG?  
+      content: |
+        The grant application window for the EEG is from 1 Sep 2022 to 31 Mar 2023.
+        
+        The Government will monitor the situation and consider the need for extension should it arise.
+
+        Companies will have up to 1 year from the time an application is approved to purchase and install  the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
+
+    - title: Many companies occupy tenanted space and may not be able to change equipment such as lamps and air-conditioners. Will the Government support building owners as well so that tenants can benefit? 
+      content: |
+        Currently, the EEG is open to all local SMEs from the eligible sectors including building owners. Building owners may also consider the upcoming BCA Green Mark Incentive Scheme for Existing Buildings 2.0 (GMIS-EB 2.0), which provides grants for building owners to retrofit and raise the energy performance of existing buildings with Gross Floor Area (GFA) of 5,000m2 or more. 
+
+    - title: How to apply for the EEG?
+      content: |
+        Applications and claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
+    - title: Where can I find more information on the EEG?
+      content: |
+        For more information on the EEG, please visit [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target="_blank"}{:rel="noopener"} or contact Enterprise Singapore at [https://go.gov.sg/askenterprisesg](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}.
+
+- accordion:
+  letter: b
+  data:
+    - title: What are the key differences between Energy Efficiency Grant (EEG) and Energy Efficiency Fund (E2F) that are both targeted at SMEs?
+      content: |
+        **Equipment support:** The EEG supports local SMEs in the Food Services, Food Manufacturing and Retail sectors to adopt energy-efficient equipment in pre-approved categories, namely LED lighting, air-conditioners, cooking hobs, refrigerators, water heaters and dryers. On the other hand, the E2F supports manufacturing companies with an annual group sales turnover of less than S$500 million to adopt energy-efficient equipment or technologies, which includes but is not limited to LED, air-conditioners, motors, chilled water systems, refrigeration systems, compressed air systems, boiler systems, furnaces, ovens and heat recovery systems.
+
+        **Funding support:** The EEG provides support based on 70% of qualifying costs, capped at S$30,000 per company, for energy-efficient equipment in pre-approved categories. The E2F provides support up to 70% of qualifying costs per project. While the grant amount may go above S$30,000, the support is only for manufacturing companies and E2F grants awarded will vary, based on the carbon abatement achieved. E2F projects that achieve higher carbon abatement are eligible for higher grant support. 
+
+    - title: Can companies apply for both E2F and EEG at the same time?
+      content: |
+        Yes. Companies that meet the eligibility criteria of the EEG and E2F may apply for the grants suited to their needs. However, companies may not apply for both grants for the same project.
