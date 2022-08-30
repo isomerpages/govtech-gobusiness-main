@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018502901'  target='_blank' rel='noopener'>1. Effective Project Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504739'  target='_blank' rel='noopener'>2. (WSQ) Process Payroll</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019503818'  target='_blank' rel='noopener'>3. Data Management Level 2: Provide human resource information</a><br>
+
 ## Pre-Approved Solutions
 
 <table>

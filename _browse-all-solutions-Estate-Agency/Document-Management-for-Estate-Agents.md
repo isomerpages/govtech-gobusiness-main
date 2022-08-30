@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Knowledge-Management-2'  target='_blank' rel='noopener'>1. Knowledge Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Implement-Good-Documentation-Practices-Blended-2'  target='_blank' rel='noopener'>2. Implement Good Documentation Practices </a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Effective-Digital-Asset-File-Management-level-2-2'  target='_blank' rel='noopener'>3. Effective Digital Asset and File Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021004604'  target='_blank' rel='noopener'>1. Knowledge Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2015500446'  target='_blank' rel='noopener'>2. Implement Good Documentation Practices</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505798'  target='_blank' rel='noopener'>3. WSQ Effective Digital Asset and File Management - Level 2</a><br>
 
 ## Pre-Approved Solutions
 

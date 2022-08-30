@@ -12,6 +12,14 @@ Up to 70% for SMEs, 50% for non-SMEs
 
 This solution is supported by Singapore Tourism Board (STB).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504205'  target='_blank' rel='noopener'>1. Establish Relationships for Customer Confidence</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018500642'  target='_blank' rel='noopener'>2. Data Analytics for Workplace</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505698'  target='_blank' rel='noopener'>3. Monitor Income and Expenses</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
