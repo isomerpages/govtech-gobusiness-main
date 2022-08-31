@@ -11,15 +11,12 @@ Navigate the process of starting, running and growing a business with our handy 
 
 ### e-Services
 
-### For starting a business
+### For business registration
 - [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_guidesforbiz){:target="_blank"}
   <br>For aspiring business owners to find out the next steps to start and register a business.
 
 - [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=eservices_guidesforbiz){:target="_blank"}
   <br>To help aspiring business owners decide on the business structure that best suits their needs.
-
-- [e-Adviser for Home-Based Business](https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
-  <br>For aspiring business owners to find out the next steps to run a small-scale business from home.
 
 ### For government assistance
 - [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_guidesforbiz){:target="_blank"}
