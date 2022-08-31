@@ -12,20 +12,20 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
-
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505675'  target='_blank' rel='noopener'>1. WSQ: Inventory Control (Perform Stock Control)</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018500942'  target='_blank' rel='noopener'>2. Evaluate and Interpret Financial Reports</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2013500351'  target='_blank' rel='noopener'>3. Manage Budgeting and Forecasting Processes for the Business Unit</a><br>
-
 ## Pre-Approved Solutions
 
 <table>
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1014' target='_blank'>Sage 300 Advanced Edition</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1147' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1178' target='_blank'>Madsoft Solutions IAF Version 320</a><br></td>

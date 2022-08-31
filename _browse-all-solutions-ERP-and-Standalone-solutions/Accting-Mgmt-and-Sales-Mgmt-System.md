@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019502253'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting-Related Concepts</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021003748'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2016500598'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Knowledge-AccountingRelated-Concepts-2'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting Related Concepts</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Mathematics-Data-Analytics-Asynchronous-Elearning'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Establish-Financial-Budget-Plans-4'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
 
 ## Pre-Approved Solutions
 
@@ -26,6 +26,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1009' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution</a><br></td>
+<td>Abundant Accounting Pte Ltd </td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1011' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution </a><br></td>
+<td>Abundant Accounting Pte Ltd </td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1157' target='_blank'>Xero Cloud Accounting Software</a><br></td>
@@ -250,10 +258,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3307' target='_blank'>ABSS Premier - Accounting and Sales Management System Version 23</a><br></td>
 <td>01 Business Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3322' target='_blank'>ABSS Premier Version 23</a><br></td>
-<td>Apscom Solutions Pte Ltd</td>
 </tr>
 </table>
 

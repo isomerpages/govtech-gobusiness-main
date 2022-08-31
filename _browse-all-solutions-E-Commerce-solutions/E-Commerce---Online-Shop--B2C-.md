@@ -12,12 +12,26 @@ Up to 70% (80% for Retail sector)  for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Content-Creation-Marketing'  target='_blank' rel='noopener'>1. Content Creation and Marketing</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning'  target='_blank' rel='noopener'>2a. Social Commerce Fundamentals</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning'  target='_blank' rel='noopener'>2b. Social Commerce Fundamentals</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Start-Online-Business-Alibaba-Entrepreneur-Startup-Program-13-2'  target='_blank' rel='noopener'>3a. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Start-Online-Business-Alibaba-Entrepreneur-Startup-Program-13-2'  target='_blank' rel='noopener'>3b. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Shopmatic</a><br></td>
+<td>Shopmatic Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1243' target='_blank'>Magento and Woo Commerce Solutions for Retail</a><br></td>
@@ -134,10 +148,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3253' target='_blank'>Shopcada Ecommerce</a><br></td>
 <td>Webcada Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3327' target='_blank'>Corsiva Lab E-Commerce Website Development</a><br></td>
-<td>Corsiva Lab Pte Ltd</td>
 </tr>
 </table>
 

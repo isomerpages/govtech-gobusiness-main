@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020501979'  target='_blank' rel='noopener'>1. Data-driven Customer Experience</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504205'  target='_blank' rel='noopener'>3. Establish Relationships for Customer Confidence</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Datadriven-Customer-Experience-Synchronous-elearning-2'  target='_blank' rel='noopener'>1. Data-driven Customer Experience</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digital-Customer-Experience-Management-2'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
+<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/NICFCRM-Sales-Management-SF-1'  target='_blank' rel='noopener'>3. NICF-CRM Sales Management</a><br>
 
 ## Pre-Approved Solutions
 

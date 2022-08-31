@@ -64,7 +64,7 @@ TAM helps business owners double triple their ROI by navigating the challenging 
 
 ## Vendor Information
 
- Company name:The Assets Management Pte Ltd<br>Web URL: digitalsociety.sg <br>Contact Hotline: 88345516<br>Contact Email: hello@digitalsociety.sg
+ Company name:The Assets Management Pte Ltd<br>Web URL: digitalsociety.sg <br>Contact Hotline: 69116898 <br>Contact Email: hello@digitalsociety.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
