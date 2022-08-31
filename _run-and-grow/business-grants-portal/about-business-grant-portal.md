@@ -16,8 +16,6 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 
 Currently on BGP, you can apply for:
 
-- [Productivity Solutions Grant](/productivity-solutions-grant/?src=rungrow-bgp)
-- [Energy Efficiency Grant](/energy-efficiency-grant/?src=rungrow-bgp)
 - [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="_blank"}
 - [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"}
 - [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}

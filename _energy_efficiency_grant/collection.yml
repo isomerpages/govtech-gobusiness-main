@@ -1,6 +1,0 @@
-collections:
-  energy_efficiency_grant:
-    output: true
-    order:
-      - overview.md
-      - faq.md

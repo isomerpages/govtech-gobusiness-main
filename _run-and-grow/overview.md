@@ -28,8 +28,6 @@ To help businesses expand and transform, the government provides support in vari
 
 Additional support programmes are also available:
 
-- [Covid-19 Support](/supportschemes/immediateschemes/?src=rungrow_overview)
-
 - [Budget 2022](/gov-assist/budget-announcement-for-businesses/)
 
 Want help navigating all the available schemes? Use our e-Adviser for Government Assistance to see what support schemes your company is eligible for:
@@ -77,8 +75,6 @@ A simple guide to a business' responsibilities while operating in Singapore.
 Here are more government programmes to support the growth and expansion of businesses:
 
 - [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/?src=rungrow_overview)<br>The Productivity Solutions Grant (PSG) supports businessees in the adoption of IT solutions or equipment that improve productivity.
-
-- [Energy Efficiency Grant (EEG)](/energy-efficiency-grant/?src=rungrow_overview)<br>The Energy Efficiency Grant (EEG) aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy-efficient equipment.
 
 - [Business Grants Portal (BGP)](/business-grants-portal/?src=rungrow_overview)<br>The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
 
