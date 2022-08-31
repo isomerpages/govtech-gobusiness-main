@@ -10,6 +10,8 @@ navlinks:
     sublinks:
       - title: Overview
         url: /start-a-business/
+      - title: Home-Based Businesses
+        url: /home-based-businesses/determine-your-home-business-scheme/
       - title: Key Steps to Start a Business
         url: /start-a-business/choose-a-business-structure/
       - title: Next Steps to Consider
@@ -44,6 +46,14 @@ navlinks:
         url: /safemanagement/general/
       - title: Sector-specific Requirements
         url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Sector-Specific Support
+        url: /supportschemes/fnbsupport/
       - title: FAQ
         url: /covid-19-faqs/
   - title: E-Services
