@@ -6,7 +6,7 @@ third_nav_title: General
 
 ### GoBusiness Dashboard
 
-{% include letter-accordion.html accordions=site.data.acc025-application letter="a" %}
+{% include banner-db-faq.html %}
 
 ### Food Services Guided Journey
 
