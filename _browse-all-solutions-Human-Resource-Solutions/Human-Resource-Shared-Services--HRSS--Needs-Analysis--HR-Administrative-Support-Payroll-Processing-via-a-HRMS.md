@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Financial-Acumen-Level-4-Manage-Budgets-Finances-1'  target='_blank' rel='noopener'>1. Financial Acumen Level 4: Manage Budgets and Finances</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Human-Resource-Analytics-SFw-HR-2'  target='_blank' rel='noopener'>2. Manage Human Resource Analytics (SFw HR)</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payroll-4'  target='_blank' rel='noopener'>3. (WSQ) Process Payroll</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020503189'  target='_blank' rel='noopener'>1. Financial Acumen Level 4: Manage Budgets and Finances</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504818'  target='_blank' rel='noopener'>2. Manage Human Resource Analytics</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504739'  target='_blank' rel='noopener'>3. (WSQ) Process Payroll</a><br>
 
 ## Pre-Approved Solutions
 

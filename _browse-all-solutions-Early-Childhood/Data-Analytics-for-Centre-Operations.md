@@ -16,8 +16,8 @@ This solution is supported by Early Child Development Agency (ECDA).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/NICF-Data-Storytelling-Tableau-2'  target='_blank' rel='noopener'>1. NICF-Data Storytelling with Tableau</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Analytics-Workplace-3'  target='_blank' rel='noopener'>2. Data Analytics for Workplace</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505550'  target='_blank' rel='noopener'>1. NICF-Data Storytelling with Tableau</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018500642'  target='_blank' rel='noopener'>2. Data Analytics for Workplace</a><br>
 <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020501276'  target='_blank' rel='noopener'>3. Full Tableau Training</a><br>
 
 ## Pre-Approved Solutions
