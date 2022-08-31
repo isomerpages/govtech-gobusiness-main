@@ -4,13 +4,16 @@
   id: 1
   href_1: '/start-a-business/?src=home_quicklinks'
   text_1: How to start a business
-  href_2: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
-  target_2: _blank
-  text_2: 'e-Adviser: Register new business'
-  is_new_2: false
-  href_3: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
-  text_3: 'e-Adviser: Pick a business structure'
+  href_2: '/start-a-business/#small-scale-home-biz'
+  text_2: Home-based businesses
+  is_new_2: true
+  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
   target_3: _blank
+  text_3: 'e-Adviser: Register new business'
+  is_new_4: false
+  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
+  text_4: 'e-Adviser: Pick a business structure'
+  target_4: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
   cta_text: View Start-up Guide
 - icon: '/images/licences.png'
@@ -35,6 +38,9 @@
   text_1: Time limited RRT
   href_2: '/safemanagement/general/?src=home_quicklinks'
   text_2: Safe management measures
+  href_3: 'https://go.gov.sg/covidbusinessresumptions/?src=home_quicklinks'
+  target_3: _blank
+  text_3: Onsite manpower declaration
   cta_href: '/covid/?src=home_quicklinks'
   cta_text: Covid-19 overview
 - icon: '/images/govassist.png'
@@ -45,12 +51,15 @@
   text_1: Budget 2022
   is_new_1: false
   href_2: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
-  text_2: 'e-Adviser: Find eligible schemes'
+  text_2: 'eAdviser: Find eligible schemes'
   target_2: _blank
   href_3: '/productivity-solutions-grant/?src=home_quicklinks'
   text_3: Productivity Solutions Grant
-  is_new_3: true
-  href_4: '/business-grants-portal/?src=home_quicklinks'
-  text_4: Business Grants Portal
+  is_new_3: false
+  href_4: '/energy-efficiency-grant/?src=home_quicklinks'
+  text_4: Energy Efficiency Grant
+  is_new_4: true
+  href_5: '/business-grants-portal/?src=home_quicklinks'
+  text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
