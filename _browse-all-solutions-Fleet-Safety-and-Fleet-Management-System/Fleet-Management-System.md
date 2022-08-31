@@ -16,12 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Retail-Sf-Inventory-Control-Perform-Stock-Control-Retail-Operations-Synchronous-elearning-2'  target='_blank' rel='noopener'>1. WSQ Retail: Inventory Control (Perform Stock Control)</a><br>
-<a href='https://sfec-microsite.enterprisejobskills.gov.sg/courses/details/TGS-2018508939'  target='_blank' rel='noopener'>2. Business Forecasting</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Management-6'  target='_blank' rel='noopener'>3. Supply Chain Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>4. Digitalisation and Transformation of Transportation Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Supply-Chain-Solutioning-Modelling-Planning-Strategising-2'  target='_blank' rel='noopener'>5. Supply Chain Solutioning/Modelling/Planning/Strategising</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Apply-Workplace-Safety-Health-Logistics-Transportation-7'  target='_blank' rel='noopener'>6. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020513528'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020503586'  target='_blank' rel='noopener'>2. Supply Chain Solutioning/Modelling/Planning/Strategising</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2009500061'  target='_blank' rel='noopener'>3. WSQ Perform Delivery Operations</a><br>
 
 ## Pre-Approved Solutions
 
@@ -29,14 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution774' target='_blank'>Shell Telematics</a><br></td>
-<td>SHELL EASTERN PETROLEUM (PTE) LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution986' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0</a><br></td>
-<td>FocusGuard Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1281' target='_blank'>V3Nity-FMS Fleet Management System Version 3 </a><br></td>
@@ -73,10 +62,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2317' target='_blank'>vTrak Version 1.4</a><br></td>
 <td>IDEE INFOCOM PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2322' target='_blank'>Fleet Management System</a><br></td>
-<td>AceCom Technologies Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2354' target='_blank'>CROSSTRACK GO</a><br></td>

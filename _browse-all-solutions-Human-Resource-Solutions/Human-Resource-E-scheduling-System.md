@@ -12,14 +12,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
-
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Introduction-Positive-Psychology-Coaching-Workplace-3'  target='_blank' rel='noopener'>1. Introduction to Positive Psychology Coaching at the Workplace</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Develop-Human-Resource-HR-Policy-Documents-SFw-HR-1'  target='_blank' rel='noopener'>2. Develop Human Resource (HR) Policy Documents (SFw HR)</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Human-Resource-Practices-Implementation-Strategies-L4-powered-SHRM-SF-Synchronous-elearning'  target='_blank' rel='noopener'>3. Strength in Diversity </a><br>
-
 ## Pre-Approved Solutions
 
 <table>

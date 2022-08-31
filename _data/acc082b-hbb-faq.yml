@@ -1,0 +1,51 @@
+- accordion:
+  letter: a
+  data:
+    - title: I have previously registered for the Home Office Scheme. However, I have moved to a commercial property. What do I do?
+      content: |
+        You must update your company's information on [BizFile+](https://www.bizfile.gov.sg/){:target="_blank"}{:rel="noopener"} within 14 days if there are any changes in your office address. If you are still using your current residential premises as a Home Office, you do not need to inform HDB/URA. However, if you are no longer using your HDB flat as a home office, you will need to inform HDB to terminate the existing HOS licence by submitting a request via the e-feedback form at [https://hdb.gov.sg/efeedback](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"}. 
+
+    - title: Do I need to include GST on my business transactions?
+      content: |
+        Businesses in Singapore with annual taxable turnovers exceeding or are likely to exceed S$1 million from the sale of taxable goods and services are required to register for GST. If your company's annual taxable turnover does not exceed S$1 million, it is generally up to you whether you wish to register your business for GST voluntarily. 
+
+    - title: I want to close my company. What do I do?
+      content: |
+        You may apply to ACRA to strike off its name from the Register. If you were residing in an HDB flat and using your HDB flat as a Home Office, you will need to inform HDB to terminate the existing HOS licence by submitting a request via the e-feedback form at [https://hdb.gov.sg/efeedback](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"}.
+
+- accordion:
+  letter: b
+  data:
+    - title: Can I sell items prepared from home directly to customers (e.g. Customized cakes, muffins and tarts)?
+      content: |
+        Yes, but business operations should be kept at a small scale and the activities must not cause disamenities to your neighbours.
+
+    - title: Can I sell baked items prepared from home at retail food establishments or at temporary fairs?
+      content: |
+        No. Retail food establishments and fairs are to prepare the food at their licensed premises or obtain food from approved sources
+
+    - title: Can I cater food to food stations and stalls at events?
+      content: |
+        No. Operations of such scale should be appropriately located in licensed food premises. 
+      
+    - title: I want to sell on a larger scale but am not yet ready to commit to a long term lease. What can I do? 
+      content: |
+        You can consider booking SFA-endorsed co-working kitchens to scale your operations. With their facilities, you can sell your products at food fairs.
+  
+- accordion:
+  letter: c
+  data:
+    - title: Can I sell my items on eCommerce platforms if they decide to promote my product?
+      content: |
+        Yes.
+    
+    - title: Can I engage the services of delivery vendors/agents to deliver my parcels?
+      content: |
+        Yes, so long as the business remains small scale and the business activities  do not adversely affect your neighbours' living environment or cause any nuisance.
+
+- accordion:
+  letter: d
+  data:
+    - title: I want to offer formal services from home but wish to keep my home address private. What can I do?
+      content: |
+        You can consider getting a virtual office. Having a virtual office gives businesses a physical address and office-related services without the overhead of a long lease and administrative staff. You may use this as your registered office address, all while working from home. 
