@@ -1,0 +1,39 @@
+- title: About GoBusiness Dashboard
+  url: /dashboard-faqs/about/
+  text: View questions
+
+- title: Account access
+  url: /dashboard-faqs/account-access/
+  text: View questions
+  
+- title: Apply new / amenda / renew licence
+  url: /dashboard-faqs/apply-new-licences/?src=faqdb_hub
+  text: View questions
+
+- title: Find approved licences
+  url: /dashboard-faqs/find-approved-licences/?src=faqdb_hub
+  text: View questions
+
+- title: Submit returns
+  url: /dashboard-faqs/submit-returns/?src=faqdb_hub
+  text: View questions
+
+- title: Payment
+  url: /dashboard-faqs/payment/?src=faqdb_hub
+  text: View questions
+
+- title: Post-application
+  url: /dashboard-faqs/post-application/?src=faqdb_hub
+  text: View questions
+
+- title: 'Third-Party: On Behalf Application (Individual Users)'
+  url: /dashboard-faqs/third-party-individualuser/?src=faqdb_hub
+  text: View questions
+
+- title: 'Third-Party: On Behalf Application (Business Users)'
+  url: /dashboard-faqs/third-party-bizuser/?src=faqdb_hub
+  text: View questions
+
+- title: Contact Helpdesk
+  url: /dashboard-faqs/contact-helpdesk/?src=faqdb_hub
+  text: View Contact Us page

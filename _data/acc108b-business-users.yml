@@ -1,0 +1,59 @@
+- accordion:
+  letter: a
+  data:
+    - title: Someone has applied for a licence on my behalf. Where can I find it?
+      content: |
+        If the application has not been approved yet, you can find it on your dashboard under [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_biz_thirdparty). 
+
+        If it's been approved, you can find the licence under [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_biz_thirdparty).
+
+    - title: Can I withdraw an application submitted on my behalf?
+      content: |
+        Yes, you can. Log in to GoBusiness Dashboard and click on [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_biz_thirdparty). If you see a Select Action button in the row with your application, click on it and select "Withdraw".
+
+        If you see the 'Manage via GoBusiness Licensing' button, click on it. You will be directed to GoBusiness Licensing, where you can withdraw the application.
+
+        ![Screenshot of withdraw an application](/images/FAQ/db/Withdraw.jpg)
+
+- accordion:
+  letter: b
+  data:
+    - title: How do I apply, amend, renew or cancel licences on GoBusiness, on behalf of my client?
+      content: |
+        Step 1: Request third party authorisation from your client. Find out how with this [Corppass User Guide](https://www.corppass.gov.sg/help/CP_User_Guide_07_Admin_Subadmin_Authorise_and_Manage_Third_Party_Entity_For_Client.pdf){:target="_blank"}{:rel="noopener"}.
+
+        Step 2: Log in to GoBusiness as a Business User.
+
+        Step 3: Select your client's UEN on the profile selection page.
+
+    - title: Where can I find licences I've applied for, on behalf of a separate entity?
+      content: |
+        Step 1: Log in to GoBusiness as a Business User.
+
+        Step 2: Select your client's UEN on the profile selection page.
+
+        If the application has not been approved yet, you can find it on your dashboard under [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_biz_thirdparty). 
+
+        If it's been approved, you can find the licence under [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_biz_thirdparty).
+
+    - title: Can a Business User apply for or manage a licence on behalf of an Individual User?
+      content: |
+        No, only Individual Users can apply for licences on behalf of other Individual Users.
+
+        To apply for a licence on behalf of an Individual User, please read the FAQ [For Individual Users](/licensing-faqs/individual-users/)
+
+    - title: How do I amend, renew or cancel a licence on behalf of another Business User?
+      content: |
+        Step 1: Log in to GoBusiness as a Business User.
+
+        Step 2: Select your client's UEN on the profile selection page.
+
+        Step 3: Click on [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_biz_thirdparty).
+
+        If you see a 'Select Action' button in the row with your application, click on it and select the desired action.
+
+        If you see the 'Renew/Manage via GoBusiness Licensing' button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew or cancel the licence.
+
+    - title: How do I switch to a different client's profile?
+      content: |
+        Go to the GoBusiness Dashboard homepage and select the 'Switch Profile' button.

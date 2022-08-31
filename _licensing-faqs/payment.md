@@ -1,7 +1,6 @@
 ---
 title: Payment
 permalink: /licensing-faqs/payment/
-third_nav_title: Payment
 ---
 
 ### Payment

@@ -1,0 +1,39 @@
+- accordion:
+  letter: a
+  data:
+    - title: How do I log in to GoBusiness Dashboard?
+      content: |
+        Step 1: Click on the Log In button at the top right hand corner of the screen.
+
+        Step 2: Log in as an Individual User or Business User.
+
+        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
+
+    - title: Can I use GoBusiness Dashboard if I do not have a Singpass account?
+      content: |
+        No, you need a Singpass account to log in to your GoBusiness Dashboard. You can apply for a Singpass account on [Singpass' website](https://www.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
+    - title: Should I log in as an Individual User or Business User?
+      content: |
+        Log in as an Individual User if you are:
+
+        - registering a new company/entity
+        - trading under your NRIC registered name
+        - trading under an entity without a registered UEN
+        - applying for a Corppass Admin account
+
+        Log in as a Business User if you are trading on behalf of a UEN-registered company.
+
+    - title: Why can't I log in as a Business User?
+      content: |
+        To log in as a Business User, your company's Corppass Administrator or Sub-Administrator will need to assign you digital service access to GoBusiness. You can find out how to do that on the [Corppass website](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"}.
+
+        Please note that from 11 April 2021, you will be required to log in to government digital services for businesses using Singpass instead of Corppass. For more information,  visit [go.gov.sg/corporate-login](http://go.gov.sg/corporate-login){:target="_blank"}{:rel="noopener"}.
+
+    - title: How do I log out?
+      content: |
+        Click on the icon at the top right corner of your screen and select Log Out. Do note that you will be automatically logged out after 20 minutes of inactivity.
+
+    - title: Why did I get logged out of GoBusiness?
+      content: |
+        For security reasons, the system automatically logs you out if you are inactive for 20 minutes. 

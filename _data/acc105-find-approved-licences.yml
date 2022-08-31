@@ -1,0 +1,36 @@
+accordion:
+  - title: How do I find my existing approved licences on GoBusiness Dashboard?
+    content: |
+      After logging in to GoBusiness Dashboard, click on Licences -> [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_findapprovedlic) from the top menu bar.
+
+  - title: Why is my licence not shown on my GoBusiness Dashboard?
+    content: |
+      Only approved licences are found on the [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_findapprovedlic) page in GoBusiness Dashboard. Drafts, rejected applications and your application transaction history can be found in [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=findapprovedlicdb_faq).
+
+  - title: I've tried but I still can't find my licence. What should I do?
+    content: |
+      If you need help, you can contact our [helpdesk](/contact-us/?src=faq_db_findapprovedlic).
+
+  - title: How do I download my licence?
+    content: |
+      For certain licences applied through GoBusiness Dashboard, you can download them at [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_findapprovedlic) within one business day upon approval.
+      
+      For licences applied through GoBusiness Licensing, the licence will be sent to your registered email address.
+
+  - title: How do I print my licence?
+    content: |
+      Log in to your GoBusiness Dashboard and [find the licence you want to print](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_findapprovedlic). 
+
+      If you see a 'Select Action' button in the row with your licence, click on it and select 'Download'.
+
+      ![Screenshot of download licence](/images/FAQ/db/Download.jpg)
+
+      If you do not see the button, click on the following links to locate your licence, if your licence is issued by [Singapore Food Agency (SFA), Animal & Veterinary Service (AVS) or NParks](https://licence1.business.gov.sg/licence1/authentication/showLogin.action){:target="_blank"}{:rel="noopener"}, or [other agencies](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"}. After finding your licence, click on the Print icon beside it.
+
+      ![Screenshot of print licence](/images/FAQ/db/Licence1-Print.jpg)
+
+  - title: Why can't I download my licence from GoBusiness Dashboard?
+    content: |
+      It can take up to one business day upon approval, for your licence to be available for download on the GoBusiness Dashboard.
+      
+      Please contact the GoBusiness helpdesk at [+65 6336 3373](tel:+6563363373) or email us at [AskGoBiz@crimsonlogic.com.sg](mailto:AskGoBiz@crimsonlogic.com.sg) for further enquiries.

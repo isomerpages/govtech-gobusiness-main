@@ -1,0 +1,32 @@
+- accordion:
+  letter: a
+  data:
+    - title: What can I do on the GoBusiness Dashboard?
+      content: |
+        You can use GoBusiness Dashboard to apply for and manage licences and register your business (for individual users). 
+        
+        By answering a few simple questions on the e-Advisers, you will also receive personalised recommendations for what to do next, based on your unique business profile. More features will be added soon.
+
+    - title: How is GoBusiness Dashboard different from GoBusiness Licensing?
+      content: |
+        GoBusiness Dashboard gives an overview of your Government-to-Business (G2B) transactions in one place, including licences. It also gives personalised recommendations with our e-Advisers, while GoBusiness Licensing is primarily for matters related to licences and permits only.
+
+    - title: I've been using GoBusiness Licensing. Can I continue to use it?
+      content: |
+        Yes, you can still use GoBusiness Licensing while we are in the midst of merging the GoBusiness Singapore and GoBusiness Licensing systems.
+        
+        However, as we have begun to move all licences to GoBusiness Dashboard since April 2022, you're encouraged to start using GoBusiness Dashboard instead.
+
+    - title: Why is GoBusiness asking for my email address and contact number?
+      content: |
+        This information is optional and you can choose to remove or edit your contact details anytime on [My Account](https://dashboard.gobusiness.gov.sg/profile?src=faq_db_about).
+
+    - title: I need help with using GoBusiness Dashboard. Whom can I speak to?
+      content: |
+        Please contact the GoBusiness helpdesk at [+65 6336 3373](tel:+6563363373) or email us at [AskGoBiz@crimsonlogic.com.sg](mailto:AskGoBiz@crimsonlogic.com.sg) for further enquiries.
+
+        Our helpdesk is open from Monday to Friday 8am - 6pm, and Saturdays 8am - 1pm. Our helpdesk is closed on Sundays and public holidays.
+    
+    - title: What kind of recommendations can I get?
+      content: |
+        With GoBusiness Dashboard, you can get recommendations for certain licences, e-Advisers, toolkits, or guides, based on your business sector. You can update your business sector in the Entity Settings via My Account for more relevant recommendations.
