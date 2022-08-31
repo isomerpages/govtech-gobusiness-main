@@ -78,7 +78,7 @@ Here are more government programmes to support the growth and expansion of busin
 
 - [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/?src=rungrow_overview)<br>The Productivity Solutions Grant (PSG) supports businessees in the adoption of IT solutions or equipment that improve productivity.
 
-- [Energy Efficiency Grant (EEG)](/energy-efficiency-grant/?src=rungrow_overview)<span style='background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;'> NEW!</span><br>The Energy Efficiency Grant (EEG) aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy-efficient equipment.
+- [Energy Efficiency Grant (EEG)](/energy-efficiency-grant/?src=rungrow_overview)<br>The Energy Efficiency Grant (EEG) aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy-efficient equipment.
 
 - [Business Grants Portal (BGP)](/business-grants-portal/?src=rungrow_overview)<br>The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
 
