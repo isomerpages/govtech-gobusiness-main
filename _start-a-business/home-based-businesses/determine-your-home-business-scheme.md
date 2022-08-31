@@ -58,7 +58,7 @@ A non-exhaustive list of small-scale office activities that fall under this sche
 
 - Trading office (excluding car trading office)
 
-A non-exhaustive list of small-scale office activities not permitted under this scheme:
+A non-exhaustive list of small-scale office activities <strong>not permitted</strong> under this scheme:
 
 - Massage / spa service 
 
