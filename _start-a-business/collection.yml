@@ -3,11 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - home-based-businesses/determine-your-home-business-scheme.md
-      - home-based-businesses/understand-scheme-provisions-and-guidelines.md
-      - home-based-businesses/industry-specific-guidelines.md
-      - home-based-businesses/taxes-and-gov-assistance.md
-      - home-based-businesses/take-your-biz-further.md
       - key-steps-to-start/.keep
       - key-steps-to-start/choose-a-business-structure.md
       - key-steps-to-start/choose-a-business-address.md
@@ -22,5 +17,4 @@ collections:
       - next-steps-to-consider/adopt-technology.md
       - next-steps-to-consider/unlock-your-ip-value.md
       - next-steps-to-consider/apply-for-grants.md
-      - faq/starting-a-business.md
-      - faq/home-based-businesses.md
+      - faq.md

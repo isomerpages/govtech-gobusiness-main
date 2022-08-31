@@ -17,15 +17,14 @@ GoBusiness Start-up Guide will walk you through the questions above and more.
 
 {% include panels-overview.html spanels=site.data.ov001-start %}
 
-<hr>
-<a name="getting_started"></a>
-### Getting started
+---
 
-![Getting Started](/images/start/StartSJ_Overview_Main.jpg)
+<a name="about-business-reg"></a>
+![Start Overview](/images/start/StartSJ_Overview_Main.jpg)
 
 If you're starting a business in Singapore, the first question to consider is whether you need to register it.
 
-Anybody who intends to carry out any activity for profit on an ongoing basis <b>must register</b> a business with the Accounting and Corporate Regulatory Authority (ACRA), <b>unless you meet the following criteria for exemption</b>:
+Anybody who intends to carry out any activity for profit on an ongoing basis must register a business with the Accounting and Corporate Regulatory Authority (ACRA), unless you meet the following criteria for exemption:
 
 - You use your full name, as per your NRIC, as your business name
 - You and your partner(s) use your full names, as per your NRIC, as your business name
@@ -36,30 +35,16 @@ Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei L
 <a name="business-reg-benefits"></a>
 ### Benefits of registering a business
 
-![Benefits of Registering a Business](/images/start/StartSJ_Overview_RegisteringBenefits.jpg)
+![Start Benefits](/images/start/StartSJ_Overview_RegisteringBenefits.jpg)
 
 There are several benefits of registering a business with ACRA. Here are some of them:
 
-- <b>Legitimacy:</b> The public can easily verify information about your business and its owners. It also makes it easier for customers to identify, find and transact with your business.
-- <b>Access:</b>  Your business gets access to Government funding, such as Enterprise Singapore grants. You also get to participate in government tenders and secure intellectual property or patents for new products and technology.
+- The public can easily verify information about your business and its owners
+- The public can easily identify, find and transact with your business
+- You get to participate in government tenders and secure intellectual property or patents for new products and technology
+- Your business gets access to Government funding, such as Enterprise Singapore grants
 
-In addition, if you incorporate a company or set up a limited liability partnership, you enjoy:
-
-- <b>Limited liability:</b> Your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
-
-Limited liability does not apply to a sole proprietorship or partnership.
-
-<hr>
-<a name="small-scale-home-biz"></a>
-### Carrying out a small-scale business from home
-
-![Small-Scale Business from Home](/images/start/StartSJ_Overview_HBB.jpg)
-
-If you are thinking of starting a small-scale business from home, here’s a step-by-step guide to help you.
-
-Do note that Housing Development Board (HDB) flats and private residential properties are intended for residential use, and there are conditions and guidelines that need to be followed. Most importantly, the property must still be used for residential purposes and the business activity must be kept at a small scale to avoid causing disamenities to your neighbours.
-
-{% include panels-featurelink.html panels=site.data.hbb_links %}
+In addition, if you incorporate a company or set up a limited liability partnership (instead of registering a sole proprietorship or partnership), your personal and business finances are kept separate. This means that in the event that your business is sued, your personal liabilities are limited and you do not risk losing your personal assets.
 
 <hr>
 <a name="start-biz-key-steps"></a>
@@ -67,9 +52,9 @@ Do note that Housing Development Board (HDB) flats and private residential prope
 
 Now that you know whether to register the business, here are 6 key steps to guide you:
 
-{% include panels-featurelink.html panels=site.data.startbiz_links %}
+{% include panels.html panels=site.data.startbiz_links %}
 
-After you've taken these steps, find out what you can do next to continue running and growing your business with these [next steps](/start-a-business/hire-employees/?src=startup_guide).
+After you've taken these steps, find out what you can do next to continue running and growing your business [here](/start-a-business/hire-employees/?src=startup_guide).
 
 <hr>
 <a name="start-biz-setup-cost"></a>
