@@ -48,6 +48,14 @@ links:
         url: /safemanagement/general/
       - title: Sector-specific Requirements
         url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Sector-Specific Support
+        url: /supportschemes/fnbsupport/
       - title: FAQ
         url: /covid-19-faqs/
   - title: e-Services
