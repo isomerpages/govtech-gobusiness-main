@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Process-Payments-SSF-2'  target='_blank' rel='noopener'>1. WSQ Process Payments</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Analyse-Service-Quality-Customer-Satisfaction-Develop-Service-Recovery-Framework-SFw-2'  target='_blank' rel='noopener'>2. Analyse Service Quality & Customer Satisfaction to Develop Service Recovery Framework</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Service-Challenges-Level-5-Asynchronous-Synchronous-elearning'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2017501169'  target='_blank' rel='noopener'>1. After Sales Service</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019503847'  target='_blank' rel='noopener'>2. Analyse Service Quality and Customer Satisfaction to Develop Service Recovery Framework</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021005081'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
 
 ## Pre-Approved Solutions
 
@@ -26,14 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1019' target='_blank'>EasyBus Version 2.0</a><br></td>
-<td>TrustyTech Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1136' target='_blank'>Visual Optical Retail Management System Version 8</a><br></td>
-<td>Frontwave Software Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1176' target='_blank'>Frontwave Cloud Version 8</a><br></td>
@@ -58,10 +50,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Octopus Retail Solution</a><br></td>
 <td>Octopus Retail Management Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1723' target='_blank'>BOTG Version 1.0</a><br></td>
-<td>ANTSCOLONY PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1879' target='_blank'>LFSUITE Version 6.0</a><br></td>
@@ -98,6 +86,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3302' target='_blank'>BIZ POS VER 3.5</a><br></td>
 <td>Coobiz IT Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3330' target='_blank'>VEND Pro Advanced Retail Management System Version 8</a><br></td>
+<td>EISOL Pte Ltd</td>
 </tr>
 </table>
 

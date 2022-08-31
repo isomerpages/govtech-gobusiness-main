@@ -12,36 +12,20 @@ Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020001685'  target='_blank' rel='noopener'>1. Customer Experience Innovation (SF-Supervisor)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020000427'  target='_blank' rel='noopener'>3. Adapt to Change - Digitalization for Hawkers</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution976' target='_blank'>Kiosk  & BYOD</a><br></td>
-<td>Aigens Technology (Singapore) Pte. Ltd. </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution981' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
-<td>AZ DIGITAL PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution991' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0</a><br></td>
-<td>iCHEF SG PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution996' target='_blank'>Dining Butler system </a><br></td>
-<td>Singapore Dining Butler Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1134' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0</a><br></td>
-<td>Aptsys Technology Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1139' target='_blank'>LFSuite Version 6.0</a><br></td>
-<td>LEVELFIVE SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br></td>
@@ -142,6 +126,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3292' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3333' target='_blank'>LFSuite</a><br></td>
+<td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 </table>
 

@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Data-Analytics-Business-Professionals'  target='_blank' rel='noopener'>1. Data Analytics for Business Professionals </a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Statistical-Process-Control-SPC-Manufacturing-2'  target='_blank' rel='noopener'>2. Statistical Process Control (SPC) in Manufacturing</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Manage-Quality-Systems-Processes-3'  target='_blank' rel='noopener'>3. Manage Quality System and Processes</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020513643'  target='_blank' rel='noopener'>1. Data Analytics for Business Professionals</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020503771'  target='_blank' rel='noopener'>2. Statistical Process Control (SPC) in Manufacturing</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2011500910'  target='_blank' rel='noopener'>3. Manage Quality Systems and Processes</a><br>
 
 ## Pre-Approved Solutions
 
