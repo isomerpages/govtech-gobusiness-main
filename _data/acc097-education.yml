@@ -1,10 +1,50 @@
 accordion:
-  - title: What are the safe management measures for tuition and enrichment?
+  - title: What are the safe management measures that should be implemented for tuition and enrichment centres that conduct on-site instruction?
     content: |
-      Safe management measures for tuition and enrichment are aligned with national guidelines available at [Ministry of Health's website](http://moh.gov.sg/covid-19){:target="_blank"}{:rel="noopener"}.
+      Centres that continue on-site instruction are required to abide by the nationwide safe management measures (SMMs) for workplaces. More information can be found [on the Ministry of Manpower's website](https://www.mom.gov.sg/covid-19){:target="_blank"}{:rel="noopener"}.
 
-      Centres that continue on-site instructions are required to abide by the nationwide safe management measures for workplaces. More information can be found on [Ministry of Manpower's website](http://mom.gov.sg/covid-19){:target="_blank"}{:rel="noopener"}.
+      **[With effect from 26 April 2022]** All centres conducting on-site instruction must observe the following:
 
-      Centres must also abide by other sector-specific safe management measures available on [GoBusiness' website](/covid/). 
+      a. **For <u>indoor</u> classes, masks must be worn as a default at all times**, except for persons allowed to use face shields instead of masks (e.g., persons with health conditions resulting in breathing/medical difficulties when a mask is worn for a prolonged period). Instructors are expected to wear a surgical mask or reusable masks of equivalent effectiveness at all times
+      
+      b. For <u>outdoor</u> classes (i.e., held in open spaces), individuals may choose to wear masks for personal protection and to protect others, especially in crowded areas. 
 
-      Prevailing circulars issued by the Government, and the latest guidance on improving ventilation and indoor air quality in buildings can be found on [National Environment Agency's website](http://nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/guidance-on-improving-ventilation-and-indoor-air-quality-in-buildings-amid-the-covid-19-situation){:target="_blank"}{:rel="noopener"}. 
+      Some types of classes may have additional SMMs: 
+
+      a. For all sport or physical activity classes, as well as outdoor dance classes, please refer to the advisory issued by [Sport Singapore](https://www.sportsingapore.gov.sg/COVID19/Safe-Management-Measures){:target="_blank"}{:rel="noopener"}.
+
+      b.	For indoor dance classes, singing, the playing of instruments that require the intentional expulsion of air (e.g., wind/brass instruments), voice training, and speech and drama classes, please refer to the advisory issued by the [National Arts Council](https://www.nac.gov.sg/support/covid-19/safe-management-measures-smms/latest-updated-smms-for-arts-and-culture-stakeholders){:target="_blank"}{:rel="noopener"}.
+
+      Centres must also abide by other sector-specific SMMs available on the [GoBusiness website](/safemanagement/sector/), prevailing circulars issued by the Government, and the latest guidance on improving ventilation and indoor air quality in buildings on the [NEA website](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/guidance-on-improving-ventilation-and-indoor-air-quality-in-buildings-amid-the-covid-19-situation){:target="_blank"}{:rel="noopener"}.
+     
+  - title: What are the safe management measures that should be implemented for in-person lessons operating out of private residences?
+    content: |
+      **[With effect from 26 April 2022]** Individuals who visit private residences to provide tuition and enrichment are advised to only visit other residences if they are fully vaccinated, so as to protect those who are unvaccinated from exposure to the virus. 
+
+      In addition, home ventilation should be improved by opening doors and windows. Fans can be used to promote air circulation when needed.
+
+  - title: Will tuition and enrichment teachers be allowed to remove their masks during language/ literacy lessons?
+    content: |
+      Tuition and enrichment teachers are expected to wear surgical masks or reusable masks of equivalent effectiveness at all times while indoors. 
+
+  - title: Are private schools, including tuition and enrichment centres, allowed to hold year-end concerts or performances on their premises?
+    content: |
+      Tuition and enrichment centres may hold live performances (e.g., music concerts or drama performance), subject to adherence to safe management measures as outlined in the advisory issued by the [National Arts Council](https://www.nac.gov.sg/support/covid-19/safe-management-measures-smms/latest-updated-smms-for-arts-and-culture-stakeholders){:target="_blank"}{:rel="noopener"}. MOE's approval is not required for performances.
+
+  - title: Will the TraceTogether-only SafeEntry system and the SafeEntry Gateway Device (SEGW) be implemented for tuition, enrichment centres and SSG-funded training providers?
+    content: |
+      Tuition and enrichment centres will no longer need to implement SafeEntry from 26 April 2022. More information is available at [https://www.safeentry.gov.sg](https://www.safeentry.gov.sg){:target="_blank"}{:rel="noopener"}.
+
+  - title: Will private tutors providing in-person classes operating out of private residences be required to implement the TraceTogether-only SafeEntry system?
+    content: |
+      As with tuition and enrichment centres (see Q5), private tutors providing in-person classes operating out of private residences will no longer need to implement TraceTogether-only SafeEntry from 26 April 2022.
+
+  - title: Can private tuition/enrichment classes and training sessions provide food and drinks to students?
+    content: |
+      **[With effect from 26 April 2022]** Food and drinks may be provided to students, regardless of vaccination status. There is no need to designate a dining venue within the centre premises. Individuals should otherwise keep their masks on at all times for indoor classes.
+
+  - title: What will happen if a private provider of tuition and enrichment classes does not comply with safe management measures?
+    content: |
+      Tuition and enrichment centres are responsible for ensuring that all safe management measures are implemented in their premises at all times. To ensure compliance, inspectors from MOE will be conducting inspections to check on the proper implementation of the SMMs. **Under the COVID-19 (Temporary Measures) Act, first-time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. For subsequent offences, they may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.**
+
+      We strongly urge all private providers to exercise social responsibility, and to abide by the Safe Management Measures.
