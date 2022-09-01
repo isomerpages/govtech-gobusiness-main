@@ -13,13 +13,9 @@ Heat pump technology
 ### Pre-Approved Equipment Brands and Models
 
 - Electrolux - EDH803Q7WB
-
 - Electrolux - EDH804H3WB
-
 - Electrolux - EDH804H5WB
-
 - Electrolux - EDH903R9WB
-
 
 ### Mode and Schedule of Payment 
 
