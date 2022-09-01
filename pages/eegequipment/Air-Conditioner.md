@@ -134,7 +134,6 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 - Toshiba - RAV-GE4201AP-SG
 
-</table>
 
 ### Mode and Schedule of Payment 
 

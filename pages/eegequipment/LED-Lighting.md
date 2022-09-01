@@ -2512,7 +2512,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 
 - VIVE - VI-UFO-15WESWW
 
-</table>
 
 ### Mode and Schedule of Payment 
 

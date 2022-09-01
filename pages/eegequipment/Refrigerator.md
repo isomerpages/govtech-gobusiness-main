@@ -934,7 +934,6 @@ Commercial refrigerator: Inverter technology
 
 - Whirlpool - TM500 VCC UI BL
 
-</table>
 
 ### Mode and Schedule of Payment 
 

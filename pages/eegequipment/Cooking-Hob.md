@@ -146,7 +146,6 @@ Sia-Huat - (04-003-00255)
 
 - SmartChef - BT-700D3T
 
-</table>
 
 ### Mode and Schedule of Payment 
 

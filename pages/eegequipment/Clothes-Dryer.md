@@ -20,7 +20,6 @@ Heat pump technology
 
 - Electrolux - EDH903R9WB
 
-</table>
 
 ### Mode and Schedule of Payment 
 
