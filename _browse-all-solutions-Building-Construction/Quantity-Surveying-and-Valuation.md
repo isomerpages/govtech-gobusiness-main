@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Building and Construction Authority (BCA).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021001961'  target='_blank' rel='noopener'>1. Building Information Modelling BIM Basic for Quantity Surveying</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021004040'  target='_blank' rel='noopener'>2. Contract Administration</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021004788'  target='_blank' rel='noopener'>3. Smart Outcomes Contract Management and Digitalisation</a><br>
+
 ## Pre-Approved Solutions
 
 <table>

@@ -12,6 +12,14 @@ Up to 70% (80% for Retail sector)  for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021003549'  target='_blank' rel='noopener'>1. E-commerce and E-commerce Campaigns </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021009012'  target='_blank' rel='noopener'>2. Social Commerce Fundamentals</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2017500393'  target='_blank' rel='noopener'>3. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -138,6 +146,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3327' target='_blank'>Corsiva Lab E-Commerce Website Development</a><br></td>
 <td>Corsiva Lab Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3352' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
+<td>Simpliify Pte Ltd</td>
 </tr>
 </table>
 
