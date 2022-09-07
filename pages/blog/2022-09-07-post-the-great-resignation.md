@@ -1,6 +1,6 @@
 ---
 layout: gobusiness-blog-post
-title: 3 ways to combat the Great Resignation
+title: Three ways to combat the Great Resignation
 permalink: /gobusiness-blog/tgr
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
