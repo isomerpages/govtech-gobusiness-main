@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Building and Construction Authority (BCA).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2022014140'  target='_blank' rel='noopener'>1. Digital Workplace: Business Process and Workflow Automation</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019501631'  target='_blank' rel='noopener'>2. Automate for Productivity </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020506177'  target='_blank' rel='noopener'>3. Perform Online Collaboration</a><br>
+
 ## Pre-Approved Solutions
 
 <table>

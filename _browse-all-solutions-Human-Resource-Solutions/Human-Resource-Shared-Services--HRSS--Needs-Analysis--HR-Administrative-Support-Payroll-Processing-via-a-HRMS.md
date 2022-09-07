@@ -3,7 +3,7 @@ title: 'Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative 
 permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS
 ---
 
-## Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support Payroll Processing via a HRMS
+## Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS
 ## Overview
 
 **Support Level and Conditions**

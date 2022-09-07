@@ -64,7 +64,7 @@ ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs 
 
 ## Vendor Information
 
- Company name:Apscom Solutions Pte Ltd<br>Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
+ Company Name: Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com<br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
