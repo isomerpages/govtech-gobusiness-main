@@ -1,9 +1,9 @@
 ---
 title: 'E-loyalty Marketing Automation'
-permalink: /browse-all-solutions-Cyber-Security-solutions/E-loyalty-Marketing-Automation
+permalink: /browse-all-solutions-ERP-and-Standalone-solutions/E-loyalty-Marketing-Automation
 ---
 
-## E-loyalty Marketing Automation
+## E-loyalty & Marketing Automation
 ## Overview
 
 **Support Level and Conditions**
