@@ -103,4 +103,19 @@
   image: /images/blog/Dashboard Thumbnail.jpg
   alt: GoBusiness Dashboard Register a business
   date: 2022-08-16
+- tag: Behind the Business
+  title: 'Digitalising tradition: The story of Sing Swee Kee Chicken Rice'
+  body: One eatery's story of having no online presence, to creating a thriving digital arm during COVID-19.
+  link: /gobusiness-blog/ssk
+  image: /images/blog/ssk Thumbnail.png
+  alt: Sing Swee Kee Chicken Rice
+  date: 2022-09-07
+- tag: Business Tips & Tricks
+  title: Three ways to combat the Great Resignation 
+  body: Find out how you can improve employee satisfaction and retention amid The Great Resignation.
+  link: /gobusiness-blog/tgr
+  image: /images/blog/TGR Thumbnail.jpg
+  alt: he Great Resignation employee retention
+  date: 2022-09-07
 
+  
