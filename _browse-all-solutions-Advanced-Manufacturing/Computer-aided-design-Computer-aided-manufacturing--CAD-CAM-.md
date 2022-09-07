@@ -3,7 +3,7 @@ title: 'Computer-aided design Computer-aided manufacturing (CAD/CAM)'
 permalink: /browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-
 ---
 
-## Computer-aided design & Computer-aided manufacturing (CAD/CAM)
+## Computer-aided design Computer-aided manufacturing (CAD/CAM)
 ## Overview
 
 **Support Level and Conditions**
