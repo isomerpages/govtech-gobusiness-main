@@ -16,9 +16,9 @@ This solution is supported by Monetary Authority of Singapore (MAS).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504277'  target='_blank' rel='noopener'>1. Analyse risk Management data through the effective use of risk tools</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020501679'  target='_blank' rel='noopener'>2. The Financial Potential and Risks of New Business Ideas</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019503022'  target='_blank' rel='noopener'>3. Contingency Management (Assess and Manage Security Risk Control Measures)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504277'  target='_blank' rel='noopener'>1. Analyse risk Management data through the effective use of risk tools</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020501679'  target='_blank' rel='noopener'>2. The Financial Potential and Risks of New Business Ideas</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503022'  target='_blank' rel='noopener'>3. Contingency Management (Assess and Manage Security Risk Control Measures)</a><br>
 
 ## Pre-Approved Solutions
 
