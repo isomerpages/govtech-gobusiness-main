@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2017501169'  target='_blank' rel='noopener'>1. After Sales Service</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503847'  target='_blank' rel='noopener'>2. Analyse Service Quality and Customer Satisfaction to Develop Service Recovery Framework</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021005081'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2017501169'  target='_blank' rel='noopener'>1. After Sales Service</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019503847'  target='_blank' rel='noopener'>2. Analyse Service Quality and Customer Satisfaction to Develop Service Recovery Framework</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021005081'  target='_blank' rel='noopener'>3. Service Challenges (Level 5)</a><br>
 
 ## Pre-Approved Solutions
 
@@ -90,10 +90,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3330' target='_blank'>VEND Pro Advanced Retail Management System Version 8</a><br></td>
 <td>EISOL Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3377' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
-<td>Suntoyo Technology Pte Ltd</td>
 </tr>
 </table>
 

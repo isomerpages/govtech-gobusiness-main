@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505675'  target='_blank' rel='noopener'>1. WSQ: Inventory Control (Perform Stock Control)</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018500942'  target='_blank' rel='noopener'>2. Evaluate and Interpret Financial Reports</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2013500351'  target='_blank' rel='noopener'>3. Manage Budgeting and Forecasting Processes for the Business Unit</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505675'  target='_blank' rel='noopener'>1. WSQ: Inventory Control (Perform Stock Control)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018500942'  target='_blank' rel='noopener'>2. Evaluate and Interpret Financial Reports</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2013500351'  target='_blank' rel='noopener'>3. Manage Budgeting and Forecasting Processes for the Business Unit</a><br>
 
 ## Pre-Approved Solutions
 

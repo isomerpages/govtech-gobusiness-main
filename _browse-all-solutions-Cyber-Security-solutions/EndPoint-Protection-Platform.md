@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504273'  target='_blank' rel='noopener'>1. NICF - Cyber Security Incident Handling Response</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020504595'  target='_blank' rel='noopener'>2. Big Data Analytics and AI/Machine Learning with Python Coding/Programming</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>3. Fundamentals of Cyber Security</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504273'  target='_blank' rel='noopener'>1. NICF - Cyber Security Incident Handling Response</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020504595'  target='_blank' rel='noopener'>2. Big Data Analytics and AI/Machine Learning with Python Coding/Programming</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>3. Fundamentals of Cyber Security</a><br>
 
 ## Pre-Approved Solutions
 

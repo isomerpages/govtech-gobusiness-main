@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020001685'  target='_blank' rel='noopener'>1. Customer Experience Innovation (SF-Supervisor)</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020000427'  target='_blank' rel='noopener'>3. Adapt to Change - Digitalization for Hawkers</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020001685'  target='_blank' rel='noopener'>1. Customer Experience Innovation (SF-Supervisor)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020000427'  target='_blank' rel='noopener'>3. Adapt to Change - Digitalization for Hawkers</a><br>
 
 ## Pre-Approved Solutions
 
@@ -130,10 +130,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3333' target='_blank'>LFSuite</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3361' target='_blank'>Sapaad Version 601</a><br></td>
-<td>Sapaad Pte Ltd</td>
 </tr>
 </table>
 

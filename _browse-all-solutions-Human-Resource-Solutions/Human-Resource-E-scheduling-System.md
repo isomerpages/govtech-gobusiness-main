@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021007503'  target='_blank' rel='noopener'>1. Introduction to Positive Psychology Coaching at the Workplace</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503403'  target='_blank' rel='noopener'>2. Develop Human Resource (HR) Policy Documents</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504246'  target='_blank' rel='noopener'>3. Strength in Diversity</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021007503'  target='_blank' rel='noopener'>1. Introduction to Positive Psychology Coaching at the Workplace</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019503403'  target='_blank' rel='noopener'>2. Develop Human Resource (HR) Policy Documents</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504246'  target='_blank' rel='noopener'>3. Strength in Diversity</a><br>
 
 ## Pre-Approved Solutions
 
