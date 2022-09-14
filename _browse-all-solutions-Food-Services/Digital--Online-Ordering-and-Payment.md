@@ -135,6 +135,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3361' target='_blank'>Sapaad Version 601</a><br></td>
 <td>Sapaad Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3366' target='_blank'>Dining Butler Version 1.3</a><br></td>
+<td>Singapore Dining Butler Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
