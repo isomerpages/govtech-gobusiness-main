@@ -255,6 +255,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3322' target='_blank'>ABSS Premier Version 23</a><br></td>
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3371' target='_blank'>Autocount Accounting System</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

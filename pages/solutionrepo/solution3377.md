@@ -64,7 +64,7 @@ Suntoyo POS solution is an all-in-one platform that runs on a professional-grade
 
 ## Vendor Information
 
- 
+ Additional criteria: <br>Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

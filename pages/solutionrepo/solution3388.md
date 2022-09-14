@@ -36,7 +36,7 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 
 ## Vendor Information
 
- 
+ Company name:Websentials Pte Ltd<br>Web URL: www.websentials.net <br>Contact Hotline: 97771362 <br>Contact Email: lionelsim@websentials.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

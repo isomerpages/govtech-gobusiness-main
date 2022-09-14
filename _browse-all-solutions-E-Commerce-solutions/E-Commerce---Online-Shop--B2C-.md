@@ -152,6 +152,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Simpliify Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3356' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
+<td>PIXEL MECHANICS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3376' target='_blank'>DST E-Commerce</a><br></td>
+<td>DST Advertising (Singapore) Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3388' target='_blank'>Websentials Ecommerce Web Development - Customised eCommerce Package</a><br></td>
 <td>Websentials Pte Ltd</td>
 </tr>

@@ -36,7 +36,7 @@ Digital transformation is key to strive in today's competitive market. teamWork 
 
 ## Vendor Information
 
- 
+ Company name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
