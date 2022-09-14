@@ -25,7 +25,7 @@ Cost of equipment capped at $30,000 per unit.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
-<td style='padding: 10px;'>$30,000</td>
+<td style='padding: 10px;'>$30,000.00</td>
 <td style='padding: 10px;'>Mandatory specifications:<br>- Installed with software for inventory data input.<br>- Withstand rough handling, meet min IP54 standards.<br>- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>- Battery with min 3 hrs standby.<br>- Wireless LAN/Bluetooth/cellular connectivity.<br>- Support the common operating system e.g. Android, Windows.<br>- Installation and Maintenance cost are not supported.</td>
 </tr>
 </table>

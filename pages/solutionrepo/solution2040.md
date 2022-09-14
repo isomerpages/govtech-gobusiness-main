@@ -31,7 +31,7 @@ Cost of equipment capped at $28,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
-<td style='padding: 10px;'>$28,000</td>
+<td style='padding: 10px;'>$28,000.00</td>
 <td style='padding: 10px;'>Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>Support only hardware and software.<br></td>
 </tr>
 </table>
