@@ -23,7 +23,7 @@ Cost of equipment capped at $12,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
-<td style='padding: 10px;'>$12,500</td>
+<td style='padding: 10px;'>$12,500.00</td>
 <td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
 </tr>
 </table>

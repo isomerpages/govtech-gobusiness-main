@@ -21,7 +21,7 @@ A conveyor system that automates farming processes such as production, feeding, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>

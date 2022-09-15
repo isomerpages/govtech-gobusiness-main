@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021003155'  target='_blank' rel='noopener'>1. Develop Awareness for Cybersecurity Threats</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>2. Fundamentals of Cyber Security</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018501034'  target='_blank' rel='noopener'>3. Digital Confidence for Cyber Security & Internet of Things</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021003155'  target='_blank' rel='noopener'>1. Develop Awareness for Cybersecurity Threats</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>2. Fundamentals of Cyber Security</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018501034'  target='_blank' rel='noopener'>3. Digital Confidence for Cyber Security & Internet of Things</a><br>
 
 ## Pre-Approved Solutions
 

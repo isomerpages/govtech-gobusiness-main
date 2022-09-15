@@ -23,7 +23,7 @@ Cost of equipment capped at $37,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Augmented Reality Welding Training Solution</td>
-<td style='padding: 10px;'>$37,500</td>
+<td style='padding: 10px;'>$37,500.00</td>
 <td style='padding: 10px;'>This solution uses AR technology to simulate welding processes on different test pieces<br>Optional components: accessories e.g. work stand to secure workpiece, cables, material license</td>
 </tr>
 </table>

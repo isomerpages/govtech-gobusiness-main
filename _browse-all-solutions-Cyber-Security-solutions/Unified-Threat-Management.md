@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2015500905'  target='_blank' rel='noopener'>1. Demonstrate Secure Use of IT</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>2. Fundamentals of Cyber Security</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021010360'  target='_blank' rel='noopener'>3. NICF - Certified Network Defender</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500905'  target='_blank' rel='noopener'>1. Demonstrate Secure Use of IT</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>2. Fundamentals of Cyber Security</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021010360'  target='_blank' rel='noopener'>3. NICF - Certified Network Defender</a><br>
 
 ## Pre-Approved Solutions
 

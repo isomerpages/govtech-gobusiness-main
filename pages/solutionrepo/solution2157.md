@@ -21,7 +21,7 @@ A machine that mix and fill substrate bags with various nutrients that's necessa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>

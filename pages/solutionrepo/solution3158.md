@@ -25,7 +25,7 @@ Cost of equipment capped at $10,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
-<td style='padding: 10px;'>$10,000</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Digital timer: Each basket is programmed according to its own set timing.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
 </tr>
 </table>

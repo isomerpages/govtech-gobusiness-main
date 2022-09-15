@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019502253'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting-Related Concepts</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021003748'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2016500598'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019502253'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting-Related Concepts</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021003748'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2016500598'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
 
 ## Pre-Approved Solutions
 
@@ -254,6 +254,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3322' target='_blank'>ABSS Premier Version 23</a><br></td>
 <td>Apscom Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3371' target='_blank'>Autocount Accounting System</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
 </tr>
 </table>
 

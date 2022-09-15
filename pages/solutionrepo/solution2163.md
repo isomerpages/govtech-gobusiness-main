@@ -21,7 +21,7 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>

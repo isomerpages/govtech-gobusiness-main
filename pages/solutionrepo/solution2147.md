@@ -21,7 +21,7 @@ A treatment system that results in a final product which is germ-free and allows
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>

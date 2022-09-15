@@ -21,7 +21,7 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>

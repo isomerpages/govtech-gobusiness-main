@@ -23,7 +23,7 @@ Cost of equipment capped at $37,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
-<td style='padding: 10px;'>$37,500</td>
+<td style='padding: 10px;'>$37,500.00</td>
 <td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
 </tr>
 </table>

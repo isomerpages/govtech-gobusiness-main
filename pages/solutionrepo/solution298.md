@@ -25,7 +25,7 @@ Cost of equipment capped at $25,000 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
-<td style='padding: 10px;'>$25,000</td>
+<td style='padding: 10px;'>$25,000.00</td>
 <td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
 </tr>
 </table>
