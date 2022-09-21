@@ -107,6 +107,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3221' target='_blank'>SAP Business One Version 10</a><br></td>
 <td>Integrated Information Systems Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3390' target='_blank'>Sage 300Cloud Version 2022</a><br></td>
+<td>ACSOLV CONSULT PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3405' target='_blank'>Sage 300 Advance Edition</a><br></td>
+<td>The World Management Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

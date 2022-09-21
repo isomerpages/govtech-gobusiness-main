@@ -43,6 +43,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3347' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>SEQUOIA PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3418' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

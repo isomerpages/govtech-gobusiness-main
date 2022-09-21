@@ -59,6 +59,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3093' target='_blank'>TessaCloud DMS</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3410' target='_blank'>Stendard Solution Version 1.7.12</a><br></td>
+<td>YNL 360 Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

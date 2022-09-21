@@ -67,6 +67,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution401' target='_blank'>Combi Oven</a><br></td>
 <td>Others</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3389' target='_blank'>Industrial/Commercial Slicer</a><br></td>
+<td>Others</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -55,6 +55,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3207' target='_blank'>Microsoft 365 Defender</a><br></td>
 <td>ACLOUD PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3413' target='_blank'>Microsoft Email and Endpoint Security Management</a><br></td>
+<td>DATA CONNECT TECHNOLOGIES PRIVATE LIMITED</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

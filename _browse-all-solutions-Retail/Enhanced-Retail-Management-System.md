@@ -95,6 +95,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3377' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
 <td>Suntoyo Technology Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3398' target='_blank'>LFSUITE Version 6</a><br></td>
+<td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
