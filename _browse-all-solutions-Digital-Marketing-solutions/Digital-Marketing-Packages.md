@@ -99,6 +99,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3354' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
 <td>The Little Black Book Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3402' target='_blank'>DM Craft Creative Digital Marketing Packages</a><br></td>
+<td>Craft Creative Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

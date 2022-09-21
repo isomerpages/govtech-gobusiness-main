@@ -259,6 +259,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3371' target='_blank'>Autocount Accounting System</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3395' target='_blank'>DNS - Xero Cloud Accounting Software</a><br></td>
+<td>D Next Stop Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
