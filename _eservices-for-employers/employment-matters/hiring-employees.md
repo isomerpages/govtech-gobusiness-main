@@ -42,7 +42,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 
 **Ministry of Manpower (MOM)**
 
-- [Check employment pass application status](https://eponline.mom.gov.sg/epol/PEPOLUAMT012DisplayAction.do){:target="_blank"}{:rel="noopener"}
+- [Check employment pass application status](https://www.mom.gov.sg/eservices/services/check-work-pass-and-application-status){:target="_blank"}{:rel="noopener"}
   <br>Check the status of your application for an Employment Pass, Personalised Employment Pass, S Pass, Dependant's Pass, Long Term Visit Pass or Training Employment Pass.
 
 - [Apply, issue or cancel employment pass](https://www.mom.gov.sg/eservices/services/apply-for-a-new-ep-and-s-pass){:target="_blank"}{:rel="noopener"}
