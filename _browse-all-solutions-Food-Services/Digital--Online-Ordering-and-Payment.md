@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br></td>
-<td>TabSquare Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1299' target='_blank'>ACE e-commerce solution</a><br></td>
-<td>C.O Enterprise Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1441' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
 <td>EISOL Pte Ltd</td>
 </tr>
@@ -138,6 +130,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3366' target='_blank'>Dining Butler Version 1.3</a><br></td>
 <td>Singapore Dining Butler Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3437' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
+<td>AZ Digital Pte Ltd</td>
 </tr>
 </table>
 

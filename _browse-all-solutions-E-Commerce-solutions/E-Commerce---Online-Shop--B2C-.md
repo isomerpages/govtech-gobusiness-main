@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1243' target='_blank'>Magento and Woo Commerce Solutions for Retail</a><br></td>
-<td>Verz Design Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1390' target='_blank'>3D Omni Commerce Version 1.03</a><br></td>
 <td>3D BRAND AGENCY PTE LTD</td>
 </tr>
@@ -162,6 +158,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3388' target='_blank'>Websentials Ecommerce Web Development - Customised eCommerce Package</a><br></td>
 <td>Websentials Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3453' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
+<td>Verz Design Pte Ltd</td>
 </tr>
 </table>
 

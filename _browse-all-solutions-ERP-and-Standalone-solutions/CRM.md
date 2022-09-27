@@ -28,18 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1167' target='_blank'>Carddio Version 1 </a><br></td>
-<td>Carddio Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1286' target='_blank'>Venue management software Version 2.0 - Regular</a><br></td>
-<td>VENUERIFIC PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1345' target='_blank'>Trueblu CRM Version 3.2</a><br></td>
-<td>Active Interactions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1511' target='_blank'>Salesforce Sales Cloud Professional Edition</a><br></td>
 <td>SALESFORCE.COM SINGAPORE PTE. LTD.</td>
 </tr>

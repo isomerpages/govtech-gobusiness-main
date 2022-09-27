@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2180' target='_blank'>EndPoint Standard</a><br></td>
-<td>LGA Telecom Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2268' target='_blank'>TRENDMICRO ENDPOINT PROTECTION</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>

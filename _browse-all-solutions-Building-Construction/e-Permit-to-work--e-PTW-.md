@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1152' target='_blank'>Novade</a><br></td>
-<td>CSG Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3423' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
