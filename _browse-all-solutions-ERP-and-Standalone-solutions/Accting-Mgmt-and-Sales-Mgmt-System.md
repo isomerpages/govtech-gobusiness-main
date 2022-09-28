@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1157' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>Abundant Accounting Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1162' target='_blank'>Xero accounting software</a><br></td>
-<td>ASL Advisory Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1434' target='_blank'>SQL Account Version 5</a><br></td>
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
@@ -262,6 +254,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3395' target='_blank'>DNS - Xero Cloud Accounting Software</a><br></td>
 <td>D Next Stop Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3432' target='_blank'>ABA - Quickbooks Online</a><br></td>
+<td>Abundant Accounting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3447' target='_blank'>North Trust Xero Solution</a><br></td>
+<td>NORTH TRUST PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3452' target='_blank'>Realtimme Cloud Version 3.0.0</a><br></td>
+<td>Realtimme IT Consultancy Pte Ltd</td>
 </tr>
 </table>
 

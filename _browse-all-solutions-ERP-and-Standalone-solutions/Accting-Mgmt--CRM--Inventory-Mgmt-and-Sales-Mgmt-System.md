@@ -55,6 +55,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2958' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3459' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td>AFON Systems Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

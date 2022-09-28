@@ -28,20 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1178' target='_blank'>Madsoft Solutions IAF Version 320</a><br></td>
-<td>Madsoft Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1238' target='_blank'>Globe3 ERP V5.6</a><br></td>
 <td>TNO Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1355' target='_blank'>Autocount Accounting Software Version 2.0</a><br></td>
-<td>I SOFT BUSINESS SOLUTIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1360' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
-<td>USER BASIC SOFTWARE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1397' target='_blank'>Microsoft Dynamics 365 Business Central Version SAAS</a><br></td>

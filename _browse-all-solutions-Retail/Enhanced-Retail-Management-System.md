@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management-System
 
 **Support Level and Conditions**
 
-Up to 80% for SMEs, N.A. for non-SMEs
+Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,32 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1176' target='_blank'>Frontwave Cloud Version 8</a><br></td>
-<td>Frontwave Software Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1183' target='_blank'>MEGAPOS </a><br></td>
-<td>Megasafe Technology Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1188' target='_blank'>Shortcuts Version 8</a><br></td>
-<td>Serixx Business Solutions</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1264' target='_blank'>MyRetailer Plus Version 4</a><br></td>
-<td>DCS Synthesis Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1351' target='_blank'>FingerBooth POS System Version 1 </a><br></td>
-<td>BIG MOUTH MARKETING PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Octopus Retail Solution</a><br></td>
 <td>Octopus Retail Management Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1879' target='_blank'>LFSUITE Version 6.0</a><br></td>
-<td>LEVELFIVE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2757' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>

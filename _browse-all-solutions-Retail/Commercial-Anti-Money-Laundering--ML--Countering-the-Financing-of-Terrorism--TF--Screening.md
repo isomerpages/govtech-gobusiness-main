@@ -28,12 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1310' target='_blank'>SentroWeb </a><br></td>
-<td>Ingenique Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1393' target='_blank'>Artemis</a><br></td>
 <td>Cynopsis Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3442' target='_blank'>SentroWeb Version 3.0.0</a><br></td>
+<td>Ingenique Solutions Pte Ltd</td>
 </tr>
 </table>
 

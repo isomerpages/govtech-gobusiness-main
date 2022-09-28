@@ -47,6 +47,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution158' target='_blank'>Vertical Carousel</a><br></td>
 <td>Others</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3469' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
+<td></td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

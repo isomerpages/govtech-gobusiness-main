@@ -103,6 +103,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3402' target='_blank'>DM Craft Creative Digital Marketing Packages</a><br></td>
 <td>Craft Creative Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3458' target='_blank'>DM GENIA SEMANTIC SEO</a><br></td>
+<td>THE GENIA PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

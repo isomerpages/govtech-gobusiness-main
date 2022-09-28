@@ -28,22 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1281' target='_blank'>V3Nity-FMS Fleet Management System Version 3 </a><br></td>
-<td>V3 Smart Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1294' target='_blank'>Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management </a><br></td>
-<td>Ascent Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1300' target='_blank'>Cartrack Fleet Management Version 2</a><br></td>
-<td>Cartrack Technologies South East Asia Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1305' target='_blank'>Vehicle Support System</a><br></td>
-<td>GRID PLUS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1458' target='_blank'>Automotive Tracking System</a><br></td>
 <td>Track 365 Pte Ltd</td>
 </tr>
@@ -70,6 +54,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3301' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>Pivotal Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3464' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
+<td>FocusGuard Pte Ltd</td>
 </tr>
 </table>
 

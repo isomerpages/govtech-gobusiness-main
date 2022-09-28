@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br></td>
-<td>PEOPLE CENTRAL PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1346' target='_blank'>SMARTHRMS Version 1</a><br></td>
-<td>AVELOGIC PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>Swingvy</a><br></td>
 <td>Swingvy Pte Ltd </td>
 </tr>
@@ -50,10 +42,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2370' target='_blank'>BIPO Human Resource Management System</a><br></td>
 <td>BIPO Service Singapore Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2395' target='_blank'>SmartCursors Human Resource Management System (HRMS)</a><br></td>
-<td>SMARTCURSORS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2682' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br></td>

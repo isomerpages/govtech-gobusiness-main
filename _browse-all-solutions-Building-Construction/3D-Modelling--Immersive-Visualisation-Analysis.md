@@ -28,28 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1212' target='_blank'>BIMAGE - Autodesk AEC Collection</a><br></td>
-<td>BIMAGE Consulting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1217' target='_blank'>CSG - Autodesk AEC Collection</a><br></td>
-<td>CSG Software Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1219' target='_blank'>INNOCOM - AUTODESK AEC COLLECTION</a><br></td>
-<td>INNOCOM TECHNOLOGIES PTE LTD </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1221' target='_blank'>VRcollab Coordinate</a><br></td>
-<td>VRCOLLAB PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1536' target='_blank'>Tekla Solutions</a><br></td>
 <td>Trimble Solutions SEA Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2407' target='_blank'>ETABS Ultimate Suite Version 19</a><br></td>
-<td>OTTE INTERNATIONAL PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2462' target='_blank'>SAFE Post-Tension Suite</a><br></td>

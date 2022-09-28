@@ -31,6 +31,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution160' target='_blank'>Vertical Carousel</a><br></td>
 <td>Others</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3470' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
+<td></td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1171' target='_blank'>(eScheduling) QuickHR</a><br></td>
-<td>Enable Business Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1405' target='_blank'>StaffAny Version 1.0</a><br></td>
 <td>Staffany Private Limited</td>
 </tr>

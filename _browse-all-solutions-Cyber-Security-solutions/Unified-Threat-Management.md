@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1276' target='_blank'>Managed Firewall Solution</a><br></td>
-<td>LGA Telecom Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1800' target='_blank'>Adventus Managed Firewall - Fortinet </a><br></td>
 <td>Adventus Singapore Pte. Ltd.</td>
 </tr>
