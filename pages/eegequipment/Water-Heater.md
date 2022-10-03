@@ -16,7 +16,6 @@ Heat pump technology
 - AO Smith - CAHP-80
 - AO Smith - HPI-40D
 - AO Smith - HPI-50D
-- AO Smith - HPW-60A
 - AO Smith - HPW-80A
 - Asun - Asun-A/H-080L
 - Asun - Asun-C/H-5.0P
