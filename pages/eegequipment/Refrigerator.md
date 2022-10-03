@@ -111,7 +111,6 @@ Commercial refrigerator: Inverter technology
 - Hoshizaki - HR-63A-1
 - Hoshizaki - HR-63AT-1
 - Hoshizaki - HR-75A-1
-- Hoshizaki - HR-75A-1
 - Hoshizaki - HR-75AT-1
 - Hoshizaki - RFT-120SDG-1
 - Hoshizaki - RFT-120SNG-1
@@ -255,6 +254,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - NR-TZ601B
 - Panasonic - NR-YW590Y
 - Panasonic - SRF-K1281A
+- Panasonic - SRF-K1281SB 
 - Panasonic - SRF-K781B
 - Panasonic - SRR-K1281
 - Panasonic - SRR-K781B
