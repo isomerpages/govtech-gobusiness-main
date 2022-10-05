@@ -29,23 +29,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution22' target='_blank'>Automated Tools Management System</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution25' target='_blank'>Autonomous Mobile Robot</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution91' target='_blank'>Probing System</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution102' target='_blank'>Robotic arms</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution158' target='_blank'>Vertical Carousel</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3469' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>

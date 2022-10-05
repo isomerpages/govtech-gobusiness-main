@@ -21,7 +21,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2522' target='_blank'>3D Intraoral Scanner</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 </table>
 

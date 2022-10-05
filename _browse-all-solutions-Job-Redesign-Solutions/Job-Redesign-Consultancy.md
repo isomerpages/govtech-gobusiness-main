@@ -43,6 +43,10 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1832' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
 <td>Ernst & Young Advisory Pte Ltd </td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3511' target='_blank'>Job Redesign Consultancy - BDO Consultants Pte Ltd</a><br></td>
+<td>BDO Consultants Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
