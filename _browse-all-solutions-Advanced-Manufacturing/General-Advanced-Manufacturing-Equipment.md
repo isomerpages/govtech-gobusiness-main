@@ -21,15 +21,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution27' target='_blank'>Autonomous Mobile Robot</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution93' target='_blank'>Probing System</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution160' target='_blank'>Vertical Carousel</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3470' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>

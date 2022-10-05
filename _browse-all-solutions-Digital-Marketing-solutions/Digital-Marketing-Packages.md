@@ -107,6 +107,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3458' target='_blank'>DM GENIA SEMANTIC SEO</a><br></td>
 <td>THE GENIA PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3477' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
+<td>BEST SEO MARKETING PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3492' target='_blank'>DM Verz Design Digital Marketing Package</a><br></td>
+<td>Verz Design Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
