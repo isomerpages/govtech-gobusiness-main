@@ -21,19 +21,19 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution28' target='_blank'>Autonomous Mobile Robot</a><br></td>
-<td></td>
+<td>Others</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution94' target='_blank'>Probing System</a><br></td>
-<td></td>
+<td>Others</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution161' target='_blank'>Vertical Carousel</a><br></td>
-<td></td>
+<td>Others</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution956' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
-<td></td>
+<td>Others</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1288' target='_blank'>Digital Welding Equipment </a><br></td>
