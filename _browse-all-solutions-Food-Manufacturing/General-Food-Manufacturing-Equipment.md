@@ -57,7 +57,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution387' target='_blank'>Dough Sheeter</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution388' target='_blank'>Blast Freezer</a><br></td>
@@ -65,11 +65,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution401' target='_blank'>Combi Oven</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3389' target='_blank'>Industrial/Commercial Slicer</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 </table>
 

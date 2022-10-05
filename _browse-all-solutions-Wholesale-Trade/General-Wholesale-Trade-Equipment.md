@@ -21,7 +21,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution82' target='_blank'>Ozonised Air + Surface Sterilization System</a><br></td>
-<td>Others</td>
+<td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1988' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br></td>
