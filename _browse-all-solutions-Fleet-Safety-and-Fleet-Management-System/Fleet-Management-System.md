@@ -59,6 +59,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3464' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
 <td>FocusGuard Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3497' target='_blank'>Fleet Management Solutions</a><br></td>
+<td>W.L.P CONSULTANTS PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
