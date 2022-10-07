@@ -41,6 +41,6 @@ Below are some government support schemes that you may find useful. This list is
 
 - [NTUC/e2i - SEP Training Support Scheme](https://e2i.com.sg/wp-content/uploads/2020/11/SEP_FAQ_v26_3-Nov-2020.pdf){:target="_blank"}{:rel="noopener"}<br>For Self-Employed Persons (SEPs) to receive training allowance when they attend and complete courses under SkillsFuture series and approved sector-specific training programmes.
 
-- [Workfare WIS Self Employed](https://www.workfare.gov.sg/Pages/WISSelfEmployed.aspx){:target="_blank"}{:rel="noopener"}<br>WIS encourages eligible workers to work and build up their CPF savings for their retirement, housing and healthcare needs, by supplementing their income and retirement savings through cash payments and CPF contributions.
+- [Workfare Income Supplement (WIS) Scheme](https://www.workfare.gov.sg/schemes/workfare-income-supplement/){:target="_blank"}{:rel="noopener"}<br>WIS encourages eligible workers to work and build up their CPF savings for their retirement, housing and healthcare needs, by supplementing their income and retirement savings through cash payments and CPF contributions.
 
 - [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/?src=hbb){:target="_blank"}{:rel="noopener"}<br>The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
