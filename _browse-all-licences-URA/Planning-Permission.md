@@ -8,7 +8,7 @@ third_nav_title: Urban Redevelopment Authority (URA)
 
 Urban Redevelopment Authority (URA)
 
-{% include button.html text="Apply on URA" src="https://www.corenet-ess.gov.sg/ess/" type="primary" %}
+{% include button.html text="Apply on URA" src="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS" type="primary" %}
 
 <H3>Application Details</H3>
 
