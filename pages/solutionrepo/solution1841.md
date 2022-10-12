@@ -1,15 +1,15 @@
 ---
-title: 'Doctor Anywhere Platform'
+title: 'Redoc Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1841
 ---
 
-## Doctor Anywhere Platform
+## Redoc Version 1.0
 
 ## Overview
 
 **Description**
 
-Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management platform. Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights on the performance of your business. Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc (redoc.co)!
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). Th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Doctor Anywhere Platform</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 2 (Up to 10 users)</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 3 (Up to 20 users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 4 (Up to 30 users)</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc Version 1.0 - Package 5 (Up to 40 users)</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). Th
 
 ## Vendor Information
 
- Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.com<br>Contact Hotline: 9278 6055<br>Contact Email: fanny@doctoranywhere.com
+ Company Name: Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

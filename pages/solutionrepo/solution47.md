@@ -1,19 +1,19 @@
 ---
-title: 'Encrusting Machine'
+title: 'Autonomous Material Transportation Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution47
 ---
 
-## Encrusting Machine
+## Autonomous Material Transportation Robot
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
 
-Cost of equipment capped at $25,000 per unit 
+Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
+
+Cost of equipment capped at $37,500 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +24,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Material Transportation Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Mandatory specifications: <br>- Transport materials between points<br>- Manoeuvre safely around obstacles<br>- Min. payload of 100kg<br>- Equipped with a rechargeable battery<br>- Accessories e.g. towing arm, mountable shelf are supportable<br>- Installation and maintenance cost are not supported</td>
 </tr>
 </table>
 

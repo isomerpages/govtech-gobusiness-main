@@ -1,15 +1,15 @@
 ---
-title: 'AxiomSL MAS 610 SaaS version 4'
+title: 'Swingvy'
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 
-## AxiomSL MAS 610 SaaS version 4
+## Swingvy
 
 ## Overview
 
 **Description**
 
-AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+Swingvy is the modern HR platform for small and mid-sized businesses. By seamlessly connecting all HR information, Swingvy automates every administrative work - HR, claims, payroll and benefits - without hassle. Swingvy aims to replace paperwork or spreadsheets and help SMEs to manage all their HR in one place. Swingvy serves over 8,000 companies and has offices in Singapore, Kuala Lumpur, Taiwan and Seoul.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Basic Data Loading)</td>
-<td style='padding: 10px;'>$434,000.00</td>
-<td style='padding: 10px;'>$304,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Core HRMS with Mobile for 10 users</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Standard Data Loading)</td>
-<td style='padding: 10px;'>$532,000.00</td>
-<td style='padding: 10px;'>$402,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Core HRMS with Mobile for 25 users</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AxiomSL MAS 610 SaaS version 4 - Package (Custom Data Loading)</td>
-<td style='padding: 10px;'>$757,000.00</td>
-<td style='padding: 10px;'>$552,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Core HRMS with Mobile for 50 users</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Full HRMS with Mobile for 75 users</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy - Swingvy Full HRMS with Mobile for 100 users</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_Annex_3_CR_wef_28_April_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ AxiomSL (MAS 610/1003) is a cloud-based Regulatory Reporting solution for banks,
 
 ## Vendor Information
 
- Company Name: AxiomSL Pte Ltd<br>Web URL:www.axiomsl.com<br>Contact Hotline: 69557660<br>Contact Email: sdatta@axiomsl.com<br>
+ Company Name: Swingvy Pte Ltd <br>Web URL: http://swingvy.com/ <br><br>Contact Hotline: +6591877655 <br><br>Contact Email: support@swingvy.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

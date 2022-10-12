@@ -1,15 +1,15 @@
 ---
-title: 'Hi-jack Cleaning Machinery'
+title: 'Automated Slaughtering Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
-## Hi-jack Cleaning Machinery
+## Automated Slaughtering Equipment
 
 ## Overview
 
 **Description**
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

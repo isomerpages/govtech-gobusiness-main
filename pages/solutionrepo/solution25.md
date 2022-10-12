@@ -1,37 +1,43 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'Fleet Management Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution25
 ---
 
-## Autonomous Mobile Robot
+## Fleet Management Solutions
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-
-Cost of equipment capped at $37,500 per unit 
+WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Payload modules to lift trolleys Minimum  150kg load<br>- Min. load surface: 720x600mm<br>- 1-1.2m/s driving with spot turning<br>- Battery: Min. 4h, ~8h standby, ~4h charging<br>- Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>- Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WLP_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription or Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg<br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1673' target='_blank'>RetailNext In-Store Analytics Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1696' target='_blank'>RetailNext In-Store Analytics Version 1</a><br></td>
 <td>RetailDDS Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1720' target='_blank'>Intelli-Signage Version 3.1.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1743' target='_blank'>Intelli-Signage Version 3.1.4</a><br></td>
 <td>Anewtech Systems Pte Ltd</td>
 </tr>
 </table>

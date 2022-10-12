@@ -1,17 +1,15 @@
 ---
-title: 'Redoc - Document Management Transaction Records Version 10'
+title: 'Teamcenter Version 13'
 permalink: /productivity-solutions-grant/solutionrepo/solution2716
 ---
 
-## Redoc - Document Management Transaction Records Version 10
+## Teamcenter Version 13
 
 ## Overview
 
 **Description**
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
-
-The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
+Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the leading ICT and Digital Solutions & Services Integrator in ASEAN. Hitachi Sunway specialises in implementing, supporting and providing consultancy for Product Lifecycle Management (PLM) solutions. The Siemens Teamcenter software offering reaches beyond traditional PLM to include more people and processes, and unifies product lifecycle with a digital thread to connect ideation, realization and utilization.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ The platform enables estate agents and salespersons to automate sales process an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 1 (Up to 5 users)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - NX</td>
+<td style='padding: 10px;'>$21,708.00</td>
+<td style='padding: 10px;'>$20,308.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 2 (Up to 10 users)</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - Multi-CAD</td>
+<td style='padding: 10px;'>$29,640.00</td>
+<td style='padding: 10px;'>$28,240.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 3 (Up to 20 users)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - SolidWorks</td>
+<td style='padding: 10px;'>$27,984.00</td>
+<td style='padding: 10px;'>$26,584.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 4 (Up to 30 users)</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - AutoCAD</td>
+<td style='padding: 10px;'>$27,984.00</td>
+<td style='padding: 10px;'>$26,584.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 5 (Up to 40 users)</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - Creo</td>
+<td style='padding: 10px;'>$27,984.00</td>
+<td style='padding: 10px;'>$26,584.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ The platform enables estate agents and salespersons to automate sales process an
 
 ## Vendor Information
 
- Company Name: Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br><br>Contact Hotline: 91801197 <br><br>Contact Email: admin@realestatedoc.co <br><br>
+ Company Name: Hitachi Sunway Information Systems (Singapore) Pte. Ltd.<br>Web URL: https://hitachisunway-solutions.sg <br><br>Contact Hotline: 91053811 <br><br>Contact Email: enquiryplm-sg@hitachi-sunway-is.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

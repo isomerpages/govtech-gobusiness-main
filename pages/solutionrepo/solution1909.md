@@ -1,15 +1,15 @@
 ---
-title: 'Fortinet Fortigate (Next Generation Firewall)'
+title: 'GS BIM collaboration Platform Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1909
 ---
 
-## Fortinet Fortigate (Next Generation Firewall)
+## GS BIM collaboration Platform Version 1
 
 ## Overview
 
 **Description**
 
-AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet FortiGate Next-generation firewalls (NGFW) to build the Cyber Security for SMEs. With the continual work from home arrangement and constantly evolving Cyber security facing the SMEs IT setup and work from home employees, Fortinet is well positioned for SMEs needs as a leader in Gartner Magic Quadrant for Network Firewalls.
+GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update</td>
-<td style='padding: 10px;'>$1,967.00</td>
-<td style='padding: 10px;'>$1,967.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus</td>
+<td style='padding: 10px;'>$6,412.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 100F</td>
-<td style='padding: 10px;'>$4,977.00</td>
-<td style='padding: 10px;'>$4,977.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update</td>
-<td style='padding: 10px;'>$5,477.00</td>
-<td style='padding: 10px;'>$5,477.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 200E</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 
 ## Vendor Information
 
- Company Name: AWECREATION PTE LTD<br>Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
+ Company Name: Graphisoft Asia Ltd<br>Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

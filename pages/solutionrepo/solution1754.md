@@ -1,15 +1,15 @@
 ---
-title: 'iCoreSpec'
+title: 'Job Redesign Consultancy - EON Consulting Training Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1754
 ---
 
-## iCoreSpec
+## Job Redesign Consultancy - EON Consulting Training Pte Ltd
 
 ## Overview
 
 **Description**
 
-The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ The solution is a cloud-based, common digital platform - the Intelligent Nationa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCoreSpec - Single User (One Package)</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCoreSpec - Single User (Full Suite)</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCoreSpec - Corporate User (C1 - 5 Users One Package)</td>
-<td style='padding: 10px;'>$6,200.00</td>
-<td style='padding: 10px;'>$6,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCoreSpec - Corporate User (C1 - 5 Users Full Suite)</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iCoreSpec - Corporate User (C2 - 10 Users One Package)</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ The solution is a cloud-based, common digital platform - the Intelligent Nationa
 
 ## Vendor Information
 
- Company Name: iNPQS Pte Ltd<br>Web URL: www.inpqs.com <br><br>Contact Hotline: 62260881 <br><br>Contact Email: sales@inpqs.com <br><br>
+ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

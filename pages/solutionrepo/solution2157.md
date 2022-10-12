@@ -1,15 +1,15 @@
 ---
-title: 'Substrate Mixing and Packing Machine'
+title: 'Farm Processing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 
-## Substrate Mixing and Packing Machine
+## Farm Processing Machine
 
 ## Overview
 
 **Description**
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+Integrated processing system to process produce into value-added products
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that mix and fill substrate bags with various nutrients that's necessa
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'Sterilizer Equipment'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution2156
 ---
 
-## Sterilizer Equipment
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

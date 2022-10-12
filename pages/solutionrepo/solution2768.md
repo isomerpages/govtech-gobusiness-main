@@ -1,20 +1,15 @@
 ---
-title: 'APM Smart Access System Version 10'
+title: 'Quickbooks Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution2768
 ---
 
-## APM Smart Access System Version 10
+## Quickbooks Online
 
 ## Overview
 
 **Description**
 
-APM Smart Access Solutions enables users to automate access control for various scenarios. Our solutions cover 
-1)	simple door access control, 
-2)	current access system upgrading to latest technology,  
-3)	single lane turnstile with SafeEntry, Facial Recognition and Crowd Control VMS
-4)	dual lane turnstiles for heavy human traffic with SafeEntry, Facial Recognition and Crowd Control VMS
-5)	mobile platform container with guardhouse for use in construction sites and/or outdoor events
+Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, payroll, and more
 
 ## Solution Packages Option(s)
 
@@ -28,48 +23,20 @@ APM Smart Access Solutions enables users to automate access control for various 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Smart Access System-Pkg 1</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Access System Upgrading-Pkg 2</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Single Lane Turnstile Solution-Pkg 3</td>
-<td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'>$13,650.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Dual Lanes Turnstiles Solution-Pkg 4</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$19,350.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Mobile Platform Access Control Solution-Pkg 5</td>
-<td style='padding: 10px;'>$29,800.00</td>
-<td style='padding: 10px;'>$22,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/APM_Global_20210292_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QBA Simple</td>
+<td style='padding: 10px;'>$2,288.00</td>
+<td style='padding: 10px;'>$2,076.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: APM Global Pte Ltd<br>Web URL: http://www.apmglobal.com.sg <br><br>Contact Hotline: 67104938 <br><br>Contact Email: bella@apmglobal.com.sg <br><br>
+ Company Name: Quest Business Advisory Pte Ltd<br>Web URL: https://.qbo.intuit.com/ <br><br>Contact Hotline: 69802981 <br><br>Contact Email: cksoo@qba.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

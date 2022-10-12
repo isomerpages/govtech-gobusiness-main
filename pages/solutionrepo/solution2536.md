@@ -1,32 +1,31 @@
 ---
-title: '2DFire online ordering and payment Version 5898'
+title: 'Ozonised Air + Surface Sterilization System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2536
 ---
 
-## 2DFire online ordering and payment Version 5898
+## Ozonised Air + Surface Sterilization System
 
 ## Overview
 
 **Description**
 
-1-Smart Technologies provide the brand , 2DFire, which started in 2005, focusing on the creation and constant innovation of cloud-based software and systems as a long-term goal. With over 15 years of experience in serving restaurants worldwide from different verticals within the food & beverage industry - from single outlet bars and restaurants to chain stores. Our complete solutions range from frontend QR Ordering to backend Supply Chain Management with data analysis.
+An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation. The equipment can be in portable form, permanently installed units or distributed systems.
+
+Cost of equipment capped at $10,000 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2DFire online ordering and payment Version 5.8.98 - Package A</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/1-Smart_Technologies_20200875_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Equipment must meet the following:<br><br>Generate active oxygen at an output between 20mg - 1g/hr<br><br>Emit negative ion at more than 2 million/cm3<br><br>Area coverage at least 36.5 m2<br><br>Effective sterilisation & reduce bacteria count by 90%<br><br></td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2536
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: 1-Smart Technologies Pte Ltd<br>Web URL: www.2dfire.sg <br>Contact Hotline: 83210776 <br>Contact Email: cocowang@1-smart.com.sg<br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,15 +1,15 @@
 ---
-title: 'A-Class Corporate Governance Document Management by Sleek Version 1'
+title: 'DROPBOX'
 permalink: /productivity-solutions-grant/solutionrepo/solution1569
 ---
 
-## A-Class Corporate Governance Document Management by Sleek Version 1
+## DROPBOX
 
 ## Overview
 
 **Description**
 
-Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
+The Advanced plan on Dropbox Business gives teams as much space as they need, along with sophisticated admin, audit, security, and integration capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Sleek offers a fully digital experience for the effortless management of corpora
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan A</td>
-<td style='padding: 10px;'>$561.00</td>
-<td style='padding: 10px;'>$561.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DROPBOX - DROPBOX BUSINESS - 3 USERS</td>
+<td style='padding: 10px;'>$999.00</td>
+<td style='padding: 10px;'>$999.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan B</td>
-<td style='padding: 10px;'>$673.00</td>
-<td style='padding: 10px;'>$673.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan C</td>
-<td style='padding: 10px;'>$729.00</td>
-<td style='padding: 10px;'>$729.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan D</td>
-<td style='padding: 10px;'>$841.00</td>
-<td style='padding: 10px;'>$841.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan E</td>
-<td style='padding: 10px;'>$1,009.00</td>
-<td style='padding: 10px;'>$1,009.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DROPBOX - DROPBOX BUSINESS - 10 USERS </td>
+<td style='padding: 10px;'>$3,199.00</td>
+<td style='padding: 10px;'>$3,199.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Sleek offers a fully digital experience for the effortless management of corpora
 
 ## Vendor Information
 
- Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br><br>Contact Hotline: +6569092214 <br><br>Contact Email: sales@sleek.sg <br><br>
+ Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

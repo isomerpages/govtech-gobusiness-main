@@ -1,15 +1,15 @@
 ---
-title: 'Humidifier Equipment'
+title: 'Automatic case labelling machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
-## Humidifier Equipment
+## Automatic case labelling machine
 
 ## Overview
 
 **Description**
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Case printing system or pack labelling system which allow the user to fully customize their label.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device that increases humidity in farm premises for more optimal plant growth.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

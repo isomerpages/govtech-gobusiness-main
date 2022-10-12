@@ -1,17 +1,19 @@
 ---
-title: 'Automated Noodle Boiler'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution3158
 ---
 
-## Automated Noodle Boiler
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-The automated noodle boiler automates the noodle cooking process. 
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
 
-Cost of equipment capped at $10,000 per unit 
+Support capped at $5,000 per unit 
 
 
 
@@ -24,9 +26,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Digital timer: Each basket is programmed according to its own set timing.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
 </tr>
 </table>
 

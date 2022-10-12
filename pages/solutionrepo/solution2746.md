@@ -1,17 +1,16 @@
 ---
-title: 'ABSS'
+title: 'BricsCAD A.I Design Technologies'
 permalink: /productivity-solutions-grant/solutionrepo/solution2746
 ---
 
-## ABSS
+## BricsCAD A.I Design Technologies
 
 ## Overview
 
 **Description**
 
-ABSS Premier / Premier Plus is perfect for SMEs that require integrated accounting, advanced inventory, payroll and leave management software to manage transactions and other business areas.  
-
-SMEs can process foreign currency transactions, track GST, analyze business performance accurately with its built-in reports & stay compliant effortlessly with the latest tax requirements. Payrolls are also quickly processed and comply with IRAS AIS (Auto-Inclusion Scheme).
+BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
+BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +24,31 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Premier Version 23 - Single User with InvoiceNow</td>
-<td style='padding: 10px;'>$1,904.00</td>
-<td style='padding: 10px;'>$1,904.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Single User License</td>
+<td style='padding: 10px;'>$3,530.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Premier Version 23 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$2,745.00</td>
-<td style='padding: 10px;'>$2,745.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License</td>
+<td style='padding: 10px;'>$4,410.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Premier Version 23 - 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$3,678.00</td>
-<td style='padding: 10px;'>$3,678.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate Perpetual Network License</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Premier Plus Version 23 - Single User with InvoiceNow</td>
-<td style='padding: 10px;'>$3,778.00</td>
-<td style='padding: 10px;'>$3,778.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS - Premier Plus Version 23 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$4,535.00</td>
-<td style='padding: 10px;'>$4,535.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Asian_Business_20210432_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD A.I Design Technologies - BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License</td>
+<td style='padding: 10px;'>$6,650.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +58,7 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 
 ## Vendor Information
 
- Company Name: Asian Business Software Solutions Pte Ltd<br>Web URL: sg.abssasia.com <br><br>Contact Hotline: +6565056582 <br><br>Contact Email: cs.sg@abssasia.com <br><br>
+ Company Name: ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.<br>Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
