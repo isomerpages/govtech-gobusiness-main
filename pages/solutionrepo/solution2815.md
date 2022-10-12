@@ -1,9 +1,9 @@
 ---
-title: 'iREP Security System Version 40'
+title: 'iREP Security System Version 4.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2815
 ---
 
-## iREP Security System Version 40
+## iREP Security System Version 4.0
 
 ## Overview
 

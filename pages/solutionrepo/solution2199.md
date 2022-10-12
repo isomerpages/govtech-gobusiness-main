@@ -1,9 +1,9 @@
 ---
-title: 'WarelyEcom Version 13'
+title: 'WarelyEcom Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution2199
 ---
 
-## WarelyEcom Version 13
+## WarelyEcom Version 1.3
 
 ## Overview
 

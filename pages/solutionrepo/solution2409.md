@@ -1,9 +1,9 @@
 ---
-title: 'NovaVision Remote Assist Version 10'
+title: 'NovaVision Remote Assist Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2409
 ---
 
-## NovaVision Remote Assist Version 10
+## NovaVision Remote Assist Version 1.0
 
 ## Overview
 

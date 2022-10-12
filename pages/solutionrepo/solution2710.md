@@ -1,9 +1,9 @@
 ---
-title: 'WEB360 Version 200'
+title: 'WEB360 Version 2.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2710
 ---
 
-## WEB360 Version 200
+## WEB360 Version 2.0.0
 
 ## Overview
 

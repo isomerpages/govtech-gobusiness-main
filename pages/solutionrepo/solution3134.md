@@ -1,9 +1,9 @@
 ---
-title: 'Qashier Digital Ordering Version 202201'
+title: 'Qashier Digital Ordering Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution3134
 ---
 
-## Qashier Digital Ordering Version 202201
+## Qashier Digital Ordering Version 2022.01
 
 ## Overview
 

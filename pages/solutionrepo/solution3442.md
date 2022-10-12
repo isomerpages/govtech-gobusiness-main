@@ -1,9 +1,9 @@
 ---
-title: 'SentroWeb Version 300'
+title: 'SentroWeb Version 3.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3442
 ---
 
-## SentroWeb Version 300
+## SentroWeb Version 3.0.0
 
 ## Overview
 

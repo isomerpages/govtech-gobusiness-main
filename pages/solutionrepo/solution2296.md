@@ -1,9 +1,9 @@
 ---
-title: 'eBIS Version V10'
+title: 'eBIS Version V1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2296
 ---
 
-## eBIS Version V10
+## eBIS Version V1.0
 
 ## Overview
 

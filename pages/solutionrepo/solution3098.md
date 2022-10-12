@@ -1,9 +1,9 @@
 ---
-title: 'WhyQ VendorOS Version 130'
+title: 'WhyQ VendorOS Version 13.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3098
 ---
 
-## WhyQ VendorOS Version 130
+## WhyQ VendorOS Version 13.0
 
 ## Overview
 

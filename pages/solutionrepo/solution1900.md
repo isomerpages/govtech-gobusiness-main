@@ -1,9 +1,9 @@
 ---
-title: 'arclite and arcops - Process Configuration (arclink Module)'
+title: 'arc.lite and arc.ops - Process Configuration (arc.link Module)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1900
 ---
 
-## arclite and arcops - Process Configuration (arclink Module)
+## arc.lite and arc.ops - Process Configuration (arc.link Module)
 
 ## Overview
 

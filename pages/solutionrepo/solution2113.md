@@ -1,9 +1,9 @@
 ---
-title: 'Ecommerce Web Development (WooCommerce) Version 08'
+title: 'Ecommerce Web Development (WooCommerce) Version 0.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 
-## Ecommerce Web Development (WooCommerce) Version 08
+## Ecommerce Web Development (WooCommerce) Version 0.8
 
 ## Overview
 

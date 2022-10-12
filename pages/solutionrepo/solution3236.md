@@ -1,9 +1,9 @@
 ---
-title: 'Weebo KYBIO POS Solution Version 3344'
+title: 'Weebo KYBIO POS Solution Version 3.3.4.4'
 permalink: /productivity-solutions-grant/solutionrepo/solution3236
 ---
 
-## Weebo KYBIO POS Solution Version 3344
+## Weebo KYBIO POS Solution Version 3.3.4.4
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'cuteOffice ERP Version 20'
+title: 'cuteOffice ERP Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2208
 ---
 
-## cuteOffice ERP Version 20
+## cuteOffice ERP Version 2.0
 
 ## Overview
 

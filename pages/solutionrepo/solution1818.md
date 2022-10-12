@@ -1,9 +1,9 @@
 ---
-title: 'Redoc Version 10'
+title: 'Redoc Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1818
 ---
 
-## Redoc Version 10
+## Redoc Version 1.0
 
 ## Overview
 

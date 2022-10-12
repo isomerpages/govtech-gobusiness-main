@@ -1,9 +1,9 @@
 ---
-title: 'RealtyPromote - Document Management Transaction Records Version 32TM'
+title: 'RealtyPromote - Document Management Transaction Records Version 3.2TM'
 permalink: /productivity-solutions-grant/solutionrepo/solution2627
 ---
 
-## RealtyPromote - Document Management Transaction Records Version 32TM
+## RealtyPromote - Document Management Transaction Records Version 3.2TM
 
 ## Overview
 

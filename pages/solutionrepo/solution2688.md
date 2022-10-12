@@ -1,9 +1,9 @@
 ---
-title: 'Pre-school Management System + E-forms for Preschool Version BridgED 30'
+title: 'Pre-school Management System + E-forms for Preschool Version BridgED 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2688
 ---
 
-## Pre-school Management System + E-forms for Preschool Version BridgED 30
+## Pre-school Management System + E-forms for Preschool Version BridgED 3.0
 
 ## Overview
 

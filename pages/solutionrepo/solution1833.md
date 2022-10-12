@@ -1,9 +1,9 @@
 ---
-title: 'AgileREPORTER Version 193'
+title: 'AgileREPORTER Version 19.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 
-## AgileREPORTER Version 193
+## AgileREPORTER Version 19.3
 
 ## Overview
 

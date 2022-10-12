@@ -1,9 +1,9 @@
 ---
-title: 'AZ DIGITAL ORDERING SOLUTION Version 10'
+title: 'AZ DIGITAL ORDERING SOLUTION Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3437
 ---
 
-## AZ DIGITAL ORDERING SOLUTION Version 10
+## AZ DIGITAL ORDERING SOLUTION Version 1.0
 
 ## Overview
 

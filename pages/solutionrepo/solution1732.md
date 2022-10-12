@@ -1,9 +1,9 @@
 ---
-title: 'SmartFM Version 10'
+title: 'SmartFM Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1732
 ---
 
-## SmartFM Version 10
+## SmartFM Version 1.0
 
 ## Overview
 

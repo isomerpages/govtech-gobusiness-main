@@ -1,9 +1,9 @@
 ---
-title: 'School Bus Management System Version SBMSV2'
+title: 'School Bus Management System Version SBMS.V2'
 permalink: /productivity-solutions-grant/solutionrepo/solution2617
 ---
 
-## School Bus Management System Version SBMSV2
+## School Bus Management System Version SBMS.V2
 
 ## Overview
 

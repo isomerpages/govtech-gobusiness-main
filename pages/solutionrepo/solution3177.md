@@ -1,9 +1,9 @@
 ---
-title: 'Qashier Smart POS Version 202201'
+title: 'Qashier Smart POS Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution3177
 ---
 
-## Qashier Smart POS Version 202201
+## Qashier Smart POS Version 2022.01
 
 ## Overview
 

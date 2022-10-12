@@ -1,9 +1,9 @@
 ---
-title: 'BeauteSoft V6372'
+title: 'BeauteSoft V6.3.7.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution3347
 ---
 
-## BeauteSoft V6372
+## BeauteSoft V6.3.7.2
 
 ## Overview
 

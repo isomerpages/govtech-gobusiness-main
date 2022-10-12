@@ -1,9 +1,9 @@
 ---
-title: 'Dining Butler Version 13'
+title: 'Dining Butler Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution3366
 ---
 
-## Dining Butler Version 13
+## Dining Butler Version 1.3
 
 ## Overview
 

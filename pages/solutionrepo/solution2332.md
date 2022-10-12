@@ -1,9 +1,9 @@
 ---
-title: 'cuteOffice ERP for PCM Version 20'
+title: 'cuteOffice ERP for PCM Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2332
 ---
 
-## cuteOffice ERP for PCM Version 20
+## cuteOffice ERP for PCM Version 2.0
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Fooyo Mini Shop Version 20'
+title: 'Fooyo Mini Shop Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2307
 ---
 
-## Fooyo Mini Shop Version 20
+## Fooyo Mini Shop Version 2.0
 
 ## Overview
 

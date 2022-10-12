@@ -1,9 +1,9 @@
 ---
-title: 'BIZ POS VER 35'
+title: 'BIZ POS VER 3.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution3302
 ---
 
-## BIZ POS VER 35
+## BIZ POS VER 3.5
 
 ## Overview
 

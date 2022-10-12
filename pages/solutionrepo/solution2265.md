@@ -1,9 +1,9 @@
 ---
-title: 'Ecommflow Version 20'
+title: 'Ecommflow Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2265
 ---
 
-## Ecommflow Version 20
+## Ecommflow Version 2.0
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'KADDRA Mobile App Commerce Solution Version 19'
+title: 'KADDRA Mobile App Commerce Solution Version 1.9'
 permalink: /productivity-solutions-grant/solutionrepo/solution2271
 ---
 
-## KADDRA Mobile App Commerce Solution Version 19
+## KADDRA Mobile App Commerce Solution Version 1.9
 
 ## Overview
 

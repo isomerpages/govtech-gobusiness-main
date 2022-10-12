@@ -1,9 +1,9 @@
 ---
-title: 'EzySalesOrder Version 30'
+title: 'EzySalesOrder Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3338
 ---
 
-## EzySalesOrder Version 30
+## EzySalesOrder Version 3.0
 
 ## Overview
 

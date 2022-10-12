@@ -1,9 +1,9 @@
 ---
-title: '(AI) INFO-TECH Cloud HRMS Version 80'
+title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3245
 ---
 
-## (AI) INFO-TECH Cloud HRMS Version 80
+## (A.I.) INFO-TECH Cloud HRMS Version 8.0
 
 ## Overview
 

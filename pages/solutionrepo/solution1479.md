@@ -1,9 +1,9 @@
 ---
-title: 'KPMG Regulatory Integrated Solution Version 10'
+title: 'KPMG Regulatory Integrated Solution Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
-## KPMG Regulatory Integrated Solution Version 10
+## KPMG Regulatory Integrated Solution Version 1.0
 
 ## Overview
 

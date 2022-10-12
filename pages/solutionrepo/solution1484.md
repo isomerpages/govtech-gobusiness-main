@@ -1,9 +1,9 @@
 ---
-title: 'OneSumX for Regulatory Reporting Version 310'
+title: 'OneSumX for Regulatory Reporting Version 3.1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1484
 ---
 
-## OneSumX for Regulatory Reporting Version 310
+## OneSumX for Regulatory Reporting Version 3.1.0
 
 ## Overview
 

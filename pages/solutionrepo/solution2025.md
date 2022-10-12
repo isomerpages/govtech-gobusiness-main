@@ -1,9 +1,9 @@
 ---
-title: 'A2000ERP Version 12X'
+title: 'A2000ERP Version 12.X'
 permalink: /productivity-solutions-grant/solutionrepo/solution2025
 ---
 
-## A2000ERP Version 12X
+## A2000ERP Version 12.X
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Iorderla Digital Ordering BYOD Solution Version 10'
+title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2970
 ---
 
-## Iorderla Digital Ordering BYOD Solution Version 10
+## Iorderla Digital Ordering BYOD Solution Version 1.0
 
 ## Overview
 

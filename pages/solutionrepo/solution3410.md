@@ -1,9 +1,9 @@
 ---
-title: 'Stendard Solution Version 1712'
+title: 'Stendard Solution Version 1.7.12'
 permalink: /productivity-solutions-grant/solutionrepo/solution3410
 ---
 
-## Stendard Solution Version 1712
+## Stendard Solution Version 1.7.12
 
 ## Overview
 

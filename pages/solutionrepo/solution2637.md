@@ -1,9 +1,9 @@
 ---
-title: 'aiCARE Shield Managed Security Version Ver10'
+title: 'aiCARE Shield Managed Security Version Ver1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2637
 ---
 
-## aiCARE Shield Managed Security Version Ver10
+## aiCARE Shield Managed Security Version Ver1.0
 
 ## Overview
 

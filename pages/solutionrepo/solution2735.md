@@ -1,9 +1,9 @@
 ---
-title: 'BricsCAD AI Design Technologies'
+title: 'BricsCAD A.I Design Technologies'
 permalink: /productivity-solutions-grant/solutionrepo/solution2735
 ---
 
-## BricsCAD AI Design Technologies
+## BricsCAD A.I Design Technologies
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Tracee Inventory Version 200'
+title: 'Tracee Inventory Version 2.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3092
 ---
 
-## Tracee Inventory Version 200
+## Tracee Inventory Version 2.0.0
 
 ## Overview
 

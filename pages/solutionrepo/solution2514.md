@@ -1,9 +1,9 @@
 ---
-title: 'Lunchbox Smart Restaurant Solution Version 110'
+title: 'Lunchbox Smart Restaurant Solution Version 1.1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2514
 ---
 
-## Lunchbox Smart Restaurant Solution Version 110
+## Lunchbox Smart Restaurant Solution Version 1.1.0
 
 ## Overview
 

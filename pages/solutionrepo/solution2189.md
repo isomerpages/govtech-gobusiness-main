@@ -1,9 +1,9 @@
 ---
-title: 'RealtyPromote Version 32'
+title: 'RealtyPromote Version 3.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution2189
 ---
 
-## RealtyPromote Version 32
+## RealtyPromote Version 3.2
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Qashier Smart POS for Beauty Version 202201'
+title: 'Qashier Smart POS for Beauty Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution3250
 ---
 
-## Qashier Smart POS for Beauty Version 202201
+## Qashier Smart POS for Beauty Version 2022.01
 
 ## Overview
 

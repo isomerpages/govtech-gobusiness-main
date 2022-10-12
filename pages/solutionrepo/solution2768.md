@@ -1,9 +1,9 @@
 ---
-title: 'APM Smart Access System Version 10'
+title: 'APM Smart Access System Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2768
 ---
 
-## APM Smart Access System Version 10
+## APM Smart Access System Version 1.0
 
 ## Overview
 

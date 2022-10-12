@@ -1,9 +1,9 @@
 ---
-title: 'E-Commerce MPD Package Version 20'
+title: 'E-Commerce MPD Package Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3122
 ---
 
-## E-Commerce MPD Package Version 20
+## E-Commerce MPD Package Version 2.0
 
 ## Overview
 

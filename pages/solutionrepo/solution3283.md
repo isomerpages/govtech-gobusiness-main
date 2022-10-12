@@ -1,9 +1,9 @@
 ---
-title: 'DM W360 Digital Power Pack Version 10'
+title: 'DM W360 Digital Power Pack Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3283
 ---
 
-## DM W360 Digital Power Pack Version 10
+## DM W360 Digital Power Pack Version 1.0
 
 ## Overview
 

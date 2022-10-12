@@ -1,9 +1,9 @@
 ---
-title: 'EzyProcure Version 20'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3105
 ---
 
-## EzyProcure Version 20
+## EzyProcure Version 2.0
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Advanced Ecommerce Solution by I Concept Version 20'
+title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3479
 ---
 
-## Advanced Ecommerce Solution by I Concept Version 20
+## Advanced Ecommerce Solution by I Concept Version 2.0
 
 ## Overview
 
