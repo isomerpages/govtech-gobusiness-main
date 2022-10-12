@@ -14,10 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-Tunity Asset Inventory Management is an established and stable solution for SMEs embarking on their Digitalization Journey. Leveraging on RFID technology, robust hardware and a "tried and tested" Management Software, the solution was curated to help SMEs of various industries to effectively manage their assets/inventories. RFID allows for bulk reading of tagged assets/inventories within seconds at a meaningful distance. Increase productivity, accountability, visibility & control.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Tunity_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Tunity Asset Inventory Management System</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Tunity_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Tunity Asset Inventory Management System (Interface)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013779'  target='_blank' rel='noopener'>1. Equipment and Inventory Management </a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503502'  target='_blank' rel='noopener'>2. Manage Inventory (SF)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2017501172'  target='_blank' rel='noopener'>3. Inventory Control</a><br>
@@ -48,6 +46,10 @@ Tunity Asset Inventory Management is an established and stable solution for SMEs
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3092' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3531' target='_blank'>AIMS</a><br></td>
+<td>TUNITY TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>
 

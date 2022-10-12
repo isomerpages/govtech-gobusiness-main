@@ -14,13 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Ltd in partnership with Fortinet, introduce Zebedee Total Fortified Cyber Security's NGFW (Next-Generation Firewall) Solution. It provides managed service for network perimeter security monitoring using the Fortigate F - Series Cyber Unified Threat Protection (UTP) Solution. Supported by a team of experienced engineers, Zebedee will be able to ensure round-the-clock coverage so that business owners can have their ease 
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Zebedee_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Managed Fortinet Firewall - FortiGate 60F</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zebedee_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Managed Fortinet Firewall - Fortigate 80F</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zebedee_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Managed Fortinet Firewall - Fortigate 100F</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zebedee_Desensitised_Annex_3_Part_4.pdf'  target='_blank' rel='noopener'>Managed Fortinet Firewall - Fortigate 200F</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zebedee_Desensitised_Annex_3_Part_5.pdf'  target='_blank' rel='noopener'>Managed Fortinet Firewall - Fortigate 40F</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500905'  target='_blank' rel='noopener'>1. Demonstrate Secure Use of IT</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>2. Fundamentals of Cyber Security</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021010360'  target='_blank' rel='noopener'>3. NICF - Certified Network Defender</a><br>
@@ -91,6 +86,10 @@ To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Lt
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3130' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3533' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td>Zebedee Solution Pte Ltd</td>
 </tr>
 </table>
 
