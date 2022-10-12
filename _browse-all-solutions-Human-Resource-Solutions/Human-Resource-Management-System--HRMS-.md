@@ -99,6 +99,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3382' target='_blank'>ASURIX HRMS</a><br></td>
 <td>Net Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3516' target='_blank'>QuickHR</a><br></td>
+<td>Enable Business Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

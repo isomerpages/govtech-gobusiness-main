@@ -1,6 +1,6 @@
 ---
 title: 'DS - Xero'
-permalink: /productivity-solutions-grant/solutionrepo/solution3508
+permalink: /productivity-solutions-grant/solutionrepo/solution3507
 ---
 
 ## DS - Xero

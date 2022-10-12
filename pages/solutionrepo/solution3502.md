@@ -1,6 +1,6 @@
 ---
 title: 'HR Shared Services by RecruitSG'
-permalink: /productivity-solutions-grant/solutionrepo/solution3503
+permalink: /productivity-solutions-grant/solutionrepo/solution3502
 ---
 
 ## HR Shared Services by RecruitSG

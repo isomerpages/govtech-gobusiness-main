@@ -108,12 +108,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>THE GENIA PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3477' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3476' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
 <td>BEST SEO MARKETING PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3492' target='_blank'>DM Verz Design Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3491' target='_blank'>DM Verz Design Digital Marketing Package</a><br></td>
 <td>Verz Design Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3526' target='_blank'>DM Social Media Marketing (Brand Awareness & Lead Generation)</a><br></td>
+<td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 </table>
 

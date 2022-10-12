@@ -23,38 +23,38 @@ Sage has more than 30 years of experience helping millions of small and medium c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A1 (Advanced Edition - 3 Users)</td>
-<td style='padding: 10px;'>$30,310.00</td>
-<td style='padding: 10px;'>$30,210.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A1 (Advanced Edition - 3 Users)</td>
+<td style='padding: 10px;'>$31,129.00</td>
+<td style='padding: 10px;'>$31,129.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A2 (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$33,789.00</td>
-<td style='padding: 10px;'>$33,689.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A2 (Advanced Edition - 5 Users)</td>
+<td style='padding: 10px;'>$34,783.00</td>
+<td style='padding: 10px;'>$34,783.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A3 (Advanced Edition - 7 Users)</td>
-<td style='padding: 10px;'>$37,267.00</td>
-<td style='padding: 10px;'>$37,167.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A3 (Advanced Edition - 7 Users)</td>
+<td style='padding: 10px;'>$38,437.00</td>
+<td style='padding: 10px;'>$38,437.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package A4 (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$42,485.00</td>
-<td style='padding: 10px;'>$42,385.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A4 (Advanced Edition - 10 Users)</td>
+<td style='padding: 10px;'>$43,918.00</td>
+<td style='padding: 10px;'>$43,918.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>IT Infinity Sage 300  - Package B1 (Premium Edition - 5 Users)</td>
-<td style='padding: 10px;'>$41,790.00</td>
-<td style='padding: 10px;'>$41,690.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Annex_3_CR_wef_16_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1 (Premium Edition - 5 Users)</td>
+<td style='padding: 10px;'>$43,191.00</td>
+<td style='padding: 10px;'>$43,191.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

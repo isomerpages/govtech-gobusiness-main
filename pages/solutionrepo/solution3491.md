@@ -1,6 +1,6 @@
 ---
 title: 'DM Verz Design Digital Marketing Package'
-permalink: /productivity-solutions-grant/solutionrepo/solution3492
+permalink: /productivity-solutions-grant/solutionrepo/solution3491
 ---
 
 ## DM Verz Design Digital Marketing Package

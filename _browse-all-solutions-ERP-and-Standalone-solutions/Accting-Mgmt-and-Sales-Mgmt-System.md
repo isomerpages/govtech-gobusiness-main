@@ -14,8 +14,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
+<a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Standard Package 1 (Software Only)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Premium Package 2 (Software Only)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Standard Package 3 (Software + Training)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_4.pdf'  target='_blank' rel='noopener'>Premium Package 4 (Software + Setup + Training)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019502253'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting-Related Concepts</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021003748'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2016500598'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
@@ -266,6 +270,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3452' target='_blank'>Realtimme Cloud Version 3.0.0</a><br></td>
 <td>Realtimme IT Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3471' target='_blank'>ABA - Xero Accounting Software</a><br></td>
+<td>Abundant Accounting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3482' target='_blank'>Xero</a><br></td>
+<td>RDC CORPORATE PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3507' target='_blank'>DS: Xero</a><br></td>
+<td>Dedicated Solutions Pte. Ltd.</td>
 </tr>
 </table>
 

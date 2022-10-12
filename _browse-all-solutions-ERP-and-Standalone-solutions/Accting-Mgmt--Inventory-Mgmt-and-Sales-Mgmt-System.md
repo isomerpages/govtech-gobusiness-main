@@ -103,6 +103,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3405' target='_blank'>Sage 300 Advance Edition</a><br></td>
 <td>The World Management Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3486' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
