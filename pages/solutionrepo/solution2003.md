@@ -1,37 +1,65 @@
 ---
-title: 'Ethylene Removal System'
+title: 'Vodich- Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution2003
 ---
 
-## Ethylene Removal System
+## Vodich- Xero Cloud Accounting
 
 ## Overview
 
 **Description**
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
-
-Cost of equipment capped at $37,500 per unit
+Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. 
+On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package A - Software Subscription</td>
+<td style='padding: 10px;'>$700.00</td>
+<td style='padding: 10px;'>$700.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package B - Standard</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package C - Standard with Training</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package D - Premium</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Vodich Management Services Pte Ltd<br>Web URL: https://vodich.com.sg/index.php/cloud-accounting/ <br>Contact Hotline: 67339196 <br>Contact Email: sales@vodich.com.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

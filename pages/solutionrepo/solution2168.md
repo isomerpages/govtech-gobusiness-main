@@ -1,15 +1,15 @@
 ---
-title: 'LED grow lights'
+title: 'Live Pump'
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
-## LED grow lights
+## Live Pump
 
 ## Overview
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+An equipment that ensure safe, gentle, fast way to transfer produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

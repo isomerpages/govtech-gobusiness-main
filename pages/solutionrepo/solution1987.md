@@ -1,17 +1,15 @@
 ---
-title: 'I-Man Facility Sprinter (IFS) Integrated Guarding Services Solution (IGSS)'
+title: 'Sophos Endpoint'
 permalink: /productivity-solutions-grant/solutionrepo/solution1987
 ---
 
-## I-Man Facility Sprinter (IFS) Integrated Guarding Services Solution (IGSS)
+## Sophos Endpoint
 
 ## Overview
 
 **Description**
 
-Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
-
-The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
+Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,48 @@ The IFS Platform is manned by a team of three highly trained security profession
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced (5 Licenses)</td>
+<td style='padding: 10px;'>$490.00</td>
+<td style='padding: 10px;'>$490.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced (10 Licenses)</td>
+<td style='padding: 10px;'>$730.00</td>
+<td style='padding: 10px;'>$730.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced (20 Licenses) </td>
+<td style='padding: 10px;'>$1,210.00</td>
+<td style='padding: 10px;'>$1,210.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced w XDR (10 Licenses)</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Endpoint - ADV Sophos Central Intercept X Advanced w XDR (20 Licenses) </td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancedata_Annex_3_CR_wef_26_May_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Concorde Security Pte Ltd<br>Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br><br>Contact Hotline: 62960802 <br><br>Contact Email: alan.chua@concorde.com.sg <br><br>
+ Company Name: Advancedata Network Pte Ltd<br>Web URL: www.advancedatan.com <br><br>Contact Hotline: 65606228 <br><br>Contact Email: sales@advancedatan.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

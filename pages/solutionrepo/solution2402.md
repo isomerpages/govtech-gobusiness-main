@@ -1,15 +1,23 @@
 ---
-title: 'Fortigate Firewall for IT Security or VPN - CARE IT'
+title: 'Eminet Sophos XGS Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution2402
 ---
 
-## Fortigate Firewall for IT Security or VPN - CARE IT
+## Eminet Sophos XGS Firewall
 
 ## Overview
 
 **Description**
 
-FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
+Sophos XGS Cybersecurity Solution that provides :
+(i) Network Firewall
+(ii) Intrusion Detection/Prevention System
+(iii) Virtual Private Network (VPN)
+(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
+(v) Secure Email Gareway (e.g. anti-spam, content filtering)
+(vi) Anti-Virus/Anti-Malware
+(vii) Application Control
+(viii) Sandboxing
 
 ## Solution Packages Option(s)
 
@@ -23,38 +31,31 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 116</td>
+<td style='padding: 10px;'>$1,670.00</td>
+<td style='padding: 10px;'>$1,670.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 136</td>
+<td style='padding: 10px;'>$2,675.00</td>
+<td style='padding: 10px;'>$2,675.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2100</td>
+<td style='padding: 10px;'>$3,862.00</td>
+<td style='padding: 10px;'>$3,862.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2300</td>
+<td style='padding: 10px;'>$5,168.00</td>
+<td style='padding: 10px;'>$5,168.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 
 ## Vendor Information
 
- Company Name: Computer Analysts and Recovery Experts Pte Ltd<br>Web URL: www.care.biz <br><br>Contact Hotline: 67448022 <br><br>Contact Email: sales@sg.care.biz <br><br>
+ Company Name: EMINET PTE LTD<br>Web URL: www.eminet.com.sg <br><br>Contact Hotline: 66019898 <br><br>Contact Email: charles@eminet.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

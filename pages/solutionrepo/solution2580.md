@@ -1,19 +1,15 @@
 ---
-title: 'Zoho Workplace PSG Edition'
+title: 'Sugati Travel CRM Version 1.1037'
 permalink: /productivity-solutions-grant/solutionrepo/solution2580
 ---
 
-## Zoho Workplace PSG Edition
+## Sugati Travel CRM Version 1.1037
 
 ## Overview
 
 **Description**
 
-Zoho Workplace by Zoho Corporation.
-
-Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
-
-Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
+Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
 
 ## Solution Packages Option(s)
 
@@ -27,48 +23,34 @@ Transform the way your team works together - give them a secure, shared workspac
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 10 users</td>
-<td style='padding: 10px;'>$958.00</td>
-<td style='padding: 10px;'>$958.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
+<td style='padding: 10px;'>$10,260.00</td>
+<td style='padding: 10px;'>$10,260.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 15 users</td>
-<td style='padding: 10px;'>$1,436.00</td>
-<td style='padding: 10px;'>$1,436.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)</td>
+<td style='padding: 10px;'>$20,520.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 20 users</td>
-<td style='padding: 10px;'>$1,915.00</td>
-<td style='padding: 10px;'>$1,915.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 25 users</td>
-<td style='padding: 10px;'>$2,394.00</td>
-<td style='padding: 10px;'>$2,394.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 30 users</td>
-<td style='padding: 10px;'>$2,873.00</td>
-<td style='padding: 10px;'>$2,873.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 3 - Sugati Travel CRM (upto 20 users)</td>
+<td style='padding: 10px;'>$41,040.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br><br>Contact Hotline: 67231040 <br><br>Contact Email: sales@zohocorp.com <br><br>
+ Company Name: Sugati Travel CRM Pte Ltd<br>Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

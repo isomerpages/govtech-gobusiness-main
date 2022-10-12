@@ -1,15 +1,15 @@
 ---
-title: 'Quickbooks Online'
+title: 'ePSProfessional Version 1.7'
 permalink: /productivity-solutions-grant/solutionrepo/solution2762
 ---
 
-## Quickbooks Online
+## ePSProfessional Version 1.7
 
 ## Overview
 
 **Description**
 
-Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, payroll, and more
+eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QBA Simple</td>
-<td style='padding: 10px;'>$2,288.00</td>
-<td style='padding: 10px;'>$2,076.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePSProfessional Version 1.7 - SME Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quest Business Advisory Pte Ltd<br>Web URL: https://.qbo.intuit.com/ <br><br>Contact Hotline: 69802981 <br><br>Contact Email: cksoo@qba.com.sg <br><br>
+ Company Name: Efusion Technology Pte Ltd<br>Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Flick Time Management System Enterprise Enhanced (TMSEE)'
+title: 'HubSpot'
 permalink: /productivity-solutions-grant/solutionrepo/solution2414
 ---
 
-## Flick Time Management System Enterprise Enhanced (TMSEE)
+## HubSpot
 
 ## Overview
 
 **Description**
 
-With more than 10 years' experience in HR Time Attendance Solution, Flick understands the need of having a hassle-free Time Attendance Solution
-
-Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance software that is flexible and proven to work for everyday time management and attendance needs. Flick believes in working together with Clients towards a more efficient HR system and solution, which will in turn reduce Clients' workload significantly.
+Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,41 @@ Flick's Time Management System Enterprise Enhanced (TMSEE) is a time attendance 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 25</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package A Hubspot sales pro + marketing (1000 contacts)</td>
+<td style='padding: 10px;'>$14,220.00</td>
+<td style='padding: 10px;'>$13,320.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 50</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
+<td style='padding: 10px;'>$16,220.00</td>
+<td style='padding: 10px;'>$15,320.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 100</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)</td>
+<td style='padding: 10px;'>$20,446.00</td>
+<td style='padding: 10px;'>$19,346.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 150</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flick Time Management System Enterprise Enhanced (TMSEE) - Flick 200</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Flick_Solutions_20200968_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)</td>
+<td style='padding: 10px;'>$23,440.00</td>
+<td style='padding: 10px;'>$22,540.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Flick Solutions Pte. Ltd.<br>Web URL: www.flick.sg <br><br>Contact Hotline: 62768255 <br><br>Contact Email: sales@flick.sg <br><br>
+ Company Name: Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

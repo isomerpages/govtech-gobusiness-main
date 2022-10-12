@@ -1,16 +1,15 @@
 ---
-title: 'Adventus Managed EndPoint Protection'
+title: 'WarelyPOS Version 1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution2053
 ---
 
-## Adventus Managed EndPoint Protection
+## WarelyPOS Version 1.1
 
 ## Overview
 
 **Description**
 
-Adventus Managed EndPoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic EndPoint Protection by providing managed service on top of the solution.
-With this all-rounded EndPoint Protection, threats are disrupted, contained, and neutralized. As a result, customers can rest assured that their servers and EndPoints are constantly being monitored by Adventus while they focus on their business needs and daily business operations.
+WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,41 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (10 Units)</td>
-<td style='padding: 10px;'>$1,370.00</td>
-<td style='padding: 10px;'>$1,370.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Express</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (25 Units)</td>
-<td style='padding: 10px;'>$3,175.00</td>
-<td style='padding: 10px;'>$3,175.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Premium</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)</td>
-<td style='padding: 10px;'>$5,850.00</td>
-<td style='padding: 10px;'>$5,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Lite</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (100 Units)</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (150 Units)</td>
-<td style='padding: 10px;'>$15,850.00</td>
-<td style='padding: 10px;'>$15,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Enterprise</td>
+<td style='padding: 10px;'>$18,300.00</td>
+<td style='padding: 10px;'>$15,800.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Adventus Singapore Pte. Ltd.<br>Web URL: https://adventus.com/ <br><br>Contact Hotline: 61003310 <br><br>Contact Email: info@adventus.com<br><br>
+ Company Name: Plus 65 Marketing Pte Ltd<br>Web URL: https://warelycorp.com/<br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

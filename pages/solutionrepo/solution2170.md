@@ -1,15 +1,15 @@
 ---
-title: 'Packing machine'
+title: 'Milking Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
-## Packing machine
+## Milking Machine
 
 ## Overview
 
 **Description**
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that automates the packing of farm produce with high speed and high de
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

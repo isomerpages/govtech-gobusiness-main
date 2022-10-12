@@ -1,15 +1,15 @@
 ---
-title: 'AirGo 360- Virtual Sites platform'
+title: 'Enhanzcom - FITPRISE Sales Inventory System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2622
 ---
 
-## AirGo 360- Virtual Sites platform
+## Enhanzcom - FITPRISE Sales Inventory System
 
 ## Overview
 
 **Description**
 
-Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360- street view" simply and quickly. Our platform has helped extend progress supervision, enable faster site documentation & progress claims, and provide evidence to reduce costly variation orders & disputes. In this pandemic, we help teams overcome communication gaps caused by restricted physical site access.
+FITPRISE Sales & Inventory System is a flexible business system platform for Sales and Stock Inventory operations. System provides tracking of sales leads through to quotation creation and/or management of the issuance, receipt and movement of stock inventory items. The solution provides the flexibility to create customized reports, fields, logic to meet the SMEs operations workflow. This helps with user system acceptance as system processes are more familiar to their daily operations.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=5,000sqm)</td>
-<td style='padding: 10px;'>$11,700.00</td>
-<td style='padding: 10px;'>$11,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=15,000sqm)</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=50,000sqm)</td>
-<td style='padding: 10px;'>$17,700.00</td>
-<td style='padding: 10px;'>$17,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=100,000sqm)</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AirGo 360- Virtual Sites platform - Annual Project Subscription (GFA <=200,000sqm)</td>
-<td style='padding: 10px;'>$27,300.00</td>
-<td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanzcom - FITPRISE Sales & Inventory System - (5 users)</td>
+<td style='padding: 10px;'>$26,900.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom_Inventory_20210029_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 
 ## Vendor Information
 
- Company Name: Airsquire Pte. Ltd.<br>Web URL: www.airsquire.ai <br><br>Contact Hotline: 91190708 <br><br>Contact Email: hello@airsquire.ai <br><br>
+ Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

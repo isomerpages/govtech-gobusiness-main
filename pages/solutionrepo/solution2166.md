@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: 'Humidifier Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2166
 ---
 
-## Automated Irrigation Equipment/ System
+## Humidifier Equipment
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Water efficient irrigation system (e.g. sprinkler)
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

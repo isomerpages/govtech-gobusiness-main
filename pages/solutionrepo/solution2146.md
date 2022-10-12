@@ -1,15 +1,15 @@
 ---
-title: 'Live Pump'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution2146
 ---
 
-## Live Pump
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ An equipment that ensure safe, gentle, fast way to transfer produce.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

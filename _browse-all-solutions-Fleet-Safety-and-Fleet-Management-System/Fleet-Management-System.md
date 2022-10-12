@@ -28,40 +28,40 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1458' target='_blank'>Automotive Tracking System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution25' target='_blank'>Fleet Management Solutions</a><br></td>
+<td>W.L.P CONSULTANTS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1481' target='_blank'>Automotive Tracking System</a><br></td>
 <td>Track 365 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1553' target='_blank'>IVMS (Intelligent Vehicle Monitoring System) Version 7</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1576' target='_blank'>IVMS (Intelligent Vehicle Monitoring System) Version 7</a><br></td>
 <td>SMARTCOMM ELECTRONICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1686' target='_blank'>SoloTracking Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1709' target='_blank'>SoloTracking Version 2</a><br></td>
 <td>Solo Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2058' target='_blank'>FleetManager Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2081' target='_blank'>FleetManager Version 5.0</a><br></td>
 <td>LOGISFLEET PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2317' target='_blank'>vTrak Version 1.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2334' target='_blank'>vTrak Version 1.4</a><br></td>
 <td>IDEE INFOCOM PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2354' target='_blank'>CROSSTRACK GO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2371' target='_blank'>CROSSTRACK GO</a><br></td>
 <td>CROSSTRACK PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3301' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3302' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>Pivotal Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3464' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3465' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
 <td>FocusGuard Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3496' target='_blank'>Fleet Management Solutions</a><br></td>
-<td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 </table>
 

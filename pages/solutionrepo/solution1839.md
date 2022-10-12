@@ -1,15 +1,18 @@
 ---
-title: 'HeartVoice Telehealth Platform'
+title: 'Ecommerce Online Shop + SEO and Digital Marketing Setup'
 permalink: /productivity-solutions-grant/solutionrepo/solution1839
 ---
 
-## HeartVoice Telehealth Platform
+## Ecommerce Online Shop + SEO and Digital Marketing Setup
 
 ## Overview
 
 **Description**
 
-The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes 
+You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!
+Vue Tech not only build up a website for you, but also helps you to set up all the infrastructure you need to promote your business on the internet.
+Vue tech provides eCommerce website setup, digital marketing setup & optimization, SEO setup & consultation, with a great performance track record.
+Vue tech build long term business channel for you!
 
 ## Solution Packages Option(s)
 
@@ -23,27 +26,27 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (1 Doctor)</td>
-<td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Basic)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (2 Doctors)</td>
-<td style='padding: 10px;'>$3,680.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Premium)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase 
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: HeartVoice Pte Ltd<br>Web URL: www.ourheartvoice.com<br>Contact Hotline: 64631795<br>Contact Email: hs@ourheartvoice.com<br>
+ Company Name: VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

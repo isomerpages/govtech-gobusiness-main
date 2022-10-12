@@ -1,15 +1,15 @@
 ---
-title: 'Rainwater harvesting system and storage tank'
+title: 'Manure Treatment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2169
 ---
 
-## Rainwater harvesting system and storage tank
+## Manure Treatment System
 
 ## Overview
 
 **Description**
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system with pumps, tanks and purification systems that collects and stores rai
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

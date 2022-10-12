@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3533
 
 **Description**
 
-To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Ltd in partnership with Fortinet, introduce Zebedee Total Fortified Cyber Security's NGFW (Next-Generation Firewall) Solution. It provides managed service for network perimeter security monitoring using the Fortigate F - Series Cyber Unified Threat Protection (UTP) Solution. Supported by a team of experienced engineers, Zebedee will be able to ensure round-the-clock coverage so that business owners can have their ease 
+To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Ltd in partnership with Fortinet, introduce Zebedee Total Fortified Cyber Security's NGFW (Next-Generation Firewall) Solution. It provides managed service for network perimeter security monitoring using the Fortigate F - Series Cyber Unified Threat Protection (UTP) Solution. Supported by a team of experienced engineers, Zebedee will be able to ensure round-the-clock coverage so that business owners can have their ease. 
 
 ## Solution Packages Option(s)
 

@@ -1,15 +1,15 @@
 ---
-title: 'Temperature montoring/ labelling device'
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution2173
 ---
 
-## Temperature montoring/ labelling device
+## Pasteurisation Equipment/ Plant
 
 ## Overview
 
 **Description**
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Accurate infrared temperature monitoring and labelling devices that improves pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

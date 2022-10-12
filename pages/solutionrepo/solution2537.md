@@ -1,15 +1,15 @@
 ---
-title: 'Aggregate Cloud Accounting Software (Xero)'
+title: 'DM OOm Digital Performance Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2537
 ---
 
-## Aggregate Cloud Accounting Software (Xero)
+## DM OOm Digital Performance Marketing Package
 
 ## Overview
 
 **Description**
 
-Aggregate Consultancy Services provides one stop digital solution to digitalise the sales, accounting, taxation, human resource management process. We address the challenges of limited resources and manpower faced by start-ups and SMEs so that their business owners and managers are able to spend more productive time growing the businesses instead of handling much of the back-office process. Supported by Xero, we aim to increase the odds of business success in the challenging environment.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Aggregate Consultancy Services provides one stop digital solution to digitalise 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package A (Starter)</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package B (Essential)</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package C (Premium)</td>
-<td style='padding: 10px;'>$5,520.00</td>
-<td style='padding: 10px;'>$5,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package D (Premium Plus)</td>
-<td style='padding: 10px;'>$6,720.00</td>
-<td style='padding: 10px;'>$6,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/SEM Advanced Combo</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Aggregate Consultancy Services Pte. Ltd.<br>Web URL: https://www.incorporateyour.com <br><br>Contact Hotline: 63349329 <br><br>Contact Email: sales@incorporateyour.com <br><br>
+ Company Name: OOM PTE LTD<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
