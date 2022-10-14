@@ -4,16 +4,9 @@ permalink: /covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-an
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Marriage Solemnization and Receptions [Updated as of 26 August 2022]
-
-#### I. Latest COVID-19 Situation
+### Marriage Solemnization and Receptions [Updated as of 14 October 2022]
 
 {% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="b" %}
-
-#### II. General Safe Management Measures
-
-{% include letter-accordion.html accordions=site.data.acc088-marriage-solemnizations-and-receptions letter="c" %}
-
 
 [Back to Covid-19 Overview](/covid/)
 
