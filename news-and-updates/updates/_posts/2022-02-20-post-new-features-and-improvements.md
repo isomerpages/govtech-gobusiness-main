@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New features launched on GoBusiness'
-permalink: /news-and-updates/updates/2022Q1-new-features
+permalink: /news-and-updates/news/2022Q1-new-features
 published: true
 ---
 

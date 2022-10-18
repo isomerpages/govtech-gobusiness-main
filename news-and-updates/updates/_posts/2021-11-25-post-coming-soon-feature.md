@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coming Soon: A New Home for Your Business Transactions'
-permalink: /news-and-updates/updates/coming-soon-feature
+permalink: /news-and-updates/news/coming-soon-feature
 published: true
 ---
 
