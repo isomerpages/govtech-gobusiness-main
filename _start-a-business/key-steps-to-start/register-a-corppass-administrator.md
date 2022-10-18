@@ -19,7 +19,7 @@ Now that you've registered your business, the next thing you must have to transa
 There are two ways to register for a Corppass
 Administrator Account:
 
-    1. [Register via GoBusiness](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"};
+    1. [Register via GoBusiness](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"}
         
         i. Log in using your Singpass
         
