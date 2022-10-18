@@ -1,9 +1,9 @@
 ---
-title: 'Weeloy Reservation System & Table Management Suite'
+title: 'Weeloy Reservation System Table Management Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution3171
 ---
 
-## Weeloy Reservation System & Table Management Suite
+## Weeloy Reservation System Table Management Suite
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'DM Social Media Marketing (Brand Awareness & Lead Generation)'
+title: 'DM Social Media Marketing (Brand Awareness Lead Generation)'
 permalink: /productivity-solutions-grant/solutionrepo/solution3526
 ---
 
-## DM Social Media Marketing (Brand Awareness & Lead Generation)
+## DM Social Media Marketing (Brand Awareness Lead Generation)
 
 ## Overview
 

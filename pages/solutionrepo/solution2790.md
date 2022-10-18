@@ -1,9 +1,9 @@
 ---
-title: 'MuRho Inventory Management & Sales Management System'
+title: 'MuRho Inventory Management Sales Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2790
 ---
 
-## MuRho Inventory Management & Sales Management System
+## MuRho Inventory Management Sales Management System
 
 ## Overview
 

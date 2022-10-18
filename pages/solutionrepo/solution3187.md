@@ -1,9 +1,9 @@
 ---
-title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
+title: 'Advanced Human Hazard Avoidance Alert Systems Version 01'
 permalink: /productivity-solutions-grant/solutionrepo/solution3187
 ---
 
-## Advanced Human Hazard Avoidance & Alert Systems Version 01
+## Advanced Human Hazard Avoidance Alert Systems Version 01
 
 ## Overview
 

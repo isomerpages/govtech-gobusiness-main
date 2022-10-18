@@ -1,9 +1,9 @@
 ---
-title: 'Redoc - Document Management & Transaction Records Version 1.0'
+title: 'Redoc - Document Management Transaction Records Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2727
 ---
 
-## Redoc - Document Management & Transaction Records Version 1.0
+## Redoc - Document Management Transaction Records Version 1.0
 
 ## Overview
 

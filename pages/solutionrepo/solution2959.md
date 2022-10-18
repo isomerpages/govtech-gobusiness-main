@@ -1,9 +1,9 @@
 ---
-title: 'SAP Business One SQL & HANA Version 10.0'
+title: 'SAP Business One SQL HANA Version 10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2959
 ---
 
-## SAP Business One SQL & HANA Version 10.0
+## SAP Business One SQL HANA Version 10.0
 
 ## Overview
 

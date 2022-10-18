@@ -1,9 +1,9 @@
 ---
-title: 'Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd'
+title: 'Job Redesign Consultancy - Ernst Young Advisory Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1855
 ---
 
-## Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+## Job Redesign Consultancy - Ernst Young Advisory Pte Ltd
 
 ## Overview
 

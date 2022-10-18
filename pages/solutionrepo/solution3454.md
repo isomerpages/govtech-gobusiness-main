@@ -1,9 +1,9 @@
 ---
-title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
+title: 'Verz Design Magento, WooCommerce Shopify Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution3454
 ---
 
-## Verz Design Magento, WooCommerce & Shopify Solutions
+## Verz Design Magento, WooCommerce Shopify Solutions
 
 ## Overview
 

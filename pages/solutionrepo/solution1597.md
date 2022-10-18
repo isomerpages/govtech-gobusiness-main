@@ -1,9 +1,9 @@
 ---
-title: 'A-Class Accounting & Sales Management by Sleek Version 1'
+title: 'A-Class Accounting Sales Management by Sleek Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1597
 ---
 
-## A-Class Accounting & Sales Management by Sleek Version 1
+## A-Class Accounting Sales Management by Sleek Version 1
 
 ## Overview
 

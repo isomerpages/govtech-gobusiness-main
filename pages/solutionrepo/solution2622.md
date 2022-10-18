@@ -1,9 +1,9 @@
 ---
-title: 'Enhanzcom - FITPRISE Sales & Inventory System'
+title: 'Enhanzcom - FITPRISE Sales Inventory System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2622
 ---
 
-## Enhanzcom - FITPRISE Sales & Inventory System
+## Enhanzcom - FITPRISE Sales Inventory System
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0'
+title: 'Wecome ONE Wireless Digital Ordering Online Payment Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2940
 ---
 
-## Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0
+## Wecome ONE Wireless Digital Ordering Online Payment Version 1.0
 
 ## Overview
 

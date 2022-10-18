@@ -1,9 +1,9 @@
 ---
-title: 'Synergix E1 Sales & Accounting'
+title: 'Synergix E1 Sales Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution3295
 ---
 
-## Synergix E1 Sales & Accounting
+## Synergix E1 Sales Accounting
 
 ## Overview
 
