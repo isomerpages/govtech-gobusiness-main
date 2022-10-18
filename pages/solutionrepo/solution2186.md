@@ -1,9 +1,9 @@
 ---
-title: 'Climate Environment Monitoring Control Equipment/ System'
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2186
 ---
 
-## Climate Environment Monitoring Control Equipment/ System
+## Climate & Environment Monitoring Control Equipment/ System
 
 ## Overview
 

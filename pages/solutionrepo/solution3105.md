@@ -1,9 +1,9 @@
 ---
-title: 'FirstCom Online Food Ordering Payment System'
+title: 'FirstCom Online Food Ordering & Payment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution3105
 ---
 
-## FirstCom Online Food Ordering Payment System
+## FirstCom Online Food Ordering & Payment System
 
 ## Overview
 

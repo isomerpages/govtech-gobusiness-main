@@ -1,9 +1,9 @@
 ---
-title: 'MEGAPOS Beauty Wellness'
+title: 'MEGAPOS Beauty & Wellness'
 permalink: /productivity-solutions-grant/solutionrepo/solution3419
 ---
 
-## MEGAPOS Beauty Wellness
+## MEGAPOS Beauty & Wellness
 
 ## Overview
 

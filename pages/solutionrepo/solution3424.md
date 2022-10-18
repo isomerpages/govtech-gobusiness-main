@@ -1,9 +1,9 @@
 ---
-title: 'InSight QSE Electronic Permit-To-Work (ePTW) Safety System'
+title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
 permalink: /productivity-solutions-grant/solutionrepo/solution3424
 ---
 
-## InSight QSE Electronic Permit-To-Work (ePTW) Safety System
+## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
 
 ## Overview
 

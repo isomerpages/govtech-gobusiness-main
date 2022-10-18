@@ -1,9 +1,9 @@
 ---
-title: 'ZettApps Finance Order Processing Version 4.2'
+title: 'ZettApps Finance & Order Processing Version 4.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1899
 ---
 
-## ZettApps Finance Order Processing Version 4.2
+## ZettApps Finance & Order Processing Version 4.2
 
 ## Overview
 
