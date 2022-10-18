@@ -71,5 +71,5 @@ Though it can be optional depending on your type of business, having a dedicated
 
 And with that, you're now a business owner! The journey, however, has just begun. Take your learning even further and read up on [tips to creatively market your brand](/gobusiness-blog/marketurbrand){:target="_blank"}{:rel="noopener"}, or learn to [manage your new business on the GoBusiness Dashboard](https://www.gobusiness.gov.sg/gobusiness-blog/dashboard){:target="_blank"}{:rel="noopener"}.
 
-###### This article is accurate as at 13 Oct 2022
+###### This article is accurate as at 18 Oct 2022
 
