@@ -59,18 +59,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3460' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>AFON Systems Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3543' target='_blank'>SAP Business One</a><br></td>
-<td>AFON Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3573' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Microlabs Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3583' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Winspire Solutions Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

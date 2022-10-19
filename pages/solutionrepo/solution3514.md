@@ -36,7 +36,7 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 
 ## Vendor Information
 
- Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
+ Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

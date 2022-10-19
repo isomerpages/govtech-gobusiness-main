@@ -107,10 +107,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3487' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3578' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
-<td>OCi System Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

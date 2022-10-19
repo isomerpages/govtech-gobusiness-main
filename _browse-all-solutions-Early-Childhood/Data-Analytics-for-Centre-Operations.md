@@ -12,6 +12,14 @@ Up to 70% for SMEs, 50% for non-SMEs
 
 This solution is supported by Early Child Development Agency (ECDA).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505550'  target='_blank' rel='noopener'>1. NICF-Data Storytelling with Tableau</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018500642'  target='_blank' rel='noopener'>2. Data Analytics for Workplace</a><br>
+<a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020501276'  target='_blank' rel='noopener'>3. Full Tableau Training</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -26,10 +34,6 @@ This solution is supported by Early Child Development Agency (ECDA).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2889' target='_blank'>Tableau Visualization</a><br></td>
 <td>Oak Consulting Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3684' target='_blank'>SSJ-Related</a><br></td>
-<td></td>
 </tr>
 </table>
 

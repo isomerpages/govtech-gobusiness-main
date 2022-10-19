@@ -37,7 +37,7 @@ Our consultants have done Job and Process Redesign projects across various indus
 
 ## Vendor Information
 
- Company name: SFIC Institute Pte. Ltd.<br>Web URL: www.sficinstitute.edu.sg<br>Contact Name: Dominic Ng (CEO)<br>Contact Hotline: 8118 2517<br>Contact Email: dominic@sficinstitute.edu.sg
+ Company name: SFIC Institute Pte. Ltd.<br>Web URL: www.sficinstitute.edu.sg<br>Contact Hotline: 8118 2517<br>Contact Email: dominic@sficinstitute.edu.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

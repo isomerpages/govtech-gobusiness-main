@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Building and Construction Authority (BCA).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021007501'  target='_blank' rel='noopener'>1. BIM Intermediate Essential Training - Structural Modelling</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014590'  target='_blank' rel='noopener'>2. Projects-based BIM Revit Basic and Documentation Training</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014378'  target='_blank' rel='noopener'>3. Projects-based BIM Revit Architecture Modelling Advanced</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -26,10 +34,6 @@ This solution is supported by Building and Construction Authority (BCA).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2633' target='_blank'>AirGo 360- Virtual Sites platform</a><br></td>
 <td>Airsquire Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3672' target='_blank'>SSJ-Related</a><br></td>
-<td></td>
 </tr>
 </table>
 

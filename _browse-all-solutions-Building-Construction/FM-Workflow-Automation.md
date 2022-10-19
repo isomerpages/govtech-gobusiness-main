@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Building and Construction Authority (BCA).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2017506383'  target='_blank' rel='noopener'>1. Airflow modelling using Computational Fluid Dynamics</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015502157'  target='_blank' rel='noopener'>2. Higher Nitec in Facility Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014139'  target='_blank' rel='noopener'>3. Digital Workplace:Business Process and Workflow Automation</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -50,10 +58,6 @@ This solution is supported by Building and Construction Authority (BCA).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2676' target='_blank'>Simplify Version 1</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3663' target='_blank'>SSJ-Related</a><br></td>
-<td></td>
 </tr>
 </table>
 
