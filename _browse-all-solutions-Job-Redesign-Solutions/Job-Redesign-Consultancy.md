@@ -67,6 +67,14 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3515' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
 <td>SFIC Institute Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3596' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
+<td>KLC International Institute Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3597' target='_blank'>Job Redesign Consultancy - School of Business, Business Innovation Centre (BIC) </a><br></td>
+<td>School of Business, Business Innovation Centre (BIC)</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
