@@ -47,6 +47,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3194' target='_blank'>1ERP - Singapore ERP</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3553' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td>Xintesys Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3555' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td>Zetta Solution Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

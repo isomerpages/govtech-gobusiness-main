@@ -283,6 +283,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3527' target='_blank'>ASFA Xero Accounting Software</a><br></td>
 <td>ASFA MANAGEMENT PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3548' target='_blank'>AUTOCOUNT ACCOUNTING SOFTWARE Version 2</a><br></td>
+<td>I SOFT BUSINESS SOLUTIONS PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -12,14 +12,6 @@ Up to 70% for SMEs, 50% for non-SMEs
 
 This solution is supported by Early Child Development Agency (ECDA).
 
-**Recommended courses**
-
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
-
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020503896'  target='_blank' rel='noopener'>1. Effective Office and Administrative Skills</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020000399'  target='_blank' rel='noopener'>2. Interpersonal Communication, Active Listening & Empathetic Speaking</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505601'  target='_blank' rel='noopener'>3. Adapt to Change</a><br>
-
 ## Pre-Approved Solutions
 
 <table>
@@ -38,6 +30,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2699' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3681' target='_blank'>SSJ-Related</a><br></td>
+<td></td>
 </tr>
 </table>
 
