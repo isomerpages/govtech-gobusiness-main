@@ -36,7 +36,7 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 
 ## Vendor Information
 
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806   
+ Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
