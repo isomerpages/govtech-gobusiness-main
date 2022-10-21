@@ -14,25 +14,39 @@ Commercial refrigerator: Inverter technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- Bosch - KDN55NL20O
 - Bosch - KFN96PX91I
 - Bosch - KGN36XI46
 - Bosch - KGN56LB40O
 - Bosch - KGN56XI40
 - Bosch - KGN56XI40J
 - BRANDT - BFD8072NX
+- Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
+- Electrolux - EBE4500B-H
+- Electrolux - EHE5224B-A
 - Electrolux - EHE5224-B-A
 - Electrolux - ETB4600B-A
+- Electrolux - ETB4600B-G
+- Electrolux - ETB4600B-H
+- Electrolux - ETB5400B-A
+- Electrolux - ETB5400B-G
+- Electrolux - ETB5400B-H
 - Electrolux - ETE5720B-A
+- Electrolux - ETE5720B-G
+- Electrolux - EUM0500BD-SG
+- Electrolux - EUM0930BD-SG
 - EuropAce - ER 5311U
 - EuropAce - ER 5371W
 - EuropAce - ER 5461W
 - EuropAce - ER 7256W
 - FHIABA - S8990FR6
+- FHIABA - S8990FR6
 - FHIABA - S8990TST6i
 - FHIABA - S8991TST3I
 - FHIABA - S8991TST6I
 - Fisher & Paykel - RB9064S1
+- Fisher & Paykel - RS6019S2R1
 - Fisher & Paykel - RS6121SLK1
 - Fisher & Paykel - RS6121SRK1
 - Fisher & Paykel - RS7621SLK1
@@ -47,8 +61,11 @@ Commercial refrigerator: Inverter technology
 - Hitachi - R-BG415P6MSX
 - Hitachi - R-G500GS
 - Hitachi - R-HV480NS
+- Hitachi - R-HV490RS
 - Hitachi - R-HW530NS
+- Hitachi - R-HW540RS
 - Hitachi - R-HW610NS
+- Hitachi - R-HW620RS
 - Hitachi - R-HWS480KS
 - Hitachi - R-M700AGP4MSX
 - Hitachi - R-M700VAG9MSX
@@ -131,7 +148,9 @@ Commercial refrigerator: Inverter technology
 - INNOTRICS - FD-417BA
 - LG - GB-B306PZ
 - LG - GB-B3442BE
+- LG - GB-B3442MC
 - LG - GB-B3449PZ
+- LG - GB-B3862SG
 - LG - GB-B4059MT
 - LG - GB-B4059PZ
 - LG - GB-B4452PZ
@@ -148,6 +167,7 @@ Commercial refrigerator: Inverter technology
 - LG - GT-B3302PZ
 - LG - GT-B3722PZ
 - LG - GT-B3952BL
+- LG - GT-B3952BN
 - LG - GT-B4387PZ
 - LG - GT-F4781BL
 - LG - GT-M5097PZ
@@ -173,6 +193,11 @@ Commercial refrigerator: Inverter technology
 - Liebherr - SUIK 1510
 - Liebherr - SUIKo1550
 - Midea - CE-BCD640WE-JT
+- Midea - MDRB470MGD28
+- Midea - MDRS791MYC02SG
+- Midea - MDRS791MYC28SG
+- Midea - MDRS791MYC45SG
+- Midea - MDRS791MYC46SG
 - Midea - MDRT580MTB46-SG
 - Midea - MRM640S
 - Miele - K 14820 SD ed/cs
@@ -181,6 +206,8 @@ Commercial refrigerator: Inverter technology
 - Miele - K 31222 Ui
 - Miele - KF 37122 iD
 - Miele - KFNS 7734 D
+- Miele - KS 28463 D C bb
+- Miele - KS 28463 D ed/cs
 - Miele - KS 37472 iD
 - Mitsubishi Electric - MR-B46F-F-P
 - Mitsubishi Electric - MR-B46F-W-P
@@ -203,6 +230,8 @@ Commercial refrigerator: Inverter technology
 - Mitsubishi Electric - MR-F62EG-ST-P
 - Mitsubishi Electric - MR-F62EG-ST-P1
 - Mitsubishi Electric - MR-F62EG-W-P
+- Mitsubishi Electric - MR-FS51ES-BR-P
+- Mitsubishi Electric - MR-FS51ES-SSL-P
 - Mitsubishi Electric - MR-FX47EN-GBK-P
 - Mitsubishi Electric - MR-FX47EN-GWH-P
 - Mitsubishi Electric - MR-WX47LF-BR-P
@@ -249,17 +278,51 @@ Commercial refrigerator: Inverter technology
 - Panasonic - NR-F603GT-X6
 - Panasonic - NR-F654GT-SS
 - Panasonic - NR-F654GT-X6
+- Panasonic - NR-TL381
+- Panasonic - NR-TX461
 - Panasonic - NR-TX461B
 - Panasonic - NR-TX461W
 - Panasonic - NR-TZ601B
 - Panasonic - NR-YW590Y
+- Panasonic - OCU-NR300DSF
+- Panasonic - OCU-NR450DSF
+- Panasonic - OCU-NS600VSFJ
+- Panasonic - OCU-NS800VSFJ
+- Panasonic - SRF-1281ES
+- Panasonic - SRF-1581ES
+- Panasonic - SRF-1881ES
+- Panasonic - SRF-681ES
+- Panasonic - SRF-681ES-L
+- Panasonic - SRF-781ES
+- Panasonic - SRF-781ES-L
 - Panasonic - SRF-K1281A
 - Panasonic - SRF-K1281SB 
 - Panasonic - SRF-K781B
+- Panasonic - SRR-1281ES
+- Panasonic - SRR-1581ES
+- Panasonic - SRR-1881ES
+- Panasonic - SRR-681ES
+- Panasonic - SRR-681ES-L
+- Panasonic - SRR-781ES
+- Panasonic - SRR-781ES-L
 - Panasonic - SRR-K1281
 - Panasonic - SRR-K781B
+- Panasonic - SUF-1261ES
+- Panasonic - SUF-1271ES
+- Panasonic - SUF-1561ES
+- Panasonic - SUF-1561ES(E)
+- Panasonic - SUF-1571ES
+- Panasonic - SUF-1861ES
+- Panasonic - SUF-1871ES
 - Panasonic - SUF-K1271SB
 - Panasonic - SUF-K1571SB
+- Panasonic - SUR-1261ES
+- Panasonic - SUR-1561ES
+- Panasonic - SUR-1561ES(E)
+- Panasonic - SUR-1571ES
+- Panasonic - SUR-1571ES(E)
+- Panasonic - SUR-1861ES
+- Panasonic - SUR-1871ES
 - Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1571SB
 - Ryker - TF24101
@@ -291,6 +354,15 @@ Commercial refrigerator: Inverter technology
 - Samsung - RT53K6657B1
 - Samsung - RT62K7057BS
 - Samsung - RZ32T7445AP
+- Samsung - S8991TST3I
+- Sanden Intercool - SPB 0300
+- Sanden Intercool - SPB 0400
+- Sanden Intercool - SPB 0500
+- Sanden Intercool - SPE 0300
+- Sanden Intercool - SPE 0400
+- Sanden Intercool - SPE 0500
+- Sanden Intercool - SPE 0700
+- Sanden Intercool - SPE 1200
 - SHARP - SJ-PG51P2-BK
 - SHARP - SJ-PG51P2-DM
 - SHARP - SJ-PG51P2-DS
@@ -459,6 +531,7 @@ Commercial refrigerator: Inverter technology
 - Sub-Zero - ICBIC-36RID-RH
 - Sub-Zero - ICBID-24RO
 - Sub-Zero - ICBID-30R
+- Tecno - TFR 1288-V2
 - Teka - TFI3 130 D
 - Toshiba - GR-AG46SDZ
 - Toshiba - GR-AG52SDZ
