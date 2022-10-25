@@ -16,7 +16,7 @@ Find out with e-Adviser for Government Assistance, a free online tool to help yo
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/9-U_83QxBBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/9-U_83QxBBc" title="GoBusiness Gov Assist e-Adviser" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
