@@ -9,7 +9,7 @@ description: Learn more about Angeline Pang, founder of homegrown floral studio 
 ---
 
 ![Founder of The Florte Angeline Pang](/images/blog/content/Florte Feature.jpg)
-###### The Florte was born out of Founder Angeline Pang’s entrepreneurial drive, and her passion for flowers (Photo by Daniel Ho, courtesy of Angeline Pang)
+<figcaption> The Florte was born out of Founder Angeline Pang’s entrepreneurial drive, and her passion for flowers (Photo by Daniel Ho, courtesy of Angeline Pang)</figcaption>
 
 Angeline Pang has always had a fondness for flowers. Having been exposed to blooms since young, she credits her parents for her passion for floristry. 
 
@@ -28,7 +28,7 @@ Her efforts came to fruition with her labour of love, a homegrown floral studio 
 ### Challenges faced within the floristry sector
 
 ![The Florte Angeline Pang styling floral arrangement](/images/blog/content/Florte 1.jpg)
-###### Creating these pretty blooms is a time sensitive and time consuming affair due to the delicate nature of flowers (Photo by Raymond Yee, courtesy of Angeline Pang)
+<figcaption> Creating these pretty blooms is a time sensitive and time consuming affair due to the delicate nature of flowers (Photo by Raymond Yee, courtesy of Angeline Pang)</figcaption>
 
 But the floristry industry has faced its fair share of obstacles. Due to the delicate nature of flowers, creating and delivering floral arrangements is a time-sensitive affair. Arrangements cannot be created too far in advance of the delivery date in order to maintain the condition of the blooms. 
 
@@ -47,7 +47,7 @@ With events such as weddings and solemnisations being impacted by the pandemic, 
 Due to the pandemic, the price of flowers also increased which led to the challenge of striking a balance between raising the prices of floral arrangements and mitigating the impact on their sales.
 
 ![The Florte Angeline Pang styling floral arrangement](/images/blog/content/Florte 2.jpg)
-###### The impact of the pandemic on The Florte’s sales pushed Angeline to find ways to sustain her business
+<figcaption> The impact of the pandemic on The Florte’s sales pushed Angeline to find ways to sustain her business</figcaption>
 
 For her business to continue operating amid the disruptions, Angeline looked up on the safe management requirements for her sector, as well as government support schemes that her company could be eligible for. 
 
@@ -63,4 +63,4 @@ For aspiring business owners, Angeline recommends conducting thorough research b
 
 If you are an aspiring entrepreneur looking to kickstart a new venture, check out the [Start-up Guide](/start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to find out all you need to know about starting a business. Complete your business registration via a guided journey, and start receiving recommendations on the next steps all on GoBusiness. 
 
-###### This article is accurate as at 16 Feb 2022
+<em> This article is accurate as at 16 Feb 2022</em>

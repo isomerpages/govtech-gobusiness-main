@@ -61,5 +61,5 @@ For more alternatives, [e-services for employee training are easily accessible v
 
 While combating the Great Resignation may seem like a daunting task amid today’s manpower crunch, adopting employee retention strategies can certainly help to soften the blow. From displaying flexibility in working arrangements, to investing in your employees’ professional development, connecting with your team members and making active efforts to meet their needs can go a long way in helping them to realise their fullest potential, and boost employee retention.
 
-###### This article is accurate as at 7 Sep 2022
+<em>This article is accurate as at 7 Sep 2022</em>
 

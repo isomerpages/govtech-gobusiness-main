@@ -9,7 +9,7 @@ description: The Singpass Digital IC is a secure and convenient way to verify yo
 ---
 
 ![Singpass Digital IC](/images/blog/content/DigitalIC Feature.jpg)
-###### The Singpass Digital IC is a secure and convenient way to verify your customer’s identity, improving customer experience
+<figcaption> The Singpass Digital IC is a secure and convenient way to verify your customer’s identity, improving customer experience</figcaption>
 
 From garnering a wider reach through a digital presence, to maintaining productivity in an era of remote work – digitalisation has brought about many perks for businesses. 
 
@@ -48,7 +48,7 @@ Businesses can also verify the authenticity of a Digital IC easily by checking f
 If the crest is absent or appears static, businesses will know if the identity shown is a screenshot. Besides the crest, businesses can also request for users to tap on their devices to verify that the presented credentials are indeed accessed via the Singpass app. 
 
 ![sample digital ic](/images/blog/content/DigitalIC 1.jpg)
-###### Sample Digital IC on Singpass app
+<figcaption> Sample Digital IC on Singpass app</figcaption>
 
 ### 3. Improved privacy for customers
 
@@ -63,7 +63,7 @@ This means that businesses should not download, print, or store recordings or sc
 For secure data collection, businesses may consider an API integration with Singpass [Verify](https://api.singpass.gov.sg/library/verify/business/introduction){:target="_blank"}{:rel="noopener"} or [Myinfo](https://api.singpass.gov.sg/library/myinfo/business/introduction){:target="_blank"}{:rel="noopener"}.
 
 ![contactless transaction](/images/blog/content/DigitalIC 2.jpg)
-###### Simply scan the barcode on your customer’s Digital IC for a contactless transaction
+<figcaption> Simply scan the barcode on your customer’s Digital IC for a contactless transaction</figcaption>
 
 ### 4. Contactless identity verification for businesses
 
@@ -74,5 +74,5 @@ Accepting the Digital IC can give businesses a more convenient, secure, and cont
 **Ready to accept the Digital IC at your business? Download the “Singpass Digital IC Accepted Here” wobbler [here](https://api.singpass.gov.sg/library/digital-ic/introduction){:target="_blank"}{:rel="noopener"}, and let your customers know they can present their Digital IC as proof of identity.**
 
 
-###### This article is accurate as at 22 Mar 2022
+<em> This article is accurate as at 22 Mar 2022</em>
 
