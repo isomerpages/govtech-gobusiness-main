@@ -1,9 +1,9 @@
 ---
-title: 'Simpliify E-commerce Version 1'
+title: 'Simpliify''s E-commerce Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution3353
 ---
 
-## Simpliify E-commerce Version 1
+## Simpliify''s E-commerce Version 1
 
 ## Overview
 
