@@ -1,7 +1,7 @@
 panels:
   - title: Guides for Businesses
     image: /images/signpost.svg
-    alt: signpost
+    alt: ""
     links:
       - text: e-Adviser for Events
         href: https://eadviser.gobusiness.gov.sg/events?src=eservices_panel
@@ -18,7 +18,7 @@ panels:
     info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
   - title: Employment Matters
     image: /images/employment.svg
-    alt: employment
+    alt: ""
     links:
       - text: Central Provident Fund (CPF) matters
         href: /e-services/about-cpf/
@@ -32,7 +32,7 @@ panels:
         href: /e-services/workplace-safety/
   - title: Growth and Expansion
     image: /images/growth.svg
-    alt: growth
+    alt: ""
     links:
       - text: Business opportunities
         href: /e-services/business-opportunities/

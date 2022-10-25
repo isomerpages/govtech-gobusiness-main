@@ -1,7 +1,7 @@
 panels:
   - title: Guides for Businesses
     image: /images/signpost.svg
-    alt: signpost
+    alt: ""
     links:
       - text: "e-Adviser for Home-Based Business <span style='background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;'> NEW!</span>"
         href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_panel
@@ -20,7 +20,7 @@ panels:
     info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
   - title: Licences and Permits
     image: /images/licences-80.svg
-    alt: licences
+    alt: ""
     links:
       - text: Apply for licences
         href: /licences/
@@ -37,7 +37,7 @@ panels:
         target: _blank
   - title: For Covid-19
     image: /images/Covid.svg
-    alt: covid
+    alt: ""
     links:
       - text: Onsite Manpower Declaration
         href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid

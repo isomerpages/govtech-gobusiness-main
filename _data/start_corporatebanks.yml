@@ -1,18 +1,18 @@
-- image: <img src="/images/start/DBS.png">
+- image: <img src="/images/start/DBS.png" aria-hidden="true">
   title: Development Bank of Singapore (DBS)
   description: Apply in 5 mins and get access to our all-in-one corporate banking platform.
   url: https://go.dbs.com/oaos-gobusiness
   url-new-tab: true
   text: Find Out More
 
-- image: <img src="/images/start/OCBC.png">
+- image: <img src="/images/start/OCBC.png" aria-hidden="true">
   title: Oversea-Chinese Banking Corporation (OCBC)
   description: All-in-one business account. Open online instantly and get your account number on the spot. Simple, secure, convenient.
   url: https://openbizaccount.ocbc.com/obao/?product=BGA,MCBA&source1=GoBusiness
   url-new-tab: true
   text: Find Out More
 
-- image: <img src="/images/start/UOB.png">
+- image: <img src="/images/start/UOB.png" aria-hidden="true">
   title: United Overseas Bank (UOB)
   description: Save S$500 p.a & 12-mth min balance fee waiver with UOB eBusiness account*. *Insured up to S$75k by SDIC.<br>T&Cs apply.
   url: https://www.uob.com.sg/business/transact/ebusiness-account.page?s_cid=bb:sg:paid:aff:site:na:na:na:ebusiness:090921-evergreen:na:na:na&vid=na
