@@ -48,6 +48,6 @@ There are 2 ways to find out which business structure suits you best:
 ### Watch this video to learn more about the different business structures.
 
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/AUDy57BK-rU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/AUDy57BK-rU" title="Different Types of Business Entities" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 

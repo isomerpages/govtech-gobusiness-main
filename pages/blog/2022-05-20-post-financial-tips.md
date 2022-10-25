@@ -9,7 +9,7 @@ description: Everything new business owners need to know about finance when star
 ---
 
 ![Business Finance](/images/blog/content/FinancialTips Feature.jpg)
-###### Starting a business is tough enough without needing to worry about how to navigate financial processes. This guide will cover four finance need-to-knows for every new business owner (Source: Canva)
+<figcaption> Starting a business is tough enough without needing to worry about how to navigate financial processes. This guide will cover four finance need-to-knows for every new business owner (Source: Canva)</figcaption>
 
 Businesses are often founded on dreams, ideals, and a burning desire to enact change. But while these serve as the fuel to stoke the flames, it is the slow burning wood that keeps a fire going. 
 
@@ -18,7 +18,7 @@ And as unglamourous as it is, a business’ cash flow is vital to its survival, 
 ### 1. Start a corporate bank account
 
 ![Corporate Bank Adccount](/images/blog/content/FinancialTips 1.jpg)
-###### Manage a business’ finances easily by setting up a corporate bank account (Source: Canva)
+<figcaption> Manage a business’ finances easily by setting up a corporate bank account (Source: Canva)</figcaption>
 
 A [corporate bank account](/start-a-business/open-a-corporate-bank-account/){:target="_blank"}{:rel="noopener"} is one of the first steps business owners should take when starting their business. 
 
@@ -31,7 +31,7 @@ Business owners should also prepare the necessary documents prior to heading to 
 ### 2. Corporate tax, rebates, and tax exemptions
 
 ![Corporate Tax](/images/blog/content/FinancialTips 2.jpg)
-###### Paying a corporate income tax is mandatory for all registered firms in Singapore. This section guides new business owners through the process (Source: Canva)
+<figcaption> Paying a corporate income tax is mandatory for all registered firms in Singapore. This section guides new business owners through the process (Source: Canva)</figcaption>
 
 All registered companies must pay a [corporate income tax](https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/basic-guide-to-corporate-income-tax-for-companies#determining-your-company-s-first-year-of-assessment--ya-){:target="_blank"}{:rel="noopener"} fixed at a flat rate of 17 per cent of its chargeable income. To help companies ease their business costs, however, rebates and tax exemption schemes are available. 
 
@@ -48,7 +48,7 @@ Employers can also check out the GoBusiness page on [Taxes and GST](/e-services/
 ### 3. Hiring employees 
 
 ![Hiring First Employee](/images/blog/content/FinancialTips 3.jpg)
-###### As businesses expand, new employees come on board. Here are the financial considerations business owners need to have before hiring (Source: Canva)
+<figcaption> As businesses expand, new employees come on board. Here are the financial considerations business owners need to have before hiring (Source: Canva)</figcaption>
 
 [Hiring the first employee](/start-a-business/hire-employees/){:target="_blank"}{:rel="noopener"} of any business is an exciting (and slightly daunting) prospect, with many other finance matters besides just wages. 
 
@@ -63,7 +63,7 @@ Additionally, employers are responsible for [filing taxes](https://www.iras.gov.
 ### 4. Bookkeeping
 
 ![Business Bookkeeping](/images/blog/content/FinancialTips 4.jpg)
-###### Bookkeeping can be a tedious process, but there are plenty of tech tools which can help (Source: Canva)
+<figcaption> Bookkeeping can be a tedious process, but there are plenty of tech tools which can help (Source: Canva)</figcaption>
 
 If all of the above sounds intimidating, fret not! Tools are available online to help business owners with their financial accounting and stay on top of everything. 
 
@@ -81,5 +81,5 @@ As tedious as finances can be, they are necessary and unavoidable. But with prop
 
 **Are you an aspiring entrepreneur looking to start your very first business? Use the GoBusiness [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname){:target="_blank"}{:rel="noopener"} to take you through your first steps!**
 
-###### This article is accurate as at 20 May 2022
+<em> This article is accurate as at 20 May 2022</em>
 

@@ -27,7 +27,7 @@ With a **cleaner and neater** layout, business users can easily find all the **e
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/1PPXLGZmZXw?autoplay=1&controls=0&loop=1&playlist=1PPXLGZmZXw&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/1PPXLGZmZXw?autoplay=1&controls=0&loop=1&playlist=1PPXLGZmZXw&amp;showinfo=0" title="Preview of Dashboard" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -39,7 +39,7 @@ With a **single, personalised dashboard** to support users through the whole bus
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/2BOhxdf9xYc?autoplay=1&controls=0&loop=1&playlist=2BOhxdf9xYc&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/2BOhxdf9xYc?autoplay=1&controls=0&loop=1&playlist=2BOhxdf9xYc&amp;showinfo=0" title="Preview of Licence Application" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -51,7 +51,7 @@ To better cater to the unique needs of businesses, the new dashboard will also p
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/1ub4jq_iv5s?autoplay=1&controls=0&loop=1&playlist=1ub4jq_iv5s&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/1ub4jq_iv5s?autoplay=1&controls=0&loop=1&playlist=1ub4jq_iv5s&amp;showinfo=0" title="Preview of Start a Business e-Adviser"frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 

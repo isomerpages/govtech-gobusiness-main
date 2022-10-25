@@ -1,7 +1,7 @@
 panels:
   - title: New Business Owners
     image: /images/new business.svg
-    alt: new_business
+    alt: ""
     links:
       - text: Business registration matters
         href: /e-services/biz-registration-matters/
@@ -9,7 +9,7 @@ panels:
         href: /e-services/essential-biz-regulations/
   - title: Accounting and Finance
     image: /images/accounting.svg
-    alt: accounting
+    alt: ""
     links:
       - text: Government assistance for businesses
         href: /e-services/gov-assist-biz/
@@ -17,7 +17,7 @@ panels:
         href: /e-services/taxes-and-gst/
   - title: Business Administration
     image: /images/business admin.svg
-    alt: business_admin
+    alt: ""
     links:
       - text: Change in owner or director
         href: /e-services/change-in-owner-or-director/
@@ -29,7 +29,7 @@ panels:
         href: /e-services/winding-down-a-biz/
   - title: Employment Matters
     image: /images/employment.svg
-    alt: employment
+    alt: ""
     links:
       - text: Central Provident Fund (CPF) matters
         href: /e-services/about-cpf/
@@ -43,7 +43,7 @@ panels:
         href: /e-services/workplace-safety/
   - title: Growth and Expansion
     image: /images/growth.svg
-    alt: growth
+    alt: ""
     links:
       - text: Business opportunities
         href: /e-services/business-opportunities/

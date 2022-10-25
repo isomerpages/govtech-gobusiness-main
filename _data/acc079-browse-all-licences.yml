@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: Animal & Veterinary Service
+    - title: Animal & Veterinary Service (AVS)
       content: |
         **Certificate of Freedom From Disease Within Singapore**
 
@@ -105,7 +105,7 @@
 - accordion:
   letter: b
   data:
-    - title: Building and Construction Authority
+    - title: Building and Construction Authority (BCA)
       content: |
         **Advertising Sign/ Signboard Licence**
 
@@ -138,7 +138,7 @@
 
         <a class="btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on BCA</a>&emsp;[View Licence Details](/browse-all-licences/Building-and-Construction-Authority-(BCA)/Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation)
 
-    - title: Board of Architects
+    - title: Board of Architects (BOA)
       content: |
         **Licence to Supply Architectural Services**
 
@@ -149,7 +149,7 @@
 - accordion:
   letter: c
   data:
-    - title: Civil Aviation Authority of Singapore
+    - title: Civil Aviation Authority of Singapore (CAAS)
       content: |
         **Air Operator Certificate**
 
@@ -240,7 +240,7 @@
 
         <a class="btn" href="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/air-operators/dangerous-goods-permit" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;[View Licence Details](/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permits-for-Carriage-of-Dangerous-Goods)
 
-    - title: Council for Estate Agencies
+    - title: Council for Estate Agencies (CEA)
       content: |
         **Estate Agent Licence and Salesperson Registration**
 
@@ -248,7 +248,7 @@
 
         <a class="btn" href="http://www.cea.gov.sg/" target="_blank" rel="noopener">Apply on CEA</a>&emsp;[View Licence Details](/browse-all-licences/Council-for-Estate-Agencies-(CEA)/Estate-Agent-Licence-and-Salesperson-Registration)
 
-    - title: Central Narcotics Bureau
+    - title: Central Narcotics Bureau (CNB)
       content: |
         **Company Registration (CR)**
 
@@ -267,7 +267,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL))
 
-    - title: Cybersecurity Services Regulation Office
+    - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
         **Managed Security Operations Centre (SOC) Monitoring Service Licence**
 
@@ -285,7 +285,7 @@
 - accordion:
   letter: e
   data:
-    - title: Early Childhood Development Agency
+    - title: Early Childhood Development Agency (ECDA)
       content: |
         **Early Childhood Development Centre Licence**
 
@@ -295,7 +295,7 @@
 
         <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/c652c95e-3d1d-43da-b07d-ae78931c29a0" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Early-Childhood-Development-Agency-(ECDA)/Early-Childhood-Development-Centre-Licence)
 
-    - title: Economic Development Board
+    - title: Economic Development Board (EDB)
       content: |
         **Certificate of Registration Under The Control of Manufacture Act**
 
@@ -314,7 +314,7 @@
 
         &emsp;[View Licence Details](/browse-all-licences/Economic-Development-Board-(EDB)/Licence-Under-The-Manufacture-of-Optical-Discs-Act)
 
-    - title: Energy Market Authority
+    - title: Energy Market Authority (EMA)
       content: |
         **Electricity Generation**
 
@@ -351,7 +351,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=283" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer)
 
-    - title: Enterprise Singapore
+    - title: Enterprise Singapore (EnterpriseSG)
       content: |
         **Rice Licence**
 
@@ -373,7 +373,7 @@
 - accordion:
   letter: h
   data:
-    - title: Housing & Development Board
+    - title: Housing & Development Board (HDB)
       content: |
         **Application for Changes (HDB Commercial Properties)**
 
@@ -406,7 +406,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=20" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB))
 
-    - title: Hotels Licensing Board
+    - title: Hotels Licensing Board (HLB)
       content: |
         **Certificate of Registration and Hotel-keeper's Licence**
 
@@ -416,7 +416,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Hotels-Licensing-Board-(HLB)/Certificate-of-Registration-and-Hotel-keeper's-Licence)
 
-    - title: Health Sciences Authority
+    - title: Health Sciences Authority (HSA)
       content: |
         **Tobacco Retail Licence**
 
@@ -429,7 +429,7 @@
 - accordion:
   letter: i
   data:
-    - title: Infocomm Media Development Authority
+    - title: Infocomm Media Development Authority (IMDA)
       content: |
         **Aircraft Station Licence**
 
@@ -854,7 +854,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=34" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Wide-Area-Private-Network-Licence)
 
-    - title: Intellectual Property Office of Singapore
+    - title: Intellectual Property Office of Singapore (IPOS)
       content: |
         **Patent Agent Form A (Registration as a Singapore Patent Agent)**
 
@@ -882,7 +882,7 @@
 
         <a class="btn" href="https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx" target="_blank" rel="noopener">Apply on IPOS</a>&emsp;[View Licence Details](/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-H-(Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent))
 
-    - title: Inland Revenue Authority of Singapore
+    - title: Inland Revenue Authority of Singapore (IRAS)
       content: |
         **Appraiser's Licence (Lands and Buildings)**
 
@@ -895,7 +895,7 @@
 - accordion:
   letter: l
   data:
-    - title: Land Transport Authority
+    - title: Land Transport Authority (LTA)
       content: |
         **Application for Change of Use and Parking Layout to Existing Developments**
 
@@ -985,7 +985,7 @@
 - accordion:
   letter: m
   data:
-    - title: Monetary Authority of Singapore
+    - title: Monetary Authority of Singapore (MAS)
       content: |
         **Application for Approved MAT Insurers**
 
@@ -1088,7 +1088,7 @@
 
         <a class="btn" href="https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;[View Licence Details](/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Trust-Business-Licence)
 
-    - title: Ministry of Culture, Community and Youth
+    - title: Ministry of Culture, Community and Youth (MCCY)
       content: |
         **Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes**
 
@@ -1108,7 +1108,7 @@
 
         <a class="btn" href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" target="_blank" rel="noopener">Apply on MCCY</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Culture--Community-and-Youth-(MCCY)/Registering-A-New-Charity-or-IPC-Status)
 
-    - title: Ministry of Home Affairs
+    - title: Ministry of Home Affairs (MHA)
       content: |
         **Registry of Societies**
 
@@ -1122,7 +1122,7 @@
 
         <a class="btn" href="https://www.ros.mha.gov.sg/" target="_blank" rel="noopener">Apply on MHA</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Home-Affairs-(MHA)/Registry-of-Societies)
 
-    - title: Ministry of Law
+    - title: Ministry of Law (MINLAW)
       content: |
         **Certificate of Exemption (the Moneylenders Act (Cap.188))**
 
@@ -1168,7 +1168,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=273" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers)
 
-    - title: Ministry of Education
+    - title: Ministry of Education (MOE)
       content: |
         **Certificate of Registration of School**
 
@@ -1178,7 +1178,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Education-(MOE)/Certificate-of-Registration-of-School)
 
-    - title: Ministry of Health
+    - title: Ministry of Health (MOH)
       content: |
         **Clinical Laboratory Licence**
 
@@ -1255,7 +1255,7 @@
 
         <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Health-(MOH)/Termination-of-Pregnancy-(TOP))
 
-    - title: Ministry of Manpower
+    - title: Ministry of Manpower (MOM)
       content: |
         **Employment Agency Licence**
 
@@ -1292,7 +1292,7 @@
 
         <a class="btn" href="http://www.mom.gov.sg/passes-and-permits" target="_blank" rel="noopener">Apply on MOM</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Manpower-(MOM)/Work-passes-and-permits)
 
-    - title: Maritime and Port Authority
+    - title: Maritime and Port Authority (MPA)
       content: |
         **Accreditation Scheme for Bunker Surveying Companies**
 
@@ -1382,7 +1382,7 @@
 
         <a class="btn" href="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing" target="_blank" rel="noopener">Apply on MPA</a>&emsp;[View Licence Details](/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Pleasure-Craft-Driving-licence)
 
-    - title: Ministry of Social and Family Development
+    - title: Ministry of Social and Family Development (MSF)
       content: |
         **Licence for Residential Care Facilities**
 
@@ -1399,7 +1399,7 @@
 
         <a class="btn" href="https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx" target="_blank" rel="noopener">Apply on MSF</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Social-and-Family-Development-(MSF)/SDNTrust-Accreditation)
 
-    - title: Majlis Ugama Islam Singapura
+    - title: Majlis Ugama Islam Singapura (MUIS)
       content: |
         **Asatizah Recognition Scheme**
 
@@ -1426,7 +1426,7 @@
 - accordion:
   letter: n
   data:
-    - title: National Council of Social Service
+    - title: National Council of Social Service (NCSS)
       content: |
         **Fund raising Permit**
 
@@ -1434,7 +1434,7 @@
 
         <a class="btn" href="https://www.ncss.gov.sg/GatewayPages/Social-Service-Organisations/Funding,-Schemes-and-Common-Services/Benefit-Schemes/Fund-Raising-Permit" target="_blank" rel="noopener">Apply on NCSS</a>&emsp;[View Licence Details](/browse-all-licences/National-Council-of-Social-Service-(NCSS)/Fund-raising-Permit)
 
-    - title: National Environment Agency
+    - title: National Environment Agency (NEA)
       content: |
         **Application for Registration of Public Health Pesticide & Repellents Against Vectors**
 
@@ -1737,7 +1737,7 @@
 
         <a class="btn" href="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" target="_blank" rel="noopener">Apply on NEA</a>&emsp;[View Licence Details](/browse-all-licences/National-Environment-Agency-(NEA)/Written-Permission-to-Discharge-Trade-Effluent-into-a-Watercourse)
 
-    - title: National Parks Board
+    - title: National Parks Board (NPARKS)
       content: |
         **CITES Permit**
 
@@ -1783,7 +1783,7 @@
 - accordion:
   letter: p
   data:
-    - title: Professional Engineers Board
+    - title: Professional Engineers Board (PEB)
       content: |
         **Licence to Supply Professional Engineering Services**
 
@@ -1791,7 +1791,7 @@
 
         <a class="btn" href="https://www.peb.gov.sg/lc_commonqueries.aspx" target="_blank" rel="noopener">Apply on PEB</a>&emsp;[View Licence Details](/browse-all-licences/Professional-Engineers-Board-(PEB)/Licence-to-Supply-Professional-Engineering-Services)
 
-    - title: Public Transport Council
+    - title: Public Transport Council (PTC)
       content: |
         **Ticket Payment Service Licence (TPSL)**
 
@@ -1801,7 +1801,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=267" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Public-Transport-Council-(PTC)/Ticket-Payment-Service-Licence-(TPSL))
 
-    - title: Public Utilities Board
+    - title: Public Utilities Board (PUB)
       content: |
         **Event Permit Application for Use of Reservoir**
 
@@ -1834,7 +1834,7 @@
 - accordion:
   letter: s
   data:
-    - title: Singapore Civil Defence Force
+    - title: Singapore Civil Defence Force (SCDF)
       content: |
         **Application for Temporary Fire Permit / Fire Safety Certificate**
 
@@ -1911,7 +1911,7 @@
 
         <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/6fcfc4e9-64a3-49bf-bc76-eb825200b846" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Temporary-Change-of-Use-Permit)
 
-    - title: Singapore Food Agency
+    - title: Singapore Food Agency (SFA)
       content: |
         **Export Health Certificate**
 
@@ -2098,7 +2098,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Food-Agency-(SFA)/Temporary-Fair-Stall-Licence)
 
-    - title: Singapore Land Authority
+    - title: Singapore Land Authority (SLA)
       content: |
         **Application of Registering Property**
 
@@ -2115,7 +2115,7 @@
 
         <a class="btn" href="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences)
 
-    - title: Singapore Police Force
+    - title: Singapore Police Force (SPF)
       content: |
         **Apply for Public Entertainment Licence**
 
@@ -2398,7 +2398,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=53" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Service-Provider-Licence)
 
-    - title: SkillsFuture Singapore
+    - title: SkillsFuture Singapore (SSG)
       content: |
         **EduTrust Certification Scheme**
 
@@ -2417,7 +2417,7 @@
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions)
 
-    - title: Singapore Tourism Board
+    - title: Singapore Tourism Board (STB)
       content: |
         **Non-Renewable Temporary Occupation Licence (NRTOL)**
 
@@ -2455,7 +2455,7 @@
 - accordion:
   letter: u
   data:
-    - title: Urban Redevelopment Authority
+    - title: Urban Redevelopment Authority (URA)
       content: |
         **Approval for Additions & Alterations to a Conserved Building**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change in Corppass login
-permalink: /news-and-updates/updatess/change-in-login
+permalink: /news-and-updates/updates/change-in-login
 published: true
 ---
 

@@ -9,7 +9,7 @@ description: What makes a wedding special? Wedding planner Michelle, Founder of 
 ---
 
 ![Arches & Co Wedding Planner Founder](/images/blog/content/Wedding Feature.jpg)
-###### Having the honour to be a part of a couple’s special day is the most fulfilling thing about being a wedding planner, says Michelle Lau, Founder of Arches & Co. (Photo by By Aaron Videography) 
+<figcaption> Having the honour to be a part of a couple’s special day is the most fulfilling thing about being a wedding planner, says Michelle Lau, Founder of Arches & Co. (Photo by By Aaron Videography)</figcaption>
 
 Imagine that you are making a heartfelt wedding speech at your wedding reception and thanking your family members for all that they’ve done for you, only to realise midway through that they were preoccupied the entire time.
 
@@ -26,7 +26,7 @@ This begins long before the wedding banquet ceremony, as Michelle draws from her
 Besides that, Michelle also takes pride in making sure every wedding event delivers on a pleasant guest experience. There are many details a couple may not realise until it’s too late, she observes.
 
 ![Wedding Ceremony Wedding Dress](/images/blog/content/Wedding 1.jpg)
-###### The devil is in the details. Michelle has a hand in every aspect of the wedding – from recommending vendors to ensuring every guest is happy (Photo by By Aaron Videography)
+<figcaption>The devil is in the details. Michelle has a hand in every aspect of the wedding – from recommending vendors to ensuring every guest is happy (Photo by By Aaron Videography)</figcaption>
 
 For example, some couples may plan to have their ROM (registry of marriage) solemnisation in the morning, take some photos with the bridal party, before having a lunch reception. But while this arrangement may make sense for the couple, what about the guests? 
 
@@ -45,7 +45,7 @@ Beyond the logistical and administrative heavy lifting, however, the value that 
 ### Assuaging fears during pandemic uncertainties
 
 ![wedding planning ceremony pandemic](/images/blog/content/Wedding 2.jpg)
-###### When the pandemic hit, weddings all over were postponed or cancelled. Michelle’s role then became that of a counsellor and advisor, providing assurance and comfort to the couples (Photo by Kent Wong Photography)
+<figcaption>When the pandemic hit, weddings all over were postponed or cancelled. Michelle’s role then became that of a counsellor and advisor, providing assurance and comfort to the couples (Photo by Kent Wong Photography)</figcaption>
 
 This assurance was something that Michelle strived to provide couples with even during the tumultuous years of the pandemic. 
 
@@ -62,7 +62,7 @@ Michelle turned to [GoBusiness](/safemanagement/sector/){:target="_blank"}{:rel=
 ### Towards forever and always
 
 ![wedding planning future](/images/blog/content/Wedding 3.jpg)
-###### Moving forward, Michelle hopes to continue building up Arches & Co and providing stellar service to future brides- and grooms-to-be.
+<figcaption>Moving forward, Michelle hopes to continue building up Arches & Co and providing stellar service to future brides- and grooms-to-be.</figcaption>
 
 While Michelle did her best to uplift her clients’ spirits during the two years of the pandemic, she too was struggling with doubts and uncertainty. 
 
@@ -81,5 +81,5 @@ Today, Michelle is keeping her head up as Singapore enters an endemic state.
 
 **With restrictions easing and events once again sprouting up across the island, use GoBusiness’ [e-Adviser for Events](https://www.gobusiness.gov.sg/licences/?src=home_quicklinks){:target="_blank"}{:rel="noopener"} to find out what the regulations are surrounding large-scale business-related events.**
 
-###### This article is accurate as at 15 Jun 2022
+<em>This article is accurate as at 15 Jun 2022</em>
 

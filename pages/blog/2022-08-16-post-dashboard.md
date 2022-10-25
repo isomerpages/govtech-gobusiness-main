@@ -72,5 +72,5 @@ The Dashboard is a constant work in progress, and you can play a part in making 
 
 Bid goodbye to navigating page after page of government sites with the GoBusiness Dashboard. Businesses can now find everything they need in one single portal. This is a completely free tool designed for all businesses in Singapore, so try it out today! 
 
-###### This article is accurate as at 16 Aug 2022
+<em>This article is accurate as at 16 Aug 2022</em>
 

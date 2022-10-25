@@ -9,7 +9,7 @@ description: Behind Sandbox Training Ground is a stuntman with big dreams to ele
 ---
 
 ![Peps Goh sandbox training ground](/images/blog/content/Stuntman Feature.jpg)
-###### Peps Goh (front), stuntman and Founder of stunt training facility Sandbox Training Ground (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})
+<figcaption>Peps Goh (front), stuntman and Founder of stunt training facility Sandbox Training Ground (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</figcaption>
 
 As a stuntman, Peps Goh is well-acquainted with living life scrappy. But there is nothing quite as scrappy as the life of a bootstrapped entrepreneur. 
 
@@ -20,7 +20,7 @@ That’s how Peps found himself at the space he has rented out, patching concret
 Nonetheless, it is a life he willingly entered to fulfill his dream of propelling the local stunt industry to greater heights. To do so, he has to swim against decades of existing expectations and methods. 
 
 ![stunt demonstration](/images/blog/content/Stuntman 1.jpg)
-###### Stuntman Peps Goh hopes to improve the local stunt industry with the creation of Sandbox Training Ground (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})
+<figcaption>Stuntman Peps Goh hopes to improve the local stunt industry with the creation of Sandbox Training Ground (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</figcaption>
 
 “The [local stunt] industry is not a viable career,” he shares. “It’s very cannibalistic, the way that studios would pay very little and take a lot of risk with our bodies.” 
 
@@ -33,7 +33,7 @@ It is with this ideal in mind that Sandbox Training Ground was born – a safe s
 Space has always been a hurdle for the stunt industry, explains Peps. The need for dedicated equipment and padded floors means that training space for stunt actors are limited, and oftentimes expensive. 
 
 ![business premises use](/images/blog/content/Stuntman 2.jpg)
-###### Stunt training requires padded floors and mats, which makes finding a space to train difficult and expensive (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})
+<figcaption>Stunt training requires padded floors and mats, which makes finding a space to train difficult and expensive (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</figcaption>
 
 To train, stunt actors often resorted to common areas such as the streets and grass fields. Yet, the hard ground meant they were unable to practice for higher level stunts. Peps realised that to improve the quality of action scenes in Singapore, having a dedicated training space is a non-negotiable. 
 
@@ -58,7 +58,7 @@ Another key challenge Peps faced is the lack of financial support. “We didn’
 ### Developing the next generation of stunt coordinators
 
 ![sandbox training mentorship](/images/blog/content/Stuntman 3.jpg)
-###### Suet Ling (foreground) was a student at Sandbox Training Ground, and is now part of the mentorship programme Goh developed to nurture the next generation of stunt coordinators (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})
+<figcaption> Suet Ling (foreground) was a student at Sandbox Training Ground, and is now part of the mentorship programme Goh developed to nurture the next generation of stunt coordinators (Photo by [Remus Devin Koh](https://www.instagram.com/remus.jpg/){:target="_blank"}{:rel="noopener"})</figcaption>
 
 Despite the challenges, Peps has no regrets embarking on the entrepreneurial journey. In particular, he finds fulfillment in grooming the next generation of stunt coordinators as part of a mentorship programme he developed. 
 
@@ -73,4 +73,4 @@ In starting Sandbox, Peps has invested more than just money into a space. Instea
 
 Are you a new business owner unsure of what grants you can apply for or premises you can use? GoBusiness is here to help with the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck??src=gobiz_blog){:target="_blank"}{:rel="noopener"}. Receive recommendations tailored to your business needs just by answering a few questions on these e-Advisers.
 
-###### This article is accurate as at 16 Feb 2022
+<em> This article is accurate as at 16 Feb 2022</em>
