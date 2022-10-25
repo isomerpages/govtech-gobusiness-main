@@ -18,9 +18,6 @@ Induction technology
 - Chefmaster - CM-500A
 - Chefmaster - CM-500W
 - Chefmaster - CM-700D3T
-- Dambo - H80-HJ098-P15S-BT
-- Dambo - LDS-DCL800-HJ098-20PS
-- Dambo - LDS-DT400-HJ098-A12PS
 - Daneng - DN-ICC-3.5
 - Daneng - DN-ICC3.5-2
 - Daneng - DN-ICC3.5-4
