@@ -47,6 +47,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3419' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3607' target='_blank'>BOTG</a><br></td>
+<td>ANTSCOLONY PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
