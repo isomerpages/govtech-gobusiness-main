@@ -8,9 +8,7 @@
     }
 
     .content .spanel .spanel-title {
-        font-family: hknova-bold;
-        margin-left: 20px;
-        margin-top: 20px;
+        font-family: hknova-semibold;
     }
 
     .content .spanel .spanel-description,
@@ -52,7 +50,7 @@
         {% if spanel.image %}
         <div class="spanel-image">{{ spanel.image }}</div>
         {% endif %}
-        <div><h2 class="spanel-title">{{ spanel.title }}</h2></div>
+        <div class="spanel-title">{{ spanel.title }}</div>
         {% if spanel.description %}
         <p class="spanel-description">{{ spanel.description }}</p>
         {% endif %}
