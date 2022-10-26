@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1444' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6</a><br></td>
-<td>SIMPLR SOLUTIONS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2841' target='_blank'>Creative Sales and Order</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>

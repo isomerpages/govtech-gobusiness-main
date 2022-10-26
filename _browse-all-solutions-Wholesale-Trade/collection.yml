@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Sales-Management.md
       - Enterprise-Resource-Planning--ERP--Software-for-Wholesale.md
+      - Sales-Management.md
       - General-Wholesale-Trade-Equipment.md

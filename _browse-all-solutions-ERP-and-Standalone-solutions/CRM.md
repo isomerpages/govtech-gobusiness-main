@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1534' target='_blank'>Salesforce Sales Cloud Professional Edition</a><br></td>
-<td>SALESFORCE.COM SINGAPORE PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1550' target='_blank'>Zoho One</a><br></td>
-<td>Zolution Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1941' target='_blank'>Zoho CRM</a><br></td>
 <td>Zoho Corporation Pte. Ltd.</td>
 </tr>

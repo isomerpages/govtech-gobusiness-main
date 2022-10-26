@@ -40,14 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1420' target='_blank'>Microsoft Dynamics 365 Business Central Version SAAS</a><br></td>
-<td>Illum (9) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1539' target='_blank'>Highnix ERP Plus 2 Version 4-3-30</a><br></td>
-<td>Highnix Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1899' target='_blank'>ZettApps Finance & Order Processing Version 4.2</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>

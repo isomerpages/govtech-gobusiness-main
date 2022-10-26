@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1434' target='_blank'>GenicDocs - Document Management Software</a><br></td>
-<td>Business Thrust Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1569' target='_blank'>DROPBOX</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>

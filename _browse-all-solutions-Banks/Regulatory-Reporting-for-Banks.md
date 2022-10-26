@@ -28,18 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1499' target='_blank'>AxiomSL MAS 610 SaaS version 4</a><br></td>
-<td>AxiomSL Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1502' target='_blank'>KPMG Regulatory Integrated Solution Version 1.0</a><br></td>
-<td>KPMG Services Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1507' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0</a><br></td>
-<td>Wolters Kluwer Financial Services Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>AgileREPORTER Version 19.3</a><br></td>
 <td>VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED</td>
 </tr>

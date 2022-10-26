@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1481' target='_blank'>Automotive Tracking System</a><br></td>
-<td>Track 365 Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1576' target='_blank'>IVMS (Intelligent Vehicle Monitoring System) Version 7</a><br></td>
 <td>SMARTCOMM ELECTRONICS PTE LTD</td>
 </tr>
