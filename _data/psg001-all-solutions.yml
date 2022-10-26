@@ -40,7 +40,6 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
         - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Analytics-for-Centre-Operations'>Data Analytics for Centre Operations</a>
@@ -84,8 +83,8 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment'>Digital/ Online Ordering and Payment</a>
         - <a href='/browse-all-solutions-Food-Services/Automated-Reservation'>Automated Reservation</a>
+        - <a href='/browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment'>Digital/ Online Ordering and Payment</a>
         - <a href='/browse-all-solutions-Food-Services/Queue-Management'>Queue Management</a>
         - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
         
@@ -116,9 +115,9 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Logistics/E-Freight-Management'>E-Freight Management</a>
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
         - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
+        - <a href='/browse-all-solutions-Logistics/E-Freight-Management'>E-Freight Management</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Logistics/General-Logistics-Equipment'>General Logistics Equipment</a>
@@ -155,9 +154,9 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Countering-the-Financing-of-Terrorism--TF--Screening'>Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening</a>
-        - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management-System'>Enhanced Retail Management System</a>
         - <a href='/browse-all-solutions-Retail/Retail-Analytics'>Retail Analytics</a>
+        - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management-System'>Enhanced Retail Management System</a>
+        - <a href='/browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Countering-the-Financing-of-Terrorism--TF--Screening'>Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Security
@@ -180,8 +179,8 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
+        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Wholesale-Trade/General-Wholesale-Trade-Equipment'>General Wholesale Trade Equipment</a>

@@ -32,18 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1413' target='_blank'>3D Omni Commerce Version 1.03</a><br></td>
-<td>3D BRAND AGENCY PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1469' target='_blank'>OpenCart E-Commerce Website Deployment</a><br></td>
-<td>Equotix Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1549' target='_blank'>Mobile Responsive E-Commerce Version 1</a><br></td>
-<td>WEB IMP PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1694' target='_blank'>iFoundries E-commerce Jump Start Package Version 1</a><br></td>
 <td>iFoundries (Asia Pacific) Pte Ltd</td>
 </tr>

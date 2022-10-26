@@ -27,28 +27,28 @@ The Revel Enterprise solution is tailored for large chains and leads the industr
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Lite</td>
 <td style='padding: 10px;'>$3,710.00</td>
 <td style='padding: 10px;'>$3,211.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Quick Service & Coffeeshop</td>
 <td style='padding: 10px;'>$7,312.00</td>
 <td style='padding: 10px;'>$6,314.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials -  Modern Restaurant </td>
 <td style='padding: 10px;'>$11,067.00</td>
 <td style='padding: 10px;'>$8,844.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Bundle: 2 order license & 2 KDS</td>
 <td style='padding: 10px;'>$9,168.00</td>
 <td style='padding: 10px;'>$8,970.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

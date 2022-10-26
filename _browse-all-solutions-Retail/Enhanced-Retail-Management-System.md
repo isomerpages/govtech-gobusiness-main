@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management-System
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -26,10 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1471' target='_blank'>Octopus Retail Solution</a><br></td>
-<td>Octopus Retail Management Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2763' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>

@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1457' target='_blank'>SQL Account Version 5</a><br></td>
-<td>Apscom Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1597' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1</a><br></td>
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
@@ -286,6 +282,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3548' target='_blank'>AUTOCOUNT ACCOUNTING SOFTWARE Version 2</a><br></td>
 <td>I SOFT BUSINESS SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3610' target='_blank'>SQL Account Version 5</a><br></td>
+<td>Apscom Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3615' target='_blank'>Advante Consulting - Xero Cloud Accounting</a><br></td>
+<td>Advante Consulting Pte Ltd</td>
 </tr>
 </table>
 

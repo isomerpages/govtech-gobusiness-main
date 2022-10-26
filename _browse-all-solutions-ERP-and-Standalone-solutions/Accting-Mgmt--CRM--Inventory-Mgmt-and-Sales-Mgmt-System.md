@@ -71,6 +71,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3583' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3600' target='_blank'>SAP Business One, version for HANA</a><br></td>
+<td>Inecom Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

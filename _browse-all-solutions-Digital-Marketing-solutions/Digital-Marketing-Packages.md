@@ -119,6 +119,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3526' target='_blank'>DM Social Media Marketing (Brand Awareness & Lead Generation)</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3598' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
+<td>Creative eWorld Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

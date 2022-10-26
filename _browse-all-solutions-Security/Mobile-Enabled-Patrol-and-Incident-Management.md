@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Man
 ## Mobile-Enabled Patrol and Incident Management
 ## Overview
 
+**Description**
+
+SMEs will only be supported once for this category of solutions, regardless of deployment location. Repeated applications for this category will not be supported.
+
 **Support Level and Conditions**
 
 Up to 70% for SMEs, N.A. for non-SMEs

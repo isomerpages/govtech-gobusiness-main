@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1464' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
-<td>EISOL Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1587' target='_blank'>iMakan</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
