@@ -22,7 +22,7 @@ Singapore Food Agency (SFA)
 </ul>
 <p><strong>Step 2: Book pre-licensing inspection upon completion of renovation</strong></p>
 <ul>
-<li>Make an appointment for inspection 7 days in advance via <a href="https://csp.sfa.gov.sg/feedback">SFA online feedback form</a>.</li>
+<li>Make an appointment for inspection 7 days in advance via <a href="https://csp.sfa.gov.sg/feedback" target="_blank" rel="noopener">SFA online feedback form</a>.</li>
 <li>To avoid delays, applicants should ensure that all the items listed in the IPA have been complied with.</li>
 <li>Service standard: 2 workings days to confirm inspection date</li>
 </ul>
