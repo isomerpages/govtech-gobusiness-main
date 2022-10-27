@@ -16,8 +16,9 @@ const custom_notifications = [
 
   //[**ACRA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 30 Aug 2022 7pm to 31 Aug 2022 3am. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 28 Oct 2022 from 12am to 5am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 16 Sep 2022 12am to 5am<br>(2) 18 Sep 2022 from 12am to 8am"
+
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 1 May 2022 from 12am to 8am. We apologise for the inconvenience caused."
