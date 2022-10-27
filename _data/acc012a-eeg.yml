@@ -108,15 +108,56 @@
 
         iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.
 
-        You may refer to the [EEG Application Checklist](https://www.enterprisesg.gov.sg/-/media/1D19328D710341BA823F62EBE092B7A1.ashx){:target="_blank"}{:rel="noopener"} on how to prepare for your EEG application process. Click [here](https://www.enterprisesg.gov.sg/-/media/B904CA5A4F294D82B785B1DD759802E3.ashx){:target="_blank"}{:rel="noopener"} for a step-by-step guide.
-        
+        You may refer to the [EEG Application Checklist](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/-/media/esg/files/financial-assistance/grants/for-local-companies/Energy Efficiency Grant/EEG_Checklist.pdf){:target="_blank"}{:rel="noopener"} on how to prepare for your EEG application process. Click [here](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/-/media/esg/files/financial-assistance/grants/for-local-companies/Energy Efficiency Grant/EEG_step-by-step_guide.pdf){:target="_blank"}{:rel="noopener"} for a step-by-step guide.
+
+    - title: How to claim for the EEG? 
+      content: |
+        Claims will be submitted through the Business Grants Portal (BGP).
+        To claim for the EEG, companies will have to ensure:
+
+        - Claimant has purchased the equipment as approved in the application; and
+
+        - Claimant has deployed and installed the equipment; and
+
+        - Claimant has paid for the equipment in full; and
+
+        - Claimant has submitted all claim documentation including:
+
+          - Invoice
+
+          - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
+          
+          - Delivery order
+
+          - Pictures
+
+            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket). 
+
+            - Serial number of equipment (if applicable)
+
+        Disbursements can only be made after the claims have been approved.
+
+        Approved claims will be credited directly to the registered PayNow Corporate account or through GIRO bank account provided by the business entity.  
+
+        You may refer to the [EEG Claim Checklist](https://www.enterprisesg.gov.sg/-/media/622E22BC7DA0406CAF3D4D673B076EE2.ashx){:target="_blank"}{:rel="noopener"} on how to prepare for your EEG claim process. Click [here](https://www.enterprisesg.gov.sg/-/media/2203C1821A4B47EEB8C69BB8FC5A2331.ashx){:target="_blank"}{:rel="noopener"} for a step-by-step guide.
+
+    - title: How will the EEG disbursement take place? 
+      content: |
+        Disbursement of the Grant will be credited directly to the registered PayNow Corporate account or through GIRO bank account provided by the business entity. 
+
+        a)	For PayNow Corporate;
+
+        To receive funds via PayNow Corporate, please contact your bank to register and link your business entity's UEN to the entity's bank account. If you have multiple bank accounts linked to your entity's UEN, kindly provide the 3-digit alpha-numeric suffix to your entity's UEN in the Business Grant Portal during claim submission.
+
+        b)	For GIRO;
+
+        The [e-GIRO form](http://www.go.gov.sg/enterprisesggiroform){:target="_blank"}{:rel="noopener"} must be submitted to the Agency before the Company's first Grant claim. The Company will need to submit a new e-GIRO form if there are changes to the Company's bank account details.
+
+
     - title: Where can I find more information on the EEG?
       content: |
         For more information on the EEG, you may wish to visit the [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}.
 
-- accordion:
-  letter: b
-  data:
     - title: What are the key differences between Energy Efficiency Grant (EEG) and Energy Efficiency Fund (E2F) that are both targeted at SMEs?
       content: |
         **Equipment support:** The EEG supports local SMEs in the Food Services, Food Manufacturing and Retail sectors to adopt energy-efficient equipment in pre-approved categories, namely LED lighting, air-conditioners, cooking hobs, refrigerators, water heaters and dryers. On the other hand, the E2F supports manufacturing companies with an annual group sales turnover of less than S$500 million to adopt energy-efficient equipment or technologies, which includes but is not limited to LED, air-conditioners, motors, chilled water systems, refrigeration systems, compressed air systems, boiler systems, furnaces, ovens and heat recovery systems.
