@@ -52,6 +52,6 @@ National Environment Agency (NEA)
 
 <H3>Requirements</H3>
 
-<p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a target="" rel="">Registration for Companies / Business</a></p>
+<p><strong>Prerequisite Licence(s)</strong><br />ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 <p><strong>Related licence(s)<br /></strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Vector Control Technician Licence</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164" target="_blank" rel="noopener">Vector Control Worker Certificate</a></p>
 
