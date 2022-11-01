@@ -6,7 +6,7 @@
   text_1: How to start a business
   href_2: '/home-based-businesses/determine-your-home-business-scheme/?src=home_quicklinks'
   text_2: How to start a home-based business
-  is_new_2: true
+  is_new_2: false
   href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
   target_3: _blank
   text_3: 'e-Adviser: Register new business'
@@ -58,7 +58,7 @@
   is_new_3: false
   href_4: '/energy-efficiency-grant/?src=home_quicklinks'
   text_4: Energy Efficiency Grant
-  is_new_4: true
+  is_new_4: false
   href_5: '/business-grants-portal/?src=home_quicklinks'
   text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
