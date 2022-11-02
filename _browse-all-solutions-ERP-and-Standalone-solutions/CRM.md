@@ -63,6 +63,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3593' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3620' target='_blank'>CARDDIO Version 1</a><br></td>
+<td>Carddio Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

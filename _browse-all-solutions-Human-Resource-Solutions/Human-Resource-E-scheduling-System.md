@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Whyze Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2430' target='_blank'>Flick Time Management System Enterprise Enhanced (TMSEE)</a><br></td>
-<td>Flick Solutions Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2689' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
 <td>JustLogin Pte Ltd</td>
 </tr>
