@@ -38,8 +38,7 @@
   text_1: Time limited RRT
   href_2: '/safemanagement/general/?src=home_quicklinks'
   text_2: Safe management measures
-  href_3: 'https://go.gov.sg/covidbusinessresumptions/?src=home_quicklinks'
-  target_3: _blank
+  cta_href: '/covid/?src=home_quicklinks'
   cta_text: Covid-19 overview
 - icon: '/images/govassist.png'
   alt: govassist
