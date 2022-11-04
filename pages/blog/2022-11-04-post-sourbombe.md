@@ -87,9 +87,8 @@ Ready to take the first step to build your own business? Check out the [GoBusine
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://youtu.be/embed/pXRH0PGZ4U4" title="Let’s Go Lah! – Sourbombe Bakery" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/pXRH0PGZ4U4" title="Let’s Go Lah! – Sourbombe Bakery" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
 <em>This article is accurate as at 4 Nov 2022</em>
-
