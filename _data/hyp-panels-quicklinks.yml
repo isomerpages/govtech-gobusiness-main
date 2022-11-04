@@ -4,42 +4,42 @@ panels:
     alt: ""
     links:
       - text: "e-Adviser for Home-Based Business"
-        href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices
         target: _blank
       - text: e-Adviser for Events
-        href: https://eadviser.gobusiness.gov.sg/events?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/events?src=eservices
         target: _blank
       - text: e-Adviser for Premises Use
-        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices
         target: _blank
       - text: e-Adviser for Starting a Business
-        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices
         target: _blank
       - text: e-Adviser for Government Assistance
-        href: https://eadviser.gobusiness.gov.sg/govassist/?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/govassist/?src=eservices
         target: _blank
-    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
+    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/?src=eservices">View all guides for businesses</a>
   - title: Licences and Permits
     image: /images/licences-80.svg
     alt: ""
     links:
       - text: Apply for licences
-        href: /licences/?src=quicklinks
+        href: /licences/?src=eservices
         imageClass: login
         image: /images/login.svg
         alt: login
       - text: Renew or amend licence
-        href: /licences/#renew-amend-licence/?src=eservices_licence&permits
+        href: /licences/#renew-amend-licence/?src=eservices
         imageClass: login
         image: /images/login.svg
         alt: login
       - text: Submit returns
-        href: /licences/submit-returns/?src=eservices_licence&permits
+        href: /licences/submit-returns/?src=eservices
         imageClass: login
         image: /images/login.svg
         alt: login
       - text: Food Services Licence Guided Journey
-        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices_licence&permits
+        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices
         target: _blank
   - title: For Covid-19
     image: /images/Covid.svg
