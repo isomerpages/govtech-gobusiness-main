@@ -9,14 +9,14 @@ description: 'Learn how homegrown venture Sourbombe Bakery''s marketing strategi
 ---
 
 ![Sourbombe Bakery Co-founder Genevieve Lee](/images/blog/content/Sourbombe Feature.jpg)
-<figcaption>Co-founder Genevieve Lee (right) started Sourbombe Bakery in 2020, amid a boom in home based businesses.(Photo courtesy of Sourbombe Bakery)
+<figcaption>Co-founder Genevieve Lee (right) started Sourbombe Bakery in 2020, amid a boom in home-based businesses (Photo courtesy of Sourbombe Bakery)
 </figcaption>
 
 It’s not rare to see crowds queuing for fresh bakes along Penang Road — chances are, they’re waiting their turn to buy one of Sourbombe Bakery’s signature Sourbombes. 
 
 The brainchild of [Genevieve Lee](http://www.instagram.com/gen_lxn){:target="_blank"}{:rel="noopener"} and [Tan Chun Rong (CR)](https://www.instagram.com/xlbcr/){:target="_blank"}{:rel="noopener"} , [Sourbombe Bakery](https://www.sourbombebakery.com/){:target="_blank"}{:rel="noopener"} was initially a home-based business born amid the pandemic, starting out in a time when many online businesses were taking off. The bakery quickly gained renown for its sourdough bombolinis, a revolutionary blend of sourdough and italian doughnuts stuffed with generous fillings. 
 
-After running Sourbombe Bakery as a home based business for a year, the duo felt confident enough to open a physical shopfront; their first store at Penang Road has been open since July 2021, and they have since expanded their product range to include pastries and croissants. 
+After running Sourbombe Bakery as a home-based business for a year, the duo felt confident enough to open a physical shopfront; their first store at Penang Road has been open since July 2021, and they have since expanded their product range to include pastries and croissants. 
 
 ### The importance of branding and driving visibility through marketing
 
@@ -35,13 +35,13 @@ Having a clear branding strategy has also helped Sourbombe Bakery to flourish. B
 
 “Our Instagram account played a big part… We always try to be unique and out of the way, in terms of the flavour profiles and also the names that we give our products,” she laughs, adding that this has helped the brand to resonate with younger audiences. 
 
-### Transitioning from a home based business to a physical shopfront 
+### Transitioning from a home-based business to a physical shopfront 
 
-Making the leap from a home based business to a brick-and-mortar store was not without challenges, a process which Genevieve likened to starting a business from the ground up. The attention they had attracted as a home based bakery had created more demand than they could meet as a home based operation, calling for a move to a physical shopfront.  
+Making the leap from a home-based business to a brick-and-mortar store was not without challenges, a process which Genevieve likened to starting a business from the ground up. The attention they had attracted as a home-based bakery had created more demand than they could meet as a home-based operation, calling for a move to a physical shopfront.  
 
 “Opening a retail store is vastly different from just doing a home business… To have [a professional kitchen], you have to go through a lot of licences, approvals, and government-mandated protocols,” explains Genevieve. 
 
-Moving her business model from a home based operation to a physical shopfront also involved greater cost, as Genevieve had to factor additional overheads, such as the cost of rental and manpower, into her expenses.  
+Moving her business model from a home-based operation to a physical shopfront also involved greater cost, as Genevieve had to factor additional overheads, such as the cost of rental and manpower, into her expenses.  
 
 She found the [GoBusiness](http://gobusiness.gov.sg/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} platform particularly useful in helping to manage the transition: “It’s kind of like a one-stop shop for business owners starting out for their first time. You can [learn] how to apply for permits, grants and licences… and can make the whole process of opening much smoother and easier, on your wallet, mind, soul.”  
 
@@ -60,7 +60,7 @@ She stands by traditional media and publications as being imperative for busines
 “So what if it looks great on TikTok and Instagram? If the people who are watching don’t have good spending power, your audience might not be the most optimal,” she quips. 
 
 ![Sourbombe Bakery wedding bombe tower Genevieve Lee](/images/blog/content/Sourbombe 2.jpg)
-<figcaption>Genevieve building Sourbombe Bakery’s first bombe tower at a wedding earlier this year. (Photo courtesy of Sourbombe Bakery) </figcaption>
+<figcaption>Genevieve building Sourbombe Bakery’s first bombe tower at a wedding earlier this year (Photo courtesy of Sourbombe Bakery) </figcaption>
 
 In defining success in marketing strategies, she also believes that it is important to consider how marketing efforts contribute to one’s brand as a whole, as opposed to focusing solely on how individual posts fare.
 
