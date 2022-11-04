@@ -8,7 +8,7 @@ crumbs: behind-the-business
 description: 'Learn how homegrown venture Sourbombe Bakery''s marketing strategies fueled their success.' 
 ---
 
-![Person using a laptop with graphs and charts beside them](/images/blog/content/Sourbombe Feature.jpg)
+![Sourbombe Bakery Co-founder Genevieve Lee](/images/blog/content/Sourbombe Feature.jpg)
 <figcaption>Co-founder Genevieve Lee (right) started Sourbombe Bakery in 2020, amid a boom in home based businesses.(Photo courtesy of Sourbombe Bakery)
 </figcaption>
 
@@ -30,7 +30,7 @@ The delicious sourdough bombolonis were met with warm reception from friends in 
 
 Having a clear branding strategy has also helped Sourbombe Bakery to flourish. Bold, eye-catching visuals take centre stage in their Instagram feed, with Genevieve describing the brand as “very fun-loving”. Indeed, the bakery’s beloved sourdough bombolinis reflect this lively spirit, with names such as “Brûlée Hooray” and “Pizza Bombe”. 
 
-![GoBusiness startup guide key steps to start](/images/blog/content/Sourbombe 1.jpg)
+![Sourbombe Bakery croissants social media](/images/blog/content/Sourbombe 1.jpg)
 <figcaption>Bright & striking visuals are a mainstay across Sourbombe Bakery’s social media channels (Photo courtesy of Sourbombe Bakery) </figcaption>
 
 “Our Instagram account played a big part… We always try to be unique and out of the way, in terms of the flavour profiles and also the names that we give our products,” she laughs, adding that this has helped the brand to resonate with younger audiences. 
@@ -59,7 +59,7 @@ She stands by traditional media and publications as being imperative for busines
 
 “So what if it looks great on TikTok and Instagram? If the people who are watching don’t have good spending power, your audience might not be the most optimal,” she quips. 
 
-![Check available business name on GoBusiness e-Adviser for Starting a Business](/images/blog/content/Sourbombe 2.jpg)
+![Sourbombe Bakery wedding bombe tower Genevieve Lee](/images/blog/content/Sourbombe 2.jpg)
 <figcaption>Genevieve building Sourbombe Bakery’s first bombe tower at a wedding earlier this year. (Photo courtesy of Sourbombe Bakery) </figcaption>
 
 In defining success in marketing strategies, she also believes that it is important to consider how marketing efforts contribute to one’s brand as a whole, as opposed to focusing solely on how individual posts fare.
@@ -76,7 +76,7 @@ Teamwork is another value that she makes a priority.
 
 “You can have the best marketing strategies, you can have the best product, but if you don't have a team then you will suffer by yourself,” reflects Genevieve. “ A job should be something that you look forward to every day, because you get to work with people that you like, and have things that you do that you are passionate about.” It’s the same principle she upholds with potential collaborators, as she believes that it’s important to work with people who share the same values. 
 
-![Check available business name on GoBusiness e-Adviser for Starting a Business](/images/blog/content/Sourbombe 3.jpg)
+![Sourbombe Bakery team Singapore Food Festival](/images/blog/content/Sourbombe 3.jpg)
 <figcaption>The Sourbombe Bakery team also takes part in events such as the Singapore Food Festival (Photo courtesy of Sourbombe Bakery) </figcaption>
 
 Being your own boss may come with its challenges, but is also immensely rewarding, reflects Genevieve, as she works with her team to see her ideals and dreams come to life. These include expansion plans in the form of an upcoming outlet at Jewel Changi Airport, which is set to open in November 2022. 
