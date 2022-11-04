@@ -39,7 +39,7 @@ Having a clear branding strategy has also helped Sourbombe Bakery to flourish. B
 
 Making the leap from a home based business to a brick-and-mortar store was not without challenges, a process which Genevieve likened to starting a business from the ground up. The attention they had attracted as a home based bakery had created more demand than they could meet as a home based operation, calling for a move to a physical shopfront.  
 
-“Opening a retail store is vastly different from just doing a home business… To have [a professional kitchen], you have to go through a lot of licences, approvals, and government mandated protocols,” explains Genevieve. 
+“Opening a retail store is vastly different from just doing a home business… To have [a professional kitchen], you have to go through a lot of licences, approvals, and government-mandated protocols,” explains Genevieve. 
 
 Moving her business model from a home based operation to a physical shopfront also involved greater cost, as Genevieve had to factor additional overheads, such as the cost of rental and manpower, into her expenses.  
 
@@ -87,7 +87,7 @@ Ready to take the first step to build your own business? Check out the [GoBusine
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://youtu.be/pXRH0PGZ4U4" title="Let’s Go Lah! – Sourbombe Bakery" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://youtu.be/embed/pXRH0PGZ4U4" title="Let’s Go Lah! – Sourbombe Bakery" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
