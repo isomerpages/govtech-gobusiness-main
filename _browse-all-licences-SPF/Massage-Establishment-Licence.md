@@ -23,7 +23,7 @@ Singapore Police Force (SPF)
   <li>
     <strong>Where can I get more information for Massage Establishment Licence?</strong><br>        
 More information can be found at the 
-<a href="https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishments-Licence" target="_blank" rel="noopener">SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Licences/Massage-Establishment-Licence" target="_blank" rel="noopener">SPF website</a>
   </li>
   <li>
     <strong>Who can be an applicant?</strong><br>
@@ -91,10 +91,6 @@ Maximum upload per application: 2 MB
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>List of renovation/ asset with receipts and invoices (applicable to Provisional Cat I licence application only)</strong><br />A list of the renovation/asset invested together with the respective documentary proof ie receipts/ invoices (to meet the requirement of having a capital investment of at least $50,000 in renovation/asset)<br>
-File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
-</li>
 <li><strong>List of employees and their professional certificates recognised by Police Licensing Division</strong><br />A list of particulars of all the employees and Recognised training certificates of therapists/masseuses (to meet the requirement of having at least 80% of certified therapists/masseuses)<br>
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
@@ -102,7 +98,7 @@ Maximum upload per application: 2 MB
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>Case Trust Accreditation Certificate; OR Letter of Acceptance (for CAT 1P only)</strong><br />Letter of Acceptance issued from Casetrust stating that the application submitted to Casetrust is being processed<br>
+<li><strong>Case Trust Accreditation Certificate (for CAT 1 only)</strong><br />To obtain Case Trust Accreditation Certificate when applying for CAT 1 Licence<br>
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>
