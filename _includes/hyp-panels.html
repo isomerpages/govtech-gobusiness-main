@@ -158,13 +158,18 @@
     {% endif %} -->
   </div>
   {% endfor %} 
-  {% if panel.info-text %}
-    <!-- <div class="panel-content-line"></div> -->
+  {% if panel.text-only %}
     <div class="panel-content-info-container">
     <p class="panel-content-info-text">{{panel.info-text}}</p>
-    <!-- <img 
+  </div>
+  {% endif %}
+  {% if panel.info-text %}
+    <div class="panel-content-line"></div>
+    <div class="panel-content-info-container">
+    <p class="panel-content-info-text">{{panel.info-text}}</p>
+    <img 
     style="width: 21px; margin: 0 10px 10px 10px; "
-    src="/images/next_arrow.svg" alt="next-arrow" /> -->
+    src="/images/next_arrow.svg" alt="next-arrow" />
   </div>
   {% endif %}
 </div>
