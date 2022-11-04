@@ -20,13 +20,13 @@ And as unglamourous as it is, a business’ cash flow is vital to its survival, 
 ![Corporate Bank Adccount](/images/blog/content/FinancialTips 1.jpg)
 <figcaption> Manage a business’ finances easily by setting up a corporate bank account (Source: Canva)</figcaption>
 
-A [corporate bank account](/start-a-business/open-a-corporate-bank-account/){:target="_blank"}{:rel="noopener"} is one of the first steps business owners should take when starting their business. 
+A [corporate bank account](/start-a-business/open-a-corporate-bank-account/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} is one of the first steps business owners should take when starting their business. 
 
 A business bank account is compulsory for businesses registered as a Company or Limited Liability Partnership. Even if a different business structure was chosen, having a separate account is still highly encouraged. It will allow business owners to separate their personal savings from business expenses, and provide a financial overview of the business. 
 
 Business owners can open a business bank account at any of the major banks in Singapore including DBS, OCBC and UOB. Generally, banks will require account signatories and majority directors to be physically present to sign the paperwork at the time of opening the account. 
 
-Business owners should also prepare the necessary documents prior to heading to the bank branch to avoid a wasted trip. You can find a [list of required documents](/start-a-business/open-a-corporate-bank-account/){:target="_blank"}{:rel="noopener"} on GoBusiness. 
+Business owners should also prepare the necessary documents prior to heading to the bank branch to avoid a wasted trip. You can find a [list of required documents](/start-a-business/open-a-corporate-bank-account/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} on GoBusiness. 
 
 ### 2. Corporate tax, rebates, and tax exemptions
 
@@ -43,14 +43,14 @@ Business owners who are unsure of how to file income tax or when they need to do
 
 The Kit provides a how-to guide to filing for taxes, and includes a comprehensive timeline of important due dates you need to take note of. 
 
-Employers can also check out the GoBusiness page on [Taxes and GST](/e-services/taxes-and-gst/){:target="_blank"}{:rel="noopener"} for more information. 
+Employers can also check out the GoBusiness page on [Taxes and GST](/e-services/taxes-and-gst/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information. 
 
 ### 3. Hiring employees 
 
 ![Hiring First Employee](/images/blog/content/FinancialTips 3.jpg)
 <figcaption> As businesses expand, new employees come on board. Here are the financial considerations business owners need to have before hiring (Source: Canva)</figcaption>
 
-[Hiring the first employee](/start-a-business/hire-employees/){:target="_blank"}{:rel="noopener"} of any business is an exciting (and slightly daunting) prospect, with many other finance matters besides just wages. 
+[Hiring the first employee](/start-a-business/hire-employees/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} of any business is an exciting (and slightly daunting) prospect, with many other finance matters besides just wages. 
 
 Most prominently, employers are required to make monthly CPF contributions for all local staff hired. Currently, the employer CPF contribution rate is 17 per cent of an employee’s salary. 
 
@@ -71,7 +71,7 @@ This is important as companies may undergo audits by professional accountants to
 
 Business owners can consider using tools like [QuickBooks](https://quickbooks.intuit.com/sg/){:target="_blank"}{:rel="noopener"}, which is available on both web browsers and mobile apps to keep track of their financial transactions. For e-commerce platforms, tools like Xero have inbuilt payment collection functions on top of bookkeeping capabilities. 
 
-Accounting softwares may also be eligible for the [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} to help business owners offset initial costs. Check out this [GoBusiness article](/gobusiness-blog/psg/?src=blog){:target="_blank"}{:rel="noopener"} for more information about the grant and how to apply.  
+Accounting softwares may also be eligible for the [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help business owners offset initial costs. Check out this [GoBusiness article](/gobusiness-blog/psg/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information about the grant and how to apply.  
 
 For a more budget or free option, good ole’ Excel can also come in handy! 
 
@@ -79,7 +79,7 @@ This [infographic](https://www.iras.gov.sg/taxes/individual-income-tax/self-empl
 
 As tedious as finances can be, they are necessary and unavoidable. But with proper bookkeeping, the numerous processes of tax filing, paying wages, and CPF contributions can be streamlined – allowing business owners to focus their time on building the business.  
 
-**Are you an aspiring entrepreneur looking to start your very first business? Use the GoBusiness [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname){:target="_blank"}{:rel="noopener"} to take you through your first steps!**
+**Are you an aspiring entrepreneur looking to start your very first business? Use the GoBusiness [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to take you through your first steps!**
 
 <em> This article is accurate as at 20 May 2022</em>
 

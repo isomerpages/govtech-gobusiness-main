@@ -81,7 +81,7 @@ Learn more about Sin Swee Kee Chicken Rice and its business journey from Eliss i
 </div>
 </p>
 
-**GoBusiness provides many valuable resources and e-services for businesses in Singapore. If you are looking to start a new F&B business, be sure to check out the [Food Service Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices){:target="_blank"}{:rel="noopener"} to help you navigate the licensing process.**
+**GoBusiness provides many valuable resources and e-services for businesses in Singapore. If you are looking to start a new F&B business, be sure to check out the [Food Service Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help you navigate the licensing process.**
 
 
 <em>This article is accurate as at 7 Sep 2022</em>

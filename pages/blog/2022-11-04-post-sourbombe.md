@@ -26,7 +26,7 @@ Traditional media was key in enabling Sourbombe Bakery to build a steady base of
 
 The delicious sourdough bombolonis were met with warm reception from friends in the media industry, and they soon found themselves inundated with articles and reviews from traditional media publications, kickstarting Sourbombe Bakery’s launch and helping the brand to gain visibility. 
 
-“They tried the product and they were like, ‘Oh wow, this is really good,’” she recalls. “So they proceeded to write detailed articles [which were] full of praise, [that] a lot of people saw. Everybody wanted to try [ it ], that's how we blew up.”
+“They tried the product and they were like, ‘Oh wow, this is really good,’” she recalls. “So they proceeded to write detailed articles [which were] full of praise, [that] a lot of people saw. Everybody wanted to try [it], that's how we blew up.”
 
 Having a clear branding strategy has also helped Sourbombe Bakery to flourish. Bold, eye-catching visuals take centre stage in their Instagram feed, with Genevieve describing the brand as “very fun-loving”. Indeed, the bakery’s beloved sourdough bombolinis reflect this lively spirit, with names such as “Brûlée Hooray” and “Pizza Bombe”. 
 
@@ -43,7 +43,7 @@ Making the leap from a home based business to a brick-and-mortar store was not w
 
 Moving her business model from a home based operation to a physical shopfront also involved greater cost, as Genevieve had to factor additional overheads, such as the cost of rental and manpower, into her expenses.  
 
-She found the [GoBusiness](http://gobusiness.gov.sg){:target="_blank"}{:rel="noopener"} platform particularly useful in helping to manage the transition: “It’s kind of like a one-stop shop for business owners starting out for their first time. You can [learn] how to apply for permits, grants and licences… and can make the whole process of opening much smoother and easier, on your wallet, mind, soul.”  
+She found the [GoBusiness](http://gobusiness.gov.sg/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} platform particularly useful in helping to manage the transition: “It’s kind of like a one-stop shop for business owners starting out for their first time. You can [learn] how to apply for permits, grants and licences… and can make the whole process of opening much smoother and easier, on your wallet, mind, soul.”  
 
 ### Adapting marketing strategies to engage audiences
 
@@ -64,9 +64,9 @@ She stands by traditional media and publications as being imperative for busines
 
 In defining success in marketing strategies, she also believes that it is important to consider how marketing efforts contribute to one’s brand as a whole, as opposed to focusing solely on how individual posts fare.
 
-“It's gonna be very hard to micromanage every single post. So why not just look at it as a whole?” she muses. “With more engagement, more people know about our brand. They may not try what you're posting about, but they may come and try other things. “
+“It's gonna be very hard to micromanage every single post. So why not just look at it as a whole?” she muses. “With more engagement, more people know about our brand. They may not try what you're posting about, but they may come and try other things."
 
-Reaching out to seasoned players in the same industry is another piece of advice Genevieve has for potential small business owners. “Try to find someone who has a lot of experience or a lot of connections in the industry. It always helps,”she says.
+Reaching out to seasoned players in the same industry is another piece of advice Genevieve has for potential small business owners. “Try to find someone who has a lot of experience or a lot of connections in the industry. It always helps,” she says.
 
 It’s also important to assess how one’s product can fulfil consumer needs, she notes - be it through filling a gap in the market, or ensuring that one’s product is as good as or exceeds offerings by existing players in the market.
 
@@ -81,9 +81,9 @@ Teamwork is another value that she makes a priority.
 
 Being your own boss may come with its challenges, but is also immensely rewarding, reflects Genevieve, as she works with her team to see her ideals and dreams come to life. These include expansion plans in the form of an upcoming outlet at Jewel Changi Airport, which is set to open in November 2022. 
 
-“[ Don’t ] be too hard on yourself, ride things along, do your best. And then just let things flow naturally… Just embrace it,” she advises. “Keep going. “
+“[Don’t] be too hard on yourself, ride things along, do your best. And then just let things flow naturally… Just embrace it,” she advises. "Keep going."
 
-Ready to take the first step to build your own business? Check out the [GoBusiness Start-up Guide](/start-a-business/){:target="_blank"}{:rel="noopener"}, an extensive guide on how to start home-based businesses and larger ventures alike, and find out more about Genevieve’s experience as an entrepreneur in this video. 
+Ready to take the first step to build your own business? Check out the [GoBusiness Start-up Guide](/start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, an extensive guide on how to start home-based businesses and larger ventures alike, and find out more about Genevieve’s experience as an entrepreneur in this video. 
 
 <p>
 <div class="bp-youtube">

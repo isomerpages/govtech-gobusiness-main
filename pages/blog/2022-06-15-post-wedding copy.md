@@ -57,7 +57,7 @@ This meant staying on top of regulations from different government agencies so t
 
 Every time the government released word of a press conference, Michelle’s team would be on standby with their phones fully charged to address the barrage of enquiries that were sure to come, she shares with a laugh. 
 
-Michelle turned to [GoBusiness](/safemanagement/sector/){:target="_blank"}{:rel="noopener"} to keep herself updated on the regulations the wedding industry had to adhere to. “I find it helpful, because when clients ask me questions and they need proof, it's very easy for me to get a screenshot and send it to them,” she explains. 
+Michelle turned to [GoBusiness](/safemanagement/sector/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to keep herself updated on the regulations the wedding industry had to adhere to. “I find it helpful, because when clients ask me questions and they need proof, it's very easy for me to get a screenshot and send it to them,” she explains. 
 
 ### Towards forever and always
 
@@ -77,9 +77,9 @@ Today, Michelle is keeping her head up as Singapore enters an endemic state.
 “The plan for Arches & Co is to really just continue on our trajectory, to continue providing good service to our clients who believe in us,” she shares.
 
 
-**Are you like Michelle and need the latest updates on Safe Management Measures on hand? Check out the [sector-specific requirements](https://www.gobusiness.gov.sg/safemanagement/sector/){:target="_blank"}{:rel="noopener"} on GoBusiness for the latest updates.** 
+**Are you like Michelle and need the latest updates on Safe Management Measures on hand? Check out the [sector-specific requirements](/safemanagement/sector/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} on GoBusiness for the latest updates.** 
 
-**With restrictions easing and events once again sprouting up across the island, use GoBusiness’ [e-Adviser for Events](https://www.gobusiness.gov.sg/licences/?src=home_quicklinks){:target="_blank"}{:rel="noopener"} to find out what the regulations are surrounding large-scale business-related events.**
+**With restrictions easing and events once again sprouting up across the island, use GoBusiness’ [e-Adviser for Events](/licences/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to find out what the regulations are surrounding large-scale business-related events.**
 
 <em>This article is accurate as at 15 Jun 2022</em>
 
