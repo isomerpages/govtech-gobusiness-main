@@ -39,5 +39,4 @@ panels:
   - title: For Covid-19
     image: /images/Covid.svg
     alt: ""
-    links:
-      - info-text: Onsite manpower declaration is no longer required.<br><br>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.
+    info-text: Onsite manpower declaration is no longer required.<br><br>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.
