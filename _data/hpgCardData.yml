@@ -40,8 +40,6 @@
   text_2: Safe management measures
   href_3: 'https://go.gov.sg/covidbusinessresumptions/?src=home_quicklinks'
   target_3: _blank
-  text_3: Onsite manpower declaration
-  cta_href: '/covid/?src=home_quicklinks'
   cta_text: Covid-19 overview
 - icon: '/images/govassist.png'
   alt: govassist

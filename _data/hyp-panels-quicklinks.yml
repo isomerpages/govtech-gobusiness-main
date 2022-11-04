@@ -35,16 +35,3 @@ panels:
       - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_licence&permits
         target: _blank
-  - title: For Covid-19
-    image: /images/Covid.svg
-    alt: ""
-    links:
-      - text: Onsite Manpower Declaration
-        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
-        target: _blank
-      - text: Business Resumption/Exemption Status
-        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
-        target: _blank
-      - text: User Guides for Declarations and Applications
-        href: /guides/?src=eservices_covid
-        target: _blank
