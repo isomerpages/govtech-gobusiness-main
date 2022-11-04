@@ -4,7 +4,7 @@ panels:
     alt: ""
     links:
       - text: "e-Adviser for Home-Based Business"
-        href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_panel
+        href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=quicklinks
         target: _blank
       - text: e-Adviser for Events
         href: https://eadviser.gobusiness.gov.sg/events?src=quicklinks
@@ -13,7 +13,7 @@ panels:
         href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
         target: _blank
       - text: e-Adviser for Starting a Business
-        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
+        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=quicklinks
         target: _blank
       - text: e-Adviser for Government Assistance
         href: https://eadviser.gobusiness.gov.sg/govassist/?src=quicklinks
@@ -29,17 +29,17 @@ panels:
         image: /images/login.svg
         alt: login
       - text: Renew or amend licence
-        href: /licences/#renew-amend-licence/?src=quicklinks
+        href: /licences/#renew-amend-licence/?src=eservices_licence&permits
         imageClass: login
         image: /images/login.svg
         alt: login
       - text: Submit returns
-        href: /licences/submit-returns/?src=quicklinks
+        href: /licences/submit-returns/?src=eservices_licence&permits
         imageClass: login
         image: /images/login.svg
         alt: login
       - text: Food Services Licence Guided Journey
-        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=quicklinks
+        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices_licence&permits
         target: _blank
   - title: For Covid-19
     image: /images/Covid.svg
