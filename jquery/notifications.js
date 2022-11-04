@@ -20,7 +20,7 @@ const custom_notifications = [
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance on 20 Oct 2022 from 6pm to 10pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 4 Nov 2022 10pm to 5 Nov 2022 8am<br>(2) from 5 Nov 2022 10pm to 6 Nov 2022 8am"
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 4 Nov 2022 10pm to 5 Nov 2022 8am<br>(2) from 5 Nov 2022 10pm to 6 Nov 2022 8am",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 4 Nov 2022 10pm to 5 Nov 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
 
 
@@ -36,11 +36,10 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
 
   //[**GCC Migration**]
-  //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
-  //[**APEX**]
-  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 4 Sep 2022 from 12am to 8am. We apologise for the inconvenience caused."
-  //"<b>[Announcement]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 7 Aug 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  //[**APEX / EDH**]
+  "<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 6 Nov 2022 from 12am to 8am. We apologise for the inconvenience caused."
 
   //[**SINGPASS**]
   //"<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance from 15 Jul 2022 10pm to 16 Jul 2022 3am. We apologise for the inconvenience caused."
