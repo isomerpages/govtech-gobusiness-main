@@ -4,54 +4,54 @@ panels:
     alt: ""
     links:
       - text: Business registration matters
-        href: /e-services/biz-registration-matters/
+        href: /e-services/biz-registration-matters/?src=eservices
       - text: Essential business regulations
-        href: /e-services/essential-biz-regulations/
+        href: /e-services/essential-biz-regulations/?src=eservices
   - title: Accounting and Finance
     image: /images/accounting.svg
     alt: ""
     links:
       - text: Government assistance for businesses
-        href: /e-services/gov-assist-biz/
+        href: /e-services/gov-assist-biz/?src=eservices
       - text: Taxes and GST
-        href: /e-services/taxes-and-gst/
+        href: /e-services/taxes-and-gst/?src=eservices
   - title: Business Administration
     image: /images/business admin.svg
     alt: ""
     links:
       - text: Change in owner or director
-        href: /e-services/change-in-owner-or-director/
+        href: /e-services/change-in-owner-or-director/?src=eservices
       - text: Filing annual returns
-        href: /e-services/filing-annual-returns/
+        href: /e-services/filing-annual-returns/?src=eservices
       - text: Managing your Corppass Profile
-        href: /e-services/managing-your-corppass-profile/
+        href: /e-services/managing-your-corppass-profile/?src=eservices
       - text: Winding down a business
-        href: /e-services/winding-down-a-biz/
+        href: /e-services/winding-down-a-biz/?src=eservices
   - title: Employment Matters
     image: /images/employment.svg
     alt: ""
     links:
       - text: Central Provident Fund (CPF) matters
-        href: /e-services/about-cpf/
+        href: /e-services/about-cpf/?src=eservices
       - text: Employer duties and obligations
-        href: /e-services/employer-duties-and-obligations/
+        href: /e-services/employer-duties-and-obligations/?src=eservices
       - text: Hiring employees
-        href: /e-services/hiring-an-employee/
+        href: /e-services/hiring-an-employee/?src=eservices
       - text: Training employees
-        href: /e-services/training-your-employees/
+        href: /e-services/training-your-employees/?src=eservices
       - text: Workplace safety and health
-        href: /e-services/workplace-safety/
+        href: /e-services/workplace-safety/?src=eservices
   - title: Growth and Expansion
     image: /images/growth.svg
     alt: ""
     links:
       - text: Business opportunities
-        href: /e-services/business-opportunities/
+        href: /e-services/business-opportunities/?src=eservices
       - text: Corporate Social Responsibility (CSR)
-        href: /e-services/corporate-social-responsibility/
+        href: /e-services/corporate-social-responsibility/?src=eservices
       - text: Getting business premises
-        href: /e-services/getting-business-premises/
+        href: /e-services/getting-business-premises/?src=eservices
       - text: Trade marks and Intellectual Property (IP)
-        href: /e-services/trade-marks-and-ip/
+        href: /e-services/trade-marks-and-ip/?src=eservices
       - text: Training and accreditation
-        href: /e-services/training-and-accreditation/
+        href: /e-services/training-and-accreditation/?src=eservices

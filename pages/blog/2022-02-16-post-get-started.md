@@ -67,7 +67,7 @@ With COVID-19’s arrival having upturned business operations, adapting and adju
 
 Still unsure of what works for your business? Say hello to fuss-free assistance with the e-Advisers available!
 
-Whether you’re seeking advice on the use of premises, or organising an event, e-Advisers help to provide personalised recommendations on the steps to take, and direct you to appropriate government channels. Those looking to apply for government assistance schemes such as grants and loans can also turn to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help you streamline your objectives and recommend the best options for your business. 
+Whether you’re seeking advice on the use of premises, or organising an event, e-Advisers help to provide personalised recommendations on the steps to take, and direct you to appropriate government channels. Those looking to apply for government assistance schemes such as grants and loans can also turn to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help you streamline your objectives and recommend the best options for your business. 
 
 
 ### 5. Use the new GoBusiness Dashboard  

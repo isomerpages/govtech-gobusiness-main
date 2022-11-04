@@ -23,7 +23,7 @@ The desire to strike out on her own was what motivated Angeline to take a leap o
 
 “I decided to do something that I'm passionate about. I went to take up courses in Singapore, but realised that they only teach the basic and more traditional ways of styling. So I decided to go overseas,” she explains. 
 
-Her efforts came to fruition with her labour of love, a homegrown floral studio The Florte. Founded in 2017, [The Florte](https://theflorte.com/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}  offers floristry services for various occasions, from corporate gifts to floral arrangements for intimate affairs, such as weddings. 
+Her efforts came to fruition with her labour of love, a homegrown floral studio The Florte. Founded in 2017, [The Florte](https://theflorte.com/){:target="_blank"}{:rel="noopener"}  offers floristry services for various occasions, from corporate gifts to floral arrangements for intimate affairs, such as weddings. 
 
 ### Challenges faced within the floristry sector
 
@@ -51,7 +51,7 @@ Due to the pandemic, the price of flowers also increased which led to the challe
 
 For her business to continue operating amid the disruptions, Angeline looked up on the safe management requirements for her sector, as well as government support schemes that her company could be eligible for. 
 
-She chanced upon GoBusiness where she successfully applied for the [Productivity Solutions Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. She shares that the platform made the application process much easier.  
+She chanced upon GoBusiness where she successfully applied for the [Productivity Solutions Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"}. She shares that the platform made the application process much easier.  
 
 “All the information I need [is] more concentrated in one platform”, she says. “It saved me quite a bit of time from looking through multiple websites to find what I need.” 
 

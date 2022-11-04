@@ -4,47 +4,44 @@ panels:
     alt: ""
     links:
       - text: "e-Adviser for Home-Based Business"
-        href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_panel
+        href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices
+        target: _blank
       - text: e-Adviser for Events
-        href: https://eadviser.gobusiness.gov.sg/events?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/events?src=eservices
         target: _blank
       - text: e-Adviser for Premises Use
-        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices
         target: _blank
       - text: e-Adviser for Starting a Business
-        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_quicklinks
+        href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices
         target: _blank
       - text: e-Adviser for Government Assistance
-        href: https://eadviser.gobusiness.gov.sg/govassist/?src=quicklinks
+        href: https://eadviser.gobusiness.gov.sg/govassist/?src=eservices
         target: _blank
-    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
+    info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/?src=eservices">View all guides for businesses</a>
   - title: Licences and Permits
     image: /images/licences-80.svg
     alt: ""
     links:
       - text: Apply for licences
-        href: /licences/
+        href: /licences/?src=eservices
         imageClass: login
         image: /images/login.svg
         alt: login
-      - text: Cancel or renew licence
-        href: /licences/#renew-amend-licence
+      - text: Renew or amend licence
+        href: /licences/#renew-amend-licence/?src=eservices
+        imageClass: login
+        image: /images/login.svg
+        alt: login
+      - text: Submit returns
+        href: /licences/submit-returns/?src=eservices
         imageClass: login
         image: /images/login.svg
         alt: login
       - text: Food Services Licence Guided Journey
-        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_licence&permits
+        href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices
         target: _blank
   - title: For Covid-19
     image: /images/Covid.svg
     alt: ""
-    links:
-      - text: Onsite Manpower Declaration
-        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
-        target: _blank
-      - text: Business Resumption/Exemption Status
-        href: https://go.gov.sg/covidbusinessresumptions/?src=eservices_covid
-        target: _blank
-      - text: User Guides for Declarations and Applications
-        href: /guides/?src=eservices_covid
-        target: _blank
+    text-only: Onsite manpower declaration is no longer required.<br><br>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.

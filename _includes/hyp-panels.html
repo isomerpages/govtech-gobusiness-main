@@ -64,7 +64,7 @@
     font-weight: 400 !important;
     font-size: 16px !important;
     line-height: 22px !important;
-    margin: 0px 0px 10px 8px !important; 
+    margin: 0px 8px 10px 8px !important; 
   }
 
   .panel-content-info-text a {
@@ -158,6 +158,11 @@
     {% endif %} -->
   </div>
   {% endfor %} 
+  {% if panel.text-only %}
+    <div class="panel-content-info-container">
+    <p class="panel-content-info-text">{{panel.text-only}}</p>
+  </div>
+  {% endif %}
   {% if panel.info-text %}
     <div class="panel-content-line"></div>
     <div class="panel-content-info-container">

@@ -13,7 +13,7 @@ description: 'Register your business, apply for licences, and discover governmen
 
 Starting and running a successful business is a tough enough endeavour without needing to worry about the nitty-gritty. From having to register your business to applying for the numerous licences applicable, many businesses end up getting bogged down by the details.
 
-But business processes are now simpler with the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"}! The Dashboard helps businesses access and keep track of their government transactions, such as licence applications and business registration, all in one place.  
+But business processes are now simpler with the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login?src=gobiz_blog)){:target="_blank"}{:rel="noopener"}! The Dashboard helps businesses access and keep track of their government transactions, such as licence applications and business registration, all in one place.  
 
 Better yet, receive personalised recommendations applicable for your business through the dashboard as well! 
 
@@ -24,9 +24,9 @@ A platform designed for all businesses, anyone can make the most out of the GoBu
 ![GoBusiness Dashboard overview](/images/blog/content/Dashboard 1.jpg)
 <figcaption>Register for your new business easily on the Dashboard, where every step is guided.</figcaption>
 
-New entrepreneurs looking to start a business with a sole proprietorship or partnership business structure can easily register your business through the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"}. Simply log in, and scroll down to the ‘Register a new Sole Proprietorship/Partnership’ section. 
+New entrepreneurs looking to start a business with a sole proprietorship or partnership business structure can easily register your business through the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login?src=gobiz_blog)){:target="_blank"}{:rel="noopener"}. Simply log in, and scroll down to the ‘Register a new Sole Proprietorship/Partnership’ section. 
 
-Upon clicking the link, you will be redirected to the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness){:target="_blank"}{:rel="noopener"}. This is a step-by-step guide to help you reserve your business name and complete the incorporation of your business – all in under 5 minutes! Your new business will be officially registered with the [Accounting and Corporate Regulatory Authority (ACRA)](http://acra.gov.sg){:target="_blank"}{:rel="noopener"}, so there’s no need to register your business again via ACRA. 
+Upon clicking the link, you will be redirected to the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=gobiz_blog)){:target="_blank"}{:rel="noopener"}. This is a step-by-step guide to help you reserve your business name and complete the incorporation of your business – all in under 5 minutes! Your new business will be officially registered with the [Accounting and Corporate Regulatory Authority (ACRA)](http://acra.gov.sg){:target="_blank"}{:rel="noopener"}, so there’s no need to register your business again via ACRA. 
 
 After registering for your business, you’ll receive a set of suggestions on what to do next. This may include applying for the relevant licences for your businesses, or applying for government grants that may help you in your business journey. 
 
@@ -68,7 +68,7 @@ For example, the Dashboard may recommend government grants you are eligible for,
 ![GoBusiness dashboard feedback](/images/blog/content/Dashboard 7.jpg)
 <figcaption>You’ll be able to submit your feedback on the Dashboard features via the Dashboard banner.</figcaption>
 
-The Dashboard is a constant work in progress, and you can play a part in making it better. Simply leave your feedback and suggestions, and help the GoBusiness team design a Dashboard that will best benefit you and your fellow businesses. You can even [sign up for GoBusiness’ user experience research](https://go.gov.sg/joinresearch/?src=blog){:target="_blank"}{:rel="noopener"} to help shape the future of the platform! 
+The Dashboard is a constant work in progress, and you can play a part in making it better. Simply leave your feedback and suggestions, and help the GoBusiness team design a Dashboard that will best benefit you and your fellow businesses. You can even [sign up for GoBusiness’ user experience research](https://go.gov.sg/joinresearch/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help shape the future of the platform! 
 
 Bid goodbye to navigating page after page of government sites with the GoBusiness Dashboard. Businesses can now find everything they need in one single portal. This is a completely free tool designed for all businesses in Singapore, so try it out today! 
 

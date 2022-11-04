@@ -41,7 +41,7 @@ To come out on top of search engine results, you will need to rely on search eng
 
 SEO is pivotal in helping new customers discover your business. Imagine being the proud owner of a brand new restaurant within a mall. When potential customers are looking for what they can eat in the area, they will naturally turn to search engines. If your restaurant appears first in their search, they’re more likely to know about you, and visit your restaurant. 
 
-While becoming a master in SEO is a tall order, there are plenty of [free resources](https://moz.com/beginners-guide-to-seo/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} available to help you kickstart your journey. Alternatively, [courses on SEO](https://www.equinetacademy.com/seo-training-course-singapore/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} are also available with SkillsFuture credits. 
+While becoming a master in SEO is a tall order, there are plenty of [free resources](https://moz.com/beginners-guide-to-seo/){:target="_blank"}{:rel="noopener"} available to help you kickstart your journey. Alternatively, [courses on SEO](https://www.equinetacademy.com/seo-training-course-singapore/){:target="_blank"}{:rel="noopener"} are also available with SkillsFuture credits. 
 
 ### 3. Establishing a social media presence
 
