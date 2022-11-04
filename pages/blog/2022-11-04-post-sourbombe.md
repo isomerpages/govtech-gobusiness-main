@@ -83,7 +83,7 @@ Being your own boss may come with its challenges, but is also immensely rewardin
 
 “[Don’t] be too hard on yourself, ride things along, do your best. And then just let things flow naturally… Just embrace it,” she advises. "Keep going."
 
-Ready to take the first step to build your own business? Check out the [GoBusiness Start-up Guide](/start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, an extensive guide on how to start home-based businesses and larger ventures alike, and find out more about Genevieve’s experience as an entrepreneur in this video. 
+**Ready to take the first step to build your own business? Check out the [GoBusiness Start-up Guide](/start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, an extensive guide on how to start home-based businesses and larger ventures alike, and find out more about Genevieve’s experience as an entrepreneur in this video.**
 
 <p>
 <div class="bp-youtube">
