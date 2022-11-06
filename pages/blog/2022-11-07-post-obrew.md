@@ -5,7 +5,7 @@ permalink: /gobusiness-blog/obrewculture
 tags: Behind the Business
 pillar: Behind the Business
 crumbs: behind-the-business
-description: 'O'Brew Culture's only full-time employee is hearing-impaired, but owner Steven Kuan is determined to equip him with managerial skills.' 
+description: 'O'Brew Culture''s only full-time employee is hearing-impaired, but owner Steven Kuan is determined to equip him with managerial skills.' 
 ---
 
 ![o’brew culture](/images/blog/content/OBrewCulture Feature.jpg)
