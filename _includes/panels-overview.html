@@ -41,51 +41,47 @@
     }
 
 </style>
-<div class="spanels">
-    {% for spanel in include.spanels %}
-    <div class="spanel">
-        {% if {{spanel.label}} %}
-        <div class="spanel-label">{% include label.html label=spanel.label %}</div>
+<div class="spanel">
+    {% if {{spanel.label}} %}
+    <div class="spanel-label">{% include label.html label=spanel.label %}</div>
+    {% endif %}
+    {% if spanel.image %}
+    <div class="spanel-image">{{ spanel.image }}</div>
+    {% endif %}
+    <h4 class="spanel-title">{{ spanel.title }}</h4>
+    {% if spanel.description %}
+    <p class="spanel-description">{{ spanel.description }}</p>
+    {% endif %}
+    {% if spanel.tel or spanel.email or spanel.url %}
+    <div class="spanel-links-container">
+        {% if spanel.tel %}
+        <div class="spanel-links-group">
+            {% assign tels = spanel.tel | split: '|' %}
+            {% for tel in tels %}
+            <a class="spanel-link" href="tel:{{ tel }}">{{ tel }}</a>
+            {% endfor %}
+        </div>
         {% endif %}
-        {% if spanel.image %}
-        <div class="spanel-image">{{ spanel.image }}</div>
+        {% if spanel.email %}
+        <div class="spanel-links-group">
+            {% assign emails = spanel.email | split: '|' %}
+            {% for email in emails %}
+            <a class="spanel-link" href="mailto:{{ email }}">{{ email }}</a>
+            {% endfor %}
+        </div>
         {% endif %}
-        <h4 class="spanel-title">{{ spanel.title }}</h4>
-        {% if spanel.description %}
-        <p class="spanel-description">{{ spanel.description }}</p>
-        {% endif %}
-        {% if spanel.tel or spanel.email or spanel.url %}
-        <div class="spanel-links-container">
-            {% if spanel.tel %}
-            <div class="spanel-links-group">
-                {% assign tels = spanel.tel | split: '|' %}
-                {% for tel in tels %}
-                <a class="spanel-link" href="tel:{{ tel }}">{{ tel }}</a>
-                {% endfor %}
-            </div>
-            {% endif %}
-            {% if spanel.email %}
-            <div class="spanel-links-group">
-                {% assign emails = spanel.email | split: '|' %}
-                {% for email in emails %}
-                <a class="spanel-link" href="mailto:{{ email }}">{{ email }}</a>
-                {% endfor %}
-            </div>
-            {% endif %}
-            {% if spanel.url %} 
-            <div class="spanel-links-group">
-                {% assign urls = spanel.url | split: '|' %}
-                {% for url in urls %}
-                <a class="spanel-link"
-                    href="{% if spanel.protocol %}{{spanel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="{% if spanel.url-new-tab %}_blank{% else %}{% endif %}">
-                    {% if spanel.text %}{{spanel.text}}
-                    {% else %}{{url}}{% endif %}</a>
-                {% endfor %}
-            </div>
-            {% endif %}
+        {% if spanel.url %} 
+        <div class="spanel-links-group">
+            {% assign urls = spanel.url | split: '|' %}
+            {% for url in urls %}
+            <a class="spanel-link"
+                href="{% if spanel.protocol %}{{spanel.protocol}}://{% else %}{% endif %}{{url}}"
+                target="{% if spanel.url-new-tab %}_blank{% else %}{% endif %}">
+                {% if spanel.text %}{{spanel.text}}
+                {% else %}{{url}}{% endif %}</a>
+            {% endfor %}
         </div>
         {% endif %}
     </div>
-    {% endfor %}
+    {% endif %}
 </div>
