@@ -58,5 +58,5 @@ Now, Steven is himself armed with the skills he will need to tackle the new fron
 
 **Keen to invest in training and upskilling your own employees? Check out the [Enterprise Portal for Jobs and Skills (EPJS)](https://www.enterprisejobskills.gov.sg/){:target="_blank"}{:rel="noopener"}, a one-stop portal for enterprises' to find jobs and skills information, and access digital services related to workforce training and grant applications.**
 
-<em>This article is accurate as at 4 Nov 2022</em>
+<em>This article is accurate as at 7 Nov 2022</em>
 
