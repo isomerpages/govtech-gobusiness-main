@@ -61,8 +61,8 @@
 <div id="toc-panel" role="navigation">
     <h2 class="toc-title">On this page:</h2>
     <ul class="toc-links">
-      <li><a href="#">Get recommendations for what to do next super long text link</a></li> 
-      <li><a href="#">Government Assistance</a></li> 
-      <li><a href="#">Government Assistance</a></li> 
+    {% for anchorlink in include.anchorlinks %}
+      <li><a href="{{ overview.anchor }}">{{ overview.anchor_text}}</a></li> 
+    {% endfor %}
      </ul>
   </div>
