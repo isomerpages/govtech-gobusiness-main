@@ -45,7 +45,7 @@
     {% for spanel in include.spanels %}
     <div class="spanel" role="navigation">
         {% if {{spanel.label}} %}
-        <div class="spanel-label">{% include label.html label=spanel.label %}</div>
+        <h2 class="spanel-label">{% include label.html label=spanel.label %}</h2>
         {% endif %}
         {% if spanel.image %}
         <div class="spanel-image">{{ spanel.image }}</div>
