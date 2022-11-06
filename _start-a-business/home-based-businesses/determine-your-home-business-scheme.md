@@ -18,6 +18,8 @@ A non-exhaustive list of business classification is provided below.
 
 {% include panels-overview.html spanels=site.data.ov001-start-hbb01 %}
 
+{% include overview.html spanels=site.data.ov001-start-hbb %}
+
 <hr>
 
 <a name="home_based_biz_scheme"></a>
