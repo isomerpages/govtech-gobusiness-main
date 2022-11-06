@@ -54,7 +54,7 @@ On the contrary, not spending time training staff members could result in more t
 
 Steven is already reaping the rewards of the leap he took on disability hiring, and the time and effort he has invested into training Parker. With Parker confidently helming business operations at the Tampines One outlet, Steven was able to embark on his own digital upskilling. He has since completed a [WSQ Essentials of Franchise Management](https://www.flasingapore.org/efm){:target="_blank"}{:rel="noopener"} course, and equipped himself with digital marketing skills to advertise his cafe through social media. 
 
-Now, Steven is himself armed with the skills he will need to tackle the new frontiers he hopes to explore: expanding O’Brew Culture, and spreading the fragrance of his signature dalgona coffee to other locations in Singapore. 
+Now, Steven is himself armed with the skills he will need to tackle the new frontiers he hopes to explore: expanding O’Brew Culture, and spreading the fragrance of his signature dalgona coffee to other locations in Singapore.
 
 **Keen to invest in training and upskilling your own employees? Check out the [Enterprise Portal for Jobs and Skills (EPJS)](https://www.enterprisejobskills.gov.sg/){:target="_blank"}{:rel="noopener"}, a one-stop portal for enterprises' to find jobs and skills information, and access digital services related to workforce training and grant applications.**
 
