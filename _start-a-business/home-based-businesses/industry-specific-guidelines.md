@@ -10,7 +10,7 @@ Your business activities must comply with the rules and regulations of relevant 
 
 To search for the licenses and approvals that may be required for the business, visit the [GoBusiness Licensing Portal](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"}.
 
-{% include panels-overview.html spanels=site.data.ov001-start-hbb03 %}
+{% include overview.html anchorlinks=site.data.ov001-start-hbb03 %}
 
 <hr>
 

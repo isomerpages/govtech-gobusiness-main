@@ -1,11 +1,10 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#getting_started">Getting Started</a></li> 
-    <li><a href="#business-reg-benefits">Benefits of registering a business</a></li> 
-    <li><a href="#small-scale-home-biz">Carrying out a small-scale business from home</a></li> 
-    <li><a href="#start-biz-key-steps">Key steps to start</a></li> 
-    <li><a href="#start-biz-setup-cost">Setup cost calculator</a></li> 
-    </ul><br>
-  text:
+- anchor: '#getting_started'
+  anchor_text: Getting Started
+- anchor: '#business-reg-benefits'
+  anchor_text: Benefits of registering a business
+- anchor: '#small-scale-home-biz'
+  anchor_text: Carrying out a small-scale business from home
+- anchor: '#start-biz-key-steps'
+  anchor_text: Key steps to start
+- anchor: '#start-biz-setup-cost'
+  anchor_text: Setup cost calculator

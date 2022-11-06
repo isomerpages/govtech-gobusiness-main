@@ -1,9 +1,6 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#psg-eligibility">PSG Eligibility</a></li> 
-    <li><a href="#type-of-psg-soln">Types of PSG solutions</a></li>
-    <li><a href="#be-psg-vendor">Be a PSG vendor</a></li>
-    </ul><br>
-  text:
+- anchor: '#psg-eligibility'
+  anchor_text: PSG Eligibility
+- anchor: '#type-of-psg-soln'
+  anchor_text: Types of PSG solutions
+- anchor: '#be-psg-vendor'
+  anchor_text: Be a PSG vendor

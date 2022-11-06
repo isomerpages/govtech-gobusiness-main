@@ -1,10 +1,8 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#changing_biz_structures">Changing business structures</a></li> 
-    <li><a href="#moving_into_external_office">Moving into an external office</a></li> 
-    <li><a href="#opening_physical_shop">Opening a physical shop</a></li>
-    <li><a href="#additional_help_for_expansion">Additional help for expansion</a></li>
-    </ul><br>
-  text:  
+- anchor: '#changing_biz_structures'
+  anchor_text: Changing business structures
+- anchor: '#moving_into_external_office'
+  anchor_text: Moving into an external office
+- anchor: '#opening_physical_shop'
+  anchor_text: Opening a physical shop
+- anchor: '#additional_help_for_expansion'
+  anchor_text: Additional help for expansion

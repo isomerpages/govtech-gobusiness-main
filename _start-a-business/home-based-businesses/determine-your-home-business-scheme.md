@@ -16,8 +16,6 @@ Generally, you should select the scheme depending on your business activities.
 
 A non-exhaustive list of business classification is provided below.
 
-{% include panels-overview.html spanels=site.data.ov001-start-hbb01 %}
-
 {% include overview.html anchorlinks=site.data.ov001-start-hbb %}
 
 <hr>

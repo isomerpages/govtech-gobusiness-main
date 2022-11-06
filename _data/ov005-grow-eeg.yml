@@ -1,9 +1,6 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#eeg-eligibility">EEG Eligibility</a></li> 
-    <li><a href="#type-of-eeg-soln">Types of EE Equipment</a></li>
-    <li><a href="#eeg-faq">FAQ</a></li>
-    </ul><br>
-  text:
+- anchor: '#eeg-eligibility'
+  anchor_text: EEG Eligibility
+- anchor: '#type-of-eeg-soln'
+  anchor_text: Types of EE Equipment
+- anchor: '#eeg-faq'
+  anchor_text: FAQ

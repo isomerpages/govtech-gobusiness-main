@@ -8,7 +8,7 @@ third_nav_title: Home-Based Businesses
 
 Once you have determined which scheme your home business falls under, you need to understand the scheme’s regulations that apply to your business.
 
-{% include panels-overview.html spanels=site.data.ov001-start-hbb02 %}
+{% include overview.html anchorlinks=site.data.ov001-start-hbb02 %}
 
 <hr>
 
