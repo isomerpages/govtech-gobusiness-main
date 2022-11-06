@@ -1,7 +1,7 @@
 ---
 layout: gobusiness-blog-post
 title: Brewing a culture of training and upskilling
-permalink: /gobusiness-blog/sourbombe
+permalink: /gobusiness-blog/obrewculture
 tags: Behind the Business
 pillar: Behind the Business
 crumbs: behind-the-business
