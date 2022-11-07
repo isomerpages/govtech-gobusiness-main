@@ -7,7 +7,7 @@ permalink: /run-and-grow/
 
 With GoBusiness, you get easy and efficient access to over 100 government assistance schemes, grants, licences, resources and more. What would you like to do next?
 
-{% include panels-overview.html spanels=site.data.ov003-runandgrow %}
+{% include overview.html anchorlinks=site.data.ov003-runandgrow %}
 
 ---
 

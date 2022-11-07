@@ -8,7 +8,7 @@ third_nav_title: Home-Based Businesses
 
 Now that you have a better understanding of the regulations for your industry, the next thing to find out is which tax requirements apply to your business, as well as the government assistance schemes and grants that are relevant.
 
-{% include panels-overview.html spanels=site.data.ov001-start-hbb04 %}
+{% include overview.html anchorlinks=site.data.ov001-start-hbb04 %}
 
 <hr>
 

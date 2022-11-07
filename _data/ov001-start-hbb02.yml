@@ -1,8 +1,4 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#home_based_biz_scheme_guidelines">Guidelines for Home-Based Business Scheme</a></li> 
-    <li><a href="#home_office_scheme_guidelines">Guidelines for Home Office Scheme</a></li> 
-    </ul><br>
-  text:
+- anchor: '#home_based_biz_scheme_guidelines'
+  anchor_text: Guidelines for Home-Based Business Scheme
+- anchor: '#home_office_scheme_guidelines'
+  anchor_text: Guidelines for Home Office Scheme

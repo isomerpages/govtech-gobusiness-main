@@ -11,7 +11,7 @@ The Productivity Solutions Grant (PSG) was launched on April 2018 to help busine
 
 It provides financial support for business owners to adopt pre-scoped IT solutions, equipment and consultancy services to improve productivity. These solutions are aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
 
-{% include panels-overview.html spanels=site.data.ov004-grow-psg %}
+{% include overview.html anchorlinks=site.data.ov004-grow-psg %}
 
 ----
 

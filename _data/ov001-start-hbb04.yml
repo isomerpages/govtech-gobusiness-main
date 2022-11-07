@@ -1,9 +1,6 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#employee_cpf_contributions">Employee CPF Contributions</a></li> 
-    <li><a href="#taxation">Taxation</a></li> 
-    <li><a href="#gov_grants_n_assistance">Government Grants and Assistance</a></li>
-    </ul><br>
-  text:
+- anchor: '#employee_cpf_contributions'
+  anchor_text: Employee CPF Contributions
+- anchor: '#taxation'
+  anchor_text: Taxation
+- anchor: '#gov_grants_n_assistance'
+  anchor_text: Government Grants and Assistance

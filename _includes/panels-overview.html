@@ -41,16 +41,16 @@
     }
 
 </style>
-<div class="spanels">
+<div class="spanels" role="navigation">
     {% for spanel in include.spanels %}
-    <div class="spanel">
+    <div class="spanel" role="navigation">
         {% if {{spanel.label}} %}
         <div class="spanel-label">{% include label.html label=spanel.label %}</div>
         {% endif %}
         {% if spanel.image %}
         <div class="spanel-image">{{ spanel.image }}</div>
         {% endif %}
-        <h4 class="spanel-title">{{ spanel.title }}</h4>
+        <div class="spanel-title">{{ spanel.title }}</div>
         {% if spanel.description %}
         <p class="spanel-description">{{ spanel.description }}</p>
         {% endif %}

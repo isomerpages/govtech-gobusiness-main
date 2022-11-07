@@ -8,7 +8,7 @@ third_nav_title: Home-Based Businesses
 
 Congrats on your successful business. Now that you are thinking of expanding operations, here are some things to consider:
 
-{% include panels-overview.html spanels=site.data.ov001-start-hbb05 %}
+{% include overview.html anchorlinks=site.data.ov001-start-hbb05 %}
 
 <hr>
 

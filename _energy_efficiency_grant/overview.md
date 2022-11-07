@@ -11,7 +11,7 @@ The Energy Efficiency Grant (EEG) was launched September 2022 and aims to help b
 
 It provides financial support for SMEs to adopt pre-approved energy efficient equipment in the following categories: LED lighting, air-conditioners, cooking hobs, refrigerators, water heaters and clothes dryers. 
 
-{% include panels-overview.html spanels=site.data.ov005-grow-eeg %}
+{% include overview.html anchorlinks=site.data.ov005-grow-eeg %}
 
 ----
 

@@ -1,11 +1,10 @@
-- title:
-  description: |
-    <br><b>On this page:</b><br> 
-    <ul> 
-    <li><a href="#hbb_bakeries_guidelines">For Home Bakeries</a></li> 
-    <li><a href="#hbb_insur_fin_services_guidelines">For Insurance / Financial Services</a></li> 
-    <li><a href="#hbb_tech_or_knowledge_intensive_coy_guidelines">For Technology-based/Knowledge-Intensive Companies</a></li>
-    <li><a href="#hbb_trading_coy_guidelines">For Trading Companies</a></li>
-    <li><a href="#hbb_real_estate_coy_guidelines">For Real Estate Companies</a></li>
-    </ul><br>
-  text:
+- anchor: '#hbb_bakeries_guidelines'
+  anchor_text: For Home Bakeries
+- anchor: '#hbb_insur_fin_services_guidelines'
+  anchor_text: For Insurance / Financial Services
+- anchor: '#hbb_tech_or_knowledge_intensive_coy_guidelines'
+  anchor_text: For Technology-based/Knowledge-Intensive Companies
+- anchor: '#hbb_trading_coy_guidelines'
+  anchor_text: For Trading Companies
+- anchor: '#hbb_real_estate_coy_guidelines'
+  anchor_text: For Real Estate Companies
