@@ -14,7 +14,7 @@ description: 'Learn how homegrown venture Sourbombe Bakery''s marketing strategi
 
 It’s not rare to see crowds queuing for fresh bakes along Penang Road — chances are, they’re waiting their turn to buy one of Sourbombe Bakery’s signature Sourbombes. 
 
-The brainchild of [Genevieve Lee](http://www.instagram.com/gen_lxn){:target="_blank"}{:rel="noopener"} and [Tan Chun Rong (CR)](https://www.instagram.com/xlbcr/){:target="_blank"}{:rel="noopener"} , [Sourbombe Bakery](https://www.sourbombebakery.com/){:target="_blank"}{:rel="noopener"} was initially a home-based business born amid the pandemic, starting out in a time when many online businesses were taking off. The bakery quickly gained renown for its sourdough bombolinis, a revolutionary blend of sourdough and italian doughnuts stuffed with generous fillings. 
+The brainchild of [Genevieve Lee](http://www.instagram.com/gen_lxn){:target="_blank"}{:rel="noopener"} and [Tan Chun Rong (CR)](https://www.instagram.com/xlbcr/){:target="_blank"}{:rel="noopener"} , [Sourbombe Bakery](https://www.sourbombebakery.com/){:target="_blank"}{:rel="noopener"} was initially a home-based business born amid the pandemic, starting out in a time when many online businesses were taking off. The bakery quickly gained renown for its sourdough bomboloni, a revolutionary blend of sourdough and italian doughnuts stuffed with generous fillings. 
 
 After running Sourbombe Bakery as a home-based business for a year, the duo felt confident enough to open a physical shopfront; their first store at Penang Road has been open since July 2021, and they have since expanded their product range to include pastries and croissants. 
 
