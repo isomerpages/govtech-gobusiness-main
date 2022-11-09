@@ -131,6 +131,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3438' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3638' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0</a><br></td>
+<td>Weebo Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

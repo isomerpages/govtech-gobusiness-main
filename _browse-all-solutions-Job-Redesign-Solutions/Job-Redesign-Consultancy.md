@@ -72,8 +72,8 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td>KLC International Institute Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3597' target='_blank'>Job Redesign Consultancy - School of Business, Business Innovation Centre (BIC) </a><br></td>
-<td>School of Business, Business Innovation Centre (BIC)</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3597' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
+<td>Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3628' target='_blank'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</a><br></td>

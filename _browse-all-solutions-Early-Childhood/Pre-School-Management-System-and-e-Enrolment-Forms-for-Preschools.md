@@ -39,6 +39,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2699' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3646' target='_blank'>HAVSchool + E-Form Version 4.1</a><br></td>
+<td>HAVENCE PORTAL LLP</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3653' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
+<td>CommonTown Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

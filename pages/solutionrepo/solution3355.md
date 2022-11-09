@@ -43,7 +43,7 @@ TLBB's solutions are designed to help SMEs enhance their client's social presenc
 
 ## Vendor Information
 
- Company name:The Little Black Book Pte Ltd<br>Web URL: www.tlbb.com.sg <br>Contact Hotline: 94504886 <br>Contact Email: asktlbb@gmail.com
+ Company name:The Little Black Book Pte Ltd<br>Web URL: www.tlbb.com.sg <br>Contact hotline: 87899028<br>Contact email: fong@tlbb.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

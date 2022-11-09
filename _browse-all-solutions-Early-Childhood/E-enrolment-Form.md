@@ -39,6 +39,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2698' target='_blank'>e-Forms for Preschool Version 1.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3651' target='_blank'>E-Form (HAVSchool) Version 4.1</a><br></td>
+<td>HAVENCE PORTAL LLP</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -291,6 +291,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3615' target='_blank'>Advante Consulting - Xero Cloud Accounting</a><br></td>
 <td>Advante Consulting Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3629' target='_blank'>Accounts101 - Xero</a><br></td>
+<td>Accounts101 Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
