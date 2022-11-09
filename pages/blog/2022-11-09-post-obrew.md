@@ -19,7 +19,7 @@ Upon walking up to the counter, you’ll be greeted by a young man who, rather t
 The young man, Parker, is O’Brew Culture’s only full-time staff besides its founder, Steven Kuan. Parker has been working with Steven for over two years now, and has grown his capabilities and skillsets by leaps and bounds in that time. 
 
 ![coffee brewing training](/images/blog/content/OBrewCulture 1.jpg)
-<figcaption>Parker is O’Brew Culture’s only full-time employee and has undergone extensive training to learn the intricacies of cafe management (Source: O’Brew Culture</figcaption>
+<figcaption>Parker is O’Brew Culture’s only full-time employee and has undergone extensive training to learn the intricacies of cafe management (Source: O’Brew Culture)</figcaption>
 
 Since first joining O’Brew Culture as a barista, Parker has picked up the delicate art of coffee roasting and is also responsible for training and managing the part-timers. But all of this wouldn’t have been possible if Steven didn’t first decide to take a chance in hiring Parker as his first employee, and dedicate the time and effort needed afterwards to upskill him.
 
@@ -58,5 +58,5 @@ Now, Steven is himself armed with the skills he will need to tackle the new fron
 
 **Keen to invest in training and upskilling your own employees? Check out the [Enterprise Portal for Jobs and Skills (EPJS)](https://www.enterprisejobskills.gov.sg/){:target="_blank"}{:rel="noopener"}, a one-stop portal for enterprises to find jobs and skills information, and access digital services related to workforce training and grant applications.**
 
-<em>This article is accurate as at 8 Nov 2022</em>
+<em>This article is accurate as at 9 Nov 2022</em>
 
