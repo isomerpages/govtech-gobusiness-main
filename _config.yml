@@ -3,7 +3,7 @@ url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your sit
 logo: /images/Gobiz_logo_SG.svg
 favicon: |
   /images/Gobiz_favicon.ico" type="image/x-icon">
-  <script src="https://unpkg.com/@clye/my_first_hello_world@2.0.0/helloWorld.js" defer></script>
+  <script src="https://unpkg.com/@clye/my_first_hello_world@3.0.0/helloWorld.js" defer></script>
   <link "
 google_analytics: UA-186826212-1
 facebook-pixel: 199274315251589
