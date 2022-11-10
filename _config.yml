@@ -30,7 +30,7 @@ favicon: |
     window.onresize = generateLoginButton;
   }
   </script>
-  <link
+  <link "
 google_analytics: UA-186826212-1
 facebook-pixel: 199274315251589
 linkedin-insights: 918155
