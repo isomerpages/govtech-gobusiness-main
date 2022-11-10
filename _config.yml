@@ -5,11 +5,14 @@ favicon: |
   /images/Gobiz_favicon.ico" type="image/x-icon">
   <script defer>
   window.onload = () => {
+    console.log('window.onload');
     window.setTimeout(() => {
+      console.log('window.setTimeout');
       const loginContainer = document.querySelector('.login-container');
       const loginButton = document.createElement('a');
       const burgerButton = document.querySelector('.navbar-burger.burger');
       const navBar = document.querySelector('.navbar-brand');
+      console.log('elements', { loginContainer, loginButton, burgerButton, navBar });
   
       loginButton.classList.add('login-btn');
       loginButton.href = '/login/?src=top_nav';
