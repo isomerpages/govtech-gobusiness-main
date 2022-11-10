@@ -24,7 +24,7 @@
     referrerpolicy="origin"
 ></script>
 <script defer>
-  window.onload = () => {
+  $(document).ready(function () {
     const loginContainer = document.querySelector('.login-container');
     const loginButton = document.createElement('a');
     const burgerButton = document.querySelector('.navbar-burger.burger');
@@ -48,5 +48,5 @@
     generateLoginButton();
 
     window.onresize = generateLoginButton;
-  }
+  })
 </script>
