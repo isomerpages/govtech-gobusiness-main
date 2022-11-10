@@ -1,10 +1,7 @@
 title: GoBusiness Singapore
 url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_logo_SG.svg
-favicon: |
-  /images/Gobiz_favicon.ico" type="image/x-icon">
-  <script src="https://unpkg.com/@clye/my_first_hello_world@4.0.0/index.js" defer></script>
-  <link "
+favicon: /images/Gobiz_favicon.ico
 google_analytics: UA-186826212-1
 facebook-pixel: 199274315251589
 linkedin-insights: 918155
