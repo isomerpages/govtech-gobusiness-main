@@ -373,6 +373,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Navbar
 .navbar {
+  &-brand {
+    @media (max-width: 1280px) {
+      display: grid;
+      grid-template-columns: 1fr auto auto;
+      align-items: center;
+    }
+  }
+
   &-start {
     .navbar-item {
       a {
@@ -798,6 +806,7 @@ p > img[src*="/images/blog/content/"] {
 }
 
 .login-btn {
+  display: none;
   background-color: #037e8a;
   height: 40px;
   width: 83px;
@@ -825,6 +834,28 @@ p > img[src*="/images/blog/content/"] {
   }
   &:focus {
     outline: 2px solid #1c8b95;
+  }
+
+  @media (min-width: 320px) {
+    display: block;
+  }
+}
+
+.navbar-item > img {
+  max-width: 160px !important;
+}
+
+.navbar-burger.burger {
+  height: 48px;
+  width: 48px;
+  margin: auto 4px;
+}
+
+.navbar-burger span {
+  width: 18px;
+
+  &:nth-child(2) {
+    width: 10px;
   }
 }
 
