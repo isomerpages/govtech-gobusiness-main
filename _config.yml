@@ -1,7 +1,36 @@
 title: GoBusiness Singapore
 url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_logo_SG.svg
-favicon: /images/Gobiz_favicon.ico
+favicon: |
+  /images/Gobiz_favicon.ico" type="image/x-icon">
+  <script defer>
+  window.onload = () => {
+    const loginContainer = document.querySelector('.login-container');
+    const loginButton = document.createElement('a');
+    const burgerButton = document.querySelector('.navbar-burger.burger');
+    const navBar = document.querySelector('.navbar-brand');
+
+    loginButton.classList.add('login-btn');
+    loginButton.href = '/login/?src=top_nav';
+
+    const generateLoginButton = () => {
+      switch(true) {
+        case window.innerWidth >= 1280:
+          loginContainer.appendChild(loginButton);
+          return;
+        case window.innerWidth < 1280 && window.innerWidth >= 320:
+          navBar.insertBefore(loginButton, burgerButton);
+          return;
+        default:
+          return;
+      }
+    };
+    generateLoginButton();
+
+    window.onresize = generateLoginButton;
+  }
+  </script>
+  <link
 google_analytics: UA-186826212-1
 facebook-pixel: 199274315251589
 linkedin-insights: 918155
