@@ -26,7 +26,7 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 - [Apply for SkillsFuture Work-Study Programme](https://www.enterprisejobskills.gov.sg/content/recruit-talent/skillsfuture-work-study-programme.html){:target="_blank"}{:rel="noopener"}
   <br>Recruit fresh graduates from polytechnics and the Institute of Technical Education (ITE) and register them for this work-study programme to prepare them for suitable job roles within your business.
 
-- [e-Adviser for Skills Training](https://eadviser.gobusiness.io/skillstraining){:target="_blank"}{:rel="noopener"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+- [e-Adviser for Skills Training](https://eadviser.gobusiness.io/skillstraining?src=eservices_training){:target="_blank"}{:rel="noopener"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
 
 - [Claim Absentee Payroll (AP) Funding](https://psgsfts.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
