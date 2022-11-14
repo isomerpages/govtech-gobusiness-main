@@ -18,12 +18,19 @@ Navigate the process of starting, running and growing a business with our handy 
 - [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=eservices_guidesforbiz){:target="_blank"}
   <br>To help aspiring business owners decide on the business structure that best suits their needs.
 
-- [e-Adviser for Home-Based Business](https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+- [e-Adviser for Home-Based Business](https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_guidesforbiz){:target="_blank"}
   <br>For aspiring business owners to find out the next steps to run a small-scale business from home.
 
 ### For government assistance
 - [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.
+
+### For skills training
+
+The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/)<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span> provides business owners with 5 key steps to get styarted on their SkillsFuture journey.
+
+- [e-Adviser for Skills Training](https://eadviser.gobusiness.io/skillstraining){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
 
 ### For licence recommendations
 - [e-Adviser for Events](https://eadviser.gobusiness.gov.sg/events?src=eservices_guidesforbiz){:target="_blank"} 
