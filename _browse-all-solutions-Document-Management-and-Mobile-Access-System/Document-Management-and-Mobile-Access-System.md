@@ -60,12 +60,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>YNL 360 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3559' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3568' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3718' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
+<td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 </table>
 
