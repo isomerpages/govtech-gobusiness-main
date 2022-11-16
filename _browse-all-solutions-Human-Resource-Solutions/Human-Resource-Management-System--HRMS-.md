@@ -103,6 +103,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3564' target='_blank'>AGHRM</a><br></td>
 <td>AG NET PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3684' target='_blank'>PEOPLECENTRAL HRMS Version 11</a><br></td>
+<td>PEOPLE CENTRAL PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3694' target='_blank'>HRM Labs Solution</a><br></td>
+<td>HRM Labs Pte. Ltd. </td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
