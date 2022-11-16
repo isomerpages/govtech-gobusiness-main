@@ -8,11 +8,6 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Guided Journey for Food Services and Covid Services will be unavailable due to scheduled maintenance from 26 May 2022 7pm to 27 May 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Business Grant Portal will be undergoing scheduled maintenance on 8 April 2022 from 6:00 PM to 9:00 PM. We apologise for any inconvenience.",
 
-  //[**ACRA DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 28 Oct 2022 from 12am to 5am. We apologise for the inconvenience caused.",
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 16 Sep 2022 12am to 5am<br>(2) 18 Sep 2022 from 12am to 8am"
-
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 1 May 2022 from 12am to 8am. We apologise for the inconvenience caused."
@@ -29,7 +24,12 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
   
   //[**SPF DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Aug 2022 from 6pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 16 Nov 2022 8pm to 17 Nov 2022 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+
+  //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
+  //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 20 Nov 2022 from 12am to 4am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 16 Sep 2022 12am to 5am<br>(2) 18 Sep 2022 from 12am to 8am"
 
   //[**ADHOC**]
   //IPOS DOWNTIME
