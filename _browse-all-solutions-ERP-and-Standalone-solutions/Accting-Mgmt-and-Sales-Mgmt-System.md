@@ -96,10 +96,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Value Consultancy (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2438' target='_blank'>Xero - Full Transformation Packages for SMEs Version 2021</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2443' target='_blank'>Daisy XERO Accounting Software</a><br></td>
 <td>Daisy Consultants Pte Ltd</td>
 </tr>
@@ -160,18 +156,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Quest Business Advisory Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2778' target='_blank'>Beaufort-Xero Digital Solutions</a><br></td>
-<td>Beaufort Tax Consultants Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2783' target='_blank'>Xero Accounting System</a><br></td>
-<td>EBOS SG PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2826' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>361 Degree Consultancy Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2847' target='_blank'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4</a><br></td>
 <td>EBOS SG PTE. LTD.</td>
 </tr>
@@ -206,10 +190,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3165' target='_blank'>ABSS(MYOB) Premier</a><br></td>
 <td>E-Click Solutions</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3182' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
-<td>Cloud Accounting & Consultancy Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3217' target='_blank'>AutoCount Accounting Software Version 2.0</a><br></td>
@@ -294,6 +274,26 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3629' target='_blank'>Accounts101 - Xero</a><br></td>
 <td>Accounts101 Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3659' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3664' target='_blank'>Xero - Full Transformation Packages for SMEs Version 2021</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3669' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
+<td>Cloud Accounting & Consultancy Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3674' target='_blank'>Beaufort-Xero Digital Solutions</a><br></td>
+<td>Beaufort Tax Consultants Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3679' target='_blank'>Xero Accounting System</a><br></td>
+<td>EBOS SG PTE. LTD.</td>
 </tr>
 </table>
 
