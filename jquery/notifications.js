@@ -29,7 +29,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
   
   //[**SPF DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Aug 2022 from 6pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 16 Nov 2022 8pm to 17 Nov 2022 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused."
 
   //[**ADHOC**]
   //IPOS DOWNTIME
