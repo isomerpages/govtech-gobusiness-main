@@ -67,10 +67,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3620' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3703' target='_blank'>1SME</a><br></td>
-<td>Bona Technologies Systems Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

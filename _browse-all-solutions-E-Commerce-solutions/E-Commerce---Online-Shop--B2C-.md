@@ -159,14 +159,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3497' target='_blank'>1ECommerce</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3692' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
-<td>Fooyo Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3699' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
-<td>Nspire Group Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

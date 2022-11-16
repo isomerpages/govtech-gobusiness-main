@@ -79,10 +79,6 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3628' target='_blank'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</a><br></td>
 <td>Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3658' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </a><br></td>
-<td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}
