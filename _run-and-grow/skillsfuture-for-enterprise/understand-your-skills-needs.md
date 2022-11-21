@@ -22,10 +22,7 @@ Some key questions to ask:
 
 {% include accordion.html accordions=site.data.acc027-application-for-change-of-trade-hdb-commercial-properties.accordion %}
 
-Proceed to [Step 2](_blank) to check your eligibility for subsidies and funding after determining your skills needs.
-
-
-
+Proceed to [Step 2](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=rgp_skillsfuture_step1) to check your eligibility for subsidies and funding after determining your skills needs.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
