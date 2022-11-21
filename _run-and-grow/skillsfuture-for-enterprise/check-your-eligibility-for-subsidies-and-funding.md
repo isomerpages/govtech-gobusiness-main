@@ -56,7 +56,7 @@ To find out about Absentee Payroll funding claims, please proceed to [step 4](_b
 
 ----
 <a name="sfec"></a>
-###SkillsFuture Enterprise Credit (SFEC)
+### SkillsFuture Enterprise Credit (SFEC)
 
 The SkillsFuture Enterprise Credit (SFEC) is a S$10,000 credit provided by the government to further encourage enterprises to embark on business and workforce transformation (i.e. training). 
 
@@ -67,15 +67,16 @@ There is no application required for SFEC. Enterprises that are eligible for SFE
 **An example of how you can tap on SFEC:**
 
 |-|-|
-|**Full course fee (without subsidy)**|**$950.00**|
-|Baseline course fee funding<br>(50% of course fee)|- $475|
-|Enhanced Training Subsidy for SMEs (ETSS)<br>(20% of course fee)|- $190|
-|**Out-of-pocket expense after subsidies**|**$285**|
-|Additional SFEC funding<br>(90% of remaining cost)|- $256.50|
-|***Final cost to company**|**$28.50**|
+| **Full course fee (without subsidy)** | **$950.00** |
+| Baseline course fee funding<br>(50% of course fee) | - $475 |
+| Enhanced Training Subsidy for SMEs (ETSS)<br>(20% of course fee) | - $190 |
+| **Out-of-pocket expense after subsidies** | **$285** |
+| Additional SFEC funding<br>(90% of remaining cost) | - $256.50 |
+| ***Final cost to company** |**$28.50** |
+
 *Computation is for illustration purposes and subject to GST
-
-
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+<script src="/jquery/resize-tables.js"></script>
+
