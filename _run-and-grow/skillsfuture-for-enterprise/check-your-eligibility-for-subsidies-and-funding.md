@@ -34,10 +34,46 @@ For Permanent Resident and LTVP+ employees:
 <a name="enhanced-training-support"></a>
 ### Enhanced Training Support for SMEs (ETSS)
 
-{% include accordion.html accordions=site.data.acc027-application-for-change-of-trade-hdb-commercial-properties.accordion %}
+**Singaporean, PR and LTVP+ employees of all age groups**: Up to 90%. If there is a change to your SME organisation’s status, you will need to submit a [SME declaration](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"} to be eligible for enhanced course fee funding. 
 
-Proceed to [Step 2](_blank) to check your eligibility for subsidies and funding after determining your skills needs.
+**SME Eligibility Criteria:**
 
+- Registered or incorporated in Singapore
+
+- At least 30% local shareholding by Singaporeans or Singapore Permanent Residents
+
+- Employment size of not more than 200 employees (at group level) OR with annual sales turnover (at group level) of not more than S$100 million
+
+Please check the [summary of course fee rates](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"} before deciding. 
+
+- In most cases, the course fee subsidies are automatically computed and deducted from the course fee. 
+
+- You only need to pay the net course fee and GST to the training provider. 
+
+- You are advised to check with the training provider on the net course fee after SSG subsidies and GST before enrolling your employee to a training course.
+
+To find out about Absentee Payroll funding claims, please proceed to [step 4](_blank).
+
+----
+<a name="sfec"></a>
+###SkillsFuture Enterprise Credit (SFEC)
+
+The SkillsFuture Enterprise Credit (SFEC) is a S$10,000 credit provided by the government to further encourage enterprises to embark on business and workforce transformation (i.e. training). 
+
+SFEC provides an additional 90% funding support for out-of-pocket expenses when eligible enterprises send their employees for SSG-funded training courses. Find out your SFEC balance by logging in to the [SkillsFuture Singapore's SFEC microsite](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}.
+
+There is no application required for SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing.  
+
+**An example of how you can tap on SFEC:**
+
+|-|-|
+|**Full course fee (without subsidy)**|**$950.00**|
+|Baseline course fee funding<br>(50% of course fee)|- $475|
+|Enhanced Training Subsidy for SMEs (ETSS)<br>(20% of course fee)|- $190|
+|**Out-of-pocket expense after subsidies**|**$285**|
+|Additional SFEC funding<br>(90% of remaining cost)|- $256.50|
+|***Final cost to company**|**$28.50**|
+*Computation is for illustration purposes and subject to GST
 
 
 
