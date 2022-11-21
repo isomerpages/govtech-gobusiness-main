@@ -20,7 +20,7 @@ Some key questions to ask:
 
 ### Resources to help identify your skills needs
 
-{% include accordion.html accordions=site.data.acc027-application-for-change-of-trade-hdb-commercial-properties.accordion %}
+{% include accordion.html accordions=site.data.rgp006-understand-your-skills-needs.accordion %}
 
 Proceed to [Step 2](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=rgp_skillsfuture_step1) to check your eligibility for subsidies and funding after determining your skills needs.
 
