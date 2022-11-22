@@ -8,7 +8,7 @@ third_nav_title: SkillsFuture for Enterprise
 
 After your employees have completed the skills training course, the next step would be to claim for absentee payroll (AP) funding by making a simple declaration.
 
-**Claiming absentee payroll funding**
+### Claiming absentee payroll funding
 
 Absentee Payroll (AP) funding is a grant to help defray some manpower costs incurred when you send your Singaporean, Permanent Resident and LTVP+ employees for SSG-funded training.  
 
