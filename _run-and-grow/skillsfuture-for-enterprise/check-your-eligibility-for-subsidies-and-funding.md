@@ -52,7 +52,7 @@ Please check the [summary of course fee rates](https://www.enterprisejobskills.g
 
 - You are advised to check with the training provider on the net course fee after SSG subsidies and GST before enrolling your employee to a training course.
 
-To find out about Absentee Payroll funding claims, please proceed to [step 4](_blank).
+To find out about Absentee Payroll funding claims, please proceed to [step 4](/skillsfuture-for-enterprise/claim-absentee-payroll-funding/?src=rgp_skillsfuture_step2).
 
 ----
 <a name="sfec"></a>

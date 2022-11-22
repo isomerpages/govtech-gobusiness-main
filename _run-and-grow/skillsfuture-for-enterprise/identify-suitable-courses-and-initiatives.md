@@ -54,7 +54,7 @@ Now that you have identified your skills needs and eligibility for subsidies and
 
 - The net out-of-pocket amount you need to pay (after the subsidies are applied) and GST
 
-Once you have identified your skills needs and registered your employees for the skills training courses, you can proceed to attend the relevant courses and submit your absentee payroll claims, where applicable, in [step 4](_blank).
+Once you have identified your skills needs and registered your employees for the skills training courses, you can proceed to attend the relevant courses and submit your absentee payroll claims, where applicable, in [step 4](/skillsfuture-for-enterprise/claim-absentee-payroll-funding/?src=rgp_skillsfuture_step3).
 
 
 <script src="/jquery/jquery.min.js"></script>
