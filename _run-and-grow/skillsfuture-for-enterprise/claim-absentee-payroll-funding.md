@@ -20,7 +20,7 @@ You will be asked to declare your employees' hourly salary information (before C
 
 **Where to access the claims services**
 
-All claim services can be accessed on the [AP funding page](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx). AP funding will be disbursed via PayNow within two and a half weeks after submission of the AP Declaration.
+All claim services can be accessed on the [AP funding page](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}. AP funding will be disbursed via PayNow within two and a half weeks after submission of the AP Declaration.
 
 
 <script src="/jquery/jquery.min.js"></script>
