@@ -49,7 +49,7 @@ accordion:
 
       For more information, click [here](https://www.ssg.gov.sg/programmes-and-initiatives/training/enhanced-training-support-for-smes.html){:target="_blank"}{:rel="noopener"}.
 
-- title: What is Enhanced Training Support for SMEs (ETSS)?
+  - title: What is Enhanced Training Support for SMEs (ETSS)?
     content: |
       MCES offers Singaporeans aged 40 years old and above up to 90% of course fee subsidies for SSG-funded courses, and at least 90% of programme cost for MOE-subsidised full-time and part-time courses in the following institutions:
       
@@ -65,11 +65,11 @@ accordion:
 
       For more information, visit the [MCES webpage](https://www.skillsfuture.gov.sg/enhancedsubsidy){:target="_blank"}{:rel="noopener"}.
 
-- title: How do I apply for course fee subsidies/ETSS/MCES?
+  - title: How do I apply for course fee subsidies/ETSS/MCES?
     content: |
       You do not need to apply for course fee subsidies/ETSS/MCES. You only need to pay the nett course fee and prevailing GST when you register with your training provider.
 
-- title: What is Absentee Payroll (AP) Funding?
+  - title: What is Absentee Payroll (AP) Funding?
     content: |
       AP funding is a grant to help defray the manpower costs incurred when you send your Singaporean, Permanent Resident and LTVP+ employees for SSG-funded training courses. All enterprises registered or incorporated in Singapore are eligible for AP funding, including sole proprietorships and non-business entities registered with ACRA (e.g. Voluntary Welfare Organisations, or VWOs and societies).
 
@@ -83,7 +83,7 @@ accordion:
 
       All claim services can be accessed on the [AP funding page](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}. AP funding will be disbursed via PayNow within two and a half weeks after submission of the AP Declaration.
 
-- title: How do I apply for/claim Absentee Payroll (AP) funding?
+  - title: How do I apply for/claim Absentee Payroll (AP) funding?
     content: |
       After your employee has completed the training course, you will receive an email notification to submit your AP Declaration through the [Enterprise Portal for Jobs and Skills (EPJS)](https://www.enterprisejobskills.gov.sg/digital-services.html){:target="_blank"}{:rel="noopener"}. 
 
@@ -91,7 +91,7 @@ accordion:
 
       Refer to the [AP Claim Guide](https://www.enterprisejobskills.gov.sg/content/resources/TGS_CM_Absentee Payroll Onboarding Guide_v16.0.pdf){:target="_blank"}{:rel="noopener"} for more information.
 
-- title: What is SkillsFuture Enterprise Credit (SFEC)?
+  - title: What is SkillsFuture Enterprise Credit (SFEC)?
     content: |
       SkillsFuture Enterprise Credit (SFEC) is a S$10,000 credit provided by the government to further encourage enterprises to embark on business and workforce transformation (i.e.training).
 
@@ -101,24 +101,24 @@ accordion:
 
       You may log in to SkillsFuture Singapore's [SFEC microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"} to find out more about SFEC or to check your credit balance.
 
-- title: How do I apply for or claim SFEC?
+  - title: How do I apply for or claim SFEC?
     content: |
       There is no need to apply for SFEC and eligible enterprises will be informed by Enterprise Singapore in writing.  Alternatively, you may log in to SkillsFuture Singapore's [SFEC microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"} to check your credit balance.
 
-- title: I am not sure what skills gaps my enterprise has. What can I do?
+  - title: I am not sure what skills gaps my enterprise has. What can I do?
     content: |
       You may refer to the [Skills Framework](https://www.enterprisejobskills.gov.sg/content/develop-human-capital/skills-framework/index.html){:target="_blank"}{:rel="noopener"} and look for your business sector. The Skills Framework provides key information on different sectors' career pathways, existing and emerging skills required for occupations/job roles, as well as a list of training programmes for skills upgrading and mastery. 
 
       Alternatively, contact one of our [SkillsFuture Queen Bees (SFQBs)](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-queen-bee-networks.html){:target="_blank"}{:rel="noopener"}, who are industry leaders that provide skills advisory and support for businesses.
 
-- title: I am not sure which skills training course or initiative to apply for. What can I do?
+  - title: I am not sure which skills training course or initiative to apply for. What can I do?
     content: |
       Visit the [Enterprise Portal for Jobs and Skills (EPJS)](https://www.enterprisejobskills.gov.sg/index.html){:target="_blank"}{:rel="noopener"} to explore the various training courses and initiatives available. You can also contact one of our [SkillsFuture Queen Bees (SFQBs)](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-queen-bee-networks.html){:target="_blank"}{:rel="noopener"} - industry leaders that provide skills advisory and support for businesses—or seek advice from the Trade Associations & Chambers (TACs) of your industry.
 
-- title: Where can I find the SSG-funded skills training courses for my employees?
+  - title: Where can I find the SSG-funded skills training courses for my employees?
     content: |
       You may look for SSG-funded training courses in the course directory on the [Enterprise Portal for Jobs and Skills (EPJS)](https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseList.aspx){:target="_blank"}{:rel="noopener"}.  Contact the training provider to register your employees for the identified training course.
 
-- title: Who can I contact if I have further questions?
+  - title: Who can I contact if I have further questions?
     content: |
       You may contact [SME Centres](/contact-us/sme-centres/?src=rgp_skillsfuture_faq) or SkillsFuture Singapore at [enterprise_engage@ssg.gov.sg](mailto:enterprise_engage@ssg.gov.sg), or [6785 5785](tel:+6567855785). Alternatively, you may write to [Workforce Singapore](https://portal.ssg-wsg.gov.sg/){:target="_blank"}{:rel="noopener"}.
