@@ -36,7 +36,7 @@ Now that you have identified your skills needs and eligibility for subsidies and
 
 - Course duration 
 
-- Level of funding support: See step 2 on subsidies and funding 
+- Level of funding support: See [step 2](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=rgp_skillsfuture_step3) on subsidies and funding 
 
 ----
 <a name="next-steps"></a>
