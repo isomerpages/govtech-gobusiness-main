@@ -21,6 +21,7 @@ Commercial refrigerator: Inverter technology
 - Bosch - KGN56XI40
 - Bosch - KGN56XI40J
 - BRANDT - BFD8072NX
+- Carrier - 2GDB-IVTH
 - Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
 - Electrolux - EBE4500B-H
@@ -46,11 +47,22 @@ Commercial refrigerator: Inverter technology
 - FHIABA - S8991TST3I
 - FHIABA - S8991TST6I
 - Fisher & Paykel - RB9064S1
+- Fisher & Paykel - RS6019BRU1
 - Fisher & Paykel - RS6019S2R1
 - Fisher & Paykel - RS6121SLK1
 - Fisher & Paykel - RS6121SRK1
 - Fisher & Paykel - RS7621SLK1
 - Fisher & Paykel - RS7621SRK1
+- Flomatic - FC-F1200L(E)
+- Flomatic - FC-F1500L(E)
+- Flomatic - FC-F1800L(E)
+- Flomatic - FC-R1200L(E)
+- Flomatic - FC-R1500L(E)
+- Flomatic - FC-R1800L(E)
+- Flomatic - FUR-F1210(E)
+- Flomatic - FUR-F1480(E)
+- Flomatic - FUR-R1210(E)
+- Flomatic - FUR-R1480L(E)
 - FUJITECH - MRF-453W
 - FUJITECH - MRF-541W
 - Gaggenau - RB492304
@@ -142,10 +154,16 @@ Commercial refrigerator: Inverter technology
 - Hoshizaki - RT-150SDG-1
 - Hoshizaki - RT-150SNG-1
 - Hoshizaki - RT-180SDG-1
-- Hoshizaki - RT-180SNG
+- Hoshizaki - RT-180SNG-1
 - Hoshizaki - RT-90SDG-1
 - Hoshizaki - RT-90SNG-1
 - INNOTRICS - FD-417BA
+- Kadeka - KS106TL
+- Kadeka - KS106TR
+- Kadeka - KS140TL
+- Kadeka - KS140TR
+- Kadeka - KS194TL
+- Kadeka - KS194TR
 - LG - GB-B306PZ
 - LG - GB-B3442BE
 - LG - GB-B3442MC
@@ -332,6 +350,7 @@ Commercial refrigerator: Inverter technology
 - Samsung - RL4004SBASL
 - Samsung - RL4354RBABS
 - Samsung - RR39M71357F
+- Samsung - RR40B99C5AP
 - Samsung - RS62R5006F8
 - Samsung - RS64R5306M9
 - Samsung - RT21M6211SG
@@ -517,6 +536,8 @@ Commercial refrigerator: Inverter technology
 - SMEG - FAB5RSV5
 - SMEG - FAB5RWH3
 - SMEG - FAB5RWH5
+- SOLID COOL - SC- 2DBB
+- SOLID COOL - SC-3DTF
 - Sub-Zero - ICBBI-36R/S/PH-LH
 - Sub-Zero - ICBBI-36R/S/PH-RH
 - Sub-Zero - ICBBI-36R/S/TH-LH
@@ -541,6 +562,12 @@ Commercial refrigerator: Inverter technology
 - Toshiba - GR-AG66SA(GG)
 - Toshiba - GR-AG66SA(PGB)
 - Toshiba - GR-AG66SA(XK)
+- Ty Brand - RTGD-1DC-260-IVTH
+- Ty Brand - RTGD-1DC-330-IVTH
+- Ty Brand - RTGD-2DC-IVTH-B
+- Ty Brand - RTGD-2DC-IVTH-W
+- Ty Brand - RTGD-3DC-IVTH-B
+- Ty Brand - RTGD-3DC-IVTH-W
 - V-ZUG - CCO4T-51087
 - V-ZUG - CCO6T-51096
 - V-ZUG - CO6T-51098
