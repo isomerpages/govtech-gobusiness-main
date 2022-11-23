@@ -1,6 +1,6 @@
 ---
 title: File a claim
-permalink: /business-grants-portal/file-a-claim
+permalink: /business-grants-portal/file-a-claim/
 third_nav_title: Business Grants Portal
 ---
 

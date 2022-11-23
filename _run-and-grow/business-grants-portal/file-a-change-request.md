@@ -1,6 +1,6 @@
 ---
 title: File a change request
-permalink: /business-grants-portal/file-a-change-request
+permalink: /business-grants-portal/file-a-change-request/
 third_nav_title: Business Grants Portal
 ---
 

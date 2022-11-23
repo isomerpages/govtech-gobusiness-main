@@ -1,6 +1,6 @@
 ---
 title: Apply for a BGP grant
-permalink: /business-grants-portal/apply-for-a-bgp-grant
+permalink: /business-grants-portal/apply-for-a-bgp-grant/
 third_nav_title: Business Grants Portal
 ---
 
