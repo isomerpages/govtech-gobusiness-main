@@ -295,6 +295,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3679' target='_blank'>Xero Accounting System</a><br></td>
 <td>EBOS SG PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3736' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
+<td>USER BASIC SOFTWARE PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3737' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
+<td>User Basic Software Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
