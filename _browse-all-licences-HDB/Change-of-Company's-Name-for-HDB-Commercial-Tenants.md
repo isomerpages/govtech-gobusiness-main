@@ -14,10 +14,13 @@ Housing & Development Board (HDB)
 
 <H3>Application Details</H3>
 
-<p>Applicable to tenants who change their company's name without change of :</p>
+<p>Applicable to HDB commercial tenants who change their company's name and no change in your business constitution including but not limited to:</p>
 <ol>
-<li>business registration number ; and</li>
-<li>business setup (i.e. no change in partners or shareholders or their respective shareholdings)</li>
+<li>Unique Entity Number (UEN) i.e. Business Registration Number,</li>
+<li>Shareholding (where applicable),</li>
+<li>Mode of Business,</li>
+<li>Partnership structure where the Tenant is a partnership or a limited liability partnership and</li>
+<li>Trade.</li>
 </ol>
 <h3>FAQ</h3>
 <ol>
