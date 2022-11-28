@@ -377,7 +377,7 @@
       content: |
         **Application for Changes (HDB Commercial Properties)**
 
-        HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer, assignment or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters.
+        <p>HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters.</p>
 
         <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Housing-&-Development-Board-(HDB)/Application-for-Changes-(HDB-Commercial-Properties))
 
@@ -393,18 +393,23 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Applicable to tenants who change their company's name without change of :
-        a. business registration number; and
-        b. business setup (i.e. no change in partners or shareholders or their respective shareholdings)
+        <p>Applicable to HDB commercial tenants who change their company's name and no change in your business constitution including but not limited to:</p>
+        <ol>
+        <li>Unique Entity Number (UEN) i.e. Business Registration Number,</li>
+        <li>Shareholding (where applicable),</li>
+        <li>Mode of Business,</li>
+        <li>Partnership structure where the Tenant is a partnership or a limited liability partnership and</li>
+        <li>Trade.</li>
+        </ol>
 
-        <a class="btn" href="https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPPostalCheck" target="_blank" rel="noopener">Apply on HDB</a>&emsp;[View Licence Details](/browse-all-licences/Housing-&-Development-Board-(HDB)/Change-of-Company's-Name-for-HDB-Commercial-Tenants)
+        <a class="btn" href="https://ilinked.hdb.gov.sg/retailerlink/change-company-name" target="_blank" rel="noopener">Apply on HDB</a>&emsp;[View Licence Details](/browse-all-licences/Housing-&-Development-Board-(HDB)/Change-of-Company's-Name-for-HDB-Commercial-Tenants)
 
         -----
         **Home Office Scheme (HDB)**
 
-        HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. Only the flat owner(s) or other authorised persons approved by HDB to stay in the flat (i.e. authorised occupier / tenant who rents a flat directly from HDB) are allowed to apply for the Home Office Scheme (HOS).
+        <p>HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. Only the owner(s) or other authorised persons approved by HDB to stay in the flat or living quarters (i.e. authorised occupier / tenants) are allowed to apply for the Home Office Scheme (HOS).</p>
 
-        <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=20" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB))
+        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/7cd1f056-4af8-4c43-a523-cbeccac60e29" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB))
 
     - title: Hotels Licensing Board (HLB)
       content: |
