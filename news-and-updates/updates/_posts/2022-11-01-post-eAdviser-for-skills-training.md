@@ -5,12 +5,12 @@ permalink: /news-and-updates/updates/tsj
 published: true
 preview: |
   Get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
-image: /images/news/eeg_listing_on_gobusiness.jpg
+image: /images/news/RunandGrow_TrainingSJ.jpg
 ---
 
 ## New GoBusiness feature: e-Adviser for Skills Training
 
-![e-Adviser for Skills Training](/images/news/eeg_listing_on_gobusiness.jpg)
+![e-Adviser for Skills Training](/images/news/RunandGrow_TrainingSJ.jpg)
 
 SkillsFuture is a national movement to empower individuals and enterprises in developing skills to achieve their fullest potential, regardless of the starting point. For enterprises, there is a suite of SkillsFuture initiatives to support the skills development of the workforce to keep up and advance with the business as it transforms and grows.
 
