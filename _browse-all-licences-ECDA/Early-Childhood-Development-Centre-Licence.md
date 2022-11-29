@@ -63,7 +63,7 @@ Centres which choose to provide infant services is required to recruit staff who
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
-Application Fee: $400<br />Licence Fee: $100</p>
+Licence Fee: $360</p>
 
 <H3>Documents Needed</H3>
 
