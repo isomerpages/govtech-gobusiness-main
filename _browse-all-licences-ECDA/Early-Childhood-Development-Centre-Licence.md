@@ -10,7 +10,7 @@ Early Childhood Development Agency (ECDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/c652c95e-3d1d-43da-b07d-ae78931c29a0" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/7e5b5a1c-17fc-49f6-8130-93f9e983aeb2" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -36,7 +36,7 @@ You can find the document checklist and site visit checklist in the 'Guide and A
 The normal processing time for an application is 14 working days upon ECDA's confirmation of a complete application. This includes clearances from relevant authorities, submission of all supporting documents and the clearance of premises' suitability as an ECDC on the day of licensing visit, whichever is latest.</li>
 
 <li><strong>How much does this licence cost and how long is it valid?</strong><br>
-The initial licence is valid for 12 months. The new licence application fee is $400 and the licence fee is $100.</li>
+The initial licence is valid for 12 months. The licence application is $360.</li>
 
 
 <li><strong>Who can I contact for further details?</strong><br>
@@ -63,7 +63,7 @@ Centres which choose to provide infant services is required to recruit staff who
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>
-Application Fee: $400<br />Licence Fee: $100</p>
+Licence Fee: $360</p>
 
 <H3>Documents Needed</H3>
 

@@ -107,6 +107,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3605' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) On Cloud</a><br></td>
 <td>Globalsoft Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3728' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
+<td>Reach Process Outsourcing Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
