@@ -21,10 +21,10 @@ When planning your new F&B venture, it’s important to take factors such as ove
 
 It’s notable that external global events such as the pandemic have a deep influence on performance: for example, operating revenue dipped in 2020, which is not representative of the normal operating environment. 
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 1.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 1.png)
 <figcaption> A breakdown of the number of enterprises in the F&B sector by year between 2018 to 2020 </figcaption>
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 2.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 2.png)
 <figcaption> A breakdown of the number of enterprises in the F&B sector by year between 2018 to 2020 </figcaption>
 
 When planning your F&B venture, it is important to consider factors such as the number of enterprises and overall operating revenue, which are indicators of the sector’s growth potential.  
@@ -33,15 +33,15 @@ When planning your F&B venture, it is important to consider factors such as the 
 
 While entering the industry is not difficult, you should analyse the food service format and its potential operating revenue to identify a viable option for you. For instance, restaurants, food courts, coffee shops, canteens and pubs, and cafes make up 87% of enterprises, but they only account for 72% of total operating revenue.
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 3.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 3.png)
 <figcaption> A breakdown of the industry share of F&B sub-sectors in 2020 </figcaption>
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 4.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 4.png)
 <figcaption> A breakdown of the share of operating revenue by F&B sub-sectors in 2020 </figcaption>
 
 Don’t forget to also consider the size of your food venture when evaluating the operating revenue! While food kiosks contribute only six per cent to the F&B sector’s overall operating revenue, this food service format had the highest operating revenue per square metre from 2018 to 2020. 
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 5.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 5.png)
 <figcaption> A breakdown of the operating revenue per square meter by F&B sub-sectors in 2020. Food kiosks and fast food outlets ranked as the top two food service formats, with the highest operating revenue per square metre </figcaption>
 
 ### Analysing business costs and demographics to sustain a F&B business 
@@ -52,10 +52,10 @@ Getting into the F&B sector in Singapore may be easy, but sustaining a business 
 
 This can be attributed to the ease of entry into this sector and limited F&B space, which creates a highly competitive business landscape, on top of a limited domestic market, and having to balance business costs such as manpower and rental. 
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 6.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 6.png)
 <figcaption> A breakdown of the business cost structure for the F&B sector in 2020 </figcaption>
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 7.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 7.png)
 <figcaption> A breakdown of the share of top 3 business costs in operating expenditure by sub-sector in 2020. Cafes, food caterers, and food kiosks spent the most on goods and materials </figcaption>
 
 In researching how to sustain a F&B business, it’s also important to examine how different food service formats affect business costs. For example, food courts, coffee shops, canteens and restaurants spent more expenditure on remuneration compared to the purchase of goods and materials, while food caterers spent the least on the rental of premises. 
@@ -70,7 +70,7 @@ Wondering what’s in store for the future of the F&B sector in Singapore?
 
 Within this field, most businesses are optimistic about industry performance in the next six months, with 64 per cent foreseeing an increase in revenue. To cater to the projected rise in demand, 22 per cent expecting to hire more staff. 
 
-![Asana task management tool productivity efficiency](/images/blog/content/FnB 8.jpg)
+![Asana task management tool productivity efficiency](/images/blog/content/FnB 8.png)
 <figcaption> A breakdown of the responses from firms within the F&B sector on their industry outlook. Firms in the F&B sector foresee an upward trend for performance and revenue in the next few months </figcaption>
 
 To make this projected growth a reality, it’s imperative that companies internationalise and make consistent efforts to raise productivity. 
