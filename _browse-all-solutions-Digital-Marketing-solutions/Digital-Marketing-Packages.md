@@ -128,11 +128,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3690' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3689' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3714' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3713' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 </table>

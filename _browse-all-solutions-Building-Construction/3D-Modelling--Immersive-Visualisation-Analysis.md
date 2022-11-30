@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1559' target='_blank'>Tekla Solutions</a><br></td>
+<td>Trimble Solutions SEA Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2500' target='_blank'>SAP2000 Ultimate Suite</a><br></td>
 <td>OTTE INTERNATIONAL PTE LTD</td>
 </tr>

@@ -32,6 +32,10 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td>Mercer (Singapore) Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1853' target='_blank'>Job Redesign Consultancy - Deloitte Consulting Pte Ltd</a><br></td>
+<td>Deloitte Consulting Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1854' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
 <td>Aon Solutions Singapore Pte Ltd</td>
 </tr>
@@ -78,10 +82,6 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3658' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </a><br></td>
 <td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3659' target='_blank'>Job Redesign Consultancy - KPMG Services Pte Ltd.</a><br></td>
-<td>KPMG Services Pte Ltd</td>
 </tr>
 </table>
 

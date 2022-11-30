@@ -48,11 +48,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>ANTSCOLONY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3701' target='_blank'>Beautec centralized version</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3700' target='_blank'>Beautec centralized version</a><br></td>
 <td>Beautec Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3724' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3723' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>Sequoia Pte Ltd</td>
 </tr>
 </table>

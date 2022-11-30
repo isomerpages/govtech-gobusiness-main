@@ -26,7 +26,7 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 1 - SEM+SMA (3months)</td>
 <td style='padding: 10px;'>$7,009.33</td>
 <td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ice_Cube_Annex_3_CR_wef_24Nov22_Part_1' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/IceCube_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>

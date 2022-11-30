@@ -27,12 +27,12 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
+        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/Intelligent-National-Productivity-and-Quality-Specification--iNPQS-'>Intelligent National Productivity and Quality Specification (iNPQS)</a>
         - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
         - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
         - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
         - <a href='/browse-all-solutions-Building-Construction/Digital-Wearables-for-Workers-Health-and-Safety'>Digital Wearables for Workers' Health and Safety</a>
-        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
@@ -83,9 +83,10 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment'>Digital/ Online Ordering and Payment</a>
-        - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
         - <a href='/browse-all-solutions-Food-Services/Automated-Reservation'>Automated Reservation</a>
+        - <a href='/browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment'>Digital/ Online Ordering and Payment</a>
+        - <a href='/browse-all-solutions-Food-Services/Queue-Management'>Queue Management</a>
+        - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
@@ -117,7 +118,6 @@
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
         - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
         - <a href='/browse-all-solutions-Logistics/E-Freight-Management'>E-Freight Management</a>
-        - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Logistics/General-Logistics-Equipment'>General Logistics Equipment</a>
@@ -154,6 +154,7 @@
       content: |
         
         **IT Solution**
+        - <a href='/browse-all-solutions-Retail/Retail-Analytics'>Retail Analytics</a>
         - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management-System'>Enhanced Retail Management System</a>
         - <a href='/browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Countering-the-Financing-of-Terrorism--TF--Screening'>Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening</a>
 
@@ -194,7 +195,6 @@
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-Scheduling-System'>Human Resource E-Scheduling System</a>
     - title: ERP and Standalone solutions
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>
@@ -291,8 +291,8 @@
     - title: Cyber Security solutions
       content: |
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
 - accordion:
   letter: c
   data:

@@ -32,6 +32,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1704' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1</a><br></td>
+<td>SLEEK TECH (PTE. LTD.)</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1760' target='_blank'>FeHR HRSS and Payroll Processing Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
