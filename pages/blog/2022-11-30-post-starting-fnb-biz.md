@@ -1,7 +1,7 @@
 ---
 layout: gobusiness-blog-post
 title: 'What you need to know before starting your new F&B business'
-permalink: /gobusiness-blog/beat-wfh-woes
+permalink: /gobusiness-blog/starting-fnb-biz
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
 crumbs: business-tips-and-tricks
