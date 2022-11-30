@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1587' target='_blank'>iMakan</a><br></td>
-<td>Megasafe Technology Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Revel Systems Version 2</a><br></td>
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
@@ -134,6 +130,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3638' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0</a><br></td>
 <td>Weebo Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3749' target='_blank'>EQuip Orders Version 1</a><br></td>
+<td>Edgeworks Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3754' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
+<td>EPOS Pte Ltd</td>
 </tr>
 </table>
 

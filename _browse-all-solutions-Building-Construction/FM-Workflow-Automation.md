@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>APM Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1667' target='_blank'>Smart Estate Management System</a><br></td>
-<td>Combuilder FMIT Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1755' target='_blank'>SmartFM Version 1.0</a><br></td>
 <td>CHIMERIC TECHNOLOGIES PTE LTD</td>
 </tr>
