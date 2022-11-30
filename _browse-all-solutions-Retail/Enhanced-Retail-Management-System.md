@@ -75,6 +75,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3538' target='_blank'>MyRetailer Android POS</a><br></td>
 <td>DCS Synthesis Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3759' target='_blank'>Eurostop Omni-Channel Retail Management System Version 10</a><br></td>
+<td>Eurostop Singapore Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
