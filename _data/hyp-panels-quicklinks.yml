@@ -4,7 +4,7 @@ panels:
     alt: ""
     links:
       - text: "e-Adviser for Skills Training"
-        href: https://eadviser.gobusiness.io/skillstraining?src=eservices
+        href: https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices
         target: _blank
         is_new: true
       - text: "e-Adviser for Home-Based Business"

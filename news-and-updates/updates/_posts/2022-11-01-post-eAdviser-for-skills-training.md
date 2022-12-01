@@ -14,7 +14,7 @@ image: /images/news/RunandGrow_TrainingSJ.jpg
 
 SkillsFuture is a national movement to empower individuals and enterprises in developing skills to achieve their fullest potential, regardless of the starting point. For enterprises, there is a suite of SkillsFuture initiatives to support the skills development of the workforce to keep up and advance with the business as it transforms and grows.
 
-GoBusiness has launched the [e-Adviser for Skills Training](https://eadviser.gobusiness.io/skillstraining?src=news_and_update){:target="_blank"}{:rel="noopener"}, a new feature to help business owners get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to their business as part of the SkillsFuture Movement.
+GoBusiness has launched the [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=news_and_update){:target="_blank"}{:rel="noopener"}, a new feature to help business owners get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to their business as part of the SkillsFuture Movement.
 
 ### How does e-Adviser for Skills Training work?
 

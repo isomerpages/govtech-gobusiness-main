@@ -16,7 +16,7 @@ Now that you have identified your skills needs and eligibility for subsidies and
 
 - [Course Directory](https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseList.aspx?IsNew=False&IsPopular=False&IsFeatured=False){:target="_blank"}{:rel="noopener"}<br>Choose your desired training area from a wide range of SSG-funded courses such as Workforce Skills Qualification (WSQ) courses or short courses in emerging areas and Critical Core Skills (soft skills).
 
-- [e-Adviser for Skills Training](https://eadviser.gobusiness.io/skillstraining?src=rgp_skillsfuture_step3){:target="_blank"}{:rel="noopener"}<br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant for your business as part of the SkillsFuture Movement.
+- [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=rgp_skillsfuture_step3){:target="_blank"}{:rel="noopener"}<br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant for your business as part of the SkillsFuture Movement.
 
 ----
 <a name="leverage-existing"></a>
