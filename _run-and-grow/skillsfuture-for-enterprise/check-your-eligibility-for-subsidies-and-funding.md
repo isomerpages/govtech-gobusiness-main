@@ -6,7 +6,7 @@ third_nav_title: SkillsFuture for Enterprise
 
 ## Step 2: Check your eligibility for subsidies and funding
 
-Once you have identified your skills needs, find out which subsidies and funding you can tap on, to lower the cost of training your employees. 
+Once you have identified your skills needs, find out which subsidies and funding you can tap on to lower the cost of training your employees. 
 
 Read more on the guidelines below.
 
@@ -26,7 +26,7 @@ Baseline course fee subsidies are available to lower the training fee when you s
 
 - **Below 40 years old**: Up to 70%
 
-For Permanent Resident and LTVP+ employees:
+**For Permanent Resident and LTVP+ employees:**
 
 - **All ages**: Up to 70%
 
@@ -40,9 +40,7 @@ For Permanent Resident and LTVP+ employees:
 
 - Registered or incorporated in Singapore
 
-- At least 30% local shareholding by Singaporeans or Singapore Permanent Residents
-
-- Employment size of not more than 200 employees (at group level) OR with annual sales turnover (at group level) of not more than S$100 million
+- Your organisation’s employment size must not exceed 200, OR your organisation’s annual sales turnover must not exceed S$100 million
 
 Please check the [summary of course fee rates](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"} before deciding. 
 

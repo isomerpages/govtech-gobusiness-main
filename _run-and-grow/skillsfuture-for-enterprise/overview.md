@@ -19,7 +19,7 @@ training adoption of close to 150,000 enterprises over an 8-year period and foun
 
 For every 10% of the local workforce that companies supported for training:
 
-- Labour productivity of firms was 2.2% higher on average per • year for two years
+- Labour productivity of firms was 2.2% higher on average per year for two years
 - Company's revenue was 0.7% higher on average each year for up to three years after training
 - Employee retention was 0.6% higher in the year of the training.
 

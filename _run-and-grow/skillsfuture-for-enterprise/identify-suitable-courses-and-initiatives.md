@@ -50,7 +50,7 @@ Now that you have identified your skills needs and eligibility for subsidies and
 
 - Funding eligibility of your organisation (SME status) and the employees you intend to register for the course(s)
 
-- Whether the course is eligible for SillsFuture Enterprise Credit (SFEC) and Absentee Payroll (AP) funding 
+- Whether the course is eligible for SkillsFuture Enterprise Credit (SFEC) and Absentee Payroll (AP) funding 
 
 - The net out-of-pocket amount you need to pay (after the subsidies are applied) and GST
 

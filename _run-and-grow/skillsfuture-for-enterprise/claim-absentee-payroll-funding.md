@@ -6,7 +6,7 @@ third_nav_title: SkillsFuture for Enterprise
 
 ## Step 4: Claim Absentee Payroll funding
 
-After your employees have completed the skills training course, the next step would be to claim for absentee payroll (AP) funding by making a simple declaration.
+After your employees have completed the skills training course, the next step would be to claim for Absentee Payroll (AP) funding by making a simple declaration.
 
 ### Claiming absentee payroll funding
 
