@@ -15,6 +15,7 @@ const custom_notifications = [
   //[**L1T adhoc**]
   "<b>[Important Announcement]</b> Due to a fee revision, all draft applications for Early Childhood Development Centre Licence created before 30 November 2022 have been deleted. Please create a new one if you still wish to apply. We apologise for the inconvenience caused.",
 
+  
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance on 20 Oct 2022 from 6pm to 10pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
