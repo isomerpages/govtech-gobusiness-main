@@ -31,7 +31,7 @@ When planning your F&B venture, it is important to consider factors such as the 
 
 ### Evaluating operation size and potential revenue to choose your ideal food service format 
 
-While entering the industry is not difficult, you should analyse the food service format and its potential operating revenue to identify a viable option for you. For instance, restaurants, food courts, coffee shops, canteens and pubs, and cafes make up 87% of enterprises, but they only account for 72% of total operating revenue.
+While entering the industry is not difficult, you should analyse the food service format and its potential operating revenue to identify a viable option for you. For instance, restaurants, food courts, coffee shops, canteens and pubs, and cafes make up 87 per cent of enterprises, but they only account for 72 per cent of total operating revenue.
 
 ![Breakdown of F&B businesses by sub-sectors in 2020](/images/blog/content/FnB 3.png)
 <figcaption> A breakdown of the industry share of F&B sub-sectors in 2020 </figcaption>
@@ -56,13 +56,13 @@ This can be attributed to the ease of entry into this sector and limited F&B spa
 <figcaption> A breakdown of the business cost structure for the F&B sector in 2020 </figcaption>
 
 ![Top three business costs in operating expenditure for F&B businesses](/images/blog/content/FnB 7.png)
-<figcaption> A breakdown of the share of top 3 business costs in operating expenditure by sub-sector in 2020. Cafes, food caterers, and food kiosks spent the most on goods and materials </figcaption>
+<figcaption> A breakdown of the share of top three business costs in operating expenditure by sub-sector in 2020. Cafes, food caterers, and food kiosks spent the most on goods and materials </figcaption>
 
 In researching how to sustain a F&B business, it’s also important to examine how different food service formats affect business costs. For example, food courts, coffee shops, canteens and restaurants spent more expenditure on remuneration compared to the purchase of goods and materials, while food caterers spent the least on the rental of premises. 
      
-Take a closer look at the F&B sector by learning more about key trends for industry performance and business costs, such as rental costs by street, and try comparing the performance of your desired food service format against others in the industry. 
+Take a closer look at the F&B sector by learning more about [key trends for industry performance and business costs](https://www.singstat.gov.sg/data-for-businesses/know-my-industry-food-and-beverage-services){:target="_blank"}{:rel="noopener"}, such as rental costs by street, and try [comparing the performance of your desired food service format](https://www.singstat.gov.sg/data-for-businesses/benchmark-my-performance/food-beverage-services){:target="_blank"}{:rel="noopener"} against others in the industry. 
 
-Diving deep into customer demographics can give you a better sense of what households are spending on, shoppers’ online purchase patterns, and the profiles of your potential customers, which can help you to align your business’ food services with their needs. 
+Diving deep into [customer demographics](https://www.singstat.gov.sg/data-for-businesses/know-my-customers-food-and-beverage-services){:target="_blank"}{:rel="noopener"} can give you a better sense of what households are spending on, shoppers’ online purchase patterns, and the profiles of your potential customers, which can help you to align your business’ food services with their needs. 
 
 ### What is the outlook for the F&B Industry?
 
@@ -83,8 +83,8 @@ To sustain and grow your business in the long run, making rational management, f
 
 These include having the right mindset and qualities, such as determination and drive, which are vital to motivate business owners to keep going, says Founder of Gratify Group Mr Frank Lau. 
 
-![Storefront of Pizzamaru by Gratify Group](/images/blog/content/FnB 9.jpg)
-<figcaption> Success comes from always wanting to continuously improve and grow. (Source: Gratify Group) </figcaption>
+![Storefront of Pizzamaru by Gratify Group](/images/blog/content/FnB 9.jpeg)
+<figcaption> Success comes from always wanting to continuously improve and grow (Source: Gratify Group) </figcaption>
 
 “You must have drive, hunger and resilience, never resting but always wanting to continuously improve and grow. You must be willing to challenge conventions, make tough decisions and take decisive actions,” he advises. 
 
@@ -94,10 +94,10 @@ Good teamwork and leadership is also important, as having a team that is in sync
 
 He believes in the importance of product innovation, and recommends that business owners in this sector do their due diligence to find the right product and market fit for customers’ needs. 
 
-It’s a philosophy that Ms Diana Teo, Co-Founder of wagyu beef bowl concept Waa Cow! shares. 
+It’s a philosophy that Ms Diana Teo, Co-Founder of wagyu beef bowl concept [Waa Cow!](https://www.waacow.sg/){:target="_blank"}{:rel="noopener"} shares. 
 
 ![Waa Cow! Gyudon](/images/blog/content/FnB 10.jpg)
-<figcaption> Menu engineering goes a long way in building brand goodwill and customer loyalty. (Source: Waa Cow!) </figcaption>
+<figcaption> Menu engineering goes a long way in building brand goodwill and customer loyalty (Source: Waa Cow!) </figcaption>
 
 “One of the key ingredients for a successful F&B business lies in optimising your menu from the get-go,” she notes, adding that it’s important to keep menus streamlined, focus on executing signature dishes well, and constantly assess the performance of menu items. “Menu engineering is a process of trial and error but a well-executed menu goes a long way in building brand goodwill and customer loyalty. ”
 
