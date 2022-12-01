@@ -24,7 +24,7 @@ Now that you have identified your skills needs and eligibility for subsidies and
 
 {% include accordion.html accordions=site.data.rgp007-leverage-on-existing-skillsfuture-initiatives-and-resources.accordion %}
 
-----
+
 <a name="factors-to-consider"></a>
 ### Factors to consider when choosing skills training course
 
