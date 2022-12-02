@@ -109,4 +109,4 @@ permalink: /privacy/
 
     (b) need more information on or access to Data which you have provided to us in the past.
 
-This version of this Privacy Statement is dated 2 December 2022.
+This version of this Privacy Statement is dated 30 November 2022.
