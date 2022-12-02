@@ -5,9 +5,7 @@ permalink: /privacy/
 
 ## Privacy Statement
 
-### GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
-
-1. This privacy statement, as may be amended by us from time to time (this “**Privacy Statement**”) must be read in conjunction with the GoBusiness Portal (“**GBP**”) Terms of Use, as may be amended by us from time to time (the “**Terms**”) that you must agree to be legally bound by in order to access or use (a) the GBP website (accessible at https://www.gobusiness.gov.sg or such other URL as may be specified by us from time to time) (the “**Website**”); (b) the services made available on or provided through the Website by us; and (c) any Content made available or accessible therein (collectively, the “**Services**”). This Privacy Statement forms an integral part of the Terms. All terms referred to in this Privacy Statement shall have the meanings ascribed to them in the Terms, unless otherwise defined herein or the context otherwise requires.
+1. This privacy statement, as may be amended by us from time to time (this “**Privacy Statement**”) must be read in conjunction with the GoBusiness Portal (“**GBP**”) Terms of Use, as may be amended by us from time to time (the “**Terms**”) that you must agree to be legally bound by in order to access or use (a) the GBP website (accessible at https://www.gobusiness.gov.sg or such other URL as may be specified by us from time to time) (the “**Website**”); (b) the services made available on or provided through the Website by us; and (c) any Content made available or accessible therein (collectively, the “**Services**”). This Privacy Statement forms an integral part of the Terms. All terms referred to in this Privacy Statement shall have the meanings ascribed to them in the Terms, unless otherwise defined herein or the context otherwise requires. In this Privacy Statement, "**we**", "**us**" or "**our**" refers collectively to the Government of Singapore and Government Technology Agency.
 
 2. This is a Government of Singapore (“**we**”, “**our**” or “**us**”) website. The purpose of this Privacy Statement is to provide information of how we handle, collect, store, use, disclose and otherwise process any data, including your personal data and that of any other person, that is provided to or collected by us (collectively, the “**Data**”). Please read this Privacy Statement carefully.
 
@@ -111,4 +109,4 @@ permalink: /privacy/
 
     (b) need more information on or access to Data which you have provided to us in the past.
 
-This version of this Privacy Statement is dated 30 April 2021.
+This version of this Privacy Statement is dated 2 December 2022.
