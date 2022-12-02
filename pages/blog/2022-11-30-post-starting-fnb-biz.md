@@ -81,7 +81,7 @@ Keeping up with industry trends is also important, as this lends insight into ho
 
 To sustain and grow your business in the long run, making rational management, financial and operational decisions are key to helping you maintain liquidity and avoid tapping into financial reserves unnecessarily. 
 
-These include having the right mindset and qualities, such as determination and drive, which are vital to motivate business owners to keep going, says Founder of Gratify Group Mr Frank Lau. 
+These include having the right mindset and qualities, such as determination and drive, which are vital to motivate business owners to keep going, says Founder of [Gratify Group](https://www.gratifygroup.com/){:target="_blank"}{:rel="noopener"} Mr Frank Lau. 
 
 ![Storefront of Pizzamaru by Gratify Group](/images/blog/content/FnB 9.jpeg)
 <figcaption> Success comes from always wanting to continuously improve and grow (Source: Gratify Group) </figcaption>
