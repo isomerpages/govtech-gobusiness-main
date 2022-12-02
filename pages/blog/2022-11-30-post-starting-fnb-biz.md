@@ -22,10 +22,10 @@ When planning your new F&B venture, it’s important to take factors such as ove
 It’s notable that external global events such as the pandemic have a deep influence on performance: for example, operating revenue dipped in 2020, which is not representative of the normal operating environment. 
 
 ![Number of F&B businesses from 2018 to 2020](/images/blog/content/FnB 1.png)
-<figcaption> A breakdown of the number of enterprises in the F&B sector by year between 2018 to 2020. The number of enterprises in the F&B sector has risen from 10,644 in the year 2018 to 11,679 in year 2020. </figcaption>
+<figcaption> The number of enterprises in the F&B sector has risen from 10,644 in the year 2018 to 11,679 in year 2020. </figcaption>
 
 ![Operating revenue of F&B business from 2018 to 2020](/images/blog/content/FnB 2.png)
-<figcaption> A breakdown of the operating revenue of the F&B sector by year between 2018 to 2020. The F&B sector has seen a drop in operating revenue in the year 2020 </figcaption>
+<figcaption> The F&B sector has seen a drop in operating revenue in the year 2020 </figcaption>
 
 When planning your F&B venture, it is important to consider factors such as the number of enterprises and overall operating revenue, which are indicators of the sector’s growth potential.  
 
@@ -34,10 +34,10 @@ When planning your F&B venture, it is important to consider factors such as the 
 While entering the industry is not difficult, you should analyse the food service format and its potential operating revenue to identify a viable option for you. For instance, restaurants, food courts, coffee shops, canteens and pubs, and cafes make up 87 per cent of enterprises, but they only account for 72 per cent of total operating revenue.
 
 ![Breakdown of F&B businesses by sub-sectors in 2020](/images/blog/content/FnB 3.png)
-<figcaption> A breakdown of the industry share of F&B sub-sectors in 2020. Restaurants occupied majority of industry share of F&B sub-sectors, as of 2020, followed by food courts, coffee shops, canteens and pubs </figcaption>
+<figcaption> Restaurants occupied majority of industry share of F&B sub-sectors, as of 2020, followed by food courts, coffee shops, canteens and pubs </figcaption>
 
 ![F&B sub-sectors operating revenue in 2020](/images/blog/content/FnB 4.png)
-<figcaption> A breakdown of the share of operating revenue by F&B sub-sectors in 2020. Out of all the F&B sub-sectors, restaurants have the largest share of operating revenue as of year 2020 </figcaption>
+<figcaption> Out of all the F&B sub-sectors, restaurants have the largest share of operating revenue as of year 2020 </figcaption>
 
 Don’t forget to also consider the size of your food venture when evaluating the operating revenue! While food kiosks contribute only six per cent to the F&B sector’s overall operating revenue, this food service format had the highest operating revenue per square metre from 2018 to 2020. 
 
@@ -53,7 +53,7 @@ Getting into the F&B sector in Singapore may be easy, but sustaining a business 
 This can be attributed to the ease of entry into this sector and limited F&B space, which creates a highly competitive business landscape, on top of a limited domestic market, and having to balance business costs such as manpower and rental. 
 
 ![Business cost structure for F&B businesses in 2020](/images/blog/content/FnB 6.png)
-<figcaption> A breakdown of the business cost structure for the F&B sector in 2020. As of 2020, remuneration and purchase of goods & materials form more than half of the business cost structure for the F&B sector </figcaption>
+<figcaption> As of 2020, remuneration and purchase of goods & materials form more than half of the business cost structure for the F&B sector </figcaption>
 
 ![Top three business costs in operating expenditure for F&B businesses](/images/blog/content/FnB 7.png)
 <figcaption> A breakdown of the share of top three business costs in operating expenditure by sub-sector in 2020. Cafes, food caterers, and food kiosks spent the most on goods and materials </figcaption>
