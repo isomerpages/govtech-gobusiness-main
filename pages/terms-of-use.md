@@ -23,7 +23,7 @@ Where an Account (as defined in Clause 2.1) is required for the access or use of
 
 1.2 By accessing or using the Services, you acknowledge that you have read and understood these Terms and agreed to comply with and be legally bound by these Terms. You must not access or use the Services if you do not accept any of these Terms.
 
-1.3 In these Terms, the words "**we**", "**our**" and "**us**" refer to the Government of Singapore.
+1.3 The Services are provided by the Government Technology Agency on behalf of the Government of Singapore ("**we**", "**us**" or "**our**" refers collectively to the Government of Singapore and Government Technology Agency).
 
 1.4 We may change, modify or supplement these Terms, at our sole discretion, from time to time by posting the changed, modified or supplemented Terms on or through the Website or through such other means as we may deem appropriate. Your continued access to or use of the Services after such changes, modifications, supplements or amendments have been made to these Terms will constitute your agreement to the changed, modified or supplemented version of these Terms.
 
@@ -415,4 +415,4 @@ In such case, there may be terms of use and privacy statements that govern your 
 
 19.5 Any consent given under these Terms may be subject to such conditions as we consider appropriate.
 
-This version of these Terms is dated 30 April 2021.
+This version of these Terms is dated 2 December 2022.
