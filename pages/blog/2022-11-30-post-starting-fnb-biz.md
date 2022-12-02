@@ -25,7 +25,7 @@ It’s notable that external global events such as the pandemic have a deep infl
 <figcaption> A breakdown of the number of enterprises in the F&B sector by year between 2018 to 2020 </figcaption>
 
 ![Operating revenue of F&B business from 2018 to 2020](/images/blog/content/FnB 2.png)
-<figcaption> A breakdown of the number of enterprises in the F&B sector by year between 2018 to 2020 </figcaption>
+<figcaption> A breakdown of the operating revenue of the F&B sector by year between 2018 to 2020 </figcaption>
 
 When planning your F&B venture, it is important to consider factors such as the number of enterprises and overall operating revenue, which are indicators of the sector’s growth potential.  
 
@@ -99,7 +99,7 @@ It’s a philosophy that Ms Diana Teo, Co-Founder of wagyu beef bowl concept [Wa
 ![Waa Cow! Gyudon](/images/blog/content/FnB 10.jpg)
 <figcaption> Menu engineering goes a long way in building brand goodwill and customer loyalty (Source: Waa Cow!) </figcaption>
 
-“One of the key ingredients for a successful F&B business lies in optimising your menu from the get-go,” she notes, adding that it’s important to keep menus streamlined, focus on executing signature dishes well, and constantly assess the performance of menu items. “Menu engineering is a process of trial and error but a well-executed menu goes a long way in building brand goodwill and customer loyalty. ”
+“One of the key ingredients for a successful F&B business lies in optimising your menu from the get-go,” she notes, adding that it’s important to keep menus streamlined, focus on executing signature dishes well, and constantly assess the performance of menu items. “Menu engineering is a process of trial and error but a well-executed menu goes a long way in building brand goodwill and customer loyalty.”
 
 
 Aside from providing knowledge on sustaining a business, doing thorough research into the F&B industry can also help you to determine when and/or how to exit. Use our [mini diagnostic tool](https://www.checkfirst.gov.sg/c/cd6c0d04-d516-40bb-a7cf-9decbe7672e9){:target="_blank"}{:rel="noopener"} on CheckFirst to monitor the health of your existing F&B business, or to prepare for your new F&B business if you’re looking to enter this field.
