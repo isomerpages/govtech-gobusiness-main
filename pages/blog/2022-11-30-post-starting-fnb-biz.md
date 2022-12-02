@@ -13,7 +13,7 @@ description: Plan your upcoming F&B business more effectively with government da
 
 Whether you’re a budding entrepreneur or a seasoned boss who wants to enter the Food & Beverage (F&B) sector, building a business isn’t easy – from the time and planning involved to the resources required, it can be a long journey to establishing a profitable business. 
 
-To smoothen the process, developing a good understanding of the local F&B landscape is essential to plan your business effectively. Boost your research with industry insights and statistics by the Department of Statistics (DOS) Singapore and Enterprise Singapore (EnterpriseSG), which provide an in-depth analysis of the sector to help you to evaluate and refine your business plan. Here’s what you need to know: 
+To smoothen the process, developing a good understanding of the local F&B landscape is essential to planning your business effectively. Boost your research with industry insights and statistics by the Department of Statistics (DOS) Singapore and Enterprise Singapore (EnterpriseSG), which provide an in-depth analysis of the sector to help you to evaluate and refine your business plan. Here’s what you need to know: 
 
 ### The F&B industry is highly competitive 
 
