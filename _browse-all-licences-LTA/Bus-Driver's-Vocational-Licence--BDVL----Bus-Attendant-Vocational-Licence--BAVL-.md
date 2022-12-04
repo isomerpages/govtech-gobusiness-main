@@ -85,7 +85,7 @@ Land Transport Authority (LTA)
  <Strong><u>Singapore Safety Driving Centre Ltd (SSDC)</u></Strong><br>
  2 Woodlands Industrial Park E4<br>
  Singapore 757387<br>
- Tel: 6482 6060</br>
+ Tel: 6482 6060<br>
  When registering for the training course, please bring your approval letter, <strong>NRIC, Driving Licence</strong> and the following documents:<br>
  a. LTA's<strong> medical examination form</strong> duly completed and certified by a registered medical practitioner; and<br>
  b. The original or certified true copy of your <strong>chest X-ray</strong> examination result card signed by a radiologist;</li>
