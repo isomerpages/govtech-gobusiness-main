@@ -38,6 +38,7 @@ b) Gas Safety Code;</br>
 c) Gas Metering Code;</br>
 d) Gas Retailer Code of Conduct; and/or</br>
 e) any other relevant codes of practice under Section 62 of the Gas Act.</li>
+</ol>
 
 <strong>Additional Information</strong>
 
