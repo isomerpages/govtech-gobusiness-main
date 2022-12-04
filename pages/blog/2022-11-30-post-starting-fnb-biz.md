@@ -34,7 +34,7 @@ When planning your F&B venture, it is important to consider factors such as the 
 While entering the industry is not difficult, you should analyse the food service format and its potential operating revenue to identify a viable option for you. For instance, restaurants, food courts, coffee shops, canteens and pubs, and cafes make up 87 per cent of enterprises, but they only account for 72 per cent of total operating revenue.
 
 ![Breakdown of F&B businesses by sub-sectors in 2020](/images/blog/content/FnB 3.png)
-<figcaption> Restaurants occupied majority of industry share of F&B sub-sectors, as of 2020, followed by food courts, coffee shops, canteens and pubs </figcaption>
+<figcaption> Restaurants occupied majority of industry share of the F&B sub-sectors, as of 2020, followed by food courts, coffee shops, canteens and pubs </figcaption>
 
 ![F&B sub-sectors operating revenue in 2020](/images/blog/content/FnB 4.png)
 <figcaption> Out of all the F&B sub-sectors, restaurants have the largest share of operating revenue as of year 2020 </figcaption>
@@ -53,7 +53,7 @@ Getting into the F&B sector in Singapore may be easy, but sustaining a business 
 This can be attributed to the ease of entry into this sector and limited F&B space, which creates a highly competitive business landscape, on top of a limited domestic market, and having to balance business costs such as manpower and rental. 
 
 ![Business cost structure for F&B businesses in 2020](/images/blog/content/FnB 6.png)
-<figcaption> As of 2020, remuneration and purchase of goods & materials form more than half of the business cost structure for the F&B sector </figcaption>
+<figcaption> In 2020, remuneration and purchase of goods & materials form more than half of the business cost structure for the F&B sector </figcaption>
 
 ![Top three business costs in operating expenditure for F&B businesses](/images/blog/content/FnB 7.png)
 <figcaption> A breakdown of the share of top three business costs in operating expenditure by sub-sector in 2020. Cafes, food caterers, and food kiosks spent the most on goods and materials </figcaption>
