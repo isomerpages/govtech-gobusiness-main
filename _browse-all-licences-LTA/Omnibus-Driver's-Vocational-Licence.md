@@ -16,8 +16,8 @@ Land Transport Authority (LTA)
 
 <p>Apply for this licence to be an omnibus driver. The licence is valid only while the holder is an omnibus driver with a public transport operator.</p>
  <H3>FAQ</H3>
- <ol>
  <p><strong><u>ODVL APPLICATION</u></strong></p>
+ <ol>
  <li><strong>What are the requirements to apply for an ODVL?</Strong><Br>
  All Omnibus Drivers (Singaporean, Singapore Permanent Resident (SPR) and Foreign Work Pass Holders(FWP)) must be hired by the Public Transport Operator (PTO) before they are eligible to apply for Omnibus Driver's Vocational Licence (ODVL).</li>
  <li><Strong>Who are the Public Transport Operators?</Strong><br>

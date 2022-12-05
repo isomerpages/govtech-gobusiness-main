@@ -17,8 +17,8 @@ Land Transport Authority (LTA)
 <p>A Taxi Driver's Vocational Licence (TDVL) is needed before a person can drive a taxi and a Private Hire Car Driver's Vocational Licence (PDVL) is needed before a person can drive a private hire car.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
 <H3>FAQ</H3>
- <ol>
  <p><u><strong>TDVL/ PDVL APPLICATION</strong></u></p>
+ <ol>
  <li><strong>What are the criteria for me to apply for a TDVL/ PDVL?</strong><br>
  a. To be <Strong>eligible to apply for a TDVL/PDVL</Strong>, you have to:<br>
 - a Singaporean;<br>
