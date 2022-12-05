@@ -34,9 +34,9 @@ Public Transport Council (PTC)
 
 <ul>
  <li><strong>Proposal for licence</strong></li>
- <li><strong>Other supporting documents</strong></li>
+ <li><strong>Other supporting documents</strong><br>
  <p><Strong>File format</Strong>: doc, docx, pdf, xls, xlsx<br>
- <Strong>Maximum upload per application</Strong>: 10 MB</ul>
+ <Strong>Maximum upload per application</Strong>: 10 MB</li></ul>
 
 <H3>Requirements</H3>
 
