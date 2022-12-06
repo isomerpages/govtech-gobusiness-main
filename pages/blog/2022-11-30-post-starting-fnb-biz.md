@@ -34,10 +34,10 @@ When planning your F&B venture, it is important to consider factors such as the 
 While entering the industry is not difficult, you should analyse the food service format and its potential operating revenue to identify a viable option for you. For instance, restaurants, food courts, coffee shops, canteens and pubs, and cafes make up 87 per cent of enterprises, but they only account for 72 per cent of total operating revenue.
 
 ![Breakdown of F&B businesses by sub-sectors in 2020](/images/blog/content/FnB 3.png)
-<figcaption> Restaurants occupied majority of industry share of the F&B sub-sectors, as of 2020, followed by food courts, coffee shops, canteens and pubs </figcaption>
+<figcaption> Restaurants occupied majority of the industry share of F&B sub-sectors in 2020, followed by food courts, coffee shops, canteens and pubs </figcaption>
 
 ![F&B sub-sectors operating revenue in 2020](/images/blog/content/FnB 4.png)
-<figcaption> Out of all the F&B sub-sectors, restaurants have the largest share of operating revenue as of year 2020 </figcaption>
+<figcaption> Out of all the F&B sub-sectors, restaurants have the largest share of operating revenue in year 2020 </figcaption>
 
 Don’t forget to also consider the size of your food venture when evaluating the operating revenue! While food kiosks contribute only six per cent to the F&B sector’s overall operating revenue, this food service format had the highest operating revenue per square metre from 2018 to 2020. 
 
