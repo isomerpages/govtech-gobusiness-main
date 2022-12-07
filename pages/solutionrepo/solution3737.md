@@ -26,7 +26,7 @@ EZ Accounting is a Singapore based, integrated Accounting solution with numerous
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (Single User)</td>
 <td style='padding: 10px;'>$4,033.00</td>
 <td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/User_Basic_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

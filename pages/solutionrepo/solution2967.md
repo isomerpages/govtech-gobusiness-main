@@ -26,28 +26,28 @@ TrackSYNQ is a ready-to-deploy platform that provides track & trace functionalit
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package A - Basic GPS 5</td>
 <td style='padding: 10px;'>$2,750.00</td>
 <td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quantum_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package B - Basic GPS 10</td>
 <td style='padding: 10px;'>$5,260.00</td>
 <td style='padding: 10px;'>$4,260.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quantum_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package C - Basic GPS 20</td>
 <td style='padding: 10px;'>$9,800.00</td>
 <td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quantum_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package D - Basic GPS 50</td>
 <td style='padding: 10px;'>$24,500.00</td>
 <td style='padding: 10px;'>$19,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quantum_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

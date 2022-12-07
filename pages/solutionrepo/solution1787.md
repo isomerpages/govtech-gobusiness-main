@@ -32,35 +32,35 @@ a complete business solution.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Basic Implementation (XBI)</td>
 <td style='padding: 10px;'>$2,200.00</td>
 <td style='padding: 10px;'>$2,160.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Advanced Implementation (XAI)</td>
 <td style='padding: 10px;'>$4,780.00</td>
 <td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Premium Implementation (XPI)</td>
 <td style='padding: 10px;'>$6,780.00</td>
 <td style='padding: 10px;'>$6,725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Subscription Only (XSO)</td>
 <td style='padding: 10px;'>$780.00</td>
 <td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Basic Implementation (Plus) - XBI+</td>
 <td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'>$2,960.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MFP_Annex_3_CR_wef_2_Sept_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

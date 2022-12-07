@@ -26,21 +26,21 @@ Gabkotech recognises the need for the digital transformation of the Facilities M
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Basic</td>
 <td style='padding: 10px;'>$28,600.00</td>
 <td style='padding: 10px;'>$28,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Standard</td>
 <td style='padding: 10px;'>$36,100.00</td>
 <td style='padding: 10px;'>$36,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP FM - FM (Mobile Inspection) Full</td>
 <td style='padding: 10px;'>$44,100.00</td>
 <td style='padding: 10px;'>$42,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

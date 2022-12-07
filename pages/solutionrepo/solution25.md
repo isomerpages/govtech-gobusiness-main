@@ -26,7 +26,7 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
 <td style='padding: 10px;'>$2,460.00</td>
 <td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WLP_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

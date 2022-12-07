@@ -26,35 +26,35 @@ Xero is a beautiful and easy-to-use online accounting software for small busines
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Full Package with Consultation</td>
 <td style='padding: 10px;'>$6,327.48</td>
 <td style='padding: 10px;'>$6,277.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KloudEx_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premier Pro with 2 Days Training</td>
 <td style='padding: 10px;'>$5,607.48</td>
 <td style='padding: 10px;'>$5,607.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KloudEx_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Premier Pro with 1 Day Training</td>
 <td style='padding: 10px;'>$4,807.48</td>
 <td style='padding: 10px;'>$4,807.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KloudEx_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Basic</td>
 <td style='padding: 10px;'>$3,207.48</td>
 <td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KloudEx_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription Only</td>
 <td style='padding: 10px;'>$807.48</td>
 <td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/KloudEx_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

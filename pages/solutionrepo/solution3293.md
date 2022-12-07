@@ -30,14 +30,14 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
 <td style='padding: 10px;'>$17,350.00</td>
 <td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densensitised_Getz_Annex_3_CR_wef_28_July_2022__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Getz_Annex_3_CR_wef_28_July_2022__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
 <td style='padding: 10px;'>$8,450.00</td>
 <td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densensitised_Getz_Annex_3_CR_wef_28_July_2022__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Getz_Annex_3_CR_wef_28_July_2022__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

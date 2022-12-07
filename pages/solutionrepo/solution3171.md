@@ -26,28 +26,28 @@ Weeloy Reservation System and Table Management Suite is an integrated solution a
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations Package</td>
 <td style='padding: 10px;'>$5,130.00</td>
 <td style='padding: 10px;'>$5,130.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations & Online Payment Package</td>
 <td style='padding: 10px;'>$6,240.00</td>
 <td style='padding: 10px;'>$6,240.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations & POS Package</td>
 <td style='padding: 10px;'>$8,340.00</td>
 <td style='padding: 10px;'>$7,880.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Full Package</td>
 <td style='padding: 10px;'>$9,450.00</td>
 <td style='padding: 10px;'>$8,840.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -56,10 +56,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Calvin Seng Co Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2293' target='_blank'>KADDRA Mobile App Commerce Solution Version 1.9</a><br></td>
-<td>KADDRA PTE LTD </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2322' target='_blank'>Athena E-store Solution</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>

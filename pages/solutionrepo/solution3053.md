@@ -26,7 +26,7 @@ A2000 E-Commerce enables SMEs to extend their business online. With this solutio
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000 WebShop (B2C) Version 2 - Standard</td>
 <td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_A2000_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_A2000_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

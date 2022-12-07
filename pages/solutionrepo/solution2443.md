@@ -39,21 +39,21 @@ Xero can connect with other apps.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Daisy XERO Accounting Software - Subscription Only</td>
 <td style='padding: 10px;'>$780.00</td>
 <td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Daisy XERO Accounting Software - Subscription + Implementation + Training</td>
 <td style='padding: 10px;'>$2,280.00</td>
 <td style='padding: 10px;'>$2,225.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Daisy XERO Accounting Software - Subscription + Implementation + Training + Migration</td>
 <td style='padding: 10px;'>$3,200.00</td>
 <td style='padding: 10px;'>$3,145.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_20200678_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ Aggregate Consultancy Services provides one stop digital solution to digitalise 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package A (Starter)</td>
 <td style='padding: 10px;'>$720.00</td>
 <td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package B (Essential)</td>
 <td style='padding: 10px;'>$3,520.00</td>
 <td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package C (Premium)</td>
 <td style='padding: 10px;'>$5,520.00</td>
 <td style='padding: 10px;'>$5,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package D (Premium Plus)</td>
 <td style='padding: 10px;'>$6,720.00</td>
 <td style='padding: 10px;'>$6,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

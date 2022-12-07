@@ -26,35 +26,35 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Basic)</td>
 <td style='padding: 10px;'>$2,250.00</td>
 <td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Advanced)</td>
 <td style='padding: 10px;'>$4,540.00</td>
 <td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - Self Ordering Kiosk</td>
 <td style='padding: 10px;'>$9,240.00</td>
 <td style='padding: 10px;'>$9,220.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR ordering (Standard)</td>
 <td style='padding: 10px;'>$9,680.00</td>
 <td style='padding: 10px;'>$9,660.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR Ordering (Premium)</td>
 <td style='padding: 10px;'>$11,530.00</td>
 <td style='padding: 10px;'>$11,510.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update</td>
 <td style='padding: 10px;'>$1,967.00</td>
 <td style='padding: 10px;'>$1,967.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 100F</td>
 <td style='padding: 10px;'>$4,977.00</td>
 <td style='padding: 10px;'>$4,977.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update</td>
 <td style='padding: 10px;'>$5,477.00</td>
 <td style='padding: 10px;'>$5,477.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 200E</td>
 <td style='padding: 10px;'>$7,200.00</td>
 <td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</td>
 <td style='padding: 10px;'>$7,700.00</td>
 <td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

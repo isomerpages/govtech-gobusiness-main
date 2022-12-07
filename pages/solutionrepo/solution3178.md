@@ -26,28 +26,28 @@ Qashier provides smart point-of-sale and digital payment solutions to retailers.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro</td>
 <td style='padding: 10px;'>$1,818.00</td>
 <td style='padding: 10px;'>$1,818.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro + Basic Setup</td>
 <td style='padding: 10px;'>$2,417.00</td>
 <td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Advanced Setup</td>
 <td style='padding: 10px;'>$3,297.00</td>
 <td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Full Setup + Training</td>
 <td style='padding: 10px;'>$4,497.00</td>
 <td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package A (Inclusive of subscription cost)</td>
 <td style='padding: 10px;'>$800.00</td>
 <td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package B (Inclusive of set-up)</td>
 <td style='padding: 10px;'>$1,800.00</td>
 <td style='padding: 10px;'>$1,725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package C (Inclusive of training)</td>
 <td style='padding: 10px;'>$2,300.00</td>
 <td style='padding: 10px;'>$2,225.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD APPLICATION - Xero Comprehensive Package D (Premium Package)</td>
 <td style='padding: 10px;'>$3,300.00</td>
 <td style='padding: 10px;'>$3,225.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SmartCursors_Xero_Cloud_20200659_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,14 +26,14 @@ LittleLives is a holistic school management system built to simplify complex sch
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
 <td style='padding: 10px;'>$6,537.00</td>
 <td style='padding: 10px;'>$5,301.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
 <td style='padding: 10px;'>$4,797.00</td>
 <td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

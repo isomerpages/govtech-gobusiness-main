@@ -26,28 +26,28 @@ Xero is a cloud-based accounting software which allow multiple users to log into
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
 <td style='padding: 10px;'>$2,380.00</td>
 <td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RDC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RDC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
 <td style='padding: 10px;'>$3,180.00</td>
 <td style='padding: 10px;'>$3,125.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RDC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RDC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
 <td style='padding: 10px;'>$3,980.00</td>
 <td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RDC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RDC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
 <td style='padding: 10px;'>$6,380.00</td>
 <td style='padding: 10px;'>$6,325.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RDC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RDC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ Powerful & speedy cloud-based digital ordering system, accelerate your business 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (1 Waiter)</td>
 <td style='padding: 10px;'>$3,248.00</td>
 <td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (2 Waiters)</td>
 <td style='padding: 10px;'>$4,546.00</td>
 <td style='padding: 10px;'>$4,450.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (3 Waiters)</td>
 <td style='padding: 10px;'>$5,844.00</td>
 <td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (4 Waiters)</td>
 <td style='padding: 10px;'>$7,142.00</td>
 <td style='padding: 10px;'>$6,450.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)</td>
 <td style='padding: 10px;'>$8,440.00</td>
 <td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

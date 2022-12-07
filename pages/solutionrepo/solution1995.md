@@ -27,21 +27,21 @@ R Systems is a global technology and analytics services company that helps busin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Essentials - 3 Users</td>
 <td style='padding: 10px;'>$26,302.00</td>
 <td style='padding: 10px;'>$19,502.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Essentials - 5 Users</td>
 <td style='padding: 10px;'>$32,570.00</td>
 <td style='padding: 10px;'>$21,770.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central - Essentials - 10 Users</td>
 <td style='padding: 10px;'>$39,840.00</td>
 <td style='padding: 10px;'>$28,940.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

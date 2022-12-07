@@ -26,21 +26,21 @@ Going digital is not only about moving to cloud-based accounting software but al
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package</td>
 <td style='padding: 10px;'>$7,925.00</td>
 <td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_Annex_3_CR_wef_18082022__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Annex_3_CR_wef_18082022__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package</td>
 <td style='padding: 10px;'>$3,741.00</td>
 <td style='padding: 10px;'>$3,741.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_Annex_3_CR_wef_18082022__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Annex_3_CR_wef_18082022__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package</td>
 <td style='padding: 10px;'>$4,541.00</td>
 <td style='padding: 10px;'>$4,541.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_Annex_3_CR_wef_18082022__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Annex_3_CR_wef_18082022__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,7 +26,7 @@ WTW is one of the world's largest human resources advisory firms. We help organi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ AutoCount possess more than 25 years software development experience. Its main b
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Basic V2.0 (1 Users) </td>
 <td style='padding: 10px;'>$4,720.00</td>
 <td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Basic V2.0 (3 Users) </td>
 <td style='padding: 10px;'>$5,920.00</td>
 <td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (5 Users)</td>
 <td style='padding: 10px;'>$11,020.00</td>
 <td style='padding: 10px;'>$11,020.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (8 Users)  </td>
 <td style='padding: 10px;'>$12,820.00</td>
 <td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (15 Users) </td>
 <td style='padding: 10px;'>$17,020.00</td>
 <td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

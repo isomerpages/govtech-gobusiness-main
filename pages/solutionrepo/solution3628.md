@@ -27,7 +27,7 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

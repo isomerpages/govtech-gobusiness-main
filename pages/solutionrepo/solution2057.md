@@ -26,35 +26,35 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)</td>
 <td style='padding: 10px;'>$3,500.00</td>
 <td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 10 outlets w/integration) (Package 2)</td>
 <td style='padding: 10px;'>$9,650.00</td>
 <td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 20 outlets w/integration) (Package 3)</td>
 <td style='padding: 10px;'>$13,150.00</td>
 <td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)</td>
 <td style='padding: 10px;'>$20,150.00</td>
 <td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart - Zeemart Buyer Hub (Upto 100 outlets w/integration) (Package 5)</td>
 <td style='padding: 10px;'>$25,150.00</td>
 <td style='padding: 10px;'>$23,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Zeemart_Annex_3_CR_wef_24_March_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

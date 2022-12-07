@@ -26,35 +26,35 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 5 Users (Basic)</td>
 <td style='padding: 10px;'>$11,113.00</td>
 <td style='padding: 10px;'>$11,113.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 8 Users (Standard)</td>
 <td style='padding: 10px;'>$15,123.00</td>
 <td style='padding: 10px;'>$15,123.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 10 Users (Premium)</td>
 <td style='padding: 10px;'>$17,916.00</td>
 <td style='padding: 10px;'>$17,916.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 12 Users (Professional)</td>
 <td style='padding: 10px;'>$22,100.00</td>
 <td style='padding: 10px;'>$22,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng, CRM and Sales for 15 Users (Enterprise)</td>
 <td style='padding: 10px;'>$25,121.00</td>
 <td style='padding: 10px;'>$25,121.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

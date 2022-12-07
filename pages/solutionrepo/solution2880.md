@@ -26,35 +26,35 @@ SAP Business One application offers an affordable way to manage the entire busin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
 <td style='padding: 10px;'>$17,985.00</td>
 <td style='padding: 10px;'>$17,985.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
 <td style='padding: 10px;'>$23,135.00</td>
 <td style='padding: 10px;'>$23,135.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Pro Users SQL on Premise with Remote Desktop License</td>
 <td style='padding: 10px;'>$39,160.00</td>
 <td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Pro Users Hana on Cloud</td>
 <td style='padding: 10px;'>$36,180.00</td>
 <td style='padding: 10px;'>$34,560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Pro Users Hana on Cloud</td>
 <td style='padding: 10px;'>$48,660.00</td>
 <td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

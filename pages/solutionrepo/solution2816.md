@@ -26,35 +26,35 @@ iREP Security is a mobile reporting, maintenance and monitoring system which use
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1</td>
 <td style='padding: 10px;'>$22,500.00</td>
 <td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident with 5 BWCs) Package 2</td>
 <td style='padding: 10px;'>$25,750.00</td>
 <td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident with 10 BWCs) Package 3</td>
 <td style='padding: 10px;'>$29,000.00</td>
 <td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 5 BWCs) Package 4</td>
 <td style='padding: 10px;'>$31,250.00</td>
 <td style='padding: 10px;'>$30,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 10 BWCs) Package 5</td>
 <td style='padding: 10px;'>$34,500.00</td>
 <td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
