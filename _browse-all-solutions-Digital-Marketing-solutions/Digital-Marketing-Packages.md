@@ -135,6 +135,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3714' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3770' target='_blank'>DM C.O Enterprise Digital Marketing Packages</a><br></td>
+<td>C.O Enterprise Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

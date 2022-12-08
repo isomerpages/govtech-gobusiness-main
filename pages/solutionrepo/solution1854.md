@@ -26,7 +26,7 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

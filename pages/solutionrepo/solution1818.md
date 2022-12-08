@@ -26,35 +26,35 @@ Revel Systems iPad Point of Sale is the most versatile solution in the market to
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package A1: Revel 1 device license w/ e-Menu Ordering</td>
 <td style='padding: 10px;'>$6,881.00</td>
 <td style='padding: 10px;'>$6,881.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package A2: Revel 2 device license w/ e-Menu Ordering</td>
 <td style='padding: 10px;'>$8,869.00</td>
 <td style='padding: 10px;'>$8,869.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package B: Revel 4 device license w/ e-Menu Ordering</td>
 <td style='padding: 10px;'>$12,429.00</td>
 <td style='padding: 10px;'>$9,755.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package C: Revel 6 device license w/ e-Menu Ordering</td>
 <td style='padding: 10px;'>$15,018.00</td>
 <td style='padding: 10px;'>$9,755.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems Version 2 - Package D: Revel 8 device license w/ e-Menu Ordering</td>
 <td style='padding: 10px;'>$18,407.00</td>
 <td style='padding: 10px;'>$9,755.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Systems_Annex_3_CR_wef_02_June_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

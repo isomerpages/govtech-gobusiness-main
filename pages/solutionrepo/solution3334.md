@@ -26,35 +26,35 @@ LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, c
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</td>
 <td style='padding: 10px;'>$7,780.00</td>
 <td style='padding: 10px;'>$7,480.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C [Complete] - (3x Digital Ordering + KDS + Analytics)</td>
 <td style='padding: 10px;'>$9,860.00</td>
 <td style='padding: 10px;'>$9,560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</td>
 <td style='padding: 10px;'>$12,100.00</td>
 <td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</td>
 <td style='padding: 10px;'>$15,860.00</td>
 <td style='padding: 10px;'>$10,360.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</td>
 <td style='padding: 10px;'>$19,340.00</td>
 <td style='padding: 10px;'>$16,170.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

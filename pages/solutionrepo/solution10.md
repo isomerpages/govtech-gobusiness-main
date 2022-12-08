@@ -26,35 +26,35 @@ Sage has more than 30 years of experience helping millions of small and medium c
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A1 (Advanced Edition - 3 Users)</td>
 <td style='padding: 10px;'>$31,129.00</td>
 <td style='padding: 10px;'>$31,029.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A2 (Advanced Edition - 5 Users)</td>
 <td style='padding: 10px;'>$34,783.00</td>
 <td style='padding: 10px;'>$34,683.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A3 (Advanced Edition - 7 Users)</td>
 <td style='padding: 10px;'>$38,437.00</td>
 <td style='padding: 10px;'>$38,337.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A4 (Advanced Edition - 10 Users)</td>
 <td style='padding: 10px;'>$43,918.00</td>
 <td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1 (Premium Edition - 5 Users)</td>
 <td style='padding: 10px;'>$43,191.00</td>
 <td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

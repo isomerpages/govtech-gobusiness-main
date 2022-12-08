@@ -26,21 +26,21 @@ Mediaplus Digital E-Commerce web solution enables SMEs to increase their digital
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce MPD Package Version 2.0 - Express</td>
 <td style='padding: 10px;'>$5,898.00</td>
 <td style='padding: 10px;'>$5,898.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce MPD Package Version 2.0 - Essential</td>
 <td style='padding: 10px;'>$8,975.00</td>
 <td style='padding: 10px;'>$8,975.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce MPD Package Version 2.0 - Elite</td>
 <td style='padding: 10px;'>$9,985.00</td>
 <td style='padding: 10px;'>$9,985.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

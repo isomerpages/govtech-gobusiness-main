@@ -26,35 +26,35 @@ PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile p
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 1 (up to 25 users)</td>
 <td style='padding: 10px;'>$5,600.00</td>
 <td style='padding: 10px;'>$4,950.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 2 (up to 50 users)</td>
 <td style='padding: 10px;'>$7,650.00</td>
 <td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 3 (up to 100 users)</td>
 <td style='padding: 10px;'>$11,150.00</td>
 <td style='padding: 10px;'>$10,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 4 (up to 150 users)</td>
 <td style='padding: 10px;'>$16,450.00</td>
 <td style='padding: 10px;'>$16,150.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 5 (up to 200 users)</td>
 <td style='padding: 10px;'>$20,550.00</td>
 <td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/capps_Desensitised_Annex_3_21July2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

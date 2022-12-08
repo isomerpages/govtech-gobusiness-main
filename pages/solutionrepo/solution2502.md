@@ -27,7 +27,7 @@ Track the lead status and have clear overview of the performance of individual c
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCRM - Lead Management System</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_FirstCRM_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Firstcom_FirstCRM_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ Dropbox is a file hosting service operated by Dropbox, Inc., headquartered in Sa
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
 <td style='padding: 10px;'>$1,334.40</td>
 <td style='padding: 10px;'>$1,334.40</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 Users</td>
 <td style='padding: 10px;'>$2,068.80</td>
 <td style='padding: 10px;'>$2,068.80</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 Users</td>
 <td style='padding: 10px;'>$3,537.60</td>
 <td style='padding: 10px;'>$3,537.60</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users</td>
 <td style='padding: 10px;'>$4,272.00</td>
 <td style='padding: 10px;'>$4,272.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 Users</td>
 <td style='padding: 10px;'>$5,006.40</td>
 <td style='padding: 10px;'>$5,006.40</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We bel
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Express</td>
 <td style='padding: 10px;'>$8,300.00</td>
 <td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Premium</td>
 <td style='padding: 10px;'>$12,800.00</td>
 <td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Lite</td>
 <td style='padding: 10px;'>$3,300.00</td>
 <td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Enterprise</td>
 <td style='padding: 10px;'>$18,300.00</td>
 <td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,7 +26,7 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
 <td style='padding: 10px;'>$14,800.00</td>
 <td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

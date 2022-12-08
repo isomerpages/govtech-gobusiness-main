@@ -27,7 +27,7 @@ The solution is able to comply with the revised MAS 610 regulatory reporting req
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)</td>
 <td style='padding: 10px;'>$459,200.00</td>
 <td style='padding: 10px;'>$459,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

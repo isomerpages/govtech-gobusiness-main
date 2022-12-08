@@ -26,21 +26,21 @@ EISOL offer Lightspeed X (Vend) omnichannel retail management system for Singapo
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lean (1 outlet)</td>
 <td style='padding: 10px;'>$3,447.00</td>
 <td style='padding: 10px;'>$3,447.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eisol_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Eisol_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard (1 outlet)</td>
 <td style='padding: 10px;'>$4,047.00</td>
 <td style='padding: 10px;'>$4,047.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eisol_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Eisol_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced (1 outlet) with eCommerce</td>
 <td style='padding: 10px;'>$5,167.00</td>
 <td style='padding: 10px;'>$5,167.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Eisol_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Eisol_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
