@@ -271,6 +271,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3760' target='_blank'>Xero</a><br></td>
 <td>KloudEx Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3785' target='_blank'>INFO-TECH Cloud Accounting Software Version 1.0</a><br></td>
+<td>Info-Tech Systems Integrators Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3787' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
+<td>TNB GLOBAL OUTSOURCE PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
