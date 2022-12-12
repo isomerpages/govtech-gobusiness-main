@@ -26,35 +26,35 @@ Edgeworks EQuip Orders is a solution that transforms the digital ordering experi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite</td>
 <td style='padding: 10px;'>$3,750.00</td>
 <td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite + Rewards</td>
 <td style='padding: 10px;'>$6,750.00</td>
 <td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
 <td style='padding: 10px;'>$5,550.00</td>
 <td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + Rewards</td>
 <td style='padding: 10px;'>$8,550.00</td>
 <td style='padding: 10px;'>$7,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + eWaiter</td>
 <td style='padding: 10px;'>$8,250.00</td>
 <td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

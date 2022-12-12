@@ -26,7 +26,7 @@ Tracee Inventory allows high visibility & accessibility of products, & easy mana
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tracee Inventory Version 2.0.0 - Omni Package (Up to 3 Outlets)</td>
 <td style='padding: 10px;'>$9,800.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Qualityzone_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Qualityzone_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

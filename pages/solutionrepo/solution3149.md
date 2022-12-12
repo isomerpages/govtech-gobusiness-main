@@ -26,35 +26,35 @@ Quickbooks Online is a user-friendly accounting solution and is able to track sa
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Packages - Basic Plan</td>
 <td style='padding: 10px;'>$2,664.00</td>
 <td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Packages - Essential Plan </td>
 <td style='padding: 10px;'>$3,564.00</td>
 <td style='padding: 10px;'>$3,564.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Packages - For Micro Business</td>
 <td style='padding: 10px;'>$5,664.00</td>
 <td style='padding: 10px;'>$5,664.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Packages - For Micro Business - With Customised Training</td>
 <td style='padding: 10px;'>$6,864.00</td>
 <td style='padding: 10px;'>$6,864.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intuit Quickbooks Online Full Transformation Packages - For Small Business - With Customised Training</td>
 <td style='padding: 10px;'>$9,264.00</td>
 <td style='padding: 10px;'>$9,264.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

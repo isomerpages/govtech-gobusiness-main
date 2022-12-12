@@ -26,28 +26,28 @@ DashBod is a cloud accounting software that is one of the software listed on Inl
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Starter - 1A</td>
 <td style='padding: 10px;'>$2,790.00</td>
 <td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1A</td>
 <td style='padding: 10px;'>$4,790.00</td>
 <td style='padding: 10px;'>$4,640.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1B</td>
 <td style='padding: 10px;'>$5,790.00</td>
 <td style='padding: 10px;'>$5,240.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1C</td>
 <td style='padding: 10px;'>$6,790.00</td>
 <td style='padding: 10px;'>$5,240.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

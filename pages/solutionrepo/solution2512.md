@@ -26,35 +26,35 @@ Panda Adaptive Defense 360 is an Endpoint Detection and Response (EDR) solution 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Panda Adaptive Defense 360 - Watchguard Panda AD360 - 10 Licenses</td>
 <td style='padding: 10px;'>$850.00</td>
 <td style='padding: 10px;'>$850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Panda Adaptive Defense 360 - Watchguard Panda AD360 - 30 Licenses</td>
 <td style='padding: 10px;'>$2,550.00</td>
 <td style='padding: 10px;'>$2,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Panda Adaptive Defense 360 - Watchguard Panda AD360 - 50 Licenses</td>
 <td style='padding: 10px;'>$4,250.00</td>
 <td style='padding: 10px;'>$4,250.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Panda Adaptive Defense 360 - Watchguard Panda AD360 - 100 Licenses</td>
 <td style='padding: 10px;'>$7,500.00</td>
 <td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Panda Adaptive Defense 360 - Watchguard Panda AD360 - 150 Licenses</td>
 <td style='padding: 10px;'>$10,050.00</td>
 <td style='padding: 10px;'>$10,050.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AsiaCloud_Solutions_20200529_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers S
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advocado Cloud Loyalty CRM Software - Basic Package</td>
 <td style='padding: 10px;'>$2,350.00</td>
 <td style='padding: 10px;'>$2,350.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advocado Cloud Loyalty CRM Software - Standard Package</td>
 <td style='padding: 10px;'>$5,500.00</td>
 <td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advocado Cloud Loyalty CRM Software - Professional Package</td>
 <td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advocado Cloud Loyalty CRM Software - Enterprise Package</td>
 <td style='padding: 10px;'>$10,400.00</td>
 <td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

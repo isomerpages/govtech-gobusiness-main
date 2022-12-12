@@ -26,35 +26,35 @@ Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. I
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 1</td>
 <td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'>$2,560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 2</td>
 <td style='padding: 10px;'>$5,700.00</td>
 <td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 3</td>
 <td style='padding: 10px;'>$8,400.00</td>
 <td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 4</td>
 <td style='padding: 10px;'>$12,300.00</td>
 <td style='padding: 10px;'>$11,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 5</td>
 <td style='padding: 10px;'>$17,900.00</td>
 <td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

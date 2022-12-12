@@ -26,7 +26,7 @@ Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (50 Pax)</td>
 <td style='padding: 10px;'>$24,900.00</td>
 <td style='padding: 10px;'>$24,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Acc_Pro_Annex3_CR_wef13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_Annex3_CR_wef13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

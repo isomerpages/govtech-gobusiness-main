@@ -26,35 +26,35 @@ Yumstone's Management System enables F&B operators and restaurants to empower th
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 1: Mobile Ordering</td>
 <td style='padding: 10px;'>$3,805.00</td>
 <td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 2: Mobile and Emenu Ordering</td>
 <td style='padding: 10px;'>$7,315.00</td>
 <td style='padding: 10px;'>$6,640.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 3: Mobile and Kiosk Ordering</td>
 <td style='padding: 10px;'>$8,285.00</td>
 <td style='padding: 10px;'>$6,860.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 4: Qrcode Ordering and CRM</td>
 <td style='padding: 10px;'>$9,715.00</td>
 <td style='padding: 10px;'>$8,840.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Yumstone F&B Solutions Version 5.0 - Package 5: Emenu, Kiosk, Qrcode and CRM</td>
 <td style='padding: 10px;'>$14,195.00</td>
 <td style='padding: 10px;'>$11,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Yumstone_Annex_3_CR_wef_20_Jan_2022_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 1</td>
 <td style='padding: 10px;'>$1,600.00</td>
 <td style='padding: 10px;'>$1,528.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2</td>
 <td style='padding: 10px;'>$2,600.00</td>
 <td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3</td>
 <td style='padding: 10px;'>$4,100.00</td>
 <td style='padding: 10px;'>$4,028.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Standard</td>
 <td style='padding: 10px;'>$6,100.00</td>
 <td style='padding: 10px;'>$6,028.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Large</td>
 <td style='padding: 10px;'>$9,100.00</td>
 <td style='padding: 10px;'>$9,028.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

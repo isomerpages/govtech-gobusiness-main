@@ -26,7 +26,7 @@ Development of an online shopping cart system complete with integrated product d
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</td>
 <td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

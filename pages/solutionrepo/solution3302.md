@@ -26,7 +26,7 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
 <td style='padding: 10px;'>$680.00</td>
 <td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

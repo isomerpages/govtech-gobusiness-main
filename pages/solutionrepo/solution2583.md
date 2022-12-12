@@ -26,35 +26,14 @@ Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technic
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - STEPS-AS1(Basic)</td>
 <td style='padding: 10px;'>$8,200.00</td>
 <td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - STEPS-AS2/(Portal)</td>
 <td style='padding: 10px;'>$13,000.00</td>
 <td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 5 Users AS3 (Sales)</td>
-<td style='padding: 10px;'>$11,437.00</td>
-<td style='padding: 10px;'>$11,437.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 10 Users AS4 (Sales)</td>
-<td style='padding: 10px;'>$14,037.00</td>
-<td style='padding: 10px;'>$14,037.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 15 Users AS5 (Sales)</td>
-<td style='padding: 10px;'>$17,437.00</td>
-<td style='padding: 10px;'>$17,437.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

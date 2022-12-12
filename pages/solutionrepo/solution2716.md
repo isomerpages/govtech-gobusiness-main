@@ -26,35 +26,35 @@ Hitachi Sunway Information Systems (Singapore) is driven by a vision to be the l
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - NX</td>
 <td style='padding: 10px;'>$21,708.00</td>
 <td style='padding: 10px;'>$20,308.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - Multi-CAD</td>
 <td style='padding: 10px;'>$29,640.00</td>
 <td style='padding: 10px;'>$28,240.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - SolidWorks</td>
 <td style='padding: 10px;'>$27,984.00</td>
 <td style='padding: 10px;'>$26,584.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - AutoCAD</td>
 <td style='padding: 10px;'>$27,984.00</td>
 <td style='padding: 10px;'>$26,584.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Teamcenter Version 13 - Creo</td>
 <td style='padding: 10px;'>$27,984.00</td>
 <td style='padding: 10px;'>$26,584.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hitachi_Sunway_20210282_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

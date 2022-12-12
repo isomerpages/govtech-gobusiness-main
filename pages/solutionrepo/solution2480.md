@@ -26,7 +26,7 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM - AIO CRM </td>
 <td style='padding: 10px;'>$12,000.00</td>
 <td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

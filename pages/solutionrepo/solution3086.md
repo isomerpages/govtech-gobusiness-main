@@ -26,7 +26,7 @@ KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cros
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iFMS) - SaaS</td>
 <td style='padding: 10px;'>$38,000.00</td>
 <td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keyfields_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Keyfields_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

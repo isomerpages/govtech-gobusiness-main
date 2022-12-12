@@ -26,35 +26,35 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote  up to 5</td>
 <td style='padding: 10px;'>$4,980.00</td>
 <td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 10</td>
 <td style='padding: 10px;'>$6,720.00</td>
 <td style='padding: 10px;'>$6,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 20</td>
 <td style='padding: 10px;'>$9,840.00</td>
 <td style='padding: 10px;'>$9,840.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 40</td>
 <td style='padding: 10px;'>$17,419.00</td>
 <td style='padding: 10px;'>$17,419.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote - Document Management & Transaction Records Version 3.2TM - RealtyPromote up to 60</td>
 <td style='padding: 10px;'>$24,719.00</td>
 <td style='padding: 10px;'>$24,719.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CommercePromote_(Doc_Mgt_and_Transaction)_20200860_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

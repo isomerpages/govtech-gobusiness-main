@@ -26,28 +26,28 @@ LFSuite in a cloud-hybrid POS system that come with an online central management
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
 <td style='padding: 10px;'>$5,040.00</td>
 <td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
 <td style='padding: 10px;'>$7,260.00</td>
 <td style='padding: 10px;'>$6,960.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
 <td style='padding: 10px;'>$11,460.00</td>
 <td style='padding: 10px;'>$11,160.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Digital</td>
 <td style='padding: 10px;'>$5,420.00</td>
 <td style='padding: 10px;'>$5,120.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

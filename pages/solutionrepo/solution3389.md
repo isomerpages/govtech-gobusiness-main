@@ -26,7 +26,7 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Websentials Ecommerce Web Development - Customised eCommerce Package</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Websentials_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

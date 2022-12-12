@@ -26,7 +26,7 @@ Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reportin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Realtimme Cloud Solution</td>
 <td style='padding: 10px;'>$3,900.00</td>
 <td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Realtimme_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Realtimme_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

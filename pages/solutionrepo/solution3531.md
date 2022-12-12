@@ -26,14 +26,14 @@ Tunity Asset Inventory Management is an established and stable solution for SMEs
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tunity Asset Inventory Management System</td>
 <td style='padding: 10px;'>$10,500.00</td>
 <td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Tunity_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Tunity_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tunity Asset Inventory Management System (Interface)</td>
 <td style='padding: 10px;'>$16,050.00</td>
 <td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Tunity_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Tunity_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

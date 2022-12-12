@@ -26,35 +26,35 @@ The XGS Firewall Series offers next-generation firewall features that provide vi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 126 - 12 MOS</td>
 <td style='padding: 10px;'>$1,735.00</td>
 <td style='padding: 10px;'>$1,735.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 136 - 12 MOS</td>
 <td style='padding: 10px;'>$2,310.00</td>
 <td style='padding: 10px;'>$2,310.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2100 - 12 MOS  </td>
 <td style='padding: 10px;'>$3,809.00</td>
 <td style='padding: 10px;'>$3,809.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 2300 - 12 MOS  </td>
 <td style='padding: 10px;'>$5,035.00</td>
 <td style='padding: 10px;'>$5,035.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos Firewall - Manage Firewall - Standard Protection for XGS 3100 - 12 MOS  </td>
 <td style='padding: 10px;'>$8,475.00</td>
 <td style='padding: 10px;'>$8,275.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Centrics_Networks_20200344_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

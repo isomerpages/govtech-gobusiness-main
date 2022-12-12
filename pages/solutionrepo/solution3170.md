@@ -26,7 +26,7 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iWMS) - SaaS</td>
 <td style='padding: 10px;'>$38,000.00</td>
 <td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keyfields_Desensitised_Annex_3_21July2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Keyfields_Desensitised_Annex_3_21July2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

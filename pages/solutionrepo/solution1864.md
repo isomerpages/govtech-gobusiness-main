@@ -26,7 +26,7 @@ Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). Th
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Doctor Anywhere Platform</td>
 <td style='padding: 10px;'>$2,500.00</td>
 <td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

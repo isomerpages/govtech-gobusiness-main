@@ -28,35 +28,35 @@ Beaufort's range of 5 packages, allows a wide selection.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Subscription Only</td>
 <td style='padding: 10px;'>$864.00</td>
 <td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Subscription + Set Up</td>
 <td style='padding: 10px;'>$1,664.00</td>
 <td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Subscription + Set Up + Training (B)</td>
 <td style='padding: 10px;'>$2,536.00</td>
 <td style='padding: 10px;'>$2,474.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Subscription + Set Up + Training (B,I) + Custom + Data (Opening)</td>
 <td style='padding: 10px;'>$6,136.00</td>
 <td style='padding: 10px;'>$6,074.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription + Set Up + Training (B,I,A) + Custom + Data (Opening & 1-Yr)</td>
 <td style='padding: 10px;'>$9,936.00</td>
 <td style='padding: 10px;'>$9,874.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
