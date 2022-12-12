@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-
 
 **Support Level and Conditions**
 
-Up to 0.7 for SMEs, N.A. for non-SMEs
+Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Building and Construction Authority (BCA).
 

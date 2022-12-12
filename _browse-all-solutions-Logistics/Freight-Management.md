@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Logistics/Freight-Management
 
 **Support Level and Conditions**
 
-Up to 0.7 for SMEs,  for non-SMEs
+Up to 70% for SMEs,  for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

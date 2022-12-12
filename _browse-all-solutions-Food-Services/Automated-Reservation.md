@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Food-Services/Automated-Reservation
 
 **Support Level and Conditions**
 
-Up to 0.8 for SMEs, N.A. for non-SMEs
+Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

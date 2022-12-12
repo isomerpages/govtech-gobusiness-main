@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Co
 
 **Support Level and Conditions**
 
-Up to 0.8 for SMEs, N.A. for non-SMEs
+Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
