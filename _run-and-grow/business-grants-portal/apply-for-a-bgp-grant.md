@@ -7,12 +7,20 @@ third_nav_title: Business Grants Portal
 ## How to apply
 
 Grant applications are submitted on the Business Grants Portal.
+ 
+For the list of grants available on Business Grants Portal (BGP), visit the [Business Grants Portal Overview](/business-grants-portal/).
 
-For the list of grants available on Business Grants Portal (BGP), visit the Business Grants Portal Overview.
+---
 
-### How to apply for a grant on BGP?
+### Before you begin
 
-#### 1. Discover the most suitable grant for your business need
+**You will need a Corppass account to access BGP.**
+
+If you do not have one, approach your Corppass Admin to assign an appropriate BGP role to you and create your Corppass account.
+
+---
+
+### Overview of application process
 
 Currently on BGP, you can apply for:
 
