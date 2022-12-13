@@ -18,7 +18,7 @@ Accreditation certifies that your company has been assessed and meets the requir
 
 ### More accreditations
 
-GoBusiness is working to add more accreditation services over time. Discover more e-Services for [training and accreditation](/e-services/training-and-accreditation/?src=rungrow-pwmark) your business can apply for.
+GoBusiness is working to add more accreditation services over time. Discover more e-Services for [training and accreditation](/e-services/training-and-accreditation/?src=rungrow-accreditation) your business can apply for.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
