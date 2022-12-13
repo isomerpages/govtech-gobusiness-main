@@ -1,47 +1,56 @@
 ---
-title: Budget 2022
-permalink: /gov-assist/budget-announcement-for-businesses/
-third_nav_title: Government Assistance
-description: Budget 2022 for Businesses
+title: Progressive Wage Mark
+permalink: /accreditation/pwmark/
+third_nav_title: Accreditation
 ---
 
-## Budget 2022
-
-Minister for Finance, Mr Lawrence Wong, delivered Singapore's FY2022 Budget Statement on Friday, 18 February 2022 at 3.30pm in Parliament.
-
-Find out which schemes you may be eligible for, and how you can apply for them in the links below.
-
-- Download the [Budget 2022 Business Booklet](/images/budget2022/MTI Business Budget Booklet 2022_Final.pdf){:target="_blank"}.
-
-- Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget2022/Budget Navigator - for Businesses.pdf){:target="_blank"}.
-
-Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2022.
-
-#### List of Government Assistance related schemes:
-
-#### Grants
-
-{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="a" %}
-
-#### Loans
-
-{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="b" %}
-
-#### Toolkits / Programmes
-
-{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="c" %}
-
-### Find relevant schemes for your businesses
-
-Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2022 support schemes and programmes.
-
-{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_overview" type="primary" %}
+## Progressive Wage (PW) Mark accreditation
 
 ---
 
-### Budget 2022 for citizens
+### About PW Mark and PW Mark Plus
 
-{% include panels.html panels=site.data.budget_related_links %}
+The PW Mark is an accreditation scheme that recognises eligible firms that pay progressive wages to lower-wage workers. It is administered by the Singapore Business Federation (SBF) .
+
+From March 2023, the Government will require suppliers who are awarded Government contracts to be accredited with the PW Mark, starting with contracts with larger value. More details will be announced in the coming months.
+
+If you meet the eligibility requirements of the PW Mark and also adopt the Tripartite Standard on Advancing Well-being of Lower-Wage Workers (TS-LWW) , you will be conferred the PW Mark Plus.
+
+Learn more about the Progressive Wage Model (PWM)  on the Ministry of Manpower website.
+
+---
+
+### Who is eligible for PW Mark
+
+To be eligible for the PW Mark, you must:
+
+- Hire at least 1 local worker covered by Sectoral PWs or Occupational PWs
+
+- Pay the relevant workers according to PW requirements:
+
+**Sectoral PWs**
+
+---
+
+### How to apply
+
+**Application Fee:** Free
+**Estimated Processing Time:** 5 business days
+
+Click the button above to log into GoBusiness Dashboard as a Business User.
+In the navigation menu, select ‘Accreditation’, then ‘Progressive Wage (PW) Mark’.
+Click on ‘Apply’. You will be brought to the PW Mark application form.
+After submission, track application progress in My Tasks (In Progress) tab.
+
+Your PW Mark will automatically be renewed each year as long as your business continues to meet the requirements for the accreditation. 
+
+Learn more about maintaining your accreditation in the Dashboard FAQ.
+
+---
+
+### FAQ
+
+Have more questions? Find answers in our [Dashboard FAQ].
 
 
 <script src="/jquery/jquery.min.js"></script>
