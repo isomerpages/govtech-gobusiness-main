@@ -6,8 +6,12 @@ third_nav_title: Accreditation
 
 ## Progressive Wage (PW) Mark accreditation
 
----
+![PW Mark](/images/grow/PWMark.svg) ![PW Mark Plus](/images/grow/PWMark_Plus.svg)
 
+{% include overview.html anchorlinks=site.data.ov006-grow-pwmark %}
+
+---
+<a name="about-pw-mark-and-pw-mark-plus"></a>
 ### About PW Mark and PW Mark Plus
 
 The PW Mark is an accreditation scheme that recognises eligible firms that pay progressive wages to lower-wage workers. It is administered by the Singapore Business Federation (SBF).
@@ -20,7 +24,7 @@ Learn more about the Progressive Wage Mark at [Ministry of Manpower’s website]
 
 
 ---
-
+<a name="pw-mark-eligibility"></a>
 ### Who is eligible for PW Mark
 
 To be eligible for the PW Mark, you must:
@@ -47,7 +51,7 @@ To be eligible for the PW Mark, you must:
 
 
 ---
-
+<a name="how-to-apply-for-pw-mark"></a>
 ### How to apply
 
 **Application Fee:** Free<br>
@@ -68,7 +72,7 @@ Your PW Mark will automatically be renewed each year as long as your business co
 Learn more about maintaining your accreditation in the [Dashboard FAQ](/dashboard-faqs/accreditation/?src=rungrow-pwmark).
 
 ---
-
+<a name="pw-mark-faq"></a>
 ### FAQ
 
 Have more questions? Find answers in our [Dashboard FAQ](/dashboard-faqs/accreditation/?src=rungrow-pwmark).
