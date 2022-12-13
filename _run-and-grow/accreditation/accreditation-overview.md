@@ -1,5 +1,5 @@
 ---
-title: Accreditation Overview 1
+title: Accreditation Overview
 permalink: /accreditation/
 third_nav_title: Accreditation
 ---
