@@ -1,5 +1,5 @@
 ---
-title: Accreditation Overview Test
+title: Accreditation Overview 1
 permalink: /accreditation/
 third_nav_title: Accreditation
 ---
@@ -12,7 +12,7 @@ Accreditation certifies that your company has been assessed and meets the requir
 
 ### Accreditations you can apply on GoBusiness
 
-{% include panels-featurelink.html panels=site.data.rgp001_licences %}
+{% include panels-featurelink.html panels=site.data.rgp005_accreditation %}
 
 ---
 
