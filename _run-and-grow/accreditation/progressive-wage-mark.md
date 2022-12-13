@@ -26,35 +26,23 @@ Learn more about the Progressive Wage Mark at [Ministry of Manpower’s website]
 To be eligible for the PW Mark, you must:
 
 - Hire at least 1 local worker* covered by the prevailing Sectoral PWs or Occupational PWs that have taken effect
-
 - Pay the relevant workers according to PW requirements:
 
 **Sectoral PWs**
-
 - Cleaning sector
-
 - Security sector
-
 - Landscape sector
-
 - Lift and escalator maintenance sector
-
 - Retail sector
-
 - Waste management sector
-
 - Food services sector
 
 **Occupational PWs**
-
 - Administrators
-
 - Drivers
 
 **AND**
-
 - Pay all other local workers* at least the Local Qualifying Salary (LQS).
-
 - Refers to workers who are Singapore Citizens or Permanent Residents.
 
 
@@ -62,8 +50,12 @@ To be eligible for the PW Mark, you must:
 
 ### How to apply
 
-**Application Fee:** Free
+**Application Fee:** Free<br>
 **Estimated Processing Time:** 5 business days for PW Mark; Up to 1.5 months for PW Mark Plus (including adoption of the TS-LWW as part of the application).
+
+{% include button.html text="Log in to GoBusiness Dashboard" src="
+https://dashboard.gobusiness.gov.sg/accreditations/pwmark
+" type="primary" %}
 
 1.	Click the button above to log into GoBusiness Dashboard as a Business User.
 
