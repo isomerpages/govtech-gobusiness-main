@@ -12,11 +12,13 @@ Accreditation certifies that your company has been assessed and meets the requir
 
 ### Accreditations you can apply on GoBusiness
 
+{% include panels-featurelink.html panels=site.data.rgp001_licences %}
+
 ---
 
 ### More accreditations
 
-GoBusiness is working to add more accreditation services over time. Discover more e-Services for [training and accreditation](/e-services/training-and-accreditation/) your business can apply for.
+GoBusiness is working to add more accreditation services over time. Discover more e-Services for [training and accreditation](/e-services/training-and-accreditation/?src=rungrow-pwmark) your business can apply for.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
