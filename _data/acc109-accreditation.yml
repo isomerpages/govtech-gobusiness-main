@@ -1,0 +1,20 @@
+accordion:
+  - title: What does it mean if my application is overdue?
+    content: |
+      This means that your application draft has expired and you will need to start a new application again.
+
+  - title: I've successfully made payment, and the status of my application is now 'Submitted'. What does that mean?
+    content: |
+      This means that your application has been received by the relevant government agency, and it will start processing soon. You will receive updates on your application via email.
+
+  - title: I've just submitted an application. How do I keep track of it?
+    content: |
+      You can log in to the GoBusiness Dashboard and keep track of your application status in the [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_postapp) section.
+
+  - title: My application is 'Pending applicant action'. What does that mean?
+    content: |
+      It means that your application might require some additional information, or edits to be made.
+
+      You will be able to find your application under the Action Required tab in [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_postapp).
+
+      Contact the licence agency for more information.
