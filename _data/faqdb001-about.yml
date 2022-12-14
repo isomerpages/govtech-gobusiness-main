@@ -5,18 +5,6 @@
 - title: Account access
   url: /dashboard-faqs/account-access/
   text: View questions
-  
-- title: Apply new / amend / renew licence
-  url: /dashboard-faqs/apply-new-licences/?src=faqdb_hub
-  text: View questions
-
-- title: Find approved licences
-  url: /dashboard-faqs/find-approved-licences/?src=faqdb_hub
-  text: View questions
-
-- title: Submit returns
-  url: /dashboard-faqs/submit-returns/?src=faqdb_hub
-  text: View questions
 
 - title: Payment
   url: /dashboard-faqs/payment/?src=faqdb_hub
