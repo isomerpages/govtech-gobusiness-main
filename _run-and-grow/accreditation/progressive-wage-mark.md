@@ -36,8 +36,8 @@ To be eligible for the PW Mark, you must:
 - [Cleaning sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/cleaning-sector#wage-requirements){:target="_blank"}{:rel="noopener"}
 - [Security sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/security-sector#wage-requirements){:target="_blank"}{:rel="noopener"}
 - [Landscape sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/landscape-sector#wage-requirements){:target="_blank"}{:rel="noopener"}
-- Lift and escalator maintenance sector
-- Retail sector
+- [Lift and escalator maintenance sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/lift-and-escalator-sector){:target="_blank"}{:rel="noopener"}
+- [Retail sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/retail-sector){:target="_blank"}{:rel="noopener"}
 - Waste management sector
 - Food services sector
 
