@@ -33,17 +33,17 @@ To be eligible for the PW Mark, you must:
 - Pay the relevant workers according to PW requirements:
 
 **Sectoral PWs**
-- Cleaning sector
-- Security sector
-- Landscape sector
+- [Cleaning sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/cleaning-sector#wage-requirements){:target="_blank"}{:rel="noopener"}
+- [Security sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/security-sector#wage-requirements){:target="_blank"}{:rel="noopener"}
+- [Landscape sector](https://www.mom.gov.sg/employment-practices/progressive-wage-model/landscape-sector#wage-requirements){:target="_blank"}{:rel="noopener"}
 - Lift and escalator maintenance sector
 - Retail sector
 - Waste management sector
 - Food services sector
 
 **Occupational PWs**
-- Administrators
-- Drivers
+- [Administrators](https://www.mom.gov.sg/employment-practices/progressive-wage-model/expansion-of-progressive-wage-approach-and-coverage#occupational-pws){:target="_blank"}{:rel="noopener"}
+- [Drivers](https://www.mom.gov.sg/employment-practices/progressive-wage-model/expansion-of-progressive-wage-approach-and-coverage#occupational-pws){:target="_blank"}{:rel="noopener"}
 
 **AND**
 - Pay all other local workers* at least the Local Qualifying Salary (LQS).
