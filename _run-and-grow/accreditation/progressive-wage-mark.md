@@ -6,7 +6,7 @@ third_nav_title: Accreditation
 
 ## Progressive Wage (PW) Mark accreditation
 
-![PW Mark](/images/grow/PWMark.svg) ![PW Mark Plus](/images/grow/PWMark_Plus.svg)
+![PW Mark and PW Mark Plus](/images/grow/PWMark_PWMark_Plus.svg)
 
 {% include overview.html anchorlinks=site.data.ov006-grow-pwmark %}
 
