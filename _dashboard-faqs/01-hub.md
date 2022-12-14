@@ -7,6 +7,8 @@ permalink: /dashboard-faqs/
 
 ### Licences
 
+{% include notice.html notice=site.data.dbfaq_notice%}
+
 {% include panels-featurelink.html panels=site.data.faqdb000-licences %}
 
 ----
