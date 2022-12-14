@@ -29,7 +29,7 @@ Learn more about the Progressive Wage Mark at [Ministry of Manpower’s website]
 
 To be eligible for the PW Mark, you must:
 
-- Hire at least 1 local worker* covered by the prevailing Sectoral PWs or Occupational PWs that have taken effect
+- Hire at least 1 local worker<sup>*</sup> covered by the prevailing Sectoral PWs or Occupational PWs that have taken effect
 - Pay the relevant workers according to PW requirements:
 
 **Sectoral PWs**
@@ -46,8 +46,9 @@ To be eligible for the PW Mark, you must:
 - [Drivers](https://www.mom.gov.sg/employment-practices/progressive-wage-model/expansion-of-progressive-wage-approach-and-coverage#occupational-pws){:target="_blank"}{:rel="noopener"}
 
 **AND**
-- Pay all other local workers* at least the Local Qualifying Salary (LQS).
-- Refers to workers who are Singapore Citizens or Permanent Residents.
+- Pay all other local workers<sup>*</sup> at least the Local Qualifying Salary (LQS).
+
+<sup>*</sup> Refers to workers who are Singapore Citizens or Permanent Residents.
 
 
 ---
