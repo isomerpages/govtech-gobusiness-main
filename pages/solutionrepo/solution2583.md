@@ -38,23 +38,23 @@ Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technic
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 5 Users AS3 (Sales)</td>
-<td style='padding: 10px;'>$11,437.00</td>
-<td style='padding: 10px;'>$11,437.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,475.00</td>
+<td style='padding: 10px;'>$9,475.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Alitec_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 10 Users AS4 (Sales)</td>
-<td style='padding: 10px;'>$14,037.00</td>
-<td style='padding: 10px;'>$14,037.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$12,750.00</td>
+<td style='padding: 10px;'>$12,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Alitec_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 15 Users AS5 (Sales)</td>
-<td style='padding: 10px;'>$17,437.00</td>
-<td style='padding: 10px;'>$17,437.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Alitec_20200759_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$16,825.00</td>
+<td style='padding: 10px;'>$15,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Alitec_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
