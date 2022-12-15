@@ -139,6 +139,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3770' target='_blank'>DM C.O Enterprise Digital Marketing Packages</a><br></td>
 <td>C.O Enterprise Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3782' target='_blank'>DM Duo Studio Digital Marketing Packages</a><br></td>
+<td>Duo Studio Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3784' target='_blank'>DM Identity Counsel Digital Marketing Packages</a><br></td>
+<td>IDENTITY COUNSEL PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
