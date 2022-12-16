@@ -62,7 +62,7 @@ To be eligible for the PW Mark, you must:
 
 1.	Click the button above to log into GoBusiness Dashboard as a Business User.
 
-2.	On the 'Progressive Wage (PW) Mark' page, click on 'Apply'. You will be brought to the PW Mark applicarion formm.
+2.	On the 'Progressive Wage (PW) Mark' page, click on 'Apply'. You will be brought to the PW Mark application form.
 
 3.	After submission, track application progress in My Submissions (In Progress) tab.
 
