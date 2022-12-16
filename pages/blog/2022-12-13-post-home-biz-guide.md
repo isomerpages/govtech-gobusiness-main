@@ -29,7 +29,7 @@ Here’s how you can find everything you need to know about running a business f
 
 The first key step before you open for business is to identify your business scheme and understand the provisions and guidelines of the scheme that best suits your business activities.
 
-Depending on the services you offer, you may fall under two different schemes. The [Home-based Business Scheme](/home-based-businesses/determine-your-home-business-scheme/#home_based_biz_scheme?src=gobiz_blog){:target="_blank"}{:rel="noopener"} caters to small-scale businesses like bakeries, freelance artists and hairdressing services. This constitutes most freelancing gigs, including private tuition for not more than three students, and the business can only be operated by owners, registered occupants or tenants of the residential property (with consent from the property owners).
+Depending on the services you offer, you may fall under two different schemes. The [Home-Based Business Scheme](/home-based-businesses/determine-your-home-business-scheme/#home_based_biz_scheme?src=gobiz_blog){:target="_blank"}{:rel="noopener"} caters to small-scale businesses like bakeries, freelance artists and hairdressing services. This constitutes most freelancing gigs, including private tuition for not more than three students, and the business can only be operated by owners, registered occupants or tenants of the residential property (with consent from the property owners).
 
 ![GoBusiness Home-Based Business Scheme](/images/blog/content/homeBizGuide 1.png)
 <figcaption>A non-exhaustive list of examples of home-based businesses</figcaption>
@@ -92,14 +92,14 @@ You can use this [guide by CPF](https://www.cpf.gov.sg/employer/employer-obligat
 
 If your home-based business has achieved significant progress, and you’re ready to expand your operations, congratulations! Here’s what you can do to take your business further:
 
-Your brand may have outgrown your home, and you might need to shift to a commercial premise so that you can start hiring employees to upscale your production.
+Your brand may have outgrown your home, and you might need to shift to commercial premises so that you can start hiring employees to upscale your production.
 
 For instance, home-based business owners may need to shift to a retail outlet to continue fulfilling orders on a direct-to-consumer basis. The Home Business guide provides step-by-step instructions on navigating the administrative work involved in [opening a physical shop](/home-based-businesses/take-your-biz-further/#opening_physical_shop/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}.
 
 ![GoBusiness Opening Physical Retail Outlet](/images/blog/content/homeBizGuide 6.png)
 <figcaption>A list of applications required to transition from home-based business to retail outlet</figcaption>
 
-Similarly, home offices will also need to shift to an external office in order to hire more than two employees. All you need to do is update your business information on [BizFile+](https://www.bizfile.gov.sg/){:target="_blank"}{:rel="noopener"} and to HDB via [e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} within 14 days from the effective date of the change.
+Similarly, home offices will also need to shift to an external office in order to hire more than two employees. All you need to do is update your business information on [BizFile+](https://www.bizfile.gov.sg/){:target="_blank"}{:rel="noopener"} and to HDB via their [e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} within 14 days from the effective date of the change.
 
 ![GoBusiness Transition to external office](/images/blog/content/homeBizGuide 7.png)
 <figcaption>A list of the necessary steps to transition from home office to commercial premise for the different business structures</figcaption>
