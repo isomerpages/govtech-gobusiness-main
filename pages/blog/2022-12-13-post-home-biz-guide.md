@@ -5,7 +5,7 @@ permalink: /gobusiness-blog/home-business-singapore-guide
 tags: GoBusiness How-to
 pillar: GoBusiness How-to
 crumbs: gobusiness-how-to
-description: 'The Home Business guide is a one-stop shop for the lowdown on running a business from the comfort of your own home.' 
+description: 'The Home Business Guide is a one-stop shop for the lowdown on running a business from the comfort of your own home.' 
 ---
 
 ![GoBusiness Home-Based Business Guide](/images/blog/content/homeBizGuide Feature.png)
@@ -20,7 +20,7 @@ Indeed, home-based businesses come with attractive advantages, including flexibl
 
 Launching a home-based business may seem straightforward, but it still requires you to comply with rules and regulations, including applying for licences and permits, as well as filing your taxes. All these processes can be daunting to a first-time business owner. 
 
-With GoBusiness’s [Home Business guide](/home-based-businesses/determine-your-home-business-scheme/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, however, the process of starting a home-based business is a lot more streamlined. Whether it’s a freelancing side hustle, or fulfilling your long-awaited dream of being your own boss, the Home Business Guide is a one-stop checklist to walk you through all the rules and regulations on starting a business from your own nest to ensure that you set off on the right foot.
+With GoBusiness’s [Home Business Guide](/home-based-businesses/determine-your-home-business-scheme/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, however, the process of starting a home-based business is a lot more streamlined. Whether it’s a freelancing side hustle, or fulfilling your long-awaited dream of being your own boss, the Home Business Guide is a one-stop checklist to walk you through all the rules and regulations on starting a business from your own nest to ensure that you set off on the right foot.
 
 Here’s how you can find everything you need to know about running a business from home in the Guide:
 
