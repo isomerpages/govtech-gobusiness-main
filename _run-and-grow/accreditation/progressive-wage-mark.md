@@ -62,11 +62,9 @@ To be eligible for the PW Mark, you must:
 
 1.	Click the button above to log into GoBusiness Dashboard as a Business User.
 
-2.	In the navigation menu, select ‘Accreditation’, then ‘Progressive Wage (PW) Mark’.
+2.	On the 'Progressive Wage (PW) Mark' page, click on 'Apply'. You will be brought to the PW Mark applicarion formm.
 
-3.	Click on ‘Apply’. You will be brought to the PW Mark application form.
-
-4.	After submission, track application progress in My Tasks (In Progress) tab.
+3.	After submission, track application progress in My Submissions (In Progress) tab.
 
 Your PW Mark will automatically be renewed each year as long as your business continues to meet the requirements for the accreditation. 
 
