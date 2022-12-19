@@ -22,6 +22,9 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 
 ### Overview of application process
 
+|--|--|
+|![GoBusiness Dashboard Thumbnail](/images/gobusiness_dashboard.png)|**For enquiries or technical issues on:** <br>&#8226; GoBusiness Dashboard<br>&#8226; All e-Advisers<br>&#8226; Food Services Guided Journey<br>&#8226; Business-related Covid eServices|
+
 <table>
 <tr>
 <td>
