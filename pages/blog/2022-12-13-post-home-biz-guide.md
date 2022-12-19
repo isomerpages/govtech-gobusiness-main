@@ -51,7 +51,7 @@ The full list of criteria for exemption can be found in the [Business Names Regi
 
 You will be able to register your home-based business as a sole proprietorship or partnership via GoBusiness. Just follow this guide on [starting a business in Singapore](/gobusiness-blog/get-started/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and you’ll be able to get your business registered in less than 5 minutes.
 
-Apart from registration, certain businesses based at home are also required to obtain licences before they can start selling their products and services. Businesses under the Home-Based Business Scheme do not require a licence for offering their expertise. But home office business owners, on the other hand, must obtain relevant licences/approvals before commencing business, including a [home office application](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"} with the property owner’s consent.
+Apart from registration, certain businesses based at home are also required to obtain licences before they can start selling their products and services. Businesses under the Home-Based Business Scheme do not require a licence for offering their expertise but home office business owners, on the other hand, must obtain relevant licences/approvals before commencing business, including a home office application with the property owner’s consent.
 
 Instant approval will be granted upon the successful submission of your application, as well as a $20 administration fee via Visa or MasterCard. This licence will be valid for the duration of your home office business.
 
