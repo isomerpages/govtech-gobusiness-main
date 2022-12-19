@@ -25,7 +25,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <table>
 <tr>
 <td style="width:20%">
-<img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 1: Log into BGP</strong><br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
@@ -33,7 +33,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 2: Click on ‘File New Claim’</strong><br><br>You will be asked to select the project you want to claim for.
@@ -41,7 +41,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 3: Complete and submit claim form</strong><br><br>You will be asked to upload your project report and indicate your claim amount in this step.
@@ -49,7 +49,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 4: Get updates as your claim is processed</strong><br><br>Monitor your claim on the 'My Grants' page. An email will be sent to you if the agency requires more information.
@@ -57,7 +57,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 5: Claim is credited into your bank account</strong><br><br>You will be notified of your claim results via email.
