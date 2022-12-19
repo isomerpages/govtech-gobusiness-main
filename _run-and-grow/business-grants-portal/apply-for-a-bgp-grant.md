@@ -24,10 +24,10 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 
 <table>
 <tr>
-<td width=20%>
+<td style="width:20%">
 <img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
-<td width=auto>
+<td style="width:auto">
 **For enquiries or technical issues on:** <br>&#8226; GoBusiness Dashboard<br>&#8226; All e-Advisers<br>&#8226; Food Services Guided Journey<br>&#8226; Business-related Covid eServices
 </td>
 </tr>
