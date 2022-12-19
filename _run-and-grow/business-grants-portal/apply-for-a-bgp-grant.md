@@ -27,8 +27,6 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <td>
 ![login to BGP](/images/grow/bgp/Apply%20New%20Grant.svg)
 </td>
-</tr>
-<tr>
 <td>
 **Step 1: Log into BGP**<br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}|
 </td>
