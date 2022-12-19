@@ -17,7 +17,7 @@ The Business Grants Portal (BGP) brings government grants for businesses into on
 {% include overview.html anchorlinks=site.data.ov006-bgp %}
 
 ---
-
+<a name="find-a-bgp-grant"></a>
 ### Find a BGP grant
 
 There are nine grants you can apply for on BGP, each meant to support different sectors and needs:
@@ -42,13 +42,13 @@ Get recommendations on suitable grants for your business with just a few steps o
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for.
 
 ---
-
+<a name="bgp-next-steps"></a>
 ### Next steps
 
 {% include panels-featurelink.html panels=site.data.bgp001_overview %}
 
 ---
-
+<a name="bgp-latest-news"></a>
 ### Latest news
 
 
