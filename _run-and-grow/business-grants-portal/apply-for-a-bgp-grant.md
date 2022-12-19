@@ -28,15 +28,15 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto">
-**For enquiries or technical issues on:** <br>&#8226; GoBusiness Dashboard<br>&#8226; All e-Advisers<br>&#8226; Food Services Guided Journey<br>&#8226; Business-related Covid eServices
+<strong>Step 1: Log into BGP</strong><br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
 </td>
 </tr>
 <tr>
-<td>
+<td style="width:20%">
 <img style="margin:29px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
-<td>
-**Step 1: Log into BGP**<br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
+<td style="width:auto">
+<strong>Step 1: Log into BGP</strong><br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
 </td>
 </tr>
 </table>
