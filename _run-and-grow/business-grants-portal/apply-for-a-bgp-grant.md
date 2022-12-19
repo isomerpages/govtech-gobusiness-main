@@ -22,20 +22,9 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 
 ### Overview of application process
 
-Currently on BGP, you can apply for:
+|-|-|
+|![login to BGP](/images/grow/bgp/Apply%20New%20Grant.svg)|**Step 1: Log into BGP**<br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}|
 
-- [Productivity Solutions Grant](/productivity-solutions-grant/?src=rungrow-bgp)
-- [Energy Efficiency Grant](/energy-efficiency-grant/?src=rungrow-bgp)
-- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="_blank"}
-- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"}
-- [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
-- [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
-- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
-- [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
-- [Electric Vehicle Common Charger Grant](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/ev_common_charger_grant.html){:target="_blank"}
-- [Experience Step-Up Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html){:target="_blank"}
-
-You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
 <p>
 {% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=run&grow_bgp" type="primary" %}
