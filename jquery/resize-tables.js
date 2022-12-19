@@ -52,7 +52,7 @@ const customTables = [
     columns: ["10%", "auto", "10%"]
   },
   {
-    path: "/business-grants-portal/*",
+    path: "/business-grants-portal/apply-for-a-bgp-grant/",
     columns: ["20%", "auto"]
   }
 ];
