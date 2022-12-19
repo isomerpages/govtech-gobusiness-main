@@ -36,7 +36,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
-<strong>Step 2: Click on ‘File New Claim’</strong><br><br>You will be asked to select the project you want to claim for.
+<strong>Step 2: Fill in Company Profile</strong><br><br>Your ACRA profile will be populated automatically. Please fill in the remaining company details required.
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
-<strong>Step 3: Complete and submit claim form</strong><br><br>You will be asked to upload your project report and indicate your claim amount in this step.
+<strong>Step 3: Click on ‘Get New Grant’</strong><br><br>You will be asked three quick questions about your project, then shown the application form.
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
-<strong>Step 4: Get updates as your claim is processed</strong><br><br>Monitor your claim on the 'My Grants' page. An email will be sent to you if the agency requires more information.
+<strong>Step 4: Complete and submit application form</strong><br><br>Fill in your project details in this step. Once submitted, your application will be sent to the relevant agency for processing. The agency’s contact details will be shown on the “Grant Actions” page.
 </td>
 </tr>
 <tr>
@@ -60,10 +60,20 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
-<strong>Step 5: Claim is credited into your bank account</strong><br><br>You will be notified of your claim results via email.
+<strong>Step 5: Keep track of your application</strong><br><br>Monitor your application on the 'My Grants' page. An email will be sent to you if the agency requires more information.
+</td>
+</tr>
+<tr>
+<td style="width:20%">
+<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+</td>
+<td style="width:auto; valign:middle">
+<strong>Step 6: Accept your Letter of Offer</strong><br><br>You will be notified of your application results via email. Log into BGP to accept your Letter of Offer.
 </td>
 </tr>
 </table>
+
+Have more questions? Find answers in our [Business Grants Portal FAQ](/business-grants-portal-faq/).
 
 <p>
 {% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=run&grow_bgp" type="primary" %}
