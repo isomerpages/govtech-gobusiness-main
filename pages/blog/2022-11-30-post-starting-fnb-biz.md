@@ -104,6 +104,6 @@ It’s a philosophy that Ms Diana Teo, Co-Founder of wagyu beef bowl concept [Wa
 
 Aside from providing knowledge on sustaining a business, doing thorough research into the F&B industry can also help you to determine when and/or how to exit. Use our [mini diagnostic tool](https://www.checkfirst.gov.sg/c/cd6c0d04-d516-40bb-a7cf-9decbe7672e9){:target="_blank"}{:rel="noopener"} on CheckFirst to monitor the health of your existing F&B business, or to prepare for your new F&B business if you’re looking to enter this field.
 
-**Keen to learn more about how to start and run a F&B business? Check out EntrepriseSG’s [Turning Passion into Profits Guide](http://www.enterprisesg.gov.sg/industries/type/food-services/start-right/start-right){:target="_blank"}{:rel="noopener"} to start your journey!**
+**Keen to learn more about how to start and run a F&B business? Check out EnterpriseSG’s [Turning Passion into Profits Guide](http://www.enterprisesg.gov.sg/industries/type/food-services/start-right/start-right){:target="_blank"}{:rel="noopener"} to start your journey!**
 
 <em> This article is accurate as at 30 Nov 2022</em>
