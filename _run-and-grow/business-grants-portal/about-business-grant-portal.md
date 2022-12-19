@@ -14,6 +14,8 @@ The Business Grants Portal (BGP) brings government grants for businesses into on
 {% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
 </p>
 
+{% include overview.html anchorlinks=site.data.ov006-bgp %}
+
 ---
 
 ### Find a BGP grant
