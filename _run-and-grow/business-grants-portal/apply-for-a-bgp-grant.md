@@ -22,7 +22,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 
 ### Overview of application process
 
-<table>
+<table style="border-style:hidden">
 <tr>
 <td style="width:20%">
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
