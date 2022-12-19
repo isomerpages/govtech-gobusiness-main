@@ -25,7 +25,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 <table>
 <tr>
 <td>
-![GoBusiness Dashboard Thumbnail](/images/gobusiness_dashboard.png)
+<img style="margin:29px 0 0 29px" src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td>
 **For enquiries or technical issues on:** <br>&#8226; GoBusiness Dashboard<br>&#8226; All e-Advisers<br>&#8226; Food Services Guided Journey<br>&#8226; Business-related Covid eServices
@@ -33,7 +33,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td>
-![login to BG/P](/imagtesr/grow/>ply New Grant.svg)
+<img style="margin:29px 0 0 29px" src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td>
 **Step 1: Log into BGP**<br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
