@@ -56,7 +56,7 @@ This can be attributed to the ease of entry into this sector and limited F&B spa
 <figcaption> In 2020, remuneration and purchase of goods & materials form more than half of the business cost structure for the F&B sector </figcaption>
 
 ![Top three business costs in operating expenditure for F&B businesses](/images/blog/content/FnB 7.png)
-<figcaption> A breakdown of the share of top three business costs in operating expenditure by sub-sector in 2020. Cafes, food caterers, and food kiosks spent the most on goods and materials </figcaption>
+<figcaption> A breakdown of the share of top three business costs in operating expenditure by sub-sector in 2020. Goods and materials took up the largest share, followed by remuneration </figcaption>
 
 In researching how to sustain a F&B business, it’s also important to examine how different food service formats affect business costs. For example, food courts, coffee shops, canteens and restaurants spent more expenditure on remuneration compared to the purchase of goods and materials, while food caterers spent the least on the rental of premises. 
      
