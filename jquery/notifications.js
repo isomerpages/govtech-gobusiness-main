@@ -17,7 +17,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 18 Nov 2022 10pm to 19 Nov 2022 8am<br>(2) from 19 Nov 2022 8pm to 20 Nov 2022 10am",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 11 Nov 2022 10pm to 12 Nov 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 22 Dec 2022 10pm to 23 Dec 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 22 Dec 2022 10pm to 23 Dec 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused. "
 
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
