@@ -117,5 +117,5 @@ A home-based business is only as big as you can dream, so it is crucial to plan 
 Last but not least, do remember to be considerate to your neighbours when carrying out your business activities at home.
 
 
-<em>This article is accurate as at 16 Dec 2022</em>
+<em>This article is accurate as at 21 Dec 2022</em>
 
