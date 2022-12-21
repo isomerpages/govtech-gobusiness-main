@@ -1,6 +1,6 @@
 ---
 title: 'Fleet Management Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/solution25
+permalink: /productivity-solutions-grant/solutionrepo/solution3827
 ---
 
 ## Fleet Management Solutions
@@ -26,17 +26,24 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
 <td style='padding: 10px;'>$2,460.00</td>
 <td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
+ Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
