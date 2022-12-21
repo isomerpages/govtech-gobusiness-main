@@ -117,3 +117,4 @@ Once you have accepted your Letter of Offer, you will be notified on your claim 
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
+<script src="/jquery/resize-tables.js"></script>
