@@ -28,12 +28,12 @@ Now, with their quirky motto “Live, Laugh, Liu Lian”, local durian wholesale
 However, problems with deliveries quickly sprung up, as customs delays led to late deliveries and order cancellations. This made them realise that they needed to set up a physical durian shop in Singapore.
 
 ![GoBusiness 99 Old Trees Shop](/images/blog/content/99oldtrees 1.jpg)
-<figcaption>The 99 Old Trees team posing for photos outside their shop, located at 1 Teo Hong road (Source: [99 Old Trees Facebook](https://www.facebook.com/99oldtrees/photos/?ref=page_internal){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>The 99 Old Trees team posing for photos outside their shop, located at 1 Teo Hong road (Source: <a href="https://www.facebook.com/99oldtrees/photos/?ref=page_internal" target="_blank" rel="noopener">99 Old Trees Facebook</a>)</figcaption>
 
 In 2019 when COVID-19 hit, many businesses struggled to make ends meet during the lockdown. The team was initially worried that with the economic recession and tourism grinding to a halt, people would be more hesitant to buy durians, given the high price of the fruit. But they were surprised to find that business actually improved during the pandemic.
 
 ![GoBusiness 99 Old Trees Durian Party Events](/images/blog/content/99oldtrees 2.png)
-<figcaption>99 Old Trees is known for their “durian party” service, where their employees crack open fresh durians on the spot during events (Source: [99 Old Trees Facebook](https://www.facebook.com/99oldtrees/photos/?ref=page_internal){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>99 Old Trees is known for their “durian party” service, where their employees crack open fresh durians on the spot during events (Source: <a href="https://www.facebook.com/99oldtrees/photos/?ref=page_internal" target="_blank" rel="noopener">99 Old Trees Facebook</a>)</figcaption>
 
 “But I guess our locals couldn’t travel abroad either, so they had the extra budget to spend on quality food and experiences domestically,” said Kelvin.
 
@@ -50,14 +50,14 @@ Now as the brand has become a household name, one of the team’s biggest ambiti
 As such, the team made it their first mission to dispel the image of the unapproachable durian seller, setting up an open, transparent system that made the process of purchasing durians a lot simpler. The team opens and weighs their durians in front of their customers, and their product and durian prices are displayed clearly in the store.
 
 ![GoBusiness 99 Old Trees Durian Secret Lab](/images/blog/content/99oldtrees 3.png)
-<figcaption>An Instagram post from the 99 old Trees account that plays on a popular gaming chair brand (Source: [99 Old Trees Instagram](https://www.instagram.com/p/CbzR7ADL0-j/?utm_source=ig_web_copy_link){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>An Instagram post from the 99 old Trees account that plays on a popular gaming chair brand (Source: <a href="https://www.instagram.com/p/CbzR7ADL0-j/?utm_source=ig_web_copy_link" target="_blank" rel="noopener">99 Old Trees Instagram</a>)</figcaption>
 
 The brand is also very active on Instagram and Facebook, as they strive to make social media their gateway to connecting with young durian lovers.
 
 From durian puns and jokes to social commentary, the 99 Old Trees’ brand of tongue-in-cheek marketing features captions that are clever and colloquial, exuding an approachability that is uniquely Singaporean. The team consistently dishes out interesting, trendy memes on their Instagram account, with many 99 Old Trees employees being the subject of these posts.
 
 ![GoBusiness 99 Old Trees Durian King Meme](/images/blog/content/99oldtrees 4.jpg)
-<figcaption>A durian king meme featuring a word play on the Musang King and Sultan King types of durians created by the 99 Old Trees team for their Instagram (Source: [99 Old Trees Instagram](https://www.instagram.com/p/CQsEDvrHUsl/?hl=en){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>A durian king meme featuring a word play on the Musang King and Sultan King types of durians created by the 99 Old Trees team for their Instagram (Source: <a href="https://www.instagram.com/p/CQsEDvrHUsl/?hl=en" target="_blank" rel="noopener">99 Old Trees Instagram</a>)</figcaption>
 
 Chuckling as he reminisced about their iconic posts, Kelvin noted that people who work in the durian industry tend to fit into a certain profile. After all, the controversial fruit has as many haters as lovers, and only true durian lovers would choose to visit or work at a durian store.
 
@@ -72,7 +72,7 @@ You make a menu. At least that’s what the 99 Old Trees team did when they enco
 Ultimately, durian is a seasonal fruit. Apart from a bumper crop from June to September, durians are only available during a couple of minor seasons in the year. This made it challenging for the 99 Old Trees team to hire permanent staff, and provide their employees with work throughout the year.
 
 ![GoBusiness 99 Old Trees Durian Employees Recruitment](/images/blog/content/99oldtrees 5.png)
-<figcaption>A 99 Old Trees Instagram post utilising the brand’s unique sense of humour to attract and recruit new employees (Source: [99 Old Trees Instagram](https://www.instagram.com/p/CORpxcqHPjt/?hl=en){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>A 99 Old Trees Instagram post utilising the brand’s unique sense of humour to attract and recruit new employees (Source: <a href="https://www.instagram.com/p/CORpxcqHPjt/?hl=en" target="_blank" rel="noopener">99 Old Trees Instagram</a>)</figcaption>
 
 “It is very difficult to hire people with experience with durians,” said Kelvin, who noted that manpower is a recurring problem even now. “Although we were paying high wages during the durian season, not many people were willing to take on the job, because we couldn’t guarantee them full-time employment.
 
@@ -88,14 +88,14 @@ The shophouse cafe also features an Instagrammable minimalist aesthetic, with br
 To create their dessert menu, 99 Old Trees collaborated with Chef Seah Yang Chiak, more affectionately known as “Chef Chiak”, who received culinary training in Paris, and is known for his eponymous patisserie. The team spent months experimenting with flavours and conducting taste tests, before settling on its signature line of products.
 
 ![GoBusiness 99 Old Trees Durian Mousse](/images/blog/content/99oldtrees 7.png)
-<figcaption>Stinky’s durian mousse features a lush serving of creamy mousse made from D24 durian puree (Source: [Stinky by 99 Old Trees Instagram](https://www.instagram.com/p/ChnueY5vjqa/?hl=en){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>Stinky’s durian mousse features a lush serving of creamy mousse made from D24 durian puree (Source: <a href="https://www.instagram.com/p/ChnueY5vjqa/?hl=en" target="_blank" rel="noopener">Stinky by 99 Old Trees Instagram</a>)</figcaption>
 
 Kelvin shared that his personal favourite item on the menu was the durian mousse, which was taste-tested by the team’s friends and families and voted the best recipe out of many experimental prototypes they had.
 
 The store’s most popular dish, however, is the Stinky Bomb, a choux puff topped with a craquelin crumble and piped with rich Mao Shan Wang durian cream, partially because of its affordable pricing.
 
 ![GoBusiness 99 Old Trees Durian Stinky Bomb](/images/blog/content/99oldtrees 8.png)
-<figcaption>Stinky’s best-selling dessert, the stinky bomb is available at the affordable price of $1.90 each, with a minimum purchase of two puffs (Source: [Stinky by 99 Old Trees Instagram](https://www.instagram.com/p/CY2nY_RvR1i/?hl=en){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>Stinky’s best-selling dessert, the stinky bomb is available at the affordable price of $1.90 each, with a minimum purchase of two puffs (Source: <a href="https://www.instagram.com/p/CY2nY_RvR1i/?hl=en" target="_blank" rel="noopener">Stinky by 99 Old Trees Instagram</a>)</figcaption>
 
 “We update our menus every now and then because we like to innovate and keep things fresh for our customers,” said Kelvin, who added that the team had designed durian flavoured dog biscuits for pet-owners to treat their pups with.
 
