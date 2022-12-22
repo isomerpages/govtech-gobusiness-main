@@ -11,13 +11,13 @@ description: 'Kelvin Tan shares his dream to reshape the image of a modern duria
 ![GoBusiness 99 Old Trees founders](/images/blog/content/99oldtrees Feature.png)
 <figcaption>Their love for durians inspired founders Kelvin Tan (centre), Avinash Mahendram (Nash) (left) and Jeffrey Ngadiman (Right) to start up local durian wholesale supplier and retailer 99 Old Trees. (Source: 99 Old Trees)</figcaption>
 
-Tucked away in the Pahang countryside is a durian farm called Fook Gor Durian farm. The mountainous area houses exactly 99 durian trees, which have consistently produced high-quality durians for over twenty-five years now.
+Tucked away in the Pahang countryside is a durian farm called Fook Gor Durian Farm. The mountainous area houses exactly 99 durian trees, which have consistently produced high-quality durians for over twenty-five years now.
 
-An avid fan of the fruit, Kelvin Tan, the co-founder of 99 Old Trees, regularly travelled to Pahang, Malaysia in search of high-quality durians. There, he befriended the owner of Fook Gor durian farm and was inspired to bring Pahang’s quality durians to Singapore.
+An avid fan of the fruit, Kelvin Tan, the co-founder of 99 Old Trees, regularly travelled to Pahang, Malaysia in search of high-quality durians. There, he befriended the owner of Fook Gor Durian Farm and was inspired to bring Pahang’s quality durians to Singapore.
 
 To pursue the venture, Kelvin engaged two of his friends, Jeffrey Ngadiman and Avinash Mahendram (Nash), and together, they pooled $60,000 of their savings together to purchase equipment and delivery vehicles, and fund their durian wholesale business.
 
-To pay homage to the roots of their durians, the trio of budding entrepreneurs decided to name their brand, “99 Old Trees”, after the 99 trees on the durian hill. Cutting out the middleman, they established a direct bridge between Fook Gor durian farm and the Singapore market, forming a local supply chain that allowed them to sell fresh durians on the market 12 hours after the fruit is harvested in Malaysia.
+To pay homage to the roots of their durians, the trio of budding entrepreneurs decided to name their brand, “99 Old Trees”, after the 99 trees on the durian hill. Cutting out the middleman, they established a direct bridge between Fook Gor Durian Farm and the Singapore market, forming a local supply chain that allowed them to sell fresh durians on the market 12 hours after the fruit is harvested in Malaysia.
 
 Now, with their quirky motto “Live, Laugh, Liu Lian”, local durian wholesaler and retailer 99 Old Trees is serving up South East Asia’s well-known king of fruits with a slice of humour.
 
@@ -28,7 +28,7 @@ Now, with their quirky motto “Live, Laugh, Liu Lian”, local durian wholesale
 However, problems with deliveries quickly sprung up, as customs delays led to late deliveries and order cancellations. This made them realise that they needed to set up a physical durian shop in Singapore.
 
 ![GoBusiness 99 Old Trees Shop](/images/blog/content/99oldtrees 1.jpg)
-<figcaption>The 99 Old Trees team posing for photos outside their shop, located at 1 Teo Hong road (Source: <a href="https://www.facebook.com/99oldtrees/photos/?ref=page_internal" target="_blank" rel="noopener">99 Old Trees Facebook</a>)</figcaption>
+<figcaption>The 99 Old Trees team posing for photos outside their shop, located at 1 Teo Hong Road (Source: <a href="https://www.facebook.com/99oldtrees/photos/?ref=page_internal" target="_blank" rel="noopener">99 Old Trees Facebook</a>)</figcaption>
 
 In 2019 when COVID-19 hit, many businesses struggled to make ends meet during the lockdown. The team was initially worried that with the economic recession and tourism grinding to a halt, people would be more hesitant to buy durians, given the high price of the fruit. But they were surprised to find that business actually improved during the pandemic.
 
@@ -37,7 +37,7 @@ In 2019 when COVID-19 hit, many businesses struggled to make ends meet during th
 
 “But I guess our locals couldn’t travel abroad either, so they had the extra budget to spend on quality food and experiences domestically,” said Kelvin.
 
-Unlike many other traditional durian sellers, the brand had already established a budding online presence prior to the pandemic. 99 old trees had its own website, where customers could order durians and arrange for pick-up and delivery. The online store also featured frozen durians and durian pulp packed separately for easy collection.
+Unlike many other traditional durian sellers, the brand had already established a budding online presence prior to the pandemic. 99 Old Trees had its own website, where customers could order durians and arrange for pick-up and delivery. The online store also featured frozen durians and durian pulp packed separately for easy collection.
 
 “Prior to the pandemic, about 35 per cent of our sales were through online channels,” noted Kelvin, “And when the pandemic hit, our customers were already familiar with our online service, so that really helped us to tide through the pandemic.”
 
@@ -95,7 +95,7 @@ Kelvin shared that his personal favourite item on the menu was the durian mousse
 The store’s most popular dish, however, is the Stinky Bomb, a choux puff topped with a craquelin crumble and piped with rich Mao Shan Wang durian cream, partially because of its affordable pricing.
 
 ![GoBusiness 99 Old Trees Durian Stinky Bomb](/images/blog/content/99oldtrees 8.png)
-<figcaption>Stinky’s best-selling dessert, the stinky bomb is available at the affordable price of $1.90 each, with a minimum purchase of two puffs (Source: <a href="https://www.instagram.com/p/CY2nY_RvR1i/?hl=en" target="_blank" rel="noopener">Stinky by 99 Old Trees Instagram</a>)</figcaption>
+<figcaption>Stinky’s best-selling dessert, the Stinky Bomb is available at the affordable price of $1.90 each, with a minimum purchase of two puffs (Source: <a href="https://www.instagram.com/p/CY2nY_RvR1i/?hl=en" target="_blank" rel="noopener">Stinky by 99 Old Trees Instagram</a>)</figcaption>
 
 “We update our menus every now and then because we like to innovate and keep things fresh for our customers,” said Kelvin, who added that the team had designed durian flavoured dog biscuits for pet-owners to treat their pups with.
 
