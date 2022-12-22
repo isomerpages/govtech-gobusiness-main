@@ -11,7 +11,7 @@ description: 'Kelvin Tan shares his dream to reshape the image of a modern duria
 ![GoBusiness 99 Old Trees founders](/images/blog/content/99oldtrees Feature.png)
 <figcaption>Their love for durians inspired founders Kelvin Tan (centre), Avinash Mahendram (Nash) (left) and Jeffrey Ngadiman (Right) to start up local durian wholesale supplier and retailer 99 Old Trees. (Source: 99 Old Trees)</figcaption>
 
-Tucked away in the Pahang countryside is a durian farm called Fook Gor Durian Farm. The mountainous area houses exactly 99 durian trees, which have consistently produced high-quality durians for over twenty-five years now.
+Tucked away in the Pahang countryside is a durian farm called Fook Gor Durian Farm. The mountainous area houses exactly 99 durian trees, which have consistently produced high-quality durians for over 25 years now.
 
 An avid fan of the fruit, Kelvin Tan, the co-founder of 99 Old Trees, regularly travelled to Pahang, Malaysia in search of high-quality durians. There, he befriended the owner of Fook Gor Durian Farm and was inspired to bring Pahang’s quality durians to Singapore.
 
@@ -50,7 +50,7 @@ Now as the brand has become a household name, one of the team’s biggest ambiti
 As such, the team made it their first mission to dispel the image of the unapproachable durian seller, setting up an open, transparent system that made the process of purchasing durians a lot simpler. The team opens and weighs their durians in front of their customers, and their product and durian prices are displayed clearly in the store.
 
 ![GoBusiness 99 Old Trees Durian Secret Lab](/images/blog/content/99oldtrees 3.png)
-<figcaption>An Instagram post from the 99 old Trees account that plays on a popular gaming chair brand (Source: <a href="https://www.instagram.com/p/CbzR7ADL0-j/?utm_source=ig_web_copy_link" target="_blank" rel="noopener">99 Old Trees Instagram</a>)</figcaption>
+<figcaption>An Instagram post from the 99 Old Trees account that plays on a popular gaming chair brand (Source: <a href="https://www.instagram.com/p/CbzR7ADL0-j/?utm_source=ig_web_copy_link" target="_blank" rel="noopener">99 Old Trees Instagram</a>)</figcaption>
 
 The brand is also very active on Instagram and Facebook, as they strive to make social media their gateway to connecting with young durian lovers.
 
