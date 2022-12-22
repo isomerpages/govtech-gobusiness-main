@@ -1,6 +1,6 @@
 ---
 title: 'AutoCount Accounting Software Version 2.0'
-permalink: /productivity-solutions-grant/solutionrepo/solution3217
+permalink: /productivity-solutions-grant/solutionrepo/solution3844
 ---
 
 ## AutoCount Accounting Software Version 2.0
@@ -23,38 +23,38 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting Software Version 2.0 - Basic 1 user</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
 <td style='padding: 10px;'>$4,599.00</td>
 <td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ingenious_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting Software Version 2.0 - Basic 3 users</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
 <td style='padding: 10px;'>$5,799.00</td>
 <td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ingenious_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting Software Version 2.0 - Premium 5 users</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
 <td style='padding: 10px;'>$10,999.00</td>
 <td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ingenious_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting Software Version 2.0 - Premium 8 users</td>
-<td style='padding: 10px;'>$12,799.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ingenious_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
+<td style='padding: 10px;'>$13,599.00</td>
+<td style='padding: 10px;'>$13,599.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting Software Version 2.0 - Premium 12 users</td>
-<td style='padding: 10px;'>$15,199.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ingenious_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
+<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

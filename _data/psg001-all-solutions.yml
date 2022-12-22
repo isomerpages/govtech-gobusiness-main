@@ -278,8 +278,8 @@
         Standalone solutions may be supported on top of any ERP solution category that does not contain similar features.  For example, a company who purchased an 'Accounting, CRM and Sales' solution can be supported if they apply for a standalone 'Inventory Management' solution. However, they will not be supported if they apply for a standalone CRM solution.<br>
     - title: Fleet Safety and Fleet Management System
       content: |
-        - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>
+        - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
     - title: Document Management and Mobile Access System
       content: |
         - <a href='/browse-all-solutions-Document-Management-and-Mobile-Access-System/Document-Management-and-Mobile-Access-System'>Document Management and Mobile Access System</a>

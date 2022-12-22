@@ -139,6 +139,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3754' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
 <td>EPOS Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3807' target='_blank'>iMakan</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3822' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
+<td>Aptsys Technology Solutions Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
