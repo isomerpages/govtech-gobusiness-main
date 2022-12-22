@@ -26,14 +26,14 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (1 Doctor)</td>
 <td style='padding: 10px;'>$2,780.00</td>
 <td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (2 Doctors)</td>
 <td style='padding: 10px;'>$3,680.00</td>
 <td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

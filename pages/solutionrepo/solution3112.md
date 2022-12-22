@@ -26,35 +26,35 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</td>
 <td style='padding: 10px;'>$4,560.00</td>
 <td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - B (Up to 50 pax)</td>
 <td style='padding: 10px;'>$10,800.00</td>
 <td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</td>
 <td style='padding: 10px;'>$19,200.00</td>
 <td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
 <td style='padding: 10px;'>$25,800.00</td>
 <td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</td>
 <td style='padding: 10px;'>$31,200.00</td>
 <td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -28,28 +28,28 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce - Essential (Leasing Model)</td>
 <td style='padding: 10px;'>$3,770.00</td>
 <td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OneThird_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce - E-occurrence (Leasing Model)</td>
 <td style='padding: 10px;'>$4,970.00</td>
 <td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OneThird_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce -  Essential (One time)</td>
 <td style='padding: 10px;'>$21,050.00</td>
 <td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OneThird_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce - E-occurrence (One time)</td>
 <td style='padding: 10px;'>$31,000.00</td>
 <td style='padding: 10px;'>$28,050.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OneThird_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

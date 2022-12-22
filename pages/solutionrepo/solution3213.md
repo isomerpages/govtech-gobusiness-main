@@ -26,14 +26,14 @@ CalendarOne CRM is a cloud based solution that integrates and automates the enti
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution Version 2 - Standard Package (Include Peppol E- Invoice) - 25 Users License</td>
 <td style='padding: 10px;'>$22,300.00</td>
 <td style='padding: 10px;'>$19,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Calendarone_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Calendarone_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution Version 2 - Standard Package (Include Peppol E- Invoice) - 50 Users License</td>
 <td style='padding: 10px;'>$25,400.00</td>
 <td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Calendarone_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Calendarone_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

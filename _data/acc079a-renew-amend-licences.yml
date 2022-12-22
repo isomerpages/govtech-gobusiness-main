@@ -90,7 +90,7 @@
         |Application for Changes (HDB Commercial Properties)|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
         |Application for Resale/Transfer of HDB Commercial Properties|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
         |Change of Company's Name for HDB Commercial Tenants|[HDB](https://ilinked.hdb.gov.sg/retailerlink/change-company-name){:target="_blank"}{:rel="noopener"}|
-        |Home Office Scheme (HDB)|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
+        |Home Office Scheme (HDB)|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
     - title: Hotels Licensing Board (HLB)
       content: |
         | **Licence Name** | **Log In To** |
@@ -265,7 +265,6 @@
       content: |
         | **Licence Name** | **Log In To** |
         |Licence for Residential Care Facilities|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
-        |SDNTrust Accreditation|[MSF](https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx){:target="_blank"}{:rel="noopener"}|
     - title: Majlis Ugama Islam Singapura (MUIS)
       content: |
         | **Licence Name** | **Log In To** |
@@ -391,6 +390,7 @@
     - title: Singapore Police Force (SPF)
       content: |
         | **Licence Name** | **Log In To** |
+        |Amendment to Existing Employee Record (Update Details of Registered Employee)|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
         |Apply for Public Entertainment Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
         |Approval for a Blasting Operation|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
         |Approval to conduct a Fireworks Display|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
@@ -421,8 +421,10 @@
         |Road Closure Permit for Events|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
         |Secondhand Goods and Dealers Licence|[SPF](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence){:target="_blank"}{:rel="noopener"}|
         |Security Agency Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
+        |Security Clearance for Special Worker (Add New Employee)|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
         |Security Officer's Licence (SO)|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
         |Security Service Provider Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
+        |Termination of Security Clearance for Special Worker (Remove Existing Employee)|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
     - title: SkillsFuture Singapore (SSG)
       content: |
         | **Licence Name** | **Log In To** |

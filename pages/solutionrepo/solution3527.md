@@ -26,28 +26,28 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 1 (Software Only)</td>
 <td style='padding: 10px;'>$600.00</td>
 <td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 2 (Software Only)</td>
 <td style='padding: 10px;'>$780.00</td>
 <td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 3 (Software + Training)</td>
 <td style='padding: 10px;'>$1,400.00</td>
 <td style='padding: 10px;'>$960.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 4 (Software + Setup + Training)</td>
 <td style='padding: 10px;'>$3,400.00</td>
 <td style='padding: 10px;'>$2,725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASFA_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

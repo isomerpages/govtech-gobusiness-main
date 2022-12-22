@@ -26,7 +26,7 @@ Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customise
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lemonade eCommerce Solution - Prime</td>
 <td style='padding: 10px;'>$5,440.00</td>
 <td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Lemonade_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

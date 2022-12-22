@@ -26,21 +26,21 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</td>
 <td style='padding: 10px;'>$130,000.00</td>
 <td style='padding: 10px;'>$85,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </td>
 <td style='padding: 10px;'>$180,000.00</td>
 <td style='padding: 10px;'>$105,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </td>
 <td style='padding: 10px;'>$220,000.00</td>
 <td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

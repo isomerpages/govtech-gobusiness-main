@@ -26,7 +26,7 @@ The Online Ordering & Payment System allows F&B enterprises to enable digital on
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Online Food Ordering & Payment System - Standard (Online / QR Ordering - Dine In, Takeaway, Delivery)</td>
 <td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/firstcom_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/firstcom_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-pr
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package A - Subscription 6 Essential + 1 Team user, 1 Marketplace Connector</td>
 <td style='padding: 10px;'>$39,347.20</td>
 <td style='padding: 10px;'>$33,847.20</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package B - Subscription 6 Essential + 1 Team user</td>
 <td style='padding: 10px;'>$33,647.20</td>
 <td style='padding: 10px;'>$30,847.20</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package C - Subscription 8 Essential + 2 Team user, 1 Marketplace Connector</td>
 <td style='padding: 10px;'>$41,922.40</td>
 <td style='padding: 10px;'>$36,422.40</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package D - Perpetual 8 Essential + 2 Team user, 1 Marketplace Connector</td>
 <td style='padding: 10px;'>$48,952.00</td>
 <td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package E - Perpetual 9 Essential + 2 Team user</td>
 <td style='padding: 10px;'>$45,282.00</td>
 <td style='padding: 10px;'>$42,482.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

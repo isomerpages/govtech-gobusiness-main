@@ -27,28 +27,28 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
 <td style='padding: 10px;'>$20,260.00</td>
 <td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack</td>
 <td style='padding: 10px;'>$25,800.00</td>
 <td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack</td>
 <td style='padding: 10px;'>$35,900.00</td>
 <td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise </td>
 <td style='padding: 10px;'>$50,000.00</td>
 <td style='padding: 10px;'>$43,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

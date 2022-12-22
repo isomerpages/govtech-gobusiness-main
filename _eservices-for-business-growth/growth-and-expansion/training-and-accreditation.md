@@ -30,11 +30,6 @@ Depending on your business sector and activities, there are various accreditatio
 - [Accreditation Scheme for Bunker Suppliers](https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines){:target="_blank"}{:rel="noopener"}
   <br>Apply to be accredited as a reliable bunker supplier, based on 3 main criteria.
 
-**Ministry of Social and Family Development (MSF)**
-
-- [Apply for SDNTrust Accreditation](https://www.sdn.sg/fordatingindustry/Pages/ApplicationforAccreditation.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Apply to be accredited as a dating agency or practitioner with high standards of professionalism and service delivery.
-
 **Singapore Accreditation Council (SAC)**
 
 - [Apply for Accreditation Services](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}{:rel="noopener"}

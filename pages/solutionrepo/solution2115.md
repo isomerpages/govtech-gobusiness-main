@@ -26,14 +26,14 @@ Our Ecommerce solutions are developed using WordPress WooCommerce technology, al
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eCommerce Masterplan Version 1.0 - Basic</td>
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eCommerce Masterplan Version 1.0 - Enterprise</td>
 <td style='padding: 10px;'>$8,800.00</td>
 <td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Aks_Tech_Annex_3_CR_wef_2_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

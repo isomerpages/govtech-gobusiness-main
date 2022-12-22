@@ -27,35 +27,35 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Basic Package</td>
 <td style='padding: 10px;'>$1,525.00</td>
 <td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Premier Package</td>
 <td style='padding: 10px;'>$2,325.00</td>
 <td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Start-up Package</td>
 <td style='padding: 10px;'>$4,725.00</td>
 <td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Booming Package</td>
 <td style='padding: 10px;'>$5,525.00</td>
 <td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Ultimate Package</td>
 <td style='padding: 10px;'>$7,925.00</td>
 <td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

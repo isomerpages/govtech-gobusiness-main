@@ -26,7 +26,7 @@ LittleLives is a holistic school management system built to simplify complex sch
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
 <td style='padding: 10px;'>$1,340.00</td>
 <td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

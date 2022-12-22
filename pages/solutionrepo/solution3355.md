@@ -26,14 +26,14 @@ TLBB's solutions are designed to help SMEs enhance their client's social presenc
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 -  SMM Facebook + SMM Instagram [3 Months]</td>
 <td style='padding: 10px;'>$9,600.00</td>
 <td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook + SMM Instagram + Live Shoot [3 Months]</td>
 <td style='padding: 10px;'>$11,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

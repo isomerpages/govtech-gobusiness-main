@@ -32,16 +32,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Graphisoft Asia Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2093' target='_blank'>CSG - Autodesk BIM Collaborate Pro</a><br></td>
-<td>CSG Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2358' target='_blank'>APEX</a><br></td>
 <td>SIACAD Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3083' target='_blank'>MTWO Version 5.1</a><br></td>
 <td>RIB International Holding Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3797' target='_blank'>BIM Collaborate Pro</a><br></td>
+<td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 </table>
 

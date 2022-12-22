@@ -26,14 +26,14 @@ Synergix Marine & Offshore Solution provides a unique level of integration acros
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix - 3-in-1 ERP Solution (5 Users)</td>
 <td style='padding: 10px;'>$44,860.00</td>
 <td style='padding: 10px;'>$36,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix - 3-in-1 ERP Solution (10 Users)</td>
 <td style='padding: 10px;'>$65,860.00</td>
 <td style='padding: 10px;'>$36,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

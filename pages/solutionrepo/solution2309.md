@@ -26,28 +26,28 @@ Assemble Systems provides a SaaS platform that consumes BIM models, drawings, an
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - ASSEMBLE-PROJECT - 1 YEAR </td>
 <td style='padding: 10px;'>$13,500.00</td>
 <td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - ASSEMBLE-PROJECT - 3 YEARS</td>
 <td style='padding: 10px;'>$34,000.00</td>
 <td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - ASSEMBLE-OFFICE -1 YEAR</td>
 <td style='padding: 10px;'>$32,800.00</td>
 <td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INNOCOM - ASSEMBLE-OFFICE -3 YEARS</td>
 <td style='padding: 10px;'>$71,800.00</td>
 <td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -28,7 +28,7 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST E-Commerce - Premium Package</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

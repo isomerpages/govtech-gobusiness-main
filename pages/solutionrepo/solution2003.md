@@ -27,28 +27,28 @@ On the other hand, users will also be able to see the money that is coming in an
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package A - Software Subscription</td>
 <td style='padding: 10px;'>$700.00</td>
 <td style='padding: 10px;'>$700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200621_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package B - Standard</td>
 <td style='padding: 10px;'>$2,400.00</td>
 <td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200621_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package C - Standard with Training</td>
 <td style='padding: 10px;'>$3,200.00</td>
 <td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200621_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vodich- Xero Cloud Accounting - Package D - Premium</td>
 <td style='padding: 10px;'>$4,720.00</td>
 <td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20200621_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -128,12 +128,40 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3689' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3690' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3713' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3714' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3770' target='_blank'>DM C.O Enterprise Digital Marketing Packages</a><br></td>
+<td>C.O Enterprise Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3782' target='_blank'>DM Duo Studio Digital Marketing Packages</a><br></td>
+<td>Duo Studio Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3784' target='_blank'>DM Identity Counsel Digital Marketing Packages</a><br></td>
+<td>IDENTITY COUNSEL PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3802' target='_blank'>DM GSK Group Digital Marketing Packages</a><br></td>
+<td>GSK Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3812' target='_blank'>DM Supermom Digital Marketing Packages</a><br></td>
+<td>welovesupermom pte ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3816' target='_blank'>DM 33 Degrees Digital Marketing Packages</a><br></td>
+<td>33 Degrees Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3817' target='_blank'>DM Inbox Digital Marketing Packages</a><br></td>
+<td>Inbox Consults Pte Ltd</td>
 </tr>
 </table>
 

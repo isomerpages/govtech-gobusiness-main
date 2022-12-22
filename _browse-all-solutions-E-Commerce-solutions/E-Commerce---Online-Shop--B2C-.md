@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1694' target='_blank'>iFoundries E-commerce Jump Start Package Version 1</a><br></td>
-<td>iFoundries (Asia Pacific) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1839' target='_blank'>Ecommerce Online Shop + SEO and Digital Marketing Setup</a><br></td>
 <td>VUE TECH PTE LTD</td>
 </tr>
@@ -58,10 +54,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2287' target='_blank'>Ecommflow Version 2.0</a><br></td>
 <td>Calvin Seng Co Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2293' target='_blank'>KADDRA Mobile App Commerce Solution Version 1.9</a><br></td>
-<td>KADDRA PTE LTD </td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2322' target='_blank'>Athena E-store Solution</a><br></td>
@@ -160,11 +152,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3692' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3693' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
 <td>Fooyo Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3699' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3700' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 </table>

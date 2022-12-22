@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>IT Infinity Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution15' target='_blank'>ABSS</a><br></td>
-<td>Asian Business Software Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1261' target='_blank'>Globe3 ERP V5.6</a><br></td>
 <td>TNO Systems Pte Ltd</td>
 </tr>
@@ -62,10 +58,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2708' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
 <td>Creative E-World Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2831' target='_blank'>ABSS Premier Version 23</a><br></td>
-<td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2892' target='_blank'>ABSS Accounting Software Version 23.7</a><br></td>
@@ -108,8 +100,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Globalsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3728' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3729' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
 <td>Reach Process Outsourcing Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3772' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3834' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td>Andre Corporate Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3839' target='_blank'>ABSS</a><br></td>
+<td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
 </table>
 

@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1571' target='_blank'>Sophos EndPoint Protection</a><br></td>
-<td>Rah Tech Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1987' target='_blank'>Sophos Endpoint</a><br></td>
 <td>Advancedata Network Pte Ltd</td>
 </tr>

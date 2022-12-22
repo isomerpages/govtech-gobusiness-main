@@ -26,7 +26,7 @@ Development of an online shopping website with comprehensive functionalities to 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Ecommerce Web Development - Firstcom Ecommerce</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/firstcom_desensitised_annex3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/firstcom_desensitised_annex3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

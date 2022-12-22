@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
+      - Amendment-to-Existing-Employee-Record--Update-Details-of-Registered-Employee-.md
       - Apply-for-Public-Entertainment-Licence.md
       - Approval-for-a-Blasting-Operation-.md
       - Approval-to-conduct-a-Fireworks-Display-.md
@@ -33,5 +34,7 @@ collections:
       - Road-Closure-Permit-for-Events.md
       - Secondhand-Goods-and-Dealers-Licence.md
       - Security-Agency-Licence.md
+      - Security-Clearance-for-Special-Worker--Add-New-Employee-.md
       - Security-Officer's-Licence--SO-.md
       - Security-Service-Provider-Licence.md
+      - Termination-of-Security-Clearance-for-Special-Worker--Remove-Existing-Employee-.md
