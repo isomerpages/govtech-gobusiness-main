@@ -358,7 +358,6 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRF-K1281SB 
 - Panasonic - SRF-K1283B
 - Panasonic - SRF-K1283SB
-- Panasonic - SRF-K1563-3B
 - Panasonic - SRF-K1563-3B 
 - Panasonic - SRF-K1563B
 - Panasonic - SRF-K1583B
