@@ -15,9 +15,12 @@ Starting from 22 December 2022, applications for the Progressive Wage (PW) Mark 
 The [PW Mark](/accreditation/pwmark/?src=news_and_update) is an accreditation scheme that recognises eligible firms that pay progressive wages to lower-wage workers. It enables consumers and corporate buyers to identify and support such firms, and helps firms attract and retain workers as a progressive employer. From 1 March 2023, the PW Mark is also required for eligible suppliers who are awarded government contracts.
 
 To be eligible for the PW Mark, applicants must:
-●	Hire at least 1 local worker covered by the prevailing Sectoral PWs or Occupational PWs that have taken effect.
-●	Pay the relevant workers according to PW requirements.
-●	Pay all other local workers at least the Local Qualifying Salary (LQS).
+
+- Hire at least 1 local worker covered by the prevailing Sectoral PWs or Occupational PWs that have taken effect.
+
+- Pay the relevant workers according to PW requirements.
+
+- Pay all other local workers at least the Local Qualifying Salary (LQS).
 
 **PW Mark Plus**
 
