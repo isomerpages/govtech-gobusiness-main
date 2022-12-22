@@ -52,7 +52,7 @@ Getting into the F&B sector in Singapore may be easy, but sustaining a business 
 
 This can be attributed to the ease of entry into this sector and limited F&B space, which creates a highly competitive business landscape, on top of a limited domestic market, and having to balance business costs such as manpower and rental. 
 
-![Business cost structure for F&B businesses in 2020](/images/blog/content/FnB 6.jpg)
+![Business cost structure for F&B businesses in 2020](/images/blog/content/FnB 6.png)
 <figcaption> In 2020, remuneration and purchase of goods & materials form more than half of the business cost structure for the F&B sector </figcaption>
 
 ![Top three business costs in operating expenditure for F&B businesses](/images/blog/content/FnB 7.png)
@@ -70,7 +70,7 @@ Wondering what’s in store for the future of the F&B sector in Singapore?
 
 Within this field, most businesses are optimistic about industry performance in the next six months, with 64 per cent foreseeing an increase in revenue. To cater to the projected rise in demand, 22 per cent expecting to hire more staff. 
 
-![Sentiments from F&B businesses on business performance & revenue](/images/blog/content/FnB 8.jpg)
+![Sentiments from F&B businesses on business performance & revenue](/images/blog/content/FnB 8.png)
 <figcaption> A breakdown of the responses from firms within the F&B sector on their industry outlook. Firms in the F&B sector foresee an upward trend for performance and revenue in the next few months </figcaption>
 
 To make this projected growth a reality, it’s imperative that companies internationalise and make consistent efforts to raise productivity. 
