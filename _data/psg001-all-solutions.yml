@@ -25,6 +25,7 @@
     - title: Building & Construction
       content: |
         
+        {% include notice.html notice=site.data.dbfaq_notice%}
         **As BCA’s Productivity Solutions Grant (PSG) will end on 31 January 2023, please submit all application and supporting documents on or before 31 January 2023 for your application to be considered.**
 
         **IT Solution**
