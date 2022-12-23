@@ -1,7 +1,7 @@
 ---
 layout: gobusiness-blog-post
 title: Three ways to navigate the GST hike
-permalink: /gobusiness-blog/gst-hike
+permalink: /gobusiness-blog/navigating-GST-hike
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
 crumbs: business-tips-and-tricks
