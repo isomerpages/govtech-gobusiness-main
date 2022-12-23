@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>AgileREPORTER Version 19.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1855' target='_blank'>AgileREPORTER Version 19.3</a><br></td>
 <td>VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3191' target='_blank'>Digital Fund Manager Compliance powered by Palmyra</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3190' target='_blank'>Digital Fund Manager Compliance powered by Palmyra</a><br></td>
 <td>Vermeg International Singapore Pte. Limited</td>
 </tr>
 </table>

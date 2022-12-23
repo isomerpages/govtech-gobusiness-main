@@ -1,15 +1,15 @@
 ---
-title: 'LED grow lights'
+title: 'Rainwater harvesting system and storage tank'
 permalink: /productivity-solutions-grant/solutionrepo/solution2190
 ---
 
-## LED grow lights
+## Rainwater harvesting system and storage tank
 
 ## Overview
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

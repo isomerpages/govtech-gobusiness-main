@@ -1,16 +1,15 @@
 ---
-title: 'MIBC Ecommerce'
+title: 'Network Box Next Generation Managed Security Version 5.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution2559
 ---
 
-## MIBC Ecommerce
+## Network Box Next Generation Managed Security Version 5.5
 
 ## Overview
 
 **Description**
 
-MIBC E-commerce is a powerful cross border platform that integrates with multiple channels like Lazada and Shoppe in Southeast Asia. MIBC helps transform e-store with various integration and simplify complex operations into a seamless experience platform that enables e-store to execute action plans entirely within one repository.
-Business owners save time to explore countless subscription-based Saas tools by learning of just 1 solution.
+Network Box UTM is a Managed Security Service Provider, protecting its clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's Unified Threat Management, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +23,38 @@ Business owners save time to explore countless subscription-based Saas tools by 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MIBC Ecommerce - MIBC E-Commerce (Optimised E-commerce solution)</td>
-<td style='padding: 10px;'>$10,996.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MIBC_20210224_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload</td>
+<td style='padding: 10px;'>$6,441.00</td>
+<td style='padding: 10px;'>$6,441.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package II - Medium Workload</td>
+<td style='padding: 10px;'>$7,606.00</td>
+<td style='padding: 10px;'>$7,606.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package III - Higher Workload</td>
+<td style='padding: 10px;'>$9,250.00</td>
+<td style='padding: 10px;'>$9,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package IV - S-80i</td>
+<td style='padding: 10px;'>$11,794.00</td>
+<td style='padding: 10px;'>$11,794.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +64,7 @@ Business owners save time to explore countless subscription-based Saas tools by 
 
 ## Vendor Information
 
- Company Name: MIBC PTE LTD<br>Web URL: https://mibc.sg/web-development/ <br><br>Contact Hotline: 63535152 <br><br>Contact Email: support@mibc.sg <br><br>
+ Company Name: Network Box (Sin) Pte Ltd<br>Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

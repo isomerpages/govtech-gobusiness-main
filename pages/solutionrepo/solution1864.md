@@ -1,15 +1,15 @@
 ---
-title: 'Doctor Anywhere Platform'
+title: 'MyDoc Telemedicine Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1864
 ---
 
-## Doctor Anywhere Platform
+## MyDoc Telemedicine Solution
 
 ## Overview
 
 **Description**
 
-Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
+MyDoc's Telemedicine Solution for providers is a bundled package that providers healthcare providers a ready to implement solution to care for patients virtually. The solution includes patient account management and care coordinator account for medication fulfilment. It provides an end-to-end solution for patients to access a doctor via telemedicine consultation care including triage bot, telemedicine consult, EMR / case note recording, eMC, prescription fulfilment, and referrals. 
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). Th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Doctor Anywhere Platform</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 1 (1 Doctor)</td>
+<td style='padding: 10px;'>$1,510.00</td>
+<td style='padding: 10px;'>$1,510.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 2 (2 Doctors)</td>
+<td style='padding: 10px;'>$2,570.00</td>
+<td style='padding: 10px;'>$2,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MyDoc Telemedicine Solution - Package 3 (3 Doctors)</td>
+<td style='padding: 10px;'>$3,630.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_MyDoc_Annex_3_PSG_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). Th
 
 ## Vendor Information
 
- Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.com<br>Contact Hotline: 9278 6055<br>Contact Email: fanny@doctoranywhere.com
+ Company Name: MyDoc Private Limited<br>Web URL: www.my-doc.com<br>Contact Hotline: 8309 2948<br>Contact Email: Zoe.bergin@my-doc.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

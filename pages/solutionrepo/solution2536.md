@@ -1,31 +1,60 @@
 ---
-title: 'Ozonised Air + Surface Sterilization System'
+title: 'DM OOm Digital Performance Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2536
 ---
 
-## Ozonised Air + Surface Sterilization System
+## DM OOm Digital Performance Marketing Package
 
 ## Overview
 
 **Description**
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation. The equipment can be in portable form, permanently installed units or distributed systems.
-
-Cost of equipment capped at $10,000 per unit 
-
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>Equipment must meet the following:<br><br>Generate active oxygen at an output between 20mg - 1g/hr<br><br>Emit negative ion at more than 2 million/cm3<br><br>Area coverage at least 36.5 m2<br><br>Effective sterilisation & reduce bacteria count by 90%<br><br></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/SEM Advanced Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -33,6 +62,10 @@ Cost of equipment capped at $10,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: OOM PTE LTD<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
