@@ -22,7 +22,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 
 ### Overview of application process
 
-<table style="border-style:hidden">
+<table style="border:0px">
 <tr>
 <td style="width:20%">
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
@@ -117,4 +117,4 @@ Once you have accepted your Letter of Offer, you will be notified on your claim 
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-<script src="/jquery/resize-tables.js"></script>
+
