@@ -1,15 +1,15 @@
 ---
-title: 'iLOGON (iWMS)'
+title: 'Weeloy Reservation System & Table Management Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution3170
 ---
 
-## iLOGON (iWMS)
+## Weeloy Reservation System & Table Management Suite
 
 ## Overview
 
 **Description**
 
-KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
+Weeloy Reservation System and Table Management Suite is an integrated solution addressing operational and marketing needs of Foodservice businesses interested in harnessing digital transformation to increase productivity, remarketing and top line revenue.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iWMS) - SaaS</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keyfields_Desensitised_Annex_3_21July2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations Package</td>
+<td style='padding: 10px;'>$5,130.00</td>
+<td style='padding: 10px;'>$5,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations & Online Payment Package</td>
+<td style='padding: 10px;'>$6,240.00</td>
+<td style='padding: 10px;'>$6,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations & POS Package</td>
+<td style='padding: 10px;'>$8,340.00</td>
+<td style='padding: 10px;'>$7,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Full Package</td>
+<td style='padding: 10px;'>$9,450.00</td>
+<td style='padding: 10px;'>$8,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 
 ## Vendor Information
 
- Company name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br>Contact Hotline: 68427886 <br>Contact Email: info@keyfields.com 
+ Company name:Weeloy Pte Ltd<br>Web URL: www.weeloy.io <br>Contact Hotline: +6531389028 <br>Contact Email: hotline@weeloy.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

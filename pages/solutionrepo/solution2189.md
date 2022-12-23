@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'LED grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution2189
 ---
 
-## HVAC system
+## LED grow lights
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

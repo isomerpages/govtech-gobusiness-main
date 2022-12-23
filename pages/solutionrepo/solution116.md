@@ -17,7 +17,6 @@ Software: Creates measurement program for probes on standard geometries and free
 Implementation: Equipment configuration, training
 
 
-Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -30,7 +29,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br><br></td>
 </tr>
 </table>
 

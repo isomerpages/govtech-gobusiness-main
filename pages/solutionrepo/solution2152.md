@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
+title: 'Culture Tank System with Monitoring and Control System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
-## Crate/ Tray washing machine
+## Culture Tank System with Monitoring and Control System
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+Cultivation system with monitoring and control system
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
