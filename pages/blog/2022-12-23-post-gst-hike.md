@@ -9,7 +9,7 @@ description: 'GST rates in Singapore are set to increase from 7 per cent to 9 pe
 ---
 
 ![Navigating the upcoming GST hike](/images/blog/content/GSTHike Feature.jpg)
-<figcaption>With the GST rate hike on its own, these three quick and easy tips can help you alleviate potential cost increases to stay competitive. (Source: Canva)</figcaption>
+<figcaption>With the GST rate hike on its own, these three quick and easy tips can help you alleviate potential cost increases to stay competitive (Source: Canva)</figcaption>
 
 Come 1 January 2023, Goods and Services Tax (GST) will increase from the current 7 per cent to 8 per cent, with another increase to 9 per cent in the subsequent year. This will inevitably spell greater cost pressures for business, especially small- and medium-sized enterprises (SMEs) who may already be struggling with the ongoing turmoil in the supply chain. 
 
@@ -26,7 +26,7 @@ While this will mean lower costs for businesses themselves, it could reflect in 
 ### 2. Automating tax processes
 
 ![Automating Tax Processes](/images/blog/content/GSTHike 1.jpg)
-<figcaption>To avoid potential non-compliance penalties, businesses can consider investing in automation solutions to streamline the taxation process. (Source: Canva)</figcaption>
+<figcaption>To avoid potential non-compliance penalties, businesses can consider investing in automation solutions to streamline the taxation process (Source: Canva)</figcaption>
 
 If a business is GST-registered, the next step will then be to ensure that proper tax procedures are in place to avoid non-compliance, which can be costly. 
 
@@ -37,7 +37,7 @@ Businesses can therefore consider automating their finances to minimise such err
 ### 3. GST relief schemes
 
 ![Warehouse for imported goods](/images/blog/content/GSTHike 2.jpg)
-<figcaption>GST suspension schemes like the Major Exporter Scheme or Zero-GST Warehouse Scheme can help businesses alleviate cash flow concerns that may arise as a result of the GST rate hike. (Source: Canva)</figcaption>
+<figcaption>GST suspension schemes like the Major Exporter Scheme or Zero-GST Warehouse Scheme can help businesses alleviate cash flow concerns that may arise as a result of the GST rate hike (Source: Canva)</figcaption>
 
 Businesses can also look into GST suspension schemes to help alleviate the increased costs brought about by the rate hike. 
 
