@@ -9,9 +9,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution424
 
 **Description**
 
-Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
 
-Cost of equipment capped at $37,500 per unit
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
+
+Cost of equipment capped at $37,500 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -24,7 +28,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity: 5 trays (GN 1/1)<br><br></td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity of 5GN<br><br><br></td>
 </tr>
 </table>
 
