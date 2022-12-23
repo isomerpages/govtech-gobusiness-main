@@ -21,10 +21,14 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 ---
 
 ### Overview of application process
-
-<table style="border:0px">
+<style>
+.bgp_instructions_table th {
+  border: 0px;
+}
+</style>
+<table class="bgp_instructions_table">
 <tr>
-<td style="width:20%">
+<td  style="width:20%;">
 <img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
