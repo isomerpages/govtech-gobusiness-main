@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1911' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1910' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection</a><br></td>
 <td>Arcstone Pte ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1927' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1926' target='_blank'>Auk Edge IoT Device and Auk Industrial IoT Analytics Platform</a><br></td>
 <td>AUK INDUSTRIES PTE. LTD.</td>
 </tr>
 </table>
