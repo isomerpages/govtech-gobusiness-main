@@ -45,7 +45,7 @@ For example, businesses that import and export goods in substantial volumes can 
 
 Another scheme companies can look at is the [Zero-GST Warehouse Scheme (ZGS)](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme/){:target="_blank"}{:rel="noopener"}, which allows approved companies to store imported non-dutiable goods for an indefinite period of time in licensed premises designated by the Singapore Customs. While the goods are in storage, GST payment is suspended. Businesses will only need to pay the GST when the goods are removed from the warehouse for local use or consumption, and need not pay if they are removed for export, among other conditions. 
 
-Like it or not, the GST rate hike is on its way. But it doesn’t have to spell immediate doom and gloom for businesses. Government support schemes like GST vouchers will continue to alleviate the pressure on lower-income households in Singapore, while some of the above tips may prove useful in helping businesses stay competitive!
+The GST rate hike is on its way, but it doesn’t have to spell immediate doom and gloom for businesses. Government support schemes like GST vouchers will continue to alleviate the pressure on lower-income households in Singapore, while some of the above tips may prove useful in helping businesses stay competitive!
 
-<em>This article is accurate as at 23 Dec 2022</em>
+<em>This article is accurate as at 28 Dec 2022</em>
 
