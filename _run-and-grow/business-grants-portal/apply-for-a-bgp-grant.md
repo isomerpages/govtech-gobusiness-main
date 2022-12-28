@@ -27,7 +27,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
   border: 0px;
 }
 </style>
-<table>
+<table class="bgp_instructions_table">
 <tr>
 <td  style="width:20%;">
 <img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
