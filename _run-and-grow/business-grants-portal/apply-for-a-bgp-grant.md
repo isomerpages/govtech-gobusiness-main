@@ -22,14 +22,15 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 
 ### Overview of application process
 <style>
-.bgp_instructions_table th {
+.horizontal-scroll .bgp_instructions_table th,
+.horizontal-scroll .bgp_instructions_table td {
   border: 0px;
 }
 </style>
-<table class="bgp_instructions_table">
+<table>
 <tr>
 <td  style="width:20%;">
-<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 1: Log into BGP</strong><br><br>Log into BGP via your Singpass, and select the Corppass account you are applying for.<br><br>{% include button.html text="Log In to Business Grants Portal" src="https://www.businessgrants.gov.sg/cp/bgp/login?redirectUri=https://www.businessgrants.gov.sg/corppass/ssologin&state=1" type="primary" %}
@@ -37,7 +38,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 2: Fill in Company Profile</strong><br><br>Your ACRA profile will be populated automatically. Please fill in the remaining company details required.
@@ -45,7 +46,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 3: Click on ‘Get New Grant’</strong><br><br>You will be asked three quick questions about your project, then shown the application form.
@@ -53,7 +54,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 4: Complete and submit application form</strong><br><br>Fill in your project details in this step. Once submitted, your application will be sent to the relevant agency for processing. The agency’s contact details will be shown on the “Grant Actions” page.
@@ -61,7 +62,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 5: Keep track of your application</strong><br><br>Monitor your application on the 'My Grants' page. An email will be sent to you if the agency requires more information.
@@ -69,7 +70,7 @@ If you do not have one, approach your Corppass Admin to assign an appropriate BG
 </tr>
 <tr>
 <td style="width:20%">
-<img style="margin:0px 0 0 29px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+<img style="margin:0px 0 0 0px" width=104 src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
 </td>
 <td style="width:auto; valign:middle">
 <strong>Step 6: Accept your Letter of Offer</strong><br><br>You will be notified of your application results via email. Log into BGP to accept your Letter of Offer.
