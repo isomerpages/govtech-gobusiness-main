@@ -60,10 +60,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>YMC ACCOUNTING PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2252' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>Harvest Accounting Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2257' target='_blank'>QuickBooks Online</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
@@ -144,10 +140,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Advanced Micro Control Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3077' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
-<td>FidCorp Services Private Limited</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3117' target='_blank'>Moneyworks Version 9</a><br></td>
 <td>Ostendo Pte Ltd</td>
 </tr>
@@ -210,10 +202,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3471' target='_blank'>ABA - Xero Accounting Software</a><br></td>
 <td>Abundant Accounting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3482' target='_blank'>Xero</a><br></td>
-<td>RDC CORPORATE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3506' target='_blank'>DS: Xero</a><br></td>
@@ -286,6 +274,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3843' target='_blank'>AutoCount Accounting Software Version 2.0</a><br></td>
 <td>Ingenious Business Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3857' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>Harvest Accounting Pte. Ltd.</td>
 </tr>
 </table>
 

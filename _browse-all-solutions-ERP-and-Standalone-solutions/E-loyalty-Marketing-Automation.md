@@ -31,6 +31,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3153' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
 <td>Advocado Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3862' target='_blank'>Trueblu CRM Version 3.8</a><br></td>
+<td>Active Interactions Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

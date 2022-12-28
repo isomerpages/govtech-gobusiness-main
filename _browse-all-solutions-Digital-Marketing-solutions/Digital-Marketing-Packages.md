@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Next Level SG Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2536' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
-<td>OOM PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2654' target='_blank'>DM Firstcom Digital Marketing Programme</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
 </tr>

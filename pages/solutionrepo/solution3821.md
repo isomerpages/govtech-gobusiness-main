@@ -56,6 +56,13 @@ Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O 
 <td style='padding: 10px;'>$7,800.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package E, Elite On-line Mobile Ordering System</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex3_CR_wef29dec22.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
