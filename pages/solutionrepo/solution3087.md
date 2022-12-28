@@ -1,15 +1,15 @@
 ---
-title: 'Green Radar Email Security'
+title: 'SYNERGIX Version TH6'
 permalink: /productivity-solutions-grant/solutionrepo/solution3087
 ---
 
-## Green Radar Email Security
+## SYNERGIX Version TH6
 
 ## Overview
 
 **Description**
 
-Green Radar grMail is a next-generation cloud-based email security platform with artificial intelligence capability, to discover any unprecedented email threats. The primary aim is to maximize the client's business productivity and to minimize downtime by using unified AI & human monitoring SOC and behavioral detection engines. This provides the most comprehensive email protection that blocks bulk spam, viruses, malware, spoofing emails, phishing, CEO fraud, and other email-borne attacks.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Green Radar grMail is a next-generation cloud-based email security platform with
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 25 users</td>
-<td style='padding: 10px;'>$650.00</td>
-<td style='padding: 10px;'>$650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 50 users</td>
-<td style='padding: 10px;'>$1,100.00</td>
-<td style='padding: 10px;'>$1,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 100 users</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 150 users</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 200 users</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_5_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
+<td style='padding: 10px;'>$36,780.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
