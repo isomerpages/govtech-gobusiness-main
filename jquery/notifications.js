@@ -47,7 +47,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
   //[**APEX / EDH**]
-  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 6 Nov 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 8 Jan 2023 from 12am to 8am. We apologise for the inconvenience caused."
 ];
 
 // Do not edit the following code
