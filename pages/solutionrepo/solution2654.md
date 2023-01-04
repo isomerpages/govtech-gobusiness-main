@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2654
 
 **Description**
 
-Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! 
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! 
 
 ## Solution Packages Option(s)
 

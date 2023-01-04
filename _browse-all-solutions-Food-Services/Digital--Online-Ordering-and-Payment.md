@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1817' target='_blank'>Revel Systems Version 2</a><br></td>
-<td>Revel Systems Holdings Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>Yumstone F&B Solutions Version 5.0</a><br></td>
-<td>Yumstone Esolutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2052' target='_blank'>WarelyPOS Version 1.1</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
