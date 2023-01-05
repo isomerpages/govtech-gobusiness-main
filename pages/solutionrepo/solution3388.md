@@ -26,7 +26,7 @@ Digital transformation is key to strive in today's competitive market. teamWork 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWCSS - teamWork CRM</td>
 <td style='padding: 10px;'>$12,800.00</td>
 <td style='padding: 10px;'>$8,750.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

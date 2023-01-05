@@ -26,35 +26,35 @@ Green Radar grMail is a next-generation cloud-based email security platform with
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 25 users</td>
 <td style='padding: 10px;'>$650.00</td>
 <td style='padding: 10px;'>$650.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 50 users</td>
 <td style='padding: 10px;'>$1,100.00</td>
 <td style='padding: 10px;'>$1,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 100 users</td>
 <td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 150 users</td>
 <td style='padding: 10px;'>$2,900.00</td>
 <td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 200 users</td>
 <td style='padding: 10px;'>$3,800.00</td>
 <td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Netpluz_Desensitised_Annex_3_Part_5_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_5_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

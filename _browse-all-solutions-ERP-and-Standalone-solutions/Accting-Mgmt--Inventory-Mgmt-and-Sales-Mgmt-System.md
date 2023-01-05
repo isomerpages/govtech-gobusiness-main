@@ -28,51 +28,43 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution10' target='_blank'>IT Infinity Sage 300 </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution9' target='_blank'>IT Infinity Sage 300 </a><br></td>
 <td>IT Infinity Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution15' target='_blank'>ABSS</a><br></td>
-<td>Asian Business Software Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1261' target='_blank'>Globe3 ERP V5.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1260' target='_blank'>Globe3 ERP V5.6</a><br></td>
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1899' target='_blank'>ZettApps Finance & Order Processing Version 4.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1898' target='_blank'>ZettApps Finance & Order Processing Version 4.2</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1995' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1994' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>R Systems IBIZCS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2013' target='_blank'>ABSS - Accounting Consultancy</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2012' target='_blank'>ABSS - Accounting Consultancy</a><br></td>
 <td>Accounting Consultancy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2520' target='_blank'>ABSS Premier Version 23</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2519' target='_blank'>ABSS Premier Version 23</a><br></td>
 <td>Dandelion Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2643' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2642' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2708' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2707' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2831' target='_blank'>ABSS Premier Version 23</a><br></td>
-<td>Andre Corporate Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2892' target='_blank'>ABSS Accounting Software Version 23.7</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2891' target='_blank'>ABSS Accounting Software Version 23.7</a><br></td>
 <td>Acc-Pro Business Links Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2930' target='_blank'>Netiquette Cloud Business Suite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2929' target='_blank'>Netiquette Cloud Business Suite</a><br></td>
 <td>Netiquette Software Pte Ltd</td>
 </tr>
 <tr>
@@ -106,6 +98,22 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3605' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) On Cloud</a><br></td>
 <td>Globalsoft Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3729' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
+<td>Reach Process Outsourcing Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3772' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3834' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td>Andre Corporate Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3839' target='_blank'>ABSS</a><br></td>
+<td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
 </table>
 

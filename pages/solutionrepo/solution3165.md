@@ -26,35 +26,35 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package A - Software (1 User)</td>
 <td style='padding: 10px;'>$1,903.00</td>
 <td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package B - Software & Training (1 User)</td>
 <td style='padding: 10px;'>$2,623.00</td>
 <td style='padding: 10px;'>$2,303.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package C - Software (3 Users)</td>
 <td style='padding: 10px;'>$3,217.00</td>
 <td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package D - Software & Training (3 Users)</td>
 <td style='padding: 10px;'>$3,937.00</td>
 <td style='padding: 10px;'>$3,617.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package E - Software, Remote Access & Training (3 Users)</td>
 <td style='padding: 10px;'>$4,956.00</td>
 <td style='padding: 10px;'>$4,636.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -20,27 +20,23 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1753' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1752' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd </a><br></td>
 <td>CET Global Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1754' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1753' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a><br></td>
 <td>EON Consulting & Training Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1852' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1851' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
 <td>Mercer (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1853' target='_blank'>Job Redesign Consultancy - Deloitte Consulting Pte Ltd</a><br></td>
-<td>Deloitte Consulting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1854' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1853' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
 <td>Aon Solutions Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1855' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1854' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
 <td>Ernst & Young Advisory Pte Ltd </td>
 </tr>
 <tr>
@@ -78,6 +74,14 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3628' target='_blank'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</a><br></td>
 <td>Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3658' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </a><br></td>
+<td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3659' target='_blank'>Job Redesign Consultancy - KPMG Services Pte Ltd.</a><br></td>
+<td>KPMG Services Pte Ltd</td>
 </tr>
 </table>
 

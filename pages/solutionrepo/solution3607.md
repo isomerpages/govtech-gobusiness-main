@@ -26,21 +26,21 @@ Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses t
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
 <td style='padding: 10px;'>$7,600.00</td>
 <td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
 <td style='padding: 10px;'>$9,600.00</td>
 <td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
 <td style='padding: 10px;'>$12,600.00</td>
 <td style='padding: 10px;'>$12,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

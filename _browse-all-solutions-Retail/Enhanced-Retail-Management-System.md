@@ -28,19 +28,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2763' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2762' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
 <td>EPOS Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2910' target='_blank'>AZ Digital POS solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2909' target='_blank'>AZ Digital POS solution</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2920' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2919' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3010' target='_blank'>Shopcada POS Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3009' target='_blank'>Shopcada POS Version 2</a><br></td>
 <td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
@@ -74,6 +74,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3538' target='_blank'>MyRetailer Android POS</a><br></td>
 <td>DCS Synthesis Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3759' target='_blank'>Eurostop Omni-Channel Retail Management System Version 10</a><br></td>
+<td>Eurostop Singapore Pte Ltd</td>
 </tr>
 </table>
 

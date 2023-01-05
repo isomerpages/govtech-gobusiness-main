@@ -26,7 +26,7 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EzyProcure Version 2.0 - e-procurement system for Wholesalers/Suppliers</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_E-business_Desensitised_Annex_3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E-business_Desensitised_Annex_3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

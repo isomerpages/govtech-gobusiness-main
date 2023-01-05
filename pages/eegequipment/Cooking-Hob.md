@@ -12,6 +12,9 @@ Induction technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- Bertazzoni - P302IB2NE
+- Bertazzoni - P603I30NV
+- Bertazzoni - P885IC2G5NE
 - Chefmaster - CM-200T1
 - Chefmaster - CM-350KCT
 - Chefmaster - CM-350KCTW
@@ -73,10 +76,12 @@ Induction technology
 - Mantru.e - ZC-C333A-Q
 - Mantru.e - ZC-C405A
 - Mantru.e - ZC-C408B
+- Mantru.e - ZT2-C07A-DZ
 - Mantru.e - ZT2-C366A
 - Mantru.e - ZT2-C366A-Q
 - Mantru.e - ZT2-C366B
 - Mantru.e - ZT2-C8007A
+- Mantru.e - ZT4-C14A-DZ
 - Mantru.e - ZT4-C8014A
 - Mantru.e - ZT6-C8021A
 - Mantru.e - ZT-C333A

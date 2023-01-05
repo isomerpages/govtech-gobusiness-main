@@ -1,15 +1,15 @@
 ---
-title: 'Conveyor System for transporting materials'
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
-## Conveyor System for transporting materials
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A conveyor system that automates farming processes such as production, feeding, 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

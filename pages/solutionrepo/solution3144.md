@@ -26,35 +26,35 @@ Sage 300 is a business accounting software that provides accounting software for
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 2 Users)</td>
 <td style='padding: 10px;'>$12,736.00</td>
 <td style='padding: 10px;'>$11,404.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 3 Users)</td>
 <td style='padding: 10px;'>$16,448.00</td>
 <td style='padding: 10px;'>$14,672.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 5 Users)</td>
 <td style='padding: 10px;'>$26,384.00</td>
 <td style='padding: 10px;'>$23,276.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 10 Users)</td>
 <td style='padding: 10px;'>$35,664.00</td>
 <td style='padding: 10px;'>$30,546.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 15 Users)</td>
 <td style='padding: 10px;'>$44,144.00</td>
 <td style='padding: 10px;'>$37,116.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

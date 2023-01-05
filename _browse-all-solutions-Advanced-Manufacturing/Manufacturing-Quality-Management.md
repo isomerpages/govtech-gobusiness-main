@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1915' target='_blank'>arc.ops - Manufacturing Quality Management</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1914' target='_blank'>arc.ops - Manufacturing Quality Management</a><br></td>
 <td>Arcstone Pte ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2713' target='_blank'>Q-DAS - Smart Quality Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2712' target='_blank'>Q-DAS - Smart Quality Software</a><br></td>
 <td>Hexagon Metrology Asia Pacific Pte Ltd</td>
 </tr>
 </table>

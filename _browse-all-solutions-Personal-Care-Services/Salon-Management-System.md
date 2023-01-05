@@ -20,15 +20,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2948' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2947' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2973' target='_blank'>Studio Manager Version 8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2972' target='_blank'>Studio Manager Version 8</a><br></td>
 <td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2990' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2989' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
 <td>Refine Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -40,16 +40,20 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Qashier Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3348' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
-<td>SEQUOIA PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3419' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3607' target='_blank'>BOTG</a><br></td>
 <td>ANTSCOLONY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3701' target='_blank'>Beautec centralized version</a><br></td>
+<td>Beautec Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3724' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td>Sequoia Pte Ltd</td>
 </tr>
 </table>
 

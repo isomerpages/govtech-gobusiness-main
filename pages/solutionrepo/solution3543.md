@@ -28,35 +28,35 @@ SAP Business One is an enterprise resource planning software designed for SMEs, 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
 <td style='padding: 10px;'>$29,016.00</td>
 <td style='padding: 10px;'>$27,716.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AFON_Tech_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 3 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
 <td style='padding: 10px;'>$31,653.00</td>
 <td style='padding: 10px;'>$30,353.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AFON_Tech_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
 <td style='padding: 10px;'>$56,136.00</td>
 <td style='padding: 10px;'>$42,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AFON_Tech_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 5 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
 <td style='padding: 10px;'>$58,785.00</td>
 <td style='padding: 10px;'>$42,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AFON_Tech_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
 <td style='padding: 10px;'>$67,798.00</td>
 <td style='padding: 10px;'>$42,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AFON_Tech_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

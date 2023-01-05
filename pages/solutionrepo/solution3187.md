@@ -26,28 +26,28 @@ Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensure
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 1 Proximity Sensor (for 1 Vehicle)</td>
 <td style='padding: 10px;'>$1,250.00</td>
 <td style='padding: 10px;'>$1,250.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 2 Proximity Sensors (for 1 Vehicle)</td>
 <td style='padding: 10px;'>$1,550.00</td>
 <td style='padding: 10px;'>$1,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 3 Proximity Sensors (for 1 Vehicle)</td>
 <td style='padding: 10px;'>$1,750.00</td>
 <td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 4 Proximity Sensors (for 1 Vehicle)</td>
 <td style='padding: 10px;'>$1,850.00</td>
 <td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

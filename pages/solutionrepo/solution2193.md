@@ -1,15 +1,15 @@
 ---
-title: 'Digital quality testing equipment'
+title: 'Underwater Camera'
 permalink: /productivity-solutions-grant/solutionrepo/solution2193
 ---
 
-## Digital quality testing equipment
+## Underwater Camera
 
 ## Overview
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Quality testing equipment in measuring the produce quality and freshness
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

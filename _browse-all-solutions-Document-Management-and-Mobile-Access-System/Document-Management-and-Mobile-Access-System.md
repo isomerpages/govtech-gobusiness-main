@@ -28,27 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1569' target='_blank'>DROPBOX</a><br></td>
-<td>INNOCOM TECHNOLOGIES PTE LTD </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1592' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1</a><br></td>
-<td>SLEEK TECH (PTE. LTD.)</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1689' target='_blank'>THEREFORE</a><br></td>
-<td>CANON SINGAPORE PTE. LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1992' target='_blank'>One-Stop Document Access</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1991' target='_blank'>One-Stop Document Access</a><br></td>
 <td>PROMINDS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2282' target='_blank'>AdeptForms - Document Management Solution Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2281' target='_blank'>AdeptForms - Document Management Solution Version 1</a><br></td>
 <td>Adept Ventures Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2591' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2590' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
 <td>Zoho Corporation Pte. Ltd.</td>
 </tr>
 <tr>
@@ -60,12 +48,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>YNL 360 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3559' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3568' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3719' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
+<td>Acc Pro (Singapore) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3792' target='_blank'>Dropbox Business</a><br></td>
+<td>WEB IMP PTE LTD</td>
 </tr>
 </table>
 

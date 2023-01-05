@@ -27,7 +27,7 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +37,7 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 
 ## Vendor Information
 
- Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Clement Ng, Assistant Director <br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0334 
+ Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Danny Tan, Principal Manager / Mr Lim Kai Chuan, Senior Manager<br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0300
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

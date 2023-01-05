@@ -62,6 +62,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - GREE - GMVL-280WM/G-X(P)
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
+- GREE - GWCD(21)NK6AO
 - GREE - GWCD(21)NK6GO
 - GREE - GWCD(28)NK6AO
 - GREE - GWCD(28)NK6GO
