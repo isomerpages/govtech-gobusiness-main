@@ -8,7 +8,8 @@ const listOfLinks = [
   "Licences and Permits",
   "For event organisers",
   "For new food service business owners",
-  "Dashboard"
+  "Dashboard",
+  "SkillsFuture for Enterprise"
 ];
 
 const main = ".bp-menu-list>li>a";
