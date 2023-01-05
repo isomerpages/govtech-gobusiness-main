@@ -32,14 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1822' target='_blank'>Adventus Managed Firewall - Fortinet </a><br></td>
-<td>Adventus Singapore Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1831' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F</a><br></td>
-<td>DATA CONNECT TECHNOLOGIES PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1931' target='_blank'>Fortinet Fortigate (Next Generation Firewall)</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>

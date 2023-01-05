@@ -28,18 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1781' target='_blank'>XERO</a><br></td>
-<td>Accounting Consultancy Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1786' target='_blank'>Xero</a><br></td>
-<td>MFP Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1826' target='_blank'>Xero</a><br></td>
-<td>Central Management Services Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2002' target='_blank'>Vodich- Xero Cloud Accounting</a><br></td>
 <td>Vodich Management Services Pte Ltd</td>
 </tr>
@@ -82,10 +70,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2472' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>Assembly Works Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2502' target='_blank'>XERO CLOUD APPLICATION</a><br></td>
-<td>SMARTCURSORS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2547' target='_blank'>Aggregate Cloud Accounting Software (Xero)</a><br></td>

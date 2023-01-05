@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1838' target='_blank'>Ecommerce Online Shop + SEO and Digital Marketing Setup</a><br></td>
-<td>VUE TECH PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2036' target='_blank'>Alpha eCommerce Booster Version Premium</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
