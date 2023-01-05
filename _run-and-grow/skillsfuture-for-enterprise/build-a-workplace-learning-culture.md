@@ -11,7 +11,7 @@ Keep the momentum going and continue to foster a culture of learning. You can re
 ----
 
 ### Stay up-to-date on emerging trends
-Equip your workforce to meet changing job demands and stay competitive for the future through the [SkillsFuture Series](https://www.skillsfuture.gov.sg/series){:target="_blank"}{:rel="noopener"}. It comprises a comprehensive curation of modular courses covering topics across eight emerging areas - Cybersecurity, Data Analytics, Entrepreneurship, Finance, Tech-Enabled Services, Digital Media, Advanced Manufacturing, and Urban Solutions. 
+Equip your workforce to meet changing job demands and stay competitive for the future through the [SkillsFuture Series](https://www.skillsfuture.gov.sg/series){:target="_blank"}{:rel="noopener"}.  It comprises a comprehensive curation of modular courses covering emerging skills in the four economic growth pillars (Digital, Green, Care, and Industry 4.0). 
 
 ### How to build a workplace learning culture 
 As most learnings happen at the workplace, you might want to consider putting a structured process to harness the rich collaborative learning among your employees and optimise work performance. 

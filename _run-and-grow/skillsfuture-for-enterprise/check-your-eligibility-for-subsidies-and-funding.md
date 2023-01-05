@@ -40,9 +40,7 @@ Baseline course fee subsidies are available to lower the training fee when you s
 
 - Registered or incorporated in Singapore
 
-- At least 30% local shareholding by Singaporeans or Singapore Permanent Residents
-
-- Employment size of not more than 200 employees (at group level) OR with annual sales turnover (at group level) of not more than S$100 million
+- Your organisation’s employment size must not exceed 200, OR your organisation’s annual sales turnover must not exceed S$100 million
 
 Please check the [summary of course fee rates](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"} before deciding. 
 
