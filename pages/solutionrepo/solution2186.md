@@ -1,15 +1,15 @@
 ---
-title: 'Climate & Environment Monitoring Control Equipment/ System'
+title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2186
 ---
 
-## Climate & Environment Monitoring Control Equipment/ System
+## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Climate control system (smart roof ventilator/ vents, smart misting, sustainable
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

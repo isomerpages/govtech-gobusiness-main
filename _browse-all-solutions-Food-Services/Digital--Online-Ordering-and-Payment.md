@@ -28,59 +28,51 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Revel Systems Version 2</a><br></td>
-<td>Revel Systems Holdings Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1857' target='_blank'>Yumstone F&B Solutions Version 5.0</a><br></td>
-<td>Yumstone Esolutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2053' target='_blank'>WarelyPOS Version 1.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2052' target='_blank'>WarelyPOS Version 1.1</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2086' target='_blank'>Revel Systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2085' target='_blank'>Revel Systems</a><br></td>
 <td>Revel Systems Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2197' target='_blank'>Popcorn Point-of-sales System Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2196' target='_blank'>Popcorn Point-of-sales System Version 1</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2223' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2222' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING</a><br></td>
 <td>SkipQoo Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2324' target='_blank'>Fooyo Mini Shop Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2323' target='_blank'>Fooyo Mini Shop Version 2.0</a><br></td>
 <td>Fooyo Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2525' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2524' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1.0</a><br></td>
 <td>Lunchbox Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2547' target='_blank'>2DFire online ordering and payment Version 5.8.98</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2546' target='_blank'>2DFire online ordering and payment Version 5.8.98</a><br></td>
 <td>1-Smart Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2737' target='_blank'>BIZ FNB DIGITAL ORDERING</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2736' target='_blank'>BIZ FNB DIGITAL ORDERING</a><br></td>
 <td>Coobiz IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2940' target='_blank'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2939' target='_blank'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0</a><br></td>
 <td>Wecome Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2971' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2970' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
 <td>SUNTOYO TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2995' target='_blank'>EPOINT Version 9</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2994' target='_blank'>EPOINT Version 9</a><br></td>
 <td>Epoint Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3031' target='_blank'>SGDATAPOS Digital Ordering</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3030' target='_blank'>SGDATAPOS Digital Ordering</a><br></td>
 <td>Singapore Data Hub Pte Ltd</td>
 </tr>
 <tr>

@@ -28,15 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2500' target='_blank'>SAP2000 Ultimate Suite</a><br></td>
-<td>OTTE INTERNATIONAL PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2746' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2745' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
 <td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2885' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2884' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>

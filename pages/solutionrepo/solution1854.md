@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
+title: 'Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1854
 ---
 
-## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+## Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
 
 ## Overview
 
 **Description**
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 
 ## Vendor Information
 
- Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ <br>Contact Name: Sylvia Lim, Senior Consultant<br>Contact Email: sylvia.lim@aon.com <br>Contact Number:  8113 8650
+ Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

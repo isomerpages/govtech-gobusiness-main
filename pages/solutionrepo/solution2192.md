@@ -1,15 +1,15 @@
 ---
-title: 'Packing machine'
+title: 'Digital quality testing equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2192
 ---
 
-## Packing machine
+## Digital quality testing equipment
 
 ## Overview
 
 **Description**
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+Quality testing equipment in measuring the produce quality and freshness
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that automates the packing of farm produce with high speed and high de
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

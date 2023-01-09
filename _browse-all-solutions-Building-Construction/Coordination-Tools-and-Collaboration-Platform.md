@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1909' target='_blank'>GS BIM collaboration Platform Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1908' target='_blank'>GS BIM collaboration Platform Version 1</a><br></td>
 <td>Graphisoft Asia Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2358' target='_blank'>APEX</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2357' target='_blank'>APEX</a><br></td>
 <td>SIACAD Pte Ltd</td>
 </tr>
 <tr>

@@ -28,19 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2622' target='_blank'>Enhanzcom - FITPRISE Sales & Inventory System</a><br></td>
-<td>Enhanzcom Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2743' target='_blank'>MetroERP Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2742' target='_blank'>MetroERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2774' target='_blank'>Applivon - Odoo</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2773' target='_blank'>Applivon - Odoo</a><br></td>
 <td>Applivon Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2790' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2789' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>

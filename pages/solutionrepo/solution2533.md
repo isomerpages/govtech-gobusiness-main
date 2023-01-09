@@ -1,17 +1,18 @@
 ---
-title: '3D Intraoral Scanner'
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution2533
 ---
 
-## 3D Intraoral Scanner
+## Automated Deep Fryer
 
 ## Overview
 
 **Description**
 
-The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
 
-Qualifying cost of equipment capped at $25,000 per unit.
+Cost of equipment capped at $4,000 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Qualifying cost of equipment capped at $25,000 per unit.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Intraoral Scanner</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Hardware<br>- Scanner wand<br>- Autoclavable/single-use sleeves<br><br>Functionality<br>- Open system format - .stl/.ply files etc.<br>- Treatment simulation <br>- CAD/CAM software<br><br>Supportable costs: <br>- Hardware (incl. software), 1 set of tips/sleeves, Training, 1st yr subscription, 3 yr warranty<br><br>*Support is only granted for 1 unit per clinic location.<br>Basic equipment costs (e.g. laptop) unsupportable<br>Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>Minimum Specifications <br>-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br><br>Well capacity to be at least 5L<br><br>Serving size and frying type should be customisable<br><br></td>
 </tr>
 </table>
 

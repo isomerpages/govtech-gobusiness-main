@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2334' target='_blank'>vTrak Version 1.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2333' target='_blank'>vTrak Version 1.4</a><br></td>
 <td>IDEE INFOCOM PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2371' target='_blank'>CROSSTRACK GO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2370' target='_blank'>CROSSTRACK GO</a><br></td>
 <td>CROSSTRACK PTE LTD</td>
 </tr>
 <tr>
@@ -46,6 +46,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3827' target='_blank'>Fleet Management Solutions</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3851' target='_blank'>FleetManager Version 5.0</a><br></td>
+<td>LogisFleet Pte. Ltd.</td>
 </tr>
 </table>
 

@@ -28,75 +28,67 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3' target='_blank'>Ecommerce Web Development (WooCommerce) Version 0.8</a><br></td>
-<td>W.L.P CONSULTANTS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1839' target='_blank'>Ecommerce Online Shop + SEO and Digital Marketing Setup</a><br></td>
-<td>VUE TECH PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2037' target='_blank'>Alpha eCommerce Booster Version Premium</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2036' target='_blank'>Alpha eCommerce Booster Version Premium</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2115' target='_blank'>eCommerce Masterplan Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2114' target='_blank'>eCommerce Masterplan Version 1.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2128' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2127' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
 <td>IPRO DEZIGN PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2221' target='_blank'>WarelyEcom Version 1.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2220' target='_blank'>WarelyEcom Version 1.3</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2287' target='_blank'>Ecommflow Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2286' target='_blank'>Ecommflow Version 2.0</a><br></td>
 <td>Calvin Seng Co Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2322' target='_blank'>Athena E-store Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2321' target='_blank'>Athena E-store Solution</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2344' target='_blank'>SHOPLINE e-Commerce Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2343' target='_blank'>SHOPLINE e-Commerce Solution</a><br></td>
 <td>Shopline Commerce Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2376' target='_blank'>i3 E-Commerce Store</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2375' target='_blank'>i3 E-Commerce Store</a><br></td>
 <td>HEXA Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2435' target='_blank'>OS Store E-Commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2434' target='_blank'>OS Store E-Commerce</a><br></td>
 <td>Orfeostory Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2517' target='_blank'>Creative eShop</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2516' target='_blank'>Creative eShop</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2559' target='_blank'>MIBC Ecommerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>MIBC Ecommerce</a><br></td>
 <td>MIBC PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2566' target='_blank'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2565' target='_blank'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM</a><br></td>
 <td>SUNPRO INNO APPS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2742' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2741' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2762' target='_blank'>ePSProfessional Version 1.7</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2761' target='_blank'>ePSProfessional Version 1.7</a><br></td>
 <td>Efusion Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2864' target='_blank'>TRC e-Commerce Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2863' target='_blank'>TRC e-Commerce Solutions</a><br></td>
 <td>The Right Company Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2978' target='_blank'>Cub3commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2977' target='_blank'>Cub3commerce</a><br></td>
 <td>DCUB3 PTE LTD</td>
 </tr>
 <tr>

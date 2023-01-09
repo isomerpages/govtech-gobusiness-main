@@ -28,11 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2611' target='_blank'>Taidii SMART IT Solution for Preschool (PMS + E-form)</a><br></td>
-<td>Taidii Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2699' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2698' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
 </tr>
 <tr>
