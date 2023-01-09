@@ -22,7 +22,7 @@ When planning your new F&B venture, it’s important to take factors such as ove
 It’s notable that external global events such as the pandemic have a deep influence on performance: for example, operating revenue dipped in 2020, which is not representative of the normal operating environment. 
 
 ![Number of F&B businesses from 2018 to 2020](/images/blog/content/FnB 1.png)
-<figcaption> The number of enterprises in the F&B sector has risen from 10,644 in the year 2018 to 11,679 in year 2020. </figcaption>
+<figcaption> The number of enterprises in the F&B sector has risen from 10,644 in the year 2018 to 11,679 in year 2020 </figcaption>
 
 ![Operating revenue of F&B business from 2018 to 2020](/images/blog/content/FnB 2.png)
 <figcaption> The F&B sector has seen a drop in operating revenue in the year 2020 </figcaption>
@@ -106,4 +106,4 @@ Aside from providing knowledge on sustaining a business, doing thorough research
 
 **Keen to learn more about how to start and run a F&B business? Check out EnterpriseSG’s [Turning Passion into Profits Guide](http://www.enterprisesg.gov.sg/industries/type/food-services/start-right/start-right){:target="_blank"}{:rel="noopener"} to start your journey!**
 
-<em> This article is accurate as at 30 Nov 2022</em>
+<em> This article is accurate as at 9 Jan 2023</em>
