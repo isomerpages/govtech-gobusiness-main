@@ -100,10 +100,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FoodZaps Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3293' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
-<td>Getz Group Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3334' target='_blank'>LFSuite</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
@@ -138,6 +134,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3822' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
 <td>Aptsys Technology Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3864' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
+<td>Getz Group Pte Ltd</td>
 </tr>
 </table>
 

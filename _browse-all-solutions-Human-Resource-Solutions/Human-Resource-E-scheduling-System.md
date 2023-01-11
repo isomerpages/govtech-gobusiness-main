@@ -23,6 +23,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3765' target='_blank'>TimeCentral Version 11</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3871' target='_blank'>StaffAny</a><br></td>
+<td>Staffany Private Limited</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

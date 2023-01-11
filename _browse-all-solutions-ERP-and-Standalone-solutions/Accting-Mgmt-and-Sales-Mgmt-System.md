@@ -216,10 +216,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3665' target='_blank'>Xero - Full Transformation Packages for SMEs Version 2021</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3670' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
 <td>Cloud Accounting & Consultancy Pte. Ltd.</td>
 </tr>
@@ -262,6 +258,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3857' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>Harvest Accounting Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3866' target='_blank'>Xero - Full Transformation Packages for SMEs Version 2021</a><br></td>
+<td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 </table>
 

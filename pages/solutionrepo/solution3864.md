@@ -1,6 +1,6 @@
 ---
 title: 'Getz F&B Omni Channel Solution Version 2'
-permalink: /productivity-solutions-grant/solutionrepo/solution3293
+permalink: /productivity-solutions-grant/solutionrepo/solution3864
 ---
 
 ## Getz F&B Omni Channel Solution Version 2
@@ -28,26 +28,26 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
-<td style='padding: 10px;'>$17,350.00</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Densensitised_Getz_Annex_3_CR_wef_28_July_2022__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
-<td style='padding: 10px;'>$8,450.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Densensitised_Getz_Annex_3_CR_wef_28_July_2022__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription or Leasing
 
 ## Vendor Information
 
- Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 85406590 (WhatsApp)<br>Contact Email: connect@getz.co<br>
+ Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 85406590 (WhatsApp)<br>Contact Email:  connect@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
