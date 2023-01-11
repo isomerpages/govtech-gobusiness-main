@@ -32,6 +32,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>APM Global Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1754' target='_blank'>SmartFM Version 1.0</a><br></td>
+<td>CHIMERIC TECHNOLOGIES PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1905' target='_blank'>iREP FM</a><br></td>
 <td>Gabkotech Innovations Pte Ltd</td>
 </tr>

@@ -28,12 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3154' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3153' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
 <td>Advocado Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3863' target='_blank'>Trueblu CRM Version 3.8</a><br></td>
-<td>Active Interactions Pte Ltd</td>
 </tr>
 </table>
 
