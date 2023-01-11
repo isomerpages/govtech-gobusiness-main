@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2621' target='_blank'>Enhanzcom - FITPRISE Sales & Inventory System</a><br></td>
+<td>Enhanzcom Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2742' target='_blank'>MetroERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
@@ -40,15 +44,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3194' target='_blank'>1ERP - Singapore ERP</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3193' target='_blank'>1ERP - Singapore ERP</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3553' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3552' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3555' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3554' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 </table>

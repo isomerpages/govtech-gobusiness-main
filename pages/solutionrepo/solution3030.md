@@ -51,13 +51,6 @@ SGDATAPOS Digital Ordering is easily integrated to other SGDATA add-on modules s
 <td style='padding: 10px;'>$10,020.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package E, Elite On-line Mobile Ordering System</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex3_CR_wef29dec22.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

@@ -26,35 +26,35 @@ Build everlasting customer relationships with the world's favorite CRM. Zoho CRM
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - STANDARD edition, 5 users</td>
 <td style='padding: 10px;'>$900.00</td>
 <td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenstilised_Zoho_Annex3_CR_wef_20_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - PROFESSIONAL edition, 5 users</td>
 <td style='padding: 10px;'>$1,500.00</td>
 <td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenstilised_Zoho_Annex3_CR_wef_20_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - PROFESSIONAL edition, 15 users</td>
 <td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenstilised_Zoho_Annex3_CR_wef_20_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 10 users</td>
 <td style='padding: 10px;'>$5,400.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenstilised_Zoho_Annex3_CR_wef_20_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 20 users</td>
 <td style='padding: 10px;'>$10,800.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenstilised_Zoho_Annex3_CR_wef_20_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
