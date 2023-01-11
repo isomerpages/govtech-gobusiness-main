@@ -65,7 +65,7 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 
 ## Vendor Information
 
- Company Name: W.L.P PTE LTD<br>Web URL: https://www.wlp.com.sg/ <br><br>Contact Hotline: 64932970 <br><br>Contact Email: info@wlp.com.sg <br><br>
+ Company Name: W.L.P PTE LTD<br>Web URL: https://www.wlp.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

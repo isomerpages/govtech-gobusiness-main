@@ -32,7 +32,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3470' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3471' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
 <td></td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Websentials Ecommerce Web Development - Customised eCommerce Package'
+title: 'TWCSS - teamWork CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution3388
 ---
 
-## Websentials Ecommerce Web Development - Customised eCommerce Package
+## TWCSS - teamWork CRM
 
 ## Overview
 
 **Description**
 
-Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
+Digital transformation is key to strive in today's competitive market. teamWork CRM is a fully cloud-based solution tailormade to heighten the levels of efficiency, control & clarity for any businesses. Facilitated with an ensuite of key modules & functions (sales, internal processes, document control, mass communications etc.), it ensures that all aspects of the business is captured & deeply integrated within to exercise and take control of.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Websentials Ecommerce Web Development - Customised eCommerce Package</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWCSS - teamWork CRM</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg
+ Company name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
