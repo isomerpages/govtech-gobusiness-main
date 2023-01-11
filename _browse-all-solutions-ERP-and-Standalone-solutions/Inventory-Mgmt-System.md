@@ -44,11 +44,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3092' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3093' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3530' target='_blank'>AIMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3531' target='_blank'>AIMS</a><br></td>
 <td>TUNITY TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>
