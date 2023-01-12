@@ -48,10 +48,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Techfount Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2511' target='_blank'>Panda Adaptive Defense 360</a><br></td>
-<td>Asiacloud Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2647' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
@@ -72,7 +68,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SWIZ Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3138' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3139' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 </table>

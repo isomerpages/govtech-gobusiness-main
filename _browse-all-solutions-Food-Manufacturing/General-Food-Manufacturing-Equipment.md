@@ -68,7 +68,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3389' target='_blank'>Industrial/Commercial Slicer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3390' target='_blank'>Industrial/Commercial Slicer</a><br></td>
 <td></td>
 </tr>
 </table>

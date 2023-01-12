@@ -3,7 +3,7 @@
 const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness payment service is unavailable due to maintenance on 8 Dec 2022 12pm to 2pm. We apologise for the inconvenience caused.",
   //[**L1T adhoc**]
-  "<b>[Important Announcement]</b> Due to a fee revision, all draft applications for Early Childhood Development Centre Licence created before 30 November 2022 have been deleted. Please create a new one if you still wish to apply. We apologise for the inconvenience caused.",
+  //"<b>[Important Announcement]</b> Due to a fee revision, all draft applications for Early Childhood Development Centre Licence created before 30 November 2022 have been deleted. Please create a new one if you still wish to apply. We apologise for the inconvenience caused.",
 
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness Licensing, Guided Journey for Food Services and Start a Business e-Adviser will experience intermittent delays from 25 Oct 2021, 9am to 27 Oct 2021 6pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers, Guided Journeys and Business Grants will be unavailable on 22 Apr 2022 from 10pm to 4pm due to scheduled maintenance. We apologise for the inconvenience caused."
@@ -15,9 +15,9 @@ const custom_notifications = [
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance on 20 Oct 2022 from 6pm to 10pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 18 Nov 2022 10pm to 19 Nov 2022 8am<br>(2) from 19 Nov 2022 8pm to 20 Nov 2022 10am",
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 13 Jan 2023 10pm to 14 Jan 2023 8am<br>(2) from 14 Jan 2023 10pm to 15 Jan 2023 8am"
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 11 Nov 2022 10pm to 12 Nov 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 10 Dec 2022 10pm to 11 Dec 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 31 Dec 2022 10pm to 1 Jan 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
 
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
@@ -33,10 +33,11 @@ const custom_notifications = [
   //[**SINGPASS**]
   //"<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance on 4 Dec 2022 from 12am to 6am. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard FAQ and My Task page will be unavailable due to scheduled maintenance from 31 Aug 2022 5pm to 6pm. We apologise for the inconvenience caused."
+  //"Some users may be experiencing difficulties accessing digital services with Singpass. Kindly be advised that Singpass is working on resolving this issue. We apologies for any inconvenience caused.", 
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 11 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 31 Dec 2022 11pm to 1 Jan 2023 12pm. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 16 Sep 2022 12am to 5am<br>(2) 18 Sep 2022 from 12am to 8am"
 
   //[**ADHOC**]
@@ -47,7 +48,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
   //[**APEX / EDH**]
-  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 6 Nov 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 8 Jan 2023 from 12am to 8am. We apologise for the inconvenience caused."
 ];
 
 // Do not edit the following code

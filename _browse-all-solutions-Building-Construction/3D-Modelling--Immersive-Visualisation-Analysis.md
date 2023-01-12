@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2499' target='_blank'>SAP2000 Ultimate Suite</a><br></td>
-<td>OTTE INTERNATIONAL PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2745' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
 <td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
 </tr>
@@ -40,7 +36,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3848' target='_blank'>Autodesk AEC Collection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3849' target='_blank'>Autodesk AEC Collection</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 </table>

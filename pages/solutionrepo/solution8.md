@@ -28,6 +28,34 @@ Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs 
 <td style='padding: 10px;'>$24,900.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_Annex3_CR_wef13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)</td>
+<td style='padding: 10px;'>$4,992.00</td>
+<td style='padding: 10px;'>$4,992.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_34.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission for SMEs (20 Pax)</td>
+<td style='padding: 10px;'>$10,680.00</td>
+<td style='padding: 10px;'>$10,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_910.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (30 Pax)</td>
+<td style='padding: 10px;'>$15,420.00</td>
+<td style='padding: 10px;'>$15,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_56.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (40 Pax)</td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_78.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

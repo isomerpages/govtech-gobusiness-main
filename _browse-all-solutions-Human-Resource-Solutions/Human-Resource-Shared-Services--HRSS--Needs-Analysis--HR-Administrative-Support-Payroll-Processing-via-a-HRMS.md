@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1759' target='_blank'>FeHR HRSS and Payroll Processing Version 8</a><br></td>
-<td>Frontier e-HR Pte Ltd </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2551' target='_blank'>ALIGN HRSS - PAYROLL OUTSOURCING</a><br></td>
 <td>Align Group of Companies Pte Ltd</td>
 </tr>
@@ -52,8 +48,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3501' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3502' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
 <td>RECRUIT.COM.SG PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3777' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
+<td>Frontier e-HR Pte Ltd </td>
 </tr>
 </table>
 

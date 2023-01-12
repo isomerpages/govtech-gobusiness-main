@@ -51,10 +51,10 @@ Alitec is a Singapore-based Odoo Gold Partner. Our business analysts and technic
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alitec odooCRM and sales - odoo 15 Users AS5 (Sales)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>odoo 15 Users AS5 (Sales)</td>
 <td style='padding: 10px;'>$16,825.00</td>
-<td style='padding: 10px;'>$15,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Alitec_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$16,825.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Alitec_Annex3_CR_wef12Jan23_pg5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
