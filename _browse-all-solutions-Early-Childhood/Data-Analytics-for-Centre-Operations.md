@@ -31,6 +31,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2888' target='_blank'>Tableau Visualization</a><br></td>
 <td>Oak Consulting Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3886' target='_blank'>LittleLives School Management System (Data Mining & Analytics)</a><br></td>
+<td>LittleLives Inc Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

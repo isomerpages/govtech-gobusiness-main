@@ -1,6 +1,6 @@
 ---
 title: 'Xero - Full Transformation Packages for SMEs Version 2021'
-permalink: /productivity-solutions-grant/solutionrepo/solution3665
+permalink: /productivity-solutions-grant/solutionrepo/solution3866
 ---
 
 ## Xero - Full Transformation Packages for SMEs Version 2021
@@ -24,37 +24,37 @@ Xero is a highly popular cloud-based accounting software platform for small busi
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - Basic</td>
-<td style='padding: 10px;'>$3,507.48</td>
 <td style='padding: 10px;'>$3,507.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,507.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - Essential</td>
-<td style='padding: 10px;'>$4,707.48</td>
 <td style='padding: 10px;'>$4,707.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,707.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - for Micro Business - With Customised Training</td>
-<td style='padding: 10px;'>$6,907.48</td>
 <td style='padding: 10px;'>$6,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,907.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - for Small Business</td>
-<td style='padding: 10px;'>$5,907.48</td>
 <td style='padding: 10px;'>$5,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,907.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - for Small Business - With Customised Training</td>
-<td style='padding: 10px;'>$7,507.48</td>
 <td style='padding: 10px;'>$7,507.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,507.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
