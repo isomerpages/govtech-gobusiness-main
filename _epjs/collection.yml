@@ -1,5 +1,5 @@
 collections:
-  enterprise-portal-for-jobs-and-skills:
+  epjs:
     output: true
     order:
       - enterprise-portal-for-jobs-and-skills.md
