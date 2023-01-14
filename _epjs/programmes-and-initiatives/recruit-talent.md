@@ -1,6 +1,6 @@
 ---
 title: Recruit Talent 
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/
 ---
 
 ## Recruit Talent
