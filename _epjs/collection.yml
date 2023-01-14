@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - enterprise-portal-for-jobs-and-skills.md
+      - programmes-and-initiatives/recruit-talent.md
