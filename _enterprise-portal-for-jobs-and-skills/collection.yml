@@ -1,0 +1,5 @@
+collections:
+  eservices-guides:
+    output: true
+    order:
+      - back-to-epjs-home.md

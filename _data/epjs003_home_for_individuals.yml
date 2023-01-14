@@ -1,0 +1,9 @@
+- image: <img src="/images/epjs/myskillsfuture.png" aria-hidden="true">
+  title: MySkillsFuture
+  url: /_nothing
+  text: Visit MySkillsFuture
+
+- image: <img src="/images/epjs/careersfuture.png" aria-hidden="true">
+  title: MyCareersFuture
+  url: /_nothing
+  text: Visit MyCareersFuture
