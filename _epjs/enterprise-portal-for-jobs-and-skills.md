@@ -13,7 +13,7 @@ permalink: /enterprisejobskills/
 
 ### Programmes and Initiatives
 
-{% include panels-featurelink.html panels=site.data.epjs001_home_programms %}
+{% include panels-featurelink.html panels=site.data.epjs001_home_programme %}
 
 ---
 
@@ -48,12 +48,14 @@ Search for Skills Training Programmes to support your business transformation.
 
 For individuals:
 
-{% include panels-featurelink.html panels=site.data.epjs002_for_individuals %}
+{% include panels-featurelink.html panels=site.data.epjs003_home_for_individuals %}
 
 For Training Partners:
 
-{% include panels-featurelink.html panels=site.data.epjs002_for_training_partners %}
+{% include panels-featurelink.html panels=site.data.epjs004_home_for_training_partners %}
 
 ---
 
 ### Related links
+
+{% include panels-featurelink.html panels=site.data.epjs005_home_related_links %}
