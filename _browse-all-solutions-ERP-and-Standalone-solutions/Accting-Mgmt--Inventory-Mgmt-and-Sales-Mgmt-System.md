@@ -115,6 +115,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3839' target='_blank'>ABSS</a><br></td>
 <td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3881' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
+<td>Madsoft Solutions Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
