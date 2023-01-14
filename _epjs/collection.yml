@@ -2,4 +2,4 @@ collections:
   enterprise-portal-for-jobs-and-skills:
     output: true
     order:
-      - back-to-epjs-home.md
+      - enterprise-portal-for-jobs-and-skills.md
