@@ -1,9 +1,9 @@
-- image: <img src="/images/epjs/toolkits.jpg" aria-hidden="true">
+- banner: <img src="/images/epjs/toolkits.jpg" aria-hidden="true">
   title: Toolkits
   url: _nothing
   text: View Toolkits
 
-- image: <img src="/images/epjs/videos-articles.png" aria-hidden="true">
+- banner: <img src="/images/epjs/videos-articles.png" aria-hidden="true">
   title: Videos and Articles
   url: _nothing
   text: View Videos and Articles
