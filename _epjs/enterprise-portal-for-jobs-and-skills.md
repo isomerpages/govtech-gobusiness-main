@@ -23,7 +23,7 @@ permalink: /enterprisejobskills/
 
 Search for Skills Training Programmes to support your business transformation.
 
-{% include button.html text="Search Now" src="_nothing" type="primary" %}
+{% include button.html text="Search Now" src="https://courses.enterprisejobskills.gov.sg/Course_Internet/" type="primary" %}
 
 ---
 
@@ -61,5 +61,4 @@ For Training Partners:
 {% include panels-featurelink.html panels=site.data.epjs005_home_related_links %}
 
 <script src="/jquery/jquery.min.js"></script>
-<script src="/jquery/bp-menu-third-level-new-tab.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
