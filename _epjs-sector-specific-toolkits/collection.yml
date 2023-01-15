@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - job-redesign-toolkits.md
+      - skills-framework-templates.md
