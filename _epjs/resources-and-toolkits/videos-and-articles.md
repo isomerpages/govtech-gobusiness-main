@@ -24,7 +24,7 @@ Speaking at the launch of the job redesign place-and-train programme for the ret
 
 ---
 
-![Article 2](/images/epjs/resources-and-toolkits/videos-and-articlesTwo initiatives aim to help PMETs in air transport sector pick up new skills.png)
+![Article 2](/images/epjs/resources-and-toolkits/videos-and-articles/Two initiatives aim to help PMETs in air transport sector pick up new skills.png)
 
 #### Two initiatives aim to help PMETs in air transport sector pick up new skills
 
