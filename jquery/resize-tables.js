@@ -1,9 +1,5 @@
 const customTables = [
   {
-    path: "/enterprisejobskills/resource-and-toolkits/skillfully",
-    columns: ["250px", "auto"]
-  },
-  {
     path: "/start-a-business/open-a-corporate-bank-account/",
     columns: ["32%", "auto"]
   },
