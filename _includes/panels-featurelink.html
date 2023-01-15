@@ -68,6 +68,13 @@
         display: block;
         margin: 10px 0 5px 0;
     }
+    ..content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 16px;
+        line-height: 24px;
+        color: #647283;
+        text-decoration: none;
+    }
 
 
     @media (max-width: 600px) {
@@ -136,6 +143,13 @@
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
+            {% else %}
+                {% if panel.text %}
+                <hr style="width:100%;text-align:left;margin:0">
+                <div class="panel-info">
+                    {{panel.text}}
+                </div>
+                {% endif %}
             {% endif %}
         </div>
         {% endif %}
