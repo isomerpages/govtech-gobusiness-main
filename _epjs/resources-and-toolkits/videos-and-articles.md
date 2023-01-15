@@ -12,7 +12,7 @@ third_nav_title: Resources and Toolkits
 
 Service sector companies can tap on government subsidies and professional guidance under the new Service Industry Transformation Programme (SITP) for Lifestyle Sectors to transform their businesses. SITP aims to help businesses improve the way they serve customers, streamline and digitalise operations, and redesign jobs to attract workers.
 
-[Read more on The Straits Times](_nothing){:target="_blank"}{:rel="noopener"}
+[Read more on The Straits Times](https://www.straitstimes.com/business/new-scheme-offers-funding-and-professional-help-for-services-companies-to-transform-and){:target="_blank"}{:rel="noopener"}
 
 ---
 
@@ -20,7 +20,7 @@ Service sector companies can tap on government subsidies and professional guidan
 
 Speaking at the launch of the job redesign place-and-train programme for the retail industry at the Decathlon Singapore Lab, Manpower Minister Josephine Teo shares how when businesses innovate, job requirements will follow suit. Through this new programme, WSG will work with retailers to customise their training plans and pay up to 70 per cent of the employee's salary when he or she is undergoing training.
 
-[Read more on The Straits Times](_nothing){:target="_blank"}{:rel="noopener"}
+[Read more on The Straits Times](https://www.straitstimes.com/singapore/manpower/gap-between-jobs-and-skills-will-widen-as-businesses-transform-josephine-teo){:target="_blank"}{:rel="noopener"}
 
 ---
 
