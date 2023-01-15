@@ -37,6 +37,6 @@ You can participate in the WSPs as a host employer by opening your workplace and
 
 ### Resources
 
-- [Frequently Asked Questions (PDF, 353 KB)](_nothing){:target="_blank"}{:rel="noopener"}
+- [Frequently Asked Questions (PDF, 353 KB)](/programmes-and-initiatives/recruit-talent/SkillsFuture_WorkStudyProgrammes_EmployerFAQ.pdf){:target="_blank"}{:rel="noopener"}
 
-- [COVID 19 Wage Support FAQ (PDF, 41 KB)](_nothing){:target="_blank"}{:rel="noopener"}
+- [COVID 19 Wage Support FAQ (PDF, 41 KB)](/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf){:target="_blank"}{:rel="noopener"}
