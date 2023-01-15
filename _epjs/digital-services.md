@@ -11,11 +11,11 @@ permalink: /enterprisejobskills/digital-services/
 <th style="width:auto;"><b>Description</b></th> 
 </tr>
 <tr>
-<td style="width:30%;"><a href="_nothing" target="_blank" rel="noopener">Absentee Payroll (AP) Funding</a></td>
+<td style="width:30%;"><a href="https://sfec.enterprisejobskills.gov.sg/" target="_blank" rel="noopener">Absentee Payroll (AP) Funding</a></td>
 <td style="width:auto;">AP funding is a grant to help employers defray the manpower cost incurred when they send their employees for certifiable skills training.</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="_nothing" target="_blank" rel="noopener">Check E-Cert Validity</a></td>
+<td style="width:30%;"><a href="https://www.myskillsfuture.gov.sg/content/portal/en/ecert/ecert_verify.html" target="_blank" rel="noopener">Check E-Cert Validity</a></td>
 <td style="width:auto;">Employees who have attained Singapore Workforce Skills Qualifications (WSQ) electronic certificates (e-Cert) may check their validity here.</td>
 </tr>
 </table>
