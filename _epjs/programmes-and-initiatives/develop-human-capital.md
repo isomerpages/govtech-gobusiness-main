@@ -17,3 +17,4 @@ third_nav_title: Programmes and Initiatives
 {% include panels-featurelink.html panels=site.data.epjs011_enhance-hr-practices-n-systems %}
 
 <script src="/jquery/bp-menu-third-level-new-tab.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>

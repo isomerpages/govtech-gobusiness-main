@@ -10,6 +10,7 @@ const listOfLinks = [
   "For new food service business owners",
   "Dashboard",
   "SkillsFuture for Enterprise",
+  "SFEC Microsite"
 ];
 
 const main = ".bp-menu-list>li>a";

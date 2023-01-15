@@ -61,3 +61,4 @@ For Training Partners:
 {% include panels-featurelink.html panels=site.data.epjs005_home_related_links %}
 
 <script src="/jquery/bp-menu-third-level-new-tab.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
