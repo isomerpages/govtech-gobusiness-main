@@ -12,10 +12,6 @@ const customTables = [
     columns: ["32%", "auto"],
   }, 
   {
-    path: "/covid-19-faqs/time-limited-rrt-for-workplaces",
-    columns: ["32%", "auto"],
-  },
-  {
     path: "/covid-19-faqs/workplace-safe-management-measures",
     columns: ["32%", "auto"],
   },
@@ -56,7 +52,7 @@ const customTables = [
     columns: ["auto", "10%", "10%", "10%", "10%","10%"]
   },
   {
-    path: "/enterprisejobskills/resources-and-toolkits/skillfully/",
+    path: "/enterprisejobskills/resources-and-toolkits/skillfully",
     columns: [ "auto", "250px"]
   }
 ];
