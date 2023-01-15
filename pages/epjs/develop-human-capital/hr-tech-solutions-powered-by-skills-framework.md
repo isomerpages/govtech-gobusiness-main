@@ -16,6 +16,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <table>
 <tr>
 <th><b>Partner (Solution)</b></th>
+<th><b>Talent Attraction</b></th>
 <th><b>Performance Management</b></th>
 <th><b>Career Management </b></th>
 <th><b>Learning & Development</b></th>
