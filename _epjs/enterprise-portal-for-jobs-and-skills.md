@@ -35,13 +35,11 @@ Search for Skills Training Programmes to support your business transformation.
 
 ### Quick Links
 
-- [Professional Conversion Programme Application Portal](_nothing){:target="_blank"}{:rel="noopener"}
+- [Professional Conversion Programme Application Portal](https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP){:target="_blank"}{:rel="noopener"}
 
-- [Skills Development Levy](_nothing){:target="_blank"}{:rel="noopener"}
+- [Skills Development Levy](https://sdl.ssg.gov.sg/){:target="_blank"}{:rel="noopener"}
 
-- [Funding Management System](_nothing){:target="_blank"}{:rel="noopener"}
-
-- [SkillsFuture Enterprise Credit](_nothing){:target="_blank"}{:rel="noopener"}
+- [SkillsFuture Enterprise Credit](/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/){:target="_blank"}{:rel="noopener"}
 
 ---
 ### Not an Enterprise?

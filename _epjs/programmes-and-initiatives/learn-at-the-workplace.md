@@ -1,10 +1,10 @@
 ---
-title: Lean at the Workplace
-permalink: /enterprisejobskills/programmes-and-initiatives/lean-at-the-workplace/
+title: Learn at the Workplace
+permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/
 third_nav_title: Programmes and Initiatives
 ---
 
-## Lean at the Workplace
+## Learn at the Workplace
 
 ![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
 
