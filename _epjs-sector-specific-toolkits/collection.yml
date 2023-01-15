@@ -2,5 +2,6 @@ collections:
   epjs-sector-specific-toolkits:
     output: true
     order:
+      - back-to-all-toolkits.md
       - job-redesign-toolkits.md
       - skills-framework-templates.md
