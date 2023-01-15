@@ -1,5 +1,9 @@
 const customTables = [
   {
+    path: "/enterprisejobskills/resource-and-toolkits/skillfully",
+    columns: ["250px", "auto"],
+  },
+  {
     path: "/start-a-business/open-a-corporate-bank-account/",
     columns: ["32%", "auto"],
   },
@@ -33,27 +37,23 @@ const customTables = [
   },
   {
     path: "/productivity-solutions-grant/",
-    columns: ["20%", "auto"]
+    columns: ["20%", "auto"],
   },
   {
     path: "/browse-all-solutions*",
-    columns: ["auto", "30%"]
+    columns: ["auto", "30%"],
   },
   {
     path: "/productivity-solutions-grant/solutionrepo/*",
-    columns: ["10%", "auto", "20%", "10%", "10%"]
+    columns: ["10%", "auto", "20%", "10%", "10%"],
   },
   {
     path: "/energy-efficiency-grant/solutionrepo/*",
-    columns: ["10%", "auto", "10%"]
+    columns: ["10%", "auto", "10%"],
   },
   {
     path: "/enterprisejobskills/programmes-and-initiatives/develop-human-capital/hr-tech-solutions-powered-by-skills-framework/",
-    columns: ["auto", "10%", "10%", "10%", "10%","10%"]
-  },
-  {
-    path: "/enterprisejobskills/resources-and-toolkits/skillfully",
-    columns: [ "auto", "250px"]
+    columns: ["auto", "10%", "10%", "10%", "10%","10%"],
   }
 ];
 
