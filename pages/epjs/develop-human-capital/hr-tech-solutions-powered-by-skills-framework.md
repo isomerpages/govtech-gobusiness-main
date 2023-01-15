@@ -13,14 +13,14 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Table of HR Tech Solutions powered by Skills Framework
 
-<table style="font-size:14px;">
+<table>
 <tr>
-<th><b>Partner (Solution)</b></th>
-<th><b>Talent Attraction</b></th> 
-<th><b>Performance Management</b></th>
-<th><b>Career Management </b></th>
-<th><b>Learning & Development</b></th>
-<th><b>PSG*</b></th>
+<th style="font-size:14px;"><b>Partner (Solution)</b></th>
+<th style="font-size:14px;"><b>Talent Attraction</b></th> 
+<th style="font-size:14px;"><b>Performance Management</b></th>
+<th style="font-size:14px;"><b>Career Management </b></th>
+<th style="font-size:14px;"><b>Learning & Development</b></th>
+<th style="font-size:14px;"><b>PSG*</b></th>
 </tr>
 <tr>
 <td><b>AG NET Pte Ltd (AGHRM)</b><br><br>Mr Steve Koh<br>(Director)<br>(65) 9180 5706<br>
