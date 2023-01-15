@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Develop Human Capital
 
-![Develop Human Capital](/images/epjs/recruit talent.png)
+![Develop Human Capital](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
 
 {% include overview.html anchorlinks=site.data.ov007-epjs-develop-human-capital %}
 
