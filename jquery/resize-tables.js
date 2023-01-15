@@ -57,7 +57,7 @@ const customTables = [
   },
   {
     path: "/enterprisejobskills/resources-and-toolkits/skillfully/",
-    columns: ["10%", "auto"]
+    columns: ["250px", "auto"]
   }
 ];
 
