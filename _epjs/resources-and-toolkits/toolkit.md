@@ -4,26 +4,14 @@ permalink: /enterprisejobskills/resources-and-toolkits/toolkits/
 third_nav_title: Resources and Toolkits
 ---
 
-## Toolkits
+## All Toolkits
 
-![Recruit Talent](/images/epjs/recruit talent.png)
+![Toolkits](/images/epjs/toolkit banner.png)
 
-{% include overview.html anchorlinks=site.data.ov008-epjs-recruit-talent %}
+### General
 
----
-<a name="recruit-fresh-talent"></a>
-### Recruit Fresh Talent
+{% include panels-featurelink.html panels=site.data.epjs121_general_toolkits %}
 
-{% include panels-featurelink.html panels=site.data.epjs021_recruit_fresh %}
+### Sector Specific
 
----
-<a name="recruit-experienced-talent"></a>
-### Recruit Experienced Talent
-
-{% include panels-featurelink.html panels=site.data.epjs022_recruit_experienced %}
-
----
-<a name="progressive-hiring"></a>
-### Progressive Hiring
-
-{% include panels-featurelink.html panels=site.data.epjs023_recruit_progressive_hiring %}
+{% include panels-featurelink.html panels=site.data.epjs122_sector_toolkits %}
