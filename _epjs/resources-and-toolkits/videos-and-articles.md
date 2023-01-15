@@ -1,6 +1,6 @@
 ---
 title: Videos and Articles
-permalink: /enterprisejobskills/resources-and-toolkits/toolkits/
+permalink: /enterprisejobskills/resources-and-toolkits/videos-and-articles/
 third_nav_title: Resources and Toolkits
 ---
 
