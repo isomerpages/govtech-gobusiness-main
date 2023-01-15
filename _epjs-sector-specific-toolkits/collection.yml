@@ -1,0 +1,5 @@
+collections:
+  epjs-sector-specific-toolkits:
+    output: true
+    order:
+      - job-redesign-toolkits.md
