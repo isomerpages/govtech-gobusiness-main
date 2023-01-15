@@ -3,6 +3,7 @@
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempus tortor nec diam fermentum
   url: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/hr-tech-solutions-powered-by-skills-framework/
   text: Read More
+  url-new-tabl: true
 
 - banner: <img src="/images/epjs/Employment Support for Ex-Offenders.png" aria-hidden="true">
   title: Institute for Human Resource Professionals (IHRP) Certification
