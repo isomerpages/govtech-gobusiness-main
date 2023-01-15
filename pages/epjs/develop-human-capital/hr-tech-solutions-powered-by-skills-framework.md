@@ -13,6 +13,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Table of HR Tech Solutions powered by Skills Framework
 
+<p3>
 <table style="font-size:14px;">
 <tr>
 <th><b>Partner (Solution)</b></th>
@@ -31,6 +32,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <td><img style="width:20px; height:14px; align:center" src="/images/epjs/Tick.svg" alt="Checked"></td>
 </tr>
 </table>
+</p3>
 ---
 
 ### Resources
