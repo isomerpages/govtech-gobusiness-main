@@ -26,3 +26,5 @@ permalink: /enterprisejobskills/digital-services/
 SSG aims to provide a trusted channel through which public can report in good faith, about possible wrongdoing or irregularities regarding SSG-approved training organisations, employers, vendors, suppliers, contractors or any other matters.
 
 To report any irregularities, please contact [audit@ssg.gov.sg](mailto:audit@ssg.gov.sg) or address your feedback to the Internal Audit Unit, SkillsFuture Singapore, 1 Paya Lebar Link, #08-08, PLQ2 Paya Lebar Quarter, Singapore 408533, or call +65 6326 2828. Please provide supporting documents where possible, together with your contact details.
+
+<script src="/jquery/bp-menu-third-level-new-tab.js"></script>

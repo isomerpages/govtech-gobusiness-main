@@ -17,4 +17,4 @@ The SkillFully newsletter is created to provide enterprises with useful informat
 </tr>
 </table>
 
-
+<script src="/jquery/bp-menu-third-level-new-tab.js"></script>

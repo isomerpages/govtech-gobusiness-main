@@ -27,3 +27,5 @@ third_nav_title: Programmes and Initiatives
 ### Progressive Hiring
 
 {% include panels-featurelink.html panels=site.data.epjs023_recruit_progressive_hiring %}
+
+<script src="/jquery/bp-menu-third-level-new-tab.js"></script>
