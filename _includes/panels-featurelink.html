@@ -124,9 +124,14 @@
             <div class="panel-links-group">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
+                {% if panel.url-new-tab %}
                 <a class="panel-link"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
+                    target="_blank" rel="noopenner">
+                {% else %}
+                    <a class="panel-link"
+                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
+                {% endif %}
                     {% if panel.text %}{{panel.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
