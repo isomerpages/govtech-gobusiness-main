@@ -5,7 +5,7 @@ const listOfLinks = [
   "SFEC Microsite"
 ];
 
-const main = ".bp-menu-list>third-level-nav-div>li>a";
+const main = ".third-level-nav-div>li>a";
 const sub = ".third-level-nav-item";
 
 const makeNewTab = sel =>
