@@ -14,7 +14,7 @@ const listOfLinks = [
 ];
 
 const main = ".bp-menu-list>li>a";
-const sub = ".third-level-nav-item";
+const sub = ".third-level-nav-div";
 
 const makeNewTab = sel =>
   $(sel).each((i, e) =>
