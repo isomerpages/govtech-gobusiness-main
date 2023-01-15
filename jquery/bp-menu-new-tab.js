@@ -10,7 +10,10 @@ const listOfLinks = [
   "For new food service business owners",
   "Dashboard",
   "SkillsFuture for Enterprise",
-  "SFEC Microsite"
+  "SFEC Microsite",
+  "Skills Demand For Future Economy Report",
+  "Skillsfuture Funding Changes",
+  "Study on Returns to Employer Sponsored Training"
 ];
 
 const main = ".bp-menu-list>li>a";
