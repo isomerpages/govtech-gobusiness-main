@@ -20,20 +20,12 @@ const customTables = [
     columns: ["32%", "auto"],
   },
   {
-    path: "/licences/find-licence-by-agency/",
-    columns: ["auto", "200px"],
-  },
-  {
     path: "/licensing-faqs/food-shop-licence/",
     columns: ["12%", "70%", "auto"],
   },
   {
     path: "/licensing-faqs/food-stall-licence/",
     columns: ["12%", "70%", "auto"],
-  },
-  {
-    path: "/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
-    columns: ["50%", "50%"],
   },
   {
     path: "/productivity-solutions-grant/",
