@@ -16,5 +16,5 @@ third_nav_title: Resources and Toolkits
 
 {% include panels-featurelink.html panels=site.data.epjs122_sector_toolkits %}
 
-<script src="/jquery/bp-menu-third-level-new-tab.js"></script>
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

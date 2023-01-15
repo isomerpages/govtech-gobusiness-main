@@ -68,5 +68,5 @@ A study by MTI and SSG found that employer-sponsored training leads to better bu
 </div>
 </p>
 
-<script src="/jquery/bp-menu-third-level-new-tab.js"></script>
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
