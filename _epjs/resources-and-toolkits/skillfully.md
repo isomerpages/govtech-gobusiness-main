@@ -6,14 +6,15 @@ third_nav_title: Resources and Toolkits
 
 ## Skillfully
 
-![Develop Human Capital](/images/epjs/recruit talent.png)
+![Skillfully](/images/epjs/skillfully.png)
 
-{% include overview.html anchorlinks=site.data.ov007-epjs-develop-human-capital %}
+The SkillFully newsletter is created to provide enterprises with useful information on SkillsFuture initiatives. Through SkillFully, we hope to stay connected with you as you power up your workplace “fully” with competitive skills.
 
----
-<a name="enhance-hr-practices-n-systems"></a>
-### Enhance HR Practices and Systems
-
-{% include panels-featurelink.html panels=site.data.epjs011_enhance-hr-practices-n-systems %}
+<table>
+<tr>
+<td><img style="width:211px; height:298px; align:center" src="/images/epjs/skillfully-issue8.png" aria-hidden="true"></td>
+<td><a href="/epjs/skillfully/SkillfullyNewsletter_8_R10.pdf">SkillFully Issue #8 – Cutting Above the Rest Through Skills Training (PDF, 3716 KB)</a><br>Featured stories:<br><ul><li>Fly Entertainment – FLYing and not stopping the show during COVID</li><li>JM VisTec System – Rising up the value chain from distribution to development with skills</li><li>SaladStop! – Accomplishing its net-zero carbon goal</li>Shing Leck Engineering – Scaling ambitions through the Enterprise Leadership for Transformation Programme</li></ul></td>
+</tr>
+</table>
 
 
