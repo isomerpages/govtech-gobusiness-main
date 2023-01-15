@@ -24,10 +24,10 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 </tr>
 <tr>
 <td style="font-size:14px;"><b>AG NET Pte Ltd (AGHRM)</b><br><br>Mr Steve Koh<br>(Director)<br>(65) 9180 5706<br><a href="mailto:steve.koh@aghrm.com">steve.koh@aghrm.com</a></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/Tick.svg" alt="Checked"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/Tick.svg" alt="Checked"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/Tick.svg" alt="Checked"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/Tick.svg" alt="Checked"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
 </tr>
 </table>
 ---

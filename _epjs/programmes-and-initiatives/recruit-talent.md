@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Recruit Talent
 
-![Recruit Talent](/images/epjs/recruit talent.png)
+![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
 
 {% include overview.html anchorlinks=site.data.ov008-epjs-recruit-talent %}
 

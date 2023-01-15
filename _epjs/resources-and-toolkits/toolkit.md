@@ -6,7 +6,7 @@ third_nav_title: Resources and Toolkits
 
 ## All Toolkits
 
-![Toolkits](/images/epjs/toolkit banner.png)
+![Toolkits](/images/epjs/resources-and-toolkits/toolkits/toolkit banner.png)
 
 ### General
 
