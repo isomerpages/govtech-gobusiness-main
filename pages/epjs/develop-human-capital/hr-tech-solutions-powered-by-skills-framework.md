@@ -15,11 +15,11 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <table>
 <tr>
-<th width="240px"><b>Partner (Solution)</b></th>
-<th width="101px"><b>Performance Management</b></th>
-<th width="101px"><b>Career Management </b></th>
-<th width="101px"><b>Learning & Development</b></th>
-<th width="101px"><b>PSG*</b></th>
+<th><b>Partner (Solution)</b></th>
+<th><b>Performance Management</b></th>
+<th><b>Career Management </b></th>
+<th><b>Learning & Development</b></th>
+<th><b>PSG*</b></th>
 </tr>
 <tr>
 <td><b>AG NET Pte Ltd (AGHRM)</b><br><br>Mr Steve Koh<br>(Director)<br>(65) 9180 5706<br>
