@@ -52,7 +52,7 @@ const customTables = [
     columns: ["10%", "auto", "10%"]
   },
   {
-    path: "/enterprisejobskills/*",
+    path: "/enterprisejobskills/programmes-and-initiatives/develop-human-capital/hr-tech-solutions-powered-by-skills-framework/",
     columns: ["auto", "10%", "10%", "10%", "10%","10%"]
   }
 ];
