@@ -20,11 +20,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3732' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3733' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
 <td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3876' target='_blank'>Freight Master Version 8.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3877' target='_blank'>Freight Master Version 8.2</a><br></td>
 <td>Innosys Pte Ltd</td>
 </tr>
 </table>
