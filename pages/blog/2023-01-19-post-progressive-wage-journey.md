@@ -8,7 +8,7 @@ crumbs: gobusiness-how-to
 description: Here’s why it’s important for businesses to support Singapore’s progressive wage journey and how you can play a part.
 ---
 
-![Cleaners Cover Image](/images/blog/content/progressiveWage Feature.jpg)
+![Cleaners Cover Image](/images/blog/content/progressiveWage Feature.png)
 <figcaption> Singapore’s progressive wage policies seek to support lower-wage workers such as those in the cleaning industry (Source: Shutterstock) </figcaption>
 
 The past three years spent in the Covid-19 pandemic has brought to our attention just how essential Singapore’s frontline workers are. From the cleaners who sanitise our daily work environment to the retail and food services workers who keep our stores and restaurants running, these occupations were critical roles in the frontline that enabled us to tide through the pandemic.
