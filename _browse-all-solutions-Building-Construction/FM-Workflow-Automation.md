@@ -48,8 +48,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Swipetask Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2675' target='_blank'>Simplify Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2676' target='_blank'>Simplify Version 1</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3901' target='_blank'>FacilityBot</a><br></td>
+<td>FacilityBot Pte Ltd</td>
 </tr>
 </table>
 

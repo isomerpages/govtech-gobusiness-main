@@ -1,17 +1,15 @@
 ---
-title: 'Stormshield UTM Firewall Security'
+title: 'A2000 WebShop (B2C) Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution3054
 ---
 
-## Stormshield UTM Firewall Security
+## A2000 WebShop (B2C) Version 2
 
 ## Overview
 
 **Description**
 
-Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
-
-Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
+A2000 E-Commerce enables SMEs to extend their business online. With this solution, SMEs may open up new business opportunities and generate higher sales revenue with an automated sales channel. This is a digital platform that allows customers to purchase 24/7 on the e-commerce site, widen sales reach to a global audience, and attract & retain customers with data insights.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,20 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN210</td>
-<td style='padding: 10px;'>$2,540.00</td>
-<td style='padding: 10px;'>$2,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Juss_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN310</td>
-<td style='padding: 10px;'>$4,180.00</td>
-<td style='padding: 10px;'>$4,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN510</td>
-<td style='padding: 10px;'>$6,392.00</td>
-<td style='padding: 10px;'>$6,392.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710</td>
-<td style='padding: 10px;'>$10,126.00</td>
-<td style='padding: 10px;'>$10,126.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710 (Twin Pack)</td>
-<td style='padding: 10px;'>$20,515.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000 WebShop (B2C) Version 2 - Standard</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_A2000_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Juss Solutions Group Pte Ltd<br>Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
+ Company Name: A2000 Solutions Pte Ltd<br>Web URL: www.a2000erp.com <br><br>Contact Hotline: 67202000 <br><br>Contact Email: info@a2000.net <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
