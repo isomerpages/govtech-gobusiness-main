@@ -113,8 +113,8 @@ Sia-Huat - (04-003-00253)
 Sia-Huat - (04-003-00254)
 - SAFICO PRO
 Sia-Huat - (04-003-00255)
-- Siat-Huat - (04-003-00257)
-- Siat-Huat - (04-003-00289)
+- Sia-Huat - (04-003-00257)
+- Sia-Huat - (04-003-00289)
 - SmartChef - BT-700D3T
 
 ### Mode and Schedule of Payment 
