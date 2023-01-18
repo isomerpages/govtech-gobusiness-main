@@ -12,14 +12,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-
-
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2012500215'  target='_blank' rel='noopener'>1. Apply Teamwork in the Workplace</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021005580'  target='_blank' rel='noopener'>2. Practical Skills and Tools to Facilitate Productivity Improvement at your Workplace</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013049'  target='_blank' rel='noopener'>3. Manage Engineering Project </a><br>
-
 ## Pre-Approved Solutions
 
 <table>

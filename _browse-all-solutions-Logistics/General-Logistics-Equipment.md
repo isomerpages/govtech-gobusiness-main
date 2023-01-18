@@ -12,14 +12,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-
-
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022017218'  target='_blank' rel='noopener'>1. Manage Strategic Resources for Logistics</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503543'  target='_blank' rel='noopener'>2. Logistics Quality Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013033'  target='_blank' rel='noopener'>3. Apply Productivity Improvement Tools</a><br>
-
 ## Pre-Approved Solutions
 
 <table>

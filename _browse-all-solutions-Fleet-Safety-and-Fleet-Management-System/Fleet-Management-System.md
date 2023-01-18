@@ -18,7 +18,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513528'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management </a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020503586'  target='_blank' rel='noopener'>2. Supply Chain Solutioning/Modelling/Planning/Strategising</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504063'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2009500061'  target='_blank' rel='noopener'>3. WSQ Perform Delivery Operations</a><br>
 
 ## Pre-Approved Solutions
 
@@ -36,19 +36,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CROSSTRACK PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3303' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3302' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>Pivotal Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3743' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3742' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
 <td>FocusGuard Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3828' target='_blank'>Fleet Management Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3827' target='_blank'>Fleet Management Solutions</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3852' target='_blank'>FleetManager Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3851' target='_blank'>FleetManager Version 5.0</a><br></td>
 <td>LogisFleet Pte. Ltd.</td>
 </tr>
 </table>

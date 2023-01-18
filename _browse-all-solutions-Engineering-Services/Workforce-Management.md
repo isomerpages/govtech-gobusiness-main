@@ -18,7 +18,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504638'  target='_blank' rel='noopener'>1. Human Resource Analytics and Insights</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504848'  target='_blank' rel='noopener'>2. Align Human Resource Services with Business Needs</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018503658'  target='_blank' rel='noopener'>3. Implement Manpower Planning Processes</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018503658'  target='_blank' rel='noopener'>3. Implement Manpower Planning</a><br>
 
 ## Pre-Approved Solutions
 

@@ -1,17 +1,15 @@
 ---
-title: 'DM Social Media Marketing (Brand Awareness & Lead Generation)'
+title: 'ASFA Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution3527
 ---
 
-## DM Social Media Marketing (Brand Awareness & Lead Generation)
+## ASFA Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-WLP Digital Marketing package helps evaluate the company's core products/ services, competitiveness and propose effective brand positioning strategy to maximise brand competitive distinctiveness and brand value.
-
-It also comprises of active marketing campaigns that match several business targets & goals: from driving web traffic to maximising online sales and optimising lead conversions.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ## Solution Packages Option(s)
 
@@ -25,10 +23,31 @@ It also comprises of active marketing campaigns that match several business targ
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 SMM + SMA (2 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 1 (Software Only)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 2 (Software Only)</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 3 (Software + Training)</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'>$960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 4 (Software + Setup + Training)</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>$2,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -38,7 +57,7 @@ It also comprises of active marketing campaigns that match several business targ
 
 ## Vendor Information
 
- Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
+ Company name:ASFA MANAGEMENT PTE. LTD.<br>Web URL: www.asfamgt.com <br>Contact Hotline: 96370039 <br>Contact Email: amilu@asfamgt.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

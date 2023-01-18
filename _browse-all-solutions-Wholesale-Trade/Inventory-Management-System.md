@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3634' target='_blank'>EQuip Wholesales & Inventory System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3633' target='_blank'>EQuip Wholesales & Inventory System Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 </table>

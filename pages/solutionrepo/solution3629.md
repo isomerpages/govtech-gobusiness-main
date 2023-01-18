@@ -1,16 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance'
+title: 'Accounts101 - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution3629
 ---
 
-## Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance
+## Accounts101 - Xero
 
 ## Overview
 
 **Description**
 
-The Centre for Workplace Learning & Performance (CWLP) of the Singapore University of Social Sciences, Institute for Adult Learning, specialises in learning consultancy, which looks into the people dimension as its core. Through its workplace learning and employee-driven initiatives, projects are run with outcome alignment to several areas, including job redesign. The Centre leverages deep expertise in the adult learning domain for direct application to the workplace context. 
- 
+Xero is a cloud-based online accounting software that is simple to use and and be access anywhere & anytime. It allows unlimited users, invoice creation,  track cashflow, billing, bank reconciliation, expenses, inventory etc.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +23,41 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$3,064.00</td>
+<td style='padding: 10px;'>$3,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset</td>
+<td style='padding: 10px;'>$3,764.00</td>
+<td style='padding: 10px;'>$3,707.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset & Inventory</td>
+<td style='padding: 10px;'>$5,264.00</td>
+<td style='padding: 10px;'>$5,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset, Inventory & Reporting</td>
+<td style='padding: 10px;'>$8,064.00</td>
+<td style='padding: 10px;'>$8,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Danny Tan, Principal Manager / Mr Lim Kai Chuan, Senior Manager<br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0300
+ Company name:Accounts101 Pte Ltd<br>Web URL: https://www.accounts101.com.sg/ <br>Contact Hotline: 90844008 <br>Contact Email: admin@accounts101.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

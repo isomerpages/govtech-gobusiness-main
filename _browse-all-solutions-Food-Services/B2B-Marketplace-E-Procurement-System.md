@@ -32,7 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zeemart Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3522' target='_blank'>EzyProcure Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3521' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>SINGAPORE E-BUSINESS PTE. LTD.</td>
 </tr>
 </table>

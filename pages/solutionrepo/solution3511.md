@@ -1,15 +1,19 @@
 ---
-title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
+title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution3511
 ---
 
-## Job Redesign Consultancy - BDO Consultants Pte Ltd
+## Job Redesign Consultancy - Cadence Group Pte Ltd
 
 ## Overview
 
 **Description**
 
-BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
+Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+
+Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
+
+Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
 
 ## Solution Packages Option(s)
 
@@ -23,10 +27,10 @@ BDO Management Consulting Services is dedicated to the constant improvement and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +40,7 @@ BDO Management Consulting Services is dedicated to the constant improvement and 
 
 ## Vendor Information
 
- Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617 <br>Contact Email: chriskuang@bdo.com.sg
+ Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
