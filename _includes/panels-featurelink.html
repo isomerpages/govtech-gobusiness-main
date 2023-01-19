@@ -28,8 +28,7 @@
     .content .panel .panel-banner>img {
         width: auto;
         height: auto;
-        margin: 0;
-    
+        margin: 0;    
     }
 
     .content .panel .panel-image>img {
@@ -83,10 +82,10 @@
         <div class="panel-label">{% include label.html label=panel.label %}</div>
         {% endif %}
         {% if panel.image %}
-        <div class="panel-image">{{ panel.image }}</div>
+        <div class="panel-image" aria-hidden="true">{{ panel.image }}</div>
         {% endif %}
         {% if panel.banner %}
-        <div class="panel-banner">{{ panel.banner }}</div>
+        <div class="panel-banner" aria-hidden="true">{{ panel.banner }}</div>
         {% endif %}
         <h4 class="panel-title">{{ panel.title }}
         {% if panel.is_new %}
