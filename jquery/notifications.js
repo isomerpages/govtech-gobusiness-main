@@ -52,7 +52,7 @@ const custom_notifications = [
 ];
 
 // Do not edit the following code
-"
+
 const custom_notificationContainer = `<div class="notifications-container" role="complementary" aria-label="announcement"></div>`;
 $(document).ready(function () {
   $("html.has-navbar-fixed-top-widescreen").attr(
