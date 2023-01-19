@@ -52,7 +52,7 @@ Businesses must also pay relevant workers according to PW requirements, and pay 
 ![PW Mark Eligibility](/images/blog/content/progressiveWage 3.png)
 <figcaption> Businesses applying for PW Mark or PW Mark Plus should meet the above eligibility criteria (Source: <a href='https://www.sbf.org.sg/what-we-do/jobs-and-skills/progressive-wage-mark' target='_blank' rel='noopener'>Singapore Business Federation</a>) </figcaption>
 
-Employers that wish to be conferred the PW Mark Plus will need to adopt the practices within the [Tripartite Standard on Advancing Well-being of Lower-Wage Workers (TS-LWW)](https://www.tal.sg/tafep/getting-started/progressive/tripartite-standards#lower-wage-workers){:target="_blank"}{:rel="noopener"} administered by the [Tripartite Alliance for Fair adn Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep/employment-practices){:target="_blank"}{:rel="noopener"} . The TS-LWW guides employers on establishing progressive workplace practices in the areas of training and career development, workplace safety and health, and rest area provision, rendering better workplace support and welfare for lower-wage workers.
+Employers that wish to be conferred the PW Mark Plus will need to adopt the practices within the [Tripartite Standard on Advancing Well-being of Lower-Wage Workers (TS-LWW)](https://www.tal.sg/tafep/getting-started/progressive/tripartite-standards#lower-wage-workers){:target="_blank"}{:rel="noopener"} administered by the [Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep/employment-practices){:target="_blank"}{:rel="noopener"} . The TS-LWW guides employers on establishing progressive workplace practices in the areas of training and career development, workplace safety and health, and rest area provision, rendering better workplace support and welfare for lower-wage workers.
 
 #### Step 2: Update your occupational employment dataset (OED)
 
@@ -69,7 +69,7 @@ Once you’re logged in, select ‘Accreditation’ under the navigation menu, a
 ![GoBusiness Dashboard Accreditation Tab](/images/blog/content/progressiveWage 4.png)
 <figcaption> The ‘Accreditation’ tab on the Dashboard will lead applicants to the PW Mark application page </figcaption>
 
-The PW Mark application page provides an overview of the PW Mark accreditation and the application process. Read the instructions clearly before clicking on “Apply”. 
+The PW Mark application page provides an overview of the PW Mark accreditation and the application process. Read the instructions carefully before clicking on “Apply”. 
 
 ![PW Mark Application Page on GoBusiness Dashboard](/images/blog/content/progressiveWage 5.png)
 <figcaption> A summary of PW Mark and the application process are listed clearly on the PW Mark application page </figcaption>
