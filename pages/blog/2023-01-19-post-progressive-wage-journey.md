@@ -26,7 +26,7 @@ Administered by the [Singapore Business Federation (SBF)](https://www.sbf.org.sg
 
 First introduced in 2012, the Progressive Wage Model (PWM) features progressive wages and a clear progression pathway that facilitates advancement to higher job levels, ensuring that workers are paid wages that reflect their skills and productivity at each level.
 
-By setting out the minimum wage and training requirements for workers at different levels of skill, the PWM gives workers a way increase their wages by upgrading and improving their skills.
+By setting out the minimum wage and training requirements for workers at different levels of skill, the PWM gives workers a way to increase their wages by upgrading and improving their skills.
 
 ![Cleaners Wage Plan](/images/blog/content/progressiveWage 2.png)
 <figcaption> An example of the wage progression plan for the cleaning sector (Source: <a href='https://www.mom.gov.sg/employment-practices/progressive-wage-model/cleaning-sector#wage-requirements' target='_blank' rel='noopener'>Ministry of Manpower</a>) </figcaption>
