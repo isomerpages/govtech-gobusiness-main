@@ -116,6 +116,7 @@ Sia-Huat - (04-003-00255)
 - Siat-Huat - (04-003-00257)
 - Siat-Huat - (04-003-00289)
 - SmartChef - BT-700D3T
+- Ty Brand - RTCZ-TIC-B135
 
 ### Mode and Schedule of Payment 
 

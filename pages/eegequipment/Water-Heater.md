@@ -32,4 +32,5 @@ Heat pump technology
 - Asun - Asun-S/N-300L
 - Asun - Asun-S/N-500L
 - F&BSAS - FB1P420
+- F&BSAS - FB5P1850
 - Rheem - ProTerra 50 Gallon
