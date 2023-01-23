@@ -17,7 +17,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020503728'  target='_blank' rel='noopener'>1. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513528'  target='_blank' rel='noopener'>2. Digitalisation and Transformation of Transportation Management </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022016047'  target='_blank' rel='noopener'>2. Artificial Intelligence (AI) Object Detection</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504063'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
 
 ## Pre-Approved Solutions
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1889' target='_blank'>T-Guard</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1888' target='_blank'>T-Guard</a><br></td>
 <td>TNT Surveillance Pte Ltd</td>
 </tr>
 <tr>
@@ -40,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SSTA Technology Development Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3187' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3188' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
 <td>Solaris CES Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3227' target='_blank'>Proximity Sensor Safety Solution Version 4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3228' target='_blank'>Proximity Sensor Safety Solution Version 4</a><br></td>
 <td>NettBox Pte Ltd</td>
 </tr>
 </table>

@@ -26,35 +26,35 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic</td>
 <td style='padding: 10px;'>$8,331.00</td>
 <td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic+</td>
 <td style='padding: 10px;'>$11,046.00</td>
 <td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Lite</td>
 <td style='padding: 10px;'>$5,531.00</td>
 <td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Advance</td>
 <td style='padding: 10px;'>$11,831.00</td>
 <td style='padding: 10px;'>$11,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eKiosk - Advance</td>
 <td style='padding: 10px;'>$11,800.00</td>
 <td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_20220006_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

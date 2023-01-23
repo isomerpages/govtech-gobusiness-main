@@ -27,21 +27,21 @@ ABSS Premier is an accounting and inventory management system that integrates wi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Accounting Software Version 23.7 - Acc-Pro1 - (1) user Accounting Solutions with Setup, Training</td>
 <td style='padding: 10px;'>$3,503.26</td>
 <td style='padding: 10px;'>$3,503.26</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Accounting Software Version 23.7 - Acc-Pro2 - (3) users Accounting Solutions with Setup, Training and Remote Access</td>
 <td style='padding: 10px;'>$5,544.26</td>
 <td style='padding: 10px;'>$5,544.26</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS Accounting Software Version 23.7 - Acc-Pro3 - (3) users Accounting Solutions with Setup, Training and Cloud Access</td>
 <td style='padding: 10px;'>$5,424.26</td>
 <td style='padding: 10px;'>$5,424.26</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Acc-Pro_20210254_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

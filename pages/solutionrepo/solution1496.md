@@ -1,17 +1,17 @@
 ---
-title: 'Bristle Blaster / Cup Brush / Power Brush'
+title: 'Automatic Flange Spreader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1496
 ---
 
-## Bristle Blaster / Cup Brush / Power Brush
+## Automatic Flange Spreader
 
 ## Overview
 
 **Description**
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Cost of equipment capped at $3,000 per unit 
+Cost of equipment capped at $4,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $3,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>- Min. spreading force of 140 KN<br>- Must be certified intrinsically safe (e.g. ATEX certified)<br><br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

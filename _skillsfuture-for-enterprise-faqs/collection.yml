@@ -1,0 +1,5 @@
+collections:
+  skillsfuture-for-enterprise-faqs:
+    output: true
+    order:
+      - 01-skillsfuture-for-enterprise-faq.md

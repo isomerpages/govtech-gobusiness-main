@@ -26,21 +26,21 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic package</td>
 <td style='padding: 10px;'>$1,428.00</td>
 <td style='padding: 10px;'>$1,428.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic Package with Professional Services</td>
 <td style='padding: 10px;'>$2,228.00</td>
 <td style='padding: 10px;'>$2,228.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Premium Package with Professional Services</td>
 <td style='padding: 10px;'>$5,600.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

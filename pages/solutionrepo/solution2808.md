@@ -26,21 +26,21 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2808
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SEM</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SM</td>
 <td style='padding: 10px;'>$10,500.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEM SM</td>
 <td style='padding: 10px;'>$10,500.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

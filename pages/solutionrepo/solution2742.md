@@ -26,7 +26,7 @@ OOm is a digital performance marketing agency founded in 2006, with high compete
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OOM_Ecommerce_Solution - Value Plan</td>
 <td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/OOM_Ecommerce_20200761_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/OOM_Ecommerce_20200761_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

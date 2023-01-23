@@ -26,35 +26,35 @@ Carbonate HR is a web and mobile application based HR management system that foc
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 20</td>
 <td style='padding: 10px;'>$4,320.00</td>
 <td style='padding: 10px;'>$4,320.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 50</td>
 <td style='padding: 10px;'>$9,600.00</td>
 <td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 100</td>
 <td style='padding: 10px;'>$16,800.00</td>
 <td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 150</td>
 <td style='padding: 10px;'>$21,600.00</td>
 <td style='padding: 10px;'>$21,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 200</td>
 <td style='padding: 10px;'>$26,400.00</td>
 <td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

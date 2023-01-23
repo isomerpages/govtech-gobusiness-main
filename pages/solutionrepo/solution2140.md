@@ -1,15 +1,15 @@
 ---
-title: 'Automated Vaccination'
+title: 'Automated Irrigation & Dosing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2140
 ---
 
-## Automated Vaccination
+## Automated Irrigation & Dosing System
 
 ## Overview
 
 **Description**
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

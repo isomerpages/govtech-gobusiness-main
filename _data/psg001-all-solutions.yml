@@ -25,14 +25,15 @@
     - title: Building & Construction
       content: |
         
+        **BCA's Productivity Solutions Grant (PSG) will end on 31 January 2023. Please submit all application and supporting documents on or before 31 January 2023 for your application to be considered. For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
+        
         **IT Solution**
         - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
-        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
-        - <a href='/browse-all-solutions-Building-Construction/Intelligent-National-Productivity-and-Quality-Specification--iNPQS-'>Intelligent National Productivity and Quality Specification (iNPQS)</a>
         - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
         - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
         - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
         - <a href='/browse-all-solutions-Building-Construction/Digital-Wearables-for-Workers-Health-and-Safety'>Digital Wearables for Workers' Health and Safety</a>
+        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
@@ -83,10 +84,9 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Food-Services/Automated-Reservation'>Automated Reservation</a>
         - <a href='/browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment'>Digital/ Online Ordering and Payment</a>
-        - <a href='/browse-all-solutions-Food-Services/Queue-Management'>Queue Management</a>
         - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
+        - <a href='/browse-all-solutions-Food-Services/Automated-Reservation'>Automated Reservation</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
@@ -94,9 +94,6 @@
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Healthcare
       content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Healthcare/Teleconsultation-Video-'>Teleconsultation(Video)</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Healthcare/General-Healthcare-Equipment'>General Healthcare Equipment</a>
@@ -155,7 +152,6 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Retail/Retail-Analytics'>Retail Analytics</a>
         - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management-System'>Enhanced Retail Management System</a>
         - <a href='/browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Countering-the-Financing-of-Terrorism--TF--Screening'>Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening</a>
 
@@ -174,6 +170,7 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--Operations-'>Travel Management System (Operations)</a>
+        - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--E-Commerce-'>Travel Management System (E-Commerce)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
@@ -278,8 +275,8 @@
         Standalone solutions may be supported on top of any ERP solution category that does not contain similar features.  For example, a company who purchased an 'Accounting, CRM and Sales' solution can be supported if they apply for a standalone 'Inventory Management' solution. However, they will not be supported if they apply for a standalone CRM solution.<br>
     - title: Fleet Safety and Fleet Management System
       content: |
-        - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>
+        - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
     - title: Document Management and Mobile Access System
       content: |
         - <a href='/browse-all-solutions-Document-Management-and-Mobile-Access-System/Document-Management-and-Mobile-Access-System'>Document Management and Mobile Access System</a>
@@ -292,8 +289,8 @@
     - title: Cyber Security solutions
       content: |
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
 - accordion:
   letter: c
   data:

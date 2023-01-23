@@ -26,7 +26,7 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - QBA Simple</td>
 <td style='padding: 10px;'>$2,288.00</td>
 <td style='padding: 10px;'>$2,076.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Quest_Business_Advisory_20210337_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

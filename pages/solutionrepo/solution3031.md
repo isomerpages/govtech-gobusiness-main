@@ -28,28 +28,35 @@ SGDATAPOS Digital Ordering is easily integrated to other SGDATA add-on modules s
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package A, Basic On-line ordering</td>
 <td style='padding: 10px;'>$4,420.00</td>
 <td style='padding: 10px;'>$4,420.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package B, Basic On-line ordering with Customer Relationship Module</td>
 <td style='padding: 10px;'>$6,420.00</td>
 <td style='padding: 10px;'>$5,420.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package C, Comprehensive On-line ordering with CRM and Mobile Ordering System</td>
 <td style='padding: 10px;'>$8,220.00</td>
 <td style='padding: 10px;'>$7,220.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package D, Delta On-line ordering with CRM, MOS and KDS)</td>
 <td style='padding: 10px;'>$11,020.00</td>
 <td style='padding: 10px;'>$10,020.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package E, Elite On-line Mobile Ordering System</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex3_CR_wef29dec22.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -27,35 +27,35 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)</td>
 <td style='padding: 10px;'>$10,400.00</td>
 <td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 2 (up to 50 pax)</td>
 <td style='padding: 10px;'>$15,600.00</td>
 <td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 3 (up to 100 pax)</td>
 <td style='padding: 10px;'>$22,800.00</td>
 <td style='padding: 10px;'>$21,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 4 (up to 150 pax)</td>
 <td style='padding: 10px;'>$30,000.00</td>
 <td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 5 (up to 200 pax)</td>
 <td style='padding: 10px;'>$38,000.00</td>
 <td style='padding: 10px;'>$31,152.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
