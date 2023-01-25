@@ -24,7 +24,7 @@ For instance, encouraging your team to familiarise themselves with courses on [M
 
 Engaging with upskilling initiatives enables employees to find more growth in their roles, as your team can get a better perspective of their learning and professional development goals for work and career advancement. 
 
-![employees learning on the job](/images/blog/content/UpskillingEmployees 1.png)
+![employees learning on the job](/images/blog/content/UpskillingEmployees 1.jpg)
 <figcaption> Upskilling your team helps them to raise productivity, keep abreast of industry trends by addressing skill gaps, and develop a competitive edge (Source: Canva)  </figcaption>
 
 Upskilling can also help to boost morale: sending your team for upskilling courses is a sign that you’re taking an active interest in their future, increasing motivation in the workplace, which can raise productivity, lower attrition rates, and improve job satisfaction.
@@ -47,7 +47,7 @@ You can also turn to [LinkedIn Learning with Lynda](https://www.linkedin.com/lea
 
 From business courses to webinars, build learning paths with your employees customised to the skills they wish to acquire, and get insights into their progress to ensure that they’re on the right track. 
 
-![SkillsFuture Enterprise Portal for Jobs & Skills homepage](/images/blog/content/UpskillingEmployees 2.png)
+![SkillsFuture Enterprise Portal for Jobs & Skills homepage](/images/blog/content/UpskillingEmployees 2.jpg)
 <figcaption> Deepen your team’s knowledge of strategies for digital transformation with the SkillsFuture Digital Transformation & Innovation Programme (Source: <a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/digital-transformation-and-innovation-programme.html">Enterprise Portal for Jobs & Skills</a>) </figcaption>
 
 ### Get subsidies for training fees
