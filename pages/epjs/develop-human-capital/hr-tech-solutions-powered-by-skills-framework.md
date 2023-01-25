@@ -16,10 +16,10 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <table>
 <tr>
 <th style="font-size:14px;"><b>Economic Pillar</b></th>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_digital.jpg" alt="Digital Economy"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_green.jpg" alt="Green Economy"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_care.jpg" alt="Care Economy"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_i40.jpg" alt="Industry 4.0"></td>
+<td style="font-size:14px;"><img style="align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_digital.jpg" alt="Digital Economy"></td>
+<td style="font-size:14px;"><img style="align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_green.jpg" alt="Green Economy"></td>
+<td style="font-size:14px;"><img style="align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_care.jpg" alt="Care Economy"></td>
+<td style="font-size:14px;"><img style="align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_i40.jpg" alt="Industry 4.0"></td>
 </tr>
 <tr>
 <th style="font-size:14px;"><b>Emerging Domain</b></th> 
