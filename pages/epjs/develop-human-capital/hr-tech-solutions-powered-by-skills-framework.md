@@ -15,19 +15,18 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <table>
 <tr>
-<th style="font-size:14px;"><b>Partner (Solution)</b></th>
-<th style="font-size:14px;"><b>Talent Attraction</b></th> 
-<th style="font-size:14px;"><b>Performance Management</b></th>
-<th style="font-size:14px;"><b>Career Management </b></th>
-<th style="font-size:14px;"><b>Learning & Development</b></th>
-<th style="font-size:14px;"><b>PSG*</b></th>
+<th style="font-size:14px;"><b>Economic Pillar</b></th>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_digital.jpg" alt="Digital Economy"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_green.jpg" alt="Green Economy"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_care.jpg" alt="Care Economy"></td>
+<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_i40.jpg" alt="Industry 4.0"></td>
 </tr>
 <tr>
-<td style="font-size:14px;"><b>AG NET Pte Ltd (AGHRM)</b><br><br>Mr Steve Koh<br>(Director)<br>(65) 9180 5706<br><a href="mailto:steve.koh@aghrm.com">steve.koh@aghrm.com</a></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
-<td style="font-size:14px;"><img style="width:20px; height:14px; align:center" src="/images/epjs/programmes-and-initiatives/develop-human-capital/Tick.svg" alt="Checked"></td>
+<th style="font-size:14px;"><b>Emerging Domain</b></th> 
+<td style="font-size:14px;">1. AI, Data and Analytics<br>2. E-commerce and Digital Marketing<br>3. Cyber Security and Risk<br>4. Cloud, Systems and Infrastructure<br>5. Software Development<br>6. Technology Application and Management</td>
+<td style="font-size:14px;">1. Environmental and Sustainability Management<br>2. Green Infrastructure and Mobility<br>3. Energy, Resource Circularity and Decarbonisation<br>4. Sustainable Finance</td>
+<td style="font-size:14px;">1. Person-centred Care<br>2. Collaboration with Stakeholders<br>3. Teaching and Learning<br>4. Health and Wellness</td>
+<td style="font-size:14px;">1. Advanced Manufacturing and Supply Chain<br>2. Industrial IoT, Robotics and Automation<br>3. Product Innovation and Quality Management<br>4. Additive Manufacturing, Advanced Materials and Processes</td>
 </tr>
 </table>
 ---
