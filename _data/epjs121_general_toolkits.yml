@@ -4,3 +4,24 @@
   text: Download (ZIP, 11678 KB)
   url: /images/epjs/resources-and-toolkits/toolkits/Skills_Transformation_tk.zip
 
+- image: <img src="/images/epjs/resources-and-toolkits/toolkits/Grants Schemes And Programmes Navigator.png" aria-hidden="true">
+  title: Grants, Schemes And Programmes Navigator
+  description: Use this simple navigation tool to identify the right SkillsFuture initiative for your company.
+  text: Download
+  url: https://go.gov.sg/tk-prognavigator
+  url-new-tab: true
+
+- image: <img src="/images/epjs/resources-and-toolkits/toolkits/Smart Estates Talent Playbook (SETDP).png" aria-hidden="true">
+  title: Smart Estates Talent Playbook (SETDP)
+  description: The SETDP Playbook presents a global scan of emerging trends, future scenarios and identifies nine new job roles in Smart Estates development.
+  text: Download
+  url: https://go.gov.sg/tk-smartestate
+  url-new-tab: true
+
+- image: <img src="/images/epjs/resources-and-toolkits/toolkits/Whole Of Company Training Plan.png" aria-hidden="true">
+  title: Whole Of Company Training Plan
+  description: Create a company training plan using this template to provide greater clarity your organisation's skills needs and skills development plans.
+  text: Download
+  url: https://go.gov.sg/tk-comtrainingplan
+  url-new-tab: true
+
