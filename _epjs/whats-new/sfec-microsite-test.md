@@ -1,6 +1,6 @@
 ---
-title: SFEC Microsite
-permalink: /whats-new/sfec-microsite
+title: SFEC Microsite test
+permalink: /whats-new/sfec-microsite-test
 third_nav_title: What's New
 ---
 
