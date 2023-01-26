@@ -1,6 +1,6 @@
 ---
 title: 'Skillsfuture Funding Changes'
-permalink: : /whats-new/skillsfuture-funding-changes
+permalink: : /whats-new/Skillsfuture-Funding-Changes
 third_nav_title: What's New
 ---
 

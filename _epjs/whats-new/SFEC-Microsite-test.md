@@ -1,6 +1,6 @@
 ---
 title: 'SFEC Microsite test'
-permalink: : /whats-new/sfec-microsite-test
+permalink: : /whats-new/SFEC-Microsite-test
 third_nav_title: What's New
 ---
 

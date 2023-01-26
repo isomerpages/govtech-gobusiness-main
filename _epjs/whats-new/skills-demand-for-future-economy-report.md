@@ -1,6 +1,6 @@
 ---
 title: 'Skills Demand For Future Economy Report'
-permalink: : /whats-new/skills-demand-for-future-economy-report
+permalink: : /whats-new/Skills-Demand-For-Future-Economy-Report
 third_nav_title: What's New
 ---
 
