@@ -2,10 +2,10 @@
 // Note: Add the second <script> file into the respective .md file. If it doesn't work, add the first one too in this order.
 
 const listOfLinks = [
-  "SFEC Microsite",
-  "Skills Demand For Future Economy Report",
+  "SFEC Microsite test",
   "Skillsfuture Funding Changes",
-  "Study on Returns to Employer Sponsored Training"
+  "Study on Returns to Employer Sponsored Training",
+  "Skills Demand For Future Economy Report"
 ];
 
 const main = ".bp-menu-list>li>a";
