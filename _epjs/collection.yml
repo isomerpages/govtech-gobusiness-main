@@ -11,8 +11,8 @@ collections:
       - resources-and-toolkits/skillfully.md
       - resources-and-toolkits/toolkits.md
       - resources-and-toolkits/videos-and-articles.md
-      - whats-new/SFEC-Microsite-test.md
-      - whats-new/Skillsfuture-Funding-Changes.md
-      - whats-new/Study-on-Returns-to-Employer-Sponsored-Training.md
-      - whats-new/Skills-Demand-For-Future-Economy-Report.md
+      - /whats-new/sfec-microsite.md
+      - /whats-new/skillsfuture-funding-changes.md
+      - /whats-new/study-on-returns-to-employer-sponsored-training.md
+      - /whats-new/skills-demand-for-future-economy-report.md
       - digital-services.md
