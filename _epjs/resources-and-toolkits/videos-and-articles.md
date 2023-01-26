@@ -67,5 +67,5 @@ A Study by MTI and SSG found that employers-sponsored training leads to better b
   <iframe src="https://www.youtube.com/embed/dFC9RsomiLM" title="Speed up the Transfer of Global Capabilities | Capability Transfer Programme" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </p>
-<script src="/jquery/jquery.Min.js;"></script>
+<script src="/jquery/jquery.Min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>

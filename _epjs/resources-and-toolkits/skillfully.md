@@ -31,10 +31,7 @@ The SkillFully newsletter is created to provide enterprises with useful informat
 <td style="width:250px"><img style="width:211px; height:298px; align:center" src="/images/epjs/resources-and-toolkits/skillfully/Skillfully-issue4.png" aria-hidden="true"></td>
 <td style="width:auto"><a href = "https://www.enterprisejobskills.gov.sg/content/resources/SkillFully_Newsletter_4.pdf" target="_blank" rel="noopener">SkillFully Issue #4 - JTC x SSG: Uniting for Skills Development (PDF, 2172 KB)</a><br>Featured stories:<br><ul><li>DB Schenker and NamZ - Progressive employers tapping on SkillsFuture Work-Study Programme to win the war for talent</li><li>Fei Siong Group - Leaving no employee behind and marching together to brave the transformation</li><li>Top 10 courses adopted by enterprises</li><ul></td>
 </tr>
-
-
-</tr>
 </table>
 
-<script src="/jquery/jquery.Min.js;"></script>
+<script src="/jquery/jquery.Min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>
