@@ -1,5 +1,1 @@
-show: true
-button: false
-title: 'Announcement: '
-content: |
-  <p>Please note that the Funding Management System (FMS) read-only access will cease on 16 November 2022. If you need to look for previous claim submissions, you can access the information in the Training Partners Gateway, which has replaced the FMS.</p>
+show: false
