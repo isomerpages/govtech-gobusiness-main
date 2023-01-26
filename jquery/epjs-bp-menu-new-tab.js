@@ -2,14 +2,10 @@
 // Note: Add the second <script> file into the respective .md file. If it doesn't work, add the first one too in this order.
 
 const listOfLinks = [
-  "Start Business",
-  "Business Grants Portal",
-  "Covid-19",
-  "Licences and Permits",
-  "For event organisers",
-  "For new food service business owners",
-  "Dashboard",
-  "SkillsFuture for Enterprise"
+  "SFEC Microsite",
+  "Skills Demand For Future Economy Report",
+  "Skillsfuture Funding Changes",
+  "Study on Returns to Employer Sponsored Training"
 ];
 
 const main = ".bp-menu-list>li>a";
