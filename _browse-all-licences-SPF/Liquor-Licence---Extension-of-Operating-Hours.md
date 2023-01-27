@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/28130b3c-8a4f-494f-852f-f36c89ca1108" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/98280a1c-7a00-4d51-9f38-9da16595a2c2" type="primary" %}
 
 <H3>Application Details</H3>
 
