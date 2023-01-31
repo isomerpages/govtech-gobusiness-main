@@ -10,6 +10,8 @@ third_nav_title: Growth and Expansion
 
 Depending on your business sector and activities, there are various accreditations and certifications you can obtain to boost your business' credibility and improve consumer trust. Here is a list of relevant e-Services.
 
+The [Progressive Wage (PW) Mark](/accreditation/pwmark/) accrediation can be applied on GoBusiness directly. Below is a list of other relevant e-Services.
+
 ### e-Services for training and accreditation
 
 **Building and Construction Authority (BCA)**
