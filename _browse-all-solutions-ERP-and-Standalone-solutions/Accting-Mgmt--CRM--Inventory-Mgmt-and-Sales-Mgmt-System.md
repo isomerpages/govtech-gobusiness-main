@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1878' target='_blank'>NetSuite</a><br></td>
-<td>Oracle Corporation Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2017' target='_blank'>SAP Business One Version 10</a><br></td>
 <td>Axxis Consulting (S) Pte Ltd</td>
 </tr>

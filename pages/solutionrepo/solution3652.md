@@ -27,14 +27,14 @@ The Module automatically updates ECDA's Centre Management System with required i
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSmart E-FORM</td>
 <td style='padding: 10px;'>$1,400.00</td>
 <td style='padding: 10px;'>$1,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSmart E-FORM +</td>
 <td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1898' target='_blank'>ZettApps Finance & Order Processing Version 4.2</a><br></td>
-<td>Zetta Solution Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1994' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>R Systems IBIZCS PTE. LTD.</td>
 </tr>
@@ -118,6 +114,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3882' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
 <td>Madsoft Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3945' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td>Illum (9) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3967' target='_blank'>Highnix ERP Plus2 Version 4-3-35</a><br></td>
+<td>Highnix Pte Ltd</td>
 </tr>
 </table>
 

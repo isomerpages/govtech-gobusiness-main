@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>IDEE INFOCOM PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2370' target='_blank'>CROSSTRACK GO</a><br></td>
-<td>CROSSTRACK PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3303' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>Pivotal Pte. Ltd.</td>
 </tr>
@@ -50,6 +46,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3852' target='_blank'>FleetManager Version 5.0</a><br></td>
 <td>LogisFleet Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3960' target='_blank'>V3Nity-FMS Fleet Management System Version 3.0</a><br></td>
+<td>V3 Smart Technologies Pte Ltd</td>
 </tr>
 </table>
 

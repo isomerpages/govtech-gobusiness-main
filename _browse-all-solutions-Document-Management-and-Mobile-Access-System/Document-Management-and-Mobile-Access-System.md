@@ -59,6 +59,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3793' target='_blank'>Dropbox Business</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3972' target='_blank'>M365 SharePoint Package</a><br></td>
+<td>JK Technology Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

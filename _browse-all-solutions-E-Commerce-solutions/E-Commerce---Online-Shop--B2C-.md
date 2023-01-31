@@ -151,6 +151,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3701' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3939' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
+<td>ACCSS Digital Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3977' target='_blank'>Shopmatic</a><br></td>
+<td>Shopmatic Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -117,7 +117,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3599' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
-<td>Creative eWorld Pte Ltd</td>
+<td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3625' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>

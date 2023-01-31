@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1931' target='_blank'>Fortinet Fortigate (Next Generation Firewall)</a><br></td>
-<td>AWECREATION PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2401' target='_blank'>Eminet Sophos XGS Firewall</a><br></td>
 <td>EMINET PTE LTD</td>
 </tr>

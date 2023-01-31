@@ -4,10 +4,10 @@ collections:
     order:
       - back-to-all-psg-solutions.md
       - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System.md
-      - Accting-Mgmt--CRM--Inventory-Mgmt-and-Sales-Mgmt-System.md
-      - CRM-and-Sales-Mgmt-System.md
-      - CRM.md
       - Accting-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--CRM--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - CRM.md
+      - CRM-and-Sales-Mgmt-System.md
       - Inventory-Mgmt-and-Sales-Mgmt-System.md
       - Inventory-Mgmt-System.md
       - E-loyalty-Marketing-Automation.md

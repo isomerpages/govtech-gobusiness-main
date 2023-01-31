@@ -124,6 +124,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Advanced Micro Control Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3079' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
+<td>FidCorp Services Private Limited</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3119' target='_blank'>Moneyworks Version 9</a><br></td>
 <td>Ostendo Pte Ltd</td>
 </tr>
@@ -186,6 +190,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3473' target='_blank'>ABA - Xero Accounting Software</a><br></td>
 <td>Abundant Accounting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3484' target='_blank'>Xero</a><br></td>
+<td>RDC CORPORATE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3508' target='_blank'>DS: Xero</a><br></td>
@@ -262,6 +270,22 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3867' target='_blank'>Xero - Full Transformation Packages for SMEs Version 2021</a><br></td>
 <td>Acc Pro (Singapore) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3940' target='_blank'>Adaptive BizApp Version 5</a><br></td>
+<td>Adaptive Cloud Systems Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3948' target='_blank'>XERO Accounting Software</a><br></td>
+<td>TIMCOLE PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3953' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
+<td>Tisch Global Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3962' target='_blank'>Quickbooks Online Accounting Software</a><br></td>
+<td>Zenit Accountancy Pte. Ltd.</td>
 </tr>
 </table>
 
