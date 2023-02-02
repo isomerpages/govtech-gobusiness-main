@@ -1,16 +1,19 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
+title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution3513
 ---
 
-## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
+## Job Redesign Consultancy - Cadence Group Pte Ltd
 
 ## Overview
 
 **Description**
 
-SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
-Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
+Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+
+Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
+
+Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
 
 ## Solution Packages Option(s)
 
@@ -24,10 +27,10 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +40,7 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 
 ## Vendor Information
 
- Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973 <br>Contact Email: Jadean_yan@sgpc.sg
+ Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

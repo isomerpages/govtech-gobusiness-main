@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1931' target='_blank'>Fortinet Fortigate (Next Generation Firewall)</a><br></td>
-<td>AWECREATION PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2401' target='_blank'>Eminet Sophos XGS Firewall</a><br></td>
 <td>EMINET PTE LTD</td>
 </tr>
@@ -76,11 +72,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3132' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3133' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3534' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3535' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 </table>
