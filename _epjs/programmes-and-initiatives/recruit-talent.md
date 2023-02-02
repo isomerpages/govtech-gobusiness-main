@@ -14,19 +14,19 @@ third_nav_title: Programmes and Initiatives
 <a name="recruit-fresh-talent"></a>
 ### Recruit Fresh Talent
 
-{% include panels-featurelink.html panels=site.data.epjs021_recruit_fresh %}
+{% include panels-featurelink.html panels=site.data.epjs023_recruit-fresh-talent %}
 
 ---
 <a name="recruit-experienced-talent"></a>
 ### Recruit Experienced Talent
 
-{% include panels-featurelink.html panels=site.data.epjs022_recruit_experienced %}
+{% include panels-featurelink.html panels=site.data.epjs024_recruit-experienced-talent %}
 
 ---
 <a name="progressive-hiring"></a>
 ### Progressive Hiring
 
-{% include panels-featurelink.html panels=site.data.epjs023_recruit_progressive_hiring %}
+{% include panels-featurelink.html panels=site.data.epjs025_progressive-hiring %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>

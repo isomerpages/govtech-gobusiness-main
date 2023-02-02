@@ -14,7 +14,21 @@ third_nav_title: Programmes and Initiatives
 <a name="enhance-hr-practices-n-systems"></a>
 ### Enhance HR Practices and Systems
 
-{% include panels-featurelink.html panels=site.data.epjs011_enhance-hr-practices-n-systems %}
+{% include panels-featurelink.html panels=site.data.epjs011_enhance-hr-practices-and-systems %}
+
+----
+
+Skills Framework
+
+**Tap on the Skills Framework to design progressive HR practices, recognise skills and make informed decisions on skills investment.**
+
+The Skills Framework is developed for the Singapore workforce by the government in partnership with employers, industry associations, unions, and professional bodies to promote mastery and recognition of skills, and to foster a culture of lifelong learning.
+
+It provides information on employment, career pathways, job roles, existing and emerging skills and competencies, as well as relevant training programmes which allows you to design your human resource practices and make informed decisions on skills investment.
+
+The Skills Framework have been developed for the following sectors:
+
+{% include panels-featurelink.html panels=site.data.epjs012_skills-framework %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>

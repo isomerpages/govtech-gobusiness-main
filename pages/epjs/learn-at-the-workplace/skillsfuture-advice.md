@@ -1,0 +1,36 @@
+---
+title: 'SkillsFuture Advice'
+permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/in-house-training-support/national-centre-of-excellence-for-workplace-learning--nace-/skillsfuture-advice/
+---
+
+### Start your learning culture and bring SkillsFuture to your workplace
+
+The SkillsFuture Advice workshop is a 1.5-hour complimentary workshop that can be organised at your workplace. Comprising educational, interactive and reflective activities, the workshop aims to enable your employees to learn about the importance of skills upgrading and the resources that are available to support them.
+
+---
+
+### How you can benefit:
+
+<ul><li>- Kickstart your learning culture by organising the complimentary workshop at your workplace<br></li><li>Empower your employees to take charge of their skills development and strengthen employee engagement</li></ul>
+
+---
+
+### Eligibility criteria:
+
+<ul><li>- A minimum workshop size of 20 participants will be ideal for group interaction. You can invite other companies for a combined session if you are unable to meet the minimum requirement of 20 participants.</li></ul>
+
+---
+
+### How to apply:
+
+<ul><li>- Email [PED@ssg.gov.sg](mailto:PED@ssg.gov.sg) to indicate your interest in arranging for an exclusive SkillsFuture Advice workshop for your employees. Alternatively, you could encourage your employees to [register](https://go.gov.sg/im-keen){:target="_blank"}{:rel="noopener"} for a Webinar (conducted via Zoom/Demio/MS Teams)</li></ul>
+
+---
+
+[Read More](https://www.skillsfuture.gov.sg/advice#howcanibringittomyorganisation){:target="_blank"}{:rel="noopener"}
+---
+
+### Resources
+
+<ul><li>- [Frequently Asked Questions (PDF,KB)(https://www.enterprisejobskills.gov.sg/content/resources/FAQs-SkillsFuture-Advice.pdf)</li></ul>
+

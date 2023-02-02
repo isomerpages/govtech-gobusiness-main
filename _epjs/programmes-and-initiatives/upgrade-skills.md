@@ -8,25 +8,25 @@ third_nav_title: Programmes and Initiatives
 
 ![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
 
-{% include overview.html anchorlinks=site.data.ov008-epjs-recruit-talent %}
+{% include overview.html anchorlinks=site.data.ov009-epjs-update-skills %}
 
 ---
-<a name="recruit-fresh-talent"></a>
-### Recruit Fresh Talent
+<a name="skills-for-transformation"></a>
+### Skills for Transformation
 
-{% include panels-featurelink.html panels=site.data.epjs021_recruit_fresh %}
-
----
-<a name="recruit-experienced-talent"></a>
-### Recruit Experienced Talent
-
-{% include panels-featurelink.html panels=site.data.epjs022_recruit_experienced %}
+{% include panels-featurelink.html panels=site.data.epjs036_skills-for-transformation %}
 
 ---
-<a name="progressive-hiring"></a>
-### Progressive Hiring
+<a name="skillsfuture-queen-bee-networks"></a>
+### SkillsFuture Queen Bee Networks
 
-{% include panels-featurelink.html panels=site.data.epjs023_recruit_progressive_hiring %}
+{% include panels-featurelink.html panels=site.data.epjs037_skillsfuture-queen-bee-networks %}
+
+---
+<a name="training-grants"></a>
+### Training Grants
+
+{% include panels-featurelink.html panels=site.data.epjs038_training-grants %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>

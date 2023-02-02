@@ -8,25 +8,20 @@ third_nav_title: Programmes and Initiatives
 
 ![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
 
-{% include overview.html anchorlinks=site.data.ov008-epjs-recruit-talent %}
+{% include overview.html anchorlinks=site.data.ov011-epjs-learn-at-the-workplace %}
 
 ---
-<a name="recruit-fresh-talent"></a>
-### Recruit Fresh Talent
+<a name="building-a-learning-culture"></a>
+### Building a Learning Culture
 
-{% include panels-featurelink.html panels=site.data.epjs021_recruit_fresh %}
-
----
-<a name="recruit-experienced-talent"></a>
-### Recruit Experienced Talent
-
-{% include panels-featurelink.html panels=site.data.epjs022_recruit_experienced %}
+{% include panels-featurelink.html panels=site.data.epjs0511_building-a-learning-culture %}
 
 ---
-<a name="progressive-hiring"></a>
-### Progressive Hiring
+<a name="be-recognised-for-skills-achievements"></a>
+### Be Recognised for Skills Achievements
 
-{% include panels-featurelink.html panels=site.data.epjs023_recruit_progressive_hiring %}
+{% include panels-featurelink.html panels=site.data.epjs0512_be-recognised-for-skills-achievements %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>
