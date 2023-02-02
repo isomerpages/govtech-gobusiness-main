@@ -31,6 +31,4 @@ The Industry 4.0 Human Capital Initiative (IHCI), an initiative by the Singapore
 
 For more information on the IHCI Enabler Programme, please click on the Read More button below.
 
----
-
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/industry-4-0-human-capital-initiative-ihci.html){:target="_blank"}{:rel="noopener"}

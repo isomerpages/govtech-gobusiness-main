@@ -31,6 +31,4 @@ Developed by WSG as part of the enhancement to the existing Productivity Solutio
 
 <ul><li>- Submit your application through the [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} using this [step-by-step guide](https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/psg_jr/step-by-step-application-guide-for-psg-jr_v09%28final%29.pdf){:target="_blank"}{:rel="noopener"}. Do note that each UEN can only have one approved PSG-JR application.<br></li><li>You may also refer to [GoBusiness Gov Assist](https://www.gobusiness.gov.sg/browse-all-solutions-job-redesign-solutions/job-redesign-consultancy){:target="_blank"}{:rel="noopener"} for the list of pre-approved JR consultants and to engage them for quotations and PSG-JR proposals</li></ul>
 
----
-
 [Read More](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"}

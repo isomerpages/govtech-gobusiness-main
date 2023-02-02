@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Human Resource Skills Framework Template](https://go.gov.sg/tk-sfwhr){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/hr){:target="_blank"}{:rel="noopener"}

@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Precision Engineering Skills Framework Template](https://go.gov.sg/tk-sfwprecision){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/pe){:target="_blank"}{:rel="noopener"}

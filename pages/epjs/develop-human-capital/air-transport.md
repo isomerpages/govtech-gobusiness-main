@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Air Transport Skills Framework Template](https://go.gov.sg/tk-sfwairtransport){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/air-transport){:target="_blank"}{:rel="noopener"}

@@ -19,8 +19,4 @@ The [National Centre of Excellence for Workplace Learning (NACE)](https://www.ny
 
 <ul><li>- SMEs can receive up to 90% funding for all course fees & training consultancy projects<br></li><li>MNCs can receive up to 90% funding for all course fees & 70% funding for all training consultancy projects<br><br>Note: In view of SkillsFuture funding changes, please check with NACE on your subsidy eligibility.</li></ul>
 
----
-
 <a class="btn" href="https://www.nace.edu.sg/contact-us/" target="_blank" rel="noopener">Apply Now</a>&emsp;[Read More](https://www.nace.edu.sg/){:target="_blank"}{:rel="noopener"}
----
-

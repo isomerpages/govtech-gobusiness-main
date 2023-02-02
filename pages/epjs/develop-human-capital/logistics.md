@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Logistics Skills Framework Template](https://go.gov.sg/tk-sfwlogistics){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/logistics){:target="_blank"}{:rel="noopener"}

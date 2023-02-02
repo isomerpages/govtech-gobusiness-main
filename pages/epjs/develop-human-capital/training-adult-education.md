@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Training & Adult Education  Skills Framework Template](/sector-specific-toolkits/skills-framework-templates/)</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/tae){:target="_blank"}{:rel="noopener"}

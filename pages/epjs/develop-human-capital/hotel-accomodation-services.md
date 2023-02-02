@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Hotel & Accomodation Services Skills Framework Template](/sector-specific-toolkits/skills-framework-templates/)</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/has){:target="_blank"}{:rel="noopener"}

@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Social Service Skills Framework Template](https://go.gov.sg/tk-sfwsocial){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/social-service){:target="_blank"}{:rel="noopener"}

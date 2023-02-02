@@ -31,16 +31,12 @@ If your organisation is a Small and Medium Enterprise (SME), you will receive up
 
 <ul><li>- Your organisation must be registered or incorporated in Singapore<br></li><li>Your organisation's employment size must not exceed 200, OR your organisation's annual sales turnover must not exceed S$100 million<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible<br></li><li>Non-business entities not registered with ACRA, such as VWOs and societies are eligible</li></ul>
 
----
-
 [Read More](https://www.ssg.gov.sg/programmes-and-initiatives/training/enhanced-training-support-for-smes.html){:target="_blank"}{:rel="noopener"}
 ---
 
 ### C. SkillsFuture Mid-Career Enhanced Subsidy (MCES)
 
 Recognising that mid-career individuals may face greater challenges in undertaking training, the MCES is provided for Singaporeans aged 40 years old and above to upskill and reskill. As an employer, you will be eligible for up to 90% course fee funding when you sponsor your mid-career Singaporean employees for SSG-funded certifiable courses.
-
----
 
 [Read More](https://www.skillsfuture.gov.sg/enhancedsubsidy){:target="_blank"}{:rel="noopener"}
 ---

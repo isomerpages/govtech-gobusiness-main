@@ -3,6 +3,12 @@ title: 'SkillsFuture Enterprise Credit'
 permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/
 ---
 
+### Invest in your business and workforce transformation with additional support
+
+The SkillsFuture Enterprise Credit (SFEC) is a $10,000 credit provided by the government to further encourage enterprises to embark on business and workforce transformation. Eligible enterprises will benefit from an additional 90% funding support for their out-of-pocket expenses when they take up relevant initiatives for business and/or workforce transformation.
+
+---
+
 ### How it works:
 
 The SFEC supports programmes under two broad categories:<br><br><ul><li>**Enterprise Transformation**: Programmes that support enterprise transformation<br></li><li>**Workforce Transformation**: Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Career Conversion Programmes and sector-specific programmes</li></ul>

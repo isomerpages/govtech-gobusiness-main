@@ -31,8 +31,6 @@ You may refer to the [Lean Construction and Job Redesign Guide](https://www.wsg.
 
 -Up to 80% funding, capped at S$30,000 per organisation under the [Support for Job Redesign under Productivity Solutions Grant (PSG-JR)](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"} to work with pre-approved consultants to redesign work processes, tasks and responsibilities<br><br>'-Participating organisations will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
 
----
-
 [Read More](https://www.wsg.gov.sg/lean-construction-job-redesign-guide.html){:target="_blank"}{:rel="noopener"}
 ---
 

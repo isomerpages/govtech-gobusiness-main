@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Food Services Skills Framework Template](https://www.enterprisejobskills.gov.sg/content/toolkits/skillsframework-templates.html){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/food-services){:target="_blank"}{:rel="noopener"}

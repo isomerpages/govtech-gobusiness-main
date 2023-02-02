@@ -31,8 +31,6 @@ The following resources are available to help you embark on and sustain job rede
 
 -Get up to 80% funding, capped at S$30,000 per organisation under the [Support for Job Redesign under Productivity Solutions Grant (PSG_JR)](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"} to work with pre-approved consultants to redesign work processes, tasks and responsibilities.<br><br>'-Applicable until 31 Mar 2022, thereafter, the PSG-JR funding rate will revert to up to 70% of the JR consultancy cost, capped at $30,000 per organisation.<br><br>For more information: Call 6883 5885 or email WSG_Biz_Service@wsg.gov.sg
 
----
-
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/environmental-services-cleaning-job-redesign-initiative.html){:target="_blank"}{:rel="noopener"}
 ---
 

@@ -385,6 +385,4 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 
 [Frequently Asked Questions](/images/epjs/programmes-and-initiatives/upgrade-skills/Public FAQs for SkillsFuture_12Dec2022.docx)
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/series){:target="_blank"}{:rel="noopener"}

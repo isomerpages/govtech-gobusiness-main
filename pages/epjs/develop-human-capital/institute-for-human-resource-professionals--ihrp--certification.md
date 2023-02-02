@@ -31,6 +31,4 @@ Learn more about IHRP Certification pathways, related resources, tools and more 
 
 [Institute of Human Resource Professional Website](https://www.ihrp.sg){:target="_blank"}{:rel="noopener"}
 
----
-
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/national-human-resource-professional-certification-framework.html){:target="_blank"}{:rel="noopener"}

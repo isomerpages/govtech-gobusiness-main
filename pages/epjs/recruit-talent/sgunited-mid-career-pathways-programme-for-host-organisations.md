@@ -27,6 +27,4 @@ Trainees will receive a training allowance of up to $3,800 per month for the dur
 
 All host organisations must fulfil the following criteria to qualify for the SGUnited Mid-Career Pathways Programme:<br><br>a. Host organisation must be registered or incorporated in Singapore;<br><br>b. Offer attachments ranging from four to six months<br><br>c. Provide clear attachment description(s) and development plan(s) that would provide mature mid-career individuals with meaningful developmental opportunities during the attachment period, subject to approval by the appointed programme manager.<br><br>d. Co-fund 30% of the training allowance for the duration of the attachment<br><br>e. Have the available headcount(s) to hire, and must commit to converting the trainee(s) into employment by the end of the attachment, if their performance is satisfactory<br><br>f. Able to pay same or higher salaries upon early or post-attachment conversion
 
----
-
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/SGUnitedMidCareerPathways-HostOrganisations.html){:target="_blank"}{:rel="noopener"}

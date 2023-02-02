@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Workplace Safety & Health Skills Framework Template](https://go.gov.sg/tk-sfwworkplace){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/wsh){:target="_blank"}{:rel="noopener"}

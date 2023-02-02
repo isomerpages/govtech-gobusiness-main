@@ -3,6 +3,12 @@ title: 'Capability Transfer Programme'
 permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/capability-transfer-programme/
 ---
 
+### Acquire and transfer global capabilities from foreign specialists to your local workforce
+
+The Capability Transfer Programme (CTP) supports organisations in the transfer of global capabilities from foreign specialists to our local workforce.<br><br>Through the CTP, you can acquire deep capabilities and develop cutting-edge expertise in your local workforce to improve business competitiveness.
+
+---
+
 ### How you can benefit:
 
 <ul><li>- Receive funding support to facilitate capability transfer from foreign specialists to your local employees<br></li><li>Acquire new capabilities to develop your local employees and stay competitive</li></ul>
@@ -24,7 +30,5 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/capabi
 ### Related Digital Services
 
 [Enquiry Form](https://form.gov.sg/#!/5e128f348967b800114ce47c){:target="_blank"}{:rel="noopener"}
-
----
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html){:target="_blank"}{:rel="noopener"}

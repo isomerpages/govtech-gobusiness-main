@@ -31,15 +31,11 @@ The following resources are available to help you embark on and sustain job rede
 
 -Up to 80% funding, capped at S$30,000 per organisation under the [Support for Job Redesign under Productivity Solutions Grant (PSG-JR)](https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html){:target="_blank"}{:rel="noopener"} to work with pre-approved consultants to redesign work processes, tasks and responsibilities<br><br>'-Participating companies will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.<br><br>'-Up to 90% funding for course fees and salary support under the Job Redesign Reskilling Programme for Security Officers (SOs) to redesign SO's job roles and reskill them for more effective operations on OBC sites
 
----
-
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/security-productivity-initiative.html){:target="_blank"}{:rel="noopener"}
 ---
 
 ### Resources
 
 -[Guide for Security Workforce Transformation](https://www.form.gov.sg/#!/5ba20e96ec6d40000f3bfd77){:target="_blank"}{:rel="noopener"}
-
----
 
 <a class="btn" href="WSG_Biz_Service@wsg.gov.sg" target="_blank" rel="noopener">Apply Now</a>

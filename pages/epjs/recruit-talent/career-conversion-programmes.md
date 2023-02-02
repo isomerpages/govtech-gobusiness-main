@@ -31,6 +31,4 @@ Place-and-Train / Redeployment / Job Redesign (JR) Reskilling:<br><br>The partic
 
 To find out more about CCPs, click on the Read More link below.
 
----
-
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/career-conversion-programmes-employers.html){:target="_blank"}{:rel="noopener"}

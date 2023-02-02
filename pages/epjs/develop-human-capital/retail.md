@@ -17,6 +17,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 <ul><li>- [Retail Skills Framework Template](https://go.gov.sg/tk-sfwretail){:target="_blank"}{:rel="noopener"}</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/retail){:target="_blank"}{:rel="noopener"}

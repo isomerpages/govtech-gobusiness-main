@@ -23,15 +23,11 @@ Nominate your exemplary employees for the SkillsFuture Fellowships to honour the
 
 <ul><li>- Applications will open in Dec 2021.<br><br>For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).</li></ul>
 
----
-
 [Read More](https://www.skillsfuture.gov.sg/fellowships){:target="_blank"}{:rel="noopener"}
 ---
 
 ### Related Digital Services
 
 -[Frequently Asked Questions](https://www.skillsfuture.gov.sg/fellowships){:target="_blank"}{:rel="noopener"}
-
----
 
 <a class="btn" href="https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx" target="_blank" rel="noopener">Apply Now</a>
