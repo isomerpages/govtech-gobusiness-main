@@ -23,31 +23,10 @@ EZ Accounting is a Singapore based, integrated Accounting solution with numerous
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (3 Users)</td>
-<td style='padding: 10px;'>$5,853.00</td>
-<td style='padding: 10px;'>$5,853.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (5 Users)</td>
-<td style='padding: 10px;'>$7,473.00</td>
-<td style='padding: 10px;'>$7,473.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise (Unlimited Users)</td>
-<td style='padding: 10px;'>$12,473.00</td>
-<td style='padding: 10px;'>$12,473.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise Plus (Unlimited Users)</td>
-<td style='padding: 10px;'>$12,873.00</td>
-<td style='padding: 10px;'>$12,598.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (Single User)</td>
+<td style='padding: 10px;'>$4,033.00</td>
+<td style='padding: 10px;'>$4,033.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1888' target='_blank'>T-Guard</a><br></td>
-<td>TNT Surveillance Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2606' target='_blank'>Fleet Safety Management System Version 7</a><br></td>
 <td>SmartComm Electronics Pte Ltd</td>
 </tr>
@@ -40,12 +36,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SSTA Technology Development Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3188' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3189' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
 <td>Solaris CES Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3228' target='_blank'>Proximity Sensor Safety Solution Version 4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3229' target='_blank'>Proximity Sensor Safety Solution Version 4</a><br></td>
 <td>NettBox Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3959' target='_blank'>T-GUARD</a><br></td>
+<td>TNT Surveillance Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3979' target='_blank'>FLEETEYE</a><br></td>
+<td>ACE PRIME ROBOTICS</td>
 </tr>
 </table>
 

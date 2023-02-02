@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1940' target='_blank'>Zoho CRM</a><br></td>
-<td>Zoho Corporation Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2299' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte Ltd</td>
 </tr>
@@ -52,19 +48,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Eber Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3389' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3390' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3594' target='_blank'>Crystal Dash CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3595' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3621' target='_blank'>CARDDIO Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3622' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3705' target='_blank'>1SME</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3706' target='_blank'>1SME</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 </table>

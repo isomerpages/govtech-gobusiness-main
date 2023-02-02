@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - LiT Strategy Pte Ltd'
+title: 'Job Redesign Consultancy - NTUC LearningHub Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution3515
 ---
 
-## Job Redesign Consultancy - LiT Strategy Pte Ltd
+## Job Redesign Consultancy - NTUC LearningHub Pte Ltd
 
 ## Overview
 
 **Description**
 
-LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
+NTUC LearningHub is the leading Continuing Education and Training provider in Singapore which aims to transform the lifelong employability of working people. Since our corporatisation in 2004, we have helped over 26,000 organisations and achieved more than 2.6 million training places. As a Total Learning Solutions provider, we forge partnerships to offer a wide range of relevant end-to-end advisory & training to help companies and individuals transform and upskill.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - LiT Strategy Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyLiTStrategy.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyNTUCLearningHub.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 
 ## Vendor Information
 
- Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
+ Company name: NTUC LearningHub Pte Ltd<br>Web URL: http://www.ntuclearninghub.com/<br>Contact Name: NTUC LearningHub Corporate Sales<br>Contact Hotline: +65 6336 5482<br>Contact Email: corpsales@ntuclearninghub.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

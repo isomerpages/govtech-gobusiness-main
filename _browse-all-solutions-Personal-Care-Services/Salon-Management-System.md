@@ -44,23 +44,23 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3252' target='_blank'>Qashier Smart POS for Beauty Version 2022.01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3253' target='_blank'>Qashier Smart POS for Beauty Version 2022.01</a><br></td>
 <td>Qashier Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3420' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3421' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3608' target='_blank'>BOTG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3609' target='_blank'>BOTG</a><br></td>
 <td>ANTSCOLONY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3702' target='_blank'>Beautec centralized version</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3703' target='_blank'>Beautec centralized version</a><br></td>
 <td>Beautec Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3725' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3726' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>Sequoia Pte Ltd</td>
 </tr>
 </table>
