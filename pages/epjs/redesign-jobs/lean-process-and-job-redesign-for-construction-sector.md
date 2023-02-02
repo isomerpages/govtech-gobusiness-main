@@ -1,6 +1,6 @@
 ---
 title: 'Lean Process and Job Redesign for Construction Sector'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/job-redesign-for-the-retail-sector/job-redesign-programme-for-environmental-services--cleaning--sector/lean-process-and-job-redesign-for-construction-sector/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/lean-process-and-job-redesign-for-construction-sector/
 ---
 
 ### Implement job redesign to create quality and meaningful careers in the Construction Sector

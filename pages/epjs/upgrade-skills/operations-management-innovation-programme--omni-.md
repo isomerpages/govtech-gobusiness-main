@@ -1,6 +1,6 @@
 ---
 title: 'Operations Management Innovation Programme (OMNI)'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/operations-management-innovation-programme--omni-/
+permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/operations-management-innovation-programme--omni-/
 ---
 
 ### Train key personnel to be technology innovators to achieve manufacturing excellence

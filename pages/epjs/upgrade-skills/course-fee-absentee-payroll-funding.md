@@ -1,6 +1,6 @@
 ---
 title: 'Course Fee & Absentee Payroll Funding'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/operations-management-innovation-programme--omni-/skillsfuture-for-digital-workplace/skillsfuture-series/skillsfuture-queen-bee-networks/capability-transfer-programme/course-fee-absentee-payroll-funding/
+permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/
 ---
 
 ### Lower the cost of skills training with funding support from the Government

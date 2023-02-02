@@ -1,6 +1,6 @@
 ---
 title: 'Career Trial'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/career-trial/
 ---
 
 ### How you can benefit:

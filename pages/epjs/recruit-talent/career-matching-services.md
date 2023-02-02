@@ -1,6 +1,6 @@
 ---
 title: 'Career Matching Services'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/sgunited-jobs-and-skills-placement-partners-initiative/sgunited-mid-career-pathways-programme-for-host-organisations/skillsfuture-career-transition-programme/career-matching-services/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/career-matching-services/
 ---
 
 ### How you can benefit:

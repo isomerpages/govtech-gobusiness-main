@@ -1,6 +1,6 @@
 ---
 title: 'Accountancy'
-permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/institute-for-human-resource-professionals--ihrp--certification/senior-worker-early-adopter-grant-and-part-time-re-employment-grant/accountancy/
+permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/accountancy/
 ---
 
 ### Resources

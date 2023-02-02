@@ -1,6 +1,6 @@
 ---
 title: 'Employment Support for Ex-Offenders'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/sgunited-jobs-and-skills-placement-partners-initiative/sgunited-mid-career-pathways-programme-for-host-organisations/skillsfuture-career-transition-programme/career-matching-services/employment-support-for-ex-offenders/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/employment-support-for-ex-offenders/
 ---
 
 ### About this programme:

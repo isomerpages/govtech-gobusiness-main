@@ -1,6 +1,6 @@
 ---
 title: 'Job Redesign Programme for Environmental Services (Cleaning) Sector'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/job-redesign-for-the-retail-sector/job-redesign-programme-for-environmental-services--cleaning--sector/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/job-redesign-programme-for-environmental-services--cleaning--sector/
 ---
 
 ### Implement job redesign to transform your business and attract and retain local talent

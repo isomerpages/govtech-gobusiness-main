@@ -1,6 +1,6 @@
 ---
 title: 'Industry 4.0 Human Capital Initiative (IHCI)'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/job-redesign-for-the-retail-sector/job-redesign-programme-for-environmental-services--cleaning--sector/lean-process-and-job-redesign-for-construction-sector/security-productivity-initiative/industry-40-human-capital-initiative--ihci-/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/industry-40-human-capital-initiative--ihci-/
 ---
 
 ### Strength your strategic HR and job redesign capabilities for 4.0 transformation

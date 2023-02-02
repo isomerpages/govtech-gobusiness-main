@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Queen Bee Networks'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/operations-management-innovation-programme--omni-/skillsfuture-for-digital-workplace/skillsfuture-series/skillsfuture-queen-bee-networks/
+permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-queen-bee-networks/
 ---
 
 ### How you can benefit:

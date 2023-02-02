@@ -1,6 +1,6 @@
 ---
 title: 'Smart Estates Talent Development Programme'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/job-redesign-for-the-retail-sector/job-redesign-programme-for-environmental-services--cleaning--sector/lean-process-and-job-redesign-for-construction-sector/security-productivity-initiative/industry-40-human-capital-initiative--ihci-/service-industry-transformation-programme--sitp--for-lifestyle-sectors/smart-estates-talent-development-programme/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/smart-estates-talent-development-programme/
 ---
 
 ### Prepare your workforce in new and emerging skills and job roles in the Smart Estates ecosystem

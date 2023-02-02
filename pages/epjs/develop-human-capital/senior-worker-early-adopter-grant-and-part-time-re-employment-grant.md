@@ -1,6 +1,6 @@
 ---
 title: 'Senior Worker Early Adopter Grant and Part Time Re-employment Grant'
-permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/institute-for-human-resource-professionals--ihrp--certification/senior-worker-early-adopter-grant-and-part-time-re-employment-grant/
+permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/senior-worker-early-adopter-grant-and-part-time-re-employment-grant/
 ---
 
 ### Receive funding support as you tap on the rich experience and skillsets of senior workers

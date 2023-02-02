@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Career Transition Programme'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/sgunited-jobs-and-skills-placement-partners-initiative/sgunited-mid-career-pathways-programme-for-host-organisations/skillsfuture-career-transition-programme/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-career-transition-programme/
 ---
 
 ### Train, host, and hire mid-career individuals through project attachments at your company

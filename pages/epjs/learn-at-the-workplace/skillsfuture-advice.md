@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Advice'
-permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/in-house-training-support/national-centre-of-excellence-for-workplace-learning--nace-/skillsfuture-advice/
+permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/skillsfuture-advice/
 ---
 
 ### Start your learning culture and bring SkillsFuture to your workplace

@@ -1,6 +1,6 @@
 ---
 title: 'Capability Transfer Programme'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/operations-management-innovation-programme--omni-/skillsfuture-for-digital-workplace/skillsfuture-series/skillsfuture-queen-bee-networks/capability-transfer-programme/
+permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/capability-transfer-programme/
 ---
 
 ### How you can benefit:

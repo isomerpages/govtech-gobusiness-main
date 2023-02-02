@@ -1,6 +1,6 @@
 ---
 title: 'Job Redesign for the Food Services Sector'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/job-redesign-for-the-food-services-sector/
 ---
 
 ### Implement job redesign to create quality and meaningful careers in the Food Services Sector

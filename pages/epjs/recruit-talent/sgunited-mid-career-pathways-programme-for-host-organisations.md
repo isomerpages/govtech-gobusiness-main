@@ -1,6 +1,6 @@
 ---
 title: 'SGUnited Mid-Career Pathways Programme for Host Organisations'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/sgunited-jobs-and-skills-placement-partners-initiative/sgunited-mid-career-pathways-programme-for-host-organisations/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-mid-career-pathways-programme-for-host-organisations/
 ---
 
 ### Tap on experienced mid-career individuals to enrich your workforce

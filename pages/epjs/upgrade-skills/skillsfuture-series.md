@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Series'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/operations-management-innovation-programme--omni-/skillsfuture-for-digital-workplace/skillsfuture-series/
+permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-series/
 ---
 
 ### Stay up-to-date on emerging trends as you transform your business

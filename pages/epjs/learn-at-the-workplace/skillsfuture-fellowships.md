@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Fellowships'
-permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/in-house-training-support/national-centre-of-excellence-for-workplace-learning--nace-/skillsfuture-advice/skillsfuture-employer-awards/skillsfuture-fellowships/
+permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/skillsfuture-fellowships/
 ---
 
 ### Recognise your inspirational employees who champion lifelong learning

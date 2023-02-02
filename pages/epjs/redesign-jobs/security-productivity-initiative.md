@@ -1,6 +1,6 @@
 ---
 title: 'Security Productivity Initiative'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/job-redesign-for-the-retail-sector/job-redesign-programme-for-environmental-services--cleaning--sector/lean-process-and-job-redesign-for-construction-sector/security-productivity-initiative/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/security-productivity-initiative/
 ---
 
 ### Implement job redesign to create quality and meaningful careers in the Security Industry

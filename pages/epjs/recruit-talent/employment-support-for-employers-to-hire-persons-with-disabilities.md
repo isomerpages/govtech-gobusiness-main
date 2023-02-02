@@ -1,6 +1,6 @@
 ---
 title: 'Employment Support for Employers to Hire Persons with Disabilities'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/sgunited-jobs-and-skills-placement-partners-initiative/sgunited-mid-career-pathways-programme-for-host-organisations/skillsfuture-career-transition-programme/career-matching-services/employment-support-for-ex-offenders/employment-support-for-employers-to-hire-persons-with-disabilities/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/employment-support-for-employers-to-hire-persons-with-disabilities/
 ---
 
 ### Tap on the skills and potential of Persons with Disabilities

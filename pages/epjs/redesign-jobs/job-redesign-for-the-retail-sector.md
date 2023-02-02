@@ -1,6 +1,6 @@
 ---
 title: 'Job Redesign for the Retail Sector'
-permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/hotel-job-redesign-initiative/job-redesign-for-the-food-services-sector/job-redesign-for-the-retail-sector/
+permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/job-redesign-for-the-retail-sector/
 ---
 
 ### Implement job redesign to create quality and meaningful careers in the Retail Sector

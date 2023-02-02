@@ -1,6 +1,6 @@
 ---
 title: 'Tourism'
-permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/institute-for-human-resource-professionals--ihrp--certification/senior-worker-early-adopter-grant-and-part-time-re-employment-grant/accountancy/air-transport/aerospace/biopharmaceuticals-manufacturing/built-environment/design/early-childhood-care-education/electronics/energy-chemicals/energy-power/engineering-services/environmental-services/financial-services/food-manufacturing/food-services/healthcare/hotel-accomodation-services/human-resource/infocomm-technology/intellectual-property/landscape/logistics/marine-and-offshore/media/precision-engineering/public-transport/retail/sea-transport/security/social-service/tourism/
+permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/tourism/
 ---
 
 The Skills Frameworks are developed for the Singapore workforce by the government in partnership with employers, industry associations, unions, and professional bodies. The Skills Frameworks provide up-to-date information on employment, career pathways, occupations, job roles, existing and emerging skills and competencies, as well as relevant education and training programmes. Employers can use the Skills Frameworks to design progressive human resource practices to recognise skills and make informed decisions on skills investment. The Skills Frameworks are part of the SkillsFuture movement to promote mastery and recognition of skills, and to foster a culture of lifelong learning

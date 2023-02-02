@@ -1,6 +1,6 @@
 ---
 title: 'SGUnited Jobs and Skills Placement Partners initiative'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/sgunited-jobs-and-skills-placement-partners-initiative/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/
 ---
 
 The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and WSG aims to increase the placement of local jobseekers who are mature, long-term unemployed, or persons with disabilities, into qualifying jobs and attachments.<br><br><br>Through this initiative, you have the opportunity to tap on the strong recruitment capabilities of employment agencies to support your hiring needs.

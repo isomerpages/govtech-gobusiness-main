@@ -1,6 +1,6 @@
 ---
 title: 'Career Conversion Programmes'
-permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/career-trial/career-conversion-programmes/
+permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/career-conversion-programmes/
 ---
 
 ### Reskill Mid-career Individuals through Career Conversion Programmes

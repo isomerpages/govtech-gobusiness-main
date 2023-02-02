@@ -1,6 +1,6 @@
 ---
 title: 'National Centre of Excellence for Workplace Learning (NACE)'
-permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/in-house-training-support/national-centre-of-excellence-for-workplace-learning--nace-/
+permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning--nace-/
 ---
 
 ### Develop sustainable workplace learning systems to enhance business transformation

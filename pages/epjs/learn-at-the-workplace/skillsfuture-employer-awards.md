@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Employer Awards'
-permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/in-house-training-support/national-centre-of-excellence-for-workplace-learning--nace-/skillsfuture-advice/skillsfuture-employer-awards/
+permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/skillsfuture-employer-awards/
 ---
 
 ### For more information about the awards and past recipients, click [here](https://www.skillsfuture.gov.sg/employerawards).

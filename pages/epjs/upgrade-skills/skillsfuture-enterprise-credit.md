@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Enterprise Credit'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/operations-management-innovation-programme--omni-/skillsfuture-for-digital-workplace/skillsfuture-series/skillsfuture-queen-bee-networks/capability-transfer-programme/course-fee-absentee-payroll-funding/skillsfuture-enterprise-credit/
+permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-enterprise-credit/
 ---
 
 ### Invest in your business and workforce transformation with additional support
