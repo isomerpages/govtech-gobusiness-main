@@ -17,8 +17,8 @@ third_nav_title: Programmes and Initiatives
 {% include panels-featurelink.html panels=site.data.epjs011_enhance-hr-practices-and-systems %}
 
 ----
-
-Skills Framework
+<a name="skills-framework"></a>
+### Skills Framework
 
 **Tap on the Skills Framework to design progressive HR practices, recognise skills and make informed decisions on skills investment.**
 
