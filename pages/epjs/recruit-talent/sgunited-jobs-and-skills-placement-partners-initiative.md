@@ -45,7 +45,7 @@ Employers may approach any SGUJS Placement Partners via the contact information 
 <td></ul></td>
 </tr>
 <tr>
-<td>Charterhouse Pte Ltd*<br><br>SGUJS@charterhouse.com.sg<br>6950 0397 <br><br>* Due to the scope of Charterhouse’s employment agency license, Charterhouse can only support individuals who are or used to be in middle to senior management positions.<br><br>Please approach other appointed SGUJS Placement Partners if you need assistance filling other positions.</td>
+<td>Charterhouse Pte Ltd*<br><br>SGUJS@charterhouse.com.sg<br>6950 0397 <br><br>* Due to the scope of Charterhouse's employment agency license, Charterhouse can only support individuals who are or used to be in middle to senior management positions.<br><br>Please approach other appointed SGUJS Placement Partners if you need assistance filling other positions.</td>
 <td>Accounting & Finance, Banking & Finance Services,<br>Human Resource, Supply Chain,<br>Healthcare & Life Sciences,<br>Sales & Marketing, Digital Analytics,<br>Information Technology</td>
 <td></ul></td>
 <td></ul></td>
