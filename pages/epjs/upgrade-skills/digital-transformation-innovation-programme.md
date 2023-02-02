@@ -11,19 +11,19 @@ The Digital Transformation & Innovation Programme aims to train key personnel in
 
 ### How you can benefit:
 
-<ul><li>- Learn to be proficient in the Digital Transformation & Innovation (DTITM) methodology to analyse and (re-)design your business strategy and model, value streams, and system architecture to unlock new business growth and achieve sustainable competitive advantage</li></ul>
+<ul><li> Learn to be proficient in the Digital Transformation & Innovation (DTITM) methodology to analyse and (re-)design your business strategy and model, value streams, and system architecture to unlock new business growth and achieve sustainable competitive advantage</li></ul>
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li>- SME-sponsored trainees can enjoy up to 90% course fee grant under the [Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)](https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes){:target="_blank"}{:rel="noopener"}, subject to eligibility criteria <br></li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)](https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> SME-sponsored trainees can enjoy up to 90% course fee grant under the [Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)](https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes){:target="_blank"}{:rel="noopener"}, subject to eligibility criteria <br></li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)](https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy){:target="_blank"}{:rel="noopener"}</li></ul>
 
 ---
 
 ### Eligibility criteria:
 
-<ul><li>- Applicants should have a minimum of 3 years related working experience and relevant qualifications.<br></li><li>Eligibility interview can be arranged for those who do not meet the course entry requirements.</li></ul>
+<ul><li> Applicants should have a minimum of 3 years related working experience and relevant qualifications.<br></li><li>Eligibility interview can be arranged for those who do not meet the course entry requirements.</li></ul>
 
 ---
 

@@ -23,7 +23,7 @@ The SkillsFuture Queen Bees (SFQBs) are industry leaders who take on a leading r
 
 ### How to start:
 
-<ul><li>- Select a suitable SFQB network from the list below<br><br>'-Contact a Skills Manager to start your skills development journey<br><br>Join a SFQB network to take advantage of the support ecosystem for your organisation skills development efforts.<br>Hear from others who have benefitted from a SFQB network [here](https://go.gov.sg/epjs-sfqb-video){:target="_blank"}{:rel="noopener"}.</li></ul>
+<ul><li> Select a suitable SFQB network from the list below<br><br>'-Contact a Skills Manager to start your skills development journey<br><br>Join a SFQB network to take advantage of the support ecosystem for your organisation skills development efforts.<br>Hear from others who have benefitted from a SFQB network [here](https://go.gov.sg/epjs-sfqb-video){:target="_blank"}{:rel="noopener"}.</li></ul>
 
 ---
 
@@ -33,6 +33,6 @@ The SkillsFuture Queen Bees (SFQBs) are industry leaders who take on a leading r
 
 ### Resources
 
-<ul><li>- [What is a skillsFuture Queen Bee Network?](https://go.gov.sg/epjs-sfqb-video){:target="_blank"}{:rel="noopener"}<br></li><li>[A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)](https://www.enterprisejobskills.gov.sg/content/resources/SSG_SFQB_Infographic%202022.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> [What is a skillsFuture Queen Bee Network?](https://go.gov.sg/epjs-sfqb-video){:target="_blank"}{:rel="noopener"}<br></li><li>[A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)](https://www.enterprisejobskills.gov.sg/content/resources/SSG_SFQB_Infographic%202022.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
 
 <a class="btn" href="https://service-portal.skillsfuture.gov.sg/" target="_blank" rel="noopener">Apply Now</a>

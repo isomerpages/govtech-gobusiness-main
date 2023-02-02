@@ -17,7 +17,7 @@ Baseline course fee funding are available to lower the cost when you sponsor you
 
 ### Eligibility criteria:
 
-<ul><li>- Your organisation must be registered or incorporated in Singapore<br></li><li>Non-business entities not registered with ACRA, such as Voluntary Welfare Organisations (VWOs) and societies are eligible<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible</li></ul>
+<ul><li> Your organisation must be registered or incorporated in Singapore<br></li><li>Non-business entities not registered with ACRA, such as Voluntary Welfare Organisations (VWOs) and societies are eligible<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible</li></ul>
 
 ---
 
@@ -29,7 +29,7 @@ If your organisation is a Small and Medium Enterprise (SME), you will receive up
 
 ### Eligibility criteria:
 
-<ul><li>- Your organisation must be registered or incorporated in Singapore<br></li><li>Your organisation's employment size must not exceed 200, OR your organisation's annual sales turnover must not exceed S$100 million<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible<br></li><li>Non-business entities not registered with ACRA, such as VWOs and societies are eligible</li></ul>
+<ul><li> Your organisation must be registered or incorporated in Singapore<br></li><li>Your organisation's employment size must not exceed 200, OR your organisation's annual sales turnover must not exceed S$100 million<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible<br></li><li>Non-business entities not registered with ACRA, such as VWOs and societies are eligible</li></ul>
 
 [Read More](https://www.ssg.gov.sg/programmes-and-initiatives/training/enhanced-training-support-for-smes.html){:target="_blank"}{:rel="noopener"}
 ---
@@ -49,19 +49,19 @@ AP funding is a grant to help you defray the manpower costs incurred when you se
 
 ### Eligibility criteria:
 
-<ul><li>- Your organisation must be registered or incorporated in Singapore<br></li><li>Non-business entities not registered with ACRA, such as VWOs and societies are eligible<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible</li></ul>
+<ul><li> Your organisation must be registered or incorporated in Singapore<br></li><li>Non-business entities not registered with ACRA, such as VWOs and societies are eligible<br></li><li>Sole proprietorships which meet all of the above criteria are also eligible</li></ul>
 
 ---
 
 ### To qualify for course fee and absentee payroll funding, your employees must meet the following criteria:
 
-<ul><li>- Must be Singapore Citizens or Singapore Permanent Residents<br></li><li>Trainee is not a full-time national serviceman<br></li><li>Courses have to be fully paid for by the employer</li></ul>
+<ul><li> Must be Singapore Citizens or Singapore Permanent Residents<br></li><li>Trainee is not a full-time national serviceman<br></li><li>Courses have to be fully paid for by the employer</li></ul>
 
 ---
 
 ### How to apply:
 
-<ul><li>- There is no need to apply for course fee funding as it is automatically computed and deducted from the course fee<br></li><li>Please declare your employees' hourly salary information [here](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"} to claim for absentee payroll funding</li></ul>
+<ul><li> There is no need to apply for course fee funding as it is automatically computed and deducted from the course fee<br></li><li>Please declare your employees' hourly salary information [here](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"} to claim for absentee payroll funding</li></ul>
 
 ---
 
@@ -95,11 +95,11 @@ With effect from 1 Jan 2022, SSG will introduce a fixed Absentee Payroll (AP) ra
 
 ### Resources
 
-<ul><li>- [Information and guide to claim Absentee Payroll Funding (PDF,1643kb)](https://www.enterprisejobskills.gov.sg/content/resources/TGS_CM_Absentee%20Payroll%20Onboarding%20Guide_v18.0.pdf){:target="_blank"}{:rel="noopener"}</li><li>[SkillsFuture Funding Changes FAQ (PDF,137KB)](https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20FAQ.pdf){:target="_blank"}{:rel="noopener"}</li><li>[SkillsFuture Funding Changes Infographic (PDF,137KB)](https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20Infographic.pdf){:target="_blank"}{:rel="noopener"}</li><li>[Annex A: Revision to SkillsFuture Course Fee Funding (PDF,139KB)](https://www.enterprisejobskills.gov.sg/content/resources/AnnexA_Revisions%20to%20Course%20Fee%20Funding.pdf){:target="_blank"}{:rel="noopener"}</li><li>[Annex B: Revisions to Absentee Payroll Funding (PDF,108KB)](https://www.enterprisejobskills.gov.sg/content/resources/AnnexB_Revisions%20to%20Absentee%20Payroll%20Funding.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> [Information and guide to claim Absentee Payroll Funding (PDF,1643kb)](https://www.enterprisejobskills.gov.sg/content/resources/TGS_CM_Absentee%20Payroll%20Onboarding%20Guide_v18.0.pdf){:target="_blank"}{:rel="noopener"}</li><li>[SkillsFuture Funding Changes FAQ (PDF,137KB)](https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20FAQ.pdf){:target="_blank"}{:rel="noopener"}</li><li>[SkillsFuture Funding Changes Infographic (PDF,137KB)](https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20Infographic.pdf){:target="_blank"}{:rel="noopener"}</li><li>[Annex A: Revision to SkillsFuture Course Fee Funding (PDF,139KB)](https://www.enterprisejobskills.gov.sg/content/resources/AnnexA_Revisions%20to%20Course%20Fee%20Funding.pdf){:target="_blank"}{:rel="noopener"}</li><li>[Annex B: Revisions to Absentee Payroll Funding (PDF,108KB)](https://www.enterprisejobskills.gov.sg/content/resources/AnnexB_Revisions%20to%20Absentee%20Payroll%20Funding.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
 
 ---
 
 ### Related Digital Services
 
-<ul><li>- [View the full library of Courses](https://courses.enterprisejobskills.gov.sg/Course_Internet/){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> [View the full library of Courses](https://courses.enterprisejobskills.gov.sg/Course_Internet/){:target="_blank"}{:rel="noopener"}</li></ul>
 

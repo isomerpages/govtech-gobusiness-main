@@ -11,7 +11,7 @@ The Institute for Human Resource Professionals (IHRP) is the Human Resource (HR)
 
 ### How you can benefit:
 
-<ul><li>- Adopt HR standards of excellence, endorsed by industry and tripartite partners to foster a vibrant HR services eco-system to drive innovation and change<br></li><li>Develop your organisation's HR professionals' skills and competencies through progressive and developmental pathways that allow them to maximise human capital in order to drive business growth</li></ul>
+<ul><li> Adopt HR standards of excellence, endorsed by industry and tripartite partners to foster a vibrant HR services eco-system to drive innovation and change<br></li><li>Develop your organisation's HR professionals' skills and competencies through progressive and developmental pathways that allow them to maximise human capital in order to drive business growth</li></ul>
 
 ---
 

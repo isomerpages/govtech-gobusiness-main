@@ -19,10 +19,10 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 </tr>
 <tr>
 <th><b>Emerging Domain</b></th>
-<td><ul><li>- AI, Data and Analytics</li><li>E-commerce and Digital Marketing</li><li>Cyber Security and Risk</li><li>Cloud, Systems and Infrastructure</li><li>Software Development</li><li>Technology Application and Management</li></ul></td>
-<td><ul><li>- Environmental and Sustainability Management</li><li>Green Infrastructure and Mobility</li><li>Energy, Resource Circularity and Decarbonisation</li><li>Sustainable Finance</li></ul></td>
-<td><ul><li>- Person-centred Care</li><li>Collaboration with Stakeholders</li><li>Teaching and Learning</li><li>Health and Wellness</li></ul></td>
-<td><ul><li>- Advanced Manufacturing and Supply Chain</li><li>Industrial IoT, Robotics and Automation</li><li>Product Innovation and Quality Management</li><li>Additive Manufacturing, Advanced Materials and Processes</li></ul></td>
+<td><ul><li> AI, Data and Analytics</li><li>E-commerce and Digital Marketing</li><li>Cyber Security and Risk</li><li>Cloud, Systems and Infrastructure</li><li>Software Development</li><li>Technology Application and Management</li></ul></td>
+<td><ul><li> Environmental and Sustainability Management</li><li>Green Infrastructure and Mobility</li><li>Energy, Resource Circularity and Decarbonisation</li><li>Sustainable Finance</li></ul></td>
+<td><ul><li> Person-centred Care</li><li>Collaboration with Stakeholders</li><li>Teaching and Learning</li><li>Health and Wellness</li></ul></td>
+<td><ul><li> Advanced Manufacturing and Supply Chain</li><li>Industrial IoT, Robotics and Automation</li><li>Product Innovation and Quality Management</li><li>Additive Manufacturing, Advanced Materials and Processes</li></ul></td>
 </tr>
 <tr>
 <th><b></b></th>
@@ -365,19 +365,19 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 
 ### How you can benefit:
 
-<ul><li>- Gain access to subsidised courses curated under the SkillsFuture Series across basic, intermediate and advanced proficiency levels. The course list will be expanded progressively.<br></li><li>Broaden your knowledge on emerging trends to understand how they could disrupt or propel your business and workforce as you transform</li></ul>
+<ul><li> Gain access to subsidised courses curated under the SkillsFuture Series across basic, intermediate and advanced proficiency levels. The course list will be expanded progressively.<br></li><li>Broaden your knowledge on emerging trends to understand how they could disrupt or propel your business and workforce as you transform</li></ul>
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li>- Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses<br></li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above<br><br>Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit [SSG Funding Information](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"}.</li></ul>
+<ul><li> Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses<br></li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above<br><br>Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit [SSG Funding Information](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"}.</li></ul>
 
 ---
 
 ### How to apply:
 
-<ul><li>- Find out more information on the emerging skills and the range of [SkillsFuture Series courses](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> Find out more information on the emerging skills and the range of [SkillsFuture Series courses](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html){:target="_blank"}{:rel="noopener"}</li></ul>
 
 ---
 

@@ -11,7 +11,7 @@ Whether you are hiring for the short or long term, we can help to match your job
 
 ### How you can benefit:
 
-<ul><li>- **Hire for the right fit** by getting matched with candidates who fit in well with your job requirements and organisation's culture<br></li><li>**Hire for familiarity** by conducting learning journeys at your premises with candidates who have been carefully screened. This will allow candidates to develop a better understanding of the job requirements and expectations.<br></li><li>**Hire for attitude and potential** by connecting with your candidates beyond their resumes through curated speed networking sessions, before shortlisting them for formal interviews</li></ul>
+<ul><li> **Hire for the right fit** by getting matched with candidates who fit in well with your job requirements and organisation's culture<br></li><li>**Hire for familiarity** by conducting learning journeys at your premises with candidates who have been carefully screened. This will allow candidates to develop a better understanding of the job requirements and expectations.<br></li><li>**Hire for attitude and potential** by connecting with your candidates beyond their resumes through curated speed networking sessions, before shortlisting them for formal interviews</li></ul>
 
 ---
 
@@ -29,5 +29,5 @@ Register your interest for Career Matching Services via our feedback portal at [
 
 ### Resources
 
-<ul><li>- [Job Matching Solutions (PDF, 553 KB)](/images/epjs/programmes-and-initiatives/recruit-talent/job-matching-solutions.pdf)</li></ul>
+<ul><li> [Job Matching Solutions (PDF, 553 KB)](/images/epjs/programmes-and-initiatives/recruit-talent/job-matching-solutions.pdf)</li></ul>
 

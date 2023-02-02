@@ -391,11 +391,11 @@ A separate application for SFEC is not necessary. ESG will notify all newly elig
 
 ### Resources
 
-<ul><li>- [Frequently Asked Questions](https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq){:target="_blank"}{:rel="noopener"}<br></li><li>[Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)](https://www.enterprisejobskills.gov.sg/content/resources/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf){:target="_blank"}{:rel="noopener"}<br></li><li>[SFEC Claim guide](https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide){:target="_blank"}{:rel="noopener"}<br></li><li>[SFEC Infographic Guide (PDF,734KB)](https://www.enterprisejobskills.gov.sg/content/resources/SFEC_Infographic_2022_Final.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> [Frequently Asked Questions](https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq){:target="_blank"}{:rel="noopener"}<br></li><li>[Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)](https://www.enterprisejobskills.gov.sg/content/resources/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf){:target="_blank"}{:rel="noopener"}<br></li><li>[SFEC Claim guide](https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide){:target="_blank"}{:rel="noopener"}<br></li><li>[SFEC Infographic Guide (PDF,734KB)](https://www.enterprisejobskills.gov.sg/content/resources/SFEC_Infographic_2022_Final.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
 
 ---
 
 ### Related Digital Services
 
-<ul><li>- [SFEC Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> [SFEC Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"}</li></ul>
 

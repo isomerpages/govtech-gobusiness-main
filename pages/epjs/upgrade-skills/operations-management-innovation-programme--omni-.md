@@ -17,13 +17,13 @@ Equip your key personnel with the necessary knowledge and skills to systematical
 
 ### Subsidies and funding:
 
-<ul><li>- SME-sponsored trainees can enjoy up to 90% course fee grant under the [Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)](https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes){:target="_blank"}{:rel="noopener"}, subject to eligibility criteria <br></li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)] (https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy)</li></ul>
+<ul><li> SME-sponsored trainees can enjoy up to 90% course fee grant under the [Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)](https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes){:target="_blank"}{:rel="noopener"}, subject to eligibility criteria <br></li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)] (https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy)</li></ul>
 
 ---
 
 ### Eligibility criteria:
 
-<ul><li>- Applicants should possess a degree in any discipline or a diploma with a minimum of 3 years of related working experience<br></li><li>Applicants who do not have the required academic qualifications are still welcome to apply, but shortlisted candidates may be required to attend an interview for special approval<br></li><li>Proficiency in written and spoken English</li></ul>
+<ul><li> Applicants should possess a degree in any discipline or a diploma with a minimum of 3 years of related working experience<br></li><li>Applicants who do not have the required academic qualifications are still welcome to apply, but shortlisted candidates may be required to attend an interview for special approval<br></li><li>Proficiency in written and spoken English</li></ul>
 
 ---
 

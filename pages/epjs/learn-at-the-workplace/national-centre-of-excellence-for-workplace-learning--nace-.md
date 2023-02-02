@@ -11,12 +11,12 @@ The [National Centre of Excellence for Workplace Learning (NACE)](https://www.ny
 
 ### How you can benefit:
 
-<ul><li>- Harness the power of learning at the workplace by formalising on-the-job training to optimise performance and business impact<br></li><li>Develop a culture of coaching and mentoring to enable effective transfer of learning<br></li><li>Build a learning culture and strengthen employee experience as employees feel invested in their skills development</li></ul>
+<ul><li> Harness the power of learning at the workplace by formalising on-the-job training to optimise performance and business impact<br></li><li>Develop a culture of coaching and mentoring to enable effective transfer of learning<br></li><li>Build a learning culture and strengthen employee experience as employees feel invested in their skills development</li></ul>
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li>- SMEs can receive up to 90% funding for all course fees & training consultancy projects<br></li><li>MNCs can receive up to 90% funding for all course fees & 70% funding for all training consultancy projects<br><br>Note: In view of SkillsFuture funding changes, please check with NACE on your subsidy eligibility.</li></ul>
+<ul><li> SMEs can receive up to 90% funding for all course fees & training consultancy projects<br></li><li>MNCs can receive up to 90% funding for all course fees & 70% funding for all training consultancy projects<br><br>Note: In view of SkillsFuture funding changes, please check with NACE on your subsidy eligibility.</li></ul>
 
 <a class="btn" href="https://www.nace.edu.sg/contact-us/" target="_blank" rel="noopener">Apply Now</a>&emsp;[Read More](https://www.nace.edu.sg/){:target="_blank"}{:rel="noopener"}

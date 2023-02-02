@@ -15,13 +15,13 @@ Nominate your exemplary employees for the SkillsFuture Fellowships to honour the
 
 ### How you can benefit:
 
-<ul><li>- Recognise and celebrate skills mastery and lifelong learning in your company<br></li><li>Inspire your employees to pursue skills mastery<br></li><li>Strengthen your company's position as a leading employer in championing lifelong learning</li></ul>
+<ul><li> Recognise and celebrate skills mastery and lifelong learning in your company<br></li><li>Inspire your employees to pursue skills mastery<br></li><li>Strengthen your company's position as a leading employer in championing lifelong learning</li></ul>
 
 ---
 
 ### How to apply:
 
-<ul><li>- Applications will open in Dec 2021.<br><br>For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).</li></ul>
+<ul><li> Applications will open in Dec 2021.<br><br>For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).</li></ul>
 
 [Read More](https://www.skillsfuture.gov.sg/fellowships){:target="_blank"}{:rel="noopener"}
 ---

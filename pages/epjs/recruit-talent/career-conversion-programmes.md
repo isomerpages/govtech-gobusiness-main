@@ -17,7 +17,7 @@ Career Conversion Programmes (CCPs) help companies to meet their manpower needs 
 
 ### How you can benefit:
 
-<ul><li>- Companies can tap on Government funding through course fee grants and salary support when training eligible mid-career individuals under CCPs</li></ul>
+<ul><li> Companies can tap on Government funding through course fee grants and salary support when training eligible mid-career individuals under CCPs</li></ul>
 
 ---
 
