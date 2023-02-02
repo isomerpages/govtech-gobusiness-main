@@ -385,17 +385,17 @@ Eligible employers have been qualified for SFEC over 5 qualifying periods. Emplo
 
 ### How to apply:
 
-A separate application for SFEC is not necessary. ESG will notify all newly eligible employers for SFEC via email sent to their registered CorpPass Administrators.<br><br>Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2024. Claims can be submitted only for training which has been completed.<br><br>For further questions on SFEC and on your eligibility, you may contact Enterprise Singapore [here](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} for assistance.
+A separate application for SFEC is not necessary. ESG will notify all newly eligible employers for SFEC via email sent to their registered CorpPass Administrators.<br><br>Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2024. Claims can be submitted only for training which has been completed.<br><br>For further questions on SFEC and on your eligibility, you may contact Enterprise Singapore <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">here</a> for assistance.
 
 ---
 
 ### Resources
 
-<ul><li> [Frequently Asked Questions](https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq){:target="_blank"}{:rel="noopener"}<br></li><li>[Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)](https://www.enterprisejobskills.gov.sg/content/resources/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf){:target="_blank"}{:rel="noopener"}<br></li><li>[SFEC Claim guide](https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide){:target="_blank"}{:rel="noopener"}<br></li><li>[SFEC Infographic Guide (PDF,734KB)](https://www.enterprisejobskills.gov.sg/content/resources/SFEC_Infographic_2022_Final.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq" target="_blank" rel="noopener">Frequently Asked Questions</a><br></li><li><a href="https://www.enterprisejobskills.gov.sg/content/resources/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf" target="_blank" rel="noopener">Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)</a><br></li><li><a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide" target="_blank" rel="noopener">SFEC Claim guide</a><br></li><li><a href="https://www.enterprisejobskills.gov.sg/content/resources/SFEC_Infographic_2022_Final.pdf" target="_blank" rel="noopener">SFEC Infographic Guide (PDF,734KB)</a></li></ul>
 
 ---
 
 ### Related Digital Services
 
-<ul><li> [SFEC Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a></li></ul>
 

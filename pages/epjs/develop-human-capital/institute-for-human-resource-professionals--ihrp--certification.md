@@ -23,12 +23,12 @@ Up to 70% Funding will be provided to individuals who are keen to embark on the 
 
 ### How to apply:
 
-Learn more about IHRP Certification pathways, related resources, tools and more [here](https://www.ihrp.sg/){:target="_blank"}{:rel="noopener"}
+Learn more about IHRP Certification pathways, related resources, tools and more <a href="https://www.ihrp.sg/" target="_blank" rel="noopener">here</a>
 
 ---
 
 ### Related Digital Services
 
-[Institute of Human Resource Professional Website](https://www.ihrp.sg){:target="_blank"}{:rel="noopener"}
+<a href="https://www.ihrp.sg" target="_blank" rel="noopener">Institute of Human Resource Professional Website</a>
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/national-human-resource-professional-certification-framework.html){:target="_blank"}{:rel="noopener"}

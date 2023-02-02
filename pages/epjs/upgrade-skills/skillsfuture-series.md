@@ -371,13 +371,13 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 
 ### Subsidies and funding:
 
-<ul><li> Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses<br></li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above<br><br>Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit [SSG Funding Information](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"}.</li></ul>
+<ul><li> Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses<br></li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above<br><br>Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit <a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html" target="_blank" rel="noopener">SSG Funding Information</a>.</li></ul>
 
 ---
 
 ### How to apply:
 
-<ul><li> Find out more information on the emerging skills and the range of [SkillsFuture Series courses](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> Find out more information on the emerging skills and the range of <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html" target="_blank" rel="noopener">SkillsFuture Series courses</a></li></ul>
 
 ---
 

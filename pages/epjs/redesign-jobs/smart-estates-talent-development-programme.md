@@ -17,5 +17,5 @@ The Smart Estates Talent Development Programme (SETDP) is developed by SSG and I
 
 ### TOOLKITS
 
-<ul><li> [Smart Estates Talent Playbook (SETDP)](https://go.gov.sg/tk-smartestate){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> <a href="https://go.gov.sg/tk-smartestate" target="_blank" rel="noopener">Smart Estates Talent Playbook (SETDP)</a></li></ul>
 

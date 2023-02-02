@@ -23,7 +23,7 @@ The SkillsFuture Work-Study Programmes (WSPs) are offered by the Institutes of H
 
 ### How to apply:
 
-<ul><li> Select the programme you are interested in from the [full list of SkillsFuture Work-Study Programmes](https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"} and click on "Apply to Hire" (CorpPass login required)</li></ul>
+<ul><li> Select the programme you are interested in from the <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx" target="_blank" rel="noopener">full list of SkillsFuture Work-Study Programmes</a> and click on "Apply to Hire" (CorpPass login required)</li></ul>
 
 ---
 

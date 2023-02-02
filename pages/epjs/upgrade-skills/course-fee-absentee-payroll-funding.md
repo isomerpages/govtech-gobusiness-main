@@ -11,7 +11,7 @@ All locally registered or incorporated organisations in Singapore are eligible f
 
 ### A. Course Fee Funding
 
-Baseline course fee funding are available to lower the cost when you sponsor your Singapore Citizen, Permanent Resident, and [Long Term Visitor Pass Plus (LTVP+)](https://www.ssg.gov.sg/content/terms-and-conditions-for-individuals/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf){:target="_blank"}{:rel="noopener"} employees for training courses funded by SSG.
+Baseline course fee funding are available to lower the cost when you sponsor your Singapore Citizen, Permanent Resident, and <a href="https://www.ssg.gov.sg/content/terms-and-conditions-for-individuals/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf" target="_blank" rel="noopener">Long Term Visitor Pass Plus (LTVP+)</a> employees for training courses funded by SSG.
 
 ---
 
@@ -61,7 +61,7 @@ AP funding is a grant to help you defray the manpower costs incurred when you se
 
 ### How to apply:
 
-<ul><li> There is no need to apply for course fee funding as it is automatically computed and deducted from the course fee<br></li><li>Please declare your employees' hourly salary information [here](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"} to claim for absentee payroll funding</li></ul>
+<ul><li> There is no need to apply for course fee funding as it is automatically computed and deducted from the course fee<br></li><li>Please declare your employees' hourly salary information <a href="https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx" target="_blank" rel="noopener">here</a> to claim for absentee payroll funding</li></ul>
 
 ---
 
@@ -95,11 +95,11 @@ With effect from 1 Jan 2022, SSG will introduce a fixed Absentee Payroll (AP) ra
 
 ### Resources
 
-<ul><li> [Information and guide to claim Absentee Payroll Funding (PDF,1643kb)](https://www.enterprisejobskills.gov.sg/content/resources/TGS_CM_Absentee%20Payroll%20Onboarding%20Guide_v18.0.pdf){:target="_blank"}{:rel="noopener"}</li><li>[SkillsFuture Funding Changes FAQ (PDF,137KB)](https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20FAQ.pdf){:target="_blank"}{:rel="noopener"}</li><li>[SkillsFuture Funding Changes Infographic (PDF,137KB)](https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20Infographic.pdf){:target="_blank"}{:rel="noopener"}</li><li>[Annex A: Revision to SkillsFuture Course Fee Funding (PDF,139KB)](https://www.enterprisejobskills.gov.sg/content/resources/AnnexA_Revisions%20to%20Course%20Fee%20Funding.pdf){:target="_blank"}{:rel="noopener"}</li><li>[Annex B: Revisions to Absentee Payroll Funding (PDF,108KB)](https://www.enterprisejobskills.gov.sg/content/resources/AnnexB_Revisions%20to%20Absentee%20Payroll%20Funding.pdf){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> <a href="https://www.enterprisejobskills.gov.sg/content/resources/TGS_CM_Absentee%20Payroll%20Onboarding%20Guide_v18.0.pdf" target="_blank" rel="noopener">Information and guide to claim Absentee Payroll Funding (PDF,1643kb)</a></li><li><a href="https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20FAQ.pdf" target="_blank" rel="noopener">SkillsFuture Funding Changes FAQ (PDF,137KB)</a></li><li><a href="https://www.enterprisejobskills.gov.sg/content/resources/SkillsFuture%20Funding%20Changes%20Infographic.pdf" target="_blank" rel="noopener">SkillsFuture Funding Changes Infographic (PDF,137KB)</a></li><li><a href="https://www.enterprisejobskills.gov.sg/content/resources/AnnexA_Revisions%20to%20Course%20Fee%20Funding.pdf" target="_blank" rel="noopener">Annex A: Revision to SkillsFuture Course Fee Funding (PDF,139KB)</a></li><li><a href="https://www.enterprisejobskills.gov.sg/content/resources/AnnexB_Revisions%20to%20Absentee%20Payroll%20Funding.pdf" target="_blank" rel="noopener">Annex B: Revisions to Absentee Payroll Funding (PDF,108KB)</a></li></ul>
 
 ---
 
 ### Related Digital Services
 
-<ul><li> [View the full library of Courses](https://courses.enterprisejobskills.gov.sg/Course_Internet/){:target="_blank"}{:rel="noopener"}</li></ul>
+<ul><li> <a href="https://courses.enterprisejobskills.gov.sg/Course_Internet/" target="_blank" rel="noopener">View the full library of Courses</a></li></ul>
 

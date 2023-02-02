@@ -23,7 +23,7 @@ This complimentary service is made available to all employers who are hiring Sin
 
 ### How to apply:
 
-Register your interest for Career Matching Services via our feedback portal at [https://service-portal.skillsfuture.gov.sg/](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} or our hotline at [6883 5885](tel:6883 5885).
+Register your interest for Career Matching Services via our feedback portal at <a href="https://service-portal.skillsfuture.gov.sg/" target="_blank" rel="noopener">https://service-portal.skillsfuture.gov.sg/</a> or our hotline at [6883 5885](tel:6883 5885).
 
 ---
 

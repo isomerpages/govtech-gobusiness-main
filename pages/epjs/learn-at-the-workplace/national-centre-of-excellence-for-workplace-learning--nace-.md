@@ -5,7 +5,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplac
 
 ### Develop sustainable workplace learning systems to enhance business transformation
 
-The [National Centre of Excellence for Workplace Learning (NACE)](https://www.nyp.edu.sg/nace){:target="_blank"}{:rel="noopener"} was set up in July 2018 and led by NYP, supported by SSG, with the aim to help enterprises bridge the gap between skills acquisition and utilisation at the workplace. Partnering world-renowned institutions from Switzerland- Swiss Federal University for Vocational Education and Training (SFUVET) and Germany- IHK (Chamber of Commerce & Industry), NACE is able to help you strengthen workplace learning practices to enhance employees' performance, improve retention rates, advance competency development and foster a learning culture
+The <a href="https://www.nyp.edu.sg/nace" target="_blank" rel="noopener">National Centre of Excellence for Workplace Learning (NACE)</a> was set up in July 2018 and led by NYP, supported by SSG, with the aim to help enterprises bridge the gap between skills acquisition and utilisation at the workplace. Partnering world-renowned institutions from Switzerland- Swiss Federal University for Vocational Education and Training (SFUVET) and Germany- IHK (Chamber of Commerce & Industry), NACE is able to help you strengthen workplace learning practices to enhance employees' performance, improve retention rates, advance competency development and foster a learning culture
 
 ---
 
