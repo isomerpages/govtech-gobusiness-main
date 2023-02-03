@@ -40,8 +40,20 @@ const customTables = [
     columns: ["10%", "auto", "10%"]
   },
   {
-    path: "/enterprisejobskills/programmes-and-initiatives/develop-human-capital/hr-tech-solutions-powered-by-skills-framework/",
-    columns: ["auto", "10%", "10%", "10%", "10%","10%"]
+    path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative",
+    columns: ["30%", "auto"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-series",
+    columns: ["10%", "20%", "20%", "20%", "20%"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-enterprise-credit",
+    columns: ["20%", "30%", "30%"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit",
+    columns: ["20%", "30%", "30%"]
   }
 ];
 
