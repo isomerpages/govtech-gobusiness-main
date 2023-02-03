@@ -30,7 +30,7 @@ The following resources are available to help Retail enterprises embark on and s
 
 ### Resources
 
--<a href="https://www.enterprisejobskills.gov.sg/content/resources/Retail%20Job%20Redesign%20Framework.pdf" target="_blank" rel="noopener">Retail Job Redesign Framework (PDF,1347KB)</a>
+-<a href="/images/epjs/programmes-and-initiatives/redesign-jobs/Retail%20Job%20Redesign%20Framework.pdf">Retail Job Redesign Framework (PDF,1347KB)</a>
 
 ---
 

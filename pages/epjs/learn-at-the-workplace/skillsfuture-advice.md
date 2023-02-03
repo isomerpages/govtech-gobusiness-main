@@ -30,5 +30,5 @@ The SkillsFuture Advice workshop is a 1.5-hour complimentary workshop that can b
 
 ### Resources
 
-<ul><li> [Frequently Asked Questions (PDF,KB)(https://www.enterprisejobskills.gov.sg/content/resources/FAQs-SkillsFuture-Advice.pdf)</li></ul>
+<ul><li> [Frequently Asked Questions (PDF,KB)(/images/epjs/programmes-and-initiatives/lean-at-the-workplace/FAQs-SkillsFuture-Advice.pdf)</li></ul>
 
