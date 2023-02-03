@@ -44,5 +44,5 @@ e. Have the available headcount(s) to hire, and must commit to converting the tr
 
 f. Able to pay same or higher salaries upon early or post-attachment conversion
 
-[Read More](https://www.wsg.gov.sg/programmes-and-initiatives/SGUnitedMidCareerPathways-HostOrganisations.html){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/SGUnitedMidCareerPathways-HostOrganisations.html" text="Read More" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

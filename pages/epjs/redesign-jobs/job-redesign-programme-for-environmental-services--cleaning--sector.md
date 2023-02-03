@@ -47,7 +47,7 @@ The following resources are available to help you embark on and sustain job rede
 
 For more information: Call 6883 5885 or email WSG_Biz_Service@wsg.gov.sg
 
-[Read More](https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/environmental-services-cleaning-job-redesign-initiative.html){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/environmental-services-cleaning-job-redesign-initiative.html" text="Read More" target="_blank" rel="noopener" %}
 ---
 
 ### TOOLKITS

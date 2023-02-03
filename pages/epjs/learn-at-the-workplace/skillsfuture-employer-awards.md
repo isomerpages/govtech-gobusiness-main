@@ -33,12 +33,12 @@ The SkillsFuture Employer Awards is open to all Singapore registered entities, i
 
 For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at sfa@snef.org.sg.
 
-[Read More](https://safe.menlosecurity.com/https://www.skillsfuture.gov.sg/employerawards){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://safe.menlosecurity.com/https://www.skillsfuture.gov.sg/employerawards" text="Read More" target="_blank" rel="noopener" %}
 ---
 
 ### Related Digital Services
 
 - <a href="https://www.skillsfuture.gov.sg/employerawards/faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
-<a class="btn" href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx" target="_blank" rel="noopener">Apply Now</a>
+{% include primary-btn.html href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx text="Apply Now" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

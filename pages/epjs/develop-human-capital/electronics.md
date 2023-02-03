@@ -21,5 +21,5 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 - <a href="https://go.gov.sg/tk-sfwelectronics" target="_blank" rel="noopener">Electronics Skills Framework Template</a>
 
-[Read More](https://www.skillsfuture.gov.sg/skills-framework/electronics){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/electronics" text="Read More" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

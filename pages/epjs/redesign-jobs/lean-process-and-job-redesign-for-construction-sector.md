@@ -39,7 +39,7 @@ The Guide provides an overview of job redesign considerations, examples and case
 
 - Participating organisations will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
 
-[Read More](https://www.wsg.gov.sg/lean-construction-job-redesign-guide.html){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://www.wsg.gov.sg/lean-construction-job-redesign-guide.html" text="Read More" target="_blank" rel="noopener" %}
 ---
 
 ### TOOLKITS

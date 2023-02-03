@@ -51,5 +51,5 @@ Contact the respective programme partners:
 
 - SNEF: Call [6290 7694](tel:62907694), email [SWSP@snef.sg](mailto:SWSP@snef.sg), or visit <a href="https://www.snef.org.sg" target="_blank" rel="noopener">www.snef.org.sg</a>
 
-[Read More](https://www.wsg.gov.sg/programmes-and-initiatives/senior-worker-early-adopter-grant-and-part-time-re-employment-grant-employers.html){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/senior-worker-early-adopter-grant-and-part-time-re-employment-grant-employers.html" text="Read More" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

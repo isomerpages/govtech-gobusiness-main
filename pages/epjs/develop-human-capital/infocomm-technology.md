@@ -21,5 +21,5 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 - <a href="https://go.gov.sg/tk-sfwit" target="_blank" rel="noopener">Infocomm Technology Skills Framework Template</a>
 
-[Read More](https://www.skillsfuture.gov.sg/skills-framework/ict){:target="_blank"}{:rel="noopener"}
+{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/ict" text="Read More" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>
