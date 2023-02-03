@@ -32,3 +32,4 @@ The Capability Transfer Programme (CTP) supports organisations in the transfer o
 <a href="https://form.gov.sg/#!/5e128f348967b800114ce47c" target="_blank" rel="noopener">Enquiry Form</a>
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

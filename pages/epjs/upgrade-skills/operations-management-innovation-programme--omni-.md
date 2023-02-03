@@ -32,3 +32,4 @@ Equip your key personnel with the necessary knowledge and skills to systematical
 Please contact Mr Ma Bin at [bma@SIMTech.a-star.edu.sg](mailto:bma@SIMTech.a-star.edu.sg)
 
 <a class="btn" href="https://www.a-star.edu.sg/simtech/kto/Modular-Programmes/OMNI" target="_blank" rel="noopener">Apply Now</a>&emsp;[Read More](https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/omni-omni-lite.html){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

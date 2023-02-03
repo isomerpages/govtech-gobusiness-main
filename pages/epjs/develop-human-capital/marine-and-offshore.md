@@ -18,3 +18,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <ul><li> <a href="https://go.gov.sg/tk-sfwmarine" target="_blank" rel="noopener">Marine and Offshore Skills Framework Template</a></li></ul>
 
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/marineandoffshore){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

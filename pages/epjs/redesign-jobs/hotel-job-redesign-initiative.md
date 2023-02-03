@@ -33,3 +33,4 @@ The following resources are available to help you embark on and sustain job rede
 -<a href="https://go.gov.sg/tk-hoteljobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Hotel Sector</a>
 
 <a class="btn" href="https://sha.org.sg/job-redesign" target="_blank" rel="noopener">Apply Now</a>
+<script src="/jquery/resize-tables.js"></script>

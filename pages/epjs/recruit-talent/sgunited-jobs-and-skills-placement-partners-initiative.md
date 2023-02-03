@@ -140,3 +140,4 @@ Employers may approach any SGUJS Placement Partners via the contact information 
 Note: While WSG provides SGUJS Placement Partners with a fee per qualifying job placement or attachment enrolment, employers may wish to note that SGUJS Placement Partners operate as licenced employment agencies, and may charge employers a placement fee.<br><br>WSG encourages employers to consider the fees provided by WSG to SGUJS Placement Partners when negotiating any placement/ enrolment fees with the SGUJS Placement Partner.
 
 [Read More](https://go.gov.sg/sgujspp-emp){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

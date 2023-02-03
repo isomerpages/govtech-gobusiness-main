@@ -24,3 +24,4 @@ Career Trial gives you the opportunity to assess a jobseeker's job fit through a
 Note: You must be assigned with the "WSG G2B Employer Portal" e-service and the "G2B Employer" role in Corppass in order to apply as a Host Company for Career Trial.
 
 <a class="btn" href="https://programmes.mycareersfuture.gov.sg/CareerTrialEmployers/ProgrammeDetails.aspx" target="_blank" rel="noopener">Apply Now</a>&emsp;[Read More](https://www.wsg.gov.sg/programmes-and-initiatives/career-trial-employers.html){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

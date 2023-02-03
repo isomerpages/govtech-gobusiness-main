@@ -26,3 +26,4 @@ The Service Industry Transformation Programme (SITP) is part of the Lean Enterpr
 <ul><li> The SITP is for enterprises in the lifestyle sectors (Food Services, Hotels, Retail, Tour & Travel, MICE and Attractions)</li></ul>
 
 <a class="btn" href="https://www.sgpc.sg/wp-content/uploads/2019/07/SITP_registration-Form_18072019.docx" target="_blank" rel="noopener">Apply Now</a>&emsp;[Read More](https://www.sgpc.sg/services/training-certification/sitp){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

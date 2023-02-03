@@ -17,3 +17,4 @@ Coming Soon
 
 <ul><li> <a href="/sector-specific-toolkits/skills-framework-templates/">Built Environment Skills Framework Template</a></li></ul>
 
+<script src="/jquery/resize-tables.js"></script>

@@ -18,3 +18,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <ul><li> <a href="/sector-specific-toolkits/skills-framework-templates/">Aerospace Skills Framework Template</a></li></ul>
 
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/aero){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

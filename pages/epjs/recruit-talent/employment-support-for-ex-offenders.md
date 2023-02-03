@@ -26,3 +26,4 @@ Any company which:<br><br><ul><li>Is registered or incorporated in Singapore</li
 -Interested employers may contact Yellow Ribbon Singapore at [6513 1545](tel:6513 1545) / [6214 2823](tel:6513 1545) or [employment@yellowribbon.gov.sg](mailto:employment@yellowribbon.gov.sg) for more information.
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/employment-support-for-employers-to-hire-ex-offenders.html){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

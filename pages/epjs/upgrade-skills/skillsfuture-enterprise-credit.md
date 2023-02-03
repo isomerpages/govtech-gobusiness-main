@@ -399,3 +399,4 @@ A separate application for SFEC is not necessary. ESG will notify all newly elig
 
 <ul><li> <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a></li></ul>
 
+<script src="/jquery/resize-tables.js"></script>

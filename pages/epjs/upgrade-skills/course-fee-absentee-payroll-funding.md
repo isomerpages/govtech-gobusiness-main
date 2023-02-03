@@ -103,3 +103,4 @@ With effect from 1 Jan 2022, SSG will introduce a fixed Absentee Payroll (AP) ra
 
 <ul><li> <a href="https://courses.enterprisejobskills.gov.sg/Course_Internet/" target="_blank" rel="noopener">View the full library of Courses</a></li></ul>
 
+<script src="/jquery/resize-tables.js"></script>

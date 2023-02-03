@@ -32,3 +32,4 @@ The SkillsFuture Work-Study Programmes (WSPs) are offered by the Institutes of H
 <ul><li> <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf">Frequently Asked Questions (PDF, 353 KB)</a></li><li><a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf">COVID 19 Wage Support FAQ (PDF, 41 KB)</a></li></ul>
 
 [Read More](https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

@@ -31,3 +31,4 @@ Nominate your exemplary employees for the SkillsFuture Fellowships to honour the
 -<a href="https://www.skillsfuture.gov.sg/fellowships" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
 <a class="btn" href="https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx" target="_blank" rel="noopener">Apply Now</a>
+<script src="/jquery/resize-tables.js"></script>

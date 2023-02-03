@@ -38,3 +38,4 @@ Register for this programme under<br><br>1) **Modular Programmes**<br><br>2) **D
 Brochure (/http://pubhtml5.com/zlck/owtn/)
 
 <a class="btn" href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" target="_blank" rel="noopener">Apply Now</a>
+<script src="/jquery/resize-tables.js"></script>

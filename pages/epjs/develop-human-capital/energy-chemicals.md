@@ -18,3 +18,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <ul><li> <a href="https://go.gov.sg/tk-sfwchemicals" target="_blank" rel="noopener">Energy & Chemicals Skills Framework Template</a></li></ul>
 
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/energyandchemicals){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

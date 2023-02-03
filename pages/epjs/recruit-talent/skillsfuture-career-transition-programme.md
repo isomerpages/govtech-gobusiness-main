@@ -26,3 +26,4 @@ The SCTP courses are for self-sponsored individuals and will be subsidised at SS
 
 To indicate your interest in hosting short term project attachments or hiring candidates from this programme, complete this form [here] (https://form.gov.sg/#!/62455e42ecc91100122aa2ed)
 
+<script src="/jquery/resize-tables.js"></script>

@@ -18,3 +18,4 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 <ul><li> <a href="https://go.gov.sg/tk-sfwip" target="_blank" rel="noopener">Intellectual Property Skills Framework Template</a></li></ul>
 
 [Read More](https://www.skillsfuture.gov.sg/skills-framework/intellectual-property){:target="_blank"}{:rel="noopener"}
+<script src="/jquery/resize-tables.js"></script>

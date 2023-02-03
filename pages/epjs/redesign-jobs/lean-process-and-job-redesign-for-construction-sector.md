@@ -44,3 +44,4 @@ You may refer to the <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/jr-
 
 -<a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/jr-for-lean-construction/wsg_jr-for-lean-construction.pdf" target="_blank" rel="noopener">Lean Construction & Job Redesign Guide</a>
 
+<script src="/jquery/resize-tables.js"></script>

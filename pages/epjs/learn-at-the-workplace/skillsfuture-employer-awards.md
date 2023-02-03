@@ -31,3 +31,4 @@ Presented by the President of the Republic of Singapore, the SkillsFuture Employ
 <ul><li> <a href="https://www.skillsfuture.gov.sg/employerawards/faq" target="_blank" rel="noopener">Frequently Asked Questions</a></li></ul>
 
 <a class="btn" href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx" target="_blank" rel="noopener">Apply Now</a>
+<script src="/jquery/resize-tables.js"></script>
