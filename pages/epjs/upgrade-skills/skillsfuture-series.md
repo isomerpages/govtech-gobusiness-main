@@ -12,10 +12,10 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 <table>
 <tr>
 <th><b>Economic Pillar</b></th>
-<td>/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_digital.jpg</td>
-<td>/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_green.jpg</td>
-<td>/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_care.jpg</td>
-<td>/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_i40.jpg</td>
+<td><img src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_digital.jpg" alt="Digital Economy"></td>
+<td><img src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_green.jpg" alt="Green Economy"></td>
+<td><img src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_care.jpg" alt="Care Economy"></td>
+<td><img src="/images/epjs/programmes-and-initiatives/upgrade-skills/sf_series_i40.jpg" alt="Industry 4.0"></td>
 </tr>
 <tr>
 <th><b>Emerging Domain</b></th>
