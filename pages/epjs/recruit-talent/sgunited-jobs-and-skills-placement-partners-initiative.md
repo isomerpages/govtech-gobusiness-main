@@ -3,7 +3,10 @@ title: 'SGUnited Jobs and Skills Placement Partners initiative'
 permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/
 ---
 
-The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and WSG aims to increase the placement of local jobseekers who are mature, long-term unemployed, or persons with disabilities, into qualifying jobs and attachments.<br><br><br>Through this initiative, you have the opportunity to tap on the strong recruitment capabilities of employment agencies to support your hiring needs.
+The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and WSG aims to increase the placement of local jobseekers who are mature, long-term unemployed, or persons with disabilities, into qualifying jobs and attachments.
+
+
+Through this initiative, you have the opportunity to tap on the strong recruitment capabilities of employment agencies to support your hiring needs.
 
 ---
 
@@ -49,7 +52,9 @@ Employers may approach any SGUJS Placement Partners via the contact information 
 </table>
 ---
 
-Note: While WSG provides SGUJS Placement Partners with a fee per qualifying job placement or attachment enrolment, employers may wish to note that SGUJS Placement Partners operate as licenced employment agencies, and may charge employers a placement fee.<br><br>WSG encourages employers to consider the fees provided by WSG to SGUJS Placement Partners when negotiating any placement/ enrolment fees with the SGUJS Placement Partner.
+Note: While WSG provides SGUJS Placement Partners with a fee per qualifying job placement or attachment enrolment, employers may wish to note that SGUJS Placement Partners operate as licenced employment agencies, and may charge employers a placement fee.
+
+WSG encourages employers to consider the fees provided by WSG to SGUJS Placement Partners when negotiating any placement/ enrolment fees with the SGUJS Placement Partner.
 
 {% include secondary-btn.html href="https://go.gov.sg/sgujspp-emp" text="Read More" target="_blank" rel="noopener" %}
 
