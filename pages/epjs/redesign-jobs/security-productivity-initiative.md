@@ -52,5 +52,5 @@ The following resources are available to help you embark on and sustain job rede
 
 -<a href="https://www.form.gov.sg/#!/5ba20e96ec6d40000f3bfd77" target="_blank" rel="noopener">Guide for Security Workforce Transformation</a>
 
-{% include primary-btn.html href="WSG_Biz_Service@wsg.gov.sg text="Apply Now" target="_blank" rel="noopener" %}
+{% include primary-btn.html href="WSG_Biz_Service@wsg.gov.sg" text="Apply Now" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

@@ -40,5 +40,5 @@ For further enquiries, please contact the appointed Programme Manager for the Sk
 
 - <a href="https://www.skillsfuture.gov.sg/employerawards/faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
-{% include primary-btn.html href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx text="Apply Now" target="_blank" rel="noopener" %}
+{% include primary-btn.html href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx" text="Apply Now" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

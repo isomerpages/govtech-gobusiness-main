@@ -46,5 +46,5 @@ Hear from others who have benefitted from a SFQB network <a href="https://go.gov
 
 - <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_SFQB_Infographic%202022.pdf">A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)</a>
 
-{% include primary-btn.html href="https://service-portal.skillsfuture.gov.sg/ text="Apply Now" target="_blank" rel="noopener" %}
+{% include primary-btn.html href="https://service-portal.skillsfuture.gov.sg/" text="Apply Now" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>

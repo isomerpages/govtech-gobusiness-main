@@ -45,5 +45,5 @@ Register for this programme under
 
 <a href="http://pubhtml5.com/zlck/owtn/" target="_blank" rel="noopener">Brochure</a>
 
-{% include primary-btn.html href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti text="Apply Now" target="_blank" rel="noopener" %}
+{% include primary-btn.html href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" text="Apply Now" target="_blank" rel="noopener" %}
 <script src="/jquery/resize-tables.js"></script>
