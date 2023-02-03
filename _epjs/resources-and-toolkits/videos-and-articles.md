@@ -30,7 +30,6 @@ Speaking at the launch of the job redesign place-and-train programme for the ret
 
 Two measures were announced by Manpower Minister Josephine Teo amid efforts to transform the air transport sector and maintain Singapore's position as a global aviation hub. Through the Redeployment Professional Conversion Programme (PCP) for Air Transport Professionals, companies can reskill or redeploy workers with salary support as the workers are undergoing training.
 
-[Read more](){:target="_blank"}{:rel="noopener"}
 
 ---
 
@@ -38,7 +37,7 @@ Two measures were announced by Manpower Minister Josephine Teo amid efforts to t
 
 The 2nd edition of the report offers deeper analysis into the priority skills and jobs in demand within the Green, Digital and Care economies. The report also comes with a special focus on Industry 4.0 implementation, Critical Core Skills, and the support for our mid-career workers. Companies can tap on these insights guide their workforce skills investment.
 
-[Read more (PDF, 5942 KB)](){:target="_blank"}{:rel="noopener"}
+[Read more (PDF, 5942 KB)](/images/epjs/resources-and-toolkits/videos-and-articles/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf){:target="_blank"}{:rel="noopener"}
 
 ---
 
