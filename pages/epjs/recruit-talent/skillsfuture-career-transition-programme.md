@@ -30,6 +30,6 @@ Enterprises will be eligible for the Jobs Growth Incentive (JGI) when you hire t
 
 ### How to apply:
 
-To indicate your interest in hosting short term project attachments or hiring candidates from this programme, complete this form [here] (https://form.gov.sg/#!/62455e42ecc91100122aa2ed)
+To indicate your interest in hosting short term project attachments or hiring candidates from this programme, complete this form <a href="https://form.gov.sg/#!/62455e42ecc91100122aa2ed" target="_blank" rel="noopener">here</a>
 
 <script src="/jquery/resize-tables.js"></script>
