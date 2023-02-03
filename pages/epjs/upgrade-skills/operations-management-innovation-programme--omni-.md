@@ -45,4 +45,5 @@ Please contact Mr Ma Bin at [bma@SIMTech.a-star.edu.sg](mailto:bma@SIMTech.a-sta
 
 {% include primary-secondary-btn.html pri_href="https://www.a-star.edu.sg/simtech/kto/Modular-Programmes/OMNI" pri_text="Apply Now" pri_target="_blank" pri_rel="noopener" sec_href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/omni-omni-lite.html" sec_text="Read More" sec_target="_blank" sec_rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

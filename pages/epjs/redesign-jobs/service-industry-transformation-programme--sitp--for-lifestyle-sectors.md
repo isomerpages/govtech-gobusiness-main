@@ -33,4 +33,5 @@ The Service Industry Transformation Programme (SITP) is part of the Lean Enterpr
 
 {% include primary-secondary-btn.html pri_href="https://www.sgpc.sg/wp-content/uploads/2019/07/SITP_registration-Form_18072019.docx" pri_text="Apply Now" pri_target="_blank" pri_rel="noopener" sec_href="https://www.sgpc.sg/services/training-certification/sitp" sec_text="Read More" sec_target="_blank" sec_rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

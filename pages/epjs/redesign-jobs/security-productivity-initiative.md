@@ -55,4 +55,5 @@ The following resources are available to help you embark on and sustain job rede
 
 {% include primary-btn.html href="WSG_Biz_Service@wsg.gov.sg" text="Apply Now" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

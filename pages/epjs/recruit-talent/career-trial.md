@@ -33,4 +33,5 @@ Note: You must be assigned with the "WSG G2B Employer Portal" e-service and the 
 
 {% include primary-secondary-btn.html pri_href="https://programmes.mycareersfuture.gov.sg/CareerTrialEmployers/ProgrammeDetails.aspx" pri_text="Apply Now" pri_target="_blank" pri_rel="noopener" sec_href="https://www.wsg.gov.sg/programmes-and-initiatives/career-trial-employers.html" sec_text="Read More" sec_target="_blank" sec_rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

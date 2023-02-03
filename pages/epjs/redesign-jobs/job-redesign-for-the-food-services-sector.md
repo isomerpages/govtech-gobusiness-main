@@ -51,4 +51,5 @@ The following resources are available to help you embark on and sustain job rede
 
 -<a href="https://go.gov.sg/tk-foodjobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Food Services Sector</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

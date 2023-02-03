@@ -45,4 +45,5 @@ Disability Employment (https://employment.sgenable.sg/employers/open-door-progra
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/employment-support-for-persons-with-disabilities.html" text="Read More" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

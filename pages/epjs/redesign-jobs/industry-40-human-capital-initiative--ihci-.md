@@ -45,4 +45,5 @@ For more information on the IHCI Enabler Programme, please click on the Read Mor
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/industry-4-0-human-capital-initiative-ihci.html" text="Read More" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

@@ -31,4 +31,5 @@ Read more about the <a href="https://www.tpgateway.gov.sg/get-started/journey-ov
 
 {% include primary-btn.html href="http://www.tpgateway.gov.sg/workspace/session/Login.aspx" text="Apply Now" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

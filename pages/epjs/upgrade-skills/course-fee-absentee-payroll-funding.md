@@ -137,4 +137,5 @@ The revisions are summarised below. Please refer to Annexes A and B under "Resou
 
 - <a href="https://courses.enterprisejobskills.gov.sg/Course_Internet/" target="_blank" rel="noopener">View the full library of Courses</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

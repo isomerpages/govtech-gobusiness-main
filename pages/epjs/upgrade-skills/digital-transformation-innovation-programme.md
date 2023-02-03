@@ -47,4 +47,5 @@ Register for this programme under
 
 {% include primary-btn.html href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" text="Apply Now" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

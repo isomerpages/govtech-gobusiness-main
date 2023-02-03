@@ -33,4 +33,5 @@ Any company which:
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/employment-support-for-employers-to-hire-ex-offenders.html" text="Read More" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

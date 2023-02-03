@@ -51,4 +51,5 @@ The following resources are available to help you embark on and sustain job rede
 
 {% include primary-btn.html href="https://sha.org.sg/job-redesign" text="Apply Now" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

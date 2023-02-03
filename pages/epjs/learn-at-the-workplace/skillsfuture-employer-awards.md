@@ -43,4 +43,5 @@ For further enquiries, please contact the appointed Programme Manager for the Sk
 
 {% include primary-btn.html href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx" text="Apply Now" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

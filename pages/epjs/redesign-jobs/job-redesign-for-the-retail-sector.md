@@ -60,4 +60,5 @@ You will find comprehensive self-help resources to kickstart job resign projects
 
 -<a href="https://form.gov.sg/#!/5dcbc401f350d80012726c8b" target="_blank" rel="noopener">Job Redesign Online Toolkit for the Retail Sector</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

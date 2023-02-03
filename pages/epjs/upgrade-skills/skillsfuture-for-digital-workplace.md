@@ -5,4 +5,5 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/skills
 
 ### The SkillsFuture for Digital Workplace programme has ceased from 1 April 2022. More updates will be provided at a later date.
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

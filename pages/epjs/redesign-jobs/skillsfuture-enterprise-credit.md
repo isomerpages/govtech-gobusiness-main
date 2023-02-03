@@ -90,4 +90,5 @@ For further questions on SFEC and on your eligibility, you may contact Enterpris
 
 - <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

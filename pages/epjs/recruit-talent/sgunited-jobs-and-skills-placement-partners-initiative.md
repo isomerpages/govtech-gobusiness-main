@@ -58,4 +58,5 @@ WSG encourages employers to consider the fees provided by WSG to SGUJS Placement
 
 {% include secondary-btn.html href="https://go.gov.sg/sgujspp-emp" text="Read More" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

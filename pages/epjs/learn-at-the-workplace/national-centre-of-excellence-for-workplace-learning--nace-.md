@@ -29,4 +29,5 @@ Note: In view of SkillsFuture funding changes, please check with NACE on your su
 
 {% include primary-secondary-btn.html pri_href="https://www.nace.edu.sg/contact-us/" pri_text="Apply Now" pri_target="_blank" pri_rel="noopener" sec_href="https://www.nace.edu.sg/" sec_text="Read More" sec_target="_blank" sec_rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

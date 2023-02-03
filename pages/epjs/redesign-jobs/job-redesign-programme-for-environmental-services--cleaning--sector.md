@@ -61,4 +61,5 @@ For more information: Call 6883 5885 or email WSG_Biz_Service@wsg.gov.sg
 
 -<a href="https://form.gov.sg/#!/5fbbb96eca327e0011c38018" target="_blank" rel="noopener">4D Job Redesign Framework Digital Guide</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
