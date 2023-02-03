@@ -42,6 +42,7 @@ If your organisation is a Small and Medium Enterprise (SME), you will receive up
 - Non-business entities not registered with ACRA, such as VWOs and societies are eligible
 
 {% include secondary-btn.html href="https://www.ssg.gov.sg/programmes-and-initiatives/training/enhanced-training-support-for-smes.html" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### C. SkillsFuture Mid-Career Enhanced Subsidy (MCES)
@@ -49,6 +50,7 @@ If your organisation is a Small and Medium Enterprise (SME), you will receive up
 Recognising that mid-career individuals may face greater challenges in undertaking training, the MCES is provided for Singaporeans aged 40 years old and above to upskill and reskill. As an employer, you will be eligible for up to 90% course fee funding when you sponsor your mid-career Singaporean employees for SSG-funded certifiable courses.
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/enhancedsubsidy" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### D. Absentee Payroll (AP) Funding
