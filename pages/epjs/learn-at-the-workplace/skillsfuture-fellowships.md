@@ -5,9 +5,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplac
 
 ### Recognise your inspirational employees who champion lifelong learning
 
-Nominate your exemplary employees for the SkillsFuture Fellowships to honour them as masters of skills and mentors of future talent. The SkillsFuture Fellowship is presented by the President of the Republic of Singapore, and recipients will receive a monetary award of $10,000 to continue their pursuit of skills mastery.
-
-The SkillsFuture Fellowship is open to Singapore Citizens with at least 10 years of working experience in the same (or related) industry or job function.
+Nominate your exemplary employees for the SkillsFuture Fellowships to honour them as masters of skills and mentors of future talent. The SkillsFuture Fellowship is presented by the President of the Republic of Singapore, and recipients will receive a monetary award of $10,000 to continue their pursuit of skills mastery.<br><br>The SkillsFuture Fellowship is open to Singapore Citizens with at least 10 years of working experience in the same (or related) industry or job function.
 
 ---
 
@@ -23,9 +21,7 @@ The SkillsFuture Fellowship is open to Singapore Citizens with at least 10 years
 
 ### How to apply:
 
-<ul><li> Applications will open in Dec 2021.
-
-For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).</li></ul>
+<ul><li> Applications will open in Dec 2021.<br><br>For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).</li></ul>
 
 [Read More](https://www.skillsfuture.gov.sg/fellowships){:target="_blank"}{:rel="noopener"}
 ---

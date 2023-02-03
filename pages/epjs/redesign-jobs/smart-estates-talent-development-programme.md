@@ -5,9 +5,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/smart-e
 
 ### Prepare your workforce in new and emerging skills and job roles in the Smart Estates ecosystem
 
-The Smart Estates Talent Development Programme (SETDP) is developed by SSG and IMDA, with support from the BCA.
-
-As the first-of-its-kind talent and skills initiative, the SETDP aims to build a strong talent pipeline within the Smart Estates ecosystem through identifying new and emerging skills and job roles to drive Smart Estates and developing an integrated Smart Estates training curriculum to train the workforce in these skills sets.
+The Smart Estates Talent Development Programme (SETDP) is developed by SSG and IMDA, with support from the BCA.<br><br>As the first-of-its-kind talent and skills initiative, the SETDP aims to build a strong talent pipeline within the Smart Estates ecosystem through identifying new and emerging skills and job roles to drive Smart Estates and developing an integrated Smart Estates training curriculum to train the workforce in these skills sets.
 
 ---
 

@@ -43,9 +43,7 @@ Recognising that mid-career individuals may face greater challenges in undertaki
 
 ### D. Absentee Payroll (AP) Funding
 
-AP funding is a grant to help you defray the manpower costs incurred when you send your employees for training courses funded by SSG. For training outside working hours, AP funding is given to you to defray the overtime pay that was paid to your employees.
-
-To support organisations to send more workers for training and help their workforce emerge stronger post-COVID-19, the AP funding rate was enhanced to 80% of hourly basic salary, capped at $7.50 per hour. The enhanced AP funding rate will cease on 31 December 2021.
+AP funding is a grant to help you defray the manpower costs incurred when you send your employees for training courses funded by SSG. For training outside working hours, AP funding is given to you to defray the overtime pay that was paid to your employees.<br><br>To support organisations to send more workers for training and help their workforce emerge stronger post-COVID-19, the AP funding rate was enhanced to 80% of hourly basic salary, capped at $7.50 per hour. The enhanced AP funding rate will cease on 31 December 2021.
 
 ---
 
@@ -75,19 +73,13 @@ SSG continually reviews our schemes to ensure the effective use of funding resou
 
 ### 1. SkillsFuture Course Fee Funding
 
-The revisions to course fee funding, applicable to all SSG-funded courses commencing on or after 1 Jan 2022, are as follows:
-
-i. Baseline course fee subsides will be simplified and streamlined across Professional, Manager, Executive and Technician (PMET) and non-PMET courses, at up to 70% of course fees for courses offered by SSG-appointed CET Centres, and up to 50% of course fees for certifiable courses approved by SSG.
-
-ii. Enterprises that qualify for SSG's enhanced subsidy schemes (SkillsFuture Mid-career Enhanced Subsidy and Enhanced Training Support for Small and Medium Enterprises (SMEs)) will receive an enhanced subsidy of up to 20%-points above the baseline course fee subsidies. This means up to 90% course fee subsidies in total, inclusive of enhanced funding for courses with the strongest manpower outcomes
+The revisions to course fee funding, applicable to all SSG-funded courses commencing on or after 1 Jan 2022, are as follows:<br><br>i. Baseline course fee subsides will be simplified and streamlined across Professional, Manager, Executive and Technician (PMET) and non-PMET courses, at up to 70% of course fees for courses offered by SSG-appointed CET Centres, and up to 50% of course fees for certifiable courses approved by SSG.<br><br>ii. Enterprises that qualify for SSG's enhanced subsidy schemes (SkillsFuture Mid-career Enhanced Subsidy and Enhanced Training Support for Small and Medium Enterprises (SMEs)) will receive an enhanced subsidy of up to 20%-points above the baseline course fee subsidies. This means up to 90% course fee subsidies in total, inclusive of enhanced funding for courses with the strongest manpower outcomes
 
 ---
 
 ### 2. Absentee Payroll Funding
 
-With effect from 1 Jan 2022, SSG will introduce a fixed Absentee Payroll (AP) rate at $4.50 per hour. We will also set a $100,000 cap on the maximum AP funding each organisation can claim each calendar year to ensure that the benefits are more evenly distributed across companies.
-
-The revisions are summarised below. Please refer to Annexes A and B under "Resources" for more details.
+With effect from 1 Jan 2022, SSG will introduce a fixed Absentee Payroll (AP) rate at $4.50 per hour. We will also set a $100,000 cap on the maximum AP funding each organisation can claim each calendar year to ensure that the benefits are more evenly distributed across companies.<br><br>The revisions are summarised below. Please refer to Annexes A and B under "Resources" for more details.
 
 ---
 
