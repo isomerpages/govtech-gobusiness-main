@@ -5,7 +5,15 @@ permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/career
 
 ### Find the right candidate with Career Matching Services
 
-Whether you are hiring for the short or long term, we can help to match your job openings to suitable local candidates. Upon understanding your hiring needs, WSG's Career Consultants will carefully screen and shortlist local candidates for your consideration. We also provide advice on how you can improve your company's recruitment process to support your business growth.<br><br>Find the right local candidate with Career Matching Services via this 3-step process:<br><br>**Step 1: Explain** the required Knowledge, Skills and Attributes that you are looking for in a candidate for the specific role<br><br>**Step 2: Entrust** us to shortlist local candidates based on your job requirements<br><br>**Step 3: Employ** shortlisted candidates who fit well into your organisation
+Whether you are hiring for the short or long term, we can help to match your job openings to suitable local candidates. Upon understanding your hiring needs, WSG's Career Consultants will carefully screen and shortlist local candidates for your consideration. We also provide advice on how you can improve your company's recruitment process to support your business growth.
+
+Find the right local candidate with Career Matching Services via this 3-step process:
+
+**Step 1: Explain** the required Knowledge, Skills and Attributes that you are looking for in a candidate for the specific role
+
+**Step 2: Entrust** us to shortlist local candidates based on your job requirements
+
+**Step 3: Employ** shortlisted candidates who fit well into your organisation
 
 ---
 

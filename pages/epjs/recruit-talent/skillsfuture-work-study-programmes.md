@@ -5,7 +5,9 @@ permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skills
 
 ### Groom local graduates to develop your manpower pipeline
 
-The SkillsFuture Work-Study Programmes (WSPs) are offered by the Institutes of Higher Learning (IHLs) and SSG's appointed private training providers to provide fresh graduates from the polytechnics, Institute of Technical Education (ITE), and mid-career individuals, a head-start in careers related to their discipline of study through work-study arrangements within organisations.<br><br>You can participate in the WSPs as a host employer by opening your workplace and offering structured training to the WSP trainees. By doing so, you will have the opportunity to groom and retain suitable talent with the relevant skills and aptitude to meet the needs of your organisation. The WSP trainees will receive guidance from mentors from the IHLs and the training providers to support their continued learning and contribution towards your business growth.
+The SkillsFuture Work-Study Programmes (WSPs) are offered by the Institutes of Higher Learning (IHLs) and SSG's appointed private training providers to provide fresh graduates from the polytechnics, Institute of Technical Education (ITE), and mid-career individuals, a head-start in careers related to their discipline of study through work-study arrangements within organisations.
+
+You can participate in the WSPs as a host employer by opening your workplace and offering structured training to the WSP trainees. By doing so, you will have the opportunity to groom and retain suitable talent with the relevant skills and aptitude to meet the needs of your organisation. The WSP trainees will receive guidance from mentors from the IHLs and the training providers to support their continued learning and contribution towards your business growth.
 
 ---
 

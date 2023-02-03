@@ -5,7 +5,9 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/capabi
 
 ### Acquire and transfer global capabilities from foreign specialists to your local workforce
 
-The Capability Transfer Programme (CTP) supports organisations in the transfer of global capabilities from foreign specialists to our local workforce.<br><br>Through the CTP, you can acquire deep capabilities and develop cutting-edge expertise in your local workforce to improve business competitiveness.
+The Capability Transfer Programme (CTP) supports organisations in the transfer of global capabilities from foreign specialists to our local workforce.
+
+Through the CTP, you can acquire deep capabilities and develop cutting-edge expertise in your local workforce to improve business competitiveness.
 
 ---
 

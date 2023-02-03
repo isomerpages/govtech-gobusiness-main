@@ -17,7 +17,8 @@ Supported by Workforce Singapore and administered by Yellow Ribbon Singapore (YR
 
 ### Who can register:
 
-Any company which:<br><br><ul><li>Is registered or incorporated in Singapore</li><li>Is interested in hiring ex-offenders who are Singapore Citizens or Permanent Residents</li></ul>
+Any company which:
+<br><ul><li>Is registered or incorporated in Singapore</li><li>Is interested in hiring ex-offenders who are Singapore Citizens or Permanent Residents</li></ul>
 
 ---
 

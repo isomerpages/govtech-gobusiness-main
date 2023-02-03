@@ -371,7 +371,9 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 
 ### Subsidies and funding:
 
-<ul><li> Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses</li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above<br><br>Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/">SSG Funding Information</a>.</li></ul>
+<ul><li> Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses</li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above
+
+Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/">SSG Funding Information</a>.</li></ul>
 
 ---
 

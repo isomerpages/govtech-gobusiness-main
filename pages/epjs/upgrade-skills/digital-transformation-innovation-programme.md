@@ -29,7 +29,11 @@ The Digital Transformation & Innovation Programme aims to train key personnel in
 
 ### How to apply:
 
-Register for this programme under<br><br>1) **Modular Programmes**<br><br>2) **Digital Transformation and Innovation (DTI)** via this <a href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" target="_blank" rel="noopener">online form</a>
+Register for this programme under
+
+1) **Modular Programmes**
+
+2) **Digital Transformation and Innovation (DTI)** via this <a href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" target="_blank" rel="noopener">online form</a>
 
 ---
 

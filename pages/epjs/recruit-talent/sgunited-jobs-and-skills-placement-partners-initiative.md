@@ -3,7 +3,10 @@ title: 'SGUnited Jobs and Skills Placement Partners initiative'
 permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/
 ---
 
-The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and WSG aims to increase the placement of local jobseekers who are mature, long-term unemployed, or persons with disabilities, into qualifying jobs and attachments.<br><br><br>Through this initiative, you have the opportunity to tap on the strong recruitment capabilities of employment agencies to support your hiring needs.
+The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and WSG aims to increase the placement of local jobseekers who are mature, long-term unemployed, or persons with disabilities, into qualifying jobs and attachments.
+
+
+Through this initiative, you have the opportunity to tap on the strong recruitment capabilities of employment agencies to support your hiring needs.
 
 ---
 
@@ -31,22 +34,48 @@ Employers may approach any SGUJS Placement Partners via the contact information 
 <th><b>Specialisations	</b></th>
 </tr>
 <tr>
-<td>Adecco Personnel Pte Ltd<br><br>sgu.ppi@adecco.com<br>6835 3400</td>
-<td>Supply Chain & Logistics,<br>Engineering, Digital & eCommerce,<br>Technology, Accounting & Finance,<br>Admin & Secretarial,<br>Events, Healthcare & Life Sciences,<br>Human Resources, Retail,<br>Sales & Marketing</td>
+<td>Adecco Personnel Pte Ltd
+
+sgu.ppi@adecco.com
+6835 3400</td>
+<td>Supply Chain & Logistics,
+Engineering, Digital & eCommerce,
+Technology, Accounting & Finance,
+Admin & Secretarial,
+Events, Healthcare & Life Sciences,
+Human Resources, Retail,
+Sales & Marketing</td>
 <td></ul></td>
 <td></ul></td>
 <td></ul></td>
 </tr>
 <tr>
-<td>Good Job Creations (Singapore) Pte Ltd<br><br>sgunited@goodjobcreations.com.sg<br>6258 8051</td>
-<td>Corporate functions<br>(e.g. Office Support, Sales & Marketing),<br>Information Technology,<br>Construction & Engineering</td>
+<td>Good Job Creations (Singapore) Pte Ltd
+
+sgunited@goodjobcreations.com.sg
+6258 8051</td>
+<td>Corporate functions
+(e.g. Office Support, Sales & Marketing),
+Information Technology,
+Construction & Engineering</td>
 <td></ul></td>
 <td></ul></td>
 <td></ul></td>
 </tr>
 <tr>
-<td>Charterhouse Pte Ltd*<br><br>SGUJS@charterhouse.com.sg<br>6950 0397 <br><br>* Due to the scope of Charterhouse's employment agency license, Charterhouse can only support individuals who are or used to be in middle to senior management positions.<br><br>Please approach other appointed SGUJS Placement Partners if you need assistance filling other positions.</td>
-<td>Accounting & Finance, Banking & Finance Services,<br>Human Resource, Supply Chain,<br>Healthcare & Life Sciences,<br>Sales & Marketing, Digital Analytics,<br>Information Technology</td>
+<td>Charterhouse Pte Ltd*
+
+SGUJS@charterhouse.com.sg
+6950 0397 
+
+* Due to the scope of Charterhouse's employment agency license, Charterhouse can only support individuals who are or used to be in middle to senior management positions.
+
+Please approach other appointed SGUJS Placement Partners if you need assistance filling other positions.</td>
+<td>Accounting & Finance, Banking & Finance Services,
+Human Resource, Supply Chain,
+Healthcare & Life Sciences,
+Sales & Marketing, Digital Analytics,
+Information Technology</td>
 <td></ul></td>
 <td></ul></td>
 <td></ul></td>
@@ -376,6 +405,8 @@ Employers may approach any SGUJS Placement Partners via the contact information 
 </table>
 ---
 
-Note: While WSG provides SGUJS Placement Partners with a fee per qualifying job placement or attachment enrolment, employers may wish to note that SGUJS Placement Partners operate as licenced employment agencies, and may charge employers a placement fee.<br><br>WSG encourages employers to consider the fees provided by WSG to SGUJS Placement Partners when negotiating any placement/ enrolment fees with the SGUJS Placement Partner.
+Note: While WSG provides SGUJS Placement Partners with a fee per qualifying job placement or attachment enrolment, employers may wish to note that SGUJS Placement Partners operate as licenced employment agencies, and may charge employers a placement fee.
+
+WSG encourages employers to consider the fees provided by WSG to SGUJS Placement Partners when negotiating any placement/ enrolment fees with the SGUJS Placement Partner.
 
 [Read More](https://go.gov.sg/sgujspp-emp){:target="_blank"}{:rel="noopener"}

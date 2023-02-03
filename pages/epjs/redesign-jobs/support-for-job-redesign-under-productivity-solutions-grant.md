@@ -5,7 +5,10 @@ permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/support
 
 ### Work with pre-approved Job Redesign consultants to redesign jobs for improved productivity and attractiveness
 
-Developed by WSG as part of the enhancement to the existing Productivity Solutions Grant (PSG), the Support for Job Redesign under Productivity Solutions Grant (PSG-JR) encourages enterprises to work with pre-approved Job Redesign (JR) consultants to redesign work processes, tasks and responsibilities to attract and retain better workers.<br><br><a href="https://snef.org.sg/incentives/psgjr/" target="_blank" rel="noopener">Singapore National Employers Federation (SNEF)</a> has been appointed by WSG as the Programme Manager to administer PSG-JR. A panel of pre-approved JR consultants has also been appointed to help organisations redesign work processes, tasks and responsibilities. The pre-approved JR consultants will assist organisations in the following:<br><br><ul><li>Scope and develop proposals for PSG-JR; and</li><li>Implement the PSG-JR project and ensure that the committed deliverables for the project are met</li></ul>
+Developed by WSG as part of the enhancement to the existing Productivity Solutions Grant (PSG), the Support for Job Redesign under Productivity Solutions Grant (PSG-JR) encourages enterprises to work with pre-approved Job Redesign (JR) consultants to redesign work processes, tasks and responsibilities to attract and retain better workers.
+
+<a href="https://snef.org.sg/incentives/psgjr/" target="_blank" rel="noopener">Singapore National Employers Federation (SNEF)</a> has been appointed by WSG as the Programme Manager to administer PSG-JR. A panel of pre-approved JR consultants has also been appointed to help organisations redesign work processes, tasks and responsibilities. The pre-approved JR consultants will assist organisations in the following:
+<br><ul><li>Scope and develop proposals for PSG-JR; and</li><li>Implement the PSG-JR project and ensure that the committed deliverables for the project are met</li></ul>
 
 ---
 
@@ -23,7 +26,11 @@ Developed by WSG as part of the enhancement to the existing Productivity Solutio
 
 ### Eligibility criteria:
 
-<ul><li> Your organisation must be registered or incorporated and operating in Singapore</li><li>You must have at least 3 local employees at the point of application</li><li>At the point of application, you must not have:<br><br>     - Made any payment to a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service; and<br><br>     - Signed or confirmed any contract or purchase order with a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service</li></ul>
+<ul><li> Your organisation must be registered or incorporated and operating in Singapore</li><li>You must have at least 3 local employees at the point of application</li><li>At the point of application, you must not have:
+
+     - Made any payment to a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service; and
+
+     - Signed or confirmed any contract or purchase order with a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service</li></ul>
 
 ---
 
