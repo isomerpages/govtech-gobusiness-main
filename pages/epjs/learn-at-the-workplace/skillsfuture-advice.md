@@ -28,6 +28,7 @@ The SkillsFuture Advice workshop is a 1.5-hour complimentary workshop that can b
 - Email [PED@ssg.gov.sg](mailto:PED@ssg.gov.sg) to indicate your interest in arranging for an exclusive SkillsFuture Advice workshop for your employees. Alternatively, you could encourage your employees to <a href="https://go.gov.sg/im-keen" target="_blank" rel="noopener">register</a> for a Webinar (conducted via Zoom/Demio/MS Teams)
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/advice#howcanibringittomyorganisation" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### Resources

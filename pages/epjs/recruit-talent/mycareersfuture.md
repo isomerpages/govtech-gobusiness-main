@@ -22,4 +22,5 @@ MyCareersFuture is a one-stop job portal that supports enterprises' local hiring
 - Access to localised content that provides employers with relevant resources on best hiring practices and human capital development
 
 {% include primary-btn.html href="https://employer.mycareersfuture.gov.sg/" text="Apply Now" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

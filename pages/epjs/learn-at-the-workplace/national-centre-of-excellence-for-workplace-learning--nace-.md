@@ -27,5 +27,6 @@ The <a href="https://www.nyp.edu.sg/nace" target="_blank" rel="noopener">Nationa
 
 Note: In view of SkillsFuture funding changes, please check with NACE on your subsidy eligibility.
 
-{% include primary-btn.html href="https://www.nace.edu.sg/contact-us/" text="Apply Now" target="_blank" rel="noopener" %} {% include secondary-btn.html href="https://www.nace.edu.sg/" text="Read More" target="_blank" rel="noopener" %}
+{% include primary-secondary-btn.html pri_href="https://www.nace.edu.sg/contact-us/" pri_text="Apply Now" pri_target="_blank" pri_rel="noopener" sec_href="https://www.nace.edu.sg/" sec_text="Read More" sec_target="_blank" sec_rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

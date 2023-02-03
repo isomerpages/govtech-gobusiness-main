@@ -32,6 +32,7 @@ The SkillsFuture Fellowship is open to Singapore Citizens with at least 10 years
 For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/fellowships" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### Related Digital Services
@@ -39,4 +40,5 @@ For further enquiries, please contact the appointed Programme Manager for the Sk
 -<a href="https://www.skillsfuture.gov.sg/fellowships" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
 {% include primary-btn.html href="https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx" text="Apply Now" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

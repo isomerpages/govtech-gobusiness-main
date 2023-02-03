@@ -55,4 +55,5 @@ Developed by WSG as part of the enhancement to the existing Productivity Solutio
 - You may also refer to <a href="https://www.gobusiness.gov.sg/browse-all-solutions-job-redesign-solutions/job-redesign-consultancy" target="_blank" rel="noopener">GoBusiness Gov Assist</a> for the list of pre-approved JR consultants and to engage them for quotations and PSG-JR proposals
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" text="Read More" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

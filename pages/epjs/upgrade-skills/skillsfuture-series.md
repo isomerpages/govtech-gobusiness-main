@@ -58,4 +58,5 @@ Please contact the training provider for the final net course fee payable after 
 <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/Public FAQs for SkillsFuture_12Dec2022.docx">Frequently Asked Questions</a>
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/series" text="Read More" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

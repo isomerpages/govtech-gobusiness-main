@@ -47,6 +47,7 @@ You will find comprehensive self-help resources to kickstart job resign projects
 - The <a href="https://www.wsg.gov.sg/programmes-and-initiatives/redeployment-career-conversion-programme-for-retail-sector.html" target="_blank" rel="noopener">Redeployment Career Conversion Programme (CCP) for Retail Sector</a> provides funding support for in-company redeployment. The CCP aims to help organisations undergoing business transformation to reskill and redeploy employees affected by business transformation.
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-retail-sector.html" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### Resources

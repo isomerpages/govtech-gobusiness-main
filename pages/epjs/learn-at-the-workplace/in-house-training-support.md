@@ -30,4 +30,5 @@ Read more about the <a href="https://www.tpgateway.gov.sg/get-started/journey-ov
 - <a href="https://www.tpgateway.gov.sg/get-started/journey-overview-of-a-training-provider" target="_blank" rel="noopener">Journey Overview for Training Providers</a>
 
 {% include primary-btn.html href="http://www.tpgateway.gov.sg/workspace/session/Login.aspx" text="Apply Now" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

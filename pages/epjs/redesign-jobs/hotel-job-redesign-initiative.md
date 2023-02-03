@@ -42,6 +42,7 @@ The following resources are available to help you embark on and sustain job rede
 - <a href="https://www.wsg.gov.sg/programmes-and-initiatives/career-conversion-programme-for-hotel-professionals.html" target="_blank" rel="noopener">Job Redesign Reskilling (JRR) Programme for Hotel Industry</a> provides funding support for hotels to train existing workers for redesigned job roles. Aligned to the shift towards contactless experience/interactions and crowd management, supportable job redesign projects are to be enabled by technology implementation
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-hotel-sector.html" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### TOOLKITS
@@ -49,4 +50,5 @@ The following resources are available to help you embark on and sustain job rede
 -<a href="https://go.gov.sg/tk-hoteljobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Hotel Sector</a>
 
 {% include primary-btn.html href="https://sha.org.sg/job-redesign" text="Apply Now" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>

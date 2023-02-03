@@ -38,6 +38,7 @@ The following resources are available to help you embark on and sustain job rede
 - Job Redesign Reskilling (JRR) Programme for Food Services Assistants provides funding support to Food Services organisations that are ready to embark on job redesign for the training and upskilling of its existing workers on redesigned and enhanced rank-and file job roles.
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-food-services-sector.html" text="Read More" target="_blank" rel="noopener" %}
+
 ---
 
 ### Resources

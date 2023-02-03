@@ -46,4 +46,5 @@ Through the CTP, you can acquire deep capabilities and develop cutting-edge expe
 <a href="https://form.gov.sg/#!/5e128f348967b800114ce47c" target="_blank" rel="noopener">Enquiry Form</a>
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html" text="Read More" target="_blank" rel="noopener" %}
+
 <script src="/jquery/resize-tables.js"></script>
