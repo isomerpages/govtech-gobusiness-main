@@ -113,13 +113,7 @@ The revisions are summarised below. Please refer to Annexes A and B under "Resou
 
 ---
 
-<img src="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_Funding Measures Infographics_Final_Cropped.jpg" aria-hidden="true">
-
-<img src="" aria-hidden="true">
-
-<img src="" aria-hidden="true">
-
-<img src="" aria-hidden="true">
+<img src="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_Funding Measures Infographics_Final_Cropped.jpg" aria-hidden="true"/>
 
 ---
 
