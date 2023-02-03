@@ -17,13 +17,13 @@ The Digital Transformation & Innovation Programme aims to train key personnel in
 
 ### Subsidies and funding:
 
-<ul><li> SME-sponsored trainees can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes" target="_blank" rel="noopener">Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)</a>, subject to eligibility criteria <br></li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy" target="_blank" rel="noopener">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li></ul>
+<ul><li> SME-sponsored trainees can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes" target="_blank" rel="noopener">Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)</a>, subject to eligibility criteria </li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy" target="_blank" rel="noopener">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li></ul>
 
 ---
 
 ### Eligibility criteria:
 
-<ul><li> Applicants should have a minimum of 3 years related working experience and relevant qualifications.<br></li><li>Eligibility interview can be arranged for those who do not meet the course entry requirements.</li></ul>
+<ul><li> Applicants should have a minimum of 3 years related working experience and relevant qualifications.</li><li>Eligibility interview can be arranged for those who do not meet the course entry requirements.</li></ul>
 
 ---
 

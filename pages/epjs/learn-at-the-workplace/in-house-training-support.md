@@ -23,6 +23,6 @@ If you conduct structured on-the-job training or other classroom facilitated tra
 
 ### Resources
 
-<ul><li> <a href="https://www.tpgateway.gov.sg/plan-courses/organisation-registration-for-first-time-training-provider/apply-for-organisation-registration" target="_blank" rel="noopener">Information for companies registering as an In-House Training Provider for the first time</a><br></li><li><a href="https://www.tpgateway.gov.sg/get-started/journey-overview-of-a-training-provider" target="_blank" rel="noopener">Journey Overview for Training Providers</a></li></ul>
+<ul><li> <a href="https://www.tpgateway.gov.sg/plan-courses/organisation-registration-for-first-time-training-provider/apply-for-organisation-registration" target="_blank" rel="noopener">Information for companies registering as an In-House Training Provider for the first time</a></li><li><a href="https://www.tpgateway.gov.sg/get-started/journey-overview-of-a-training-provider" target="_blank" rel="noopener">Journey Overview for Training Providers</a></li></ul>
 
 <a class="btn" href="http://www.tpgateway.gov.sg/workspace/session/Login.aspx" target="_blank" rel="noopener">Apply Now</a>

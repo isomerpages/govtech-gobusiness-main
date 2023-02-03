@@ -15,7 +15,7 @@ Nominate your exemplary employees for the SkillsFuture Fellowships to honour the
 
 ### How you can benefit:
 
-<ul><li> Recognise and celebrate skills mastery and lifelong learning in your company<br></li><li>Inspire your employees to pursue skills mastery<br></li><li>Strengthen your company's position as a leading employer in championing lifelong learning</li></ul>
+<ul><li> Recognise and celebrate skills mastery and lifelong learning in your company</li><li>Inspire your employees to pursue skills mastery</li><li>Strengthen your company's position as a leading employer in championing lifelong learning</li></ul>
 
 ---
 

@@ -17,7 +17,7 @@ The Hotel Job Redesign Initiative is open to hoteliers who are keen to become ma
 
 ### How you can benefit:
 
-<ul><li> Create an agile workforce for the hotel sector<br></li><li>Improve productivity and reduce operating costs<br></li><li>Reduce your manpower requirements<br></li><li>Improve the overall employee experience across the sector<br></li><li>Enhance guest experience</li></ul>
+<ul><li> Create an agile workforce for the hotel sector</li><li>Improve productivity and reduce operating costs</li><li>Reduce your manpower requirements</li><li>Improve the overall employee experience across the sector</li><li>Enhance guest experience</li></ul>
 
 ---
 

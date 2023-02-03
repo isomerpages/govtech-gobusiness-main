@@ -11,7 +11,7 @@ Become an early adopter of higher retirement/re-employment ages and/or implement
 
 ### How you can benefit:
 
-<ul><li> Grow your business with the valuable experience and skillsets of senior workers<br></li><li>Attract and retain more talents as a progressive employer<br></li><li>Tap on government funding to support progressive employment practices</li></ul>
+<ul><li> Grow your business with the valuable experience and skillsets of senior workers</li><li>Attract and retain more talents as a progressive employer</li><li>Tap on government funding to support progressive employment practices</li></ul>
 
 ---
 
@@ -23,12 +23,12 @@ Become an early adopter of higher retirement/re-employment ages and/or implement
 
 ### Eligibility criteria:
 
-<ul><li>  Your organisation must be registered or incorporated in Singapore (including societies and non-profit organisations such as charities and voluntary welfare organisations)<br></li><li>Your organisation will need to have at least 1 senior worker aged 60 years and above<br></li><li>Your organisation must adopt the Tripartite Standard on Age-Friendly Workplace Practices (TS-AWP)</li></ul>
+<ul><li>  Your organisation must be registered or incorporated in Singapore (including societies and non-profit organisations such as charities and voluntary welfare organisations)</li><li>Your organisation will need to have at least 1 senior worker aged 60 years and above</li><li>Your organisation must adopt the Tripartite Standard on Age-Friendly Workplace Practices (TS-AWP)</li></ul>
 
 ---
 
 ### How to apply:
 
-Contact the respective programme partners:<br><br><ul><li>NTUC e2i: Call [6474 0606](tel:6474 0606), email [snp@e2i.com.sg](mailto:snp@e2i.com.sg), or visit <a href="https://www.e2i.com.sg" target="_blank" rel="noopener">www.e2i.com.sg</a><br></li><li>SNEF: Call [6290 7694](tel:62907694), email [SWSP@snef.sg](mailto:SWSP@snef.sg), or visit <a href="https://www.snef.org.sg" target="_blank" rel="noopener">www.snef.org.sg</a></li></ul>
+Contact the respective programme partners:<br><br><ul><li>NTUC e2i: Call [6474 0606](tel:6474 0606), email [snp@e2i.com.sg](mailto:snp@e2i.com.sg), or visit <a href="https://www.e2i.com.sg" target="_blank" rel="noopener">www.e2i.com.sg</a></li><li>SNEF: Call [6290 7694](tel:62907694), email [SWSP@snef.sg](mailto:SWSP@snef.sg), or visit <a href="https://www.snef.org.sg" target="_blank" rel="noopener">www.snef.org.sg</a></li></ul>
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/senior-worker-early-adopter-grant-and-part-time-re-employment-grant-employers.html){:target="_blank"}{:rel="noopener"}

@@ -33,6 +33,6 @@ The SkillsFuture Queen Bees (SFQBs) are industry leaders who take on a leading r
 
 ### Resources
 
-<ul><li> <a href="https://go.gov.sg/epjs-sfqb-video" target="_blank" rel="noopener">What is a skillsFuture Queen Bee Network?</a><br></li><li><a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_SFQB_Infographic%202022.pdf">A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)</a></li></ul>
+<ul><li> <a href="https://go.gov.sg/epjs-sfqb-video" target="_blank" rel="noopener">What is a skillsFuture Queen Bee Network?</a></li><li><a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_SFQB_Infographic%202022.pdf">A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)</a></li></ul>
 
 <a class="btn" href="https://service-portal.skillsfuture.gov.sg/" target="_blank" rel="noopener">Apply Now</a>

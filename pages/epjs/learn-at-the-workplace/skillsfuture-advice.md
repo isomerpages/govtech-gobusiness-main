@@ -11,7 +11,7 @@ The SkillsFuture Advice workshop is a 1.5-hour complimentary workshop that can b
 
 ### How you can benefit:
 
-<ul><li> Kickstart your learning culture by organising the complimentary workshop at your workplace<br></li><li>Empower your employees to take charge of their skills development and strengthen employee engagement</li></ul>
+<ul><li> Kickstart your learning culture by organising the complimentary workshop at your workplace</li><li>Empower your employees to take charge of their skills development and strengthen employee engagement</li></ul>
 
 ---
 

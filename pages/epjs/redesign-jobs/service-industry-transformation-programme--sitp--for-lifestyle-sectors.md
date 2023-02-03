@@ -11,13 +11,13 @@ The Service Industry Transformation Programme (SITP) is part of the Lean Enterpr
 
 ### How you can benefit:
 
-<ul><li> Develop core capability in Service Design and/or Digitalisation as you groom your key personnel to be trained under SITP<br></li><li>Strengthen the business processes as they are reinforced through the on-the-job training component<br></li><li>Receive mentorship from experienced consultants as you implement your projects</li></ul>
+<ul><li> Develop core capability in Service Design and/or Digitalisation as you groom your key personnel to be trained under SITP</li><li>Strengthen the business processes as they are reinforced through the on-the-job training component</li><li>Receive mentorship from experienced consultants as you implement your projects</li></ul>
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li> Up to 90% support for SMEs<br></li><li>Up to 70% support for Non-SME</li></ul>
+<ul><li> Up to 90% support for SMEs</li><li>Up to 70% support for Non-SME</li></ul>
 
 ---
 

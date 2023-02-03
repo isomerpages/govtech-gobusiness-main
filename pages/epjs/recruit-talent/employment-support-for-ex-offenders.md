@@ -11,13 +11,13 @@ Supported by Workforce Singapore and administered by Yellow Ribbon Singapore (YR
 
 ### How does it benefit employers:
 
-<ul><li> Gain access to an alternative pool of productive and committed workers through job-matching services by YRSG.<br></li><li>Benefit from career retention support by YRSG career coaches to support employers and help ex-offenders stay in employment.</li></ul>
+<ul><li> Gain access to an alternative pool of productive and committed workers through job-matching services by YRSG.</li><li>Benefit from career retention support by YRSG career coaches to support employers and help ex-offenders stay in employment.</li></ul>
 
 ---
 
 ### Who can register:
 
-Any company which:<br><br><ul><li>Is registered or incorporated in Singapore<br></li><li>Is interested in hiring ex-offenders who are Singapore Citizens or Permanent Residents</li></ul>
+Any company which:<br><br><ul><li>Is registered or incorporated in Singapore</li><li>Is interested in hiring ex-offenders who are Singapore Citizens or Permanent Residents</li></ul>
 
 ---
 

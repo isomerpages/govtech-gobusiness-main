@@ -11,13 +11,13 @@ The SkillsFuture Work-Study Programmes (WSPs) are offered by the Institutes of H
 
 ### How you can benefit:
 
-<ul><li> Develop a pipeline of talent to support your business growth<br></li><li>Cultivate relationships with the IHLs and training partners as your business partners for skills advisory and provide valuable industry feedback to them to enhance relevance and effectiveness of the WSPs</li></ul>
+<ul><li> Develop a pipeline of talent to support your business growth</li><li>Cultivate relationships with the IHLs and training partners as your business partners for skills advisory and provide valuable industry feedback to them to enhance relevance and effectiveness of the WSPs</li></ul>
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li> Receive a grant of up to $15,000 per trainee placed in the programme to defray the costs of developing and providing structured on-job-training (Terms and Conditions apply)<br></li><li>[New] COVID-19 wage support, pegged at 70% of gross monthly salaries (including Jobs Support Scheme) for up to 12 months for existing WSP trainees hired before 1 Sep 2020<br></li><li>[New] COVID-19 wage support, pegged at 45% of gross monthly salaries (including Jobs Support Scheme) for up to 12 months for new WSP trainees hired from 1 Sep 2020 to 31 Mar 2021. This will be extended to 31 Mar 2022. Employers remain eligible to receive JGI Incentives when they hire new trainees from 1 Sep 2020 and meet JGI's qualifying criteria</li></ul>
+<ul><li> Receive a grant of up to $15,000 per trainee placed in the programme to defray the costs of developing and providing structured on-job-training (Terms and Conditions apply)</li><li>[New] COVID-19 wage support, pegged at 70% of gross monthly salaries (including Jobs Support Scheme) for up to 12 months for existing WSP trainees hired before 1 Sep 2020</li><li>[New] COVID-19 wage support, pegged at 45% of gross monthly salaries (including Jobs Support Scheme) for up to 12 months for new WSP trainees hired from 1 Sep 2020 to 31 Mar 2021. This will be extended to 31 Mar 2022. Employers remain eligible to receive JGI Incentives when they hire new trainees from 1 Sep 2020 and meet JGI's qualifying criteria</li></ul>
 
 ---
 
@@ -29,6 +29,6 @@ The SkillsFuture Work-Study Programmes (WSPs) are offered by the Institutes of H
 
 ### Resources
 
-<ul><li> <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf">Frequently Asked Questions (PDF, 353 KB)</a><br></li><li><a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf">COVID 19 Wage Support FAQ (PDF, 41 KB)</a></li></ul>
+<ul><li> <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf">Frequently Asked Questions (PDF, 353 KB)</a></li><li><a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf">COVID 19 Wage Support FAQ (PDF, 41 KB)</a></li></ul>
 
 [Read More](https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}

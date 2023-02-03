@@ -9,7 +9,7 @@ The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and
 
 ### How enterprises can benefit:
 
-<ul><li> Tap on a wider pool of local jobseekers<br></li><li>Tap on the extensive networks and job matching expertise of employment agencies</li></ul>
+<ul><li> Tap on a wider pool of local jobseekers</li><li>Tap on the extensive networks and job matching expertise of employment agencies</li></ul>
 
 ---
 

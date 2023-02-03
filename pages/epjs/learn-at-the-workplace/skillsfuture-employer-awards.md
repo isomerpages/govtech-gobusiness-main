@@ -15,7 +15,7 @@ Presented by the President of the Republic of Singapore, the SkillsFuture Employ
 
 ### How you can benefit:
 
-<ul><li> Earn national recognition presented by the President of Republic of Singapore<br></li><li>Distinguish your organisation as an employer of choice with the SkillsFuture Employer Awards logo on your corporate collaterals and MyCareersFuture.sg<br></li><li>Share best practices with other employers</li></ul>
+<ul><li> Earn national recognition presented by the President of Republic of Singapore</li><li>Distinguish your organisation as an employer of choice with the SkillsFuture Employer Awards logo on your corporate collaterals and MyCareersFuture.sg</li><li>Share best practices with other employers</li></ul>
 
 ---
 
