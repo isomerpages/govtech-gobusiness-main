@@ -5,7 +5,11 @@ permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplac
 
 ### Distinguish your organisation as an employer of choice
 
-Presented by the President of the Republic of Singapore, the SkillsFuture Employer Awards honour exemplary organisations that champion employees' skills development and build a lifelong learning culture at the workplace.<br><br>The Award distinguishes your organisation as an outstanding employer that emphasises employees' skills development. It is a prestigious symbol of excellence and helps your organisation gain a competitive edge in talent attraction and retention.<br><br>The SkillsFuture Employer Awards is open to all Singapore registered entities, including small and medium enterprises (SMEs), corporations and voluntary welfare organisations.
+Presented by the President of the Republic of Singapore, the SkillsFuture Employer Awards honour exemplary organisations that champion employees' skills development and build a lifelong learning culture at the workplace.
+
+The Award distinguishes your organisation as an outstanding employer that emphasises employees' skills development. It is a prestigious symbol of excellence and helps your organisation gain a competitive edge in talent attraction and retention.
+
+The SkillsFuture Employer Awards is open to all Singapore registered entities, including small and medium enterprises (SMEs), corporations and voluntary welfare organisations.
 
 ---
 
@@ -15,20 +19,26 @@ Presented by the President of the Republic of Singapore, the SkillsFuture Employ
 
 ### How you can benefit:
 
-<ul><li> Earn national recognition presented by the President of Republic of Singapore</li><li>Distinguish your organisation as an employer of choice with the SkillsFuture Employer Awards logo on your corporate collaterals and MyCareersFuture.sg</li><li>Share best practices with other employers</li></ul>
+- Earn national recognition presented by the President of Republic of Singapore
+
+- Distinguish your organisation as an employer of choice with the SkillsFuture Employer Awards logo on your corporate collaterals and MyCareersFuture.sg
+
+- Share best practices with other employers
 
 ---
 
 ### How to apply:
 
-<ul><li> Applications will open in Dec 2021. <br><br>For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at sfa@snef.org.sg.</li></ul>
+- Applications will open in Dec 2021. 
+
+For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at sfa@snef.org.sg.
 
 [Read More](https://safe.menlosecurity.com/https://www.skillsfuture.gov.sg/employerawards){:target="_blank"}{:rel="noopener"}
 ---
 
 ### Related Digital Services
 
-<ul><li> <a href="https://www.skillsfuture.gov.sg/employerawards/faq" target="_blank" rel="noopener">Frequently Asked Questions</a></li></ul>
+- <a href="https://www.skillsfuture.gov.sg/employerawards/faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
 <a class="btn" href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx" target="_blank" rel="noopener">Apply Now</a>
 <script src="/jquery/resize-tables.js"></script>

@@ -31,19 +31,25 @@ The SkillsFuture Series is a curated list of short, industry-relevant training p
 
 ### How you can benefit:
 
-<ul><li> Gain access to subsidised courses curated under the SkillsFuture Series across basic, intermediate and advanced proficiency levels. The course list will be expanded progressively.</li><li>Broaden your knowledge on emerging trends to understand how they could disrupt or propel your business and workforce as you transform</li></ul>
+- Gain access to subsidised courses curated under the SkillsFuture Series across basic, intermediate and advanced proficiency levels. The course list will be expanded progressively.
+
+- Broaden your knowledge on emerging trends to understand how they could disrupt or propel your business and workforce as you transform
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li> Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses</li><li>Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above<br><br>Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/">SSG Funding Information</a>.</li></ul>
+- Up to 70% course fee subsidy for employers who sponsor their employees (Singaporean and Permanent Residents) for the SkillsFuture Series courses
+
+- Enhanced funding of up to 90% course subsidy is applicable for Small and Medium-sized Enterprises (SMEs) and/or Singaporean employees who are 40 years old and above
+
+Please contact the training provider for the final net course fee payable after SSG subsidies and GST. For further information on SSG training grants, please visit <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/">SSG Funding Information</a>.
 
 ---
 
 ### How to apply:
 
-<ul><li> Find out more information on the emerging skills and the range of <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html" target="_blank" rel="noopener">SkillsFuture Series courses</a></li></ul>
+- Find out more information on the emerging skills and the range of <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html" target="_blank" rel="noopener">SkillsFuture Series courses</a>
 
 ---
 

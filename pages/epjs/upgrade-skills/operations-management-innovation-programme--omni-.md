@@ -5,7 +5,13 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/operat
 
 ### Train key personnel to be technology innovators to achieve manufacturing excellence
 
-The Operations MaNagement Innovation (OMNI) Programme is a joint initiative by the Singapore Institute of Manufacturing Technology (SIMTech) and SSG. The programme aims to train key personnel such as engineers, managers and senior staff of companies to be technology innovators to achieve manufacturing excellence. Delivered based on SIMTech's proven Operations Management Innovation methodology (OmniMethodology), the programme comprises a 40-hour classroom training component in operations management techniques and another 40-hour mentorship by the experienced trainers to implement productivity improvement projects at the workplace.<br><br>The two course modules are:<br><br>1. **Apply Operations Improvement Fundamentals (40 hours)**<br>This unit provides the necessary fundamental knowledge and concepts needed to understand operations management.<br><br>2. **Improve Operations Actions Using OmniMethodology (On-site Mentorship)(40 hours)**<br>This unit trains participants to evaluate and identify operations improvement areas and set performance objectives.<br>The training will be company-based, with both on-site and scheduled review sessions. Upon completion of this unit, the participants will be ready to embark on the identification of suitable initiatives that can help the company improve its operations, achieve its competitive strategy and performance targets identified. This is the second step towards becoming a technology innovator of a company
+The Operations MaNagement Innovation (OMNI) Programme is a joint initiative by the Singapore Institute of Manufacturing Technology (SIMTech) and SSG. The programme aims to train key personnel such as engineers, managers and senior staff of companies to be technology innovators to achieve manufacturing excellence. Delivered based on SIMTech's proven Operations Management Innovation methodology (OmniMethodology), the programme comprises a 40-hour classroom training component in operations management techniques and another 40-hour mentorship by the experienced trainers to implement productivity improvement projects at the workplace.
+
+The two course modules are:
+
+1. **Apply Operations Improvement Fundamentals (40 hours)**<br>This unit provides the necessary fundamental knowledge and concepts needed to understand operations management.
+
+2. **Improve Operations Actions Using OmniMethodology (On-site Mentorship)(40 hours)**<br>This unit trains participants to evaluate and identify operations improvement areas and set performance objectives.<br>The training will be company-based, with both on-site and scheduled review sessions. Upon completion of this unit, the participants will be ready to embark on the identification of suitable initiatives that can help the company improve its operations, achieve its competitive strategy and performance targets identified. This is the second step towards becoming a technology innovator of a company
 
 ---
 
@@ -17,13 +23,19 @@ Equip your key personnel with the necessary knowledge and skills to systematical
 
 ### Subsidies and funding:
 
-<ul><li> SME-sponsored trainees can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes" target="_blank" rel="noopener">Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)</a>, subject to eligibility criteria </li><li>Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)] (https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy)</li></ul>
+- SME-sponsored trainees can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes" target="_blank" rel="noopener">Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)</a>, subject to eligibility criteria 
+
+- Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)] (https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy)
 
 ---
 
 ### Eligibility criteria:
 
-<ul><li> Applicants should possess a degree in any discipline or a diploma with a minimum of 3 years of related working experience</li><li>Applicants who do not have the required academic qualifications are still welcome to apply, but shortlisted candidates may be required to attend an interview for special approval</li><li>Proficiency in written and spoken English</li></ul>
+- Applicants should possess a degree in any discipline or a diploma with a minimum of 3 years of related working experience
+
+- Applicants who do not have the required academic qualifications are still welcome to apply, but shortlisted candidates may be required to attend an interview for special approval
+
+- Proficiency in written and spoken English
 
 ---
 

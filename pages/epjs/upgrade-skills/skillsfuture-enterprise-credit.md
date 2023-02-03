@@ -11,7 +11,11 @@ The SkillsFuture Enterprise Credit (SFEC) is a $10,000 credit provided by the go
 
 ### How it works:
 
-The SFEC supports programmes under two broad categories:<br><br><ul><li>**Enterprise Transformation**: Programmes that support enterprise transformation</li><li>**Workforce Transformation**: Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Career Conversion Programmes and sector-specific programmes</li></ul>
+The SFEC supports programmes under two broad categories:
+
+- **Enterprise Transformation**: Programmes that support enterprise transformation
+
+- **Workforce Transformation**: Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Career Conversion Programmes and sector-specific programmes
 
 ---
 
@@ -21,13 +25,21 @@ The SFEC supports programmes under two broad categories:<br><br><ul><li>**Enterp
 
 ### Subsidies and funding:
 
-If you are eligible*, you will be able to utilise your one-off $10,000 credit for:<br><br><ul><li>Enterprise Transformation programmes by various government agencies hosted on the Business Grant Portal (BGP). **You will be able to claim up to S$7,000 credit only.**</li><li>Workforce Transformation programmes including courses aligned to the Skills Frameworks and funded by SkillsFuture Singapore (SSG), Job redesign initiatives, and Career Conversion Programmes etc. by Workforce Singapore (WSG). **You will be able to claim the full S$10,000 credits.**<br><br>*In addition to qualifying for the SFEC, you will also have to meet the eligible criteria of the individual SFEC-supportable programmes before you can draw down the credit. The credit can be used for training courses that commenced from 1 April 2020, and for schemes that are applied on or after 1 April 2020.</li></ul>
+If you are eligible*, you will be able to utilise your one-off $10,000 credit for:
+
+- Enterprise Transformation programmes by various government agencies hosted on the Business Grant Portal (BGP). **You will be able to claim up to S$7,000 credit only.**
+
+- Workforce Transformation programmes including courses aligned to the Skills Frameworks and funded by SkillsFuture Singapore (SSG), Job redesign initiatives, and Career Conversion Programmes etc. by Workforce Singapore (WSG). **You will be able to claim the full S$10,000 credits.**
+
+*In addition to qualifying for the SFEC, you will also have to meet the eligible criteria of the individual SFEC-supportable programmes before you can draw down the credit. The credit can be used for training courses that commenced from 1 April 2020, and for schemes that are applied on or after 1 April 2020.
 
 ---
 
 ### Eligibility criteria:
 
-Eligible employers have been qualified for SFEC over 5 qualifying periods. Employers that have fulfilled the eligibility criteria for SFEC will be informed by Enterprise Singapore.<br><br>Please refer to the table below for the qualifying periods and the respective eligibility criteria.
+Eligible employers have been qualified for SFEC over 5 qualifying periods. Employers that have fulfilled the eligibility criteria for SFEC will be informed by Enterprise Singapore.
+
+Please refer to the table below for the qualifying periods and the respective eligibility criteria.
 
 ---
 
@@ -54,18 +66,28 @@ Eligible employers have been qualified for SFEC over 5 qualifying periods. Emplo
 
 ### How to apply:
 
-A separate application for SFEC is not necessary. ESG will notify all newly eligible employers for SFEC via email sent to their registered CorpPass Administrators.<br><br>Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2024. Claims can be submitted only for training which has been completed.<br><br>For further questions on SFEC and on your eligibility, you may contact Enterprise Singapore <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">here</a> for assistance.
+A separate application for SFEC is not necessary. ESG will notify all newly eligible employers for SFEC via email sent to their registered CorpPass Administrators.
+
+Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2024. Claims can be submitted only for training which has been completed.
+
+For further questions on SFEC and on your eligibility, you may contact Enterprise Singapore <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">here</a> for assistance.
 
 ---
 
 ### Resources
 
-<ul><li> <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq" target="_blank" rel="noopener">Frequently Asked Questions</a></li><li><a href="/images/epjs/programmes-and-initiatives/upgrade-skills/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf">Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)</a></li><li><a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide" target="_blank" rel="noopener">SFEC Claim guide</a></li><li><a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SFEC_Infographic_2022_Final.pdf">SFEC Infographic Guide (PDF,734KB)</a></li></ul>
+- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
+
+- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf">Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)</a>
+
+- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide" target="_blank" rel="noopener">SFEC Claim guide</a>
+
+- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SFEC_Infographic_2022_Final.pdf">SFEC Infographic Guide (PDF,734KB)</a>
 
 ---
 
 ### Related Digital Services
 
-<ul><li> <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a></li></ul>
+- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>
 
 <script src="/jquery/resize-tables.js"></script>

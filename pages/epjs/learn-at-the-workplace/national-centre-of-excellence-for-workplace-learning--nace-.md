@@ -11,13 +11,21 @@ The <a href="https://www.nyp.edu.sg/nace" target="_blank" rel="noopener">Nationa
 
 ### How you can benefit:
 
-<ul><li> Harness the power of learning at the workplace by formalising on-the-job training to optimise performance and business impact</li><li>Develop a culture of coaching and mentoring to enable effective transfer of learning</li><li>Build a learning culture and strengthen employee experience as employees feel invested in their skills development</li></ul>
+- Harness the power of learning at the workplace by formalising on-the-job training to optimise performance and business impact
+
+- Develop a culture of coaching and mentoring to enable effective transfer of learning
+
+- Build a learning culture and strengthen employee experience as employees feel invested in their skills development
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li> SMEs can receive up to 90% funding for all course fees & training consultancy projects</li><li>MNCs can receive up to 90% funding for all course fees & 70% funding for all training consultancy projects<br><br>Note: In view of SkillsFuture funding changes, please check with NACE on your subsidy eligibility.</li></ul>
+- SMEs can receive up to 90% funding for all course fees & training consultancy projects
+
+- MNCs can receive up to 90% funding for all course fees & 70% funding for all training consultancy projects
+
+Note: In view of SkillsFuture funding changes, please check with NACE on your subsidy eligibility.
 
 <a class="btn" href="https://www.nace.edu.sg/contact-us/" target="_blank" rel="noopener">Apply Now</a>&emsp;[Read More](https://www.nace.edu.sg/){:target="_blank"}{:rel="noopener"}
 <script src="/jquery/resize-tables.js"></script>

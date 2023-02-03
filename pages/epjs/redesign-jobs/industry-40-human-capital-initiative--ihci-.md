@@ -11,19 +11,31 @@ The Industry 4.0 Human Capital Initiative (IHCI), an initiative by the Singapore
 
 ### How can you benefit:
 
-<ul><li> Get to trial and install selected Industry 4.0 hardware and software at no additional cost to identify productivity improvements, recommendations for improvement, and build up your human capital practices to sustain the transformation</li><li>Understand how effective human capital management and human resources can maximise the success and profitability to the organisation</li><li>Be guided by the appointed consultants from McKinsey & Company and Ernst & Young druing the programme</li><li>Develop your personalised Industry 4.0 and human capital transformation roadmap to expand the implementation of Industry 4.0 beyond this programme</li></ul>
+- Get to trial and install selected Industry 4.0 hardware and software at no additional cost to identify productivity improvements, recommendations for improvement, and build up your human capital practices to sustain the transformation
+
+- Understand how effective human capital management and human resources can maximise the success and profitability to the organisation
+
+- Be guided by the appointed consultants from McKinsey & Company and Ernst & Young druing the programme
+
+- Develop your personalised Industry 4.0 and human capital transformation roadmap to expand the implementation of Industry 4.0 beyond this programme
 
 ---
 
 ### Subsidies and funding:
 
-<ul><li> SMEs will be funded at 90% of the original programme fee of $63,250 while non-SMEs will be funded at 70% of the programme fees</li><li>To enjoy the SME subsidy at 90%, the company must (i) be registered and operating in Singapore; (ii) have minimum 30% local shareholding; and (iii) have Group annual sales turnover not more than $100 million; OR Group employment size not more than 200 workers</li></ul>
+- SMEs will be funded at 90% of the original programme fee of $63,250 while non-SMEs will be funded at 70% of the programme fees
+
+- To enjoy the SME subsidy at 90%, the company must (i) be registered and operating in Singapore; (ii) have minimum 30% local shareholding; and (iii) have Group annual sales turnover not more than $100 million; OR Group employment size not more than 200 workers
 
 ---
 
 ### Eligibility criteria:
 
-<ul><li> Registered with ACRA with an Unique Entity Number (UEN)</li><li>Have not received prior funding support under IHCI Enabler programme</li><li>Companies that wish to attend the IHCI Enabler Programme more than once may do so. However, they will have to pay the unsubsidised fee(s)</li></ul>
+- Registered with ACRA with an Unique Entity Number (UEN)
+
+- Have not received prior funding support under IHCI Enabler programme
+
+- Companies that wish to attend the IHCI Enabler Programme more than once may do so. However, they will have to pay the unsubsidised fee(s)
 
 ---
 

@@ -9,13 +9,15 @@ The SGUnited Jobs and Skills Placement Partners (SGUJS PP) initiative by MOM and
 
 ### How enterprises can benefit:
 
-<ul><li> Tap on a wider pool of local jobseekers</li><li>Tap on the extensive networks and job matching expertise of employment agencies</li></ul>
+- Tap on a wider pool of local jobseekers
+
+- Tap on the extensive networks and job matching expertise of employment agencies
 
 ---
 
 ### Eligibility criteria:
 
-<ul><li> Organisations that are keen to tap on employment agencies to hire local jobseekers who are mature, long-term unemployed, or persons with disabilities</li></ul>
+- Organisations that are keen to tap on employment agencies to hire local jobseekers who are mature, long-term unemployed, or persons with disabilities
 
 ---
 
