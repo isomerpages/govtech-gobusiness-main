@@ -19,11 +19,11 @@ Job Redesign for the Retail sector is open to retail organisations who are keen 
 
 ### How you can benefit:
 
--Adopt technology and redesign job roles to enhance productivity
+- Adopt technology and redesign job roles to enhance productivity
 
-'-Equip employees with the right skills to deliver better shopping experiences for consumers
+- Equip employees with the right skills to deliver better shopping experiences for consumers
 
-'-Attract and retain talent through redesigned, quality job roles
+- Attract and retain talent through redesigned, quality job roles
 
 ---
 
@@ -31,7 +31,7 @@ Job Redesign for the Retail sector is open to retail organisations who are keen 
 
 The following resources are available to help Retail enterprises embark on and sustain job redesign efforts:
 
-'- Job Redesign Framework for Retail guides retailers in reviewing their employees' job scopes, enabling them to improve productivity and efficiency, optimise workforce, and improve job attraction and retention. Specifically, it helps retailers go through three phases of job redesign:
+- Job Redesign Framework for Retail guides retailers in reviewing their employees' job scopes, enabling them to improve productivity and efficiency, optimise workforce, and improve job attraction and retention. Specifically, it helps retailers go through three phases of job redesign:
        1. Diagnose - Identify problem areas and define the job redesign plan;
 
        2. Redesign - Select job redesign solution and create implementation and communications plans;
@@ -42,9 +42,9 @@ The following resources are available to help Retail enterprises embark on and s
 
 You will find comprehensive self-help resources to kickstart job resign projects, covering templates to implement job redesign, recommended pre-fitted solutions, and access to resources including funding and professional consultancy services.
 
-'-Retailers can engage third-party consultancy services with funding support under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR).</a>
+- Retailers can engage third-party consultancy services with funding support under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR).</a>
 
-'-The <a href="https://www.wsg.gov.sg/programmes-and-initiatives/redeployment-career-conversion-programme-for-retail-sector.html" target="_blank" rel="noopener">Redeployment Career Conversion Programme (CCP) for Retail Sector</a> provides funding support for in-company redeployment. The CCP aims to help organisations undergoing business transformation to reskill and redeploy employees affected by business transformation.
+- The <a href="https://www.wsg.gov.sg/programmes-and-initiatives/redeployment-career-conversion-programme-for-retail-sector.html" target="_blank" rel="noopener">Redeployment Career Conversion Programme (CCP) for Retail Sector</a> provides funding support for in-company redeployment. The CCP aims to help organisations undergoing business transformation to reskill and redeploy employees affected by business transformation.
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-retail-sector.html){:target="_blank"}{:rel="noopener"}
 ---

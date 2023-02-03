@@ -19,11 +19,11 @@ The SPI is for security organisations who are keen to create quality jobs and me
 
 ### How you can benefit:
 
--Implement job redesign solutions to enhance productivity and security outcomes
+- Implement job redesign solutions to enhance productivity and security outcomes
 
-'-Equip employees with the right skills to support your business transformation
+- Equip employees with the right skills to support your business transformation
 
-'-Attract and retain talent through redesigned, quality job roles and progressive human capital (HC) practices
+- Attract and retain talent through redesigned, quality job roles and progressive human capital (HC) practices
 
 ---
 
@@ -31,19 +31,19 @@ The SPI is for security organisations who are keen to create quality jobs and me
 
 The following resources are available to help you embark on and sustain job redesign efforts. Those requiring funding support can access the list of government support programmes through the "Guide to Security Workforce Transformation", or get in touch with WSG via the contact information provided below.
 
-'-Guide for Security Workforce Transformation includes comprehensive self-help resources to guide you in JR techniques, as well as methodologies to transform your workforce
+- Guide for Security Workforce Transformation includes comprehensive self-help resources to guide you in JR techniques, as well as methodologies to transform your workforce
 
-'-Job Redesign Workshop aims to guide security organisations in adopting technology solutions, redesigning jobs and improving HC practices
+- Job Redesign Workshop aims to guide security organisations in adopting technology solutions, redesigning jobs and improving HC practices
 
 ---
 
 ### Subsidies and funding:
 
--Up to 80% funding, capped at S$30,000 per organisation under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR)</a> to work with pre-approved consultants to redesign work processes, tasks and responsibilities
+- Up to 80% funding, capped at S$30,000 per organisation under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR)</a> to work with pre-approved consultants to redesign work processes, tasks and responsibilities
 
-'-Participating companies will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
+- Participating companies will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
 
-'-Up to 90% funding for course fees and salary support under the Job Redesign Reskilling Programme for Security Officers (SOs) to redesign SO's job roles and reskill them for more effective operations on OBC sites
+- Up to 90% funding for course fees and salary support under the Job Redesign Reskilling Programme for Security Officers (SOs) to redesign SO's job roles and reskill them for more effective operations on OBC sites
 
 [Read More](https://www.wsg.gov.sg/programmes-and-initiatives/security-productivity-initiative.html){:target="_blank"}{:rel="noopener"}
 ---

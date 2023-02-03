@@ -17,11 +17,11 @@ Built Environment organisations who are keen to become manpower-lean and uplift 
 
 ### How you can benefit:
 
--Enhance business competitiveness and explore new opportunities
+- Enhance business competitiveness and explore new opportunities
 
-'-Optimise resource allocation and achieve manpower lean operations
+- Optimise resource allocation and achieve manpower lean operations
 
-'-Improve employee retention and increase employee motivation by enhancing workforce skills and competencies
+- Improve employee retention and increase employee motivation by enhancing workforce skills and competencies
 
 ---
 
@@ -35,9 +35,9 @@ The Guide provides an overview of job redesign considerations, examples and case
 
 ### Subsidies and funding:
 
--Up to 80% funding, capped at S$30,000 per organisation under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR)</a> to work with pre-approved consultants to redesign work processes, tasks and responsibilities
+- Up to 80% funding, capped at S$30,000 per organisation under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR)</a> to work with pre-approved consultants to redesign work processes, tasks and responsibilities
 
-'-Participating organisations will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
+- Participating organisations will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
 
 [Read More](https://www.wsg.gov.sg/lean-construction-job-redesign-guide.html){:target="_blank"}{:rel="noopener"}
 ---

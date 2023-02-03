@@ -25,7 +25,7 @@ Equip your key personnel with the necessary knowledge and skills to systematical
 
 - SME-sponsored trainees can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/enhanced-training-support-for-smes" target="_blank" rel="noopener">Enhanced Training Support for Small & Medium Enterprises (SMEs) scheme (ETSS)</a>, subject to eligibility criteria 
 
-- Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the [SkillsFuture Mid-Career Enhanced Subsidy (MCES)] (https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy)
+- Employer-sponsored and self-sponsored Singapore Citizens aged 40 years and above can enjoy up to 90% course fee grant under the <a href="https://www.tpgateway.gov.sg/training-grants/training-grants-from-government-agencies/skillsfuture-mid-career-enhanced-subsidy" target="_blank" rel="noopener">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a>
 
 ---
 
