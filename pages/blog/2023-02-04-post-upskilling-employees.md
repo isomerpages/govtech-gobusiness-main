@@ -35,7 +35,7 @@ According to a [study conducted by Randstand](https://www.humanresourcesonline.n
 
 To assess if upskilling is suitable for your employees, consider coming up with a Personal Development Plan, which provides a structured approach to career upskilling, encourages employees to take ownership over their own learning and professional growth, and helps you and your employees to focus on learning content and developing the most appropriate skills. 
 
-Unsure of how to get started? Check out the [SkillsFuture Series](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-series.html){:target="_blank"}{:rel="noopener"}, which provides training courses across emerging industries such as data analytics, digital media and finance. Offered across varying proficiency levels, these courses lend insight into up-and-coming industry trends, which can help you and your team gain a better understanding of how these trends impact your business transformation. 
+Unsure of how to get started? Check out the [SkillsFuture Series](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-series.html){:target="_blank"}{:rel="noopener"}, which provides training courses across emerging skills in the four economic growth pillars - Digital, Green, Care and Industry 4.0.  Offered across varying proficiency levels, these courses lend insight into up-and-coming industry trends, which can help you and your team gain a better understanding of how these trends impact your business transformation. 
 
 Discover an array of courses across different industries on MySkillsFuture, which offers courses and programmes dedicated to upskilling, such as the [SkillsFuture Work-Study Programme](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}. Supported by Institutes of Higher Learning (IHLs) and private training providers selected by SkillsFuture Singapore (SSG), this enables individuals to pursue further education and develop new skills and knowledge. 
 
@@ -56,12 +56,10 @@ Upskilling doesn’t always have to be costly - there are many grants and subsid
 
 The [SkillsFuture Enterprise Credit](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/sfec.html){:target="_blank"}{:rel="noopener"} scheme is one resource you can turn to to defray the cost of upskilling. With the aim of supporting workforce transformation and enterprise transformation, eligible businesses can claim up to $10,000 for selected programmes by various government agencies, as well as courses aligned to job redesign initiatives and Skills Frameworks by Workforce Singapore. 
 
-The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www.imda.gov.sg/imtalent/programmes/citrep-plus){:target="_blank"}{:rel="noopener"} is yet another resource you can consider. Under this initiative, employees can bolster their ICT skills and enjoy funding support for course and certification fees. 
-
-Don’t forget to explore the [Productivity Solutions Grant (SkillsFuture Training Subsidy)](https://www.imda.gov.sg/disg/Programmes/2019/08/productivity-solutions-grant---skillsfuture-training-subsidy){:target="_blank"}{:rel="noopener"} too, which provides a 70 per cent subsidy for training expenses, up to a cap of $10,000 per enterprise. This is available to companies that are registered in Singapore and have at least one approved Productivity Solutions Grant project. Do note that you can apply for this along with the Productivity Solutions Grant - find out how to get started on [GoBusiness](https://www.gobusiness.gov.sg/gobusiness-blog/psg?src=gobiz_blog){:target="_blank"}{:rel="noopener"}!  
+The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www.imda.gov.sg/imtalent/programmes/citrep-plus){:target="_blank"}{:rel="noopener"} is yet another resource you can consider. Under this initiative, employees can bolster their ICT skills and enjoy funding support for course and certification fees.   
 
 **Keen to learn more about upskilling? Check out GoBusiness’ [SkillsFuture for Enterprise](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, which collates and organises the various skills development resources into a step-by-step guide for easy reference.**
 
 **You can also turn to the [GoBusiness e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, which offers recommendations for training courses and initiatives for career upskilling that are personalised to your business’ needs.**
 
-<em> This article is accurate as at 25 Jan 2023</em>
+<em> This article is accurate as at 4 Feb 2023</em>
