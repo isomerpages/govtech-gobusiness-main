@@ -62,4 +62,4 @@ The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www
 
 **You can also turn to the [GoBusiness e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, which offers recommendations for training courses and initiatives for career upskilling that are personalised to your business’ needs.**
 
-<em> This article is accurate as at 4 Feb 2023</em>
+<em> This article is accurate as at 6 Feb 2023</em>
