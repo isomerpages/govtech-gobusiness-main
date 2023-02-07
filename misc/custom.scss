@@ -880,6 +880,27 @@ p > img[src*="/images/blog/content/"] {
   }
 }
 
+.lic-btn{
+  font-family: hknova-semibold;
+  font-weight: 600;
+  padding: 12.5px 24px;
+  margin-bottom: 0;
+  text-decoration: none !important;
+  color: white !important;
+  background-color: #037e8a !important;
+  border-radius: 3px;
+  border: 1px solid #037e8a !important;
+  cursor: pointer;
+  width: fit-content;
+  width: -moz-fit-content;
+  font-size: 18px;
+  line-height: 27px;
+
+  &:hover {
+    background-color: #026770; 
+  }
+}
+
 table {
   & > thead > tr:nth-child(1),
   & > tbody > tr > td:nth-child(1) {
