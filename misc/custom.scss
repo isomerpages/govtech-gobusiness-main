@@ -899,6 +899,12 @@ p > img[src*="/images/blog/content/"] {
   &:hover {
     background-color: #026770; 
   }
+
+  @media only screen
+  and (min-device-width : 320px)
+  and (max-device-width : 480px){
+    .lic-btn { display: none;}
+  }
 }
 
 table {
