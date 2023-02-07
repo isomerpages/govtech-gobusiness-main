@@ -903,7 +903,7 @@ p > img[src*="/images/blog/content/"] {
   @media only screen
   and (min-device-width : 320px)
   and (max-device-width : 480px){
-    .lic-btn { display: none;}
+    display: none;
   }
 }
 
