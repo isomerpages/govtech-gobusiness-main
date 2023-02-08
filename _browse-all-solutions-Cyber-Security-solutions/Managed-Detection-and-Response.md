@@ -55,6 +55,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3643' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4006' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
+<td>VGC TECHNOLOGY PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

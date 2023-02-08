@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Accounting Consultancy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2519' target='_blank'>ABSS Premier Version 23</a><br></td>
-<td>Dandelion Consulting Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2643' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
@@ -104,24 +100,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3836' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3837' target='_blank'>ABSS Premier Version 30</a><br></td>
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3841' target='_blank'>ABSS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3842' target='_blank'>ABSS</a><br></td>
 <td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3883' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3884' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
 <td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3946' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3947' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Illum (9) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3968' target='_blank'>Highnix ERP Plus2 Version 4-3-35</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3969' target='_blank'>Highnix ERP Plus2 Version 4-3-35</a><br></td>
 <td>Highnix Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3981' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td>Dandelion Consulting Pte Ltd</td>
 </tr>
 </table>
 

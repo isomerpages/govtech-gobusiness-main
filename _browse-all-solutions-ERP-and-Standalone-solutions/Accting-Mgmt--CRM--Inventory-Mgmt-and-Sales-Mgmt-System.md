@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>The World Management Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2900' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
-<td>AM8ZE PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2959' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
@@ -70,6 +66,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3602' target='_blank'>SAP Business One, version for HANA</a><br></td>
 <td>Inecom Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4000' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
+<td>AM8ZE PTE LTD</td>
 </tr>
 </table>
 
