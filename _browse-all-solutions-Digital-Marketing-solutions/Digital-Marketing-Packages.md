@@ -160,12 +160,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Inbox Consults Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3890' target='_blank'>DM AII DEVELOP Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3891' target='_blank'>DM AII DEVELOP Digital Marketing Packages</a><br></td>
 <td>AII DEVELOP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3895' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3896' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
 <td>Leading Solution Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4011' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
+<td>WECOFA PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4012' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
+<td>OOM PTE LTD</td>
 </tr>
 </table>
 

@@ -30,7 +30,7 @@ The Online Ordering & Payment System allows F&B enterprises to enable digital on
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Comprehensive (Real-time Online Ordering Website + Instore Ordering and Management System)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Comprehensive (Real-time Online Ordering Website + Instore Ordering and Management System</td>
 <td style='padding: 10px;'>$12,700.00</td>
 <td style='padding: 10px;'>$12,348.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Desensitised_First_Annex3_CR_wef02Feb23.pdf' target='_blank'>View Details</a></td>
