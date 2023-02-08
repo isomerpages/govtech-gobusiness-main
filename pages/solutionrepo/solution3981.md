@@ -27,35 +27,35 @@ ABSS Premier is a leading SME business integrated simple and easy to use account
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1U+Setup+Training</td>
 <td style='padding: 10px;'>$3,280.00</td>
 <td style='padding: 10px;'>$3,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3U+Setup+Training</td>
 <td style='padding: 10px;'>$4,230.00</td>
 <td style='padding: 10px;'>$4,230.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3U+Remote+Setup+Training</td>
 <td style='padding: 10px;'>$5,780.00</td>
 <td style='padding: 10px;'>$5,780.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus 1U+Setup+Training</td>
 <td style='padding: 10px;'>$6,090.00</td>
 <td style='padding: 10px;'>$6,090.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus 3U+Remote+Setup+Training</td>
 <td style='padding: 10px;'>$7,650.00</td>
 <td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

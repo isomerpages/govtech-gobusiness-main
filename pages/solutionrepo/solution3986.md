@@ -26,35 +26,35 @@ Managed by a Chartered Accountant with 30 years of experience, 01 BUSINESS SOLUT
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package A (1-User with onsite training, setup & installation)</td>
 <td style='padding: 10px;'>$3,553.00</td>
 <td style='padding: 10px;'>$3,553.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package B (3-Users with onsite training, setup & installation)</td>
 <td style='padding: 10px;'>$4,694.00</td>
 <td style='padding: 10px;'>$4,694.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package C (1-User Licence)</td>
 <td style='padding: 10px;'>$1,903.00</td>
 <td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package D (3-Users Licence)</td>
 <td style='padding: 10px;'>$2,744.00</td>
 <td style='padding: 10px;'>$2,744.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus Implementation Package E (1-User with onsite training, setup & installation)</td>
 <td style='padding: 10px;'>$5,641.00</td>
 <td style='padding: 10px;'>$5,641.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
