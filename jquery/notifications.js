@@ -20,7 +20,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 28 Jan 2023 10pm to 29 Jan 2023 10am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
 
   //[**ACRA DOWNTIME, affecting BGP and FS**]
-  //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 10 Feb 2023 from 12am to 5am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
 
   //[**LICENSING AGENCY DOWNTIME**]
@@ -50,7 +50,7 @@ const custom_notifications = [
   //[**APEX / EDH**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 5 Feb 2023 from 12:01am to 8am. We apologise for the inconvenience caused."
   //
-  
+
   //[PWMark]
   //"<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will unavailable due to scheduled maintenance on 29 January 2023 from 12am to 8am. We apologise for the inconvenience caused."
 ];
