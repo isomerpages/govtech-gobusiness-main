@@ -26,35 +26,35 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2798
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Web Starter (3 months)</td>
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Google Search Starter (6 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

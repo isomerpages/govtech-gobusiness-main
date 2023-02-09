@@ -26,7 +26,7 @@ With COVID-19 hitting many companies, bringing a business online is more critica
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRC e-Commerce Solutions - Complete</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Right_Company_20210209_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Right_Company_20210209_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

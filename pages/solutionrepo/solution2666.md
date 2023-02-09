@@ -26,35 +26,35 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-60F with 24x7 Monitoring and Alert Services</td>
 <td style='padding: 10px;'>$2,754.00</td>
 <td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-80F with 24x7 Monitoring and Alert Services</td>
 <td style='padding: 10px;'>$3,630.00</td>
 <td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services</td>
 <td style='padding: 10px;'>$5,817.00</td>
 <td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services</td>
 <td style='padding: 10px;'>$8,622.00</td>
 <td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services</td>
 <td style='padding: 10px;'>$11,644.00</td>
 <td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

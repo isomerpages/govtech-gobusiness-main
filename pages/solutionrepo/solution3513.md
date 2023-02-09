@@ -1,15 +1,19 @@
 ---
-title: 'Job Redesign Consultancy - NTUC LearningHub Pte Ltd'
+title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution3513
 ---
 
-## Job Redesign Consultancy - NTUC LearningHub Pte Ltd
+## Job Redesign Consultancy - Cadence Group Pte Ltd
 
 ## Overview
 
 **Description**
 
-NTUC LearningHub is the leading Continuing Education and Training provider in Singapore which aims to transform the lifelong employability of working people. Since our corporatisation in 2004, we have helped over 26,000 organisations and achieved more than 2.6 million training places. As a Total Learning Solutions provider, we forge partnerships to offer a wide range of relevant end-to-end advisory & training to help companies and individuals transform and upskill.
+Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+
+Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
+
+Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
 
 ## Solution Packages Option(s)
 
@@ -23,10 +27,10 @@ NTUC LearningHub is the leading Continuing Education and Training provider in Si
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyNTUCLearningHub.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +40,7 @@ NTUC LearningHub is the leading Continuing Education and Training provider in Si
 
 ## Vendor Information
 
- Company name: NTUC LearningHub Pte Ltd<br>Web URL: http://www.ntuclearninghub.com/<br>Contact Name: NTUC LearningHub Corporate Sales<br>Contact Hotline: +65 6336 5482<br>Contact Email: corpsales@ntuclearninghub.com
+ Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

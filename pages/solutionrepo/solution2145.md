@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Feeding/ Drinking System'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
-## Automatic Feeding/ Drinking System
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that automates the feeding/ drinking process at a predetermined time an
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -26,35 +26,35 @@ MoneyWorks family of accounting solutions provides a range of feature rich yet e
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package A - Moneyworks Gold (1 User) Software Only</td>
 <td style='padding: 10px;'>$895.00</td>
 <td style='padding: 10px;'>$895.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advanced_micro_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package B - Moneyworks Gold (1 User)</td>
 <td style='padding: 10px;'>$3,995.00</td>
 <td style='padding: 10px;'>$3,995.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advanced_micro_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AdvancedMicro_CR_wef29dec22_Part 2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package C - Moneyworks NOW (3 User)</td>
 <td style='padding: 10px;'>$5,600.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advanced_micro_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package D - Moneyworks Datacentre (3 User)</td>
 <td style='padding: 10px;'>$7,095.00</td>
 <td style='padding: 10px;'>$7,095.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advanced_micro_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package E - Moneyworks Datacentre (5 User)</td>
 <td style='padding: 10px;'>$13,795.00</td>
 <td style='padding: 10px;'>$13,495.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advanced_micro_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

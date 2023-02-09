@@ -1,15 +1,15 @@
 ---
-title: 'Milking Machine'
+title: 'Multi-tier Cultivation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2170
 ---
 
-## Milking Machine
+## Multi-tier Cultivation System
 
 ## Overview
 
 **Description**
 
-A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that provides an efficient and convenient way of milking livestocks, w
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

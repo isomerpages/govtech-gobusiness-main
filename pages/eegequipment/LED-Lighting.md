@@ -205,6 +205,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GP-5E14
 - DYCORRA - DY-GP-5E27
 - DYCORRA - DY-GT-10E27T
+- DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
@@ -221,6 +222,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-PIN-7E27
 - DYCORRA - DY-PIN-7G24
 - DYCORRA - DY-PIN-9G24
+- DYCORRA - DY-PINW-9E27
 - DYCORRA - DY-R63A-12E27
 - DYCORRA - DY-UFO-18
 - DYCORRA - DY-UFO-28
@@ -1584,6 +1586,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 25W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
+- Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
+- Racer - LED HIGH WATT SUN BRIGHT 45W 6500K E27
 - Racer - T8 CLASSIC LED TUBE 18W 3000K G13 (LN)
 - Racer - T8 CLASSIC LED TUBE 18W 3000K(IM)
 - Racer - T8 CLASSIC LED TUBE 18W 4000K G13 (LN)
@@ -1695,6 +1699,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - STANFORD - SL252C04
 - STANFORD - SL252C05
 - STANFORD - SL252C06
+- Sunshine - LCANC-45E14W, LCANC-45E14D
 - Sunshine - LFGAB-827W
 - Sunshine - LFGAB-8B22D
 - Sunshine - LFGAB-8B22W
@@ -1703,6 +1708,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LFSTB-8B22W
 - Sunshine - LFSTB-8E27D
 - Sunshine - LFSTB-8E27W
+- Sunshine - LGM-6E27W, LGM-6B22W, LGM-6E27D, LGM-6B22D
 - Sunshine - LGT-12B22D
 - Sunshine - LGT-12B22W
 - Sunshine - LGT-12E27D
@@ -1717,6 +1723,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LGT-9B22W
 - Sunshine - LGT-9E27D
 - Sunshine - LGT-9E27W
+- Sunshine - LUFOA-18W, LUFOA-18B22W, LUFOA-18D, LUFOA-18B22D
 - T&J - TJ-A40-07PW-E27
 - T&J - TJ-A40-07WW-E27
 - T&J - TJ-BL05PW-E14
@@ -1731,6 +1738,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - T&J - TJ-BL12PW-E27
 - T&J - TJ-BL12WWA-E27
 - T&J - TJ-BL12WW-E27
+- TCL - 12W-E27-6500K
+- TCL - LED T8 Glass Tube
 - TCL - TMB1-AB01565WW-00
 - Topstar - TSL29E102
 - Topstar - TSL29E103
@@ -1905,7 +1914,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - VIVE - VI-UFO-23WESCW
 - VIVE - VI-UFO-23WESDL
 - VIVE - VI-UFO-23WESWW
+- Yeelight - Pro E20 YP0046
 - Yeelight - Pro M20 Smart Downlight (3 in)
+- Yeelight - Pro M20 YLP032
+- Yeelight - Pro M20 YLP034
+- Yeelight - Pro S20 YLP003 (50M PER LIGHT STRIP)
+- Yeelight - Pro S20 YLP003 (STRIP DRIVER)
 
 ### Mode and Schedule of Payment 
 

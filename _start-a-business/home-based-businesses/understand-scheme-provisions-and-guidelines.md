@@ -58,7 +58,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <strong>Licence required?<strong>
 
-- Yes. Submit your [home office application](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"} (Singpass login is required) with the property owner(s)’ consent. Instant approval will be granted upon successful submission of your application and payment of a $20 administration fee using your Visa or MasterCard.
+- Yes. You can submit your application (Singpass login is required) for a home office in a [Housing Development Board (HDB)](/browse-all-licences/housing-&-development-board-(hdb)/home-office-scheme-(hdb)) flat or a [private property](/browse-all-licences/urban-redevelopment-authority-(ura)/home-office-scheme-(ura)) with the property owner's consent. Instant approval will be granted upon successful submission of your application and payment of a $20 administration fee using your Visa or MasterCard.
 
 - This license is valid for the duration of your home office business.
 

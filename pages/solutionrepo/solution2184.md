@@ -1,15 +1,15 @@
 ---
-title: 'Water Treatment System for Water Recirculation or Discharge'
+title: 'Pest/ Disease Monitoring and Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2184
 ---
 
-## Water Treatment System for Water Recirculation or Discharge
+## Pest/ Disease Monitoring and Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system for wastewater treatment to improve the water quality before the water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

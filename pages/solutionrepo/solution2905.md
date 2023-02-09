@@ -26,35 +26,35 @@ This managed security service leverages the power of Microsoft's integrated thre
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 5 Users Pack</td>
 <td style='padding: 10px;'>$1,760.00</td>
 <td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 10 Users Pack</td>
 <td style='padding: 10px;'>$4,650.00</td>
 <td style='padding: 10px;'>$4,650.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 30 Users Pack</td>
 <td style='padding: 10px;'>$13,350.00</td>
 <td style='padding: 10px;'>$13,350.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 50 Users Pack</td>
 <td style='padding: 10px;'>$20,750.00</td>
 <td style='padding: 10px;'>$20,750.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 90 Users Pack</td>
 <td style='padding: 10px;'>$36,450.00</td>
 <td style='padding: 10px;'>$36,450.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

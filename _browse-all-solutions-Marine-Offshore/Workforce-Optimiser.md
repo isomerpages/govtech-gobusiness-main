@@ -17,7 +17,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018502901'  target='_blank' rel='noopener'>1. Effective Project Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504739'  target='_blank' rel='noopener'>2. (WSQ) Process Payroll</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022010683'  target='_blank' rel='noopener'>2. WSQ Procurement Management</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503818'  target='_blank' rel='noopener'>3. Data Management Level 2: Provide human resource information</a><br>
 
 ## Pre-Approved Solutions
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2230' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2229' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
 <td>Cutech Infocomm Solutions Pte Ltd</td>
 </tr>
 </table>

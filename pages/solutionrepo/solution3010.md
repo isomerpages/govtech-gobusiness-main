@@ -26,7 +26,7 @@ Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offerin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada POS Version 2 - Annual License</td>
 <td style='padding: 10px;'>$4,100.00</td>
 <td style='padding: 10px;'>$3,998.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
