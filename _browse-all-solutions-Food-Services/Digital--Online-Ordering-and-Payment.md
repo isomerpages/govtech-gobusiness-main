@@ -136,7 +136,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Aptsys Technology Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3866' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3867' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
 </tr>
 </table>

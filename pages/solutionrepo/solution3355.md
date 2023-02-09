@@ -43,7 +43,7 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 
 ## Vendor Information
 
- Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 62982892 <br>Contact Email: hello@simpliify.co 
+ Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

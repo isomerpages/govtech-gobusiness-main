@@ -24,7 +24,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3878' target='_blank'>Freight Master Version 8.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3879' target='_blank'>Freight Master Version 8.2</a><br></td>
 <td>Innosys Pte Ltd</td>
 </tr>
 </table>

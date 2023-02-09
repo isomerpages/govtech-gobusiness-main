@@ -48,11 +48,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3873' target='_blank'>StaffAny</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3874' target='_blank'>StaffAny</a><br></td>
 <td>Staffany Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3897' target='_blank'>QuickHR (eScheduling)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3898' target='_blank'>QuickHR (eScheduling)</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 </table>

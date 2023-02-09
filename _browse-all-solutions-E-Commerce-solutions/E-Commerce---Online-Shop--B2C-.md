@@ -152,11 +152,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3940' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3941' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
 <td>ACCSS Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3978' target='_blank'>Shopmatic</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3979' target='_blank'>Shopmatic</a><br></td>
 <td>Shopmatic Pte Ltd</td>
 </tr>
 </table>

@@ -44,11 +44,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>NettBox Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3959' target='_blank'>T-GUARD</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3960' target='_blank'>T-GUARD</a><br></td>
 <td>TNT Surveillance Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3979' target='_blank'>FLEETEYE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3980' target='_blank'>FLEETEYE</a><br></td>
 <td>ACE PRIME ROBOTICS</td>
 </tr>
 </table>
