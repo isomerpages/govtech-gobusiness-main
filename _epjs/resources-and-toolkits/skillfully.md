@@ -17,7 +17,7 @@ The SkillFully newsletter is created to provide enterprises with useful informat
 </tr>
 <tr>
 <td style="width:250px"><img style="width:211px; height:298px; align:center" src="/images/epjs/resources-and-toolkits/skillfully/Skillfully-issue7.png" aria-hidden="true"></td>
-<td style="width:auto"><a href = "/images/epjs/resources-and-toolkits/skillfully/SkillfullyNewsletter_7_FA_HR.pdf" target="_blank" rel="noopener">SkillFully Issue#7 - Embracing Diversity andGlowing with Inclusivity (PDF,4555KB)</a><br>Featured stories:<br><ul><li>The Regent Singapore - Redesigning jobs with the heart</li><li>O Brew Culture - A person-centred approach to skills enablement</li><li>Boxgreen - Delivering purpose, one snack at a time</li><li>Commonwealth Capital - Championing skills-based progression</li></ul></td>
+<td style="width:auto"><a href = "/images/epjs/resources-and-toolkits/skillfully/SkillfullyNewsletter_7_FA_HR.pdf" target="_blank" rel="noopener">SkillFully Issue#7 - Embracing Diversity and Glowing with Inclusivity (PDF,4555KB)</a><br>Featured stories:<br><ul><li>The Regent Singapore - Redesigning jobs with the heart</li><li>O Brew Culture - A person-centred approach to skills enablement</li><li>Boxgreen - Delivering purpose, one snack at a time</li><li>Commonwealth Capital - Championing skills-based progression</li></ul></td>
 </tr>
 <tr>
 <td style="width:250px"><img style="width:211px; height:298px; align:center" src="/images/epjs/resources-and-toolkits/skillfully/Skillfully-issue6.png" aria-hidden="true"></td>

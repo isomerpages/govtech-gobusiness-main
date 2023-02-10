@@ -19,7 +19,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Toolkits
 
-- [Tourism Skills Framework Template]https://go.gov.sg/tk-sfwtourism)
+- <a href="https://go.gov.sg/tk-sfwtourism" target="_blank" rel="noopener">Tourism Skills Framework Template</a>
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/tourism" text="Read More" target="_blank" rel="noopener" %}
 

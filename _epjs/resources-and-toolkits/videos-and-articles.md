@@ -30,6 +30,7 @@ Speaking at the launch of the job redesign place-and-train programme for the ret
 
 Two measures were announced by Manpower Minister Josephine Teo amid efforts to transform the air transport sector and maintain Singapore's position as a global aviation hub. Through the Redeployment Professional Conversion Programme (PCP) for Air Transport Professionals, companies can reskill or redeploy workers with salary support as the workers are undergoing training.
 
+[Read more](https://www.straitstimes.com/singapore/manpower/two-initiatives-aim-to-help-pmets-in-air-transport-sector-pick-up-new-skills ){:target="_blank"}{:rel="noopener"}
 
 ---
 
@@ -43,9 +44,9 @@ The 2nd edition of the report offers deeper analysis into the priority skills an
 
 #### Study on Returns to Employer-Sponsored Training
 
-A Study by MTI and SSG found that employers-sponsored training leads to better business outcomes. Companies that invest in training their employees enjoy improvements in revenue, productivity, and staff retention
+A study by MTI and SSG found that employer-sponsored training leads to better business outcomes. Companies that invest in training their employees enjoy improvements in revenue, productivity, and staff retention.
 
-[Read more (PDF, 195 KB)](https://go.gov.sg/tk-sfwchemicals){:target="_blank"}{:rel="noopener"}
+[Read more (PDF, 195 KB)](https://www.enterprisejobskills.gov.sg/content/resources/epjs-mti-ssg-study-aug21.pdf){:target="_blank"}{:rel="noopener"}
 
 ---
 

@@ -55,10 +55,6 @@ Recognising that mid-career individuals may face greater challenges in undertaki
 
 ### D. Absentee Payroll (AP) Funding
 
-AP funding is a grant to help you defray the manpower costs incurred when you send your employees for training courses funded by SSG. For training outside working hours, AP funding is given to you to defray the overtime pay that was paid to your employees.
-
-To support organisations to send more workers for training and help their workforce emerge stronger post-COVID-19, the AP funding rate was enhanced to 80% of hourly basic salary, capped at $7.50 per hour. The enhanced AP funding rate will cease on 31 December 2021.
-
 ---
 
 ### Eligibility criteria:

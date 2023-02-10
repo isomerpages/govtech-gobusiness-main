@@ -21,7 +21,7 @@ The SkillsFuture Queen Bees (SFQBs) are industry leaders who take on a leading r
 
 ### Subsidies and funding:
 
--There is no cost to join a SkillsFuture Queen Bee network. The prevailing subsidies and funding will apply when companies take up the jobs and skills initiatives mapped out in the skills development plan
+There is no cost to join a SkillsFuture Queen Bee network. The prevailing subsidies and funding will apply when companies take up the jobs and skills initiatives mapped out in the skills development plan
 
 ---
 
@@ -42,7 +42,7 @@ Hear from others who have benefitted from a SFQB network <a href="https://go.gov
 
 ### Resources
 
-- <a href="https://go.gov.sg/epjs-sfqb-video" target="_blank" rel="noopener">What is a skillsFuture Queen Bee Network?</a>
+- <a href="https://go.gov.sg/epjs-sfqb-video" target="_blank" rel="noopener">What is a SkillsFuture Queen Bee Network?</a>
 
 - <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_SFQB_Infographic%202022.pdf">A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)</a>
 

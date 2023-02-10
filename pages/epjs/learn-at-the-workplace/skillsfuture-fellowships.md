@@ -27,7 +27,7 @@ The SkillsFuture Fellowship is open to Singapore Citizens with at least 10 years
 
 ### How to apply:
 
-- Applications will open in Dec 2021.
+- Applications are now open till 20 Mar 2023.
 
 For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).
 

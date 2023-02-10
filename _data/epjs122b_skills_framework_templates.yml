@@ -71,7 +71,9 @@
   url-new-tab: true
 
 - title: Hotel & Accomodation Services
-  text: Coming Soon
+  text: Download
+  url: https://www.skillsfuture.gov.sg/skills-framework/has#skillsframeworktemplates 
+  url-new-tab: true
 
 - title: Human Resource
   text: Download
@@ -144,7 +146,9 @@
   url-new-tab: true
 
 - title: Training & Adult Education 
-  text: Coming Soon
+  text: Download
+  url: https://www.skillsfuture.gov.sg/skills-framework/tae#skillsframeworktemplates 
+  url-new-tab: true
 
 - title: Wholesale Trade
   text: Download

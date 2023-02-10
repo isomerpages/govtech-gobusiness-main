@@ -37,7 +37,7 @@ You can participate in the WSPs as a host employer by opening your workplace and
 
 ### Resources
 
-- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf">Frequently Asked Questions (PDF, 353 KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SkillsFuture_WorkStudyProgrammes_EmployerFAQ.pdf">Frequently Asked Questions (PDF, 353 KB)</a>
 
 - <a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf">COVID 19 Wage Support FAQ (PDF, 41 KB)</a>
 

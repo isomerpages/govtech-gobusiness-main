@@ -1,6 +1,6 @@
 ---
-title: 'Built Environment'
-permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/built-environment/
+title: 'Hotel & Accommodation Services'
+permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/hotel-accommodation-services/
 ---
 
 The Skills Frameworks are developed for the Singapore workforce by the government in partnership with employers, industry associations, unions, and professional bodies. The Skills Frameworks provide up-to-date information on employment, career pathways, occupations, job roles, existing and emerging skills and competencies, as well as relevant education and training programmes. Employers can use the Skills Frameworks to design progressive human resource practices to recognise skills and make informed decisions on skills investment. The Skills Frameworks are part of the SkillsFuture movement to promote mastery and recognition of skills, and to foster a culture of lifelong learning
@@ -19,9 +19,9 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Toolkits
 
-- <a href="/sector-specific-toolkits/skills-framework-templates/">Built Environment Skills Framework Template</a>
+- <a href="https://www.skillsfuture.gov.sg/skills-framework/has#skillsframeworktemplates " target="_blank" rel="noopener">Hotel & Accommodation Services Skills Framework Template</a>
 
-{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/built-environment " text="Read More" target="_blank" rel="noopener" %}
+{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/has" text="Read More" target="_blank" rel="noopener" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
