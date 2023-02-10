@@ -5,13 +5,13 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/digita
 
 ### Develop digital skills to transform your business
 
-The Digital Transformation & Innovation Programme™ aims to train key personnel in your organisation to become "Digital Transformers" to leverage on digital technologies to accelerate business model changes and achieve meaningful digital transformation. The programme is offered by the Singapore Institute of Manufacturing Technology (SIMTech), a research institute of the Agency for Science, Technology and Research (A*STAR) and is part of the training portfolio offered under the Manufacturing Control TowerTM (MCTTM) Programme.
+The Digital Transformation & Innovation Programme<sup>TM</sup> aims to train key personnel in your organisation to become "Digital Transformers" to leverage on digital technologies to accelerate business model changes and achieve meaningful digital transformation. The programme is offered by the Singapore Institute of Manufacturing Technology (SIMTech), a research institute of the Agency for Science, Technology and Research (A*STAR) and is part of the training portfolio offered under the Manufacturing Control TowerTM (MCTTM) Programme.
 
 ---
 
 ### How you can benefit:
 
-- Learn to be proficient in the Digital Transformation & Innovation™ (DTITM) methodology to analyse and (re-)design your business strategy and model, value streams, and system architecture to unlock new business growth and achieve sustainable competitive advantage
+- Learn to be proficient in the Digital Transformation & Innovation<sup>TM</sup> (DTITM) methodology to analyse and (re-)design your business strategy and model, value streams, and system architecture to unlock new business growth and achieve sustainable competitive advantage
 
 ---
 
@@ -37,7 +37,7 @@ Register for this programme under
 
 1) **Modular Programmes**
 
-2) **Digital Transformation and Innovation™ (DTI™)** via this <a href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" target="_blank" rel="noopener">online form</a>
+2) **Digital Transformation and Innovation<sup>TM</sup> (DTI<sup>TM</sup>)** via this <a href="https://www.a-star.edu.sg/simtech/kto/advanced-manufacturing/dti" target="_blank" rel="noopener">online form</a>
 
 ---
 
