@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Learn at the Workplace
 
-![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
+![earn at the Workplace](/images/epjs/programmes-and-initiatives/learn-at-the-workplace/Enable-Learning-at-Work.jpg)
 
 {% include overview.html anchorlinks=site.data.ov011-epjs-learn-at-the-workplace %}
 

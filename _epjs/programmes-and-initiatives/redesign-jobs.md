@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Redesign Jobs 
 
-![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
+![Redesign Jobs ](/images/epjs/programmes-and-initiatives/redesign-jobs/Redesign-Jobs.jpg)
 
 {% include overview.html anchorlinks=site.data.ov010-epjs-redesign-jobs %}
 

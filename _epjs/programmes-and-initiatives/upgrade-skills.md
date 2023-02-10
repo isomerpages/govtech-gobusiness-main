@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Upgrade Skills
 
-![Recruit Talent](/images/epjs/programmes-and-initiatives/recruit-talent/recruit talent.png)
+![Upgrade Skills](/images/epjs/programmes-and-initiatives/upgrade-skills/Upgrade-skills.jpg)
 
 {% include overview.html anchorlinks=site.data.ov009-epjs-update-skills %}
 
