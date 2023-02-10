@@ -63,7 +63,7 @@ accordion:
 
       2. Update the PWM Job Level column for workers covered by the PWM.
 
-      3. For part-time workers who do not work the full contractual working hours, please indicate the actual number of working hours they have worked per week under the ‘Contractual Working Hours’ column. For example, if the part-time worker has worked 20 hours a month, you can derive the actual number of working hours per week by applying this formula: 20 * 12 / 52 = 4.62 hours per week. 
+      3. For part-time workers who do not work the full contractual working hours, please indicate the actual number of working hours they have worked per week under the 'Contractual Working Hours' column. For example, if the part-time worker has worked 20 hours a month, you can derive the actual number of working hours per week by applying this formula: 20 * 12 / 52 = 4.62 hours per week. 
 
       4. To aid you in fulfilling the PW Mark eligibility criteria, the Local Qualifying Salary (LQS) and PW requirements will be pro-rated for employees who worked an incomplete month (e.g. leavers, new joiners and workers who are on leave). By providing MOM with the total number of working days and the actual number of days worked in the month, MOM will be able to accurately pro-rate the LQS/PW requirements.
       <br><br>a. For example, if a LQS worker has worked 10 days out of 22 working days in the month, MOM will pro-rate the wage requirement for the LQS worker by applying this formula: 10 / 22 * $1,400 (assuming the LQS worker worked between 35-44 hours per week) = $636.36.
@@ -83,7 +83,7 @@ accordion:
     content: |
       Below are some of the common reasons for why your application is rejected. 
 
-      1. Your OED was not updated, or MOM did not receive an OED submission from you. Please ensure that you have submitted the latest occupational and employment details of all your workers in Occupational Employment Dataset (OED). 
+      1. Your OED was not updated, or MOM did not receive an OED submission from you. Please ensure that you have submitted the latest occupational and employment details of all your workers in [Occupational Employment Dataset (OED)](https://stats.mom.gov.sg/laboursurvey){:target="_blank"}{:rel="noopener"}. 
 
       2. From your OED submission, your firm does not hire any PW workers. To be eligible for the PW Mark, your firm will need to hire at least 1 local worker covered by the PWM. If your firm hires PW workers, please update the relevant PWM Job Level for the PW workers in OED. 
 
@@ -91,7 +91,7 @@ accordion:
 
   - title: Can I re-apply for the PW Mark if my application is 'Rejected'?
     content: |
-      Can I re-apply for the PW Mark if my application is 'Rejected'?
+      You may re-apply for the PW Mark once you have rectified the issues mentioned above. 
 
   - title: Can I get the Progressive Wage (PW) Mark even if I do not hire any workers under Sectoral PW or Occupational PW?
     content: |
