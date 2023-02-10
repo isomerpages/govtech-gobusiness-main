@@ -13,7 +13,7 @@ The SkillsFuture Employer Awards is open to all Singapore registered entities, i
 
 ---
 
-### For more information about the awards and past recipients, click [here](https://www.skillsfuture.gov.sg/employerawards).
+### For more information about the awards and past recipients, click <a href="https://www.skillsfuture.gov.sg/employerawards" target="_blank" rel="noopener">here</a>.
 
 ---
 

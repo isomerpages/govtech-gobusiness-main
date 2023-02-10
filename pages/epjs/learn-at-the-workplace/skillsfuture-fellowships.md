@@ -11,7 +11,7 @@ The SkillsFuture Fellowship is open to Singapore Citizens with at least 10 years
 
 ---
 
-### For more information about the awards and past recipients, click [here](https://www.skillsfuture.gov.sg/fellowships/2020).
+### For more information about the awards and past recipients, click <a href="https://www.skillsfuture.gov.sg/fellowships/2020" target="_blank" rel="noopener">here</a>.
 
 ---
 
