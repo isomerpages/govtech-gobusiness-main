@@ -1,15 +1,16 @@
 ---
-title: 'TNB Intuit Quickbooks Online'
+title: 'INFO-TECH Cloud Accounting Software Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3787
 ---
 
-## TNB Intuit Quickbooks Online
+## INFO-TECH Cloud Accounting Software Version 1.0
 
 ## Overview
 
 **Description**
 
-TNB supports Quickbooks online software and users can access QuickBooks from PC, Mac, smartphone and tablet. Now, users can access their account, manage your business, and stay organized on the go. QuickBooks Online is now sync with over 400 popular business apps including CRM, ePOS, ERP, HCM, E-commerce, payment gateways and more.
+INFO-TECH Cloud Accounting Software, a well-designed and high-performance Accounting Software in Singapore. It is a complete accounting and invoicing platform that offers various functions to streamline the daily processes.
+Info-Tech Cloud Accounting Software also helps to save time especially with default and customizable templates to key in necessary information for record-keeping purposes.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,17 @@ TNB supports Quickbooks online software and users can access QuickBooks from PC,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Simple Start</td>
-<td style='padding: 10px;'>$965.00</td>
-<td style='padding: 10px;'>$965.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Basic Level</td>
-<td style='padding: 10px;'>$2,465.00</td>
-<td style='padding: 10px;'>$2,465.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Advance Level</td>
-<td style='padding: 10px;'>$3,965.00</td>
-<td style='padding: 10px;'>$3,965.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Premium Level</td>
-<td style='padding: 10px;'>$4,815.00</td>
-<td style='padding: 10px;'>$4,815.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Full Transformation (large)</td>
-<td style='padding: 10px;'>$7,965.00</td>
-<td style='padding: 10px;'>$7,965.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Premium</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +44,7 @@ TNB supports Quickbooks online software and users can access QuickBooks from PC,
 
 ## Vendor Information
 
- Company Name: TNB GLOBAL OUTSOURCE PTE LTD<br>Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

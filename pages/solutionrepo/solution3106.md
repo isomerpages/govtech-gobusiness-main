@@ -1,15 +1,15 @@
 ---
-title: 'EzyProcure Version 2.0'
+title: 'FirstCom Online Food Ordering & Payment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution3106
 ---
 
-## EzyProcure Version 2.0
+## FirstCom Online Food Ordering & Payment System
 
 ## Overview
 
 **Description**
 
-EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
+The Online Ordering & Payment System allows F&B enterprises to enable digital online ordering and comprehensive functionalities to automate and perform online sales transactions. It enables F&B outlets to allow their customers to order on-site, takeout or delivery on an online platform.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EzyProcure Version 2.0 - e-procurement system for Wholesalers/Suppliers</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_E-business_Desensitised_Annex_3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Online Food Ordering & Payment System - Standard (Online / QR Ordering - Dine In, Takeaway, Delivery)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/firstcom_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Comprehensive (Real-time Online Ordering Website + Instore Ordering and Management System</td>
+<td style='padding: 10px;'>$12,700.00</td>
+<td style='padding: 10px;'>$12,348.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_First_Annex3_CR_wef02Feb23.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br><br>Contact Hotline: 62008021 <br><br>Contact Email: info@sgebiz.com <br><br>
+ Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

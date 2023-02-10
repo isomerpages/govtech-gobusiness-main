@@ -1,17 +1,15 @@
 ---
-title: 'CLIO'
+title: 'Synergix E1 Sales & Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution3297
 ---
 
-## CLIO
+## Synergix E1 Sales & Accounting
 
 ## Overview
 
 **Description**
 
-Clio Manage is a cloud-based practice management system that helps law firms automate billing, financial administration and legal case management. Its comprehensive features (including integration with Xero), coupled with its unlimited storage, ease of use, and affordable pricing, makes it ideal for small law firms looking to modernise their practice and increase profitability..  
-
-As a Certified Clio Consultant, Bizibody has implemented Clio in over 100 law firms in Singapore and Hong Kong.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,27 @@ As a Certified Clio Consultant, Bizibody has implemented Clio in over 100 law fi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A: 1 User Clio Manage (Essentials) and Xero (Includes Setup and Training)</td>
-<td style='padding: 10px;'>$2,738.00</td>
-<td style='padding: 10px;'>$2,218.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,770.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B: 2 Users Clio Manage (Essentials) and Xero (Includes Setup and Training)</td>
-<td style='padding: 10px;'>$4,156.00</td>
-<td style='padding: 10px;'>$3,476.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C:3 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
-<td style='padding: 10px;'>$5,934.00</td>
-<td style='padding: 10px;'>$4,934.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D:4 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
-<td style='padding: 10px;'>$7,352.00</td>
-<td style='padding: 10px;'>$6,192.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E:5 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
-<td style='padding: 10px;'>$8,590.00</td>
-<td style='padding: 10px;'>$7,350.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,770.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Bizibody Technology Pte Ltd<br>Web URL: www.bizibody.biz <br>Contact Hotline: 62362846 <br>Contact Email: info@bizibody.biz <br>
+ Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

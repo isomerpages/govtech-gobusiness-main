@@ -12,6 +12,14 @@ Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021005580'  target='_blank' rel='noopener'>1. Practical Skills and Tools to Facilitate Productivity Improvement at Your Workplace</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014583'  target='_blank' rel='noopener'>2. Consumer and Sensory Studies for Food Products</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019502180'  target='_blank' rel='noopener'>3. Apply Principles of Food and Beverages Concepts and Setup</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -40,11 +48,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3158' target='_blank'>Automated Dishwasher</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3160' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3159' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3161' target='_blank'>Automated Noodle Boiler</a><br></td>
 <td></td>
 </tr>
 </table>

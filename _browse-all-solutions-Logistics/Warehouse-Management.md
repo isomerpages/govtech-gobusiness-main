@@ -32,11 +32,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SIMPLR SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2703' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2704' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
 <td>Gurusoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3170' target='_blank'>iLOGON (iWMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3172' target='_blank'>iLOGON (iWMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 </table>
