@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1883' target='_blank'>Second CRM Version 7.1</a><br></td>
-<td>Soft Solvers Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2413' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
@@ -44,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Alitec Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2963' target='_blank'>Gravis</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2964' target='_blank'>Gravis</a><br></td>
 <td>ONE X GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3213' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3215' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 </table>

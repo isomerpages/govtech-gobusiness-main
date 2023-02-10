@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1878' target='_blank'>NetSuite</a><br></td>
-<td>Oracle Corporation Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2017' target='_blank'>SAP Business One Version 10</a><br></td>
 <td>Axxis Consulting (S) Pte Ltd</td>
 </tr>
@@ -40,40 +36,40 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hashmicro Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2756' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2757' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
 <td>Dalstech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2879' target='_blank'>SAP BUSINESS ONE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2880' target='_blank'>SAP BUSINESS ONE</a><br></td>
 <td>The World Management Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2899' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
-<td>AM8ZE PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2958' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2959' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3460' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3462' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3543' target='_blank'>SAP Business One</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3545' target='_blank'>SAP Business One</a><br></td>
 <td>AFON Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3573' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3575' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3583' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3585' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3600' target='_blank'>SAP Business One, version for HANA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3602' target='_blank'>SAP Business One, version for HANA</a><br></td>
 <td>Inecom Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4000' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
+<td>AM8ZE PTE LTD</td>
 </tr>
 </table>
 

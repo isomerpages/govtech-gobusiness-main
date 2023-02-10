@@ -18,7 +18,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019507826'  target='_blank' rel='noopener'>1. Driving Trade & Business with Enterprise Resource Planning</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500682'  target='_blank' rel='noopener'>2. Apply Project Management Skills</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500720'  target='_blank' rel='noopener'>3. Manage and Implement Business Continuity Plans</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2013500107'  target='_blank' rel='noopener'>3. Apply Systems Thinking in Problem Solving & Decision Making</a><br>
 
 ## Pre-Approved Solutions
 

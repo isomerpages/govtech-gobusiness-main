@@ -17,5 +17,3 @@ All businesses should take note of the following:
 - Employers and employees can refer to the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"} for more details on work arrangements for unvaccinated employees. Employers may check their company's vaccination rate through [The Workforce Vaccination Checker](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} (Corppass login required).
 
 - Any applicable sector-specific requirements
-
-![SMR](/images/covid/Updates to SMM infographic-Apr 2022_v3-01.png)

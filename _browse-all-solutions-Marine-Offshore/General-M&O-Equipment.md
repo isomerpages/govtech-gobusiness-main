@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022016842'  target='_blank' rel='noopener'>1. Assess Confined Space for Safe Entry and Work</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021010419'  target='_blank' rel='noopener'>2. Database Systems, Design and Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500682'  target='_blank' rel='noopener'>3. Apply Project Management Skills</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -88,11 +96,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2864' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2865' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2865' target='_blank'>Robotic arms</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2866' target='_blank'>Robotic arms</a><br></td>
 <td></td>
 </tr>
 </table>

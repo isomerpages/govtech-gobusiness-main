@@ -76,80 +76,88 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SUNPRO INNO APPS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2741' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2742' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2761' target='_blank'>ePSProfessional Version 1.7</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2762' target='_blank'>ePSProfessional Version 1.7</a><br></td>
 <td>Efusion Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2863' target='_blank'>TRC e-Commerce Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2864' target='_blank'>TRC e-Commerce Solutions</a><br></td>
 <td>The Right Company Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2977' target='_blank'>Cub3commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2978' target='_blank'>Cub3commerce</a><br></td>
 <td>DCUB3 PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3053' target='_blank'>A2000 WebShop (B2C) Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3054' target='_blank'>A2000 WebShop (B2C) Version 2</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3065' target='_blank'>Lemonade eCommerce Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3066' target='_blank'>Lemonade eCommerce Solution</a><br></td>
 <td>Lemonade IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3117' target='_blank'>FirstCom Ecommerce Web Development</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3119' target='_blank'>FirstCom Ecommerce Web Development</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3123' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3125' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3254' target='_blank'>Shopcada Ecommerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3256' target='_blank'>Shopcada Ecommerce</a><br></td>
 <td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3328' target='_blank'>Corsiva Lab E-Commerce Website Development</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3330' target='_blank'>Corsiva Lab E-Commerce Website Development</a><br></td>
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3353' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3355' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
 <td>Simpliify Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3357' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3359' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3377' target='_blank'>DST E-Commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3379' target='_blank'>DST E-Commerce</a><br></td>
 <td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3389' target='_blank'>Websentials Ecommerce Web Development - Customised eCommerce Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3391' target='_blank'>Websentials Ecommerce Web Development - Customised eCommerce Package</a><br></td>
 <td>Websentials Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3454' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3456' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3480' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3482' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3497' target='_blank'>1ECommerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3499' target='_blank'>1ECommerce</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3693' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3695' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
 <td>Fooyo Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3700' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3702' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
 <td>Nspire Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3941' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
+<td>ACCSS Digital Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3979' target='_blank'>Shopmatic</a><br></td>
+<td>Shopmatic Pte Ltd</td>
 </tr>
 </table>
 

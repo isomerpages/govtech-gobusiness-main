@@ -1,15 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - LiT Strategy Pte Ltd'
+title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution3514
 ---
 
-## Job Redesign Consultancy - LiT Strategy Pte Ltd
+## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
 
 ## Overview
 
 **Description**
 
-LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
+SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
+Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,10 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - LiT Strategy Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyLiTStrategy.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +37,7 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 
 ## Vendor Information
 
- Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
+ Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973 <br>Contact Email: Jadean_yan@sgpc.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
