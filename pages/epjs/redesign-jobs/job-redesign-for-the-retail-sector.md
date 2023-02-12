@@ -52,7 +52,7 @@ You will find comprehensive self-help resources to kickstart job resign projects
 
 ### Resources
 
--<a href="/images/epjs/programmes-and-initiatives/redesign-jobs/Retail%20Job%20Redesign%20Framework.pdf">Retail Job Redesign Framework (PDF,1347KB)</a>
+-<a href="/images/epjs/programmes-and-initiatives/redesign-jobs/Retail%20Job%20Redesign%20Framework.pdf" target="_blank" rel="noopener">Retail Job Redesign Framework (PDF,1347KB)</a>
 
 ---
 

@@ -13,7 +13,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 - <a href="https://m.youtube.com/watch?v=q_K2-mgObPQ&time_continue=15" target="_blank" rel="noopener">Upgrade Your Workforce with the Skills Frameworks</a>
 - <a href="https://m.youtube.com/watch?v=DtI4LC3Lv5w" target="_blank" rel="noopener">Drafting Job Descriptions in a Flash</a>
 - <a href="https://m.youtube.com/watch?v=r6JqshM5jWY" target="_blank" rel="noopener">Level Up Your Team</a>
-- <a href="/images/epjs/programmes-and-initiatives/develop-human-capital/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf">Quick Guide to access Training Plans in the Skills Framework (PDF, 1086 KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/develop-human-capital/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf" target="_blank" rel="noopener">Quick Guide to access Training Plans in the Skills Framework (PDF, 1086 KB)</a>
 
 ---
 

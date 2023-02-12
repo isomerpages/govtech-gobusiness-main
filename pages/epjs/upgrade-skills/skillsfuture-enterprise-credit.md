@@ -78,11 +78,11 @@ For further questions on SFEC and on your eligibility, you may contact Enterpris
 
 - <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf">Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf" target="_blank" rel="noopener">Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)</a>
 
 - <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide" target="_blank" rel="noopener">SFEC Claim guide</a>
 
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SFEC_Infographic_2022_Final.pdf">SFEC Infographic Guide (PDF,734KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SFEC_Infographic_2022_Final.pdf" target="_blank" rel="noopener">SFEC Infographic Guide (PDF,734KB)</a>
 
 ---
 

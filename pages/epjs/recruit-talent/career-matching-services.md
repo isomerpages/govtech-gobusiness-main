@@ -41,7 +41,7 @@ Register your interest for Career Matching Services via our feedback portal at <
 
 ### Resources
 
-- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/job-matching-solutions.pdf">Job Matching Solutions (PDF, 553 KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/job-matching-solutions.pdf" target="_blank" rel="noopener">Job Matching Solutions (PDF, 553 KB)</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

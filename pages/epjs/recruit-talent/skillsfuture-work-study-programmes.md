@@ -37,9 +37,9 @@ You can participate in the WSPs as a host employer by opening your workplace and
 
 ### Resources
 
-- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SkillsFuture_WorkStudyProgrammes_EmployerFAQ.pdf">Frequently Asked Questions (PDF, 353 KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SkillsFuture_WorkStudyProgrammes_EmployerFAQ.pdf" target="_blank" rel="noopener">Frequently Asked Questions (PDF, 353 KB)</a>
 
-- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf">COVID 19 Wage Support FAQ (PDF, 41 KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf" target="_blank" rel="noopener">COVID 19 Wage Support FAQ (PDF, 41 KB)</a>
 
 {% include secondary-btn.html href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx" text="Read More" target="_blank" rel="noopener" %}
 
