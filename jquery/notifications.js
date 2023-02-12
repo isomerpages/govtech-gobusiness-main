@@ -14,13 +14,13 @@ const custom_notifications = [
 
 
   //[**ACRA DOWNTIME, affecting BGP and FS**]
-  "<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 10 Feb 2023 from 12am to 5am. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 10 Feb 2023 from 12am to 5am. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
 
   //[**LICENCEONE DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance on 20 Oct 2022 from 6pm to 10pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 10 Feb 2023 10pm to 11 Feb 2023 6am<br>(2) from 11 Feb 2023 10pm to 12 Feb 2023 10am",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 10 Feb 2023 10pm to 11 Feb 2023 6am<br>(2) from 11 Feb 2023 10pm to 12 Feb 2023 10am",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 11 Nov 2022 10pm to 12 Nov 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 28 Jan 2023 10pm to 29 Jan 2023 10am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
 
@@ -54,7 +54,7 @@ const custom_notifications = [
   //
 
   //[PWMark]
-  "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will unavailable due to scheduled maintenance on 12 Feb 2023 from 12am to 8am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will unavailable due to scheduled maintenance on 12 Feb 2023 from 12am to 8am. We apologise for the inconvenience caused."
 ];
 
 // Do not edit the following code
