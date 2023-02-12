@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Develop Human Capital
 
-![Develop Human Capital](/images/epjs/programmes-and-initiatives/develop-human-capital/Human-Capital.jpg)
+<img src="/images/epjs/programmes-and-initiatives/develop-human-capital/Human-Capital.jpg" style="width:845px;height:210px;" aria-hidden="true">
 
 {% include overview.html anchorlinks=site.data.ov007-epjs-develop-human-capital %}
 

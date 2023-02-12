@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Redesign Jobs 
 
-![Redesign Jobs ](/images/epjs/programmes-and-initiatives/redesign-jobs/Redesign-Jobs.jpg)
+<img src="/images/epjs/programmes-and-initiatives/redesign-jobs/Redesign-Jobs.jpg" style="width:845px;height:210px;" aria-hidden="true">
 
 {% include overview.html anchorlinks=site.data.ov010-epjs-redesign-jobs %}
 
