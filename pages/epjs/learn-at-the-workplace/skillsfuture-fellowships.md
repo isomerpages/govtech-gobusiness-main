@@ -37,7 +37,7 @@ For further enquiries, please contact the appointed Programme Manager for the Sk
 
 ### Related Digital Services
 
--<a href="https://www.skillsfuture.gov.sg/fellowships" target="_blank" rel="noopener">Frequently Asked Questions</a>
+- <a href="https://www.skillsfuture.gov.sg/fellowships" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
 {% include primary-btn.html href="https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx" text="Apply Now" target="_blank" rel="noopener" %}
 
