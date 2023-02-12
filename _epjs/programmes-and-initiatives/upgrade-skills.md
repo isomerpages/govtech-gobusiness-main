@@ -6,7 +6,7 @@ third_nav_title: Programmes and Initiatives
 
 ## Upgrade Skills
 
-<img src="/images/epjs/programmes-and-initiatives/upgrade-skills/Upgrade-skills.jpg)" style="width:845px;height:210px" aria-hidden="true">
+<img src="/images/epjs/programmes-and-initiatives/upgrade-skills/Upgrade-skills.jpg)" style="width:845px;height:210px;" aria-hidden="true">
 
 {% include overview.html anchorlinks=site.data.ov009-epjs-update-skills %}
 
