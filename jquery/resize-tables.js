@@ -54,7 +54,7 @@ const customTables = [
   {
     path: "/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/",
     columns: ["20%", "30%", "30%"]
-  }
+  },
   {
     path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/hiring-incentive-enhanced-hiring-incentive/",
     columns: ["50%","50%"]
