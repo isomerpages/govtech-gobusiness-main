@@ -7,7 +7,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/hiring
 
 The Hiring Incentive was first introduced as part of the SkillsFuture Mid-Career Support Package (SMCSP) in the Unity Budget in 2020, to provide salary support for employers who hire local mid-career workers aged 40 and above through eligible reskilling programmes from 1 April 2020. It was enhanced subsequently in 27 May 2020 to apply to any hire from eligible reskilling and training programmes.
 
-As part of the Government’s continued effort to streamline the incentive schemes, the Hiring Incentive/Enhanced Hiring Incentive (JGI) has replaced the Enhanced Hiring Incentive since 1 Sep 2020, and the Enhanced Hiring Incentive had ceased on 31 Aug 2020.
+As part of the Government's continued effort to streamline the incentive schemes, the Hiring Incentive/Enhanced Hiring Incentive (JGI) has replaced the Enhanced Hiring Incentive since 1 Sep 2020, and the Enhanced Hiring Incentive had ceased on 31 Aug 2020.
 
 Although the Hiring Incentive/Enhanced Hiring Incentive has ceased, companies that have hired local employees on eligible reskilling and training programmes from 1 April 2020 to 31 Aug 2020 will still benefit from the Hiring Incentive/Enhanced Hiring Incentive.
 
