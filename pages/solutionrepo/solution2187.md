@@ -1,15 +1,15 @@
 ---
-title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
+title: 'Automated Irrigation Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2187
 ---
 
-## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
+## Automated Irrigation Equipment/ System
 
 ## Overview
 
 **Description**
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+Water efficient irrigation system (e.g. sprinkler)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Dosers and sensors or sub-meters for water and energy monitoring of relevant far
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

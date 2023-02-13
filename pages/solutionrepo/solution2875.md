@@ -26,35 +26,35 @@ Million Stock Control System helps to reduce the cost of holding stocks, allowin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (3 Users)</td>
 <td style='padding: 10px;'>$4,899.00</td>
 <td style='padding: 10px;'>$4,899.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (5 Users)</td>
 <td style='padding: 10px;'>$6,799.00</td>
 <td style='padding: 10px;'>$6,799.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (6 Users)</td>
 <td style='padding: 10px;'>$7,499.00</td>
 <td style='padding: 10px;'>$7,499.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (7 Users)</td>
 <td style='padding: 10px;'>$8,699.00</td>
 <td style='padding: 10px;'>$8,699.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (8 Users)</td>
 <td style='padding: 10px;'>$9,399.00</td>
 <td style='padding: 10px;'>$9,399.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

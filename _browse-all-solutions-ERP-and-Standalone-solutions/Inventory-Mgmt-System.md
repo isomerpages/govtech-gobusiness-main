@@ -18,7 +18,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013779'  target='_blank' rel='noopener'>1. Equipment and Inventory Management </a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503502'  target='_blank' rel='noopener'>2. Manage Inventory (SF)</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2017501172'  target='_blank' rel='noopener'>3. Inventory Control</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504762'  target='_blank' rel='noopener'>3. Inventory Control</a><br>
 
 ## Pre-Approved Solutions
 
@@ -44,11 +44,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3093' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3094' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3531' target='_blank'>AIMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3533' target='_blank'>AIMS</a><br></td>
 <td>TUNITY TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>

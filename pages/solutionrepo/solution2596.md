@@ -26,35 +26,35 @@ QuickBooks Online is an IRAS-registered cloud accounting software which helps sm
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set A</td>
 <td style='padding: 10px;'>$499.00</td>
 <td style='padding: 10px;'>$471.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set B</td>
 <td style='padding: 10px;'>$699.00</td>
 <td style='padding: 10px;'>$671.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set C</td>
 <td style='padding: 10px;'>$999.00</td>
 <td style='padding: 10px;'>$961.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set D</td>
 <td style='padding: 10px;'>$2,999.00</td>
 <td style='padding: 10px;'>$2,961.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set E</td>
 <td style='padding: 10px;'>$3,999.00</td>
 <td style='padding: 10px;'>$3,961.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,14 +26,14 @@ The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help p
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tableau Visualization - Tableau Starter Pack 1</td>
 <td style='padding: 10px;'>$5,060.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tableau Visualization - Tableau Starter Pack 2</td>
 <td style='padding: 10px;'>$8,720.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
