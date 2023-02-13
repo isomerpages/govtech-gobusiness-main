@@ -23,8 +23,36 @@ Although the Hiring Incentive/Enhanced Hiring Incentive has ceased, companies th
 
 ---
 
+<table>
+<tr>
+<th><b>Hiring Incentive Under SkillsFuture Mid-Career Support Package (From 1 Apr To 26 May 2020)</b></th>
+<th><b>Enhanced Hiring Incentive (From 27 May To 31 Aug 2020)</b></th>
+</tr>
+<tr>
+<td>Salary support<br><br><ul><li>Employers that hired a local worker aged 40 and above who had gone through an eligible reskilling programme can receive salary support of 20% for 6 months, capped at $6,000 in total</li></ul></td>
+<td>Salary support<br><br><ul><li>Employers that hired a local worker aged 40 and above who had gone through an eligible reskilling or training programme can receive salary support of 40% for 6 months, capped at $12,000 in total.</li><li>Employers that hired a local worker aged below 40 who had gone through an eligible reskilling or training programme can receive salary support of 20% for 6 months, capped at $6,000 in total</li></ul></td>
+</tr>
+<tr>
+</tr>
+</table>
+---
+
 ### Eligibility criteria:
 
+---
+
+<table>
+<tr>
+<th><b>Hiring Incentive Under SkillsFuture Mid-Career Support Package (From 1 Apr To 26 May 2020)</b></th>
+<th><b>Enhanced Hiring Incentive (From 27 May To 31 Aug 2020)</b></th>
+</tr>
+<tr>
+<td>Eligible reskilling programmes<br><br>Career Conversion Programmes<br><br><ul><li>(PCPs) Place and Train (PnT) programmes for rank-and-file workers</li><li>Career transition programmes by CET centres</li></ul></td>
+<td>Eligible reskilling and training programmes<br><br><ul><li>Career Conversion Programmes (PCPs)</li><li>Place and Train (PnT) programmes for rank-and-file workers</li><li>Career transition programmes by CET centres</li><li>SGUnited Traineeships programme</li><li>SGUnited Mid-Career Traineeships programme</li><li>SGUnited Skills programme</li></ul></td>
+</tr>
+<tr>
+</tr>
+</table>
 ---
 
 ### How to apply:
