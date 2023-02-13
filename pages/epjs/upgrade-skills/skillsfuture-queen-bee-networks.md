@@ -48,4 +48,5 @@ Hear from others who have benefitted from a SFQB network <a href="https://go.gov
 
 {% include primary-btn.html href="https://service-portal.skillsfuture.gov.sg/" text="Apply Now" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

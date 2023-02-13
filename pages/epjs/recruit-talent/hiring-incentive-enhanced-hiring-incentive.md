@@ -59,4 +59,5 @@ For employers with new hires who had gone through other reskilling and training 
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/hiring-incentive.html" text="Read More" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

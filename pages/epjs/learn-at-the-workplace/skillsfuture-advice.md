@@ -35,4 +35,5 @@ The SkillsFuture Advice workshop is a 1.5-hour complimentary workshop that can b
 
 - <a href="/images/epjs/programmes-and-initiatives/learn-at-the-workplace/FAQs-SkillsFuture-Advice.pdf" target="_blank" rel="noopener">Frequently Asked Questions (PDF,KB)</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

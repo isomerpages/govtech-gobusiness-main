@@ -23,4 +23,5 @@ As the first-of-its-kind talent and skills initiative, the SETDP aims to build a
 
 - <a href="https://go.gov.sg/tk-smartestate" target="_blank" rel="noopener">Smart Estates Talent Playbook (SETDP)</a>
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

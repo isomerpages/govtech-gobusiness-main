@@ -43,4 +43,5 @@ You can participate in the WSPs as a host employer by opening your workplace and
 
 {% include secondary-btn.html href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx" text="Read More" target="_blank" rel="noopener" %}
 
+<script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
