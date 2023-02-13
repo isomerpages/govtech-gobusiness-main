@@ -28,35 +28,35 @@ From customer booking to sale and payment, marketing to customer loyalty, employ
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Lite</td>
 <td style='padding: 10px;'>$2,500.00</td>
 <td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional</td>
 <td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Payment</td>
 <td style='padding: 10px;'>$7,300.00</td>
 <td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking</td>
 <td style='padding: 10px;'>$8,800.00</td>
 <td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment</td>
 <td style='padding: 10px;'>$10,200.00</td>
 <td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

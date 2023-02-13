@@ -26,35 +26,35 @@ Cybots ensures cyber resilience for all sectors, from SMEs to large multinationa
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-1</td>
 <td style='padding: 10px;'>$11,900.00</td>
 <td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-2</td>
 <td style='padding: 10px;'>$21,000.00</td>
 <td style='padding: 10px;'>$20,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-3</td>
 <td style='padding: 10px;'>$26,250.00</td>
 <td style='padding: 10px;'>$25,650.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-4</td>
 <td style='padding: 10px;'>$30,500.00</td>
 <td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-5</td>
 <td style='padding: 10px;'>$39,500.00</td>
 <td style='padding: 10px;'>$38,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

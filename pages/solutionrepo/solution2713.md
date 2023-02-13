@@ -31,21 +31,21 @@ Key features:
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
 <td style='padding: 10px;'>$28,400.00</td>
 <td style='padding: 10px;'>$28,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
 <td style='padding: 10px;'>$34,000.00</td>
 <td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
 <td style='padding: 10px;'>$40,400.00</td>
 <td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

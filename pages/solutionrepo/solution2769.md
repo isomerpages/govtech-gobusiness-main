@@ -26,35 +26,35 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F</td>
 <td style='padding: 10px;'>$4,865.00</td>
 <td style='padding: 10px;'>$4,865.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F</td>
 <td style='padding: 10px;'>$5,620.00</td>
 <td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
 <td style='padding: 10px;'>$6,373.00</td>
 <td style='padding: 10px;'>$6,373.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 4 - Fortigate 101F</td>
 <td style='padding: 10px;'>$11,363.00</td>
 <td style='padding: 10px;'>$11,363.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F</td>
 <td style='padding: 10px;'>$14,765.00</td>
 <td style='padding: 10px;'>$14,765.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

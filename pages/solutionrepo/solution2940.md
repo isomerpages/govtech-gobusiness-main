@@ -26,28 +26,28 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite</td>
 <td style='padding: 10px;'>$4,100.00</td>
 <td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite Extended</td>
 <td style='padding: 10px;'>$5,300.00</td>
 <td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced</td>
 <td style='padding: 10px;'>$6,350.00</td>
 <td style='padding: 10px;'>$6,350.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced Extended</td>
 <td style='padding: 10px;'>$7,750.00</td>
 <td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

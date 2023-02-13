@@ -26,35 +26,35 @@ Studio Manager is an enterprise retail POS and CRM solution that integrates mark
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package A (Standard)</td>
 <td style='padding: 10px;'>$11,360.00</td>
 <td style='padding: 10px;'>$11,280.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package B (Professional)</td>
 <td style='padding: 10px;'>$16,600.00</td>
 <td style='padding: 10px;'>$16,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package C (Premium)</td>
 <td style='padding: 10px;'>$18,520.00</td>
 <td style='padding: 10px;'>$18,440.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package D (Enterprise)</td>
 <td style='padding: 10px;'>$21,920.00</td>
 <td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package E (Branch)</td>
 <td style='padding: 10px;'>$6,680.00</td>
 <td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Archer_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -1,45 +1,37 @@
 ---
-title: 'I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)'
+title: 'Automatic Flow Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2010
 ---
 
-## I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)
+## Automatic Flow Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
-The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Concorde Security Pte Ltd<br>Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br><br>Contact Hotline: 62960802 <br><br>Contact Email: alan.chua@concorde.com.sg <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -26,41 +26,41 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
 <td style='padding: 10px;'>$7,720.00</td>
 <td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 75/20</td>
 <td style='padding: 10px;'>$9,010.00</td>
 <td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 100/25</td>
 <td style='padding: 10px;'>$10,300.00</td>
 <td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 125/30</td>
 <td style='padding: 10px;'>$11,590.00</td>
 <td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 150/35</td>
 <td style='padding: 10px;'>$12,880.00</td>
 <td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 

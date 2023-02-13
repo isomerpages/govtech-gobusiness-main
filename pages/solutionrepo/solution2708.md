@@ -27,35 +27,35 @@ AutoCount Accounting stands out as one of the best accounting software for today
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Pro 3 users</td>
 <td style='padding: 10px;'>$7,520.00</td>
 <td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 5 users</td>
 <td style='padding: 10px;'>$10,520.00</td>
 <td style='padding: 10px;'>$10,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users</td>
 <td style='padding: 10px;'>$11,720.00</td>
 <td style='padding: 10px;'>$11,720.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users</td>
 <td style='padding: 10px;'>$13,520.00</td>
 <td style='padding: 10px;'>$13,520.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

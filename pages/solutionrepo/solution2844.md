@@ -26,21 +26,21 @@ Inventory System uses different technologies such as barcode, QR and/or RFID ont
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package A (QR Code)</td>
 <td style='padding: 10px;'>$5,900.00</td>
 <td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package B (Barcode)</td>
 <td style='padding: 10px;'>$8,020.00</td>
 <td style='padding: 10px;'>$7,795.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST Inventory System Version 1.3 - Package C (RFID)</td>
 <td style='padding: 10px;'>$12,550.00</td>
 <td style='padding: 10px;'>$11,425.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Invt_20210484_Desensitised_Annex_3_R_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

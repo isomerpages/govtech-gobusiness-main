@@ -43,24 +43,77 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Aztech - AZ E-LITE FLEXLED 2500LM/M 830 5M 8MM 100C
 - Aztech - AZ E-LITE FLEXLED 2500LM/M 840 5M 8MM 100C
 - Aztech - AZ E-LITE FLEXLED 2500LM/M 865 5M 8MM 100C
+- Aztech - LBH107
+- Aztech - LBHR1120
+- Aztech - LBHR1424
+- Aztech - LBHR1424S
+- Aztech - LBHR810
+- Aztech - LBHR810S
+- Aztech - LCR1424
+- Aztech - LCR19-S36-8M2
+- Aztech - LDR412A
+- Aztech - LDR607E
+- Aztech - LDR607E G2
+- Aztech - LDRA616
+- Aztech - LDRA616-LG-D
+- Aztech - LDRA624
+- Aztech - LDRA624-LG-D
+- Aztech - LDRA630
+- Aztech - LDRA630-LG-D
+- Aztech - LDRA824
+- Aztech - LDRA830
 - Aztech - LF212-830
+- Aztech - LFC105
+- Aztech - LFC209
+- Aztech - LFC2-104
+- Aztech - LFC2-208
+- Aztech - LFC2-312
+- Aztech - LFC2-416
+- Aztech - LFC3-104
+- Aztech - LFC313
+- Aztech - LFC3-208
+- Aztech - LFC3-312
+- Aztech - LFC3-416
+- Aztech - LFC417
 - Aztech - LFE207 G2
+- Aztech - LFE207 G2 + SPS100
 - Aztech - LFE207B G2
+- Aztech - LFE207B G2 + SPS100
 - Aztech - LFE207BS G2
 - Aztech - LFE207S G2
 - Aztech - LFE213H G2
+- Aztech - LFE213H G2 + SPS100 
 - Aztech - LFE213HB G2
+- Aztech - LFE213HB G2 + SPS100
 - Aztech - LFE213HBS G2
 - Aztech - LFE213HS G2
 - Aztech - LFE414 G2
+- Aztech - LFE414 G2 + SPS100
 - Aztech - LFE414B G2
+- Aztech - LFE414B G2 + SPS100
 - Aztech - LFE414BS G2
 - Aztech - LFE414S G2
 - Aztech - LFE426H G2
+- Aztech - LFE426H G2 + SPS100
 - Aztech - LFE426HB G2
+- Aztech - LFE426HB G2 + SPS100
 - Aztech - LFE426HBS G2
 - Aztech - LFE426HS G2
+- Aztech - LPLS2224
+- Aztech - LPLS2224B
+- Aztech - LPLS2236
+- Aztech - LPLS2236B
+- Aztech - LPLS4124
+- Aztech - LPLS4124B
+- Aztech - LPLS4136
+- Aztech - LPLS4136B
+- Aztech - LPLS4224
+- Aztech - LPLS4224B
+- Aztech - LPLS4236
+- Aztech - LPLS4236B
 - Aztech - LT5G-208E
+- Aztech - LT5G-416
+- Aztech - LT8G-208
 - Aztech - LT8G-416
 - Aztech - LT8G-420
 - Aztech - LT8P2-208
@@ -70,6 +123,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Aztech - LT8P2-420
 - Aztech - LT8P2-420EP
 - Aztech - XL2-1515
+- Aztech - XL2-3030
+- Aztech - XL2S-1515
+- Aztech - XL2S-3030
 - Beacon LED Lighting - T8Y10NL01-C
 - Beacon LED Lighting - T8Y10NL01-D
 - Beacon LED Lighting - T8Y10NL01-W
@@ -149,6 +205,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GP-5E14
 - DYCORRA - DY-GP-5E27
 - DYCORRA - DY-GT-10E27T
+- DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
@@ -165,6 +222,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-PIN-7E27
 - DYCORRA - DY-PIN-7G24
 - DYCORRA - DY-PIN-9G24
+- DYCORRA - DY-PINW-9E27
 - DYCORRA - DY-R63A-12E27
 - DYCORRA - DY-UFO-18
 - DYCORRA - DY-UFO-28
@@ -249,7 +307,10 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - FSL - UFO-FSL-22W-30
 - FSL - UFO-FSL-22W-40
 - FSL - UFO-FSL-22W-65
+- GLOS - ATOM
+- GLOS - FLEXI LINELIGHT 160
 - GLOS - Flexi-Linelight 160-I
+- GLOS - PINT 1
 - GLOS - PINT-1 / 13W
 - IKEA - LED1545G12
 - IKEA - LED1714C3
@@ -334,6 +395,16 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LEDVANCE - SMART + WIFI B40 TW 5W
 - LEDVANCE - SMART + WIFI CLA60 TW
 - LEDVANCE - SMART + WIFI CLA70 14W TW
+- Lighting Hub - WA29-12-aak-F
+- Lighting Hub - WA29-15-aak-F
+- Lighting Hub - WA29-3-aak-F
+- Lighting Hub - WA29-9-aak-F
+- Lighting Hub - WA31-10aak-F
+- Lighting Hub - WA31-20aak-F
+- Lighting Hub - WA31-30aak-F
+- Lighting Hub - WA31-40aak-F
+- Lighting Hub - WA31-50aak-F
+- Lighting Hub - WA42-5-aak-F
 - Lighting Hub - WT8bb-0.6G-10W-F
 - Lighting Hub - WT8bb-0.6G-15W-F-01
 - Lighting Hub - WT8bb-1.2G-20W-F
@@ -1173,6 +1244,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8719514387867
 - Philips - 8719514387904
 - Philips - 8719514393158
+- Philips - 8719514431669
+- Philips - 8719514431683
 - Philips - 8719514446991
 - Philips - 8719514447011
 - Philips - 8719514447035
@@ -1513,6 +1586,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 25W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
+- Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
+- Racer - LED HIGH WATT SUN BRIGHT 45W 6500K E27
 - Racer - T8 CLASSIC LED TUBE 18W 3000K G13 (LN)
 - Racer - T8 CLASSIC LED TUBE 18W 3000K(IM)
 - Racer - T8 CLASSIC LED TUBE 18W 4000K G13 (LN)
@@ -1624,6 +1699,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - STANFORD - SL252C04
 - STANFORD - SL252C05
 - STANFORD - SL252C06
+- Sunshine - LCANC-45E14W, LCANC-45E14D
 - Sunshine - LFGAB-827W
 - Sunshine - LFGAB-8B22D
 - Sunshine - LFGAB-8B22W
@@ -1632,6 +1708,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LFSTB-8B22W
 - Sunshine - LFSTB-8E27D
 - Sunshine - LFSTB-8E27W
+- Sunshine - LGM-6E27W, LGM-6B22W, LGM-6E27D, LGM-6B22D
 - Sunshine - LGT-12B22D
 - Sunshine - LGT-12B22W
 - Sunshine - LGT-12E27D
@@ -1646,6 +1723,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LGT-9B22W
 - Sunshine - LGT-9E27D
 - Sunshine - LGT-9E27W
+- Sunshine - LUFOA-18W, LUFOA-18B22W, LUFOA-18D, LUFOA-18B22D
 - T&J - TJ-A40-07PW-E27
 - T&J - TJ-A40-07WW-E27
 - T&J - TJ-BL05PW-E14
@@ -1660,6 +1738,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - T&J - TJ-BL12PW-E27
 - T&J - TJ-BL12WWA-E27
 - T&J - TJ-BL12WW-E27
+- TCL - 12W-E27-6500K
+- TCL - LED T8 Glass Tube
 - TCL - TMB1-AB01565WW-00
 - Topstar - TSL29E102
 - Topstar - TSL29E103
@@ -1834,7 +1914,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - VIVE - VI-UFO-23WESCW
 - VIVE - VI-UFO-23WESDL
 - VIVE - VI-UFO-23WESWW
+- Yeelight - Pro E20 YP0046
 - Yeelight - Pro M20 Smart Downlight (3 in)
+- Yeelight - Pro M20 YLP032
+- Yeelight - Pro M20 YLP034
+- Yeelight - Pro S20 YLP003 (50M PER LIGHT STRIP)
+- Yeelight - Pro S20 YLP003 (STRIP DRIVER)
 
 ### Mode and Schedule of Payment 
 

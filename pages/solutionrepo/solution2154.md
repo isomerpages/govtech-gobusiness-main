@@ -1,15 +1,15 @@
 ---
-title: 'Dehusking Machine/ Shaker'
+title: 'Ear Tagging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
-## Dehusking Machine/ Shaker
+## Ear Tagging Machine
 
 ## Overview
 
 **Description**
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+A machine used to place ear tags into the ears of livestocks to provide a means of identification.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and co
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

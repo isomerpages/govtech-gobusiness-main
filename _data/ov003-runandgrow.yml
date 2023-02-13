@@ -2,6 +2,8 @@
   anchor_text: Government Assistance
 - anchor: '#licence-permit'
   anchor_text: Licences and Permits
+- anchor: '#accreditation'
+  anchor_text: Accreditation
 - anchor: '#tax-gst-customs'
   anchor_text: Taxes, GST and Customs
 - anchor: '#other-programmmes'
