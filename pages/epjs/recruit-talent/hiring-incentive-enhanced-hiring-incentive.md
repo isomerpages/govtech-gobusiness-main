@@ -21,8 +21,6 @@ Although the Hiring Incentive/Enhanced Hiring Incentive has ceased, companies th
 
 ### Subsidies and funding:
 
----
-
 <table>
 <tr>
 <th><b>Hiring Incentive Under SkillsFuture Mid-Career Support Package (From 1 Apr To 26 May 2020)</b></th>
@@ -38,8 +36,6 @@ Although the Hiring Incentive/Enhanced Hiring Incentive has ceased, companies th
 ---
 
 ### Eligibility criteria:
-
----
 
 <table>
 <tr>
