@@ -15,10 +15,7 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2023.
 
-### Want to be notified when this page is updated?
-
-Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more. 
-{% include button.html text="Subscribe to GoBusiness Mailing List" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
+{% include subscribe-mailer.html title="Want to be notified when this page is updated?" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
