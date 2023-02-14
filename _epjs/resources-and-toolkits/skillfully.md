@@ -1,12 +1,12 @@
 ---
-title: SkillFully
+title: Skillfully
 permalink: /enterprisejobskills/resources-and-toolkits/skillfully
 third_nav_title: Resources and Toolkits
 ---
 
-## SkillFully
+## Skillfully
 
-![SkillFully](/images/epjs/resources-and-toolkits/skillfully/skillfully.png)
+![Skillfully](/images/epjs/resources-and-toolkits/skillfully/skillfully.png)
 
 The SkillFully newsletter is created to provide enterprises with useful information on SkillsFuture initiatives. Through SkillFully, we hope to stay connected with you as you power up your workplace "fully" with competitive skills.
 
