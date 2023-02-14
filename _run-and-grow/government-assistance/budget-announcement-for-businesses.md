@@ -11,7 +11,7 @@ Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Sing
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the Budget 2023 - Budget Navigator (for Businesses) - to be updated soon
+- Download the Budget 2023 - Budget Navigator (for Businesses)<br><i>To be updated soon</i>
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2023.
 
