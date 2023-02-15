@@ -37,6 +37,14 @@ Here are five key steps to start your SkillsFuture journey:
 
 {% include panels-featurelink.html panels=site.data.rgp005_skillsfuture-overview %}
 
+----
+
+### Find a programme or e-service on EPJS
+
+Already know your business’ skills needs? Browse the Enterprise Portal for Jobs and Skills (EPJS) for a programme, or browse the list of relevant e-services.
+
+{% include panels-featurelink.html panels=site.data.rgp005a_skillsfuture-overview-epjs %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
