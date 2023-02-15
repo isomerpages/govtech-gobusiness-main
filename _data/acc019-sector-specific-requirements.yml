@@ -1,7 +1,7 @@
 accordion:
   - title: Accounting practices
     content: |
-      Accounting practices are to comply to measures stipulated in this [document](/images/guides/Covid - Advisory_v5.1.pdf){:target="_blank"} [last updated on 5 Sep 2022]. You can also refer to the Institute of Singapore Chartered Accountants [website](https://isca.org.sg/member-support/members-in-practice/COVID-19-FAQs-for-Accountancy-Sector){:target="_blank"}{:rel="noopener"} and the Singapore Accountancy Commission [website](https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-1-april-2022){:target="_blank"}{:rel="noopener"}.
+      Accounting practices are to comply to measures stipulated in this [document](/images/guides/Covid - Advisory_6.1.pdf){:target="_blank"} [last updated on 13 February 2023]. You can also refer to the Institute of Singapore Chartered Accountants [website](https://isca.org.sg/member-support/members-in-practice/COVID-19-FAQs-for-Accountancy-Sector){:target="_blank"}{:rel="noopener"} and the Singapore Accountancy Commission [website](https://www.sac.gov.sg/isca-sac-advisory-safe-management-measures-accounting-practices-1-april-2022){:target="_blank"}{:rel="noopener"}.
 
   - title: Arts and culture / museums
     content: |
@@ -35,10 +35,6 @@ accordion:
     content: |
       Country and recreation clubs are to comply to measures stipulated in this [document](/images/guides/Country and Rec Club Conditions (updated 29 Mar 2022)(clean v2) (002).pdf){:target="_blank"} [last updated on 29 March 2022].
 
-  - title: Dormitory operators
-    content: |
-      Please refer to the Ministry of Manpower [website](https://www.mom.gov.sg/covid-19){:target="_blank"}{:rel="noopener"} for more information on the Safe Management Measures for dormitories.
-
   - title: Education and Training
     content: |
       Safe management measures for private tuition and enrichment providers are to align with national guidelines available at [MOH's website](http://moh.gov.sg/covid-19){:target="_blank"}{:rel="noopener"}.
@@ -59,15 +55,6 @@ accordion:
     content: |
       Enterprises in the funeral sector are to comply to measures stipulated in this [document](/images/guides/Safe Management Measures for Funeral Events_29 August 2022.pdf){:target="_blank"} [last updated 29 August 2022]. 
 
-
-  - title: Hostels
-    content: |
-      Please refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html){:target="_blank"}{:rel="noopener"} for more information on the Safe Management Measures for Hostels.
-
-  - title: Hotels
-    content: |
-      Please refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html){:target="_blank"}{:rel="noopener"} for more information on the Safe Management Measures for Hostels.
-
   - title: Land Transport
     content: |
       Enterprises in the land transport sector are to comply to the measures stipulated in this [FET Notice](/images/guides/FET Notice_Land Transport (cleaned).pdf){:target="_blank"} [last updated on 30 Nov 2021].
@@ -78,10 +65,16 @@ accordion:
 
   - title: Marriage solemnisations and wedding receptions
     content: |
-      As we step down the COVID-19 measures and establish a new endemic COVID-19 norm to resume normalcy in our daily activities, there will be no Safe Management Measures (SMMs) required for marriage solemnisations and wedding receptions (with effect from 13 Feb 2023).
- 
-      We continue to encourage everyone to exercise personal and social responsibility through maintaining hygiene and minimizing social interactions when unwell and keeping up-to-date with [vaccinations](https://www.moh.gov.sg/covid-19/vaccination){:target="_blank"}{:rel="noopener"}.
+      As we step down the COVID-19 measures and establish a new endemic COVID-19 norm to resume normalcy in our daily activities, there will be no Safe Management Measures (SMMs) required for funeral events (with effect from 13 Feb 2023).
       
+      1. Mask-wearing is not required for funeral events. As mask-wearing is an effective way to minimise the risk of infectious diseases, we encourage attendees of funeral wakes, cremation, burial services, and funeral services providers to wear masks in crowded places, or when visiting or interacting with vulnerable persons.
+      
+      2. We strongly advise individuals who are unwell with symptoms of COVID-19 or other respiratory infections to wear a mask when they need to attend these events.
+      
+      3. Food and drinks, including self-service buffet lines and individually packed food and titbits, are allowed to be served and consumed at funeral wakes. Singapore Food Agency (SFA) regulations and Food & Beverage (F&B) sector guidelines must be adhered to.
+      
+      4. Food and drinks remain to be prohibited at NEA-managed facilities (e.g. Mandai Crematorium and Choa Chu Kang Cemetery).
+ 
       Please refer to the [MTF press release dated 9 February 2023](https://www.moh.gov.sg/news-highlights/details/singapore-to-exit-acute-phase-of-pandemic){:target="_blank"}{:rel="noopener"} for further details.
 
   - title: Marine & offshore (M&O) sector
@@ -166,12 +159,6 @@ accordion:
 
       You might also wish to refer to the FAQ on [MSF's website](https://www.msf.gov.sg/media-room/Pages/COVID-19-advisory.aspx){:target="_blank"}{:rel="noopener"}. 
 
-  - title: Sports sector enterprises, sports education, and premises with sports facilities
-    content: |
-      Sports sector enterprises, sports education, and premises with sports facilities are to comply to measures stipulated in this [document](/images/guides/SMMs (Sports) v10Oct.pdf){:target="_blank"} [last updated on 10 October 2022].
-
-      Lion dance performing troupes are to comply to measures stipulated in this [document](/images/guides/0. Annex - Caiqing 2023 - Details (E&C) (updated 20 Dec 2022).pdf) [last updated 13 December 2022].
-      
   - title: Tours
     content: |
       Tour operators and tourist guides are to comply to measures stipulated in this [document](/images/guides/Updated STB Circular on Safe Management Measures Required for Tours Re-opening_25 Apr.pdf){:target="_blank"} [last updated 25 April 2022]. You can also refer to the Singapore Tourism Board [website](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours){:target="_blank"}{:rel="noopener"}.
