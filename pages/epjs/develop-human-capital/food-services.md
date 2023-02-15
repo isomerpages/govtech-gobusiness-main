@@ -19,7 +19,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Toolkits
 
-- <a href="/sector-specific-toolkits/skills-framework-templates/">Food Services Skills Framework Template</a>
+- <a href="https://form.gov.sg/5dcd4ec167d812001262adec" target="_blank" rel="noopener">Food Services Skills Framework Template</a>
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/food-services" text="Read More" target="_blank" rel="noopener" %}
 

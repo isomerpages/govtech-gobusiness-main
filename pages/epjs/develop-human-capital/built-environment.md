@@ -19,7 +19,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Toolkits
 
-- <a href="/sector-specific-toolkits/skills-framework-templates/">Built Environment Skills Framework Template</a>
+- <a href="https://form.gov.sg/63eb07ce09bc0c0011c11131 " target="_blank" rel="noopener">Built Environment Skills Framework Template</a>
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/built-environment " text="Read More" target="_blank" rel="noopener" %}
 

@@ -41,7 +41,7 @@ The Employment Support for Persons with Disabilities (PwDs) is a programme suppo
 
 ### Related Digital Services
 
-<a href="https://employment.sgenable.sg/employers/open-door-programme/" target="_blank" rel="noopener">Disability Employment</a>
+<a href="https://www.wsg.gov.sg/programmes-and-initiatives/employment-support-for-employers-to-hire-persons-with-disabilities.html" target="_blank" rel="noopener">Disability Employment</a>
 
 {% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/employment-support-for-persons-with-disabilities.html" text="Read More" target="_blank" rel="noopener" %}
 

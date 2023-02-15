@@ -9,7 +9,9 @@
   url-new-tab: true
 
 - title: Aerospace
-  text: Coming Soon
+  text: Download
+  url: https://form.gov.sg/5dcbc4fcb6092f0012f802f5 
+  url-new-tab: true
 
 - title: Biopharmaceuticals Manufacturing
   text: Download
@@ -17,7 +19,9 @@
   url-new-tab: true
 
 - title: Built Environment
-  text: Coming Soon
+  text: Download
+  url: https://form.gov.sg/63eb07ce09bc0c0011c11131 
+  url-new-tab: true
 
 - title: Design
   text: Download
@@ -25,7 +29,9 @@
   url-new-tab: true
 
 - title: Early Childhood Care & Education
-  text: Coming Soon
+  text: Download
+  url: https://form.gov.sg/5dcbc6196938c2001291ad99
+  url-new-tab: true
 
 - title: Electronics
   text: Download
@@ -39,7 +45,7 @@
 
 - title: Energy & Power
   text: Download
-  url: https://go.gov.sg/tk-sfwpower
+  url: https://form.gov.sg/63eb028eb1cf750011578c92
   url-new-tab: true
 
 - title: Engineering Services
@@ -63,7 +69,9 @@
   url-new-tab: true
 
 - title: Food Services
-  text: Coming Soon
+  text: Download
+  url: https://form.gov.sg/5dcd4ec167d812001262adec 
+  url-new-tab: true
 
 - title: Healthcare
   text: Download
@@ -72,7 +80,7 @@
 
 - title: Hotel & Accommodation Services
   text: Download
-  url: https://www.skillsfuture.gov.sg/skills-framework/has#skillsframeworktemplates 
+  url: https://form.gov.sg/5dcd4f71fcb78b0012faa842
   url-new-tab: true
 
 - title: Human Resource
@@ -147,7 +155,7 @@
 
 - title: Training & Adult Education 
   text: Download
-  url: https://www.skillsfuture.gov.sg/skills-framework/tae#skillsframeworktemplates 
+  url: https://form.gov.sg/5dcd59521834d1001409a406
   url-new-tab: true
 
 - title: Wholesale Trade

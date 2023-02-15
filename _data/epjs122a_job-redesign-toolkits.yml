@@ -1,6 +1,8 @@
 - title: Job Redesign For The Food Services Sector
   description: This initiative aims to help Retail companies incorporate job redesign through simple steps when undergoing business transformation.
-  text: Coming Soon
+  text: Find out more
+  url: https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-food-services-sector.html
+  url-new-tab: true
 
 - title: Job Redesign Online Toolkit for Retail Sector
   description: This initiative aims to help Retail companies incorporate job redesign through simple steps when undergoing business transformation.
@@ -16,7 +18,9 @@
 
 - title: Guide To Security Job Redesign
   description: Companies will be guided through a structured job redesign framework and 4-step approach to transform their operations and workforce.
-  text: Coming Soon
+  text: Find out more
+  url: https://go.gov.sg/wsg-securityproductivityinitiative
+  url-new-tab: true
 
 - title: Environment Services (Cleaning) Job Redesign Guide
   description: Workforce Singapore (WSG) has curated a list of ready and easy-to-adopt solutions to help you run more effective operations, attract and retain workers, improve cleaning outcomes for your clients, and stay competitive in your business.
@@ -26,5 +30,7 @@
 
 - title: Lean Construction & Job Redesign Guide
   description: Learn lean and job redesign techniques with case studies from the Built Environment sector.
-  text: Coming Soon
+  text: Find out more
+  url: https://go.gov.sg/wsg-leanconstructionjobredesign 
+  url-new-tab: true
 

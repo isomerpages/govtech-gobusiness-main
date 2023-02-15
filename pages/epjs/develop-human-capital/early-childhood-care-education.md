@@ -19,7 +19,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Toolkits
 
-- <a href="/sector-specific-toolkits/skills-framework-templates/">Early Childhood Care & Education  Skills Framework Template</a>
+- <a href="https://form.gov.sg/5dcbc6196938c2001291ad99" target="_blank" rel="noopener">Early Childhood Care & Education  Skills Framework Template</a>
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/ecce" text="Read More" target="_blank" rel="noopener" %}
 

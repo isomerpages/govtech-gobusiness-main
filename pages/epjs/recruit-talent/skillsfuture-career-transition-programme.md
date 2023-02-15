@@ -8,7 +8,7 @@ How it works:
 
 The SkillsFuture Career Transition Programme (SCTP) supports mid-career individuals in acquiring industry-relevant skills to improve employability and pivot to new sectors or job roles. It is a train-and-place programme that is available on a part-time or full-time format, ranging from three to 12 months.
 
-The SCTP will be delivered by Continuing Education and Training (CET) Centres and the courses will be progressively rolled out from 1 April 2022 in sectors with good hiring opportunities such as Infocomm and Technology, Healthcare, Professional Services and Manufacturing.
+The SCTP is delivered by Continuing Education and Training (CET) Centres and the courses have been progressively rolled out from 1 April 2022 in sectors with good hiring opportunities such as Infocomm and Technology, Healthcare, Professional Services and Manufacturing.
 
 ---
 

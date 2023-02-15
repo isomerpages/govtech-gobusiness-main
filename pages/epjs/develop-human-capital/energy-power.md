@@ -19,7 +19,7 @@ The Skills Frameworks are developed for the Singapore workforce by the governmen
 
 ### Toolkits
 
-- <a href="https://go.gov.sg/tk-sfwpower" target="_blank" rel="noopener">Energy & Power Skills Framework Template</a>
+- <a href="https://form.gov.sg/63eb028eb1cf750011578c92" target="_blank" rel="noopener">Energy & Power Skills Framework Template</a>
 
 {% include secondary-btn.html href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" text="Read More" target="_blank" rel="noopener" %}
 
