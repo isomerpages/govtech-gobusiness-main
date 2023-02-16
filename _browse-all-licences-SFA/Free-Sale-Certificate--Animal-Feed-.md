@@ -15,10 +15,10 @@ Singapore Food Agency (SFA)
 <H3>Application Details</H3>
 
 <p>The Free Sale Certificate for Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for this animal feed products intended for export.</p>
- <h3>FAQs</h3>
- <ol>
- <li><strong>Where can I get the FAQ for Free Sale Certificate for Animal Feed?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
- </ol>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get more information for Free Sale Certificate for Animal Feed?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/import-export-transshipment-of-live-poultry-livestock" target="_blank" rel="noopener">SFA website</a>.</li>
+</ol>
 
 <strong>Additional Information</strong>
 
