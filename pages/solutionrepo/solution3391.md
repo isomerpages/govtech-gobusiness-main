@@ -1,15 +1,15 @@
 ---
-title: 'Websentials Ecommerce Web Development - Customised eCommerce Package'
+title: 'ASURIX HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution3391
 ---
 
-## Websentials Ecommerce Web Development - Customised eCommerce Package
+## ASURIX HRMS
 
 ## Overview
 
 **Description**
 
-Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
+Asurix Human Resource Software is a fully customisable cloud based Human Resource Management system and trusted by customer across the region. It simplify the HR administration for organisation and reduce total cost of ownership.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Websentials Ecommerce Web Development - Customised eCommerce Package</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (10 users) </td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (25 users) </td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (50 users)</td>
+<td style='padding: 10px;'>$12,350.00</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (100 users)</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$17,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (150 users)</td>
+<td style='padding: 10px;'>$26,850.00</td>
+<td style='padding: 10px;'>$23,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg
+ Company name:NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

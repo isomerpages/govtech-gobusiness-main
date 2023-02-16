@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Substrate Mixing and Packing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2188
 ---
 
-## HVAC system
+## Substrate Mixing and Packing Machine
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

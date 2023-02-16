@@ -1,23 +1,17 @@
 ---
-title: 'Probing System'
+title: 'Ozonised Air + Surface Sterilization System'
 permalink: /productivity-solutions-grant/solutionrepo/solution115
 ---
 
-## Probing System
+## Ozonised Air + Surface Sterilization System
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
+An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
 
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $10,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -28,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Equipment must meet the following:<br>- User ozonised tech generating active oxygen at output between 20mg - 1g/hr<br>- Equipment should emit negative ion at more than 2 million/cubic centrimetres<br>- Coverage area at least 36.5square meter<br>- Effective sterilisation & reduce bacteria count by 90%<br>- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.<br></td>
 </tr>
 </table>
 

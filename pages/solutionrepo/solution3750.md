@@ -1,15 +1,16 @@
 ---
-title: 'Qoqolo Preschool E-Form'
+title: 'FocusGuard FMS Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3750
 ---
 
-## Qoqolo Preschool E-Form
+## FocusGuard FMS Version 2.0
 
 ## Overview
 
 **Description**
 
-Qoqolo is a School Management System with a full suite of digital services: student management, parents' engagement, e-portfolio, centre operations management, staff management, fee management and more.  Qoqolo E-Form solution provides a hassle-free online registration service for parents to enrol their children directly and allow preschools to manage the enrolment process efficiently. It supports form validation, uploading of supporting documents and ECDA Form
+FocusGuard Fleet Management System is designed to control, monitor, and track all vehicles. Locate vehicles using detailed maps round the clock. Access the Web-based Fleet Management portal or Mobile App to view real-time location and information of the vehicles and generate up-to-date reports.
+FocusGuard FMS generates a complete suite of commonly desired Reports.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,10 @@ Qoqolo is a School Management System with a full suite of digital services: stud
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package</td>
-<td style='padding: 10px;'>$1,680.00</td>
-<td style='padding: 10px;'>$1,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Per Vehicle)</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_FocusGuard_Annex_3_CR_wef_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +37,7 @@ Qoqolo is a School Management System with a full suite of digital services: stud
 
 ## Vendor Information
 
- Company Name: CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
+ Company Name: FocusGuard Pte Ltd<br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

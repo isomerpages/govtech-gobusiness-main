@@ -1,15 +1,15 @@
 ---
-title: 'DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages'
+title: 'Go EBOS - SMECEN Dashbod Accounting Version 1.35.4'
 permalink: /productivity-solutions-grant/solutionrepo/solution2856
 ---
 
-## DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages
+## Go EBOS - SMECEN Dashbod Accounting Version 1.35.4
 
 ## Overview
 
 **Description**
 
-Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry. MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM.
+DashBod is a cloud accounting software that is one of the software listed on Inland Revenue Authority of Singapore (IRAS)'s Accounting Software Register ("ASR"), and is developed by SMECEN, a wholly-owned subsidiary of the Association of Small and Medium Enterprises (ASME).
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Benefit from MediaOne's digital marketing solutions that bring results to client
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Starter - 1A</td>
+<td style='padding: 10px;'>$2,790.00</td>
+<td style='padding: 10px;'>$2,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package B (6 months)</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_456.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1A</td>
+<td style='padding: 10px;'>$4,790.00</td>
+<td style='padding: 10px;'>$4,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1B</td>
+<td style='padding: 10px;'>$5,790.00</td>
+<td style='padding: 10px;'>$5,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4 - All In One Booming - 1C</td>
+<td style='padding: 10px;'>$6,790.00</td>
+<td style='padding: 10px;'>$5,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_-_SMECEN_20210105_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: MediaOne Business Group Pte Ltd<br>Web URL: mediaone.co <br><br>Contact Hotline: 67899852 <br><br>Contact Email: contact@mediaone.co <br><br>
+ Company Name: EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br><br>Contact Hotline: 96954688 <br><br>Contact Email: ask@ebos-sg.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

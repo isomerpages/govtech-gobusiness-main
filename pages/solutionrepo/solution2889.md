@@ -1,15 +1,15 @@
 ---
-title: 'Tableau Visualization'
+title: 'SAP BUSINESS ONE'
 permalink: /productivity-solutions-grant/solutionrepo/solution2889
 ---
 
-## Tableau Visualization
+## SAP BUSINESS ONE
 
 ## Overview
 
 **Description**
 
-The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help pre-school centre operators with their data mining and data analytics needs in areas such as parent management analysis, staff management analysis, health and safety management analysis, and finance management analysis.  As part of the package, Oak Consulting will also develop a dashboard in Tableau that display up to 4 data sources provided by the pre-school centre operators.
+SAP Business One application offers an affordable way to manage the entire business - from accounting and financials, purchasing, inventory, sales and customer relationships, and project management, to operations and human resources. SAP Business One helps the company to streamline processes, gain a greater insight into the business, allows decision maker to act fast and make decisions based on real time information, to help the company drive profitable growth.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ The Tableau Visualization packages offered by Oak Consulting Pte Ltd will help p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tableau Visualization - Tableau Starter Pack 1</td>
-<td style='padding: 10px;'>$5,060.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
+<td style='padding: 10px;'>$17,985.00</td>
+<td style='padding: 10px;'>$17,985.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tableau Visualization - Tableau Starter Pack 2</td>
-<td style='padding: 10px;'>$8,720.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Oak_Consulting_20210449_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Starter Users SQL on Premise with Remote Desktop License</td>
+<td style='padding: 10px;'>$23,135.00</td>
+<td style='padding: 10px;'>$23,135.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Pro Users SQL on Premise with Remote Desktop License</td>
+<td style='padding: 10px;'>$39,160.00</td>
+<td style='padding: 10px;'>$34,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 3 Perpetual Pro Users Hana on Cloud</td>
+<td style='padding: 10px;'>$36,180.00</td>
+<td style='padding: 10px;'>$34,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP BUSINESS ONE - 5 Perpetual Pro Users Hana on Cloud</td>
+<td style='padding: 10px;'>$48,660.00</td>
+<td style='padding: 10px;'>$34,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TWM_SAP_20210365_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Oak Consulting Pte. Ltd.<br>Web URL: www.oakconsulting.com.sg/ECDA-analytics-solutions <br><br>Contact Hotline: 67444792 <br><br>Contact Email: sales@oakconsulting.com.sg <br><br>
+ Company Name: The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br><br>Contact Hotline: 67419198 <br><br>Contact Email: sales@twm.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
