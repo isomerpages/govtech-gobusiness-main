@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Digital Ordering Version 2022.01'
+title: 'AutoCount Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution3137
 ---
 
-## Qashier Digital Ordering Version 2022.01
+## AutoCount Accounting
 
 ## Overview
 
 **Description**
 
-Qashier provides a full suite of affordable and easy-to-use digital ordering solutions for all types of F&B businesses including food kiosks, cafes, restaurants and bars. Qashier's integrated solution includes QR and online ordering, integrated payment processing, inventory and ingredient management, CRM and customer loyalty, and kitchen management systems.
+AutoCount possess more than 25 years software development experience. Its main business is to develop and provide high quality accounting software as well as other business applications to small and medium sized enterprises. As at today, AutoCount Accounting have been the preferred choices of most SMEs in Malaysia and its surrounding countries. More than 200,000 companies and 600,000 users of various industries/sectors
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Qashier provides a full suite of affordable and easy-to-use digital ordering sol
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Basic</td>
-<td style='padding: 10px;'>$2,359.00</td>
-<td style='padding: 10px;'>$2,359.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Basic V2.0 (1 Users) </td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Pro</td>
-<td style='padding: 10px;'>$3,159.00</td>
-<td style='padding: 10px;'>$3,159.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Basic V2.0 (3 Users) </td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Growth for QSR</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (5 Users)</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Growth for Restaurants</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (8 Users)  </td>
+<td style='padding: 10px;'>$12,820.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (15 Users) </td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br><br>Contact Hotline: 31650155 <br><br>Contact Email: hello@qashier.com <br><br>
+ Company Name: Autocount (S) Pte Ltd<br>Web URL: http://autocountsoft.com.sg/autocount-accounting/ <br><br>Contact Hotline: 6583219689 <br><br>Contact Email: sales.sg@autocountsoft.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
