@@ -35,8 +35,8 @@
   title: Government Assistance
   id: 3
   href_1: /gov-assist/budget-announcement-for-businesses/
-  text_1: Budget 2022
-  is_new_1: false
+  text_1: Budget 2023
+  is_new_1: true
   href_2: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
   text_2: 'e-Adviser: Find eligible schemes'
   target_2: _blank
@@ -51,13 +51,10 @@
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
 - icon: '/images/Explore.png'
-  alt: Explore More
+  alt: explore more
   title: Explore More
   id: 4
-  href_1: '/enterprisejobskills/?src=home_quicklinks'
-  text_1: Enterprise Portal for Jobs and Skills (EPJS)
-  is_new_1: true
-  href_2: '/accreditation/?src=home_quicklinks'
-  text_2: Accreditation
-  href_3: '/gebiz-alerts/?src=home_quicklinks'
-  text_3: GeBIZ Alerts
+  href_1: '/accreditation/?src=home_quicklinks'
+  text_1: Accreditation
+  href_2: '/gebiz-alerts/?src=home_quicklinks'
+  text_2: GeBIZ Alerts
