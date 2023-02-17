@@ -44,16 +44,6 @@ links:
     sublinks:
       - title: Overview
         url: /covid/?src=topnav
-      - title: Time Limited RRT for Workplaces
-        url: /timelimitedrrt/?src=topnav
-      - title: Permitted Services
-        url: /permittedlist/?src=topnav
-      - title: Safe Management Requirements
-        url: /safemanagement/general/?src=topnav
-      - title: Sector-specific Requirements
-        url: /safemanagement/sector/?src=topnav
-      - title: FAQ
-        url: /covid-19-faqs/?src=topnav
   - title: e-Services
     url: /e-services/?src=topnav
   - title: Resources
