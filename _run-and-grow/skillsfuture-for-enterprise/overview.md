@@ -10,8 +10,6 @@ third_nav_title: SkillsFuture for Enterprise
 
 SkillsFuture is a national movement to empower individuals and enterprises in developing skills to achieve their fullest potential, regardless of the starting point. For enterprises, there is a suite of SkillsFuture initiatives to support the skills development of the workforce to keep up and advance with the business as it transforms and grows.
 
-{% include secondary-notice.html notice=site.data.sec_notice_skillsfuture_entreprise %}
-
 {% include overview.html anchorlinks=site.data.ov006-skillsfuture-overview %}
 ----
 <a name="skills_training_benefits"></a>
