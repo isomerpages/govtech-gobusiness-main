@@ -26,11 +26,11 @@ For every 10% of the local workforce that companies supported for training:
 - Company's revenue was 0.7% higher on average each year for up to three years after training
 - Employee retention was 0.6% higher in the year of the training.
 
-Read more about the [MTI-SSG study](https://www.enterprisejobskills.gov.sg/content/resources/epjs-mti-ssg-study-aug21.pdf){:target="_blank"}{:rel="noopener"}.
+Read more about the [MTI-SSG study](/images/epjs/whats-new/epjs-mti-ssg-study-aug21.pdf){:target="_blank"}{:rel="noopener"}.
 
 Many employers have benefitted from participating in the various SkillsFuture programmes. 
 
-Read about their stories at [SkillFully](https://www.enterprisejobskills.gov.sg/skillfully.html){:target="_blank"}{:rel="noopener"}.   
+Read about their stories at [SkillFully](/enterprisejobskills/resources-and-toolkits/skillfully).   
 
 ----
 <a name="skillsfuture_journey"></a>
