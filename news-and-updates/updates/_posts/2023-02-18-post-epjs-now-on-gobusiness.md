@@ -27,6 +27,6 @@ They can also navigate to EPJS from the [SkillsFuture for Enterprise page](/skil
 
 ![screenshot of EPJS entry points](/images/news/EPJS entry points.jpg)
 <figcaption>Find EPJS from the home page, or from the SkillsFuture for Enterprise page, found under ‘Run and Grow a Business’ in the main navigation bar</figcaption>
-
+ 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
