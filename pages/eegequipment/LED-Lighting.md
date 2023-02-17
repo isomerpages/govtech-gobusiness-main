@@ -21,7 +21,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - ACORN - AC-E27 9W LED
 - AETO - KLL760F-6
 - AREX - AR T-L1T64-13W-2700K
-- AREX - AR T-L1T64-13W-2700K, AR T-L1T64-13W-6500K
 - AREX - AR T-L1T64-13W-6500K
 - AREX - AR T-L1T64-15W-2700K
 - AREX - AR T-L1T64-15W-6500K
@@ -198,7 +197,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GA-15E27
 - DYCORRA - DY-GA-6E27
 - DYCORRA - DY-GA-9E27
-- DYCORRA - DY-GP-120E27
 - DYCORRA - DY-GP-12E27
 - DYCORRA - DY-GP-20E27
 - DYCORRA - DY-GP-30E27
@@ -209,7 +207,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GT-10E27T
 - DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
-- DYCORRA - DY-GT-9E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
 - DYCORRA - DY-LFGA-4E27
@@ -355,10 +352,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - IKEA - LED2021G3K4
 - IKEA - LED2023G2
 - IKEA - LED2033T2
-- IKEA - LED2101G4
 - IKEA - LED2103G5
-- IKEA - LED2202G3K6
-- IKEA - LED2203G6K6
 - iLite+ - SL-DG4-1015LT-G8-S
 - iLite+ - SL-DG4-1015NT-G8-S
 - iLite+ - SL-DG4-1015WT-G8-S
@@ -411,7 +405,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Lighting Hub - WA31-40aak-F
 - Lighting Hub - WA31-50aak-F
 - Lighting Hub - WA42-5-aak-F
-- Lighting Hub - WA42-7-aak-F
 - Lighting Hub - WT8bb-0.6G-10W-F
 - Lighting Hub - WT8bb-0.6G-15W-F-01
 - Lighting Hub - WT8bb-1.2G-20W-F
@@ -884,8 +877,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - LED VALUE STICK 12W/830 (2 pin)
 - Osram - LED VALUE STICK 12W/840 (2 pin)
 - Osram - LED VALUE STICK 12W/865 (2 pin)
-- Osram - LED VALUE STICK 6W/830 G24D, LED VALUE STICK 6W/840 G24D, LED VALUE STICK 6W/865 G24D
-- Osram - LED VALUE STICK 7.2W/830 G24D, LED VALUE STICK 7.2W/840 G24D, LED VALUE STICK 7.2W/865 G24D
 - Osram - LEDSTAR STICK 12W/827
 - Osram - LEDSTAR STICK 12W/840
 - Osram - LEDSTAR STICK 12W/865
@@ -971,7 +962,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - Vintage 1906 LED Globe 4W/824
 - Osram - Vintage 1906 LED Globe 6.5W/824
 - Osram - VINTAGE 1906 LED GLOBE 7W
-- OSRAM - WRCB136 (4ft)
 - Philips -  8718696 753668
 - Philips - 11W E27 3000K 8718696762462
 - Philips - 11W E27 6500K 8718696762486
@@ -1597,7 +1587,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
 - Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
-- Racer - LED HIGH WATT SUN BRIGHT 33W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 45W 6500K E27
 - Racer - T8 CLASSIC LED TUBE 18W 3000K G13 (LN)
 - Racer - T8 CLASSIC LED TUBE 18W 3000K(IM)
