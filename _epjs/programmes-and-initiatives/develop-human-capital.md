@@ -26,7 +26,7 @@ The Skills Framework is developed for the Singapore workforce by the government 
 
 It provides information on employment, career pathways, job roles, existing and emerging skills and competencies, as well as relevant training programmes which allows you to design your human resource practices and make informed decisions on skills investment.
 
-The Skills Framework have been developed for the following sectors:
+The Skills Framework has been developed for the following sectors:
 
 {% include panels-featurelink.html panels=site.data.epjs012_skills-framework %}
 

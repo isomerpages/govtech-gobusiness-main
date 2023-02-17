@@ -51,11 +51,11 @@ The following resources are available to help you embark on and sustain job rede
 
 ### Resources
 
--<a href="https://www.form.gov.sg/#!/5ba20e96ec6d40000f3bfd77" target="_blank" rel="noopener">Guide for Security Workforce Transformation</a>
+- <a href="https://www.form.gov.sg/#!/5ba20e96ec6d40000f3bfd77" target="_blank" rel="noopener">Guide for Security Workforce Transformation</a>
 
 ---
 
-Apply now via [WSG_Biz_Service@wsg.gov.sg](mailto:WSG_Biz_Service@wsg.gov.sg)
+Apply at [WSG_Biz_Service@wsg.gov.sg](mailto:WSG_Biz_Service@wsg.gov.sg)
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
