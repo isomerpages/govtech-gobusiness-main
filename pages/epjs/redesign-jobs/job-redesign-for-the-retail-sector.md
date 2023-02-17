@@ -31,7 +31,7 @@ Job Redesign for the Retail sector is open to retail organisations who are keen 
 
 The following resources are available to help Retail enterprises embark on and sustain job redesign efforts:
 
-- Job Redesign Framework for Retail guides retailers in reviewing their employees' job scopes, enabling them to improve productivity and efficiency, optimise workforce, and improve job attraction and retention. Specifically, it helps retailers go through three phases of job redesign: <br>1. Diagnose - Identify problem areas and define the job redesign plan;<br>2. Redesign - Select job redesign solution and create implementation and communications plans;<br>3. Implement - Deploy solution and measure outcomes<br><br>Click <a href="https://www.wsg.gov.sg/content/programmes-and-initiatives/manpower-lean-productivity/retail-job-redesign-framework_3-step-process_for-download.pdf" target="_blank" rel="noopener">here</a> for the Retail Job Redesign quick guide.
+- Job Redesign Framework for Retail guides retailers in reviewing their employees' job scopes, enabling them to improve productivity and efficiency, optimise workforce, and improve job attraction and retention. Specifically, it helps retailers go through three phases of job redesign: <br><br>1. Diagnose - Identify problem areas and define the job redesign plan;<br><br>2. Redesign - Select job redesign solution and create implementation and communications plans;<br><br>3. Implement - Deploy solution and measure outcomes<br><br>Click <a href="https://www.wsg.gov.sg/content/programmes-and-initiatives/manpower-lean-productivity/retail-job-redesign-framework_3-step-process_for-download.pdf" target="_blank" rel="noopener">here</a> for the Retail Job Redesign quick guide.
 
 You will find comprehensive self-help resources to kickstart job resign projects, covering templates to implement job redesign, recommended pre-fitted solutions, and access to resources including funding and professional consultancy services.
 
@@ -51,7 +51,7 @@ You will find comprehensive self-help resources to kickstart job resign projects
 
 ### TOOLKITS
 
--<a href="https://form.gov.sg/#!/5dcbc401f350d80012726c8b" target="_blank" rel="noopener">Job Redesign Online Toolkit for the Retail Sector</a>
+- <a href="https://form.gov.sg/#!/5dcbc401f350d80012726c8b" target="_blank" rel="noopener">Job Redesign Online Toolkit for the Retail Sector</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
