@@ -214,10 +214,10 @@
   tel: +65 6547 0000
   email: tp_roadclosurepermit@spf.gov.sg
 
-- title: SkillsFuture Singapore Agency (SSG)
-  description: SSG Contact
+- title: SkillsFuture Singapore (SSG)
+  description: SSG Service Portal
   tel: +65 6785 5785
-  url: portal.ssg-wsg.gov.sg/
+  url: service-portal.skillsfuture.gov.sg
   url-new-tab: true
   protocol: https
 
@@ -231,3 +231,10 @@
   description: Customer Service Hotline
   tel: +65 6223 4811
   email: ura_dcd@ura.gov.sg
+
+- title: WorkForce Singapore (WSG)
+  description: WSG Service Portal
+  tel: +65 6883 5885
+  url: service-portal.skillsfuture.gov.sg
+  url-new-tab: true
+  protocol: https

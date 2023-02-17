@@ -1,0 +1,14 @@
+collections:
+  epjs:
+    output: true
+    order:
+      - enterprise-portal-for-jobs-and-skills.md
+      - programmes-and-initiatives/develop-human-capital.md
+      - programmes-and-initiatives/recruit-talent.md
+      - programmes-and-initiatives/upgrade-skills.md
+      - programmes-and-initiatives/redesign-jobs.md
+      - programmes-and-initiatives/learn-at-the-workplace.md
+      - resources-and-toolkits/skillfully.md
+      - resources-and-toolkits/toolkits.md
+      - resources-and-toolkits/videos-and-articles.md
+      - digital-services.md
