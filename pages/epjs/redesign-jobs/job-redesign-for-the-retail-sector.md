@@ -32,13 +32,14 @@ Job Redesign for the Retail sector is open to retail organisations who are keen 
 The following resources are available to help Retail enterprises embark on and sustain job redesign efforts:
 
 - Job Redesign Framework for Retail guides retailers in reviewing their employees' job scopes, enabling them to improve productivity and efficiency, optimise workforce, and improve job attraction and retention. Specifically, it helps retailers go through three phases of job redesign:
-       1. Diagnose - Identify problem areas and define the job redesign plan;
 
-       2. Redesign - Select job redesign solution and create implementation and communications plans;
+1. Diagnose - Identify problem areas and define the job redesign plan;
 
-       3. Implement - Deploy solution and measure outcomes
+2. Redesign - Select job redesign solution and create implementation and communications plans;
 
-       Click <a href="https://www.wsg.gov.sg/content/programmes-and-initiatives/manpower-lean-productivity/retail-job-redesign-framework_3-step-process_for-download.pdf" target="_blank" rel="noopener">here</a> for the Retail Job Redesign quick guide.
+3. Implement - Deploy solution and measure outcomes
+
+Click <a href="https://www.wsg.gov.sg/content/programmes-and-initiatives/manpower-lean-productivity/retail-job-redesign-framework_3-step-process_for-download.pdf" target="_blank" rel="noopener">here</a> for the Retail Job Redesign quick guide.
 
 You will find comprehensive self-help resources to kickstart job resign projects, covering templates to implement job redesign, recommended pre-fitted solutions, and access to resources including funding and professional consultancy services.
 

@@ -4,7 +4,6 @@ permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skills
 ---
 
 ### Train, host, and hire mid-career individuals through project attachments at your company
-How it works:
 
 The SkillsFuture Career Transition Programme (SCTP) supports mid-career individuals in acquiring industry-relevant skills to improve employability and pivot to new sectors or job roles. It is a train-and-place programme that is available on a part-time or full-time format, ranging from three to 12 months.
 

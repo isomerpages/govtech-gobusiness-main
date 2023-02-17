@@ -53,7 +53,7 @@ For more information: Call 6883 5885 or email WSG_Biz_Service@wsg.gov.sg
 
 ### TOOLKITS
 
--<a href="https://go.gov.sg/tk-environmentjobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Cleaning Sector</a>
+- <a href="https://go.gov.sg/tk-environmentjobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Cleaning Sector</a>
 
 ---
 

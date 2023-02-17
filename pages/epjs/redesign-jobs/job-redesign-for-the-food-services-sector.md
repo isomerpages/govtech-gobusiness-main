@@ -43,13 +43,13 @@ The following resources are available to help you embark on and sustain job rede
 
 ### Resources
 
--<a href="https://safe.menlosecurity.com/https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/general/documents/fs-jr-quick-guide_20180704.pdf" target="_blank" rel="noopener">Food Services Job Redeisgn Quick Guide (PDF,2300KB)</a>
+- <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/general/documents/fs-jr-quick-guide_20180704.pdf" target="_blank" rel="noopener">Food Services Job Redesign Quick Guide (PDF,2300KB)</a>
 
 ---
 
 ### TOOLKITS
 
--<a href="https://go.gov.sg/tk-foodjobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Food Services Sector</a>
+- <a href="https://go.gov.sg/tk-foodjobredesign" target="_blank" rel="noopener">Job Redesign Toolkit for the Food Services Sector</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
