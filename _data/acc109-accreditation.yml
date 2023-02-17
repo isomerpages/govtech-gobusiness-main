@@ -49,9 +49,49 @@ accordion:
 
       For queries related to the OED, you may contact the Manpower Research & Statistics Department under Ministry of Manpower directly at 6320 7722 (Monday - Friday, 8:30am to 5:30pm) or send them an email enquiry at [MOM_OED@mom.gov.sg](mailto:MOM_OED@mom.gov.sg).
 
+  - title: What is Occupational Employment Dataset (OED) and how does it affect my application for Progressive Wage (PW) Mark?
+    content: |
+      The OED is an online registry that is managed by the Ministry of Manpower (MOM), and it collects the occupational and employment data of current workers in Singapore. 
+
+      After the submission of the PW Mark application, the specific information from your OED (i.e. Contractual Working Hours, Progressive Wage Model (PWM) Job Level, PWM Job Description, Total number of working days in the month, Actual number of days worked in the month) will be used to match against the declared wage data that you have submitted to Central Provident Fund Board (CPFB) to determine if you have met the PW Mark eligibility criteria.
+
+      Please ensure that you have submitted the latest occupational and employment details of all your workers in [Occupational Employment Dataset (OED)](https://stats.mom.gov.sg/laboursurvey){:target="_blank"}{:rel="noopener"} before applying for the PW Mark. 
+
+  - title: What must I take note for my OED submission?
+    content: |
+      1. Provide the full identification number (NRIC) of all your local workers.
+
+      2. Update the PWM Job Level column for workers covered by the PWM.
+
+      3. For part-time workers who do not work the full contractual working hours, please indicate the actual number of working hours they have worked per week under the 'Contractual Working Hours' column. For example, if the part-time worker has worked 20 hours a month, you can derive the actual number of working hours per week by applying this formula: 20 * 12 / 52 = 4.62 hours per week. 
+
+      4. To aid you in fulfilling the PW Mark eligibility criteria, the Local Qualifying Salary (LQS) and PW requirements will be pro-rated for employees who worked an incomplete month (e.g. leavers, new joiners and workers who are on leave). By providing MOM with the total number of working days and the actual number of days worked in the month, MOM will be able to accurately pro-rate the LQS/PW requirements.
+      <br><br>a. For example, if a LQS worker has worked 10 days out of 22 working days in the month, MOM will pro-rate the wage requirement for the LQS worker by applying this formula: 10 / 22 * $1,400 (assuming the LQS worker worked between 35-44 hours per week) = $636.36.
+      <br><br>b. For new joiners, you would need to update these columns: Date Joined, Total number of working days in the month and Actual number of days worked in the month. 
+      <br><br>c. For workers who are leaving or have left the firm, you would need to update these columns: Date Left, Mode of Leaving, Total number of working days in the month and Actual number of days worked in the month. 
+      <br><br>d. For employees who took paid or unpaid leave in the month, you would need to update these columns: Total number of working days in the month and Actual number of days worked in the month. 
+
+      5. There are employees who are found in CPFB records but are not found in OED. Please update these employee records in OED. 
+
+      6. There are employees who are found in OED records but are not found in CPFB. Please submit the CPF contributions for these employees to CPFB.
+
   - title: Where can I download my Progressive Wage (PW) Mark e-Certificate?
     content: |
       Once you have received an email to notify you that your firm's PW Mark application has been approved, your e-Certificate will be ready on the same day. You may log in to GoBusiness to download your PW Mark e-Certificate from your dashboard.
+
+  - title: My application is 'Rejected'. Why is this so? 
+    content: |
+      Below are some of the common reasons for why your application is rejected. 
+
+      1. Your OED was not updated, or MOM did not receive an OED submission from you. Please ensure that you have submitted the latest occupational and employment details of all your workers in [Occupational Employment Dataset (OED)](https://stats.mom.gov.sg/laboursurvey){:target="_blank"}{:rel="noopener"}. 
+
+      2. From your OED submission, your firm does not hire any PW workers. To be eligible for the PW Mark, your firm will need to hire at least 1 local worker covered by the PWM. If your firm hires PW workers, please update the relevant PWM Job Level for the PW workers in OED. 
+
+      3. Your employees are found to be paid below the LQS/PW requirement. This could be because your employees have worked an incomplete month (e.g. new joiners, leavers, workers who on leave), hence the wage that they received is lower than the full monthly wage. If so, please update the total number of working days in the month, actual number of days worked in the month, date joined (applicable for new joiners), date left and mode of leaving (applicable for leavers). For part-time workers who do not work the full contractual working hours, please indicate the actual number of working hours they have worked per week under the ‘Contractual Working Hours’ column.
+
+  - title: Can I re-apply for the PW Mark if my application is 'Rejected'?
+    content: |
+      You may re-apply for the PW Mark once you have rectified the issues mentioned above. 
 
   - title: Can I get the Progressive Wage (PW) Mark even if I do not hire any workers under Sectoral PW or Occupational PW?
     content: |

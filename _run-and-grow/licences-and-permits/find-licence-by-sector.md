@@ -4,9 +4,11 @@ permalink: /licences/find-licence-by-sector/
 third_nav_title: Licences and Permits
 ---
 
-## Find licences by sector
+## Get recommendations for licences
 
 Find out which licences you need by answering a few questions, based on your business sector.
+
+This is a non-exhaustive list of business sectors. If you can’t find what you’re looking for, check the [full list of licences](/licences/find-licence-by-agency/?src=lic_guide_writeup) you can apply for. For licence renewals or amendment, use this list to [find licences to renew or amend](/licences/renew-amend-licence/?src=lic_guide_writeup).
 
 ## For all sectors
 

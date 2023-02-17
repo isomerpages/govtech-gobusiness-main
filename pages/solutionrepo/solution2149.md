@@ -1,15 +1,15 @@
 ---
-title: 'Closed Containment System'
+title: 'Automated Vaccination'
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
-## Closed Containment System
+## Automated Vaccination
 
 ## Overview
 
 **Description**
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To cultivate produce in a controlled environment that isolates and protects them
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
