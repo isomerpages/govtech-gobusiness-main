@@ -51,10 +51,13 @@
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
 - icon: '/images/Explore.png'
-  alt: explore more
+  alt: Explore More
   title: Explore More
   id: 4
-  href_1: '/accreditation/?src=home_quicklinks'
-  text_1: Accreditation
-  href_2: '/gebiz-alerts/?src=home_quicklinks'
-  text_2: GeBIZ Alerts
+  href_1: '/enterprisejobskills/?src=home_quicklinks'
+  text_1: Enterprise Portal for Jobs and Skills (EPJS)
+  is_new_1: true
+  href_2: '/accreditation/?src=home_quicklinks'
+  text_2: Accreditation
+  href_3: '/gebiz-alerts/?src=home_quicklinks'
+  text_3: GeBIZ Alerts
