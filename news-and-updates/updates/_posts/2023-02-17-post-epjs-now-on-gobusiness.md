@@ -16,7 +16,7 @@ Starting from 18 February 2023, the Enterprise Portal for Jobs and Skills (EPJS)
 
 EPJS is a portal for businesses to find information and resources on relevant jobs and skills initiatives under SkillsFuture Singapore (SSG) and Workforce Singapore (WSG). This move is part of a whole-of-government effort to enhance the enterprise digital experience and allow users to easily access the full suite of employer-related services via a single touchpoint.
 
-![screenshot of the new home for EPJS on GoBusiness](/images/news/EPJS home.jpg)
+![screenshot of the new home for EPJS on GoBusiness](/images/news/EPJS home.png)
 <figcaption>The new home for EPJS on GoBusiness. This move will give GoBusiness users easier access to employer-related services, including SkillsFuture initiatives and resources</figcaption>
 
 In addition to skills initiatives and resources, a list of EPJS’ Digital Services will also be available on GoBusiness.
