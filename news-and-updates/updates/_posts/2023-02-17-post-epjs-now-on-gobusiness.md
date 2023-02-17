@@ -8,8 +8,6 @@ preview: |
 image: /images/news/EPJS-Launch.jpg
 ---
 
-## New GoBusiness feature: e-Adviser for Skills Training
-
 ![Graphic showing the logos for GoBusiness Singapore and Enterprise Portal for Jobs and Skills](/images/news/EPJS-Launch.jpg)
 
 Starting from 18 February 2023, the Enterprise Portal for Jobs and Skills (EPJS) will be moving to GoBusiness.
