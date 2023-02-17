@@ -50,3 +50,11 @@
   text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
+- icon: '/images/Explore.png'
+  alt: explore more
+  title: Explore More
+  id: 4
+  href_1: '/accreditation/?src=home_quicklinks'
+  text_1: Accreditation
+  href_2: '/gebiz-alerts/?src=home_quicklinks'
+  text_2: GeBIZ Alerts
