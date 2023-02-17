@@ -37,9 +37,45 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 The following equipment categories are supported under the EEG:
 
+- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
 - [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
 
-- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
 
 - [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
 
@@ -47,7 +83,157 @@ The following equipment categories are supported under the EEG:
 
 - [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
 
+- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
 - [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
 
 ----
 
