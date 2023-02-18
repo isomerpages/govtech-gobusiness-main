@@ -46,7 +46,7 @@ The 2nd edition of the report offers deeper analysis into the priority skills an
 
 A study by MTI and SSG found that employer-sponsored training leads to better business outcomes. Companies that invest in training their employees enjoy improvements in revenue, productivity, and staff retention.
 
-[Read more (PDF, 195 KB)](/images/epjs/whats-new/epjs-mti-ssg-study-aug21.pdf){:target="_blank"}{:rel="noopener"}
+[Read more (PDF, 195 KB)](https://www.enterprisejobskills.gov.sg/content/resources/epjs-mti-ssg-study-aug21.pdf){:target="_blank"}{:rel="noopener"}
 
 ---
 
