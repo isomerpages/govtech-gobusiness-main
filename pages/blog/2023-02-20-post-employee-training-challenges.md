@@ -9,9 +9,9 @@ description: Encountered a roadblock in your employee training journey? This art
 ---
 
 ![Ongoing employee upskilling programmes](/images/blog/content/TrainingChallenges Feature.jpg)
-<figcaption> While implementing employee upskilling programmes is not always easy, GoBusiness hopes to smoothen the path with the SkillsFuture for Enterprise Guide and the e-Adviser for Skills Training (Source: Canva) </figcaption>
+<figcaption> While implementing employee upskilling programmes is not always easy, GoBusiness hopes to smooth the path with the SkillsFuture for Enterprise Guide and the e-Adviser for Skills Training (Source: Canva) </figcaption>
 
-The benefits of employee training are well understood – with improved productivity, motivation and business performance being some of them. In fact, learning and development professionals in the Asia Pacific cited upskilling and reskilling as their top priority in a 2022 workplace report by [LinkedIn](https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/workplace-learning-report/2022-LinkedIn-Learning-Workplace-Learning-Report-UK-Edition.pdf){:target="_blank"}{:rel="noopener"}. PWC’s [Global CEO Survey](https://www.pwc.com/gx/en/ceo-survey/2020/reports/pwc-23rd-global-ceo-survey.pdf){:target="_blank"}{:rel="noopener"} too cited employee development as a must-have in their organisation.
+The benefits of employee training are well understood – with improved productivity, motivation, and business performance being some of them. In fact, learning and development professionals in the Asia Pacific cited upskilling and reskilling as their top priority in a [2022 workplace report by LinkedIn](https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/workplace-learning-report/2022-LinkedIn-Learning-Workplace-Learning-Report-UK-Edition.pdf){:target="_blank"}{:rel="noopener"}. PWC’s [Global CEO Survey (PDF, 26.1 MB](https://www.pwc.com/gx/en/ceo-survey/2020/reports/pwc-23rd-global-ceo-survey.pdf){:target="_blank"}{:rel="noopener"} too cited employee development as a must-have in their organisation.
 
 Even so, companies continue to face challenges in implementing such programmes. Common challenges include a lack of time, resources, or knowledge about upskilling programmes. 
 
@@ -30,9 +30,9 @@ Read on to discover how these tools can help you overcome some of the most commo
 ![Understanding skills needs for employee upskilling](/images/blog/content/TrainingChallenges 1.jpg)
 <figcaption> Before choosing a suitable employee training course, businesses should first seek to understand their skills needs  </figcaption>
 
-To avoid getting overwhelmed by the many different courses offered by different mediums, the SkillsFuture for Enterprise Guide recommends starting by [first understanding your business’ needs](/skillsfuture-for-enterprise/understand-your-skills-needs/?src=gobiz_blog){:target="_blank"}. Here are some questions you can ask to shortlist suitable courses: 
+To avoid getting overwhelmed by the many different courses offered by different mediums, the SkillsFuture for Enterprise Guide recommends starting by first [understanding your business’ needs](/skillsfuture-for-enterprise/understand-your-skills-needs/?src=gobiz_blog){:target="_blank"}. Here are some questions you can ask to shortlist suitable courses: 
 
-a. What are my skills needs? 
+**a. What are my skills needs?**
 
 This involves assessing the skillset of your current staff as well as other resources (like software) and determining what is most needed in your business. For this, you’ll also need to first determine what you’re trying to achieve, whether it’s improving staff efficiency, improving your bottom line, or offering a new product or service.
 
@@ -40,25 +40,25 @@ For instance, if you have a digital marketer or staff who’s adept at digital a
 
 The Guide offers several tools such as the Skills Framework and SME Skills Transformation Playbook that can help you identify and meet your business needs. 
 
-b. What are the training needs of my employees? 
+**b. What are the training needs of my employees?**
 
 As an employer, it’s important to invest in the growth of your staff. Beyond your own business needs, it could be helpful to have a chat with your staff to better understand their career goals, and how you can support them through it. 
 
-c. What medium or format would be most suitable? 
+**c. What medium or format would be most suitable?**
 
 Whether it’s a short virtual course, an in-person training programme or even a hybrid format, the possibilities are endless in terms of course offerings. It’s important to consider the topic at hand to decide on the most suitable format. 
 
-A [coffee roasting](/gobusiness-blog/obrewculture?src=gobiz_blog){:target="_blank"} course, for instance, might require an in-person demonstration for maximum effectiveness. Meanwhile, a cybersecurity programme could possibly be conducted online. 
+A [coffee roasting course](/gobusiness-blog/obrewculture?src=gobiz_blog){:target="_blank"}, for instance, might require an in-person demonstration for maximum effectiveness. Meanwhile, a cybersecurity programme could possibly be conducted online. 
 
 Other factors for consideration include the amount of time allotted for training, budget, as well as employee preference and learning style. 
 
-Once you’ve an idea of the subject and type of course you would like to send your employees for, you can then proceed to check out what courses are available out there. [Use the Guide to access a directory of SkillsFuture Singapore-funded courses](/skillsfuture-for-enterprise/identify-suitable-courses-and-initiatives/?src=gobiz_blog){:target="_blank"} or fill in your needs in the e-Adviser for recommendations on suitable courses. 
+Once you’ve an idea of the subject and type of course you would like to send your employees for, you can then proceed to check out what courses are available out there. Use the Guide to [access a directory of SkillsFuture Singapore-funded courses](/skillsfuture-for-enterprise/identify-suitable-courses-and-initiatives/?src=gobiz_blog){:target="_blank"} or fill in your needs in the e-Adviser for recommendations on suitable courses. 
 
 ### 2. I’m not sure which subsidy or grant is applicable to me 
 
 From the [SkillsFuture Enterprise Credit](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-enterprise-credit/?src=gobiz_blog){:target="_blank"} to the Absentee Payroll Funding scheme, there are many government support options available to help you defray upskilling costs. 
 
-[The SkillsFuture for Enterprise Guide compiled the main grants and schemes available](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=gobiz_blog){:target="_blank"}, with eligibility criteria clearly laid out for ease of reference. Additionally, [the Guide provides instructions on how you can defray the manpower costs incurred when your employees are attending training programmes](/skillsfuture-for-enterprise/claim-absentee-payroll-funding/?src=gobiz_blog){:target="_blank"}. 
+The SkillsFuture for Enterprise Guide compiled the main [grants and schemes available](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=gobiz_blog){:target="_blank"}, with eligibility criteria clearly laid out for ease of reference. Additionally, the Guide provides instructions on how you can [defray the manpower costs incurred](/skillsfuture-for-enterprise/claim-absentee-payroll-funding/?src=gobiz_blog){:target="_blank"} when your employees are attending training programmes. 
 
 ![e-Adviser for Skills Training](/images/blog/content/TrainingChallenges 2.jpg)
 <figcaption> The GoBusiness e-Adviser for Skills Training can provide personalised recommendations on suitable grants and subsidies  </figcaption>
@@ -76,7 +76,7 @@ Motivating employees was one of the main challenges CEOs faced when starting an 
 
 It is also important for employers to reassure staff that time will be set aside for them to properly engage in the training programme, without having them resort to working overtime.
 
-Check out [the Guide for tips on how to build a workplace learning culture](/skillsfuture-for-enterprise/build-a-workplace-learning-culture/?src=gobiz_blog){:target="_blank"}. Beyond recommending modular courses for upskilling in the workplace, the Guide also includes resources that you can approach if you would like additional advice on cultivating a mindset of lifelong learning in the workplace. 
+Check out the Guide for tips on [how to build a workplace learning culture](/skillsfuture-for-enterprise/build-a-workplace-learning-culture/?src=gobiz_blog){:target="_blank"}. Beyond recommending modular courses for upskilling in the workplace, the Guide also includes resources that you can approach if you would like additional advice on cultivating a mindset of lifelong learning in the workplace. 
 
 **Let the SkillsFuture for Enterprise step-by-step guide on GoBusiness help you kickstart your employee training journey!**
 
