@@ -47,6 +47,8 @@ const custom_notifications = [
   //[**ADHOC**]
   //IPOS DOWNTIME
   //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
+  //L1T ARC DOWNTIME
+  "Due to technical difficulties, existing N1, N2, N3, N4, IR1, IR2 and IR3 licences and R1 registration are currently not available for amendment, renewal, and cancellation until further notice. Please do not submit a new application in place of an amendment or renewal. We apologise for the inconvenience caused."
 
   //[**GCC Migration**]
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
