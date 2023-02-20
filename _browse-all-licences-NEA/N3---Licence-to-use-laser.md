@@ -8,7 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-{% include spcp-text.html type="cp" %}
+{% include spcp-text.html type="sp" %}
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/e6f30352-6e0e-4db3-a226-6dd0bcd820f2" type="primary" %}
 
