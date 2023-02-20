@@ -1,15 +1,15 @@
 ---
-title: 'NMTODOO'
+title: 'RAVEPIXEL WEB SUITE Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3708
 ---
 
-## NMTODOO
+## RAVEPIXEL WEB SUITE Version 8.0
 
 ## Overview
 
 **Description**
 
-The solution is an integrated, cohesive, user-friendly CRM, sales and financial accounting solutions. The system offers users the capability to enforce strategic sales pricing policies while capturing vital business performance data directly into a full-fledged, IRAS-approved financial accounting system that generates professional, traceable formal documentation complete with audit trails. The system alleviates mundane administrative work effort to help businesses focus on their value chain.
+RavePixel Web Suite allows SMEs to manage and automate crucial business operation in the cloud environment. From captivating content creation to comprehensive productivity automation ranging from sales order tracking, inventory management and customer profiling. The solution frees up precious resources thus boosting revenue and increase productivity to scale SMEs' business.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 5 Users (Basic)</td>
-<td style='padding: 10px;'>$11,113.00</td>
-<td style='padding: 10px;'>$11,113.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 8 Users (Standard)</td>
-<td style='padding: 10px;'>$15,123.00</td>
-<td style='padding: 10px;'>$15,123.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 10 Users (Premium)</td>
-<td style='padding: 10px;'>$17,916.00</td>
-<td style='padding: 10px;'>$17,916.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 12 Users (Professional)</td>
-<td style='padding: 10px;'>$22,100.00</td>
-<td style='padding: 10px;'>$22,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng, CRM and Sales for 15 Users (Enterprise)</td>
-<td style='padding: 10px;'>$25,121.00</td>
-<td style='padding: 10px;'>$25,121.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_ecommerce_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Neu Media Technology LLP<br>Web URL: www.neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com 
+ Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

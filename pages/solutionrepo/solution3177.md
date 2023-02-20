@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Smart POS Version 2022.01'
+title: 'ABSS(MYOB) Premier'
 permalink: /productivity-solutions-grant/solutionrepo/solution3177
 ---
 
-## Qashier Smart POS Version 2022.01
+## ABSS(MYOB) Premier
 
 ## Overview
 
 **Description**
 
-Qashier provides smart point-of-sale and digital payment solutions to retailers. Qashier's full suite of integrated solutions includes point-of-sale hardware, software, payment acceptance, inventory management, customer loyalty, and integrations to 3rd party apps including e-commerce and accounting software.
+E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Qashier provides smart point-of-sale and digital payment solutions to retailers.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro</td>
-<td style='padding: 10px;'>$1,818.00</td>
-<td style='padding: 10px;'>$1,818.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package A - Software (1 User)</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro + Basic Setup</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package B - Software & Training (1 User)</td>
+<td style='padding: 10px;'>$2,623.00</td>
+<td style='padding: 10px;'>$2,303.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Advanced Setup</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package C - Software (3 Users)</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Full Setup + Training</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package D - Software & Training (3 Users)</td>
+<td style='padding: 10px;'>$3,937.00</td>
+<td style='padding: 10px;'>$3,617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package E - Software, Remote Access & Training (3 Users)</td>
+<td style='padding: 10px;'>$4,956.00</td>
+<td style='padding: 10px;'>$4,636.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com 
+ Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

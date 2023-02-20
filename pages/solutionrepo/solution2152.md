@@ -1,15 +1,15 @@
 ---
-title: 'Culture Tank System with Monitoring and Control System'
+title: 'Automated Slaughtering Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
-## Culture Tank System with Monitoring and Control System
+## Automated Slaughtering Equipment
 
 ## Overview
 
 **Description**
 
-Cultivation system with monitoring and control system
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Cultivation system with monitoring and control system
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

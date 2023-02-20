@@ -1,15 +1,15 @@
 ---
-title: 'Netiquette Cloud Business Suite'
+title: 'EQuipPOS Retail Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution2929
 ---
 
-## Netiquette Cloud Business Suite
+## EQuipPOS Retail Solutions Version 3
 
 ## Overview
 
 **Description**
 
-Netiquette Business Suite is a cloud based solutions designed for growth stage businesses that has advance features to ease off the growing day to day challenges. The solutions have a library of APIs to fit various business needs . Netiquette is one of the first few solutions in the market to offer "Seamless Filing" feature; Seamless Filing offer SMEs to file their annual statutory filing such as "Form CS", "Annual Return" and "Simplified XBRL" directly and thus saving hours of preparation.
+EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package A (Basic)</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
-<td style='padding: 10px;'>$5,540.00</td>
-<td style='padding: 10px;'>$5,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package B (Basic+Multi Outlet Control)</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
-<td style='padding: 10px;'>$6,340.00</td>
-<td style='padding: 10px;'>$6,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)</td>
+<td style='padding: 10px;'>$7,048.00</td>
+<td style='padding: 10px;'>$6,748.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package D (Basic+Inventory Manager APP+ 3rd Party Integration)</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package E (Saas for 35 Users)</td>
-<td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package E (Basic+Online Orders & Rewards App)</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Netiquette Software Pte Ltd<br>Web URL: www.netiquette.com.sg <br><br>Contact Hotline: 94882285 <br><br>Contact Email: enquiry@netiquette.com.sg <br><br>
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

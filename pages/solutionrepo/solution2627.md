@@ -1,15 +1,15 @@
 ---
-title: 'School Bus Management System Version SBMS.V2'
+title: 'Firewalla Gold Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2627
 ---
 
-## School Bus Management System Version SBMS.V2
+## Firewalla Gold Package
 
 ## Overview
 
 **Description**
 
-SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
+Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ SSTA Technology Development Pte Ltd is a Singapore-based company since January 2
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - 1 Vehicle Package</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package A - 1 Site</td>
+<td style='padding: 10px;'>$1,380.00</td>
+<td style='padding: 10px;'>$1,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - 2 Vehicle Package</td>
-<td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'>$6,840.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package B - 2 Sites</td>
+<td style='padding: 10px;'>$2,680.00</td>
+<td style='padding: 10px;'>$2,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - 3 Vehicle Package</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'>$10,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package C - 3 Sites</td>
+<td style='padding: 10px;'>$4,020.00</td>
+<td style='padding: 10px;'>$4,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - 4 Vehicle Package</td>
-<td style='padding: 10px;'>$16,200.00</td>
-<td style='padding: 10px;'>$13,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - 5 Vehicle Package</td>
-<td style='padding: 10px;'>$20,200.00</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SSTA_Technology_20210102_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package D - 4 Sites</td>
+<td style='padding: 10px;'>$5,360.00</td>
+<td style='padding: 10px;'>$5,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ SSTA Technology Development Pte Ltd is a Singapore-based company since January 2
 
 ## Vendor Information
 
- Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
+ Company Name: Anzen Global Pte Ltd<br>Web URL: Cybersecurity Products and Services <br><br>Contact Hotline: 97520811 <br><br>Contact Email: info@anzenglobal.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

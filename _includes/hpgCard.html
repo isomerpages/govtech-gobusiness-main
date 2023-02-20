@@ -244,12 +244,14 @@
         {% endif %}
       </div>
     </div>
+    {% if {{hpgCard.cta_href}} %}
     <div class="hpgCard__bottom toggle-display">
       <div class="hpgCard__cta">
         <a href="{{hpgCard.cta_href}}" class="hpgCard__cta-text">{{hpgCard.cta_text}}</a>
         <img class="hpgCard__cta-img" src="/images/next_arrow.svg" alt="right-arrow">
       </div>
     </div>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

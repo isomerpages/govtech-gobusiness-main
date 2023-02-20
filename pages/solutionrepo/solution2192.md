@@ -1,15 +1,15 @@
 ---
-title: 'Digital quality testing equipment'
+title: 'Water Filtration System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2192
 ---
 
-## Digital quality testing equipment
+## Water Filtration System
 
 ## Overview
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Quality testing equipment in measuring the produce quality and freshness
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

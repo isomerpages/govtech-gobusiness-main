@@ -1,19 +1,17 @@
 ---
-title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
+title: 'HR Shared Services by RecruitSG'
 permalink: /productivity-solutions-grant/solutionrepo/solution3510
 ---
 
-## Job Redesign Consultancy - Cadence Group Pte Ltd
+## HR Shared Services by RecruitSG
 
 ## Overview
 
 **Description**
 
-Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+recruitSG helps companies handle their payroll processing & HR administration, including managing employee data, benefits, expense claims, attendance, leave, IRAS filing, and more.
 
-Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
-
-Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
+Companies can simplify their HR processes with recruitSG's end-to-end service - supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
 
 ## Solution Packages Option(s)
 
@@ -27,20 +25,48 @@ Our consultants are qualified senior HR professionals in various industries. We 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 30 Employees</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 50 Employees</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 100 Employees</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 150 Employees</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 200 Employees</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
+ Company name: RECRUIT.COM.SG PTE. LTD.<br>Web URL: WWW.RECRUIT.COM.SG <br>Contact Hotline: 68767936 <br>Contact Email: HELLO@RECRUIT.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

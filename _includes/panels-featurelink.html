@@ -26,16 +26,17 @@
     }
 
     .content .panel .panel-banner>img {
-        width: auto;
-        height: auto;
+        width: 498px;
+        height: 200px;
         margin: 0;
-    
+        object-fit: cover;
     }
 
     .content .panel .panel-image>img {
         width: auto;
         height: 100%;
         margin: 29px 0 0 29px;
+        object-fit: cover;
     }
 
     .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
@@ -68,6 +69,13 @@
         display: block;
         margin: 10px 0 5px 0;
     }
+    .content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        color: #647283;
+        text-decoration: none;
+    }
 
 
     @media (max-width: 600px) {
@@ -83,10 +91,10 @@
         <div class="panel-label">{% include label.html label=panel.label %}</div>
         {% endif %}
         {% if panel.image %}
-        <div class="panel-image">{{ panel.image }}</div>
+        <div class="panel-image" aria-hidden="true">{{ panel.image }}</div>
         {% endif %}
         {% if panel.banner %}
-        <div class="panel-banner">{{ panel.banner }}</div>
+        <div class="panel-banner" aria-hidden="true">{{ panel.banner }}</div>
         {% endif %}
         <h4 class="panel-title">{{ panel.title }}
         {% if panel.is_new %}
@@ -98,7 +106,7 @@
         {% if panel.description %}
         <p class="panel-description">{{ panel.description }}</p>
         {% endif %}
-        {% if panel.tel or panel.email or panel.url %}
+        {% if panel.tel or panel.email or panel.url or panel.text %}
         <div class="panel-links-container">
             {% if panel.tel %}
             <hr style="width:100%;text-align:left;margin:0">
@@ -124,13 +132,25 @@
             <div class="panel-links-group">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
+                {% if panel.url-new-tab %}
                 <a class="panel-link"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
+                    target="_blank" rel="noopenner">
+                {% else %}
+                    <a class="panel-link"
+                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
+                {% endif %}
                     {% if panel.text %}{{panel.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
+            {% else %}
+                {% if panel.text %}
+                <hr style="width:100%;text-align:left;margin:0">
+                <div class="panel-info">
+                    {{panel.text}}
+                </div>
+                {% endif %}
             {% endif %}
         </div>
         {% endif %}

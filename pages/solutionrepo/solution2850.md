@@ -1,15 +1,15 @@
 ---
-title: 'HR administration with payroll processing via SaaS solutions Version 21-3.1'
+title: 'Creative Sales and Order'
 permalink: /productivity-solutions-grant/solutionrepo/solution2850
 ---
 
-## HR administration with payroll processing via SaaS solutions Version 21-3.1
+## Creative Sales and Order
 
 ## Overview
 
 **Description**
 
-Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize in HR & Payroll management combining with (SaaS) Cloud HR software for SMEs in the Asia-Pacific region. In our HR shared services ecosystem, we use an entire suite of (SaaS) cloud HR software such as Employee Information System, Leave system, Expense (claims), Time Attendance (with facial recognition & geofencing features) and Payroll which combines our HR expertise such as payroll processing services to SMEs.
+Creative Sales and order management is an user friendly end-to end solution that enable companies to request for quote to confirmation of their products or services easily. This solution provide SMEs in Wholesales industry an opportunity to broaden their reach, stay competitive, increase the sales, streamline operation and optimize resources.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3</td>
-<td style='padding: 10px;'>$7,020.00</td>
-<td style='padding: 10px;'>$7,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SMEZ</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 2 (16-25 employee) Version 21-3</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Lite</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 3 (26-50 employee) Version 21-3</td>
-<td style='padding: 10px;'>$20,900.00</td>
-<td style='padding: 10px;'>$20,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 4(51-100 employee) Version 21-3</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions -Package 5(101-200 employee) Version 21-3</td>
-<td style='padding: 10px;'>$63,000.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Standard</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 
 ## Vendor Information
 
- Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br><br>Contact Hotline: 66531198 <br><br>Contact Email: jobs@matchresources.co <br><br>
+ Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

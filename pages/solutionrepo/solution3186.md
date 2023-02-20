@@ -1,15 +1,15 @@
 ---
-title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
+title: 'Qashier Smart POS Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution3186
 ---
 
-## Advanced Human Hazard Avoidance & Alert Systems Version 01
+## Qashier Smart POS Version 2022.01
 
 ## Overview
 
 **Description**
 
-Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
+Qashier provides smart point-of-sale and digital payment solutions to retailers. Qashier's full suite of integrated solutions includes point-of-sale hardware, software, payment acceptance, inventory management, customer loyalty, and integrations to 3rd party apps including e-commerce and accounting software.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,41 @@ Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensure
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 1 Proximity Sensor (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,250.00</td>
-<td style='padding: 10px;'>$1,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro</td>
+<td style='padding: 10px;'>$1,818.00</td>
+<td style='padding: 10px;'>$1,818.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 2 Proximity Sensors (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,550.00</td>
-<td style='padding: 10px;'>$1,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro + Basic Setup</td>
+<td style='padding: 10px;'>$2,417.00</td>
+<td style='padding: 10px;'>$2,417.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 3 Proximity Sensors (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Advanced Setup</td>
+<td style='padding: 10px;'>$3,297.00</td>
+<td style='padding: 10px;'>$3,297.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 4 Proximity Sensors (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Full Setup + Training</td>
+<td style='padding: 10px;'>$4,497.00</td>
+<td style='padding: 10px;'>$4,497.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
+ Company name:Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

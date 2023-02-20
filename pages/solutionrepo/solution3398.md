@@ -1,53 +1,31 @@
 ---
-title: 'LFSUITE Version 6'
+title: 'Industrial/Commercial Slicer'
 permalink: /productivity-solutions-grant/solutionrepo/solution3398
 ---
 
-## LFSUITE Version 6
+## Industrial/Commercial Slicer
 
 ## Overview
 
 **Description**
 
-LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
+The slicer is an equipment that replaces manual slicing, allowing for large amounts of food to be cut into smaller pieces of variable thickness, allowing cuts to be uniform. The equipment allows for quick slicing of food, allowing for food to be packaged quickly and sent out to customers. 
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
-<td style='padding: 10px;'>$7,260.00</td>
-<td style='padding: 10px;'>$6,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
-<td style='padding: 10px;'>$11,460.00</td>
-<td style='padding: 10px;'>$11,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Digital</td>
-<td style='padding: 10px;'>$5,420.00</td>
-<td style='padding: 10px;'>$5,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Must meet the following:<br>- Adjustable slicing width <br>- Feature an electrically powered pusher<br><br>Optional component: Conveyor*<br>*Open for support if the combined cost of the slicer and conveyor falls within the cost cap of $37,500.00 </td>
 </tr>
 </table>
 
@@ -55,10 +33,6 @@ LFSuite in a cloud-hybrid POS system that come with an online central management
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
