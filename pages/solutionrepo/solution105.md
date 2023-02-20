@@ -1,17 +1,19 @@
 ---
-title: 'Ozonised Air + Surface Sterilization System'
+title: 'Mobile Computer (Warehouse application)'
 permalink: /productivity-solutions-grant/solutionrepo/solution105
 ---
 
-## Ozonised Air + Surface Sterilization System
+## Mobile Computer (Warehouse application)
 
 ## Overview
 
 **Description**
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
+Mobile Computer transforms paper-based data recording and manual inventory counting into automated electronic data capture and transmission Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
 
-Cost of equipment capped at $10,000 per unit
+Solution is highly recommended to be able to integrate with applicant's existing inventory or warehouse management system.
+
+Cost of equipment capped at $30,000 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ozonised Air + Surface Sterilization System</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>Equipment must meet the following:<br>- User ozonised tech generating active oxygen at output between 20mg - 1g/hr<br>- Equipment should emit negative ion at more than 2 million/cubic centrimetres<br>- Coverage area at least 36.5square meter<br>- Effective sterilisation & reduce bacteria count by 90%<br>- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>Mandatory specifications:<br>- Installed with software for inventory data input.<br>- Withstand rough handling, meet min IP54 standards.<br>- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>- Battery with min 3 hrs standby.<br>- Wireless LAN/Bluetooth/cellular connectivity.<br>- Support the common operating system e.g. Android, Windows.<br>- Installation and Maintenance cost are not supported.</td>
 </tr>
 </table>
 

@@ -1,32 +1,30 @@
 ---
-title: 'Ecommerce Web Development (WooCommerce) Version 0.8'
+title: '3D Intraoral Scanner'
 permalink: /productivity-solutions-grant/solutionrepo/solution3
 ---
 
-## Ecommerce Web Development (WooCommerce) Version 0.8
+## 3D Intraoral Scanner
 
 ## Overview
 
 **Description**
 
-Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
+[This solution will be delisted effective 1 March 2023. All applications made on and after 1 March 2023 will not be accepted] The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
+
+Qualifying cost of equipment capped at $25,000 per unit.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3D Intraoral Scanner</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>Hardware<br>- Scanner wand<br>- Autoclavable/single-use sleeves<br><br>Functionality<br>- Open system format - .stl/.ply files etc.<br>- Treatment simulation <br>- CAD/CAM software<br><br>Supportable costs: <br>- Hardware (incl. software), 1 set of tips/sleeves, Training, 1st yr subscription, 3 yr warranty<br><br>*Support is only granted for 1 unit per clinic location.<br>Basic equipment costs (e.g. laptop) unsupportable<br>Additional criteria: Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR</td>
 </tr>
 </table>
 
@@ -34,10 +32,6 @@ Development of an online shopping cart system complete with integrated product d
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

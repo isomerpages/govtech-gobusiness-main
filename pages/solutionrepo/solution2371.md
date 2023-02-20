@@ -1,15 +1,15 @@
 ---
-title: 'CROSSTRACK GO'
+title: 'ITAPS'
 permalink: /productivity-solutions-grant/solutionrepo/solution2371
 ---
 
-## CROSSTRACK GO
+## ITAPS
 
 ## Overview
 
 **Description**
 
-CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
+iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 1 - 1 Vehicle</td>
-<td style='padding: 10px;'>$1,335.00</td>
-<td style='padding: 10px;'>$1,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 2 - 2 Vehicles</td>
-<td style='padding: 10px;'>$2,634.00</td>
-<td style='padding: 10px;'>$2,164.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 2 (45 employees)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 3 - 3 Vehicles</td>
-<td style='padding: 10px;'>$3,951.00</td>
-<td style='padding: 10px;'>$3,246.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 3 (75 employees)					</td>
+<td style='padding: 10px;'>$13,700.00</td>
+<td style='padding: 10px;'>$13,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 4 - 4 Vehicles</td>
-<td style='padding: 10px;'>$5,268.00</td>
-<td style='padding: 10px;'>$4,328.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 4 (120 employees)					</td>
+<td style='padding: 10px;'>$19,360.00</td>
+<td style='padding: 10px;'>$19,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CROSSTRACK GO - Fleet Management Package 5 - 5 Vehicles</td>
-<td style='padding: 10px;'>$6,585.00</td>
-<td style='padding: 10px;'>$5,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Crosstrack_Annex_3_CR_wef_10_Feb_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 5 (200 employees)					</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 
 ## Vendor Information
 
- Company Name: CROSSTRACK PTE LTD<br>Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br><br>Contact Hotline: 91733775 <br><br>Contact Email: psg@crosstrack.sg <br><br>
+ Company Name: Mind Master Solutions Pte Ltd<br>Web URL: www.mindmaster.com.sg <br><br>Contact Hotline: 62505623 <br><br>Contact Email: info@mindmastersg.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

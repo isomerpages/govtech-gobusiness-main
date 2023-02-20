@@ -8,65 +8,59 @@ logo: /images/Gobiz_logo_SG.svg
 
 links:
   - title: Start a Business
-    url: /start-a-business/
+    url: /start-a-business/?src=topnav
     sublinks:
       - title: Overview
-        url: /start-a-business/
+        url: /start-a-business/?src=topnav
       - title: Home-Based Businesses
-        url: /home-based-businesses/determine-your-home-business-scheme/
+        url: /home-based-businesses/determine-your-home-business-scheme/?src=topnav
       - title: Key Steps to Start a Business
-        url: /start-a-business/choose-a-business-structure/
+        url: /start-a-business/choose-a-business-structure/?src=topnav
       - title: Next Steps to Consider
-        url: /start-a-business/hire-employees/
+        url: /start-a-business/hire-employees/?src=topnav
       - title: FAQ
-        url: /start-a-business/faqs/
+        url: /start-a-business/faqs/?src=topnav
   - title: Run and Grow a Business
-    url: /run-and-grow/
+    url: /run-and-grow/?src=topnav
     sublinks:
       - title: Overview
-        url: /run-and-grow/
+        url: /run-and-grow/?src=topnav
       - title: Government Assistance
-        url: /gov-assist/
+        url: /gov-assist/?src=topnav
       - title: Business Grants Portal
-        url: /business-grants-portal/
+        url: /business-grants-portal/?src=topnav
       - title: Licences and Permits
-        url: /licences/
+        url: /licences/?src=topnav
+      - title: SkillsFuture for Enterprise
+        url: /skillsfuture-for-enterprise/?src=topnav
+      - title: Accreditation
+        url: /accreditation/?src=topnav
       - title: Taxes, GST and Customs
-        url: /run-and-grow/taxes-and-gst/
+        url: /run-and-grow/taxes-and-gst/?src=topnav
       - title: GeBIZ Alerts
-        url: /gebiz-alerts/
+        url: /gebiz-alerts/?src=topnav
   - title: Covid-19
-    url: /covid/
+    url: /covid/?src=topnav
     sublinks:
       - title: Overview
-        url: /covid/
-      - title: Time Limited RRT for Workplaces
-        url: /timelimitedrrt/
-      - title: Permitted Services
-        url: /permittedlist/
-      - title: Safe Management Requirements
-        url: /safemanagement/general/
-      - title: Sector-specific Requirements
-        url: /safemanagement/sector/
-      - title: FAQ
-        url: /covid-19-faqs/
+        url: /covid/?src=topnav
   - title: e-Services
-    url: /e-services/
+    url: /e-services/?src=topnav
   - title: Resources
-    url: /gobusiness-blog/
+    url: /gobusiness-blog/?src=topnav
     sublinks:
       - title: Blog
-        url: /gobusiness-blog/
+        url: /gobusiness-blog/?src=topnav
       - title: News and Updates
-        url: /news-and-updates/
+        url: /news-and-updates/?src=topnav
       - title: FAQ
-        url: /faqs/popular/
+        url: /faqs/popular/?src=topnav
   - title: About Us
-    url: /about-us/
+    url: /about-us/?src=topnav
     sublinks:
       - title: Who We Are
-        url: /about-us/
+        url: /about-us/?src=topnav
       - title: Contact Us
-        url: /contact-us/
+        url: /contact-us/?src=topnav
   - title: <div class="login-container"></div>
     url:

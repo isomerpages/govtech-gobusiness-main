@@ -1,15 +1,15 @@
 ---
-title: 'Netpluz Managed Firewall'
+title: 'Weeloy Reservation System & Table Management Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution4
 ---
 
-## Netpluz Managed Firewall
+## Weeloy Reservation System & Table Management Suite
 
 ## Overview
 
 **Description**
 
-Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+Weeloy Reservation System and Table Management Suite is an integrated solution addressing operational and marketing needs of Foodservice businesses interested in harnessing digital transformation to increase productivity, remarketing and top line revenue.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations Package</td>
+<td style='padding: 10px;'>$5,130.00</td>
+<td style='padding: 10px;'>$5,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 136 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations & Online Payment Package</td>
+<td style='padding: 10px;'>$6,240.00</td>
+<td style='padding: 10px;'>$6,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Operations & POS Package</td>
+<td style='padding: 10px;'>$8,340.00</td>
+<td style='padding: 10px;'>$7,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2300 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weeloy Reservation System & Table Management Suite - Full Package</td>
+<td style='padding: 10px;'>$9,450.00</td>
+<td style='padding: 10px;'>$8,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weeloy_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
+ Company name:Weeloy Pte Ltd<br>Web URL: www.weeloy.io <br>Contact Hotline: +6531389028 <br>Contact Email: hotline@weeloy.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

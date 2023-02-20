@@ -2,9 +2,9 @@
 layout: gobusiness-blog-post
 title: How 99 Old Trees is connecting with young durian lovers
 permalink: /gobusiness-blog/99-Old-Trees-Durian-Business-Singapore
-tags: Business Tips & Tricks
-pillar: Business Tips & Tricks
-crumbs: business-tips-and-tricks
+tags: Behind the Business
+pillar: Behind the Business
+crumbs: behind-the-business
 description: 'Kelvin Tan shares his dream to reshape the image of a modern durian seller, through his durian wholesaler brand, 99 Old Trees.' 
 ---
 

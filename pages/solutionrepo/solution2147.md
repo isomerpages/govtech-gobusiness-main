@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Automated Counter/ Biomass Estimation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
-## Automatic Seed Plug Transplanter
+## Automated Counter/ Biomass Estimation System
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

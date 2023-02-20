@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Sowing Machine'
+title: 'Automated Sorter/ Grader'
 permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 
-## Automatic Seed Sowing Machine
+## Automated Sorter/ Grader
 
 ## Overview
 
 **Description**
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that sow seeds at a specified depth and position and ensures uniform a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

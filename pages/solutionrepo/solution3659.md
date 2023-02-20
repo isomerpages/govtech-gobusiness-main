@@ -1,26 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - KPMG Services Pte Ltd.'
+title: 'E-Form (HAVSchool) Version 4.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution3659
 ---
 
-## Job Redesign Consultancy - KPMG Services Pte Ltd.
+## E-Form (HAVSchool) Version 4.1
 
 ## Overview
 
 **Description**
 
-KPMG People and Change team in Singapore offers a range of services that enables organisation to unlock competitive advantage in today's environment.
-
-KPMG provides customized support in below core areas:
--	Organisation Design
--	Job Redesign
--	Talent Management
--	HR Transformation
--	Strategic Workforce Transformation and Workforce Shaping and Optimisation
--	Behavioural Change Management
--	Employee Experience
--	Rewards Advisory
--	Learning and Development
+HAVSMART EForm 
+The Module automatically updates ECDA's Centre Management System with required information that were input into the HAVSchool Preschool Management System.
 
 ## Solution Packages Option(s)
 
@@ -34,20 +24,27 @@ KPMG provides customized support in below core areas:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KPMG Services Pte Ltd.</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/KPMG_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSmart E-FORM</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSmart E-FORM +</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: KPMG Services Pte. Ltd.<br>UEN No: 200003956G<br>Web URL: https://home.kpmg/sg/en/<br>Contact Name: Ms Emily Fok, Assistant Director <br>Contact Email: emilyfok@kpmg.com.sg <br>Contact Number: 9619 6236
+ Company name:HAVENCE PORTAL LLP<br>Web URL: https://havschool.com/ <br>Contact Hotline: 90067620 <br>Contact Email: ENQUIRIES@HAVENCE.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

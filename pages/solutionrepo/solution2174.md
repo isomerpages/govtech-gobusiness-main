@@ -1,15 +1,15 @@
 ---
-title: 'Pelleting Machine'
+title: 'Hi-jack Cleaning Machinery'
 permalink: /productivity-solutions-grant/solutionrepo/solution2174
 ---
 
-## Pelleting Machine
+## Hi-jack Cleaning Machinery
 
 ## Overview
 
 **Description**
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Animal feed pellet machine also known as feed pelletizer machine; it allows you 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
