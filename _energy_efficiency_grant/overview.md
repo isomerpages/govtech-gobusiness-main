@@ -23,7 +23,7 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 **Note:**
 
-- From 1 Sep 2022 to 31 Mar 2023, companies will be able to submit applications for the purchase of energy efficient equipment through the Business Grants Portal (BGP).
+- From 1 Sep 2022 to 31 Mar 2024, companies will be able to submit applications for the purchase of energy efficient equipment through the Business Grants Portal (BGP).
 
 - Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
 
