@@ -39,14 +39,12 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard FAQ and My Task page will be unavailable due to scheduled maintenance from 31 Aug 2022 5pm to 6pm. We apologise for the inconvenience caused."
   //"Some users may be experiencing difficulties accessing digital services with Singpass. Kindly be advised that Singpass is working on resolving this issue. We apologies for any inconvenience caused.", 
 
-  //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
-  //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 31 Dec 2022 11pm to 1 Jan 2023 12pm. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 16 Sep 2022 12am to 5am<br>(2) 18 Sep 2022 from 12am to 8am"
 
   //[**ADHOC**]
   //IPOS DOWNTIME
   //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
+  //L1T ARC DOWNTIME
+  "Due to technical difficulties, existing N1, N2, N3, N4, IR1, IR2 and IR3 licences and R1 registration are currently not available for amendment, renewal, and cancellation until further notice. Please do not submit a new application in place of an amendment or renewal. We apologise for the inconvenience caused.",
 
   //[**GCC Migration**]
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
@@ -57,6 +55,12 @@ const custom_notifications = [
 
   //[PWMark]
   //"<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will unavailable due to scheduled maintenance on 12 Feb 2023 from 12am to 8am. We apologise for the inconvenience caused."
+
+  //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
+  //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 31 Dec 2022 11pm to 1 Jan 2023 12pm. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 24 Feb 2022 12am to 5am<br>(2) 26 Feb 2023 from 12am to 11am"
+
 ];
 
 // Do not edit the following code
