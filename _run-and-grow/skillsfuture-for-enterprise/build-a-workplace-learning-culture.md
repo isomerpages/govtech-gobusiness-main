@@ -16,7 +16,7 @@ Equip your workforce to meet changing job demands and stay competitive for the f
 ### How to build a workplace learning culture 
 As most learnings happen at the workplace, you might want to consider putting a structured process to harness the rich collaborative learning among your employees and optimise work performance. 
 
-You can approach: [National Centre of Excellence for Workplace Learning (NACE)](https://www.enterprisejobskills.gov.sg/content/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning.html){:target="_blank"}{:rel="noopener"} which offers training and consultancy to help companies set up workplace learning systems based on leading practices from Germany and Switzerland. 
+You can approach: [National Centre of Excellence for Workplace Learning (NACE)](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning--nace-/) which offers training and consultancy to help companies set up workplace learning systems based on leading practices from Germany and Switzerland. 
 
 ### Already have an established workplace learning system?
 Get recognised for your efforts through the National Workplace Learning Certification programme. Find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"}. 
