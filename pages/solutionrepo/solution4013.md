@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution4013
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
+OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
 
 ## Solution Packages Option(s)
 

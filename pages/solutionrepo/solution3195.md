@@ -23,31 +23,31 @@ Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensure
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 1 Proximity Sensor (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,250.00</td>
-<td style='padding: 10px;'>$1,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Pte_Ltd_Advanced_Human_Hazard_Avoidance_&_Alert_Systems_Version_01_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 2 Proximity Sensors (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,550.00</td>
-<td style='padding: 10px;'>$1,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Pte_Ltd_Advanced_Human_Hazard_Avoidance_&_Alert_Systems_Version_01_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 3 Proximity Sensors (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Pte_Ltd_Advanced_Human_Hazard_Avoidance_&_Alert_Systems_Version_01_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Human Hazard Avoidance & Alert Systems Version 01 - 4 Proximity Sensors (for 1 Vehicle)</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/solaris_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Pte_Ltd_Advanced_Human_Hazard_Avoidance_&_Alert_Systems_Version_01_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
