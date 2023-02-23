@@ -26,35 +26,35 @@ Sleek provides a fully digital solution for accounting, tax and sales management
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A - Slim</td>
 <td style='padding: 10px;'>$962.60</td>
 <td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting _Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B - Start Up</td>
 <td style='padding: 10px;'>$1,264.56</td>
 <td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C - SME</td>
 <td style='padding: 10px;'>$1,822.00</td>
 <td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D - Supreme</td>
 <td style='padding: 10px;'>$2,939.84</td>
 <td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E - Growth</td>
 <td style='padding: 10px;'>$4,076.20</td>
 <td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sleek_A_Class_Accounting_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
