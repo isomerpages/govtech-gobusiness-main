@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3
 
 **Description**
 
-[This solution will be delisted effective 1 March 2023. All applications made on and after 1 March 2023 will not be accepted] The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
+[This solution will be delisted effective 1 March 2023. All applications made on and after 1 March 2023 will not be accepted.] The Intraoral Scanner allows dentists to see detailed, 3D images of the patient's teeth and surrounding soft tissues. This allows generation of a digital dental impression quickly and accurately. The digital file can then be sent to dental labs for milling or printing of crowns/aligners. Digital impressions also enable dentists to conduct treatment outcome simulation, as well as data analysis.
 
 Qualifying cost of equipment capped at $25,000 per unit.
 

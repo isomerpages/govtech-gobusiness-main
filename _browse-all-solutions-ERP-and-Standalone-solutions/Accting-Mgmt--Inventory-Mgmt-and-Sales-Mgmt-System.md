@@ -123,6 +123,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3982' target='_blank'>ABSS Premier Version 30</a><br></td>
 <td>Dandelion Consulting Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4060' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
+<td>Prosperage Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
