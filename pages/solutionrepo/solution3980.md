@@ -36,7 +36,7 @@ Shopmatic provides the entire ecosystem to sell online including an intuitive si
 
 ## Vendor Information
 
- Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: 88898758<br>Contact Email: shopsupportsg@goshopmatic.com <br>
+ Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: +65 88898758<br>Contact Email: jaramy.teo@goshopmatic.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

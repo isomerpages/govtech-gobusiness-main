@@ -1,9 +1,9 @@
 ---
-title: 'Alpha eCommerce Booster Version Premium'
-permalink: /productivity-solutions-grant/solutionrepo/solution2046
+title: 'Alpha eCommerce Booster Premium Version 2.8'
+permalink: /productivity-solutions-grant/solutionrepo/solution4088
 ---
 
-## Alpha eCommerce Booster Version Premium
+## Alpha eCommerce Booster Premium Version 2.8
 
 ## Overview
 
@@ -23,10 +23,10 @@ Alphabet Six Marketing Singapore is a web design agency known for their humanist
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Alpha eCommerce Booster Version Premium - ALPHA eCommerce Booster Premium</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
 <td style='padding: 10px;'>$8,350.00</td>
 <td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ALPHABET_SIX_20200698_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AlphabetSix_Alpha_eCommerce_Booster_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Alphabet Six Marketing Singapore is a web design agency known for their humanist
 
 ## Vendor Information
 
- Company Name: ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br><br>Contact Hotline: 87428186 <br><br>Contact Email: enquiries@alphasixmarketing.com.sg <br><br>
+ Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

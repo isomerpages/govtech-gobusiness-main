@@ -23,17 +23,17 @@ Nettbox Proximity Sensor is an obstacle detection solution which is suitable for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 02</td>
-<td style='padding: 10px;'>$8,680.00</td>
-<td style='padding: 10px;'>$6,028.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack A : Object-base Proximity Sensor Per Vehicle</td>
+<td style='padding: 10px;'>$4,240.00</td>
+<td style='padding: 10px;'>$2,914.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 03</td>
-<td style='padding: 10px;'>$12,920.00</td>
-<td style='padding: 10px;'>$8,942.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack B : AI Human Detection Proximity Sensor Per Vehicle</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$2,914.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>

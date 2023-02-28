@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2012' target='_blank'>Vodich- Xero Cloud Accounting</a><br></td>
-<td>Vodich Management Services Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2099' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1</a><br></td>
 <td>Singapore Corporate Services Pte Ltd</td>
 </tr>
