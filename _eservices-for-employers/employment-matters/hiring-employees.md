@@ -48,7 +48,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 - [Apply, issue or cancel employment pass](https://www.mom.gov.sg/eservices/services/apply-for-a-new-ep-and-s-pass){:target="_blank"}{:rel="noopener"}
   <br>Apply for an Employment Pass or S Pass. You can also issue or cancel all pass types here, except Work Permit.
 
-- [Apply for interbank GIRO (work pass admin fees)](#){:target="_blank"}{:rel="noopener"}
+- [Apply for interbank GIRO (work pass admin fees) (PDF, 596 KB)](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/epol_ibgform.pdf){:target="_blank"}{:rel="noopener"}
   <br>Open a GIRO account to pay your work pass administrative fees.
 
 - [Apply for levy concession](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession){:target="_blank"}{:rel="noopener"}
@@ -60,7 +60,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 - [Apply for prior approval to recruit non-traditional source workers in conservancy schemes](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/wp_appln_for_nts_workers.pdf){:target="_blank"}{:rel="noopener"}
   <br>Application form for prior approval to recruit workers from Thailand, Philippines, India, Sri Lanka, Bangladesh, Myanmar for conservancy schemes.
 
-- [Security bond for foreign workers (domestic & non-domestic)](http://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/fw_sb_form.pdf){:target="_blank"}{:rel="noopener"}
+- [Security bond for foreign workers (non-domestic) (PDF, 154 KB)](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/company_sb_form.pdf){:target="_blank"}{:rel="noopener"}
   <br>Application form for a foreign worker's security bond. This is required for non-Malaysian foreign workers and foreign domestic workers.
 
 - [Declare business activity](https://wponline.mom.gov.sg/WPOLLoginController?action=WPOLLoginAction&actionType=WPOLOWPRP){:target="_blank"}{:rel="noopener"}
@@ -85,7 +85,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 
 **Ministry of Manpower (MOM)**
 
-- [Apply for Employment Pass (Sponsorship Cases)](http://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/ep_sponsor_form8.pdf){:target="_blank"}{:rel="noopener"}
+- [Apply for Employment Pass (Sponsorship Cases) (PDF, 1,468 KB)](http://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/ep_sponsor_form8.pdf){:target="_blank"}{:rel="noopener"}
   <br>Application form for an Employment Pass for sponsorship cases.
 
 - [Cancel Employment Pass (Sponsorship Cases)](https://form.gov.sg/#!/5a681dc0c2c5676e005c35d8){:target="_blank"}{:rel="noopener"}
@@ -95,7 +95,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 
 **Ministry of Manpower (MOM)**
 
-- [Amend Employees' Personal Particulars](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/amendment-of-pass-holder-personal-particulars-form.pdf){:target="_blank"}{:rel="noopener"}
+- [Amend Employees' Personal Particulars (PDF, 111 KB)](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/amendment-of-pass-holder-personal-particulars-form.pdf){:target="_blank"}{:rel="noopener"}
   <br>Request form to amend a pass holder's personal particulars.
 
 - [Online Foreign Worker Address Service (OFWAS)](https://www.mom.gov.sg/eservices/services/ofwas){:target="_blank"}{:rel="noopener"}

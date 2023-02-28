@@ -51,6 +51,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3981' target='_blank'>FLEETEYE</a><br></td>
 <td>ACE PRIME ROBOTICS</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4067' target='_blank'>ZoneSafe Proximity Warning Systems Version V03</a><br></td>
+<td>Automation Support Services Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
