@@ -2,7 +2,7 @@
 
 const custom_notifications = [
   //[**ADHOC**]
-  "Due to technical difficulties, existing N1, N2, N3, N4, IR1, IR2 and IR3 licences and R1 registration are currently not available for amendment, renewal, and cancellation until further notice. Please do not submit a new application in place of an amendment or renewal. We apologise for the inconvenience caused.",
+  "Due to technical difficulties, existing N1, N2, N3, N4, IR1, IR2 and IR3 licences and R1 registration are currently not available for amendment, renewal, and cancellation until further notice. For urgent amendments or renewals, please contact NEA via NEA's online feedback form or myENV app. We apologise for the inconvenience caused.",
 
   //"<b>[Attention: System Maintenance]</b> GoBusiness payment service is unavailable due to maintenance on 8 Dec 2022 12pm to 2pm. We apologise for the inconvenience caused.",
   //[**L1T adhoc**]
