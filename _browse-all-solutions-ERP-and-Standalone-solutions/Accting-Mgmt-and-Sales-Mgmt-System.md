@@ -188,10 +188,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>RDC CORPORATE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3515' target='_blank'>DS: Xero</a><br></td>
-<td>Dedicated Solutions Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3535' target='_blank'>ASFA Xero Accounting Software</a><br></td>
 <td>ASFA MANAGEMENT PTE. LTD.</td>
 </tr>
@@ -290,6 +286,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4035' target='_blank'>Xero</a><br></td>
 <td>ACE BUSINESS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4043' target='_blank'>ASL Advisory - Xero accounting software</a><br></td>
+<td>ASL Advisory Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4069' target='_blank'>A-Class Accounting & Sales Management by Sleek</a><br></td>
+<td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 </table>
 

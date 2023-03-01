@@ -10,7 +10,7 @@ Public Utilities Board (PUB)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=268" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/378fd089-0d2a-47f8-a8af-665d5adcf4a8" type="primary" %} 
 
 <H3>Application Details</H3>
 
@@ -59,7 +59,7 @@ Sanitary Works (Used Water)<br><br>
 (a) Possess a Builder Certificate/Advanced Builder Certificate in Plumbing & Pipe Fitting or Trade Diploma in Plumbing Technology issued by the BCA Academy or Nitec Certificate in Facility Technology issued by ITE; OR<br> 
 Diploma or Degree in Civil, Building, Environmental or Mechanical Engineering disciplines with at least a Builder Certificate in Plumbing & Pipe Fitting (Practical) AND<br><br>
 
-(b) At least 2 years' relevant post-qualification experience or concurrent experience. You must show proof that you are working under a licensed plumber's supervision during that period.<br>
+(b) At least 2 years' relevant post-qualification experience and must show proof that you were working under a licensed plumber's supervision during that period<br>
 </li>
 
 <li>
@@ -77,11 +77,10 @@ We will inform you of the outcome of your application after 4 weeks of closing d
 
 <li>
 <strong>Upon acceptance of my application, what do I need to do?</strong><br>
-You will be required to attend a 3 days course which will be conducted by PUB. Upon completion of the course, you are required to sit for a written and oral assessment. Upon passing the assessments, a licence will be issued.
+You will be required to attend a mandatory 40-hour mentorship programme which will be conducted by Singapore Plumbing Society. As part of the overall efforts to uplift standards in the plumbing industry, this mentorship programme will ensure that you are equipped with the necessary practical skill sets and industry knowledge. Upon completion of the programme, you are required to sit for a written and oral assessment. A licence will be issued if you pass the assessments.
 </li>
 
 </ol>
-
 
 <strong>Additional Information</strong>
 

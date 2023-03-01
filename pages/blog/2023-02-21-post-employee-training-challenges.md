@@ -82,5 +82,5 @@ Check out the Guide for tips on [how to build a workplace learning culture](/ski
 
 **Also make use of the GoBusiness [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to access a personalised list of recommendations for available training courses, subsidies and grants, as well as other upskilling resources!**
 
-<em> This article is accurate as at 20 Feb 2023</em>
+<em> This article is accurate as at 21 Feb 2023</em>
 
