@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2032' target='_blank'>Armfort Security Visitor Management System Version 1.0</a><br></td>
-<td>ONE THIRD TECHNOLOGIES PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3030' target='_blank'>Nett VMS Version 4</a><br></td>
 <td>NettBox Pte Ltd</td>
 </tr>
