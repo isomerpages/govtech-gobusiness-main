@@ -23,7 +23,7 @@ Creative Sales and order management is an user friendly end-to end solution that
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SMEZ</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SME</td>
 <td style='padding: 10px;'>$9,800.00</td>
 <td style='padding: 10px;'>$9,800.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>

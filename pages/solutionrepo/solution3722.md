@@ -66,7 +66,7 @@ Brew Interactive's service packages range from 3 to 6 months long, and are flexi
 
 ## Vendor Information
 
- Company name:Brew Interactive Pte Ltd<br>Web URL: http://hubspot.com/ <br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com 
+ Company name:Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/digital-marketing-psg-packages/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
