@@ -24,10 +24,10 @@ ADAS and DSM System is a product based on deep-learning technology, the product 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Safety Management System Version 7 - 4 vehicles</td>
-<td style='padding: 10px;'>$9,980.00</td>
-<td style='padding: 10px;'>$8,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per vehicle</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Fleet_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>

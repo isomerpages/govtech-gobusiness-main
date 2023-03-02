@@ -8,7 +8,7 @@ third_nav_title: Public Utilities Board (PUB)
 
 Public Utilities Board (PUB)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/1a921483-c110-42ef-8653-ac292d8eed53" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/0b61857d-1be8-48da-9be1-86d037ff8ea7" type="primary" %}
 
 <H3>Application Details</H3>
 

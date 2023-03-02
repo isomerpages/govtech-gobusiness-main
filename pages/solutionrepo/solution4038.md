@@ -67,7 +67,7 @@ Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generati
 
 ## Vendor Information
 
- Company name:Hashmeta Pte Ltd<br>Web URL: https://shoppercliq.com/h5/pages/pc/pc?cburl=https%253A%252F%252Fshoppercliq.com%252Fh5%252F<br>Contact Hotline:62055931<br>Contact email:hello@hashmeta.com
+ Company name:Hashmeta Pte Ltd<br>Web URL: www.hashmeta.com<br>Contact Hotline:62055931<br>Contact email:hello@hashmeta.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
