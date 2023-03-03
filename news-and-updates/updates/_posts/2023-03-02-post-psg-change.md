@@ -5,7 +5,7 @@ permalink: /news-and-updates/updates/epjs
 published: true
 preview: |
   From 1 April 2023 onwards, the support level of the Productivity Solutions Grant will be up to 50% for all sectors.
-image: /images/news/EPJS-Launch.jpg
+image: /images/news/Update_PSG_Changes_2023.jpg
 ---
 
 <img src="/images/news/Update_PSG_Changes_2023.jpg" aria-hidden="true">
