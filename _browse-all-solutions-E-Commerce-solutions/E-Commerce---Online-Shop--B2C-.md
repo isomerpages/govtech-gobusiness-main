@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2046' target='_blank'>Alpha eCommerce Booster Version Premium</a><br></td>
-<td>ALPHABET SIX MARKETING SINGAPORE</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2124' target='_blank'>eCommerce Masterplan Version 1.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
@@ -162,6 +158,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3980' target='_blank'>Shopmatic</a><br></td>
 <td>Shopmatic Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4074' target='_blank'>Shopify</a><br></td>
+<td>Shopify Commerce Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4083' target='_blank'>3D Omni Commerce</a><br></td>
+<td>3D BRAND AGENCY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4088' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
+<td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 </table>
 

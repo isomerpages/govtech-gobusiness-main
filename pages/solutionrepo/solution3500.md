@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3500
 
 **Description**
 
-Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
 The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
 The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
 

@@ -29,7 +29,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2772' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
-<td>EPOS Pte. Ltd.</td>
+<td>EPOS Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2919' target='_blank'>AZ Digital POS solution</a><br></td>

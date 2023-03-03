@@ -30,20 +30,10 @@
   text_4: Licence guides
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
-- icon: '/images/Covid.svg'
-  alt: covid
-  title: Covid-19
-  id: 3
-  href_1: '/timelimitedrrt/?src=home_quicklinks'
-  text_1: Time limited RRT
-  href_2: '/safemanagement/general/?src=home_quicklinks'
-  text_2: Safe management measures
-  cta_href: '/covid/?src=home_quicklinks'
-  cta_text: Covid-19 overview
 - icon: '/images/govassist.png'
   alt: govassist
   title: Government Assistance
-  id: 4
+  id: 3
   href_1: /gov-assist/budget-announcement-for-businesses/
   text_1: Budget 2023
   is_new_1: true
@@ -60,3 +50,14 @@
   text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
+- icon: '/images/Explore.png'
+  alt: Explore More
+  title: Explore More
+  id: 4
+  href_1: '/enterprisejobskills/?src=home_quicklinks'
+  text_1: Enterprise Portal for Jobs and Skills (EPJS)
+  is_new_1: true
+  href_2: '/accreditation/?src=home_quicklinks'
+  text_2: Accreditation
+  href_3: '/gebiz-alerts/?src=home_quicklinks'
+  text_3: GeBIZ Alerts

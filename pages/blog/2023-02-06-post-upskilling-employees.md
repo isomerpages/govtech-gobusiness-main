@@ -35,26 +35,26 @@ According to a [study conducted by Randstand](https://www.humanresourcesonline.n
 
 To assess if upskilling is suitable for your employees, consider coming up with a Personal Development Plan, which provides a structured approach to career upskilling, encourages employees to take ownership over their own learning and professional growth, and helps you and your employees to focus on learning content and developing the most appropriate skills. 
 
-Unsure of how to get started? Check out the [SkillsFuture Series](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-series.html){:target="_blank"}{:rel="noopener"}, which provides training courses across emerging skills in the four economic growth pillars - Digital, Green, Care and Industry 4.0.  Offered across varying proficiency levels, these courses lend insight into up-and-coming industry trends, which can help you and your team gain a better understanding of how these trends impact your business transformation. 
+Unsure of how to get started? Check out the [SkillsFuture Series](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-series/), which provides training courses across emerging skills in the four economic growth pillars - Digital, Green, Care and Industry 4.0.  Offered across varying proficiency levels, these courses lend insight into up-and-coming industry trends, which can help you and your team gain a better understanding of how these trends impact your business transformation. 
 
 Discover an array of courses across different industries on MySkillsFuture, which offers courses and programmes dedicated to upskilling, such as the [SkillsFuture Work-Study Programme](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}. Supported by Institutes of Higher Learning (IHLs) and private training providers selected by SkillsFuture Singapore (SSG), this enables individuals to pursue further education and develop new skills and knowledge. 
 
 Aside from SkillsFuture, [Udemy Business](https://business.udemy.com/course-collection/?utm_source=organic-search&utm_medium=google){:target="_blank"}{:rel="noopener"} is another useful online learning platform that offers courses on technical and soft skills alike, and is [complimentary for individuals with a library membership](https://mobileapp.nlb.gov.sg/get-started-with/learn/){:target="_blank"}{:rel="noopener"}. 
 
-If you’re looking to further your digital transformation journey, don’t miss out on SkillsFuture courses such as the [Digital Transformation & Innovation Programme](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/digital-transformation-and-innovation-programme.html){:target="_blank"}{:rel="noopener"}. Under this course, trainees will be taught to use technologies to revise business strategies for greater digital transformation. 
+If you’re looking to further your digital transformation journey, don’t miss out on SkillsFuture courses such as the [Digital Transformation & Innovation Programme](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/). Under this course, trainees will be taught to use technologies to revise business strategies for greater digital transformation. 
 
 You can also turn to [LinkedIn Learning with Lynda](https://www.linkedin.com/learning/){:target="_blank"}{:rel="noopener"}, where you can access business, technology and creative courses taught by industry experts from various sectors, and get course recommendations based on your employees’ unique skill sets. 
 
 From business courses to webinars, build learning paths with your employees customised to the skills they wish to acquire, and get insights into their progress to ensure that they’re on the right track. 
 
 ![SkillsFuture Enterprise Portal for Jobs & Skills homepage](/images/blog/content/UpskillingEmployees 2.jpg)
-<figcaption> Deepen your team’s knowledge of strategies for digital transformation with the SkillsFuture Digital Transformation & Innovation Programme (Source: <a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/digital-transformation-and-innovation-programme.html">Enterprise Portal for Jobs & Skills</a>) </figcaption>
+<figcaption> Deepen your team’s knowledge of strategies for digital transformation with the SkillsFuture Digital Transformation & Innovation Programme (Source: <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/digital-transformation-innovation-programme/">Enterprise Portal for Jobs & Skills</a>) </figcaption>
 
 ### Get subsidies for training fees
 
 Upskilling doesn’t always have to be costly - there are many grants and subsidies available to help defray training expenses! 
 
-The [SkillsFuture Enterprise Credit](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/sfec.html){:target="_blank"}{:rel="noopener"} scheme is one resource you can turn to to defray the cost of upskilling. With the aim of supporting workforce transformation and enterprise transformation, eligible businesses can claim up to $10,000 for selected programmes by various government agencies, as well as courses aligned to job redesign initiatives and Skills Frameworks by Workforce Singapore. 
+The [SkillsFuture Enterprise Credit](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-enterprise-credit/) scheme is one resource you can turn to to defray the cost of upskilling. With the aim of supporting workforce transformation and enterprise transformation, eligible businesses can claim up to $10,000 for selected programmes by various government agencies, as well as courses aligned to job redesign initiatives and Skills Frameworks by Workforce Singapore. 
 
 The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www.imda.gov.sg/imtalent/programmes/citrep-plus){:target="_blank"}{:rel="noopener"} is yet another resource you can consider. Under this initiative, employees can bolster their ICT skills and enjoy funding support for course and certification fees.   
 

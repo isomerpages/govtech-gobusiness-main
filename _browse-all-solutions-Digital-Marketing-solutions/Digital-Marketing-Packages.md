@@ -179,6 +179,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4031' target='_blank'>DM 1103 Studios Digital Marketing Packages</a><br></td>
 <td>1103 STUDIOS PRIVATE LIMITED</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4038' target='_blank'>DM Hashmeta Digital Enablement Packages</a><br></td>
+<td>Hashmeta Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4085' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
+<td>Outrankco Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

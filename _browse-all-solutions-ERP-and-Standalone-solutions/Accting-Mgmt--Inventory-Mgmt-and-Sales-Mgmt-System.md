@@ -36,14 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2004' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>R Systems IBIZCS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2022' target='_blank'>ABSS - Accounting Consultancy</a><br></td>
-<td>Accounting Consultancy Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2652' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
@@ -122,6 +114,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3982' target='_blank'>ABSS Premier Version 30</a><br></td>
 <td>Dandelion Consulting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4060' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
+<td>Prosperage Pte Ltd</td>
 </tr>
 </table>
 

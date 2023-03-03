@@ -10,7 +10,7 @@ third_nav_title: Growth and Expansion
 
 Depending on your business sector and activities, there are various accreditations and certifications you can obtain to boost your business' credibility and improve consumer trust. Here is a list of relevant e-Services.
 
-The [Progressive Wage (PW) Mark](/accreditation/pwmark/) accrediation can be applied on GoBusiness directly. Below is a list of other relevant e-Services.
+The [Progressive Wage (PW) Mark](/accreditation/pwmark/) accreditation can be applied on GoBusiness directly. Below is a list of other relevant e-Services.
 
 ### e-Services for training and accreditation
 
@@ -34,5 +34,5 @@ The [Progressive Wage (PW) Mark](/accreditation/pwmark/) accrediation can be app
 
 **Singapore Accreditation Council (SAC)**
 
-- [Apply for Accreditation Services](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="_blank"}{:rel="noopener"}
+- [Apply for Accreditation Services](https://www.sac-accreditation.gov.sg/services/accreditation-services/apply-for-accreditation){:target="_blank"}{:rel="noopener"}
   <br>Apply for SAC accreditation as a conformity assessment body (CAB).
