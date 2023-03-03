@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3778
 
 **Description**
 
-With more than 8 years of experience, C.O Enterprise's 3 or 6 months Digital Marketing Packages help businesses gain mindshare, improve brand awareness and generate higher sales. All packages help clients with Facebook and Instagram marketing content generation, a 3-hour photoshoot, assessment of competitors, target audience and current state of digital presence and digital marketing strategy development including proposed brand positioning and campaign planning and development.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With more than 8 years of experience, C.O Enterprise's 3 or 6 months Digital Marketing Packages help businesses gain mindshare, improve brand awareness and generate higher sales. All packages help clients with Facebook and Instagram marketing content generation, a 3-hour photoshoot, assessment of competitors, target audience and current state of digital presence and digital marketing strategy development including proposed brand positioning and campaign planning and development.
 
 ## Solution Packages Option(s)
 
