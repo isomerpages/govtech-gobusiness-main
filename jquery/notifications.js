@@ -58,7 +58,7 @@ const custom_notifications = [
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 31 Dec 2022 11pm to 1 Jan 2023 12pm. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 3 Mar 2023 8pm to 4 Mar 2023 7am<br>(2) 5 Mar 2023 from 12am to 4pm",
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 3 Mar 2023 8pm to 4 Mar 2023 7am<br>(2) 5 Mar 2023 12am to 4pm",
 
   //[**APEX / EDH**]
   "<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 5 Mar 2023 from 1am to 8am. We apologise for the inconvenience caused."
