@@ -14,31 +14,24 @@ National Environment Agency (NEA)
 
 <H3>Application Details</H3>
 
-How do I pay for the licence fees?
-Only e-Payment (e.g. NETS, VISA, MasterCard, and American Express), GIRO payment and Government e-invoicing will be accepted. Fees paid or submitted are non-refundable. For more information regarding payment method, please refer to the NEA webpage on Guidelines for Licence Application.
-
-How do I change the mailing / billing address or point of contact(s) (e.g. name, contact number and e-mail address) associated with my radiation licences?
-Through the "Customer Profile and Worker Management eService" on NEA ePortal, radiation protection licensees, radiation workers and radiation service customers will be able to create, view and update customer profiles (e.g. update contact person details). Organisations or individuals can update the details within their customer profile at any time at no cost. You are strongly encouraged to ensure that customer profile details are kept up-to-date. For more information, please refer to NEA's webpage on FAQs on New eServices.
-
-I need more details about licence for importing and exporting a consignment of radioactive materials. Where can I find it?
-A licence is required for the import or export of a consignment of irradiating apparatus and radioactive materials and the licence should be applied through Singapore Customs' TradeNet system. This is usually done by declaring agents which handle the Customs permit declaration of cargoes moving in and out of Singapore. The importers / exporters should ensure that their IR1 licences are valid and have been updated to include the irradiating apparatus / radioactive materials. For more information, please refer to the NEA webpage on Information on Licence to Import or Export Irradiating Apparatus and Radioactive Materials.
-
-Who can I contact for further details regarding import or export of radiaoctive materials?
-For licensing enquiries, please contact the Radiation Protection and Nuclear Science Group (RPNSG) of the National Environment Agency (NEA) via NEA's Online Feedback Form or myENV app.
-
-Who can I contact for further details regarding transit or transhipment of nuclear material?
-Please consult NEA_RPNSD_Tranship_Transit@nea.gov.sg on your eligibility for transit/transhipment of nuclear material under the IAEA Convention on Physical Protection of Nuclear Material before submitting the application.
+<ol>
+<li><strong>How do I pay for the licence fees? </strong><br />Only e-Payment (e.g. VISA, MasterCard and American Express), GIRO payment and Government e-invoicing will be accepted. Fees paid or submitted are non-refundable. For more information regarding payment method, please refer to the NEA webpage on <a href="https://www.nea.gov.sg/our-services/radiation-safety/guidelines-for-licence-application-and-annual-payment" target="_blank" rel="noopener">Guidelines for Licence Application</a>.<br /><br /></li>
+<li><strong>How do I change the mailing/billing address or point of contact(s) (e.g. name, contact number and e-mail address) associated with my radiation licences? </strong><br />Through the "Customer Profile and Worker Management eService" on NEA ePortal, radiation protection licensees, radiation workers and radiation service customers will be able to create, view and update customer profiles (e.g. update contact person details). Organisations or individuals can update the details within their customer profile at any time at no cost. You are strongly encouraged to ensure that customer profile details are kept up-to-date. For more information, please refer to NEA's webpage on <a href="https://www.nea.gov.sg/our-services/radiation-safety/changes-in-2023/faqs-on-new-eservices" target="_blank" rel="noopener">FAQs on New eServices</a>.<br /><br /></li>
+<li><strong>I need more details about licence for importing and exporting a consignment of radioactive materials. Where can I find it? </strong><br />A licence is required for the import or export of a consignment of irradiating apparatus and radioactive materials and the licence should be applied through Singapore Customs' TradeNet system. This is usually done by declaring agents which handle the Customs permit declaration of cargoes moving in and out of Singapore. The importers/exporters should ensure that their IR1 licences are valid and have been updated to include the irradiating apparatus/radioactive materials. For more information, please refer to the NEA webpage on <a href="https://www.nea.gov.sg/our-services/radiation-safety/information-on-licence-to-import-or-export-irradiating-apparatus-and-radioactive-materials" target="_blank" rel="noopener">Information on Licence to Import or Export Irradiating Apparatus and Radioactive Materials</a>.<br /><br /></li>
+<li><strong>Who can I contact for further details regarding import or export of radioactive materials? </strong><br />For licensing enquiries, please contact the Radiation Protection and Nuclear Science Group (RPNSG) of the National Environment Agency (NEA) via <a href="https://www.nea.gov.sg/corporate-functions/feedback" target="_blank" rel="noopener">NEA's Online Feedback Form</a> or myENV app.<br /><br /></li>
+<li><strong>Who can I contact for further details regarding transit or transhipment of nuclear material? </strong><br />Please consult NEA_RPNSD_Tranship_Transit@nea.gov.sg on your eligibility for transit/transhipment of nuclear material under the IAEA Convention on Physical Protection of Nuclear Material before submitting the application.</li>
+</ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong></p>
-<p>$40</p>
+<p><strong>Licence Fees:<br /></strong>$40</p>
+<p><strong>Licence Validity:</strong><br />IR5A/B - 30 days<br />IR5C - Licence start date is 2 weeks before expected transit/tranship date in Singapore, and expiry date is 2 weeks after expected transit/tranship date in Singapore</p>
 
 <H3>Requirements</H3>
 
 <ol>
-<li>The company must have a valid UEN.</li>
-<li>The company must comply with the Radiation Protection Act and its subsidiary Regulations.</li>
+<li>The company must have a valid UEN.<br /><br /></li>
+<li>The company must comply with the Radiation Protection Act and its subsidiary Regulations.<br /><br /></li>
 <li>NEA will inform the applicant if any additional information or documentation is required to support the application.</li>
 </ol>
 
