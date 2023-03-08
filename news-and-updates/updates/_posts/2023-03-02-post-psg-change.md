@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Productivity Solutions Grant support level to 50% from 1 April 2023'
+title: 'Productivity Solutions Grant support level up to 50% from 1 April 2023'
 permalink: /news-and-updates/updates/psg2023update
 published: true
 preview: |
-  From 1 April 2023 onwards, the support level of the Productivity Solutions Grant will be up to 50% for all sectors.
+  From 1 April 2023 onwards, the maximum support level of the Productivity Solutions Grant will be up to 50% for all sectors.
 image: /images/news/Update_PSG_Changes_2023.jpg
 ---
 
