@@ -63,6 +63,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3712' target='_blank'>1SME</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4094' target='_blank'>QuickDesk Marketing</a><br></td>
+<td>QuickDesk Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

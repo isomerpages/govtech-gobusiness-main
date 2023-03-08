@@ -63,6 +63,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4078' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4089' target='_blank'>GenicDocs - Document Management Software</a><br></td>
+<td>Business Thrust Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
