@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Change in Productivity Solutions Grant maximum support level to 50% from 1 April 2023'
+title: 'Productivity Solutions Grant support level to 50% from 1 April 2023'
 permalink: /news-and-updates/updates/psg2023update
 published: true
 preview: |
@@ -14,7 +14,7 @@ The Productivity Solutions Grant was announced at Budget 2018 at a maximum suppo
 
 More broadly, the Government’s support schemes focus on helping companies that are prepared to take steps to restructure their businesses and raise their productivity. These are longer-term investments, for which companies should be equally invested as the Government in building capabilities.
 
-Nonetheless, should there be exceptionally challenging circumstances in the future, the Government will relook our support for businesses and consider re-introducing enhanced support. 
+Nonetheless, should there be exceptionally challenging circumstances in the future, the Government will relook its support for businesses and consider re-introducing enhanced support. 
 
 
 <script src="/jquery/jquery.min.js"></script>
