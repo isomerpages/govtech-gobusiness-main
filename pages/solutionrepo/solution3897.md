@@ -64,7 +64,7 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://aiidevelop.com/support-sme-covid-19/ <br>Contact Hotline: 90050705 <br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company name:AII DEVELOP PTE LTD<br>Web URL: https://www.aiidevelop.com.sg/psg-digital-marketing-grant/ <br>Contact Hotline: 88968305<br>Contact Email: SUPPORT@AIIDEVELOP.COM 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
