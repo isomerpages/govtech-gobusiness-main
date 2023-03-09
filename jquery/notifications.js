@@ -53,7 +53,7 @@ const custom_notifications = [
 
 
   //[PWMark]
-  "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will unavailable due to scheduled maintenance on 12 Mar 2023 from 12am to 8am. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance on 12 Mar 2023 from 12am to 8am. We apologise for the inconvenience caused."
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
