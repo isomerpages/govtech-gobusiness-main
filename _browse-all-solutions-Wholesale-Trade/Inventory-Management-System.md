@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Wholesale-Trade/Inventory-Management-System
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Enterprise Singapore (EnterpriseSG).
+This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 
 **Recommended courses**
 
