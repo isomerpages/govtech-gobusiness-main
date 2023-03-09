@@ -24,9 +24,9 @@ Synergix software is a web and browser-based digital solution built for local SM
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
-<td style='padding: 10px;'>$36,780.00</td>
+<td style='padding: 10px;'>$39,420.00</td>
 <td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

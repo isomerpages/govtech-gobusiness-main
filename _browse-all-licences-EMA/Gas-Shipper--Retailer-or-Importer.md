@@ -23,21 +23,22 @@ Energy Market Authority (EMA)
 <p><u>Gas Importer</u></p>
 <p>Gas importers are entites permitted to import piped or liquefied natural gas (LNG) to Singapore.</p>
 
-<h3>FAQ</strong></h3>
+<h3><strong>FAQ</strong></h3>
 <ol>
 <li>
 <strong>Do I need to apply for this licence?</strong><br>
 You will require a licence from EMA to engage in the import of natural gas.<br>
-You will also need a licence from EMA for shipping and retailing of natural gas using the gas pipelines network (i.e. sales of LPG, CNG or other chemical products not conveyed through the gas pipeline network will not need a licence from EMA).</br>
+You will also need a licence from EMA for shipping and retailing of natural gas using the gas pipelines network (i.e. sales of LPG, CNG or other chemical products not conveyed through the gas pipeline network will not need a licence from EMA).<br>
 For the actual definitions, please refer to section 6 of the Gas Act.</li>
 <li>
 <strong>Are there any regulations for the licensee to comply to?</strong><br>
-Depending on the type of Gas Licence, the Licensee shall be subject to and shall comply with:.</br>
-a) Gas Supply Code;</br>
-b) Gas Safety Code;</br>
-c) Gas Metering Code;</br>
-d) Gas Retailer Code of Conduct; and/or</br>
+Depending on the type of Gas Licence, the Licensee shall be subject to and shall comply with:.<br>
+a) Gas Supply Code;<br>
+b) Gas Safety Code;<br>
+c) Gas Metering Code;<br>
+d) Gas Retailer Code of Conduct; and/or<br>
 e) any other relevant codes of practice under Section 62 of the Gas Act.</li>
+</ol>
 
 <strong>Additional Information</strong>
 
@@ -48,7 +49,7 @@ You may contact EMA directly if you require further details on the fees for each
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong></br>
+<li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br>
 Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress.<br /><br />For new applications: Newly incorporated companies which could not provide any audited statements, balance sheets, cash flow statements and credit statement may alternatively submit a 5-year projected financial statements, critical assumptions on the financial projection, proposed capital structure and an expense breakdown.
 <br>File format: pdf, doc, docx, xls, xlsx
 <br>Maximum upload per application: 5 MB</li>

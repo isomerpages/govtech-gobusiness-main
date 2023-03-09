@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Digital-Marketing-solutions/Digital-Marketing-P
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 70% for SMEs,  for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -178,6 +178,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4031' target='_blank'>DM 1103 Studios Digital Marketing Packages</a><br></td>
 <td>1103 STUDIOS PRIVATE LIMITED</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4038' target='_blank'>DM Hashmeta Digital Enablement Packages</a><br></td>
+<td>Hashmeta Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4085' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
+<td>Outrankco Pte Ltd</td>
 </tr>
 </table>
 

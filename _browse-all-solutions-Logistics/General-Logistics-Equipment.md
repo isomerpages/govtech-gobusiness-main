@@ -39,6 +39,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution787' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
 <td></td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3477' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
+<td></td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

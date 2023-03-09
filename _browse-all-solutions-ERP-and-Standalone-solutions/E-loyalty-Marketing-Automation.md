@@ -27,6 +27,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3871' target='_blank'>Trueblu CRM Version 3.8</a><br></td>
 <td>Active Interactions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4053' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
+<td>EPOS Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
