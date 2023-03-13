@@ -171,6 +171,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4088' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4099' target='_blank'>Ecommerce Online Shop with Custom Design</a><br></td>
+<td>VUE TECH PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4101' target='_blank'>Mobile Responsive E-Commerce</a><br></td>
+<td>WEB IMP PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
