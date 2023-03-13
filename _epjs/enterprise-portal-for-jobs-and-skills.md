@@ -14,10 +14,10 @@ permalink: /enterprisejobskills/
 
 ### What's New
 
+- [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=epjs_whatsnew)
 - [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"}
-- [SkillsFuture Funding Changes](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/)
-- [Study on Returns to Employer Sponsored Training](/images/epjs/whats-new/epjs-mti-ssg-study-aug21.pdf){:target="_blank"}{:rel="noopener"}
-- [Skills Demand For Future Economy Report](/images/epjs/whats-new/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf){:target="_blank"}{:rel="noopener"}
+- [SkillsFuture Funding Changes](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/?src=epjs_whatsnew)
+- [Skills Demand For Future Economy Report](/images/epjs/whats-new/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf?src=epjs_whatsnew){:target="_blank"}{:rel="noopener"}
 
 ---
 
