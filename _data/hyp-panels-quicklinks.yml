@@ -6,7 +6,7 @@ panels:
       - text: "e-Adviser for Skills Training"
         href: https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices
         target: _blank
-        is_new: true
+        is_new: false
       - text: "e-Adviser for Home-Based Business"
         href: https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices
         target: _blank
