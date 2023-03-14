@@ -15,7 +15,26 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2023.
 
-{% include subscribe-mailer.html title="Want to get the latest updates?" url="https://www.gobusiness.gov.sg/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
+#### List of Government Assistance related schemes:
+
+#### Grants
+
+{% include letter-accordion.html accordions=site.data.acc074-budget letter="a" %}
+
+#### Loans
+
+{% include letter-accordion.html accordions=site.data.acc074-budget letter="b" %}
+
+#### Toolkits / Programmes
+
+{% include letter-accordion.html accordions=site.data.acc074-budget letter="c" %}
+
+### Find relevant schemes for your businesses
+
+Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2023 support schemes and programmes.
+
+{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_budget" type="primary" %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
