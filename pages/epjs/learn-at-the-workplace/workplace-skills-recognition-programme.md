@@ -7,7 +7,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplac
 
 The Workplace Skills Recognition (WPSR) programme aims to help enterprises, particularly SMEs, build a foundation in workplace learning and recognise skills trained at the workplace. 
  
-Enterprises that have established systems and processes to support on-the-job training can approach the National Centre of Excellence for Workplace Learning (NACE) to assess the readiness of your organisation to meet the Workplace Learning: Ready (WPL:READY) requirements and apply for the certification.
+Enterprises that have established systems and processes to support on-the-job training can approach the National Centre of Excellence for Workplace Learning (NACE) to assess the readiness of your organisation to meet the Workplace Learning:Ready (WPL:READY) requirements and apply for the certification.
 
 Attaining the WPL:READY mark under the WPSR will enable you to fast track skills assessment and help your workers gain formal recognition of the skills they have developed at the workplace, without the need to go for external training.
 
